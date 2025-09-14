@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Pisces Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Pisces-Shield.webp#right)  
 
 - **Armor Class**: 2

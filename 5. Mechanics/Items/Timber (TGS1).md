@@ -11,11 +11,11 @@ tags:
 aliases:
   - Timber
 one-hand-damage: 1d6 slashing
-range: 20\60
+range: 20/60
 weight: 2
 ---
 # Timber
-*Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Timber.webp#right)  
 
 - **Damage**: 1d6 slashing

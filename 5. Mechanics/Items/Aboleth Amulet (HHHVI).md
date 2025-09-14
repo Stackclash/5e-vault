@@ -13,7 +13,7 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 
-This pale turquoise amulet seems to have a faint flicker of something moving in it, like seeing a creature in murky waters. While wearing this amulet, you gain [[5. Mechanics/Spells/Telepathy.md\|telepathy]] out to a range of 120 ft., can understand and speak Deep Speech, and become proficient in Intelligence ([[/5. Mechanics/Rules/Skills.md#History\|History]]) checks if you weren't proficient already.
+This pale turquoise amulet seems to have a faint flicker of something moving in it, like seeing a creature in murky waters. While wearing this amulet, you gain [[/5. Mechanics/Spells/Telepathy.md\|telepathy]] out to a range of 120 ft., can understand and speak Deep Speech, and become proficient in Intelligence ([[/5. Mechanics/Rules/Skills.md#History\|History]]) checks if you weren't proficient already.
 
 You may also spend an action to target one creature you can see within 30 feet of you. That target must succeed on a DC 14 Wisdom saving throw or be magically [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you. This charm persists until either you or the target dies, or if you are on different planes of existence. You and the [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] target may communicate with each other telepathically over any distance so long as you are wearing and attuned to this item.
 

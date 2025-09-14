@@ -41,7 +41,7 @@ The queen moves up to 60 feet in a straight line. At the end of the movement, th
 
 ## King (1):
 
-When you invoke the king, you cast [[5. Mechanics/Spells/Antilife Shell.md\|antilife shell]] from it. If you haven't expended the use of all your rooks, you can also expend one of their uses as part of the same action to teleport to an unoccupied space that you can see within 30 feet of you.
+When you invoke the king, you cast [[/5. Mechanics/Spells/Antilife Shell.md\|antilife shell]] from it. If you haven't expended the use of all your rooks, you can also expend one of their uses as part of the same action to teleport to an unoccupied space that you can see within 30 feet of you.
 
 A spectral piece disappears immediately after it's used. A piece's movement is blocked by total cover. A complete set has 16 pawns, 4 bishops, 4 knights, 4 rooks, 2 queens, and 2 kings. You add your proficiency bonus to any check you make to play a game with the chess set.
 

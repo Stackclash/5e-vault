@@ -10,4 +10,4 @@ aliases:
 # Armor of Shadows
 *Source: Player's Handbook p. 110. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-You can cast [[5. Mechanics/Spells/Mage Armor.md\|mage armor]] on yourself at will, without expending a spell slot or material components.
+You can cast [[/5. Mechanics/Spells/Mage Armor.md\|mage armor]] on yourself at will, without expending a spell slot or material components.

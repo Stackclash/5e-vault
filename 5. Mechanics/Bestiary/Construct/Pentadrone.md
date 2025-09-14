@@ -13,7 +13,7 @@ tags:
 aliases:
   - Pentadrone
 ---
-# [[5. Mechanics\Bestiary\Construct\Pentadrone.md|Pentadrone]]
+# [[5. Mechanics/Bestiary/Construct/Pentadrone.md|Pentadrone]]
 *Source: Monster Manual p. 226*
 
 Pentadrones oversee Mechanus's worker populace and can improvise in response to new situations.
@@ -71,7 +71,8 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
-"senses": "truesight 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 14"
 "languages": "Modron"
 "cr": "2"
 "traits":
@@ -84,7 +85,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "actions":
   - "desc": "The pentadrone makes five arm attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) bludgeoning damage."
     "name": "Arm"
   - "desc": "The pentadrone exhales a 30-foot cone of gas. Each creature in that area\
@@ -94,7 +95,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
     "name": "Paralysis Gas (Recharge 5-6)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Construct/token/pentadrone.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/pentadrone.webp"
 ```
 ^statblock
 

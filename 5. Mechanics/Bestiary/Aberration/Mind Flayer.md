@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mind Flayer
 ---
-# [[5. Mechanics\Bestiary\Aberration\Mind Flayer.md|Mind Flayer]]
+# [[5. Mechanics/Bestiary/Aberration/Mind Flayer.md|Mind Flayer]]
 *Source: Monster Manual p. 222, Tasha's Cauldron of Everything*
 
 Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.
@@ -50,7 +50,7 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 "type": "aberration"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
+"ac_class": "[[/5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "modifier": !!int "1"
@@ -63,9 +63,9 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
   - !!int "17"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+7"
-  - "wisdom": "+6"
-  - "charisma": "+6"
+  - "intelligence": !!int "7"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+7"
@@ -79,28 +79,29 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 16"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "7"
 "traits":
   - "desc": "The mind flayer's innate spellcasting ability is Intelligence (spell\
       \ save DC 15). It can innately cast the following spells, requiring no components:\n\
-      \nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Levitate.md|levitate]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]],\
-      \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)"
+      \n**At will:** [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/5. Mechanics/Spells/Levitate.md|levitate]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Dominate Monster.md|dominate monster]],\
+      \ [[/5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "The mind flayer has advantage on saving throws against spells and other\
       \ magical effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 15\
       \ (2d10 + 4) psychic damage. If the target is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be\
       \ [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] until this grapple ends."
     "name": "Tentacles"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
       \ humanoid [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] by the mind\
-      \ flayer. Hit: The target takes 55 (10d10) piercing damage. If this damage\
+      \ flayer. *Hit:* The target takes 55 (10d10) piercing damage. If this damage\
       \ reduces the target to 0 hit points, the mind flayer kills the target by extracting\
       \ and devouring its brain."
     "name": "Extract Brain"
@@ -113,7 +114,7 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Aberration/token/mind-flayer.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/mind-flayer.webp"
 ```
 ^statblock
 

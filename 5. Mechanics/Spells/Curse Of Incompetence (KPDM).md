@@ -22,15 +22,18 @@ classes:
   - Wizard
 school: Necromancy
 level: 3
+saving_throw:
+  skills:
+    - Intelligence
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Curse of Incompetence
-concentration: true
 ---
 # Curse of Incompetence
 *3rd-level, Necromancy*  
@@ -54,6 +57,6 @@ By making mocking gestures toward one creature within range that can see you, yo
 | 4 | Target charges directly at caster, enraged. |
 ^curse-of-incompetence
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 56*

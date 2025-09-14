@@ -11,7 +11,7 @@ weight: 3
 ---
 # Orb of Direction
 *Wondrous item, minor, common*  
-![[5. Mechanics/Items/img/orb-of-direction.webp#right]]  
+![[/5. Mechanics/Items/img/orb-of-direction.webp#right]]  
 
 - **Weight**: 3.0 lbs.
 

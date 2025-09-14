@@ -73,9 +73,9 @@ You've created a star chart as part of your heavenly studies. It is a Tiny objec
 
 While holding this map, you have these benefits:
 
-- You know the [[5. Mechanics/Spells/Guidance.md\|guidance]] cantrip.  
-- You have the [[5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]] spell prepared. It counts as a druid spell for you, and it doesn't count against the number of spells you can have prepared.  
-- You can cast [[5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]] without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.  
+- You know the [[/5. Mechanics/Spells/Guidance.md\|guidance]] cantrip.  
+- You have the [[/5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]] spell prepared. It counts as a druid spell for you, and it doesn't count against the number of spells you can have prepared.  
+- You can cast [[/5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]] without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.  
 
 If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a short or long rest, and it destroys the previous map.
 
@@ -91,11 +91,11 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 ### Archer (Level 2)
 
-A constellation of an archer appears on you. When you activate this form, and as a bonus action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to `dice:1d8|noform|noparens|avg` (`d8`) + your Wisdom modifier.
+A constellation of an archer appears on you. When you activate this form, and as a bonus action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to `dice:1d8|noform|noparens|avg` (`1d8`) + your Wisdom modifier.
 
 ### Chalice (Level 2)
 
-A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to `dice:1d8|noform|noparens|avg` (`d8`) + your Wisdom modifier.
+A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores hit points to a creature, you or another creature within 30 feet of you can regain hit points equal to `dice:1d8|noform|noparens|avg` (`1d8`) + your Wisdom modifier.
 
 ### Dragon (Level 2)
 
@@ -116,7 +116,7 @@ You can use this reaction a number of times equal to your proficiency bonus, and
 
 *10th-level Circle of the Stars feature*
 
-The constellations of your Starry Form improve. The `dice:1d8|noform|noparens|avg` (`d8`) of the Archer and the Chalice becomes `dice:2d8|noform|noparens|avg` (`2d8`), and while the Dragon is active, you have a flying speed of 20 feet and can hover.
+The constellations of your Starry Form improve. The `dice:1d8|noform|noparens|avg` (`1d8`) of the Archer and the Chalice becomes `dice:2d8|noform|noparens|avg` (`2d8`), and while the Dragon is active, you have a flying speed of 20 feet and can hover.
 
 Moreover, at the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.
 

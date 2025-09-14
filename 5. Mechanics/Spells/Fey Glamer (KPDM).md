@@ -15,15 +15,13 @@ school: Illusion
 level: 1
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: Touch
+somatic: true
+verbal: true
+material: a pinch of powdered mica
 aliases:
   - Fey Glamer
-concentration: true
-material: a pinch of powdered mica
 ---
 # Fey Glamer
 *1st-level, Illusion*  
@@ -35,6 +33,8 @@ material: a pinch of powdered mica
 
 You lay a glamer upon a touched creature that makes it more interesting, attractive, and compelling. For the duration of the spell, the target has advantage on all Charisma checks.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Shadow Touched (TCE).md\|Shadow Touched]]
 
 *Source: Deep Magic p. 69*

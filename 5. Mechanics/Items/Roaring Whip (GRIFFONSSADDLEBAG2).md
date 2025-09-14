@@ -13,7 +13,7 @@ one-hand-damage: 1d4 slashing
 weight: 3
 ---
 # Roaring Whip
-*Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Roaring-Whip.webp#right)  
 
 - **Damage**: 1d4 slashing

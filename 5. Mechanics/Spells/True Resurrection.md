@@ -19,16 +19,14 @@ level: 9
 ritual: false
 time: 1 hour
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: >-
+  a sprinkle of holy water and diamonds worth at least 25,000 gp, which the
+  spell consumes
 aliases:
   - True Resurrection
-range: Touch
-material: >-
-  A sprinkle of holy water and diamonds worth at least 25,000gp, which the spell
-  consumes.
 ---
 # True Resurrection
 *9th-level, Necromancy*  
@@ -44,6 +42,6 @@ This spell closes all wounds, neutralizes any poison, cures all diseases, and li
 
 The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

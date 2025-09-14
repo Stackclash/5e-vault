@@ -13,7 +13,7 @@ tags:
 aliases:
   - Ultroloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Ultroloth.md|Ultroloth]]
+# [[5. Mechanics/Bestiary/Fiend/Ultroloth.md|Ultroloth]]
 *Source: Monster Manual p. 314*
 
 Ultroloths command the yugoloth armies of the Blood War. An ultroloth looks like a slender gray-skinned humanoid with an elongated head. Its face bears no features except for two ovoid eyes. These eyes can become sparkling pools of light that can transfix other creatures and leave them reeling and helpless.
@@ -62,8 +62,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > 
 > - An arcanaloth has a 40 percent chance of summoning one arcanaloth.  
 > - A mezzoloth has a 30 percent chance of summoning one mezzoloth.  
-> - A nycaloth has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) mezzoloths or one nycaloth.  
-> - An ultroloth has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) mezzoloths, `dice:1d4|noform|noparens|avg` (`d4`) nycaloths, or one ultroloth.  
+> - A nycaloth has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`1d4`) mezzoloths or one nycaloth.  
+> - An ultroloth has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`1d6`) mezzoloths, `dice:1d4|noform|noparens|avg` (`1d4`) nycaloths, or one ultroloth.  
 > 
 > A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for l minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it
 ^variant-yugoloth-summoning
@@ -104,20 +104,21 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "damage_immunities": "acid, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 17"
 "languages": "Abyssal, Infernal, telepathy 120 ft."
 "cr": "13"
 "traits":
   - "desc": "The ultroloth's innate spellcasting ability is Charisma (spell save DC\
       \ 17). The ultroloth can innately cast the following spells, requiring no material\
-      \ components:\n\nAt will: [[5. Mechanics/Spells/Alter Self.md|alter self]],\
-      \ [[5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
-      \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
-      \ (self only), [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3/day each:\
-      \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Fear.md|fear]],\
-      \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\n1/day each: [[5. Mechanics/Spells/Fire Storm.md|fire\
-      \ storm]], [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]"
+      \ components:\n\n**At will:** [[/5. Mechanics/Spells/Alter Self.md|alter self]],\
+      \ [[/5. Mechanics/Spells/Clairvoyance.md|clairvoyance]], [[/5. Mechanics/Spells/Darkness.md|darkness]],\
+      \ [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]]\
+      \ (self only), [[/5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n**3/day each:**\
+      \ [[/5. Mechanics/Spells/Dimension Door.md|dimension door]], [[/5. Mechanics/Spells/Fear.md|fear]],\
+      \ [[/5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\n**1/day each:** [[/5. Mechanics/Spells/Fire Storm.md|fire\
+      \ storm]], [[/5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]"
     "name": "Innate Spellcasting"
   - "desc": "The ultroloth has advantage on saving throws against spells and other\
       \ magical effects."
@@ -127,7 +128,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "actions":
   - "desc": "The ultroloth can use its Hypnotic Gaze and makes three melee attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
     "name": "Longsword"
   - "desc": "The ultroloth's eyes sparkle with opalescent light as it targets one\
@@ -144,7 +145,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     "name": "Teleport"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Fiend/token/ultroloth.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/ultroloth.webp"
 ```
 ^statblock
 

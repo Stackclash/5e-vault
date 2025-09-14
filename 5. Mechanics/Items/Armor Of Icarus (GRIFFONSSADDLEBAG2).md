@@ -13,7 +13,7 @@ armorClass: 14 + Dex modifier (max of +2)
 weight: 20
 ---
 # Armor of Icarus
-*Medium armor ([[5. Mechanics/Items/Breastplate.md\|breastplate]]), major, rare (requires attunement)*  
+*Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Armor-of-Icarus.webp#right)  
 
 - **Armor Class**: 14 + Dex modifier (max of +2)

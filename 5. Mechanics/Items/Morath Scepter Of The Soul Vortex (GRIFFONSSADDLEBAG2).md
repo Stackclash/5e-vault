@@ -17,7 +17,7 @@ aliases:
 
 This torch-like scepter almost hums with necrotic energy and appeared when the first soul was returned to the Material Plane after its death. Since then, it has been lost and found throughout its gruesome, storied history.
 
-While attuned to the rod, you have resistance to necrotic damage, and you know the [[5. Mechanics/Spells/Chill Touch.md\|chill touch]] cantrip as if it were from your class's spell list. If you are a warlock, you also gain a +3 bonus to your spell attack rolls and saving throw DCs of your warlock spells while holding the rod.
+While attuned to the rod, you have resistance to necrotic damage, and you know the [[/5. Mechanics/Spells/Chill Touch.md\|chill touch]] cantrip as if it were from your class's spell list. If you are a warlock, you also gain a +3 bonus to your spell attack rolls and saving throw DCs of your warlock spells while holding the rod.
 
 An eerie, green flame erupts from the head of this rod when you hold it, shedding bright light in a 20-foot radius and dim light for an additional 20 feet. While holding the rod, you can use a bonus action to mentally snuff out or relight the flames. While the flames are lit, you can use an action to make a ranged spell attack with it, using your spell attack bonus, out to a range of 30 feet. When you do, the flaming rod emits a phantasmal skull that flies out to attack the target. On a hit, the target takes `dice:3d8|noform|noparens|avg` (`3d8`) necrotic damage, and if the target is a creature, you regain hit points equal to half the amount of necrotic damage dealt. The skull disappears immediately after the attack.
 
@@ -25,21 +25,21 @@ An eerie, green flame erupts from the head of this rod when you hold it, sheddin
 
 Morath, the Scepter of the Soul Vertex has the following random properties:
 
-- 1 [[5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial property]]  
-- 1 [[5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental property]]  
-- 1 [[5. Mechanics/Tables/Artifact Properties Major Detrimental Properties.md\|major detrimental property]]  
+- 1 [[/5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial property]]  
+- 1 [[/5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental property]]  
+- 1 [[/5. Mechanics/Tables/Artifact Properties Major Detrimental Properties.md\|major detrimental property]]  
 
 ## Spells
 
-The rod has 8 charges and regains `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) expended charges daily at dawn. When you reduce a humanoid to 0 hit points, the rod regains 1 expended charge. While holding the rod, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell attack bonus and spell save DC: [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] (1 charge), [[5. Mechanics/Spells/Circle Of Death.md\|circle of death]] (4 charges), [[5. Mechanics/Spells/Confusion.md\|confusion]] (2 charges), [[5. Mechanics/Spells/Insect Plague.md\|insect plague]] (3 charges), [[5. Mechanics/Spells/Ray Of Enfeeblement.md\|ray of enfeeblement]] (1 charge), or [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] (1 charge).
+The rod has 8 charges and regains `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) expended charges daily at dawn. When you reduce a humanoid to 0 hit points, the rod regains 1 expended charge. While holding the rod, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell attack bonus and spell save DC: [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] (1 charge), [[/5. Mechanics/Spells/Circle Of Death.md\|circle of death]] (4 charges), [[/5. Mechanics/Spells/Confusion.md\|confusion]] (2 charges), [[/5. Mechanics/Spells/Insect Plague.md\|insect plague]] (3 charges), [[/5. Mechanics/Spells/Ray Of Enfeeblement.md\|ray of enfeeblement]] (1 charge), or [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] (1 charge).
 
 ## Bestow Greater Curse
 
-When you cast the [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] spell while holding the rod using either the rod or a spell slot, you can choose to force the creature to make the saving throw with disadvantage. On a failed save, the target is simultaneously cursed by all four of the spell's listed options. Once this property has been used, it can't be used again until the next dawn.
+When you cast the [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] spell while holding the rod using either the rod or a spell slot, you can choose to force the creature to make the saving throw with disadvantage. On a failed save, the target is simultaneously cursed by all four of the spell's listed options. Once this property has been used, it can't be used again until the next dawn.
 
 ## Death Grip
 
-While holding the rod, you can use an action to cast the [[5. Mechanics/Spells/Finger Of Death.md\|finger of death]] spell from it, using your spell save DC. Once the rod has been used to cast this spell, it can't do so again until the next dawn.
+While holding the rod, you can use an action to cast the [[/5. Mechanics/Spells/Finger Of Death.md\|finger of death]] spell from it, using your spell save DC. Once the rod has been used to cast this spell, it can't do so again until the next dawn.
 
 ## Sentience
 
@@ -55,6 +55,6 @@ The rod bears a curse that affects any non-human that becomes attuned to it. Eve
 
 ## Destroying the Scepter
 
-The only way to destroy the rod is to destroy Morath while your soul is contained within the rod. When you do, use your original body's statistics and abilities for your soul, with the exception that your hit point maximum is halved. Use the [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] stat block for Morath's soul. From outside the rod, this combat resolves instantaneously, regardless of how much time passed within the rod during the battle. If you die while within the rod in this way, your soul is lost to the Thousand Voices. If Morath dies, the rod is destroyed and you return to your body with 1 hit point, regardless of where your body is at the time.
+The only way to destroy the rod is to destroy Morath while your soul is contained within the rod. When you do, use your original body's statistics and abilities for your soul, with the exception that your hit point maximum is halved. Use the [[/5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] stat block for Morath's soul. From outside the rod, this combat resolves instantaneously, regardless of how much time passed within the rod during the battle. If you die while within the rod in this way, your soul is lost to the Thousand Voices. If Morath dies, the rod is destroyed and you return to your body with 1 hit point, regardless of where your body is at the time.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 198*

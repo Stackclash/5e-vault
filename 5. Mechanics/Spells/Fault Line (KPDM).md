@@ -20,12 +20,26 @@ classes:
   - Wizard
 school: Evocation
 level: 6
+damage:
+  base: 8d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Until dispelled
-components:
-  - V
-  - S
+range: Self (60-foot Line)
+somatic: true
+verbal: true
+area:
+  shape: line
+  size: 60
 aliases:
   - Fault Line
 ---
@@ -39,6 +53,6 @@ aliases:
 
 The ground thrusts sharply upward along a 5-foot-wide, 60-foot-long line that you designate. All spaces affected by the spell become difficult terrain. In addition, all creatures in the affected area are knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and take `dice:8d6|noform|noparens|avg` (`8d6`) bludgeoning damage. Creatures that make a successful Dexterity saving throw take half as much damage and are not knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. This spell doesn't damage permanent structures.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 69*

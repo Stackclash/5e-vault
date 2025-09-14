@@ -13,10 +13,10 @@ tags:
 aliases:
   - Moonlight Guardian
 ---
-# [[5. Mechanics\Bestiary\Construct\Moonlight Guardian (VEOR).md|Moonlight Guardian]]
+# [[5. Mechanics/Bestiary/Construct/Moonlight Guardian (VEOR).md|Moonlight Guardian]]
 *Source: Vecna: Eve of Ruin p. 227*
 
-> [!quote] A quote from Werthil,Kender Adventurer  
+> [!quote] A quote from Werthil, Kender Adventurer  
 > 
 > Thought it was a person at first, but then I saw its head. Next, its arm. I knew I had to run.
 
@@ -47,7 +47,8 @@ A moonlight guardian's body is infused with magical moonlight that the creature 
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 11"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "6"
 "traits":
@@ -63,8 +64,8 @@ A moonlight guardian's body is infused with magical moonlight that the creature 
 "actions":
   - "desc": "The guardian makes two Moonlight Slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
-      \ + 4) bludgeoning damage plus 4 (d8) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
+      \ + 4) bludgeoning damage plus 4 (1d8) radiant damage."
     "name": "Moonlight Slam"
   - "desc": "The guardian unleashes a magical blast of moonlight in a line 60 feet\
       \ long and 5 feet wide. Each creature in that area must make a DC 14 Dexterity\
@@ -76,7 +77,7 @@ A moonlight guardian's body is infused with magical moonlight that the creature 
     "name": "Moonlight Blast (Recharge 5-6)"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Construct/token/moonlight-guardian-veor.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/moonlight-guardian-veor.webp"
 ```
 ^statblock
 

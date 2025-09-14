@@ -65,16 +65,16 @@ If you use this feature when you hit a creature with one of the attacks granted 
 
 At 6th level, you can harness healing celestial energy and channel it using your ki. As an action, you can touch a willing creature with less than half its hit points left and spend 1 or more ki points. That creature regains 5 hit points for each point you spend, restoring it to no more than half its hit point maximum.
 
-In addition, you can spend 2 ki points as an action to cast [[5. Mechanics/Spells/Enhance Ability.md\|enhance ability]], [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]], or [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]], requiring no material components.
+In addition, you can spend 2 ki points as an action to cast [[/5. Mechanics/Spells/Enhance Ability.md\|enhance ability]], [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]], or [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]], requiring no material components.
 
 ### Celestial Emissary (Level 11)
 
-Beginning at 11th level, your connection to celestials can be used to expand your mind's reach. You can cast the [[5. Mechanics/Spells/Dream.md\|dream]] or [[5. Mechanics/Spells/Scrying.md\|scrying]] spell, requiring no material components, using your ki save DC. When you cast dream using this feature, only you can act as the dream's messenger. Once you cast a spell in this way, you can't cast it again until you finish a long rest.
+Beginning at 11th level, your connection to celestials can be used to expand your mind's reach. You can cast the [[/5. Mechanics/Spells/Dream.md\|dream]] or [[/5. Mechanics/Spells/Scrying.md\|scrying]] spell, requiring no material components, using your ki save DC. When you cast dream using this feature, only you can act as the dream's messenger. Once you cast a spell in this way, you can't cast it again until you finish a long rest.
 
 In addition, you are immune to scrying and to any effect that would sense your emotions, read your thoughts, or detect your location.
 
 ### Heavenborne (Level 17)
 
-At 17th level, your energy is perfectly intertwined with both harmful and healing celestial magic. Your unarmed strikes deal an extra `dice:1d4|noform|noparens|avg` (`d4`) radiant damage, and you can now use your Stabilizing Ki as a bonus action, instead of an action, to heal a creature up to 30 feet away from you.
+At 17th level, your energy is perfectly intertwined with both harmful and healing celestial magic. Your unarmed strikes deal an extra `dice:1d4|noform|noparens|avg` (`1d4`) radiant damage, and you can now use your Stabilizing Ki as a bonus action, instead of an action, to heal a creature up to 30 feet away from you.
 
 In addition, you gain a flying speed equal to your current walking speed. This benefit only works in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.

@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\beucephalus.webp
+  - ../../../../../4. World Almanac/NPCs/img/beucephalus.webp
 relationships: []
 aliases:
   - Beucephalus
@@ -54,7 +54,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 93*
@@ -137,7 +137,7 @@ actions:
       \ an additional 10 feet."
     "name": "Illumination"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage."
     "name": "Hooves"
   - "desc": "Beucephalus and up to three willing creatures within 5 feet of it magically\
@@ -145,7 +145,7 @@ actions:
     "name": "Ethereal Stride"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/beucephalus-cos.webp"
+"image": "/4. World Almanac/NPCs/token/beucephalus-cos.webp"
 ```
 ^statblock
 

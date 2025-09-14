@@ -13,7 +13,7 @@ tags:
 aliases:
   - Shadow Demon
 ---
-# [[5. Mechanics\Bestiary\Fiend\Shadow Demon.md|Shadow Demon]]
+# [[5. Mechanics/Bestiary/Fiend/Shadow Demon.md|Shadow Demon]]
 *Source: Monster Manual p. 64, Curse of Strahd*
 
 When a demon's body is destroyed but the fiend is prevented from reforming in the Abyss, its essence sometimes takes on a vague physical form. These shadow demons exist outside the normal abyssal hierarchy, since their creation results most often from mortal magic, not from transformation or promotion.
@@ -173,13 +173,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`d8`) vrocks, `dice:1d6|noform|noparens|avg` (`d6`) hezrous, `dice:1d4|noform|noparens|avg` (`d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`1d8`) vrocks, `dice:1d6|noform|noparens|avg` (`1d6`) hezrous, `dice:1d4|noform|noparens|avg` (`1d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`1d2`) mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`d3`) vrocks, `dice:1d2|noform|noparens|avg` (`d2`) hezrous, or one glabrezu.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`1d3`) vrocks, `dice:1d2|noform|noparens|avg` (`1d2`) hezrous, or one glabrezu.  
 > - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) vrocks, `dice:1d4|noform|noparens|avg` (`d4`) hezrous, `dice:1d3|noform|noparens|avg` (`d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) vrocks, `dice:1d3|noform|noparens|avg` (`d3`) hezrous, `dice:1d2|noform|noparens|avg` (`d2`) glabrezus, or one nalfeshnee.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`1d6`) vrocks, `dice:1d4|noform|noparens|avg` (`1d4`) hezrous, `dice:1d3|noform|noparens|avg` (`1d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`1d4`) vrocks, `dice:1d3|noform|noparens|avg` (`1d3`) hezrous, `dice:1d2|noform|noparens|avg` (`1d2`) glabrezus, or one nalfeshnee.  
 > - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
@@ -210,8 +210,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - !!int "14"
 "speed": "30 ft., fly 30 ft."
 "saves":
-  - "dexterity": "+5"
-  - "charisma": "+4"
+  - "dexterity": !!int "5"
+  - "charisma": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+7"
@@ -223,12 +223,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "4"
 "traits":
   - "desc": "The demon can move through other creatures and objects as if they were\
-      \ difficult terrain. It takes 5 (d10) force damage if it ends its turn inside\
+      \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
       \ an object."
     "name": "Incorporeal Movement"
   - "desc": "While in bright light, the demon has disadvantage on attack rolls, as\
@@ -239,14 +240,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ a bonus action."
     "name": "Shadow Stealth"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 10\
       \ (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll,\
       \ 17 (4d6 + 3) psychic damage."
     "name": "Claws"
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Fiend/token/shadow-demon.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/shadow-demon.webp"
 ```
 ^statblock
 

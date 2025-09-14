@@ -34,5 +34,5 @@ aliases:
 | 17 | In a volcano |
 | 18 | On the back of a Gargantuan living creature |
 | 19 | Sealed inside a magical dome of force |
-| 20 | Inside a [[5. Mechanics/Spells/Mordenkainens Magnificent Mansion.md\|Mordenkainen's magnificent mansion]] |
+| 20 | Inside a [[/5. Mechanics/Spells/Mordenkainens Magnificent Mansion.md\|Mordenkainen's magnificent mansion]] |
 ^exotic-location

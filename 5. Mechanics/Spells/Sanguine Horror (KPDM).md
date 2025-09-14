@@ -20,15 +20,13 @@ school: Conjuration
 level: 5
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: 5 feet
+somatic: true
+verbal: true
+material: a miniature dagger
 aliases:
   - Sanguine Horror
-concentration: true
-material: a miniature dagger
 ---
 # Sanguine Horror
 *5th-level, Conjuration*  
@@ -42,6 +40,6 @@ When you cast this spell, you prick yourself with the material component, taking
 
 Roll initiative for the elemental, which has its own turns. It obeys verbal commands from you (no action required by you). If you don't issue any commands to the blood elemental, it defends itself but otherwise takes no actions. If your concentration is broken, the blood elemental doesn't disappear, but you lose control of it and it becomes hostile to you and your companions. An uncontrolled blood elemental cannot be dismissed by you, and it disappears 1 hour after you summoned it.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 320*

@@ -11,16 +11,19 @@ classes:
   - Bard
 school: Transmutation
 level: 6
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: true
 time: 1 Action
 duration: Until dispelled
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: root of deadly nightshade and a drop of the caster's blood
 aliases:
   - Warp Mind and Matter
-material: root of deadly nightshade and a drop of the caster's blood
 ---
 # Warp Mind and Matter
 *6th-level, Transmutation (ritual)*  
@@ -30,8 +33,8 @@ material: root of deadly nightshade and a drop of the caster's blood
 - **Components:** V, S, M (root of deadly nightshade and a drop of the caster's blood)
 - **Duration:** Until dispelled
 
-A creature you can see within range undergoes a baleful transmogrification. The target must make a successful Wisdom saving throw or suffer a flesh warp and be afflicted with a form of [[5. Mechanics/Tables/Indefinite Madness (KPDM).md\|indefinite madness]].
+A creature you can see within range undergoes a baleful transmogrification. The target must make a successful Wisdom saving throw or suffer a flesh warp and be afflicted with a form of [[/5. Mechanics/Tables/Indefinite Madness (KPDM).md\|indefinite madness]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 342*

@@ -18,17 +18,29 @@ classes:
   - Wizard
 school: Evocation
 level: 2
+damage:
+  base: 2d8
+  scaling:
+    damage: 1d8
+    level: 3
+  types:
+    - force
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
+material: a feather from a black swan
+area:
+  shape: cube
+  size: 5
 aliases:
   - Black Swan Storm
-concentration: true
-material: a feather from a black swan
 ---
 # Black Swan Storm
 *2nd-level, Evocation*  
@@ -40,8 +52,8 @@ material: a feather from a black swan
 
 You call forth a whirlwind of black feathers that fills a 5-foot cube within range. The feathers deal `dice:2d8|noform|noparens|avg` (`2d8`) force damage to creatures in the cube's area and radiate darkness, causing the illumination level within 20 feet of the cube to drop by one step (from bright light to dim light, and from dim light to darkness). Creatures that make a successful Dexterity saving throw take half the damage and are still affected by the change in light.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the feathers deal an extra `dice:1d8|noform|noparens|avg|text(d8)` force damage for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the feathers deal an extra `dice:1d8|noform|noparens|avg|text(1d8)` force damage for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 43*

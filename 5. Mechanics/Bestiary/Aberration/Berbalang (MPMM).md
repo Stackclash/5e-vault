@@ -14,7 +14,7 @@ tags:
 aliases:
   - Berbalang
 ---
-# [[5. Mechanics\Bestiary\Aberration\Berbalang (MPMM).md|Berbalang]]
+# [[5. Mechanics/Bestiary/Aberration/Berbalang (MPMM).md|Berbalang]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61, Mordenkainen's Tome of Foes p. 120*
 
 Berbalangs creep across the [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]] remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
@@ -44,8 +44,8 @@ The knowledge that berbalangs accumulate makes them great sources of information
   - !!int "10"
 "speed": "30 ft., fly 40 ft."
 "saves":
-  - "dexterity": "+5"
-  - "intelligence": "+5"
+  - "dexterity": !!int "5"
+  - "intelligence": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+5"
@@ -57,21 +57,22 @@ The knowledge that berbalangs accumulate makes them great sources of information
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+5"
-"senses": "truesight 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 12"
 "languages": "all"
 "cr": "2"
 "actions":
   - "desc": "The berbalang makes one Bite attack and one\n\nClaw attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10\
-      \ + 3) piercing damage plus 4 (d8) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
+      \ + 3) piercing damage plus 4 (1d8) psychic damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
       \ + 3) slashing damage."
     "name": "Claw"
   - "desc": "The berbalang casts one of the following spells, requiring no material\
-      \ components and using Intelligence as the spellcasting ability:\n\nAt will:\
-      \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n1/day: [[5. Mechanics/Spells/Plane Shift.md|plane\
+      \ components and using Intelligence as the spellcasting ability:\n\n**At will:**\
+      \ [[/5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n**1/day:** [[/5. Mechanics/Spells/Plane Shift.md|plane\
       \ shift]] (self only)"
     "name": "Spellcasting"
 "bonus_actions":
@@ -87,7 +88,7 @@ The knowledge that berbalangs accumulate makes them great sources of information
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/berbalang-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/berbalang-mpmm.webp"
 ```
 ^statblock
 

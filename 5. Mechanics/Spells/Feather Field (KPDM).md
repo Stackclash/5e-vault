@@ -20,16 +20,21 @@ classes:
   - Wizard
 school: Abjuration
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 2
+  types: []
 ritual: false
 time: 1 Reaction
 duration: 1 round
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: fletching from an arrow
 aliases:
   - Feather Field
-material: fletching from an arrow
 ---
 # Feather Field
 *1st-level, Abjuration*  
@@ -43,6 +48,6 @@ A magical barrier of chaff in the form of feathers appears and protects you. Unt
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the duration is increased by 1 round for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 69*

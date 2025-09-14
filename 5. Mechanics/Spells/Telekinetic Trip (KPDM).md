@@ -16,13 +16,13 @@ classes:
   - Sorcerer
   - Wizard
 school: Transmutation
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Telekinetic Trip
 ---
@@ -36,6 +36,6 @@ aliases:
 
 You lash out with a burst of telekinesis, sweeping a creature within range off its feet. The target of this spell must succeed on a Dexterity saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 113*

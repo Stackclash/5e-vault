@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\strahds-animated-armor.webp
+  - ../../../../../4. World Almanac/NPCs/img/strahds-animated-armor.webp
 relationships: []
 aliases:
   - Strahd's Animated Armor
@@ -54,7 +54,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 227*
@@ -141,7 +141,8 @@ actions:
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "6"
 "traits":
@@ -151,8 +152,8 @@ actions:
       \ too damaged to be of much use or value to anyone."
     "name": "Constructed Nature"
   - "desc": "The armor is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
-      \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-      \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the armor\
+      \ while in the area of an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
+      \ If targeted by [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the armor\
       \ must succeed on a Constitution saving throw against the caster's spell save\
       \ DC or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for\
       \ 1 minute."
@@ -163,16 +164,16 @@ actions:
 "actions":
   - "desc": "The armor makes two melee attacks or uses Shocking Bolt twice."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
-      \ (2d6 + 3) slashing damage plus 3 (d6) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10\
+      \ (2d6 + 3) slashing damage plus 3 (1d6) lightning damage."
     "name": "Greatsword"
-  - "desc": "Ranged Spell Attack: +4 to hit (with advantage on the attack roll if\
-      \ the target is wearing armor made of metal), range 60 ft., one target. Hit:\
+  - "desc": "*Ranged Spell Attack:* +4 to hit (with advantage on the attack roll if\
+      \ the target is wearing armor made of metal), range 60 ft., one target. *Hit:*\
       \ 10 (3d6) lightning damage."
     "name": "Shocking Bolt"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/strahds-animated-armor-cos.webp"
+"image": "/4. World Almanac/NPCs/token/strahds-animated-armor-cos.webp"
 ```
 ^statblock
 

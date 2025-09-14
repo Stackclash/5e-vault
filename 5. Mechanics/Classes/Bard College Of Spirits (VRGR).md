@@ -53,13 +53,13 @@ Bards of the College of Spirits seek tales with inherent power—be they legends
 
 *3rd-level College of Spirits feature*
 
-You can reach out to spirits to guide you and others. You learn the [[5. Mechanics/Spells/Guidance.md\|guidance]] cantrip, which doesn't count against the number of bard cantrips you know. For you, it has a range of 60 feet when you cast it.
+You can reach out to spirits to guide you and others. You learn the [[/5. Mechanics/Spells/Guidance.md\|guidance]] cantrip, which doesn't count against the number of bard cantrips you know. For you, it has a range of 60 feet when you cast it.
 
 ### Spiritual Focus (Level 3)
 
 *3rd-level College of Spirits feature*
 
-You employ tools that aid you in channeling spirits, be they historical figures or fictional archetypes. You can use the following objects as a spellcasting focus for your bard spells: a candle, crystal ball, skull, spirit board, or [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]].
+You employ tools that aid you in channeling spirits, be they historical figures or fictional archetypes. You can use the following objects as a spellcasting focus for your bard spells: a candle, crystal ball, skull, spirit board, or [[/5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]].
 
 Starting at 6th level, when you cast a bard spell that deals damage or restores hit points through the Spiritual Focus, roll a `dice:d6|noform|noparens|avg` (`d6`), and you gain a bonus to one damage or healing roll of the spell equal to the number rolled.
 
@@ -75,7 +75,7 @@ You can retain only one of these tales in mind at a time, and rolling on the Spi
 
 If the tale requires a saving throw, the DC equals your spell save DC.
 
-![[5. Mechanics/Tables/Spirit Tales (VRGR).md\|Spirit Tales]]
+![[/5. Mechanics/Tables/Spirit Tales (VRGR).md\|Spirit Tales]]
 
 ### Spirit Session (Level 6)
 
@@ -95,5 +95,5 @@ You now have the ability to nudge the spirits of Tales from Beyond toward certai
 
 > [!note] Spirit Tales
 > 
-> Storytellers, like bards of the College of Spirits, often give voice to tales inspired by some greater theme or body of work. When determining what stories you tell, consider what unites them. Do they all feature characters from a specific group, like archetypes from the [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]], figures from constellations, childhood imaginary friends, or characters in a particular storybook? Or are your inspirations more general, incorporating historic champions, mythological heroes, or urban legends? Use the tales you tell to define your niche as a storytelling adventurer.
+> Storytellers, like bards of the College of Spirits, often give voice to tales inspired by some greater theme or body of work. When determining what stories you tell, consider what unites them. Do they all feature characters from a specific group, like archetypes from the [[/5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]], figures from constellations, childhood imaginary friends, or characters in a particular storybook? Or are your inspirations more general, incorporating historic champions, mythological heroes, or urban legends? Use the tales you tell to define your niche as a storytelling adventurer.
 ^spirit-tales

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fen Serpent
 ---
-# [[5. Mechanics\Bestiary\Beast\Fen Serpent (GRIFFONSSADDLEBAG3).md|Fen Serpent]]
+# [[5. Mechanics/Bestiary/Beast/Fen Serpent (GRIFFONSSADDLEBAG3).md|Fen Serpent]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 ```statblock
@@ -39,7 +39,8 @@ aliases:
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "poison"
-"senses": "blindsight 10 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., passive Perception\
+  \ 12"
 "languages": ""
 "cr": "4"
 "traits":
@@ -57,12 +58,12 @@ aliases:
       \ end of the current turn."
     "name": "Rapid Spin"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11\
       \ (2d6 + 4) piercing damage, and the target must make a DC 12 Constitution saving\
       \ throw, taking 10 (4d4) poison damage on a failed save, or half as much damage\
       \ on a successful one."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage, and if the target is a Large or smaller creature,\
       \ it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 14).\n\
       \nUntil this grapple ends, the creature is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\

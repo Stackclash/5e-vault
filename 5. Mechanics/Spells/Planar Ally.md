@@ -17,12 +17,11 @@ level: 6
 ritual: false
 time: 10 minutes
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Planar Ally
-range: 60 feet
 ---
 # Planar Ally
 *6th-level, Conjuration*  
@@ -44,6 +43,6 @@ After the creature completes the task, or when the agreed-upon duration of servi
 
 A creature enlisted to join your group counts as a member of it, receiving a full share of experience points awarded.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 265. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

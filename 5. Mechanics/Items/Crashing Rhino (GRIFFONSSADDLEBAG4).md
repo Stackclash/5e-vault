@@ -13,14 +13,14 @@ one-hand-damage: 2d6 bludgeoning
 weight: 10
 ---
 # Crashing Rhino
-*Weapon ([[5. Mechanics/Items/Maul.md\|maul]]), very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Crashing-Rhino.webp#right)  
 
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
-This maul is covered with shards of stone surrounding a pair of giant horns. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you move at least 20 feet in a straight line toward a target and immediately hit it with a melee attack using this hammer, the target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning damage and must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If a creature is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] in this way, you can immediately use a bonus action to make an additional attack with the hammer against the target. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
+This maul is covered with shards of stone surrounding a pair of giant horns. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you move at least 20 feet in a straight line toward a target and immediately hit it with a melee attack using this hammer, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage and must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. If a creature is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] in this way, you can immediately use a bonus action to make an additional attack with the hammer against the target. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 
 ## Trampling Charge
 

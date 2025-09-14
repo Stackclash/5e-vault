@@ -28,13 +28,15 @@ school: Divination
 level: 4
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Self (90-foot Radius)
+somatic: true
+verbal: true
+area:
+  shape: radius
+  size: 90
 aliases:
   - By the Light of the Watchful Moon
-concentration: true
 ---
 # By the Light of the Watchful Moon
 *4th-level, Divination*  
@@ -48,6 +50,6 @@ Regardless of the time of day or your location, you command the watchful gaze of
 
 The glow does not make [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] creatures visible, but it does indicate an [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] creature's general location (somewhere within the 5-foot beam). The light continues to illuminate any target that moves, but a target that moves out of the spell's area is no longer illuminated. A threat that enters the area after the spell is cast is not subject to the spell's effect.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 47*

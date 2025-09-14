@@ -14,14 +14,14 @@ one-hand-damage: 2d6 bludgeoning
 weight: 10
 ---
 # Molten Hammer
-*Weapon ([[5. Mechanics/Items/Maul.md\|maul]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Molten-Hammer.webp#right)  
 
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
 
-This hammer is pulled like glass from molten rock and glows with residual heat from within. You gain a +1 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d8|noform|noparens|avg` (`d8`) fire damage to any target it hits.
+This hammer is pulled like glass from molten rock and glows with residual heat from within. You gain a +1 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) fire damage to any target it hits.
 
 ## Overheat
 

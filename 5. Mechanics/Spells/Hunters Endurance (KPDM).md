@@ -18,15 +18,14 @@ level: 1
 ritual: false
 time: 1 minute
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
-aliases:
-  - Hunter's Endurance
+range: Self
+somatic: true
+verbal: true
 material: >-
   a fingernail, a lock of hair, bit of fur, or drop of blood from the target, if
   unfamiliar
+aliases:
+  - Hunter's Endurance
 ---
 # Hunter's Endurance
 *1st-level, Enchantment*  
@@ -42,6 +41,8 @@ Until the spell ends, you have advantage on all Wisdom ([[/5. Mechanics/Rules/Sk
 
 The spell ends only after 24 hours, when the target is dead, when the target is on a different plane, or when the target is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] in your line of sight.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
 
 *Source: Deep Magic p. 81*

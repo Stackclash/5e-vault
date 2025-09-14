@@ -14,7 +14,7 @@ tags:
 aliases:
   - Choldrith
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Choldrith (MPMM).md|Choldrith]]
+# [[5. Mechanics/Bestiary/Monstrosity/Choldrith (MPMM).md|Choldrith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*
 
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
@@ -51,7 +51,8 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
@@ -71,20 +72,20 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
   - "desc": "The choldrith ignores movement restrictions caused by webbing."
     "name": "Web Walker"
 "actions":
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage."
     "name": "Dagger"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 30/60 ft., one Large or smaller\
-      \ creature. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one Large or smaller\
+      \ creature. *Hit:* The target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
       \ by webbing. As an action, the [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
       \ target can make a DC 11 Strength check, bursting the webbing on a success.\
       \ The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability\
       \ to fire damage; immunity to bludgeoning, poison, and psychic damage)."
     "name": "Web (Recharge 5-6)"
   - "desc": "The choldrith casts one of the following spells, using Wisdom as the\
-      \ spellcasting ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Guidance.md|guidance]],\
-      \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1/day each: [[5. Mechanics/Spells/Bane.md|bane]],\
-      \ [[5. Mechanics/Spells/Hold Person.md|hold person]]"
+      \ spellcasting ability (spell save DC 12):\n\n**At will:** [[/5. Mechanics/Spells/Guidance.md|guidance]],\
+      \ [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n**1/day each:** [[/5. Mechanics/Spells/Bane.md|bane]],\
+      \ [[/5. Mechanics/Spells/Hold Person.md|hold person]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The choldrith conjures a floating, spectral dagger within 60 feet of\
@@ -97,7 +98,7 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/choldrith-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/choldrith-mpmm.webp"
 ```
 ^statblock
 

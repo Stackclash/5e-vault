@@ -11,7 +11,7 @@ aliases:
 ---
 # Belt of Dwarvenkind
 *Wondrous item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/belt-of-dwarvenkind.webp#right]]  
+![[/5. Mechanics/Items/img/belt-of-dwarvenkind.webp#right]]  
 
 
 While wearing this belt, you gain the following benefits:

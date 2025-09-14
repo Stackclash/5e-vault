@@ -57,11 +57,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
-| 5th | [[5. Mechanics/Spells/Zone Of Truth.md\|zone of truth]] |
-| 9th | [[5. Mechanics/Spells/Magic Circle.md\|magic circle]] |
-| 13th | [[5. Mechanics/Spells/Banishment.md\|banishment]] |
-| 17th | [[5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
+| 3rd | [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
+| 5th | [[/5. Mechanics/Spells/Zone Of Truth.md\|zone of truth]] |
+| 9th | [[/5. Mechanics/Spells/Magic Circle.md\|magic circle]] |
+| 13th | [[/5. Mechanics/Spells/Banishment.md\|banishment]] |
+| 17th | [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
 ^monster-slayer-spells
 
 ### Hunter's Sense (Level 3)
@@ -72,13 +72,13 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Slayer's Prey (Level 3)
 
-Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra `dice:1d6|noform|noparens|avg` (`d6`) damage from the weapon.
+Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage from the weapon.
 
 This benefit lasts until you finish a short or long rest. It ends early if you designate a different creature.
 
 ### Supernatural Defense (Level 7)
 
-At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that target's grapple, add `dice:1d6|noform|noparens|avg` (`d6`) to your roll.
+At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that target's grapple, add `dice:1d6|noform|noparens|avg` (`1d6`) to your roll.
 
 ### Magic-User's Nemesis (Level 11)
 

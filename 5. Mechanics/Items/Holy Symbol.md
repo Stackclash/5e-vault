@@ -14,8 +14,8 @@ aliases:
 
 **Items in this group:**
 
-- [[5. Mechanics/Items/Amulet.md\|Amulet]]
-- [[5. Mechanics/Items/Emblem.md\|Emblem]]
-- [[5. Mechanics/Items/Reliquary.md\|Reliquary]]
+- [[/5. Mechanics/Items/Amulet.md\|Amulet]]
+- [[/5. Mechanics/Items/Emblem.md\|Emblem]]
+- [[/5. Mechanics/Items/Reliquary.md\|Reliquary]]
 
 *Source: Player's Handbook p. 151*

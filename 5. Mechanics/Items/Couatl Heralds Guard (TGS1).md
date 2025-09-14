@@ -13,7 +13,7 @@ armorClass: 2
 weight: 6
 ---
 # Couatl Herald's Guard
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement by a creature of good alignment)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement by a creature of good alignment)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Couatl-Heralds-Guard.webp#right)  
 
 - **Armor Class**: 2

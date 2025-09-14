@@ -74,11 +74,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Bane.md\|bane]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] |
-| 5th | [[5. Mechanics/Spells/Nystuls Magic Aura.md\|arcanist's magic aura]], [[5. Mechanics/Spells/Hold Person.md\|hold person]] |
-| 9th | [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Slow.md\|slow]] |
-| 13th | [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Otilukes Resilient Sphere.md\|resilient sphere]] |
-| 17th | [[5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[5. Mechanics/Spells/Scrying.md\|scrying]] |
+| 3rd | [[/5. Mechanics/Spells/Bane.md\|bane]], [[/5. Mechanics/Spells/Detect Magic.md\|detect magic]] |
+| 5th | [[/5. Mechanics/Spells/Nystuls Magic Aura.md\|arcanist's magic aura]], [[/5. Mechanics/Spells/Hold Person.md\|hold person]] |
+| 9th | [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[/5. Mechanics/Spells/Slow.md\|slow]] |
+| 13th | [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md\|resilient sphere]] |
+| 17th | [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[/5. Mechanics/Spells/Scrying.md\|scrying]] |
 ^paladin-level-spells
 
 ### Channel Divinity (Level 3)

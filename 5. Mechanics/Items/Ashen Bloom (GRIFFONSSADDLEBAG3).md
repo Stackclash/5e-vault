@@ -27,7 +27,7 @@ You can eat one petal using an action. When you do, you're cured of either one d
 
 ## Smoked
 
-You can smoke one petal in a pipe or similar object over the course of 1 minute, at which time you gain resistance to fire damage for `dice:1d4|noform|noparens|avg` (`d4`) hours. The exhaled smoke is red.
+You can smoke one petal in a pipe or similar object over the course of 1 minute, at which time you gain resistance to fire damage for `dice:1d4|noform|noparens|avg` (`1d4`) hours. The exhaled smoke is red.
 
 ## Steeped
 

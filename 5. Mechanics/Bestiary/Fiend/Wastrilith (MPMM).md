@@ -17,14 +17,14 @@ tags:
 aliases:
   - Wastrilith
 ---
-# [[5. Mechanics\Bestiary\Fiend\Wastrilith (MPMM).md|Wastrilith]]
+# [[5. Mechanics/Bestiary/Fiend/Wastrilith (MPMM).md|Wastrilith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 258, Mordenkainen's Tome of Foes p. 139*
 
 Found in the waters of the Abyss and other bodies of water contaminated by that plane's fell influence, wastriliths establish themselves as lords of the deep and rule their dominions with cruelty.
 
 A wastrilith pollutes the waters around it. Its noxious presence even affects nearby sources of water when the demon travels on land. The corrupted water, which contains a measure of the demon's essence, responds to the wastrilith's commands—perhaps hardening to prevent foes from escaping or erupting in a surge that drags victims into its reach.
 
-Creatures that ingest water corrupted by a wastrilith risk their very souls. Those who drink the poisonous liquid might wither away until they finally die, or they remain alive only to become thralls of chaos and evil. To represent this defilement, you can use the [[5. Mechanics/Tables/Optional Rule Abyssal Corruption Abyssal Corruption.md|optional rule on abyssal corruption]] in "chapter 2 of the Dungeon Master's Guide", causing the poisoned creature to be corrupted.
+Creatures that ingest water corrupted by a wastrilith risk their very souls. Those who drink the poisonous liquid might wither away until they finally die, or they remain alive only to become thralls of chaos and evil. To represent this defilement, you can use the [[/5. Mechanics/Tables/Optional Rule Abyssal Corruption Abyssal Corruption.md|optional rule on abyssal corruption]] in "chapter 2 of the Dungeon Master's Guide", causing the poisoned creature to be corrupted.
 
 ```statblock
 "name": "Wastrilith (MPMM)"
@@ -46,13 +46,14 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
   - !!int "14"
 "speed": "30 ft., swim 80 ft."
 "saves":
-  - "strength": "+9"
-  - "constitution": "+10"
+  - "strength": !!int "9"
+  - "constitution": !!int "10"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "13"
 "traits":
@@ -78,10 +79,10 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
   - "desc": "The wastrilith makes one Bite attack and two Claw attacks, and it uses\
       \ Grasping Spout."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 30\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 30\
       \ (4d12 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 18\
       \ (4d6 + 4) slashing damage."
     "name": "Claws"
   - "desc": "The wastrilith magically launches a spout of water at one creature it\
@@ -98,7 +99,7 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/wastrilith-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/wastrilith-mpmm.webp"
 ```
 ^statblock
 

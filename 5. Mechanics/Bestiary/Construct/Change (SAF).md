@@ -13,7 +13,7 @@ tags:
 aliases:
   - Change
 ---
-# [[5. Mechanics\Bestiary\Construct\Change (SAF).md|Change]]
+# [[5. Mechanics/Bestiary/Construct/Change (SAF).md|Change]]
 *Source: Strongholds and Followers p. 229*
 
 A close cousin to the Inexorables of Death and Fate, the Law of Change states that what has been done cannot be undone. Change opposes any magical attempt to reverse what is done, such as using magical healing to close a wound. "You cannot rewrite the world."
@@ -49,7 +49,8 @@ Change is more versatile than its simpler cousins. Its javelin grants it facilit
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
+  \ 14"
 "languages": "all those of the creature who summoned it"
 "cr": "7"
 "traits":
@@ -63,8 +64,8 @@ Change is more versatile than its simpler cousins. Its javelin grants it facilit
 "actions":
   - "desc": "Change makes three javelin attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. Hit: 12 (2d8 + 3) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. *Hit:* 12 (2d8 + 3) piercing damage."
     "name": "Javelin"
 "source":
   - "SaF"

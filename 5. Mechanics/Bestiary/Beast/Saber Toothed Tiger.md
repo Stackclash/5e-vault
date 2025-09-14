@@ -15,7 +15,7 @@ tags:
 aliases:
   - Saber-Toothed Tiger
 ---
-# [[5. Mechanics\Bestiary\Beast\Saber Toothed Tiger.md|Saber-Toothed Tiger]]
+# [[5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md|Saber-Toothed Tiger]]
 *Source: Monster Manual p. 336, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -54,16 +54,16 @@ aliases:
       \ can make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (1d10 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage."
     "name": "Claw"
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Beast/token/saber-toothed-tiger.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/saber-toothed-tiger.webp"
 ```
 ^statblock
 

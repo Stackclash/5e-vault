@@ -20,15 +20,18 @@ classes:
   - Wizard
 school: Illusion
 level: 4
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Fog of War
-concentration: true
 ---
 # Fog of War
 *4th-level, Illusion*  
@@ -42,6 +45,6 @@ You cloud the minds of your opponents, hindering their perception of the battlef
 
 If a targeted creature makes an attack against a creature that has at least one other creature adjacent to it—friend or foe—the targeted creature must roll a `dice:d20|noform|noparens|avg` (`d20`). On an 11 or higher, its attack is applied to the adjacent creature instead (roll randomly to determine the new target if there is more than one adjacent creature) and deals damage as normal if it hits. At the start of their turn, a targeted creature can make a Wisdom saving throw. On a successful save, the creature is unhindered by the spell for that round.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 71*

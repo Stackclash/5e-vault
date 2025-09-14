@@ -9,7 +9,7 @@ aliases:
 ---
 # Unicorn
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual_
 
 Transformed by the creature's celestial presence, the domain of a unicorn might include any of the following magical effects:

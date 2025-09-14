@@ -18,14 +18,21 @@ classes:
   - Warlock
 school: Transmutation
 level: 4
+damage:
+  base: 1d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - slashing
 ritual: false
 time: 1 Bonus Action
-duration: up to 1 minute
-components:
-  - V
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: false
+verbal: true
 aliases:
   - Servant of Doom
-concentration: true
 ---
 # Servant of Doom
 *4th-level, Transmutation*  
@@ -53,10 +60,10 @@ Your skin becomes stonelike, bony growths erupt across your body, and you gain t
 - You ignore difficult terrain for movement purposes.  
 - You can move through walls and other solid barriers if you succeed on a Strength check you make just before moving up to the barrier. The DC equals 10 + twice the barrier's thickness in feet.  
 - You have advantage on Strength- or Dexterity-based attack rolls.  
-- Your melee weapon attacks deal an extra `dice:1d6|noform|noparens|avg` (`d6`) slashing damage on a hit.  
+- Your melee weapon attacks deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) slashing damage on a hit.  
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 312*

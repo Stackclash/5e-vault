@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Swamp Goose
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Giant Swamp Goose (GRIFFONSSADDLEBAG3).md|Giant Swamp Goose]]
+# [[5. Mechanics/Bestiary/Monstrosity/Giant Swamp Goose (GRIFFONSSADDLEBAG3).md|Giant Swamp Goose]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 ```statblock
@@ -39,7 +39,8 @@ aliases:
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
 "damage_resistances": "poison"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": ""
 "cr": "3"
 "traits":
@@ -55,10 +56,10 @@ aliases:
 "actions":
   - "desc": "The goose makes two attacks: one with its beak and one with its wings."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 9\
       \ (1d10 + 4) piercing damage."
     "name": "Beak"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
       \ + 4) bludgeoning damage."
     "name": "Wings"
   - "desc": "The goose releases a terrifying blast of sonic energy. Each creature\

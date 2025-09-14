@@ -13,7 +13,7 @@ tags:
 aliases:
   - Oleander Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Oleander Dragon (SAF).md|Oleander Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Oleander Dragon (SAF).md|Oleander Dragon]]
 *Source: Strongholds and Followers p. 182*
 
 Nerium the Petal Dragon, known also as the Oleander Dragon, is one of the prize pets of Val and normally slumbers decoratively in one of the courtyards. Its disguise is so perfect, newcomers to the Court often fail to recognize it's not actually a flowering topiary shrub in the shape of a sleeping dragon.
@@ -47,10 +47,10 @@ Lacking physical attacks, Nerium relies on Implant Nightmare to overwhelm her en
   - !!int "16"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  - "dexterity": "+6"
-  - "intelligence": "+6"
-  - "wisdom": "+8"
-  - "charisma": "+6"
+  - "dexterity": !!int "6"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "8"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+6"
@@ -63,7 +63,8 @@ Lacking physical attacks, Nerium relies on Implant Nightmare to overwhelm her en
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "poison, psychic"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 23"
 "languages": "Draconic, Elvish, Sylvan"
 "cr": "8"
 "traits":

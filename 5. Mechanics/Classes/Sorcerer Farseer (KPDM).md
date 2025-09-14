@@ -63,7 +63,7 @@ When you reach 6th level, your prophetic Insight allows you to Commune with othe
 
 ### Time Slip (Level 14)
 
-When you reach 14th level, the skeins of time enshroud your body, distorting the fabric of reality around you. As an action, you can expend 3 Sorcery Points to step out of sync with the current timeline. You can be seen only as an indistinct, shimmery outline. Attacks against you are made with disadvantage, and you have resistance to bludgeoning, piercing, and slashing damage from nonmagical Weapons. Additionally, you can move through other creatures and solid Objects as if they were Difficult Terrain. If you end your turn inside a solid object, you take `dice:1d10|noform|noparens|avg` (`d10`) force damage and are expelled into the nearest open space.
+When you reach 14th level, the skeins of time enshroud your body, distorting the fabric of reality around you. As an action, you can expend 3 Sorcery Points to step out of sync with the current timeline. You can be seen only as an indistinct, shimmery outline. Attacks against you are made with disadvantage, and you have resistance to bludgeoning, piercing, and slashing damage from nonmagical Weapons. Additionally, you can move through other creatures and solid Objects as if they were Difficult Terrain. If you end your turn inside a solid object, you take `dice:1d10|noform|noparens|avg` (`1d10`) force damage and are expelled into the nearest open space.
 
 The effect lasts for up to 1 minute, provided you maintain concentration on it as on a spell.
 

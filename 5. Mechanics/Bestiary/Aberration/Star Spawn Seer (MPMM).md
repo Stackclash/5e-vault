@@ -16,7 +16,7 @@ tags:
 aliases:
   - Star Spawn Seer
 ---
-# [[5. Mechanics\Bestiary\Aberration\Star Spawn Seer (MPMM).md|Star Spawn Seer]]
+# [[5. Mechanics/Bestiary/Aberration/Star Spawn Seer (MPMM).md|Star Spawn Seer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230, Mordenkainen's Tome of Foes p. 236*
 
 A star spawn seer is most often encountered as the leader of a cult dedicated to one or more Elder Evils. Usually, the seer is the only cult member that grasps the full extent of the horror the cult is venerating. The seer's goal is to tap into vast energy sources and perform the dire rites that will extend a bridge between the Material Plane and the squirming chaos of an Elder Evil's realm.
@@ -68,36 +68,37 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - !!int "16"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+6"
-  - "intelligence": "+11"
-  - "wisdom": "+9"
-  - "charisma": "+8"
+  - "dexterity": !!int "6"
+  - "intelligence": !!int "11"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "8"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+9"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 60 ft., passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 19"
 "languages": "Common, Deep Speech, Undercommon"
 "cr": "13"
 "traits":
   - "desc": "The seer can move through other creatures and objects as if they were\
       \ difficult terrain, and its movement doesn't provoke [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack|opportunity attacks]].\n\
-      \nEach creature it moves through takes 5 (d10) psychic damage; no creature can\
-      \ take this damage more than once per turn.\n\nThe seer takes 5 (d10) force\
+      \nEach creature it moves through takes 5 (1d10) psychic damage; no creature\
+      \ can take this damage more than once per turn.\n\nThe seer takes 5 (1d10) force\
       \ damage if it ends its turn inside an object."
     "name": "Out-Of-Phase Movement"
 "actions":
   - "desc": "The seer makes two Comet Staff or Psychic Orb attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (1d8 + 6) bludgeoning damage plus 18 (4d8) psychic damage, and if the target\
       \ is a creature, it must succeed on a DC 19 Constitution saving throw or be\
       \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] until the end\
       \ of its next turn."
     "name": "Comet Staff"
-  - "desc": "Ranged Spell Attack: +11 to hit, range 120 feet, one creature. Hit:\
+  - "desc": "*Ranged Spell Attack:* +11 to hit, range 120 feet, one creature. *Hit:*\
       \ 27 (5d10) psychic damage."
     "name": "Psychic Orb"
   - "desc": "The seer warps space around one creature it can see within 30 feet of\
@@ -117,7 +118,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-seer-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/star-spawn-seer-mpmm.webp"
 ```
 ^statblock
 

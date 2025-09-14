@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'grassland, forest, hill'
 size: Large
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Elk
 ---
-# [[5. Mechanics\Bestiary\Beast\E(LK).md|Elk]]
+# [[5. Mechanics/Bestiary/Beast/E(LK).md|Elk]]
 *Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -46,15 +46,15 @@ aliases:
       \ or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Charge"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) bludgeoning damage."
     "name": "Ram"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-      \ creature. Hit: 8 (2d4 + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ creature. *Hit:* 8 (2d4 + 3) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/elk.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/elk.webp"
 ```
 ^statblock
 

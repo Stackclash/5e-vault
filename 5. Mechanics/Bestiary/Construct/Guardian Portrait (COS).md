@@ -13,7 +13,7 @@ tags:
 aliases:
   - Guardian Portrait
 ---
-# [[5. Mechanics\Bestiary\Construct\Guardian Portrait (COS).md|Guardian Portrait]]
+# [[5. Mechanics/Bestiary/Construct/Guardian Portrait (COS).md|Guardian Portrait]]
 *Source: Curse of Strahd p. 227*
 
 A guardian portrait looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
@@ -50,15 +50,16 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Common, plus up to two other languages"
 "cr": "1"
 "traits":
   - "desc": "The portrait's innate spellcasting ability is Intelligence (spell save\
       \ DC 12). The portrait can innately cast the following spells, requiring no\
-      \ material components:\n\n3/day each: [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
-      \ [[5. Mechanics/Spells/Crown Of Madness.md|crown of madness]], [[5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic pattern]],\
-      \ [[5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
+      \ material components:\n\n**3/day each:** [[/5. Mechanics/Spells/Counterspell.md|counterspell]],\
+      \ [[/5. Mechanics/Spells/Crown Of Madness.md|crown of madness]], [[/5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic pattern]],\
+      \ [[/5. Mechanics/Spells/Telekinesis.md|telekinesis]]"
     "name": "Innate Spellcasting"
   - "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe\
       \ magic that animates an object is dispelled when the construct drops to 0 hit\
@@ -66,8 +67,8 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
       \ too damaged to be of much use or value to anyone."
     "name": "Constructed Nature"
   - "desc": "The portrait is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
-      \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-      \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the portrait\
+      \ while in the area of an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
+      \ If targeted by [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the portrait\
       \ must succeed on a Constitution saving throw against the caster's spell save\
       \ DC or become [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for\
       \ 1 minute."
@@ -77,7 +78,7 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
     "name": "False Appearance"
 "source":
   - "CoS"
-"image": "5. Mechanics/Bestiary/Construct/token/guardian-portrait-cos.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/guardian-portrait-cos.webp"
 ```
 ^statblock
 

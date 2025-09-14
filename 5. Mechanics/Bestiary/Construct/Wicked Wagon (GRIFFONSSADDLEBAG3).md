@@ -13,7 +13,7 @@ tags:
 aliases:
   - Wicked Wagon
 ---
-# [[5. Mechanics\Bestiary\Construct\Wicked Wagon (GRIFFONSSADDLEBAG3).md|Wicked Wagon]]
+# [[5. Mechanics/Bestiary/Construct/Wicked Wagon (GRIFFONSSADDLEBAG3).md|Wicked Wagon]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A favored and bewitched ally of hags, wicked wagons are animated carts with sickly demiplanes inside that hold captured souls. These souls can then be used by its hag allies to transform their appearances, taking on the forms and basic knowledge of the souls captured within.
@@ -37,9 +37,9 @@ A favored and bewitched ally of hags, wicked wagons are animated carts with sick
   - !!int "7"
 "speed": "40 ft."
 "saves":
-  - "intelligence": "+0"
-  - "wisdom": "+4"
-  - "charisma": "+1"
+  - "intelligence": !!int "0"
+  - "wisdom": !!int "4"
+  - "charisma": !!int "1"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+1"
@@ -51,7 +51,8 @@ A favored and bewitched ally of hags, wicked wagons are animated carts with sick
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 14"
 "languages": "understands Common but can't speak"
 "cr": "7"
 "traits":
@@ -64,7 +65,7 @@ A favored and bewitched ally of hags, wicked wagons are animated carts with sick
   - "desc": "If the wagon or one of its allies riding in it kills a humanoid, that\
       \ creature's soul becomes trapped in the demiplane inside the wagon. A trapped\
       \ soul remains in the demiplane until the wagon is destroyed, or until it is\
-      \ targeted by a [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]\
+      \ targeted by a [[/5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]\
       \ spell or similar magic, releasing all trapped souls.\n\nWhile a creature's\
       \ soul is trapped in the demiplane, a hag riding in the wagon can use an action\
       \ to magically transform, assuming that creature's appearance. While transformed,\
@@ -83,7 +84,7 @@ A favored and bewitched ally of hags, wicked wagons are animated carts with sick
 "actions":
   - "desc": "The wagon makes two snatch attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 18\
       \ (2d12 + 5) bludgeoning damage. If the target is a Large or smaller creature,\
       \ it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 15).\
       \ Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\

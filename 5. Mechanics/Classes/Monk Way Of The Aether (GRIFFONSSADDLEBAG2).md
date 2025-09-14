@@ -57,11 +57,11 @@ When you reach 6th level in this class, you can use your Stunning Strike feature
 
 ### Spirit Hand (Level 3)
 
-Also at 3rd level, you learn the [[5. Mechanics/Spells/Mage Hand.md\|mage hand]] cantrip, which you can cast and control as a bonus action. When you cast it, it doesn't require verbal or somatic components. The hand from the spell appears as a blue, spiritual copy of your own.
+Also at 3rd level, you learn the [[/5. Mechanics/Spells/Mage Hand.md\|mage hand]] cantrip, which you can cast and control as a bonus action. When you cast it, it doesn't require verbal or somatic components. The hand from the spell appears as a blue, spiritual copy of your own.
 
 ### Spectral Guide (Level 6)
 
-Starting at 6th level, you can't be possessed by ghosts or similar undead creatures, and you can use an action to spend 2 ki points to cast either the [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] or [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] spell, without providing material components. You also gain the [[5. Mechanics/Spells/Spare The Dying.md\|spare the dying]] cantrip if you don't already know it.
+Starting at 6th level, you can't be possessed by ghosts or similar undead creatures, and you can use an action to spend 2 ki points to cast either the [[/5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] or [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] spell, without providing material components. You also gain the [[/5. Mechanics/Spells/Spare The Dying.md\|spare the dying]] cantrip if you don't already know it.
 
 Furthermore, you learn how to free certain souls from their undead vessels when you harness your ki. You gain the following ability:
 
@@ -101,4 +101,4 @@ When you are hit by an attack, you can use your reaction to reduce the attack's 
 
 At 17th level, you gain [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]] and telepathy out to 60 feet, as you are able to clearly see the world and connect to the souls within it using aether.
 
-In addition, you can use an action to cast the [[5. Mechanics/Spells/Etherealness.md\|etherealness]] spell. When you do, the spell has a duration of 1 minute. Once you cast this spell, you can't cast it again until you finish a long rest.
+In addition, you can use an action to cast the [[/5. Mechanics/Spells/Etherealness.md\|etherealness]] spell. When you do, the spell has a duration of 1 minute. Once you cast this spell, you can't cast it again until you finish a long rest.

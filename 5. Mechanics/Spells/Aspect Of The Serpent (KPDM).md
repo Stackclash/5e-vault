@@ -20,17 +20,27 @@ classes:
   - Wizard
 school: Transmutation
 level: 3
+damage:
+  base: 2d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - piercing
+    - poison
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Touch
+somatic: true
+verbal: true
+material: a dried snakeskin
 aliases:
   - Aspect of the Serpent
-concentration: true
-material: a dried snakeskin
 ---
 # Aspect of the Serpent
 *3rd-level, Transmutation*  
@@ -44,6 +54,6 @@ A creature you touch takes on snakelike aspects for the duration of the spell. I
 
 As an action, the target can make a bite attack using either Strength or Dexterity (*Melee Weapon Attack*: range 5 ft., one creature; *Hit*: `dice:2d6|noform|noparens|avg` (`2d6`) piercing damage), and the creature must make a successful DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] for 1 minute. A creature [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] in this way repeats the saving throw at the end of each of its turns, ending the effect on itself on a success).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 40*

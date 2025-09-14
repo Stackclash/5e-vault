@@ -22,11 +22,18 @@ classes:
   - Wizard
 school: Divination
 level: 3
+damage:
+  base: 2d6
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 1 Bonus Action
 duration: Instantaneous
-components:
-  - V
+range: Self
+somatic: false
+verbal: true
 aliases:
   - Targeting Foreknowledge
 ---
@@ -40,6 +47,6 @@ aliases:
 
 Twisting the knife, slapping with the butt of the spear, slashing out again as you recover from a lunge, and countless other double-strike maneuvers are skillful ways to get more from your weapon. By casting this spell as a bonus action upon making a successful melee weapon attack, you deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage of the weapon's type to the target. In addition, if your original weapon weapon attack roll was a 19 or higher, treat this extra attack as achieving a critical hit, doubling the damage die.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 112*

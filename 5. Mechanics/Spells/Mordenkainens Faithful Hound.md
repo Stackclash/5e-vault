@@ -22,16 +22,22 @@ classes:
   - Wizard
 school: Conjuration
 level: 4
+damage:
+  base: 4d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - piercing
 ritual: false
 time: 1 Action
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: 'a tiny silver whistle, a piece of bone, and a thread'
 aliases:
   - Mordenkainen's Faithful Hound
-material: 'a tiny silver whistle, a piece of bone, and a thread'
 ---
 # Mordenkainen's Faithful Hound
 *4th-level, Conjuration*  
@@ -47,6 +53,6 @@ The hound is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] to all c
 
 At the start of each of your turns, the hound attempts to bite one creature within 5 feet of it that is hostile to you. The hound's attack bonus is equal to your spellcasting ability modifier + your proficiency bonus. On a hit, it deals `dice:4d8|noform|noparens|avg` (`4d8`) piercing damage.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Justice Domain)](compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](/compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Justice Domain)](/compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Faithful Hound")*

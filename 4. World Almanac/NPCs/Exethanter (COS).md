@@ -54,7 +54,7 @@ image: null
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 189*
@@ -127,9 +127,9 @@ actions:
   - !!int "16"
 "speed": "30 ft."
 "saves":
-  - "constitution": "+10"
-  - "intelligence": "+12"
-  - "wisdom": "+9"
+  - "constitution": !!int "10"
+  - "intelligence": !!int "12"
+  - "wisdom": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+19"
@@ -144,19 +144,20 @@ actions:
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 19"
 "languages": "Common plus up to five other languages"
 "cr": "10"
 "traits":
   - "desc": "Exethanter is an 18th-level spellcaster. Its spellcasting ability is\
       \ Intelligence (spell save DC 20, +12 to hit with spell attacks). Exethanter\
-      \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage\
-      \ hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
-      \ [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]"
+      \ has the following wizard spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Mage Hand.md|mage\
+      \ hand]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]],\
+      \ [[/5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]"
     "name": "Spellcasting"
   - "desc": "If Exethanter fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "If it has a phylactery, a destroyed lich gains a new body in d10 days,\
+  - "desc": "If it has a phylactery, a destroyed lich gains a new body in 1d10 days,\
       \ regaining all its hit points and becoming active again. The new body appears\
       \ within 5 feet of the phylactery."
     "name": "Rejuvenation"
@@ -164,12 +165,15 @@ actions:
       \ undead."
     "name": "Turn Resistance"
 "actions":
-  - "desc": "Melee Spell Attack: +12 to hit, reach 5 ft., one creature. Hit: 10\
+  - "desc": "*Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10\
       \ (3d6) cold damage. The target must succeed on a DC 18 Constitution saving\
       \ throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]] for 1 minute.\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Paralyzing Touch"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, Exethanter can expend a use to take one of the following actions. Exethanter\
+  \ regains all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Exethanter casts a cantrip."
     "name": "Cantrip"
@@ -189,7 +193,7 @@ actions:
     "name": "Disrupt Life (Costs 3 Actions)"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/exethanter-cos.webp"
+"image": "/4. World Almanac/NPCs/token/exethanter-cos.webp"
 ```
 ^statblock
 

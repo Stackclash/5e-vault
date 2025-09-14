@@ -23,16 +23,22 @@ classes:
   - Wizard
 school: Conjuration
 level: 1
+damage:
+  base: 1d4
+  scaling:
+    damage: null
+    level: 2
+  types:
+    - cold
 ritual: false
 time: 1 Action
 duration: 'Instantaneous, Special'
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: a miniature dagger shaped like an icicle
 aliases:
   - Icicle Daggers
-material: a miniature dagger shaped like an icicle
 ---
 # Icicle Daggers
 *1st-level, Conjuration*  
@@ -42,12 +48,14 @@ material: a miniature dagger shaped like an icicle
 - **Components:** V, S, M (a miniature dagger shaped like an icicle)
 - **Duration:** Instantaneous, Special
 
-When you cast this spell, three icicles appear in your hand. Each icicle has the same properties as a [[5. Mechanics/Items/Dagger.md\|dagger]] but deals an extra `dice:1d4|noform|noparens|avg` (`d4`) cold damage on a hit.
+When you cast this spell, three icicles appear in your hand. Each icicle has the same properties as a [[/5. Mechanics/Items/Dagger.md\|dagger]] but deals an extra `dice:1d4|noform|noparens|avg` (`1d4`) cold damage on a hit.
 
 The icicle daggers melt a few seconds after leaving your hand, making it impossible for other creatures to wield them. If the surrounding temperature is at or below freezing, the daggers last for 1 hour. They melt instantly if you take 10 or more fire damage.
 
 **At Higher Levels.** If you cast this spell using a spell slot of 2nd level or higher, you can create two additional daggers for each slot level above 1st. If you cast this spell using a spell slot of 4th level or higher, daggers that leave your hand don't melt until the start of your next turn.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Winter Domain)](compendium/lists/list-spells-classes-winter-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Winter Domain)](/compendium/lists/list-spells-classes-winter-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Deep Magic p. 273*

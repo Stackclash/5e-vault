@@ -13,16 +13,21 @@ classes:
   - Paladin
 school: Abjuration
 level: 3
+damage:
+  base: 4d10
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: true
 time: 1 Action
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: 'a vial of holy water, which is consumed'
 aliases:
   - Holy Vow
-material: 'a vial of holy water, which is consumed'
 ---
 # Holy Vow
 *3rd-level, Abjuration (ritual)*  
@@ -36,6 +41,6 @@ You willingly take a vow to complete a task or carry out a service. This task or
 
 If you willingly forsake your vow, the spell ends, and you take `dice:4d10|noform|noparens|avg` (`4d10`) psychic damage. At the GM's discretion, you might suffer other penalties and need to atone for your decision. See the "Breaking Your Oath" sidebar in the paladin class description for more details. Failing to complete the task does not incur any penalties as long as you remain true to your vow, nor are you penalized if some form of outside coercion, magical or otherwise, leads you to forsake your vow (being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], for instance, or if a villain threatens the lives of innocents if you do not break the vow).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 81*

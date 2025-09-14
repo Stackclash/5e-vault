@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\vladimir-horngaard.webp
+  - ../../../../../4. World Almanac/NPCs/img/vladimir-horngaard.webp
 relationships: []
 aliases:
   - Vladimir Horngaard
@@ -58,7 +58,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 241*
@@ -77,7 +77,7 @@ When Strahd became a vampire, Vladimir and his revenants should have gone to the
 
 ### Blinded by Hatred
 
- Vladimir hates Strahd but doesn't want to see the vampire given his final rest. Vladimir wants Strahd to suffer forever for the deaths of Godfrey and Argynvost, the destruction of their order, and all the other crimes of which the vampire is guilty. Vladimir believes that all of Barovia has been swept into hell, and he wants to make sure that Strahd stays trapped in it forever. It angers Vladimir that he and his fellow knights are also trapped, but in Vladimir's mind, such is the price of keeping the vampire confined. Even his love for Godfrey is now just a dim memory shrouded by his hate.
+Vladimir hates Strahd but doesn't want to see the vampire given his final rest. Vladimir wants Strahd to suffer forever for the deaths of Godfrey and Argynvost, the destruction of their order, and all the other crimes of which the vampire is guilty. Vladimir believes that all of Barovia has been swept into hell, and he wants to make sure that Strahd stays trapped in it forever. It angers Vladimir that he and his fellow knights are also trapped, but in Vladimir's mind, such is the price of keeping the vampire confined. Even his love for Godfrey is now just a dim memory shrouded by his hate.
 
 Were Vladimir to let go of his hatred, his spirit would find peace and could remember the warmth of love. Were Strahd to be defeated, even temporarily, the mists surrounding Barovia would fade, allowing the spirits of Vladimir and his knights to enter the afterlife. Nevertheless, Vladimir would rather savor Strahd's torment than bring peace to his fallen order or peace to the land of Barovia. Gone are the days of honor and valor.
 
@@ -175,7 +175,7 @@ actions:
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[[5. Mechanics/Items/Half Plate Armor.md|half plate armor]]"
+"ac_class": "[[/5. Mechanics/Items/Half Plate Armor.md|half plate armor]]"
 "hp": !!int "192"
 "hit_dice": "16d8 + 64"
 "modifier": !!int "2"
@@ -188,16 +188,17 @@ actions:
   - !!int "18"
 "speed": "30 ft."
 "saves":
-  - "strength": "+7"
-  - "constitution": "+7"
-  - "wisdom": "+6"
-  - "charisma": "+7"
+  - "strength": !!int "7"
+  - "constitution": !!int "7"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Common, Draconic"
 "cr": "7"
 "traits":
@@ -208,10 +209,10 @@ actions:
     "name": "Regeneration"
   - "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours,\
       \ the soul inhabits and animates another corpse on the same plane of existence\
-      \ and regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md|wish]]\
+      \ and regains all its hit points. While the soul is bodiless, a [[/5. Mechanics/Spells/Wish.md|wish]]\
       \ spell can be used to force the soul to go to the afterlife and not return."
     "name": "Rejuvenation"
-  - "desc": "Vladimir wields a [[5. Mechanics/Items/2 Weapon.md|+2 greatsword]] with\
+  - "desc": "Vladimir wields a [[/5. Mechanics/Items/2 Weapon.md|+2 greatsword]] with\
       \ a hilt sculpted to resemble silver dragon wings and a pommel shaped like a\
       \ silver dragon's head clutching a black opal between its teeth. "
     "name": "Special Equipment"
@@ -224,12 +225,12 @@ actions:
 "actions":
   - "desc": "Vladimir makes two fist attacks or two attacks with his +2 Greatsword."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage. Strahd, the target of Vladimir's sworn vengeance,\
       \ takes an extra 14 (4d6) bludgeoning damage. Instead of dealing damage, Vladimir\
       \ can grapple the target (escape DC 14) provided the target is Large or smaller."
     "name": "Fist"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 20\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 20\
       \ (4d6 + 6) slashing damage. Against Strahd, Vladimir deals an extra 14 (4d6)\
       \ slashing damage with this weapon."
     "name": "Greatsword +2"
@@ -243,7 +244,7 @@ actions:
     "name": "Vengeful Glare"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/vladimir-horngaard-cos.webp"
+"image": "/4. World Almanac/NPCs/token/vladimir-horngaard-cos.webp"
 ```
 ^statblock
 

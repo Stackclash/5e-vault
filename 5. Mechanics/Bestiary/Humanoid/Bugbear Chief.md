@@ -16,7 +16,7 @@ tags:
 aliases:
   - Bugbear Chief
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bugbear Chief.md|Bugbear Chief]]
+# [[5. Mechanics/Bestiary/Humanoid/Bugbear Chief.md|Bugbear Chief]]
 *Source: Monster Manual p. 33*
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
@@ -40,7 +40,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 "subtype": "goblinoid"
 "alignment": "Chaotic Evil"
 "ac": !!int "17"
-"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Chain Shirt.md|chain shirt]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "2"
@@ -59,7 +59,8 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
@@ -78,16 +79,16 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 "actions":
   - "desc": "The bugbear makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d8 + 3) piercing damage."
     "name": "Morningstar"
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. Hit: 9 (2d6 + 3) piercing damage in melee or 5 (1d6 + 3)\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. *Hit:* 9 (2d6 + 3) piercing damage in melee or 5 (1d6 + 3)\
       \ piercing damage at range."
     "name": "Javelin"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/bugbear-chief.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/bugbear-chief.webp"
 ```
 ^statblock
 

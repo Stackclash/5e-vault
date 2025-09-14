@@ -19,7 +19,7 @@ tags:
 aliases:
   - Revenant
 ---
-# [[5. Mechanics\Bestiary\Undead\Revenant.md|Revenant]]
+# [[5. Mechanics/Bestiary/Undead/Revenant.md|Revenant]]
 *Source: Monster Manual p. 259, Curse of Strahd*
 
 A revenant forms from the soul of a mortal who met a cruel and undeserving fate. It claws its way back into the world to seek revenge against the one who wronged it. The revenant reclaims its mortal body and superficially resembles a zombie. However, instead of lifeless eyes, a revenant's eyes burn with resolve and flare in the presence of its adversary. If the revenant's original body was destroyed or is otherwise unavailable, the spirit of the revenant enters another humanoid corpse. Regardless of the body the revenant uses as a vessel, its adversary always recognizes the revenant for what it truly is.
@@ -42,7 +42,7 @@ A revenant doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Neutral"
 "ac": !!int "13"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "136"
 "hit_dice": "16d8 + 64"
 "modifier": !!int "2"
@@ -55,16 +55,17 @@ A revenant doesn't require air, food, drink, or sleep.
   - !!int "18"
 "speed": "30 ft."
 "saves":
-  - "strength": "+7"
-  - "constitution": "+7"
-  - "wisdom": "+6"
-  - "charisma": "+7"
+  - "strength": !!int "7"
+  - "constitution": !!int "7"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "the languages it knew in life"
 "cr": "5"
 "traits":
@@ -75,7 +76,7 @@ A revenant doesn't require air, food, drink, or sleep.
     "name": "Regeneration"
   - "desc": "When the revenant's body is destroyed, its soul lingers. After 24 hours,\
       \ the soul inhabits and animates another humanoid corpse on the same plane of\
-      \ existence and regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md|wish]]\
+      \ existence and regains all its hit points. While the soul is bodiless, a [[/5. Mechanics/Spells/Wish.md|wish]]\
       \ spell can be used to force the soul to go to the afterlife and not return."
     "name": "Rejuvenation"
   - "desc": "The revenant is immune to effects that turn undead."
@@ -88,7 +89,7 @@ A revenant doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The revenant makes two fist attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage. If the target is a creature against which the\
       \ revenant has sworn vengeance, the target takes an extra 14 (4d6) bludgeoning\
       \ damage. Instead of dealing damage, the revenant can grapple the target (escape\
@@ -107,7 +108,7 @@ A revenant doesn't require air, food, drink, or sleep.
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Undead/token/revenant.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/revenant.webp"
 ```
 ^statblock
 

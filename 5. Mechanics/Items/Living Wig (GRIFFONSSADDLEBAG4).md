@@ -14,7 +14,7 @@ aliases:
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Living Wig Uncommon (GRIFFONSSADDLEBAG4).md\|Living Wig (Uncommon)]]  
-- [[5. Mechanics/Items/Living Wig Rare (GRIFFONSSADDLEBAG4).md\|Living Wig (Rare)]]  
+- [[/5. Mechanics/Items/Living Wig Uncommon (GRIFFONSSADDLEBAG4).md\|Living Wig (Uncommon)]]  
+- [[/5. Mechanics/Items/Living Wig Rare (GRIFFONSSADDLEBAG4).md\|Living Wig (Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*

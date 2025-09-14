@@ -57,10 +57,10 @@ You choose your patron's kind or determine it randomly, using the Genie Kind tab
 
 | dice: d4 | Kind | Element |
 |----------|------|---------|
-| 1 | [[5. Mechanics/Bestiary/Elemental/Dao.md\|Dao]] | Earth |
-| 2 | [[5. Mechanics/Bestiary/Elemental/Djinni.md\|Djinni]] | Air |
-| 3 | [[5. Mechanics/Bestiary/Elemental/Efreeti.md\|Efreeti]] | Fire |
-| 4 | [[5. Mechanics/Bestiary/Elemental/Marid.md\|Marid]] | Water |
+| 1 | [[/5. Mechanics/Bestiary/Elemental/Dao.md\|Dao]] | Earth |
+| 2 | [[/5. Mechanics/Bestiary/Elemental/Djinni.md\|Djinni]] | Air |
+| 3 | [[/5. Mechanics/Bestiary/Elemental/Efreeti.md\|Efreeti]] | Fire |
+| 4 | [[/5. Mechanics/Bestiary/Elemental/Marid.md\|Marid]] | Water |
 ^genie-kind
 
 #### Expanded Spell List
@@ -74,12 +74,12 @@ The Genie lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Genie Spells | Dao Spells | Djinni Spells | Efreeti Spells | Marid Spells |
 |-------------|--------------|------------|---------------|----------------|--------------|
-| 1st | [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] | [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]] | [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] | [[5. Mechanics/Spells/Burning Hands.md\|burning hands]] | [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] |
-| 2nd | [[5. Mechanics/Spells/Phantasmal Force.md\|phantasmal force]] | [[5. Mechanics/Spells/Spike Growth.md\|spike growth]] | [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] | [[5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] | [[5. Mechanics/Spells/Blur.md\|blur]] |
-| 3rd | [[5. Mechanics/Spells/Create Food And Water.md\|create food and water]] | [[5. Mechanics/Spells/Meld Into Stone.md\|meld into stone]] | [[5. Mechanics/Spells/Wind Wall.md\|wind wall]] | [[5. Mechanics/Spells/Fireball.md\|fireball]] | [[5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] |
-| 4th | [[5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]] | [[5. Mechanics/Spells/Stone Shape.md\|stone shape]] | [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] | [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] | [[5. Mechanics/Spells/Control Water.md\|control water]] |
-| 5th | [[5. Mechanics/Spells/Creation.md\|creation]] | [[5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]] | [[5. Mechanics/Spells/Seeming.md\|seeming]] | [[5. Mechanics/Spells/Flame Strike.md\|flame strike]] | [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
-| 9th | [[5. Mechanics/Spells/Wish.md\|wish]] | — | — | — | — |
+| 1st | [[/5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] | [[/5. Mechanics/Spells/Sanctuary.md\|sanctuary]] | [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]] | [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]] | [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] |
+| 2nd | [[/5. Mechanics/Spells/Phantasmal Force.md\|phantasmal force]] | [[/5. Mechanics/Spells/Spike Growth.md\|spike growth]] | [[/5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] | [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] | [[/5. Mechanics/Spells/Blur.md\|blur]] |
+| 3rd | [[/5. Mechanics/Spells/Create Food And Water.md\|create food and water]] | [[/5. Mechanics/Spells/Meld Into Stone.md\|meld into stone]] | [[/5. Mechanics/Spells/Wind Wall.md\|wind wall]] | [[/5. Mechanics/Spells/Fireball.md\|fireball]] | [[/5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] |
+| 4th | [[/5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]] | [[/5. Mechanics/Spells/Stone Shape.md\|stone shape]] | [[/5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] | [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] | [[/5. Mechanics/Spells/Control Water.md\|control water]] |
+| 5th | [[/5. Mechanics/Spells/Creation.md\|creation]] | [[/5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]] | [[/5. Mechanics/Spells/Seeming.md\|seeming]] | [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]] | [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
+| 9th | [[/5. Mechanics/Spells/Wish.md\|wish]] | — | — | — | — |
 ^genie-expanded-spells
 
 ### Genie's Vessel (Level 1)
@@ -140,4 +140,4 @@ In addition, anyone (including you) who remains within the vessel for at least 1
 
 You entreat your patron to grant you a small wish. As an action, you can speak your desire to your Genie's Vessel, requesting the effect of one spell that is 6th level or lower and has a casting time of 1 action. The spell can be from any class's spell list, and you don't need to meet the requirements in that spell, including costly components; the spell simply takes effect as part of this action.
 
-Once you use this feature, you can't use it again until you finish `dice:1d4|noform|noparens|avg` (`d4`) long rests.
+Once you use this feature, you can't use it again until you finish `dice:1d4|noform|noparens|avg` (`1d4`) long rests.

@@ -10,11 +10,11 @@ tags:
 aliases:
   - Legion of Brass Katars
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 1
 ---
 # Legion of Brass Katars
-*Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Legion-of-Brass-Katars.webp#right)  
 
 - **Damage**: 1d4 piercing

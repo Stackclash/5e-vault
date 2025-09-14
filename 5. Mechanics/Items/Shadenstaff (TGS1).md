@@ -14,7 +14,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Shadenstaff
-*Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
+*Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Shadenstaff.webp#right)  
 
 - **Damage**:
@@ -29,10 +29,10 @@ The staff has 15 charges for the following properties and regains `dice:2d6+3|no
 
 ## Annihilating Strike
 
-When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra `dice:1d10|noform|noparens|avg` (`d10`) necrotic damage to the target.
+When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra `dice:1d10|noform|noparens|avg` (`1d10`) necrotic damage to the target.
 
 ## Spells
 
-While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] (1 charge), [[5. Mechanics/Spells/Darkness.md\|darkness]] (2 charges), [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] (5 charges), [[5. Mechanics/Spells/Inflict Wounds.md\|inflict wounds]] (3rd-level version, 3 charges), or [[5. Mechanics/Spells/Circle Of Death.md\|circle of death]] (6 charges).
+While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: [[/5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] (1 charge), [[/5. Mechanics/Spells/Darkness.md\|darkness]] (2 charges), [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] (5 charges), [[/5. Mechanics/Spells/Inflict Wounds.md\|inflict wounds]] (3rd-level version, 3 charges), or [[/5. Mechanics/Spells/Circle Of Death.md\|circle of death]] (6 charges).
 
 *Source: The Griffon's Saddlebag, Book 1 p. 113*

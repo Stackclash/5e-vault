@@ -19,16 +19,21 @@ classes:
   - Wizard
 school: Conjuration
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
 ritual: true
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - S
-  - M
+range: 300 feet
+somatic: true
+verbal: true
+material: a small brass key
 aliases:
   - Portal Jaunt
-material: a small brass key
 ---
 # Portal Jaunt
 *3rd-level, Conjuration (ritual)*  
@@ -42,10 +47,10 @@ You touch a specially prepared key to a door or gate, turning it into a one-way 
 
 On completing the spell, the touched door opens, revealing a shimmering image of the location beyond the destination door. You can move through the door, emerging instantly out of the destination door. You can also allow one other willing creature to pass through the portal instead. Anything you carry moves through the door with you, including other creatures, willing or unwilling.
 
-For the purpose of this spell, any locks, bars, or magical effects such as [[5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] are ineffectual for the spell's duration. You can travel only to a side of the door you can see or have physically visited in the past (divinations such as [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] count as seeing). Once you or a willing creature passes through, both doors shut, ending the spell. If you or another creature does not move through the portal within 1 round, the spell ends.
+For the purpose of this spell, any locks, bars, or magical effects such as [[/5. Mechanics/Spells/Arcane Lock.md\|arcane lock]] are ineffectual for the spell's duration. You can travel only to a side of the door you can see or have physically visited in the past (divinations such as [[/5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] count as seeing). Once you or a willing creature passes through, both doors shut, ending the spell. If you or another creature does not move through the portal within 1 round, the spell ends.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the range increases by 100 feet and the duration increases by 1 round for each slot level above 3rd. Each round added to the duration allows one additional creature to move through the portal before the spell ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 99*

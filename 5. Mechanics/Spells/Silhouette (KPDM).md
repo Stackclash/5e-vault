@@ -14,16 +14,15 @@ classes:
   - Rogue (Arcane Trickster)
   - Wizard
 school: Illusion
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Silhouette
-concentration: true
 ---
 # Silhouette
 *cantrip, Illusion*  
@@ -35,6 +34,6 @@ concentration: true
 
 You create a shadow play against a screen or wall. The surface can encompass up to 100 square feet. The number of creatures that can see the shadow play equals your Intelligence score. The shadowy figures make no sound but they can dance, run, move, kiss, fight, and so forth. Most of the figures are generic types—a rabbit, a dwarf—but a number of them equal to your Intelligence modifier can be recognizable as specific individuals.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 252*

@@ -12,17 +12,29 @@ classes:
   - Druid
 school: Evocation
 level: 5
+damage:
+  base: 6d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+somatic: true
+verbal: true
+material: paper or leaf in the shape of a funnel
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Maelstrom
-concentration: true
-material: paper or leaf in the shape of a funnel
 ---
 # Maelstrom
 *5th-level, Evocation*  
@@ -34,6 +46,6 @@ material: paper or leaf in the shape of a funnel
 
 A swirling mass of 5-foot-deep water appears in a 30-foot radius centered on a point you can see within range. The point must be on the ground or in a body of water. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength saving throw or take `dice:6d6|noform|noparens|avg` (`6d6`) bludgeoning damage and be pulled 10 feet toward the center.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Xanathar's Guide to Everything p. 160*

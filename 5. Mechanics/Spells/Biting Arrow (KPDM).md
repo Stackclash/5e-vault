@@ -27,16 +27,23 @@ classes:
   - Sorcerer
   - Wizard
 school: Evocation
-level: cantrip
+level: 0
+damage:
+  base: 1d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - cold
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - M
+range: Self
+somatic: false
+verbal: true
+material: an arrow or a thrown weapon
 aliases:
   - Biting Arrow
-material: an arrow or a thrown weapon
 ---
 # Biting Arrow
 *cantrip, Evocation*  
@@ -48,10 +55,12 @@ material: an arrow or a thrown weapon
 
 As part of the action used to cast this spell, you make a ranged weapon attack with a bow, a crossbow, or a thrown weapon. The effect is limited to a range of 120 feet despite the weapon's range, and the attack is made with disadvantage if the target is in the weapon's long range, as per usual.
 
-If the weapon attack hits, it deals damage as usual. In addition, the target becomes coated in thin frost until the start of your next turn. If the target uses its reaction before the start of your next turn, it immediately takes `dice:1d6|noform|noparens|avg` (`d6`) cold damage and the spell ends.
+If the weapon attack hits, it deals damage as usual. In addition, the target becomes coated in thin frost until the start of your next turn. If the target uses its reaction before the start of your next turn, it immediately takes `dice:1d6|noform|noparens|avg` (`1d6`) cold damage and the spell ends.
 
-The spell's damage, for both the ranged attack and the cold damage, increases by `dice:1d6|noform|noparens|avg` (`d6`) when you reach 5th level (`dice:+1d6|noform|noparens|avg` (`+ 1d6`) and `dice:2d6|noform|noparens|avg` (`2d6`)), 11th level (`dice:+2d6|noform|noparens|avg` (`+ 2d6`) and `dice:3d6|noform|noparens|avg` (`3d6`)), and 17th level (`dice:+3d6|noform|noparens|avg` (`+ 3d6`) and `dice:4d6|noform|noparens|avg` (`4d6`)).
+The spell's damage, for both the ranged attack and the cold damage, increases by `dice:1d6|noform|noparens|avg` (`1d6`) when you reach 5th level (`dice:+1d6|noform|noparens|avg` (`+ 1d6`) and `dice:2d6|noform|noparens|avg` (`2d6`)), 11th level (`dice:+2d6|noform|noparens|avg` (`+ 2d6`) and `dice:3d6|noform|noparens|avg` (`3d6`)), and 17th level (`dice:+3d6|noform|noparens|avg` (`+ 3d6`) and `dice:4d6|noform|noparens|avg` (`4d6`)).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
 
 *Source: Deep Magic p. 268*

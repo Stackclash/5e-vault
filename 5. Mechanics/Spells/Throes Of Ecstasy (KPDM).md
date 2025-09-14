@@ -26,17 +26,25 @@ classes:
   - Wizard
 school: Transmutation
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+material: a hazel or oak wand
 aliases:
   - Throes of Ecstasy
-concentration: true
-material: a hazel or oak wand
 ---
 # Throes of Ecstasy
 *3rd-level, Transmutation*  
@@ -50,6 +58,6 @@ Choose a humanoid that you can see within range. The target must succeed on a Co
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional humanoid for each slot level above 3rd. The humanoids must be within 30 feet of each other when you target them.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Lust Domain)](compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Lust Domain)](/compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 114*

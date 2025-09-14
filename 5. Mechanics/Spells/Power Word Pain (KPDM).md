@@ -26,16 +26,26 @@ classes:
   - Wizard
 school: Enchantment
 level: 4
+damage:
+  base: 4d10
+  scaling:
+    damage: null
+    level: null
+  types:
+    - force
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 60 feet
+somatic: true
+verbal: true
+material: a quill jabbed into your own body
 aliases:
   - Power Word Pain
-material: a quill jabbed into your own body
 ---
 # Power Word Pain
 *4th-level, Enchantment*  
@@ -47,6 +57,6 @@ material: a quill jabbed into your own body
 
 When you utter this word of power, one creature within 60 feet of you takes `dice:4d10|noform|noparens|avg` (`4d10`) force damage. At the start of each of its turns, the creature must make a successful Constitution saving throw or take an extra `dice:4d10|noform|noparens|avg` (`4d10`) force damage. The effect ends on a successful save.
 
-**Classes**: [Cleric (Hunting Domain)](compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Hunting Domain)](/compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 100*

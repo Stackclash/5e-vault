@@ -13,7 +13,7 @@ tags:
 aliases:
   - Executioner
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Executioner (SAF).md|Executioner]]
+# [[5. Mechanics/Bestiary/Humanoid/Executioner (SAF).md|Executioner]]
 *Source: Strongholds and Followers p. 78*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+3"
-  - "dexterity": "+6"
-  - "constitution": "+3"
-  - "intelligence": "+6"
-  - "wisdom": "+3"
-  - "charisma": "+3"
+  - "strength": !!int "3"
+  - "dexterity": !!int "6"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+5"
@@ -56,11 +56,11 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
       \ + 4) piercing damage.\n\nAt 7th level, retainers can take two signature attacks\
       \ per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nThe executioner whips a serrated\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nThe executioner whips a serrated\
       \ wire around an adjacent creature's neck, dealing 10 (3d6) slashing damage\
       \ on a hit. The creature must make a Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
       \ At the start of the executioners turn, they automatically deal 3d6 slashing\
@@ -70,12 +70,12 @@ aliases:
       \ or Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check\
       \ to break the grapple."
     "name": "Garrote (3/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe executioner throws a barrage\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe executioner throws a barrage\
       \ of shadowy daggers at all enemies within 10 feet. Targets must make a Dexterity\
       \ saving throw or take 14 (4d6) piercing damage, or half as much damage on a\
       \ successful one."
     "name": "Dagger Storm (1/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe executioner disappears in a\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe executioner disappears in a\
       \ cloud of shadow, reappearing behind a chosen enemy creature within 60 feet.\
       \ The executioner attacks twice with their signature attack, dealing an extra\
       \ 14 (4d6) force damage on each hit."

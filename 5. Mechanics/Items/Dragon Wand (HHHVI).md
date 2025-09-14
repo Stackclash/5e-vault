@@ -19,12 +19,12 @@ While holding this wand, you gain a bonus to spell attack rolls determined by th
 If that spell attack hits, you also deal extra damage dice of that damage type equal to the spell attack bonus granted by this item.
 
 > [!embed-table]- Dragon Types
-> ![[5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
+> ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 **Items in this group:**
 
-- [[5. Mechanics/Items/1 Dragon Wand (HHHVI).md\|+1 Dragon Wand]]
-- [[5. Mechanics/Items/2 Dragon Wand (HHHVI).md\|+2 Dragon Wand]]
-- [[5. Mechanics/Items/3 Dragon Wand (HHHVI).md\|+3 Dragon Wand]]
+- [[/5. Mechanics/Items/1 Dragon Wand (HHHVI).md\|+1 Dragon Wand]]
+- [[/5. Mechanics/Items/2 Dragon Wand (HHHVI).md\|+2 Dragon Wand]]
+- [[/5. Mechanics/Items/3 Dragon Wand (HHHVI).md\|+3 Dragon Wand]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*

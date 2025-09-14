@@ -14,7 +14,7 @@ one-hand-damage: 1d6 necrotic
 weight: 3
 ---
 # Urnblade
-*Weapon ([[5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Urnblade.webp#right)  
 
 - **Damage**: 1d6 necrotic
@@ -27,7 +27,7 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon, whic
 
 ## Shadow Ally
 
-While holding the urn, you can use an action to speak its second command word to animate your body's shadow, transforming it into an undead creature. When you do, your body's shadow detaches from you and becomes a [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] in an unoccupied space that you can see within 10 feet of you.
+While holding the urn, you can use an action to speak its second command word to animate your body's shadow, transforming it into an undead creature. When you do, your body's shadow detaches from you and becomes a [[/5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] in an unoccupied space that you can see within 10 feet of you.
 
 On your turn, you can mentally command the shadow if you aren't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. You decide what action the shadow takes and where it moves during its next turn, or you can issue it a general command, such as to attack your enemies or guard a location. The GM has the shadow's statistics. This shadow doesn't cause a new one to appear when a non-evil humanoid dies from its attacks.
 

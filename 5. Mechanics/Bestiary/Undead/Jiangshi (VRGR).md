@@ -13,7 +13,7 @@ tags:
 aliases:
   - Jiangshi
 ---
-# [[5. Mechanics\Bestiary\Undead\Jiangshi (VRGR).md|Jiangshi]]
+# [[5. Mechanics/Bestiary/Undead/Jiangshi (VRGR).md|Jiangshi]]
 *Source: Van Richten's Guide to Ravenloft p. 236*
 
 When a soul becomes trapped within its corpse, its bitterness can reanimate its body, creating a jiangshi. These vengeful dead stalk their descendants and the communities they knew in life, sowing terror and taking retribution for the slights or neglected burial rites that led to their cursed resurrections. Rigor mortis notoriously afflicts the limbs of jiangshi, causing them to hold their arms rigidly and to walk with a stiff gait. This, along with their flight, lead many to call them hopping vampires.
@@ -39,21 +39,22 @@ By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention
   - !!int "12"
 "speed": "20 ft."
 "saves":
-  - "constitution": "+8"
-  - "intelligence": "+7"
-  - "wisdom": "+6"
-  - "charisma": "+5"
+  - "constitution": !!int "8"
+  - "intelligence": !!int "7"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "5"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 12"
 "languages": "any languages it knew in life"
 "cr": "9"
 "traits":
-  - "desc": "The jiangshi has the following flaws:\n\nFear of Its Own Reflection.\
+  - "desc": "The jiangshi has the following flaws:\n\n*Fear of Its Own Reflection.*\
       \ If the jiangshi sees its own reflection, it immediately uses its reaction,\
-      \ if available, to move as far away from the reflection as possible.\n\nSusceptible\
-      \ to Holy Symbols. While the jiangshi is wearing or touching a holy symbol,\
+      \ if available, to move as far away from the reflection as possible.\n\n*Susceptible\
+      \ to Holy Symbols.* While the jiangshi is wearing or touching a holy symbol,\
       \ it automatically fails saving throws against effects that turn Undead."
     "name": "Jiangshi Weaknesses"
   - "desc": "The jiangshi doesn't require air."
@@ -61,7 +62,7 @@ By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention
 "actions":
   - "desc": "The jiangshi makes three Slam attacks and uses Consume Energy."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage."
     "name": "Slam"
   - "desc": "The jiangshi draws energy from a creature it can see within 30 feet of\
@@ -84,7 +85,7 @@ By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention
     "name": "Change Shape"
 "source":
   - "VRGR"
-"image": "5. Mechanics/Bestiary/Undead/token/jiangshi-vrgr.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/jiangshi-vrgr.webp"
 ```
 ^statblock
 

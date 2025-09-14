@@ -17,7 +17,7 @@ tags:
 aliases:
   - Wight
 ---
-# [[5. Mechanics\Bestiary\Undead\Wight.md|Wight]]
+# [[5. Mechanics/Bestiary/Undead/Wight.md|Wight]]
 *Source: Monster Manual p. 300, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.
@@ -46,7 +46,7 @@ A wight doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Neutral Evil"
 "ac": !!int "14"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "2"
@@ -68,7 +68,8 @@ A wight doesn't require air, food, drink, or sleep.
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
@@ -80,27 +81,27 @@ A wight doesn't require air, food, drink, or sleep.
   - "desc": "The wight makes two longsword attacks or two longbow attacks. It can\
       \ use its Life Drain in place of one longsword attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5\
       \ (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution\
       \ saving throw or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
       \ The target dies if this effect reduces its hit point maximum to 0.\n\nA humanoid\
-      \ slain by this attack rises 24 hours later as a [[5. Mechanics/Bestiary/Undead/Zombie.md|zombie]]\
+      \ slain by this attack rises 24 hours later as a [[/5. Mechanics/Bestiary/Undead/Zombie.md|zombie]]\
       \ under the wight's control, unless the humanoid is restored to life or its\
       \ body is destroyed. The wight can have no more than twelve zombies under its\
       \ control at one time."
     "name": "Life Drain"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
       \ + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands."
     "name": "Longsword"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
     "name": "Longbow"
 "source":
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Undead/token/wight.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/wight.webp"
 ```
 ^statblock
 

@@ -31,15 +31,15 @@ If the characters seek a specific magic item, first decide if it's an item you w
 
 | Check Total | Items Acquired |
 |-------------|----------------|
-| 1–5 | Roll `dice:1d6\|noform\|noparens\|avg` (`d6`) times on [[5. Mechanics/Tables/Magic Item Table A.md\|Magic Item Table A]]. |
-| 6–10 | Roll `dice:1d4\|noform\|noparens\|avg` (`d4`) times on [[5. Mechanics/Tables/Magic Item Table B.md\|Magic Item Table B]]. |
-| 11–15 | Roll `dice:1d4\|noform\|noparens\|avg` (`d4`) times on [[5. Mechanics/Tables/Magic Item Table C.md\|Magic Item Table C]]. |
-| 16–20 | Roll `dice:1d4\|noform\|noparens\|avg` (`d4`) times on [[5. Mechanics/Tables/Magic Item Table D.md\|Magic Item Table D]]. |
-| 21–25 | Roll `dice:1d4\|noform\|noparens\|avg` (`d4`) times on [[5. Mechanics/Tables/Magic Item Table E.md\|Magic Item Table E]]. |
-| 26–30 | Roll `dice:1d4\|noform\|noparens\|avg` (`d4`) times on [[5. Mechanics/Tables/Magic Item Table F.md\|Magic Item Table F]]. |
-| 31–35 | Roll `dice:1d4\|noform\|noparens\|avg` (`d4`) times on [[5. Mechanics/Tables/Magic Item Table G.md\|Magic Item Table G]]. |
-| 36–40 | Roll `dice:1d4\|noform\|noparens\|avg` (`d4`) times on [[5. Mechanics/Tables/Magic Item Table H.md\|Magic Item Table H]]. |
-| 41+ | Roll `dice:1d4\|noform\|noparens\|avg` (`d4`) times on [[5. Mechanics/Tables/Magic Item Table I.md\|Magic Item Table I]]. |
+| 1–5 | Roll `dice:1d6\|noform\|noparens\|avg` (`1d6`) times on [[/5. Mechanics/Tables/Magic Item Table A.md\|Magic Item Table A]]. |
+| 6–10 | Roll `dice:1d4\|noform\|noparens\|avg` (`1d4`) times on [[/5. Mechanics/Tables/Magic Item Table B.md\|Magic Item Table B]]. |
+| 11–15 | Roll `dice:1d4\|noform\|noparens\|avg` (`1d4`) times on [[/5. Mechanics/Tables/Magic Item Table C.md\|Magic Item Table C]]. |
+| 16–20 | Roll `dice:1d4\|noform\|noparens\|avg` (`1d4`) times on [[/5. Mechanics/Tables/Magic Item Table D.md\|Magic Item Table D]]. |
+| 21–25 | Roll `dice:1d4\|noform\|noparens\|avg` (`1d4`) times on [[/5. Mechanics/Tables/Magic Item Table E.md\|Magic Item Table E]]. |
+| 26–30 | Roll `dice:1d4\|noform\|noparens\|avg` (`1d4`) times on [[/5. Mechanics/Tables/Magic Item Table F.md\|Magic Item Table F]]. |
+| 31–35 | Roll `dice:1d4\|noform\|noparens\|avg` (`1d4`) times on [[/5. Mechanics/Tables/Magic Item Table G.md\|Magic Item Table G]]. |
+| 36–40 | Roll `dice:1d4\|noform\|noparens\|avg` (`1d4`) times on [[/5. Mechanics/Tables/Magic Item Table H.md\|Magic Item Table H]]. |
+| 41+ | Roll `dice:1d4\|noform\|noparens\|avg` (`1d4`) times on [[/5. Mechanics/Tables/Magic Item Table I.md\|Magic Item Table I]]. |
 ^buying-magic-items
 
 **Magic Item Price**
@@ -59,4 +59,4 @@ If the characters seek a specific magic item, first decide if it's an item you w
 
 The magic item trade is fraught with peril. The large sums of money involved and the power offered by magic items attract thieves, con artists, and other villains. If you want to make things more interesting for the characters, roll on the Magic Item Purchase Complications table or invent your own complication.
 
-![[5. Mechanics/Tables/Magic Item Purchase Complications (XGE).md\|Magic Item Purchase Complications]]
+![[/5. Mechanics/Tables/Magic Item Purchase Complications (XGE).md\|Magic Item Purchase Complications]]

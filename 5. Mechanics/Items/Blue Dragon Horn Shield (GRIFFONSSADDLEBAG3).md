@@ -13,7 +13,7 @@ armorClass: 2
 weight: 6
 ---
 # Blue Dragon Horn Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Blue-Dragon-Horn-Shield.webp#right)  
 
 - **Armor Class**: 2
@@ -27,6 +27,6 @@ You can use a bonus action to drag a weapon you're wielding across the face of t
 
 ## Shield Charge
 
-If you move at least 20 feet in a straight line toward a target and immediately make a melee weapon attack against it, you can make the attack using the shield instead. You are proficient with the attack, which uses your Strength modifier for its attack and damage rolls. On a hit, the target takes `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning damage and `dice:1d6|noform|noparens|avg` (`d6`) lightning damage and must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
+If you move at least 20 feet in a straight line toward a target and immediately make a melee weapon attack against it, you can make the attack using the shield instead. You are proficient with the attack, which uses your Strength modifier for its attack and damage rolls. On a hit, the target takes `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage and `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage and must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

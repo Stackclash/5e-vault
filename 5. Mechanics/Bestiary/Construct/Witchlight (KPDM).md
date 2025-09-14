@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Tiny
 tags:
@@ -13,10 +13,10 @@ tags:
 aliases:
   - Witchlight
 ---
-# [[5. Mechanics\Bestiary\Construct\Witchlight (KPDM).md|Witchlight]]
+# [[5. Mechanics/Bestiary/Construct/Witchlight (KPDM).md|Witchlight]]
 *Source: Deep Magic p. 299*
 
-These tiny constructs that resemble [[5. Mechanics/Bestiary/Undead/Will O Wisp.md|will-o-wisps]] are similar to [[5. Mechanics/Bestiary/Construct/Homuncul(US).md|homunculi]], in that they are created (from pieces of quartz) and animated by their creators rather than brought into being by the spell. [[5. Mechanics/Classes/Wizard.md|Conjurers]] and spellcasters who concentrate on illumination and light magic are the most common masters of these constructs.
+These tiny constructs that resemble [[/5. Mechanics/Bestiary/Undead/Will O Wisp.md|will-o-wisps]] are similar to [[/5. Mechanics/Bestiary/Construct/Homuncul(US).md|homunculi]], in that they are created (from pieces of quartz) and animated by their creators rather than brought into being by the spell. [[/5. Mechanics/Classes/Wizard.md|Conjurers]] and spellcasters who concentrate on illumination and light magic are the most common masters of these constructs.
 
 ## Familiar
 
@@ -46,12 +46,13 @@ If a witchlight agrees to serve another creature as a familiar, it forms a telep
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "understands the language of its creator but can't speak"
 "cr": "1/4"
 "traits":
-  - "desc": "Casting [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]] on a witchlight\
-      \ paralyzes it for d10 rounds."
+  - "desc": "Casting [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]] on a witchlight\
+      \ paralyzes it for 1d10 rounds."
     "name": "Dispel Magic Weakness"
   - "desc": "A witchlight normally glows as brightly as a torch. The creature can\
       \ dim itself to the luminosity of a candle, but it cannot extinguish its light.\
@@ -62,12 +63,12 @@ If a witchlight agrees to serve another creature as a familiar, it forms a telep
       \ that light can."
     "name": "Thin as Light"
 "actions":
-  - "desc": "Ranged Weapon Attack: +6 to hit, range 30 ft., one target. Hit: 6\
+  - "desc": "*Ranged Weapon Attack:* +6 to hit, range 30 ft., one target. *Hit:* 6\
       \ (1d4 + 4) radiant damage."
     "name": "Light Ray"
   - "desc": "The witchlight emits a bright burst of light that causes any sighted\
       \ creature within 30 feet to be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
-      \ for d4 rounds unless it succeeds on a DC 10 Constitution saving throw."
+      \ for 1d4 rounds unless it succeeds on a DC 10 Constitution saving throw."
     "name": "Flash (Recharge 5-6)"
 "source":
   - "KPDM"

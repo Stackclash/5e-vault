@@ -74,9 +74,9 @@ If you create a new transmuter's stone, the previous one ceases to function.
 
 ### Shapechanger (Level 10)
 
-At 10th level, you add the [[5. Mechanics/Spells/Polymorph.md\|polymorph]] spell to your spellbook, if it is not there already. You can cast [[5. Mechanics/Spells/Polymorph.md\|polymorph]] without expending a spell slot. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower.
+At 10th level, you add the [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] spell to your spellbook, if it is not there already. You can cast [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] without expending a spell slot. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower.
 
-Once you cast [[5. Mechanics/Spells/Polymorph.md\|polymorph]] in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.
+Once you cast [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.
 
 ### Master Transmuter (Level 14)
 
@@ -84,5 +84,5 @@ Starting at 14th level, you can use your action to consume the reserve of transm
 
 - **Major Transformation.** You can transmute one nonmagical object—no larger than a 5-foot cube—into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.  
 - **Panacea.** You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone. The creature also regains all its hit points.  
-- **Restore Life.** You cast the [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.  
+- **Restore Life.** You cast the [[/5. Mechanics/Spells/Raise Dead.md\|raise dead]] spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.  
 - **Restore Youth.** You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by `dice:3d10|noform|noparens|avg` (`3d10`) years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.

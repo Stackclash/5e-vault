@@ -114,7 +114,7 @@ Keep notes whenever you create or significantly alter a monster, magic item, or 
 
 Besides the expenses associated with maintaining a particular lifestyle, adventurers might have additional drains on their adventuring income. Player characters who come into possession of property, own businesses, and employ hirelings must cover the expenses that accompany these ventures.
 
-![[5. Mechanics/Tables/Recurring Expenses Maintenance Costs.md\|Recurring Expenses; Maintenance Costs]]
+![[/5. Mechanics/Tables/Recurring Expenses Maintenance Costs.md\|Recurring Expenses; Maintenance Costs]]
 
 It's not unusual for adventurers-especially after 10th level-to gain possession of a castle, a tavern, or another piece of property. They might buy it with their hard-won loot, take it by force, obtain it in a lucky draw from a *deck of many things*, or acquire it by other means.
 
@@ -149,7 +149,7 @@ As your campaign progresses, your players' characters will not only become more 
 Chapter 8, ""Adventuring"," of the *Player's Handbook* describes a few downtime activities to fill the void between adventures. Depending on the style of your campaign and the particular backgrounds and interests of the adventurers, you can make some or all of the following additional activities available as options.
 
 - [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Building A Stronghold.md\|Building a Stronghold]]  
-- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing.md\|Carousing]]  
+- [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Carousing (XGE).md\|Carousing]]  
 - [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Crafting A Magic Item.md\|Crafting a Magic Item]]  
 - [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Gaining Renown.md\|Gaining Renown]]  
 - [[/5. Mechanics/Rules/Variant Rules/Downtime Activity Performing Sacred Rites.md\|Performing Sacred Rites]]  

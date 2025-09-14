@@ -12,11 +12,11 @@ aliases:
   - Storm Thrower Harpoon
 one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
-range: 20\60
+range: 20/60
 weight: 4
 ---
 # Storm Thrower Harpoon
-*Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), major, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Storm-Thrower-Harpoon.webp#right)  
 
 - **Damage**:
@@ -28,7 +28,7 @@ weight: 4
 
 This weapon has a +3 bonus to attack and damage rolls made with this magical weapon.
 
-The trident has a chain attached to its handle that can be used to retrieve the weapon once it's been thrown using a bonus action. When you hit with a ranged attack using this weapon, it deals an additional `dice:1d8|noform|noparens|avg` (`d8`) lightning damage.
+The trident has a chain attached to its handle that can be used to retrieve the weapon once it's been thrown using a bonus action. When you hit with a ranged attack using this weapon, it deals an additional `dice:1d8|noform|noparens|avg` (`1d8`) lightning damage.
 
 In addition, this trident acts as a conduit for the sky's ferocious power. Immediately after hitting a creature with the trident, you can call down a bolt of lightning upon it, forcing it and all creatures within 5 feet to make a DC 16 Dexterity saving throw. On a failed save, creatures take `dice:6d10|noform|noparens|avg` (`6d10`) lightning damage, or half as much on a success. Creatures have disadvantage on the saving throw if they're submerged in water or wearing metal armor. You are immune to the lightning damage caused by this effect. This ability fails if the creatures are obstructed from the sky. Once you use this ability, you cannot do so again until the next dawn.
 

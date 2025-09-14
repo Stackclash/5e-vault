@@ -16,7 +16,7 @@ aliases:
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Bloody Marilith Common (GRIFFONSSADDLEBAG2).md\|Bloody Marilith (Common)]]  
-- [[5. Mechanics/Items/Bloody Marilith Very Rare (GRIFFONSSADDLEBAG2).md\|Bloody Marilith (Very Rare)]]  
+- [[/5. Mechanics/Items/Bloody Marilith Common (GRIFFONSSADDLEBAG2).md\|Bloody Marilith (Common)]]  
+- [[/5. Mechanics/Items/Bloody Marilith Very Rare (GRIFFONSSADDLEBAG2).md\|Bloody Marilith (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 48*

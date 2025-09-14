@@ -26,15 +26,15 @@ classes:
   - Warlock
   - Wizard
 school: Divination
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
-  - Encrypt \ Decrypt
+  - Encrypt / Decrypt
 ---
 # Encrypt / Decrypt
 *cantrip, Divination*  
@@ -44,8 +44,8 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-By touching a page of written information, you can encode its contents. All creatures that try to read the information when its contents are encoded see the markings on the page as nothing but gibberish. The effect ends when either this very spell or [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] is cast on the encoded writing, which turns it back into its normal state.
+By touching a page of written information, you can encode its contents. All creatures that try to read the information when its contents are encoded see the markings on the page as nothing but gibberish. The effect ends when either this very spell or [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] is cast on the encoded writing, which turns it back into its normal state.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 66*

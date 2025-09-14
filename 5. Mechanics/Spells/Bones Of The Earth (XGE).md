@@ -12,12 +12,26 @@ classes:
   - Druid
 school: Transmutation
 level: 6
+damage:
+  base: 6d6
+  scaling:
+    damage: null
+    level: 7
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 120 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 10
 aliases:
   - Bones of the Earth
 ---
@@ -37,6 +51,6 @@ If a pillar is prevented from reaching its full height because of a ceiling or o
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Xanathar's Guide to Everything p. 150*

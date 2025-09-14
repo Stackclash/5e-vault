@@ -13,7 +13,7 @@ aliases:
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]  
 - **Tool Proficiencies.** One type of gaming set, one type of musical instrument  
 - **Languages.** Elvish, Sylvan  
-- **Equipment.** A flower with petals that will never wilt, a musical instrument (one of your choice), a set of [[5. Mechanics/Items/Fine Clothes.md\|fine clothes]], and a pouch containing 10 gp  
+- **Equipment.** A flower with petals that will never wilt, a musical instrument (one of your choice), a set of [[/5. Mechanics/Items/Fine Clothes.md\|fine clothes]], and a pouch containing 10 gp  
 
 Years, possibly centuries, ago you were captured by the fey. Each host, as the fey called themselves, treated their "guest" differently. The Relationship you forged with your captors defines you just as strongly as the circumstances of your abduction and of your Escape or release. You have been indelibly marked—emotionally, psychically, and physically—by the fey and their Special brand of hospitality.
 

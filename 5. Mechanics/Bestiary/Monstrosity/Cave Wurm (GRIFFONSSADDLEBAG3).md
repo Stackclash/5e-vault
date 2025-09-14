@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cave Wurm
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Cave Wurm (GRIFFONSSADDLEBAG3).md|Cave Wurm]]
+# [[5. Mechanics/Bestiary/Monstrosity/Cave Wurm (GRIFFONSSADDLEBAG3).md|Cave Wurm]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Viewed by most Ilridunians as the reason to respect the bravery of the city's miners, cave wurms are living traps in the tunnels below. Their open maw can almost perfectly imitate a normal cave or tunnel so that its prey can begin the process of digestion for it. Even when closed, the wurm's mouth so closely resembles a typical cavern wall that there are almost no records of anyone surviving an encounter once they've been swallowed. Many mining foremen lament the losses caused by cave wurms. Their rapid burrowing makes mapping their movements virtually impossible, and also contributes to earthquakes, floods, and tunnel collapses.
@@ -37,15 +37,16 @@ Viewed by most Ilridunians as the reason to respect the bravery of the city's mi
   - !!int "3"
 "speed": "40 ft., burrow 30 ft."
 "saves":
-  - "constitution": "+10"
-  - "wisdom": "+3"
+  - "constitution": !!int "10"
+  - "wisdom": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "blindsight 30 ft., tremorsense 120 ft., passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., tremorsense\
+  \ 120 ft., passive Perception 9"
 "languages": ""
 "cr": "11"
 "traits":
@@ -72,7 +73,7 @@ Viewed by most Ilridunians as the reason to respect the bravery of the city's mi
       \ If there are two or more creatures in the wurm's mouth, it can instead make\
       \ a bite attack against each of those creatures."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 20\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 20\
       \ (3d8 + 7) piercing damage. If the target is a Large or smaller creature, it\
       \ must succeed on a DC 17 Dexterity saving throw or be swallowed by the wurm.\
       \ A swallowed creature is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
@@ -87,7 +88,7 @@ Viewed by most Ilridunians as the reason to respect the bravery of the city's mi
       \ by it and can escape from the corpse by using 20 feet of movement, exiting\
       \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 17\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 17\
       \ (3d6 + 7) bludgeoning damage, and the target must make a DC 19 Strength saving\
       \ throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. If the\
       \ saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\

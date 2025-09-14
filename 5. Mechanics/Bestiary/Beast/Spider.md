@@ -13,7 +13,7 @@ tags:
 aliases:
   - Spider
 ---
-# [[5. Mechanics\Bestiary\Beast\Spider.md|Spider]]
+# [[5. Mechanics/Bestiary/Beast/Spider.md|Spider]]
 *Source: Monster Manual p. 337. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -36,7 +36,8 @@ aliases:
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "darkvision 30 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 30 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "0"
 "traits":
@@ -49,13 +50,13 @@ aliases:
   - "desc": "The spider ignores movement restrictions caused by webbing."
     "name": "Web Walker"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1\
       \ piercing damage, and the target must succeed on a DC 9 Constitution saving\
-      \ throw or take 2 (d4) poison damage."
+      \ throw or take 2 (1d4) poison damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/spider.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/spider.webp"
 ```
 ^statblock
 

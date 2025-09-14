@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hertilod
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Hertilod (VEOR).md|Hertilod]]
+# [[5. Mechanics/Bestiary/Monstrosity/Hertilod (VEOR).md|Hertilod]]
 *Source: Vecna: Eve of Ruin p. 223*
 
 > [!quote] A quote from Melthena Vellaine, Wizard and Spelljammer  
@@ -40,15 +40,16 @@ When a dead god is left adrift in the Astral Sea, its corpse sometimes spawns a 
   - !!int "10"
 "speed": "50 ft., climb 50 ft."
 "saves":
-  - "strength": "+12"
-  - "dexterity": "+10"
+  - "strength": !!int "12"
+  - "dexterity": !!int "10"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+8"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 30 ft., tremorsense 60 ft., passive Perception 18"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., tremorsense\
+  \ 60 ft., passive Perception 18"
 "languages": ""
 "cr": "17"
 "traits":
@@ -69,7 +70,7 @@ When a dead god is left adrift in the Astral Sea, its corpse sometimes spawns a 
 "actions":
   - "desc": "The hertilod makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 15\
       \ (2d8 + 6) piercing damage plus 13 (2d12) poison damage. If the target is a\
       \ Large or smaller creature, it must succeed on a DC 20 Strength saving throw\
       \ or be swallowed by the hertilod. A swallowed creature has the [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
@@ -86,9 +87,12 @@ When a dead god is left adrift in the Astral Sea, its corpse sometimes spawns a 
       \ and can escape from the corpse by using 10 feet of movement, exiting with\
       \ the [[/5. Mechanics/Rules/Conditions.md#Prone|prone]] condition."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 17\
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 17\
       \ (2d10 + 6) slashing damage."
     "name": "Claw"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the hertilod can expend a use to take one of the following actions. The\
+  \ hertilod regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The hertilod moves up to its speed. This movement doesn't provoke opportunity\
       \ attacks."
@@ -99,7 +103,7 @@ When a dead god is left adrift in the Astral Sea, its corpse sometimes spawns a 
     "name": "Feed (Costs 2 Actions)"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/hertilod-veor.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/hertilod-veor.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ one-hand-damage: 1d6 piercing
 weight: 2
 ---
 # Giant Captain's Hook
-*Weapon ([[5. Mechanics/Items/Sickle.md\|sickle]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Giant-Captains-Hook.webp#right)  
 
 - **Damage**: 1d6 piercing

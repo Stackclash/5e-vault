@@ -13,7 +13,7 @@ tags:
 aliases:
   - Preserver Worker
 ---
-# [[5. Mechanics\Bestiary\Construct\Preserver Worker (GRIFFONSSADDLEBAG3).md|Preserver Worker]]
+# [[5. Mechanics/Bestiary/Construct/Preserver Worker (GRIFFONSSADDLEBAG3).md|Preserver Worker]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 By far the most commonplace Preserver model across the Lunar Sea, Preserver workers are Large constructs that can handle most of the derelict ship's tasks with minimal input or instruction.
@@ -47,7 +47,8 @@ By far the most commonplace Preserver model across the Lunar Sea, Preserver work
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
 "traits":
@@ -64,10 +65,10 @@ By far the most commonplace Preserver model across the Lunar Sea, Preserver work
 "actions":
   - "desc": "The worker makes three attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) bludgeoning damage."
     "name": "Slam"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 60 ft., one target. Hit: 11\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 60 ft., one target. *Hit:* 11\
       \ (2d8 + 2) force damage."
     "name": "Laser"
 "source":

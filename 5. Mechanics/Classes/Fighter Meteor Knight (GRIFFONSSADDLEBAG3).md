@@ -63,9 +63,9 @@ The damage of your satellites increases when you reach certain levels in this cl
 
 ### Reduce Gravity (Level 3)
 
-Also at 3rd level, you can cause the pull of gravity on you to lessen. You learn the [[5. Mechanics/Spells/Feather Fall.md\|feather fall]] and [[5. Mechanics/Spells/Jump.md\|jump]] spells. At 10th level in this class, you also learn the [[5. Mechanics/Spells/Levitate.md\|levitate]] spell. When you cast one of these spells, you can target only yourself, and the spell does not require material components. You can cast each of these spells once with this feature, and once you cast a spell in this way, you can not do so again until you finish a long rest.
+Also at 3rd level, you can cause the pull of gravity on you to lessen. You learn the [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] and [[/5. Mechanics/Spells/Jump.md\|jump]] spells. At 10th level in this class, you also learn the [[/5. Mechanics/Spells/Levitate.md\|levitate]] spell. When you cast one of these spells, you can target only yourself, and the spell does not require material components. You can cast each of these spells once with this feature, and once you cast a spell in this way, you can not do so again until you finish a long rest.
 
-When you reach 15th level in this class, you can cast the [[5. Mechanics/Spells/Feather Fall.md\|feather fall]] and [[5. Mechanics/Spells/Jump.md\|jump]] spells at will. The spells must still target only yourself.
+When you reach 15th level in this class, you can cast the [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] and [[/5. Mechanics/Spells/Jump.md\|jump]] spells at will. The spells must still target only yourself.
 
 ### Course Correct (Level 7)
 

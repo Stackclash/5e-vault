@@ -22,15 +22,15 @@ classes:
   - Cleric
   - Sorcerer (Divine Soul)
 school: Transmutation
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
+range: 30 feet
+somatic: false
+verbal: true
 aliases:
   - Thaumaturgy
-range: 30 feet
 ---
 # Thaumaturgy
 *cantrip, Transmutation*  
@@ -51,6 +51,8 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Player's Handbook p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

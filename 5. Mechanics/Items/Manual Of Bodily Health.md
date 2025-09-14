@@ -11,7 +11,7 @@ weight: 5
 ---
 # Manual of Bodily Health
 *Wondrous item, major, very rare*  
-![[5. Mechanics/Items/img/manual-of-bodily-health.webp#right]]  
+![[/5. Mechanics/Items/img/manual-of-bodily-health.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

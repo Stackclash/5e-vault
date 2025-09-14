@@ -20,7 +20,7 @@ tags:
 aliases:
   - Guard Drake (Green)
 ---
-# [[5. Mechanics\Bestiary\Dragon\Guard Drake Green (MPMM).md|Guard Drake (Green)]]
+# [[5. Mechanics/Bestiary/Dragon/Guard Drake Green (MPMM).md|Guard Drake (Green)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*
 
 ```statblock
@@ -45,7 +45,8 @@ aliases:
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
 "damage_resistances": "poison"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "understands Draconic but can't speak"
 "cr": "2"
 "traits":
@@ -54,10 +55,10 @@ aliases:
 "actions":
   - "desc": "The guard drake makes one Bite attack and one Tail attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) bludgeoning damage."
     "name": "Tail"
 "source":

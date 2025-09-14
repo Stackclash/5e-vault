@@ -16,15 +16,18 @@ classes:
   - Wizard
 school: Enchantment
 level: 5
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Tongue Tied
-concentration: true
 ---
 # Tongue Tied
 *5th-level, Enchantment*  
@@ -38,6 +41,6 @@ You make a choking motion while pointing at a target, which must make a successf
 
 On a failed check, the creature's action is used but the spell slot isn't expended.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 115*

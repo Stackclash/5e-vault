@@ -11,11 +11,11 @@ aliases:
   - Tidesplitter
 one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
-range: 20\60
+range: 20/60
 weight: 4
 ---
 # Tidesplitter
-*Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Tidesplitter.webp#right)  
 
 - **Damage**:

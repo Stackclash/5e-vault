@@ -13,13 +13,13 @@ armorClass: 2
 weight: 6
 ---
 # Storm's Eye Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Storms-Eye-Shield.webp#right)  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-Emblazoned on the face of this round shield is a cyclone design that magically swirls based on the likelihood and proximity of thunderstorms. While holding this shield, you have resistance to lightning damage. When you take lightning damage from a hostile source while holding this shield, you can use your reaction to cast the [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] spell (save DC 15) from it. This property can't be used again until the next dawn.
+Emblazoned on the face of this round shield is a cyclone design that magically swirls based on the likelihood and proximity of thunderstorms. While holding this shield, you have resistance to lightning damage. When you take lightning damage from a hostile source while holding this shield, you can use your reaction to cast the [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]] spell (save DC 15) from it. This property can't be used again until the next dawn.
 
 In addition, while the shield is flat on the ground, you can perform a 1 minute ritual to cast the augury spell from it. When you do, the omens are represented by how the cyclone's design changes:
 

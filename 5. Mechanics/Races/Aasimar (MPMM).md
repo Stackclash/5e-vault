@@ -9,7 +9,7 @@ aliases:
 ---
 # Aasimar
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 7*  
-![[5. Mechanics/Races/img/aasimar.webp#right]]  
+![[/5. Mechanics/Races/img/aasimar.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -36,7 +36,7 @@ As an action, you can touch a creature and roll a number of d4s equal to your pr
 
 ### Light Bearer
 
-You know the [[5. Mechanics/Spells/Light.md\|light]] cantrip. Charisma is your spellcasting ability for it.
+You know the [[/5. Mechanics/Spells/Light.md\|light]] cantrip. Charisma is your spellcasting ability for it.
 
 ### Celestial Revelation
 

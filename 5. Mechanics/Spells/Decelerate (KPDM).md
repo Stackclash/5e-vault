@@ -26,16 +26,25 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
-  - M
+range: 60 feet
+somatic: true
+verbal: true
+material: a toy top
 aliases:
   - Decelerate
-material: a toy top
 ---
 # Decelerate
 *2nd-level, Transmutation*  
@@ -49,6 +58,6 @@ You slow the flow of time around a creature within range that you can see. The c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can affect an additional creature for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Time Domain)](compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Time Domain)](/compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 258*

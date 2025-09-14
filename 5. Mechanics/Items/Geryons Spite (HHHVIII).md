@@ -13,7 +13,7 @@ one-hand-damage: 1d10 piercing
 weight: 18
 ---
 # Geryon's Spite
-*Weapon ([[5. Mechanics/Items/Pike.md\|pike]]), legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), legendary (requires attunement)*  
 
 - **Damage**: 1d10 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]

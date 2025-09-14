@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wand-of-Steam.webp#right)  
 
 
-The shaft of this wand is a clear glass tube filled with bubbling water. This wand has 3 charges and regains `dice:1d3|noform|noparens|avg` (`d3`) expended charges daily at dawn. While holding the wand, you can use an action to expend 1 of its charges to cast the [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell from it, which has the following changes:
+The shaft of this wand is a clear glass tube filled with bubbling water. This wand has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While holding the wand, you can use an action to expend 1 of its charges to cast the [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell from it, which has the following changes:
 
 When cast, the wand emits a spray of superheated mist in a 30-foot cone from it. Creatures within the cone must make a DC 13 Constitution saving throw. A creature takes `dice:2d6|noform|noparens|avg` (`2d6`) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
 

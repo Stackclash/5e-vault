@@ -14,7 +14,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Precipit, the Formless
-*Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, artifact (requires attunement)*  
+*Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Precipit-the-Formless.webp#right)  
 
 - **Damage**:
@@ -43,7 +43,7 @@ When the staff enters its gaseous state, the water surrounding the staff becomes
 
 ## Gas Spells
 
-While holding the staff in its gas state, you can expend 1 or more of its charges on your turn to cast the following spells (save DC 18) from it: [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]] (5 charges), [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] (1 charge), [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] (3 charges), [[5. Mechanics/Spells/Misty Step.md\|misty step]] (2 charges), or [[5. Mechanics/Spells/Wind Wa(LK).md\|wind walk]] (6 charges).
+While holding the staff in its gas state, you can expend 1 or more of its charges on your turn to cast the following spells (save DC 18) from it: [[/5. Mechanics/Spells/Cloudkill.md\|cloudkill]] (5 charges), [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] (1 charge), [[/5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] (3 charges), [[/5. Mechanics/Spells/Misty Step.md\|misty step]] (2 charges), or [[/5. Mechanics/Spells/Wind Wa(LK).md\|wind walk]] (6 charges).
 
 ## Tailwind
 
@@ -61,7 +61,7 @@ When the staff enters its liquid state, the water surrounding the staff becomes 
 
 ## Liquid Spells
 
-While holding the staff in its liquid state, you can expend 1 or more of its charges on your turn to cast the following spells from it: [[5. Mechanics/Spells/Blur.md\|blur]] (2 charges), [[5. Mechanics/Spells/Control Water.md\|control water]] (4 charges), [[5. Mechanics/Spells/Create Or Destroy Water.md\|create or destroy water]] (1 charge), [[5. Mechanics/Spells/Mirror Image.md\|mirror image]] (2 charges), or [[5. Mechanics/Spells/Water Breathing.md\|water breathing]] (3 charges).
+While holding the staff in its liquid state, you can expend 1 or more of its charges on your turn to cast the following spells from it: [[/5. Mechanics/Spells/Blur.md\|blur]] (2 charges), [[/5. Mechanics/Spells/Control Water.md\|control water]] (4 charges), [[/5. Mechanics/Spells/Create Or Destroy Water.md\|create or destroy water]] (1 charge), [[/5. Mechanics/Spells/Mirror Image.md\|mirror image]] (2 charges), or [[/5. Mechanics/Spells/Water Breathing.md\|water breathing]] (3 charges).
 
 ## Tide Turner
 
@@ -79,7 +79,7 @@ When the staff enters its solid state, the water surrounding the staff becomes a
 
 ## Solid Spells
 
-While holding the staff in its solid state, you can expend some of its charges on your turn to cast the following spells (save DC 18) from it: [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] (5 charges), [[5. Mechanics/Spells/Ice Storm.md\|ice storm]] (4 charges), [[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]] (no charges, or 1 charge to cast at 5th level; +10 to hit with ranged spell attack), or [[5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]] (6 charges).
+While holding the staff in its solid state, you can expend some of its charges on your turn to cast the following spells (save DC 18) from it: [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] (5 charges), [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]] (4 charges), [[/5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]] (no charges, or 1 charge to cast at 5th level; +10 to hit with ranged spell attack), or [[/5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]] (6 charges).
 
 ## Deep Freeze
 
@@ -89,8 +89,8 @@ While holding the staff in its solid state, you can expend 4 of its charges and 
 
 Precipit, the Formless has the following random properties:
 
-- 2 [[5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial properties]]  
-- 2 [[5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental properties]]  
+- 2 [[/5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial properties]]  
+- 2 [[/5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental properties]]  
 
 ## Destroying the Staff
 

@@ -21,10 +21,10 @@ The character must make a series of checks, with a DC determined at random based
 
 The character makes three checks: Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]), Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `dice:5+2d10|noform|noparens|avg` (`5 + 2d10`); generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
 
-![[5. Mechanics/Tables/Pit Fighting Results (XGE).md\|Pit Fighting Results]]
+![[/5. Mechanics/Tables/Pit Fighting Results (XGE).md\|Pit Fighting Results]]
 
 ## Complications
 
 Characters involved in pit fighting must deal with their opponents, the people who bet on matches, and the matches' promoters. Every workweek spent pit fighting brings a 10 percent chance of a complication, examples of which are on the Pit Fighting Complications table.
 
-![[5. Mechanics/Tables/Pit Fighting Complications (XGE).md\|Pit Fighting Complications]]
+![[/5. Mechanics/Tables/Pit Fighting Complications (XGE).md\|Pit Fighting Complications]]

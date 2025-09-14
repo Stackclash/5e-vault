@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Nox Flowers
 ---
-# [[5. Mechanics\Bestiary\Plant\Swarm Of Nox Flowers (GRIFFONSSADDLEBAG3).md|Swarm of Nox Flowers]]
+# [[5. Mechanics/Bestiary/Plant/Swarm Of Nox Flowers (GRIFFONSSADDLEBAG3).md|Swarm of Nox Flowers]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The nox flower was originally created in the Safire Wood as a misguided attempt to stem the tide of the Midas Tree's expansion on the fey plane.
@@ -50,7 +50,8 @@ Nox flowers are not exactly social, as they have no language, but they do tend t
 "speed": "20 ft."
 "damage_resistances": "the damage type corresponding to the swarm's color (see prismatic\
   \ bloom trait)"
-"senses": "blindsight 60 ft. (blind beyond that radius), passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ that radius), passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
@@ -78,8 +79,8 @@ Nox flowers are not exactly social, as they have no language, but they do tend t
       \ swarm can't regain hit points or gain temporary hit points."
     "name": "Swarm"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's\
-      \ space. Hit: 16 (4d6 + 2) slashing damage, or 9 (2d6 + 2) slashing damage\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 0 ft., one target in the swarm's\
+      \ space. *Hit:* 16 (4d6 + 2) slashing damage, or 9 (2d6 + 2) slashing damage\
       \ if the swarm has half its hit points or fewer."
     "name": "Leaf Lash"
   - "desc": "The swarm erupts with a burst of destructive pollen in its vicinity.\

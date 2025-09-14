@@ -82,7 +82,7 @@ You can't cast spells while in this form, but gain a different set of actions yo
 #### Bite
 _Source: The Griffon's Saddlebag, Book 2_
 
-When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can use your dagger-like teeth to make an unarmed strike. You can use your Wisdom modifier, instead of Strength, for the attack and damage rolls with your bite. If you hit with it, you deal piercing damage equal to `dice:1d12|noform|noparens|avg` (`d12`) + your Strength or Wisdom modifier, instead of the bludgeoning damage normal for an unarmed strike.
+When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can use your dagger-like teeth to make an unarmed strike. You can use your Wisdom modifier, instead of Strength, for the attack and damage rolls with your bite. If you hit with it, you deal piercing damage equal to `dice:1d12|noform|noparens|avg` (`1d12`) + your Strength or Wisdom modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
 #### Breath Weapon
 _Source: The Griffon's Saddlebag, Book 2_

@@ -10,11 +10,11 @@ tags:
 aliases:
   - Meteoric Javelin
 one-hand-damage: 1d6 piercing
-range: 30\120
+range: 30/120
 weight: 2
 ---
 # Meteoric Javelin
-*Weapon ([[5. Mechanics/Items/Javelin.md\|javelin]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Javelin.md\|javelin]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Meteoric-Javelin.webp#right)  
 
 - **Damage**: 1d6 piercing

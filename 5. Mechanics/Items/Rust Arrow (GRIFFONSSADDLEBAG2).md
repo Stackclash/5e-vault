@@ -11,7 +11,7 @@ aliases:
 weight: 0.05
 ---
 # Rust Arrow
-*Ammunition ([[5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  
+*Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rust-Arrows.webp#right)  
 
 - **Weight**: 0.05 lbs.

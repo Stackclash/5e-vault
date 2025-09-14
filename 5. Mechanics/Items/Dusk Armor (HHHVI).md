@@ -12,7 +12,7 @@ armorClass: 18
 weight: 65
 ---
 # Dusk Armor
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]) (requires attunement)*  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]) (requires attunement)*  
 
 - **Armor Class**: 18
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
@@ -24,8 +24,8 @@ While wearing this armor, you have a bonus to AC determined by the armor's rarit
 
 **Items in this group:**
 
-- [[5. Mechanics/Items/1 Dusk Armor (HHHVI).md\|+1 Dusk Armor]]
-- [[5. Mechanics/Items/2 Dusk Armor (HHHVI).md\|+2 Dusk Armor]]
-- [[5. Mechanics/Items/3 Dusk Armor (HHHVI).md\|+3 Dusk Armor]]
+- [[/5. Mechanics/Items/1 Dusk Armor (HHHVI).md\|+1 Dusk Armor]]
+- [[/5. Mechanics/Items/2 Dusk Armor (HHHVI).md\|+2 Dusk Armor]]
+- [[/5. Mechanics/Items/3 Dusk Armor (HHHVI).md\|+3 Dusk Armor]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 126*

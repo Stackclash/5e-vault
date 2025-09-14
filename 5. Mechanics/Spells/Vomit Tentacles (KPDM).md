@@ -20,16 +20,22 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+damage:
+  base: 2d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
 ritual: false
 time: 1 Action
 duration: 5 rounds
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: a piece of a tentacle
 aliases:
   - Vomit Tentacles
-material: a piece of a tentacle
 ---
 # Vomit Tentacles
 *2nd-level, Transmutation*  
@@ -45,6 +51,6 @@ The Armor Class of the tentacles is equal to yours. If they take slashing damage
 
 While the spell is in effect, you are incapable of speech and can't cast spells that have verbal components.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 119*

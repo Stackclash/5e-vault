@@ -14,15 +14,20 @@ classes:
   - Ranger
 school: Transmutation
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 2
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Snowy Coat
-concentration: true
 ---
 # Snowy Coat
 *1st-level, Transmutation*  
@@ -36,6 +41,6 @@ This spell makes a slight alteration to a target creature's appearance that give
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 276*

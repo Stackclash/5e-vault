@@ -15,7 +15,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Staff of the Whirling Wyrm
-*Weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon (requires attunement by a monk)*  
+*Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon (requires attunement by a monk)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Staff-of-the-Whirling-Wyrm.webp#right)  
 
 - **Damage**:

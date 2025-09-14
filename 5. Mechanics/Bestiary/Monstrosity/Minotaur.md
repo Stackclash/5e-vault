@@ -14,7 +14,7 @@ tags:
 aliases:
   - Minotaur
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Minotaur.md|Minotaur]]
+# [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md|Minotaur]]
 *Source: Monster Manual p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A minotaur's roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death.
@@ -58,7 +58,8 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+7"
-"senses": "darkvision 60 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 17"
 "languages": "Abyssal"
 "cr": "3"
 "traits":
@@ -74,15 +75,15 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
       \ have advantage until the start of its next turn."
     "name": "Reckless"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17\
       \ (2d12 + 4) slashing damage."
     "name": "Greataxe"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) piercing damage."
     "name": "Gore"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/minotaur.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/minotaur.webp"
 ```
 ^statblock
 

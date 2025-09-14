@@ -14,7 +14,7 @@ one-hand-damage: 1d8 piercing
 weight: 2
 ---
 # Rat King Rapier
-*Weapon ([[5. Mechanics/Items/Rapier.md\|rapier]]), major, uncommon (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Rat-King-Rapier.webp#right)  
 
 - **Damage**: 1d8 piercing
@@ -23,7 +23,7 @@ weight: 2
 
 This dark silver rapier is detailed with rat illustrations along its handle. Bands of metal forged in the likeness of rat tails form its twisted guard. While the rapier is on your person, ordinary rats, giant rats, and swarms of rats are indifferent toward you and will not attack you unless you threaten or harm them.
 
-In addition, when you attack a creature with this magic rapier and have advantage on the attack roll, the target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) piercing damage on a hit. You can deal this extra damage only once on each of your turns.
+In addition, when you attack a creature with this magic rapier and have advantage on the attack roll, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage on a hit. You can deal this extra damage only once on each of your turns.
 
 ## Mark of the Rat King
 

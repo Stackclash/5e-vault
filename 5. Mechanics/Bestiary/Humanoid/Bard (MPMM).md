@@ -14,7 +14,7 @@ tags:
 aliases:
   - Bard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bard (MPMM).md|Bard]]
+# [[5. Mechanics/Bestiary/Humanoid/Bard (MPMM).md|Bard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211*
 
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.
@@ -45,7 +45,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]]"
+"ac_class": "[[/5. Mechanics/Items/Chain Shirt.md|chain shirt]]"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
 "modifier": !!int "2"
@@ -58,8 +58,8 @@ Each bard is a master of at least one type of performance. You may choose a bard
   - !!int "14"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+4"
-  - "wisdom": "+3"
+  - "dexterity": !!int "4"
+  - "wisdom": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+4"
@@ -74,10 +74,10 @@ Each bard is a master of at least one type of performance. You may choose a bard
   - "desc": "The bard makes two Shortsword or Shortbow attacks. It can replace one\
       \ attack with a use of Spellcasting."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Shortsword"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage."
     "name": "Shortbow"
   - "desc": "Each creature in a 15-foot cube originating from the bard must make a\
@@ -86,10 +86,10 @@ Each bard is a master of at least one type of performance. You may choose a bard
       \ save, a creature takes half as much damage and isn't pushed."
     "name": "Cacophony (Recharge 4-6)"
   - "desc": "The bard casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
-      \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-      \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
+      \ ability (spell save DC 12):\n\n**At will:** [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+      \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
+      \ [[/5. Mechanics/Spells/Sleep.md|sleep]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The bard targets one creature within 30 feet of it. If the target can\
@@ -100,7 +100,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/bard-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/bard-mpmm.webp"
 ```
 ^statblock
 

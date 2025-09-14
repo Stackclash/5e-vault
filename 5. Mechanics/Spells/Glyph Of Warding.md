@@ -24,17 +24,33 @@ classes:
   - Wizard
 school: Abjuration
 level: 3
+damage:
+  base: 5d8
+  scaling:
+    damage: 1d8
+    level: 4
+  types:
+    - acid
+    - cold
+    - fire
+    - lightning
+    - thunder
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: half damage
 ritual: false
 time: 1 hour
-duration: Until dispelled
-components:
-  - V
-  - S
-  - M
+duration: Until dispelled or triggered
+range: Touch
+somatic: true
+verbal: true
+material: 'incense and powdered diamond worth at least 200 gp, which the spell consumes'
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Glyph of Warding
-range: Touch
-material: 'Incense and powdered diamond worth at least 200 gp, which the spell consumes.'
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  
@@ -64,10 +80,10 @@ You can store a prepared spell of 3rd level or lower in the glyph by casting it 
 
 ## At Higher Levels
 
-When you cast this spell using a spell slot of 4th level or higher, the damage of an explosive runes glyph increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.
+When you cast this spell using a spell slot of 4th level or higher, the damage of an explosive runes glyph increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 3rd. If you create a spell glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Ranger (Fey Trapper)](compendium/lists/list-spells-classes-fey-trapper-hhhviii.md "subclass=HHHVIII")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Fey Trapper)](/compendium/lists/list-spells-classes-fey-trapper-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 245. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

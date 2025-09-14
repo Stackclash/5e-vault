@@ -13,7 +13,7 @@ tags:
 aliases:
   - Armored Saber-Toothed Tiger
 ---
-# [[5. Mechanics\Bestiary\Beast\Armored Saber Toothed Tiger (COS).md|Armored Saber-Toothed Tiger]]
+# [[5. Mechanics/Bestiary/Beast/Armored Saber Toothed Tiger (COS).md|Armored Saber-Toothed Tiger]]
 *Source: Curse of Strahd p. 115*
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "17"
-"ac_class": "[[5. Mechanics/Items/Half Plate Armor.md|half plate armor]]"
+"ac_class": "[[/5. Mechanics/Items/Half Plate Armor.md|half plate armor]]"
 "hp": !!int "84"
 "hit_dice": "7d10 + 14"
 "modifier": !!int "2"
@@ -53,15 +53,15 @@ aliases:
       \ can make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (1d10 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage."
     "name": "Claw"
 "source":
   - "CoS"
-"image": "5. Mechanics/Bestiary/Beast/token/armored-saber-toothed-tiger-cos.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/armored-saber-toothed-tiger-cos.webp"
 ```
 ^statblock
 

@@ -39,20 +39,26 @@ classes:
   - Warlock
   - Wizard
 school: Conjuration
-level: cantrip
+level: 0
+damage:
+  base: 1d12
+  scaling:
+    damage: null
+    level: null
+  types:
+    - poison
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 10 feet
+somatic: true
+verbal: true
 aliases:
   - Poison Spray
-range: 10 feet
-damageType: Poison
-save:
-  type: CON
-  success: none
 ---
 # Poison Spray
 *cantrip, Conjuration*  
@@ -62,10 +68,12 @@ save:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take `dice:1d12|noform|noparens|avg` (`d12`) poison damage.
+You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take `dice:1d12|noform|noparens|avg` (`1d12`) poison damage.
 
-This spell's damage increases by `dice:1d12|noform|noparens|avg` (`d12`) when you reach 5th level (`dice:2d12|noform|noparens|avg` (`2d12`)), 11th level (`dice:3d12|noform|noparens|avg` (`3d12`)), and 17th level (`dice:4d12|noform|noparens|avg` (`4d12`)).
+This spell's damage increases by `dice:1d12|noform|noparens|avg` (`1d12`) when you reach 5th level (`dice:2d12|noform|noparens|avg` (`2d12`)), 11th level (`dice:3d12|noform|noparens|avg` (`3d12`)), and 17th level (`dice:4d12|noform|noparens|avg` (`4d12`)).
 
-**Classes**: [Druid (Circle of Roses)](compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Hunger Domain)](compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Hunger Domain)](/compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [Druid (Circle of Roses)](/compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
 
 *Source: Player's Handbook p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Quaggoth
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Quaggoth.md|Quaggoth]]
+# [[5. Mechanics/Bestiary/Humanoid/Quaggoth.md|Quaggoth]]
 *Source: Monster Manual p. 256*
 
 Savage and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
@@ -63,7 +63,8 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
     "desc": "+5"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 11"
 "languages": "Undercommon"
 "cr": "2"
 "traits":
@@ -74,12 +75,12 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 "actions":
   - "desc": "The quaggoth makes two claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage."
     "name": "Claw"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/quaggoth.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/quaggoth.webp"
 ```
 ^statblock
 

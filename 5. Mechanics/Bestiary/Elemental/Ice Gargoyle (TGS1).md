@@ -15,7 +15,7 @@ tags:
 aliases:
   - Ice Gargoyle
 ---
-# [[5. Mechanics\Bestiary\Elemental\Ice Gargoyle (TGS1).md|Ice Gargoyle]]
+# [[5. Mechanics/Bestiary/Elemental/Ice Gargoyle (TGS1).md|Ice Gargoyle]]
 *Source: The Griffon's Saddlebag, Book 1 p. 176*
 
 ```statblock
@@ -39,7 +39,8 @@ aliases:
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
 "damage_immunities": "cold, poison"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Aquan, Auran"
 "cr": "3"
 "traits":
@@ -49,13 +50,13 @@ aliases:
 "actions":
   - "desc": "The gargoyle makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage plus 7 (2d6) cold damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) slashing damage."
     "name": "Claws"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/60 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/60 ft., one target. *Hit:*\
       \ 7 (2d4 + 2) piercing damage."
     "name": "Ice Darts"
 "source":

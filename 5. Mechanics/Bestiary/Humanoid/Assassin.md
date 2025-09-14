@@ -14,7 +14,7 @@ tags:
 aliases:
   - Assassin
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Assassin.md|Assassin]]
+# [[5. Mechanics/Bestiary/Humanoid/Assassin.md|Assassin]]
 *Source: Monster Manual p. 343, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
@@ -26,7 +26,7 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "3"
@@ -39,8 +39,8 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
   - !!int "10"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+6"
-  - "intelligence": "+4"
+  - "dexterity": !!int "6"
+  - "intelligence": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+6"
@@ -72,12 +72,12 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
 "actions":
   - "desc": "The assassin makes two shortsword attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage, and the target must make a DC 15 Constitution saving\
       \ throw, taking 24 (7d6) poison damage on a failed save, or half as much damage\
       \ on a successful one."
     "name": "Shortsword"
-  - "desc": "Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:*\
       \ 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution\
       \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as much\
       \ damage on a successful one."
@@ -87,7 +87,7 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
   - "CoS"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Humanoid/token/assassin.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/assassin.webp"
 ```
 ^statblock
 

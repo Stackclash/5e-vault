@@ -13,7 +13,7 @@ armorClass: 2
 weight: 2
 ---
 # Oathkeeper's Resolve
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement by a paladin)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement by a paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Oathkeepers-Resolve.webp#right)  
 
 - **Armor Class**: 2

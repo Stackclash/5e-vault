@@ -24,5 +24,5 @@ aliases:
 | 7 | The incarnation has joined the "Keepers of the Feather"* and seeks to organize a siege of Castle Ravenloft. |
 | 8 | The incarnation feels the weight of their past lives and seeks a way to end their cycle of rebirth by freeing Barovia from the Mists—or destroying it. |
 | 9 | The incarnation falls in with a sinister group such as the "priests of Osybus"* and seeks to manipulate Strahd to further their organization's schemes. |
-| 10 | The incarnation has drawn an enemy of Strahd's to Barovia, such as "Firan Zal'honen"* or "Jander Sunstar",* hoping the rivals will slay one another. |
+| 10 | The incarnation has drawn an enemy of Strahd's to Barovia, such as "Firan Zal'honan"* or "Jander Sunstar",* hoping the rivals will slay one another. |
 ^hunting-strahd

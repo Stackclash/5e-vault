@@ -9,7 +9,7 @@ aliases:
 ---
 # Yeenoghu
 
-## Lair actions
+## Lair Actions
 _Source: Mordenkainen's Tome of Foes_
 
 On Initiative count 20 (losing initiative ties), Yeenoghu can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row:
@@ -18,7 +18,7 @@ On Initiative count 20 (losing initiative ties), Yeenoghu can take a lair action
 - Each gnoll or hyena that Yeenoghu can see can use its reaction to move up to its speed.  
 - Until the next initiative count 20, all gnolls and hyenas within the lair are enraged, causing them to have advantage on melee weapon attack rolls and causing attack rolls to have advantage against them.  
 
-## Regional effects
+## Regional Effects
 _Source: Mordenkainen's Tome of Foes_
 
 The region containing Yeenoghu's lair is warped by his magic, creating one or more of the following effects:
@@ -27,7 +27,7 @@ The region containing Yeenoghu's lair is warped by his magic, creating one or mo
 - Predatory beasts within 6 miles of the lair become unusually savage, killing far more than what they need for food. Carcasses of prey are left to rot in an unnatural display of wasteful slaughter.  
 - If a humanoid spends at least 1 hour within 1 mile of the lair, that creature must succeed on a DC 17 Wisdom saving throw or descend into a madness determined by the Madness of Yeenoghu table. A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.  
 
-If Yeenoghu dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.
+If Yeenoghu dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.
 
 ### Madness of Yeenoghu
 

@@ -16,16 +16,25 @@ classes:
   - Wizard
 school: Abjuration
 level: 5
+damage:
+  base: 4d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - radiant
 ritual: false
 time: 1 Action
 duration: 10 minutes
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: a transparent gemstone worth at least 50 gp
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Greater Protective Nimbus
-material: a transparent gemstone worth at least 50 gp
 ---
 # Greater Protective Nimbus
 *5th-level, Abjuration*  
@@ -37,6 +46,6 @@ material: a transparent gemstone worth at least 50 gp
 
 You wrap yourself in a powerful corona that sheds bright light in a 30-foot radius and dim light for an additional 30 feet. Until the spell ends, you have resistance to necrotic damage and radiant damage. You can end the spell early by using an action to dismiss it, which creates a blast of light in a 30-foot radius. The blast deals `dice:4d8|noform|noparens|avg` (`4d8`) radiant damage to each creature in the area while simultaneously healing yourself of an equal amount of damage.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 224*

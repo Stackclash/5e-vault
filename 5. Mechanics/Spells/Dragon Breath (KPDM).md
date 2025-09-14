@@ -16,17 +16,29 @@ classes:
   - Wizard
 school: Evocation
 level: 5
+damage:
+  base: 6d6
+  scaling:
+    damage: 2d6
+    level: 6
+  types:
+    - acid
+    - cold
+    - fire
+    - lightning
+    - poison
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Special
+somatic: true
+verbal: true
+material: a piece of a dragon's tooth
+area:
+  shape: cone
+  size: 15
 aliases:
   - Dragon Breath
-concentration: true
-material: a piece of a dragon's tooth
 ---
 # Dragon Breath
 *5th-level, Evocation*  
@@ -53,6 +65,6 @@ When you cast the spell, choose one of the dragon types listed below. Your choic
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:2d6|noform|noparens|avg|text(2d6)` for each slot level above 5th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 200*

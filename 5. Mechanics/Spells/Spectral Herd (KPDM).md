@@ -16,12 +16,23 @@ classes:
   - Sorcerer (Divine Soul)
 school: Conjuration
 level: 4
+damage:
+  base: 3d6
+  scaling:
+    damage: null
+    level: 5
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Spectral Herd
 ---
@@ -41,6 +52,6 @@ The [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature can es
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, one additional creature can be targeted for each slot level above 4th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 107*

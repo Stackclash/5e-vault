@@ -14,18 +14,24 @@ classes:
   - Wizard
 school: Enchantment
 level: 8
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 hour
 duration: 10 days
-components:
-  - V
-  - S
-  - M
-aliases:
-  - Antipathy\Sympathy
+range: 60 feet
+somatic: true
+verbal: true
 material: >-
   either a lump of alum soaked in vinegar for the antipathy effect or a drop of
   honey for the sympathy effect
+area:
+  shape: cube
+  size: 200
+aliases:
+  - Antipathy/Sympathy
 ---
 # Antipathy/Sympathy
 *8th-level, Enchantment*  
@@ -55,6 +61,6 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

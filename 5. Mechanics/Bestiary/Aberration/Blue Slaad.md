@@ -13,7 +13,7 @@ tags:
 aliases:
   - Blue Slaad
 ---
-# [[5. Mechanics\Bestiary\Aberration\Blue Slaad.md|Blue Slaad]]
+# [[5. Mechanics/Bestiary/Aberration/Blue Slaad.md|Blue Slaad]]
 *Source: Monster Manual p. 276*
 
 The bone hooks that protrude from the back of a blue slaad's hands inflict a terrible transformative disease on humanoids wounded by them. This infection, called chaos phage, transforms its victim into a fully grown red slaad—or green slaad if the host was a spellcaster able to cast 3rd level spells or higher.
@@ -44,9 +44,9 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] while so controlled.
 > 
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [[5. Mechanics/Spells/Wish.md|wish]] spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [[/5. Mechanics/Spells/Wish.md|wish]] spell, if cast in the slaad's presence, can be worded to acquire the gem.
 > 
-> A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
+> A [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
 > Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
@@ -78,7 +78,8 @@ Some slaadi can transform into the humanoid creatures from which they were origi
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+1"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "Slaad, telepathy 60 ft."
 "cr": "7"
 "traits":
@@ -91,22 +92,22 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "actions":
   - "desc": "The slaad makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage. If the target is a humanoid, it must succeed on\
       \ a DC 15 Constitution saving throw or be infected with a disease called chaos\
       \ phage. While infected, the target can't regain hit points, and its hit point\
       \ maximum is reduced by 10 (3d6) every 24 hours. If the disease reduces the\
-      \ target's hit point maximum to 0, the target instantly transforms into a [[5. Mechanics/Bestiary/Aberration/Red Slaad.md|red\
+      \ target's hit point maximum to 0, the target instantly transforms into a [[/5. Mechanics/Bestiary/Aberration/Red Slaad.md|red\
       \ slaad]] or, if it has the ability\
-      \ to cast spells of 3rd level or higher, a [[5. Mechanics/Bestiary/Aberration/Green Slaad.md|green slaad]].\
-      \ Only a [[5. Mechanics/Spells/Wish.md|wish]] spell can reverse the transformation."
+      \ to cast spells of 3rd level or higher, a [[/5. Mechanics/Bestiary/Aberration/Green Slaad.md|green slaad]].\
+      \ Only a [[/5. Mechanics/Spells/Wish.md|wish]] spell can reverse the transformation."
     "name": "Claw"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Aberration/token/blue-slaad.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/blue-slaad.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Festerwood Buckler
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Festerwood-Buckler.webp#right)  
 
 - **Armor Class**: 2

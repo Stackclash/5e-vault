@@ -13,6 +13,6 @@ aliases:
 
 | dice: d100 | Item Name |
 |------------|-----------|
-| 1–80 | [[5. Mechanics/Items/Rejuvenating Draft Legendary (GRIFFONSSADDLEBAG2).md\|Rejuvenating Draft (legendary)]] |
-| 81–100 | [[5. Mechanics/Items/Life Turner (GRIFFONSSADDLEBAG2).md\|Life Turner]] |
+| 1–80 | [[/5. Mechanics/Items/Rejuvenating Draft Legendary (GRIFFONSSADDLEBAG2).md\|Rejuvenating Draft (legendary)]] |
+| 81–100 | [[/5. Mechanics/Items/Life Turner (GRIFFONSSADDLEBAG2).md\|Life Turner]] |
 ^item-name

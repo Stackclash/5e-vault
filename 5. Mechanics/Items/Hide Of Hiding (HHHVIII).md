@@ -12,7 +12,7 @@ armorClass: 11 + Dex modifier
 weight: 10
 ---
 # Hide of Hiding
-*Light armor ([[5. Mechanics/Items/Leather Armor.md\|leather armor]]), very rare (requires attunement)*  
+*Light armor ([[/5. Mechanics/Items/Leather Armor.md\|leather armor]]), very rare (requires attunement)*  
 
 - **Armor Class**: 11 + Dex modifier
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]

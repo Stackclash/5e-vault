@@ -15,7 +15,7 @@ two-hand-damage: 1d10 slashing
 weight: 3
 ---
 # Blood Moon Blade
-*Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), cursed item, major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), cursed item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Blood-Moon-Blade.webp#right)  
 
 - **Damage**:

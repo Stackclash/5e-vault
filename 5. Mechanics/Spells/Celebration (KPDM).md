@@ -15,16 +15,22 @@ classes:
   - Wizard
 school: Enchantment
 level: 7
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: true
 time: 10 minutes
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: 90 feet
+somatic: true
+verbal: true
+material: a small party favor
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Celebration
-material: a small party favor
 ---
 # Celebration
 *7th-level, Enchantment (ritual)*  
@@ -51,6 +57,6 @@ If you expend your ritual focus, an unaffected intelligent creature must make a 
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 211*

@@ -16,7 +16,7 @@ tags:
 aliases:
   - Flail Snail
 ---
-# [[5. Mechanics\Bestiary\Elemental\Flail Snail (MPMM).md|Flail Snail]]
+# [[5. Mechanics/Bestiary/Elemental/Flail Snail (MPMM).md|Flail Snail]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144*
 
 A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
@@ -27,9 +27,9 @@ Left undisturbed, a flail snail moves slowly along the ground. It consumes every
 
 A flail snail shell weighs about 250 pounds and has numerous uses. An intact shell can sell for 5,000 gp.
 
-Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [[5. Mechanics/Items/Spellguard Shield.md|spellguard shield]].
+Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [[/5. Mechanics/Items/Spellguard Shield.md|spellguard shield]].
 
-A flail snail shell can also be used to make a [[5. Mechanics/Items/Robe Of Scintillating Colors.md|robe of scintillating colors]]. The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
+A flail snail shell can also be used to make a [[/5. Mechanics/Items/Robe Of Scintillating Colors.md|robe of scintillating colors]]. The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
 
 ```statblock
 "name": "Flail Snail (MPMM)"
@@ -51,7 +51,8 @@ A flail snail shell can also be used to make a [[5. Mechanics/Items/Robe Of Scin
 "speed": "10 ft."
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., tremorsense\
+  \ 60 ft., passive Perception 10"
 "languages": ""
 "cr": "3"
 "traits":
@@ -61,13 +62,13 @@ A flail snail shell can also be used to make a [[5. Mechanics/Items/Robe Of Scin
       \ roll misses it, the snail's shell converts some of the spell's energy into\
       \ a burst of destructive force if the spell is of 1st level or higher; each\
       \ creature within 30 feet of the snail must make a DC 15 Constitution saving\
-      \ throw, taking 3 (d6) force damage per level of the spell on a failed save,\
+      \ throw, taking 3 (1d6) force damage per level of the spell on a failed save,\
       \ or half as much damage on a successful one."
     "name": "Antimagic Shell"
 "actions":
   - "desc": "The snail makes five Flail Tentacle attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 5\
       \ (1d4 + 3) bludgeoning damage."
     "name": "Flail Tentacle"
   - "desc": "The snail's shell emits dazzling, colored light until the end of the\
@@ -85,7 +86,7 @@ A flail snail shell can also be used to make a [[5. Mechanics/Items/Robe Of Scin
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Elemental/token/flail-snail-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/flail-snail-mpmm.webp"
 ```
 ^statblock
 

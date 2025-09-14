@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\thornboldt-thorn-durst.webp
+  - ../../../../../4. World Almanac/NPCs/img/thornboldt-thorn-durst.webp
 relationships: []
 aliases:
   - Thornboldt "Thorn" Durst
@@ -54,7 +54,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 217*
@@ -133,7 +133,8 @@ actions:
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "Common"
 "cr": "3"
 "traits":
@@ -141,10 +142,10 @@ actions:
       \ Plane, and vice versa."
     "name": "Ethereal Sight"
   - "desc": "Thorn can move through other creatures and objects as if they were difficult\
-      \ terrain. It takes 5 (d10) force damage if it ends its turn inside an object."
+      \ terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 17\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 17\
       \ (4d6 + 3) necrotic damage."
     "name": "Withering Touch"
   - "desc": "Thorn enters the Ethereal Plane from the Material Plane, or vice versa.\
@@ -162,14 +163,14 @@ actions:
       \ uses the possessed target's statistics, but doesn't gain access to the target's\
       \ knowledge, class features, or proficiencies.\n\nThe possession lasts until\
       \ the body drops to 0 hit points, Thorn ends it as a bonus action, or Thorn\
-      \ is turned or forced out by an effect like the [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]\
+      \ is turned or forced out by an effect like the [[/5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]\
       \ spell. When the possession ends, Thorn reappears in an unoccupied space within\
       \ 5 feet of the body. The target is immune to this ghost's Possession for 24\
       \ hours after succeeding on the saving throw or after the possession ends."
     "name": "Possession (Recharge 6)"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/thornboldt-thorn-durst-cos.webp"
+"image": "/4. World Almanac/NPCs/token/thornboldt-thorn-durst-cos.webp"
 ```
 ^statblock
 

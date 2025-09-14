@@ -14,15 +14,13 @@ school: Transmutation
 level: 9
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Self
+somatic: true
+verbal: true
+material: a holy symbol
 aliases:
   - Form of the Gods
-concentration: true
-material: a holy symbol
 ---
 # Form of the Gods
 *9th-level, Transmutation*  
@@ -32,7 +30,7 @@ material: a holy symbol
 - **Components:** V, S, M (a holy symbol)
 - **Duration:** Concentration, up to 1 hour
 
-By drawing on the energy of the gods, you can temporarily assume the form of your patron's avatar. *Form of the gods* transforms you into an entirely new shape and brings about the following changes (summarized below and in the [[5. Mechanics/Bestiary/Humanoid/Avatar Form (KPDM).md\|avatar form]] stat block).
+By drawing on the energy of the gods, you can temporarily assume the form of your patron's avatar. *Form of the gods* transforms you into an entirely new shape and brings about the following changes (summarized below and in the [[/5. Mechanics/Bestiary/Humanoid/Avatar Form (KPDM).md\|avatar form]] stat block).
 
 - Your size becomes Large, unless you were already at least that big.  
 - You gain resistance to nonmagical bludgeoning, piercing, and slashing damage and to one other damage type of your choice.  
@@ -41,6 +39,6 @@ By drawing on the energy of the gods, you can temporarily assume the form of you
 
 You remain in this form until you stop concentrating on the spell or until you drop to 0 hit points, at which time you revert to your natural form.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 72*

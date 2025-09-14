@@ -10,11 +10,11 @@ tags:
 aliases:
   - Redsmith Hammer
 one-hand-damage: 1d4 bludgeoning
-range: 20\60
+range: 20/60
 weight: 2
 ---
 # Redsmith Hammer
-*Weapon ([[5. Mechanics/Items/Light Hammer.md\|light hammer]]), minor, common*  
+*Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Redsmith-Hammer.webp#right)  
 
 - **Damage**: 1d4 bludgeoning

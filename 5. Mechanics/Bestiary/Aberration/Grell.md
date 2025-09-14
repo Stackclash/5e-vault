@@ -14,7 +14,7 @@ tags:
 aliases:
   - Grell
 ---
-# [[5. Mechanics\Bestiary\Aberration\Grell.md|Grell]]
+# [[5. Mechanics/Bestiary/Aberration/Grell.md|Grell]]
 *Source: Monster Manual p. 172, Vecna: Eve of Ruin*
 
 A grell resembles a bulbous floating brain with a wide, sharp beak. Its ten long tentacles are made of hundreds of ring-shaped muscles sheathed in tough fibrous hide. Sharp barbs line the tip each tentacle and inject paralytic venom. The grell can partially retract its barbs into its tentacles to handle or manipulate objects it doesn't want to pierce or tear.
@@ -62,14 +62,15 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
     "desc": "+6"
 "damage_immunities": "lightning"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 14"
 "languages": "Grell"
 "cr": "3"
 "actions":
   - "desc": "The grell makes two attacks: one with its tentacles and one with its\
       \ beak."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit:\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one creature. *Hit:*\
       \ 7 (1d10 + 2) piercing damage, and the target must succeed on a DC 11 Constitution\
       \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
       \ 1 minute. The [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] target\
@@ -82,13 +83,13 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
       \ When the grell moves, any Medium or smaller target it is grappling moves with\
       \ it."
     "name": "Tentacles"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
       \ + 2) piercing damage."
     "name": "Beak"
 "source":
   - "MM"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Aberration/token/grell.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/grell.webp"
 ```
 ^statblock
 

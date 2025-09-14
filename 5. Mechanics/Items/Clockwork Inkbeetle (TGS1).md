@@ -19,6 +19,6 @@ The beetle mirrors your movement to create a to-scale map of your journey, drawi
 
 The beetle always knows which direction is north. When placed on a piece of parchment for the first time, it crouches down to stamp a small compass rose on the sheet before it begins to move. If the beetle runs out of space on the parchment to travel, it stops moving in that direction and emits a clicking sound that can be heard by creatures within 5 feet of it.
 
-Attaching one [[5. Mechanics/Items/Bands Of The Found And Lost (TGS1).md\|Band of the Found and Lost]] to the beetle while you wear the other allows the beetle to move and trace your movements in this way from afar so long as you are both on the same plane of existence.
+Attaching one [[/5. Mechanics/Items/Bands Of The Found And Lost (TGS1).md\|Band of the Found and Lost]] to the beetle while you wear the other allows the beetle to move and trace your movements in this way from afar so long as you are both on the same plane of existence.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 45*

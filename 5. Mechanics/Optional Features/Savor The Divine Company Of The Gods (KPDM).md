@@ -16,4 +16,4 @@ This symbol represents robust and vigorous health and the favor of the gods.
 
 **Power:** When you take an action to trace this hieroglyph on a creature's skin with blood, that creature gains a number of temporary hit points equal to your Hit Dice.
 
-**Mastery Power:** If you spend 1 minute repeatedly tracing this hieroglyph on the body of an afflicted creature, you can cast [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] on that creature.
+**Mastery Power:** If you spend 1 minute repeatedly tracing this hieroglyph on the body of an afflicted creature, you can cast [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] on that creature.

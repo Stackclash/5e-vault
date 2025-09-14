@@ -12,17 +12,29 @@ classes:
   - Wizard
 school: Evocation
 level: 9
+damage:
+  base: 8d10
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 300 feet
+somatic: true
+verbal: true
+material: 'a black opal worth 500 gp, carved with a Void glyph'
+area:
+  shape: sphere
+  size: 10
 aliases:
   - Void Rift
-concentration: true
-material: 'a black opal worth 500 gp, carved with a Void glyph'
 ---
 # Void Rift
 *9th-level, Evocation*  
@@ -38,6 +50,6 @@ Unattended objects within 40 feet of the rift are drawn 15 feet toward it at the
 
 While concentrating on the spell, you take `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage at the end of each of your turns.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 332*

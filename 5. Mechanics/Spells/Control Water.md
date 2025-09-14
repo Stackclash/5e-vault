@@ -34,25 +34,26 @@ classes:
   - Wizard
 school: Transmutation
 level: 4
+damage:
+  base: 2d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: 300 feet
+somatic: true
+verbal: true
+material: a drop of water and a pinch of dust
 aliases:
   - Control Water
-range: 300 feet
-material: A drop of water and a pinch of dust.
-damageType: Bludgeoning
-save:
-  type: STR
-  success: half
-area:
-  type: cube
-  size: 100
-concentration: true
 ---
 # Control Water
 *4th-level, Transmutation*  
@@ -90,6 +91,6 @@ The first time each turn that an object enters the vortex, the object takes `dic
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Tempest Domain.md\|Cleric (Tempest Domain)]]; [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Ranger (Marshwarden)](compendium/lists/list-spells-classes-marshwarden-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Warlock (The Genie)](compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Warlock (The Fathomless)](compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Festus Domain)](compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Festus Domain)](/compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Tempest Domain.md\|Cleric (Tempest Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Marshwarden)](/compendium/lists/list-spells-classes-marshwarden-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Fathomless)](/compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 227. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

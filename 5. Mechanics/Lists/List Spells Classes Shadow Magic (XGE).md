@@ -10,4 +10,4 @@ aliases:
 
 ## 2nd Level
 
-- [[5. Mechanics/Spells/Darkness.md \|"PHB"]] at class level 3
+- [[/5. Mechanics/Spells/Darkness.md \|"PHB"]] at class level 3

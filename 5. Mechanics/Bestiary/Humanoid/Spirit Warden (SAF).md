@@ -13,7 +13,7 @@ tags:
 aliases:
   - Spirit Warden
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Spirit Warden (SAF).md|Spirit Warden]]
+# [[5. Mechanics/Bestiary/Humanoid/Spirit Warden (SAF).md|Spirit Warden]]
 *Source: Strongholds and Followers p. 72*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+6"
-  - "dexterity": "+3"
-  - "constitution": "+6"
-  - "intelligence": "+3"
-  - "wisdom": "+3"
-  - "charisma": "+3"
+  - "strength": !!int "6"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "6"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Nature|Nature]]"
     "desc": "+5"
@@ -52,19 +52,19 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "Melee  or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 9 (2d6 + 2) slashing damage.\n\nAt 7th level, retainers\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.\n\nAt 7th level, retainers\
       \ can take two signature attacks per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nThe spirit warden and their leader\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nThe spirit warden and their leader\
       \ have resistance to all damage until the end of the totem warrior's next turn."
     "name": "Grizzly Resistance (3/Day, Bonus Action)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe spirit warden uses the Dash\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe spirit warden uses the Dash\
       \ action. This movement does not provoke attacks of opportunity."
     "name": "Raptor Dive (3/Day, Bonus Action)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe spirit warden immediately makes\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe spirit warden immediately makes\
       \ an attack with their signature attack against all adjacent enemies. Hits deal\
-      \ an extra 6 (d12) slashing damage."
+      \ an extra 6 (1d12) slashing damage."
     "name": "Ferocious Whirlwind (1/Day)"
 "source":
   - "SaF"

@@ -14,17 +14,24 @@ classes:
   - Wizard
 school: Conjuration
 level: 7
+damage:
+  base: 1d10
+  scaling:
+    damage: null
+    level: null
+  types:
+    - force
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
+range: 10 feet
+somatic: false
+verbal: true
+area:
+  shape: cube
+  size: 10
 aliases:
   - Teleport
-range: 10 feet
-area:
-  type: cube
-  size: 10
 ---
 # Teleport
 *7th-level, Conjuration*  
@@ -77,6 +84,6 @@ The spell's unpredictable magic results in a difficult journey. Each teleporting
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 281. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

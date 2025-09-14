@@ -14,15 +14,18 @@ classes:
   - Ranger
 school: Transmutation
 level: 5
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Sun's Bounty
-concentration: true
 ---
 # Sun's Bounty
 *5th-level, Transmutation*  
@@ -38,6 +41,6 @@ In dim light, the spell's healing is reduced to 1 hit point per minute. Normal o
 
 Undead are especially vulnerable to this spell. If a targeted undead fails its Wisdom save, it gains the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition and suffers radiant damage instead of healing while in sunlight.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 111*

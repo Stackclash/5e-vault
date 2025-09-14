@@ -11,7 +11,7 @@ armorClass: 12 + Dex modifier
 weight: 13
 ---
 # Alpha Grick Hide Coat
-*Light armor ([[5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), rare*  
+*Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), rare*  
 
 - **Armor Class**: 12 + Dex modifier
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]

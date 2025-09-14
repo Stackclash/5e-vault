@@ -14,12 +14,18 @@ classes:
   - Ranger
 school: Divination
 level: 2
+damage:
+  base: 1d4
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Animal Spy
 ---
@@ -35,8 +41,8 @@ You create a mental link between you and a beast within range. Until the spell e
 
 This spell affects normal beasts, including giant versions of animals, but not conjured animals or familiars. The spell does not allow you to control the beast or make it friendly to you. While you experience the world through the beast's senses, your body is motionless, unaware of the outside world and effectively [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]].
 
-The spell ends if the distance between you and the beast is ever greater than 1 mile, or if the beast is killed. If you are using the beast's senses when it is killed, you must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] for `dice:1d4|noform|noparens|avg` (`d4`) rounds from the shock of experiencing its death.
+The spell ends if the distance between you and the beast is ever greater than 1 mile, or if the beast is killed. If you are using the beast's senses when it is killed, you must succeed on a DC 14 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] for `dice:1d4|noform|noparens|avg` (`1d4`) rounds from the shock of experiencing its death.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 37*

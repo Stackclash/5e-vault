@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Orelias-Tome-of-Beast-Familiars.webp#right)  
 
 
-While attuned to this book, you always have the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell prepared. This spell doesn't count against the number of spells you have prepared.
+While attuned to this book, you always have the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell prepared. This spell doesn't count against the number of spells you have prepared.
 
 When you cast this spell using a spell slot of 2nd level or higher, your familiar can take on the form of stronger animals. The spell slot level determines what beasts your familiar can take the form of, as shown in the table below.
 

@@ -20,13 +20,13 @@ You can use an action to attach or remove a badge from a spellbook by expending 
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Badge Of The Savant Abjuration (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Abjuration)]]  
-- [[5. Mechanics/Items/Badge Of The Savant Conjuration (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Conjuration)]]  
-- [[5. Mechanics/Items/Badge Of The Savant Divination (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Divination)]]  
-- [[5. Mechanics/Items/Badge Of The Savant Enchantment (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Enchantment)]]  
-- [[5. Mechanics/Items/Badge Of The Savant Evocation (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Evocation)]]  
-- [[5. Mechanics/Items/Badge Of The Savant Illusion (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Illusion)]]  
-- [[5. Mechanics/Items/Badge Of The Savant Necromancy (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Necromancy)]]  
-- [[5. Mechanics/Items/Badge Of The Savant Transmutation (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Transmutation)]]  
+- [[/5. Mechanics/Items/Badge Of The Savant Abjuration (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Abjuration)]]  
+- [[/5. Mechanics/Items/Badge Of The Savant Conjuration (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Conjuration)]]  
+- [[/5. Mechanics/Items/Badge Of The Savant Divination (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Divination)]]  
+- [[/5. Mechanics/Items/Badge Of The Savant Enchantment (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Enchantment)]]  
+- [[/5. Mechanics/Items/Badge Of The Savant Evocation (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Evocation)]]  
+- [[/5. Mechanics/Items/Badge Of The Savant Illusion (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Illusion)]]  
+- [[/5. Mechanics/Items/Badge Of The Savant Necromancy (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Necromancy)]]  
+- [[/5. Mechanics/Items/Badge Of The Savant Transmutation (GRIFFONSSADDLEBAG2).md\|Badge of the Savant (Transmutation)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 40*

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Oni
 ---
-# [[5. Mechanics\Bestiary\Giant\Oni.md|Oni]]
+# [[5. Mechanics/Bestiary/Giant/Oni.md|Oni]]
 *Source: Monster Manual p. 239, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
@@ -53,7 +53,7 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Chain Mail.md|chain mail]]"
+"ac_class": "[[/5. Mechanics/Items/Chain Mail.md|chain mail]]"
 "hp": !!int "110"
 "hit_dice": "13d10 + 39"
 "modifier": !!int "0"
@@ -66,10 +66,10 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
   - !!int "15"
 "speed": "30 ft., fly 30 ft."
 "saves":
-  - "dexterity": "+3"
-  - "constitution": "+6"
-  - "wisdom": "+4"
-  - "charisma": "+5"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "6"
+  - "wisdom": !!int "4"
+  - "charisma": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+5"
@@ -77,16 +77,17 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
     "desc": "+8"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": "Common, Giant"
 "cr": "7"
 "traits":
   - "desc": "The oni's innate spellcasting ability is Charisma (spell save DC 13).\
       \ The oni can innately cast the following spells, requiring no material components:\n\
-      \nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Cone Of Cold.md|cone of\
-      \ cold]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
-      \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
+      \n**At will:** [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Cone Of Cold.md|cone\
+      \ of cold]], [[/5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
+      \ [[/5. Mechanics/Spells/Sleep.md|sleep]]"
     "name": "Innate Spellcasting"
   - "desc": "The oni's weapon attacks are magical."
     "name": "Magic Weapons"
@@ -96,10 +97,10 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 "actions":
   - "desc": "The oni makes two attacks, either with its claws or its glaive."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage."
     "name": "Claw (Oni Form Only)"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15\
       \ (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium\
       \ form."
     "name": "Glaive"
@@ -112,7 +113,7 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Giant/token/oni.webp"
+"image": "/5. Mechanics/Bestiary/Giant/token/oni.webp"
 ```
 ^statblock
 

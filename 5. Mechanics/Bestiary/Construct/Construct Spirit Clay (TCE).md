@@ -13,7 +13,7 @@ tags:
 aliases:
   - Construct Spirit (Clay)
 ---
-# [[5. Mechanics\Bestiary\Construct\Construct Spirit Clay (TCE).md|Construct Spirit (Clay)]]
+# [[5. Mechanics/Bestiary/Construct/Construct Spirit Clay (TCE).md|Construct Spirit (Clay)]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock
@@ -36,14 +36,15 @@ aliases:
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages you speak"
 "actions":
   - "desc": "The construct makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d8 + 4 + the spell's level bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d8 + 4 + the spell's level bludgeoning damage."
     "name": "Slam"
 "reactions":
   - "desc": "When the construct takes damage, it makes a slam attack against a random\

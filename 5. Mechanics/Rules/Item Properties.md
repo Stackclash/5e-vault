@@ -125,7 +125,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 Some magic items bear curses that bedevil their users, sometimes long after a user has stopped using an item. Most methods of identifying items, including the identify spell, fail to reveal the presence of a curse, although lore might hint at it.
 
-Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell.
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell.
 
 ## Poison
 

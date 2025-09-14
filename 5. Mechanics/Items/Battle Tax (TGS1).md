@@ -15,7 +15,7 @@ two-hand-damage: 1d10 slashing
 weight: 2
 ---
 # Battle Tax
-*Weapon ([[5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, uncommon (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Battle-Tax.webp#right)  
 
 - **Damage**:

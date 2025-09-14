@@ -17,7 +17,7 @@ tags:
 aliases:
   - Weretiger
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Weretiger.md|Weretiger]]
+# [[5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]]
 *Source: Monster Manual p. 210. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Weretigers are ferocious hunters and warriors with a haughty and fastidious nature. Lithe and sleekly muscular in humanoid form, they are taller than average and meticulously groomed. Weretigers grow to enormous size in animal and hybrid form, but they fight in their more refined humanoid form when they can.
@@ -34,7 +34,7 @@ Evil lycanthropes hide among normal folk, emerging in animal form at night to sp
 
 ### Curse of Lycanthropy
 
-A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
+A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
 
 A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form-or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams.
 
@@ -48,15 +48,15 @@ Some individuals see little point in fighting the curse and accept what they are
 > 
 > The following information applies to specific lycanthropes.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[/5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[[/5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]].** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
+> **[[/5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]].** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]].** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[[/5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]].** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]].** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]].** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 ^player-characters-as-lycanthropes
 
 ```statblock
@@ -84,7 +84,8 @@ Some individuals see little point in fighting the curse and accept what they are
     "desc": "+4"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": "Common (can't speak in tiger form)"
 "cr": "4"
 "traits":
@@ -106,22 +107,22 @@ Some individuals see little point in fighting the curse and accept what they are
   - "desc": "In humanoid form, the weretiger makes two scimitar attacks or two longbow\
       \ attacks. In hybrid form, it can attack like a humanoid or make two claw attacks."
     "name": "Multiattack (Humanoid or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
       \ + 3) piercing damage. If the target is a humanoid, it must succeed on a DC\
       \ 13 Constitution saving throw or be cursed with weretiger lycanthropy."
     "name": "Bite (Tiger or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) slashing damage."
     "name": "Claw (Tiger or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage."
     "name": "Scimitar (Humanoid or Hybrid Form Only)"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
     "name": "Longbow (Humanoid or Hybrid Form Only)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/weretiger.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/weretiger.webp"
 ```
 ^statblock
 

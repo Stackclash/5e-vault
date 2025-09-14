@@ -28,15 +28,21 @@ classes:
   - Wizard
 school: Necromancy
 level: 3
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Mass Hobble Mount
-concentration: true
 ---
 # Mass Hobble Mount
 *3rd-level, Necromancy*  
@@ -50,6 +56,6 @@ When you cast this spell, you make separate ranged spell attacks against up to s
 
 Each beast hit by your spell is disabled so that it can't move at its normal speed without incurring injury. An affected creature that moves more than half its base speed in a turn takes `dice:4d6|noform|noparens|avg` (`4d6`) bludgeoning damage.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 94*

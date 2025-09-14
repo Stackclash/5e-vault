@@ -9,7 +9,7 @@ aliases:
 # Introduction: Danger to the Multiverse
 *Source: Vecna: Eve of Ruin* 
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/000-00-001-vecna-vs-kas.webp#center\|"The characters are destined to become embroiled in the legendary hatred between the lich-god Vecna and the warlord Kas"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/000-00-001-vecna-vs-kas.webp#center\|"The characters are destined to become embroiled in the legendary hatred between the lich-god Vecna and the warlord Kas"]]
 
 This adventure celebrates fifty years of Dungeons & Dragons history. The story spans many beloved settings and wondrous planes of existence. Its cast includes characters iconic to longtime fans. This adventure's stakes involve the fate of all worlds—in other words, the multiverse. If the player characters finish this adventure successfully, they'll reach 20th level and will have thwarted one of the most notorious villains in D&D's history.
 
@@ -41,15 +41,15 @@ One is Kas, a vampire warrior who once served Vecna but is now Vecna's eternal e
 
 ### Kas and Vecna
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/001-00-002-young-kas-and-vecna.webp#center\|"A young Kas and Vecna muse about the destruction of Oerth"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/001-00-002-young-kas-and-vecna.webp#center\|"A young Kas and Vecna muse about the destruction of Oerth"]]
 
 Hundreds of years ago, Vecna and Kas were close associates. They were driven men who shared similar evil outlooks. Kas admired Vecna's sadism and thirst for power, while Vecna valued Kas's ferocity and cruelty.
 
-By the time Vecna became a lich and the despotic ruler of an empire on the world of Oerth, Kas was the leader of Vecna's armies and the lich's most trusted lieutenant. Kas pledged his life to Vecna, and Vecna gave Kas generous gifts. The lich created the [[5. Mechanics/Items/Sword Of Kas.md\|Sword of Kas]] (see the "Dungeon Master's Guide") for his lieutenant. This intelligent artifact of pure evil was meant to serve Kas unquestioningly, but the sword soon developed other ideas.
+By the time Vecna became a lich and the despotic ruler of an empire on the world of Oerth, Kas was the leader of Vecna's armies and the lich's most trusted lieutenant. Kas pledged his life to Vecna, and Vecna gave Kas generous gifts. The lich created the [[/5. Mechanics/Items/Sword Of Kas.md\|Sword of Kas]] (see the "Dungeon Master's Guide") for his lieutenant. This intelligent artifact of pure evil was meant to serve Kas unquestioningly, but the sword soon developed other ideas.
 
 Over time, Kas and Vecna began disagreeing about strategies to expand the lich's empire. Convinced Kas was more gullible than Vecna, the sword urged Kas to kill and supplant Vecna. The sword wanted nothing less than full control of Vecna's empire through Kas.
 
-Kas finally betrayed his liege when he confronted Vecna in the lich's tower. Kas killed Vecna, but before Vecna died, Vecna flung Kas across the multiverse. Kas lost the *Sword of Kas* in his flight. All that was left of Vecna after he died was one hand and one eye. These eventually became artifacts known as the [[5. Mechanics/Items/Eye And Hand Of Vecna.md\|Eye and Hand of Vecna]] (see the "Dungeon Master's Guide").
+Kas finally betrayed his liege when he confronted Vecna in the lich's tower. Kas killed Vecna, but before Vecna died, Vecna flung Kas across the multiverse. Kas lost the *Sword of Kas* in his flight. All that was left of Vecna after he died was one hand and one eye. These eventually became artifacts known as the [[/5. Mechanics/Items/Eye And Hand Of Vecna.md\|Eye and Hand of Vecna]] (see the "Dungeon Master's Guide").
 
 In the aftermath of this battle, Kas transformed into a vampire. He became the ruler and prisoner of a Domain of Dread (a mist-bordered realm in the Shadowfell) called Tovag. Eventually, the Dark Powers whispered to Kas that Vecna had risen again, becoming an evil god of secrets and magic on Oerth.
 
@@ -57,7 +57,7 @@ Vecna's defeat of Kas grates on the warlord's ego. Kas aches to annihilate Vecna
 
 ## Kas's Plan
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/002-00-003-kas-and-crown-of-lies.webp#center\|"The Dark Powers have gifted Kas a powerful artifact to help him destroy Vecna"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/002-00-003-kas-and-crown-of-lies.webp#center\|"The Dark Powers have gifted Kas a powerful artifact to help him destroy Vecna"]]
 
 Shortly after Vecna began traversing the multiverse to gather secrets, Kas learned of the lich-god's plan from the Dark Powers. Upon working out a bargain with those powers, Kas devised a plot to usurp the power Vecna was gathering.
 
@@ -65,7 +65,7 @@ The moment before the lich unravels existence, Kas plans to slay Vecna and step 
 
 ### Domain of Dread Parolee
 
-Kas uses an artifact called the [[5. Mechanics/Items/Crown Of Lies (VEOR).md\|Crown of Lies]] to impersonate a powerful wizard and manipulate others into retrieving an item that will allow him to free a demon lord ally named Miska the Wolf-Spider. Together, the two can defeat Vecna. Kas is attuned to the crown throughout this adventure.
+Kas uses an artifact called the [[/5. Mechanics/Items/Crown Of Lies (VEOR).md\|Crown of Lies]] to impersonate a powerful wizard and manipulate others into retrieving an item that will allow him to free a demon lord ally named Miska the Wolf-Spider. Together, the two can defeat Vecna. Kas is attuned to the crown throughout this adventure.
 
 ### The Wizards Three
 
@@ -75,24 +75,24 @@ With the help of spies, Kas learned that Alustriel intended to summon two powerf
 
 Kas knows Tasha only by reputation, and he holds a grudging respect for the daughter of Baba Yaga. Kas is more familiar with Mordenkainen, as the two have clashed on Oerth in the past.
 
-Kas disguised himself as Mordenkainen using the [[5. Mechanics/Items/Crown Of Lies (VEOR).md\|Crown of Lies]] and received Alustriel's summons to her sanctum in Sigil, the City of Doors. Throughout this adventure, the real Mordenkainen is traveling the multiverse, unaware of Kas's impersonation.
+Kas disguised himself as Mordenkainen using the [[/5. Mechanics/Items/Crown Of Lies (VEOR).md\|Crown of Lies]] and received Alustriel's summons to her sanctum in Sigil, the City of Doors. Throughout this adventure, the real Mordenkainen is traveling the multiverse, unaware of Kas's impersonation.
 
-When Kas arrives in the sanctum, he realizes that Alustriel plans to combine her magic with Tasha's and Mordenkainen's to craft a [[5. Mechanics/Spells/Wish.md\|Wish]] spell to thwart Vecna. Alustriel intends to dispel the collective power of the secrets Vecna gathered, rendering the lich's Ritual of Remaking useless.
+When Kas arrives in the sanctum, he realizes that Alustriel plans to combine her magic with Tasha's and Mordenkainen's to craft a [[/5. Mechanics/Spells/Wish.md\|Wish]] spell to thwart Vecna. Alustriel intends to dispel the collective power of the secrets Vecna gathered, rendering the lich's Ritual of Remaking useless.
 
-Despite looking identical to Mordenkainen, Kas has no significant magical power. This lack sabotages the *Wish* spell exactly as the warlord hoped, allowing him to suggest an alternate course of action: reassemble the artifact called the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] and use it to defeat Vecna instead. Kas is lying; he wants the rod only for his own selfish ends.
+Despite looking identical to Mordenkainen, Kas has no significant magical power. This lack sabotages the *Wish* spell exactly as the warlord hoped, allowing him to suggest an alternate course of action: reassemble the artifact called the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] and use it to defeat Vecna instead. Kas is lying; he wants the rod only for his own selfish ends.
 
 > [!note] Kas's Sword
 > 
-> Kas isn't in possession of the legendary artifact called the *Sword of Kas* during this adventure. However, if the characters wish to find it and use it against the warlord, you might place the artifact somewhere in this adventure for them to find. See the "Dungeon Master's Guide" for more information about the [[5. Mechanics/Items/Sword Of Kas.md\|Sword of Kas]].
+> Kas isn't in possession of the legendary artifact called the *Sword of Kas* during this adventure. However, if the characters wish to find it and use it against the warlord, you might place the artifact somewhere in this adventure for them to find. See the "Dungeon Master's Guide" for more information about the [[/5. Mechanics/Items/Sword Of Kas.md\|Sword of Kas]].
 ^kass-sword
 
 ### Confronting Vecna
 
-When the spellcasters' [[5. Mechanics/Spells/Wish.md\|Wish]] spell goes awry in chapter 2 of this adventure, the player characters are shunted to the sanctum in Sigil. Kas doesn't expect this development, but the characters are the perfect patsies. Kas planned to retrieve the pieces of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] himself, but now he sends the characters to do so. Kas plans to use the rod to free the demon lord Miska the Wolf-Spider, his ally against Vecna, though he falsely claims that the rod is the key to stopping Vecna. (Read more about Kas's plan in chapters 2 and 9.)
+When the spellcasters' [[/5. Mechanics/Spells/Wish.md\|Wish]] spell goes awry in chapter 2 of this adventure, the player characters are shunted to the sanctum in Sigil. Kas doesn't expect this development, but the characters are the perfect patsies. Kas planned to retrieve the pieces of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] himself, but now he sends the characters to do so. Kas plans to use the rod to free the demon lord Miska the Wolf-Spider, his ally against Vecna, though he falsely claims that the rod is the key to stopping Vecna. (Read more about Kas's plan in chapters 2 and 9.)
 
 #### The Rod's Pieces
 
-During this adventure, the characters might recover all the pieces of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. Each piece's location is presented in the Rod Piece Locations table below.
+During this adventure, the characters might recover all the pieces of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. Each piece's location is presented in the Rod Piece Locations table below.
 
 **Rod Piece Locations**
 
@@ -112,7 +112,7 @@ During this adventure, the characters might recover all the pieces of the [[5. M
 The adventure is split into three narrative components:
 
 - **Discovering Vecna's Activity.** In chapter 1, the characters stumble upon a cult of Vecna performing a ritual to extract secrets. When the characters clash with the cult, they become linked to the lich, which sets them on the path to discover Vecna's plot to remake the multiverse.  
-- **Seeking the Rod.** In chapter 2, the characters' link to Vecna shunts them to Sigil when powerful spellcasters botch a [[5. Mechanics/Spells/Wish.md\|Wish]] spell to stop the lich. The characters are asked to retrieve the pieces of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], as detailed in chapters 2 through 8.  
+- **Seeking the Rod.** In chapter 2, the characters' link to Vecna shunts them to Sigil when powerful spellcasters botch a [[/5. Mechanics/Spells/Wish.md\|Wish]] spell to stop the lich. The characters are asked to retrieve the pieces of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], as detailed in chapters 2 through 8.  
 - **Stopping the Ritual of Remaking.** In chapter 9, "Mordenkainen" reveals himself as Kas in disguise. Kas steals the reassembled rod and heads to the plane of Pandemonium to co-opt Vecna's ritual. The characters can chase and confront Kas, but they must stop the Ritual of Remaking from being completed.  
 
 ### Chapter 1 Summary
@@ -121,9 +121,9 @@ Chapter 1 takes place in Neverwinter, a city on the Sword Coast on the world of 
 
 ### Chapter 2 Summary
 
-The first part of chapter 2 takes place in a secret sanctum in Sigil, the City of Doors. The second part takes place in the Underdark on Toril. When two powerful spellcasters and an impostor try to cast a [[5. Mechanics/Spells/Wish.md\|Wish]] spell to stop Vecna's plot, the botched spell latches on to Vecna's Link and pulls the characters to the trio's location. Lady Alustriel Silverhand, Tasha, and Mordenkainen (secretly Kas) are baffled by this development, but Mordenkainen pretends to improvise a plan to stop Vecna. He falsely claims that the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], a powerful artifact, might be the only way to stop Vecna now. He knows the location of the first piece, which is in a covert base for Lolth operatives, and sends the characters after it. Each rod piece will point the way to the next piece, and all pieces are in different locations in multiverse.
+The first part of chapter 2 takes place in a secret sanctum in Sigil, the City of Doors. The second part takes place in the Underdark on Toril. When two powerful spellcasters and an impostor try to cast a [[/5. Mechanics/Spells/Wish.md\|Wish]] spell to stop Vecna's plot, the botched spell latches on to Vecna's Link and pulls the characters to the trio's location. Lady Alustriel Silverhand, Tasha, and Mordenkainen (secretly Kas) are baffled by this development, but Mordenkainen pretends to improvise a plan to stop Vecna. He falsely claims that the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], a powerful artifact, might be the only way to stop Vecna now. He knows the location of the first piece, which is in a covert base for Lolth operatives, and sends the characters after it. Each rod piece will point the way to the next piece, and all pieces are in different locations in multiverse.
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/005-00-006-kas-in-disguise.webp#center\|"Kas disguises himself flawlessly as Mordenkainen using the Crown of Lies"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/005-00-006-kas-in-disguise.webp#center\|"Kas disguises himself flawlessly as Mordenkainen using the Crown of Lies"]]
 
 ### Chapter 3 Summary
 
@@ -151,7 +151,7 @@ Chapter 8 takes place near the dragon god Tiamat's lair in Avernus, the first la
 
 ### Chapter 9 Summary
 
-Chapter 9 starts in Sigil and continues in Pandesmos, the first layer of the chaotic plane of Pandemonium. The rest of the adventure takes place on that plane. With all pieces of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] retrieved, the characters must allow the spellcasters to examine the rod—or so "Mordenkainen" claims. The archmage reveals himself as Kas and uses the rod to subdue Alustriel and Tasha. Kas flees to Pandemonium to free Miska the Wolf-Spider and usurp Vecna's ritual. The characters must race to Pandemonium in pursuit of Kas, who has discovered where Vecna's ritual is taking place.
+Chapter 9 starts in Sigil and continues in Pandesmos, the first layer of the chaotic plane of Pandemonium. The rest of the adventure takes place on that plane. With all pieces of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] retrieved, the characters must allow the spellcasters to examine the rod—or so "Mordenkainen" claims. The archmage reveals himself as Kas and uses the rod to subdue Alustriel and Tasha. Kas flees to Pandemonium to free Miska the Wolf-Spider and usurp Vecna's ritual. The characters must race to Pandemonium in pursuit of Kas, who has discovered where Vecna's ritual is taking place.
 
 ### Chapter 10 Summary
 
@@ -163,7 +163,7 @@ In chapter 11, the characters must descend into the Cave of Shattered Reflection
 
 ## Running the Adventure
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/006-00-007-the-three-wizards.webp#center\|"Lady Alustriel Silverhand, Tasha, and Mordenkainen have discovered Vecna's plan to remake the multiverse. Mordenkainen is an impostor who hopes to co-opt the lich's ritual"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/006-00-007-the-three-wizards.webp#center\|"Lady Alustriel Silverhand, Tasha, and Mordenkainen have discovered Vecna's plan to remake the multiverse. Mordenkainen is an impostor who hopes to co-opt the lich's ritual"]]
 
 To run this adventure, you need the fifth edition core rulebooks ("Player's Handbook", "Dungeon Master's Guide", and "Monster Manual").
 
@@ -224,7 +224,7 @@ The 10th-Level Backstories table contains sample backstories for new characters.
 | 2 | As a bodyguard for a high-ranking political or business figure, the character has staved off attacks from assassins and demons. |
 | 3 | The character hunts evil dragons or another dangerous kind of creature. |
 | 4 | The character is a private investigator who, for the right price, retrieves kidnapped loved ones and recovers stolen documents and items from crafty villains. |
-| 5 | The character studies and preserves nonmagical historical artifacts and has traveled widely in pursuit of rare items of deep significance. While securing items for local museums, the character has thwarted threats ranging from [[5. Mechanics/Bestiary/Giant/Ettin.md\|ettins]] to [[5. Mechanics/Bestiary/Fiend/Glabrezu.md\|glabrezus]]. |
+| 5 | The character studies and preserves nonmagical historical artifacts and has traveled widely in pursuit of rare items of deep significance. While securing items for local museums, the character has thwarted threats ranging from [[/5. Mechanics/Bestiary/Giant/Ettin.md\|ettins]] to [[/5. Mechanics/Bestiary/Fiend/Glabrezu.md\|glabrezus]]. |
 | 6 | The character is in the service of a god and on a mission to protect the helpless. The work doesn't pay well, but the character has saved children from hungry monsters, thwarted rampaging monsters in villages, and protected the poor from greedy overlords. |
 ^10th-level-backstories
 
@@ -237,14 +237,14 @@ The 10th-Level Backstories table contains sample backstories for new characters.
 | 1 | The character is in the employ of a powerful merchant, mage, or monarch who sent the character to Lord Neverember as a favor. Neverember needed the character's help to handle growing problems with undead in Neverwinter. The emergency involving the missing nobles is the character's most recent assignment. |
 | 2 | After a long struggle, the character defeated a powerful sorcerer. In the throes of death, the sorcerer's magic backfired, opening a portal and shunting the character to Neverwinter. The character has been working for Lord Neverember as a mercenary while figuring out what to do next. |
 | 3 | The character fought an adult black dragon. The fight wasn't going well, and nothingness enveloped the character as the character was about to die. Instead of dying, the character woke up in Neverwinter outside Lord Neverember's villa. It's up to you to decide why; perhaps a god's or spellcaster's intervention is involved. |
-| 4 | The character defeated an evil leader and was given the pick of the spoils from the villain's lair. While examining the items, the character stumbled upon a [[5. Mechanics/Items/Cubic Gate.md\|Cubic Gate]] that sent them to Neverwinter. The character agreed to work for Lord Neverember in exchange for the spellcasting services they need to return home. |
+| 4 | The character defeated an evil leader and was given the pick of the spoils from the villain's lair. While examining the items, the character stumbled upon a [[/5. Mechanics/Items/Cubic Gate.md\|Cubic Gate]] that sent them to Neverwinter. The character agreed to work for Lord Neverember in exchange for the spellcasting services they need to return home. |
 | 5 | The character is an expert at retrieving kidnapped individuals, even those on other planes of existence. The family of one of the kidnapped nobles in chapter 1 reached out to the Harpers, who recommended the character's services. The family promised a high price for the character to come to Neverwinter and look for the missing loved one. |
 | 6 | The character is an explorer charting the multiverse. During their travels, they've come to recognize the foreboding sense of danger they feel whenever they're about to encounter evil. The character can't shake a sense of dread about Neverwinter, so they've come to the city to ask Lord Neverember if there's a threat. |
 ^purpose-in-neverwinter
 
 ## The Power of Secrets
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/007-00-008-cult-of-vecna.webp#center\|"Cults of Vecna everywhere are conducting rituals to siphon victims' secrets, which will fuel the lich's ritual to remake the multiverse"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/007-00-008-cult-of-vecna.webp#center\|"Cults of Vecna everywhere are conducting rituals to siphon victims' secrets, which will fuel the lich's ritual to remake the multiverse"]]
 
 Vecna uses stolen secrets to power his ritual to remake the multiverse. When the characters stumble on the cult of Vecna, whose members are trying to extract secrets from a captive, they gain access to magic fueled by powerful secrets. The characters can spend secrets like currency once they receive Vecna's Link in chapter 1.
 
@@ -280,54 +280,54 @@ The Stat Blocks by Challenge Rating table sorts the creatures in this book by ch
 
 | CR | Stat Block | Creature Type | Chapter |
 |----|------------|---------------|---------|
-| 1 | [[5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|Warforged warrior]] | Construct | A |
-| 5 | [[5. Mechanics/Bestiary/Monstrosity/Night Scavver (BAM).md\|Night scavver]] | Monstrosity | A |
-| 5 | [[5. Mechanics/Bestiary/Fiend/Kakkuu Spyder Fiend (VEOR).md\|Kakkuu spyder-fiend]] | Fiend | A |
-| 6 | [[5. Mechanics/Bestiary/Undead/Black Rose Bearer (VEOR).md\|Black rose bearer]] | Undead | A |
-| 6 | [[5. Mechanics/Bestiary/Construct/Moonlight Guardian (VEOR).md\|Moonlight guardian]] | Construct | A |
-| 6 | [[5. Mechanics/Bestiary/Humanoid/Priest Of Osybus (VRGR).md\|Priest of Osybus]] | Humanoid | A |
-| 7 | [[5. Mechanics/Bestiary/Construct/Blade Scout (VEOR).md\|Blade scout]] | Construct | A |
-| 7 | [[5. Mechanics/Bestiary/Monstrosity/Lost Sorrowsworn (MPMM).md\|Lost sorrowsworn]] | Monstrosity | A |
-| 8 | [[5. Mechanics/Bestiary/Undead/Bone Roc (VEOR).md\|Bone roc]] | Undead | A |
-| 8 | [[5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Tome (VRGR).md\|Inquisitor of the Tome]] | Humanoid | A |
-| 8 | [[5. Mechanics/Bestiary/Monstrosity/Star Angler (VEOR).md\|Star angler]] | Monstrosity | A |
-| 8 | [[5. Mechanics/Bestiary/Construct/Whirling Chandelier (VEOR).md\|Whirling chandelier]] | Construct | A |
-| 9 | [[5. Mechanics/Bestiary/Construct/Blade Lieutenant (VEOR).md\|Blade lieutenant]] | Construct | A |
-| 9 | [[5. Mechanics/Bestiary/Monstrosity/Lonely Sorrowsworn (MPMM).md\|Lonely sorrowsworn]] | Monstrosity | A |
-| 9 | [[5. Mechanics/Bestiary/Humanoid/Necromancer Wizard (MPMM).md\|Necromancer wizard]] | Humanoid | A |
-| 10 | [[5. Mechanics/Bestiary/Aberration/Eye Monger (BAM).md\|Eye monger]] | Aberration | A |
-| 10 | [[5. Mechanics/Bestiary/Undead/Mirror Shade (VEOR).md\|Mirror shade]] | Undead | A |
-| 11 | [[5. Mechanics/Bestiary/Fiend/Degloth (VEOR).md\|Degloth]] | Fiend | A |
-| 11 | [[4. World Almanac/NPCs/Glaive (VEOR).md\|Glaive]] | Humanoid | 4 |
-| 11 | [[5. Mechanics/Bestiary/Monstrosity/Spiderdragon (VEOR).md\|Spiderdragon]] | Monstrosity | A |
-| 11 | [[5. Mechanics/Bestiary/Fiend/Vlazok (VEOR).md\|Vlazok]] | Fiend | A |
-| 12 | [[5. Mechanics/Bestiary/Monstrosity/Blazebear (VEOR).md\|Blazebear]] | Monstrosity | A |
-| 12 | [[5. Mechanics/Bestiary/Construct/Granite Juggernaut (VEOR).md\|Granite juggernaut]] | Construct | A |
-| 13 | [[5. Mechanics/Bestiary/Fey/Deadbark Dryad (VEOR).md\|Deadbark dryad]] | Fey | A |
-| 13 | [[5. Mechanics/Bestiary/Dragon/Adult Lunar Dragon (BAM).md\|Adult lunar dragon]] | Dragon | A |
-| 13 | [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend (VEOR).md\|Phisarazu spyder-fiend]] | Fiend | A |
-| 14 | [[5. Mechanics/Bestiary/Construct/Cadaver Collector (MPMM).md\|Cadaver collector]] | Construct | A |
-| 14 | [[5. Mechanics/Bestiary/Fiend/Hazvongel (VEOR).md\|Hazvongel]] | Fiend | A |
-| 15 | [[5. Mechanics/Bestiary/Fiend/Green Abishai (MPMM).md\|Green abishai]] | Fiend | A |
-| 15 | [[5. Mechanics/Bestiary/Monstrosity/Borthak (VEOR).md\|Borthak]] | Monstrosity | A |
-| 15 | [[5. Mechanics/Bestiary/Undead/Deathwolf (VEOR).md\|Deathwolf]] | Undead | A |
-| 15 | [[5. Mechanics/Bestiary/Fiend/Relentless Impaler (VEOR).md\|Relentless impaler]] | Fiend | A |
-| 15 | [[4. World Almanac/NPCs/Strahd Master Of Death House (VEOR).md\|Strahd, Master of Death House]] | Undead | B |
-| 17 | [[5. Mechanics/Bestiary/Fiend/Blue Abishai (MPMM).md\|Blue abishai]] | Fiend | A |
-| 17 | [[5. Mechanics/Bestiary/Monstrosity/Hertilod (VEOR).md\|Hertilod]] | Monstrosity | A |
-| 17 | [[5. Mechanics/Bestiary/Fiend/Quavilithku Spyder Fiend (VEOR).md\|Quavilithku spyder-fiend]] | Fiend | A |
-| 18 | [[5. Mechanics/Bestiary/Monstrosity/Citadel Spider (VEOR).md\|Citadel spider]] | Monstrosity | A |
-| 18 | [[5. Mechanics/Bestiary/Aberration/Cosmic Horror (BAM).md\|Cosmic horror]] | Aberration | A |
-| 19 | [[5. Mechanics/Bestiary/Fiend/Red Abishai (MPMM).md\|Red abishai]] | Fiend | A |
-| 19 | [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md\|Raklupis spyder-fiend]] | Fiend | A |
-| 19 | [[4. World Almanac/NPCs/Lord Soth (DSOTDQ).md\|Lord Soth]] | Undead | B |
-| 19 | [[4. World Almanac/NPCs/Tasha The Witch (VEOR).md\|Tasha the Witch]] | Humanoid | B |
-| 21 | [[5. Mechanics/Bestiary/Monstrosity/Astral Dreadnought (MPMM).md\|Astral dreadnought]] | Monstrosity | A |
-| 21 | [[5. Mechanics/Bestiary/Undead/False Lich (VEOR).md\|False lich]] | Undead | A |
-| 21 | [[4. World Almanac/NPCs/Alustriel Silverhand (VEOR).md\|Alustriel Silverhand]] | Humanoid | B |
-| 22 | [[4. World Almanac/NPCs/Camlash (VEOR).md\|Camlash]] | Fiend | 10 |
-| 23 | [[4. World Almanac/NPCs/Kas The Betrayer (VEOR).md\|Kas the Betrayer]] | Undead | B |
-| 23 | [[4. World Almanac/NPCs/Windfall (VEOR).md\|Windfall]] | Humanoid | 8 |
-| 24 | [[4. World Almanac/NPCs/Miska The Wolf Spider (VEOR).md\|Miska the Wolf-Spider]] | Fiend | B |
-| 26 | [[4. World Almanac/NPCs/Vecna The Archlich (VEOR).md\|Vecna the Archlich]] | Undead | B |
+| 1 | [[/5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|Warforged warrior]] | Construct | A |
+| 5 | [[/5. Mechanics/Bestiary/Monstrosity/Night Scavver (BAM).md\|Night scavver]] | Monstrosity | A |
+| 5 | [[/5. Mechanics/Bestiary/Fiend/Kakkuu Spyder Fiend (VEOR).md\|Kakkuu spyder-fiend]] | Fiend | A |
+| 6 | [[/5. Mechanics/Bestiary/Undead/Black Rose Bearer (VEOR).md\|Black rose bearer]] | Undead | A |
+| 6 | [[/5. Mechanics/Bestiary/Construct/Moonlight Guardian (VEOR).md\|Moonlight guardian]] | Construct | A |
+| 6 | [[/5. Mechanics/Bestiary/Humanoid/Priest Of Osybus (VRGR).md\|Priest of Osybus]] | Humanoid | A |
+| 7 | [[/5. Mechanics/Bestiary/Construct/Blade Scout (VEOR).md\|Blade scout]] | Construct | A |
+| 7 | [[/5. Mechanics/Bestiary/Monstrosity/Lost Sorrowsworn (MPMM).md\|Lost sorrowsworn]] | Monstrosity | A |
+| 8 | [[/5. Mechanics/Bestiary/Undead/Bone Roc (VEOR).md\|Bone roc]] | Undead | A |
+| 8 | [[/5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Tome (VRGR).md\|Inquisitor of the Tome]] | Humanoid | A |
+| 8 | [[/5. Mechanics/Bestiary/Monstrosity/Star Angler (VEOR).md\|Star angler]] | Monstrosity | A |
+| 8 | [[/5. Mechanics/Bestiary/Construct/Whirling Chandelier (VEOR).md\|Whirling chandelier]] | Construct | A |
+| 9 | [[/5. Mechanics/Bestiary/Construct/Blade Lieutenant (VEOR).md\|Blade lieutenant]] | Construct | A |
+| 9 | [[/5. Mechanics/Bestiary/Monstrosity/Lonely Sorrowsworn (MPMM).md\|Lonely sorrowsworn]] | Monstrosity | A |
+| 9 | [[/5. Mechanics/Bestiary/Humanoid/Necromancer Wizard (MPMM).md\|Necromancer wizard]] | Humanoid | A |
+| 10 | [[/5. Mechanics/Bestiary/Aberration/Eye Monger (BAM).md\|Eye monger]] | Aberration | A |
+| 10 | [[/5. Mechanics/Bestiary/Undead/Mirror Shade (VEOR).md\|Mirror shade]] | Undead | A |
+| 11 | [[/5. Mechanics/Bestiary/Fiend/Degloth (VEOR).md\|Degloth]] | Fiend | A |
+| 11 | [[/4. World Almanac/NPCs/Glaive (VEOR).md\|Glaive]] | Humanoid | 4 |
+| 11 | [[/5. Mechanics/Bestiary/Monstrosity/Spiderdragon (VEOR).md\|Spiderdragon]] | Monstrosity | A |
+| 11 | [[/5. Mechanics/Bestiary/Fiend/Vlazok (VEOR).md\|Vlazok]] | Fiend | A |
+| 12 | [[/5. Mechanics/Bestiary/Monstrosity/Blazebear (VEOR).md\|Blazebear]] | Monstrosity | A |
+| 12 | [[/5. Mechanics/Bestiary/Construct/Granite Juggernaut (VEOR).md\|Granite juggernaut]] | Construct | A |
+| 13 | [[/5. Mechanics/Bestiary/Fey/Deadbark Dryad (VEOR).md\|Deadbark dryad]] | Fey | A |
+| 13 | [[/5. Mechanics/Bestiary/Dragon/Adult Lunar Dragon (BAM).md\|Adult lunar dragon]] | Dragon | A |
+| 13 | [[/5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend (VEOR).md\|Phisarazu spyder-fiend]] | Fiend | A |
+| 14 | [[/5. Mechanics/Bestiary/Construct/Cadaver Collector (MPMM).md\|Cadaver collector]] | Construct | A |
+| 14 | [[/5. Mechanics/Bestiary/Fiend/Hazvongel (VEOR).md\|Hazvongel]] | Fiend | A |
+| 15 | [[/5. Mechanics/Bestiary/Fiend/Green Abishai (MPMM).md\|Green abishai]] | Fiend | A |
+| 15 | [[/5. Mechanics/Bestiary/Monstrosity/Borthak (VEOR).md\|Borthak]] | Monstrosity | A |
+| 15 | [[/5. Mechanics/Bestiary/Undead/Deathwolf (VEOR).md\|Deathwolf]] | Undead | A |
+| 15 | [[/5. Mechanics/Bestiary/Fiend/Relentless Impaler (VEOR).md\|Relentless impaler]] | Fiend | A |
+| 15 | [[/4. World Almanac/NPCs/Strahd Master Of Death House (VEOR).md\|Strahd, Master of Death House]] | Undead | B |
+| 17 | [[/5. Mechanics/Bestiary/Fiend/Blue Abishai (MPMM).md\|Blue abishai]] | Fiend | A |
+| 17 | [[/5. Mechanics/Bestiary/Monstrosity/Hertilod (VEOR).md\|Hertilod]] | Monstrosity | A |
+| 17 | [[/5. Mechanics/Bestiary/Fiend/Quavilithku Spyder Fiend (VEOR).md\|Quavilithku spyder-fiend]] | Fiend | A |
+| 18 | [[/5. Mechanics/Bestiary/Monstrosity/Citadel Spider (VEOR).md\|Citadel spider]] | Monstrosity | A |
+| 18 | [[/5. Mechanics/Bestiary/Aberration/Cosmic Horror (BAM).md\|Cosmic horror]] | Aberration | A |
+| 19 | [[/5. Mechanics/Bestiary/Fiend/Red Abishai (MPMM).md\|Red abishai]] | Fiend | A |
+| 19 | [[/5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md\|Raklupis spyder-fiend]] | Fiend | A |
+| 19 | [[/4. World Almanac/NPCs/Lord Soth (DSOTDQ).md\|Lord Soth]] | Undead | B |
+| 19 | [[/4. World Almanac/NPCs/Tasha The Witch (VEOR).md\|Tasha the Witch]] | Humanoid | B |
+| 21 | [[/5. Mechanics/Bestiary/Monstrosity/Astral Dreadnought (MPMM).md\|Astral dreadnought]] | Monstrosity | A |
+| 21 | [[/5. Mechanics/Bestiary/Undead/False Lich (VEOR).md\|False lich]] | Undead | A |
+| 21 | [[/4. World Almanac/NPCs/Alustriel Silverhand (VEOR).md\|Alustriel Silverhand]] | Humanoid | B |
+| 22 | [[/4. World Almanac/NPCs/Camlash (VEOR).md\|Camlash]] | Fiend | 10 |
+| 23 | [[/4. World Almanac/NPCs/Kas The Betrayer (VEOR).md\|Kas the Betrayer]] | Undead | B |
+| 23 | [[/4. World Almanac/NPCs/Windfall (VEOR).md\|Windfall]] | Humanoid | 8 |
+| 24 | [[/4. World Almanac/NPCs/Miska The Wolf Spider (VEOR).md\|Miska the Wolf-Spider]] | Fiend | B |
+| 26 | [[/4. World Almanac/NPCs/Vecna The Archlich (VEOR).md\|Vecna the Archlich]] | Undead | B |
 ^stat-blocks-by-challenge-rating

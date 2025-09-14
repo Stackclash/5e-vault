@@ -55,7 +55,7 @@ When you choose this archetype at 3rd level, you gain proficiency in the [[/5. M
 
 In addition, your familiarity with blood has become magical, giving you some degree of control over it. As a result, you can use a bonus action to magically stabilize an [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] creature within 5 feet of you.
 
-You can use this same magic when you apply traditional healing techniques. You can use a bonus action to expend one use of a [[5. Mechanics/Items/Healers Kit.md\|healer's kit]] on a creature. When you do, that creature regains hit points equal `dice:1d4|noform|noparens|avg` (`d4`) + your proficiency bonus. The creature can't regain hit points from this feature again until it finishes a short or long rest.
+You can use this same magic when you apply traditional healing techniques. You can use a bonus action to expend one use of a [[/5. Mechanics/Items/Healers Kit.md\|healer's kit]] on a creature. When you do, that creature regains hit points equal `dice:1d4|noform|noparens|avg` (`1d4`) + your proficiency bonus. The creature can't regain hit points from this feature again until it finishes a short or long rest.
 
 ### Transfusion (Level 3)
 
@@ -71,6 +71,6 @@ At 13th level, when you gain temporary hit points from your Transfusion feature,
 
 ### Bloodbound (Level 17)
 
-By 17th level, you can command the blood inside certain creatures. Immediately after you deal Sneak Attack damage to a beast or humanoid, you can force that creature to make a Constitution saving throw. The DC is equal to 8 + your proficiency bonus + your Wisdom modifier. On a failed save, that creature is under the effect of the [[5. Mechanics/Spells/Dominate Beast.md\|dominate beast]] or [[5. Mechanics/Spells/Dominate Person.md\|dominate person]] spell, respectively, for 1 minute or until you choose to end the effect (no action required).
+By 17th level, you can command the blood inside certain creatures. Immediately after you deal Sneak Attack damage to a beast or humanoid, you can force that creature to make a Constitution saving throw. The DC is equal to 8 + your proficiency bonus + your Wisdom modifier. On a failed save, that creature is under the effect of the [[/5. Mechanics/Spells/Dominate Beast.md\|dominate beast]] or [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]] spell, respectively, for 1 minute or until you choose to end the effect (no action required).
 
 Once you use this feature, you can't use it again until you finish a short or long rest.

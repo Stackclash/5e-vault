@@ -13,7 +13,7 @@ tags:
 aliases:
   - Unspeakable Horror
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Unspeakable Horror (VRGR).md|Unspeakable Horror]]
+# [[5. Mechanics/Bestiary/Monstrosity/Unspeakable Horror (VRGR).md|Unspeakable Horror]]
 *Source: Van Richten's Guide to Ravenloft p. 250*
 
 Untold, half-formed evils lurk amid the Mists, the yet-to-be-realized imaginings of the Dark Powers and the remnants of ruined domains. While such nightmares typically manifest as nothing more than impressions, whispers, or vaporous visions amid the fog, mysterious eddies in the Mists sometimes gather such evils, forcing them into unique, misshapen bodies untethered from the laws of reason or reality. Such unspeakable horrors might continue to haunt the misty netherworld between the Domains of Dread, or they might slink forth into other realms to slake unnameable hungers.
@@ -28,7 +28,7 @@ The results of these tables are meant to be broad, so feel free to describe the 
 
 Some who wander into the Land of the Mists seek to stay hidden in the haze. They might even wish to dwell amid the endless fog, finding it preferable to horrors elsewhere. But the Mists drifting between the Domains of Dread are far from safe—or empty.
 
-Mist horrors are bodiless spirits of dread, entities given form by the fears of those they encounter. Mist horrors use the unspeakable horror stat block with the Malleable Mass body option, which makes them appear to be composed of living mist. Further details of a mist horror's appearance are drawn from the fears of those within 100 feet of it. This might cause a mist horror to take on a form that combines multiple fears when it encounters a group, like a wolf with snakes for eyes or a drowned giant that resembles an estranged parent. Mist horrors can't persist for long outside the Mists: after `dice:1d4|noform|noparens|avg` (`d4`) rounds outside the Mists, they lose cohesion and collapse back into harmless vapor.
+Mist horrors are bodiless spirits of dread, entities given form by the fears of those they encounter. Mist horrors use the unspeakable horror stat block with the Malleable Mass body option, which makes them appear to be composed of living mist. Further details of a mist horror's appearance are drawn from the fears of those within 100 feet of it. This might cause a mist horror to take on a form that combines multiple fears when it encounters a group, like a wolf with snakes for eyes or a drowned giant that resembles an estranged parent. Mist horrors can't persist for long outside the Mists: after `dice:1d4|noform|noparens|avg` (`1d4`) rounds outside the Mists, they lose cohesion and collapse back into harmless vapor.
 
 **Body Composition**
 
@@ -50,7 +50,7 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 |----------|-----|
 | 1 | **Beguiling Hex (Recharge 5-6).** The horror expels a wave of mind-altering magic. Each creature within 30 feet of the horror must make a DC 15 Wisdom saving throw, taking `dice:6d10\|noform\|noparens\|avg\|text(33)` (`6d10`) psychic damage and being incapacitated until the end of the creature's next turn on a failed save, or taking half as much damage on a successful one. |
 | 2 | **Bile Hex (Recharge 5-6).** The horror expels acidic bile in a 60-foot line that is 5 feet wide. Each creature in that line must succeed on a DC 15 Dexterity saving throw or be covered in bile. A creature covered in bile takes `dice:7d8\|noform\|noparens\|avg\|text(31)` (`7d8`) acid damage at the start of each of its turns until it or another creature uses its action to scrape or wash off the bile that covers it. |
-| 3 | **Petrifying Hex (Recharge 5-6).** The horror expels petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw or take `dice:4d6\|noform\|noparens\|avg\|text(14)` (`4d6`) necrotic damage and be restrained as it begins to turn to stone. A restrained creature must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell or other magic. |
+| 3 | **Petrifying Hex (Recharge 5-6).** The horror expels petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw or take `dice:4d6\|noform\|noparens\|avg\|text(14)` (`4d6`) necrotic damage and be restrained as it begins to turn to stone. A restrained creature must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell or other magic. |
 | 4 | **Reality-Stealing Hex (Recharge 5-6).** The horror expels a wave of perception-distorting energy. Each creature within 30 feet of the horror must make a DC 15 Wisdom saving throw. On a failed save, the target takes `dice:5d8\|noform\|noparens\|avg\|text(22)` (`5d8`) psychic damage and is deafened until the end of its next turn. If the saving throw fails by 5 or more, the target is also blinded until the end of its next turn. |
 ^hex-blast
 
@@ -85,12 +85,13 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
   - !!int "17"
 "speed": "40 ft."
 "saves":
-  - "constitution": "+7"
-  - "wisdom": "+5"
+  - "constitution": !!int "7"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": ""
 "cr": "8"
 "traits":
@@ -102,7 +103,7 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
       \ squeezing."
     "name": "Amorphous (Malleable Mass Only)"
   - "desc": "Any creature that touches the horror or hits it with a melee attack takes\
-      \ 5 (d10) acid damage."
+      \ 5 (1d10) acid damage."
     "name": "Bile Body (Oozing Organs Only)"
   - "desc": "The horror can move through the space of another creature. The first\
       \ time on a turn that the horror enters a creature's space during this move,\
@@ -111,7 +112,7 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 "actions":
   - "desc": "The horror makes two Limbs attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 21\
       \ (3d10 + 5) bludgeoning damage."
     "name": "Limbs"
   - "desc": "The horror expels necrotic energy in a 30-foot cone. Each creature in\
@@ -120,7 +121,7 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
     "name": "Hex Blast (Recharge 5-6)"
 "source":
   - "VRGR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/unspeakable-horror-vrgr.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/unspeakable-horror-vrgr.webp"
 ```
 ^statblock
 

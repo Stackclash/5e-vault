@@ -13,7 +13,7 @@ one-hand-damage: 2d6 bludgeoning
 weight: 10
 ---
 # Voidknight's Maul
-*Weapon ([[5. Mechanics/Items/Maul.md\|maul]]), very rare (requires attunement by a paladin)*  
+*Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), very rare (requires attunement by a paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Voidknights-Maul.webp#right)  
 
 - **Damage**: 2d6 bludgeoning

@@ -21,7 +21,7 @@ The wand has 7 charges for the following properties. It regains `dice:1d6+1|nofo
 
 ## Spells
 
-While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 15) from it: [[5. Mechanics/Spells/Color Spray.md\|color spray]] (1 charge per spell level, up to 3), [[5. Mechanics/Spells/Daylight.md\|daylight]] (3 charges), [[5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]] (3 charges), [[5. Mechanics/Spells/Light.md\|light]] (no charges), [[5. Mechanics/Spells/Magic Missile.md\|magic missile]] (1 charge per spell level, up to 3), or [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] (no charges).
+While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 15) from it: [[/5. Mechanics/Spells/Color Spray.md\|color spray]] (1 charge per spell level, up to 3), [[/5. Mechanics/Spells/Daylight.md\|daylight]] (3 charges), [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]] (3 charges), [[/5. Mechanics/Spells/Light.md\|light]] (no charges), [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]] (1 charge per spell level, up to 3), or [[/5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] (no charges).
 
 ## Starlight Wayfinder
 

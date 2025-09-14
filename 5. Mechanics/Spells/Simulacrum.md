@@ -15,18 +15,16 @@ level: 7
 ritual: false
 time: 12 hours
 duration: Until dispelled
-components:
-  - V
-  - S
-  - M
-aliases:
-  - Simulacrum
 range: Touch
+somatic: true
+verbal: true
 material: >-
-  Snow or ice in quantities sufficient to made a life-size copy of the
+  snow or ice in quantities sufficient to make a life-size copy of the
   duplicated creature; some hair, fingernail clippings, or other piece of that
   creature's body placed inside the snow or ice; and powdered ruby worth 1,500
-  gp, sprinkled over the duplicate and consumed by the spell.
+  gp, sprinkled over the duplicate and consumed by the spell
+aliases:
+  - Simulacrum
 ---
 # Simulacrum
 *7th-level, Illusion*  
@@ -44,6 +42,6 @@ If the simulacrum is damaged, you can repair it in an alchemical laboratory, usi
 
 If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 276. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

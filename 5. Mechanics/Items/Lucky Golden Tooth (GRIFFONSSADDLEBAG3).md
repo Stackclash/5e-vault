@@ -22,6 +22,6 @@ You can remove the tooth from your mouth or place it there again using an action
 
 If you're attuned to the tooth, you gain a +1 bonus to Wisdom saving throws, and you don't need to remove the tooth in order to retrieve an item from it. Instead, you can use an action to spit out one item of your choice from the extradimensional space.
 
-If the tooth isn't in your mouth, placing the tooth inside an extradimensional space created by a [[5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], handy haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+If the tooth isn't in your mouth, placing the tooth inside an extradimensional space created by a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], handy haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

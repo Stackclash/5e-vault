@@ -10,11 +10,11 @@ tags:
 aliases:
   - Cursed Fang
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 1
 ---
 # Cursed Fang
-*Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Cursed-Fang.webp#right)  
 
 - **Damage**: 1d4 piercing

@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\pidlwick-ii.webp
+  - ../../../../../4. World Almanac/NPCs/img/pidlwick-ii.webp
 relationships: []
 aliases:
   - Pidlwick II
@@ -56,7 +56,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 236*
@@ -174,15 +174,15 @@ actions:
       \ rolls against any creature that hasn't had a turn yet."
     "name": "Ambusher"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
       \ bludgeoning damage."
     "name": "Club"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 20/60 ft., one target. *Hit:*\
       \ 4 (1d4 + 2) piercing damage."
     "name": "Dart"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/pidlwick-ii-cos.webp"
+"image": "/4. World Almanac/NPCs/token/pidlwick-ii-cos.webp"
 ```
 ^statblock
 

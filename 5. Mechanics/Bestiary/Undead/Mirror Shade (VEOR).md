@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mirror Shade
 ---
-# [[5. Mechanics\Bestiary\Undead\Mirror Shade (VEOR).md|Mirror Shade]]
+# [[5. Mechanics/Bestiary/Undead/Mirror Shade (VEOR).md|Mirror Shade]]
 *Source: Vecna: Eve of Ruin p. 226*
 
 > [!quote] A quote from Hopewell Lightfinger, Sword Coast Adventurer  
@@ -40,8 +40,8 @@ When the spirit of a malevolent trickster or callous rogue refuses to enter the 
   - !!int "18"
 "speed": "40 ft."
 "saves":
-  - "dexterity": "+7"
-  - "wisdom": "+5"
+  - "dexterity": !!int "7"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+8"
@@ -55,7 +55,8 @@ When the spirit of a malevolent trickster or callous rogue refuses to enter the 
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": ""
 "cr": "10"
 "traits":
@@ -73,7 +74,7 @@ When the spirit of a malevolent trickster or callous rogue refuses to enter the 
   - "desc": "The mirror shade makes two Phantasmal Strike attacks and uses Reflect\
       \ Fear."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) radiant damage plus 7 (2d6) psychic damage."
     "name": "Phantasmal Strike"
   - "desc": "The mirror shade targets one creature it can see within 60 feet of itself\
@@ -89,7 +90,7 @@ When the spirit of a malevolent trickster or callous rogue refuses to enter the 
     "name": "Mirror Stealth"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Undead/token/mirror-shade-veor.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/mirror-shade-veor.webp"
 ```
 ^statblock
 

@@ -20,15 +20,20 @@ classes:
   - Wizard
 school: Conjuration
 level: 4
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Wintry Glide
-concentration: true
 ---
 # Wintry Glide
 *4th-level, Conjuration*  
@@ -42,6 +47,6 @@ Upon casting this spell, you can travel via ice or snow without crossing the int
 
 If the mass of ice or snow is destroyed while you are transiting it, you must make a successful Constitution saving throw against your spell save DC to avoid taking `dice:4d6|noform|noparens|avg` (`4d6`) bludgeoning damage and falling [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] at the midpoint of a line between your entrance point and your intended exit point.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 277*

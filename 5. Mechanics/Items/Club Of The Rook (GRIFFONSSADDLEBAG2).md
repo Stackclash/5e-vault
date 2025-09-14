@@ -13,7 +13,7 @@ one-hand-damage: 1d4 bludgeoning
 weight: 2
 ---
 # Club of the Rook
-*Weapon ([[5. Mechanics/Items/Club.md\|club]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Club.md\|club]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Club-of-the-Rook.webp#right)  
 
 - **Damage**: 1d4 bludgeoning

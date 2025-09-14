@@ -11,11 +11,11 @@ tags:
 aliases:
   - Hexaxe
 one-hand-damage: 1d6 slashing
-range: 20\60
+range: 20/60
 weight: 2
 ---
 # Hexaxe
-*Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon (requires attunement by a warlock)*  
+*Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon (requires attunement by a warlock)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Hexaxe.webp#right)  
 
 - **Damage**: 1d6 slashing

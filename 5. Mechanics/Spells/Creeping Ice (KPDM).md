@@ -26,15 +26,25 @@ classes:
   - Wizard
 school: Conjuration
 level: 2
+damage:
+  base: 2d6
+  scaling:
+    damage: 4d6
+    level: 7
+  types:
+    - cold
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Creeping Ice
-concentration: true
 ---
 # Creeping Ice
 *2nd-level, Conjuration*  
@@ -52,6 +62,6 @@ A creature in the area where you cast the spell must make a successful Strength 
 
 When you cast this spell using a spell slot of 7th level or higher, the area increases to a 20-foot square, the ice deals `dice:6d6|noform|noparens|avg` (`6d6`) cold damage, and 60 damage is needed to melt each 5-foot square.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Cleric (Winter Domain)](compendium/lists/list-spells-classes-winter-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Winter Domain)](/compendium/lists/list-spells-classes-winter-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 270*

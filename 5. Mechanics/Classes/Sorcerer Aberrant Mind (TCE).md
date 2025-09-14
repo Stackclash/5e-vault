@@ -77,11 +77,11 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 1st | [[5. Mechanics/Spells/Arms Of Hadar.md\|arms of Hadar]], [[5. Mechanics/Spells/Dissonant Whispers.md\|dissonant whispers]], [[5. Mechanics/Spells/Mind Sliver (TCE).md\|mind sliver]] |
-| 3rd | [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]], [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] |
-| 5th | [[5. Mechanics/Spells/Hunger Of Hadar.md\|hunger of Hadar]], [[5. Mechanics/Spells/Sending.md\|sending]] |
-| 7th | [[5. Mechanics/Spells/Evards Black Tentacles.md\|Evard's black tentacles]], [[5. Mechanics/Spells/Summon Aberration (TCE).md\|summon aberration]] |
-| 9th | [[5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]], [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]] |
+| 1st | [[/5. Mechanics/Spells/Arms Of Hadar.md\|arms of Hadar]], [[/5. Mechanics/Spells/Dissonant Whispers.md\|dissonant whispers]], [[/5. Mechanics/Spells/Mind Sliver (TCE).md\|mind sliver]] |
+| 3rd | [[/5. Mechanics/Spells/Calm Emotions.md\|calm emotions]], [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] |
+| 5th | [[/5. Mechanics/Spells/Hunger Of Hadar.md\|hunger of Hadar]], [[/5. Mechanics/Spells/Sending.md\|sending]] |
+| 7th | [[/5. Mechanics/Spells/Evards Black Tentacles.md\|Evard's black tentacles]], [[/5. Mechanics/Spells/Summon Aberration (TCE).md\|summon aberration]] |
+| 9th | [[/5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]], [[/5. Mechanics/Spells/Telekinesis.md\|telekinesis]] |
 ^psionic-spells
 
 ### Telepathic Speech (Level 1)

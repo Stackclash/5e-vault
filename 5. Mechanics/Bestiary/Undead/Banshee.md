@@ -15,7 +15,7 @@ tags:
 aliases:
   - Banshee
 ---
-# [[5. Mechanics\Bestiary\Undead\Banshee.md|Banshee]]
+# [[5. Mechanics/Bestiary/Undead/Banshee.md|Banshee]]
 *Source: Monster Manual p. 23, Curse of Strahd, Tasha's Cauldron of Everything. Available in the Basic Rules (2014)*
 
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf. Banshees appear as luminous, wispy forms that vaguely recall their mortal features. A banshee's face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.
@@ -30,7 +30,7 @@ A banshee becomes forever bound to the place of its demise, unable to venture mo
 
 ## Beauty Hoarders
 
-The vanity that inspired the banshee's cursed creation persists in undeath. These creatures covet beautiful objects: fine jewelery, paintings, statues, and other objects of art. At the same time, a banshee abhors any mirrored surface, for it can't bear to see the horror of its own existence. A single glimpse of itself is enough to send a banshee into a rage.
+The vanity that inspired the banshee's cursed creation persists in undeath. These creatures covet beautiful objects: fine jewelry, paintings, statues, and other objects of art. At the same time, a banshee abhors any mirrored surface, for it can't bear to see the horror of its own existence. A single glimpse of itself is enough to send a banshee into a rage.
 
 ## Undead Nature
 
@@ -54,8 +54,8 @@ A banshee doesn't require air, food, drink, or sleep.
   - !!int "17"
 "speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  - "wisdom": "+2"
-  - "charisma": "+5"
+  - "wisdom": !!int "2"
+  - "charisma": !!int "5"
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
@@ -64,7 +64,8 @@ A banshee doesn't require air, food, drink, or sleep.
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Common, Elvish"
 "cr": "4"
 "traits":
@@ -73,11 +74,11 @@ A banshee doesn't require air, food, drink, or sleep.
       \ they're in but not their exact locations."
     "name": "Detect Life"
   - "desc": "The banshee can move through other creatures and objects as if they were\
-      \ difficult terrain. She takes 5 (d10) force damage if she ends her turn inside\
+      \ difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside\
       \ an object."
     "name": "Incorporeal Movement"
 "actions":
-  - "desc": "Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 12 (3d6\
+  - "desc": "*Melee Spell Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 12 (3d6\
       \ + 2) necrotic damage."
     "name": "Corrupting Touch"
   - "desc": "Each non-undead creature within 60 feet of the banshee that can see her\
@@ -98,7 +99,7 @@ A banshee doesn't require air, food, drink, or sleep.
   - "MM"
   - "CoS"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Undead/token/banshee.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/banshee.webp"
 ```
 ^statblock
 

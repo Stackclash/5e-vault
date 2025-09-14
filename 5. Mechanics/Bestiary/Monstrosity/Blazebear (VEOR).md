@@ -13,7 +13,7 @@ tags:
 aliases:
   - Blazebear
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Blazebear (VEOR).md|Blazebear]]
+# [[5. Mechanics/Bestiary/Monstrosity/Blazebear (VEOR).md|Blazebear]]
 *Source: Vecna: Eve of Ruin p. 210*
 
 > [!quote] A quote from Clank, Warforged Merchant from Sharn  
@@ -41,12 +41,13 @@ On the world of Eberron, many strange, magic-warped monsters have emerged from t
   - !!int "16"
 "speed": "30 ft."
 "saves":
-  - "strength": "+11"
-  - "charisma": "+7"
+  - "strength": !!int "11"
+  - "charisma": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
-"senses": "darkvision 120 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 15"
 "languages": ""
 "cr": "12"
 "traits":
@@ -60,7 +61,7 @@ On the world of Eberron, many strange, magic-warped monsters have emerged from t
   - "desc": "The blazebear makes two Bite attacks. It can replace one attack with\
       \ Stunning Gaze if available."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 20\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 20\
       \ (2d12 + 7) piercing damage plus 11 (2d10) force damage."
     "name": "Bite"
   - "desc": "The blazebear targets two creatures it can see within 120 feet of itself.\
@@ -68,14 +69,14 @@ On the world of Eberron, many strange, magic-warped monsters have emerged from t
       \ condition until the start of the blazebear's next turn."
     "name": "Stunning Gaze (Recharge 5-6)"
 "reactions":
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one creature casting\
-      \ a spell of 3rd level or lower. Hit: 22 (4d10) force damage, and the target\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one creature casting\
+      \ a spell of 3rd level or lower. *Hit:* 22 (4d10) force damage, and the target\
       \ must succeed on a DC 15 Intelligence saving throw or the spell fails and has\
       \ no effect."
     "name": "Antimagic Swipe"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/blazebear-veor.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/blazebear-veor.webp"
 ```
 ^statblock
 

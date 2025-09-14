@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fiendish Spirit
 ---
-# [[5. Mechanics\Bestiary\Fiend\Fiendish Spirit (TCE).md|Fiendish Spirit]]
+# [[5. Mechanics/Bestiary/Fiend/Fiendish Spirit (TCE).md|Fiendish Spirit]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock
@@ -34,7 +34,8 @@ aliases:
 "damage_resistances": "fire"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "traits":
   - "desc": "The fiend has advantage on saving throws against spells and other magical\
@@ -51,21 +52,21 @@ aliases:
   - "desc": "The fiend makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d12 + 3 + the spell's level necrotic damage."
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d12 + 3 + the spell's level necrotic damage."
     "name": "Bite (Demon Only)"
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d8 + 3 + the spell's level slashing damage. Immediately\
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d8 + 3 + the spell's level slashing damage. Immediately\
       \ after the attack hits or misses, the fiend can magically teleport up to 30\
       \ feet to an unoccupied space it can see."
     "name": "Claws (Yugoloth Only)"
-  - "desc": "Ranged Spell Attack: your spell attack modifier to hit, range 150 ft.,\
-      \ one target. Hit: 2d6 + 3 + the spell's level fire damage. If the target\
+  - "desc": "*Ranged Spell Attack:* your spell attack modifier to hit, range 150 ft.,\
+      \ one target. *Hit:* 2d6 + 3 + the spell's level fire damage. If the target\
       \ is a flammable object that isn't being worn or carried, it also catches fire."
     "name": "Hurl Flame (Devil Only)"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Fiend/token/fiendish-spirit-tce.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/fiendish-spirit-tce.webp"
 ```
 ^statblock
 

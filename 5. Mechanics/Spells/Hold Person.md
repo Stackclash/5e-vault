@@ -41,21 +41,25 @@ classes:
   - Wizard
 school: Enchantment
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+material: 'a small, straight piece of iron'
 aliases:
   - Hold Person
-range: 60 feet
-material: 'A small, straight piece of iron.'
-save:
-  type: WIS
-  success: none
-concentration: true
 ---
 # Hold Person
 *2nd-level, Enchantment*  
@@ -69,6 +73,6 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of Conquest)](compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Cleric (Order Domain)](compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Spelldrinker)](compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Cleric (Chain Domain)](compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Paladin (Oath of Redemption)](compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Chain Domain)](/compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Cleric (Order Domain)](/compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Paladin (Oath of the Spelldrinker)](/compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 251. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

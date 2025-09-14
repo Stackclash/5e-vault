@@ -16,16 +16,25 @@ classes:
   - Sorcerer (Divine Soul)
 school: Necromancy
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 5
+  types: []
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a polished vampire's fang
 aliases:
   - Soul Borrowing
-material: a polished vampire's fang
 ---
 # Soul Borrowing
 *3rd-level, Necromancy*  
@@ -39,6 +48,6 @@ By touching a creature, you gain one sense, movement mode and speed, feat, langu
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, its duration increases to 1 hour and the target loses the stolen power for the duration of the spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 107*

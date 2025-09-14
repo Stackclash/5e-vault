@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Hammerer
 ---
-# [[5. Mechanics\Bestiary\Construct\Duergar Hammerer (MPMM).md|Duergar Hammerer]]
+# [[5. Mechanics/Bestiary/Construct/Duergar Hammerer (MPMM).md|Duergar Hammerer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 112, Mordenkainen's Tome of Foes p. 188*
 
 The duergar hammerer is a digging machine and siege engine, used to dig tunnels and besiege enemy fortifications.
@@ -49,7 +49,8 @@ These machines are deployed to assist with construction projects and war. Some d
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 7"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 7"
 "languages": "understands Dwarvish but can't speak"
 "cr": "2"
 "traits":
@@ -58,10 +59,10 @@ These machines are deployed to assist with construction projects and war. Some d
 "actions":
   - "desc": "The hammerer makes one Claw attack and one Hammer attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage."
     "name": "Claw"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) bludgeoning damage."
     "name": "Hammer"
 "reactions":
@@ -71,7 +72,7 @@ These machines are deployed to assist with construction projects and war. Some d
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Construct/token/duergar-hammerer-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/duergar-hammerer-mpmm.webp"
 ```
 ^statblock
 

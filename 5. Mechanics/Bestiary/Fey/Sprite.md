@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: forest
 size: Tiny
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Sprite
 ---
-# [[5. Mechanics\Bestiary\Fey\Sprite.md|Sprite]]
+# [[5. Mechanics/Bestiary/Fey/Sprite.md|Sprite]]
 *Source: Monster Manual p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 In secret groves and shaded glens, tiny sprites with dragonfly wings flutter. For all their fey splendor, however, sprites lack warmth and compassion. They are aggressive and hardy warriors, taking severe measures to ward strangers away from their homes. Interlopers that come too close have their moral character judged, then are put to sleep or frightened off.
@@ -48,7 +48,7 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 "type": "fey"
 "alignment": "Neutral Good"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "2"
 "hit_dice": "1d4"
 "modifier": !!int "4"
@@ -69,10 +69,10 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/4"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 slashing\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 slashing\
       \ damage."
     "name": "Longsword"
-  - "desc": "Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +6 to hit, range 40/160 ft., one target. *Hit:*\
       \ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving\
       \ throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for 1\
       \ minute. If its saving throw result is 5 or lower, the [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
@@ -93,7 +93,7 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
     "name": "Invisibility"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Fey/token/sprite.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/sprite.webp"
 ```
 ^statblock
 

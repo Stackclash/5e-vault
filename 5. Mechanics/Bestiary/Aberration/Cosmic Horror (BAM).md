@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cosmic Horror
 ---
-# [[5. Mechanics\Bestiary\Aberration\Cosmic Horror (BAM).md|Cosmic Horror]]
+# [[5. Mechanics/Bestiary/Aberration/Cosmic Horror (BAM).md|Cosmic Horror]]
 *Source: Boo's Astral Menagerie p. 18, Vecna: Eve of Ruin*
 
 Cosmic horrors are colossal, malevolent entities that occasionally slip the bonds of the Far Realm and find themselves adrift on the Astral Plane. Drawn to the light of distant stars, these creatures invade Wildspace systems and lay waste to worlds. After feeding on the minds and bodies of a world's inhabitants until it is sated, a cosmic horror usually returns to the void, where it falls into a deep sleep, drifting aimlessly until hunger or some other stimulus awakens it.
@@ -39,13 +39,14 @@ Cosmic horrors are among the most powerful creatures spawned by the Far Realm. N
   - !!int "24"
 "speed": "50 ft., fly 100 ft."
 "saves":
-  - "intelligence": "+13"
-  - "wisdom": "+8"
-  - "charisma": "+13"
+  - "intelligence": !!int "13"
+  - "wisdom": !!int "8"
+  - "charisma": !!int "13"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 240 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 240 ft., passive Perception\
+  \ 12"
 "languages": "Deep Speech, telepathy 240 ft."
 "cr": "18"
 "traits":
@@ -56,10 +57,10 @@ Cosmic horrors are among the most powerful creatures spawned by the Far Realm. N
 "actions":
   - "desc": "The horror makes one Bite attack and two Tentacle attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 22\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 22\
       \ (4d6 + 8) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 30 ft., one target. *Hit:* 18\
       \ (3d6 + 8) force damage, and if the target is a creature, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 18). Until this grapple ends, the horror can't use this tentacle\
       \ against other targets. The horror has 1d8 + 1 tentacles, each of which can\
@@ -70,6 +71,9 @@ Cosmic horrors are among the most powerful creatures spawned by the Far Realm. N
       \ a DC 21 Wisdom saving throw, taking 33 (6d10) psychic damage on a failed save,\
       \ or half as much damage on a successful one."
     "name": "Psychic Whispers (Recharge 5-6)"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the cosmic horror can expend a use to take one of the following actions.\
+  \ The cosmic horror regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The horror crushes one creature it is grappling. The [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ creature must make a DC 22 Constitution saving throw, taking 18 (3d6 + 8)\
@@ -85,7 +89,7 @@ Cosmic horrors are among the most powerful creatures spawned by the Far Realm. N
 "source":
   - "BAM"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Aberration/token/cosmic-horror-bam.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/cosmic-horror-bam.webp"
 ```
 ^statblock
 

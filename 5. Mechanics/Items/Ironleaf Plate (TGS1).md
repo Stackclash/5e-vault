@@ -13,7 +13,7 @@ armorClass: 18
 weight: 65
 ---
 # Ironleaf Plate
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare (requires attunement)*  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Ironleaf-Plate.webp#right)  
 
 - **Armor Class**: 18
@@ -26,6 +26,6 @@ If you take fire damage, the leaves wither for 1 minute. While the leaves are wi
 
 ## Mantle of the Wild
 
-While wearing this armor, you can use an action to cast the [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] spell from it. Once used, this property can't be used again until the following dawn.
+While wearing this armor, you can use an action to cast the [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] spell from it. Once used, this property can't be used again until the following dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 81*

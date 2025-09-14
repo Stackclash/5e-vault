@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Gremishkas
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Swarm Of Gremishkas (VRGR).md|Swarm of Gremishkas]]
+# [[5. Mechanics/Bestiary/Monstrosity/Swarm Of Gremishkas (VRGR).md|Swarm of Gremishkas]]
 *Source: Van Richten's Guide to Ravenloft p. 235*
 
 Gremishkas are the vicious products of mistakes made by novice spellcasters seeking to create life. The results are cat-sized, magically unstable creatures with a taste for the trappings of magic—particularly spellbooks, spell components, familiars, and the like. Gremishkas delight in tormenting magic-users, holding vicious grudges against those who gave them life as they infest the walls of spellcasters' homes or the surrounding lands.
@@ -47,7 +47,8 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
   \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "darkvision 30 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 30 ft., passive Perception\
+  \ 14"
 "languages": "understands Common but can't speak"
 "cr": "2"
 "traits":
@@ -59,8 +60,8 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
       \ swarm can't regain hit points or gain temporary hit points."
     "name": "Swarm"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's\
-      \ space. Hit: 12 (3d6 + 2) piercing damage, or 5 (1d6 + 2) piercing damage\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 0 ft., one target in the swarm's\
+      \ space. *Hit:* 12 (3d6 + 2) piercing damage, or 5 (1d6 + 2) piercing damage\
       \ if the swarm has half of its hit points or fewer, plus 7 (2d6) force damage."
     "name": "Bites"
 "reactions":
@@ -70,7 +71,7 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
     "name": "Spell Redirection"
 "source":
   - "VRGR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/swarm-of-gremishkas-vrgr.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/swarm-of-gremishkas-vrgr.webp"
 ```
 ^statblock
 

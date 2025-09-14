@@ -54,7 +54,7 @@ image: null
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 48*
@@ -138,16 +138,17 @@ actions:
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]"
-"senses": "darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 16"
 "languages": "Abyssal, Common, Infernal, Primordial"
 "cr": "5"
 "traits":
   - "desc": "Morgantha's innate spellcasting ability is Charisma (spell save DC 14,\
       \ +6 to hit with spell attacks). She can innately cast the following spells,\
-      \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-      \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\n2/day each: [[5. Mechanics/Spells/Plane Shift.md|plane\
-      \ shift]] (self only), [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]],\
-      \ [[5. Mechanics/Spells/Sleep.md|sleep]]"
+      \ requiring no material components:\n\n**At will:** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[/5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\n**2/day each:** [[/5. Mechanics/Spells/Plane Shift.md|plane\
+      \ shift]] (self only), [[/5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]],\
+      \ [[/5. Mechanics/Spells/Sleep.md|sleep]]"
     "name": "Innate Spellcasting"
   - "desc": "Morgantha has advantage on saving throws against spells and other magical\
       \ effects."
@@ -165,7 +166,7 @@ actions:
       \ the bag)."
     "name": "Night Hag Items"
 "actions":
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) slashing damage."
     "name": "Claws (Hag Form Only)"
   - "desc": "Morgantha magically polymorphs into a Small or Medium female humanoid,\
@@ -177,19 +178,19 @@ actions:
       \ or vice versa. To do so, Morgantha must have a heartstone in her possession."
     "name": "Etherealness"
   - "desc": "While on the Ethereal Plane, Morgantha magically touches a sleeping humanoid\
-      \ on the Material Plane. A [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]]\
+      \ on the Material Plane. A [[/5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]]\
       \ spell cast on the target prevents this contact, as does a magic circle. As\
       \ long as the contact persists, the target has dreadful visions. If these visions\
       \ last for at least 1 hour, the target gains no benefit from its rest, and its\
-      \ hit point maximum is reduced by 5 (d10). If this effect reduces the target's\
+      \ hit point maximum is reduced by 5 (1d10). If this effect reduces the target's\
       \ hit point maximum to 0, the target dies, and if the target was evil, its soul\
       \ is trapped in Morgantha's soul bag. The reduction to the target's hit point\
-      \ maximum lasts until removed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ maximum lasts until removed by the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spell or similar magic."
     "name": "Nightmare Haunting (1/Day)"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/morgantha-cos.webp"
+"image": "/4. World Almanac/NPCs/token/morgantha-cos.webp"
 ```
 ^statblock
 

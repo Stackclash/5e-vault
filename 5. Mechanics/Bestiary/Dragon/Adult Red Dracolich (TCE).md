@@ -13,7 +13,7 @@ tags:
 aliases:
   - Adult Red Dracolich
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Red Dracolich (TCE).md|Adult Red Dracolich]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Red Dracolich (TCE).md|Adult Red Dracolich]]
 *Source: Tasha's Cauldron of Everything p. 137*
 
 ```statblock
@@ -35,10 +35,10 @@ aliases:
   - !!int "21"
 "speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
-  - "dexterity": "+6"
-  - "constitution": "+13"
-  - "wisdom": "+7"
-  - "charisma": "+11"
+  - "dexterity": !!int "6"
+  - "constitution": !!int "13"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "11"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+13"
@@ -49,7 +49,8 @@ aliases:
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]]"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 23"
 "languages": "Common, Draconic"
 "cr": "17"
 "traits":
@@ -62,13 +63,13 @@ aliases:
   - "desc": "The dracolich can use its Frightful Presence. It then makes three attacks:\
       \ one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19\
       \ (2d10 + 8) piercing damage plus 7 (2d6) fire damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15\
       \ (2d6 + 8) slashing damage."
     "name": "Claw"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17\
       \ (2d8 + 8) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dracolich's choice that is within 120 feet of the\
@@ -83,6 +84,9 @@ aliases:
       \ must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on\
       \ a failed save, or half as much damage on a successful one."
     "name": "Fire Breath (Recharge 5-6)"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the dracolich can expend a use to take one of the following actions. The\
+  \ dracolich regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The dracolich makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
       \ check."
@@ -96,7 +100,7 @@ aliases:
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Dragon/token/adult-red-dracolich-tce.webp"
+"image": "/5. Mechanics/Bestiary/Dragon/token/adult-red-dracolich-tce.webp"
 ```
 ^statblock
 

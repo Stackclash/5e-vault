@@ -13,7 +13,7 @@ tags:
 aliases:
   - False Lich
 ---
-# [[5. Mechanics\Bestiary\Undead\False Lich (VEOR).md|False Lich]]
+# [[5. Mechanics/Bestiary/Undead/False Lich (VEOR).md|False Lich]]
 *Source: Vecna: Eve of Ruin p. 220*
 
 Occasionally, liches create nefarious magical copies of themselves to fool enemies, to guard treasure, or for other inscrutable reasons.
@@ -41,16 +41,17 @@ A false lich often gradually gains a sense of self-identity. While many false li
   - !!int "15"
 "speed": "30 ft."
 "saves":
-  - "constitution": "+12"
-  - "intelligence": "+14"
-  - "wisdom": "+11"
-  - "charisma": "+9"
+  - "constitution": !!int "12"
+  - "intelligence": !!int "14"
+  - "wisdom": !!int "11"
+  - "charisma": !!int "9"
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "truesight 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
+  \ 14"
 "languages": "Abyssal, Common, Draconic, Dwarvish, Elvish, Giant, Infernal, Primordial,\
   \ Undercommon"
 "cr": "21"
@@ -64,7 +65,7 @@ A false lich often gradually gains a sense of self-identity. While many false li
   - "desc": "The false lich makes two Death Rend attacks and uses Bloodcurdling Lament\
       \ if available."
     "name": "Multiattack"
-  - "desc": "Melee Spell Attack: +14 to hit, reach 5 ft., one target. Hit: 23\
+  - "desc": "*Melee Spell Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 23\
       \ (3d10 + 7) necrotic damage."
     "name": "Death Rend"
   - "desc": "The false lich emits a hideous shriek charged with malignant energy.\
@@ -77,12 +78,12 @@ A false lich often gradually gains a sense of self-identity. While many false li
     "name": "Bloodcurdling Lament (Recharge 5-6)"
   - "desc": "The false lich casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 22):\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|Detect Magic]],\
-      \ [[5. Mechanics/Spells/Fly.md|Fly]], [[5. Mechanics/Spells/Mage Hand.md|Mage Hand]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|Prestidigitation]]\n\n3/day each:\
-      \ [[5. Mechanics/Spells/Dispel Magic.md|Dispel Magic]], [[5. Mechanics/Spells/Invisibility.md|Invisibility]]\
-      \ (self only)\n\n1/day each: [[5. Mechanics/Spells/Globe Of Invulnerability.md|Globe of Invulnerability]],\
-      \ [[5. Mechanics/Spells/Hold Monster.md|Hold Monster]]"
+      \ DC 22):\n\n**At will:** [[/5. Mechanics/Spells/Detect Magic.md|Detect Magic]],\
+      \ [[/5. Mechanics/Spells/Fly.md|Fly]], [[/5. Mechanics/Spells/Mage Hand.md|Mage Hand]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|Prestidigitation]]\n\n**3/day each:**\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|Dispel Magic]], [[/5. Mechanics/Spells/Invisibility.md|Invisibility]]\
+      \ (self only)\n\n**1/day each:** [[/5. Mechanics/Spells/Globe Of Invulnerability.md|Globe of Invulnerability]],\
+      \ [[/5. Mechanics/Spells/Hold Monster.md|Hold Monster]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The false lich targets one creature it can see within 120 feet of itself.\
@@ -100,6 +101,9 @@ A false lich often gradually gains a sense of self-identity. While many false li
       \ in an unoccupied space nearest to the gem and in the same state as it was\
       \ when its soul was trapped."
     "name": "Soul Siphon"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the false lich can expend a use to take one of the following actions. The\
+  \ false lich regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The false lich, along with anything it is wearing or carrying, teleports\
       \ to an unoccupied space it can see within 60 feet of itself. It then makes\
@@ -109,7 +113,7 @@ A false lich often gradually gains a sense of self-identity. While many false li
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Undead/token/false-lich-veor.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/false-lich-veor.webp"
 ```
 ^statblock
 

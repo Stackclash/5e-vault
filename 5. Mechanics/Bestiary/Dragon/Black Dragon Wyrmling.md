@@ -13,7 +13,7 @@ tags:
 aliases:
   - Black Dragon Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Black Dragon Wyrmling.md|Black Dragon Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Black Dragon Wyrmling.md|Black Dragon Wyrmling]]
 *Source: Monster Manual p. 88, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
@@ -111,25 +111,26 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - !!int "13"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "saves":
-  - "dexterity": "+4"
-  - "constitution": "+3"
-  - "wisdom": "+2"
-  - "charisma": "+3"
+  - "dexterity": !!int "4"
+  - "constitution": !!int "3"
+  - "wisdom": !!int "2"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "acid"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
 "traits":
   - "desc": "The dragon can breathe air and water."
     "name": "Amphibious"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10\
-      \ + 2) piercing damage plus 2 (d4) acid damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
+      \ + 2) piercing damage plus 2 (1d4) acid damage."
     "name": "Bite"
   - "desc": "The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature\
       \ in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid\
@@ -138,7 +139,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "source":
   - "MM"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Dragon/token/black-dragon-wyrmling.webp"
+"image": "/5. Mechanics/Bestiary/Dragon/token/black-dragon-wyrmling.webp"
 ```
 ^statblock
 

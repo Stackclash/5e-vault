@@ -110,7 +110,7 @@ const config = {
     },
     
     {
-      enabled: true,
+      enabled: false,
       name: 'Update Spell',
       ignore: function(file) {
         return !/5\. mechanics[\/\\]spells/i.test(file.path) || ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension) || file.fileName.toLowerCase() === 'spells'

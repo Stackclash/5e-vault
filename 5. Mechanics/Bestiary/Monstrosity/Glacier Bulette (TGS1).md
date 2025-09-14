@@ -15,7 +15,7 @@ tags:
 aliases:
   - Glacier Bulette
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Glacier Bulette (TGS1).md|Glacier Bulette]]
+# [[5. Mechanics/Bestiary/Monstrosity/Glacier Bulette (TGS1).md|Glacier Bulette]]
 *Source: The Griffon's Saddlebag, Book 1 p. 175*
 
 ```statblock
@@ -41,12 +41,13 @@ aliases:
     "desc": "+6"
 "damage_resistances": "cold"
 "damage_immunities": "fire"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., tremorsense\
+  \ 60 ft., passive Perception 16"
 "languages": ""
 "cr": "6"
 "traits":
   - "desc": "A creature that touches the bulette or hits it with a melee attack while\
-      \ within 5 feet of it takes 5 (d10) fire damage."
+      \ within 5 feet of it takes 5 (1d10) fire damage."
     "name": "Heated Body"
   - "desc": "The bulette can move across and climb icy surfaces without needing to\
       \ make an ability check. Additionally, difficult terrain composed of ice or\
@@ -56,7 +57,7 @@ aliases:
       \ leaves a smooth, slick, 10-foot-diameter tunnel in its wake."
     "name": "Tunneler"
 "actions":
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 30\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 30\
       \ (4d12 + 4) piercing damage plus 7 (2d6) fire damage."
     "name": "Bite"
   - "desc": "If the bulette starts its turn burrowed in solid ice at least 15 feet\

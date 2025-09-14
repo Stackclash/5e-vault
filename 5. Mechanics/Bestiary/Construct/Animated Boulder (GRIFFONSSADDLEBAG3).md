@@ -13,7 +13,7 @@ tags:
 aliases:
   - Animated Boulder
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Boulder (GRIFFONSSADDLEBAG3).md|Animated Boulder]]
+# [[5. Mechanics/Bestiary/Construct/Animated Boulder (GRIFFONSSADDLEBAG3).md|Animated Boulder]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Animated constructs created by the archmage Oglexarth. These boulders remain motionless when not defending the city from attack. While active, they use their considerable weight to crash through and crush enemy lines.
@@ -43,17 +43,18 @@ Animated constructs created by the archmage Oglexarth. These boulders remain mot
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 6"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 6"
 "languages": ""
 "cr": "3"
 "traits":
-  - "desc": "The boulder is incapacitated while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-      \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the boulder\
+  - "desc": "The boulder is incapacitated while in the area of an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
+      \ If targeted by [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the boulder\
       \ must succeed on a Constitution saving throw against the caster's spell save\
       \ DC or fall unconscious for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "If the boulder moves at least 20 feet straight toward a target and then\
-      \ hits it with a slam attack on the same turn, the target takes an extra 3 (d6)\
+      \ hits it with a slam attack on the same turn, the target takes an extra 3 (1d6)\
       \ bludgeoning damage. If the target is a creature, it must succeed on a DC 14\
       \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Charge"
@@ -69,7 +70,7 @@ Animated constructs created by the archmage Oglexarth. These boulders remain mot
       \ extra movement."
     "name": "Rocky Roll"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage."
     "name": "Slam"
   - "desc": "The boulder moves up to 30 feet in a straight line without provoking\

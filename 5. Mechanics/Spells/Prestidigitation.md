@@ -28,16 +28,15 @@ classes:
   - Warlock
   - Wizard
 school: Transmutation
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
+range: 10 feet
+somatic: true
+verbal: true
 aliases:
   - Prestidigitation
-range: 10 feet
 ---
 # Prestidigitation
 *cantrip, Transmutation*  
@@ -58,6 +57,8 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Fighter (Arcane Archer)](compendium/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Fighter (Arcane Archer)](/compendium/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Player's Handbook p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

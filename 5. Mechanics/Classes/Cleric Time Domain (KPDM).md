@@ -54,11 +54,11 @@ Most spellcasters and sages agree that significant alterations to time are undes
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Auspicious Warning (KPDM).md\|auspicious warning]], [[5. Mechanics/Spells/Feather Fall.md\|feather fall]] |
-| 3rd | [[5. Mechanics/Spells/Decelerate (KPDM).md\|decelerate]], [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] |
-| 5th | [[5. Mechanics/Spells/Haste.md\|haste]], [[5. Mechanics/Spells/Slow.md\|slow]] |
-| 7th | [[5. Mechanics/Spells/Flickering Fate (KPDM).md\|flickering fate]], [[5. Mechanics/Spells/Reset (KPDM).md\|reset]] |
-| 9th | [[5. Mechanics/Spells/Modify Memory.md\|modify memory]], [[5. Mechanics/Spells/Wall Of Time (KPDM).md\|wall of time]] |
+| 1st | [[/5. Mechanics/Spells/Auspicious Warning (KPDM).md\|auspicious warning]], [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] |
+| 3rd | [[/5. Mechanics/Spells/Decelerate (KPDM).md\|decelerate]], [[/5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] |
+| 5th | [[/5. Mechanics/Spells/Haste.md\|haste]], [[/5. Mechanics/Spells/Slow.md\|slow]] |
+| 7th | [[/5. Mechanics/Spells/Flickering Fate (KPDM).md\|flickering fate]], [[/5. Mechanics/Spells/Reset (KPDM).md\|reset]] |
+| 9th | [[/5. Mechanics/Spells/Modify Memory.md\|modify memory]], [[/5. Mechanics/Spells/Wall Of Time (KPDM).md\|wall of time]] |
 ^time-domain-spells
 
 ### Prescient Glimpses (Level 1)
@@ -79,4 +79,4 @@ Beginning at 8th level, you intuitively know where your enemies will be in the i
 
 ### Master of Time (Level 17)
 
-At 17th level, you add [[5. Mechanics/Spells/Foresight.md\|foresight]] and [[5. Mechanics/Spells/Time Stop.md\|time stop]] to your spell list. You are never surprised, and whenever you and your allies might be surprised, you can grant up to six allies the ability to make Wisdom saving throws to avoid being surprised, as if they had your Prescient Glimpses feature.
+At 17th level, you add [[/5. Mechanics/Spells/Foresight.md\|foresight]] and [[/5. Mechanics/Spells/Time Stop.md\|time stop]] to your spell list. You are never surprised, and whenever you and your allies might be surprised, you can grant up to six allies the ability to make Wisdom saving throws to avoid being surprised, as if they had your Prescient Glimpses feature.

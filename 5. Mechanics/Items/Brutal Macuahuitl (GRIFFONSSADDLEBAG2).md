@@ -14,7 +14,7 @@ two-hand-damage: 1d10 slashing
 weight: 3
 ---
 # Brutal Macuahuitl
-*Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Brutal-Macuahuitl.webp#right)  
 
 - **Damage**:
@@ -23,6 +23,6 @@ weight: 3
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
-This tribal sword's sturdy wooden frame is lined with obsidian shards, allowing attacks made with it to deal either bludgeoning or slashing damage (your choice). In addition, the sword has been enchanted through numerous blood rituals by war priests. When you roll a 20 on your attack roll with this magic weapon against a creature, that creature becomes marked for death until the start of your next turn. A marked creature can't regain hit points, and when the mark ends, that creature takes `dice:1d8|noform|noparens|avg` (`d8`) necrotic damage.
+This tribal sword's sturdy wooden frame is lined with obsidian shards, allowing attacks made with it to deal either bludgeoning or slashing damage (your choice). In addition, the sword has been enchanted through numerous blood rituals by war priests. When you roll a 20 on your attack roll with this magic weapon against a creature, that creature becomes marked for death until the start of your next turn. A marked creature can't regain hit points, and when the mark ends, that creature takes `dice:1d8|noform|noparens|avg` (`1d8`) necrotic damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 52*

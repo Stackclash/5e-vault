@@ -10,6 +10,6 @@ aliases:
 # Overwhelming Onslaught
 *Source: Deep Magic p. 152*  
 
-***Prerequisites*** 14th
+***Prerequisites*** Level 14
 
 When you damage a target with a spell that deals the damage type associated with your elemental focus, you ignore any resistance the target has to that damage type.

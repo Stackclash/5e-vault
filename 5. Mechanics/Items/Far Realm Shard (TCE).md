@@ -11,7 +11,7 @@ weight: 1
 ---
 # Far Realm Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  
-![[5. Mechanics/Items/img/far-realm-shard.webp#right]]  
+![[/5. Mechanics/Items/img/far-realm-shard.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cave Troll
 ---
-# [[5. Mechanics\Bestiary\Giant\Cave Troll (GRIFFONSSADDLEBAG3).md|Cave Troll]]
+# [[5. Mechanics/Bestiary/Giant/Cave Troll (GRIFFONSSADDLEBAG3).md|Cave Troll]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Cave trolls, like normal trolls, are tall and lanky giantkin. Cave trolls, in particular, are more gray and hunched over. They have a penchant for crystals and often collect them for trade or crafting. They form small communities within their cave networks, and at times make the transition to larger society.
@@ -41,7 +41,8 @@ Cave trolls, like normal trolls, are tall and lanky giantkin. Cave trolls, in pa
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
-"senses": "tremorsense 30 ft., darkvision 120 ft., passive Perception 13"
+"senses": "tremorsense 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 13"
 "languages": "Giant, Undercommon"
 "cr": "5"
 "traits":
@@ -59,10 +60,10 @@ Cave trolls, like normal trolls, are tall and lanky giantkin. Cave trolls, in pa
 "actions":
   - "desc": "The troll makes three attacks: one with its bite and two with its morningstar."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) slashing damage."
     "name": "Morningstar"
 "source":

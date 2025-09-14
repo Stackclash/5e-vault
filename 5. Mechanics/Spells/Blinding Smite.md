@@ -12,14 +12,25 @@ classes:
   - Paladin
 school: Evocation
 level: 3
+damage:
+  base: 3d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - radiant
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Bonus Action
-duration: up to 1 minute
-components:
-  - V
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: false
+verbal: true
 aliases:
   - Blinding Smite
-concentration: true
 ---
 # Blinding Smite
 *3rd-level, Evocation*  
@@ -33,6 +44,6 @@ The next time you hit a creature with a melee weapon attack during this spell's 
 
 A creature [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Player's Handbook p. 219*

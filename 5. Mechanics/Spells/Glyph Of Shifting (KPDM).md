@@ -16,16 +16,26 @@ classes:
   - Wizard
 school: Conjuration
 level: 2
+damage:
+  base: 4d4
+  scaling:
+    damage: null
+    level: 3
+  types:
+    - force
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 10 minutes
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: 'powdered diamond worth at least 50 gp, which the spell consumes'
 aliases:
   - Glyph of Shifting
-material: 'powdered diamond worth at least 50 gp, which the spell consumes'
 ---
 # Glyph of Shifting
 *2nd-level, Conjuration*  
@@ -43,6 +53,6 @@ The glyph disappears after being triggered or when the spell's duration expires.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, its duration increases by 24 hours and the maximum distance to the destination increases by 5 miles for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 75*

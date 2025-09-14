@@ -22,13 +22,15 @@ level: 3
 ritual: true
 time: 1 minute
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: Self (10-foot Hemisphere)
+somatic: true
+verbal: true
+material: a small crystal bead
+area:
+  shape: hemisphere
+  size: 10
 aliases:
   - Leomund's Tiny Hut
-material: a small crystal bead
 ---
 # Leomund's Tiny Hut
 *3rd-level, Evocation (ritual)*  
@@ -44,6 +46,6 @@ Nine creatures of Medium size or smaller can fit inside the dome with you. The s
 
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Twilight Domain)](compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Twilight Domain)](/compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Tiny Hut")*

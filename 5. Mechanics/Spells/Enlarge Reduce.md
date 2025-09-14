@@ -26,17 +26,25 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+damage:
+  base: 1d4
+  scaling:
+    damage: null
+    level: null
+  types: []
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
-aliases:
-  - Enlarge\Reduce
-concentration: true
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
 material: a pinch of powdered iron
+aliases:
+  - Enlarge/Reduce
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  
@@ -52,14 +60,14 @@ If the target is a creature, everything it is wearing and carrying changes size 
 
 ## Enlarge
 
-The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category—from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal `dice:1d4|noform|noparens|avg` (`d4`) extra damage.
+The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category—from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal `dice:1d4|noform|noparens|avg` (`1d4`) extra damage.
 
 ## Reduce
 
-The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category—from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal `dice:1d4|noform|noparens|avg` (`d4`) less damage (this can't reduce the damage below 1).
+The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category—from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal `dice:1d4|noform|noparens|avg` (`1d4`) less damage (this can't reduce the damage below 1).
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Druid (Circle of the Grove)](compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of the Grove)](/compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Quickling
 ---
-# [[5. Mechanics\Bestiary\Fey\Quickling (MPMM).md|Quickling]]
+# [[5. Mechanics/Bestiary/Fey/Quickling (MPMM).md|Quickling]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187*
 
 Quicklings rocket through twisted forests where the unseelie fey hold sway, both in the Feywild and in the world. These slender Fey resemble miniature elves with feral features and cold eyes that gleam like jewels. Racing faster than the eye can track, they appear as little more than blurry waverings in the air.
@@ -55,7 +55,8 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
     "desc": "+8"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": "Common, Sylvan"
 "cr": "1"
 "traits":
@@ -69,13 +70,13 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 "actions":
   - "desc": "The quickling makes three Dagger attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 8 (1d4 + 6) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +8 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 8 (1d4 + 6) piercing damage."
     "name": "Dagger"
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/quickling-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/quickling-mpmm.webp"
 ```
 ^statblock
 

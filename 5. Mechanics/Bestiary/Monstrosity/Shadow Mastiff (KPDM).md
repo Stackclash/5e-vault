@@ -13,7 +13,7 @@ tags:
 aliases:
   - Shadow Mastiff
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Shadow Mastiff (KPDM).md|Shadow Mastiff]]
+# [[5. Mechanics/Bestiary/Monstrosity/Shadow Mastiff (KPDM).md|Shadow Mastiff]]
 *Source: Deep Magic p. 247*
 
 Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.
@@ -46,7 +46,8 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
     "desc": "+8"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 16"
 "languages": "understands Common but does not speak"
 "cr": "2"
 "traits":
@@ -69,7 +70,7 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
       \ shadow mastiff makes an immediate second bite attack as a bonus action."
     "name": "Trip"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 3) piercing damage."
     "name": "Bite"
 "source":

@@ -28,6 +28,6 @@ If you've been wearing the wig for more than 24 consecutive hours, you gain prof
 
 ## Destroying the Wig
 
-If the wig is targeted by a [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell, it becomes a common living wig with no additional properties.
+If the wig is targeted by a [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] spell, it becomes a common living wig with no additional properties.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*

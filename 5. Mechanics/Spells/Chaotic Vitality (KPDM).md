@@ -18,12 +18,18 @@ classes:
   - Wizard
 school: Conjuration
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Chaotic Vitality
 ---
@@ -49,13 +55,13 @@ Make a melee spell attack against a creature that has a number of Hit Dice no gr
 | 70-84 | 50 percent of total |
 | 85-94 | 75 percent of total |
 | 95-99 | 100 percent of total |
-| 100 | 200 percent of total, and both creatures gain the effect of a [[5. Mechanics/Spells/Haste.md\|haste]] spell that lasts for 1 round per caster level |
+| 100 | 200 percent of total, and both creatures gain the effect of a [[/5. Mechanics/Spells/Haste.md\|haste]] spell that lasts for 1 round per caster level |
 ^hit-point-flux
 
 For example, a 3rd-level spellcaster who currently has 17 of her maximum 30 hit points casts chaotic vitality on a creature with 54 hit points and rolls a 75 on the Hit Point Flux table. The two creatures have a combined total of 71 hit points. A result of 75 indicates that both creatures get 50 percent of the total, so the spellcaster and the target end up with 35 hit points each. In the spellcaster's case, 5 of those hit points are temporary and will last for 3 rounds.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the maximum Hit Dice of the affected creature increases by 2 for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 183*

@@ -14,12 +14,18 @@ classes:
   - Ranger
 school: Evocation
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
 ritual: false
 time: 1 Action
 duration: 5 minutes
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Anchoring Rope
 ---
@@ -35,6 +41,6 @@ You create a spectral lanyard. One end is tied around your waist, and the other 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can create one additional rope for every two slot levels above 1st. Each rope must be attached to a different creature.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 36*

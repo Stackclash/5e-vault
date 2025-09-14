@@ -13,7 +13,7 @@ tags:
 aliases:
   - Pillar of Water
 ---
-# [[5. Mechanics\Bestiary\Elemental\Pillar Of Water (SAF).md|Pillar of Water]]
+# [[5. Mechanics/Bestiary/Elemental/Pillar Of Water (SAF).md|Pillar of Water]]
 *Source: Strongholds and Followers p. 189*
 
 If the Sources are watchmen of Alloy, the Pillars are the jailors. They spring from the ground, imprisoning those caught violating the law of the Lady. Like the Sources, they have an attitude, but not much actual personality.
@@ -49,14 +49,15 @@ The Pillar can imprison up to four creatures, but it doesn't have to. If there's
   - !!int "11"
 "speed": "30 ft."
 "saves":
-  - "strength": "+7"
-  - "constitution": "+9"
+  - "strength": !!int "7"
+  - "constitution": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": "Aquan"
 "cr": "7"
 "traits":

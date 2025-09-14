@@ -16,8 +16,8 @@ aliases:
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Dragon Edge Weapon (TGS1).md\|Dragon Edge Weapon]]  
-- [[5. Mechanics/Items/Dragon Edge Weapon 1 (TGS1).md\|Dragon Edge Weapon +1]]  
-- [[5. Mechanics/Items/Dragon Edge Weapon 2 (TGS1).md\|Dragon Edge Weapon +2]]  
+- [[/5. Mechanics/Items/Dragon Edge Weapon (TGS1).md\|Dragon Edge Weapon]]  
+- [[/5. Mechanics/Items/Dragon Edge Weapon 1 (TGS1).md\|Dragon Edge Weapon +1]]  
+- [[/5. Mechanics/Items/Dragon Edge Weapon 2 (TGS1).md\|Dragon Edge Weapon +2]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 55*

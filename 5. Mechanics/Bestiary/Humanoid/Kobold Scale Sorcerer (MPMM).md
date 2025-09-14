@@ -18,7 +18,7 @@ tags:
 aliases:
   - Kobold Scale Sorcerer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kobold Scale Sorcerer (MPMM).md|Kobold Scale Sorcerer]]
+# [[5. Mechanics/Bestiary/Humanoid/Kobold Scale Sorcerer (MPMM).md|Kobold Scale Sorcerer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 165, Volo's Guide to Monsters p. 167*
 
 Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
@@ -48,7 +48,8 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]"
     "desc": "+1"
-"senses": "darkvision 60 ft., passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 9"
 "languages": "Common, Draconic"
 "cr": "1"
 "traits":
@@ -64,23 +65,23 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
   - "desc": "The kobold makes two Dagger or Chromatic Bolt attacks. It can replace\
       \ one attack with a use of Spellcasting."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
     "name": "Dagger"
-  - "desc": "Ranged Spell Attack: +4 to hit, range 60 feet, one target. Hit: 9\
+  - "desc": "*Ranged Spell Attack:* +4 to hit, range 60 feet, one target. *Hit:* 9\
       \ (2d6 + 2) of a type of the kobold's choice: acid, cold, fire, lightning, poison,\
       \ or thunder."
     "name": "Chromatic Bolt"
   - "desc": "The kobold casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt\
-      \ will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-      \n2/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
-      \ [[5. Mechanics/Spells/Levitate.md|levitate]]"
+      \ and using Charisma as the spellcasting ability (spell save DC 12):\n\n**At\
+      \ will:** [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+      \n**2/day each:** [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
+      \ [[/5. Mechanics/Spells/Levitate.md|levitate]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/kobold-scale-sorcerer-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/kobold-scale-sorcerer-mpmm.webp"
 ```
 ^statblock
 

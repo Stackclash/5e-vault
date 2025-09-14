@@ -20,17 +20,21 @@ classes:
   - Wizard
 school: Conjuration
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 5
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 2 rounds
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 2 rounds'
+range: 40 feet
+somatic: true
+verbal: true
+material: a broken chain link
 aliases:
   - Impending Ally
-concentration: true
-material: a broken chain link
 ---
 # Impending Ally
 *3rd-level, Conjuration*  
@@ -44,6 +48,6 @@ You summon a duplicate of yourself as an ally who appears in an unoccupied space
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the duration is extended by 1 round for every two slot levels above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 84*

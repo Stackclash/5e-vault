@@ -13,7 +13,7 @@ tags:
 aliases:
   - Quadrone
 ---
-# [[5. Mechanics\Bestiary\Construct\Quadrone.md|Quadrone]]
+# [[5. Mechanics/Bestiary/Construct/Quadrone.md|Quadrone]]
 *Source: Monster Manual p. 226*
 
 Astute combatants, quadrones serve as artillery and field officers in the regiments of modron armies.
@@ -71,7 +71,8 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
-"senses": "truesight 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 12"
 "languages": "Modron"
 "cr": "1"
 "traits":
@@ -84,15 +85,15 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "actions":
   - "desc": "The quadrone makes two fist attacks or four shortbow attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) bludgeoning damage."
     "name": "Fist"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage."
     "name": "Shortbow"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Construct/token/quadrone.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/quadrone.webp"
 ```
 ^statblock
 

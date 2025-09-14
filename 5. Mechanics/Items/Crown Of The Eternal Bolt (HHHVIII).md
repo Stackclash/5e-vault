@@ -17,7 +17,7 @@ While wearing and attuned to this item, you have resistance to lightning damage.
 
 ## Lightning Bolt
 
-You may cast the [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] spell using the crown. You may spend additional charges to cast this spell at a higher level, spending one extra charge per level. This spell uses your spell save DC. If you do not have one, it is set to 8 + your Intelligence modifier.
+You may cast the [[/5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] spell using the crown. You may spend additional charges to cast this spell at a higher level, spending one extra charge per level. This spell uses your spell save DC. If you do not have one, it is set to 8 + your Intelligence modifier.
 
 ## Electrical Resuscitation
 

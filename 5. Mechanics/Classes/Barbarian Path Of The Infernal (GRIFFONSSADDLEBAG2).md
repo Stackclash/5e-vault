@@ -51,11 +51,11 @@ You have found the conduit for your rage in something scarier than anything you'
 
 ### Hellfire Claw (Level 3)
 
-Starting when you choose this path at 3rd level, one of your hands transforms into a large, fiery claw whenever you enter your rage. The claw remains for the duration of your rage. If you're wielding a weapon with the clawed hand, its flames harmlessly spread to the weapon it's holding and wreath it in magical flames. The first target you hit with this fiery weapon on each of your turns takes an extra `dice:1d6|noform|noparens|avg` (`d6`) fire damage.
+Starting when you choose this path at 3rd level, one of your hands transforms into a large, fiery claw whenever you enter your rage. The claw remains for the duration of your rage. If you're wielding a weapon with the clawed hand, its flames harmlessly spread to the weapon it's holding and wreath it in magical flames. The first target you hit with this fiery weapon on each of your turns takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) fire damage.
 
-If you don't deal this fire damage with a weapon attack on your turn, you can use a bonus action to make an unarmed strike with the claw, provided it's empty. On a hit, the target takes the normal damage from your unarmed strike, which can be either bludgeoning or slashing damage (your choice), plus an extra `dice:1d6|noform|noparens|avg` (`d6`) fire damage.
+If you don't deal this fire damage with a weapon attack on your turn, you can use a bonus action to make an unarmed strike with the claw, provided it's empty. On a hit, the target takes the normal damage from your unarmed strike, which can be either bludgeoning or slashing damage (your choice), plus an extra `dice:1d6|noform|noparens|avg` (`1d6`) fire damage.
 
-The claw's fire damage increases when you reach certain levels in this class, increasing to `dice:1d8|noform|noparens|avg` (`d8`) at 6th level, `dice:1d10|noform|noparens|avg` (`d10`) at 10th level, and `dice:1d12|noform|noparens|avg` (`d12`) at 14th level.
+The claw's fire damage increases when you reach certain levels in this class, increasing to `dice:1d8|noform|noparens|avg` (`1d8`) at 6th level, `dice:1d10|noform|noparens|avg` (`1d10`) at 10th level, and `dice:1d12|noform|noparens|avg` (`1d12`) at 14th level.
 
 ### Hellborn (Level 3)
 
@@ -71,8 +71,8 @@ In addition, when you use the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] 
 
 ### Planar Conspirator (Level 10)
 
-At 10th level, you can make minor deals with an interested archfiend or similar power to peer into the minds of other creatures and exploit their fears. You can use an action to spend 2 Hit Dice, without regaining any hit points, to cast the [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] spell. The DC for this spell is equal to 8 + your proficiency bonus + your Constitution modifier.
+At 10th level, you can make minor deals with an interested archfiend or similar power to peer into the minds of other creatures and exploit their fears. You can use an action to spend 2 Hit Dice, without regaining any hit points, to cast the [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] spell. The DC for this spell is equal to 8 + your proficiency bonus + your Constitution modifier.
 
 ### Incinerating Wrath (Level 14)
 
-Starting at 14th level, when you take damage from a creature that you can see within 60 feet of you while you're raging, you can use your reaction to release a punishing flame from your claw toward them, duplicating the effect of the [[5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]] spell (3rd-level version, DC 8 + your proficiency bonus + your Constitution modifier). You can use this ability twice per rage.
+Starting at 14th level, when you take damage from a creature that you can see within 60 feet of you while you're raging, you can use your reaction to release a punishing flame from your claw toward them, duplicating the effect of the [[/5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]] spell (3rd-level version, DC 8 + your proficiency bonus + your Constitution modifier). You can use this ability twice per rage.

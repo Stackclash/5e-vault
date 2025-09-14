@@ -22,13 +22,12 @@ school: Divination
 level: 3
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Opportunistic Foresight
-concentration: true
 ---
 # Opportunistic Foresight
 *3rd-level, Divination*  
@@ -40,6 +39,6 @@ concentration: true
 
 You instill a creature you touch with the ability to predict and react to advantages in combat. For the duration of the spell, the target gains a bonus action each turn that it can use to make an [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack\|opportunity attack]] against a provoking opponent. The target gains advantage on any [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack\|opportunity attacks]] it takes while the spell is in effect.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 97*

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Beast of the Sky
 ---
-# [[5. Mechanics\Bestiary\Beast\Beast Of The Sky (TCE).md|Beast of the Sky]]
+# [[5. Mechanics/Bestiary/Beast/Beast Of The Sky (TCE).md|Beast of the Sky]]
 *Source: Tasha's Cauldron of Everything p. 61*
 
 ```statblock
@@ -31,7 +31,8 @@ aliases:
   - !!int "14"
   - !!int "11"
 "speed": "10 ft., fly 60 ft."
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "The beast doesn't provoke opportunity attacks when it flies out of an\
@@ -41,12 +42,12 @@ aliases:
       \ that the beast makes."
     "name": "Primal Bond"
 "actions":
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d4 + 3 + PB slashing damage"
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d4 + 3 + PB slashing damage"
     "name": "Shred"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Beast/token/beast-of-the-sky-tce.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/beast-of-the-sky-tce.webp"
 ```
 ^statblock
 

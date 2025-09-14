@@ -27,14 +27,12 @@ level: 5
 ritual: false
 time: 1 hour
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: 'a diamond worth at least 500 gp, which the spell consumes'
 aliases:
   - Raise Dead
-range: Touch
-material: 'A diamond worth at least 500gp, which the spell consumes.'
 ---
 # Raise Dead
 *5th-level, Necromancy*  
@@ -52,6 +50,6 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Cleric (Grave Domain)](compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Artificer (Alchemist)](compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](/compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Grave Domain)](/compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

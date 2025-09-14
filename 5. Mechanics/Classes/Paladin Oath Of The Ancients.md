@@ -77,11 +77,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Ensnaring Strike.md\|ensnaring strike]], [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
-| 5th | [[5. Mechanics/Spells/Moonbeam.md\|moonbeam]], [[5. Mechanics/Spells/Misty Step.md\|misty step]] |
-| 9th | [[5. Mechanics/Spells/Plant Growth.md\|plant growth]], [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
-| 13th | [[5. Mechanics/Spells/Ice Storm.md\|ice storm]], [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
-| 17th | [[5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[5. Mechanics/Spells/Tree Stride.md\|tree stride]] |
+| 3rd | [[/5. Mechanics/Spells/Ensnaring Strike.md\|ensnaring strike]], [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
+| 5th | [[/5. Mechanics/Spells/Moonbeam.md\|moonbeam]], [[/5. Mechanics/Spells/Misty Step.md\|misty step]] |
+| 9th | [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
+| 13th | [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]], [[/5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
+| 17th | [[/5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[/5. Mechanics/Spells/Tree Stride.md\|tree stride]] |
 ^oath-of-the-ancients-spells
 
 ### Channel Divinity (Level 3)
@@ -114,7 +114,7 @@ Additionally, you suffer none of the drawbacks of old age, and you can't be aged
 
 ### Elder Champion (Level 20)
 
-At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or mosslike, or you might sprout antlers or a lion-like mane.
+At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or moss-like, or you might sprout antlers or a lion-like mane.
 
 Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
 

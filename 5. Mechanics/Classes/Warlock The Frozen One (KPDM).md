@@ -59,11 +59,11 @@ The Frozen One lets you choose from an expanded list of spells when you learn a 
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Create Or Destroy Water.md\|create or destroy water]], [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] |
-| 2nd | [[5. Mechanics/Spells/Blur.md\|blur]], [[5. Mechanics/Spells/Ice Hammer (KPDM).md\|ice hammer]] |
-| 3rd | [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (cold only), [[5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] |
-| 4th | [[5. Mechanics/Spells/Ice Storm.md\|ice storm]], [[5. Mechanics/Spells/Wintry Glide (KPDM).md\|wintry glide]] |
-| 5th | [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[5. Mechanics/Spells/Ice Fortress (KPDM).md\|ice fortress]] |
+| 1st | [[/5. Mechanics/Spells/Create Or Destroy Water.md\|create or destroy water]], [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] |
+| 2nd | [[/5. Mechanics/Spells/Blur.md\|blur]], [[/5. Mechanics/Spells/Ice Hammer (KPDM).md\|ice hammer]] |
+| 3rd | [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (cold only), [[/5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] |
+| 4th | [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]], [[/5. Mechanics/Spells/Wintry Glide (KPDM).md\|wintry glide]] |
+| 5th | [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[/5. Mechanics/Spells/Ice Fortress (KPDM).md\|ice fortress]] |
 ^the-frozen-one-expanded-spells
 
 ### Deflective Ice (Level 1)

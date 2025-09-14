@@ -20,15 +20,28 @@ classes:
   - Wizard
 school: Evocation
 level: 4
+damage:
+  base: 4d10
+  scaling:
+    damage: null
+    level: null
+  types:
+    - radiant
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
+duration: 'Concentration, up to 10 minutes'
+range: 120 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Sickening Radiance
-concentration: true
 ---
 # Sickening Radiance
 *4th-level, Evocation*  
@@ -42,6 +55,6 @@ Dim, greenish light spreads within a 30-foot-radius sphere centered on a point y
 
 When a creature moves into the spell's area for the first time on a turn or starts its turn there, that creature must succeed on a Constitution saving throw or take `dice:4d10|noform|noparens|avg` (`4d10`) radiant damage, and it suffers one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]]. The light and any levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] caused by this spell go away when the spell ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 164*

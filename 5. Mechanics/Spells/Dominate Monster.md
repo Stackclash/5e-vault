@@ -16,19 +16,24 @@ classes:
   - Wizard
 school: Enchantment
 level: 8
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: null
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Dominate Monster
-range: 60 feet
-save:
-  type: WIS
-  success: none
-concentration: true
 ---
 # Dominate Monster
 *8th-level, Enchantment*  
@@ -48,6 +53,6 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 **At Higher Levels.** When you cast this spell with a 9th-level spell slot, the duration is [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], up to 8 hours.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 235. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -47,7 +47,7 @@ Each class has its own unique follower chart, listed below. These charts make ce
 
 Some classes have a wider range of results. Paladins can gain more different followers than Sorcerers. This reflects how normal people view the different classes. Paladins and fighters and clerics tend to be respected, trusted. If they have spells, they often use them to help and heal. But peasants don't react well to sorcery, to arcane knowledge Man Was Not Meant to Know!
 
-The follower options for each class reflect this. Martial classes are more likely to get military units, while classes that use sorcery and delve into hidden places or research forgotten lore are more likely to get [[5. Mechanics/Tables/Special Allies (SAF).md\|special allies]] (page 67).
+The follower options for each class reflect this. Martial classes are more likely to get military units, while classes that use sorcery and delve into hidden places or research forgotten lore are more likely to get [[/5. Mechanics/Tables/Special Allies (SAF).md\|special allies]] (page 67).
 
 These cultural assumptions reflect the default Fantasyland campaign setting, but the assumptions of your setting may be very different. GMs, you can adjust these charts to reflect your world's assumptions or even let players roll on a chart for a different class if it makes more sense!
 
@@ -110,7 +110,7 @@ On initiative count 20 (losing initiative ties), the barbarian takes a stronghol
 
 - You issue forth a mighty "Yawp!" that causes all enemies within 60 feet to become [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] until initiative count 20 on the next round.  
 - You rage, and your allies gain the benefits of your rage as long as those allies aren't wearing heavy armor.  
-- You cast [[5. Mechanics/Spells/Chain Lightning.md\|chain lightning]] ^[That's right. Even though Barbarians can't cast spells, nature comes to their aid in their stronghold.] with a DC equal to 8 plus your proficiency modifier, plus your Constitution modifier. You may do this even while raging, and this does not end your rage.  
+- You cast [[/5. Mechanics/Spells/Chain Lightning.md\|chain lightning]] ^[That's right. Even though Barbarians can't cast spells, nature comes to their aid in their stronghold.] with a DC equal to 8 plus your proficiency modifier, plus your Constitution modifier. You may do this even while raging, and this does not end your rage.  
 
 ### Class Feature Improvement: Chieftain's Rage
 
@@ -120,7 +120,7 @@ Whenever you reduce an enemy to 0 hit points, you can choose to make a second at
 
 Barbarians prefer followers who are independent and don't require a lot of oversight. They don't classically attract a large retinue, they don't usually build great keeps to house their staff and servants. A barbarian's follower must be at home in wild places, willing and able to relocate quickly and live by their wits.
 
-![[5. Mechanics/Tables/Barbarian Followers (SAF).md\|Barbarian Followers]]
+![[/5. Mechanics/Tables/Barbarian Followers (SAF).md\|Barbarian Followers]]
 
 Their followers tend to be martial and savage. Barbarians can attract units, but they tend to be light and Barbarians don't go in much for leading large armies. Big armies require a lot of organization and discipline neither of which barbarians' classically value overmuch.
 
@@ -152,7 +152,7 @@ On initiative count 20 (losing initiative ties), the bard takes a stronghold act
 
 While an ally has unspent inspiration their proficiency bonus increases by +1. This applies to a number of inspiration dice equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Bard Followers (SAF).md\|Bard Followers]]
+![[/5. Mechanics/Tables/Bard Followers (SAF).md\|Bard Followers]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/cleric-church.webp#center)
 
@@ -170,7 +170,7 @@ The cleric's church is a bastion of faith for believers and adherents to their d
 
 On initiative count 20 (losing initiative ties), the cleric takes a stronghold action to cause one of the following effects. The cleric must be in the same hex or province as their stronghold, and can't use the same effect two rounds in a row:
 
-- All enemies within 30 feet must succeed on a Constitution saving throw or suffer the effects of the [[5. Mechanics/Spells/Contagion.md\|contagion]] spell.  
+- All enemies within 30 feet must succeed on a Constitution saving throw or suffer the effects of the [[/5. Mechanics/Spells/Contagion.md\|contagion]] spell.  
 - Shafts of golden light stab down from the sky, penetrating walls and ceilings. The beams target all undead, demons, and devils within 60 feet of you, even those hidden or [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]]. Targets must succeed on a Wisdom saving throw or be annihilated.  
 - You and all allies in the stronghold recover all Hit Dice and gain 30 temporary hit points.  
 
@@ -178,7 +178,7 @@ On initiative count 20 (losing initiative ties), the cleric takes a stronghold a
 
 When using your Channel Divinity class feature, all allies within 30 feet regain `dice:3d8|noform|noparens|avg` (`3d8`) hit points. You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Cleric Followers (SAF).md\|Cleric Followers]]
+![[/5. Mechanics/Tables/Cleric Followers (SAF).md\|Cleric Followers]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/druid-grove.webp#center)
 
@@ -189,7 +189,7 @@ The druid's grove ^[This is a notional, narrative term. It doesn't necessarily m
 ### Demesne Effects
 
 - Local birds and mammals in the druid's demesne can speak Common and Elvish. They enjoy talking to new people but will try to find and warn the druid if suspicious strangers enter the demesne.  
-- Nuts, fruits, and vegetables grown naturally (i.e., not farmed or cultivated) in the druid's demesne grant those who eat them the effect of [[5. Mechanics/Spells/Goodberry.md\|goodberry]]. If taken outside the demesne, they lose this effect.  
+- Nuts, fruits, and vegetables grown naturally (i.e., not farmed or cultivated) in the druid's demesne grant those who eat them the effect of [[/5. Mechanics/Spells/Goodberry.md\|goodberry]]. If taken outside the demesne, they lose this effect.  
 - No roads or trails in the druid's demesne last more than a day. However, allies and the units of allies can pass through the demesne as though there were roads.  
 
 ### Stronghold Actions
@@ -197,14 +197,14 @@ The druid's grove ^[This is a notional, narrative term. It doesn't necessarily m
 On initiative count 20 (losing initiative ties), the druid takes a stronghold action to cause one of the following effects. The druid must be in the same hex or province as their stronghold, and can't use the same effect again until after a short rest.
 
 - Grasping vines rise from the ground for 1 minute. Every enemy within 60 feet must make a Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] for the duration, taking `dice:3d8|noform|noparens|avg` (`3d8`) damage at the start of each of their rounds from stabbing thorns. At the end of its turn, an affected enemy can make another saving throw to escape.  
-- You cast [[5. Mechanics/Spells/Banishment.md\|banishment]] on an enemy, sending them to Arcadia on a failed save.  
-- You summon `dice:1d4+1|noform|noparens|avg` (`1d4+1`) [[5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mounds]] who fight for you for 1 minute.  
+- You cast [[/5. Mechanics/Spells/Banishment.md\|banishment]] on an enemy, sending them to Arcadia on a failed save.  
+- You summon `dice:1d4+1|noform|noparens|avg` (`1d4+1`) [[/5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mounds]] who fight for you for 1 minute.  
 
 ### Class Feature Improvement: Savage Shape
 
 When you assume your Wild Shape, you may assume the form of any monstrosity, fey, or dragon, including those with a flying or swimming speed. You may use this ability to transform into a creature with a Challenge Rating up to half your level, rounded up. All other Wild Shape restrictions and benefits apply (including using all of the form's actions and abilities except lair and legendary actions). You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Druid Followers (SAF).md\|Druid Followers]]
+![[/5. Mechanics/Tables/Druid Followers (SAF).md\|Druid Followers]]
 
 ### A Druid's Followers
 
@@ -233,7 +233,7 @@ The fighter's fortress is a bastion against intruders, and it rewards those who 
 
 On initiative count 20 (losing initiative ties), the fighter takes a stronghold action to cause one of the following effects. The fighter must be in the same hex or province as their stronghold, and can't use the same effect again until after a short rest.
 
-- Until initiative count 20 on the next round, any enemy who tries to cast a spell in your demesne experiences searing pain. The enemy can choose another action, but if it chooses to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes `dice:1d6|noform|noparens|avg` (`d6`) force damage per level of the spell, and the spell has no effect and is wasted.  
+- Until initiative count 20 on the next round, any enemy who tries to cast a spell in your demesne experiences searing pain. The enemy can choose another action, but if it chooses to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes `dice:1d6|noform|noparens|avg` (`1d6`) force damage per level of the spell, and the spell has no effect and is wasted.  
 - Until the end of your next turn, you and all your allies' weapon attacks hit automatically. Roll anyway, though—you might score a crit!  
 - You and all your allies are restored to full hit points.  
 
@@ -241,7 +241,7 @@ On initiative count 20 (losing initiative ties), the fighter takes a stronghold 
 
 Whenever you attack by using your Action Surge, you automatically score a critical hit. You can do this for a number of surges equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Fighter Followers (SAF).md\|Fighter Followers]]
+![[/5. Mechanics/Tables/Fighter Followers (SAF).md\|Fighter Followers]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/monk-monastery.webp#center)
 
@@ -267,9 +267,9 @@ On initiative count 20 (losing initiative ties), the monk takes a stronghold act
 
 Whenever you are attacked while you have unspent ki, you can ignore all of its effects except its damage. You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-> The Scion of Orcus casts [[5. Mechanics/Spells/Evards Black Tentacles.md\|black tentacles]], and Bhaltair the monk is in the area of effect. Regardless of the outcome of Bhaltair's Evasion, he is not [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the tentacles because he has unspent ki.
+> The Scion of Orcus casts [[/5. Mechanics/Spells/Evards Black Tentacles.md\|black tentacles]], and Bhaltair the monk is in the area of effect. Regardless of the outcome of Bhaltair's Evasion, he is not [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the tentacles because he has unspent ki.
 
-![[5. Mechanics/Tables/Monk Followers (SAF).md\|Monk Followers]]
+![[/5. Mechanics/Tables/Monk Followers (SAF).md\|Monk Followers]]
 
 ## The Paladin's Chapel
 
@@ -295,13 +295,13 @@ Your Divine Smite burns through enemy resistance. Enemies normally resistant to 
 
 You can do this for a number of attacks equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Paladin Followers (SAF).md\|Paladin Followers]]
+![[/5. Mechanics/Tables/Paladin Followers (SAF).md\|Paladin Followers]]
 
 ### Winged Elves
 
 A paladin might attract an ambassador from the Covert Court, the court of the winged elves. This allows the paladin to buy Aerial units with winged elf ancestry (see Creating Your Own Units on page 235).
 
-![[5. Mechanics/Tables/Special Paladin Mount (SAF).md\|Special Paladin Mount]]
+![[/5. Mechanics/Tables/Special Paladin Mount (SAF).md\|Special Paladin Mount]]
 
 ### A Paladin's Mount
 
@@ -335,7 +335,7 @@ On initiative count 20 (losing initiative ties), the ranger takes a stronghold a
 
 Your favored enemy has vulnerability to your attacks ^[Remember, the goal is players read this and think, "Wow I want to build a stronghold." And the GM sees "Oh this only happens like three times per adventure" and doesn't freak out.]. You can do this to a number of damage rolls equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Ranger Followers (SAF).md\|Ranger Followers]]
+![[/5. Mechanics/Tables/Ranger Followers (SAF).md\|Ranger Followers]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/rogue-tavern.webp#center)
 
@@ -361,7 +361,7 @@ On initiative count 20 (losing initiative ties), the rogue takes a stronghold ac
 
 After you hit with a Sneak Attack, you may become invisible. Anything you are wearing or carrying is invisible as long as it is on your person. This effect lasts until the end of your next turn or until you attack or cast a spell. You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Rogue Followers (SAF).md\|Rogue Followers]]
+![[/5. Mechanics/Tables/Rogue Followers (SAF).md\|Rogue Followers]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sorcerer-sanctum.webp#center)
 
@@ -380,14 +380,14 @@ The sorcerer's sanctum houses a collection of curious and antiquities. It create
 On initiative count 20 (losing initiative ties), the sorcerer takes a stronghold action to cause one of the following effects. The sorcerer must be in the same hex or province as their stronghold and can't use the same effect again until after a short rest.
 
 - You cast three spells from your list of prepared spells, using spell slots as normal.  
-- For the next minute, all of your spells are heightened, as per [[5. Mechanics/Optional Features/Heightened Spell.md\|heightened spell]]. You cannot use sorcery points to heighten an already heightened spell.  
-- You are wreathed by a [[5. Mechanics/Spells/Fire Shield.md\|fire shield]]. Enemies who strike the shield take `dice:4d8|noform|noparens|avg` (`4d8`) damage instead of `dice:2d8|noform|noparens|avg` (`2d8`).  
+- For the next minute, all of your spells are heightened, as per [[/5. Mechanics/Optional Features/Heightened Spell.md\|heightened spell]]. You cannot use sorcery points to heighten an already heightened spell.  
+- You are wreathed by a [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]]. Enemies who strike the shield take `dice:4d8|noform|noparens|avg` (`4d8`) damage instead of `dice:2d8|noform|noparens|avg` (`2d8`).  
 
 ### Class Feature Improvement: Source of Magic
 
 You gain bonus sorcery points equal in number to your stronghold level. These bonus points only refresh when you take an extended rest.
 
-![[5. Mechanics/Tables/Sorcerer Followers (SAF).md\|Sorcerer Followers]]
+![[/5. Mechanics/Tables/Sorcerer Followers (SAF).md\|Sorcerer Followers]]
 
 ### A Sorcerer's Followers
 
@@ -406,21 +406,21 @@ The warlock's fane is a locus of power committed to a being of alien intelligenc
 - The sun appears as a baleful orb in the sky over the warlock's demesne.  
 - In the warlock's demesne, constellations in the night sky are strange, and stars occasionally fall from the sky.  
 - The warlock is immediately aware of enemies in their demesne.  
-- Once per month, the warlock can summon an [[5. Mechanics/Spells/Earthquake.md\|earthquake]], as per the spell, targeting any enemies in their demesne.  
+- Once per month, the warlock can summon an [[/5. Mechanics/Spells/Earthquake.md\|earthquake]], as per the spell, targeting any enemies in their demesne.  
 
 ### Stronghold Actions
 
 On initiative count 20 (losing initiative ties), the warlock takes a stronghold action to cause one of the following effects. The warlock must be in the same hex or province as their stronghold, and can't use the same effect two rounds in a row:
 
 - You recover all spell slots as though you completed a short rest.  
-- You fire an [[5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] at each enemy you can see within 60 feet.  
+- You fire an [[/5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] at each enemy you can see within 60 feet.  
 - You summon a Type VI servitor (page 31).  
 
 ### Class Feature Improvement: Master Invoker
 
 You gain an extra spell slot. You may use this extra spell slot a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Warlock Followers (SAF).md\|Warlock Followers]]
+![[/5. Mechanics/Tables/Warlock Followers (SAF).md\|Warlock Followers]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/wizard-library.webp#center)
 
@@ -431,22 +431,22 @@ The wizard's library is a bastion of knowledge and research best hidden from the
 ### Demesne Effects
 
 - The library of the wizard's stronghold has a copy of every nonmagical book anyone brings into the wizard's demesne.  
-- By concentrating for 10 minutes, the wizard can scry on any person or location in their demesne as per the [[5. Mechanics/Spells/Scrying.md\|scrying]] spell. The wizard can do this while anywhere, including another world.  
-- Once per day, the wizard can control the weather in their demesne. The wizard doesn't have to be in their demesne to do this. The effect is otherwise the same as the [[5. Mechanics/Spells/Control Weather.md\|control weather]] spell.  
+- By concentrating for 10 minutes, the wizard can scry on any person or location in their demesne as per the [[/5. Mechanics/Spells/Scrying.md\|scrying]] spell. The wizard can do this while anywhere, including another world.  
+- Once per day, the wizard can control the weather in their demesne. The wizard doesn't have to be in their demesne to do this. The effect is otherwise the same as the [[/5. Mechanics/Spells/Control Weather.md\|control weather]] spell.  
 
 ### Stronghold Actions
 
 On initiative count 20 (losing initiative ties), the wizard takes a stronghold action to cause one of the following effects. The wizard must be in the same hex or province as their stronghold, and can't use the same effect again until after a short rest.
 
 - You cast a spell from your list of prepared spells. This does not use a spell slot.  
-- You cast [[5. Mechanics/Spells/Flesh To Stone.md\|flesh to stone]] on all enemies within 60 feet. This does not use a spell slot.  
+- You cast [[/5. Mechanics/Spells/Flesh To Stone.md\|flesh to stone]] on all enemies within 60 feet. This does not use a spell slot.  
 - You recover all spent spell slots as though you had finished a long rest.  
 
 ### Class Feature Improvement: Spellmaster
 
 You can maintain two spells with concentration at once. You can do this a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 
-![[5. Mechanics/Tables/Wizard Followers (SAF).md\|Wizard Followers]]
+![[/5. Mechanics/Tables/Wizard Followers (SAF).md\|Wizard Followers]]
 
 ## Villain Strongholds
 
@@ -508,10 +508,10 @@ This is a dramatic way to introduce a villain and hint to the players that there
 
 Congratulations! You rolled well on your follower chart and attracted a special ally! Allies are like followers in that they approve of what you're doing in the world and want to help, but allies are powerful beings, often more powerful than your character. They cannot be ordered around, and they can be unreliable. Find your alignment on the chart below and roll a `dice:d12|noform|noparens|avg` (`d12`) to see which cool beastie shows up to help you out.
 
-![[5. Mechanics/Tables/Special Allies (SAF).md\|Special Allies]]
+![[/5. Mechanics/Tables/Special Allies (SAF).md\|Special Allies]]
 
-![[5. Mechanics/Tables/Devil Allies (SAF).md\|Devil Allies]]
+![[/5. Mechanics/Tables/Devil Allies (SAF).md\|Devil Allies]]
 
-![[5. Mechanics/Tables/Demon Allies (SAF).md\|Demon Allies]]
+![[/5. Mechanics/Tables/Demon Allies (SAF).md\|Demon Allies]]
 
-![[5. Mechanics/Tables/Fey Allies (SAF).md\|Fey Allies]]
+![[/5. Mechanics/Tables/Fey Allies (SAF).md\|Fey Allies]]

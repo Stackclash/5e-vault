@@ -40,16 +40,14 @@ level: 3
 ritual: false
 time: 1 Action
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: >-
+  a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell
+  consumes
 aliases:
   - Nondetection
-range: Touch
-material: >-
-  A pinch of diamond dust worth 25 gp sprinkled over the target, which the spell
-  consumes.
 ---
 # Nondetection
 *3rd-level, Abjuration*  
@@ -61,6 +59,8 @@ material: >-
 
 For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors.
 
-**Classes**: [Paladin (Oath of the Watchers)](compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Cat Domain)](compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [Cleric (Darkness Domain)](compendium/lists/list-spells-classes-darkness-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Warlock (The Many)](compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Cleric (Wealth Domain)](compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Labyrinth Domain)](compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of Owls)](compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [Cleric (Darkness Domain)](/compendium/lists/list-spells-classes-darkness-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [Cleric (Labyrinth Domain)](/compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [Cleric (Wealth Domain)](/compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Druid (Circle of Owls)](/compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Watchers)](/compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Warlock (The Many)](/compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Svirfneblin Magic (MTF).md\|Svirfneblin Magic]]
 
 *Source: Player's Handbook p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

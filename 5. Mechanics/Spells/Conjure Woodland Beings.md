@@ -18,18 +18,21 @@ classes:
   - Wizard (Hedge Mage)
 school: Conjuration
 level: 4
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+somatic: true
+verbal: true
+material: one holly berry per creature summoned
 aliases:
   - Conjure Woodland Beings
-range: 60 feet
-material: One holly berry per creature summoned.
-concentration: true
 ---
 # Conjure Woodland Beings
 *4th-level, Conjuration*  
@@ -54,6 +57,6 @@ The DM has the creatures' statistics.
 
 **At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Bard (Greenleaf College)](compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [Bard (Greenleaf College)](/compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 226. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

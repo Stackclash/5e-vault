@@ -16,17 +16,25 @@ classes:
   - Wizard
 school: Evocation
 level: 7
+damage:
+  base: 4d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Self (120-foot Sphere)
+somatic: true
+verbal: true
+material: a black pearl worth 250 gp
+area:
+  shape: sphere
+  size: 120
 aliases:
   - Dying of the Light
-concentration: true
-material: a black pearl worth 250 gp
 ---
 # Dying of the Light
 *7th-level, Evocation*  
@@ -42,6 +50,6 @@ Nonmagical light sources removed from the area can be reignited. Magic items reg
 
 Each creature you choose to be affected that ends its turn in the darkness takes `dice:4d8|noform|noparens|avg` (`4d8`) necrotic damage and gains one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. A successful Constitution saving throw halves the damage and negates the [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 249*

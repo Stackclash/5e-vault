@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: swamp
 size: Small
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mud Mephit
 ---
-# [[5. Mechanics\Bestiary\Elemental\Mud Mephit.md|Mud Mephit]]
+# [[5. Mechanics/Bestiary/Elemental/Mud Mephit.md|Mud Mephit]]
 *Source: Monster Manual p. 216*
 
 ## Mephits
@@ -53,7 +53,8 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
     "desc": "+3"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Aquan, Terran"
 "cr": "1/4"
 "traits":
@@ -66,7 +67,7 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
       \ ordinary mound of mud."
     "name": "False Appearance"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4\
       \ (1d6 + 1) bludgeoning damage."
     "name": "Fists"
   - "desc": "The mephit belches viscid mud onto one creature within 5 feet of it.\
@@ -77,7 +78,7 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
     "name": "Mud Breath (Recharge 6)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Elemental/token/mud-mephit.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/mud-mephit.webp"
 ```
 ^statblock
 

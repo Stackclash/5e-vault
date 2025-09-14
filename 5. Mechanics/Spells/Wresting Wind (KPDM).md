@@ -16,16 +16,22 @@ classes:
   - Sorcerer
 school: Evocation
 level: 2
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 90 feet
+somatic: true
+verbal: true
+material: a handful of paper confetti
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Wresting Wind
-material: a handful of paper confetti
 ---
 # Wresting Wind
 *2nd-level, Evocation*  
@@ -37,6 +43,6 @@ material: a handful of paper confetti
 
 By blowing a pinch of confetti from your cupped hand, you create a burst of air that can rip weapons and other items out of the hands of your enemies. Each enemy in a 20-foot radius centered on a point you target within range must make a successful Strength saving throw or drop anything held in its hands. The objects land 10 feet away from the creatures that dropped them, in random directions.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Deep Magic p. 122*

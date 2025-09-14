@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mirrorlight Thief
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Mirrorlight Thief (GRIFFONSSADDLEBAG3).md|Mirrorlight Thief]]
+# [[5. Mechanics/Bestiary/Humanoid/Mirrorlight Thief (GRIFFONSSADDLEBAG3).md|Mirrorlight Thief]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Mirrorlight thieves are capable rogues that specialize in evasive maneuvers and skulduggery of both hands and mind using illusions. Whether gained from exposure to mirrorlight crystals, training with them, or other sources of powerful illusory magic, these ne'er-do-wells can manifest illusory clones of themselves that can even turn corporeal temporarily—just long enough to stab you in the back.
@@ -25,7 +25,7 @@ Mirrorlight thieves are capable rogues that specialize in evasive maneuvers and 
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "49"
 "hit_dice": "9d8 + 9"
 "modifier": !!int "4"
@@ -38,7 +38,7 @@ Mirrorlight thieves are capable rogues that specialize in evasive maneuvers and 
   - !!int "17"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+7"
+  - "dexterity": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+7"
@@ -83,11 +83,11 @@ Mirrorlight thieves are capable rogues that specialize in evasive maneuvers and 
   - "desc": "The thief makes two weapon attacks. One attack can originate from the\
       \ thief's clone."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) piercing damage."
     "name": "Shortsword"
-  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 6 (1d4 + 4) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 6 (1d4 + 4) piercing damage."
     "name": "Dagger"
 "reactions":
   - "desc": "When a creature the thief can see leaves the thief's reach, the thief\

@@ -11,16 +11,25 @@ classes:
   - Bard
 school: Illusion
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: true
 time: 1 Action
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: 60 feet
+somatic: true
+verbal: true
+material: 'a pinch of black sand, a tallow candle, and a drop of cephalopod ink'
 aliases:
   - Sleep of the Deep
-material: 'a pinch of black sand, a tallow candle, and a drop of cephalopod ink'
 ---
 # Sleep of the Deep
 *3rd-level, Illusion (ritual)*  
@@ -34,6 +43,6 @@ Your magic haunts the dreams of others. Choose a sleeping creature that you are 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can affect one additional creature for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 341*

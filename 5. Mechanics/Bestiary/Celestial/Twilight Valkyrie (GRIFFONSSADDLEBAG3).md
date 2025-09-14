@@ -13,7 +13,7 @@ tags:
 aliases:
   - Twilight Valkyrie
 ---
-# [[5. Mechanics\Bestiary\Celestial\Twilight Valkyrie (GRIFFONSSADDLEBAG3).md|Twilight Valkyrie]]
+# [[5. Mechanics/Bestiary/Celestial/Twilight Valkyrie (GRIFFONSSADDLEBAG3).md|Twilight Valkyrie]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Standing simultaneously opposite to and between the fiends and angels, the neutral-aligned Twilight Valkyries are winged warriors wielding the power of both light and shadow. The focus of their devotion is maintaining the balance between those dual opposing forces, for neither can exist without the other. To that end, they appear throughout the multiverse in order to ensure that when an individual is fated for death or for life, events unfold as the multiverse intends. Most often, this causes them to appear as alternating villains and heroes in seemingly obscure locales, causing domino effects that cascade into a solid, binding fate.
@@ -24,7 +24,7 @@ Standing simultaneously opposite to and between the fiends and angels, the neutr
 "type": "celestial"
 "alignment": "Lawful Neutral"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate]]"
 "hp": !!int "262"
 "hit_dice": "21d10 + 147"
 "modifier": !!int "5"
@@ -37,9 +37,9 @@ Standing simultaneously opposite to and between the fiends and angels, the neutr
   - !!int "23"
 "speed": "40 ft., fly 120 ft."
 "saves":
-  - "strength": "+13"
-  - "wisdom": "+11"
-  - "charisma": "+12"
+  - "strength": !!int "13"
+  - "wisdom": !!int "11"
+  - "charisma": !!int "12"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+12"
@@ -47,18 +47,19 @@ Standing simultaneously opposite to and between the fiends and angels, the neutr
     "desc": "+11"
 "damage_resistances": "necrotic; radiant; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"senses": "darkvision 300 ft., truesight 120 ft., passive Perception 21"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 300 ft., [[/5. Mechanics/Rules/Senses.md#Truesight|truesight]]\
+  \ 120 ft., passive Perception 21"
 "languages": "all"
 "cr": "20"
 "traits":
   - "desc": "The valkyrie's innate spellcasting ability is Charisma. She can innately\
       \ cast the following spells (spell save DC 20), requiring no material components:\n\
-      \nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-      \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]] (self only)\n\n3/day each:\
-      \ [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[5. Mechanics/Spells/Harm.md|harm]],\
-      \ [[5. Mechanics/Spells/He(AL).md|heal]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Finger Of Death.md|finger of death]], [[5. Mechanics/Spells/Flame Strike.md|flame\
-      \ strike]]"
+      \n**At will:** [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+      \ [[/5. Mechanics/Spells/Sanctuary.md|sanctuary]] (self only)\n\n**3/day each:**\
+      \ [[/5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[/5. Mechanics/Spells/Harm.md|harm]],\
+      \ [[/5. Mechanics/Spells/He(AL).md|heal]], [[/5. Mechanics/Spells/Raise Dead.md|raise dead]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
+      \ [[/5. Mechanics/Spells/Flame Strike.md|flame strike]]"
     "name": "Innate Spellcasting"
   - "desc": "The valkyrie's weapon attacks are magical.\n\nAt the start of the valkyrie's\
       \ turn, she chooses either necrotic or radiant damage; when the valkyrie hits\
@@ -84,7 +85,7 @@ Standing simultaneously opposite to and between the fiends and angels, the neutr
   - "desc": "The valkyrie can use her Divine Charge or cast one spell. She then makes\
       \ two glaive attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 18\
       \ (2d10 + 7) slashing damage plus 11 (2d10) necrotic or radiant damage (see\
       \ Angelic Weapons trait)."
     "name": "Glaive"

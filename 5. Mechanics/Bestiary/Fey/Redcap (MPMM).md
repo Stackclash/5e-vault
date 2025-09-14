@@ -16,7 +16,7 @@ tags:
 aliases:
   - Redcap
 ---
-# [[5. Mechanics\Bestiary\Fey\Redcap (MPMM).md|Redcap]]
+# [[5. Mechanics/Bestiary/Fey/Redcap (MPMM).md|Redcap]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188*
 
 A redcap is a homicidal Fey creature born of blood lust. Redcaps, although small, have formidable strength, which they use to hunt and kill without hesitation or regret.
@@ -54,7 +54,8 @@ In any case, if a redcap works with another being, the redcap demands to be paid
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Common, Sylvan"
 "cr": "3"
 "traits":
@@ -67,7 +68,7 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 "actions":
   - "desc": "The redcap makes three Wicked Sickle attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
       \ + 4) slashing damage."
     "name": "Wicked Sickle"
   - "desc": "The redcap moves up to its speed to a creature it can see and kicks with\
@@ -77,7 +78,7 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/redcap-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/redcap-mpmm.webp"
 ```
 ^statblock
 

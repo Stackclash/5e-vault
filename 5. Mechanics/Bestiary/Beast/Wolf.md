@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'grassland, forest, hill'
 size: Medium
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Wolf
 ---
-# [[5. Mechanics\Bestiary\Beast\Wolf.md|Wolf]]
+# [[5. Mechanics/Bestiary/Beast/Wolf.md|Wolf]]
 *Source: Monster Manual p. 341, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -54,7 +54,7 @@ aliases:
       \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
       \ + 2) piercing damage. If the target is a creature, it must succeed on a DC\
       \ 11 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Bite"
@@ -62,7 +62,7 @@ aliases:
   - "MM"
   - "CoS"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Beast/token/wolf.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/wolf.webp"
 ```
 ^statblock
 

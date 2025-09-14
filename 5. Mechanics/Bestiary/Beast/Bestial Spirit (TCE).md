@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bestial Spirit
 ---
-# [[5. Mechanics\Bestiary\Beast\Bestial Spirit (TCE).md|Bestial Spirit]]
+# [[5. Mechanics/Bestiary/Beast/Bestial Spirit (TCE).md|Bestial Spirit]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
@@ -32,7 +32,8 @@ aliases:
   - !!int "5"
 "speed": "30 ft., climb 30 ft. (land only), fly 60 ft. (air only), swim 30 ft. (water\
   \ only)"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "The beast can breathe only underwater."
@@ -48,12 +49,12 @@ aliases:
   - "desc": "The beast makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d8 + 4 + the spell's level piercing damage."
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d8 + 4 + the spell's level piercing damage."
     "name": "Maul"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Beast/token/bestial-spirit-tce.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/bestial-spirit-tce.webp"
 ```
 ^statblock
 

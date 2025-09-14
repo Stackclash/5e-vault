@@ -11,7 +11,7 @@ weight: 3
 ---
 # Rope of Entanglement
 *Wondrous item, major, rare*  
-![[5. Mechanics/Items/img/rope-of-entanglement.webp#right]]  
+![[/5. Mechanics/Items/img/rope-of-entanglement.webp#right]]  
 
 - **Weight**: 3.0 lbs.
 

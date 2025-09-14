@@ -19,10 +19,10 @@ This square pouch contains `dice:2d4+2|noform|noparens|avg` (`2d4 + 2`) marbles 
 
 | dice: d4 | Appearance | Mephit |
 |----------|------------|--------|
-| 1 | Beige stone with a sandy surface | [[5. Mechanics/Bestiary/Elemental/Dust Mephit.md\|Dust Mephit]] |
-| 2 | Glass with swirls of soft, snowy white | [[5. Mechanics/Bestiary/Elemental/Ice Mephit.md\|Ice Mephit]] |
-| 3 | Obsidian glass with swirls of embers | [[5. Mechanics/Bestiary/Elemental/Magma Mephit.md\|Magma Mephit]] |
-| 4 | Glass with watery swirls and plumes | [[5. Mechanics/Bestiary/Elemental/Steam Mephit.md\|Steam Mephit]] |
+| 1 | Beige stone with a sandy surface | [[/5. Mechanics/Bestiary/Elemental/Dust Mephit.md\|Dust Mephit]] |
+| 2 | Glass with swirls of soft, snowy white | [[/5. Mechanics/Bestiary/Elemental/Ice Mephit.md\|Ice Mephit]] |
+| 3 | Obsidian glass with swirls of embers | [[/5. Mechanics/Bestiary/Elemental/Magma Mephit.md\|Magma Mephit]] |
+| 4 | Glass with watery swirls and plumes | [[/5. Mechanics/Bestiary/Elemental/Steam Mephit.md\|Steam Mephit]] |
 ^appearance-mephit
 
 You can use an action to throw a marble into an unoccupied space that you can see within 30 feet of you. On impact, the marble is destroyed, and a mephit appears in the space. The type of mephit depends on the marble you threw. The summoned mephit is friendly to you and your companions. It shares your initiative and takes its turn immediately after yours. It obeys any verbal commands that you issue it (no action required by you). If you don't issue any commands, it defends itself from hostile creatures, but otherwise take no actions.

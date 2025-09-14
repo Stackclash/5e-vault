@@ -33,12 +33,7 @@
     },
     "paths": {
         "compendium": "/compendium",
-        "rules": "/compendium/rules/",
-        "monsters": "/bestiary/",
-        "spells": "/magic/spells/",
-        "items": "/equipment/",
-        "races": "/character/ancestries/",
-        "classes": "/character/classes/"
+        "rules": "/compendium/rules/"
     },
     "useDiceRoller": true,
     "yamlStatblocks": true,

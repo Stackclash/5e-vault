@@ -24,7 +24,7 @@ The attacker must succeed on a DC 15 Strength saving throw or be pushed up to 30
 
 ## Fire
 
-The attacker must succeed on a DC 15 Dexterity saving throw or take `dice:2d8|noform|noparens|avg` (`2d8`) fire damage. The creature repeats the saving throw at the start of each of its turns for 1 minute, taking another `dice:1d8|noform|noparens|avg` (`d8`) fire damage on a failed save, or ending the effect on a successful one. Alternatively, a creature within reach of the original attacker can use an action to extinguish the flames and end the effect.
+The attacker must succeed on a DC 15 Dexterity saving throw or take `dice:2d8|noform|noparens|avg` (`2d8`) fire damage. The creature repeats the saving throw at the start of each of its turns for 1 minute, taking another `dice:1d8|noform|noparens|avg` (`1d8`) fire damage on a failed save, or ending the effect on a successful one. Alternatively, a creature within reach of the original attacker can use an action to extinguish the flames and end the effect.
 
 ## Frost
 

@@ -16,23 +16,28 @@ classes:
   - Wizard
 school: Conjuration
 level: 8
+damage:
+  base: 10d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - fire
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: half damage
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 150 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Incendiary Cloud
-range: 150 feet
-damageType: Fire
-save:
-  type: DEX
-  success: half
-area:
-  type: sphere
-  size: 20
-concentration: true
 ---
 # Incendiary Cloud
 *8th-level, Conjuration*  
@@ -48,6 +53,6 @@ When the cloud appears, each creature in it must make a Dexterity saving throw. 
 
 The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 253. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

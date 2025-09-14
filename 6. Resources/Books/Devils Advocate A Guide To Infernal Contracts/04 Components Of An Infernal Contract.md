@@ -34,7 +34,7 @@ Upon death, the signee reports to the layer of the Nine Hells corresponding to t
 > Life-Year contracts, like all things pertaining to devils, are more insidious than they sound. Although infernal law untimately guarantees liberation, signees of lif-year agreements are branded with an infernal glyph which advertises their remaining time in the Nine Hells. The plane's pernicious inhabitants know that desperation is the foundation of a contract. To breed further deals, other devils make every effort to arrange a miserable existence forlife-year signees serving time in the Hells.
 ^slippery-slope
 
-![[5. Mechanics/Tables/Contract Consideration Da Gic.md\|Contract Consideration]]
+![[/5. Mechanics/Tables/Contract Consideration Da Gic.md\|Contract Consideration]]
 
 ### Souls
 
@@ -44,7 +44,7 @@ The epitome of an infernal contract results in a pledge of the signee's soul as 
 
 Successful contract administrators are always thinking two or three steps ahead. They understand that most mortals are wary of entering into a contract with a devil given their reputation. A devil is usually content to make smaller, abstract deals with less-evident ramifications.
 
-One classic example is requiring the voice of the signee for a single hour. The deal seems innocent at first, but it poses several questions. Will your voice be taken during combat, preventing you from casting spells with verbal components? Could the devil consent to an ancient prophecy on your behalf, sealing you to some strange fate? Will your voice be used in tandem with a disguise to damage a hard-earned relationship with a crucial ally? The subtleties of consideration in nontraditional forms can bring exciting dilemmas to your table. The [[5. Mechanics/Tables/Contract Consideration Da Gic.md\|Contract Consideration]] table presents a small sampling of such exchanges.
+One classic example is requiring the voice of the signee for a single hour. The deal seems innocent at first, but it poses several questions. Will your voice be taken during combat, preventing you from casting spells with verbal components? Could the devil consent to an ancient prophecy on your behalf, sealing you to some strange fate? Will your voice be used in tandem with a disguise to damage a hard-earned relationship with a crucial ally? The subtleties of consideration in nontraditional forms can bring exciting dilemmas to your table. The [[/5. Mechanics/Tables/Contract Consideration Da Gic.md\|Contract Consideration]] table presents a small sampling of such exchanges.
 
 ## The Offer
 
@@ -73,19 +73,19 @@ The Offers table gives examples of appropriate offers based on standard life-yea
 
 ##### Using the Offers Table
 
-To choose an appropriate offer, start by identifying the percentage of remaining life-years that the signee is putting up for consideration. Then, locate the corresponding service tier. For example, if a signee gives up half of their remaining life span, they are entitled to service tier II. Once you have selected your service tier, work with your DM or contract administrator to choose an appropriate offer. Alternatively, you may have an offer in mind and choose to work backward. [[5. Mechanics/Optional Features/Infernal Ally Da Gic.md\|Infernal Ally]] rules are located in Appendix C.
+To choose an appropriate offer, start by identifying the percentage of remaining life-years that the signee is putting up for consideration. Then, locate the corresponding service tier. For example, if a signee gives up half of their remaining life span, they are entitled to service tier II. Once you have selected your service tier, work with your DM or contract administrator to choose an appropriate offer. Alternatively, you may have an offer in mind and choose to work backward. [[/5. Mechanics/Optional Features/Infernal Ally Da Gic.md\|Infernal Ally]] rules are located in Appendix C.
 
 ##### Other Forms of Consideration
 
-If desired, the DM or the player may select a different form of consideration than years of remaining life, such as the ones outlined in the [[5. Mechanics/Tables/Contract Consideration Da Gic.md\|Contract Consideration]] table. In these cases, use your best judgment to choose an appropriate service tier and offer. If the signee's consideration is the memory of a loved one, you might choose the service tier corresponding to half the life-years that they knew this person.
+If desired, the DM or the player may select a different form of consideration than years of remaining life, such as the ones outlined in the [[/5. Mechanics/Tables/Contract Consideration Da Gic.md\|Contract Consideration]] table. In these cases, use your best judgment to choose an appropriate service tier and offer. If the signee's consideration is the memory of a loved one, you might choose the service tier corresponding to half the life-years that they knew this person.
 
 ##### Desperate vs. Confident
 
-A signee that is making an offer in a pinch (see "Sealing the Deal") is said to be a desperate signee. A proactive signee who isn't in the heat of the moment is known as a confident signee. The [[5. Mechanics/Tables/Offers Da Gic.md\|Offers]] table distinguishes between immediate, one-time assistance and long-lasting benefits for desperate and confident signees, respectively. However, these two distinctions are only suggestions. A signee may choose from either column when making a deal.
+A signee that is making an offer in a pinch (see "Sealing the Deal") is said to be a desperate signee. A proactive signee who isn't in the heat of the moment is known as a confident signee. The [[/5. Mechanics/Tables/Offers Da Gic.md\|Offers]] table distinguishes between immediate, one-time assistance and long-lasting benefits for desperate and confident signees, respectively. However, these two distinctions are only suggestions. A signee may choose from either column when making a deal.
 
 > [!note] End of the Line
 > 
-> You may notice that there are no ongoing benefits for those who trade their life to a devil on the [[5. Mechanics/Tables/Offers Da Gic.md\|Offers]] table. While it is often a heroic endeavor, giving one's life results in the immediate and final death of the signee. Spells like [[5. Mechanics/Spells/Revivify.md\|revivify]], [[5. Mechanics/Spells/Raise Dead.md\|raise dead]], and [[5. Mechanics/Spells/Resurrection.md\|resurrection]] are incapable of bringing a character back from such a fate. It is rumored that even a [[5. Mechanics/Spells/Wish.md\|wish]] spell cannot violate the rigid nature of infernal law, though this could have been fabricated by devils long ago.
+> You may notice that there are no ongoing benefits for those who trade their life to a devil on the [[/5. Mechanics/Tables/Offers Da Gic.md\|Offers]] table. While it is often a heroic endeavor, giving one's life results in the immediate and final death of the signee. Spells like [[/5. Mechanics/Spells/Revivify.md\|revivify]], [[/5. Mechanics/Spells/Raise Dead.md\|raise dead]], and [[/5. Mechanics/Spells/Resurrection.md\|resurrection]] are incapable of bringing a character back from such a fate. It is rumored that even a [[/5. Mechanics/Spells/Wish.md\|wish]] spell cannot violate the rigid nature of infernal law, though this could have been fabricated by devils long ago.
 > 
 > This is yet another way that devils can entice mortals to forfeit their souls. By giving your life, you immediately run out of time. However, by exchanging your soul as consideration, you get to live to see another day. You can partake in all of the glory and pleasure that life has to offer - at least until collection time.
 ^end-of-the-line
@@ -94,7 +94,7 @@ A signee that is making an offer in a pinch (see "Sealing the Deal") is said to 
 
 A player character can sign their first contract at any service tier. However, subsequent deals come at a higher price. If a character has already signed an infernal contract, the following deal must be of a higher service tier than the previous one - inevitably pushing them towards a soul contract. While this may seem grim, this prevents the player character from repeating negligible transactions with little consequence. Additionally, it entitles the signee to a better offer than their previous contract.
 
-![[5. Mechanics/Tables/Offers Da Gic.md\|Offers]]
+![[/5. Mechanics/Tables/Offers Da Gic.md\|Offers]]
 
 ## Obligation
 
@@ -165,9 +165,9 @@ When you introduce an infernal contract to your table, you may wish to institute
 
 ### Incorporating Fine Print
 
-Locating fine print on a physical document can be an exhilarating experience for your players. Some may become paranoid upon seeing legal jargon or infernal embellishments, while others might meticulously review each phrase contained within the document. Fine print encourages participation from the entire party, whether it's through social interaction, ability checks, or marking up a physical document. The [[5. Mechanics/Tables/Fine Print Da Gic.md\|Fine Print]] table presents examples of fine print that may be found in an infernal contract. Remember to be cautious when incorporating fine print into a physical document. There is a thin line between the satisfying "Ah-ha!" moment of locating fine print and frustrating or even antagonizing a player who feels as if, the expectations weren't clear. If your players don't locate a particular string of fine print, consider saving it for a future instance where the contract is dramatically reproduced for your players. Alternatively, you may choose to ignore it entirely in the interest of preserving the moment.
+Locating fine print on a physical document can be an exhilarating experience for your players. Some may become paranoid upon seeing legal jargon or infernal embellishments, while others might meticulously review each phrase contained within the document. Fine print encourages participation from the entire party, whether it's through social interaction, ability checks, or marking up a physical document. The [[/5. Mechanics/Tables/Fine Print Da Gic.md\|Fine Print]] table presents examples of fine print that may be found in an infernal contract. Remember to be cautious when incorporating fine print into a physical document. There is a thin line between the satisfying "Ah-ha!" moment of locating fine print and frustrating or even antagonizing a player who feels as if, the expectations weren't clear. If your players don't locate a particular string of fine print, consider saving it for a future instance where the contract is dramatically reproduced for your players. Alternatively, you may choose to ignore it entirely in the interest of preserving the moment.
 
-![[5. Mechanics/Tables/Fine Print Da Gic.md\|Fine Print]]
+![[/5. Mechanics/Tables/Fine Print Da Gic.md\|Fine Print]]
 
 ## Acceptance
 
@@ -179,13 +179,13 @@ No contract is complete without acceptance. Regardless of all the tantalizing of
 
 ### Sealing the Deal
 
-Not all contracts have signature lines. The drafter reserves the right to determine the method of the agreement once all is said and done, though this must be stated in the contract. For example, a succubus or incubus may seal their deals with a kiss rather than a pen and parchment. The [[5. Mechanics/Tables/Devil Clinches Da Gic.md\|Devil Clinches]] table presents a few additional options to finalize your infernal contracts with hellish flavor.
+Not all contracts have signature lines. The drafter reserves the right to determine the method of the agreement once all is said and done, though this must be stated in the contract. For example, a succubus or incubus may seal their deals with a kiss rather than a pen and parchment. The [[/5. Mechanics/Tables/Devil Clinches Da Gic.md\|Devil Clinches]] table presents a few additional options to finalize your infernal contracts with hellish flavor.
 
 #### Signing a Contract
 
 Signing a contract takes no time whatsoever. In times of dire need, the deal occurs in the blink of an eye, regardless of the amount of time spent deliberating. That said, stalling is a common occurrence for both parties when the need for a contract is less-immediate. If this is not the signee's first infernal agreement, they must choose a higher service tier than their previous contract. While this confers an additional benefit, the cost of subsequent bargains weighs on the signee's soul - if they still have one.
 
-![[5. Mechanics/Tables/Devil Clinches Da Gic.md\|Devil Clinches]]
+![[/5. Mechanics/Tables/Devil Clinches Da Gic.md\|Devil Clinches]]
 
 > [!quote]  
 > 

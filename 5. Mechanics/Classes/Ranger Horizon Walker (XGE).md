@@ -61,11 +61,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
-| 5th | [[5. Mechanics/Spells/Misty Step.md\|misty step]] |
-| 9th | [[5. Mechanics/Spells/Haste.md\|haste]] |
-| 13th | [[5. Mechanics/Spells/Banishment.md\|banishment]] |
-| 17th | [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] |
+| 3rd | [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
+| 5th | [[/5. Mechanics/Spells/Misty Step.md\|misty step]] |
+| 9th | [[/5. Mechanics/Spells/Haste.md\|haste]] |
+| 13th | [[/5. Mechanics/Spells/Banishment.md\|banishment]] |
+| 17th | [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] |
 ^horizon-walker-spells
 
 ### Detect Portal (Level 3)
@@ -80,11 +80,11 @@ See the "Planar Travel" section in chapter 2 of the Dungeon Master's Guide for e
 
 At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.
 
-As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra `dice:1d8|noform|noparens|avg` (`d8`) force damage from the attack. When you reach 11th level in this class, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) force damage from the attack. When you reach 11th level in this class, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Ethereal Step (Level 7)
 
-At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the [[5. Mechanics/Spells/Etherealness.md\|etherealness]] spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.
+At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the [[/5. Mechanics/Spells/Etherealness.md\|etherealness]] spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 

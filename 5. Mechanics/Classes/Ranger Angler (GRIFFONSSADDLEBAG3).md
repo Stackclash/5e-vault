@@ -57,11 +57,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[5. Mechanics/Spells/Entangle.md\|entangle]] (looks like a large fishing net) |
-| 5th | [[5. Mechanics/Spells/Rope Trick.md\|rope trick]] |
-| 9th | [[5. Mechanics/Spells/Water Wa(LK).md\|water walk]] |
-| 13th | [[5. Mechanics/Spells/Evards Black Tentacles.md\|evard's black tentacles]] |
-| 17th | [[5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
+| 3rd | [[/5. Mechanics/Spells/Entangle.md\|entangle]] (looks like a large fishing net) |
+| 5th | [[/5. Mechanics/Spells/Rope Trick.md\|rope trick]] |
+| 9th | [[/5. Mechanics/Spells/Water Wa(LK).md\|water walk]] |
+| 13th | [[/5. Mechanics/Spells/Evards Black Tentacles.md\|evard's black tentacles]] |
+| 17th | [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
 ^angler-spells
 
 ### Angler Weapons (Level 3)
@@ -84,7 +84,7 @@ By 7th level, you are at home on the water and can resist the push and pull of i
 
 Starting at 11th level, the force damage from Reel In increases to 1d6. Further, when you use the bonus action from that feature, any creature affected by it, even if it is not moved, can not make opportunity attacks against you for the rest of the turn.
 
-In addition, nets you throw have an escape DC equal to your ranger spell save DC. Whenever a creature fails to escape from a net that you threw or an [[5. Mechanics/Spells/Entangle.md\|entangle]] spell that you cast, that creature immediately takes 1d6 piercing damage and is moved horizontally up to 5 feet in a direction of your choice. Moving a creature in this way also moves the net its [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by, and if a creature is moved outside the area of an [[5. Mechanics/Spells/Entangle.md\|entangle]] spell you cast in this way, it is no longer affected by the spell.
+In addition, nets you throw have an escape DC equal to your ranger spell save DC. Whenever a creature fails to escape from a net that you threw or an [[/5. Mechanics/Spells/Entangle.md\|entangle]] spell that you cast, that creature immediately takes 1d6 piercing damage and is moved horizontally up to 5 feet in a direction of your choice. Moving a creature in this way also moves the net its [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by, and if a creature is moved outside the area of an [[/5. Mechanics/Spells/Entangle.md\|entangle]] spell you cast in this way, it is no longer affected by the spell.
 
 ### Master Angler (Level 15)
 

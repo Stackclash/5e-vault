@@ -15,12 +15,12 @@ tags:
 aliases:
   - Thri-kreen
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Thri Kreen.md|Thri-kreen]]
+# [[5. Mechanics/Bestiary/Humanoid/Thri Kreen.md|Thri-kreen]]
 *Source: Monster Manual p. 288*
 
 Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
 
-## Thri-Kreen Communication
+## Thri-kreen Communication
 
 Thri-kreen employ a language without words. To show emotion and reaction, a thri-kreen clacks its mandibles and waves its antennae, giving other thri-kreen a sense of what it is thinking and feeling. Other creatures find this manner of communication difficult to interpret and impossible to duplicate.
 
@@ -64,7 +64,8 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Thri-kreen"
 "cr": "1"
 "traits":
@@ -79,7 +80,7 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
   - "desc": "The thri-kreen makes two attacks: one with its bite and one with its\
       \ claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4\
       \ (1d6 + 1) piercing damage, and the target must succeed on a DC 11 Constitution\
       \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
       \ 1 minute. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
@@ -88,12 +89,12 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
       \ saving throw at the end of each of its turns, ending the effect on itself\
       \ on a success."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
       \ + 1) slashing damage."
     "name": "Claws"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/thri-kreen.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/thri-kreen.webp"
 ```
 ^statblock
 

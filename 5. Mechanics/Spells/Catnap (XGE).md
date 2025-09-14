@@ -20,15 +20,21 @@ classes:
   - Wizard
 school: Enchantment
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
 ritual: false
 time: 1 Action
 duration: 10 minutes
-components:
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: false
+material: a pinch of sand
 aliases:
   - Catnap
-material: a pinch of sand
 ---
 # Catnap
 *3rd-level, Enchantment*  
@@ -42,6 +48,6 @@ You make a calming gesture, and up to three willing creatures of your choice tha
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional willing creature for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 151*

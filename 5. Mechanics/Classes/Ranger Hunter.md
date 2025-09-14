@@ -55,7 +55,7 @@ At 3rd level, you gain one of the following features of your choice.
 
 - **Colossus Slayer**  
 
-    Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra `dice:1d8|noform|noparens|avg` (`d8`) damage if it's below its hit point maximum. You can deal this extra damage only once per turn.  
+    Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage if it's below its hit point maximum. You can deal this extra damage only once per turn.  
 
 - **Giant Killer**  
 
@@ -99,7 +99,7 @@ At 15th level, you gain one of the following features of your choice.
 
 - **Evasion**  
 
-    You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.  
+    You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a [[/5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.  
 
 - **Stand Against the Tide**  
 

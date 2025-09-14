@@ -26,17 +26,19 @@ classes:
   - Wizard
 school: Divination
 level: 3
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: Self
+somatic: true
+verbal: true
+material: a clear piece of quartz
 aliases:
   - Life Sense
-concentration: true
-material: a clear piece of quartz
 ---
 # Life Sense
 *3rd-level, Divination*  
@@ -48,6 +50,6 @@ material: a clear piece of quartz
 
 For the duration, you can sense the location of any creature that isn't a construct or an undead within 30 feet of you, regardless of impediments to your other senses. This spell doesn't sense creatures that are dead. A creature trying to hide its life force from you can make a Charisma saving throw. On a success, you can't sense the creature with this casting of the spell. If you cast the spell again, the creature must make the saving throw again to remain hidden from your senses.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 91*

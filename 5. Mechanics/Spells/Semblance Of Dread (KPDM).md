@@ -10,16 +10,22 @@ tags:
 classes:
   - Bard
 school: Illusion
-level: cantrip
+level: 0
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Self (10-foot Radius)
+somatic: true
+verbal: true
+area:
+  shape: radius
+  size: 10
 aliases:
   - Semblance of Dread
-concentration: true
 ---
 # Semblance of Dread
 *cantrip, Illusion*  
@@ -33,6 +39,6 @@ You adopt the visage of the faceless god Nyarlathotep. For the duration, any cre
 
 For the duration of the spell, you also gain vulnerability to radiant damage and have advantage on saving throws against effects that cause the [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] condition.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 340*

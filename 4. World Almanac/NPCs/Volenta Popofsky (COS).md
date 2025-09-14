@@ -54,7 +54,7 @@ image: null
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 93*
@@ -127,15 +127,16 @@ actions:
   - !!int "12"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+6"
-  - "wisdom": "+3"
+  - "dexterity": !!int "6"
+  - "wisdom": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "the languages it knew in life"
 "cr": "5"
 "traits":
@@ -147,35 +148,35 @@ actions:
   - "desc": "Volenta can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
     "name": "Spider Climb"
-  - "desc": "Volenta has the following flaws:\n\n- Forbiddance. Volenta can't\
-      \ enter a residence without an invitation from one of the occupants.  \n- Harmed\
-      \ by Running Water. Volenta takes 20 acid damage when it ends its turn in\
-      \ running water.  \n- Stake to the Heart. Volenta is destroyed if a piercing\
+  - "desc": "Volenta has the following flaws:\n\n- **Forbiddance.** Volenta can't\
+      \ enter a residence without an invitation from one of the occupants.  \n- **Harmed\
+      \ by Running Water.** Volenta takes 20 acid damage when it ends its turn in\
+      \ running water.  \n- **Stake to the Heart.** Volenta is destroyed if a piercing\
       \ weapon made of wood is driven into its heart while it is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
-      \ in its resting place.  \n- Sunlight Hypersensitivity. Volenta takes 20\
+      \ in its resting place.  \n- **Sunlight Hypersensitivity.** Volenta takes 20\
       \ radiant damage when it starts its turn in sunlight. While in sunlight, it\
       \ has disadvantage on attack rolls and ability checks  "
     "name": "Vampire Weaknesses"
 "actions":
   - "desc": "Volenta makes two attacks, only one of which can be a bite attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one willing creature,\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one willing creature,\
       \ or a creature that is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ by Volenta, [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]],\
-      \ or [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]. Hit: 6 (1d6\
+      \ or [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]. *Hit:* 6 (1d6\
       \ + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point\
       \ maximum is reduced by an amount equal to the necrotic damage taken, and Volenta\
       \ regains hit points equal to that amount. The reduction lasts until the target\
       \ finishes a long rest. The target dies if this effect reduces its hit point\
       \ maximum to 0."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 8\
       \ (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple\
       \ the target (escape DC 13)."
     "name": "Claws"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/volenta-popofsky-cos.webp"
+"image": "/4. World Almanac/NPCs/token/volenta-popofsky-cos.webp"
 ```
 ^statblock
 

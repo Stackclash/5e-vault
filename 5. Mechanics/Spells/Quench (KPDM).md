@@ -14,16 +14,29 @@ classes:
   - Ranger
 school: Transmutation
 level: 3
+damage:
+  base: 8d6
+  scaling:
+    damage: 1d6
+    level: 4
+  types:
+    - cold
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 120 feet
+somatic: true
+verbal: true
+material: a cloth soaked in water
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Quench
-material: a cloth soaked in water
 ---
 # Quench
 *3rd-level, Transmutation*  
@@ -37,8 +50,8 @@ You extinguish all nonmagical fires in a 30-foot-radius area centered on the poi
 
 Fire elementals in the area take `dice:8d6|noform|noparens|avg` (`8d6`) cold damage. A successful Constitution saving throw reduces the damage by half.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the radius of the area increases by 10 feet, and the damage against fire elementals increases by `dice:1d6|noform|noparens|avg|text(d6)`, for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the radius of the area increases by 10 feet, and the damage against fire elementals increases by `dice:1d6|noform|noparens|avg|text(1d6)`, for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 101*

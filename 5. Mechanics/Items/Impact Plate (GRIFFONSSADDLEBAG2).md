@@ -13,7 +13,7 @@ armorClass: 18
 weight: 65
 ---
 # Impact Plate
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare (requires attunement)*  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Impact-Plate.webp#right)  
 
 - **Armor Class**: 18

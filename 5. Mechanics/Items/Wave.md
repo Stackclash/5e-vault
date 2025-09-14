@@ -11,12 +11,12 @@ aliases:
   - Wave
 one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
-range: 20\60
+range: 20/60
 weight: 4
 ---
 # Wave
-*Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a creature that worships a god of the sea)*  
-![[5. Mechanics/Items/img/wave.webp#right]]  
+*Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a creature that worships a god of the sea)*  
+![[/5. Mechanics/Items/img/wave.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 piercing
@@ -29,13 +29,13 @@ Held in the dungeon of White Plume Mountain, this trident is an exquisite weapon
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. If you score a critical hit with it, the target takes extra necrotic damage equal to half its hit point maximum.
 
-The weapon also functions as a [[5. Mechanics/Items/Trident Of Fish Command.md\|trident of fish command]] and a [[5. Mechanics/Items/Weapon Of Warning.md\|weapon of warning]]. It can confer the benefit of a [[5. Mechanics/Items/Cap Of Water Breathing.md\|cap of water breathing]] while you hold it, and you can use it as a [[5. Mechanics/Items/Cube Of Force.md\|cube of force]] by choosing the effect, instead of pressing cube sides to select it.
+The weapon also functions as a [[/5. Mechanics/Items/Trident Of Fish Command.md\|trident of fish command]] and a [[/5. Mechanics/Items/Weapon Of Warning.md\|weapon of warning]]. It can confer the benefit of a [[/5. Mechanics/Items/Cap Of Water Breathing.md\|cap of water breathing]] while you hold it, and you can use it as a [[/5. Mechanics/Items/Cube Of Force.md\|cube of force]] by choosing the effect, instead of pressing cube sides to select it.
 
 ## Sentience
 
 Wave is a sentient weapon of neutral alignment, with an Intelligence of 14, a Wisdom of 10, and a Charisma of 18. It has hearing and [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 120 feet.
 
-The weapon communicates telepathically with its wielder and can speak, read, and understand Aquan. It can also speak with aquatic animals as if using a [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] spell, using telepathy to involve its wielder in the conversation.
+The weapon communicates telepathically with its wielder and can speak, read, and understand Aquan. It can also speak with aquatic animals as if using a [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] spell, using telepathy to involve its wielder in the conversation.
 
 ## Personality
 

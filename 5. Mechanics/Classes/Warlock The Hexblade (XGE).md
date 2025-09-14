@@ -51,9 +51,9 @@ aliases:
 
 ### The Hexblade (Level 1)
 
-You have made your pact with a mysterious entity from the Shadowfell—a force that manifests in sentient magic weapons carved from the stuff of shadow. The mighty sword Blackrazor is the most notable of these weapons, which have been spread across the multiverse over the ages. The shadowy force behind these weapons can offer power to warlocks who form pacts with it. Many hexblade warlocks create weapons that emulate those formed in the Shadowfell. Others forgo such arms, content to weave the dark magic of that plane into their spellcasting.
+You have made your pact with a mysterious entity from the Shadowfell—a force that manifests in sentient magic weapons carved from the stuff of shadow. The mighty sword Blackrazor is the most notable of these weapons, which have been spread across the multiverse over the ages. The shadowy force behind these weapons can offer power to warlocks who form pacts with it. Many Hexblade warlocks create weapons that emulate those formed in the Shadowfell. Others forgo such arms, content to weave the dark magic of that plane into their spellcasting.
 
-Because the Raven Queen is known to have forged the first of these weapons, many sages speculate that she and the force are one and that the weapons, along with hexblade warlocks, are tools she uses to manipulate events on the Material Plane to her inscrutable ends.
+Because the Raven Queen is known to have forged the first of these weapons, many sages speculate that she and the force are one and that the weapons, along with Hexblade warlocks, are tools she uses to manipulate events on the Material Plane to her inscrutable ends.
 
 #### Expanded Spell List
 _Source: Xanathar's Guide to Everything_
@@ -64,11 +64,11 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Shield.md\|shield]], [[5. Mechanics/Spells/Wrathful Smite.md\|wrathful smite]] |
-| 2nd | [[5. Mechanics/Spells/Blur.md\|blur]], [[5. Mechanics/Spells/Branding Smite.md\|branding smite]] |
-| 3rd | [[5. Mechanics/Spells/Blink.md\|blink]], [[5. Mechanics/Spells/Elemental Weapon.md\|elemental weapon]] |
-| 4th | [[5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]], [[5. Mechanics/Spells/Staggering Smite.md\|staggering smite]] |
-| 5th | [[5. Mechanics/Spells/Banishing Smite.md\|banishing smite]], [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
+| 1st | [[/5. Mechanics/Spells/Shield.md\|shield]], [[/5. Mechanics/Spells/Wrathful Smite.md\|wrathful smite]] |
+| 2nd | [[/5. Mechanics/Spells/Blur.md\|blur]], [[/5. Mechanics/Spells/Branding Smite.md\|branding smite]] |
+| 3rd | [[/5. Mechanics/Spells/Blink.md\|blink]], [[/5. Mechanics/Spells/Elemental Weapon.md\|elemental weapon]] |
+| 4th | [[/5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]], [[/5. Mechanics/Spells/Staggering Smite.md\|staggering smite]] |
+| 5th | [[/5. Mechanics/Spells/Banishing Smite.md\|banishing smite]], [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
 ^hexblade-expanded-spells
 
 ### Hexblade's Curse (Level 1)
@@ -89,7 +89,7 @@ The influence of your patron also allows you to mystically channel your will thr
 
 ### Accursed Specter (Level 6)
 
-Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]], the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).
+Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a [[/5. Mechanics/Bestiary/Undead/Specter.md\|specter]], the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).
 
 The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife.
 

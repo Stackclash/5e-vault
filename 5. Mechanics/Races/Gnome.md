@@ -9,9 +9,9 @@ aliases:
 ---
 # Gnome
 *Source: Player's Handbook p. 35. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
-![[5. Mechanics/Races/img/gnome.webp#right]]  
+![[/5. Mechanics/Races/img/gnome.webp#right]]  
 
-- **Ability Scores**: Intelligence +2
+- **Ability Scores**: int +2
 - **Size**: Small
 - **Speed**: 25 ft.
 

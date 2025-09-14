@@ -14,20 +14,19 @@ classes:
   - Wizard
 school: Evocation
 level: 7
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: 100 feet
+somatic: true
+verbal: true
+material: 'ruby dust worth 1,500 gp'
 aliases:
   - Forcecage
-range: 100 feet
-material: 'Ruby dust worth 1,500 gp.'
-area:
-  type: cube
-  size: 20
 ---
 # Forcecage
 *7th-level, Evocation*  
@@ -47,8 +46,8 @@ When you cast the spell, any creature that is completely inside the cage's area 
 
 A creature inside the cage can't leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma saving throw. On a success, the creature can use that magic to exit the cage. On a failure, the creature can't exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
 
-This spell can't be dispelled by [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]].
+This spell can't be dispelled by [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

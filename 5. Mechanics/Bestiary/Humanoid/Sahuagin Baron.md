@@ -15,7 +15,7 @@ tags:
 aliases:
   - Sahuagin Baron
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Sahuagin Baron.md|Sahuagin Baron]]
+# [[5. Mechanics/Bestiary/Humanoid/Sahuagin Baron.md|Sahuagin Baron]]
 *Source: Monster Manual p. 264*
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
@@ -36,7 +36,7 @@ Sahuagin are driven into a frenzy by the smell of fresh blood. As worshipers of 
 
 The sahuagin might control the oceans if not for the presence of their mortal enemies, the aquatic elves. Wars between the two races have raged for centuries across the coasts and seas of the world, disrupting maritime trade and drawing other races into the bloody conflict.
 
-So intense is sahuagin hatred for the aquatic elves that the sea devils have adapted to combat their ancient foes. A sahuagin born near enough to an aquatic elf community can enter the world as a malenti-a sahuagin that physically resembles an aquatic elf in every way. Sahuagin are prone to mutation, but whether this rare phenomenon is a result of the wars between the sahuagin and the aquatic elves-or whether it preceded or even began the conflict-none can say.
+So intense is sahuagin hatred for the aquatic elves that the sea devils have adapted to combat their ancient foes. A sahuagin born near enough to an aquatic elf community can enter the world as a malenti—a sahuagin that physically resembles an aquatic elf in every way. Sahuagin are prone to mutation, but whether this rare phenomenon is a result of the wars between the sahuagin and the aquatic elves-or whether it preceded or even began the conflict-none can say.
 
 The sahuagin put the malenti to good use as spies and assassins in aquatic elf cities and the societies of other creatures that pose a threat to sahuagin. The mere shadow of the malenti threat incites paranoia and suspicion among aquatic elves, whose resilience is weakened as the prelude to an actual sahuagin invasion.
 
@@ -52,7 +52,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 "subtype": "sahuagin"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
+"ac_class": "[[/5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
 "modifier": !!int "2"
@@ -65,14 +65,15 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
   - !!int "17"
 "speed": "30 ft., swim 50 ft."
 "saves":
-  - "dexterity": "+5"
-  - "constitution": "+6"
-  - "intelligence": "+5"
-  - "wisdom": "+4"
+  - "dexterity": !!int "5"
+  - "constitution": !!int "6"
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+7"
-"senses": "darkvision 120 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 17"
 "languages": "Sahuagin"
 "cr": "5"
 "traits":
@@ -89,19 +90,19 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
   - "desc": "The sahuagin makes three attacks: one with his bite and two with his\
       \ claws or trident."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
       \ + 4) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage."
     "name": "Claws"
-  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
       \ damage if used with two hands to make a melee attack."
     "name": "Trident"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/sahuagin-baron.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/sahuagin-baron.webp"
 ```
 ^statblock
 

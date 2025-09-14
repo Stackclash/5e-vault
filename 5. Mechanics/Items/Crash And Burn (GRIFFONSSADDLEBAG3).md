@@ -14,11 +14,11 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Crash-and-Burn.webp#right)  
 
 
-These blocky metal gloves have a small magical furnace burning inside them. While wearing this pair of magic gloves, you gain a +1 bonus to the attack and damage rolls of any unarmed strikes made with them, which deal `dice:1d4|noform|noparens|avg` (`d4`) bludgeoning damage on a hit (unless your unarmed strike damage is already higher). The gloves have 4 charges for the following properties and regain all expended charges daily at dawn.
+These blocky metal gloves have a small magical furnace burning inside them. While wearing this pair of magic gloves, you gain a +1 bonus to the attack and damage rolls of any unarmed strikes made with them, which deal `dice:1d4|noform|noparens|avg` (`1d4`) bludgeoning damage on a hit (unless your unarmed strike damage is already higher). The gloves have 4 charges for the following properties and regain all expended charges daily at dawn.
 
 ## Burn
 
-While wearing the gloves, you can use an action to expend 1 of the gloves' charges to cast the [[5. Mechanics/Spells/Burning Hands.md\|burning hands]] spell from them (save DC 15). When you do, you can also move up to 10 feet in the opposite direction in which the spell was cast. This movement doesn't provoke opportunity attacks. If you use this property immediately after using Crash, the spell's fire damage increases by `dice:1d6|noform|noparens|avg` (`d6`).
+While wearing the gloves, you can use an action to expend 1 of the gloves' charges to cast the [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]] spell from them (save DC 15). When you do, you can also move up to 10 feet in the opposite direction in which the spell was cast. This movement doesn't provoke opportunity attacks. If you use this property immediately after using Crash, the spell's fire damage increases by `dice:1d6|noform|noparens|avg` (`1d6`).
 
 ## Crash
 

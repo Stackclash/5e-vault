@@ -13,7 +13,7 @@ tags:
 aliases:
   - Wildfire Spirit
 ---
-# [[5. Mechanics\Bestiary\Elemental\Wildfire Spirit (TCE).md|Wildfire Spirit]]
+# [[5. Mechanics/Bestiary/Elemental/Wildfire Spirit (TCE).md|Wildfire Spirit]]
 *Source: Tasha's Cauldron of Everything p. 40*
 
 ```statblock
@@ -36,11 +36,12 @@ aliases:
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "understands the languages you speak"
 "actions":
-  - "desc": "Ranged Weapon Attack: your spell attack modifier to hit, range 60 ft.,\
-      \ one target you can see. Hit: 1d6 + PB fire damage."
+  - "desc": "*Ranged Weapon Attack:* your spell attack modifier to hit, range 60 ft.,\
+      \ one target you can see. *Hit:* 1d6 + PB fire damage."
     "name": "Flame Seed"
   - "desc": "The spirit and each willing creature of your choice within 5 feet of\
       \ it teleport up to 15 feet to unoccupied spaces you can see. Then each creature\
@@ -49,7 +50,7 @@ aliases:
     "name": "Fiery Teleportation"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Elemental/token/wildfire-spirit-tce.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/wildfire-spirit-tce.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ armorClass: 14 + Dex modifier (max of +2)
 weight: 45
 ---
 # Shadowscale Shroud
-*Medium armor ([[5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, legendary (requires attunement)*  
+*Medium armor ([[/5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Shadowscale-Shroud.webp#right)  
 
 - **Armor Class**: 14 + Dex modifier (max of +2)

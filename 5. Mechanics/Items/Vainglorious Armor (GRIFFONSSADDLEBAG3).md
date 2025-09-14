@@ -13,7 +13,7 @@ armorClass: 14
 weight: 40
 ---
 # Vainglorious Armor
-*Heavy armor ([[5. Mechanics/Items/Ring Mail.md\|ring mail]]), cursed item, major, rare (requires attunement)*  
+*Heavy armor ([[/5. Mechanics/Items/Ring Mail.md\|ring mail]]), cursed item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Vainglorious-Armor.webp#right)  
 
 - **Armor Class**: 14

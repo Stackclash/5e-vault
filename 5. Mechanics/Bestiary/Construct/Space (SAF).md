@@ -13,12 +13,12 @@ tags:
 aliases:
   - Space
 ---
-# [[5. Mechanics\Bestiary\Construct\Space (SAF).md|Space]]
+# [[5. Mechanics/Bestiary/Construct/Space (SAF).md|Space]]
 *Source: Strongholds and Followers p. 227*
 
 The Inexorable limitations of Space forbid anyone from moving from point A to point Z without passing through the rest of the alphabet. Certainly nothing as vulgar as teleportation is allowed on Axiom.
 
-"The fundamental theorem forbids," is a common refrain whenever Space prevents someone from moving in a manner contrary to the strict laws of motion. A creature under the effect of a [[5. Mechanics/Spells/Haste.md|haste]] spell, for instance, gains all the benefits of haste except for the extra movement. They may attack, hide, or use an object, but cannot take a second movement action and dash or disengage.
+"The fundamental theorem forbids," is a common refrain whenever Space prevents someone from moving in a manner contrary to the strict laws of motion. A creature under the effect of a [[/5. Mechanics/Spells/Haste.md|haste]] spell, for instance, gains all the benefits of haste except for the extra movement. They may attack, hide, or use an object, but cannot take a second movement action and dash or disengage.
 
 Space allows a second attack, or a second use of an item, because those are in the purview of Time. And Time may do what is necessary to enforce its Law.
 
@@ -47,7 +47,8 @@ Space is the light infantry of the Inexorables, and pretty easy to use in combat
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 60 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
+  \ 16"
 "languages": "all those of the creature who summoned it"
 "cr": "5"
 "traits":
@@ -61,7 +62,7 @@ Space is the light infantry of the Inexorables, and pretty easy to use in combat
 "actions":
   - "desc": "Space makes three slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d8 + 3) bludgeoning damage."
     "name": "Slam"
 "source":

@@ -15,7 +15,7 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 
-While you're attuned to this item, you can cast the [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] spell at will.
+While you're attuned to this item, you can cast the [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] spell at will.
 
 ## Curse
 
@@ -25,8 +25,8 @@ You can see normally through the eye of Dendallen while it's in your socket. In 
 
 ## Dendallen Familiar
 
-The eye also doubles as a gruesome familiar. As an action, you can command the eye to crawl out of your eye socket and move independently of you. Use the abilities described in the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell when commanding the eye of Dendallen. The eye is undead, has 5 hit points, an AC of 12, a walking and climbing speed of 20 feet, does not require air to breathe, has darkvision out to a range of 60 feet, and has a +6 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks. If the eye is slain or you dismiss it, it reappears inside your open eye socket with a sickly sound. The eyeball appears pitch black if it's slain and loses this feature as well as its benefits to your vision until the following dusk.
+The eye also doubles as a gruesome familiar. As an action, you can command the eye to crawl out of your eye socket and move independently of you. Use the abilities described in the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell when commanding the eye of Dendallen. The eye is undead, has 5 hit points, an AC of 12, a walking and climbing speed of 20 feet, does not require air to breathe, has darkvision out to a range of 60 feet, and has a +6 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks. If the eye is slain or you dismiss it, it reappears inside your open eye socket with a sickly sound. The eyeball appears pitch black if it's slain and loses this feature as well as its benefits to your vision until the following dusk.
 
-Unattuning to the eye or targeting it with the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell causes it to pull itself out of the socket and try to escape. Slaying the eye while it is unattuned to a creature destroys the item.
+Unattuning to the eye or targeting it with the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell causes it to pull itself out of the socket and try to escape. Slaying the eye while it is unattuned to a creature destroys the item.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 60*

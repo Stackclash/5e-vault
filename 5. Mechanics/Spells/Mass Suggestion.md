@@ -16,19 +16,25 @@ classes:
   - Wizard
 school: Enchantment
 level: 6
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: null
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 24 hours
-components:
-  - V
-  - M
+range: 60 feet
+somatic: false
+verbal: true
+material: a snake's tongue and either a bit of honeycomb or a drop of sweet oil
 aliases:
   - Mass Suggestion
-range: 60 feet
-material: A snake's tongue and either a bit of honeycomb or a drop of sweet oil.
-save:
-  type: WIS
-  success: none
 ---
 # Mass Suggestion
 *6th-level, Enchantment*  
@@ -48,6 +54,6 @@ If you or any of your companions damage a creature affected by this spell, the s
 
 **At Higher Levels.** When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

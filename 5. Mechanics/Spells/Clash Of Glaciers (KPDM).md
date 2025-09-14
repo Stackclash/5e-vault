@@ -20,16 +20,30 @@ classes:
   - Wizard
 school: Evocation
 level: 5
+damage:
+  base: 5d6
+  scaling:
+    damage: 1d6
+    level: 6
+  types:
+    - bludgeoning
+    - cold
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self (100-foot Line)
+somatic: true
+verbal: true
+material: a piece of cracked glass
+area:
+  shape: line
+  size: 100
 aliases:
   - Clash of Glaciers
-material: a piece of cracked glass
 ---
 # Clash of Glaciers
 *5th-level, Evocation*  
@@ -41,8 +55,8 @@ material: a piece of cracked glass
 
 You conjure up icy boulders that crush creatures in a line 100 feet long. Each creature in the area takes `dice:5d6|noform|noparens|avg` (`5d6`) bludgeoning damage plus `dice:5d6|noform|noparens|avg` (`5d6`) cold damage, or half the damage with a successful Dexterity saving throw.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 5th. You decide whether each extra die deals bludgeoning or cold damage.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 5th. You decide whether each extra die deals bludgeoning or cold damage.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Cleric (Winter Domain)](compendium/lists/list-spells-classes-winter-domain-kpdm.md "subclass=KPDM")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Winter Domain)](/compendium/lists/list-spells-classes-winter-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 269*

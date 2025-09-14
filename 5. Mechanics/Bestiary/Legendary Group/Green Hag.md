@@ -9,7 +9,7 @@ aliases:
 ---
 # Green Hag
 
-## Lair actions
+## Lair Actions
 _Source: Monster Manual_
 
 The following lair actions are options for grandmothers and powerful aunties. Grandmothers usually have three to five lair actions, aunties usually only one (if they have any at all). Unless otherwise noted, any lair action that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability.
@@ -23,7 +23,7 @@ A powerful green hag might have the following additional lair action:
 
 - The hag creates an illusory duplicate of herself, which appears in its own space. As long as she can see her duplicate, the hag can move it a distance equal to her walking speed as well as make the illusion speak on her turn (no action required). The illusion has the same statistics as the hag but can't take actions or reactions. It can interact with its environment and even pick up and hold real objects. The illusion seems real in every way but disappears if it takes any amount of damage. Otherwise, it lasts until the hag dismisses it (no action required) or can no longer see it. If the hag uses this lair action to create a new duplicate, the previous one vanishes, dropping any real objects in its possession.  
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual_
 
 Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice:2d10|noform|noparens|avg` (`2d10`) days to fade away.
@@ -38,4 +38,4 @@ A powerful green hag creates one or more of the following additional regional ef
 
 - Illusory duplicates of the hag appear in random places at random times (but never more than one in any given location). An illusory duplicate has no substance, but it looks, sounds, and moves like the hag. The hag can sense when one or more creatures are within 60 feet of her duplicate and can interact with them as if she were present and standing in the duplicate's space. If the illusory duplicate takes any damage, it disappears.  
 - The region takes twice as long as normal to traverse, since the plants grow thick and twisted, and the swamps are thick with reeking mud.  
-- Trees transform into [[5. Mechanics/Bestiary/Plant/Awakened Tree.md|awakened trees]] and attack when hostile intruders are near.
+- Trees transform into [[/5. Mechanics/Bestiary/Plant/Awakened Tree.md|awakened trees]] and attack when hostile intruders are near.

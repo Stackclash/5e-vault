@@ -22,13 +22,12 @@ level: 8
 ritual: true
 time: 1 hour
 duration: 1 year
-components:
-  - V
-  - S
-  - M
+range: 1 miles
+somatic: true
+verbal: true
+material: 'a silver acorn worth 500 gp, which is consumed in the casting'
 aliases:
   - Bloom
-material: 'a silver acorn worth 500 gp, which is consumed in the casting'
 ---
 # Bloom
 *8th-level, Conjuration (ritual)*  
@@ -50,7 +49,7 @@ Choose one of the following effects, which appears and grows immediately:
 - A grassland with wildflowers and fodder for grazing.  
 - An orchard of fruit trees of your choice, growing in orderly rows and ready for harvest.  
 
-Living creatures that take a short rest within the area of a *bloom* spell receive the maximum hit points for Hit Dice expended. *Bloom* counters the effects of a [[5. Mechanics/Spells/Desolation (KPDM).md\|desolation]] spell.
+Living creatures that take a short rest within the area of a *bloom* spell receive the maximum hit points for Hit Dice expended. *Bloom* counters the effects of a [[/5. Mechanics/Spells/Desolation (KPDM).md\|desolation]] spell.
 
 ## Ritual Focus
 
@@ -58,6 +57,6 @@ If you expend your ritual focus, the duration becomes permanent.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 211*

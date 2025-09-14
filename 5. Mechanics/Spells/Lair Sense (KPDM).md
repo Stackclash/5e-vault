@@ -19,16 +19,24 @@ classes:
   - Wizard
 school: Divination
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
 ritual: true
 time: 1 minute
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
+range: 120 feet
+somatic: true
+verbal: true
+material: treasure worth at least 500 gp
+area:
+  shape: cube
+  size: 100
 aliases:
   - Lair Sense
-material: treasure worth at least 500 gp
 ---
 # Lair Sense
 *2nd-level, Divination (ritual)*  
@@ -46,6 +54,6 @@ This awareness is enough to wake you from sleep, and you receive the knowledge a
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, add 50 feet to the maximum dimensions of the cube and add 12 hours to the spell's duration for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Dragon Domain)](compendium/lists/list-spells-classes-dragon-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Dragon Domain)](/compendium/lists/list-spells-classes-dragon-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 201*

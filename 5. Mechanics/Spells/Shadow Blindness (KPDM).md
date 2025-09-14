@@ -19,13 +19,13 @@ classes:
   - Warlock
   - Wizard
 school: Illusion
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Shadow Blindness
 ---
@@ -39,6 +39,6 @@ aliases:
 
 You make a melee spell attack against a creature you touch that has [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] as an innate ability; on a hit, the target's [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] is negated until the spell ends. This spell has no effect against [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] that derives from a spell or a magic item. The target retains all of its other senses.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 250*

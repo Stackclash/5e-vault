@@ -15,7 +15,7 @@ weight: 4
 ---
 # Staff of Fire
 *Staff, weapon, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
-![[5. Mechanics/Items/img/staff-of-fire.webp#right]]  
+![[/5. Mechanics/Items/img/staff-of-fire.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
@@ -25,7 +25,7 @@ weight: 4
 
 You have resistance to fire damage while you hold this staff.
 
-The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: [[5. Mechanics/Spells/Burning Hands.md\|burning hands]] (1 charge), [[5. Mechanics/Spells/Fireball.md\|fireball]] (3 charges), or [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] (4 charges).
+The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]] (1 charge), [[/5. Mechanics/Spells/Fireball.md\|fireball]] (3 charges), or [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] (4 charges).
 
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff blackens, crumbles into cinders, and is destroyed.
 

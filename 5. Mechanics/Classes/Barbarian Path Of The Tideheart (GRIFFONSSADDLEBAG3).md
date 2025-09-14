@@ -65,7 +65,7 @@ You also gain a swimming speed equal to your walking speed, and if you are moved
 
 At 10th level, you can foster calm like a still pool. You have advantage on Wisdom saving throws.
 
-In addition, you can use an action to cast the [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell on a creature that you are touching, without expending a spell slot. The save DC for this spell is equal to 8 + your proficiency bonus + your Constitution modifier. This version of the spell does not require concentration and can be cast even while raging; if you use your action to cast it, you do not need to take damage or make an attack in order to maintain your rage for the duration of the spell. You can use this feature 4 times, and you regain all expended uses of it when you finish a long rest.
+In addition, you can use an action to cast the [[/5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell on a creature that you are touching, without expending a spell slot. The save DC for this spell is equal to 8 + your proficiency bonus + your Constitution modifier. This version of the spell does not require concentration and can be cast even while raging; if you use your action to cast it, you do not need to take damage or make an attack in order to maintain your rage for the duration of the spell. You can use this feature 4 times, and you regain all expended uses of it when you finish a long rest.
 
 ### Torrential Flow (Level 14)
 

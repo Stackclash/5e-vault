@@ -13,7 +13,7 @@ tags:
 aliases:
   - Amethyst Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Amethyst Wyrmling (SAF).md|Amethyst Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Amethyst Wyrmling (SAF).md|Amethyst Wyrmling]]
 *Source: Strongholds and Followers p. 223*
 
 The renegades of the jeweled dragons, the amethyst dragons seek new knowledge and so manipulate mortals to do dangerous, even deadly things in order to push the boundary of the known.
@@ -43,28 +43,30 @@ When encountered, they are often conciliatory, deferent. They want to put you at
   - !!int "13"
 "speed": "30 ft., fly 60 ft. (hover)"
 "saves":
-  - "dexterity": "+4"
-  - "intelligence": "+4"
-  - "wisdom": "+3"
-  - "charisma": "+3"
+  - "dexterity": !!int "4"
+  - "intelligence": !!int "4"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
 "damage_vulnerabilities": "psychic"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 15"
 "languages": "Common, Draconic"
 "cr": "3"
 "traits":
-  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
-      \ Charges: 8 • Recharge: d4 • Fracture: 7"
+  - "desc": "**[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].**\
+      \ **Charges:** 8 **• Recharge:** 1d4 **• Fracture:** 7"
     "name": ""
   - "desc": "Each time the dragon takes damage, all creatures within 30 feet must\
-      \ succeed on a DC 12 Intelligence saving throw or else take 3 (d6) psychic damage."
+      \ succeed on a DC 12 Intelligence saving throw or else take 3 (1d6) psychic\
+      \ damage."
     "name": "Feedback Aura"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
       \ + 2) piercing damage."
     "name": "Bite"
 "source":

@@ -16,7 +16,7 @@ tags:
 aliases:
   - Stone Giant Dreamwalker
 ---
-# [[5. Mechanics\Bestiary\Giant\Stone Giant Dreamwalker (MPMM).md|Stone Giant Dreamwalker]]
+# [[5. Mechanics/Bestiary/Giant/Stone Giant Dreamwalker (MPMM).md|Stone Giant Dreamwalker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150*
 
 The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
@@ -46,16 +46,17 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
   - !!int "12"
 "speed": "40 ft."
 "saves":
-  - "dexterity": "+6"
-  - "constitution": "+9"
-  - "wisdom": "+3"
+  - "dexterity": !!int "6"
+  - "constitution": !!int "9"
+  - "wisdom": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+14"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Common, Giant"
 "cr": "10"
 "traits":
@@ -70,10 +71,10 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 "actions":
   - "desc": "The giant makes two Greatclub or Rock attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 24\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:* 24\
       \ (4d8 + 6) bludgeoning damage."
     "name": "Greatclub"
-  - "desc": "Ranged Weapon Attack: +10 to hit, range 60/240 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +10 to hit, range 60/240 ft., one target. *Hit:*\
       \ 22 (3d10 + 6) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 17 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Rock"
@@ -81,7 +82,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
       \ that is [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by it. The target\
       \ must make a DC 17 Constitution saving throw. On a failed save, the target\
       \ becomes [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], and the giant\
-      \ can adhere the target to its stony body. [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ can adhere the target to its stony body. [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spells and other magic that can undo petrification have no effect on a [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
       \ creature adhered to the giant unless the giant is dead, in which case the\
       \ magic works normally, freeing the [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
@@ -91,7 +92,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Giant/token/stone-giant-dreamwalker-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Giant/token/stone-giant-dreamwalker-mpmm.webp"
 ```
 ^statblock
 

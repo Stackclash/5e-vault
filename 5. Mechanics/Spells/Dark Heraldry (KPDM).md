@@ -14,14 +14,25 @@ classes:
   - Warlock
 school: Necromancy
 level: 3
+damage:
+  base: 5d8
+  scaling:
+    damage: null
+    level: 4
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: false
+verbal: true
 aliases:
   - Dark Heraldry
-concentration: true
 ---
 # Dark Heraldry
 *3rd-level, Necromancy*  
@@ -37,6 +48,6 @@ A creature [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] in this 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 57*

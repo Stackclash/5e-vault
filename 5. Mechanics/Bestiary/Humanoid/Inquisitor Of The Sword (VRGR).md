@@ -13,7 +13,7 @@ tags:
 aliases:
   - Inquisitor of the Sword
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Inquisitor Of The Sword (VRGR).md|Inquisitor of the Sword]]
+# [[5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Sword (VRGR).md|Inquisitor of the Sword]]
 *Source: Van Richten's Guide to Ravenloft p. 249*
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
@@ -30,7 +30,7 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 "type": "humanoid"
 "alignment": "Unaligned"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
+"ac_class": "[[/5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
 "modifier": !!int "2"
@@ -43,9 +43,9 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
   - !!int "16"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+5"
-  - "wisdom": "+7"
-  - "charisma": "+6"
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+5"
@@ -56,7 +56,8 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+7"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "truesight 30 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 30 ft., passive Perception\
+  \ 17"
 "languages": "any two languages, telepathy 120 ft."
 "cr": "8"
 "traits":
@@ -69,16 +70,16 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
       \ or misses with an attack, the inquisitor can teleport up to 30 feet to an\
       \ unoccupied space it can see."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage, or 9 (1d10 + 4) if used with two hands, plus 18 (4d8)\
       \ force damage."
     "name": "Silver Longsword"
   - "desc": "The inquisitor casts one of the following spells, requiring no components\
-      \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\nAt will:\
-      \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Fly.md|fly]],\
-      \ [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]"
+      \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\n**At will:**\
+      \ [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Sending.md|sending]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Dimension Door.md|dimension door]], [[/5. Mechanics/Spells/Fly.md|fly]],\
+      \ [[/5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]"
     "name": "Innate Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The inquisitor teleports up to 60 feet to an unoccupied space it can\
@@ -86,7 +87,7 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
     "name": "Blink Step"
 "source":
   - "VRGR"
-"image": "5. Mechanics/Bestiary/Humanoid/token/inquisitor-of-the-sword-vrgr.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/inquisitor-of-the-sword-vrgr.webp"
 ```
 ^statblock
 

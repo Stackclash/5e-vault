@@ -10,7 +10,7 @@ aliases:
 ---
 # Dread Helm
 *Wondrous item, minor, common*  
-![[5. Mechanics/Items/img/dread-helm.webp#right]]  
+![[/5. Mechanics/Items/img/dread-helm.webp#right]]  
 
 
 This fearsome steel helm makes your eyes glow red while you wear it.

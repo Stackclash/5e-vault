@@ -12,7 +12,7 @@ weight: 0.05
 ---
 # Arrow of Slaying
 *Ammunition, minor, very rare*  
-![[5. Mechanics/Items/img/arrow-of-slaying.webp#right]]  
+![[/5. Mechanics/Items/img/arrow-of-slaying.webp#right]]  
 
 - **Weight**: 0.05 lbs.
 

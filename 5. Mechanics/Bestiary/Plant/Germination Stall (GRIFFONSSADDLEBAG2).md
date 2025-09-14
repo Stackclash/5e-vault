@@ -13,7 +13,7 @@ tags:
 aliases:
   - Germination Stall
 ---
-# [[5. Mechanics\Bestiary\Plant\Germination Stall (GRIFFONSSADDLEBAG2).md|Germination Stall]]
+# [[5. Mechanics/Bestiary/Plant/Germination Stall (GRIFFONSSADDLEBAG2).md|Germination Stall]]
 *Source: The Griffon's Saddlebag, Book 2 p. 342*
 
 It's not entirely clear how seed coin pollinators manage to coalesce and combine into a germination stall, as it's never been witnessed directly. What has been recorded is that by all indications, a germination stall looks like almost every other merchant stall around it. They often have their own quirks, based on the appearance of their staff members, which are their pollinators. They rarely make any sales, as their inventory seems deliberately unappealing. Instead, the pollinators channel energy from the stall to produce seed coins which can be slipped into pockets, left on the street, or offered as alms to the poor.
@@ -37,9 +37,9 @@ It's not entirely clear how seed coin pollinators manage to coalesce and combine
   - !!int "18"
 "speed": "0 ft."
 "saves":
-  - "constitution": "+6"
-  - "wisdom": "+3"
-  - "charisma": "+7"
+  - "constitution": !!int "6"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+10"
@@ -47,18 +47,19 @@ It's not entirely clear how seed coin pollinators manage to coalesce and combine
     "desc": "+10"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "blindsight 150 ft. (blind beyond this radius), passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 150 ft. (blind beyond\
+  \ this radius), passive Perception 10"
 "languages": "the languages its staff knew in life"
 "cr": "5"
 "traits":
   - "desc": "The stall's innate spellcasting ability is Charisma (spell save DC 15).\
       \ The stall can innately cast the following spells, requiring no components:\n\
-      \nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n3/day each:\
-      \ [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]], [[5. Mechanics/Spells/Suggestion.md|suggestion]],\
-      \ [[5. Mechanics/Spells/Unseen Servant.md|unseen servant]]\n\n1/day each: [[5. Mechanics/Spells/Create Food And Water.md|create\
-      \ food and water]], [[5. Mechanics/Spells/Creation.md|creation]],\
-      \ [[5. Mechanics/Spells/Geas.md|geas]], [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]"
+      \n**At will:** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n**3/day each:**\
+      \ [[/5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]], [[/5. Mechanics/Spells/Suggestion.md|suggestion]],\
+      \ [[/5. Mechanics/Spells/Unseen Servant.md|unseen servant]]\n\n**1/day each:**\
+      \ [[/5. Mechanics/Spells/Create Food And Water.md|create food and water]], [[/5. Mechanics/Spells/Creation.md|creation]],\
+      \ [[/5. Mechanics/Spells/Geas.md|geas]], [[/5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]"
     "name": "Innate Spellcasting"
   - "desc": "Whenever a humanoid ends its turn within 60 feet of the stall, it must\
       \ make a DC 15 Wisdom saving throw. On a failed save, the creature has no hint\
@@ -71,7 +72,7 @@ It's not entirely clear how seed coin pollinators manage to coalesce and combine
       \ of existence than the target, or ends the effect on the creature as a bonus\
       \ action."
     "name": "Alluring Affluence"
-  - "desc": "The stall comprises a staff of 5 (2d4) [[5. Mechanics/Bestiary/Plant/Seed Coin Pollinator (GRIFFONSSADDLEBAG2).md|seed coin pollinators]].\
+  - "desc": "The stall comprises a staff of 5 (2d4) [[/5. Mechanics/Bestiary/Plant/Seed Coin Pollinator (GRIFFONSSADDLEBAG2).md|seed coin pollinators]].\
       \ This staff collectively shares the stall's Innate Spellcasting and Magic Resistance\
       \ traits, they can't willingly move more than 150 feet away from the stall,\
       \ and they seek to defend the stall at all costs, including to their own peril.\
@@ -81,7 +82,7 @@ It's not entirely clear how seed coin pollinators manage to coalesce and combine
   - "desc": "The stall is indistinguishable from a normal merchant stall. However,\
       \ a creature that has [[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] sees\
       \ a deep red aura radiating from the stall, and a creature within 30 feet of\
-      \ it that is under the effect of a [[5. Mechanics/Spells/Detect Poison And Disease.md|detect poison and disease]]\
+      \ it that is under the effect of a [[/5. Mechanics/Spells/Detect Poison And Disease.md|detect poison and disease]]\
       \ spell senses the insidious nature of the stall and knows it is a plant creature."
     "name": "False Appearance"
   - "desc": "The stall has advantage on saving throws against spells and other magical\
@@ -107,7 +108,7 @@ It's not entirely clear how seed coin pollinators manage to coalesce and combine
     "name": "Enthralling Vines"
   - "desc": "The stall attempts to magically compel one creature [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
       \ by it that is within 5 feet of the stall or a member of its staff to swallow\
-      \ a [[5. Mechanics/Bestiary/Plant/Seed Coin (GRIFFONSSADDLEBAG2).md|seed coin]].\
+      \ a [[/5. Mechanics/Bestiary/Plant/Seed Coin (GRIFFONSSADDLEBAG2).md|seed coin]].\
       \ The target must make a DC 10 Wisdom saving throw. On a failed save, the target\
       \ swallows the coin and is subjected to the seed coin's Infestation. When subjected\
       \ to the effect in this way, the diseased creature is killed in a number of\

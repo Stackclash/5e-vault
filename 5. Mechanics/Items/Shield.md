@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]])*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]])*  
 
 - **Armor Class**: 2
 - **Cost**: 10 gp

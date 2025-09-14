@@ -9,23 +9,23 @@ aliases:
 # Chapter 4: The Ruined Colossus
 *Source: Vecna: Eve of Ruin* 
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/061-04-001-the-colossus-warforged.webp#center\|"The next piece of the Rod of Seven Parts is inside an enormous war machine"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/061-04-001-the-colossus-warforged.webp#center\|"The next piece of the Rod of Seven Parts is inside an enormous war machine"]]
 
-Searching for the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|third piece]] of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] takes the characters to the continent of Khorvaire on Eberron. The scars of the Last War are still fresh on Khorvaire. Nowhere is this truer than in the Mournland, a once-glorious nation destroyed during the apocalyptic Day of Mourning. Here, the characters must search for the next piece of the rod.
+Searching for the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|third piece]] of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] takes the characters to the continent of Khorvaire on Eberron. The scars of the Last War are still fresh on Khorvaire. Nowhere is this truer than in the Mournland, a once-glorious nation destroyed during the apocalyptic Day of Mourning. Here, the characters must search for the next piece of the rod.
 
 Curtains of thick, gray mist blanket the Mournland. Sentient constructs, desperate adventurers, and ravenous mutated monsters roam the blasted landscape. The characters must navigate this wasteland in search of the rod piece, ultimately discovering that the piece is located inside the remains of an enormous, highly advanced, bipedal war machine called a colossus.
 
 ## Running This Chapter
 
-This chapter begins after the characters retrieve the second piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. The characters can knit the pieces together or keep them separate, as described in the introduction. Regardless, when a character holds the second piece of the rod, they intuitively know that the next piece is located somewhere on the continent of Khorvaire on the world of Eberron.
+This chapter begins after the characters retrieve the second piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. The characters can knit the pieces together or keep them separate, as described in the introduction. Regardless, when a character holds the second piece of the rod, they intuitively know that the next piece is located somewhere on the continent of Khorvaire on the world of Eberron.
 
 Specifically, the piece lies in the Mournland, on the slopes of Mount Ironrot. If the characters ask the Wizards Three in the Sigil sanctum why it's unclear exactly where the third piece is located, Alustriel shares the information in the "Exploring Mount Ironrot" section later in this chapter.
 
-This chapter first describes Mount Ironrot, including locations and encounters awaiting the characters. The chapter then details the ruins of a colossus called Landro, whose dangers the characters must survive to claim the third piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]].
+This chapter first describes Mount Ironrot, including locations and encounters awaiting the characters. The chapter then details the ruins of a colossus called Landro, whose dangers the characters must survive to claim the third piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]].
 
 ### Character Advancement
 
-The characters should be 13th level when this chapter begins. The characters gain a level after they retrieve the third piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] from the graymatter engine of Landro.
+The characters should be 13th level when this chapter begins. The characters gain a level after they retrieve the third piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] from the graymatter engine of Landro.
 
 ### Power of Secrets
 
@@ -36,7 +36,7 @@ The characters can learn two secrets in this chapter that are applicable to the 
 
 ### Third Rod Piece
 
-The third piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is found in area L28 within Landro. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
+The third piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is found in area L28 within Landro. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
 
 ## Doorway to Eberron
 
@@ -48,7 +48,7 @@ Before seeking the third rod piece, the characters can rest and prepare in the s
 
 ## An Important Detail
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/062-04-002-mount-ironrot-region.webp#center\|"The Mount Ironrot region is a wasteland scattered with broken war machines"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/062-04-002-mount-ironrot-region.webp#center\|"The Mount Ironrot region is a wasteland scattered with broken war machines"]]
 
 Before the characters leave Sigil for Mount Ironrot, the Wizards Three share their concerns that this rod piece will be particularly challenging to find since the Mournland is difficult to navigate. The wizards suspect that the rod piece is hidden in one of the dozens of ruined colossi scattered across Mount Ironrot (as shown on map 4.1).
 
@@ -78,7 +78,7 @@ Mount Ironrot is affected by these environmental phenomena:
 
 - **Impeded Navigation.** In outdoor areas, creatures have disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks made to navigate.  
 - **Lightly Obscured.** Mist perpetually shrouds outdoor areas, rendering them "lightly obscured".  
-- **Muddled Magic.** Creatures and objects within 1 mile of Mount Ironrot can't be perceived through magical scrying sensors. Spells or magical effects that would reveal a creature's or object's location fail while that creature or object is within 1 mile of the mountain. The third piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] points only to Mount Ironrot without precision.  
+- **Muddled Magic.** Creatures and objects within 1 mile of Mount Ironrot can't be perceived through magical scrying sensors. Spells or magical effects that would reveal a creature's or object's location fail while that creature or object is within 1 mile of the mountain. The third piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] points only to Mount Ironrot without precision.  
 
 #### Traveling
 
@@ -88,15 +88,15 @@ Whenever the characters travel from one location to another, roll `dice:2d4|nofo
 
 #### Dangers
 
-There is no safe food to forage in the Mournland, and monsters are everywhere. If the party lingers too long between locations, introduce random encounters with creatures such as [[5. Mechanics/Bestiary/Monstrosity/Blazebear (VEOR).md\|blazebears]] (see appendix A) or blade scouting parties (see the "Blade Scouting Party" section later in this chapter).
+There is no safe food to forage in the Mournland, and monsters are everywhere. If the party lingers too long between locations, introduce random encounters with creatures such as [[/5. Mechanics/Bestiary/Monstrosity/Blazebear (VEOR).md\|blazebears]] (see appendix A) or blade scouting parties (see the "Blade Scouting Party" section later in this chapter).
 
 ### Mount Ironrot Locations
 
 The following locations are keyed to map 4.1.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/063-map-4-01-mount-ironrot-outskirts.webp#gallery\|Map 4.1: Mount Ironrot Outskirts]]
-> ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/064-map-4-01-mount-ironrot-outskirts-player.webp#gallery\|Player Version]]
+> ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/063-map-4-01-mount-ironrot-outskirts.webp#gallery\|Map 4.1: Mount Ironrot Outskirts]]
+> ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/064-map-4-01-mount-ironrot-outskirts-player.webp#gallery\|Player Version]]
 
 #### Oval Portal
 
@@ -105,9 +105,9 @@ The following locations are keyed to map 4.1.
 > A twenty-foot-tall, vertical, black oval made of glass sits on the muck atop a low hill. The oval reflects the surrounding mist-shrouded landscape with supernatural clarity. The oval looks like a giant mirror, but it functions as a door between here and Sigil.
 ^1aa
 
-A [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell reveals an aura of conjuration magic emanating from the oval. This oval served as a conduit for powerful teleportation magic in Cyre, but the Day of Mourning rendered its magic unstable. The oval serves as a portal to Sigil while the characters carry the second piece of the rod.
+A [[/5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell reveals an aura of conjuration magic emanating from the oval. This oval served as a conduit for powerful teleportation magic in Cyre, but the Day of Mourning rendered its magic unstable. The oval serves as a portal to Sigil while the characters carry the second piece of the rod.
 
-If a creature tries to teleport to the Mournland using a [[5. Mechanics/Spells/Teleport.md\|Teleport]] spell, a [[5. Mechanics/Spells/Plane Shift.md\|Plane Shift]] spell, or similar magic, the spell's caster must make a DC 15 Constitution saving throw. On a failed save, the spell fails and has no effect. On a successful save, the spell works, but teleported creatures arrive in an empty space near this oval, regardless of their intended destination in the Mournland.
+If a creature tries to teleport to the Mournland using a [[/5. Mechanics/Spells/Teleport.md\|Teleport]] spell, a [[/5. Mechanics/Spells/Plane Shift.md\|Plane Shift]] spell, or similar magic, the spell's caster must make a DC 15 Constitution saving throw. On a failed save, the spell fails and has no effect. On a successful save, the spell works, but teleported creatures arrive in an empty space near this oval, regardless of their intended destination in the Mournland.
 
 A creature that studies the reflection of the Mournland in the oval clearly sees the ruined colossi, the veterans' camp, and Ialos (see map 4.1 and the sections below). Otherwise, the view from this hill is limited, offering a glimpse of only the nearest ruined colossus.
 
@@ -122,7 +122,7 @@ Each time the characters investigate one of the colossi shown on map 4.1, read o
 
 These colossi are smaller than Landro and are easily accessible, making the task of searching them relatively quick. For this reason, no maps of these ruined colossi are provided. You can simply narrate the characters' foray into each colossus.
 
-It takes `dice:1d4|noform|noparens|avg` (`d4`) hours for the characters to search a colossus's wreckage for a Docent. At the end of this time, have one character make a DC 17 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check for the group. On a failed check, the characters don't find a *Docent*, but they can't be sure they didn't simply miss it; the characters can spend another `dice:1d4|noform|noparens|avg` (`d4`) hours to reattempt the check. On a successful check, the characters not only determine that the colossus's *Docent* is definitely gone, but also uncover one of the following clues (determined by you):
+It takes `dice:1d4|noform|noparens|avg` (`1d4`) hours for the characters to search a colossus's wreckage for a Docent. At the end of this time, have one character make a DC 17 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check for the group. On a failed check, the characters don't find a *Docent*, but they can't be sure they didn't simply miss it; the characters can spend another `dice:1d4|noform|noparens|avg` (`1d4`) hours to reattempt the check. On a successful check, the characters not only determine that the colossus's *Docent* is definitely gone, but also uncover one of the following clues (determined by you):
 
 - **Deep Tracks.** Deep, angular boot prints belonging to unusually heavy, bipedal creatures lead to and from the wreckage. Examining multiple colossi and triangulating the boot prints' directions (no check required) points to the village of Ialos.  
 - **Second Party.** Smaller, fresher boot prints made by lighter bipeds meander aimlessly about the wreckage. It's impossible to discern the aim of these lighter bipeds from these tracks alone.  
@@ -130,7 +130,7 @@ It takes `dice:1d4|noform|noparens|avg` (`d4`) hours for the characters to searc
 
 #### Landro
 
-This unusually large colossus contains the third piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. Landro is described later in this chapter.
+This unusually large colossus contains the third piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. Landro is described later in this chapter.
 
 #### Veterans' Camp
 
@@ -139,7 +139,7 @@ This unusually large colossus contains the third piece of the [[5. Mechanics/Ite
 > A crumbling stone bridge crosses a river of indigo water. Beneath one side of the bridge, soiled leather tents and bedrolls are arranged around a firepit.
 ^1af
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/065-04-011-kalyth.webp#center]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/065-04-011-kalyth.webp#center]]
 
 This campsite belongs to the ex-soldier Kalyth and her two companions (see the "Cyran Veterans" section later in this chapter). The veterans rest here between expeditions around Mount Ironrot. If the characters meet the veterans here and aren't hostile toward them, Kalyth offers to share her group's meager food supplies with the party.
 
@@ -151,7 +151,7 @@ Regardless of the characters' reaction to this revelation, learning it counts as
 
 ##### Treasure
 
-A character who searches the area and succeeds on a DC 14 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check spots a loose brick among the bridge's remains. Behind the brick are a [[5. Mechanics/Items/Potion Of Greater Healing.md\|Potion of Healing (greater)]] and a moldy hunk of bread—part of the veterans' provisions.
+A character who searches the area and succeeds on a DC 14 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check spots a loose brick among the bridge's remains. Behind the brick are a [[/5. Mechanics/Items/Potion Of Greater Healing.md\|Potion of Healing (greater)]] and a moldy hunk of bread—part of the veterans' provisions.
 
 #### Ialos
 
@@ -162,13 +162,13 @@ A character who searches the area and succeeds on a DC 14 Wisdom ([[/5. Mechanic
 
 Mournland-roaming pilgrims (see the "Warforged Pilgrims" section later in this chapter) turned this ruined mill into an ossuary for fallen warforged.
 
-From this base, pilgrims venture out to find relics or lost warforged. At such times, `dice:2d4|noform|noparens|avg` (`2d4`) pilgrims (use the [[5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|warforged warrior]] stat block in appendix A) remain in Ialos to guard the mill or patrol its surroundings. When no expedition is underway, thirteen pilgrims (including their leader, Mercy, who also uses the [[5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|warforged warrior]] stat block) occupy Ialos. The pilgrims defend their home against attackers, but they flee when they're outmatched.
+From this base, pilgrims venture out to find relics or lost warforged. At such times, `dice:2d4|noform|noparens|avg` (`2d4`) pilgrims (use the [[/5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|warforged warrior]] stat block in appendix A) remain in Ialos to guard the mill or patrol its surroundings. When no expedition is underway, thirteen pilgrims (including their leader, Mercy, who also uses the [[/5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|warforged warrior]] stat block) occupy Ialos. The pilgrims defend their home against attackers, but they flee when they're outmatched.
 
 The following locations are keyed to map 4.2:
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/066-4-02-ialos.webp#gallery\|Map 4.2: Ialos]]
-> ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/067-4-02-ialos-player.webp#gallery\|Player Version]]
+> ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/066-4-02-ialos.webp#gallery\|Map 4.2: Ialos]]
+> ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/067-4-02-ialos-player.webp#gallery\|Player Version]]
 
 - **Founder's Statue.** Colorful scraps of fabric drape over the shoulders and outstretched arm of this statue. The warforged pilgrims decorated the statue of Ialos's founder as a gesture of respect; they are grateful to the village's original builders for creating this space they can use to mourn.  
 - **Mill.** The millstones have been removed from this mill, leaving an empty space. Warforged pilgrims use the mill to plan expeditions.  
@@ -181,8 +181,8 @@ The following locations are keyed to map 4.2:
 The storeroom contains curiosities and trinkets salvaged from Mournland ruins. Some of these items had magical properties until the Day of Mourning destroyed their magic. The storeroom's notable treasures include the following:
 
 - **Art Objects.** Clean tapestries, intact sculptures, and leather-wrapped oil paintings are carefully piled in a corner of the storeroom. Altogether, these relics of old Cyre are worth 2,000 gp.  
-- **Docents.** Half a dozen metal orbs line one shelf, but only one is a functional Docent (see the "Docent" section later in this chapter). These items were taken from the area's ruined colossi. A character can touch a piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to the working Docent to determine the location of the third piece (see the "Finding a Docent" section later in this chapter).  
-- **Magic Ring.** An iron ring etched with angelic feathers hangs from a silver chain on the wall. This is a [[5. Mechanics/Items/Ring Of Feather Falling.md\|Ring of Feather Falling]].  
+- **Docents.** Half a dozen metal orbs line one shelf, but only one is a functional Docent (see the "Docent" section later in this chapter). These items were taken from the area's ruined colossi. A character can touch a piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to the working Docent to determine the location of the third piece (see the "Finding a Docent" section later in this chapter).  
+- **Magic Ring.** An iron ring etched with angelic feathers hangs from a silver chain on the wall. This is a [[/5. Mechanics/Items/Ring Of Feather Falling.md\|Ring of Feather Falling]].  
 
 ### Mount Ironrot Encounters
 
@@ -190,11 +190,11 @@ These encounters should occur, in the order presented, as the characters travel 
 
 #### Warforged Pilgrims
 
-The characters spot a band of five bipeds walking single file across a distant ridge. These are warforged pilgrims. Each uses the [[5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|warforged warrior]] stat block (see appendix A).
+The characters spot a band of five bipeds walking single file across a distant ridge. These are warforged pilgrims. Each uses the [[/5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|warforged warrior]] stat block (see appendix A).
 
 The pilgrims are peaceful folk who wander the Mournland in search of friendly travelers and artifacts important to warforged. A purple-hued ex-soldier named Mercy is the group's leader. Mercy is initially indifferent to the characters, but the leader responds positively to any aid the characters offer, such as advice or adventuring supplies.
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/068-04-013-mercy.webp#center\|Mercy]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/068-04-013-mercy.webp#center\|Mercy]]
 
 #### Pilgrims' Problems
 
@@ -210,7 +210,7 @@ Regardless of the characters' reaction to this revelation or whether they offer 
 
 #### Cyran Veterans
 
-The characters encounter three lawful neutral [[5. Mechanics/Bestiary/Humanoid/Veteran.md\|veterans]] wandering through the mist. Once it's clear the characters aren't monsters or violent marauders, the wanderers introduce themselves as the Turquoise Spear, a small platoon of Cyran ex-soldiers that scours the Mournland for relics.
+The characters encounter three lawful neutral [[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|veterans]] wandering through the mist. Once it's clear the characters aren't monsters or violent marauders, the wanderers introduce themselves as the Turquoise Spear, a small platoon of Cyran ex-soldiers that scours the Mournland for relics.
 
 An orc artillerist named Kalyth speaks for her companions, two halfling soldiers named Dortle-Lynn and Grezan. Kalyth explains that the Turquoise Spear recently discovered a stockpile of Docents taken from colossi. She wants to claim the *Docents* to sell in markets outside the Mournland, but she'd happily let the characters borrow a *Docent* beforehand. Unfortunately, Kalyth says, the *Docent* stockpile is in Ialos, a ruined village currently occupied by "rogue warforged." The Turquoise Spear attempted to infiltrate the ruins, but the warforged made it clear they wouldn't give up their stockpile without a fight.
 
@@ -220,15 +220,15 @@ If the characters agree to help the Turquoise Spear, Kalyth gives the party dire
 
 #### Blade Scouting Party
 
-As they pass between scorched thickets, the characters are ambushed by violent followers of a bloodthirsty warmonger called the Lord of Blades. These scouts have orders to search the region for a suitable colossus to turn into a new outpost, but they'll happily make time to slay a few people in their way. The scouting party includes two [[5. Mechanics/Bestiary/Construct/Blade Scout (VEOR).md\|blade scouts]] and one [[5. Mechanics/Bestiary/Construct/Blade Lieutenant (VEOR).md\|blade lieutenant]] (see appendix A for both stat blocks).
+As they pass between scorched thickets, the characters are ambushed by violent followers of a bloodthirsty warmonger called the Lord of Blades. These scouts have orders to search the region for a suitable colossus to turn into a new outpost, but they'll happily make time to slay a few people in their way. The scouting party includes two [[/5. Mechanics/Bestiary/Construct/Blade Scout (VEOR).md\|blade scouts]] and one [[/5. Mechanics/Bestiary/Construct/Blade Lieutenant (VEOR).md\|blade lieutenant]] (see appendix A for both stat blocks).
 
 The blades fight until destroyed. They remain tight-lipped if captured, but if a character demands information and succeeds on a DC 15 Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) check, the lieutenant says his party's commander is a powerful warforged headhunter named Glaive. "She'll make mincemeat out of you, interlopers!" the lieutenant scoffs. The blades can point the party to ruined colossi in the area but otherwise have no useful information.
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/069-04-003-mount-ironrot.webp#center\|"Warforged try to survive in the blasted wilderness around Mount Ironrot"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/069-04-003-mount-ironrot.webp#center\|"Warforged try to survive in the blasted wilderness around Mount Ironrot"]]
 
 ## Finding a Docent
 
-The party's first task in the Mournland is to find a working Docent to which they can tune the second piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. In the course of their exploration, they learn that the only operational *Docent* in the region is in a storeroom in Ialos.
+The party's first task in the Mournland is to find a working Docent to which they can tune the second piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. In the course of their exploration, they learn that the only operational *Docent* in the region is in a storeroom in Ialos.
 
 ### The Dispute
 
@@ -242,13 +242,13 @@ By the time the characters reach Ialos, they should have met the pilgrims and th
 
 Mercy doesn't understand that the Cyran veterans' true motivation is money, nor does Mercy recognize the value of the items in the pilgrims' possession. Though reluctant to bargain with the veterans, whom the pilgrims consider warmongers, Mercy can be persuaded to negotiate if the characters act as intermediaries.
 
-If the characters explain the veterans' financial need and convince Mercy that the veterans mean no harm, Mercy offers to give the characters the art objects kept in the pilgrims' storeroom. If a character succeeds on a DC 14 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check during this discussion, Mercy also offers the characters the [[5. Mechanics/Items/Ring Of Feather Falling.md\|Ring of Feather Falling]] in the storeroom.
+If the characters explain the veterans' financial need and convince Mercy that the veterans mean no harm, Mercy offers to give the characters the art objects kept in the pilgrims' storeroom. If a character succeeds on a DC 14 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check during this discussion, Mercy also offers the characters the [[/5. Mechanics/Items/Ring Of Feather Falling.md\|Ring of Feather Falling]] in the storeroom.
 
 Kalyth doesn't realize that the pilgrims' have valuable art objects or a magic ring. If told about these treasures, Kalyth says the Cyran veterans would gladly take either option instead of the Docents. If Mercy offers the ring as well, Kalyth insists the characters keep either the art or the ring, whichever they'd prefer, in thanks for brokering a peaceful resolution.
 
 #### Helpful Information
 
-If the resolution allows the warforged pilgrims to keep their *Docents* and no one is harmed in the dispute, once it's clear the characters are looking for a piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], Mercy tells the characters the following about Landro's unique power source:
+If the resolution allows the warforged pilgrims to keep their *Docents* and no one is harmed in the dispute, once it's clear the characters are looking for a piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], Mercy tells the characters the following about Landro's unique power source:
 
 > [!readaloud] 
 > 
@@ -264,9 +264,9 @@ If the characters negotiate a deal that the Turquoise Spear finds agreeable, Kal
 
 ### Tuning the Rod
 
-Regardless of which side, if any, the characters take in this conflict, the characters must pair the second piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to the working Docent in Ialos to continue the adventure. (A character need not be attuned to the *Docent* to pair the *Docent* to the rod piece.)
+Regardless of which side, if any, the characters take in this conflict, the characters must pair the second piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to the working Docent in Ialos to continue the adventure. (A character need not be attuned to the *Docent* to pair the *Docent* to the rod piece.)
 
-When a character touches the rod pieceto the working *Docent*, the piece emits a loud, metallic ping. Thereafter, the piece points in the direction of the third rod piece inside Landro. If the party travels in that direction, the characters eventually reach the ruins of Landro (see the "Landro" section below).
+When a character touches the rod piece to the working *Docent*, the piece emits a loud, metallic ping. Thereafter, the piece points in the direction of the third rod piece inside Landro. If the party travels in that direction, the characters eventually reach the ruins of Landro (see the "Landro" section below).
 
 #### Docent
 
@@ -274,7 +274,7 @@ When a character touches the rod pieceto the working *Docent*, the piece emits a
 
 A *Docent* is a 2-inch-diameter metal sphere studded with dragonshards. To attune to a *Docent*, you must embed the item somewhere on your body, such as your chest or your eye socket.
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/070-04-004-docent.webp#center\|A Docent]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/070-04-004-docent.webp#center\|A Docent]]
 
 ##### Sentience
 
@@ -288,9 +288,9 @@ Whenever you end your turn with 0 hit points, the Docent can make a Wisdom ([[/5
 
 A Docent has the following properties:
 
-- **Languages.** The Docent knows Common, Giant, and `dice:1d4|noform|noparens|avg` (`d4`) additional languages chosen by the DM. If a Docent knows fewer than six languages, it can learn a new language after it hears or reads the language through your senses.  
+- **Languages.** The Docent knows Common, Giant, and `dice:1d4|noform|noparens|avg` (`1d4`) additional languages chosen by the DM. If a Docent knows fewer than six languages, it can learn a new language after it hears or reads the language through your senses.  
 - **Skills.** The Docent has a +7 bonus to ability checks using one of the following skills (roll a `dice:d4|noform|noparens|avg` (`d4`)): (1) [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], (2) [[/5. Mechanics/Rules/Skills.md#History\|History]], (3) [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], or (4) [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]].  
-- **Spells.** The Docent knows one of the following spells and can cast it at will, requiring no spell components (roll a `dice:d6|noform|noparens|avg` (`d6`)): (1–2) [[5. Mechanics/Spells/Detect Evil And Good.md\|Detect Evil and Good]] or (3–6) [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]]. The Docent decides when to cast the spell.  
+- **Spells.** The Docent knows one of the following spells and can cast it at will, requiring no spell components (roll a `dice:d6|noform|noparens|avg` (`d6`)): (1–2) [[/5. Mechanics/Spells/Detect Evil And Good.md\|Detect Evil and Good]] or (3–6) [[/5. Mechanics/Spells/Detect Magic.md\|Detect Magic]]. The Docent decides when to cast the spell.  
 
 ##### Personality
 
@@ -300,13 +300,13 @@ A Docent is designed to advise and assist the warforged it's attached to, includ
 
 In the Last War's climactic final years, Cyran artificers crafted massive war machines called colossi. One of the nation's greatest specimens was deployed to the battlefield just as the Day of Mourning swept over Cyre and destroyed the nation. Instead of teleporting to the front lines, this colossus, called Landro, appeared miles away, half-buried in the face of a soaring mountain. Landro's crew was killed instantly.
 
-Landro now looms empty and foreboding over Mount Ironrot's eastern flank. The experimental magic that powers Landro—an eldritch machine called the graymatter engine, fueled by a piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]—continues to function, creating a magical force field around the colossus and altering the gravity within it. In addition to the aberrant monsters and restless Undead that haunt Landro's remains, another faction is determined to plumb the ruins' depths: violent, zealous warriors loyal to the Lord of Blades.
+Landro now looms empty and foreboding over Mount Ironrot's eastern flank. The experimental magic that powers Landro—an eldritch machine called the graymatter engine, fueled by a piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]—continues to function, creating a magical force field around the colossus and altering the gravity within it. In addition to the aberrant monsters and restless Undead that haunt Landro's remains, another faction is determined to plumb the ruins' depths: violent, zealous warriors loyal to the Lord of Blades.
 
 ### Lord of Blades' Strike Squad
 
-While the characters explore Landro, they're pursued by a warforged named [[4. World Almanac/NPCs/Glaive (VEOR).md\|Glaive]] (see the accompanying stat block). Glaive is a high-ranking commander loyal to the Lord of Blades. She has orders to find a ruined colossus suitable to transform into an outpost for the blades, and Landro fits this description perfectly. When she becomes aware of the party's presence in Landro, Glaive relishes the opportunity to destroy these "meddlesome interlopers," as she calls them.
+While the characters explore Landro, they're pursued by a warforged named [[/4. World Almanac/NPCs/Glaive (VEOR).md\|Glaive]] (see the accompanying stat block). Glaive is a high-ranking commander loyal to the Lord of Blades. She has orders to find a ruined colossus suitable to transform into an outpost for the blades, and Landro fits this description perfectly. When she becomes aware of the party's presence in Landro, Glaive relishes the opportunity to destroy these "meddlesome interlopers," as she calls them.
 
-Glaive is accompanied by two [[5. Mechanics/Bestiary/Construct/Blade Scout (VEOR).md\|blade scouts]] (see appendix A) named Rack and Crunch. The three blades prefer to split up and sneak around Landro and the adjoining caves. They take turns using hit-and-run tactics to harry the characters, creating a sense that more blades lurk around every corner. As long as Glaive is around, the characters can't finish an uninterrupted long rest inside Landro or in the caves of Mount Ironrot.
+Glaive is accompanied by two [[/5. Mechanics/Bestiary/Construct/Blade Scout (VEOR).md\|blade scouts]] (see appendix A) named Rack and Crunch. The three blades prefer to split up and sneak around Landro and the adjoining caves. They take turns using hit-and-run tactics to harry the characters, creating a sense that more blades lurk around every corner. As long as Glaive is around, the characters can't finish an uninterrupted long rest inside Landro or in the caves of Mount Ironrot.
 
 It's up to you where the characters encounter this strike squad, though Landro's location descriptions provide suggestions. If you don't want to ambush the characters with this encounter, it should occur in area L27. Glaive is devoted to her mission and fights the characters until destroyed, but her subordinates are less motivated. If Glaive is defeated, Rack and Crunch flee.
 
@@ -318,7 +318,7 @@ Since the Mournland's earliest days, Glaive has wielded her namesake weapon in s
 
 The invisible barrier described in the "Landro Features" section below makes it impossible to enter the colossus via typical means. The barrier is damaged in three places, allowing ingress via paths along Mount Ironrot into areas L5, L11, and L16 of the colossus. Map 4.3 includes a side view of Landro and the paths that lead into the colossus's interior.
 
-The easiest way to enter the colossus is through the mountain caves that lead to area L5. The characters can also search higher up the mountain along outdoor paths for the entrances to caverns that lead to areas L11 and L16. Searching for area L11 takes `dice:2d4|noform|noparens|avg` (`2d4`) hours, and during the characters' search, a hungry [[5. Mechanics/Bestiary/Monstrosity/Roc.md\|roc]] ambushes them. Searching for area L16 takes `dice:3d4|noform|noparens|avg` (`3d4`) hours, and during the characters' search, they stumble on a nest with two [[5. Mechanics/Bestiary/Monstrosity/Roc.md\|rocs]] and one roc egg the height of a human. The angry roc parents attack the characters, though the rocs don't pursue if the characters flee.
+The easiest way to enter the colossus is through the mountain caves that lead to area L5. The characters can also search higher up the mountain along outdoor paths for the entrances to caverns that lead to areas L11 and L16. Searching for area L11 takes `dice:2d4|noform|noparens|avg` (`2d4`) hours, and during the characters' search, a hungry [[/5. Mechanics/Bestiary/Monstrosity/Roc.md\|roc]] ambushes them. Searching for area L16 takes `dice:3d4|noform|noparens|avg` (`3d4`) hours, and during the characters' search, they stumble on a nest with two [[/5. Mechanics/Bestiary/Monstrosity/Roc.md\|rocs]] and one roc egg the height of a human. The angry roc parents attack the characters, though the rocs don't pursue if the characters flee.
 
 ### Landro Features
 
@@ -326,9 +326,9 @@ The following features are common to all areas of Landro unless otherwise noted.
 
 #### Antigravity Magic
 
-The piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] linked to the graymatter engine creates special gravity-altering effects in parts of Landro. The areas affected by these effects are denoted on map 4.3 as the swirled features in areas L5, L6, L7, L8, and L9. These have the following effects:
+The piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] linked to the graymatter engine creates special gravity-altering effects in parts of Landro. The areas affected by these effects are denoted on map 4.3 as the swirled features in areas L5, L6, L7, L8, and L9. These have the following effects:
 
-- **Antigravity Wells.** Landro's ankles, legs, knees, hips, spine, and elbow are filled with magical energy meant to allow the colossus's body to bend and rotate freely. Creatures and objects can enter and exit these permeable "antigravity wells" like any normal space. While inside an antigravity well, a creature is affected by a [[5. Mechanics/Spells/Levitate.md\|Levitate]] spell (no saving throw). Regular notches in the walls make it relatively easy for creatures to move up or down a well to reach other areas of the colossus.  
+- **Antigravity Wells.** Landro's ankles, legs, knees, hips, spine, and elbow are filled with magical energy meant to allow the colossus's body to bend and rotate freely. Creatures and objects can enter and exit these permeable "antigravity wells" like any normal space. While inside an antigravity well, a creature is affected by a [[/5. Mechanics/Spells/Levitate.md\|Levitate]] spell (no saving throw). Regular notches in the walls make it relatively easy for creatures to move up or down a well to reach other areas of the colossus.  
 - **Gravity Tiles.** Landro's upper levels are enchanted with gravity magic that keeps passengers safely rooted to the floor. Creatures can move across the floor in areas L20–L28 normally, no matter the orientation of Landro's upper body.  
 
 The effects of the antigravity wells and the gravity tiles end if Landro's shutdown sequence is activated (see the "Shutdown Sequence" section later in this chapter).
@@ -344,11 +344,11 @@ A steady stream of thin, oily liquid leaks from the graymatter engine and runs i
 When a creature looks at a puddle of graymatter fluid, the creature sees a twisted, monstrous version of itself with an inscrutable expression rather than its actual reflection. A creature that ingests any amount of graymatter fluid must succeed on a DC 14 Constitution saving throw or experience the following effects:
 
 - **Altered Speech.** The creature gains telepathy to a range of 30 feet but loses the ability to speak. Any attempts to speak generate only incoherent babbling. This effect ends after the creature finishes a long rest.  
-- **Psychic Damage.** For each ounce of graymatter fluid consumed, the creature takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage. A creature killed by this damage rises as a [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]] `dice:1d4|noform|noparens|avg` (`d4`) hours after dying.  
+- **Psychic Damage.** For each ounce of graymatter fluid consumed, the creature takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage. A creature killed by this damage rises as a [[/5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]] `dice:1d4|noform|noparens|avg` (`1d4`) hours after dying.  
 
 #### Invisible Barrier
 
-The graymatter engine creates an invisible barrier around the intact parts of Landro. Nothing can penetrate the barrier, which is similar to the effect of a [[5. Mechanics/Spells/Wall Of Force.md\|Wall of Force]] spell, though a [[5. Mechanics/Spells/Disintegrate.md\|Disintegrate]] spell can't destroy it. The barrier is broken in compromised sections of Landro (areas L5, L11, and L16).
+The graymatter engine creates an invisible barrier around the intact parts of Landro. Nothing can penetrate the barrier, which is similar to the effect of a [[/5. Mechanics/Spells/Wall Of Force.md\|Wall of Force]] spell, though a [[/5. Mechanics/Spells/Disintegrate.md\|Disintegrate]] spell can't destroy it. The barrier is broken in compromised sections of Landro (areas L5, L11, and L16).
 
 #### Lighting
 
@@ -363,8 +363,8 @@ As long as the graymatter engine is active, Landro's body—which is made from s
 The following locations are keyed to map 4.3.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/072-4-03-landro.webp#gallery\|Map 4.3: Landro]]
-> ![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/073-4-03-landro-player.webp#gallery\|Player Version]]
+> ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/072-4-03-landro.webp#gallery\|Map 4.3: Landro]]
+> ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/073-4-03-landro-player.webp#gallery\|Player Version]]
 
 #### L1: Cave Entrance
 
@@ -386,7 +386,7 @@ A character who examines the area and succeeds on a DC 12 Intelligence ([[/5. Me
 
 The corpses are Cyran soldiers who were instantly killed by mysterious magic on the Day of Mourning. The Mournland's magic has preserved their bodies, which a character can determine by examining the corpses and succeeding on a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check.
 
-If a creature picks up the armor or weapons, two [[5. Mechanics/Bestiary/Construct/Flying Sword.md\|flying swords]] and two suits of [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]] rise from the scattered gear to reclaim the stolen treasure. They attack the thief and the thief's allies, but they don't pursue foes outside this area.
+If a creature picks up the armor or weapons, two [[/5. Mechanics/Bestiary/Construct/Flying Sword.md\|flying swords]] and two suits of [[/5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]] rise from the scattered gear to reclaim the stolen treasure. They attack the thief and the thief's allies, but they don't pursue foes outside this area.
 
 #### L3: Cave Shack
 
@@ -395,7 +395,7 @@ If a creature picks up the armor or weapons, two [[5. Mechanics/Bestiary/Constru
 > Rickety metal sheets separate the east end of this cave from the rest of the complex. Aggressive growling emanates from behind the sheets.
 ^1d8
 
-This area is separated from the rest of the caves by rickety metal sheets scavenged from the debris of Landro's right foot (area L5). The area serves as a shelter for three Brelish soldiers who were transformed by the strange magic of the Day of Mourning. Use the [[5. Mechanics/Bestiary/Giant/Fomorian.md\|fomorian]] stat block for each soldier, except they are Large instead of Huge.
+This area is separated from the rest of the caves by rickety metal sheets scavenged from the debris of Landro's right foot (area L5). The area serves as a shelter for three Brelish soldiers who were transformed by the strange magic of the Day of Mourning. Use the [[/5. Mechanics/Bestiary/Giant/Fomorian.md\|fomorian]] stat block for each soldier, except they are Large instead of Huge.
 
 The cowardly soldiers make occasional forays into the caves to smash rats or other easy prey. They attack only if they can surprise the characters, perhaps at the narrow tunnel to the north (area L4), or if the characters are already in a fight with Glaive's squad. The soldiers know nothing of Landro other than to avoid drinking the graymatter fluid.
 
@@ -403,9 +403,9 @@ The cowardly soldiers make occasional forays into the caves to smash rats or oth
 
 If the characters haven't run into significant challenges yet, Glaive and one of her blade scout companions attack the characters from both ends of this narrow tunnel. After all combatants have taken a turn, the attackers flee into Landro and hide for another surprise attack.
 
-Regardless of whether the characters fight the strike squad, if they search this area, they find a comatose [[5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|warforged warrior]] (see appendix A) in the northeast corner of this area. A character who tries to rouse the warrior and succeeds at a DC 18 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check wakes the warrior, who identifies themself as Filch. Filch wandered in here shortly after the Day of Mourning looking for their best friend, the warforged Mercy (see the "Warforged Pilgrims" section earlier in this chapter). The stress of the situation caused Filch's comatose state. Mercy and Filch would be happy to be reunited.
+Regardless of whether the characters fight the strike squad, if they search this area, they find a comatose [[/5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|warforged warrior]] (see appendix A) in the northeast corner of this area. A character who tries to rouse the warrior and succeeds at a DC 18 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check wakes the warrior, who identifies themself as Filch. Filch wandered in here shortly after the Day of Mourning looking for their best friend, the warforged Mercy (see the "Warforged Pilgrims" section earlier in this chapter). The stress of the situation caused Filch's comatose state. Mercy and Filch would be happy to be reunited.
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/074-04-010-filch.webp#center\|Filch]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/074-04-010-filch.webp#center\|Filch]]
 
 #### L5: Right Foot
 
@@ -414,7 +414,7 @@ Regardless of whether the characters fight the strike squad, if they search this
 > Aside from a narrow passage, the 10-foot-tall toe section of the colossus's foot has collapsed. Oversize, skull-shaped mushrooms pockmark the heap of debris that marks the rough division between the colossus's interior and the adjacent cave. At the chamber's far end, motes of dust and debris float in a cylinder of glowing, green light that stretches from floor to ceiling. The cylinder of light continues upward into Landro's leg.
 ^1db
 
-Within the mushroom patch are two [[5. Mechanics/Bestiary/Plant/Shrieker.md\|shriekers]]. The shriekers' high-pitched screams might attract the Brelish soldiers from area L3 or alert one of Glaive's scouts to the characters' location.
+Within the mushroom patch are two [[/5. Mechanics/Bestiary/Plant/Shrieker.md\|shriekers]]. The shriekers' high-pitched screams might attract the Brelish soldiers from area L3 or alert one of Glaive's scouts to the characters' location.
 
 The 20-foot-diameter cylinder of light extending up at the back of this foot is an antigravity well (see the "Antigravity Wells" section earlier in this chapter). The well connects to Landro's right hip (see area L8).
 
@@ -437,7 +437,7 @@ The two 20-foot-diameter antigravity spheres in this 30-foot-tall chamber serve 
 
 ##### Treasure
 
-A weapon rack on the wall opposite Landro's spine contains two [[5. Mechanics/Items/Halberd.md\|halberds]] and one [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]] with a case of 20 [[5. Mechanics/Items/Crossbow Bolts 20.md\|bolts]].
+A weapon rack on the wall opposite Landro's spine contains two [[/5. Mechanics/Items/Halberd.md\|halberds]] and one [[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]] with a case of 20 [[/5. Mechanics/Items/Crossbow Bolts 20.md\|bolts]].
 
 #### L9: Blocked Antigravity Well
 
@@ -450,7 +450,7 @@ Rubble in area L18 blocks travel through Landro's spinal antigravity well above 
 > Absolute silence fills this tranquil sleeping area. The walls are lined with wooden bunk beds draped in green and purple quilts. Motes of dust drift with a peculiar languidness. A woman sleeps in one of the beds.
 ^1e3
 
-This 20-foot-high chamber is affected by a persistent [[5. Mechanics/Spells/Silence.md\|Silence]] spell. A [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] spell ends the effect.
+This 20-foot-high chamber is affected by a persistent [[/5. Mechanics/Spells/Silence.md\|Silence]] spell. A [[/5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] spell ends the effect.
 
 ##### Aura of Slumber
 
@@ -458,7 +458,7 @@ Lingering in this chamber causes creatures to feel drowsy. A creature that ends 
 
 ##### Sleeping Ghost
 
-The figure dozing in one of the beds is the spirit of Alamar-Vatashi, a soldier who overslept on the Day of Mourning. In life, Alamar-Vatashi was a kalashtar, a Humanoid bound to a dream-spirit called a quori. The Day of Mourning caused her to remain asleep in this chamber. She is a neutral good [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] who can speak Common; she can also communicate telepathically within a range of 30 feet.
+The figure dozing in one of the beds is the spirit of Alamar-Vatashi, a soldier who overslept on the Day of Mourning. In life, Alamar-Vatashi was a kalashtar, a Humanoid bound to a dream-spirit called a quori. The Day of Mourning caused her to remain asleep in this chamber. She is a neutral good [[/5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] who can speak Common; she can also communicate telepathically within a range of 30 feet.
 
 If Alamar-Vatashi awakens and becomes aware of the characters, she telepathically asks why they aren't sleeping and yawns deeply. If questioned, she says she's too tired to talk, but she offers to share her dreams with the characters if they wish. A character who touches Alamar-Vatashi's incorporeal palm experiences a vivid vision of the day Landro came to this mountain on the Day of Mourning. This touch doesn't damage the character. Read or paraphrase the following to describe the vision:
 
@@ -478,7 +478,7 @@ The vision lasts only a moment but feels like it lasts hours to the creature exp
 > Fine tinkering tools, woodcarving equipment, and metal plates hang from hooks above a stone table and counters in this crowded workshop. In one corner, a faucet juts from a tall steel vat. The opposite corner has collapsed, allowing access to a tunnel beyond. A rivulet of graymatter fluid oozes across the floor and down the tunnel.
 ^1e8
 
-The ceiling here is 20 feet high. Any characters proficient in [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]] or [[5. Mechanics/Items/Woodcarvers Tools.md\|woodcarver's tools]] can assemble a set of either tools from the items in this room with 1 minute of work.
+The ceiling here is 20 feet high. Any characters proficient in [[/5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]] or [[/5. Mechanics/Items/Woodcarvers Tools.md\|woodcarver's tools]] can assemble a set of either tools from the items in this room with 1 minute of work.
 
 ##### Repair Paste
 
@@ -491,13 +491,13 @@ The steel vat contains magical paste specially formulated for strengthening Cons
 > The ghostly image of a human Cyran soldier paces nervously at the bottom of this sloping cavern. On seeing you, the figure smiles with relief and waves, shouting, "Please, help me find my comrades!"
 ^1eb
 
-The lawful good [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]], who says its name is Chandry, pleads with the characters to help it reunite with its comrades inside Landro.
+The lawful good [[/5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]], who says its name is Chandry, pleads with the characters to help it reunite with its comrades inside Landro.
 
 Suddenly, Chandry cries out with joy and sprints toward the colossus. When the ghost comes within arm's reach of Landro, it blinks out of existence. Chandry then reappears at the bottom of the cave with no memory of the last few moments' events and asks the characters for their help again. Every time Chandry approaches Landro, the ghost disappears and reappears in the same way. If the characters tell Chandry about the fallen soldiers in area L2, the ghost is put to rest and doesn't reappear.
 
 #### L13: Dragonshard Pool
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/075-04-006-dragonshard-pool.webp#center\|"A strange pool found inside Landro has magical effects on items dipped into it"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/075-04-006-dragonshard-pool.webp#center\|"A strange pool found inside Landro has magical effects on items dipped into it"]]
 
 > [!readaloud] 
 > 
@@ -508,7 +508,7 @@ Pulverized dragonshards—special gemstones native to Khorvaire—mixed with the
 
 ##### Enchanted Pool
 
-A [[5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell reveals an aura of enchantment magic emanating from the pool. Drinking from it exposes a creature to graymatter fluid (see the "Graymatter Fluid" section earlier in this chapter). When a nonmagical item is dipped into the pool, roll on the Dragonshard Pool Effects table to determine what happens to the item. An item can be affected by the pool only once; subsequent exposures have no effect.
+A [[/5. Mechanics/Spells/Detect Magic.md\|Detect Magic]] spell reveals an aura of enchantment magic emanating from the pool. Drinking from it exposes a creature to graymatter fluid (see the "Graymatter Fluid" section earlier in this chapter). When a nonmagical item is dipped into the pool, roll on the Dragonshard Pool Effects table to determine what happens to the item. An item can be affected by the pool only once; subsequent exposures have no effect.
 
 The pool has 4 charges. It expends 1 charge each time an item is dipped into it. The pool regains all expended charges daily at dawn.
 
@@ -525,7 +525,7 @@ The pool has 4 charges. It expends 1 charge each time an item is dipped into it.
 
 ##### Treasure
 
-A suit of [[5. Mechanics/Items/Chain Mail.md\|chain mail]], two [[5. Mechanics/Items/Shortsword.md\|shortswords]], and a [[5. Mechanics/Items/Mace.md\|mace]] lie on the floor. All are twisted and malformed, as if they were affected by a roll of 3 or 4 on the Dragonshard Pool Effects table.
+A suit of [[/5. Mechanics/Items/Chain Mail.md\|chain mail]], two [[/5. Mechanics/Items/Shortsword.md\|shortswords]], and a [[/5. Mechanics/Items/Mace.md\|mace]] lie on the floor. All are twisted and malformed, as if they were affected by a roll of 3 or 4 on the Dragonshard Pool Effects table.
 
 #### L14: Blazebear Den
 
@@ -534,7 +534,7 @@ A suit of [[5. Mechanics/Items/Chain Mail.md\|chain mail]], two [[5. Mechanics/I
 > A pile of leather scraps, broken bones, and sludgy offal fills a corner of this cave. Nesting in this nauseating pile is a monstrous beast that resembles a bear with three long, fleshy tentacles sprouting from its skull. Each tentacle is topped with a glowing, knobby lump of flesh.
 ^1f1
 
-The monster dwelling here is a [[5. Mechanics/Bestiary/Monstrosity/Blazebear (VEOR).md\|blazebear]] (see appendix A). It attacks any creature it sees and fights until destroyed.
+The monster dwelling here is a [[/5. Mechanics/Bestiary/Monstrosity/Blazebear (VEOR).md\|blazebear]] (see appendix A). It attacks any creature it sees and fights until destroyed.
 
 #### L15: Overhang
 
@@ -543,7 +543,7 @@ The monster dwelling here is a [[5. Mechanics/Bestiary/Monstrosity/Blazebear (VE
 > Two tunnels branch off opposite sides of this thirty-foot-high cavern. The tunnels reconvene at an overhang fifteen feet above the eastern passage.
 ^1f3
 
-Assuming they haven't both been defeated, one of Glaive's [[5. Mechanics/Bestiary/Construct/Blade Scout (VEOR).md\|blade scouts]] (see appendix A) hides on the overhang here while the other scout hides down the eastern tunnel, near area L16. When the characters are within range, the scouts fire their crossbows at a random character.
+Assuming they haven't both been defeated, one of Glaive's [[/5. Mechanics/Bestiary/Construct/Blade Scout (VEOR).md\|blade scouts]] (see appendix A) hides on the overhang here while the other scout hides down the eastern tunnel, near area L16. When the characters are within range, the scouts fire their crossbows at a random character.
 
 Any creature atop the overhang has "half cover" from creatures in the tunnel below.
 
@@ -577,7 +577,7 @@ Without the aid of antigravity magic, a creature can climb the notched walls ins
 
 #### L19: Muster Point
 
-Three Cyran soldiers in full regalia stand diligently at the arrow slits in this 30-foot-tall gathering hall. When they become aware of the characters, the soldiers turn to the party, revealing ghostly, screaming skulls instead of faces. The soldiers are three hostile [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]]. Three [[5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisps]], previously [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], appear at the start of combat and fight alongside the wights.
+Three Cyran soldiers in full regalia stand diligently at the arrow slits in this 30-foot-tall gathering hall. When they become aware of the characters, the soldiers turn to the party, revealing ghostly, screaming skulls instead of faces. The soldiers are three hostile [[/5. Mechanics/Bestiary/Undead/Wight.md\|wights]]. Three [[/5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisps]], previously [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], appear at the start of combat and fight alongside the wights.
 
 #### L20: War Room
 
@@ -586,7 +586,7 @@ Three Cyran soldiers in full regalia stand diligently at the arrow slits in this
 > This thirty-foot-tall chamber centers on a massive, stone table. Dozens of large maps and scroll cases lie scattered across the table.
 ^1fc
 
-The table is a magically animated servant (use the [[5. Mechanics/Bestiary/Construct/Stone Golem.md\|stone golem]] stat block). It is designed to defend Landro from enemy boarders. As soon as a creature disturbs the table's contents, the table reveals its true nature and attacks.
+The table is a magically animated servant (use the [[/5. Mechanics/Bestiary/Construct/Stone Golem.md\|stone golem]] stat block). It is designed to defend Landro from enemy boarders. As soon as a creature disturbs the table's contents, the table reveals its true nature and attacks.
 
 ##### Treasure
 
@@ -625,7 +625,7 @@ When the lever on the wall is flipped, the hatch in the floor opens, and a 10-fo
 > The floor of this ruined, thirty-foot-tall chamber is bare except for a large, wooden chest. The ostentatious chest's dark walnut planks shine, and its iron straps are gilded with a thick sheet of gold leaf. An iron padlock crafted in the shape of a grinning demon hangs from the chest's hasp.
 ^205
 
-The chest is a [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] in disguise. As soon as a creature touches it, the mimic attacks. Once it has grappled a creature, the mimic attempts to drag its victim outside so it can drop the victim off the edge of the walkway (area L22). Creatures that fall take `dice:13d6|noform|noparens|avg|text(45)` (`13d6`) bludgeoning damage.
+The chest is a [[/5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] in disguise. As soon as a creature touches it, the mimic attacks. Once it has grappled a creature, the mimic attempts to drag its victim outside so it can drop the victim off the edge of the walkway (area L22). Creatures that fall take `dice:13d6|noform|noparens|avg|text(45)` (`13d6`) bludgeoning damage.
 
 #### L26: Throat
 
@@ -642,14 +642,14 @@ Glaive compromised the weapons system when she moved it; once fired, it breaks, 
 
 #### L27: Weapons System
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/076-04-007-glaive-and-subordinates.webp#center\|"Glaive and her subordinates might confront the heroes inside Landro's weapons systems room"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/076-04-007-glaive-and-subordinates.webp#center\|"Glaive and her subordinates might confront the heroes inside Landro's weapons systems room"]]
 
 > [!readaloud] 
 > 
 > The mechanical guts of what must have been a magical cannon were torn out of the platform in this room. To the south, a three-foot-tall ledge is all that separates this chamber from the open air. If not for the dense mist of the Mournland, this window would afford a spectacular view.
 ^209
 
-In this 15-foot-tall room, which is effectively Landro's mouth, [[4. World Almanac/NPCs/Glaive (VEOR).md\|Glaive]] makes her final stand against the characters if she has survived this long. Her [[5. Mechanics/Bestiary/Construct/Blade Scout (VEOR).md\|blade scouts]] (see appendix A), Rack and Crunch, fight alongside her if they're still alive.
+In this 15-foot-tall room, which is effectively Landro's mouth, [[/4. World Almanac/NPCs/Glaive (VEOR).md\|Glaive]] makes her final stand against the characters if she has survived this long. Her [[/5. Mechanics/Bestiary/Construct/Blade Scout (VEOR).md\|blade scouts]] (see appendix A), Rack and Crunch, fight alongside her if they're still alive.
 
 #### L28: Graymatter Engine
 
@@ -662,29 +662,29 @@ In this 15-foot-tall room, which is effectively Landro's mouth, [[4. World Alman
 > Floating above the brain and scattering light across the room is a small, slender object: a piece of the *Rod of Seven Parts*.
 ^20b
 
-Years after its abandonment, the graymatter engine still churns with arcane power. Crafted from experimental designs based on unfamiliar technology, the graymatter engine converts the power of the third [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] piece into magical effects throughout Landro. The colossus's force field, weapons system, and antigravity wells are all powered by this eldritch machine.
+Years after its abandonment, the graymatter engine still churns with arcane power. Crafted from experimental designs based on unfamiliar technology, the graymatter engine converts the power of the third [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] piece into magical effects throughout Landro. The colossus's force field, weapons system, and antigravity wells are all powered by this eldritch machine.
 
 When the characters arrive in this area, the graymatter engine manifests a physical entity to converse with the party. Proceed to the "Graymatter Guardian" section below.
 
 ##### Hidden Sentinels
 
-This chamber contains false walls made of thin metal plates. A character investigating the walls can tell that they are hollow by succeeding on a DC 17 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. Behind these walls stand four defense sentinels bound to the graymatter engine (each uses the [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]] stat block but is Medium instead of Large).
+This chamber contains false walls made of thin metal plates. A character investigating the walls can tell that they are hollow by succeeding on a DC 17 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check. Behind these walls stand four defense sentinels bound to the graymatter engine (each uses the [[/5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]] stat block but is Medium instead of Large).
 
 If a sentinel takes damage or the rod piece is removed from the graymatter engine, the walls around all four sentinels slide into the floor and the sentinels activate, attacking all intruders.
 
 ##### Retrieving the Rod Piece
 
-As long as the graymatter engine is active, the rod piece floating above the engine's ceramic shell is held in place with powerful magic. As an action, a creature can try to remove the piece. A creature that touches the piece must make a DC 15 Wisdom saving throw. On a failed save, the creature takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage, and the piece doesn't move. On a successful save, the creature takes half as much damage but is able to grab and move the piece freely. Successfully casting [[5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] (DC 14) on the piece suppresses the magic for 1 minute, during which time the piece can be touched and removed without requiring creatures to make a saving throw.
+As long as the graymatter engine is active, the rod piece floating above the engine's ceramic shell is held in place with powerful magic. As an action, a creature can try to remove the piece. A creature that touches the piece must make a DC 15 Wisdom saving throw. On a failed save, the creature takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage, and the piece doesn't move. On a successful save, the creature takes half as much damage but is able to grab and move the piece freely. Successfully casting [[/5. Mechanics/Spells/Dispel Magic.md\|Dispel Magic]] (DC 14) on the piece suppresses the magic for 1 minute, during which time the piece can be touched and removed without requiring creatures to make a saving throw.
 
-When the piece is removed, the four defense sentinels attack the characters, and Landro's shutdown sequence begins (see the "Shutdown Sequence" section below). For more about the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], see this book's introduction.
+When the piece is removed, the four defense sentinels attack the characters, and Landro's shutdown sequence begins (see the "Shutdown Sequence" section below). For more about the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], see this book's introduction.
 
 ### Graymatter Guardian
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/077-04-008-graymatter-engine.webp#center\|"The graymatter engine serves as Landro's brain, though it can't control the colossus's mechanical systems"]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/077-04-008-graymatter-engine.webp#center\|"The graymatter engine serves as Landro's brain, though it can't control the colossus's mechanical systems"]]
 
 The graymatter engine has—or, more aptly, is—a mind of its own. It sensed the characters when they first entered Landro and has watched them curiously. When the characters arrive in this room, the graymatter engine manifests a swirling mass of animated graymatter fluid.
 
-The animated fluid takes the shape of a tall, lithe humanoid and introduces itself as Landro. This neutral-aligned being uses the [[5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] stat block, except it has telepathy out to 30 feet.
+The animated fluid takes the shape of a tall, lithe humanoid and introduces itself as Landro. This neutral-aligned being uses the [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] stat block, except it has telepathy out to 30 feet.
 
 Landro isn't interested in fighting. Rather, it wants to question the newcomers who've made it all the way to the colossus's uppermost level.
 
@@ -692,7 +692,7 @@ Landro isn't interested in fighting. Rather, it wants to question the newcomers 
 
 In its manifestation as Landro, the graymatter engine assumes the role of a gracious host. It is far more interested in learning about its visitors than in talking about itself. If pushed, Landro briefly explains how it was created by Cyran mages to control the colossus of the same name. On the day of its deployment, the colossus teleported halfway into this mountain, where it has remained since. Unable to wrench its body from Mount Ironrot, the graymatter engine fell into a despondent torpor that lasted until the arrival of its recent visitors.
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/078-04-012-landro.webp#center\|Landro]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/078-04-012-landro.webp#center\|Landro]]
 
 #### Sharing Secrets
 
@@ -705,7 +705,7 @@ Landro understands the world by peering into the thoughts and memories of living
 
 Landro wishes to learn secrets from the characters through a type of osmosis. Landro tells the characters that this process is harmless and takes only a moment, though it does require physical contact with the head of a consenting character, as well as spending a secret the character has learned. If the characters reject the idea, Landro doesn't push the matter.
 
-If the characters consent to the entity's request, Landro extends a ribbonlike tentacle of graymatter fluid. Landro uses this tentacle to briefly touch the head of each consenting character in turn. An affected character hears a deep, sloshing sound and experiences a sensation like being underwater, but when the tentacle is removed, the character is as dry as before.
+If the characters consent to the entity's request, Landro extends a ribbon-like tentacle of graymatter fluid. Landro uses this tentacle to briefly touch the head of each consenting character in turn. An affected character hears a deep, sloshing sound and experiences a sensation like being underwater, but when the tentacle is removed, the character is as dry as before.
 
 After this process, Landro nods in quiet appreciation and thanks the party for sharing their secrets.
 
@@ -717,13 +717,13 @@ If any character consents to the graymatter engine's secret-learning process, th
 
 If the characters befriend Landro, or if two or more of the characters agree to share a secret with it, the entity warns the party of the engine room's defense sentinels and explains how the colossus's shutdown sequence works. Even though it is mentally merged with the colossus of the same name, the entity can't control the colossus's systems.
 
-![[6. Resources/5e Modules/Vecna Eve Of Ruin/img/079-04-009-emerald-elemental-gem.webp#center\|Elemental Gem (Emerald)]]
+![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/079-04-009-emerald-elemental-gem.webp#center\|Elemental Gem (Emerald)]]
 
 #### Crystal Companion
 
 At the end of their conversation, Landro asks to travel with the party so it can continue to learn from them. If the characters find a special kind of gem called an id crystal, Landro explains, they can transfer the graymatter engine's consciousness to it. Landro tells the characters that a suitable id crystal can be found in the colossus's left foot (area L6).
 
-When an id crystal touches the graymatter engine, the graymatter engine's consciousness is transferred to the crystal, which becomes an [[5. Mechanics/Items/Elemental Gem Emerald.md\|Elemental Gem (emerald)]].
+When an id crystal touches the graymatter engine, the graymatter engine's consciousness is transferred to the crystal, which becomes an [[/5. Mechanics/Items/Elemental Gem Emerald.md\|Elemental Gem (emerald)]].
 
 As soon as the graymatter engine's consciousness is transferred to the id crystal, the rod piece powering the graymatter engine falls to the floor, activating the hidden sentinels in area L28 and starting Landro's shutdown sequence (see below).
 
@@ -737,4 +737,4 @@ When Landro's shutdown sequence is activated, a magical, soothing voice announce
 
 ## Next Steps
 
-Once they've acquired the third piece of the [[5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], the characters can return to the oval portal on Mount Ironrot's outskirts. Stepping through the portal returns the characters to the sanctum in Sigil.
+Once they've acquired the third piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], the characters can return to the oval portal on Mount Ironrot's outskirts. Stepping through the portal returns the characters to the sanctum in Sigil.

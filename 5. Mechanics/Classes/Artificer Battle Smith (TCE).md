@@ -53,7 +53,7 @@ Battle Smiths played a key role in House Cannith's work on battle constructs and
 
 ### Tool Proficiency (Level 3)
 
-When you adopt this specialization at 3rd level, you gain proficiency with [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]]. If you already have this proficiency, you gain proficiency with one other type of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice.
+When you adopt this specialization at 3rd level, you gain proficiency with [[/5. Mechanics/Items/Smiths Tools.md\|smith's tools]]. If you already have this proficiency, you gain proficiency with one other type of [[/5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice.
 
 ### Battle Smith Spells (Level 3)
 
@@ -63,11 +63,11 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 
 | Artificer Level | Spell |
 |-----------------|-------|
-| 3rd | [[5. Mechanics/Spells/Heroism.md\|heroism]], [[5. Mechanics/Spells/Shield.md\|shield]] |
-| 5th | [[5. Mechanics/Spells/Branding Smite.md\|branding smite]], [[5. Mechanics/Spells/Warding Bond.md\|warding bond]] |
-| 9th | [[5. Mechanics/Spells/Aura Of Vitality.md\|aura of vitality]], [[5. Mechanics/Spells/Conjure Barrage.md\|conjure barrage]] |
-| 13th | [[5. Mechanics/Spells/Aura Of Purity.md\|aura of purity]], [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] |
-| 17th | [[5. Mechanics/Spells/Banishing Smite.md\|banishing smite]], [[5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]] |
+| 3rd | [[/5. Mechanics/Spells/Heroism.md\|heroism]], [[/5. Mechanics/Spells/Shield.md\|shield]] |
+| 5th | [[/5. Mechanics/Spells/Branding Smite.md\|branding smite]], [[/5. Mechanics/Spells/Warding Bond.md\|warding bond]] |
+| 9th | [[/5. Mechanics/Spells/Aura Of Vitality.md\|aura of vitality]], [[/5. Mechanics/Spells/Conjure Barrage.md\|conjure barrage]] |
+| 13th | [[/5. Mechanics/Spells/Aura Of Purity.md\|aura of purity]], [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] |
+| 17th | [[/5. Mechanics/Spells/Banishing Smite.md\|banishing smite]], [[/5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]] |
 ^battle-smith-spells
 
 ### Battle Ready (Level 3)
@@ -79,13 +79,13 @@ When you reach 3rd level, your combat training and your experiments with magic h
 
 ### Steel Defender (Level 3)
 
-By 3rd level, your tinkering has borne you a faithful companion, a [[5. Mechanics/Bestiary/Construct/Steel Defender (TCE).md\|steel defender]]. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the steel defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
+By 3rd level, your tinkering has borne you a faithful companion, a [[/5. Mechanics/Bestiary/Construct/Steel Defender (TCE).md\|steel defender]]. It is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the steel defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
 
 In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]], the defender can take any action of its choice, not just [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]].
 
-If the [[5. Mechanics/Spells/Mending.md\|mending]] spell is cast on it, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. If it has died within the last hour, you can use your [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]] as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.
+If the [[/5. Mechanics/Spells/Mending.md\|mending]] spell is cast on it, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. If it has died within the last hour, you can use your [[/5. Mechanics/Items/Smiths Tools.md\|smith's tools]] as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with all its hit points restored.
 
-At the end of a long rest, you can create a new steel defender if you have your [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]] with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.
+At the end of a long rest, you can create a new steel defender if you have your [[/5. Mechanics/Items/Smiths Tools.md\|smith's tools]] with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.
 
 ### Extra Attack (Level 5)
 
@@ -106,4 +106,4 @@ At 15th level, your Arcane Jolt and steel defender become more powerful:
 
 - The extra damage and the healing of your Arcane Jolt both increase to `dice:4d6|noform|noparens|avg` (`4d6`).  
 - Your steel defender gains a +2 bonus to Armor Class.  
-- Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to `dice:1d4|noform|noparens|avg` (`d4`) + your Intelligence modifier.
+- Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Intelligence modifier.

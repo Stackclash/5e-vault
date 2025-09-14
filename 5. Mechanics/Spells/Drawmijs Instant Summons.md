@@ -16,13 +16,12 @@ level: 6
 ritual: true
 time: 1 minute
 duration: Until dispelled
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: 'a sapphire worth 1,000 gp'
 aliases:
   - Drawmij's Instant Summons
-material: 'a sapphire worth 1,000 gp'
 ---
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  
@@ -38,8 +37,8 @@ At any time thereafter, you can use your action to speak the item's name and cru
 
 If another creature is holding or carrying the item, crushing the sapphire doesn't transport the item to you, but instead you learn who the creature possessing the object is and roughly where that creature is located at that moment.
 
-[[5. Mechanics/Spells/Dispel Magic.md\|Dispel magic]] or a similar effect successfully applied to the sapphire ends this spell's effect.
+[[/5. Mechanics/Spells/Dispel Magic.md\|Dispel magic]] or a similar effect successfully applied to the sapphire ends this spell's effect.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 235. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Instant Summons")*

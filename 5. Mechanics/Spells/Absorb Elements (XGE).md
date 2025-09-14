@@ -26,11 +26,18 @@ classes:
   - Wizard
 school: Abjuration
 level: 1
+damage:
+  base: 1d6
+  scaling:
+    damage: 1d6
+    level: 2
+  types: []
 ritual: false
 time: 1 Reaction
 duration: 1 round
-components:
-  - S
+range: Self
+somatic: true
+verbal: false
 aliases:
   - Absorb Elements
 ---
@@ -42,10 +49,12 @@ aliases:
 - **Components:** S
 - **Duration:** 1 round
 
-The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) damage of the triggering type, and the spell ends.
+The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage of the triggering type, and the spell ends.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Xanathar's Guide to Everything p. 150*

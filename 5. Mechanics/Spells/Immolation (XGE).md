@@ -14,14 +14,28 @@ classes:
   - Wizard
 school: Evocation
 level: 5
+damage:
+  base: 8d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - fire
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: half damage
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
+duration: 'Concentration, up to 1 minute'
+range: 90 feet
+somatic: false
+verbal: true
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Immolation
-concentration: true
 ---
 # Immolation
 *5th-level, Evocation*  
@@ -35,6 +49,6 @@ Flames wreathe one creature you can see within range. The target must make a Dex
 
 If damage from this spell kills a target, the target is turned to ash.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 158*

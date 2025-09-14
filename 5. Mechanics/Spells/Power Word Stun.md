@@ -16,14 +16,18 @@ classes:
   - Wizard
 school: Enchantment
 level: 8
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
+range: 60 feet
+somatic: false
+verbal: true
 aliases:
   - Power Word Stun
-range: 60 feet
 ---
 # Power Word Stun
 *8th-level, Enchantment*  
@@ -37,6 +41,6 @@ You speak a word of power that can overwhelm the mind of one creature you can se
 
 The [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

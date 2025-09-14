@@ -14,17 +14,22 @@ classes:
   - Wizard
 school: Transmutation
 level: 7
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - slashing
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: 30 feet
+somatic: true
+verbal: true
+material: 100 miniature axes
 aliases:
   - Walking Wall
-concentration: true
-material: 100 miniature axes
 ---
 # Walking Wall
 *7th-level, Transmutation*  
@@ -38,6 +43,6 @@ This spell creates a wall of swinging axes from the pile of miniature axes you p
 
 The wall has AC 12 and 200 hit points, and is immune to necrotic, poison, psychic, and piercing damage. If it is reduced to 0 hit points or when the spell's duration ends, the wall disappears and the miniature axes fall to the ground in a tidy heap.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 119*

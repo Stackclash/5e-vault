@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'grassland, forest, hill, desert, coastal'
 size: Medium
 tags:
@@ -18,7 +18,7 @@ tags:
 aliases:
   - Giant Wolf Spider
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Wolf Spider.md|Giant Wolf Spider]]
+# [[5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md|Giant Wolf Spider]]
 *Source: Monster Manual p. 330, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
@@ -45,7 +45,8 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+7"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -58,7 +59,7 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
   - "desc": "The spider ignores movement restrictions caused by webbing."
     "name": "Web Walker"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4\
       \ (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving\
       \ throw, taking 7 (2d6) poison damage on a failed save, or half as much damage\
       \ on a successful one. If the poison damage reduces the target to 0 hit points,\
@@ -70,7 +71,7 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
   - "MM"
   - "CoS"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-wolf-spider.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/giant-wolf-spider.webp"
 ```
 ^statblock
 

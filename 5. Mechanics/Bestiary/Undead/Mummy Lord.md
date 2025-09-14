@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mummy Lord
 ---
-# [[5. Mechanics\Bestiary\Undead\Mummy Lord.md|Mummy Lord]]
+# [[5. Mechanics/Bestiary/Undead/Mummy Lord.md|Mummy Lord]]
 *Source: Monster Manual p. 229, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
@@ -90,10 +90,10 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
   - !!int "16"
 "speed": "20 ft."
 "saves":
-  - "constitution": "+8"
-  - "intelligence": "+5"
-  - "wisdom": "+9"
-  - "charisma": "+8"
+  - "constitution": !!int "8"
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "8"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
     "desc": "+5"
@@ -105,23 +105,24 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": "the languages it knew in life"
 "cr": "15"
 "traits":
   - "desc": "The mummy lord is a 10th-level spellcaster. Its spellcasting ability\
       \ is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord\
-      \ has the following cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Sacred Flame.md|sacred\
-      \ flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-      \n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Guiding Bolt.md|guiding\
-      \ bolt]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-      \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-      \ [[5. Mechanics/Spells/Silence.md|silence]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\
-      \n3rd level (3 slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
-      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\n4th level (3 slots):\
-      \ [[5. Mechanics/Spells/Divination.md|divination]], [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]]\n\
-      \n5th level (2 slots): [[5. Mechanics/Spells/Contagion.md|contagion]], [[5. Mechanics/Spells/Insect Plague.md|insect\
-      \ plague]]\n\n6th level (1 slots): [[5. Mechanics/Spells/Harm.md|harm]]"
+      \ has the following cleric spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Sacred Flame.md|sacred\
+      \ flame]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+      \n**1st level (4 slots):** [[/5. Mechanics/Spells/Command.md|command]], [[/5. Mechanics/Spells/Guiding Bolt.md|guiding\
+      \ bolt]], [[/5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
+      \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Hold Person.md|hold person]],\
+      \ [[/5. Mechanics/Spells/Silence.md|silence]], [[/5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\n\
+      \n**3rd level (3 slots):** [[/5. Mechanics/Spells/Animate Dead.md|animate dead]],\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\n**4th level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Divination.md|divination]], [[/5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]]\n\
+      \n**5th level (2 slots):** [[/5. Mechanics/Spells/Contagion.md|contagion]], [[/5. Mechanics/Spells/Insect Plague.md|insect\
+      \ plague]]\n\n**6th level (1 slots):** [[/5. Mechanics/Spells/Harm.md|harm]]"
     "name": "Spellcasting"
   - "desc": "The mummy lord has advantage on saving throws against spells and other\
       \ magical effects."
@@ -134,13 +135,13 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
   - "desc": "The mummy can use its Dreadful Glare and makes one attack with its rotting\
       \ fist."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target\
       \ is a creature, it must succeed on a DC 16 Constitution saving throw or be\
       \ cursed with mummy rot. The cursed target can't regain hit points, and its\
       \ hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If\
       \ the curse reduces the target's hit point maximum to 0, the target dies, and\
-      \ its body turns to dust. The curse lasts until removed by the [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
+      \ its body turns to dust. The curse lasts until removed by the [[/5. Mechanics/Spells/Remove Curse.md|remove curse]]\
       \ spell or other magic."
     "name": "Rotting Fist"
   - "desc": "The mummy lord targets one creature it can see within 60 feet of it.\
@@ -151,6 +152,38 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
       \ for the same duration. A target that succeeds on the saving throw is immune\
       \ to the Dreadful Glare of all mummies and mummy lords for the next 24 hours."
     "name": "Dreadful Glare"
+"lair_actions":
+  - "desc": "On initiative count 20 (losing initiative ties), the mummy lord takes\
+      \ a lair action to cause one of the following effects; the mummy lord can't\
+      \ use the same effect two rounds in a row:\n\n- Each undead creature in the\
+      \ lair can pinpoint the location of each living creature within 120 feet of\
+      \ it until initiative count 20 on the next round.  \n- Each undead in the lair\
+      \ has advantage on saving throws against effects that turn undead until initiative\
+      \ count 20 on the next round.  \n- Until initiative count 20 on the next round,\
+      \ any non-undead creature that tries to cast a spell of 4th level or lower in\
+      \ the mummy lord's lair is wracked with pain. The creature can choose another\
+      \ action, but if it tries to cast the spell, it must make a DC 16 Constitution\
+      \ saving throw. On a failed save, it takes 1d6 necrotic damage per level of\
+      \ the spell, and the spell has no effect and is wasted.  "
+    "name": ""
+"regional_effects":
+  - "desc": "A mummy lord's temple or tomb is warped in any of the following ways\
+      \ by the creature's dark presence:\n\n- Food instantly molders and water instantly\
+      \ evaporates when brought into the lair. Other non magical drinks are spoiled\
+      \ - wine turning to vinegar, for instance.  \n- [[/5. Mechanics/Spells/Divination.md|Divination]]\
+      \ spells cast within the lair by creatures other than the mummy lord have a\
+      \ 25 percent chance to provide misleading results, as determined by the DM.\
+      \ If a [[/5. Mechanics/Spells/Divination.md|divination]] spell already has a chance\
+      \ to fail or become unreliable when cast multiple times, that chance increases\
+      \ by 25 percent.  \n- A creature that takes treasure from the lair is cursed\
+      \ until the treasure is returned. The cursed target has disadvantage on all\
+      \ saving throws. The curse lasts until removed by a [[/5. Mechanics/Spells/Remove Curse.md|remove curse]]\
+      \ spell or other magic.  \n\nIf the mummy lord is destroyed, these regional\
+      \ effects end immediately."
+    "name": ""
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the mummy lord can expend a use to take one of the following actions. The\
+  \ mummy lord regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The mummy lord makes one attack with its rotting fist or uses its Dreadful\
       \ Glare."
@@ -176,43 +209,10 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
       \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], or [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]].\
       \ Equipment worn or carried by the mummy lord remain in its possession."
     "name": "Whirlwind of Sand (Costs 2 Actions)"
-"lair_actions":
-  - "desc": "On initiative count 20 (losing initiative ties), the mummy lord takes\
-      \ a lair action to cause one of the following effects; the mummy lord can't\
-      \ use the same effect two rounds in a row:"
-    "name": ""
-  - "desc": "- Each undead creature in the lair can pinpoint the location of each\
-      \ living creature within 120 feet of it until initiative count 20 on the next\
-      \ round.  \n- Each undead in the lair has advantage on saving throws against\
-      \ effects that turn undead until initiative count 20 on the next round.  \n\
-      - Until initiative count 20 on the next round, any non-undead creature that\
-      \ tries to cast a spell of 4th level or lower in the mummy lord's lair is wracked\
-      \ with pain. The creature can choose another action, but if it tries to cast\
-      \ the spell, it must make a DC 16 Constitution saving throw. On a failed save,\
-      \ it takes d6 necrotic damage per level of the spell, and the spell has no effect\
-      \ and is wasted.  "
-    "name": ""
-"regional_effects":
-  - "desc": "A mummy lord's temple or tomb is warped in any of the following ways\
-      \ by the creature's dark presence:"
-    "name": ""
-  - "desc": "- Food instantly molders and water instantly evaporates when brought\
-      \ into the lair. Other non magical drinks are spoiled - wine turning to vinegar,\
-      \ for instance.  \n- [[5. Mechanics/Spells/Divination.md|Divination]] spells cast\
-      \ within the lair by creatures other than the mummy lord have a 25 percent chance\
-      \ to provide misleading results, as determined by the DM. If a [[5. Mechanics/Spells/Divination.md|divination]]\
-      \ spell already has a chance to fail or become unreliable when cast multiple\
-      \ times, that chance increases by 25 percent.  \n- A creature that takes treasure\
-      \ from the lair is cursed until the treasure is returned. The cursed target\
-      \ has disadvantage on all saving throws. The curse lasts until removed by a\
-      \ [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell or other magic.  "
-    "name": ""
-  - "desc": "If the mummy lord is destroyed, these regional effects end immediately."
-    "name": ""
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Undead/token/mummy-lord.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/mummy-lord.webp"
 ```
 ^statblock
 

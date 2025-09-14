@@ -22,17 +22,21 @@ classes:
   - Wizard
 school: Illusion
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: 10 feet
+somatic: true
+verbal: true
+material: a copper piece
 aliases:
   - Dead Walking
-concentration: true
-material: a copper piece
 ---
 # Dead Walking
 *2nd-level, Illusion*  
@@ -46,6 +50,6 @@ As part of the casting of this spell, you place a copper piece under your tongue
 
 **At Higher Levels.** When you cast this spell using a 3rd-level spell slot, it lasts for 1 hour without requiring your concentration. When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 58*

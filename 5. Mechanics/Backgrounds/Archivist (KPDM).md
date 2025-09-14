@@ -11,7 +11,7 @@ aliases:
 *Source: Deep Magic p. 154*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]  
-- **Tool Proficiencies.** Artisan's tools ([[5. Mechanics/Items/Calligraphers Supplies.md\|calligrapher's supplies]])  
+- **Tool Proficiencies.** Artisan's tools ([[/5. Mechanics/Items/Calligraphers Supplies.md\|calligrapher's supplies]])  
 - **Languages.** Two of your choice  
 - **Equipment.** A leather-bound journal full of notes from past research projects, a set of robes, calligrapher's supplies, 5 sheets of loose paper, a pair of spectacles, and a pouch containing 15 gp  
 

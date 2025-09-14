@@ -17,7 +17,7 @@ tags:
 aliases:
   - Kobold Dragonshield
 ---
-# [[5. Mechanics\Bestiary\Dragon\Kobold Dragonshield (MPMM).md|Kobold Dragonshield]]
+# [[5. Mechanics/Bestiary/Dragon/Kobold Dragonshield (MPMM).md|Kobold Dragonshield]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*
 
 > [!quote] A quote from Mordenkainen  
@@ -34,7 +34,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "type": "dragon"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "44"
 "hit_dice": "8d6 + 16"
 "modifier": !!int "2"
@@ -50,7 +50,8 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+1"
 "damage_resistances": "see Dragon's Resistance below"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "Common, Draconic"
 "cr": "1"
 "traits":
@@ -77,14 +78,14 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "actions":
   - "desc": "The kobold makes two Spear attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing\
       \ damage if used with two hands to make a melee attack."
     "name": "Spear"
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Dragon/token/kobold-dragonshield-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Dragon/token/kobold-dragonshield-mpmm.webp"
 ```
 ^statblock
 

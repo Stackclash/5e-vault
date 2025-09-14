@@ -13,7 +13,7 @@ tags:
 aliases:
   - Quasit
 ---
-# [[5. Mechanics\Bestiary\Fiend\Quasit.md|Quasit]]
+# [[5. Mechanics/Bestiary/Fiend/Quasit.md|Quasit]]
 *Source: Monster Manual p. 63, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Quasits infest the Lower Planes. Physically weak, they keep to the shadows to plot mischief and wickedness. More powerful demons use quasits as spies and messengers when they aren't devouring them or pulling them apart to pass the time.
@@ -169,13 +169,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`d8`) vrocks, `dice:1d6|noform|noparens|avg` (`d6`) hezrous, `dice:1d4|noform|noparens|avg` (`d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`1d8`) vrocks, `dice:1d6|noform|noparens|avg` (`1d6`) hezrous, `dice:1d4|noform|noparens|avg` (`1d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`1d2`) mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`d3`) vrocks, `dice:1d2|noform|noparens|avg` (`d2`) hezrous, or one glabrezu.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`1d3`) vrocks, `dice:1d2|noform|noparens|avg` (`1d2`) hezrous, or one glabrezu.  
 > - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) vrocks, `dice:1d4|noform|noparens|avg` (`d4`) hezrous, `dice:1d3|noform|noparens|avg` (`d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) vrocks, `dice:1d3|noform|noparens|avg` (`d3`) hezrous, `dice:1d2|noform|noparens|avg` (`d2`) glabrezus, or one nalfeshnee.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`1d6`) vrocks, `dice:1d4|noform|noparens|avg` (`1d4`) hezrous, `dice:1d3|noform|noparens|avg` (`1d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`1d4`) vrocks, `dice:1d3|noform|noparens|avg` (`1d3`) hezrous, `dice:1d2|noform|noparens|avg` (`1d2`) glabrezus, or one nalfeshnee.  
 > - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
@@ -212,7 +212,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   \ nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 10"
 "languages": "Abyssal, Common"
 "cr": "1"
 "traits":
@@ -227,7 +228,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
       \ + 3) piercing damage, and the target must succeed on a DC 10 Constitution\
       \ saving throw or take 5 (2d4) poison damage and become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
@@ -250,7 +251,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - "CoS"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fiend/token/quasit.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/quasit.webp"
 ```
 ^statblock
 

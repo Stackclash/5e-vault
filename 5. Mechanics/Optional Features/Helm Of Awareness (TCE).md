@@ -10,6 +10,6 @@ aliases:
 # Helm of Awareness
 *Source: Tasha's Cauldron of Everything p. 21*  
 
-***Prerequisites*** 10th
+***Prerequisites*** Level 10
 
 While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]], provided it isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].

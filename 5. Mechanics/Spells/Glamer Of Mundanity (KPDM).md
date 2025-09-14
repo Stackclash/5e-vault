@@ -15,15 +15,13 @@ school: Illusion
 level: 1
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: Touch
+somatic: true
+verbal: true
+material: a pinch of powered iron
 aliases:
   - Glamer of Mundanity
-concentration: true
-material: a pinch of powered iron
 ---
 # Glamer of Mundanity
 *1st-level, Illusion*  
@@ -35,6 +33,8 @@ material: a pinch of powered iron
 
 You lay a glamer upon a touched creature that makes it easily overlooked and forgettable. For the duration of the spell, any Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks to notice the target, or any ability checks made to recall details about the target or any interactions with it, are made with disadvantage. The target gains advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks, but has disadvantage on any Charisma checks made while under the glamer.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Shadow Touched (TCE).md\|Shadow Touched]]
 
 *Source: Deep Magic p. 75*

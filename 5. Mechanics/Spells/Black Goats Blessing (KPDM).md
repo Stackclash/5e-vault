@@ -10,16 +10,15 @@ tags:
 classes:
   - Bard
 school: Enchantment
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Black Goat's Blessing
-concentration: true
 ---
 # Black Goat's Blessing
 *cantrip, Enchantment*  
@@ -31,6 +30,6 @@ concentration: true
 
 You raise your hand with fingers splayed and utter an incantation of the Black Goat with a Thousand Young. Your magic is blessed with the eldritch virility of the All-Mother. The target has disadvantage on saving throws against spells you cast until the end of your next turn.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 337*

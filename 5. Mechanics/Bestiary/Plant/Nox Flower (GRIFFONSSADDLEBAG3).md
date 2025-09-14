@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nox Flower
 ---
-# [[5. Mechanics\Bestiary\Plant\Nox Flower (GRIFFONSSADDLEBAG3).md|Nox Flower]]
+# [[5. Mechanics/Bestiary/Plant/Nox Flower (GRIFFONSSADDLEBAG3).md|Nox Flower]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The nox flower was originally created in the Safire Wood as a misguided attempt to stem the tide of the Midas Tree's expansion on the fey plane.
@@ -50,7 +50,8 @@ Nox flowers are not exactly social, as they have no language, but they do tend t
 "speed": "20 ft."
 "damage_resistances": "the damage type corresponding to the nox flower's color (see\
   \ prismatic bloom trait)"
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft. (blind beyond\
+  \ this radius), passive Perception 10"
 "languages": ""
 "cr": "1/8"
 "traits":
@@ -71,8 +72,8 @@ Nox flowers are not exactly social, as they have no language, but they do tend t
       \ turn; it gets only one of the three."
     "name": "Death Burst"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's\
-      \ space. Hit: 2 slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 0 ft., one target in the swarm's\
+      \ space. *Hit:* 2 slashing damage."
     "name": "Leaf Lash"
 "source":
   - "GriffonsSaddlebag3"

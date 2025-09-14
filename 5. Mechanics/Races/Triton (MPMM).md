@@ -9,7 +9,7 @@ aliases:
 ---
 # Triton
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 35*  
-![[5. Mechanics/Races/img/triton.webp#right]]  
+![[/5. Mechanics/Races/img/triton.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -28,7 +28,7 @@ You can breathe air and water.
 
 ### Control Air and Water
 
-You can cast [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] with this trait. Starting at 3rd level, you can cast the [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] spell with this trait. Starting at 5th level, you can also cast the [[5. Mechanics/Spells/Water Wa(LK).md\|water walk]] spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.
+You can cast [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] with this trait. Starting at 3rd level, you can cast the [[/5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] spell with this trait. Starting at 5th level, you can also cast the [[/5. Mechanics/Spells/Water Wa(LK).md\|water walk]] spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 

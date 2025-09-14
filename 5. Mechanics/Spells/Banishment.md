@@ -34,21 +34,25 @@ classes:
   - Wizard
 school: Abjuration
 level: 4
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 5
+  types: []
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+material: an item distasteful to the target
 aliases:
   - Banishment
-range: 60 feet
-material: An item distasteful to the target.
-save:
-  type: CHA
-  success: none
-concentration: true
 ---
 # Banishment
 *4th-level, Abjuration*  
@@ -66,6 +70,6 @@ If the target is native to a different plane of existence than the one you're on
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
 
-**Classes**: [Paladin (Oath of the Watchers)](compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Ranger (Monster Slayer)](compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Ranger (Horizon Walker)](compendium/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Paladin (Oath of the Watchers)](/compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Ranger (Horizon Walker)](/compendium/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE"); [Ranger (Monster Slayer)](/compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

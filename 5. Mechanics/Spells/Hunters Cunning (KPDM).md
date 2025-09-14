@@ -17,9 +17,9 @@ level: 2
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Hunter's Cunning
 ---
@@ -33,6 +33,6 @@ aliases:
 
 You grant a creature you touch preternatural senses and insight into its immediate environment. Until the spell ends, the target gains advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) and Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks and ignores the effect of natural (nonmagical) difficult terrain.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 81*

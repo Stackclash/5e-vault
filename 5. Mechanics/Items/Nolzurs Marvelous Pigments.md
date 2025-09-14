@@ -11,11 +11,11 @@ weight: 1
 ---
 # Nolzur's Marvelous Pigments
 *Wondrous item, minor, very rare*  
-![[5. Mechanics/Items/img/nolzurs-marvelous-pigments.webp#right]]  
+![[/5. Mechanics/Items/img/nolzurs-marvelous-pigments.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 
-Typically found in `dice:1d4|noform|noparens|avg` (`d4`) pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
+Typically found in `dice:1d4|noform|noparens|avg` (`1d4`) pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
 
 Each pot of paint is sufficient to cover 1,000 square feet of a surface, which lets you create inanimate objects or terrain features—such as a door, a pit, flowers, trees, cells, rooms, or weapons—that are up to 10,000 cubic feet. It takes 10 minutes to cover 100 square feet.
 

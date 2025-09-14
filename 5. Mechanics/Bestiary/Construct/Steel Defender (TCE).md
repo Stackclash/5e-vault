@@ -13,7 +13,7 @@ tags:
 aliases:
   - Steel Defender
 ---
-# [[5. Mechanics\Bestiary\Construct\Steel Defender (TCE).md|Steel Defender]]
+# [[5. Mechanics/Bestiary/Construct/Steel Defender (TCE).md|Steel Defender]]
 *Source: Tasha's Cauldron of Everything p. 19*
 
 ```statblock
@@ -45,14 +45,15 @@ aliases:
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 0"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 0"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "The defender can't be [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]]."
     "name": "Vigilant"
 "actions":
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target you can see. Hit: 1d8 + PB force damage."
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target you can see. *Hit:* 1d8 + PB force damage."
     "name": "Force-Empowered Rend"
   - "desc": "The magical mechanisms inside the defender restore 2d8 + PB hit points\
       \ to itself or to one construct or object within 5 feet of it."
@@ -64,7 +65,7 @@ aliases:
     "name": "Deflect Attack"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Construct/token/steel-defender-tce.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/steel-defender-tce.webp"
 ```
 ^statblock
 

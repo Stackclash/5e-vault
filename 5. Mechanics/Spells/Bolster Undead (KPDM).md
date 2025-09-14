@@ -23,16 +23,21 @@ classes:
   - Wizard
 school: Necromancy
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 2
+  types: []
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: 60 feet
+somatic: true
+verbal: true
+material: a sprinkle of unholy water
 aliases:
   - Bolster Undead
-material: a sprinkle of unholy water
 ---
 # Bolster Undead
 *1st-level, Necromancy*  
@@ -46,6 +51,8 @@ You suffuse an area with negative energy to increase the difficulty of harming o
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional undead creature for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Shadow Touched (TCE).md\|Shadow Touched]]
 
 *Source: Deep Magic p. 45*

@@ -35,16 +35,13 @@ school: Transmutation
 level: 3
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: true
+verbal: true
+material: a bit of gauze and a wisp of smoke
 aliases:
   - Gaseous Form
-range: Touch
-material: A bit of gauze and a wisp of smoke.
-concentration: true
 ---
 # Gaseous Form
 *3rd-level, Transmutation*  
@@ -60,6 +57,6 @@ While in this form, the target's only method of movement is a flying speed of 10
 
 While in the form of a misty cloud, the target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. The target can't attack or cast spells.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Ranger (Swarmkeeper)](compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [Cleric (Ocean Domain)](compendium/lists/list-spells-classes-ocean-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Druid (Circle of Spores)](compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Void Domain)](compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Artificer (Alchemist)](compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE")
+**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Ocean Domain)](/compendium/lists/list-spells-classes-ocean-domain-kpdm.md "subclass=KPDM"); [Cleric (Void Domain)](/compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of Spores)](/compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Swarmkeeper)](/compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 244. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

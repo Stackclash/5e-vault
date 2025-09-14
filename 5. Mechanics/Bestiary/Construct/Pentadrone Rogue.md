@@ -13,7 +13,7 @@ tags:
 aliases:
   - Pentadrone (Rogue)
 ---
-# [[5. Mechanics\Bestiary\Construct\Pentadrone Rogue.md|Pentadrone (Rogue)]]
+# [[5. Mechanics/Bestiary/Construct/Pentadrone Rogue.md|Pentadrone (Rogue)]]
 *Source: Monster Manual p. 226*
 
 ```statblock
@@ -37,7 +37,8 @@ aliases:
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
-"senses": "truesight 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 14"
 "languages": "Modron"
 "cr": "2"
 "traits":
@@ -47,7 +48,7 @@ aliases:
 "actions":
   - "desc": "The pentadrone makes five arm attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) bludgeoning damage."
     "name": "Arm"
   - "desc": "The pentadrone exhales a 30-foot cone of gas. Each creature in that area\

@@ -54,11 +54,11 @@ You are an initiate into the quiet mysteries of the moon and the subtleties of t
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Agonizing Mark (KPDM).md\|agonizing mark]], [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] |
-| 3rd | [[5. Mechanics/Spells/Dome Of Silence (KPDM).md\|dome of silence]], [[5. Mechanics/Spells/Moonbeam.md\|moonbeam]] |
-| 5th | [[5. Mechanics/Spells/Fear.md\|fear]], [[5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]] |
-| 7th | [[5. Mechanics/Spells/Compulsion.md\|compulsion]], [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] |
-| 9th | [[5. Mechanics/Spells/Dream.md\|dream]], [[5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
+| 1st | [[/5. Mechanics/Spells/Agonizing Mark (KPDM).md\|agonizing mark]], [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] |
+| 3rd | [[/5. Mechanics/Spells/Dome Of Silence (KPDM).md\|dome of silence]], [[/5. Mechanics/Spells/Moonbeam.md\|moonbeam]] |
+| 5th | [[/5. Mechanics/Spells/Fear.md\|fear]], [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]] |
+| 7th | [[/5. Mechanics/Spells/Compulsion.md\|compulsion]], [[/5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] |
+| 9th | [[/5. Mechanics/Spells/Dream.md\|dream]], [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
 ^moon-domain-spells
 
 ### Moon's Grace (Level 1)
@@ -71,11 +71,11 @@ Starting at 2nd level, you can use your Channel Divinity to harness moonlight to
 
 ### Luminescent Aura (Level 6)
 
-At 6th level, you can use an action to emit a nimbus of light in a 30-foot radius for a number of rounds equal to your cleric level. This acts as a [[5. Mechanics/Spells/Light.md\|light]] spell but provides only dim illumination. All weapons and ammunition are treated as silvered while they're in the aura and for one round after leaving it. Opponents that end their turn in the aura must make a successful Dexterity saving throw or be limned in silver light, identical in effect to a [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] spell, until the end of their next turn.
+At 6th level, you can use an action to emit a nimbus of light in a 30-foot radius for a number of rounds equal to your cleric level. This acts as a [[/5. Mechanics/Spells/Light.md\|light]] spell but provides only dim illumination. All weapons and ammunition are treated as silvered while they're in the aura and for one round after leaving it. Opponents that end their turn in the aura must make a successful Dexterity saving throw or be limned in silver light, identical in effect to a [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] spell, until the end of their next turn.
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) cold damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) cold damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### The Moonlit Way (Level 17)
 

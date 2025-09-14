@@ -26,13 +26,12 @@ level: 1
 ritual: true
 time: 1 minute
 duration: 10 days
-components:
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: false
+material: 'a lead-based ink worth at least 10 gp, which the spell consumes'
 aliases:
   - Illusory Script
-range: Touch
-material: 'A lead-based ink worth at least 10gp, which this spell consumes.'
 ---
 # Illusory Script
 *1st-level, Illusion (ritual)*  
@@ -50,6 +49,8 @@ Should the spell be dispelled, the original script and the illusion both disappe
 
 A creature with [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]] can read the hidden message.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Ritual Caster.md\|Ritual Caster]]; [[/5. Mechanics/Lists/List Spells Feats Shadow Touched (TCE).md\|Shadow Touched]]
 
 *Source: Player's Handbook p. 252. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

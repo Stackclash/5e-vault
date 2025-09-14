@@ -14,16 +14,21 @@ classes:
   - Wizard
 school: Necromancy
 level: 6
+damage:
+  base: 2d8
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 1 Reaction
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: 60 feet
+somatic: true
+verbal: true
+material: a tiny silver cage worth 100 gp
 aliases:
   - Soul Cage
-material: a tiny silver cage worth 100 gp
 ---
 # Soul Cage
 *6th-level, Necromancy*  
@@ -51,10 +56,10 @@ You can use a bonus action to bolster yourself with the soul's life experience, 
 
 You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentrating]] on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
-A creature that can see the sensor (such as one using [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] or [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]]) sees a translucent image of the tormented humanoid whose soul you caged.
+A creature that can see the sensor (such as one using [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] or [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]]) sees a translucent image of the tormented humanoid whose soul you caged.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 165*

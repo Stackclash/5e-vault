@@ -20,13 +20,12 @@ school: Transmutation
 level: 1
 ritual: false
 time: 1 Action
-duration: up to 8 hours
-components:
-  - V
-  - S
+duration: 'Concentration, up to 8 hours'
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Ancestor's Strength
-concentration: true
 ---
 # Ancestor's Strength
 *1st-level, Transmutation*  
@@ -38,6 +37,6 @@ concentration: true
 
 Choose a willing creature you can see and touch. Its muscles bulge and become invigorated. For the duration, the target is considered one size category larger for determining its carrying capacity, the maximum weight it can lift, push, or pull, and its ability to break objects. It also has advantage on Strength checks.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 36*

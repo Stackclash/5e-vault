@@ -16,11 +16,16 @@ classes:
   - Wizard
 school: Necromancy
 level: 3
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
+range: 60 feet
+somatic: false
+verbal: true
 aliases:
   - Command Undead
 ---
@@ -34,8 +39,8 @@ aliases:
 
 You speak a one-word command to all undead creatures you can see within range. Any target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is living, if it doesn't understand your language, or if your command is directly harmful to it.
 
-See the [[5. Mechanics/Spells/Command.md\|command]] spell for examples for typical commands.
+See the [[/5. Mechanics/Spells/Command.md\|command]] spell for examples for typical commands.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 51*

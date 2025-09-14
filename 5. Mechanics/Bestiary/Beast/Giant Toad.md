@@ -18,7 +18,7 @@ tags:
 aliases:
   - Giant Toad
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Toad.md|Giant Toad]]
+# [[5. Mechanics/Bestiary/Beast/Giant Toad.md|Giant Toad]]
 *Source: Monster Manual p. 329, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -38,7 +38,8 @@ aliases:
   - !!int "10"
   - !!int "3"
 "speed": "20 ft., swim 40 ft."
-"senses": "darkvision 30 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 30 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "1"
 "traits":
@@ -48,8 +49,8 @@ aliases:
       \ with or without a running start."
     "name": "Standing Leap"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10\
-      \ + 2) piercing damage plus 5 (d10) poison damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
+      \ + 2) piercing damage plus 5 (1d10) poison damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 13). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
       \ and the toad can't bite another target."
     "name": "Bite"
@@ -66,7 +67,7 @@ aliases:
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-toad.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/giant-toad.webp"
 ```
 ^statblock
 

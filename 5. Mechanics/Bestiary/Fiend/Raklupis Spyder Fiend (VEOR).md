@@ -13,7 +13,7 @@ tags:
 aliases:
   - Raklupis Spyder-Fiend
 ---
-# [[5. Mechanics\Bestiary\Fiend\Raklupis Spyder Fiend (VEOR).md|Raklupis Spyder-Fiend]]
+# [[5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md|Raklupis Spyder-Fiend]]
 *Source: Vecna: Eve of Ruin p. 236*
 
 Raklupis spyder-fiends have hard, smooth shells and gleaming spines. With luxuriantly furry wolf heads, powerful arms, and alluring voices, raklupises are the only spyder-fiends that might be called majestic. They create delicate web globes, which they fill with their venom and hurl at foes. Raklupises are keen strategists, and most of them command legions of lesser spyder-fiends.
@@ -46,9 +46,9 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
   - !!int "23"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  - "dexterity": "+11"
-  - "constitution": "+8"
-  - "wisdom": "+9"
+  - "dexterity": !!int "11"
+  - "constitution": !!int "8"
+  - "wisdom": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+9"
@@ -56,7 +56,8 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
     "desc": "+11"
 "damage_immunities": "cold, fire, lightning, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 19"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "19"
 "traits":
@@ -75,7 +76,7 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
   - "desc": "The raklupis makes a Bite attack and two Serrated Sword attacks. It can\
       \ use Venom Globe in place of one of these attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 16\
       \ (2d10 + 5) piercing damage plus 18 (4d8) poison damage. If the target is a\
       \ creature, it must succeed on a DC 20 Constitution saving throw or have the\
       \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] condition for 1 minute.\
@@ -85,19 +86,19 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 19\
       \ (4d6 + 5) slashing damage plus 18 (4d8) poison damage."
     "name": "Serrated Sword"
-  - "desc": "Ranged Weapon Attack: +11 to hit, range 60/180 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +11 to hit, range 60/180 ft., one target. *Hit:*\
       \ 45 (10d8) poison damage."
     "name": "Venom Globe"
   - "desc": "The raklupis casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 20).\n\
-      \nAt will: [[5. Mechanics/Spells/Disguise Self.md|Disguise Self]], [[5. Mechanics/Spells/Invisibility.md|Invisibility]]\
-      \ (self only), [[5. Mechanics/Spells/Mage Hand.md|Mage Hand]], [[5. Mechanics/Spells/Minor Illusion.md|Minor Illusion]]\n\
-      \n2/day each: [[5. Mechanics/Spells/Darkness.md|Darkness]], [[5. Mechanics/Spells/Dominate Monster.md|Dominate Monster]],\
-      \ [[5. Mechanics/Spells/Mass Suggestion.md|Mass Suggestion]], [[5. Mechanics/Spells/Telekinesis.md|Telekinesis]],\
-      \ [[5. Mechanics/Spells/Teleport.md|Teleport]]"
+      \n**At will:** [[/5. Mechanics/Spells/Disguise Self.md|Disguise Self]], [[/5. Mechanics/Spells/Invisibility.md|Invisibility]]\
+      \ (self only), [[/5. Mechanics/Spells/Mage Hand.md|Mage Hand]], [[/5. Mechanics/Spells/Minor Illusion.md|Minor Illusion]]\n\
+      \n**2/day each:** [[/5. Mechanics/Spells/Darkness.md|Darkness]], [[/5. Mechanics/Spells/Dominate Monster.md|Dominate Monster]],\
+      \ [[/5. Mechanics/Spells/Mass Suggestion.md|Mass Suggestion]], [[/5. Mechanics/Spells/Telekinesis.md|Telekinesis]],\
+      \ [[/5. Mechanics/Spells/Teleport.md|Teleport]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The raklupis magically ends the [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
@@ -106,7 +107,7 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
     "name": "Demand Loyalty"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fiend/token/raklupis-spyder-fiend-veor.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/raklupis-spyder-fiend-veor.webp"
 ```
 ^statblock
 

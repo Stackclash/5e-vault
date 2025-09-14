@@ -13,7 +13,7 @@ tags:
 aliases:
   - Storm Magistrate
 ---
-# [[5. Mechanics\Bestiary\Elemental\Storm Magistrate (SAF).md|Storm Magistrate]]
+# [[5. Mechanics/Bestiary/Elemental/Storm Magistrate (SAF).md|Storm Magistrate]]
 *Source: Strongholds and Followers p. 191*
 
 The Magistrates of the Burning City are the priests and judges of the Lady of Fire. The motes, sources, and knights are diagnosticians. They identify and evaluate the problem. The Lords of Storm cure it.
@@ -49,44 +49,45 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
   - !!int "16"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+6"
-  - "wisdom": "+9"
-  - "charisma": "+7"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "7"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "fire, lightning"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 19"
 "languages": "Auran, Common, Ignan"
 "cr": "9"
 "traits":
-  - "desc": "The magistrate has the following cleric spells prepared:\n\nCantrips\
-      \ (at will): [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Guidance.md|guidance]],\
-      \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Spare The Dying.md|spare the dying]]\n\
-      \n1st level (4 slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Bless.md|bless]],\
-      \ [[5. Mechanics/Spells/Healing Word.md|healing word]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
-      \n2nd level (3 slots): [[5. Mechanics/Spells/Aid.md|aid]], [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
-      \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]], [[5. Mechanics/Spells/Prayer Of Healing.md|prayer of healing]],\
-      \ [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n3rd level (3 slots):\
-      \ [[5. Mechanics/Spells/Beacon Of Hope.md|beacon of hope]], [[5. Mechanics/Spells/Magic Circle.md|magic circle]],\
-      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Revivify.md|revivify]],\
-      \ [[5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]], [[5. Mechanics/Spells/Mass Healing Word.md|mass healing word]]\n\
-      \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom\
-      \ of movement]], [[5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]],\
-      \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Flame Strike.md|flame\
-      \ strike]], [[5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]],\
-      \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
+  - "desc": "The magistrate has the following cleric spells prepared:\n\n**Cantrips\
+      \ (at will):** [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Guidance.md|guidance]],\
+      \ [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[/5. Mechanics/Spells/Spare The Dying.md|spare the dying]]\n\
+      \n**1st level (4 slots):** [[/5. Mechanics/Spells/Bane.md|bane]], [[/5. Mechanics/Spells/Bless.md|bless]],\
+      \ [[/5. Mechanics/Spells/Healing Word.md|healing word]], [[/5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]\n\
+      \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Aid.md|aid]], [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]],\
+      \ [[/5. Mechanics/Spells/Magic Weapon.md|magic weapon]], [[/5. Mechanics/Spells/Prayer Of Healing.md|prayer of healing]],\
+      \ [[/5. Mechanics/Spells/Hold Person.md|hold person]]\n\n**3rd level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Beacon Of Hope.md|beacon of hope]], [[/5. Mechanics/Spells/Magic Circle.md|magic circle]],\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Revivify.md|revivify]],\
+      \ [[/5. Mechanics/Spells/Spirit Guardians.md|spirit guardians]], [[/5. Mechanics/Spells/Mass Healing Word.md|mass healing\
+      \ word]]\n\n**4th level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Banishment.md|banishment]], [[/5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]],\
+      \ [[/5. Mechanics/Spells/Guardian Of Faith.md|guardian of faith]], [[/5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\
+      \n**5th level (1 slots):** [[/5. Mechanics/Spells/Flame Strike.md|flame strike]],\
+      \ [[/5. Mechanics/Spells/Mass Cure Wounds.md|mass cure wounds]], [[/5. Mechanics/Spells/Hold Monster.md|hold monster]]"
     "name": "Spellcasting"
   - "desc": "The magistrate is a 13th-level spellcaster. Its spellcasting ability\
       \ is Wisdom (spell save DC 17, +9 to hit with spell attacks). It can innately\
-      \ cast the following spells, requiring no components:\n\nAt will: [[5. Mechanics/Spells/Enhance Ability.md|enhance\
+      \ cast the following spells, requiring no components:\n\n**At will:** [[/5. Mechanics/Spells/Enhance Ability.md|enhance\
       \ ability]]"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "The Magistrate makes two attacks with its morningstar."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 12\
       \ (2d8 + 3) piercing damage."
     "name": "Morningstar"
   - "desc": "Lightning arcs from the magistrate toward up to three targets it can\

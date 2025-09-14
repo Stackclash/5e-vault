@@ -57,11 +57,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[5. Mechanics/Spells/Grease.md\|grease]] |
-| 5th | [[5. Mechanics/Spells/Find Steed.md\|find steed]] (takes the form of a Medium or Large giant frog, your choice) |
-| 9th | [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
-| 13th | [[5. Mechanics/Spells/Control Water.md\|control water]] |
-| 17th | [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]] |
+| 3rd | [[/5. Mechanics/Spells/Grease.md\|grease]] |
+| 5th | [[/5. Mechanics/Spells/Find Steed.md\|find steed]] (takes the form of a Medium or Large giant frog, your choice) |
+| 9th | [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
+| 13th | [[/5. Mechanics/Spells/Control Water.md\|control water]] |
+| 17th | [[/5. Mechanics/Spells/Cloudkill.md\|cloudkill]] |
 ^marshwarden-spells
 
 ### Amphibious Alacrity (Level 3)
@@ -90,4 +90,4 @@ At 11th level, whenever you deal damage from your Toxic Strike or Poisonous Defe
 
 ### Unstoppable Marshal (Level 15)
 
-By 15th level, you have immunity to poison damage, and you are immune to the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition. Additionally, you are always under the effects of the [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] spell.
+By 15th level, you have immunity to poison damage, and you are immune to the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition. Additionally, you are always under the effects of the [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] spell.

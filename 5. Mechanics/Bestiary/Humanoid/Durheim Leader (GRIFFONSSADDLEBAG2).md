@@ -13,7 +13,7 @@ tags:
 aliases:
   - Durheim Leader
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Durheim Leader (GRIFFONSSADDLEBAG2).md|Durheim Leader]]
+# [[5. Mechanics/Bestiary/Humanoid/Durheim Leader (GRIFFONSSADDLEBAG2).md|Durheim Leader]]
 *Source: The Griffon's Saddlebag, Book 2 p. 354*
 
 Within the walls and courtyards of Durheim Monastery, the Leader serves as spiritual and secular advisor. In this role, they give lectures and interpretations of Lightseer Attiskin's teachings and philosophies, and ensure that both the living and the dead can walk their respective paths safely.
@@ -37,12 +37,12 @@ Within the walls and courtyards of Durheim Monastery, the Leader serves as spiri
   - !!int "15"
 "speed": "60 ft."
 "saves":
-  - "strength": "+5"
-  - "dexterity": "+8"
-  - "constitution": "+7"
-  - "intelligence": "+5"
-  - "wisdom": "+9"
-  - "charisma": "+6"
+  - "strength": !!int "5"
+  - "dexterity": !!int "8"
+  - "constitution": !!int "7"
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+8"
@@ -54,7 +54,8 @@ Within the walls and courtyards of Durheim Monastery, the Leader serves as spiri
     "desc": "+9"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 60 ft., passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
+  \ 19"
 "languages": "all, telepathy 60 ft."
 "cr": "11"
 "traits":
@@ -62,7 +63,7 @@ Within the walls and courtyards of Durheim Monastery, the Leader serves as spiri
       \ saving throw to take only half damage, the leader instead takes no damage\
       \ if it succeeds on the saving throw, and only half damage if it fails."
     "name": "Evasion"
-  - "desc": "The leader can cast [[5. Mechanics/Spells/Mage Hand.md|mage hand]] at will,\
+  - "desc": "The leader can cast [[/5. Mechanics/Spells/Mage Hand.md|mage hand]] at will,\
       \ requiring no verbal or somatic components. The leader can cast this spell\
       \ and control the hand as a bonus action, and when the leader casts the spell,\
       \ it can make the hand [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]."
@@ -84,10 +85,10 @@ Within the walls and courtyards of Durheim Monastery, the Leader serves as spiri
 "actions":
   - "desc": "The leader makes four attacks."
     "name": "Multiattack"
-  - "desc": "Melee Spell Attack: +9 to hit, reach 30 ft., one target. Hit: 10\
+  - "desc": "*Melee Spell Attack:* +9 to hit, reach 30 ft., one target. *Hit:* 10\
       \ (1d10 + 5) force damage."
     "name": "Spirit Strike"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d10\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d10\
       \ + 4) bludgeoning damage."
     "name": "Unarmed Strike"
 "reactions":

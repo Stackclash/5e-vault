@@ -49,4 +49,4 @@ While paladins have no qualms being beholden to a code, infernal law is inherent
 
 A contract that results in an adventurer's soul is a laudable achievement to the contract administrator, but the signee is often left feeling bitter in the hours following the deal. After the initial reaction wears off, what impact does losing your soul have? Did you bring dishonor to your tribe or monastic order, preventing you from returning home? How did your bargain impact long-term goals, hopes, and dreams? Work with your DM or use the Character Outlook table to inspire your character's attitude following this hellish agreement.
 
-![[5. Mechanics/Tables/Character Outlook Da Gic.md\|Character Outlook]]
+![[/5. Mechanics/Tables/Character Outlook Da Gic.md\|Character Outlook]]

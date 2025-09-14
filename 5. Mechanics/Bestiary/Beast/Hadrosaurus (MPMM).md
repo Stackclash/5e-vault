@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'grassland, swamp'
 size: Large
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Hadrosaurus
 ---
-# [[5. Mechanics\Bestiary\Beast\Hadrosaurus (MPMM).md|Hadrosaurus]]
+# [[5. Mechanics/Bestiary/Beast/Hadrosaurus (MPMM).md|Hadrosaurus]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*
 
 A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised from a hatchling, it can be trained to carry a rider.
@@ -46,13 +46,13 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 "languages": ""
 "cr": "1/4"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
       \ + 2) bludgeoning damage."
     "name": "Tail"
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Beast/token/hadrosaurus-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/hadrosaurus-mpmm.webp"
 ```
 ^statblock
 

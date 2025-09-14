@@ -16,15 +16,22 @@ classes:
   - Sorcerer (Divine Soul)
 school: Evocation
 level: 3
+damage:
+  base: 1d12
+  scaling:
+    damage: null
+    level: null
+  types:
+    - force
+    - radiant
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Lance of the Sun God
-concentration: true
 ---
 # Lance of the Sun God
 *3rd-level, Evocation*  
@@ -34,10 +41,10 @@ concentration: true
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You invoke a lance made of force and light. The lance glows brightly, providing light as a lantern. You are considered proficient with this weapon, and it has the same weapon properties as a nonmagical [[5. Mechanics/Items/Lance.md\|lance]]. On a successful melee attack with the lance, you deal `dice:1d12|noform|noparens|avg` (`d12`) force damage and `dice:2d8|noform|noparens|avg` (`2d8`) radiant damage.
+You invoke a lance made of force and light. The lance glows brightly, providing light as a lantern. You are considered proficient with this weapon, and it has the same weapon properties as a nonmagical [[/5. Mechanics/Items/Lance.md\|lance]]. On a successful melee attack with the lance, you deal `dice:1d12|noform|noparens|avg` (`1d12`) force damage and `dice:2d8|noform|noparens|avg` (`2d8`) radiant damage.
 
 You can perform a charge attack with the lance. If you move at least 20 feet straight toward a target and hit with the lance on the same turn, you double the damage of the attack.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 89*

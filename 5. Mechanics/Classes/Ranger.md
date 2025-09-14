@@ -52,17 +52,17 @@ aliases:
 ## Starting Ranger
 
 - **Saving Throws**: Dexterity, Strength
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple weapons, martial weapons
 - **Tools**: none
 - **Skills**: choose 3 from [[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]], [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]], [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]], and [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]
 
 You start with the following items, plus anything provided by your background.
 
-- (a) [[5. Mechanics/Items/Scale Mail.md\|scale mail]] or (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]]
-- (a) two [[5. Mechanics/Items/Shortsword.md\|shortswords]] or (b) two simple melee weapons
-- (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
-- A [[5. Mechanics/Items/Longbow.md\|longbow]] and a [[5. Mechanics/Items/Quiver.md\|quiver]] of [[5. Mechanics/Items/Arrows 20.md\|20 arrows]]
+- (a) [[/5. Mechanics/Items/Scale Mail.md\|scale mail]] or (b) [[/5. Mechanics/Items/Leather Armor.md\|leather armor]]
+- (a) two [[/5. Mechanics/Items/Shortsword.md\|shortswords]] or (b) two simple melee weapons
+- (a) a [[/5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
+- A [[/5. Mechanics/Items/Longbow.md\|longbow]] and a [[/5. Mechanics/Items/Quiver.md\|quiver]] of [[/5. Mechanics/Items/Arrows 20.md\|20 arrows]]
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
@@ -72,7 +72,7 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple weapons, martial weapons
 - **Skills**: choose 1 from [[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]], [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]], [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]], and [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]
 
@@ -106,7 +106,7 @@ What's the source of your particular hatred of a certain kind of enemy? Did a mo
 
 #### Quick Build
 
-You can make a ranger quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. (Some rangers who focus on two-weapon fighting make Strength higher than Dexterity.) Second, choose the [[5. Mechanics/Backgrounds/Outlander.md\|outlander]] background.
+You can make a ranger quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. (Some rangers who focus on two-weapon fighting make Strength higher than Dexterity.) Second, choose the [[/5. Mechanics/Backgrounds/Outlander.md\|outlander]] background.
 
 > [!quote] A quote from Soveliss  
 > 
@@ -191,7 +191,7 @@ What spurred your character to select a particular enemy? Was the choice made be
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
-Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as [[5. Mechanics/Bestiary/Humanoid/Gnoll.md\|gnolls]] and [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]]) as favored enemies.
+Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as [[/5. Mechanics/Bestiary/Humanoid/Gnoll.md\|gnolls]] and [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]]) as favored enemies.
 
 You have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
 
@@ -206,11 +206,11 @@ _Source: Tasha's Cauldron of Everything p. 56_
 
 When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] (as if you were [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentrating]] on a spell).
 
-The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by `dice:1d4|noform|noparens|avg` (`d4`).
+The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by `dice:1d4|noform|noparens|avg` (`1d4`).
 
 You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-This feature's extra damage increases when you reach certain levels in this class: to `dice:1d6|noform|noparens|avg` (`d6`) at 6th level and to `dice:1d8|noform|noparens|avg` (`d8`) at 14th level.
+This feature's extra damage increases when you reach certain levels in this class: to `dice:1d6|noform|noparens|avg` (`1d6`) at 6th level and to `dice:1d8|noform|noparens|avg` (`1d8`) at 14th level.
 
 ### Natural Explorer (Level 1)
 
@@ -244,10 +244,10 @@ You can also speak, read, and write two additional languages of your choice.
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
-- [[5. Mechanics/Optional Features/Archery.md\|Archery]]  
-- [[5. Mechanics/Optional Features/Defense.md\|Defense]]  
-- [[5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
-- [[5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]]  
+- [[/5. Mechanics/Optional Features/Archery.md\|Archery]]  
+- [[/5. Mechanics/Optional Features/Defense.md\|Defense]]  
+- [[/5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
+- [[/5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]]  
 
 ### Spellcasting (Level 2)
 
@@ -257,7 +257,7 @@ By the time you reach 2nd level, you have learned to use the magical essence of 
 
 The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] using either slot.
+For example, if you know the 1st-level spell [[/5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -280,7 +280,7 @@ _Source: Tasha's Cauldron of Everything p. 56_
 
 *2nd-level ranger [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
-You can use a [[5. Mechanics/Items/Druidic Foc(US).md\|druidic focus]] as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.
+You can use a [[/5. Mechanics/Items/Druidic Foc(US).md\|druidic focus]] as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.
 
 ### Ranger Archetype (Level 3)
 
@@ -301,11 +301,11 @@ You can focus your awareness through the interconnections of nature: you learn a
 
 | Ranger Level | Spell |
 |--------------|-------|
-| 3rd | [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
-| 5th | [[5. Mechanics/Spells/Beast Sense.md\|beast sense]] |
-| 9th | [[5. Mechanics/Spells/Speak With Plants.md\|speak with plants]] |
-| 13th | [[5. Mechanics/Spells/Locate Creature.md\|locate creature]] |
-| 17th | [[5. Mechanics/Spells/Commune With Nature.md\|commune with nature]] |
+| 3rd | [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
+| 5th | [[/5. Mechanics/Spells/Beast Sense.md\|beast sense]] |
+| 9th | [[/5. Mechanics/Spells/Speak With Plants.md\|speak with plants]] |
+| 13th | [[/5. Mechanics/Spells/Locate Creature.md\|locate creature]] |
+| 17th | [[/5. Mechanics/Spells/Commune With Nature.md\|commune with nature]] |
 ^primal-awareness-spells
 
 You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.
@@ -356,7 +356,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [[5. Mechanics/Spells/Entangle.md\|entangle]] spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [[/5. Mechanics/Spells/Entangle.md\|entangle]] spell.
 
 ### Hide in Plain Sight (Level 10)
 
@@ -384,7 +384,7 @@ You gain an additional benefit when you reach 10th level in this class.
 
 #### Tireless
 
-As an action, you can give yourself a number of temporary hit points equal to `dice:1d8|noform|noparens|avg` (`d8`) + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As an action, you can give yourself a number of temporary hit points equal to `dice:1d8|noform|noparens|avg` (`1d8`) + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 In addition, whenever you finish a short rest, your [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] level, if any, is decreased by 1.
 
@@ -433,5 +433,5 @@ At 20th level, you become an unparalleled hunter of your enemies. Once on each o
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Ranger
-> ![Fighting Style, Ranger](compendium/lists/list-optfeaturetype-fs-r.md#Fighting%20Style,%20Ranger)
+> ![Fighting Style, Ranger](/compendium/lists/list-optfeaturetype-fs-r.md#Fighting%20Style,%20Ranger)
 ^list-optfeature-fs-r

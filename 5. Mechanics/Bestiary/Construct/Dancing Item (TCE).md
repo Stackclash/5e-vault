@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dancing Item
 ---
-# [[5. Mechanics\Bestiary\Construct\Dancing Item (TCE).md|Dancing Item]]
+# [[5. Mechanics/Bestiary/Construct/Dancing Item (TCE).md|Dancing Item]]
 *Source: Tasha's Cauldron of Everything p. 29*
 
 ```statblock
@@ -35,7 +35,8 @@ aliases:
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "The item is immune to any spell or effect that would alter its form."
@@ -45,12 +46,12 @@ aliases:
       \ by 10 feet until the end of the turn, provided the item isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
     "name": "Irrepressible Dance"
 "actions":
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target you can see. Hit: 1d10 + PB force damage."
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target you can see. *Hit:* 1d10 + PB force damage."
     "name": "Force-Empowered Slam"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Construct/token/dancing-item-tce.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/dancing-item-tce.webp"
 ```
 ^statblock
 

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Marid (Wishes)
 ---
-# [[5. Mechanics\Bestiary\Elemental\Marid Wishes.md|Marid (Wishes)]]
+# [[5. Mechanics/Bestiary/Elemental/Marid Wishes.md|Marid (Wishes)]]
 *Source: Monster Manual p. 146, Tasha's Cauldron of Everything, Vecna: Eve of Ruin*
 
 ```statblock
@@ -37,26 +37,27 @@ aliases:
   - !!int "18"
 "speed": "30 ft., fly 60 ft., swim 90 ft."
 "saves":
-  - "dexterity": "+5"
-  - "wisdom": "+7"
-  - "charisma": "+8"
+  - "dexterity": !!int "5"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "8"
 "damage_resistances": "acid, cold, lightning"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 13"
 "languages": "Aquan"
 "cr": "11"
 "traits":
   - "desc": "The marid's innate spellcasting ability is Charisma (spell save DC 16,\
       \ +8 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Create Or Destroy Water.md|create or destroy water]],\
-      \ [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[5. Mechanics/Spells/Detect Magic.md|detect\
-      \ magic]], [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
-      \ [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]]\n\n3/day\
-      \ each: [[5. Mechanics/Spells/Tongues.md|tongues]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]],\
-      \ [[5. Mechanics/Spells/Water Wa(LK).md|water walk]]\n\n1/day each: [[5. Mechanics/Spells/Conjure Element(AL).md|conjure\
-      \ elemental]] ([[5. Mechanics/Bestiary/Elemental/Water Element(AL).md|water elemental]]\
-      \ only), [[5. Mechanics/Spells/Control Water.md|control water]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
-      \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
-      \n1/year each: [[5. Mechanics/Spells/Wish.md|wish]] (see Wishes)"
+      \ requiring no material components:\n\n**At will:** [[/5. Mechanics/Spells/Create Or Destroy Water.md|create or destroy water]],\
+      \ [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]], [[/5. Mechanics/Spells/Detect Magic.md|detect\
+      \ magic]], [[/5. Mechanics/Spells/Fog Cloud.md|fog cloud]],\
+      \ [[/5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]]\n\n**3/day\
+      \ each:** [[/5. Mechanics/Spells/Tongues.md|tongues]], [[/5. Mechanics/Spells/Water Breathing.md|water breathing]],\
+      \ [[/5. Mechanics/Spells/Water Wa(LK).md|water walk]]\n\n**1/day each:** [[/5. Mechanics/Spells/Conjure Element(AL).md|conjure\
+      \ elemental]] ([[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md|water elemental]]\
+      \ only), [[/5. Mechanics/Spells/Control Water.md|control water]], [[/5. Mechanics/Spells/Gaseous Form.md|gaseous form]],\
+      \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]], [[/5. Mechanics/Spells/Plane Shift.md|plane shift]]\n\
+      \n**1/year each:** [[/5. Mechanics/Spells/Wish.md|wish]] (see Wishes)"
     "name": "Innate Spellcasting"
   - "desc": "The marid can breathe air and water."
     "name": "Amphibious"
@@ -71,7 +72,7 @@ aliases:
       \ that the same genie can expend its limit of wishes on a specific creature\
       \ only once in that creature's existence.\n\nTo be granted a wish, a creature\
       \ within 60 feet of the genie states a desired effect to it. The genie can then\
-      \ cast the [[5. Mechanics/Spells/Wish.md|wish]] spell on the creature's behalf\
+      \ cast the [[/5. Mechanics/Spells/Wish.md|wish]] spell on the creature's behalf\
       \ to bring about the effect. Depending on the genie's nature, the genie might\
       \ try to pervert the intent of the wish by exploiting the wish's poor wording.\
       \ The perversion of the wording is usually crafted to be to the genie's benefit."
@@ -79,8 +80,8 @@ aliases:
 "actions":
   - "desc": "The marid makes two trident attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +10 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing\
       \ damage if used with two hands to make a melee attack."
     "name": "Trident"
   - "desc": "The marid magically shoots water in a 60-foot line that is 5 feet wide.\

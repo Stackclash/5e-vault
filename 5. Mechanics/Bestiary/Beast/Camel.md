@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: desert
 size: Large
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Camel
 ---
-# [[5. Mechanics\Bestiary\Beast\Camel.md|Camel]]
+# [[5. Mechanics/Bestiary/Beast/Camel.md|Camel]]
 *Source: Monster Manual p. 320. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -38,12 +38,12 @@ aliases:
 "languages": ""
 "cr": "1/8"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
       \ bludgeoning damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/camel.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/camel.webp"
 ```
 ^statblock
 

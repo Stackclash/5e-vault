@@ -16,17 +16,26 @@ classes:
   - Wizard
 school: Evocation
 level: 9
+damage:
+  base: 10d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - fire
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 500 feet
+somatic: true
+verbal: true
+material: a shard of obsidian
 aliases:
   - Pyroclasm
-concentration: true
-material: a shard of obsidian
 ---
 # Pyroclasm
 *9th-level, Evocation*  
@@ -44,6 +53,6 @@ When a creature leaves the pool of lava, its speed is reduced by half and it has
 
 If you maintain concentration on this spell for a full minute, the lava geyser and pool harden into permanent, nonmagical stone. A creature in either area when the stone hardens is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until the stone is broken away.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 101*

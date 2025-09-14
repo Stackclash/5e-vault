@@ -11,7 +11,7 @@ weight: 4
 ---
 # Folding Boat
 *Wondrous item, minor, rare*  
-![[5. Mechanics/Items/img/folding-boat.webp#right]]  
+![[/5. Mechanics/Items/img/folding-boat.webp#right]]  
 
 - **Weight**: 4.0 lbs.
 

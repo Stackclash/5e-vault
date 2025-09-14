@@ -14,15 +14,21 @@ classes:
   - Wizard
 school: Enchantment
 level: 5
+saving_throw:
+  skills:
+    - Intelligence
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Babble
-concentration: true
 ---
 # Babble
 *5th-level, Enchantment*  
@@ -36,6 +42,6 @@ This spell causes the speech of affected creatures to sound like nonsense. Each 
 
 An affected creature cannot communicate in any spoken language that it knows. When it speaks, the words come out as gibberish. Spells with verbal components cannot be cast. The spell does not affect telepathic communication, nonverbal communication, or sounds emitted by any creature that does not have a spoken language. As an action, a creature under the effect of this spell can attempt another Intelligence saving throw against the effect. On a successful save, the spell ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 182*

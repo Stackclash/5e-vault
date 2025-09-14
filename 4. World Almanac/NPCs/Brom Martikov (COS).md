@@ -11,7 +11,7 @@ tags:
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\brom-martikov.webp
+  - ../../../../../4. World Almanac/NPCs/img/brom-martikov.webp
 relationships: []
 aliases:
   - Brom Martikov
@@ -57,7 +57,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
@@ -156,20 +156,20 @@ actions:
 "actions":
   - "desc": "Brom makes two weapon attacks, one of which can be with its hand crossbow."
     "name": "Multiattack (Human or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage in raven form, or 4 (1d4 + 2) piercing damage in hybrid form. If the\
       \ target is humanoid, it must succeed on a DC 10 Constitution saving throw or\
       \ be cursed with wereraven lycanthropy."
     "name": "Beak (Raven or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Shortsword (Human or Hybrid Form Only)"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage."
     "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/brom-martikov-cos.webp"
+"image": "/4. World Almanac/NPCs/token/brom-martikov-cos.webp"
 ```
 ^statblock
 

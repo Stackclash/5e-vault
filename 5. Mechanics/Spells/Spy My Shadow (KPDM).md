@@ -22,12 +22,12 @@ school: Transmutation
 level: 2
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: false
+verbal: true
 aliases:
   - Spy My Shadow
-concentration: true
 ---
 # Spy My Shadow
 *2nd-level, Transmutation*  
@@ -41,6 +41,6 @@ You bring your shadow to life as a tenebrous spy that can slip under doors, betw
 
 You can spy through your shadow's eyes and ears as if they were your own, but magically enhanced senses do not work through this spell. You can utilize the Stealth skill normally if trying to keep your shadow's presence a secret: it gains advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks in dim lighting but disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks in brightly lit areas.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 108*

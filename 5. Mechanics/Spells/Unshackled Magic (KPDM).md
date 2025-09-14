@@ -14,15 +14,18 @@ classes:
   - Wizard
 school: Enchantment
 level: 9
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+somatic: true
+verbal: true
 aliases:
   - Unshackled Magic
-concentration: true
 ---
 # Unshackled Magic
 *9th-level, Enchantment*  
@@ -36,6 +39,6 @@ You designate a creature within range that has the Spellcasting or Innate Spellc
 
 Each round while this spell remains in effect, the target makes another Charisma saving throw. On a successful save, it can act normally in that round, but this spell does not end.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 188*

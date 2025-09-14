@@ -15,7 +15,7 @@ tags:
 aliases:
   - Alkilith
 ---
-# [[5. Mechanics\Bestiary\Fiend\Alkilith (MPMM).md|Alkilith]]
+# [[5. Mechanics/Bestiary/Fiend/Alkilith (MPMM).md|Alkilith]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*
 
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
@@ -44,8 +44,8 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  - "dexterity": "+8"
-  - "constitution": "+10"
+  - "dexterity": !!int "8"
+  - "constitution": !!int "10"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+8"
@@ -54,7 +54,8 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 10"
 "languages": "understands Abyssal but can't speak"
 "cr": "11"
 "traits":
@@ -74,7 +75,7 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
       \ the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint\
       \ buzzing in its head for a moment and has disadvantage on its next attack roll,\
       \ saving throw, or ability check.\n\nIf the saving throw against Foment Confusion\
-      \ fails by 5 or more, the creature is instead subjected to the [[5. Mechanics/Spells/Confusion.md|confusion]]\
+      \ fails by 5 or more, the creature is instead subjected to the [[/5. Mechanics/Spells/Confusion.md|confusion]]\
       \ spell for 1 minute (no [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
       \ required by the alkilith). While under the effect of that confusion, the creature\
       \ is immune to Foment Confusion."
@@ -90,13 +91,13 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 "actions":
   - "desc": "The alkilith makes three Tentacle attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 18\
       \ (4d6 + 4) acid damage."
     "name": "Tentacle"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/alkilith-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/alkilith-mpmm.webp"
 ```
 ^statblock
 

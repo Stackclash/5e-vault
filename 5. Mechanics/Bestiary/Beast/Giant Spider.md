@@ -18,7 +18,7 @@ tags:
 aliases:
   - Giant Spider
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Spider.md|Giant Spider]]
+# [[5. Mechanics/Bestiary/Beast/Giant Spider.md|Giant Spider]]
 *Source: Monster Manual p. 328, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.
@@ -44,7 +44,8 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+7"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1"
 "traits":
@@ -57,7 +58,7 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
   - "desc": "The spider ignores movement restrictions caused by webbing."
     "name": "Web Walker"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 7\
       \ (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving\
       \ throw, taking 9 (2d8) poison damage on a failed save, or half as much damage\
       \ on a successful one. If the poison damage reduces the target to 0 hit points,\
@@ -65,7 +66,7 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
       \ for 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
       \ while [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way."
     "name": "Bite"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one creature. *Hit:*\
       \ The target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] by\
       \ webbing. As an action, the [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
       \ target can make a DC 12 Strength check, bursting the webbing on a success.\
@@ -77,7 +78,7 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
   - "CoS"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-spider.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/giant-spider.webp"
 ```
 ^statblock
 

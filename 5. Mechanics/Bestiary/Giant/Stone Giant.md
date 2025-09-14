@@ -16,7 +16,7 @@ tags:
 aliases:
   - Stone Giant
 ---
-# [[5. Mechanics\Bestiary\Giant\Stone Giant.md|Stone Giant]]
+# [[5. Mechanics/Bestiary/Giant/Stone Giant.md|Stone Giant]]
 *Source: Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Stone giants are reclusive, quiet, and peaceful as long as they are left alone. Their granite-gray skin, gaunt features, and black, sunken eyes endow stone giants with a stern countenance. They are private creatures, hiding their lives and art away from the world.
@@ -100,15 +100,16 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - !!int "9"
 "speed": "40 ft."
 "saves":
-  - "dexterity": "+5"
-  - "constitution": "+8"
-  - "wisdom": "+4"
+  - "dexterity": !!int "5"
+  - "constitution": !!int "8"
+  - "wisdom": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+12"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": "Giant"
 "cr": "7"
 "traits":
@@ -118,10 +119,10 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "actions":
   - "desc": "The giant makes two greatclub attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 19\
       \ (3d8 + 6) bludgeoning damage."
     "name": "Greatclub"
-  - "desc": "Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 17 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Rock"
@@ -132,7 +133,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     "name": "Rock Catching"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Giant/token/stone-giant.webp"
+"image": "/5. Mechanics/Bestiary/Giant/token/stone-giant.webp"
 ```
 ^statblock
 

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Dolphin Delighter
 ---
-# [[5. Mechanics\Bestiary\Fey\Dolphin Delighter (MPMM).md|Dolphin Delighter]]
+# [[5. Mechanics/Bestiary/Fey/Dolphin Delighter (MPMM).md|Dolphin Delighter]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*
 
 In the Feywild, dolphin delighters brighten the moods of those who travel the seas of the Domains of Delight. Telepathically singing sea chanteys, these dolphins leap and teleport through the luminous waters of Faerie and the Material Plane, and they are faithful allies to any who battle the forces of gloom and brutality under the waves.
@@ -45,14 +45,15 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
   - !!int "16"
 "speed": "0 ft., swim 60 ft."
 "saves":
-  - "wisdom": "+3"
-  - "charisma": "+5"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Performance|Performance]]"
     "desc": "+5"
-"senses": "blindsight 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Aquan, telepathy 120 ft."
 "cr": "3"
 "traits":
@@ -61,7 +62,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 "actions":
   - "desc": "The dolphin makes two Dazzling Slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) bludgeoning damage plus 7 (2d6) psychic damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
       \ until the start of the dolphin's next turn."
     "name": "Dazzling Slam"
@@ -77,7 +78,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
     "name": "Fey Leap"
 "source":
   - "MPMM"
-"image": "5. Mechanics/Bestiary/Fey/token/dolphin-delighter-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/dolphin-delighter-mpmm.webp"
 ```
 ^statblock
 

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'mountain, underdark'
 size: Small
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Derro
 ---
-# [[5. Mechanics\Bestiary\Aberration\Derro (MPMM).md|Derro]]
+# [[5. Mechanics/Bestiary/Aberration/Derro (MPMM).md|Derro]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158*
 
 > [!quote] A quote from Mordenkainen  
@@ -38,7 +38,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "2"
@@ -53,7 +53,8 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "darkvision 120 ft., passive Perception 7"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 7"
 "languages": "Dwarvish, Undercommon"
 "cr": "1/4"
 "traits":
@@ -65,17 +66,17 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (d6)\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
       \ piercing damage. If the target is Medium or smaller, the derro can choose\
       \ to deal no damage and knock it [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Hooked Spear"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
     "name": "Light Crossbow"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/derro-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/derro-mpmm.webp"
 ```
 ^statblock
 

@@ -59,18 +59,18 @@ When you join the College of Entropy at 3rd level, you gain proficiency in [[/5.
 
 ### Luck Stealer (Level 3)
 
-Also at 3rd level, you learn to borrow a little bit of other people's luck for yourself. When a creature that you can see within 60 feet is about to make an attack roll, an ability check, or a saving throw with advantage, you can use a reaction and expend one of your uses of [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)). If you do so, that creature takes a penalty to its die roll equal to the number you roll on your [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die.
+Also at 3rd level, you learn to borrow a little bit of other people's luck for yourself. When a creature that you can see within 60 feet is about to make an attack roll, an ability check, or a saving throw with advantage, you can use a reaction and expend one of your uses of [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)). If you do so, that creature takes a penalty to its die roll equal to the number you roll on your [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die.
 
-After the creature's attack roll, ability check, or saving throw is resolved, you gain the benefit of that [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die, which is usable only on yourself and lasts only for a number of rounds equal to the roll of the [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die. If you do not use the benefit before that time, it is lost.
+After the creature's attack roll, ability check, or saving throw is resolved, you gain the benefit of that [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die, which is usable only on yourself and lasts only for a number of rounds equal to the roll of the [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die. If you do not use the benefit before that time, it is lost.
 
-For example, if you roll a 5 on your [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die, the creature takes a -5 penalty to its roll. You can then apply a +5 bonus to one attack roll, ability check, or saving throw that you make within the next 5 rounds.
+For example, if you roll a 5 on your [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die, the creature takes a -5 penalty to its roll. You can then apply a +5 bonus to one attack roll, ability check, or saving throw that you make within the next 5 rounds.
 
-Stealing luck, regardless of whether you use the [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) benefit, causes a chance of a chaos magic surge.
+Stealing luck, regardless of whether you use the [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) benefit, causes a chance of a chaos magic surge.
 
 ### Infusion of Fortune (Level 6)
 
-At 6th level, when you cast a chaos spell, you cause a [[5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]] and regain one use of your [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)). You regain the use of infusion of fortune after a short or long rest.
+At 6th level, when you cast a chaos spell, you cause a [[/5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]] and regain one use of your [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)). You regain the use of infusion of fortune after a short or long rest.
 
 ### Belief is a Tool (Level 14)
 
-Everything desires to be something else. Starting at 14th level, as an action, the luck stealer can change one known spell to another spell of the same or lower level on the bard spell list. At the end of the bard's next turn, his or her list of known spells returns to normal. Using this ability causes a [[5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]].
+Everything desires to be something else. Starting at 14th level, as an action, the luck stealer can change one known spell to another spell of the same or lower level on the bard spell list. At the end of the bard's next turn, his or her list of known spells returns to normal. Using this ability causes a [[/5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]].

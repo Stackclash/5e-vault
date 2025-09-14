@@ -21,12 +21,12 @@ level: 4
 ritual: false
 time: 1 Action
 duration: 3 hours
-components:
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: false
+material: charcoal
 aliases:
   - Hide in One's Shadow
-material: charcoal
 ---
 # Hide in One's Shadow
 *4th-level, Transmutation*  
@@ -40,6 +40,6 @@ When you touch a willing creature with a piece of charcoal while casting this sp
 
 This spell cannot be cast in an area devoid of light, where a shadow would not normally appear. Even a faint light source, such as moonlight or starlight, is sufficient. If that light source is removed, or if the shadow is flooded with light in such a way that the physical creature wouldn't cast a shadow, the spell ends and the creature reappears in the shadow's space.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 249*

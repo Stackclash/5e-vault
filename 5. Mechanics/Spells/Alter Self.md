@@ -29,16 +29,23 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+damage:
+  base: 1d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+    - piercing
+    - slashing
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 hour'
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Alter Self
-range: Self
-concentration: true
 ---
 # Alter Self
 *2nd-level, Transmutation*  
@@ -60,10 +67,10 @@ You transform your appearance. You decide what you look like, including your hei
 
 ## Natural Weapons
 
-You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
+You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Circle Of The Moon.md\|Druid (Circle of the Moon)]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Warlock (The Lithic)](compendium/lists/list-spells-classes-the-lithic-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Warlock (The Apex Predator)](compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Lust Domain)](compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Lust Domain)](/compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Moon.md\|Druid (Circle of the Moon)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Apex Predator)](/compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [Warlock (The Lithic)](/compendium/lists/list-spells-classes-the-lithic-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

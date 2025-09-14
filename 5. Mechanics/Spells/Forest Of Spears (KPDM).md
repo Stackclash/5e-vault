@@ -14,17 +14,29 @@ classes:
   - Wizard
 school: Evocation
 level: 5
+damage:
+  base: 5d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - piercing
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+somatic: true
+verbal: true
+material: a sliver of stone
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Forest of Spears
-concentration: true
-material: a sliver of stone
 ---
 # Forest of Spears
 *5th-level, Evocation*  
@@ -40,6 +52,6 @@ A creature [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the s
 
 For the duration of the spell, the area is difficult terrain. The spears (AC 14) can be damaged; they are immune to piercing damage and have resistance to bludgeoning and slashing damage from nonmagical attacks. If a 5-foot square section of spears takes 15 damage, that's enough to free a [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature or clear the section of spears.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 71*

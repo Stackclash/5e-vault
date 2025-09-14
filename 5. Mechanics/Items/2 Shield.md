@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # +2 Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

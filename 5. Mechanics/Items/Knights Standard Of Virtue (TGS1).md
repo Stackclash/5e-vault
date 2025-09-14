@@ -14,7 +14,7 @@ one-hand-damage: 1d10 slashing
 weight: 6
 ---
 # Knight's Standard of Virtue
-*Weapon ([[5. Mechanics/Items/Glaive.md\|glaive]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Knights-Standard-of-Virtue.webp#right)  
 
 - **Damage**: 1d10 slashing

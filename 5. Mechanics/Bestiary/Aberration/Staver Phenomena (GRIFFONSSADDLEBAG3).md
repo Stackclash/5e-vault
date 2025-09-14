@@ -13,7 +13,7 @@ tags:
 aliases:
   - Staver Phenomena
 ---
-# [[5. Mechanics\Bestiary\Aberration\Staver Phenomena (GRIFFONSSADDLEBAG3).md|Staver Phenomena]]
+# [[5. Mechanics/Bestiary/Aberration/Staver Phenomena (GRIFFONSSADDLEBAG3).md|Staver Phenomena]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 These strange, trans-dimensional beings of pure force are from another reality where starmetal can still be found. Named after the late Conjuration Magistrate who discovered them, Julius Staver, the Polaris Magistrates are in constant opposition with these alien creatures as they desperately seeks to reach and harvest more starmetal from their dimension. Other than in defense of themselves or their home, the Staver Phenomena don't actively seek conquest or violence.
@@ -46,7 +46,8 @@ These strange, trans-dimensional beings of pure force are from another reality w
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 14"
 "languages": ""
 "cr": "2"
 "traits":
@@ -58,7 +59,7 @@ These strange, trans-dimensional beings of pure force are from another reality w
       \ longsword."
     "name": "Magic Immunity"
 "actions":
-  - "desc": "Ranged Spell Attack: +5 to hit, range 30 ft., one target. Hit: 14\
+  - "desc": "*Ranged Spell Attack:* +5 to hit, range 30 ft., one target. *Hit:* 14\
       \ (4d6) force damage."
     "name": "Energy Beam"
   - "desc": "Each creature within 15 feet of the phenomena must make a DC 13 Constitution\

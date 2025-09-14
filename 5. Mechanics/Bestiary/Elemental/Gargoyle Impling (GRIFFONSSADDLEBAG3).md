@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Gargoyle Impling
 ---
-# [[5. Mechanics\Bestiary\Elemental\Gargoyle Impling (GRIFFONSSADDLEBAG3).md|Gargoyle Impling]]
+# [[5. Mechanics/Bestiary/Elemental/Gargoyle Impling (GRIFFONSSADDLEBAG3).md|Gargoyle Impling]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Gargoyles that have survived for centuries become ancient, all-knowing statues. Some adventurers turn to such gargoyles, despite the risks, in hopes of gleaning information from their wisdom and lasting memories. Their gaze can even create new statues by petrifying living creatures.
@@ -48,7 +48,8 @@ Conversely, small statuettes posessed by the same sentience granted by the Eleme
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Common, Terran"
 "cr": "1/2"
 "traits":
@@ -59,7 +60,7 @@ Conversely, small statuettes posessed by the same sentience granted by the Eleme
       \ magical effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
       \ + 3) piercing damage."
     "name": "Bite"
 "reactions":

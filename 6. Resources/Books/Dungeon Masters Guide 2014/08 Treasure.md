@@ -58,13 +58,13 @@ Use the Individual Treasure table that corresponds to the monster's challenge ra
 
 If it doesn't make sense for a monster to carry a large pile of coins, you can convert the coins into gemstones or art objects of equal value.
 
-![Individual Treasure: Challenge 0—4](compendium/tables/individual-treasure-challenge-04.md)
+![Individual Treasure: Challenge 0—4](/compendium/tables/individual-treasure-challenge-04.md)
 
-![Individual Treasure: Challenge 5—10](compendium/tables/individual-treasure-challenge-510.md)
+![Individual Treasure: Challenge 5—10](/compendium/tables/individual-treasure-challenge-510.md)
 
-![Individual Treasure: Challenge 11—16](compendium/tables/individual-treasure-challenge-1116.md)
+![Individual Treasure: Challenge 11—16](/compendium/tables/individual-treasure-challenge-1116.md)
 
-![[5. Mechanics/Tables/Individual Treasure Challenge 17.md\|Individual Treasure: Challenge 17+]]
+![[/5. Mechanics/Tables/Individual Treasure Challenge 17.md\|Individual Treasure: Challenge 17+]]
 
 #### Using the Treasure Hoard Tables
 
@@ -80,43 +80,43 @@ If a treasure hoard seems too small, you can roll multiple times on the table. U
 
 You can hand out as much or as little treasure as you want. Over the course of a typical campaign, a party finds treasure hoards amounting to seven rolls on the Challenge 0-4 table, eighteen rolls on the Challenge 5-10 table, twelve rolls on the Challenge 11-16 table, and eight rolls on the Challenge 17+ table.
 
-![Treasure Hoard: Challenge 0—4](compendium/tables/treasure-hoard-challenge-04.md)
+![Treasure Hoard: Challenge 0—4](/compendium/tables/treasure-hoard-challenge-04.md)
 
-![Treasure Hoard: Challenge 5—10](compendium/tables/treasure-hoard-challenge-510.md)
+![Treasure Hoard: Challenge 5—10](/compendium/tables/treasure-hoard-challenge-510.md)
 
-![Treasure Hoard: Challenge 11—16](compendium/tables/treasure-hoard-challenge-1116.md)
+![Treasure Hoard: Challenge 11—16](/compendium/tables/treasure-hoard-challenge-1116.md)
 
-![[5. Mechanics/Tables/Treasure Hoard Challenge 17.md\|Treasure Hoard: Challenge 17+]]
+![[/5. Mechanics/Tables/Treasure Hoard Challenge 17.md\|Treasure Hoard: Challenge 17+]]
 
 #### Gemstones
 
 If a treasure hoard includes gemstones, you can use the following tables to randomly determine the kind of gemstones found, based on their value. You can roll once and assume all the gems are the same, or roll multiple times to create mixed collections of gemstones.
 
-![[5. Mechanics/Tables/10 Gp Gemstones.md\|10 gp Gemstones]]
+![[/5. Mechanics/Tables/10 Gp Gemstones.md\|10 gp Gemstones]]
 
-![[5. Mechanics/Tables/50 Gp Gemstones.md\|50 gp Gemstones]]
+![[/5. Mechanics/Tables/50 Gp Gemstones.md\|50 gp Gemstones]]
 
-![[5. Mechanics/Tables/100 Gp Gemstones.md\|100 gp Gemstones]]
+![[/5. Mechanics/Tables/100 Gp Gemstones.md\|100 gp Gemstones]]
 
-![[5. Mechanics/Tables/500 Gp Gemstones.md\|500 gp Gemstones]]
+![[/5. Mechanics/Tables/500 Gp Gemstones.md\|500 gp Gemstones]]
 
-![[5. Mechanics/Tables/1000 Gp Gemstones.md\|1,000 gp Gemstones]]
+![[/5. Mechanics/Tables/1000 Gp Gemstones.md\|1,000 gp Gemstones]]
 
-![[5. Mechanics/Tables/5000 Gp Gemstones.md\|5,000 gp Gemstones]]
+![[/5. Mechanics/Tables/5000 Gp Gemstones.md\|5,000 gp Gemstones]]
 
 #### Art Objects
 
 If a treasure hoard includes art objects, you can use the following tables to randomly determine what art objects are found, based on their value. Roll on a table as many times as there are art objects in the treasure hoard. There can be more than one of a given art object.
 
-![[5. Mechanics/Tables/25 Gp Art Objects.md\|25 gp Art Objects]]
+![[/5. Mechanics/Tables/25 Gp Art Objects.md\|25 gp Art Objects]]
 
-![[5. Mechanics/Tables/250 Gp Art Objects.md\|250 gp Art Objects]]
+![[/5. Mechanics/Tables/250 Gp Art Objects.md\|250 gp Art Objects]]
 
-![[5. Mechanics/Tables/750 Gp Art Objects.md\|750 gp Art Objects]]
+![[/5. Mechanics/Tables/750 Gp Art Objects.md\|750 gp Art Objects]]
 
-![[5. Mechanics/Tables/2500 Gp Art Objects.md\|2,500 gp Art Objects]]
+![[/5. Mechanics/Tables/2500 Gp Art Objects.md\|2,500 gp Art Objects]]
 
-![[5. Mechanics/Tables/7500 Gp Art Objects.md\|7,500 gp Art Objects]]
+![[/5. Mechanics/Tables/7500 Gp Art Objects.md\|7,500 gp Art Objects]]
 
 ## Magic Items
 
@@ -130,7 +130,7 @@ Rarity provides a rough measure of an item's power relative to other magic items
 
 If your campaign allows for trade in magic items, rarity can also help you set prices for them. As the DM, you determine the value of an individual magic item based on its rarity. Suggested values are provided in the Magic Item Rarity table. The value of a consumable item, such as a potion or scroll, is typically half the value of a permanent item of the same rarity.
 
-![[5. Mechanics/Tables/Magic Item Rarity.md\|Magic Item Rarity]]
+![[/5. Mechanics/Tables/Magic Item Rarity.md\|Magic Item Rarity]]
 
 ### Buying and Selling
 
@@ -146,11 +146,11 @@ In your campaign, magic items might be prevalent enough that adventurers can buy
 
 Some magic items are indistinguishable from their nonmagical counterparts, whereas other magic items display their magical nature conspicuously. Whatever a magic item's appearance, handling the item is enough to give a character a sense that something is extraordinary about it. Discovering a magic item's properties isn't automatic, however.
 
-The [[5. Mechanics/Spells/Identify.md\|identify]] spell is the fastest way to reveal an item's properties. Alternatively, a character can focus on one magic item during a short rest, while being in physical contact with the item. At the end of the rest, the character learns the item's properties, as well as how to use them. Potions are an exception; a little taste is enough to tell the taster what the potion does.
+The [[/5. Mechanics/Spells/Identify.md\|identify]] spell is the fastest way to reveal an item's properties. Alternatively, a character can focus on one magic item during a short rest, while being in physical contact with the item. At the end of the rest, the character learns the item's properties, as well as how to use them. Potions are an exception; a little taste is enough to tell the taster what the potion does.
 
-Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched in tiny letters inside it, or a feathered design might suggest that it's a [[5. Mechanics/Items/Ring Of Feather Falling.md\|ring of feather falling]].
+Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched in tiny letters inside it, or a feathered design might suggest that it's a [[/5. Mechanics/Items/Ring Of Feather Falling.md\|ring of feather falling]].
 
-Wearing or experimenting with an item can also offer hints about its properties. For example, if a character puts on a [[5. Mechanics/Items/Ring Of Jumping.md\|ring of jumping]], you could say, "Your steps feel strangely springy." Perhaps the character then jumps up and down to see what happens. You then say the character jumps unexpectedly high.
+Wearing or experimenting with an item can also offer hints about its properties. For example, if a character puts on a [[/5. Mechanics/Items/Ring Of Jumping.md\|ring of jumping]], you could say, "Your steps feel strangely springy." Perhaps the character then jumps up and down to see what happens. You then say the character jumps unexpectedly high.
 
 #### Variant: More Difficult Identification
 
@@ -172,7 +172,7 @@ A creature's attunement to an item ends if the creature no longer satisfies the 
 
 Some magic items bear curses that bedevil their users, sometimes long after a user has stopped using an item. A magic item's description specifies whether the item is cursed. Most methods of identifying items, including the identify spell, fail to reveal such a curse, although lore might hint at it. A curse should be a surprise to the item's user when the curse's effects are revealed.
 
-Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell.
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell.
 
 ### Magic Item Categories
 
@@ -196,7 +196,7 @@ Potions are consumable magic items. Drinking a potion or administering a potion 
 > 
 > When a character mixes two potions together, you can roll on the Potion Miscibility table. If more than two are combined, roll again for each subsequent potion, combining the results. Unless the effects are immediately obvious, reveal them only when they become evident.
 > 
-> ![[5. Mechanics/Tables/Variant Mixing Potions Potion Miscibility.md\|Variant: Mixing Potions; Potion Miscibility]]
+> ![[/5. Mechanics/Tables/Variant Mixing Potions Potion Miscibility.md\|Variant: Mixing Potions; Potion Miscibility]]
 ^variant-mixing-potions
 
 #### Rings
@@ -225,13 +225,13 @@ Once the spell is cast, the words on the scroll fade, and the scroll itself crum
 
 A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
 
-![[5. Mechanics/Tables/Spell Scrolls Spell Scroll.md\|Spell Scrolls; Spell Scroll]]
+![[/5. Mechanics/Tables/Spell Scrolls Spell Scroll.md\|Spell Scrolls; Spell Scroll]]
 
 > [!note] Variant: Scroll Mishaps
 > 
 > A creature who tries and fails to cast a spell from a spell scroll must make a DC 10 Intelligence saving throw. If the saving throw fails, roll on the Scroll Mishap table.
 > 
-> ![[5. Mechanics/Tables/Variant Scroll Mishaps Scroll Mishap.md\|Variant: Scroll Mishaps; Scroll Mishap]]
+> ![[/5. Mechanics/Tables/Variant Scroll Mishaps Scroll Mishap.md\|Variant: Scroll Mishaps; Scroll Mishap]]
 ^variant-scroll-mishaps
 
 #### Staffs
@@ -320,15 +320,15 @@ Most magic items are objects of extraordinary artisanship, assembled from the fi
 
 You can add distinctiveness to a magic item by thinking about its backstory, in much the same way you would for a location. Who made the item? Is anything unusual about its construction? Why was it made, and how was it originally used? What minor magical quirks set it apart from other items of its kind? Considering these questions is useful for turning a generic magic item, such as a *+1 longsword* or a suit of *+1 chain mail*, into a more remarkable discovery.
 
-The tables that follow can help you come up with answers. Roll on as many of these tables as you like. Some of the table entries make more sense for certain items than for others. Some magic items are made only by certain kinds of creatures, for instance; a [[5. Mechanics/Items/Cloak Of Elvenkind.md\|cloak of elvenkind]] is made by elves, rather than dwarves. If you roll something that doesn't make sense, roll again, choose a more appropriate entry, or use the rolled detail as inspiration to make up your own.
+The tables that follow can help you come up with answers. Roll on as many of these tables as you like. Some of the table entries make more sense for certain items than for others. Some magic items are made only by certain kinds of creatures, for instance; a [[/5. Mechanics/Items/Cloak Of Elvenkind.md\|cloak of elvenkind]] is made by elves, rather than dwarves. If you roll something that doesn't make sense, roll again, choose a more appropriate entry, or use the rolled detail as inspiration to make up your own.
 
-![Special Features; Who Created It or Was Intended to Use It?](compendium/tables/special-features-who-created-it-or-was-intended-to-use-it.md)
+![Special Features; Who Created It or Was Intended to Use It?](/compendium/tables/special-features-who-created-it-or-was-intended-to-use-it.md)
 
-![Special Features; What Is a Detail from Its History?](compendium/tables/special-features-what-is-a-detail-from-its-history.md)
+![Special Features; What Is a Detail from Its History?](/compendium/tables/special-features-what-is-a-detail-from-its-history.md)
 
-![[5. Mechanics/Tables/Special Features What Minor Property Does It Have.md\|Special Features; What Minor Property Does It Have]]
+![[/5. Mechanics/Tables/Special Features What Minor Property Does It Have.md\|Special Features; What Minor Property Does It Have]]
 
-![[5. Mechanics/Tables/Special Features What Quirk Does It Have.md\|Special Features; What Quirk Does It Have]]
+![[/5. Mechanics/Tables/Special Features What Quirk Does It Have.md\|Special Features; What Quirk Does It Have]]
 
 ### Random Magic Items
 
@@ -337,23 +337,23 @@ When you use a Treasure Hoard table to randomly determine the contents of a trea
 > [!note]
 > See the Loot Generator page for an automated version of the tables below.
 
-![[5. Mechanics/Tables/Magic Item Table A.md\|Magic Item Table A]]
+![[/5. Mechanics/Tables/Magic Item Table A.md\|Magic Item Table A]]
 
-![[5. Mechanics/Tables/Magic Item Table B.md\|Magic Item Table B]]
+![[/5. Mechanics/Tables/Magic Item Table B.md\|Magic Item Table B]]
 
-![[5. Mechanics/Tables/Magic Item Table C.md\|Magic Item Table C]]
+![[/5. Mechanics/Tables/Magic Item Table C.md\|Magic Item Table C]]
 
-![[5. Mechanics/Tables/Magic Item Table D.md\|Magic Item Table D]]
+![[/5. Mechanics/Tables/Magic Item Table D.md\|Magic Item Table D]]
 
-![[5. Mechanics/Tables/Magic Item Table E.md\|Magic Item Table E]]
+![[/5. Mechanics/Tables/Magic Item Table E.md\|Magic Item Table E]]
 
-![[5. Mechanics/Tables/Magic Item Table F.md\|Magic Item Table F]]
+![[/5. Mechanics/Tables/Magic Item Table F.md\|Magic Item Table F]]
 
-![[5. Mechanics/Tables/Magic Item Table G.md\|Magic Item Table G]]
+![[/5. Mechanics/Tables/Magic Item Table G.md\|Magic Item Table G]]
 
-![[5. Mechanics/Tables/Magic Item Table H.md\|Magic Item Table H]]
+![[/5. Mechanics/Tables/Magic Item Table H.md\|Magic Item Table H]]
 
-![[5. Mechanics/Tables/Magic Item Table I.md\|Magic Item Table I]]
+![[/5. Mechanics/Tables/Magic Item Table I.md\|Magic Item Table I]]
 
 ### Magic Items A-Z
 
@@ -379,19 +379,19 @@ A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can cho
 
 A sentient item has some ability to communicate, either by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the following table.
 
-![[5. Mechanics/Tables/Sentient Magic Item Communication.md\|Sentient Magic Item Communication]]
+![[/5. Mechanics/Tables/Sentient Magic Item Communication.md\|Sentient Magic Item Communication]]
 
 #### Senses
 
 With sentience comes awareness. A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the following table.
 
-![[5. Mechanics/Tables/Sentient Magic Item Senses.md\|Sentient Magic Item Senses]]
+![[/5. Mechanics/Tables/Sentient Magic Item Senses.md\|Sentient Magic Item Senses]]
 
 #### Alignment
 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
 
-![[5. Mechanics/Tables/Sentient Magic Item Alignment.md\|Sentient Magic Item Alignment]]
+![[/5. Mechanics/Tables/Sentient Magic Item Alignment.md\|Sentient Magic Item Alignment]]
 
 #### Characteristics
 
@@ -403,7 +403,7 @@ If you determine these characteristics randomly, ignore or adapt any result that
 
 You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You can pick a special purpose or roll on the following table.
 
-![[5. Mechanics/Tables/Sentient Special Purpose.md\|Sentient Special Purpose]]
+![[/5. Mechanics/Tables/Sentient Special Purpose.md\|Sentient Special Purpose]]
 
 #### Conflict
 
@@ -420,16 +420,16 @@ If its wielder refuses to comply with the item's wishes, the item can do any or 
 - Suppress one or more of its activated properties.  
 - Attempt to take control of its wielder.  
 
-If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is charmed by the item for `dice:1d12|noform|noparens|avg` (`d12`) hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
+If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is charmed by the item for `dice:1d12|noform|noparens|avg` (`1d12`) hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
 
 #### Sample Sentient Items
 
 The sentient weapons described here have storied histories.
 
-- [[5. Mechanics/Items/Blackrazor.md\|Blackrazor]]  
-- [[5. Mechanics/Items/Moonblade.md\|Moonblade]]  
-- [[5. Mechanics/Items/Wave.md\|Wave]]  
-- [[5. Mechanics/Items/Whelm.md\|Whelm]]  
+- [[/5. Mechanics/Items/Blackrazor.md\|Blackrazor]]  
+- [[/5. Mechanics/Items/Moonblade.md\|Moonblade]]  
+- [[/5. Mechanics/Items/Wave.md\|Wave]]  
+- [[/5. Mechanics/Items/Whelm.md\|Whelm]]  
 
 ## Artifacts
 
@@ -445,13 +445,13 @@ Each artifact has its own magical properties, as other magic items do, and the p
 
 An artifact can have as many as four minor beneficial properties and two major beneficial properties. It can have as many as four minor detrimental properties and two major detrimental properties.
 
-![[5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|Artifact Properties; Minor Beneficial Properties]]
+![[/5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|Artifact Properties; Minor Beneficial Properties]]
 
-![[5. Mechanics/Tables/Artifact Properties Major Beneficial Properties.md\|Artifact Properties; Major Beneficial Properties]]
+![[/5. Mechanics/Tables/Artifact Properties Major Beneficial Properties.md\|Artifact Properties; Major Beneficial Properties]]
 
-![[5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|Artifact Properties; Minor Detrimental Properties]]
+![[/5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|Artifact Properties; Minor Detrimental Properties]]
 
-![[5. Mechanics/Tables/Artifact Properties Major Detrimental Properties.md\|Artifact Properties; Major Detrimental Properties]]
+![[/5. Mechanics/Tables/Artifact Properties Major Detrimental Properties.md\|Artifact Properties; Major Detrimental Properties]]
 
 ### Destroying Artifacts
 
@@ -469,14 +469,14 @@ An artifact must be destroyed in some special way. Otherwise, it is impervious t
 
 The artifacts presented here have appeared in one or more of D&D worlds. Use them as guides when creating your own artifacts, or modify them as you see fit.
 
-- [[5. Mechanics/Items/Axe Of The Dwarvish Lords.md\|Axe of the Dwarvish Lords]]  
-- [[5. Mechanics/Items/Book Of Exalted Deeds.md\|Book of Exalted Deeds]]  
-- [[5. Mechanics/Items/Book Of Vile Darkness.md\|Book of Vile Darkness]]  
-- [[5. Mechanics/Items/Eye Of Vecna.md\|Eye of Vecna]]  
-- [[5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]]  
-- [[5. Mechanics/Items/Orb Of Dragonkind.md\|Orb of Dragonkind]]  
-- [[5. Mechanics/Items/Sword Of Kas.md\|Sword of Kas]]  
-- [[5. Mechanics/Items/Wand Of Orc(US).md\|Wand of Orcus]]  
+- [[/5. Mechanics/Items/Axe Of The Dwarvish Lords.md\|Axe of the Dwarvish Lords]]  
+- [[/5. Mechanics/Items/Book Of Exalted Deeds.md\|Book of Exalted Deeds]]  
+- [[/5. Mechanics/Items/Book Of Vile Darkness.md\|Book of Vile Darkness]]  
+- [[/5. Mechanics/Items/Eye Of Vecna.md\|Eye of Vecna]]  
+- [[/5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]]  
+- [[/5. Mechanics/Items/Orb Of Dragonkind.md\|Orb of Dragonkind]]  
+- [[/5. Mechanics/Items/Sword Of Kas.md\|Sword of Kas]]  
+- [[/5. Mechanics/Items/Wand Of Orc(US).md\|Wand of Orcus]]  
 
 ## Other Rewards
 
@@ -508,29 +508,29 @@ Most adventurers go their entire lives without receiving even one of these bless
 
 Example blessings are provided below. The text of a blessing addresses its user. If you decide to create more blessings, consider this: a typical blessing mimics the properties of a wondrous item.
 
-- [[5. Mechanics/Rewards/Blessing Of Health.md\|Blessing of Health]]  
-- [[5. Mechanics/Rewards/Blessing Of Protection.md\|Blessing of Protection]]  
-- [[5. Mechanics/Rewards/Blessing Of Magic Resistance.md\|Blessing of Magic Resistance]]  
-- [[5. Mechanics/Rewards/Blessing Of Understanding.md\|Blessing of Understanding]]  
-- [[5. Mechanics/Rewards/Blessing Of Valhalla.md\|Blessing of Valhalla]]  
-- [[5. Mechanics/Rewards/Blessing Of Weapon Enhancement.md\|Blessing of Weapon Enhancement]]  
-- [[5. Mechanics/Rewards/Blessing Of Wound Closure.md\|Blessing of Wound Closure]]  
+- [[/5. Mechanics/Rewards/Blessing Of Health.md\|Blessing of Health]]  
+- [[/5. Mechanics/Rewards/Blessing Of Protection.md\|Blessing of Protection]]  
+- [[/5. Mechanics/Rewards/Blessing Of Magic Resistance.md\|Blessing of Magic Resistance]]  
+- [[/5. Mechanics/Rewards/Blessing Of Understanding.md\|Blessing of Understanding]]  
+- [[/5. Mechanics/Rewards/Blessing Of Valhalla.md\|Blessing of Valhalla]]  
+- [[/5. Mechanics/Rewards/Blessing Of Weapon Enhancement.md\|Blessing of Weapon Enhancement]]  
+- [[/5. Mechanics/Rewards/Blessing Of Wound Closure.md\|Blessing of Wound Closure]]  
 
 #### Charms
 
 A charm is a minor supernatural gift, which can be received in a large variety of ways. For example, a wizard who finds an eldritch secret in a dead archmage's spellbook might be infused with the magic of a charm, as might a character who solves a sphinx's riddle or drinks from a magic fountain. Legendary creatures, such as ancient gold dragons and unicorns, sometimes grace their allies with charms, and some explorers find themselves bearing the magic of a charm after discovering a long-lost location that is drenched in primeval magic.
 
-Some charms can be used only once, and others can be used a specific number of times before vanishing. If a charm lets you cast a spell, you are able to do so without spending a spell slot or providing any components (verbal, somatic, or material). In any case, a charm can't be used in the area created by an antimagic field or a similar effect, and a charm's effects are susceptible to dispel magic and the like. But the charm itself can't be removed from a creature by anything short of divine intervention or the [[5. Mechanics/Spells/Wish.md\|wish]] spell.
+Some charms can be used only once, and others can be used a specific number of times before vanishing. If a charm lets you cast a spell, you are able to do so without spending a spell slot or providing any components (verbal, somatic, or material). In any case, a charm can't be used in the area created by an antimagic field or a similar effect, and a charm's effects are susceptible to dispel magic and the like. But the charm itself can't be removed from a creature by anything short of divine intervention or the [[/5. Mechanics/Spells/Wish.md\|wish]] spell.
 
 Example charms are provided below. The text of a charm addresses its user. A typical charm mimics the effects of a potion or a spell, so it is easy to create more charms of your own, if you like.
 
-- [[5. Mechanics/Rewards/Charm Of Animal Conjuring.md\|Charm of Animal Conjuring]]  
-- [[5. Mechanics/Rewards/Charm Of Darkvision.md\|Charm of Darkvision]]  
-- [[5. Mechanics/Rewards/Charm Of Feather Falling.md\|Charm of Feather Falling]]  
-- [[5. Mechanics/Rewards/Charm Of Heroism.md\|Charm of Heroism]]  
-- [[5. Mechanics/Rewards/Charm Of Restoration.md\|Charm of Restoration]]  
-- [[5. Mechanics/Rewards/Charm Of The Slayer.md\|Charm of the Slayer]]  
-- [[5. Mechanics/Rewards/Charm Of Vitality.md\|Charm of Vitality]]  
+- [[/5. Mechanics/Rewards/Charm Of Animal Conjuring.md\|Charm of Animal Conjuring]]  
+- [[/5. Mechanics/Rewards/Charm Of Darkvision.md\|Charm of Darkvision]]  
+- [[/5. Mechanics/Rewards/Charm Of Feather Falling.md\|Charm of Feather Falling]]  
+- [[/5. Mechanics/Rewards/Charm Of Heroism.md\|Charm of Heroism]]  
+- [[/5. Mechanics/Rewards/Charm Of Restoration.md\|Charm of Restoration]]  
+- [[/5. Mechanics/Rewards/Charm Of The Slayer.md\|Charm of the Slayer]]  
+- [[/5. Mechanics/Rewards/Charm Of Vitality.md\|Charm of Vitality]]  
 
 ### Marks of Prestige
 

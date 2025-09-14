@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'grassland, desert'
 size: Medium
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Jackalwere
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Jackalwere.md|Jackalwere]]
+# [[5. Mechanics/Bestiary/Humanoid/Jackalwere.md|Jackalwere]]
 *Source: Monster Manual p. 193*
 
 Ordinary jackals tainted by demonic power, jackalweres haunt roads and trails, waylaying and murdering those they meet.
@@ -79,10 +79,10 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
       \ the ally isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) piercing damage."
     "name": "Bite (Jackal or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) slashing damage."
     "name": "Scimitar (Human or Hybrid Form Only)"
   - "desc": "The jackalwere gazes at one creature it can see within 30 feet of it.\
@@ -95,7 +95,7 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
     "name": "Sleep Gaze"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/jackalwere.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/jackalwere.webp"
 ```
 ^statblock
 

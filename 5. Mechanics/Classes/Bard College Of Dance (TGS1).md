@@ -61,7 +61,7 @@ Also at 3rd level, you learn how to use the universal language of dance. As a bo
 
 At 6th level, your movements become so graceful that even the most cold-hearted enemies are filled with remorse for having stopped your dance. Whenever a creature hits you with an opportunity attack, that creature takes psychic damage equal to your Charisma modifier + half your bard level.
 
-In addition, you can use your dance to cast the [[5. Mechanics/Spells/Charm Person.md\|charm person]] spell, without expending a spell slot. When cast in this way, the target doesn't have advantage on the saving throw if you're currently fighting it. When you reach 14th level in this class, you can cast the [[5. Mechanics/Spells/Ottos Irresistible Dance.md\|irresistible dance]] spell in this way as well. A spell cast with this feature requires only somatic components. After you cast a spell in this way, you can't use this feature to cast it again until you finish a long rest.
+In addition, you can use your dance to cast the [[/5. Mechanics/Spells/Charm Person.md\|charm person]] spell, without expending a spell slot. When cast in this way, the target doesn't have advantage on the saving throw if you're currently fighting it. When you reach 14th level in this class, you can cast the [[/5. Mechanics/Spells/Ottos Irresistible Dance.md\|irresistible dance]] spell in this way as well. A spell cast with this feature requires only somatic components. After you cast a spell in this way, you can't use this feature to cast it again until you finish a long rest.
 
 ### Endless Dance (Level 14)
 

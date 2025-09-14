@@ -79,8 +79,8 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 At 14th level, the magic of the Feywild grants you the ability to travel mentally or physically through dreamlands.
 
-When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: [[5. Mechanics/Spells/Dream.md\|dream]] (with you as the messenger), [[5. Mechanics/Spells/Scrying.md\|scrying]], or [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]].
+When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: [[/5. Mechanics/Spells/Dream.md\|dream]] (with you as the messenger), [[/5. Mechanics/Spells/Scrying.md\|scrying]], or [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]].
 
-This use of [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] is special. Rather than opening a portal to a permanent [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]], it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
+This use of [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] is special. Rather than opening a portal to a permanent [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]], it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
 
 Once you use this feature, you can't use it again until you finish a long rest.

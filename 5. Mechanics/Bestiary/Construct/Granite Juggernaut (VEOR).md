@@ -13,7 +13,7 @@ tags:
 aliases:
   - Granite Juggernaut
 ---
-# [[5. Mechanics\Bestiary\Construct\Granite Juggernaut (VEOR).md|Granite Juggernaut]]
+# [[5. Mechanics/Bestiary/Construct/Granite Juggernaut (VEOR).md|Granite Juggernaut]]
 *Source: Vecna: Eve of Ruin p. 221*
 
 > [!quote] A quote from Teythorn, Oerthian Adventurer  
@@ -46,7 +46,8 @@ A granite juggernaut is a lumbering Construct that can be found trundling across
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "12"
 "traits":
@@ -56,7 +57,7 @@ A granite juggernaut is a lumbering Construct that can be found trundling across
   - "desc": "The juggernaut deals double damage to objects and structures."
     "name": "Siege Monster"
 "actions":
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (1d10 + 6) bludgeoning damage, and if the target is a Large or smaller creature,\
       \ it must succeed on a DC 18 Strength saving throw or have the [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
       \ condition."
@@ -71,7 +72,7 @@ A granite juggernaut is a lumbering Construct that can be found trundling across
     "name": "Devastating Roll"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Construct/token/granite-juggernaut-veor.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/granite-juggernaut-veor.webp"
 ```
 ^statblock
 

@@ -20,17 +20,26 @@ classes:
   - Wizard
 school: Transmutation
 level: 4
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: true
+verbal: true
+material: a piece of shale or slate
 aliases:
   - Earthskimmer
-concentration: true
-material: a piece of shale or slate
 ---
 # Earthskimmer
 *4th-level, Transmutation*  
@@ -44,6 +53,6 @@ You cause earth and stone to rise up beneath your feet, lifting you up to 5 feet
 
 Until the end of your turn, you can enter the space of a creature up to one size larger than yourself when you take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action. The creature must make a Strength saving throw. It takes `dice:4d6|noform|noparens|avg` (`4d6`) bludgeoning damage and is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] on a failed save, or takes half as much damage and isn't knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] on a succesful one.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 65*

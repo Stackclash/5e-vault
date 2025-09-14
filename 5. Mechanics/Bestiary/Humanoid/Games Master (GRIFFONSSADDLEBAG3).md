@@ -13,7 +13,7 @@ tags:
 aliases:
   - Games Master
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Games Master (GRIFFONSSADDLEBAG3).md|Games Master]]
+# [[5. Mechanics/Bestiary/Humanoid/Games Master (GRIFFONSSADDLEBAG3).md|Games Master]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Creatures that spend enough time playing games eventually come to understand them in strange and powerful ways, seeing them in a way unlike their fellow players. These masters can easily win at cards, chess, or dice because of their staggering experience and uncanny luck, but can also bring out the bizarre magical powers hidden within such trinkets.
@@ -25,7 +25,7 @@ Creatures that spend enough time playing games eventually come to understand the
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather]]"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "modifier": !!int "4"
@@ -38,8 +38,8 @@ Creatures that spend enough time playing games eventually come to understand the
   - !!int "15"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+7"
-  - "intelligence": "+6"
+  - "dexterity": !!int "7"
+  - "intelligence": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+5"
@@ -64,7 +64,7 @@ Creatures that spend enough time playing games eventually come to understand the
       \ each 5-foot-square portion requiring at least 1 minute to clear by hand. When\
       \ a creature moves into the area and each time it moves 5 feet within the area,\
       \ it must succeed on a DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]])\
-      \ check or fall [[/5. Mechanics/Rules/Conditions.md#Prone|prone]] and take 3 (d6)\
+      \ check or fall [[/5. Mechanics/Rules/Conditions.md#Prone|prone]] and take 3 (1d6)\
       \ bludgeoning damage."
     "name": "Scatter Dice"
   - "desc": "When the master makes an attack roll, if the d20 roll is a 7, the attack\
@@ -74,7 +74,7 @@ Creatures that spend enough time playing games eventually come to understand the
 "actions":
   - "desc": "The master makes three fling card attacks."
     "name": "Multiattack"
-  - "desc": "Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 30/120 ft., one target. *Hit:*\
       \ 6 (1d4 + 4) slashing damage."
     "name": "Fling Card"
   - "desc": "The master throws a dragonchess piece into an unoccupied space the master\

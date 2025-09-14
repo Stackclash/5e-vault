@@ -15,7 +15,7 @@ tags:
 aliases:
   - Fire Giant
 ---
-# [[5. Mechanics\Bestiary\Giant\Fire Giant.md|Fire Giant]]
+# [[5. Mechanics/Bestiary/Giant/Fire Giant.md|Fire Giant]]
 *Source: Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.
@@ -92,7 +92,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate armor]]"
 "hp": !!int "162"
 "hit_dice": "13d12 + 78"
 "modifier": !!int "-1"
@@ -105,9 +105,9 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - !!int "13"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+3"
-  - "constitution": "+10"
-  - "charisma": "+5"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "10"
+  - "charisma": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+11"
@@ -120,15 +120,15 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "actions":
   - "desc": "The giant makes two greatsword attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 28\
       \ (6d6 + 7) slashing damage."
     "name": "Greatsword"
-  - "desc": "Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +11 to hit, range 60/240 ft., one target. *Hit:*\
       \ 29 (4d10 + 7) bludgeoning damage."
     "name": "Rock"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Giant/token/fire-giant.webp"
+"image": "/5. Mechanics/Bestiary/Giant/token/fire-giant.webp"
 ```
 ^statblock
 

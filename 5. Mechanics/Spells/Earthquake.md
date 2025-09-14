@@ -18,21 +18,30 @@ classes:
   - Sorcerer (Divine Soul)
 school: Evocation
 level: 8
+damage:
+  base: 1d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Constitution
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 500 feet
+somatic: true
+verbal: true
+material: 'a pinch of dirt, a piece of rock, and a lump of clay'
+area:
+  shape: sphere
+  size: 100
 aliases:
   - Earthquake
-range: 500 feet
-material: 'A pinch of dirt, a piece of rock, and a lump of clay.'
-area:
-  type: sphere
-  size: 100
-concentration: true
 ---
 # Earthquake
 *8th-level, Evocation*  
@@ -52,7 +61,7 @@ This spell can have additional effects depending on the terrain in the area, as 
 
 ## Fissures
 
-Fissures open throughout the spell's area at the start of your next turn after you cast the spell. A total of `dice:1d6|noform|noparens|avg` (`d6`) such fissures open in locations chosen by the DM. Each is `1d10 × 10` feet deep, 10 feet wide, and extends from one edge of the spell's area to the opposite side. A creature standing on a spot where a fissure opens must succeed on a Dexterity saving throw or fall in. A creature that successfully saves moves with the fissure's edge as it opens.
+Fissures open throughout the spell's area at the start of your next turn after you cast the spell. A total of `dice:1d6|noform|noparens|avg` (`1d6`) such fissures open in locations chosen by the DM. Each is `1d10 × 10` feet deep, 10 feet wide, and extends from one edge of the spell's area to the opposite side. A creature standing on a spot where a fissure opens must succeed on a Dexterity saving throw or fall in. A creature that successfully saves moves with the fissure's edge as it opens.
 
 A fissure that opens beneath a structure causes it to automatically collapse (see below).
 
@@ -62,6 +71,6 @@ The tremor deals 50 bludgeoning damage to any structure in contact with the grou
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

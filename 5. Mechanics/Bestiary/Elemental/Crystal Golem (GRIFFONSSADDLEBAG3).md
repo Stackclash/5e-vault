@@ -13,7 +13,7 @@ tags:
 aliases:
   - Crystal Golem
 ---
-# [[5. Mechanics\Bestiary\Elemental\Crystal Golem (GRIFFONSSADDLEBAG3).md|Crystal Golem]]
+# [[5. Mechanics/Bestiary/Elemental/Crystal Golem (GRIFFONSSADDLEBAG3).md|Crystal Golem]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 These mighty elementals seem to form around mirrorlight crystal formations and are given life from any proximity to the Elemental Plane of Earth. Although their size is considerable, they often surprise travelers by blending in with the cave's mineral-strewn terrain. Much of their bulk is actual crystal, but a strange property of their animation allows them to sometimes nullify otherwise harmful frequencies and sonic attacks. The volume of crystal also makes them prime targets for miners and monsters that rely on the gems for sustenance, but these lumbering creatures display remarkable strength and ferocity against would-be predators.
@@ -37,11 +37,12 @@ These mighty elementals seem to form around mirrorlight crystal formations and a
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  - "strength": "+8"
-  - "constitution": "+7"
+  - "strength": !!int "8"
+  - "constitution": !!int "7"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison, radiant"
-"senses": "darkvision 120 ft., tremorsense 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., tremorsense\
+  \ 60 ft., passive Perception 10"
 "languages": "Terran"
 "cr": "7"
 "traits":
@@ -66,7 +67,7 @@ These mighty elementals seem to form around mirrorlight crystal formations and a
 "actions":
   - "desc": "The golem makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16\
       \ (2d10 + 5) bludgeoning damage."
     "name": "Slam"
   - "desc": "While standing in an area of bright light, the golem refracts and focuses\

@@ -17,12 +17,16 @@ classes:
   - Wizard
 school: Abjuration
 level: 3
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: true
 time: 1 Action
 duration: '1 minute, Until dispelled'
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Surge Dampener
 ---
@@ -36,6 +40,6 @@ aliases:
 
 Using your strength of will, you cause one creature other than yourself that you touch to become so firmly entrenched within reality that it is protected from the effects of a chaos magic surge. The protected creature can make a DC 13 Charisma saving throw to negate the effect of a chaos magic surge that does not normally allow a saving throw, or it gains advantage on a saving throw that is normally allowed. Once the protected creature makes a successful saving throw affected by this spell, the spell ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 186*

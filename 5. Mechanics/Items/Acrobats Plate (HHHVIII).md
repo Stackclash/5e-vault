@@ -11,7 +11,7 @@ armorClass: 18
 weight: 65
 ---
 # Acrobat's Plate
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), rare*  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), rare*  
 
 - **Armor Class**: 18
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]

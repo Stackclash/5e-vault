@@ -13,7 +13,7 @@ tags:
 aliases:
   - Seer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Seer (SAF).md|Seer]]
+# [[5. Mechanics/Bestiary/Humanoid/Seer (SAF).md|Seer]]
 *Source: Strongholds and Followers p. 81*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+3"
-  - "dexterity": "+3"
-  - "constitution": "+3"
-  - "intelligence": "+6"
-  - "wisdom": "+6"
-  - "charisma": "+3"
+  - "strength": !!int "3"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+5"
@@ -52,17 +52,17 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "The seer casts the [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]] cantrip\
+  - "desc": "The seer casts the [[/5. Mechanics/Spells/Fire Bolt.md|fire bolt]] cantrip\
       \ (+6 to hit).\n\nAt 7th level, retainers can take two signature attacks per\
       \ round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nThe seer casts the [[5. Mechanics/Spells/Hold Person.md|hold person]]\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nThe seer casts the [[/5. Mechanics/Spells/Hold Person.md|hold person]]\
       \ spell (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level)."
     "name": "Hold Person (3/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe seer casts the [[5. Mechanics/Spells/Sleet Storm.md|sleet storm]]\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe seer casts the [[/5. Mechanics/Spells/Sleet Storm.md|sleet storm]]\
       \ spell (spell save DC 14 at 5th level, and 15 at 7th level)."
     "name": "Sleet Storm (1/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe seer casts the [[5. Mechanics/Spells/Divination.md|divination]]\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe seer casts the [[/5. Mechanics/Spells/Divination.md|divination]]\
       \ spell (spell save DC 15)."
     "name": "Divination (1/Day)"
 "source":

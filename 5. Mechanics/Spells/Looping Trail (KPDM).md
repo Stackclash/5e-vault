@@ -27,13 +27,12 @@ level: 4
 ritual: false
 time: 1 minute
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a piece of rope twisted into a loop
 aliases:
   - Looping Trail
-material: a piece of rope twisted into a loop
 ---
 # Looping Trail
 *4th-level, Transmutation*  
@@ -45,6 +44,6 @@ material: a piece of rope twisted into a loop
 
 You touch a trail no more than 1 mile in length, reconfiguring it to give it switchbacks and curves that make the trail loop back on itself. For the duration, the trail makes subtle changes in its configuration and in the surrounding environment to give the impression of forward progression along a continuous path. A creature on the trail must succeed on a Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check to notice that the trail is leading it in a closed loop.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 91*

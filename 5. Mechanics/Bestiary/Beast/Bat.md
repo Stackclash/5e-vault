@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bat
 ---
-# [[5. Mechanics\Bestiary\Beast\Bat.md|Bat]]
+# [[5. Mechanics/Bestiary/Beast/Bat.md|Bat]]
 *Source: Monster Manual p. 318, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -33,7 +33,8 @@ aliases:
   - !!int "12"
   - !!int "4"
 "speed": "5 ft., fly 30 ft."
-"senses": "blindsight 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., passive Perception\
+  \ 11"
 "languages": ""
 "cr": "0"
 "traits":
@@ -43,13 +44,13 @@ aliases:
       \ checks that rely on hearing."
     "name": "Keen Hearing"
 "actions":
-  - "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1\
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature. *Hit:* 1\
       \ piercing damage."
     "name": "Bite"
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Beast/token/bat.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/bat.webp"
 ```
 ^statblock
 

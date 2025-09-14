@@ -15,7 +15,7 @@ tags:
 aliases:
   - Allip
 ---
-# [[5. Mechanics\Bestiary\Undead\Allip (MPMM).md|Allip]]
+# [[5. Mechanics/Bestiary/Undead/Allip (MPMM).md|Allip]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45, Mordenkainen's Tome of Foes p. 116*
 
 When a creature uncovers a secret that a powerful being has protected with a mighty curse, the result is often the creation of an allip. Secrets protected in this manner range in scope from a demon lord's true name to the hidden truths of the cosmic order. The creature acquires the secret, but the curse annihilates its body and leaves behind a spectral being composed of fragments from the victim's psyche and overwhelming psychic agony.
@@ -44,8 +44,8 @@ An allip might attempt to share its lore to escape its curse and enter the after
   - !!int "16"
 "speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  - "intelligence": "+6"
-  - "wisdom": "+5"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
@@ -59,18 +59,19 @@ An allip might attempt to share its lore to escape its curse and enter the after
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": "the languages it knew in life"
 "cr": "5"
 "traits":
   - "desc": "The allip can move through other creatures and objects as if they were\
-      \ difficult terrain. It takes 5 (d10) force damage if it ends its turn inside\
+      \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
       \ an object."
     "name": "Incorporeal Movement"
   - "desc": "The allip doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (4d6\
+  - "desc": "*Melee Spell Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (4d6\
       \ + 3) psychic damage."
     "name": "Maddening Touch"
   - "desc": "Each creature within 30 feet of the allip that can hear it must make\
@@ -89,7 +90,7 @@ An allip might attempt to share its lore to escape its curse and enter the after
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/allip-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/allip-mpmm.webp"
 ```
 ^statblock
 

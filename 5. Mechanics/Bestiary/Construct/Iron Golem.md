@@ -13,7 +13,7 @@ tags:
 aliases:
   - Iron Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Iron Golem.md|Iron Golem]]
+# [[5. Mechanics/Bestiary/Construct/Iron Golem.md|Iron Golem]]
 *Source: Monster Manual p. 170, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The mightiest of the golems, the iron golem is a massive, towering giant wrought of heavy metal. An iron golem's shape can be worked into any form, though most are fashioned to look like giant suits of armor. Its fist can destroy creatures with a single blow, and its clanging steps shake the earth beneath its feet. Iron golems wield enormous blades to extend their reach, and all can belch clouds of deadly poison.
@@ -28,7 +28,7 @@ An iron golem's body is smelted with rare tinctures and admixtures. Though other
 
 Golems are made from humble materials-clay, flesh and bones, iron, or stone-but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [[5. Mechanics/Items/Manual Of Golems.md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a [[/5. Mechanics/Items/Manual Of Golems.md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 ### Elemental Spirit in Material Form
 
@@ -75,7 +75,8 @@ A golem doesn't require air, food, drink, or sleep.
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "16"
 "traits":
@@ -92,10 +93,10 @@ A golem doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The golem makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 20\
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 20\
       \ (3d8 + 7) bludgeoning damage."
     "name": "Slam"
-  - "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 23\
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 23\
       \ (3d10 + 7) slashing damage."
     "name": "Sword"
   - "desc": "The golem exhales poisonous gas in a 15-foot cone. Each creature in that\
@@ -106,7 +107,7 @@ A golem doesn't require air, food, drink, or sleep.
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Construct/token/iron-golem.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/iron-golem.webp"
 ```
 ^statblock
 

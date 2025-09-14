@@ -123,7 +123,7 @@ Sometimes a character fails an ability check and wants to try again. In some cas
 
 In other cases, failing an ability check makes it impossible to make the same check to do the same thing again. For example, a rogue might try to trick a town guard into thinking the adventurers are undercover agents of the king. If the rogue loses a contest of Charisma ([[/5. Mechanics/Rules/Skills.md#Deception\|Deception]]) against the guard's Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]), the same lie told again won't work. The characters can come up with a different way to get past the guard or try the check again against another guard at a different gate. But you might decide that the initial failure makes those checks more difficult to pull off.
 
-![[5. Mechanics/Tables/Ability Checks.md\|Ability Checks]]
+![[/5. Mechanics/Tables/Ability Checks.md\|Ability Checks]]
 
 #### Contests
 
@@ -154,13 +154,13 @@ Most of the time, a saving throw comes into play when an effect-such as a spell,
 
 Other times, a situation arises that clearly calls for a saving throw, especially when a character is subjected to a harmful effect that can't be hedged out by armor or a shield. It's up to you to decide which ability score is involved. The Saving Throws table offers suggestions.
 
-![[5. Mechanics/Tables/Saving Throws.md\|Saving Throws]]
+![[/5. Mechanics/Tables/Saving Throws.md\|Saving Throws]]
 
 ### Difficulty Class
 
 It's your job to establish the Difficulty Class for an ability check or a saving throw when a rule or an adventure doesn't give you one. Sometimes you'll even want to change such established DCs. When you do so, think of how difficult a task is and then pick the associated DC from the Typical DCs table.
 
-![[5. Mechanics/Tables/Difficulty Class Typical Dcs.md\|Difficulty Class; Typical DCs]]
+![[/5. Mechanics/Tables/Difficulty Class Typical Dcs.md\|Difficulty Class; Typical DCs]]
 
 The numbers associated with these categories of difficulty are meant to be easy to keep in your head, so that you don't have to refer to this book every time you decide on a DC. Here are some tips for using DC categories at the gaming table.
 
@@ -196,7 +196,7 @@ Often, players ask whether they can apply a skill proficiency to an ability chec
 
 #### Tools
 
-Having proficiency with a tool allows you to apply your proficiency bonus to an ability check you make using that tool. For example, a character proficient with [[5. Mechanics/Items/Carpenters Tools.md\|carpenter's tools]] can apply his or her proficiency bonus to a Dexterity check to craft a wooden flute, an Intelligence check to craft a wooden secret door, or a Strength check to build a working trebuchet. However, the proficiency bonus wouldn't apply to an ability check made to identify unsafe wooden construction or to discern the origin of a crafted item, since neither check requires tool use.
+Having proficiency with a tool allows you to apply your proficiency bonus to an ability check you make using that tool. For example, a character proficient with [[/5. Mechanics/Items/Carpenters Tools.md\|carpenter's tools]] can apply his or her proficiency bonus to a Dexterity check to craft a wooden flute, an Intelligence check to craft a wooden secret door, or a Strength check to build a working trebuchet. However, the proficiency bonus wouldn't apply to an ability check made to identify unsafe wooden construction or to discern the origin of a crafted item, since neither check requires tool use.
 
 #### Saving Throws and Attack Rolls
 
@@ -330,7 +330,7 @@ Consider adding similar distinctions to other checks. Perhaps a failed Charisma 
 
 #### Critical Success or Failure
 
-Rolling a 20 or a 1 on an ability check or a saving throw doesn't normally have any special effect. However, you can choose to take such an exceptional roll into account when adjudicating the outcome. It's up to you to determine how this manifests in the game. An easy approach is to increase the impact of the success or failure. For example, rolling a 1 on a failed attempt to pick a lock might break the [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] being used, and rolling a 20 on a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check might reveal an extra clue.
+Rolling a 20 or a 1 on an ability check or a saving throw doesn't normally have any special effect. However, you can choose to take such an exceptional roll into account when adjudicating the outcome. It's up to you to determine how this manifests in the game. An easy approach is to increase the impact of the success or failure. For example, rolling a 1 on a failed attempt to pick a lock might break the [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] being used, and rolling a 20 on a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check might reveal an extra clue.
 
 ## Exploration
 
@@ -342,7 +342,7 @@ Whatever environment the adventurers are exploring, you can use a map to follow 
 
 The Map Travel Pace table helps you track travel on maps of different scales. The table shows how much distance on a map the adventurers can cover on foot in minutes, hours, or days. The table uses the travel paces-slow, normal, and fast-described in the Player's Handbook. Characters moving at a normal pace can walk about 24 miles in a day.
 
-![[5. Mechanics/Tables/Using A Map Map Travel Pace.md\|Using a Map; Map Travel Pace]]
+![[/5. Mechanics/Tables/Using A Map Map Travel Pace.md\|Using a Map; Map Travel Pace]]
 
 ### Special Travel Pace
 
@@ -386,7 +386,7 @@ The DC for the check depends on how well the ground shows signs of a creature's 
 
 On a failed check, the character loses the trail but can attempt to find it again by making a careful search of the area. It takes 10 minutes to find a trail in a confined area such as a dungeon, or 1 hour outdoors.
 
-![[5. Mechanics/Tables/Tracking Dcs.md\|Tracking DCs]]
+![[/5. Mechanics/Tables/Tracking Dcs.md\|Tracking DCs]]
 
 ## Social Interaction
 
@@ -531,13 +531,13 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-![[5. Mechanics/Tables/Object Armor Class.md\|Object Armor Class]]
+![[/5. Mechanics/Tables/Object Armor Class.md\|Object Armor Class]]
 
 #### Hit Points
 
 An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-![[5. Mechanics/Tables/Object Hit Points.md\|Object Hit Points]]
+![[/5. Mechanics/Tables/Object Hit Points.md\|Object Hit Points]]
 
 #### Huge and Gargantuan Objects
 
@@ -589,9 +589,9 @@ Tracking damage for one or two monsters isn't onerous, but it helps to have a sy
 
 Descriptions such as "the ogre with the nasty scar" and "the ogre with the horned helm" help you and your players track which monster is which. For example, imagine that you're running an encounter with three ogres, each of which has 59 hit points. Once initiative is rolled, jot down each ogre's hit points and add notes (and even a name, if you like) to differentiate each one:
 
-Krag ([[5. Mechanics/Bestiary/Giant/Ogre.md\|ogre]] w/ scar): 59  
-Thod ([[5. Mechanics/Bestiary/Giant/Ogre.md\|ogre]] w/ helm): 59  
-Mur ([[5. Mechanics/Bestiary/Giant/Ogre.md\|ogre]] who smells like poo): 59  
+Krag ([[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogre]] w/ scar): 59  
+Thod ([[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogre]] w/ helm): 59  
+Mur ([[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogre]] who smells like poo): 59  
 
 If you use miniatures to represent monsters, one easy way to differentiate them is to give each one a unique miniature. If you use identical miniatures to represent multiple monsters, you can tag the miniatures with small stickers of different colors or stickers with different letters or numbers on them.
 
@@ -623,11 +623,11 @@ A monster follows the same rule for critical hits as a player character. That sa
 
 A monster or effect typically specifies the amount of damage it deals. In some cases, though, you need to determine damage on the fly. The Improvising Damage table gives you suggestions for when you do so.
 
-![[5. Mechanics/Tables/Improvising Damage.md\|Improvising Damage]]
+![[/5. Mechanics/Tables/Improvising Damage.md\|Improvising Damage]]
 
 The Damage Severity and Level table is a guide to how deadly these damage numbers are for characters of various levels. Cross-reference a character's level with the damage being dealt to gauge the severity of the damage.
 
-![[5. Mechanics/Tables/Improvising Damage Damage Severity And Level.md\|Improvising Damage; Damage Severity and Level]]
+![[/5. Mechanics/Tables/Improvising Damage Damage Severity And Level.md\|Improvising Damage; Damage Severity and Level]]
 
 Damage sufficient to cause a **setback** rarely poses a risk of death to characters of the level shown, but a severely weakened character might be laid low by this damage.
 
@@ -641,9 +641,9 @@ Many spells and other game features create areas of effect, such as the cone and
 
 If you would like more guidance, consider using the Targets in Areas of Effect table. To use the table, imagine which combatants are near one another, and let the table guide you in determining the number of those combatants that are caught in an area of effect.
 
-Add or subtract targets based on how bunched up the potential targets are. Consider rolling `dice:1d3|noform|noparens|avg` (`d3`) to determine the amount to add or subtract.
+Add or subtract targets based on how bunched up the potential targets are. Consider rolling `dice:1d3|noform|noparens|avg` (`1d3`) to determine the amount to add or subtract.
 
-![[5. Mechanics/Tables/Adjudicating Areas Of Effect Targets In Areas Of Effect.md\|Adjudicating Areas of Effect; Targets in Areas of Effect]]
+![[/5. Mechanics/Tables/Adjudicating Areas Of Effect Targets In Areas Of Effect.md\|Adjudicating Areas of Effect; Targets in Areas of Effect]]
 
 For example, if a wizard directs burning hands (a 15-foot cone) at a nearby group of orcs, you could use the table and say that two orcs are targeted (15 ÷ 10 = 1.5, rounded up to 2). Similarly, a sorcerer could launch a lightning bolt (100-foot line) at some ogres and hobgoblins, and you could use the table to say four of the monsters are targeted (100 ÷ 30 = 3.33, rounded up to 4).
 
@@ -663,7 +663,7 @@ If the attacking creatures deal different amounts of damage, assume that the cre
 
 This attack resolution system ignores critical hits in favor of reducing the number of die rolls. As the number of combatants dwindles, switch back to using individual die rolls to avoid situations where one side can't possibly hit the other.
 
-![[5. Mechanics/Tables/Handling Mobs Mob Attacks.md\|Handling Mobs; Mob Attacks]]
+![[/5. Mechanics/Tables/Handling Mobs Mob Attacks.md\|Handling Mobs; Mob Attacks]]
 
 ### Using Miniatures
 
@@ -681,11 +681,11 @@ The most common unit for tactical maps is the 5-foot square, and maps with grids
 
 A creature's size determines how much space it occupies on squares or hexes, as shown in the Creature Size and Space table. If the miniature you use for a monster takes up an amount of space different from what's on the table, that's fine, but treat the monster as its official size for all other rules. For example, you might use a miniature that has a Large base to represent a Huge giant. The giant takes up less space on the battlefield than its size suggests, but it is still Huge for the purposes of rules like grappling.
 
-![[5. Mechanics/Tables/Creature Size On Squares And Hexes Creature Size And Space.md\|Creature Size on Squares and Hexes; Creature Size and Space]]
+![[/5. Mechanics/Tables/Creature Size On Squares And Hexes Creature Size And Space.md\|Creature Size on Squares and Hexes; Creature Size and Space]]
 
-![[6. Resources/Books/Dungeon Masters Guide 2014/img/monster_size_chart.webp#center]]
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/monster_size_chart.webp#center]]
 
-![[6. Resources/Books/Dungeon Masters Guide 2014/img/creature_size_on_squares_and_hexes.webp#center]]
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/creature_size_on_squares_and_hexes.webp#center]]
 
 #### Areas of Effect
 
@@ -717,13 +717,13 @@ When a creature and at least one of its allies are adjacent to an enemy and on o
 
 When in doubt about whether two creatures flank an enemy on a grid, trace an imaginary line between the centers of the creatures' spaces. If the line passes through opposite sides or corners of the enemy's space, the enemy is flanked.
 
-![[6. Resources/Books/Dungeon Masters Guide 2014/img/flanking_and_cover_squares.webp#center]]
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/flanking_and_cover_squares.webp#center]]
 
 ##### Flanking on Hexes
 
 When a creature and at least one of its allies are adjacent to an enemy and on opposite sides of the enemy's space, they flank that enemy, and each of them has advantage on attack rolls against that enemy. On hexes, count around the enemy from one creature to its ally. Against a Medium or smaller creature, the allies flank if there are 2 hexes between them. Against a Large creature, the allies flank if there are 4 hexes between them. Against a Huge creature, they must have 5 hexes between them. Against a Gargantuan creature, they must have at least 6 hexes between them.
 
-![[6. Resources/Books/Dungeon Masters Guide 2014/img/flanking_and_cover_hexes.webp#center]]
+![[/6. Resources/Books/Dungeon Masters Guide 2014/img/flanking_and_cover_hexes.webp#center]]
 
 #### Optional Rule: Diagonals
 
@@ -795,7 +795,7 @@ If the quarry is never out of the lead pursuer's sight, the check fails automati
 
 The quarry gains advantage or disadvantage on its check based on prevailing circumstances, as shown in the Escape Factors table. If one or more factors give the quarry both advantage and disadvantage on its check, the quarry has neither, as usual.
 
-![[5. Mechanics/Tables/Ending A Chase Escape Factors.md\|Ending a Chase; Escape Factors]]
+![[/5. Mechanics/Tables/Ending A Chase Escape Factors.md\|Ending a Chase; Escape Factors]]
 
 Other factors might help or hinder the quarry's ability to escape, at your discretion. For example, a quarry with a faerie fire spell cast on it might have disadvantage on checks made to escape because it's much easier to spot.
 
@@ -807,9 +807,9 @@ As with any good chase scene, complications can arise to make a chase more pulse
 
 Characters can create their own complications to shake off pursuers (for example, casting the web spell in a narrow alleyway). Adjudicate these as you see fit.
 
-![[5. Mechanics/Tables/Urban Chase Complications.md\|Urban Chase Complications]]
+![[/5. Mechanics/Tables/Urban Chase Complications.md\|Urban Chase Complications]]
 
-![[5. Mechanics/Tables/Wilderness Chase Complications.md\|Wilderness Chase Complications]]
+![[/5. Mechanics/Tables/Wilderness Chase Complications.md\|Wilderness Chase Complications]]
 
 #### Designing Your Own Chase Tables
 
@@ -835,13 +835,13 @@ During a chase, it's possible for the pursuers to become the quarry. For example
 
 Siege weapons are designed to assail castles and other walled fortifications. They see much use in campaigns that feature war. Most siege weapons don't move around a battlefield on their own; they require creatures to move them, as well as to load, aim, and fire them.
 
-- [[5. Mechanics/Objects/Ballista.md\|Ballista]]  
-- [[5. Mechanics/Objects/Cannon.md\|Cannon]]  
-- [[5. Mechanics/Objects/Suspended Cauldron.md\|Suspended Cauldron]]  
-- [[5. Mechanics/Objects/Mangonel.md\|Mangonel]]  
-- [[5. Mechanics/Objects/Ram.md\|Ram]]  
-- [[5. Mechanics/Objects/Siege Tower.md\|Siege Tower]]  
-- [[5. Mechanics/Objects/Trebuchet.md\|Trebuchet]]  
+- [[/5. Mechanics/Objects/Ballista.md\|Ballista]]  
+- [[/5. Mechanics/Objects/Cannon.md\|Cannon]]  
+- [[/5. Mechanics/Objects/Suspended Cauldron.md\|Suspended Cauldron]]  
+- [[/5. Mechanics/Objects/Mangonel.md\|Mangonel]]  
+- [[/5. Mechanics/Objects/Ram.md\|Ram]]  
+- [[/5. Mechanics/Objects/Siege Tower.md\|Siege Tower]]  
+- [[/5. Mechanics/Objects/Trebuchet.md\|Trebuchet]]  
 
 ## Diseases
 
@@ -881,26 +881,26 @@ These poisons are powders or gases that take effect when inhaled. Blowing the po
 
 Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
-![[5. Mechanics/Tables/Poisons.md\|Poisons]]
+![[/5. Mechanics/Tables/Poisons.md\|Poisons]]
 
 ### Sample Poisons
 
 Each type of poison has its own debilitating effects.
 
-- [[5. Mechanics/Items/Assassins Blood.md\|Assassin's blood]]  
-- [[5. Mechanics/Items/Burnt Othur Fumes.md\|Burnt othur fumes]]  
-- [[5. Mechanics/Items/Carrion Crawler Muc(US).md\|Carrion crawler mucus]]  
-- [[5. Mechanics/Items/Drow Poison.md\|Drow poison]]  
-- [[5. Mechanics/Items/Essence Of Ether.md\|Essence of ether]]  
-- [[5. Mechanics/Items/Malice.md\|Malice]]  
-- [[5. Mechanics/Items/Midnight Tears.md\|Midnight tears]]  
-- [[5. Mechanics/Items/Oil Of Taggit.md\|Oil of taggit]]  
-- [[5. Mechanics/Items/Pale Tincture.md\|Pale tincture]]  
-- [[5. Mechanics/Items/Purple Worm Poison.md\|Purple worm poison]]  
-- [[5. Mechanics/Items/Serpent Venom.md\|Serpent venom]]  
-- [[5. Mechanics/Items/Torpor.md\|Torpor]]  
-- [[5. Mechanics/Items/Truth Serum.md\|Truth serum]]  
-- [[5. Mechanics/Items/Wyvern Poison.md\|Wyvern poison]]  
+- [[/5. Mechanics/Items/Assassins Blood.md\|Assassin's blood]]  
+- [[/5. Mechanics/Items/Burnt Othur Fumes.md\|Burnt othur fumes]]  
+- [[/5. Mechanics/Items/Carrion Crawler Muc(US).md\|Carrion crawler mucus]]  
+- [[/5. Mechanics/Items/Drow Poison.md\|Drow poison]]  
+- [[/5. Mechanics/Items/Essence Of Ether.md\|Essence of ether]]  
+- [[/5. Mechanics/Items/Malice.md\|Malice]]  
+- [[/5. Mechanics/Items/Midnight Tears.md\|Midnight tears]]  
+- [[/5. Mechanics/Items/Oil Of Taggit.md\|Oil of taggit]]  
+- [[/5. Mechanics/Items/Pale Tincture.md\|Pale tincture]]  
+- [[/5. Mechanics/Items/Purple Worm Poison.md\|Purple worm poison]]  
+- [[/5. Mechanics/Items/Serpent Venom.md\|Serpent venom]]  
+- [[/5. Mechanics/Items/Torpor.md\|Torpor]]  
+- [[/5. Mechanics/Items/Truth Serum.md\|Truth serum]]  
+- [[/5. Mechanics/Items/Wyvern Poison.md\|Wyvern poison]]  
 
 ### Purchasing Poison
 
@@ -910,9 +910,9 @@ The Poisons table gives suggested prices for single doses of various poisons.
 
 ### Crafting and Harvesting Poison
 
-During downtime between adventures, a character can use the crafting rules in the Player's Handbook to create basic poison if the character has proficiency with a [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]]. At your discretion, the character can craft other kinds of poison. Not all poison ingredients are available for purchase, and tracking down certain ingredients might form the basis of an entire adventure.
+During downtime between adventures, a character can use the crafting rules in the Player's Handbook to create basic poison if the character has proficiency with a [[/5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]]. At your discretion, the character can craft other kinds of poison. Not all poison ingredients are available for purchase, and tracking down certain ingredients might form the basis of an entire adventure.
 
-A character can instead attempt to harvest poison from a poisonous creature, such as a snake, wyvern, or carrion crawler. The creature must be incapacitated or dead, and the harvesting requires `dice:1d6|noform|noparens|avg` (`d6`) minutes followed by a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) check. (Proficiency with the [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]] applies to this check if the character doesn't have proficiency in Nature.) On a successful check, the character harvests enough poison for a single dose. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
+A character can instead attempt to harvest poison from a poisonous creature, such as a snake, wyvern, or carrion crawler. The creature must be incapacitated or dead, and the harvesting requires `dice:1d6|noform|noparens|avg` (`1d6`) minutes followed by a DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) check. (Proficiency with the [[/5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]] applies to this check if the character doesn't have proficiency in Nature.) On a successful check, the character harvests enough poison for a single dose. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
 
 ## Madness
 
@@ -920,7 +920,7 @@ In a typical campaign, characters aren't driven mad by the horrors they face and
 
 ### Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]] and [[5. Mechanics/Spells/Symbol.md\|symbol]], can cause insanity, and you can use the madness rules here instead of the spell effects in the Player's Handbook. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[/5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]] and [[/5. Mechanics/Spells/Symbol.md\|symbol]], can cause insanity, and you can use the madness rules here instead of the spell effects in the Player's Handbook. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
 Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the [[/5. Mechanics/Rules/Variant Rules/New Ability Scores Honor And Sanity.md\|Sanity score]] (see chapter 9, "Dungeon Master's Workshop"), a creature makes a Sanity saving throw instead.
 
@@ -928,21 +928,21 @@ Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving
 
 Madness can be short-term, long-term, or indefinite. Most relatively mundane effects impose short-term madness, which lasts for just a few minutes. More horrific effects or cumulative effects can result in long-term or indefinite madness.
 
-A character afflicted with **short-term madness** is subjected to an effect from the Short-Term Madness table for `dice:1d10|noform|noparens|avg` (`d10`) minutes.
+A character afflicted with **short-term madness** is subjected to an effect from the Short-Term Madness table for `dice:1d10|noform|noparens|avg` (`1d10`) minutes.
 
 A character afflicted with **long-term madness** is subjected to an effect from the Long-Term Madness table for `1d10 × 10` hours.
 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
-![[5. Mechanics/Tables/Short Term Madness.md\|Short-Term Madness]]
+![[/5. Mechanics/Tables/Short Term Madness.md\|Short-Term Madness]]
 
-![[5. Mechanics/Tables/Long Term Madness.md\|Long-Term Madness]]
+![[/5. Mechanics/Tables/Long Term Madness.md\|Long-Term Madness]]
 
-![[5. Mechanics/Tables/Indefinite Madness.md\|Indefinite Madness]]
+![[/5. Mechanics/Tables/Indefinite Madness.md\|Indefinite Madness]]
 
 ### Curing Madness
 
-A [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell can suppress the effects of madness, while a [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] or [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil]] might also prove effective. A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or more powerful magic is required to rid a character of indefinite madness.
+A [[/5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell can suppress the effects of madness, while a [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] or [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil]] might also prove effective. A [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or more powerful magic is required to rid a character of indefinite madness.
 
 ## Experience Points
 

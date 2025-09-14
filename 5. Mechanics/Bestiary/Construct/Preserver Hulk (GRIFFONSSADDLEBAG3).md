@@ -13,7 +13,7 @@ tags:
 aliases:
   - Preserver Hulk
 ---
-# [[5. Mechanics\Bestiary\Construct\Preserver Hulk (GRIFFONSSADDLEBAG3).md|Preserver Hulk]]
+# [[5. Mechanics/Bestiary/Construct/Preserver Hulk (GRIFFONSSADDLEBAG3).md|Preserver Hulk]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A lumbering construct of pure strength and built for the Hollow Moon's most demanding tasks.
@@ -46,7 +46,8 @@ A lumbering construct of pure strength and built for the Hollow Moon's most dema
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "8"
 "traits":
@@ -60,10 +61,10 @@ A lumbering construct of pure strength and built for the Hollow Moon's most dema
 "actions":
   - "desc": "The hulk makes three attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 17\
       \ (2d12 + 4) bludgeoning damage."
     "name": "Slam"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 60 ft., one target. Hit: 13\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 60 ft., one target. *Hit:* 13\
       \ (2d10 + 2) force damage, and the target must succeed on a DC 15 Dexterity\
       \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
       \ by energy bindings. A creature can use its action to make a DC 15 Strength\

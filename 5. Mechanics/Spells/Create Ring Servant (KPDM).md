@@ -16,15 +16,13 @@ school: Transmutation
 level: 8
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: true
+verbal: true
+material: two metal rings
 aliases:
   - Create Ring Servant
-concentration: true
-material: two metal rings
 ---
 # Create Ring Servant
 *8th-level, Transmutation*  
@@ -38,6 +36,6 @@ You touch two metal rings and infuse them with life, creating a short-lived but 
 
 The ring servant is friendly to you and your companions for the duration. Roll initiative for the ring servant, which acts on its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the ring servant, it defends itself and you from hostile creatures but otherwise takes no actions.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 231*

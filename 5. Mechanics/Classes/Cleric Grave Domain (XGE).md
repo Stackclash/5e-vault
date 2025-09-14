@@ -52,24 +52,24 @@ aliases:
 
 ### Grave Domain (Level 1)
 
-Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, [[5. Mechanics/Deities/Greyhawk Wee Jas.md\|Wee Jas]], the ancestral spirits of [[5. Mechanics/Deities/Eberron The Undying Court.md\|the Undying Court]], [[5. Mechanics/Deities/Greek Hades.md\|Hades]], [[5. Mechanics/Deities/Egyptian Anubis.md\|Anubis]], and [[5. Mechanics/Deities/Egyptian Osiris.md\|Osiris]]. Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
+Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, [[/5. Mechanics/Deities/Greyhawk Wee Jas.md\|Wee Jas]], the ancestral spirits of [[/5. Mechanics/Deities/Eberron The Undying Court.md\|the Undying Court]], [[/5. Mechanics/Deities/Greek Hades.md\|Hades]], [[/5. Mechanics/Deities/Egyptian Anubis.md\|Anubis]], and [[/5. Mechanics/Deities/Egyptian Osiris.md\|Osiris]]. Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
 
 **Grave Domain Spells**
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Bane.md\|bane]], [[5. Mechanics/Spells/False Life.md\|false life]] |
-| 3rd | [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]], [[5. Mechanics/Spells/Ray Of Enfeeblement.md\|ray of enfeeblement]] |
-| 5th | [[5. Mechanics/Spells/Revivify.md\|revivify]], [[5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]] |
-| 7th | [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Death Ward.md\|death ward]] |
-| 9th | [[5. Mechanics/Spells/Antilife Shell.md\|antilife shell]], [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] |
+| 1st | [[/5. Mechanics/Spells/Bane.md\|bane]], [[/5. Mechanics/Spells/False Life.md\|false life]] |
+| 3rd | [[/5. Mechanics/Spells/Gentle Repose.md\|gentle repose]], [[/5. Mechanics/Spells/Ray Of Enfeeblement.md\|ray of enfeeblement]] |
+| 5th | [[/5. Mechanics/Spells/Revivify.md\|revivify]], [[/5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]] |
+| 7th | [[/5. Mechanics/Spells/Blight.md\|blight]], [[/5. Mechanics/Spells/Death Ward.md\|death ward]] |
+| 9th | [[/5. Mechanics/Spells/Antilife Shell.md\|antilife shell]], [[/5. Mechanics/Spells/Raise Dead.md\|raise dead]] |
 ^grave-domain-spells
 
 ### Circle of Mortality (Level 1)
 
 At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
 
-In addition, you learn the [[5. Mechanics/Spells/Spare The Dying.md\|spare the dying]] cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+In addition, you learn the [[/5. Mechanics/Spells/Spare The Dying.md\|spare the dying]] cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
 
 ### Eyes of the Grave (Level 1)
 
@@ -98,7 +98,7 @@ _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Potent Spellcasting feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Keeper of Souls (Level 17)
 

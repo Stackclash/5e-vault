@@ -24,17 +24,21 @@ classes:
   - Sorcerer (Divine Soul)
 school: Abjuration
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
 ritual: false
 time: 1 Action
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: a tiny strip of white cloth
 aliases:
   - Aid
-range: 30 feet
-material: A tiny strip of white cloth.
 ---
 # Aid
 *2nd-level, Abjuration*  
@@ -48,6 +52,6 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Cleric (Peace Domain)](compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Sorcerer (Clockwork Soul)](compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Clockwork Soul)](/compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

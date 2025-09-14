@@ -34,16 +34,29 @@ classes:
   - Warlock
   - Wizard
 school: Conjuration
-level: cantrip
+level: 0
+damage:
+  base: 1d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - fire
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+area:
+  shape: cube
+  size: 5
 aliases:
   - Create Bonfire
-concentration: true
 ---
 # Create Bonfire
 *cantrip, Conjuration*  
@@ -53,12 +66,14 @@ concentration: true
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take `dice:1d8|noform|noparens|avg` (`d8`) fire damage. A creature must also make the saving throw when it moves into the bonfire's space for the first time on a turn or ends its turn there.
+You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take `dice:1d8|noform|noparens|avg` (`1d8`) fire damage. A creature must also make the saving throw when it moves into the bonfire's space for the first time on a turn or ends its turn there.
 
 The bonfire ignites flammable objects in its area that aren't being worn or carried.
 
-The spell's damage increases by `dice:1d8|noform|noparens|avg` (`d8`) when you reach 5th level (`dice:2d8|noform|noparens|avg` (`2d8`)), 11th level (`dice:3d8|noform|noparens|avg` (`3d8`)), and 17th level (`dice:4d8|noform|noparens|avg` (`4d8`)).
+The spell's damage increases by `dice:1d8|noform|noparens|avg` (`1d8`) when you reach 5th level (`dice:2d8|noform|noparens|avg` (`2d8`)), 11th level (`dice:3d8|noform|noparens|avg` (`3d8`)), and 17th level (`dice:4d8|noform|noparens|avg` (`4d8`)).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
 
 *Source: Xanathar's Guide to Everything p. 152*

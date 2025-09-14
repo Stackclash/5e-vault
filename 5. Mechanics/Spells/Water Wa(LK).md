@@ -36,14 +36,12 @@ level: 3
 ritual: true
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: a piece of cork
 aliases:
   - Water Walk
-range: 30 feet
-material: A piece of cork.
 ---
 # Water Walk
 *3rd-level, Transmutation (ritual)*  
@@ -57,6 +55,6 @@ This spell grants the ability to move across any liquid surface—such as water,
 
 If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [Paladin (Oath of the Open Road)](compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Ranger (Angler)](compendium/lists/list-spells-classes-angler-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Travel Domain)](compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Travel Domain)](/compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of the Open Road)](/compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Ranger (Angler)](/compendium/lists/list-spells-classes-angler-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

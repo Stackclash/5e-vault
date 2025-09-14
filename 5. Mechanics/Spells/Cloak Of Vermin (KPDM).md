@@ -14,17 +14,22 @@ classes:
   - Warlock
 school: Conjuration
 level: 3
+damage:
+  base: 2d4
+  scaling:
+    damage: null
+    level: null
+  types:
+    - piercing
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: Self
+somatic: true
+verbal: true
+material: a handful of dead flies
 aliases:
   - Cloak of Vermin
-concentration: true
-material: a handful of dead flies
 ---
 # Cloak of Vermin
 *3rd-level, Conjuration*  
@@ -36,8 +41,8 @@ material: a handful of dead flies
 
 You conjure a writhing garment of living insects that protect you and harm your foes. While the spell is active, you gain a +1 bonus to AC. Whenever a creature within 5 feet of you hits you with a melee attack, the insects lash out, dealing `dice:2d4|noform|noparens|avg` (`2d4`) piercing damage to the attacker.
 
-As a bonus action, you can command your cloak to leave your body, becoming a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]], and enter the space of an adjacent foe. The swarm attacks that foe until you use a bonus action to command it to return to you, the foe moves more than 5 feet away from you, the spell ends, or the swarm dies. You lose the protective benefit of the cloak when using it in this fashion.
+As a bonus action, you can command your cloak to leave your body, becoming a [[/5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]], and enter the space of an adjacent foe. The swarm attacks that foe until you use a bonus action to command it to return to you, the foe moves more than 5 feet away from you, the spell ends, or the swarm dies. You lose the protective benefit of the cloak when using it in this fashion.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 50*

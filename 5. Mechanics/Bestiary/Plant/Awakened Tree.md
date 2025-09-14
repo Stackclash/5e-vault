@@ -14,10 +14,10 @@ tags:
 aliases:
   - Awakened Tree
 ---
-# [[5. Mechanics\Bestiary\Plant\Awakened Tree.md|Awakened Tree]]
+# [[5. Mechanics/Bestiary/Plant/Awakened Tree.md|Awakened Tree]]
 *Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
-An awakened tree is an ordinary tree given sentience and mobility by the [[5. Mechanics/Spells/Awaken.md|awaken]] spell or similar magic.
+An awakened tree is an ordinary tree given sentience and mobility by the [[/5. Mechanics/Spells/Awaken.md|awaken]] spell or similar magic.
 
 ```statblock
 "name": "Awakened Tree"
@@ -47,12 +47,12 @@ An awakened tree is an ordinary tree given sentience and mobility by the [[5. Me
       \ tree."
     "name": "False Appearance"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14\
       \ (3d6 + 4) bludgeoning damage."
     "name": "Slam"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Plant/token/awakened-tree.webp"
+"image": "/5. Mechanics/Bestiary/Plant/token/awakened-tree.webp"
 ```
 ^statblock
 

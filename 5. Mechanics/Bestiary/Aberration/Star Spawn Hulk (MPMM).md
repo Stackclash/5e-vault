@@ -13,7 +13,7 @@ tags:
 aliases:
   - Star Spawn Hulk
 ---
-# [[5. Mechanics\Bestiary\Aberration\Star Spawn Hulk (MPMM).md|Star Spawn Hulk]]
+# [[5. Mechanics/Bestiary/Aberration/Star Spawn Hulk (MPMM).md|Star Spawn Hulk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*
 
 The hulk is one of the largest of the known star spawn, with glistening, translucent skin. Pale and seemingly lidless eyes glare balefully from a face distorted by too many teeth and too little nose. Hulks are seldom encountered without a commanding star spawn seer (also in this book) nearby. A hulk appears to have little will of its own and is driven to protect its master.
@@ -61,14 +61,15 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - !!int "9"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+3"
-  - "wisdom": "+5"
+  - "dexterity": !!int "3"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": "Deep Speech"
 "cr": "10"
 "traits":
@@ -82,7 +83,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
       \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] until\
       \ the end of the target's next turn."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 14\
       \ (2d8 + 5) bludgeoning damage."
     "name": "Slam"
   - "desc": "The hulk makes a separate Slam attack against each creature within 10\
@@ -92,7 +93,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-hulk-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/star-spawn-hulk-mpmm.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Flesh Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Flesh Golem.md|Flesh Golem]]
+# [[5. Mechanics/Bestiary/Construct/Flesh Golem.md|Flesh Golem]]
 *Source: Monster Manual p. 169, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A flesh golem is a grisly assortment of humanoid body parts stitched and bolted together into a muscled brute imbued with formidable strength. Its brain is capable of simple reason, though its thoughts are no more sophisticated than those of a young child. The golem's muscle tissue responds to the power of lightning, invigorating the creature with vitality and strength. Powerful enchantments protect the golem's skin, deflecting spells and all but the most potent weapons.
@@ -28,7 +28,7 @@ A flesh golem lurches with a stiff-jointed gait, as if not in complete control o
 
 Golems are made from humble materials-clay, flesh and bones, iron, or stone-but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [[5. Mechanics/Items/Manual Of Golems.md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a [[/5. Mechanics/Items/Manual Of Golems.md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 ### Elemental Spirit in Material Form
 
@@ -74,7 +74,8 @@ A golem doesn't require air, food, drink, or sleep.
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
 "traits":
@@ -106,13 +107,13 @@ A golem doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The golem makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage."
     "name": "Slam"
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Construct/token/flesh-golem.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/flesh-golem.webp"
 ```
 ^statblock
 

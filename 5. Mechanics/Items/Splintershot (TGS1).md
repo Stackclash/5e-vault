@@ -10,11 +10,11 @@ tags:
 aliases:
   - Splintershot
 one-hand-damage: 1d6 thunder
-range: 80\320
+range: 80/320
 weight: 2
 ---
 # Splintershot
-*Weapon ([[5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Splintershot.webp#right)  
 
 - **Damage**: 1d6 thunder

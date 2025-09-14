@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bodytaker Plant
 ---
-# [[5. Mechanics\Bestiary\Plant\Bodytaker Plant (VRGR).md|Bodytaker Plant]]
+# [[5. Mechanics/Bestiary/Plant/Bodytaker Plant (VRGR).md|Bodytaker Plant]]
 *Source: Van Richten's Guide to Ravenloft p. 226*
 
 Whether hailing from the stars or sprouting from hidden depths, the malicious vegetation known as bodytaker plants seek to become the dominant form of life wherever they appear. These invasive organisms subvert whole societies by consuming individuals and replacing them with duplicates called podlings. Bodytaker plants view themselves as perfect organisms and seek to dominate the lands where they grow. To their minds, a world would be healthier and more efficient were they in control. Anyone who disagrees either lacks perspective or is fit to serve only as fertilizer.
@@ -41,14 +41,15 @@ A bodytaker plant roots deep, spreading near-invisible filaments through the soi
 "damage_vulnerabilities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft. (blind beyond\
+  \ this radius), passive Perception 12"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "7"
 "traits":
   - "desc": "The plant can see through and communicate telepathically with any of\
       \ its podlings within 10 miles of it."
     "name": "Podling Link"
-  - "desc": "When the plant dies, it returns to life in the place where it died d12\
+  - "desc": "When the plant dies, it returns to life in the place where it died 1d12\
       \ months later, unless the ground where it took root is sown with salt or soaked\
       \ with poison."
     "name": "Rejuvenation"
@@ -57,14 +58,14 @@ A bodytaker plant roots deep, spreading near-invisible filaments through the soi
 "actions":
   - "desc": "The plant makes three Vine Lash attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 20 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 20 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage. If the target is a creature, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 15). Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
       \ The plant has four vines, each of which can grapple one target."
     "name": "Vine Lash"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one Medium or smaller\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one Medium or smaller\
       \ creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] by the plant.\
-      \ Hit: 22 (4d8 + 4) acid damage, and the target is pulled into the plant's\
+      \ *Hit:* 22 (4d8 + 4) acid damage, and the target is pulled into the plant's\
       \ space and enveloped by the pod, and the grapple ends. While enveloped, the\
       \ target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], and it\
       \ has total cover against attacks and effects originating outside the pod. The\
@@ -83,7 +84,7 @@ A bodytaker plant roots deep, spreading near-invisible filaments through the soi
     "name": "Entrapping Pod"
 "source":
   - "VRGR"
-"image": "5. Mechanics/Bestiary/Plant/token/bodytaker-plant-vrgr.webp"
+"image": "/5. Mechanics/Bestiary/Plant/token/bodytaker-plant-vrgr.webp"
 ```
 ^statblock
 

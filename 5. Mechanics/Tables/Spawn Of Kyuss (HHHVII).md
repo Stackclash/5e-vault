@@ -11,5 +11,5 @@ aliases:
 
 | DC | Item | Description | Value | Weight | Crafting |
 |----|------|-------------|-------|--------|----------|
-| 20 | Spawn of Kyuss Brain | Gazing upon the brain of a spawn of Kyuss can upset even the most resilient of stomachs. Horribly blackened and rotten in undeath, it is either crawling with worms (which I would advise you kill immediately) or riddled with holes left by the aforementioned worms. While it is unquestionably disgusting, the brain is useful for crafting as it has been suffused with necrotic energies from its hellish parasites. | 160 gp | 2 lb | [[5. Mechanics/Items/Helm Of The Cryptkeeper (HHHVII).md\|Helm of the Cryptkeeper]] |
+| 20 | Spawn of Kyuss Brain | Gazing upon the brain of a spawn of Kyuss can upset even the most resilient of stomachs. Horribly blackened and rotten in undeath, it is either crawling with worms (which I would advise you kill immediately) or riddled with holes left by the aforementioned worms. While it is unquestionably disgusting, the brain is useful for crafting as it has been suffused with necrotic energies from its hellish parasites. | 160 gp | 2 lb | [[/5. Mechanics/Items/Helm Of The Cryptkeeper (HHHVII).md\|Helm of the Cryptkeeper]] |
 ^dc-item-description-value-weight-crafting

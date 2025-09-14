@@ -10,11 +10,11 @@ tags:
 aliases:
   - Dart of Caltrops
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 0.25
 ---
 # Dart of Caltrops
-*Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Dart-of-Caltrops.webp#right)  
 
 - **Damage**: 1d4 piercing

@@ -16,9 +16,9 @@ level: 1
 ritual: false
 time: 1 Bonus Action
 duration: 1 minute
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Litany of Sure Hands
 ---
@@ -32,6 +32,8 @@ aliases:
 
 This spell allows a creature within range to quickly perform a simple task (other than attacking or casting a spell) as a bonus action on its turn. Examples include finding an item in a backpack, drinking a potion, and pulling a rope. Other actions may also fall into this category, depending on the GM's ruling. The target also ignores the loading property of weapons.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
 
 *Source: Deep Magic p. 91*

@@ -13,7 +13,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Otyugh-Cloak.webp#right)  
 
 
-This gruesome, magical [[5. Mechanics/Bestiary/Aberration/Otyugh.md\|otyugh]] pelt still holds some of its natural abilities. A single tendril bearing three eyes hangs from the back of the cloak's hood. While wearing the cloak, you can use an action to telepathically communicate with a creature you can see within 60 feet of you that can understand a language, sending either simple messages or images when you do. The receiving creature can't respond to these messages.
+This gruesome, magical [[/5. Mechanics/Bestiary/Aberration/Otyugh.md\|otyugh]] pelt still holds some of its natural abilities. A single tendril bearing three eyes hangs from the back of the cloak's hood. While wearing the cloak, you can use an action to telepathically communicate with a creature you can see within 60 feet of you that can understand a language, sending either simple messages or images when you do. The receiving creature can't respond to these messages.
 
 The tendril hanging from the hood is 3 feet long and offers some limited articulation. While wearing the cloak, you can use an action to mentally control the tendril enough to manipulate a simple object, such as open an unlocked door, stow or retrieve an item from an open container, or pour the contents out of a vial. The tendril can't attack, activate magic items, or carry more than 10 pounds.
 

@@ -15,7 +15,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Corvus Pyre
-*Weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Corvus-Pyre.webp#right)  
 
 - **Damage**:
@@ -32,7 +32,7 @@ While in its scythe form, the weapon functions as a halberd that lacks the heavy
 
 ## Death's Vigil
 
-As an action, you can touch a corpse with the weapon to create a harmless, flaming mantle around it. The mantle duplicates the effect of the [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spell, which lasts until this property is used again or until your attunement to the weapon ends. While protected by the mantle, a corpse has a damage threshold of 20, which means it has immunity to all damage unless it takes 20 damage or more from a single attack or effect, in which case it takes damage as normal.
+As an action, you can touch a corpse with the weapon to create a harmless, flaming mantle around it. The mantle duplicates the effect of the [[/5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spell, which lasts until this property is used again or until your attunement to the weapon ends. While protected by the mantle, a corpse has a damage threshold of 20, which means it has immunity to all damage unless it takes 20 damage or more from a single attack or effect, in which case it takes damage as normal.
 
 ## Fate's Bond
 

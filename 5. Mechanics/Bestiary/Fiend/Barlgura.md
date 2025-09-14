@@ -13,7 +13,7 @@ tags:
 aliases:
   - Barlgura
 ---
-# [[5. Mechanics\Bestiary\Fiend\Barlgura.md|Barlgura]]
+# [[5. Mechanics/Bestiary/Fiend/Barlgura.md|Barlgura]]
 *Source: Monster Manual p. 56, Vecna: Eve of Ruin*
 
 The barlgura represents the savagery and brutality of the Abyss. Barlguras gather in packs to take down tougher foes, keep gruesome trophies from their victories, and decorate their territory with such objects.
@@ -169,13 +169,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`d8`) vrocks, `dice:1d6|noform|noparens|avg` (`d6`) hezrous, `dice:1d4|noform|noparens|avg` (`d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`1d8`) vrocks, `dice:1d6|noform|noparens|avg` (`1d6`) hezrous, `dice:1d4|noform|noparens|avg` (`1d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`1d2`) mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`d3`) vrocks, `dice:1d2|noform|noparens|avg` (`d2`) hezrous, or one glabrezu.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`1d3`) vrocks, `dice:1d2|noform|noparens|avg` (`1d2`) hezrous, or one glabrezu.  
 > - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) vrocks, `dice:1d4|noform|noparens|avg` (`d4`) hezrous, `dice:1d3|noform|noparens|avg` (`d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) vrocks, `dice:1d3|noform|noparens|avg` (`d3`) hezrous, `dice:1d2|noform|noparens|avg` (`d2`) glabrezus, or one nalfeshnee.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`1d6`) vrocks, `dice:1d4|noform|noparens|avg` (`1d4`) hezrous, `dice:1d3|noform|noparens|avg` (`1d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`1d4`) vrocks, `dice:1d3|noform|noparens|avg` (`1d3`) hezrous, `dice:1d2|noform|noparens|avg` (`1d2`) glabrezus, or one nalfeshnee.  
 > - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
@@ -207,8 +207,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - !!int "9"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  - "dexterity": "+5"
-  - "constitution": "+6"
+  - "dexterity": !!int "5"
+  - "constitution": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
@@ -217,15 +217,16 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 15"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "5"
 "traits":
   - "desc": "The barlgura's spellcasting ability is Wisdom (spell save DC 13). The\
       \ barlgura can innately cast the following spells, requiring no material components:\n\
-      \n2/day each: [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
-      \ (self only)\n\n1/day each: [[5. Mechanics/Spells/Entangle.md|entangle]],\
-      \ [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]]"
+      \n**2/day each:** [[/5. Mechanics/Spells/Disguise Self.md|disguise self]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]]\
+      \ (self only)\n\n**1/day each:** [[/5. Mechanics/Spells/Entangle.md|entangle]],\
+      \ [[/5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]]"
     "name": "Innate Spellcasting"
   - "desc": "At the start of its turn, the barlgura can gain advantage on all melee\
       \ weapon attack rolls it makes during that turn, but attack rolls against it\
@@ -238,16 +239,16 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - "desc": "The barlgura makes three attacks: one with its bite and two with its\
       \ fists."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (1d10\
       \ + 4) bludgeoning damage."
     "name": "Fist"
 "source":
   - "MM"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fiend/token/barlgura.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/barlgura.webp"
 ```
 ^statblock
 

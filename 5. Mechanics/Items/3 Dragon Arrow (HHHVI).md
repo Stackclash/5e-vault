@@ -10,7 +10,7 @@ aliases:
 weight: 0.05
 ---
 # +3 Dragon Arrow
-*Ammunition ([[5. Mechanics/Items/Arrow.md\|arrow]]), very rare*  
+*Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 0.05 lbs.
@@ -20,6 +20,6 @@ You have a +3 bonus to your attack and damage rolls made with this arrow corresp
 When used in a successful attack, there is a 30 percent chance that this arrow loses all magical properties and becomes a normal arrow.
 
 > [!embed-table]- Dragon Types
-> ![[5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
+> ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*

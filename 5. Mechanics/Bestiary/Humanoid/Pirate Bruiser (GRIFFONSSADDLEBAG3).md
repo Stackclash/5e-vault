@@ -13,7 +13,7 @@ tags:
 aliases:
   - Pirate Bruiser
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Pirate Bruiser (GRIFFONSSADDLEBAG3).md|Pirate Bruiser]]
+# [[5. Mechanics/Bestiary/Humanoid/Pirate Bruiser (GRIFFONSSADDLEBAG3).md|Pirate Bruiser]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Musclemen and women working for illicit seafaring privateers—pirates—can also find work in taverns as guards and other means of intimidation. Bruisers typically prefer to use their fists before other weapons, and can pummel targets and grapple them into submission with ease.
@@ -38,8 +38,8 @@ Musclemen and women working for illicit seafaring privateers—pirates—can als
   - !!int "15"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+3"
-  - "constitution": "+5"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+6"
@@ -63,7 +63,7 @@ Musclemen and women working for illicit seafaring privateers—pirates—can als
   - "desc": "The bruiser makes two fist attacks. It can attempt to grapple or shove\
       \ a creature in place of any attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage."
     "name": "Fist"
 "source":

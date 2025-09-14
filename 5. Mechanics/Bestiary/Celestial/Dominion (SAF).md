@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dominion
 ---
-# [[5. Mechanics\Bestiary\Celestial\Dominion (SAF).md|Dominion]]
+# [[5. Mechanics/Bestiary/Celestial/Dominion (SAF).md|Dominion]]
 *Source: Strongholds and Followers p. 161*
 
 Now, see? This looks more like a regular angel thing. Why can't they all look like this—why do they have to be wheels and wings and mouths and hands?
@@ -51,13 +51,14 @@ Obviously it should focus on those enemies adjacent to one or more of your allie
   - !!int "17"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  - "dexterity": "+7"
-  - "charisma": "+6"
+  - "dexterity": !!int "7"
+  - "charisma": !!int "6"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight, passive Perception 20"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]], passive Perception\
+  \ 20"
 "languages": "all, telepathy 60 ft."
 "cr": "8"
 "traits":
@@ -78,7 +79,7 @@ Obviously it should focus on those enemies adjacent to one or more of your allie
 "actions":
   - "desc": "The dominion makes two attacks with the Ray of Salvation."
     "name": "Multiattack"
-  - "desc": "Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 10\
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 60 ft., one target. *Hit:* 10\
       \ (3d6) fire damage and 9 (2d8) radiant damage. If the ray does damage, any\
       \ allies adjacent to the target gain 10 temporary hit points."
     "name": "Ray of Salvation"

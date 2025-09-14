@@ -29,17 +29,19 @@ classes:
   - Wizard
   - Wizard (School of Illusion)
 school: Illusion
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: false
+material: a bit of fleece
+area:
+  shape: cube
+  size: 5
 aliases:
   - Minor Illusion
-range: 30 feet
-material: A bit of fleece.
 ---
 # Minor Illusion
 *cantrip, Illusion*  
@@ -57,6 +59,8 @@ If you create an image of an object—such as a chair, muddy footprints, or a sm
 
 If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes School Of Illusion.md\|Wizard (School of Illusion)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Way Of Shadow.md\|Monk (Way of Shadow)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Way Of Shadow.md\|Monk (Way of Shadow)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes School Of Illusion.md\|Wizard (School of Illusion)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Player's Handbook p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

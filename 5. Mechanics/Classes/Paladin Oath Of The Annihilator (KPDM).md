@@ -103,11 +103,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Bane.md\|bane]], [[5. Mechanics/Spells/Proselytize (KPDM).md\|proselytize]] |
-| 5th | [[5. Mechanics/Spells/Augury.md\|augury]], [[5. Mechanics/Spells/Shatter.md\|shatter]] |
-| 9th | [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] |
-| 13th | [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Caustic Waste (KPDM).md\|caustic waste]] |
-| 17th | [[5. Mechanics/Spells/Contagion.md\|contagion]], [[5. Mechanics/Spells/Hallow.md\|hallow]] |
+| 3rd | [[/5. Mechanics/Spells/Bane.md\|bane]], [[/5. Mechanics/Spells/Proselytize (KPDM).md\|proselytize]] |
+| 5th | [[/5. Mechanics/Spells/Augury.md\|augury]], [[/5. Mechanics/Spells/Shatter.md\|shatter]] |
+| 9th | [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[/5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] |
+| 13th | [[/5. Mechanics/Spells/Blight.md\|blight]], [[/5. Mechanics/Spells/Caustic Waste (KPDM).md\|caustic waste]] |
+| 17th | [[/5. Mechanics/Spells/Contagion.md\|contagion]], [[/5. Mechanics/Spells/Hallow.md\|hallow]] |
 ^oath-of-annihilation-spells
 
 ### Aura of Inevitability (Level 7)

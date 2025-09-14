@@ -13,7 +13,7 @@ tags:
 aliases:
   - Young Emerald Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Emerald Dragon (SAF).md|Young Emerald Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Emerald Dragon (SAF).md|Young Emerald Dragon]]
 *Source: Strongholds and Followers p. 201*
 
 One of the oldest species of gemstone dragons, the emeralds studied the lore of the sea and the unique, chaotic boundary between sea and land. It was the tide pools and estuaries that fascinated them, and they developed a theory of the timescape based on this intermingling. The Estuarial Hypothesis holds that the Mundane World lies on an interspace boundary between the worlds, and for this reason good, evil, chaos, and law all intermingle here.
@@ -43,22 +43,23 @@ Their interest in our world and its relation to others makes them experts on the
   - !!int "16"
 "speed": "40 ft., fly 80 ft. (hover), swim 40 ft."
 "saves":
-  - "dexterity": "+6"
-  - "intelligence": "+6"
-  - "wisdom": "+5"
-  - "charisma": "+6"
+  - "dexterity": !!int "6"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "5"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
 "damage_vulnerabilities": "psychic"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 18"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 18"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "8"
 "traits":
-  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
-      \ Charges: 14 • Recharge: d6 • Fracture: 14"
+  - "desc": "**[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].**\
+      \ **Charges:** 14 **• Recharge:** 1d6 **• Fracture:** 14"
     "name": ""
   - "desc": "Enemies within 30 feet must make a DC 14 Intelligence saving throw every\
       \ round to maintain spells that require concentration."
@@ -66,10 +67,10 @@ Their interest in our world and its relation to others makes them experts on the
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14\
       \ (2d10 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage."
     "name": "Claw"
 "source":

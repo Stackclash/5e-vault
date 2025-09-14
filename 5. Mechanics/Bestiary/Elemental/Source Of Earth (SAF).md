@@ -13,7 +13,7 @@ tags:
 aliases:
   - Source of Earth
 ---
-# [[5. Mechanics\Bestiary\Elemental\Source Of Earth (SAF).md|Source of Earth]]
+# [[5. Mechanics/Bestiary/Elemental/Source Of Earth (SAF).md|Source of Earth]]
 *Source: Strongholds and Followers p. 187*
 
 The Sources hover at the crossroads of Alloy pronouncing the Lady's law and reminding citizens of important dates. They can also be depended upon to grant aid to newcomers, including help as mundane as directions. The Sources of Earth seem most to enjoy helping visitors, and while their pronouncements are booming and melodramatic, they are enthusiastic about their task.
@@ -47,13 +47,14 @@ The Source of Earth hovers over the battlefield, with only 10 feet of movement. 
   - !!int "10"
 "speed": "10 ft., fly 10 ft. (hover)"
 "saves":
-  - "strength": "+3"
-  - "constitution": "+8"
+  - "strength": !!int "3"
+  - "constitution": !!int "8"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 17"
 "languages": "Aquan, Auran, Common, Ignan, Terran"
 "cr": "6"
 "traits":
@@ -71,7 +72,7 @@ The Source of Earth hovers over the battlefield, with only 10 feet of movement. 
       \ On a failed save, the creature magically begins to turn to stone and is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
       \ At the end of its next turn, it must repeat the saving throw. On a success,\
       \ the effect ends. On a failure, the creature is [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
-      \ until freed by the [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ until freed by the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spell or other magic."
     "name": "Back to Earth"
   - "desc": "The Source causes a 30-foot-long wall of solid stone to thrust up through\

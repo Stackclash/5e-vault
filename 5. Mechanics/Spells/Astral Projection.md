@@ -23,17 +23,15 @@ level: 9
 ritual: false
 time: 1 hour
 duration: Special
-components:
-  - V
-  - S
-  - M
+range: 10 feet
+somatic: true
+verbal: true
+material: >-
+  for each creature you affect with this spell, you must provide one jacinth
+  worth at least 1,000 gp and one ornately carved bar of silver worth at least
+  100 gp, all of which the spell consumes
 aliases:
   - Astral Projection
-range: 10 feet
-material: >-
-  For each creature you affect with this spell, you must provide one jacinth
-  worth at least 1,000gp and one ornately carved bar of silver worth at least
-  100gp, all of which the spell consumes.
 ---
 # Astral Projection
 *9th-level, Necromancy*  
@@ -51,10 +49,10 @@ Your astral form can freely travel through the Astral Plane and can pass through
 
 The spell ends for you and your companions when you use your action to dismiss it. When the spell ends, the affected creature returns to its physical body, and it awakens.
 
-The spell might also end early for you or one of your companions. A successful [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell used against an astral or physical body ends the spell for that creature. If a creature's original body or its astral form drops to 0 hit points, the spell ends for that creature. If the spell ends and the silver cord is intact, the cord pulls the creature's astral form back to its body, ending its state of suspended animation.
+The spell might also end early for you or one of your companions. A successful [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell used against an astral or physical body ends the spell for that creature. If a creature's original body or its astral form drops to 0 hit points, the spell ends for that creature. If the spell ends and the silver cord is intact, the cord pulls the creature's astral form back to its body, ending its state of suspended animation.
 
 If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Monk.md\|Monk]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Monk.md\|Monk]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

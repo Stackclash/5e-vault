@@ -13,7 +13,7 @@ tags:
 aliases:
   - Lesser Balor
 ---
-# [[5. Mechanics\Bestiary\Fiend\Lesser Balor (SAF).md|Lesser Balor]]
+# [[5. Mechanics/Bestiary/Fiend/Lesser Balor (SAF).md|Lesser Balor]]
 *Source: Strongholds and Followers p. 153*
 
 ```statblock
@@ -36,15 +36,16 @@ aliases:
   - !!int "18"
 "speed": "40 ft., fly 80 ft."
 "saves":
-  - "strength": "+9"
-  - "constitution": "+8"
-  - "wisdom": "+6"
-  - "charisma": "+8"
+  - "strength": !!int "9"
+  - "constitution": !!int "8"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "8"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ weapons"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Abyssal, telepathy 60 ft."
 "cr": "10"
 "traits":
@@ -67,11 +68,11 @@ aliases:
   - "desc": "The lesser balor makes one attack with its longsword and one attack with\
       \ its whip."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 14\
       \ (2d8 + 5) slashing damage plus 9 (2d8) lightning damage. If the lesser balor\
       \ scores a critical hit, it rolls damage dice three times, instead of twice."
     "name": "Longsword"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 30 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 30 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage plus 7 (2d6) fire damage, and the target must succeed\
       \ on a DC 16 Strength saving throw or be pulled up to 15 feet toward the lesser\
       \ balor."

@@ -9,9 +9,9 @@ aliases:
 ---
 # Halfling
 *Source: Player's Handbook p. 26. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
-![[5. Mechanics/Races/img/halfling.webp#right]]  
+![[/5. Mechanics/Races/img/halfling.webp#right]]  
 
-- **Ability Scores**: Dexterity +2
+- **Ability Scores**: dex +2
 - **Size**: Small
 - **Speed**: 25 ft.
 

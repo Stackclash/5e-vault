@@ -15,12 +15,8 @@ tags:
 aliases:
   - Centaur
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Centaur.md|Centaur]]
+# [[5. Mechanics/Bestiary/Monstrosity/Centaur.md|Centaur]]
 *Source: Monster Manual p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-> [!quote] A quote from Batley Summerfoot, a halfling adventurer who never read HOOVES OF FURY, by Iryil Grayborn of Sundown  
-> 
-> I hear centaurs make excellent mounts!
 
 Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fight fiercely when pressed. They roam the vast wilderness, keeping far from borders, laws, and the company of other creatures.
 
@@ -77,18 +73,18 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
   - "desc": "The centaur makes two attacks: one with its pike and one with its hooves\
       \ or two with its longbow."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 9\
       \ (1d10 + 4) piercing damage."
     "name": "Pike"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage."
     "name": "Hooves"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
     "name": "Longbow"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/centaur.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/centaur.webp"
 ```
 ^statblock
 

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Stone Guard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Stone Guard (MPMM).md|Duergar Stone Guard]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Stone Guard (MPMM).md|Duergar Stone Guard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 110, Mordenkainen's Tome of Foes p. 191*
 
 Stone guards are elite troops deployed in small numbers to bolster war bands of regulars or organized into elite strike forces for specific missions.
@@ -47,7 +47,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Chain Mail.md|chain mail]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Chain Mail.md|chain mail]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "modifier": !!int "0"
@@ -60,7 +60,8 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "2"
 "traits":
@@ -69,7 +70,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
       \ conditions."
     "name": "Duergar Resilience"
   - "desc": "The duergar has advantage on attack rolls and Dexterity saving throws\
-      \ while standing within 5 feet of an ally wielding a [[5. Mechanics/Items/Shield.md|shield]]."
+      \ while standing within 5 feet of an ally wielding a [[/5. Mechanics/Items/Shield.md|shield]]."
     "name": "Phalanx Formation"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
       \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
@@ -78,12 +79,12 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "actions":
   - "desc": "The duergar makes two Shortsword or Javelin attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) piercing damage, or 11 (2d6 + 4) piercing damage while under the effect\
       \ of Enlarge."
     "name": "Shortsword"
-  - "desc": "Melee  or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. *Hit:* 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing\
       \ damage while under the effect of Enlarge."
     "name": "Javelin"
   - "desc": "The duergar magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
@@ -104,7 +105,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/duergar-stone-guard-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/duergar-stone-guard-mpmm.webp"
 ```
 ^statblock
 

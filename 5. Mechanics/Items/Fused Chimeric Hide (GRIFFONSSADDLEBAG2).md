@@ -13,7 +13,7 @@ armorClass: 12 + Dex modifier (max of +2)
 weight: 12
 ---
 # Fused Chimeric Hide
-*Medium armor ([[5. Mechanics/Items/Hide Armor.md\|hide armor]]), major, rare (requires attunement by a barbarian or druid)*  
+*Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), major, rare (requires attunement by a barbarian or druid)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Fused-Chimeric-Hide.webp#right)  
 
 - **Armor Class**: 12 + Dex modifier (max of +2)

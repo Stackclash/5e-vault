@@ -14,7 +14,7 @@ tags:
 aliases:
   - Vampire Spellcaster
 ---
-# [[5. Mechanics\Bestiary\Undead\Vampire Spellcaster.md|Vampire Spellcaster]]
+# [[5. Mechanics/Bestiary/Undead/Vampire Spellcaster.md|Vampire Spellcaster]]
 *Source: Monster Manual p. 298*
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
@@ -43,7 +43,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 > 
 > The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]], traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
 > 
-> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[5. Mechanics/Spells/Wish.md|wish]] spell or the character is killed and brought back to life.
+> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [[/5. Mechanics/Spells/Wish.md|wish]] spell or the character is killed and brought back to life.
 ^player-characters-as-vampires
 
 > [!note] Strahd von Zarovich
@@ -82,31 +82,33 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
   - !!int "18"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+9"
-  - "wisdom": "+7"
-  - "charisma": "+9"
+  - "dexterity": !!int "9"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+7"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+9"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 120 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 17"
 "languages": "the languages it knew in life"
 "cr": "15"
 "traits":
   - "desc": "The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 16, +8 to hit with spell attacks). The vampire has the following\
-      \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-      \n1st level (4 slots): [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
-      \ [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
-      \n2nd level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-      \ [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\
-      \n3rd level (3 slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
-      \ [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\n\
-      \n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]]\n\
-      \n5th level (1 slots): [[5. Mechanics/Spells/Dominate Person.md|dominate person]]"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[/5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
+      \n**1st level (4 slots):** [[/5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
+      \ [[/5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[/5. Mechanics/Spells/Sleep.md|sleep]]\n\
+      \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+      \ [[/5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[/5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\
+      \n**3rd level (3 slots):** [[/5. Mechanics/Spells/Animate Dead.md|animate dead]],\
+      \ [[/5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[/5. Mechanics/Spells/Nondetection.md|nondetection]]\n\
+      \n**4th level (3 slots):** [[/5. Mechanics/Spells/Blight.md|blight]], [[/5. Mechanics/Spells/Greater Invisibility.md|greater\
+      \ invisibility]]\n\n**5th level (1\
+      \ slots):** [[/5. Mechanics/Spells/Dominate Person.md|dominate person]]"
     "name": "Spellcasting"
   - "desc": "If the vampire isn't in sunlight or running water, it can use its action\
       \ to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true\
@@ -142,33 +144,33 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
   - "desc": "The vampire can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
     "name": "Spider Climb"
-  - "desc": "The vampire has the following flaws:\n\n- Forbiddance. The vampire\
+  - "desc": "The vampire has the following flaws:\n\n- **Forbiddance.** The vampire\
       \ can't enter a residence without an invitation from one of the occupants. \
-      \ \n- Harmed by Running Water. The vampire takes 20 acid damage if it ends\
-      \ its turn in running water.  \n- Stake to the Heart. If a piercing weapon\
+      \ \n- **Harmed by Running Water.** The vampire takes 20 acid damage if it ends\
+      \ its turn in running water.  \n- **Stake to the Heart.** If a piercing weapon\
       \ made of wood is driven into the vampire's heart while the vampire is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
       \ in its resting place, the vampire is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
-      \ until the stake is removed.  \n- Sunlight Hypersensitivity. The vampire\
+      \ until the stake is removed.  \n- **Sunlight Hypersensitivity.** The vampire\
       \ takes 20 radiant damage when it starts its turn in sunlight. While in sunlight,\
       \ it has disadvantage on attack rolls and ability checks  "
     "name": "Vampire Weaknesses"
 "actions":
   - "desc": "The vampire makes two attacks, only one of which can be a bite attack."
     "name": "Multiattack (Vampire Form Only)"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 8\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 8\
       \ (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple\
       \ the target (escape DC 18)."
     "name": "Unarmed Strike (Vampire Form Only)"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one willing creature,\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one willing creature,\
       \ or a creature that is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ by the vampire, [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]],\
-      \ or [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]. Hit: 7 (1d6\
+      \ or [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]. *Hit:* 7 (1d6\
       \ + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point\
       \ maximum is reduced by an amount equal to the necrotic damage taken, and the\
       \ vampire regains hit points equal to that amount. The reduction lasts until\
       \ the target finishes a long rest. The target dies if this effect reduces its\
       \ hit point maximum to 0. A humanoid slain in this way and then buried in the\
-      \ ground rises the following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
+      \ ground rises the following night as a [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
       \ under the vampire's control."
     "name": "Bite (Bat or Vampire Form Only)"
   - "desc": "The vampire targets one humanoid it can see within 30 feet of it. If\
@@ -184,13 +186,28 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
       \ until the vampire is destroyed, is on a different plane of existence than\
       \ the target, or takes a bonus action to end the effect."
     "name": "Charm"
-  - "desc": "The vampire magically calls 2d4 swarms of [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|bats]]\
-      \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|rats]], provided that the sun\
-      \ isn't up. While outdoors, the vampire can call 3d6 [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]\
-      \ instead. The called creatures arrive in d4 rounds, acting as allies of the\
+  - "desc": "The vampire magically calls 2d4 swarms of [[/5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|bats]]\
+      \ or [[/5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|rats]], provided that the\
+      \ sun isn't up. While outdoors, the vampire can call 3d6 [[/5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]\
+      \ instead. The called creatures arrive in 1d4 rounds, acting as allies of the\
       \ vampire and obeying its spoken commands. The beasts remain for 1 hour, until\
       \ the vampire dies, or until the vampire dismisses them as a bonus action."
     "name": "Children of the Night (1/Day)"
+"regional_effects":
+  - "desc": "The region surrounding a vampire's lair is warped by the creature's unnatural\
+      \ presence, creating any of the following effects:\n\n- There's a noticeable\
+      \ increase in the populations of bats, rats, and wolves in the region.  \n-\
+      \ Plants within 500 feet of the lair wither, and their stems and branches become\
+      \ twisted and thorny.  \n- Shadows cast within 500 feet of the lair seem abnormally\
+      \ gaunt and sometimes move as though alive.  \n- A creeping fog clings to the\
+      \ ground within 500 feet of the vampire's lair. The fog occasionally takes eerie\
+      \ forms, such as grasping claws and writhing serpents.  \n\nIf the vampire is\
+      \ destroyed, these effects end after 2d6 days."
+    "name": ""
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the vampire spellcaster can expend a use to take one of the following actions.\
+  \ The vampire spellcaster regains all expended uses at the start of each of its\
+  \ turns."
 "legendary_actions":
   - "desc": "The vampire moves up to its speed without provoking opportunity attacks."
     "name": "Move"
@@ -198,23 +215,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
     "name": "Unarmed Strike"
   - "desc": "The vampire makes one bite attack."
     "name": "Bite (Costs 2 Actions)"
-"regional_effects":
-  - "desc": "The region surrounding a vampire's lair is warped by the creature's unnatural\
-      \ presence, creating any of the following effects:"
-    "name": ""
-  - "desc": "- There's a noticeable increase in the populations of bats, rats, and\
-      \ wolves in the region.  \n- Plants within 500 feet of the lair wither, and\
-      \ their stems and branches become twisted and thorny.  \n- Shadows cast within\
-      \ 500 feet of the lair seem abnormally gaunt and sometimes move as though alive.\
-      \  \n- A creeping fog clings to the ground within 500 feet of the vampire's\
-      \ lair. The fog occasionally takes eerie forms, such as grasping claws and writhing\
-      \ serpents.  "
-    "name": ""
-  - "desc": "If the vampire is destroyed, these effects end after 2d6 days."
-    "name": ""
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Undead/token/vampire-spellcaster.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/vampire-spellcaster.webp"
 ```
 ^statblock
 

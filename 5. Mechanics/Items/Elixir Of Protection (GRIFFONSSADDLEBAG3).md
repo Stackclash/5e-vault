@@ -13,7 +13,7 @@ aliases:
 *Potion, minor, uncommon*  
 
 
-FOR [HEDGE MAGE](compendium/classes/wizard-hedge-mage-griffonssaddlebag3.md#Hedge%20Mage%20(Level%202)) USE ONLY
+FOR [HEDGE MAGE](/compendium/classes/wizard-hedge-mage-griffonssaddlebag3.md#Hedge%20Mage%20(Level%202)) USE ONLY
 
 Ingredients: A snails shell, sage leaf, and piece of limestone (acid damage), salt crystal (cold damage), red pepper seed ( fire damage), piece of iron ( lightning damage), or snake fang (poison damage).
 

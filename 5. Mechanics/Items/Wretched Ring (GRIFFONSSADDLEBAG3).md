@@ -20,11 +20,11 @@ This ring is carved from blackened bone. The first time you touch it, you can mo
 
 ## Smoke Step
 
-You can use a bonus action to cast the [[5. Mechanics/Spells/Misty Step.md\|misty step]] spell from the ring. When you do, the mist appears as a dark smoke instead.
+You can use a bonus action to cast the [[/5. Mechanics/Spells/Misty Step.md\|misty step]] spell from the ring. When you do, the mist appears as a dark smoke instead.
 
 ## Raise Horde
 
-You can use an action to summon up to 8 [[5. Mechanics/Bestiary/Undead/Skeleton.md\|skeleton]]s. When you do, you can choose to replace 2 skeletons with a [[5. Mechanics/Bestiary/Beast/Warhorse.md\|warhorse]] skeleton, or 4 skeletons with a [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaur]] skeleton instead. Each creature remains as long as you concentrate (as if [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentrating]] on a spell), to a maximum of 1 hour, or until it drops to 0 hit points, at which point the creature collapses and disappears in a plume of bone dust. The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. The GM has the creatures' statistics. Once this property of the ring has been used, it can't be used again until you finish a long rest.
+You can use an action to summon up to 8 [[/5. Mechanics/Bestiary/Undead/Skeleton.md\|skeleton]]s. When you do, you can choose to replace 2 skeletons with a [[/5. Mechanics/Bestiary/Beast/Warhorse.md\|warhorse]] skeleton, or 4 skeletons with a [[/5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaur]] skeleton instead. Each creature remains as long as you concentrate (as if [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentrating]] on a spell), to a maximum of 1 hour, or until it drops to 0 hit points, at which point the creature collapses and disappears in a plume of bone dust. The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. The GM has the creatures' statistics. Once this property of the ring has been used, it can't be used again until you finish a long rest.
 
 ## Curse
 

@@ -59,13 +59,13 @@ In addition, your rage is a cold and patient well of power. When your rage would
 
 ### Frostbite (Level 3)
 
-Also at 3rd level, you can unleash the unforgiving cold inside of you with your attacks. Once on each of your turns while you're raging, you can release a burst of sheer cold when you hit a target with a melee weapon attack. When you do, that target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) cold damage from the attack. This damage increases when you reach certain levels in this class, increasing to `dice:2d6|noform|noparens|avg` (`2d6`) cold damage at 10th level and `dice:3d6|noform|noparens|avg` (`3d6`) at 14th level.
+Also at 3rd level, you can unleash the unforgiving cold inside of you with your attacks. Once on each of your turns while you're raging, you can release a burst of sheer cold when you hit a target with a melee weapon attack. When you do, that target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) cold damage from the attack. This damage increases when you reach certain levels in this class, increasing to `dice:2d6|noform|noparens|avg` (`2d6`) cold damage at 10th level and `dice:3d6|noform|noparens|avg` (`3d6`) at 14th level.
 
 When a creature takes cold damage in this way, its speed is reduced by 10 feet until the start of your next turn.
 
 ### Cold Fortress (Level 6)
 
-By 6th level, you learn to further channel the icy resilience within you. When you enter a rage and are not wearing any armor, your skin becomes shielded by a protective layer of frost. This frost grants you a number of temporary hit points equal to `dice:1d12|noform|noparens|avg` (`d12`) + your Constitution modifier that last for 1 hour.
+By 6th level, you learn to further channel the icy resilience within you. When you enter a rage and are not wearing any armor, your skin becomes shielded by a protective layer of frost. This frost grants you a number of temporary hit points equal to `dice:1d12|noform|noparens|avg` (`1d12`) + your Constitution modifier that last for 1 hour.
 
 You can use a bonus action on your following turns while you're raging to expend a Hit Die to gain these temporary hit points again. When you do, the number of temporary hit points you gain is equal to the maximum roll of the expended Hit Die + your Constitution modifier.
 

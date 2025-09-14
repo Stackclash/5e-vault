@@ -22,6 +22,6 @@ While wearing the cloak, you can use an action to immediately gain 20 temporary 
 
 ## Boiling Blood
 
-If you're a barbarian and are wearing this cloak, your blood boils whenever you rage. While you don't have the temporary hit points from the cloak's Fiery Carapace property, any creature within 5 feet of you automatically takes `dice:1d4|noform|noparens|avg` (`d4`) fire damage whenever it hits you with a weapon attack while you're raging.
+If you're a barbarian and are wearing this cloak, your blood boils whenever you rage. While you don't have the temporary hit points from the cloak's Fiery Carapace property, any creature within 5 feet of you automatically takes `dice:1d4|noform|noparens|avg` (`1d4`) fire damage whenever it hits you with a weapon attack while you're raging.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'underdark, mountain, grassland, forest, hill'
 size: Medium
 tags:
@@ -18,7 +18,7 @@ tags:
 aliases:
   - Orc Nurtured One of Yurtrus
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Nurtured One Of Yurtrus (VGM).md|Orc Nurtured One of Yurtrus]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Nurtured One Of Yurtrus (VGM).md|Orc Nurtured One of Yurtrus]]
 *Source: Volo's Guide to Monsters p. 184*
 
 When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests then minister to those who can be saved but not healed. The hands cultivate the sickness of these nurtured ones, turning them into instruments of defense and weapons of war. When orcs go to battle, a band of nurtured ones might charge in first-to give themselves up while softening up the enemy by spreading Yurtrus's vile blessing in its ranks.
@@ -52,7 +52,8 @@ In addition, orcs have special relationships with two creatures that are sometim
   - !!int "11"
   - !!int "7"
 "speed": "30 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Common, Orc"
 "cr": "1/2"
 "traits":
@@ -71,15 +72,15 @@ In addition, orcs have special relationships with two creatures that are sometim
   - "desc": "The orc has advantage on saving throws against poison and disease."
     "name": "Nurtured One of Yurtrus"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
-      \ + 2) slashing damage plus 2 (d4) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
+      \ + 2) slashing damage plus 2 (1d4) necrotic damage."
     "name": "Claws"
   - "desc": "The orc reduces itself to 0 hit points, triggering its Corrupted Carrier\
       \ trait."
     "name": "Corrupted Vengeance"
 "source":
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc-nurtured-one-of-yurtrus-vgm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/orc-nurtured-one-of-yurtrus-vgm.webp"
 ```
 ^statblock
 

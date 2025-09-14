@@ -17,7 +17,7 @@ aliases:
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='8'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Cantrips Known</th><th class="value">Spells Known</th><th class="value">Spell Slots</th><th class="value">Slot Level</th><th class="value"><a href="compendium/lists/list-optfeaturetype-ei.md">Invocations Known</a></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Cantrips Known</th><th class="value">Spells Known</th><th class="value">Spell Slots</th><th class="value">Slot Level</th><th class="value"><a href="/compendium/lists/list-optfeaturetype-ei.md">Invocations Known</a></th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Pact Magic (Level 1)' class='internal-link'>Pact Magic</a>, <a href='#Otherworldly Patron (Level 1)' class='internal-link'>Otherworldly Patron</a></td><td class="value">2</td><td class="value">2</td><td class="value">1</td><td class="value">1st</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Eldritch Invocations (Level 2)' class='internal-link'>Eldritch Invocations</a></td><td class="value">2</td><td class="value">3</td><td class="value">2</td><td class="value">1st</td><td class="value">2</td></tr>
@@ -59,10 +59,10 @@ aliases:
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon
-- (a) a [[5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]]
-- (a) a [[5. Mechanics/Items/Scholars Pack.md\|scholar's pack]] or (b) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]]
-- [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], any simple weapon, and two [[5. Mechanics/Items/Dagger.md\|daggers]]
+- (a) a [[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[/5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon
+- (a) a [[/5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]]
+- (a) a [[/5. Mechanics/Items/Scholars Pack.md\|scholar's pack]] or (b) a [[/5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]]
+- [[/5. Mechanics/Items/Leather Armor.md\|Leather armor]], any simple weapon, and two [[/5. Mechanics/Items/Dagger.md\|daggers]]
 
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
@@ -111,7 +111,7 @@ How does your patron communicate with you? If you have a familiar, it might occa
 
 #### Quick Build
 
-You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [[5. Mechanics/Backgrounds/Charlatan.md\|charlatan]] background. Third, choose the [[5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] and [[5. Mechanics/Spells/Chill Touch.md\|chill touch]] cantrips, along with the 1st-level spells [[5. Mechanics/Spells/Charm Person.md\|charm person]] and [[5. Mechanics/Spells/Witch Bolt.md\|witch bolt]].
+You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [[/5. Mechanics/Backgrounds/Charlatan.md\|charlatan]] background. Third, choose the [[/5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] and [[/5. Mechanics/Spells/Chill Touch.md\|chill touch]] cantrips, along with the 1st-level spells [[/5. Mechanics/Spells/Charm Person.md\|charm person]] and [[/5. Mechanics/Spells/Witch Bolt.md\|witch bolt]].
 
 > [!quote] A quote from Xarren, herald of Acamar  
 > 
@@ -204,7 +204,7 @@ You know two cantrips of your choice from the warlock spell list. You learn addi
 
 The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
-For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [[5. Mechanics/Spells/Witch Bolt.md\|witch bolt]], you must spend one of those slots, and you cast it as a 3rd-level spell.
+For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [[/5. Mechanics/Spells/Witch Bolt.md\|witch bolt]], you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 #### Spells Known of 1st Level and Higher
 
@@ -224,7 +224,7 @@ Charisma is your spellcasting ability for your warlock spells, so you use your C
 
 #### Spellcasting Focus
 
-You can use an [[5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]] as a spellcasting focus for your warlock spells.
+You can use an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]] as a spellcasting focus for your warlock spells.
 
 ### Otherworldly Patron (Level 1)
 
@@ -234,7 +234,7 @@ At 1st level, you have struck a bargain with an otherworldly being chosen from t
 
 In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
-At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the [[5. Mechanics/Lists/List Optfeaturetype Ei.md\|Optional Features]] page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
+At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the [[/5. Mechanics/Lists/List Optfeaturetype Ei.md\|Optional Features]] page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
@@ -244,9 +244,9 @@ If an eldritch invocation has prerequisites, you must meet them to learn it. You
 
 At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
 
-- [[5. Mechanics/Optional Features/Pact Of The Chain.md\|Pact of the Chain]]  
-- [[5. Mechanics/Optional Features/Pact Of The Blade.md\|Pact of the Blade]]  
-- [[5. Mechanics/Optional Features/Pact Of The Tome.md\|Pact of the Tome]]  
+- [[/5. Mechanics/Optional Features/Pact Of The Chain.md\|Pact of the Chain]]  
+- [[/5. Mechanics/Optional Features/Pact Of The Blade.md\|Pact of the Blade]]  
+- [[/5. Mechanics/Optional Features/Pact Of The Tome.md\|Pact of the Tome]]  
 
 ### Ability Score Improvement (Level 4)
 
@@ -336,9 +336,9 @@ At 20th level, you can draw on your inner reserve of mystical power while entrea
 ## Optional Features
 
 > [!example]- Optional Features: Eldritch Invocation
-> ![[5. Mechanics/Lists/List Optfeaturetype Ei.md#Eldritch%20Invocation\|Eldritch Invocation]]
+> ![[/5. Mechanics/Lists/List Optfeaturetype Ei.md#Eldritch%20Invocation\|Eldritch Invocation]]
 ^list-optfeature-ei
 
 > [!example]- Optional Features: Pact Boon
-> ![[5. Mechanics/Lists/List Optfeaturetype Pb.md#Pact%20Boon\|Pact Boon]]
+> ![[/5. Mechanics/Lists/List Optfeaturetype Pb.md#Pact%20Boon\|Pact Boon]]
 ^list-optfeature-pb

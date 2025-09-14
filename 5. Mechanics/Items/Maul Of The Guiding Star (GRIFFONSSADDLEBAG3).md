@@ -14,7 +14,7 @@ one-hand-damage: 2d6 bludgeoning
 weight: 10
 ---
 # Maul of the Guiding Star
-*Weapon ([[5. Mechanics/Items/Maul.md\|maul]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Maul-of-the-Guiding-Star.webp#right)  
 
 - **Damage**: 2d6 bludgeoning

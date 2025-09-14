@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: 'underdark, hill'
 size: Small
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Xvart Speaker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Xvart Speaker (VGM).md|Xvart Speaker]]
+# [[5. Mechanics/Bestiary/Humanoid/Xvart Speaker (VGM).md|Xvart Speaker]]
 *Source: Volo's Guide to Monsters p. 200*
 
 Xvarts are cruel, cowardly humanoids spawned by a cowardly, renegade demigod. They have blue skin, vivid orange eyes, and receding hairlines, mirroring their creator's appearance. They stand about 3 feet tall.
@@ -66,7 +66,7 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
 "subtype": "xvart"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -81,7 +81,8 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "darkvision 30 ft., passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 30 ft., passive Perception\
+  \ 8"
 "languages": "Abyssal and one additional language (usually Common or Goblin)"
 "cr": "1/8"
 "traits":
@@ -96,15 +97,15 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
       \ bats and giant rats."
     "name": "Raxivort's Tongue"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Shortsword"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 4 (1d4 + 2) bludgeoning damage."
     "name": "Sling"
 "source":
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/xvart-speaker-vgm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/xvart-speaker-vgm.webp"
 ```
 ^statblock
 

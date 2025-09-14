@@ -16,7 +16,7 @@ tags:
 aliases:
   - Ghoul
 ---
-# [[5. Mechanics\Bestiary\Undead\Ghoul.md|Ghoul]]
+# [[5. Mechanics/Bestiary/Undead/Ghoul.md|Ghoul]]
 *Source: Monster Manual p. 148, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
@@ -53,14 +53,15 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Common"
 "cr": "1"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 9\
       \ (2d6 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
       \ + 2) slashing damage. If the target is a creature other than an elf or undead,\
       \ it must succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
@@ -71,7 +72,7 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
   - "CoS"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Undead/token/ghoul.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/ghoul.webp"
 ```
 ^statblock
 

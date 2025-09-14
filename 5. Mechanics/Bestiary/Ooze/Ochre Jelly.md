@@ -14,7 +14,7 @@ tags:
 aliases:
   - Ochre Jelly
 ---
-# [[5. Mechanics\Bestiary\Ooze\Ochre Jelly.md|Ochre Jelly]]
+# [[5. Mechanics/Bestiary/Ooze/Ochre Jelly.md|Ochre Jelly]]
 *Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
@@ -69,7 +69,8 @@ An ooze doesn't require sleep.
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 8"
 "languages": ""
 "cr": "2"
 "traits":
@@ -79,8 +80,8 @@ An ooze doesn't require sleep.
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
-      \ + 2) bludgeoning damage plus 3 (d6) acid damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
+      \ + 2) bludgeoning damage plus 3 (1d6) acid damage."
     "name": "Pseudopod"
 "reactions":
   - "desc": "When a jelly that is Medium or larger is subjected to lightning or slashing\
@@ -90,7 +91,7 @@ An ooze doesn't require sleep.
     "name": "Split"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Ooze/token/ochre-jelly.webp"
+"image": "/5. Mechanics/Bestiary/Ooze/token/ochre-jelly.webp"
 ```
 ^statblock
 

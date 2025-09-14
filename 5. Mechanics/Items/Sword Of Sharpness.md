@@ -18,7 +18,7 @@ aliases:
 ---
 # Sword of Sharpness
 *Major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/sword-of-sharpness.webp#right]]  
+![[/5. Mechanics/Items/img/sword-of-sharpness.webp#right]]  
 
 
 When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.

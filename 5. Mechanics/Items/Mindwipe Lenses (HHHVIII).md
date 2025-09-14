@@ -21,7 +21,7 @@ You may use a bonus action and expend 1 charge to enhance your vision with fiend
 
 ## Spellcasting
 
-You may spend your action and a number of charges to cast any of the following spells: [[5. Mechanics/Spells/Charm Person.md\|charm person]] (1 charge), [[5. Mechanics/Spells/Command.md\|command]] (1 charge), [[5. Mechanics/Spells/Dominate Person.md\|dominate person]] (5 charges), [[5. Mechanics/Spells/Dominate Monster.md\|dominate monster]] (8 charges), [[5. Mechanics/Spells/Feeblemind.md\|feeblemind]] (9 charges). These spells are cast using your spell save DC. If you do not have one, the DC is set to 8 + your Intelligence modifier.
+You may spend your action and a number of charges to cast any of the following spells: [[/5. Mechanics/Spells/Charm Person.md\|charm person]] (1 charge), [[/5. Mechanics/Spells/Command.md\|command]] (1 charge), [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]] (5 charges), [[/5. Mechanics/Spells/Dominate Monster.md\|dominate monster]] (8 charges), [[/5. Mechanics/Spells/Feeblemind.md\|feeblemind]] (9 charges). These spells are cast using your spell save DC. If you do not have one, the DC is set to 8 + your Intelligence modifier.
 
 ## Poison Mind
 

@@ -16,7 +16,7 @@ tags:
 aliases:
   - Firenewt Warlock of Imix
 ---
-# [[5. Mechanics\Bestiary\Elemental\Firenewt Warlock Of Imix (MPMM).md|Firenewt Warlock of Imix]]
+# [[5. Mechanics/Bestiary/Elemental/Firenewt Warlock Of Imix (MPMM).md|Firenewt Warlock of Imix]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
@@ -43,7 +43,8 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
   - !!int "14"
 "speed": "30 ft."
 "damage_immunities": "fire"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 10"
 "languages": "Draconic, Ignan"
 "cr": "1"
 "traits":
@@ -57,21 +58,21 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "actions":
   - "desc": "The firenewt makes three Morningstar or Fire Ray attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
       \ + 1) piercing damage."
     "name": "Morningstar"
-  - "desc": "Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 5\
+  - "desc": "*Ranged Spell Attack:* +4 to hit, range 120 ft., one target. *Hit:* 5\
       \ (1d6 + 2) fire damage."
     "name": "Fire Ray"
   - "desc": "The firenewt casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Guidance.md|guidance]],\
-      \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-      \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]"
+      \ spellcasting ability (spell save DC 12):\n\n**At will:** [[/5. Mechanics/Spells/Guidance.md|guidance]],\
+      \ [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+      \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Elemental/token/firenewt-warlock-of-imix-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/firenewt-warlock-of-imix-mpmm.webp"
 ```
 ^statblock
 

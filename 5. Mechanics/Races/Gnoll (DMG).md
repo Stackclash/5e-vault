@@ -10,7 +10,7 @@ aliases:
 # Gnoll
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Strength +2; Intelligence -2
+- **Ability Scores**: str +2 int -2
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -18,7 +18,7 @@ aliases:
 
 ### Bite
 
-Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to `dice:1d4|noform|noparens|avg` (`d4`) + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Darkvision
 

@@ -20,15 +20,27 @@ classes:
   - Wizard
 school: Evocation
 level: 4
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 5
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 90 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 10
 aliases:
   - Time Vortex
-concentration: true
 ---
 # Time Vortex
 *4th-level, Evocation*  
@@ -46,7 +58,7 @@ An affected creature can't take reactions and rolls a `dice:d10|noform|noparens|
 
 | dice: d10 | Effect |
 |-----------|--------|
-| 1-2 | The creature is affected as if by a [[5. Mechanics/Spells/Slow.md\|slow]] spell until the start of its next turn. |
+| 1-2 | The creature is affected as if by a [[/5. Mechanics/Spells/Slow.md\|slow]] spell until the start of its next turn. |
 | 3-5 | The creature is [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the start of its next turn. |
 | 6-8 | The creature's current initiative result is reduced by 5. The creature begins using this new initiative result in the next round. Multiple occurrences of this effect for the same creature are cumulative. |
 | 9-10 | The creature's speed is halved (round up to the nearest 5-foot increment) until the start of its next turn. |
@@ -56,6 +68,6 @@ You can move the temporal vortex 10 feet each round as a bonus action. An affect
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 262*

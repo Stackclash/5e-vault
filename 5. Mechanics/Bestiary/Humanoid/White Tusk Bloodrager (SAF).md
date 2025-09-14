@@ -13,7 +13,7 @@ tags:
 aliases:
   - White Tusk Bloodrager
 ---
-# [[5. Mechanics\Bestiary\Humanoid\White Tusk Bloodrager (SAF).md|White Tusk Bloodrager]]
+# [[5. Mechanics/Bestiary/Humanoid/White Tusk Bloodrager (SAF).md|White Tusk Bloodrager]]
 *Source: Strongholds and Followers p. 139*
 
 Bloodragers of the White Tusk clan practice the art of death and express their mastery with precise strokes of their dual falchions. They are the most disciplined orcs in the White Tusk clan, and train daily with Bonebreaker Dorokor to hone their Skills.
@@ -27,7 +27,7 @@ Through constant training, orcish bloodragers have developed a state of pure foc
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
+"ac_class": "[[/5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "2"
@@ -40,18 +40,19 @@ Through constant training, orcish bloodragers have developed a state of pure foc
   - !!int "9"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+4"
+  - "dexterity": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Orc"
 "cr": "4"
 "traits":
   - "desc": "As a bonus action, the orc can enter a cold fury for 1 minute. While\
-      \ in a fury, its melee weapon attacks deal an extra 3 (d6) damage.\n\nAlso,\
+      \ in a fury, its melee weapon attacks deal an extra 3 (1d6) damage.\n\nAlso,\
       \ if the orc is reduced to 0 hit points while in a cold fury, unless it was\
       \ dealt with a critical hit, the orc makes a Constitution saving throw with\
       \ a DC of 5 plus the damage taken. On a success, the orc instead drops to 1\
@@ -67,7 +68,7 @@ Through constant training, orcish bloodragers have developed a state of pure foc
 "actions":
   - "desc": "The White Tusk Bloodrager makes three falchion attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
       \ + 3) slashing damage."
     "name": "Falchion"
 "source":

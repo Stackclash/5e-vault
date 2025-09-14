@@ -26,16 +26,26 @@ classes:
   - Warlock
   - Wizard
 school: Evocation
-level: cantrip
+level: 0
+damage:
+  base: 1d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - fire
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - S
-  - M
+range: Self (5-foot Radius)
+somatic: true
+verbal: false
+material: a melee weapon worth at least 1 sp
+area:
+  shape: radius
+  size: 5
 aliases:
   - Green-Flame Blade
-material: a melee weapon worth at least 1 sp
 ---
 # Green-Flame Blade
 *cantrip, Evocation*  
@@ -47,8 +57,10 @@ material: a melee weapon worth at least 1 sp
 
 You brandish the weapon used in the spell's casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack's normal effects, and you can cause green fire to leap from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier.
 
-This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra `dice:1d8|noform|noparens|avg` (`d8`) fire damage to the target on a hit, and the fire damage to the second creature increases to `dice:1d8|noform|noparens|avg` (`d8`) + your spellcasting ability modifier. Both damage rolls increase by `dice:1d8|noform|noparens|avg` (`d8`) at 11th level (`dice:2d8|noform|noparens|avg` (`2d8`) and `dice:2d8|noform|noparens|avg` (`2d8`)) and 17th level (`dice:3d8|noform|noparens|avg` (`3d8`) and `dice:3d8|noform|noparens|avg` (`3d8`)).
+This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) fire damage to the target on a hit, and the fire damage to the second creature increases to `dice:1d8|noform|noparens|avg` (`1d8`) + your spellcasting ability modifier. Both damage rolls increase by `dice:1d8|noform|noparens|avg` (`1d8`) at 11th level (`dice:2d8|noform|noparens|avg` (`2d8`) and `dice:2d8|noform|noparens|avg` (`2d8`)) and 17th level (`dice:3d8|noform|noparens|avg` (`3d8`) and `dice:3d8|noform|noparens|avg` (`3d8`)).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Tasha's Cauldron of Everything p. 107*

@@ -52,17 +52,17 @@ aliases:
 ## Starting Fighter
 
 - **Saving Throws**: Constitution, Strength
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Rules/Item Types.md#Heavy%20Armor\|heavy armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Rules/Item Types.md#Heavy%20Armor\|heavy armor]], [[/5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple weapons, martial weapons
 - **Tools**: none
 - **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]], [[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]], [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]], and [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]
 
 You start with the following items, plus anything provided by your background.
 
-- (a) [[5. Mechanics/Items/Chain Mail.md\|chain mail]] or (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]], [[5. Mechanics/Items/Longbow.md\|longbow]], and [[5. Mechanics/Items/Arrows 20.md\|20 arrows]]
-- (a) a martial weapon and a [[5. Mechanics/Items/Shield.md\|shield]] or (b) two martial weapons
-- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) two [[5. Mechanics/Items/Handaxe.md\|handaxes]]
-- (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
+- (a) [[/5. Mechanics/Items/Chain Mail.md\|chain mail]] or (b) [[/5. Mechanics/Items/Leather Armor.md\|leather armor]], [[/5. Mechanics/Items/Longbow.md\|longbow]], and [[/5. Mechanics/Items/Arrows 20.md\|20 arrows]]
+- (a) a martial weapon and a [[/5. Mechanics/Items/Shield.md\|shield]] or (b) two martial weapons
+- (a) a [[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[/5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) two [[/5. Mechanics/Items/Handaxe.md\|handaxes]]
+- (a) a [[/5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
@@ -72,7 +72,7 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple weapons, martial weapons
 
 ## Fighter
@@ -103,7 +103,7 @@ You might have enjoyed formal training in a noble's army or in a local militia. 
 
 #### Quick Build
 
-You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the [[5. Mechanics/Backgrounds/Soldier.md\|soldier]] background.
+You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the [[/5. Mechanics/Backgrounds/Soldier.md\|soldier]] background.
 
 > [!quote] A quote from Tordek  
 > 
@@ -190,16 +190,16 @@ Do you have a combat style that mirrors your outlook on life, or is something el
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-- [[5. Mechanics/Optional Features/Archery.md\|Archery]]  
-- [[5. Mechanics/Optional Features/Defense.md\|Defense]]  
-- [[5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
-- [[5. Mechanics/Optional Features/Great Weapon Fighting.md\|Great Weapon Fighting]]  
-- [[5. Mechanics/Optional Features/Protection.md\|Protection]]  
-- [[5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]]  
+- [[/5. Mechanics/Optional Features/Archery.md\|Archery]]  
+- [[/5. Mechanics/Optional Features/Defense.md\|Defense]]  
+- [[/5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
+- [[/5. Mechanics/Optional Features/Great Weapon Fighting.md\|Great Weapon Fighting]]  
+- [[/5. Mechanics/Optional Features/Protection.md\|Protection]]  
+- [[/5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]]  
 
 ### Second Wind (Level 1)
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to `dice:1d10|noform|noparens|avg` (`d10`) + your fighter level.
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to `dice:1d10|noform|noparens|avg` (`1d10`) + your fighter level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
@@ -226,8 +226,8 @@ _Source: Tasha's Cauldron of Everything p. 41_
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
 
-- Replace a [[5. Mechanics/Lists/List Optfeaturetype Fs F.md\|fighting style]] you know with another fighting style available to fighters.  
-- If you know any [[5. Mechanics/Lists/List Optfeaturetype Mv B.md\|maneuvers]] from the [[5. Mechanics/Classes/Fighter Battle Master.md\|Battle Master]] archetype, you can replace one maneuver you know with a different maneuver.  
+- Replace a [[/5. Mechanics/Lists/List Optfeaturetype Fs F.md\|fighting style]] you know with another fighting style available to fighters.  
+- If you know any [[/5. Mechanics/Lists/List Optfeaturetype Mv B.md\|maneuvers]] from the [[/5. Mechanics/Classes/Fighter Battle Master.md\|Battle Master]] archetype, you can replace one maneuver you know with a different maneuver.  
 
 ### Extra Attack (Level 5)
 
@@ -316,5 +316,5 @@ At 20th level, you can attack four times whenever you take the [[/5. Mechanics/R
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Fighter
-> ![Fighting Style, Fighter](compendium/lists/list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
+> ![Fighting Style, Fighter](/compendium/lists/list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
 ^list-optfeature-fs-f

@@ -16,4 +16,4 @@ This symbol represents casting off chains, putting down oppression, and opening 
 
 **Power:** If you use an action to trace this hieroglyph on a rope, chain, or other implement that's holding you in place, you gain advantage on Dexterity checks made to free yourself. This benefit doesn't apply to checks made to Escape a grapple, unless you're being Grappled by an inanimate object.
 
-**Mastery Power:** When you take an action to trace this hieroglyph on the body of a willing creature, you can impart to that creature the effect of a [[5. Mechanics/Spells/Blink.md\|blink]] spell.
+**Mastery Power:** When you take an action to trace this hieroglyph on the body of a willing creature, you can impart to that creature the effect of a [[/5. Mechanics/Spells/Blink.md\|blink]] spell.

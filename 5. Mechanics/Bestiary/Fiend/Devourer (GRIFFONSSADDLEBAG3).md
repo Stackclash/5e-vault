@@ -13,7 +13,7 @@ tags:
 aliases:
   - Devourer
 ---
-# [[5. Mechanics\Bestiary\Fiend\Devourer (GRIFFONSSADDLEBAG3).md|Devourer]]
+# [[5. Mechanics/Bestiary/Fiend/Devourer (GRIFFONSSADDLEBAG3).md|Devourer]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The wretched, imp-like thralls of Azgoreoth that infest the Dreamlands in which he feasts. Devourers are virtually invisible in darkness, and look like demons of lightless smoke. They silently harvest the conscious energy of living creatures that become caught in their dreamy demiplane, siphoning away their life and the tethers that bind their body and soul together.
@@ -49,7 +49,8 @@ The wretched, imp-like thralls of Azgoreoth that infest the Dreamlands in which 
   \ nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., truesight 30 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., [[/5. Mechanics/Rules/Senses.md#Truesight|truesight]]\
+  \ 30 ft., passive Perception 12"
 "languages": "Abyssal, Common, telepathy 30 ft."
 "cr": "2"
 "traits":
@@ -62,7 +63,7 @@ The wretched, imp-like thralls of Azgoreoth that infest the Dreamlands in which 
       \ true form if it dies."
     "name": "Shapechanger"
   - "desc": "Whenever a creature within 30 feet of the devourer suffers a death saving\
-      \ throw failure or dies, the devourer regains 5 (d10) hit points."
+      \ throw failure or dies, the devourer regains 5 (1d10) hit points."
     "name": "Death Leech"
   - "desc": "The devourer has advantage on saving throws against spells and other\
       \ magical effects."
@@ -78,7 +79,7 @@ The wretched, imp-like thralls of Azgoreoth that infest the Dreamlands in which 
 "actions":
   - "desc": "The devourer makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage (bludgeoning damage in humanoid form; piercing damage\
       \ in beast form)."
     "name": "Claw (Fist in Humanoid Form; Bite in Beast Form)"

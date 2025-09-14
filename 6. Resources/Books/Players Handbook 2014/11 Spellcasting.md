@@ -13,7 +13,7 @@ Magic permeates the worlds of D&D and most often appears in the form of a spell.
 
 This chapter provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
 
-![[6. Resources/Books/Players Handbook 2014/img/ch10.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/ch10.webp#center]]
 
 ## What is a Spell?
 
@@ -90,7 +90,7 @@ Some spells can be cast as reactions. These spells take a fraction of a second t
 
 Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see "Concentration" below). If your concentration is broken, the spell fails, but you don't expend a spell slot. If you want to try casting the spell again, you must start over.
 
-![[6. Resources/Books/Players Handbook 2014/img/c101.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c101.webp#center]]
 
 ### Range
 
@@ -170,17 +170,17 @@ If a spell targets a creature of your choice, you can choose yourself, unless th
 > - **Illusion.** spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.  
 > - **Necromancy.** spells manipulate the energies of life and death. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life.  
 > 
->     Creating the undead through the use of necromancy spells such as [[5. Mechanics/Spells/Animate Dead.md\|animate dead]] is not a good act, and only evil casters use such spells frequently.  
+>     Creating the undead through the use of necromancy spells such as [[/5. Mechanics/Spells/Animate Dead.md\|animate dead]] is not a good act, and only evil casters use such spells frequently.  
 > - **Transmutation.** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury.  
 ^the-schools-of-magic
 
 ### Areas of Effect
 
-Spells such as [[5. Mechanics/Spells/Burning Hands.md\|burning hands]] and [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] cover an area, allowing them to affect multiple creatures at once. A spell's description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a point of origin, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
+Spells such as [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]] and [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] cover an area, allowing them to affect multiple creatures at once. A spell's description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a point of origin, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
 
 A spell's effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn't included in the spell's area. To block one of these imaginary lines, an obstruction must provide total cover, as explained in chapter 9.
 
-![[6. Resources/Books/Players Handbook 2014/img/point-of-origin.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/point-of-origin.webp#center]]
 
 #### Cone
 
@@ -214,7 +214,7 @@ A sphere's point of origin is included in the sphere's area of effect.
 
 ### Saving Throws
 
- Many spells specify that a target can make a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure.
+Many spells specify that a target can make a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure.
 
 The DC to resist one of your spells equals 8 + your spellcasting ability modifier + your proficiency bonus + any special modifiers.
 
@@ -228,7 +228,7 @@ Most spells that require attack rolls involve ranged attacks. Remember that you 
 
 The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap, or the most recent effect applies if the castings are equally potent and their durations overlap.
 
-For example, if two clerics cast [[5. Mechanics/Spells/Bless.md\|bless]] on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
+For example, if two clerics cast [[/5. Mechanics/Spells/Bless.md\|bless]] on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
 
 > [!note] The Weave of Magic
 > 
@@ -245,4 +245,4 @@ For example, if two clerics cast [[5. Mechanics/Spells/Bless.md\|bless]] on the 
 > When characters use divination spells such as *detect magic* or *identify*, they glimpse the Weave. A spell such as *dispel magic* smooths the Weave. Spells such as *antimagic field* rearrange the Weave so that magic flows around, rather than through the area affected by the spell. And in places where the Weave is damaged or torn, magic works in unpredictable ways—or not at all.
 ^the-weave-of-magic
 
-![[6. Resources/Books/Players Handbook 2014/img/c103.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c103.webp#center]]

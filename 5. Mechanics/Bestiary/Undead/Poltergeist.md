@@ -15,7 +15,7 @@ tags:
 aliases:
   - Poltergeist
 ---
-# [[5. Mechanics\Bestiary\Undead\Poltergeist.md|Poltergeist]]
+# [[5. Mechanics/Bestiary/Undead/Poltergeist.md|Poltergeist]]
 *Source: Monster Manual p. 279, Curse of Strahd*
 
 A poltergeist is the confused, invisible spirit of an individual with no sense of how he or she died. A poltergeist expresses its rage by hurling creatures and objects using the power of its shattered psyche.
@@ -45,12 +45,13 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands all languages it knew in life but can't speak"
 "cr": "2"
 "traits":
   - "desc": "The poltergeist can move through other creatures and objects as if they\
-      \ were difficult terrain. It takes 5 (d10) force damage if it ends its turn\
+      \ were difficult terrain. It takes 5 (1d10) force damage if it ends its turn\
       \ inside an object."
     "name": "Incorporeal Movement"
   - "desc": "While in sunlight, the poltergeist has disadvantage on attack rolls,\
@@ -60,7 +61,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
   - "desc": "The poltergeist is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]."
     "name": "Invisibility"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10\
       \ (3d6) force damage."
     "name": "Forceful Slam"
   - "desc": "The poltergeist targets a creature or unattended object within 30 feet\
@@ -69,7 +70,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
       \ the poltergeist makes a Charisma check contested by the target's Strength\
       \ check. If the poltergeist wins the contest, the poltergeist hurls the target\
       \ up to 30 feet in any direction, including upward. If the target then comes\
-      \ into contact with a hard surface or heavy object, the target takes d6 damage\
+      \ into contact with a hard surface or heavy object, the target takes 1d6 damage\
       \ per 10 feet moved.\n\nIf the target is an object that isn't being worn or\
       \ carried, the poltergeist hurls it up to 30 feet in any direction. The poltergeist\
       \ can use the object as a ranged weapon, attacking one creature along the object's\
@@ -78,7 +79,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Undead/token/poltergeist.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/poltergeist.webp"
 ```
 ^statblock
 

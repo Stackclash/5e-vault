@@ -13,7 +13,7 @@ tags:
 aliases:
   - Second Soul Sorcerer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Second Soul Sorcerer (GRIFFONSSADDLEBAG3).md|Second Soul Sorcerer]]
+# [[5. Mechanics/Bestiary/Humanoid/Second Soul Sorcerer (GRIFFONSSADDLEBAG3).md|Second Soul Sorcerer]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A spellcaster with twin souls inside it. Sparks of necrotic magic fly between these souls as each one vies for dominance. The most powerful of these sorcerers are the ones who learn to work in tandem with their additional soul, which may have come to them as a result of a revivify spell gone awry, or the strange posession by a ghost or similar undead creature.
@@ -25,7 +25,7 @@ A spellcaster with twin souls inside it. Sparks of necrotic magic fly between th
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "16 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+"ac_class": "16 with [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "136"
 "hit_dice": "16d8 + 64"
 "modifier": !!int "3"
@@ -38,8 +38,8 @@ A spellcaster with twin souls inside it. Sparks of necrotic magic fly between th
   - !!int "20"
 "speed": "30 ft."
 "saves":
-  - "constitution": "+8"
-  - "charisma": "+9"
+  - "constitution": !!int "8"
+  - "charisma": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+5"
@@ -54,21 +54,21 @@ A spellcaster with twin souls inside it. Sparks of necrotic magic fly between th
 "traits":
   - "desc": "The sorcerer is a 14th-level spellcaster. Its spellcasting ability is\
       \ Charisma (spell save DC 17, +9 to hit with spell attacks). It has the following\
-      \ sorcerer spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Chill Touch.md|chill touch]]\
-      \ , [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-      \ [[5. Mechanics/Spells/Message.md|message]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
-      \ slots): [[5. Mechanics/Spells/Command.md|command]] , [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\
-      \ , [[5. Mechanics/Spells/Mage Armor.md|mage armor]] \n\n2nd level (3 slots):\
-      \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]]\
-      \ \n\n3rd level (3 slots): [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]],\
-      \ [[5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]\n\n4th level (3 slots):\
-      \ [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Compulsion.md|compulsion]]\n\
-      \n5th level (2 slots): [[5. Mechanics/Spells/Antilife Shell.md|antilife shell]],\
-      \ [[5. Mechanics/Spells/Dominate Person.md|dominate person]] \n\n*6th level (1\
-      \ slots): [[5. Mechanics/Spells/Chain Lightning.md|chain lightning]]\n\n7th\
-      \ level (1 slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]\
-      \ "
+      \ sorcerer spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Chill Touch.md|chill touch]]\
+      \ *, [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[/5. Mechanics/Spells/Message.md|message]], [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n**1st level\
+      \ (4 slots):** [[/5. Mechanics/Spells/Command.md|command]] *, [[/5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\
+      \ *, [[/5. Mechanics/Spells/Mage Armor.md|mage armor]] *\n\n**2nd level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]]\
+      \ *\n\n**3rd level (3 slots):** [[/5. Mechanics/Spells/Speak With Dead.md|speak with dead]],\
+      \ [[/5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]\n\n**4th level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Blight.md|blight]], [[/5. Mechanics/Spells/Compulsion.md|compulsion]]\n\
+      \n**5th level (2 slots):** [[/5. Mechanics/Spells/Antilife Shell.md|antilife shell]],\
+      \ [[/5. Mechanics/Spells/Dominate Person.md|dominate person]] *\n\n**6th level\
+      \ (1 slots):** [[/5. Mechanics/Spells/Chain Lightning.md|chain lightning]]\n\n\
+      **7th level (1 slots):** [[/5. Mechanics/Spells/Finger Of Death.md|finger of death]]\
+      \ *"
     "name": "Spellcasting"
   - "desc": "The sorcerer summons its second soul, which takes the form of a will-o'-\
       \ wisp in an unoccupied space within 10 feet of it. The will-o'- wisp rolls\
@@ -94,8 +94,8 @@ A spellcaster with twin souls inside it. Sparks of necrotic magic fly between th
 "actions":
   - "desc": "The sorcerer makes two dagger attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage."
     "name": "Dagger"
 "reactions":
   - "desc": "When a creature the sorcerer can see within 30 feet of it takes damage,\

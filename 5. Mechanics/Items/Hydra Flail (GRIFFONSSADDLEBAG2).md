@@ -13,7 +13,7 @@ one-hand-damage: 1d8 bludgeoning
 weight: 2
 ---
 # Hydra Flail
-*Weapon ([[5. Mechanics/Items/Flail.md\|flail]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hydra-Flail.webp#right)  
 
 - **Damage**: 1d8 bludgeoning

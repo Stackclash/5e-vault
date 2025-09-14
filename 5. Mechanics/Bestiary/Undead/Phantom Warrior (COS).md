@@ -13,7 +13,7 @@ tags:
 aliases:
   - Phantom Warrior
 ---
-# [[5. Mechanics\Bestiary\Undead\Phantom Warrior (COS).md|Phantom Warrior]]
+# [[5. Mechanics/Bestiary/Undead/Phantom Warrior (COS).md|Phantom Warrior]]
 *Source: Curse of Strahd p. 235*
 
 A phantom warrior is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
@@ -63,7 +63,8 @@ A phantom warrior doesn't require air, food, drink, or sleep.
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "any languages it knew in life"
 "cr": "3"
 "traits":
@@ -71,7 +72,7 @@ A phantom warrior doesn't require air, food, drink, or sleep.
       \ on the Material Plane, and vice versa."
     "name": "Ethereal Sight"
   - "desc": "The phantom warrior can move through other creatures and objects as if\
-      \ they were difficult terrain. It takes 5 (d10) force damage if it ends its\
+      \ they were difficult terrain. It takes 5 (1d10) force damage if it ends its\
       \ turn inside an object."
     "name": "Incorporeal Movement"
   - "desc": "The phantom warrior's AC accounts for its spectral armor and shield."
@@ -79,7 +80,7 @@ A phantom warrior doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The phantom warrior makes two attacks with its spectral longsword."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) force damage."
     "name": "Spectral Longsword"
   - "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
@@ -89,7 +90,7 @@ A phantom warrior doesn't require air, food, drink, or sleep.
     "name": "Etherealness"
 "source":
   - "CoS"
-"image": "5. Mechanics/Bestiary/Undead/token/phantom-warrior-cos.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/phantom-warrior-cos.webp"
 ```
 ^statblock
 

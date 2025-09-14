@@ -26,25 +26,22 @@ classes:
   - Warlock (The Valiant)
 school: Conjuration
 level: 4
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: 8 hours
-components:
-  - V
+range: 30 feet
+somatic: false
+verbal: true
 aliases:
   - Guardian of Faith
-range: 30 feet
-damageType: Radiant
-save:
-  type: DEX
-  success: half
-area:
-  type: cylinder
-  size: 10
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  
-![[5. Mechanics/Spells/img/guardian-of-faith.webp#right]]  
+![[/5. Mechanics/Spells/img/guardian-of-faith.webp#right]]  
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -55,6 +52,6 @@ A Large spectral guardian appears and hovers for the duration in an unoccupied s
 
 Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [Warlock (The Valiant)](compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [Paladin (Oath of the Watchtower)](compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Warlock (The Celestial)](compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [Warlock (The Valiant)](/compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

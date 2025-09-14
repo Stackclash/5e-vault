@@ -13,10 +13,10 @@ tags:
 aliases:
   - Tortoise
 ---
-# [[5. Mechanics\Bestiary\Beast\Tortoise (KPDM).md|Tortoise]]
+# [[5. Mechanics/Bestiary/Beast/Tortoise (KPDM).md|Tortoise]]
 *Source: Deep Magic p. 294*
 
-The tortoise is a reptile with a thick shell on its back that grants it superior armor at the expense of speed. The tortoise is a popular familiar among abjurers, dragonborn, and lizardfolk [[5. Mechanics/Classes/Wizard.md|wizards]], despite its ponderous movement.
+The tortoise is a reptile with a thick shell on its back that grants it superior armor at the expense of speed. The tortoise is a popular familiar among abjurers, dragonborn, and lizardfolk [[/5. Mechanics/Classes/Wizard.md|wizards]], despite its ponderous movement.
 
 ```statblock
 "name": "Tortoise (KPDM)"
@@ -36,7 +36,8 @@ The tortoise is a reptile with a thick shell on its back that grants it superior
   - !!int "10"
   - !!int "4"
 "speed": "5 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "0"
 "traits":

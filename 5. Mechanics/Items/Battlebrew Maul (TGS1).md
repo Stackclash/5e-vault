@@ -13,7 +13,7 @@ one-hand-damage: 2d6 bludgeoning
 weight: 10
 ---
 # Battlebrew Maul
-*Weapon ([[5. Mechanics/Items/Maul.md\|maul]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Battlebrew-Maul.webp#right)  
 
 - **Damage**: 2d6 bludgeoning

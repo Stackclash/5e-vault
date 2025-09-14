@@ -10,5 +10,5 @@ aliases:
 
 ## Cantrip
 
-- [[5. Mechanics/Spells/Druidcraft.md \|"PHB"]] as cantrip, at class level 3
-- [[5. Mechanics/Spells/Prestidigitation.md \|"PHB"]] as cantrip, at class level 3
+- [[/5. Mechanics/Spells/Druidcraft.md \|"PHB"]] as cantrip, at class level 3
+- [[/5. Mechanics/Spells/Prestidigitation.md \|"PHB"]] as cantrip, at class level 3

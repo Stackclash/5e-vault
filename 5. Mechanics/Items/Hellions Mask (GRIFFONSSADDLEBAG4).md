@@ -14,13 +14,13 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 
-The features of this three-eyed mask magically move along with yours while you wear it. While wearing the mask, you have resistance to fire damage, and you can speak and understand Infernal. In addition, you can use your reaction to cast the [[5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]] spell from the mask (save DC 16) when you take damage from a creature that you can see within 60 feet of you. Once the spell has been cast from the mask, it can't do so again until the next dawn.
+The features of this three-eyed mask magically move along with yours while you wear it. While wearing the mask, you have resistance to fire damage, and you can speak and understand Infernal. In addition, you can use your reaction to cast the [[/5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]] spell from the mask (save DC 16) when you take damage from a creature that you can see within 60 feet of you. Once the spell has been cast from the mask, it can't do so again until the next dawn.
 
 If you're a tiefling, you gain the following benefits while wearing the mask:
 
-- When you cast [[5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]] from the mask or through your Infernal Legacy trait, it is cast as a 3rd-level spell. If you cast it as a result of taking fire damage, it is cast as a 4th-level spell instead.  
+- When you cast [[/5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]] from the mask or through your Infernal Legacy trait, it is cast as a 3rd-level spell. If you cast it as a result of taking fire damage, it is cast as a 4th-level spell instead.  
 - You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.  
-- You can cast the [[5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]] spell from the mask, but only as a ritual. The first time each day that you contact a fiend in this way, you automatically succeed on the Intelligence saving throw against the spell's maddening effects.  
+- You can cast the [[/5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]] spell from the mask, but only as a ritual. The first time each day that you contact a fiend in this way, you automatically succeed on the Intelligence saving throw against the spell's maddening effects.  
 
 ## Curse
 

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Sword Wraith Commander
 ---
-# [[5. Mechanics\Bestiary\Undead\Sword Wraith Commander (MPMM).md|Sword Wraith Commander]]
+# [[5. Mechanics/Bestiary/Undead/Sword Wraith Commander (MPMM).md|Sword Wraith Commander]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
@@ -30,7 +30,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Breastplate.md|breastplate]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "2"
@@ -50,7 +50,8 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": "the languages it knew in life"
 "cr": "8"
 "traits":
@@ -62,14 +63,14 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "actions":
   - "desc": "The commander makes two Longsword or Longbow attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
     "name": "Longsword"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
     "name": "Longbow"
   - "desc": "If the commander has taken damage during this combat, it gives itself\
-      \ advantage on attack rolls until the end of its next turn, and 1d4 + 1 [[5. Mechanics/Bestiary/Undead/Sword Wraith Warrior (MPMM).md|sword\
+      \ advantage on attack rolls until the end of its next turn, and 1d4 + 1 [[/5. Mechanics/Bestiary/Undead/Sword Wraith Warrior (MPMM).md|sword\
       \ wraith warriors]]\
       \ appear in unoccupied spaces within 30 feet of it. The warriors last until\
       \ they drop to 0 hit points, and they take their turns immediately after the\
@@ -83,7 +84,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/sword-wraith-commander-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/sword-wraith-commander-mpmm.webp"
 ```
 ^statblock
 

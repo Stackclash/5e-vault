@@ -53,16 +53,16 @@ aliases:
 
 - **Saving Throws**: Charisma, Dexterity
 - **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]]
-- **Weapons**: simple weapons, [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbows]], [[5. Mechanics/Items/Longsword.md\|longswords]], [[5. Mechanics/Items/Rapier.md\|rapiers]], [[5. Mechanics/Items/Shortsword.md\|shortswords]]
-- **Tools**: three [[5. Mechanics/Items/Musical Instrument.md\|musical instruments]] of your choice
+- **Weapons**: simple weapons, [[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbows]], [[/5. Mechanics/Items/Longsword.md\|longswords]], [[/5. Mechanics/Items/Rapier.md\|rapiers]], [[/5. Mechanics/Items/Shortsword.md\|shortswords]]
+- **Tools**: three [[/5. Mechanics/Items/Musical Instrument.md\|musical instruments]] of your choice
 - **Skills**: choose any 3 [[/5. Mechanics/Rules/Skills.md\|skills]]
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [[5. Mechanics/Items/Rapier.md\|rapier]], (b) a [[5. Mechanics/Items/Longsword.md\|longsword]], or (c) any simple weapon
-- (a) a [[5. Mechanics/Items/Diplomats Pack.md\|diplomat's pack]] or (b) an [[5. Mechanics/Items/Entertainers Pack.md\|entertainer's pack]]
-- (a) a [[5. Mechanics/Items/Lute.md\|lute]] or (b) any other musical instrument
-- [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], and a [[5. Mechanics/Items/Dagger.md\|dagger]]
+- (a) a [[/5. Mechanics/Items/Rapier.md\|rapier]], (b) a [[/5. Mechanics/Items/Longsword.md\|longsword]], or (c) any simple weapon
+- (a) a [[/5. Mechanics/Items/Diplomats Pack.md\|diplomat's pack]] or (b) an [[/5. Mechanics/Items/Entertainers Pack.md\|entertainer's pack]]
+- (a) a [[/5. Mechanics/Items/Lute.md\|lute]] or (b) any other musical instrument
+- [[/5. Mechanics/Items/Leather Armor.md\|Leather armor]], and a [[/5. Mechanics/Items/Dagger.md\|dagger]]
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
@@ -73,7 +73,7 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
 - **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]]
-- **Tools**: one [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]] of your choice
+- **Tools**: one [[/5. Mechanics/Items/Musical Instrument.md\|musical instrument]] of your choice
 - **Skills**: choose any 1 [[/5. Mechanics/Rules/Skills.md\|skill]]
 
 ## Bard
@@ -106,7 +106,7 @@ Did you serve an apprenticeship, studying under a master, following the more exp
 
 #### Quick Build
 
-You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the [[5. Mechanics/Backgrounds/Entertainer.md\|entertainer]] background. Third, choose the [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] and [[5. Mechanics/Spells/Vicious Mockery.md\|vicious mockery]] cantrips, along with the following 1st-level spells: [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Healing Word.md\|healing word]], and [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]].
+You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the [[/5. Mechanics/Backgrounds/Entertainer.md\|entertainer]] background. Third, choose the [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] and [[/5. Mechanics/Spells/Vicious Mockery.md\|vicious mockery]] cantrips, along with the following 1st-level spells: [[/5. Mechanics/Spells/Charm Person.md\|charm person]], [[/5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[/5. Mechanics/Spells/Healing Word.md\|healing word]], and [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]].
 
 > [!quote] A quote from Fletcher Danairia, master bard  
 > 
@@ -161,9 +161,9 @@ You might have an "off the rack" instrument, perhaps because it's all you can af
 | dice: d6 | Instrument |
 |----------|------------|
 | 1 | A masterfully crafted halfling fiddle |
-| 2 | A mithral [[5. Mechanics/Items/Horn.md\|horn]] made by elves |
+| 2 | A mithral [[/5. Mechanics/Items/Horn.md\|horn]] made by elves |
 | 3 | A zither made with drow spider silk |
-| 4 | An orcish [[5. Mechanics/Items/Drum.md\|drum]] |
+| 4 | An orcish [[/5. Mechanics/Items/Drum.md\|drum]] |
 | 5 | A wooden bullywug croak box |
 | 6 | A tinker's harp of gnomish design |
 ^instrument
@@ -186,7 +186,7 @@ The ways that a performance can go wrong are as varied as the fish in the sea. N
 | 3 | When your opening song was your enthusiastic but universally hated rendition of "Song of the Froghemoth" |
 | 4 | The first and last public performance of "Mirt, Man about Town" |
 | 5 | The time on stage when your wig caught fire and you threw it down—which set fire to the stage |
-| 6 | When you sat on your [[5. Mechanics/Items/Lute.md\|lute]] by mistake during the final stanza of "Starlight Serenade" |
+| 6 | When you sat on your [[/5. Mechanics/Items/Lute.md\|lute]] by mistake during the final stanza of "Starlight Serenade" |
 ^embarrassment
 
 ## A Bard's Muse
@@ -237,7 +237,7 @@ You know two cantrips of your choice from the bard spell list. You learn additio
 
 The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] using either slot.
+For example, if you know the 1st-level spell [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -261,7 +261,7 @@ You can cast any bard spell you know as a ritual if that spell has the ritual ta
 
 #### Spellcasting Focus
 
-You can use a [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]] as a spellcasting focus for your bard spells.
+You can use a [[/5. Mechanics/Items/Musical Instrument.md\|musical instrument]] as a spellcasting focus for your bard spells.
 
 ### Jack of All Trades (Level 2)
 
@@ -269,9 +269,9 @@ Starting at 2nd level, you can add half your proficiency bonus, rounded down, to
 
 ### Song of Rest (d6) (Level 2)
 
-Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra `dice:1d6|noform|noparens|avg` (`d6`) hit points.
+Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra `dice:1d6|noform|noparens|avg` (`1d6`) hit points.
 
-The extra hit points increase when you reach certain levels in this class: to `dice:1d8|noform|noparens|avg` (`d8`) at 9th level, to `dice:1d10|noform|noparens|avg` (`d10`) at 13th level, and to `dice:1d12|noform|noparens|avg` (`d12`) at 17th level.
+The extra hit points increase when you reach certain levels in this class: to `dice:1d8|noform|noparens|avg` (`1d8`) at 9th level, to `dice:1d10|noform|noparens|avg` (`1d10`) at 13th level, and to `dice:1d12|noform|noparens|avg` (`1d12`) at 17th level.
 
 ### Magical Inspiration (Level 2)
 _Source: Tasha's Cauldron of Everything p. 27_
@@ -330,7 +330,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Song of Rest (d8) (Level 9)
 
-At 9th level, the extra hit points gained from Song of Rest increases to `dice:1d8|noform|noparens|avg` (`d8`).
+At 9th level, the extra hit points gained from Song of Rest increases to `dice:1d8|noform|noparens|avg` (`1d8`).
 
 ### Bardic Inspiration (d10) (Level 10)
 
@@ -356,7 +356,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Song of Rest (d10) (Level 13)
 
-At 13th level, the extra hit points gained from Song of Rest increases to `dice:1d10|noform|noparens|avg` (`d10`).
+At 13th level, the extra hit points gained from Song of Rest increases to `dice:1d10|noform|noparens|avg` (`1d10`).
 
 ### Magical Secrets (Level 14)
 
@@ -380,7 +380,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Song of Rest (d12) (Level 17)
 
-At 17th level, the extra hit points gained from Song of Rest increases to `dice:1d12|noform|noparens|avg` (`d12`).
+At 17th level, the extra hit points gained from Song of Rest increases to `dice:1d12|noform|noparens|avg` (`1d12`).
 
 ### Magical Secrets (Level 18)
 

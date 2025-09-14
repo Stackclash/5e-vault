@@ -18,16 +18,19 @@ classes:
   - Wizard
 school: Enchantment
 level: 2
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: a used leash or similar object
 aliases:
   - Snap the Leash
-material: a used leash or similar object
 ---
 # Snap the Leash
 *2nd-level, Enchantment*  
@@ -41,6 +44,6 @@ Choose a beast that you can see within range. If the beast's Intelligence is 4 o
 
 This spell is only partly effective against animal companions, familiars, and paladin mounts. Although the spell removes any tricks such creatures know, the bond between creature and master is otherwise unaffected.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 107*

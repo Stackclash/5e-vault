@@ -18,17 +18,26 @@ classes:
   - Wizard
 school: Necromancy
 level: 5
+damage:
+  base: 2d6
+  scaling:
+    damage: null
+    level: 6
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
+material: a desiccated horse heart
 aliases:
   - Exsanguinate
-concentration: true
-material: a desiccated horse heart
 ---
 # Exsanguinate
 *5th-level, Necromancy*  
@@ -44,6 +53,6 @@ At the end of each of its turns, a creature can make a Constitution saving throw
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 320*

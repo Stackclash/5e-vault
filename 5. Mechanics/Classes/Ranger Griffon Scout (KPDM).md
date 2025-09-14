@@ -55,11 +55,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[5. Mechanics/Spells/Feather Fall.md\|feather fall]] |
-| 5th | [[5. Mechanics/Spells/Find Steed.md\|find steed]] |
-| 9th | [[5. Mechanics/Spells/Haste.md\|haste]] |
-| 13th | [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] |
-| 17th | [[5. Mechanics/Spells/Rarys Telepathic Bond.md\|rary's telepathic bond]] |
+| 3rd | [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] |
+| 5th | [[/5. Mechanics/Spells/Find Steed.md\|find steed]] |
+| 9th | [[/5. Mechanics/Spells/Haste.md\|haste]] |
+| 13th | [[/5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] |
+| 17th | [[/5. Mechanics/Spells/Rarys Telepathic Bond.md\|rary's telepathic bond]] |
 ^griffon-scout-spells
 
 ### Mounted Scout (Level 3)
@@ -68,7 +68,7 @@ At 3rd level, you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#S
 
 ### Skirmisher's Step (Level 3)
 
-At 3rd level, when you move at least 20 feet straight toward a creature and hit it with a melee weapon attack in the same turn, that attack deals an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the same type dealt by the weapon to the target, and, when you or your mount move out of the target's reach before the end of your next turn, you don't provoke an [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack\|opportunity attack]] from the target.
+At 3rd level, when you move at least 20 feet straight toward a creature and hit it with a melee weapon attack in the same turn, that attack deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage of the same type dealt by the weapon to the target, and, when you or your mount move out of the target's reach before the end of your next turn, you don't provoke an [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack\|opportunity attack]] from the target.
 
 ### Mounted Scout (Level 3)
 
@@ -76,7 +76,7 @@ At 3rd level, you have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#S
 
 ### Skirmisher's Step (Level 3)
 
-At 3rd level, when you move at least 20 feet straight toward a creature and hit it with a melee weapon attack in the same turn, that attack deals an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the same type dealt by the weapon to the target, and, when you or your mount move out of the target's reach before the end of your next turn, you don't provoke an [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack\|opportunity attack]] from the target.
+At 3rd level, when you move at least 20 feet straight toward a creature and hit it with a melee weapon attack in the same turn, that attack deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage of the same type dealt by the weapon to the target, and, when you or your mount move out of the target's reach before the end of your next turn, you don't provoke an [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack\|opportunity attack]] from the target.
 
 ### Coordinated Strikes (Level 7)
 
@@ -84,7 +84,7 @@ Starting at 7th level, you can deliver punishing flurries of attacks in perfect 
 
 ### Griffon Wings (Level 11)
 
-At 11th level, when you cast [[5. Mechanics/Spells/Find Steed.md\|find steed]], you can choose for your steed to take the form of a Griffon, though it is a fey instead of a Monstrosity.
+At 11th level, when you cast [[/5. Mechanics/Spells/Find Steed.md\|find steed]], you can choose for your steed to take the form of a Griffon, though it is a fey instead of a Monstrosity.
 
 ### Strike and Fade (Level 15)
 

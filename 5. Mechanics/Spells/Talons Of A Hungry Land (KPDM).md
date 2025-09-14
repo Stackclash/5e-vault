@@ -16,15 +16,25 @@ classes:
   - Wizard
 school: Evocation
 level: 7
+damage:
+  base: 8d8
+  scaling:
+    damage: 1d8
+    level: 8
+  types:
+    - slashing
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: half damage
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
+duration: 'Concentration, up to 10 minutes'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Talons of a Hungry Land
-concentration: true
 ---
 # Talons of a Hungry Land
 *7th-level, Evocation*  
@@ -42,8 +52,8 @@ A creature can move through the lines at the risk of cutting itself on the expos
 
 When you stop concentrating on the spell, you can cause the obsidian spikes to explode, dealing `dice:5d8|noform|noparens|avg` (`5d8`) slashing damage to any creature within 15 feet, or half as much damage on a successful Dexterity save.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the damage from all effects of the lines increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 7th.
+**At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the damage from all effects of the lines increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 7th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 112*

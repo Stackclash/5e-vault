@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Small
 tags:
@@ -13,10 +13,10 @@ tags:
 aliases:
   - Booyahg Wielder
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Booyahg Wielder (VGM).md|Booyahg Wielder]]
+# [[5. Mechanics/Bestiary/Humanoid/Booyahg Wielder (VGM).md|Booyahg Wielder]]
 *Source: Volo's Guide to Monsters p. 42*
 
-This goblin found a magic item (a [[5. Mechanics/Items/Necklace Of Fireballs.md|necklace of fireballs]], a [[5. Mechanics/Items/Circlet Of Blasting.md|circlet of blasting]], or the like) and learned how to use it.
+This goblin found a magic item (a [[/5. Mechanics/Items/Necklace Of Fireballs.md|necklace of fireballs]], a [[/5. Mechanics/Items/Circlet Of Blasting.md|circlet of blasting]], or the like) and learned how to use it.
 
 ## Booyahgs
 
@@ -33,7 +33,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -48,27 +48,28 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+6"
-"senses": "darkvision 60 ft., passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 9"
 "languages": "Common, Goblin"
 "cr": "1/4"
 "traits":
   - "desc": "The goblin can take the Disengage or Hide action as a bonus action on\
       \ each of its turns."
     "name": "Nimble Escape"
-  - "desc": "The goblin found a magic item (a [[5. Mechanics/Items/Necklace Of Fireballs.md|necklace of fireballs]],\
-      \ a [[5. Mechanics/Items/Circlet Of Blasting.md|circlet of blasting]], or the like)\
-      \ and learned how to use it."
+  - "desc": "The goblin found a magic item (a [[/5. Mechanics/Items/Necklace Of Fireballs.md|necklace of fireballs]],\
+      \ a [[/5. Mechanics/Items/Circlet Of Blasting.md|circlet of blasting]], or the\
+      \ like) and learned how to use it."
     "name": "Special Equipment"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) slashing damage."
     "name": "Scimitar"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage."
     "name": "Shortbow"
 "source":
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/booyahg-wielder-vgm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/booyahg-wielder-vgm.webp"
 ```
 ^statblock
 

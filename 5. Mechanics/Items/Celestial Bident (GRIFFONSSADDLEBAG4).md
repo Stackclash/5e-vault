@@ -11,11 +11,11 @@ aliases:
   - Celestial Bident
 one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
-range: 20\60
+range: 20/60
 weight: 4
 ---
 # Celestial Bident
-*Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a cleric or paladin)*  
+*Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Celestial-Bident.webp#right)  
 
 - **Damage**:
@@ -27,7 +27,7 @@ weight: 4
 
 This bident's prongs are designed as celestial wings. A ball of pure light radiates between the wings, which sheds bright light in a 30-foot radius and dim light for an additional 30 feet. The light is sunlight. While holding the bident, you can use a bonus action to light or extinguish the ball. Alternatively, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 40 feet each or a minimum of 10 feet each. If you're attuned to the celestial bident, you are considered proficient with it.
 
-You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d6|noform|noparens|avg` (`d6`) radiant damage to any target it hits while the ball of pure light is present in the bident. Immediately after you make a ranged weapon attack with the bident, it flies back to your open hand. While holding the weapon, you also gain a +2 bonus to spell attack rolls.
+You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) radiant damage to any target it hits while the ball of pure light is present in the bident. Immediately after you make a ranged weapon attack with the bident, it flies back to your open hand. While holding the weapon, you also gain a +2 bonus to spell attack rolls.
 
 ## Bestow Light
 
@@ -35,6 +35,6 @@ While the ball of light is present between the bident's prongs, you can use an a
 
 ## Guiding Bident
 
-While holding the weapon, you can use an action to cast the [[5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]] spell from it, using your spell attack bonus. When you do, the bolt appears as a duplicate of the bident made of pure light, and on a hit, any allied creature within 10 feet of the target gains 10 temporary hit points.
+While holding the weapon, you can use an action to cast the [[/5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]] spell from it, using your spell attack bonus. When you do, the bolt appears as a duplicate of the bident made of pure light, and on a hit, any allied creature within 10 feet of the target gains 10 temporary hit points.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*

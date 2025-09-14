@@ -17,6 +17,6 @@ The typical oozo, an uncommon potion, is a specialty alcoholic beverage that cau
 
 The following oozo is a very rare variant with additional properties. It also tastes better.
 
-For 1 hour after drinking this potion, whenever you remain perfectly still for 1 minute, you and anything you wear or carry becomes [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] until you move. In addition, if a creature within 5 feet of you hits you with a melee attack, it immediately takes `dice:1d4|noform|noparens|avg` (`d4`) acid damage.
+For 1 hour after drinking this potion, whenever you remain perfectly still for 1 minute, you and anything you wear or carry becomes [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] until you move. In addition, if a creature within 5 feet of you hits you with a melee attack, it immediately takes `dice:1d4|noform|noparens|avg` (`1d4`) acid damage.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*

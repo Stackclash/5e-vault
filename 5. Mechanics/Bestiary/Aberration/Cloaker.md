@@ -14,7 +14,7 @@ tags:
 aliases:
   - Cloaker
 ---
-# [[5. Mechanics\Bestiary\Aberration\Cloaker.md|Cloaker]]
+# [[5. Mechanics/Bestiary/Aberration/Cloaker.md|Cloaker]]
 *Source: Monster Manual p. 41, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Cloakers earned their names for the resemblance they bear to dark leathery cloaks. Lurking in remote dungeons and caves, these stealthy predators wait to slay lone or injured prey stumbling through the darkness.
@@ -60,7 +60,8 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "Deep Speech, Undercommon"
 "cr": "8"
 "traits":
@@ -77,7 +78,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
 "actions":
   - "desc": "The cloaker makes two attacks: one with its bite and one with its tail."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 10\
       \ (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker\
       \ attaches to it. If the cloaker has advantage against the target, the cloaker\
       \ attaches to the target's head, and the target is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
@@ -87,7 +88,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
       \ creature, including the target, can take its action to detach the cloaker\
       \ by succeeding on a DC 16 Strength check."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. Hit:\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:*\
       \ 7 (1d8 + 3) slashing damage."
     "name": "Tail"
   - "desc": "Each creature within 60 feet of the cloaker that can hear its moan and\
@@ -111,7 +112,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
 "source":
   - "MM"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Aberration/token/cloaker.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/cloaker.webp"
 ```
 ^statblock
 

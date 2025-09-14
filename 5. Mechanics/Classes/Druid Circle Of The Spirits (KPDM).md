@@ -59,16 +59,16 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 | Druid Level | Spells |
 |-------------|--------|
-| 2nd | [[5. Mechanics/Spells/Find Familiar.md\|Find Familiar]] |
-| 3rd | [[5. Mechanics/Spells/Augury.md\|Augury]], [[5. Mechanics/Spells/Invisibility.md\|Invisibility]] |
-| 5th | [[5. Mechanics/Spells/Speak With Dead.md\|Speak with Dead]], [[5. Mechanics/Spells/Spirit Guardians.md\|Spirit Guardians]] |
-| 7th | [[5. Mechanics/Spells/Divination.md\|Divination]], [[5. Mechanics/Spells/Hallucinatory Terrain.md\|Hallucinatory Terrain]] |
-| 9th | [[5. Mechanics/Spells/Antilife Shell.md\|Antilife Shell]], [[5. Mechanics/Spells/Scrying.md\|Scrying]] |
+| 2nd | [[/5. Mechanics/Spells/Find Familiar.md\|Find Familiar]] |
+| 3rd | [[/5. Mechanics/Spells/Augury.md\|Augury]], [[/5. Mechanics/Spells/Invisibility.md\|Invisibility]] |
+| 5th | [[/5. Mechanics/Spells/Speak With Dead.md\|Speak with Dead]], [[/5. Mechanics/Spells/Spirit Guardians.md\|Spirit Guardians]] |
+| 7th | [[/5. Mechanics/Spells/Divination.md\|Divination]], [[/5. Mechanics/Spells/Hallucinatory Terrain.md\|Hallucinatory Terrain]] |
+| 9th | [[/5. Mechanics/Spells/Antilife Shell.md\|Antilife Shell]], [[/5. Mechanics/Spells/Scrying.md\|Scrying]] |
 ^circle-of-the-spirits-spells
 
 ### Spirit Guide (Level 2)
 
-Starting at 2nd level, you gain the service of a minor Spirit Guide. You can cast [[5. Mechanics/Spells/Find Familiar.md\|Find Familiar]] as a ritual.
+Starting at 2nd level, you gain the service of a minor Spirit Guide. You can cast [[/5. Mechanics/Spells/Find Familiar.md\|Find Familiar]] as a ritual.
 
 As long as you and your Spirit Guide (familiar) are within 100 feet of each other, the Spirit Guide can maintain concentration on a druid spell you cast. You must choose whether to do so yourself or make your Spirit Guide responsible for maintaining concentration at the moment the spell is cast, and that decision can't be changed on a later turn.
 
@@ -91,7 +91,7 @@ For the duration:
 - You gain a flying speed equal to your base walking speed.  
 - You have resistance to acid, cold, fire, lightning, thunder, and nonmagical bludgeoning, piercing, and slashing damage.  
 - You can't be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]], [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]], knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], or [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]].  
-- You can move through creatures and solid objects as if they were difficult terrain, but you take `dice:1d10|noform|noparens|avg` (`d10`) force damage if you end your turn inside an object.  
+- You can move through creatures and solid objects as if they were difficult terrain, but you take `dice:1d10|noform|noparens|avg` (`1d10`) force damage if you end your turn inside an object.  
 
 Maintaining this feature requires concentration as if it were a spell.
 

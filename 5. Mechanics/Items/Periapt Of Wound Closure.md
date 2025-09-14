@@ -12,7 +12,7 @@ weight: 1
 ---
 # Periapt of Wound Closure
 *Wondrous item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/periapt-of-wound-closure.webp#right]]  
+![[/5. Mechanics/Items/img/periapt-of-wound-closure.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

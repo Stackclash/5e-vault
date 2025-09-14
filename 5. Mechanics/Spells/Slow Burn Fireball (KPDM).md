@@ -16,16 +16,29 @@ classes:
   - Wizard
 school: Evocation
 level: 3
+damage:
+  base: 4d6
+  scaling:
+    damage: 1d6
+    level: 4
+  types:
+    - fire
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 3 rounds
-components:
-  - V
-  - S
-  - M
+range: 150 feet
+somatic: true
+verbal: true
+material: small chunks of coal and sulfur
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Slow-Burn Fireball
-material: small chunks of coal and sulfur
 ---
 # Slow-Burn Fireball
 *3rd-level, Evocation*  
@@ -37,8 +50,8 @@ material: small chunks of coal and sulfur
 
 A bright streak flashes from your pointing finger to a point you choose within range, where it slowly ignites the air itself with phlogiston. Each creature in a 20-foot-radius sphere around the target point takes `dice:4d6|noform|noparens|avg` (`4d6`) fire damage, or half damage with a successful Dexterity saving throw. Every target that takes damage takes the same amount of damage again at the start of your next two turns unless it uses an action to put out the flames on its clothing, hair, and other accoutrements. Flammable objects in the area that aren't being worn or carried are also ignited.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 353*

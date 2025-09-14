@@ -14,7 +14,7 @@ one-hand-damage: 1d4 slashing
 weight: 3
 ---
 # Lash of the Spelldrinker
-*Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement by a spellcaster)*  
+*Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Lash-of-the-Spelldrinker.webp#right)  
 
 - **Damage**: 1d4 slashing

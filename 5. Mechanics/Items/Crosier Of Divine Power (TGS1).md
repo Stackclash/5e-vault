@@ -14,7 +14,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Crosier of Divine Power
-*Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a cleric or paladin)*  
+*Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Crosier-of-Divine-Power.webp#right)  
 
 - **Damage**:

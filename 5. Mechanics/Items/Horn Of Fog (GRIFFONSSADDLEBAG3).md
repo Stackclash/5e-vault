@@ -17,7 +17,7 @@ You can use an action to blow this horn, which is audible out to 300 feet. When 
 
 ## Create Fog
 
-You cast the [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell (2nd-level version; no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required) from the horn, centered on your location. The fog remains for 1 minute.
+You cast the [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell (2nd-level version; no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required) from the horn, centered on your location. The fog remains for 1 minute.
 
 ## Defog
 

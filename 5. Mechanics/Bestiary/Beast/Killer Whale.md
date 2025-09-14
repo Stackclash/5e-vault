@@ -14,7 +14,7 @@ tags:
 aliases:
   - Killer Whale
 ---
-# [[5. Mechanics\Bestiary\Beast\Killer Whale.md|Killer Whale]]
+# [[5. Mechanics/Bestiary/Beast/Killer Whale.md|Killer Whale]]
 *Source: Monster Manual p. 331. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -38,7 +38,8 @@ aliases:
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
-"senses": "blindsight 120 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft., passive Perception\
+  \ 13"
 "languages": ""
 "cr": "3"
 "traits":
@@ -50,12 +51,12 @@ aliases:
       \ checks that rely on hearing."
     "name": "Keen Hearing"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 21\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 21\
       \ (5d6 + 4) piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/killer-whale.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/killer-whale.webp"
 ```
 ^statblock
 

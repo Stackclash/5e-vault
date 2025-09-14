@@ -26,11 +26,11 @@ Each kind of astral bracelet has a different list spells that can be cast from i
 
 | Charges | Spells |
 |---------|--------|
-| 1 | [[5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Identify.md\|identify]] |
-| 2 | [[5. Mechanics/Spells/Locate Object.md\|locate object]] |
-| 3 | [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Sending.md\|sending]] |
-| 4 | [[5. Mechanics/Spells/Locate Creature.md\|locate creature]] |
-| 5 | [[5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
+| 1 | [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]], [[/5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[/5. Mechanics/Spells/Identify.md\|identify]] |
+| 2 | [[/5. Mechanics/Spells/Locate Object.md\|locate object]] |
+| 3 | [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[/5. Mechanics/Spells/Sending.md\|sending]] |
+| 4 | [[/5. Mechanics/Spells/Locate Creature.md\|locate creature]] |
+| 5 | [[/5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
 ^astral-bracelet-of-knowledge-spells
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*

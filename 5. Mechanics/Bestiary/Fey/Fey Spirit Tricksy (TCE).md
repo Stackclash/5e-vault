@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fey Spirit (Tricksy)
 ---
-# [[5. Mechanics\Bestiary\Fey\Fey Spirit Tricksy (TCE).md|Fey Spirit (Tricksy)]]
+# [[5. Mechanics/Bestiary/Fey/Fey Spirit Tricksy (TCE).md|Fey Spirit (Tricksy)]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock
@@ -32,14 +32,15 @@ aliases:
   - !!int "16"
 "speed": "40 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Sylvan, understands the languages you speak"
 "actions":
   - "desc": "The fey makes a number of attacks equal to half this spell's level (rounded\
       \ down)."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d6 + 3 + the spell's level piercing damage + 1d6 force\
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d6 + 3 + the spell's level piercing damage + 1d6 force\
       \ damage."
     "name": "Shortsword"
 "bonus_actions":

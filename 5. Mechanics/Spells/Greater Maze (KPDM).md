@@ -14,15 +14,25 @@ classes:
   - Wizard
 school: Conjuration
 level: 9
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
+duration: 'Concentration, up to 10 minutes'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Greater Maze
-concentration: true
 ---
 # Greater Maze
 *9th-level, Conjuration*  
@@ -32,10 +42,10 @@ concentration: true
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-This spell functions as [[5. Mechanics/Spells/Maze.md\|maze]], but the target must make a Dexterity saving throw each time it starts its turn in the maze. The target takes `dice:4d6|noform|noparens|avg` (`4d6`) psychic damage on a failed save, or half as much damage on a success.
+This spell functions as [[/5. Mechanics/Spells/Maze.md\|maze]], but the target must make a Dexterity saving throw each time it starts its turn in the maze. The target takes `dice:4d6|noform|noparens|avg` (`4d6`) psychic damage on a failed save, or half as much damage on a success.
 
 Escaping this maze is especially difficult. To do so, the target must use an action to make a DC 20 Intelligence check. It escapes when it makes its second successful check.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 77*

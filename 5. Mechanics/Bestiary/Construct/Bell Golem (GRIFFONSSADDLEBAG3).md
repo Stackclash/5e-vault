@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bell Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Bell Golem (GRIFFONSSADDLEBAG3).md|Bell Golem]]
+# [[5. Mechanics/Bestiary/Construct/Bell Golem (GRIFFONSSADDLEBAG3).md|Bell Golem]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A bell golem is an enormous, four-legged golem in the form of a temple or similar sort of belltower. These golems often lie dormant until needed, typically at the behest of their creators or some other means of activation. Bell golems are frequently used as meeting places for cults, often without the cultists even knowing of the golem's existence.
@@ -42,7 +42,8 @@ A bell golem is an enormous, four-legged golem in the form of a temple or simila
   \ [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "12"
 "traits":
@@ -70,14 +71,14 @@ A bell golem is an enormous, four-legged golem in the form of a temple or simila
 "actions":
   - "desc": "The golem makes two stomp attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 21\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 21\
       \ (3d10 + 5) bludgeoning damage."
     "name": "Stomp"
   - "desc": "The golem causes its bell to ring out in a discordant clattering of tones.\
       \ Each creature within 60 feet of the golem that can hear it must make a DC\
       \ 18 Wisdom saving throw. On a failed save, the target takes 18 (4d8) psychic\
       \ damage and time is altered around it, causing it to suffer the effects of\
-      \ the [[5. Mechanics/Spells/Slow.md|slow]] spell for 1 minute. A target can repeat\
+      \ the [[/5. Mechanics/Spells/Slow.md|slow]] spell for 1 minute. A target can repeat\
       \ the saving throw at the end of each of its turns, ending the effect on itself\
       \ on a success."
     "name": "Time Cacophony (Recharge 6)"

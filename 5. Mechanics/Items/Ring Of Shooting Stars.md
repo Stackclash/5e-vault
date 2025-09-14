@@ -12,16 +12,16 @@ aliases:
 ---
 # Ring of Shooting Stars
 *Ring, major, very rare (requires attunement outdoors at night)*  
-![[5. Mechanics/Items/img/ring-of-shooting-stars.webp#right]]  
+![[/5. Mechanics/Items/img/ring-of-shooting-stars.webp#right]]  
 
 
-While wearing this ring in dim light or darkness, you can cast [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] and [[5. Mechanics/Spells/Light.md\|light]] from the ring at will. Casting either spell from the ring requires an action.
+While wearing this ring in dim light or darkness, you can cast [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] and [[/5. Mechanics/Spells/Light.md\|light]] from the ring at will. Casting either spell from the ring requires an action.
 
-The ring has 6 charges for the following other properties. The ring regains `dice:1d6|noform|noparens|avg` (`d6`) expended charges daily at dawn.
+The ring has 6 charges for the following other properties. The ring regains `dice:1d6|noform|noparens|avg` (`1d6`) expended charges daily at dawn.
 
 ## Faerie Fire
 
-You can expend 1 charge as an action to cast [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] from the ring.
+You can expend 1 charge as an action to cast [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] from the ring.
 
 ## Ball Lightning
 

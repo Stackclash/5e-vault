@@ -14,7 +14,7 @@ tags:
 aliases:
   - Shield Guardian
 ---
-# [[5. Mechanics\Bestiary\Construct\Shield Guardian.md|Shield Guardian]]
+# [[5. Mechanics/Bestiary/Construct/Shield Guardian.md|Shield Guardian]]
 *Source: Monster Manual p. 271, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Wizards and other spellcasters create shield guardians for protection. A shield guardian treads beside its master, absorbing damage to keep its master alive as long as possible.
@@ -57,7 +57,8 @@ A shield guardian doesn't require air, food, drink, or sleep.
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 10"
 "languages": "understands commands given in any language but can't speak"
 "cr": "7"
 "traits":
@@ -82,7 +83,7 @@ A shield guardian doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The guardian makes two fist attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage."
     "name": "Fist"
 "reactions":
@@ -94,7 +95,7 @@ A shield guardian doesn't require air, food, drink, or sleep.
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Construct/token/shield-guardian.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/shield-guardian.webp"
 ```
 ^statblock
 

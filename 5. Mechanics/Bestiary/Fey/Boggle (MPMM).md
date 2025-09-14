@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: 'forest, hill, underdark, urban'
 size: Small
 tags:
@@ -17,7 +17,7 @@ tags:
 aliases:
   - Boggle
 ---
-# [[5. Mechanics\Bestiary\Fey\Boggle (MPMM).md|Boggle]]
+# [[5. Mechanics/Bestiary/Fey/Boggle (MPMM).md|Boggle]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 65, Volo's Guide to Monsters p. 128*
 
 Boggles are the little bogeys of fairy tales. They lurk in the fringes of the Feywild and are also found on the Material Plane, where they hide under beds and in closets, waiting to frighten and bedevil folk with their mischief.
@@ -53,20 +53,21 @@ A boggle can create magical openings to travel short distances or to pilfer item
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+6"
 "damage_resistances": "fire"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": "Sylvan"
 "cr": "1/8"
 "actions":
-  - "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6\
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6\
       \ - 1) bludgeoning damage."
     "name": "Pummel"
   - "desc": "The boggle creates a puddle of nonflammable oil. The puddle is 1 inch\
       \ deep and covers the ground in the boggle's space. The puddle is difficult\
       \ terrain for all creatures except boggles and lasts for 1 hour. The oil has\
-      \ one of the following additional effects of the boggle's choice:\n\n- Slippery\
-      \ Oil. Any non-boggle creature that enters the puddle or starts its turn there\
+      \ one of the following additional effects of the boggle's choice:\n\n- **Slippery\
+      \ Oil.** Any non-boggle creature that enters the puddle or starts its turn there\
       \ must succeed on a DC 11 Dexterity saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-      \  \n- Sticky Oil. Any non-boggle creature that enters the puddle or starts\
+      \  \n- **Sticky Oil.** Any non-boggle creature that enters the puddle or starts\
       \ its turn there must succeed on a DC 11 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
       \ On its turn, a creature can use an action to try to extricate itself, ending\
       \ the effect and moving into the nearest unoccupied space of its choice with\
@@ -75,9 +76,9 @@ A boggle can create magical openings to travel short distances or to pilfer item
 "bonus_actions":
   - "desc": "The boggle excretes nonflammable oil from its pores, giving itself one\
       \ of the following benefits of its choice until it uses this bonus action again:\n\
-      \n- Slippery Oil. The boggle has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]])\
+      \n- **Slippery Oil.** The boggle has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]])\
       \ checks made to escape bonds and end grapples, and it can move through openings\
-      \ large enough for a Tiny creature without squeezing.  \n- Sticky Oil. The\
+      \ large enough for a Tiny creature without squeezing.  \n- **Sticky Oil.** The\
       \ boggle has advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
       \ checks made to grapple and any ability check made to maintain a hold on another\
       \ creature, a surface, or an object. The boggle can also climb difficult surfaces,\
@@ -98,7 +99,7 @@ A boggle can create magical openings to travel short distances or to pilfer item
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/boggle-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/boggle-mpmm.webp"
 ```
 ^statblock
 

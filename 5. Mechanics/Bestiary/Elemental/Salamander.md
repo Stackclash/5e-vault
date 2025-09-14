@@ -14,7 +14,7 @@ tags:
 aliases:
   - Salamander
 ---
-# [[5. Mechanics\Bestiary\Elemental\Salamander.md|Salamander]]
+# [[5. Mechanics/Bestiary/Elemental/Salamander.md|Salamander]]
 *Source: Monster Manual p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
@@ -66,25 +66,26 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 "damage_vulnerabilities": "cold"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Ignan"
 "cr": "5"
 "traits":
   - "desc": "A creature that touches the salamander or hits it with a melee attack\
       \ while within 5 feet of it takes 7 (2d6) fire damage."
     "name": "Heated Body"
-  - "desc": "Any metal melee weapon the salamander wields deals an extra 3 (d6) fire\
+  - "desc": "Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire\
       \ damage on a hit (included in the attack)."
     "name": "Heated Weapons"
 "actions":
   - "desc": "The salamander makes two attacks: one with its spear and one with its\
       \ tail."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
-      \ damage if used with two hands to make a melee attack, plus 3 (d6) fire damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
+      \ damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage."
     "name": "Spear"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
       \ the salamander can automatically hit the target with its tail, and the salamander\
@@ -92,7 +93,7 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
     "name": "Tail"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Elemental/token/salamander.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/salamander.webp"
 ```
 ^statblock
 

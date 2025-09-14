@@ -13,8 +13,8 @@ one-hand-damage: 1d6 bludgeoning
 weight: 4
 ---
 # Mace of Smiting
-*Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), major, rare*  
-![[5. Mechanics/Items/img/mace-of-smiting.webp#right]]  
+*Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare*  
+![[/5. Mechanics/Items/img/mace-of-smiting.webp#right]]  
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Crimson Legion Imp
 ---
-# [[5. Mechanics\Bestiary\Fiend\Crimson Legion Imp (GRIFFONSSADDLEBAG2).md|Crimson Legion Imp]]
+# [[5. Mechanics/Bestiary/Fiend/Crimson Legion Imp (GRIFFONSSADDLEBAG2).md|Crimson Legion Imp]]
 *Source: The Griffon's Saddlebag, Book 2 p. 344*
 
 The Crimson Legionnaires are a swift, decisive, and efficient unit of infantry. In stark contrast to typical imps, Crimson Legion imps are zealous and obedient followers, known throughout the Lower Planes for their stubborn devotion to Malfuriel. With invisibility and silvered tongues, the art of war is second nature to them, and ensures that any battlefield conflict is skewed in their favor. They make frequent use of their shapechanging, becoming rats, hawks, and centipedes in order to scout, spy, or conceal their true numbers. 
@@ -40,8 +40,8 @@ Made larger by fiendish blood magic, these imps are otherwise similar in appeara
   - !!int "15"
 "speed": "25 ft., fly 50 ft."
 "saves":
-  - "strength": "+1"
-  - "charisma": "+4"
+  - "strength": !!int "1"
+  - "charisma": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+4"
@@ -54,7 +54,8 @@ Made larger by fiendish blood magic, these imps are otherwise similar in appeara
 "damage_resistances": "cold, necrotic"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 12"
 "languages": "Infernal, Common"
 "cr": "3"
 "traits":
@@ -65,7 +66,7 @@ Made larger by fiendish blood magic, these imps are otherwise similar in appeara
       \ it is wearing or carrying isn't transformed. It reverts to its true form if\
       \ it dies."
     "name": "Shapechanger"
-  - "desc": "The imp is immune to the diseases described in the [[5. Mechanics/Tables/Bloodmire Diseases (GRIFFONSSADDLEBAG2).md|Bloodmire Diseases]]\
+  - "desc": "The imp is immune to the diseases described in the [[/5. Mechanics/Tables/Bloodmire Diseases (GRIFFONSSADDLEBAG2).md|Bloodmire Diseases]]\
       \ table."
     "name": "Bloodmire Adaptation"
   - "desc": "Magical darkness doesn't impede the imp's darkvision."
@@ -78,7 +79,7 @@ Made larger by fiendish blood magic, these imps are otherwise similar in appeara
       \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) piercing damage, and the target must make a DC 12 Constitution saving\
       \ throw, taking 14 (4d6)  necrotic damage on a failed save, or half as much\
       \ damage on a successful one."

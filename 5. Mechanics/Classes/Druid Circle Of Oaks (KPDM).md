@@ -61,20 +61,20 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 | Druid Level | Spells |
 |-------------|--------|
-| 2nd | [[5. Mechanics/Spells/Tree Heal (KPDM).md\|tree heal]] |
-| 3rd | [[5. Mechanics/Spells/Forest Native (KPDM).md\|forest native]], [[5. Mechanics/Spells/Tree Speak (KPDM).md\|tree speak]] |
+| 2nd | [[/5. Mechanics/Spells/Tree Heal (KPDM).md\|tree heal]] |
+| 3rd | [[/5. Mechanics/Spells/Forest Native (KPDM).md\|forest native]], [[/5. Mechanics/Spells/Tree Speak (KPDM).md\|tree speak]] |
 | 5th | legion of squirrels, ley disturbance |
-| 7th | [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[5. Mechanics/Spells/Quick Time (KPDM).md\|quick time]] |
-| 9th | [[5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], lesser ley protection |
-| 11th | [[5. Mechanics/Spells/Conjure Forest Defender (KPDM).md\|conjure forest defender]] |
+| 7th | [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[/5. Mechanics/Spells/Quick Time (KPDM).md\|quick time]] |
+| 9th | [[/5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], lesser ley protection |
+| 11th | [[/5. Mechanics/Spells/Conjure Forest Defender (KPDM).md\|conjure forest defender]] |
 | 13th | greater ley protection |
-| 15th | [[5. Mechanics/Spells/Control Weather.md\|control weather]] |
-| 17th | [[5. Mechanics/Spells/Forest Sanctuary (KPDM).md\|forest sanctuary]] |
+| 15th | [[/5. Mechanics/Spells/Control Weather.md\|control weather]] |
+| 17th | [[/5. Mechanics/Spells/Forest Sanctuary (KPDM).md\|forest sanctuary]] |
 ^circle-of-oaks-spells
 
 ### Bonus Cantrip (Level 2)
 
-When you choose the Circle of Oaks at 2nd level, you learn the [[5. Mechanics/Spells/Tree Heal (KPDM).md\|tree heal]] druid cantrip. Members of your circle often touch each tree they pass as they stroll through a wooded area, just in case the tree may be in need of assistance.
+When you choose the Circle of Oaks at 2nd level, you learn the [[/5. Mechanics/Spells/Tree Heal (KPDM).md\|tree heal]] druid cantrip. Members of your circle often touch each tree they pass as they stroll through a wooded area, just in case the tree may be in need of assistance.
 
 ### Forest Binding (Level 2)
 
@@ -86,7 +86,7 @@ Starting at 6th level, once per turn, you can use half of your movement to step 
 
 ### Tree Merging (Level 10)
 
-Starting at 10th level, you can merge your spirit with that of a tree within 5 feet of you as an action. While merged, your body resides in the Shadow Realm, petrified and invisible, while your spirit is aware of happenings in the vicinity of the tree. If you spend 6 hours merged with a tree in your bound forest, you gain the benefits of finishing a long rest. You can't communicate with anyone outside of the tree unless a creature casts [[5. Mechanics/Spells/Tree Speak (KPDM).md\|tree speak]] or [[5. Mechanics/Spells/Speak With Plants.md\|speak with plants]]. You can leave the tree as an action and your body reappears in an unoccupied space within 5 feet of the tree. If you have been merged with the tree for more than 24 hours, you must succeed on a DC 5 Constitution saving throw to exit the tree. If you have been merged with the tree for more than 48 hours, you have disadvantage on this saving throw. Each month you stay merged with the tree increases this DC by 1. If you fail this saving throw, you must wait 24 hours before you can attempt to exit the tree again. If you fail this saving throw each day for 1 week, you become permanently merged with the tree and can only exit it through powerful magic such as a [[5. Mechanics/Spells/Wish.md\|wish]] spell or if the tree is destroyed or dies. As they approach the ends of their lives, many Circle of Oaks druids choose to permanently merge with their favorite trees to forever be part of their forest.
+Starting at 10th level, you can merge your spirit with that of a tree within 5 feet of you as an action. While merged, your body resides in the Shadow Realm, petrified and invisible, while your spirit is aware of happenings in the vicinity of the tree. If you spend 6 hours merged with a tree in your bound forest, you gain the benefits of finishing a long rest. You can't communicate with anyone outside of the tree unless a creature casts [[/5. Mechanics/Spells/Tree Speak (KPDM).md\|tree speak]] or [[/5. Mechanics/Spells/Speak With Plants.md\|speak with plants]]. You can leave the tree as an action and your body reappears in an unoccupied space within 5 feet of the tree. If you have been merged with the tree for more than 24 hours, you must succeed on a DC 5 Constitution saving throw to exit the tree. If you have been merged with the tree for more than 48 hours, you have disadvantage on this saving throw. Each month you stay merged with the tree increases this DC by 1. If you fail this saving throw, you must wait 24 hours before you can attempt to exit the tree again. If you fail this saving throw each day for 1 week, you become permanently merged with the tree and can only exit it through powerful magic such as a [[/5. Mechanics/Spells/Wish.md\|wish]] spell or if the tree is destroyed or dies. As they approach the ends of their lives, many Circle of Oaks druids choose to permanently merge with their favorite trees to forever be part of their forest.
 
 ### Forest Restoration (Level 14)
 

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hearth Gem
 ---
-# [[5. Mechanics\Bestiary\Construct\Hearth Gem (GRIFFONSSADDLEBAG3).md|Hearth Gem]]
+# [[5. Mechanics/Bestiary/Construct/Hearth Gem (GRIFFONSSADDLEBAG3).md|Hearth Gem]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Hearth gems are exceptionally rare gemstones that have been granted sentience by magic, divine intervention, or an unusual proximity to the Elemental Plane of Earth. Hearth gems grow over millenia, and only rarely speak to creatures—thereby masking their true nature. Renowned hearth gems include the one at the center of the Emberheart forge, as well as the one at the center of the H'rethi desert.
@@ -37,9 +37,9 @@ Hearth gems are exceptionally rare gemstones that have been granted sentience by
   - !!int "11"
 "speed": "0 ft., fly 60 ft. (hover)"
 "saves":
-  - "intelligence": "+9"
-  - "wisdom": "+8"
-  - "charisma": "+5"
+  - "intelligence": !!int "9"
+  - "wisdom": !!int "8"
+  - "charisma": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
     "desc": "+9"
@@ -54,17 +54,18 @@ Hearth gems are exceptionally rare gemstones that have been granted sentience by
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 18"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft. (blind beyond\
+  \ this radius), passive Perception 18"
 "languages": "understands all but can't speak, telepathy 60 ft."
 "cr": "14"
 "traits":
   - "desc": "The gem's innate spellcasting ability is Intelligence (spell save DC\
       \ 17). The gem can innately cast the following spells, requiring no components:\n\
-      \nAt will: [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mending.md|mending]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n3/day: [[5. Mechanics/Spells/Continual Flame.md|continual\
-      \ flame]], [[5. Mechanics/Spells/Enhance Ability.md|enhance ability]],\
-      \ [[5. Mechanics/Spells/Heat Met(AL).md|heat metal]]\n\n1/day: [[5. Mechanics/Spells/Sunbeam.md|sunbeam]],\
-      \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
+      \n**At will:** [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Mending.md|mending]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n**3/day:** [[/5. Mechanics/Spells/Continual Flame.md|continual\
+      \ flame]], [[/5. Mechanics/Spells/Enhance Ability.md|enhance ability]],\
+      \ [[/5. Mechanics/Spells/Heat Met(AL).md|heat metal]]\n\n**1/day:** [[/5. Mechanics/Spells/Sunbeam.md|sunbeam]],\
+      \ [[/5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
     "name": "Innate Spellcasting"
   - "desc": "While the gem remains motionless, it is indistinguishable from an inanimate\
       \ gemstone."
@@ -83,7 +84,7 @@ Hearth gems are exceptionally rare gemstones that have been granted sentience by
   - "desc": "The gem makes four light ray attacks. It can cast a spell in place of\
       \ two attacks."
     "name": "Multiattack"
-  - "desc": "Ranged Spell Attack: +10 to hit, range 60 ft., one target. Hit: 10\
+  - "desc": "*Ranged Spell Attack:* +10 to hit, range 60 ft., one target. *Hit:* 10\
       \ (3d6) fire damage plus 9 (2d8) radiant damage."
     "name": "Light Ray"
 "reactions":

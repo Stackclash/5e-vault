@@ -19,13 +19,15 @@ school: Evocation
 level: 3
 ritual: true
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 100 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Nightfall
-concentration: true
 ---
 # Nightfall
 *3rd-level, Evocation (ritual)*  
@@ -37,6 +39,6 @@ concentration: true
 
 You call upon night to arrive ahead of schedule. With a sharp word, you create a 30-foot-radius cylinder of night centered on a point on the ground within range. The cylinder extends vertically for 100 feet or until it reaches an obstruction, such as a ceiling. The area inside the cylinder is normal darkness, and thus heavily obscured. Creatures inside the darkened cylinder can see illuminated areas outside the cylinder normally.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 96*

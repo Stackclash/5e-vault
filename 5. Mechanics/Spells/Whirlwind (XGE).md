@@ -16,20 +16,34 @@ classes:
   - Wizard
 school: Evocation
 level: 7
+damage:
+  base: 10d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Dexterity
+    - Strength
+  succeeds: half damage
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 300 feet
+somatic: false
+verbal: true
+material: a piece of straw
+area:
+  shape: sphere
+  size: 10
 aliases:
   - Whirlwind
-concentration: true
-material: a piece of straw
 ---
 # Whirlwind
 *7th-level, Evocation*  
-![[5. Mechanics/Spells/img/whirlwind.webp#right]]  
+![[/5. Mechanics/Spells/img/whirlwind.webp#right]]  
 
 - **Casting time:** 1 Action
 - **Range:** 300 feet
@@ -42,6 +56,6 @@ A creature must make a Dexterity saving throw the first time on a turn that it e
 
 A [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature can use an action to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the whirlwind and is hurled `3d6 × 10` feet away from it in a random direction.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 171*

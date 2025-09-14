@@ -15,14 +15,12 @@ level: 6
 ritual: false
 time: 1 minute
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: fire and holy water
 aliases:
   - Wind Walk
-range: 30 feet
-material: Fire and holy water.
 ---
 # Wind Walk
 *6th-level, Transmutation*  
@@ -36,6 +34,6 @@ You and up to ten willing creatures you can see within range assume a gaseous fo
 
 If a creature is in cloud form and flying when the effect ends, the creature descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, the creature falls the remaining distance.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Player's Handbook p. 288. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

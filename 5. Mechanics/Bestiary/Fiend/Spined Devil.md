@@ -13,7 +13,7 @@ tags:
 aliases:
   - Spined Devil
 ---
-# [[5. Mechanics\Bestiary\Fiend\Spined Devil.md|Spined Devil]]
+# [[5. Mechanics/Bestiary/Fiend/Spined Devil.md|Spined Devil]]
 *Source: Monster Manual p. 78*
 
 Smaller than most other devils, spinagons act as messengers and spies for greater devils and archdevils. They are the eyes and ears of the Nine Hells, and even fiends that despise a spined devil's weakness treat it with a modicum of respect. A spined devil's body and tail bristle with spines, and it can fling its tail spines as ranged weapons. The spines burst into flame on impact.
@@ -136,10 +136,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > - A barbed devil has a 30 percent chance of summoning one barbed devil.  
 > - A bearded devil has a 30 percent chance of summoning one bearded devil.  
 > - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`d6`) bearded devils, or one erinyes.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`1d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30 percent chance of summoning one horned devil.  
 > - An ice devil has a 60 percent chance of summoning one ice devil.  
-> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -167,7 +167,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "2"
 "traits":
@@ -186,18 +187,18 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - "desc": "The devil makes two attacks: one with its bite and one with its fork\
       \ or two with its tail spines."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4)\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 5 (2d4)\
       \ slashing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (d6)\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
       \ piercing damage."
     "name": "Fork"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 20/80 ft., one target. Hit:\
-      \ 4 (1d4 + 2) piercing damage plus 3 (d6) fire damage."
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 20/80 ft., one target. *Hit:*\
+      \ 4 (1d4 + 2) piercing damage plus 3 (1d6) fire damage."
     "name": "Tail Spine"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Fiend/token/spined-devil.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/spined-devil.webp"
 ```
 ^statblock
 

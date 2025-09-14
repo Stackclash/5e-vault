@@ -16,7 +16,7 @@ tags:
 aliases:
   - Hippogriff
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Hippogriff.md|Hippogriff]]
+# [[5. Mechanics/Bestiary/Monstrosity/Hippogriff.md|Hippogriff]]
 *Source: Monster Manual p. 184. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A beast whose magical origins are lost to history, a hippogriff possesses the wings and forelimbs of an eagle, the hindquarters of a horse, and a head that combines the features of both animals.
@@ -60,15 +60,15 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
   - "desc": "The hippogriff makes two attacks: one with its beak and one with its\
       \ claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
       \ + 3) piercing damage."
     "name": "Beak"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage."
     "name": "Claws"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/hippogriff.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/hippogriff.webp"
 ```
 ^statblock
 

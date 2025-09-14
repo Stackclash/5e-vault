@@ -18,7 +18,7 @@ tags:
 aliases:
   - Orc Blade of Ilneval
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Blade Of Ilneval (VGM).md|Orc Blade of Ilneval]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Blade Of Ilneval (VGM).md|Orc Blade of Ilneval]]
 *Source: Volo's Guide to Monsters p. 183*
 
 Ilneval is Gruumsh's battle captain, a devious strategist who directs Gruumsh's soldiers with boldness. Among orcs, warriors that venerate Ilneval emulate their deity. Such orcs learn to command their fellows in ways that are unpredictable but help to ensure victory.
@@ -43,7 +43,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Chain Mail.md|chain mail]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Chain Mail.md|chain mail]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "0"
@@ -56,7 +56,7 @@ In addition, orcs have special relationships with two creatures that are sometim
   - !!int "14"
 "speed": "30 ft."
 "saves":
-  - "wisdom": "+3"
+  - "wisdom": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+3"
@@ -64,7 +64,8 @@ In addition, orcs have special relationships with two creatures that are sometim
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Common, Orc"
 "cr": "4"
 "traits":
@@ -79,19 +80,19 @@ In addition, orcs have special relationships with two creatures that are sometim
       \ with its javelins. If Ilneval's Command is available to use, the orc can use\
       \ it after these attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage when used with\
       \ two hands."
     "name": "Longsword"
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage."
     "name": "Javelin"
   - "desc": "Up to three allied orcs within 120 feet of this orc that can hear it\
       \ can use their reactions to each make one weapon attack."
     "name": "Ilneval's Command (Recharge 4-6)"
 "source":
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc-blade-of-ilneval-vgm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/orc-blade-of-ilneval-vgm.webp"
 ```
 ^statblock
 

@@ -88,11 +88,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]], [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
-| 5th | [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]], [[5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] |
-| 9th | [[5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[5. Mechanics/Spells/Daylight.md\|daylight]] |
-| 13th | [[5. Mechanics/Spells/Aura Of Life.md\|aura of life]], [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] |
-| 17th | [[5. Mechanics/Spells/Banishing Smite.md\|banishing smite]], [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] |
+| 3rd | [[/5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]], [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
+| 5th | [[/5. Mechanics/Spells/Magic Weapon.md\|magic weapon]], [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] |
+| 9th | [[/5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[/5. Mechanics/Spells/Daylight.md\|daylight]] |
+| 13th | [[/5. Mechanics/Spells/Aura Of Life.md\|aura of life]], [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] |
+| 17th | [[/5. Mechanics/Spells/Banishing Smite.md\|banishing smite]], [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] |
 ^oath-of-radiance-spells
 
 #### Channel Divinity

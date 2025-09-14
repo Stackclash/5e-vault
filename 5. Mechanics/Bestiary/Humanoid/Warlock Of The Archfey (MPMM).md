@@ -18,10 +18,10 @@ tags:
 aliases:
   - Warlock of the Archfey
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Warlock Of The Archfey (MPMM).md|Warlock of the Archfey]]
+# [[5. Mechanics/Bestiary/Humanoid/Warlock Of The Archfey (MPMM).md|Warlock of the Archfey]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*
 
-Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [[5. Mechanics/Bestiary/Fey/Boggle (MPMM).md|boggles]], [[5. Mechanics/Bestiary/Fey/Quickling (MPMM).md|quicklings]], and [[5. Mechanics/Bestiary/Fey/Redcap (MPMM).md|redcaps]] (all appear in "this book") or even [[5. Mechanics/Bestiary/Fey/Satyr.md|satyrs]] and [[5. Mechanics/Bestiary/Fey/Sprite.md|sprites]].
+Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [[/5. Mechanics/Bestiary/Fey/Boggle (MPMM).md|boggles]], [[/5. Mechanics/Bestiary/Fey/Quickling (MPMM).md|quicklings]], and [[/5. Mechanics/Bestiary/Fey/Redcap (MPMM).md|redcaps]] (all appear in "this book") or even [[/5. Mechanics/Bestiary/Fey/Satyr.md|satyrs]] and [[/5. Mechanics/Bestiary/Fey/Sprite.md|sprites]].
 
 ## Warlocks
 
@@ -33,7 +33,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "16 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+"ac_class": "16 with [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "67"
 "hit_dice": "15d8"
 "modifier": !!int "3"
@@ -46,8 +46,8 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
   - !!int "18"
 "speed": "30 ft."
 "saves":
-  - "wisdom": "+3"
-  - "charisma": "+6"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+2"
@@ -64,7 +64,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "actions":
   - "desc": "The warlock makes two Rapier attacks, or it uses Bewildering Word twice."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) piercing damage plus 7 (2d6) force damage."
     "name": "Rapier"
   - "desc": "The warlock utters a magical bewilderment, targeting one creature it\
@@ -73,12 +73,12 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
       \ until the end of the warlock's next turn."
     "name": "Bewildering Word"
   - "desc": "The warlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 14): \n\nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
-      \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\
-      \ (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Dimension Door.md|dimension\
-      \ door]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]]"
+      \ spellcasting ability (spell save DC 14): \n\n**At will:** [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+      \ [[/5. Mechanics/Spells/Disguise Self.md|disguise self]], [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]\
+      \ (self only), [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[/5. Mechanics/Spells/Speak With Animals.md|speak with animals]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Dimension Door.md|dimension\
+      \ door]], [[/5. Mechanics/Spells/Hold Monster.md|hold monster]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "In response to taking damage, the warlock turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
@@ -90,7 +90,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/warlock-of-the-archfey-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/warlock-of-the-archfey-mpmm.webp"
 ```
 ^statblock
 

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nupperibo
 ---
-# [[5. Mechanics\Bestiary\Fiend\Nupperibo (MPMM).md|Nupperibo]]
+# [[5. Mechanics/Bestiary/Fiend/Nupperibo (MPMM).md|Nupperibo]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*
 
 > [!quote] A quote from Mordenkainen  
@@ -26,7 +26,7 @@ aliases:
 
 No soul is turned away from the Nine Hells, but the truly worthless—those whose evil acts in life arose from carelessness and inaction more than anything else—are suitable only to become nupperibos. These pitiful creatures shuffle across the landscape, driven to purposeful action only when the clouds of swarming vermin that surround them find them prey to destroy or when a greater fiendish power commands it.
 
-Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [[5. Mechanics/Bestiary/Beast/Stirge.md|stirges]], and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
+Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [[/5. Mechanics/Bestiary/Beast/Stirge.md|stirges]], and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
 
 A nupperibo knows nothing but the desire to destroy non-Fiends. Once a nupperibo's vermin cloud senses a potential meal, any nearby nupperibos pursue that prey tirelessly until it or the nupperibos are slain, or some other potential victim crosses the devils' path and distracts them.
 
@@ -58,7 +58,8 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 20 ft. (blind beyond this radius), passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 20 ft. (blind beyond\
+  \ this radius), passive Perception 11"
 "languages": "understands Infernal but can't speak"
 "cr": "1/2"
 "traits":
@@ -72,13 +73,13 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
       \ 24 hours."
     "name": "Driven Tracker"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage."
     "name": "Bite"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/nupperibo-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/nupperibo-mpmm.webp"
 ```
 ^statblock
 

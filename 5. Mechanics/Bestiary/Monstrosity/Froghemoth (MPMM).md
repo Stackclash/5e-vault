@@ -15,7 +15,7 @@ tags:
 aliases:
   - Froghemoth
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Froghemoth (MPMM).md|Froghemoth]]
+# [[5. Mechanics/Bestiary/Monstrosity/Froghemoth (MPMM).md|Froghemoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 130, Volo's Guide to Monsters p. 145*
 
 A froghemoth is an amphibious predator as big as an elephant. It lairs in swamps and has four tentacles, a thick rubbery hide, a fang-filled maw with a prehensile tongue, and an extendable stalk sporting three bulbous eyes that face in different directions.
@@ -24,7 +24,7 @@ Froghemoths are creatures not of this world. A journal purportedly written long 
 
 Every few years, a froghemoth can lay a fertile egg without mating. The froghemoth cares nothing for its egg and might eat the hatchling. A young froghemoth's survival thus depends on its parent leaving it behind in indifference. A newborn froghemoth grows to full size over a period of months by indiscriminately preying on other creatures in its swampy domain. It learns to hide its enormous body in murky pools, keeping only its eyestalk above water to watch for passing creatures. When food comes within reach, the froghemoth erupts from its pool, tentacles and tongue flailing. It can grab several targets at once; it wraps its tongue around one and pulls it in to be devoured while holding the rest at bay.
 
-If [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a froghemoth, the bullywugs may treat the froghemoth as a god and do all they can to coax the monster into their den. A froghemoth can be tamed (after a fashion) by offering it food, and bullywugs can communicate with it on a basic level, so the creature might eat only a few bullywugs before following the rest. The bullywugs gather food as tribute for it, provide it with a comfortable lair, protect it from harm, and try to ensure that any of its offspring reach maturity.
+If [[/5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a froghemoth, the bullywugs may treat the froghemoth as a god and do all they can to coax the monster into their den. A froghemoth can be tamed (after a fashion) by offering it food, and bullywugs can communicate with it on a basic level, so the creature might eat only a few bullywugs before following the rest. The bullywugs gather food as tribute for it, provide it with a comfortable lair, protect it from harm, and try to ensure that any of its offspring reach maturity.
 
 ```statblock
 "name": "Froghemoth (MPMM)"
@@ -45,15 +45,16 @@ If [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a froghe
   - !!int "5"
 "speed": "30 ft., swim 30 ft."
 "saves":
-  - "constitution": "+9"
-  - "wisdom": "+5"
+  - "constitution": !!int "9"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+9"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "fire, lightning"
-"senses": "darkvision 60 ft., passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 19"
 "languages": ""
 "cr": "10"
 "traits":
@@ -67,7 +68,7 @@ If [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a froghe
   - "desc": "The froghemoth makes one Bite attack and two Tentacle attacks, and it\
       \ can use Tongue."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 22\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 22\
       \ (3d10 + 6) piercing damage, and the target is swallowed if it is a Medium\
       \ or smaller creature. A swallowed creature is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
       \ and [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], has total cover\
@@ -81,7 +82,7 @@ If [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a froghe
       \ creature is no longer [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
       \ by it and can escape from the corpse using 10 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 20 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 20 ft., one target. *Hit:* 19\
       \ (3d8 + 6) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 16) if it is a Huge or smaller creature. Until the grapple ends,\
       \ the froghemoth can't use this tentacle on another target. The froghemoth has\
@@ -95,7 +96,7 @@ If [[5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a froghe
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/froghemoth-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/froghemoth-mpmm.webp"
 ```
 ^statblock
 

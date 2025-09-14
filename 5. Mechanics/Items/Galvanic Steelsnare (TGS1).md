@@ -9,11 +9,11 @@ tags:
   - item/weapon/ranged
 aliases:
   - Galvanic Steelsnare
-range: 5\15
+range: 5/15
 weight: 3
 ---
 # Galvanic Steelsnare
-*Weapon ([[5. Mechanics/Items/Net.md\|net]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Net.md\|net]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Galvanic-Steelsnare.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]

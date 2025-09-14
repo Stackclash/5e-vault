@@ -20,13 +20,12 @@ level: 6
 ritual: true
 time: 1 hour
 duration: 12 hours
-components:
-  - V
-  - S
-  - M
+range: 150 feet
+somatic: true
+verbal: true
+material: a drop of blood smeared on a silver rod worth 100 gp
 aliases:
   - Encroaching Shadows
-material: a drop of blood smeared on a silver rod worth 100 gp
 ---
 # Encroaching Shadows
 *6th-level, Illusion (ritual)*  
@@ -53,6 +52,6 @@ If you expend your ritual focus, the spell's duration increases by 12 hours, and
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 212*

@@ -85,7 +85,7 @@ Also at 3rd level, you can use a bonus action to teleport to an unoccupied space
 
 You can use this feature a number of times equal to half your level in this class, rounded up, and regain all expended uses when you finish a long rest. You can also use this feature as part of the same bonus action to enter a rage. If your speed is 0, you can not teleport using this feature.
 
-Alternatively, once you reach 10th level in this class, you can use an action to expend two uses of this feature to cast the [[5. Mechanics/Spells/Invisibility.md\|invisibility]] spell, targeting only yourself, without expending a spell slot or material components. If you hit a creature while you are [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] in this way, that target must make a Wisdom saving throw with disadvantage against your Nightmare save DC. On a failed save, it suffers the effects of your Apparition.
+Alternatively, once you reach 10th level in this class, you can use an action to expend two uses of this feature to cast the [[/5. Mechanics/Spells/Invisibility.md\|invisibility]] spell, targeting only yourself, without expending a spell slot or material components. If you hit a creature while you are [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] in this way, that target must make a Wisdom saving throw with disadvantage against your Nightmare save DC. On a failed save, it suffers the effects of your Apparition.
 
 ### Waking Nightmare (Level 6)
 
@@ -95,12 +95,12 @@ In addition, you do not need to sleep, and magic can not put you to sleep. To ga
 
 ### Dreamseeker (Level 10)
 
-Starting at 10th level, you can cast the [[5. Mechanics/Spells/Dream.md\|dream]] spell, without expending a spell slot or material components. When you do, the saving throw DC for the spell is equal to your Nightmare save DC. For the duration of the spell, you can change the target of the spell up to five times, visiting the dreams of each creature separately. The spell otherwise ends early once the messenger becomes monstrous, as normal. Once the messenger becomes monstrous to a creature, that creature can not be targeted by this spell again until 2 days have passed.
+Starting at 10th level, you can cast the [[/5. Mechanics/Spells/Dream.md\|dream]] spell, without expending a spell slot or material components. When you do, the saving throw DC for the spell is equal to your Nightmare save DC. For the duration of the spell, you can change the target of the spell up to five times, visiting the dreams of each creature separately. The spell otherwise ends early once the messenger becomes monstrous, as normal. Once the messenger becomes monstrous to a creature, that creature can not be targeted by this spell again until 2 days have passed.
 
 Once you have used this feature, you can not do so again until you finish a long rest.
 
 ### Improved Apparition (Level 14)
 
-By 14th level, your mastery over terror is unmatched. You can use an action to expend three uses of your Apparition feature to cast the [[5. Mechanics/Spells/Fear.md\|fear]] spell, without expending a spell slot or material components, using your Nightmare save DC for the spell save DC. Further, when you cast [[5. Mechanics/Spells/Invisibility.md\|invisibility]] on yourself, you can move through a space as narrow as 1 inch wide without squeezing. Your rage also does not stop you from casting or concentrating on the [[5. Mechanics/Spells/Fear.md\|fear]] or [[5. Mechanics/Spells/Invisibility.md\|invisibility]] spells when you expend uses of your Apparition feature to do so, nor can your rage end early as a result of not attacking a creature on the turn when you cast a spell in this way.
+By 14th level, your mastery over terror is unmatched. You can use an action to expend three uses of your Apparition feature to cast the [[/5. Mechanics/Spells/Fear.md\|fear]] spell, without expending a spell slot or material components, using your Nightmare save DC for the spell save DC. Further, when you cast [[/5. Mechanics/Spells/Invisibility.md\|invisibility]] on yourself, you can move through a space as narrow as 1 inch wide without squeezing. Your rage also does not stop you from casting or concentrating on the [[/5. Mechanics/Spells/Fear.md\|fear]] or [[/5. Mechanics/Spells/Invisibility.md\|invisibility]] spells when you expend uses of your Apparition feature to do so, nor can your rage end early as a result of not attacking a creature on the turn when you cast a spell in this way.
 
 In addition, when you use your Apparition to teleport, the distance you can teleport increases to 30 feet.

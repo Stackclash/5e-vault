@@ -11,7 +11,7 @@ armorClass: 2
 weight: 6
 ---
 # Tri-Horn Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), uncommon*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), uncommon*  
 
 - **Armor Class**: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'swamp, forest, hearth'
 size: Medium
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Winged Wretch
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Winged Wretch (TGS1).md|Winged Wretch]]
+# [[5. Mechanics/Bestiary/Monstrosity/Winged Wretch (TGS1).md|Winged Wretch]]
 *Source: The Griffon's Saddlebag, Book 1 p. 195*
 
 Winged wretches are swarming bat-humanoid hybrids native to subterranean realms and tropical jungles. Although they resemble certain shapechangers and vampires, they are not blood-drinkers. Regardless, they are cruel creatures who delight in the torture of weaker prey.
@@ -39,7 +39,8 @@ Winged wretches are swarming bat-humanoid hybrids native to subterranean realms 
   - !!int "12"
   - !!int "7"
 "speed": "30 ft., fly 50 ft."
-"senses": "blindsight 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., passive Perception\
+  \ 11"
 "languages": "Undercommon"
 "cr": "1/2"
 "traits":
@@ -52,10 +53,10 @@ Winged wretches are swarming bat-humanoid hybrids native to subterranean realms 
   - "desc": "The winged wretch makes two attacks: one with its bite and one with its\
       \ claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
       \ + 1) slashing damage."
     "name": "Claws"
 "source":

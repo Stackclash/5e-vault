@@ -36,12 +36,11 @@ level: 2
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Lesser Restoration
-range: Touch
 ---
 # Lesser Restoration
 *2nd-level, Abjuration*  
@@ -53,6 +52,6 @@ range: Touch
 
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]], or [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Clockwork Soul)](compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Warlock (The Celestial)](compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Druid (Circle of the Grove)](compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of the Grove)](/compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Clockwork Soul)](/compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

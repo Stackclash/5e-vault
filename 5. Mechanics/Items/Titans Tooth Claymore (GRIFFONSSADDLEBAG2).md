@@ -13,7 +13,7 @@ one-hand-damage: 2d6 slashing
 weight: 6
 ---
 # Titan's Tooth Claymore
-*Weapon ([[5. Mechanics/Items/Greatsword.md\|greatsword]]), major, very rare*  
+*Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Titans-Tooth-Claymore.webp#right)  
 
 - **Damage**: 2d6 slashing

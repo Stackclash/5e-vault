@@ -10,12 +10,12 @@ tags:
 aliases:
   - Javelin of Lightning
 one-hand-damage: 1d6 piercing
-range: 30\120
+range: 30/120
 weight: 2
 ---
 # Javelin of Lightning
-*Weapon ([[5. Mechanics/Items/Javelin.md\|javelin]]), major, uncommon*  
-![[5. Mechanics/Items/img/javelin-of-lightning.webp#right]]  
+*Weapon ([[/5. Mechanics/Items/Javelin.md\|javelin]]), major, uncommon*  
+![[/5. Mechanics/Items/img/javelin-of-lightning.webp#right]]  
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120

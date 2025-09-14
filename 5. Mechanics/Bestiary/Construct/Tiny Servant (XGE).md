@@ -13,7 +13,7 @@ tags:
 aliases:
   - Tiny Servant
 ---
-# [[5. Mechanics\Bestiary\Construct\Tiny Servant (XGE).md|Tiny Servant]]
+# [[5. Mechanics/Bestiary/Construct/Tiny Servant (XGE).md|Tiny Servant]]
 *Source: Xanathar's Guide to Everything p. 169*
 
 ```statblock
@@ -39,15 +39,16 @@ aliases:
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 10"
 "languages": ""
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
       \ + 3) bludgeoning damage."
     "name": "Slam"
 "source":
   - "XGE"
-"image": "5. Mechanics/Bestiary/Construct/token/tiny-servant-xge.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/tiny-servant-xge.webp"
 ```
 ^statblock
 

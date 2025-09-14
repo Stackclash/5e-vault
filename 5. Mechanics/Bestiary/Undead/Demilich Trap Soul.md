@@ -13,7 +13,7 @@ tags:
 aliases:
   - Demilich (Trap Soul)
 ---
-# [[5. Mechanics\Bestiary\Undead\Demilich Trap Soul.md|Demilich (Trap Soul)]]
+# [[5. Mechanics/Bestiary/Undead/Demilich Trap Soul.md|Demilich (Trap Soul)]]
 *Source: Monster Manual p. 48*
 
 ```statblock
@@ -35,10 +35,10 @@ aliases:
   - !!int "20"
 "speed": "0 ft., fly 30 ft. (hover)"
 "saves":
-  - "constitution": "+6"
-  - "intelligence": "+11"
-  - "wisdom": "+9"
-  - "charisma": "+11"
+  - "constitution": !!int "6"
+  - "intelligence": !!int "11"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "11"
 "damage_resistances": "bludgeoning, piercing, slashing from magic weapons"
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
@@ -47,7 +47,8 @@ aliases:
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "truesight 120 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 13"
 "languages": ""
 "cr": "21"
 "traits":
@@ -84,6 +85,36 @@ aliases:
       \ in an unoccupied space nearest to the gem and in the same state as when it\
       \ was trapped."
     "name": "Trap Soul"
+"lair_actions":
+  - "desc": "On initiative count 20 (losing initiative ties), the demilich rolls a\
+      \ d20. On a result of 11 or higher, the demilich takes a lair action to cause\
+      \ one of the following effects. It can't use the same effect two rounds in a\
+      \ row.\n\n- The tomb trembles violently for a moment. Each creature on the floor\
+      \ of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
+      \  \n- The demilich targets one creature it can see within 60 feet of it. An\
+      \ [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]] fills the space of\
+      \ the target, moving with it until initiative count 20 on the next round.  \n\
+      - The demilich targets any number of creatures it can see within 30 feet of\
+      \ it. No target can regain hit points until initiative count 20 on the next\
+      \ round.  "
+    "name": ""
+"regional_effects":
+  - "desc": "A demilich's tomb might have any or all of the following effects in place:\n\
+      \n- The first time a non-evil creature enters the tomb's area, the creature\
+      \ takes 16 (3d10) necrotic damage.  \n- Monsters in the tomb have advantage\
+      \ on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
+      \ or [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], and against features\
+      \ that turn undead.  \n- The tomb is warded against the magical travel of creatures\
+      \ the demilich hasn't authorized. Such creatures can't teleport into or out\
+      \ of the tomb's area or use planar travel to enter or leave it. Effects that\
+      \ allow teleportation or planar travel work within the tomb as long as they\
+      \ aren't used to leave or enter the tomb's area.  \n\nIf the demilich is destroyed,\
+      \ these effects fade over the course of 10 days."
+    "name": ""
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the demilich (trap soul) can expend a use to take one of the following actions.\
+  \ The demilich (trap soul) regains all expended uses at the start of each of its\
+  \ turns."
 "legendary_actions":
   - "desc": "The demilich flies up to half its flying speed."
     "name": "Flight"
@@ -98,7 +129,7 @@ aliases:
       \ saving throw. On a failed save, the creature's hit point maximum is magically\
       \ reduced by 10 (3d6). If a creature's hit point maximum is reduced to 0 by\
       \ this effect, the creature dies. A creature's hit point maximum can be restored\
-      \ with the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ with the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spell or similar magic."
     "name": "Energy Drain (Costs 2 Actions)"
   - "desc": "The demilich targets one creature it can see within 30 feet of it. The\
@@ -107,37 +138,6 @@ aliases:
       \ throws. The target can repeat the saving throw at the end of each of its turns,\
       \ ending the curse on a success."
     "name": "Vile Curse (Costs 3 Actions)"
-"lair_actions":
-  - "desc": "On initiative count 20 (losing initiative ties), the demilich rolls a\
-      \ d20. On a result of 11 or higher, the demilich takes a lair action to cause\
-      \ one of the following effects. It can't use the same effect two rounds in a\
-      \ row."
-    "name": ""
-  - "desc": "- The tomb trembles violently for a moment. Each creature on the floor\
-      \ of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-      \  \n- The demilich targets one creature it can see within 60 feet of it. An\
-      \ [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]] fills the space of\
-      \ the target, moving with it until initiative count 20 on the next round.  \n\
-      - The demilich targets any number of creatures it can see within 30 feet of\
-      \ it. No target can regain hit points until initiative count 20 on the next\
-      \ round.  "
-    "name": ""
-"regional_effects":
-  - "desc": "A demilich's tomb might have any or all of the following effects in place:"
-    "name": ""
-  - "desc": "- The first time a non-evil creature enters the tomb's area, the creature\
-      \ takes 16 (3d10) necrotic damage.  \n- Monsters in the tomb have advantage\
-      \ on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-      \ or [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], and against features\
-      \ that turn undead.  \n- The tomb is warded against the magical travel of creatures\
-      \ the demilich hasn't authorized. Such creatures can't teleport into or out\
-      \ of the tomb's area or use planar travel to enter or leave it. Effects that\
-      \ allow teleportation or planar travel work within the tomb as long as they\
-      \ aren't used to leave or enter the tomb's area.  "
-    "name": ""
-  - "desc": "If the demilich is destroyed, these effects fade over the course of 10\
-      \ days."
-    "name": ""
 "source":
   - "MM"
 ```

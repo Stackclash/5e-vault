@@ -61,11 +61,11 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 2nd | [[5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] |
-| 3rd | [[5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] |
-| 5th | [[5. Mechanics/Spells/Plant Growth.md\|plant growth]], [[5. Mechanics/Spells/Revivify.md\|revivify]] |
-| 7th | [[5. Mechanics/Spells/Aura Of Life.md\|aura of life]], [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] |
-| 9th | [[5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]] |
+| 2nd | [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] |
+| 3rd | [[/5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] |
+| 5th | [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]], [[/5. Mechanics/Spells/Revivify.md\|revivify]] |
+| 7th | [[/5. Mechanics/Spells/Aura Of Life.md\|aura of life]], [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] |
+| 9th | [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[/5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]] |
 ^circle-of-wildfire-spells
 
 ### Summon Wildfire Spirit (Level 2)
@@ -76,7 +76,7 @@ You can summon the primal spirit bound to your soul. As an action, you can expen
 
 The spirit appears in an unoccupied space of your choice that you can see within 30 feet of you. Each creature within 10 feet of the spirit (other than you) when it appears must succeed on a Dexterity saving throw against your spell save DC or take `dice:2d6|noform|noparens|avg` (`2d6`) fire damage.
 
-The spirit is friendly to you and your companions and obeys your commands. See this creature's game statistics in the [[5. Mechanics/Bestiary/Elemental/Wildfire Spirit (TCE).md\|Wildfire Spirit]] stat block, which uses your proficiency bonus (PB) in several places. You determine the spirit's appearance. Some spirits take the form of a humanoid figure made of gnarled branches covered in flame, while others look like beasts wreathed in fire.
+The spirit is friendly to you and your companions and obeys your commands. See this creature's game statistics in the [[/5. Mechanics/Bestiary/Elemental/Wildfire Spirit (TCE).md\|Wildfire Spirit]] stat block, which uses your proficiency bonus (PB) in several places. You determine the spirit's appearance. Some spirits take the form of a humanoid figure made of gnarled branches covered in flame, while others look like beasts wreathed in fire.
 
 In combat, the spirit shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]], the spirit can take any action of its choice, not just [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]].
 

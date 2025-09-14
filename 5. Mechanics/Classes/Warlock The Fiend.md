@@ -47,7 +47,7 @@ aliases:
 
 ### The Fiend (Level 1)
 
-You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.
+You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz-Urb'luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.
 
 #### Expanded Spell List
 
@@ -57,11 +57,11 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[5. Mechanics/Spells/Command.md\|command]] |
-| 2nd | [[5. Mechanics/Spells/Blindness Deafness.md\|blindness/deafness]], [[5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] |
-| 3rd | [[5. Mechanics/Spells/Fireball.md\|fireball]], [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
-| 4th | [[5. Mechanics/Spells/Fire Shield.md\|fire shield]], [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] |
-| 5th | [[5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[5. Mechanics/Spells/Hallow.md\|hallow]] |
+| 1st | [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[/5. Mechanics/Spells/Command.md\|command]] |
+| 2nd | [[/5. Mechanics/Spells/Blindness Deafness.md\|blindness/deafness]], [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] |
+| 3rd | [[/5. Mechanics/Spells/Fireball.md\|fireball]], [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
+| 4th | [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]], [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] |
+| 5th | [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[/5. Mechanics/Spells/Hallow.md\|hallow]] |
 ^fiend-expanded-spells
 
 ### Dark One's Blessing (Level 1)

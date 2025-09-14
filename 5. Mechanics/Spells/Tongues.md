@@ -31,13 +31,12 @@ level: 3
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - M
+range: Touch
+somatic: false
+verbal: true
+material: a small clay model of a ziggurat
 aliases:
   - Tongues
-range: Touch
-material: A small clay model of a ziggurat.
 ---
 # Tongues
 *3rd-level, Divination*  
@@ -49,6 +48,6 @@ material: A small clay model of a ziggurat.
 
 This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.
 
-**Classes**: [Druid (Circle of Roses)](compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Wealth Domain)](compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Wealth Domain)](/compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Roses)](/compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

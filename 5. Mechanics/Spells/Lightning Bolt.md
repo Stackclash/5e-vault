@@ -26,24 +26,29 @@ classes:
   - Wizard
 school: Evocation
 level: 3
+damage:
+  base: 8d6
+  scaling:
+    damage: 1d6
+    level: 4
+  types:
+    - lightning
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self (100-foot Line)
+somatic: true
+verbal: true
+material: 'a bit of fur and a rod of amber, crystal, or glass'
+area:
+  shape: line
+  size: 100
 aliases:
   - Lightning Bolt
-range: Self
-material: 'A bit of fur and a rod of amber, crystal, or glass.'
-damageType: Lightning
-save:
-  type: DEX
-  success: half
-area:
-  type: line
-  size: 100
 ---
 # Lightning Bolt
 *3rd-level, Evocation*  
@@ -57,8 +62,8 @@ A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out fr
 
 The lightning ignites flammable objects in the area that aren't being worn or carried.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 3rd.
 
-**Classes**: [Ranger (Rocborne)](compendium/lists/list-spells-classes-rocborne-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Artificer (Armorer)](compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Warlock (The Fathomless)](compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [Artificer (Armorer)](/compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Rocborne)](/compendium/lists/list-spells-classes-rocborne-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Fathomless)](/compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Felsic Crab
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Giant Felsic Crab (GRIFFONSSADDLEBAG3).md|Giant Felsic Crab]]
+# [[5. Mechanics/Bestiary/Monstrosity/Giant Felsic Crab (GRIFFONSSADDLEBAG3).md|Giant Felsic Crab]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Unlike many of the deep-dwelling creatures of the world that rely on poison, the giant felsic crab utilizes intensely caustic acid to ensnare its prey. This is particularly effective against dwarves and other underground creatures that are often naturally resistant to such poisons. Crafty ambush predators, the felsic crab preys primarily on miners foolhardy enough to venture too far on their own. Stories about miners' narrow escapes from these monstrous crustaceans are pervasive in Ilridun's oral culture, but the rarity of felsic crab carapaces would seem to indicate that most, if not all, such tales are fabricated.
@@ -43,7 +43,8 @@ Unlike many of the deep-dwelling creatures of the world that rely on poison, the
     "desc": "+5"
 "damage_resistances": "piercing, slashing from nonmagical attacks that aren't adamantine"
 "damage_immunities": "acid"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., tremorsense\
+  \ 60 ft., passive Perception 15"
 "languages": ""
 "cr": "9"
 "traits":
@@ -61,7 +62,7 @@ Unlike many of the deep-dwelling creatures of the world that rely on poison, the
 "actions":
   - "desc": "The crab makes two attacks with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 20\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 20\
       \ (3d10 + 4) bludgeoning damage. If the target is Large or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 15) and [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
       \ until the grapple ends. The crab has two claws, each of which can grapple\

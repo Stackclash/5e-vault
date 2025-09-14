@@ -21,9 +21,9 @@ level: 3
 ritual: false
 time: 1 Bonus Action
 duration: 1 hour
-components:
-  - V
-  - S
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Blood Armor
 ---
@@ -39,6 +39,6 @@ When you strike a foe with a melee weapon attack, you can immediately cast this 
 
 If the creature you struck was a celestial, blood armor also grants you advantage on Charisma saving throws for the duration of the spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 318*

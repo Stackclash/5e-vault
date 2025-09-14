@@ -13,7 +13,7 @@ tags:
 aliases:
   - Lady Czorgan
 ---
-# [[5. Mechanics\Bestiary\Undead\Lady Czorgan (SAF).md|Lady Czorgan]]
+# [[5. Mechanics/Bestiary/Undead/Lady Czorgan (SAF).md|Lady Czorgan]]
 *Source: Strongholds and Followers p. 258*
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "type": "undead"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate armor]]"
 "hp": !!int "97"
 "hit_dice": "13d8 + 39"
 "modifier": !!int "0"
@@ -35,24 +35,25 @@ aliases:
   - !!int "16"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+5"
-  - "wisdom": "+6"
-  - "charisma": "+7"
+  - "dexterity": !!int "5"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "7"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 11"
 "languages": "Abyssal, Common"
 "cr": "12"
 "traits":
   - "desc": "Lady Czorgan is a 13th-level spellcaster. Her spellcasting ability is\
       \ Charisma (spell save DC 15, +8 to hit with spell attacks). She has the following\
-      \ spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
-      \ [[5. Mechanics/Spells/Hunters Mark.md|hunter's mark]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\n\
-      \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-      \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n3rd level (3 slots):\
-      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]\n\
-      \n4th level (1 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Blight.md|blight]]"
+      \ spells prepared:\n\n**1st level (4 slots):** [[/5. Mechanics/Spells/Command.md|command]],\
+      \ [[/5. Mechanics/Spells/Hunters Mark.md|hunter's mark]], [[/5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]]\n\
+      \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Hold Person.md|hold person]],\
+      \ [[/5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n**3rd level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]\n\
+      \n**4th level (1 slots):** [[/5. Mechanics/Spells/Banishment.md|banishment]], [[/5. Mechanics/Spells/Blight.md|blight]]"
     "name": "Spellcasting"
   - "desc": "Lady Czorgan has advantage on saving throws against spells and other\
       \ magical effects."
@@ -64,7 +65,7 @@ aliases:
 "actions":
   - "desc": "Lady Czorgan makes two longsword attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage, or 10 (1d10 + 4) slashing damage if used with two hands,\
       \ plus 13 (3d8) necrotic damage."
     "name": "Longsword"

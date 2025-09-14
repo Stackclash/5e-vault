@@ -14,12 +14,16 @@ classes:
   - Druid
 school: Evocation
 level: 4
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Doom of the Earthen Maw
 ---
@@ -35,6 +39,6 @@ The ground within 30 feet of a point you designate turns into filthy and slipper
 
 Each round, a [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature sinks deeper into the muck. A Medium or smaller creature that is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] for 3 rounds becomes submerged at the end of its third turn. A Large creature becomes submerged after 4 rounds. Submerged creatures begin suffocating if they aren't holding their breath. A creature that is still submerged when the spell ends is sealed beneath the newly solidified ground. The creature can escape only if someone else digs it out or it has a burrowing speed.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 63*

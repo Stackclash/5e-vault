@@ -13,7 +13,7 @@ tags:
 aliases:
   - Space Symbiote
 ---
-# [[5. Mechanics\Bestiary\Ooze\Space Symbiote (GRIFFONSSADDLEBAG3).md|Space Symbiote]]
+# [[5. Mechanics/Bestiary/Ooze/Space Symbiote (GRIFFONSSADDLEBAG3).md|Space Symbiote]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A space symbiote is a pitch-dark ooze that travels through the Astral Plane and Cosmos in seach of living, or even once-living, matter. Cosmos-faring humanoids consumed by it are posthumously reanimated, becoming mindless thralls of the otherwise aimless ooze as it travels the universe in search of its next meal.
@@ -43,7 +43,8 @@ A space symbiote is a pitch-dark ooze that travels through the Astral Plane and 
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft. (blind beyond\
+  \ this radius), passive Perception 8"
 "languages": ""
 "cr": "4"
 "traits":
@@ -64,7 +65,7 @@ A space symbiote is a pitch-dark ooze that travels through the Astral Plane and 
       \ such creature."
     "name": "Symbiotic Bond"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 9\
       \ (2d6 + 2) bludgeoning damage plus 7 (2d6) necrotic damage."
     "name": "Pseudopod"
 "source":

@@ -27,15 +27,13 @@ school: Necromancy
 level: 4
 ritual: true
 time: 1 minute
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: true
+verbal: true
+material: a cloth doll filled with herbs and diamond dust worth 100 gp
 aliases:
   - Not Dead Yet
-concentration: true
-material: a cloth doll filled with herbs and diamond dust worth 100 gp
 ---
 # Not Dead Yet
 *4th-level, Necromancy (ritual)*  
@@ -49,6 +47,6 @@ You cast this spell while touching the cloth doll against the intact corpse of a
 
 You can't use any of the target's abilities except for nonmagical movement and [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]]. You don't have access to its knowledge, proficiencies, or anything else that was held in its now dead mind, and you can't make it speak.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 97*

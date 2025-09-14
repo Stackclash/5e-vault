@@ -11,11 +11,11 @@ tags:
 aliases:
   - Arkanobow
 one-hand-damage: 1d8 lightning
-range: 150\600
+range: 150/600
 weight: 2
 ---
 # Arkanobow
-*Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Arkanobow.webp#right)  
 
 - **Damage**: 1d8 lightning
@@ -35,10 +35,10 @@ If you're attuned to the bow, you can use the following properties by deducting 
 
 ## Jumpstart
 
-You can use an action to deduct 5 or more minutes from the bow's remaining time to fire a special arrow from it, which harmlessly hits a creature that you can see within the bow's normal range. That creature can immediately use its reaction to move up to its speed, without provoking opportunity attacks. If the creature had 0 hit points, it first regains a number of them equal to `dice:1d8|noform|noparens|avg` (`d8`) plus the number of minutes you deducted, up to 20 minutes. Once a creature regains hit points in this way, it can't do so again until it finishes a short or long rest.
+You can use an action to deduct 5 or more minutes from the bow's remaining time to fire a special arrow from it, which harmlessly hits a creature that you can see within the bow's normal range. That creature can immediately use its reaction to move up to its speed, without provoking opportunity attacks. If the creature had 0 hit points, it first regains a number of them equal to `dice:1d8|noform|noparens|avg` (`1d8`) plus the number of minutes you deducted, up to 20 minutes. Once a creature regains hit points in this way, it can't do so again until it finishes a short or long rest.
 
 ## Quicklaunch
 
-You can use a bonus action to deduct 2 minutes from the bow's remaining time to make a single ranged weapon attack with it. If you already hit the target with the bow on this turn, you have advantage on the attack roll, and on a hit, the target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) lightning damage.
+You can use a bonus action to deduct 2 minutes from the bow's remaining time to make a single ranged weapon attack with it. If you already hit the target with the bow on this turn, you have advantage on the attack roll, and on a hit, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

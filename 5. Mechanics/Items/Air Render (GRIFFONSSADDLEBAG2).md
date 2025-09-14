@@ -11,11 +11,11 @@ tags:
 aliases:
   - Air Render
 one-hand-damage: 1d6 piercing
-range: 80\320
+range: 80/320
 weight: 2
 ---
 # Air Render
-*Weapon ([[5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Air-Render.webp#right)  
 
 - **Damage**: 1d6 piercing

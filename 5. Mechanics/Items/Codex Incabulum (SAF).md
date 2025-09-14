@@ -33,15 +33,15 @@ After performing a ritual for 10 minutes, you can open a gate to one of the Seve
 
 ## Flames of Hell
 
-Once per week as an action, you may sacrifice Hit Dice to summon a [[5. Mechanics/Optional Features/Legion Of Hell (SAF).md\|Legion of Hell]]. This unit's size depends on the number of Hit Dice you sacrificed, as follows.
+Once per week as an action, you may sacrifice Hit Dice to summon a [[/5. Mechanics/Optional Features/Legion Of Hell (SAF).md\|Legion of Hell]]. This unit's size depends on the number of Hit Dice you sacrificed, as follows.
 
 | Hit Dice Sacrificed | Size of Unit |
 |---------------------|--------------|
-| 2 | `dice:1d4\|noform\|noparens\|avg\|text(d4)` |
-| 4 | `dice:1d6\|noform\|noparens\|avg\|text(d6)` |
-| 6 | `dice:1d8\|noform\|noparens\|avg\|text(d8)` |
-| 8 | `dice:1d10\|noform\|noparens\|avg\|text(d10)` |
-| 10 | `dice:1d12\|noform\|noparens\|avg\|text(d12)` |
+| 2 | `dice:1d4\|noform\|noparens\|avg\|text(1d4)` |
+| 4 | `dice:1d6\|noform\|noparens\|avg\|text(1d6)` |
+| 6 | `dice:1d8\|noform\|noparens\|avg\|text(1d8)` |
+| 8 | `dice:1d10\|noform\|noparens\|avg\|text(1d10)` |
+| 10 | `dice:1d12\|noform\|noparens\|avg\|text(1d12)` |
 ^hit-dice-sacrificed-size-of-unit
 
 ## The Key to the Gate

@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\izek-strazni.webp
+  - ../../../../../4. World Almanac/NPCs/img/izek-strazni.webp
 relationships: []
 aliases:
   - Izek Strazni
@@ -56,7 +56,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 232*
@@ -151,7 +151,7 @@ actions:
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "14"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "2"
@@ -178,16 +178,16 @@ actions:
 "actions":
   - "desc": "Izek makes two attacks with his battleaxe."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) slashing damage, or 15 (2d10 + 4) when used with two hands."
     "name": "Battleaxe"
-  - "desc": "Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 10\
+  - "desc": "*Ranged Spell Attack:* +5 to hit, range 60 ft., one target. *Hit:* 10\
       \ (3d6) fire damage. If the target is a flammable object that isn't being worn\
       \ or carried, it catches fire."
     "name": "Hurl Flame"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/izek-strazni-cos.webp"
+"image": "/4. World Almanac/NPCs/token/izek-strazni-cos.webp"
 ```
 ^statblock
 

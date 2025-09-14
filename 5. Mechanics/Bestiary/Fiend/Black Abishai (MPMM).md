@@ -14,7 +14,7 @@ tags:
 aliases:
   - Black Abishai
 ---
-# [[5. Mechanics\Bestiary\Fiend\Black Abishai (MPMM).md|Black Abishai]]
+# [[5. Mechanics/Bestiary/Fiend/Black Abishai (MPMM).md|Black Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 38, Mordenkainen's Tome of Foes p. 160*
 
 Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location where they can deliver a fatal strike to their targets.
@@ -47,8 +47,8 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - !!int "11"
 "speed": "30 ft., fly 40 ft."
 "saves":
-  - "dexterity": "+6"
-  - "wisdom": "+6"
+  - "dexterity": !!int "6"
+  - "wisdom": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
@@ -58,7 +58,8 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   \ that aren't silvered"
 "damage_immunities": "acid, fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "7"
 "traits":
@@ -70,13 +71,13 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "actions":
   - "desc": "The abishai makes one Bite attack and two Scimitar attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d10\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
       \ + 3) piercing damage plus 9 (2d8) acid damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) force damage."
     "name": "Scimitar"
-  - "desc": "The abishai casts [[5. Mechanics/Spells/Darkness.md|darkness]] at a point\
+  - "desc": "The abishai casts [[/5. Mechanics/Spells/Darkness.md|darkness]] at a point\
       \ within 120 feet of it, requiring no spell components or [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]].\
       \ Wisdom is its spellcasting ability for this spell. While the spell persists,\
       \ the abishai can move the area of darkness up to 60 feet as a bonus action.\n"
@@ -88,7 +89,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/black-abishai-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/black-abishai-mpmm.webp"
 ```
 ^statblock
 

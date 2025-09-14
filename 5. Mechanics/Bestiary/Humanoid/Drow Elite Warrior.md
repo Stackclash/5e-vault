@@ -14,7 +14,7 @@ tags:
 aliases:
   - Drow Elite Warrior
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow Elite Warrior.md|Drow Elite Warrior]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow Elite Warrior.md|Drow Elite Warrior]]
 *Source: Monster Manual p. 128*
 
 ## Drow
@@ -43,7 +43,7 @@ Drow craft weapons made of adamantine, a dark and supernaturally hard metal. Dro
 
 ### Cutthroat Politics
 
-Drow politics are cutthroat and rife with intrigue. When drow work together, it is typically to destroy a common foe and ensure their own survival, and such alliances are short lived and fraught with peril.
+Drow politics are cutthroat and rife with intrigue. When drow work together, it is typically to destroy a common foe and ensure their own survival, and such alliances are short-lived and fraught with peril.
 
 Drow society is divided into noble houses, each ruled by a matron who seeks to raise the prestige and power of her house above all others. Other high-ranking members of the house are blood relatives, while the middling ranks are flush with drow from weaker families that have sworn fealty to the greater house. Clinging precariously to the bottom rung of a house's social ladder are the house slaves, made up of drow of low birth and the occasional non-drow captive.
 
@@ -78,7 +78,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "subtype": "elf"
 "alignment": "Neutral Evil"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "71"
 "hit_dice": "11d8 + 22"
 "modifier": !!int "4"
@@ -91,23 +91,24 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
   - !!int "12"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+7"
-  - "constitution": "+5"
-  - "wisdom": "+4"
+  - "dexterity": !!int "7"
+  - "constitution": !!int "5"
+  - "wisdom": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+10"
-"senses": "darkvision 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 14"
 "languages": "Elvish, Undercommon"
 "cr": "5"
 "traits":
   - "desc": "The drow's spellcasting ability is Charisma (spell save DC 12). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      At will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day\
-      \ each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
-      \ [[5. Mechanics/Spells/Levitate.md|levitate]] (self only)"
+      **At will:** [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n**1/day\
+      \ each:** [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
+      \ [[/5. Mechanics/Spells/Levitate.md|levitate]] (self only)"
     "name": "Innate Spellcasting"
   - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
       \ and magic can't put the drow to sleep."
@@ -119,10 +120,10 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "actions":
   - "desc": "The drow makes two shortsword attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) piercing damage plus 10 (3d6) poison damage."
     "name": "Shortsword"
-  - "desc": "Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 30/120 ft., one target. *Hit:*\
       \ 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution\
       \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
       \ 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
@@ -136,7 +137,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     "name": "Parry"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/drow-elite-warrior.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/drow-elite-warrior.webp"
 ```
 ^statblock
 

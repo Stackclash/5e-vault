@@ -20,12 +20,26 @@ classes:
   - Wizard
 school: Evocation
 level: 3
+damage:
+  base: 5d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 90 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Thunderous Wave
 ---
@@ -39,6 +53,6 @@ aliases:
 
 You initiate a shock wave centered at a point you designate within range. The wave explodes outward into a 30-foot-radius sphere. This force deals no damage directly, but every creature the wave passes through must make a Strength saving throw. On a failed save, a creature is pushed 30 feet and knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]; if it strikes a solid obstruction, it also takes `dice:5d6|noform|noparens|avg` (`5d6`) bludgeoning damage. On a successful save, a creature is pushed 15 feet and not knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], and an obstruction takes half as much damage. The spell also emits a thunderous boom that can be heard within 400 feet.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 114*

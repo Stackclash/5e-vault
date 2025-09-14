@@ -14,7 +14,7 @@ tags:
 aliases:
   - Dhergoloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Dhergoloth (MPMM).md|Dhergoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Dhergoloth (MPMM).md|Dhergoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*
 
 > [!quote] A quote from Mordenkainen  
@@ -47,12 +47,13 @@ Since dhergoloths are little more than brutes, employers must use caution when i
   - !!int "9"
 "speed": "30 ft."
 "saves":
-  - "strength": "+6"
+  - "strength": !!int "6"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 10"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "7"
 "traits":
@@ -62,7 +63,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 "actions":
   - "desc": "The dhergoloth makes two Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d8 + 3) force damage."
     "name": "Claw"
   - "desc": "The dhergoloth moves up to its speed in a straight line and targets each\
@@ -74,12 +75,12 @@ Since dhergoloths are little more than brutes, employers must use caution when i
     "name": "Teleport"
   - "desc": "The dhergoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 10):\n\
-      \nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Fear.md|fear]]"
+      \n**At will:** [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Fear.md|fear]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/dhergoloth-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/dhergoloth-mpmm.webp"
 ```
 ^statblock
 

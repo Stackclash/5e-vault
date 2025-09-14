@@ -13,7 +13,7 @@ tags:
 aliases:
   - Grave Regent
 ---
-# [[5. Mechanics\Bestiary\Undead\Grave Regent (GRIFFONSSADDLEBAG3).md|Grave Regent]]
+# [[5. Mechanics/Bestiary/Undead/Grave Regent (GRIFFONSSADDLEBAG3).md|Grave Regent]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The timeless guardian of the Graveyard in charge of shepherding resilient creatures from the edges of death into eternal slumber. When a creature recovers from a near-death experience having "seen the light" or similar, it's often an indicator of having visited and escaped the Regent's clutches in their own personal Graveyard.
@@ -39,9 +39,9 @@ While the Regent exists in the metaphysical Graveyard between life and death, ot
   - !!int "20"
 "speed": "30 ft., fly 60 ft. (hover)"
 "saves":
-  - "intelligence": "+10"
-  - "wisdom": "+10"
-  - "charisma": "+10"
+  - "intelligence": !!int "10"
+  - "wisdom": !!int "10"
+  - "charisma": !!int "10"
 "damage_resistances": "acid; cold; fire; lightning; psychic; thunder; bludgeoning,\
   \ piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
@@ -50,20 +50,22 @@ While the Regent exists in the metaphysical Graveyard between life and death, ot
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "truesight 120 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 15"
 "languages": "all, telepathy 120 ft."
 "cr": "16"
 "traits":
   - "desc": "The grave regent's innate spellcasting ability is Charisma (spell save\
       \ DC 18, +10 to hit with spell attacks). It can innately cast the following\
-      \ spells, requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Chill Touch.md|chill touch]]\
-      \ (4d8), [[5. Mechanics/Spells/Gentle Repose.md|gentle repose]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-      \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n3/day each:\
-      \ [[5. Mechanics/Spells/Hallucinatory Terrain.md|hallucinatory terrain]], [[5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic\
-      \ pattern]]\n\n1/day: [[5. Mechanics/Spells/Circle Of Death.md|circle of death]]"
+      \ spells, requiring no material components:\n\n**At will:** [[/5. Mechanics/Spells/Chill Touch.md|chill touch]]\
+      \ (4d8), [[/5. Mechanics/Spells/Gentle Repose.md|gentle repose]], [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+      \ [[/5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n**3/day each:**\
+      \ [[/5. Mechanics/Spells/Hallucinatory Terrain.md|hallucinatory terrain]], [[/5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic\
+      \ pattern]]\n\n**1/day:** [[/5. Mechanics/Spells/Circle Of Death.md|circle of\
+      \ death]]"
     "name": "Innate Spellcasting"
   - "desc": "The grave regent can move through other creatures and objects as if they\
-      \ were difficult terrain.\n\nIt takes 5 (d10) force damage if it ends its turn\
+      \ were difficult terrain.\n\nIt takes 5 (1d10) force damage if it ends its turn\
       \ inside an object."
     "name": "Incorporeal Movement"
   - "desc": "If the grave regent fails a saving throw, it can choose to succeed instead."
@@ -80,19 +82,22 @@ While the Regent exists in the metaphysical Graveyard between life and death, ot
   - "desc": "The grave regent makes two attacks: one with its Life Drain and one with\
       \ its Shadow Blade."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one creature. Hit:\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one creature. *Hit:*\
       \ 18 (3d8 + 5) necrotic damage. The target must succeed on a DC 18 Constitution\
       \ saving throw or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\n\
       \nThe target dies if this effect reduces its hit point maximum to 0."
     "name": "Life Drain"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 18\
       \ (3d8 + 5) psychic damage."
     "name": "Shadow Blade"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the grave regent can expend a use to take one of the following actions.\
+  \ The grave regent regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The grave regent moves up to its speed."
     "name": "Move"
-  - "desc": "The grave regent makes an attack with its Life Drain or casts the [[5. Mechanics/Spells/Chill Touch.md|chill\
+  - "desc": "The grave regent makes an attack with its Life Drain or casts the [[/5. Mechanics/Spells/Chill Touch.md|chill\
       \ touch]] cantrip."
     "name": "Touch of the Grave"
   - "desc": "The grave regent makes a Shadow Blade attack against a creature within\

@@ -20,17 +20,26 @@ classes:
   - Wizard
 school: Enchantment
 level: 3
+damage:
+  base: 1d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: 30 feet
+somatic: true
+verbal: true
+material: a strip of paper with writing on it
 aliases:
   - Chilling Words
-concentration: true
-material: a strip of paper with writing on it
 ---
 # Chilling Words
 *3rd-level, Enchantment*  
@@ -44,10 +53,10 @@ You utter a short phrase and designate a creature within range to be affected by
 
 At any later time while the spell is in effect, you and any of your allies within range when you cast the spell can use an action to utter the phrase, which causes the target to freeze in fear. Each of you can use the phrase against the target once only, and the target must be within 30 feet of the speaker for the phrase to be effective.
 
-When the target hears the phrase, it must make a successful Constitution saving throw or take `dice:1d6|noform|noparens|avg` (`d6`) psychic damage and become [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] for 1 round. Whether this saving throw succeeds or fails, the target can't be affected by the phrase for 1 minute afterward.
+When the target hears the phrase, it must make a successful Constitution saving throw or take `dice:1d6|noform|noparens|avg` (`1d6`) psychic damage and become [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] for 1 round. Whether this saving throw succeeds or fails, the target can't be affected by the phrase for 1 minute afterward.
 
 You can end the spell early by making a final utterance of the phrase (even if you've used the phrase on this target previously). On hearing this final utterance, the target takes `dice:4d6|noform|noparens|avg` (`4d6`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] for 1 minute or, with a successful Constitution saving throw, it takes half the damage and is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] for 1 round.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 49*

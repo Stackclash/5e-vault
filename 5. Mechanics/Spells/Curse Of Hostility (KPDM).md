@@ -18,15 +18,24 @@ classes:
   - Wizard
 school: Necromancy
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: null
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Curse of Hostility
-concentration: true
 ---
 # Curse of Hostility
 *3rd-level, Necromancy*  
@@ -42,10 +51,10 @@ You touch a creature, and that creature must succeed on a Wisdom saving throw or
 - A creature of the selected type gains advantage on any attack rolls made against the target if the target has attacked and hit that creature at least once during the encounter.  
 - The target has disadvantage on any Charisma-based checks made against creatures of the chosen type.  
 
-A [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell ends this effect.
+A [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell ends this effect.
 
 **At Higher Levels.** If you cast this spell using a spell slot of 4th level, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th or 6th level, the duration is 8 hours. If you use a spell slot of 7th or 8th level, the duration is 24 hours. If you use a 9th-level spell slot, the spell lasts until dispelled.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 56*

@@ -19,7 +19,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Godsteel-Worldcarver.webp#right)  
 
 
-This hefty blade becomes miraculously nimble in hand, as if a portion of its weight were displaced elsewhere. If the weapon is a greatsword, Small creatures don't make attack rolls with disadvantage using this weapon as a result of its heavy property. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to any target it hits.
+This hefty blade becomes miraculously nimble in hand, as if a portion of its weight were displaced elsewhere. If the weapon is a greatsword, Small creatures don't make attack rolls with disadvantage using this weapon as a result of its heavy property. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to any target it hits.
 
 While holding the weapon, you can use a bonus action to magically store it in a special extradimensional space. While the weapon is stored in this space, you can use a bonus action to magically retrieve it again, causing the weapon to reappear in your hand. If the sword is ever more than 30 feet away from you, it magically vanishes into the space on its own.
 

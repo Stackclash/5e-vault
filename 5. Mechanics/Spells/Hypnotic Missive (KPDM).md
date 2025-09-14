@@ -17,16 +17,19 @@ classes:
   - Wizard
 school: Enchantment
 level: 2
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: true
 time: 1 minute
 duration: 14 days
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: 'ink made with powdered amber, worth at least 50 gp'
 aliases:
   - Hypnotic Missive
-material: 'ink made with powdered amber, worth at least 50 gp'
 ---
 # Hypnotic Missive
 *2nd-level, Enchantment (ritual)*  
@@ -42,6 +45,6 @@ During combat, a creature so enthralled it can take no actions or reactions on i
 
 Once a creature has made a successful save, it recognizes the magical compulsion that has affected it. This does not provide immunity from the spell, however, and if the creature reads the words again, it must make another save or fall under the spell's effects once more.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 82*

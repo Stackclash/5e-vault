@@ -14,7 +14,7 @@ tags:
 aliases:
   - Abjurer Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Abjurer Wizard (MPMM).md|Abjurer Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Abjurer Wizard (MPMM).md|Abjurer Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 209*
 
 Abjurers specialize in creating protective magical wards. Monarchs, nobles, and other wealthy individuals commonly hire abjurers to provide protection.
@@ -29,7 +29,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+"ac_class": "15 with [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
 "modifier": !!int "2"
@@ -42,8 +42,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - !!int "11"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+8"
-  - "wisdom": "+5"
+  - "intelligence": !!int "8"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+8"
@@ -55,8 +55,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
   - "desc": "The abjurer makes three Arcane Burst attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Spell Attack: +6 to hit, reach 5 ft. or range 120\
-      \ ft., one target. Hit: 20 (3d10 + 4) force damage."
+  - "desc": "*Melee  or Ranged Spell Attack:* +6 to hit, reach 5 ft. or range 120\
+      \ ft., one target. *Hit:* 20 (3d10 + 4) force damage."
     "name": "Arcane Burst"
   - "desc": "Each creature in a 20-foot cube originating from the abjurer must make\
       \ a DC 16 Constitution saving throw. On a failed save, a creature takes 36 (8d8)\
@@ -64,13 +64,14 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ save, a creature takes half as much damage and isn't pushed."
     "name": "Force Blast"
   - "desc": "The abjurer casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 16):\n\nAt will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
-      \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n2/day each:\
-      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
-      \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\n\n1/day each: [[5. Mechanics/Spells/Arcane Lock.md|arcane lock]],\
-      \ [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]],\
-      \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
+      \ the spellcasting ability (spell save DC 16):\n\n**At will:** [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]],\
+      \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Message.md|message]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n**2/day each:**\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
+      \ [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]\n\n**1/day each:** [[/5. Mechanics/Spells/Arcane Lock.md|arcane\
+      \ lock]], [[/5. Mechanics/Spells/Banishment.md|banishment]],\
+      \ [[/5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]],\
+      \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]], [[/5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When the abjurer or a creature it can see within 30 feet of it takes\
@@ -81,7 +82,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/abjurer-wizard-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/abjurer-wizard-mpmm.webp"
 ```
 ^statblock
 

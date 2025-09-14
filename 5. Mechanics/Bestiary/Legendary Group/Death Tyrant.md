@@ -9,7 +9,7 @@ aliases:
 ---
 # Death Tyrant
 
-## Lair actions
+## Lair Actions
 _Source: Monster Manual_
 
 When fighting inside its lair, a death tyrant can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the death tyrant can take one lair action to cause one of the following effects:
@@ -20,7 +20,7 @@ When fighting inside its lair, a death tyrant can invoke the ambient magic to ta
 
 The death tyrant can't repeat an effect until all three have been used, and it can't use the same effect on consecutive rounds.
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual_
 
 A region containing a death tyrant's lair is warped by the creature's unnatural presence, which creates one or more of the following effects:
@@ -28,4 +28,4 @@ A region containing a death tyrant's lair is warped by the creature's unnatural 
 - Creatures within 1 mile of the tyrant's lair sometimes feel as if they're being watched even when they aren't.  
 - When a creature hostile to the tyrant and aware of its existence finishes a long rest within 1 mile of the tyrant's lair, roll a `dice:d20|noform|noparens|avg` (`d20`) for that creature. On a roll of 10 or lower, the creature is subjected to one random eye ray of the tyrant.  
 
-If the death tyrant dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.
+If the death tyrant dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.

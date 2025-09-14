@@ -15,7 +15,7 @@ aliases:
 
 | dice: d100 | Event |
 |------------|-------|
-| 1-5 | You were ensorcelled by a fey and enslaved for `dice:1d6\|noform\|noparens\|avg` (`d6`) years before you escaped. |
+| 1-5 | You were ensorcelled by a fey and enslaved for `dice:1d6\|noform\|noparens\|avg` (`1d6`) years before you escaped. |
 | 6-10 | You saw a demon and ran away before it could do anything to you. |
 | 11-15 | A devil tempted you. Make a DC 10 Wisdom saving throw. On a failed save, your alignment shifts one step toward evil (if it's not evil already), and you start the game with an additional `dice:1d20+50\|noform\|noparens\|avg` (`+50`) gp. |
 | 16-20 | You woke up one morning miles from your home, with no idea how you got there. |

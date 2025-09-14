@@ -22,15 +22,16 @@ school: Illusion
 level: 3
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: Self (20-foot Radius)
+somatic: true
+verbal: true
+material: a paper ring
+area:
+  shape: radius
+  size: 20
 aliases:
   - Innocuous Aspect
-concentration: true
-material: a paper ring
 ---
 # Innocuous Aspect
 *3rd-level, Illusion*  
@@ -44,6 +45,6 @@ An area of false vision encompasses all creatures within 20 feet of you. You and
 
 A creature that uses its action to study the image visually can determine that it is an illusion with a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, that creature sees through the image.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 233*

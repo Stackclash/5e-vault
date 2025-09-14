@@ -16,12 +16,19 @@ classes:
   - Wizard
 school: Necromancy
 level: 5
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Maim
 ---
@@ -39,8 +46,8 @@ Your hands become black claws bathed in necrotic energy. Make a melee spell atta
 
 **Lower Limb**. The target's speed is reduced by 10 feet, and it has disadvantage on Dexterity ability checks.
 
-**Body**. Choose one damage type: bludgeoning, piercing, or slashing. The target loses its resistance to that damage type. If the target doesn't have resistance to the chosen damage type, it is vulnerable to that damage type instead. The effect is permanent until removed by [[5. Mechanics/Spells/Remove Curse.md\|remove curse]], [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], or similar magic.
+**Body**. Choose one damage type: bludgeoning, piercing, or slashing. The target loses its resistance to that damage type. If the target doesn't have resistance to the chosen damage type, it is vulnerable to that damage type instead. The effect is permanent until removed by [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]], [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], or similar magic.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 93*

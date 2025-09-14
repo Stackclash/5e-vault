@@ -21,7 +21,7 @@ The wand has 3 charges for the following properties. When the special incense re
 
 ## Spells
 
-While holding the wand, you can use an action to expend 1 of its charges to cast one of the following spells from it, using a spell attack bonus of +7: [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] (form of a pseudodragon), [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] (the cloud is made of smoke), [[5. Mechanics/Spells/Misty Step.md\|misty step]], or [[5. Mechanics/Spells/Scorching Ray.md\|scorching ray]]. If your attunement to the wand ends, the familiar is lost. When you cast [[5. Mechanics/Spells/Misty Step.md\|misty step]] in this way, you leave behind and reappear in a cloud of smoke that heavily obscures both spaces until the start of your next turn.
+While holding the wand, you can use an action to expend 1 of its charges to cast one of the following spells from it, using a spell attack bonus of +7: [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] (form of a pseudodragon), [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] (the cloud is made of smoke), [[/5. Mechanics/Spells/Misty Step.md\|misty step]], or [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]]. If your attunement to the wand ends, the familiar is lost. When you cast [[/5. Mechanics/Spells/Misty Step.md\|misty step]] in this way, you leave behind and reappear in a cloud of smoke that heavily obscures both spaces until the start of your next turn.
 
 ## Draconic Ward
 

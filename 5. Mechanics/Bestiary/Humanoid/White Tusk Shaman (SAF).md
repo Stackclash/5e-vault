@@ -14,7 +14,7 @@ tags:
 aliases:
   - White Tusk Shaman
 ---
-# [[5. Mechanics\Bestiary\Humanoid\White Tusk Shaman (SAF).md|White Tusk Shaman]]
+# [[5. Mechanics/Bestiary/Humanoid/White Tusk Shaman (SAF).md|White Tusk Shaman]]
 *Source: Strongholds and Followers p. 141*
 
 Most orc clans keep a shaman or two around to interpret the will of the natural world. These shamans enjoy a high status in their clan, even when a tribe such as the White Tusks possess warspeakers who manifest the will of the gods, for there are more powers in this world than that of the gods. The Mundane World itself possesses a sort of consciousness—the whispering of the wind, the babbling of running water, and the quiet grumbling of the mountains; these small gestures of nature are the world speaking to those who possess the skill to listen.
@@ -28,7 +28,7 @@ As part of their training, orcish shamans bond with a single animal, typically a
 "subtype": "orc, shapechanger"
 "alignment": "Chaotic Neutral"
 "ac": !!int "14"
-"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
+"ac_class": "[[/5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "2"
@@ -41,14 +41,15 @@ As part of their training, orcish shamans bond with a single animal, typically a
   - !!int "8"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+4"
-  - "wisdom": "+5"
+  - "dexterity": !!int "4"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 18"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 18"
 "languages": "Orc, Primordial"
 "cr": "3"
 "traits":
@@ -75,8 +76,8 @@ As part of their training, orcish shamans bond with a single animal, typically a
 "actions":
   - "desc": "The White Tusk Shaman makes two blood-searing spear attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/60\
-      \ ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) poison damage.\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/60\
+      \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage plus 7 (2d6) poison damage.\
       \ This magical poison only functions when the spear is wielded by an orc shaman."
     "name": "Blood-Searing Spear"
 "source":

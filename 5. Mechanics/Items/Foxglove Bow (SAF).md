@@ -10,11 +10,11 @@ tags:
 aliases:
   - Foxglove Bow
 one-hand-damage: 1d8 piercing
-range: 150\600
+range: 150/600
 weight: 2
 ---
 # Foxglove Bow
-*Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), very rare (requires attunement by a chaotic creature)*  
+*Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), very rare (requires attunement by a chaotic creature)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/foxglove-bow.jpg#right)  
 
 - **Damage**: 1d8 piercing
@@ -26,6 +26,6 @@ If you are a neutral character, this ash longbow functions as a normal weapon wi
 
 Arrows nocked in this bow begin to drip with poison. You may choose to do either poison or piercing damage with this weapon.
 
-Whenever you score a critical hit with this bow, roll a `dice:d6|noform|noparens|avg` (`d6`) on the Court of Arcadia row of the [[5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart (page 31). Foxglove flowers begin to fall like rain, and the rolled servitor appears behind the target. This servitor fights for you and obeys your commands. They return to Arcadia after 1 minute or if they drop to 0 hit points.
+Whenever you score a critical hit with this bow, roll a `dice:d6|noform|noparens|avg` (`d6`) on the Court of Arcadia row of the [[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart (page 31). Foxglove flowers begin to fall like rain, and the rolled servitor appears behind the target. This servitor fights for you and obeys your commands. They return to Arcadia after 1 minute or if they drop to 0 hit points.
 
 *Source: Strongholds and Followers p. 260*

@@ -11,7 +11,7 @@ weight: 1
 ---
 # Eversmoking Bottle
 *Wondrous item, major, uncommon*  
-![[5. Mechanics/Items/img/eversmoking-bottle.webp#right]]  
+![[/5. Mechanics/Items/img/eversmoking-bottle.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

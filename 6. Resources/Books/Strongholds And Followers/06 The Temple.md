@@ -31,11 +31,11 @@ The gods consider it your responsibility to know right from wrong. If you are tr
 
 Here are some examples of deeds that would add to or subtract from your current concordance.
 
-![[5. Mechanics/Tables/Gaining Or Losing Concordance (SAF).md\|Gaining or Losing Concordance]]
+![[/5. Mechanics/Tables/Gaining Or Losing Concordance (SAF).md\|Gaining or Losing Concordance]]
 
 > [!note] Divine Intervention
 > 
-> A cleric's [Divine Intervention](compendium/classes/cleric.md#Divine%20Intervention%20(Level%2010)) is a much-improved version of concordance. Concordance is available to everyone but has a downside and only grants specific rewards. [Divine Intervention](compendium/classes/cleric.md#Divine%20Intervention%20(Level%2010)) only works for clerics, has no downside, and can potentially fix any problem.
+> A cleric's [Divine Intervention](/compendium/classes/cleric.md#Divine%20Intervention%20(Level%2010)) is a much-improved version of concordance. Concordance is available to everyone but has a downside and only grants specific rewards. [Divine Intervention](/compendium/classes/cleric.md#Divine%20Intervention%20(Level%2010)) only works for clerics, has no downside, and can potentially fix any problem.
 ^divine-intervention
 
 ## Petitioning your Deity
@@ -46,7 +46,7 @@ You may receive aid, be ignored, or be punished for your repeated badgering. Unl
 
 Because the gods do not like being pestered, petitioning your deity, regardless of the outcome, gives you a penalty to your concordance. This penalty will accumulate as you petition again and again. **Track your penalty from petitioning separately.** Taking an extended rest at your temple, if you have one, clears any penalties you've accumulated from petitioning.
 
-![[5. Mechanics/Tables/The Concordance Chart (SAF).md\|The Concordance Chart]]
+![[/5. Mechanics/Tables/The Concordance Chart (SAF).md\|The Concordance Chart]]
 
 ### The Servitor Chart
 
@@ -56,7 +56,7 @@ The servitor you choose must be within your character or deity's purview *and* b
 
 The character who summoned the servitor is informally referred to as the "summoner" or the "petitioner" or more formally "the concordant." The latter term is what the servitors usually use.
 
-![[5. Mechanics/Tables/Servitors (SAF).md\|Servitors]]
+![[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]]
 
 #### Picking a Chart for the Player
 
@@ -74,7 +74,7 @@ A variant temple, the druid's grove ^[We use the term "grove" both for this vari
 
 The druid chooses one spell from the list below and spends a month in meditation. If the powers that grant them their spells are pleased with their work, they permanently install the spell the druid requested, which can be cast once per period listed in the Grove Spells table.
 
-![[5. Mechanics/Tables/Grove Spells (SAF).md\|Grove Spells]]
+![[/5. Mechanics/Tables/Grove Spells (SAF).md\|Grove Spells]]
 
 The spell belongs to the grove but is cast by the druid. The grove must be continuously tended. Leaving the grove untended for a month causes it to revert to wild nature and the spell dissipates. The Druid who founded the grove doesn't have to be the one to tend it, a lieutenant or follower will do.
 

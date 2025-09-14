@@ -9,15 +9,15 @@ aliases:
 ---
 # Morkoth
 
-## Lair actions
+## Lair Actions
 _Source: Volo's Guide to Monsters_
 
 On initiative count 20 (losing initiative ties), the morkoth takes a lair action to cause one of the effects described below:
 
 - The morkoth uses its Hypnosis action, originating at a point within 120 feet of itself. It doesn't need to see the effect's point of origin.  
-- The morkoth casts [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], or [[5. Mechanics/Spells/Misty Step.md|misty step]], using Intelligence as its spellcasting ability and without expending a spell slot.  
+- The morkoth casts [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], or [[/5. Mechanics/Spells/Misty Step.md|misty step]], using Intelligence as its spellcasting ability and without expending a spell slot.  
 
-## Regional effects
+## Regional Effects
 _Source: Volo's Guide to Monsters_
 
 The island surrounding a morkoth's lair is warped by the creature's presence, creating the following effects:

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Enchanter Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Enchanter Wizard (MPMM).md|Enchanter Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Enchanter Wizard (MPMM).md|Enchanter Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*
 
 Enchanters know how to magically influence minds. Benign enchanters use this magic to defuse violence and sow peace, while malevolent enchanters are some of the most evil of all spellcasters.
@@ -29,7 +29,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+"ac_class": "15 with [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "49"
 "hit_dice": "11d8"
 "modifier": !!int "2"
@@ -42,8 +42,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - !!int "11"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+6"
-  - "wisdom": "+4"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+6"
@@ -55,15 +55,16 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
   - "desc": "The enchanter makes three Arcane Burst attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Spell Attack: +6 to hit, reach 5 ft. or range 120\
-      \ ft., one target. Hit: 19 (3d10 + 3) psychic damage."
+  - "desc": "*Melee  or Ranged Spell Attack:* +6 to hit, reach 5 ft. or range 120\
+      \ ft., one target. *Hit:* 19 (3d10 + 3) psychic damage."
     "name": "Arcane Burst"
   - "desc": "The enchanter casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Friends.md|friends]],\
-      \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]]\n\
-      \n2/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-      \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-      \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Tongues.md|tongues]]"
+      \ the spellcasting ability (spell save DC 14):\n\n**At will:** [[/5. Mechanics/Spells/Friends.md|friends]],\
+      \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Message.md|message]]\n\
+      \n**2/day each:** [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Mage Armor.md|mage\
+      \ armor]], [[/5. Mechanics/Spells/Hold Person.md|hold person]],\
+      \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]], [[/5. Mechanics/Spells/Suggestion.md|suggestion]],\
+      \ [[/5. Mechanics/Spells/Tongues.md|tongues]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a visible creature within 30 feet of the enchanter makes an attack\
@@ -75,7 +76,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/enchanter-wizard-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/enchanter-wizard-mpmm.webp"
 ```
 ^statblock
 

@@ -10,10 +10,10 @@ tags:
 aliases:
   - Chromacloth
 one-hand-damage: 1d4 bludgeoning
-range: 30\120
+range: 30/120
 ---
 # Chromacloth
-*Weapon ([[5. Mechanics/Items/Sling.md\|sling]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Chromacloth.webp#right)  
 
 - **Damage**: 1d4 bludgeoning

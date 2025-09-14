@@ -20,19 +20,19 @@ This guide introduces a few new concepts into the base game of Dungeons and Drag
 A few new pieces of adventuring gear have been added in this book to accommodate the act of harvesting. Their functions are described below:
 
 > [!embed-item]- Enchanted Vial
-> ![[5. Mechanics/Items/Enchanted Vial (HHHVI).md\|Enchanted Vial]]
+> ![[/5. Mechanics/Items/Enchanted Vial (HHHVI).md\|Enchanted Vial]]
 
 > [!embed-item]- Hamund's Harvesting Handbook
-> ![[5. Mechanics/Items/Hamunds Harvesting Handbook (HHHVI).md\|Hamund's Harvesting Handbook]]
+> ![[/5. Mechanics/Items/Hamunds Harvesting Handbook (HHHVI).md\|Hamund's Harvesting Handbook]]
 
 > [!embed-item]- Harvesting Kit
-> ![[5. Mechanics/Items/Harvesting Kit (HHHVI).md\|Harvesting Kit]]
+> ![[/5. Mechanics/Items/Harvesting Kit (HHHVI).md\|Harvesting Kit]]
 
 > [!embed-item]- Spirit Paper
-> ![[5. Mechanics/Items/Spirit Paper (HHHVI).md\|Spirit Paper]]
+> ![[/5. Mechanics/Items/Spirit Paper (HHHVI).md\|Spirit Paper]]
 
 > [!embed-table]- Special Tools
-> ![[5. Mechanics/Tables/Special Tools (HHHVI).md\|Special Tools]]
+> ![[/5. Mechanics/Tables/Special Tools (HHHVI).md\|Special Tools]]
 
 ## Additions and Changes
 
@@ -49,7 +49,7 @@ The following are a few balance changes to accommodate the harvesting and crafti
 
 A few new spells have been added to the game. Each one either aids with harvesting, or has harvesting as a core mechanic. In many cases, the spells have uses in both combat and in harvesting, making them especially versatile. Feel free to add any of them to your own game to support your players' harvesting fantasies.
 
-**[[5. Mechanics/Spells/Cold Storage (HHHVII).md\|Cold Storage]].** 
+**[[/5. Mechanics/Spells/Cold Storage (HHHVII).md\|Cold Storage]].** 
 Cleric
 
 Paladin
@@ -60,12 +60,12 @@ Warlock
 
 Wizard
 
-**[[5. Mechanics/Spells/Conjure Creature (HHHVII).md\|Conjure Creature]].** 
+**[[/5. Mechanics/Spells/Conjure Creature (HHHVII).md\|Conjure Creature]].** 
 Wizard
 
 Warlock
 
-**[[5. Mechanics/Spells/Hamunds Harvesting Hands (HHHVII).md\|Hamund's Harvesting Hands]].** 
+**[[/5. Mechanics/Spells/Hamunds Harvesting Hands (HHHVII).md\|Hamund's Harvesting Hands]].** 
 Bard
 
 Cleric
@@ -74,7 +74,7 @@ Ranger
 
 Wizard
 
-**[[5. Mechanics/Spells/Identify Vitals (HHHVII).md\|Identify Vitals]].** 
+**[[/5. Mechanics/Spells/Identify Vitals (HHHVII).md\|Identify Vitals]].** 
 Cleric
 
 Druid
@@ -87,7 +87,7 @@ Warlock
 
 Wizard
 
-**[[5. Mechanics/Spells/Recomposition (HHHVII).md\|Recomposition]].** 
+**[[/5. Mechanics/Spells/Recomposition (HHHVII).md\|Recomposition]].** 
 Cleric
 
 Druid
@@ -96,7 +96,7 @@ Paladin
 
 Wizard
 
-**[[5. Mechanics/Spells/Transfusion (HHHVII).md\|Transfusion]].** 
+**[[/5. Mechanics/Spells/Transfusion (HHHVII).md\|Transfusion]].** 
 Cleric
 
 Druid
@@ -110,22 +110,22 @@ Wizard
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/NewSpells.webp#center)
 
 > [!embed-spell]- Cold Storage
-> ![[5. Mechanics/Spells/Cold Storage (HHHVII).md\|Cold Storage]]
+> ![[/5. Mechanics/Spells/Cold Storage (HHHVII).md\|Cold Storage]]
 
 > [!embed-spell]- Conjure Creature
-> ![[5. Mechanics/Spells/Conjure Creature (HHHVII).md\|Conjure Creature]]
+> ![[/5. Mechanics/Spells/Conjure Creature (HHHVII).md\|Conjure Creature]]
 
 > [!embed-spell]- Hamund's Harvesting Hands
-> ![[5. Mechanics/Spells/Hamunds Harvesting Hands (HHHVII).md\|Hamund's Harvesting Hands]]
+> ![[/5. Mechanics/Spells/Hamunds Harvesting Hands (HHHVII).md\|Hamund's Harvesting Hands]]
 
 > [!embed-spell]- Identify Vitals
-> ![[5. Mechanics/Spells/Identify Vitals (HHHVII).md\|Identify Vitals]]
+> ![[/5. Mechanics/Spells/Identify Vitals (HHHVII).md\|Identify Vitals]]
 
 > [!embed-spell]- Recomposition
-> ![[5. Mechanics/Spells/Recomposition (HHHVII).md\|Recomposition]]
+> ![[/5. Mechanics/Spells/Recomposition (HHHVII).md\|Recomposition]]
 
 > [!embed-spell]- Transfusion
-> ![[5. Mechanics/Spells/Transfusion (HHHVII).md\|Transfusion]]
+> ![[/5. Mechanics/Spells/Transfusion (HHHVII).md\|Transfusion]]
 
 ## Hamund's Helpers
 

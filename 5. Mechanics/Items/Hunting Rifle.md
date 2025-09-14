@@ -10,7 +10,7 @@ tags:
 aliases:
   - Hunting Rifle
 one-hand-damage: 2d10 piercing
-range: 80\240
+range: 80/240
 weight: 8
 ---
 # Hunting Rifle

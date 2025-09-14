@@ -13,7 +13,7 @@ tags:
 aliases:
   - Octopus
 ---
-# [[5. Mechanics\Bestiary\Beast\Octop(US).md|Octopus]]
+# [[5. Mechanics/Bestiary/Beast/Octop(US).md|Octopus]]
 *Source: Monster Manual p. 333. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -38,7 +38,8 @@ aliases:
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "darkvision 30 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 30 ft., passive Perception\
+  \ 12"
 "languages": ""
 "cr": "0"
 "traits":
@@ -50,7 +51,7 @@ aliases:
   - "desc": "The octopus can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning\
       \ damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 10). Until this grapple ends, the octopus can't use its tentacles\
       \ on another target."
@@ -62,7 +63,7 @@ aliases:
     "name": "Ink Cloud (Recharges after a Short or Long Rest)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/octopus.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/octopus.webp"
 ```
 ^statblock
 

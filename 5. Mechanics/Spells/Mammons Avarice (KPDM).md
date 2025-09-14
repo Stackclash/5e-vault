@@ -21,13 +21,15 @@ school: Divination
 level: 1
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
+duration: 'Concentration, up to 10 minutes'
+range: Self (30-foot Radius)
+somatic: true
+verbal: true
+area:
+  shape: radius
+  size: 30
 aliases:
   - Mammon's Avarice
-concentration: true
 ---
 # Mammon's Avarice
 *1st-level, Divination*  
@@ -39,6 +41,8 @@ concentration: true
 
 By casting this spell, you tap into the power of greed that is Mammon's sphere of influence, which manifests as a heightened olfactory sense. You can pinpoint, by smell, the location of any precious metals or gemstones within 30 feet of you. If you find anything, you can use an action to determine the exact types and amounts of any such materials. If materials of this sort are completely enclosed by, or separated from you by, more than 6 feet of earth or wood, 2 feet of stone, or 2 inches of common metal, you cannot detect them even if they are in range.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
 
 *Source: Deep Magic p. 327*

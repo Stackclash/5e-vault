@@ -12,7 +12,7 @@ armorClass: 12 + Dex modifier
 weight: 13
 ---
 # Bardic Leathers
-*Light armor ([[5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), very rare (requires attunement by a bard)*  
+*Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), very rare (requires attunement by a bard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Bardic-Leathers.webp#right)  
 
 - **Armor Class**: 12 + Dex modifier

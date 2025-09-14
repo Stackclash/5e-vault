@@ -15,7 +15,7 @@ tags:
 aliases:
   - Jackal
 ---
-# [[5. Mechanics\Bestiary\Beast\Jack(AL).md|Jackal]]
+# [[5. Mechanics/Bestiary/Beast/Jack(AL).md|Jackal]]
 *Source: Monster Manual p. 331. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -50,12 +50,12 @@ aliases:
       \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4\
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4\
       \ - 1) piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/jackal.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/jackal.webp"
 ```
 ^statblock
 

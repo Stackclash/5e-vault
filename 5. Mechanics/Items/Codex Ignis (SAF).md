@@ -23,11 +23,11 @@ Your fire spells and cantrips deal their maximum damage. Also, whenever you cast
 
 ## Fire Armor
 
-You are always protected by an invisible [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell. Whenever you take damage from a melee attack, your fire armor erupts in flame, revealing itself and dealing damage to the attacker in equal amount to the damage taken (instead of `dice:2d8|noform|noparens|avg` (`2d8`)).
+You are always protected by an invisible [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell. Whenever you take damage from a melee attack, your fire armor erupts in flame, revealing itself and dealing damage to the attacker in equal amount to the damage taken (instead of `dice:2d8|noform|noparens|avg` (`2d8`)).
 
 ## Ward of Fire
 
-Whenever you are surprised in combat, a [[5. Mechanics/Bestiary/Elemental/Fire Element(AL).md\|fire elemental]] immediately arrives and acts on initiative count 20. It attacks your enemies, putting your safety first, obeying your orders second. It remains in the Mundane World for 1 minute, after which it returns to Quintessence.
+Whenever you are surprised in combat, a [[/5. Mechanics/Bestiary/Elemental/Fire Element(AL).md\|fire elemental]] immediately arrives and acts on initiative count 20. It attacks your enemies, putting your safety first, obeying your orders second. It remains in the Mundane World for 1 minute, after which it returns to Quintessence.
 
 ## Sea of Fire
 

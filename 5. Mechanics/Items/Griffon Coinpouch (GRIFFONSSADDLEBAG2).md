@@ -15,7 +15,7 @@ weight: 1
 
 - **Weight**: 1.0 lbs.
 
-This stylized purse is sewn and stitched in the style of [[5. Mechanics/Items/The Griffons Saddlebag (TGS1).md\|the griffon's saddlebag]], a classic treasure and character from children's stories and legends. The purse is 6 inches across and holds up to 1,000 coins. Coins taken from the purse are miraculously clean and shiny, as if freshly minted. The bag always weighs 1 pound, regardless of the number of coins within it.
+This stylized purse is sewn and stitched in the style of [[/5. Mechanics/Items/The Griffons Saddlebag (TGS1).md\|the griffon's saddlebag]], a classic treasure and character from children's stories and legends. The purse is 6 inches across and holds up to 1,000 coins. Coins taken from the purse are miraculously clean and shiny, as if freshly minted. The bag always weighs 1 pound, regardless of the number of coins within it.
 
 At the GM's discretion, a small slip of parchment can be found folded among the coins inside. The parchment can have anything on it, although it usually carries enigmatic warnings or peculiar words of guidance. The GM can write their own notes, or you can roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the table below to determine what the parchment says:
 

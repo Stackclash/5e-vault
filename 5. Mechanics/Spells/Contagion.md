@@ -26,18 +26,18 @@ classes:
   - Wizard (Hedge Mage)
 school: Necromancy
 level: 5
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 7 days
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Contagion
-range: Touch
-save:
-  type: CON
-  success: other
 ---
 # Contagion
 *5th-level, Necromancy*  
@@ -67,7 +67,7 @@ The creature's flesh decays. The creature has disadvantage on Charisma checks an
 
 ## Mindfire
 
-The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [[5. Mechanics/Spells/Confusion.md\|confusion]] spell during combat.
+The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [[/5. Mechanics/Spells/Confusion.md\|confusion]] spell during combat.
 
 ## Seizure
 
@@ -79,6 +79,6 @@ The creature begins to bleed uncontrollably. The creature has disadvantage on Co
 
 ## Summary
 
-**Classes**: [Paladin (Oath of the Annihilator)](compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Cleric (Festus Domain)](compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oathbreaker)](compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Spores)](compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Festus Domain)](/compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Spores)](/compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Paladin (Oathbreaker)](/compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 227. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

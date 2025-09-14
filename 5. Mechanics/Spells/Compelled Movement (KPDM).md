@@ -18,19 +18,27 @@ classes:
   - Wizard
 school: Enchantment
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 5
+  types: []
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
-aliases:
-  - Compelled Movement
-concentration: true
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
 material: >-
   the embalmed body of a millipede with its right legs removed, worth at least
   50 gp
+aliases:
+  - Compelled Movement
 ---
 # Compelled Movement
 *3rd-level, Enchantment*  
@@ -48,6 +56,6 @@ This spell doesn't affect a creature that can't be [[/5. Mechanics/Rules/Conditi
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the number of creatures you can affect increases by one for every two slot levels above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 51*

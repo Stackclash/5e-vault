@@ -13,7 +13,7 @@ tags:
 aliases:
   - The Phoenix
 ---
-# [[5. Mechanics\Bestiary\Celestial\The Phoenix (SAF).md|The Phoenix]]
+# [[5. Mechanics/Bestiary/Celestial/The Phoenix (SAF).md|The Phoenix]]
 *Source: Strongholds and Followers p. 248*
 
 ```statblock
@@ -35,9 +35,9 @@ aliases:
   - !!int "29"
 "speed": "30 ft., fly 3450 ft. (hover ^[Yes, it can break the sound barrier.])"
 "saves":
-  - "intelligence": "+14"
-  - "wisdom": "+14"
-  - "charisma": "+16"
+  - "intelligence": !!int "14"
+  - "wisdom": !!int "14"
+  - "charisma": !!int "16"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+14"
@@ -45,7 +45,8 @@ aliases:
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 24"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 24"
 "languages": "all, telepathy 120 ft."
 "cr": "21"
 "traits":
@@ -69,10 +70,10 @@ aliases:
 "actions":
   - "desc": "The phoenix makes two claw attacks and one bite attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 25\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 25\
       \ (4d8 + 7) necrotic damage."
     "name": "Claw"
-  - "desc": "Melee Weapon Attack: + +14 to hit, reach 15 ft., one target. Hit:\
+  - "desc": "*Melee Weapon Attack:* + +14 to hit, reach 15 ft., one target. *Hit:*\
       \ 18 (2d10 + 7) piercing damage plus 9 (2d8) fire damage."
     "name": "Bite"
   - "desc": "The phoenix exhales a beam of brilliant, prismatic light in a line that\

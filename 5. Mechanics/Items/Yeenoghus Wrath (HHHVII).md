@@ -13,7 +13,7 @@ one-hand-damage: 1d4 slashing
 weight: 3
 ---
 # Yeenoghu's Wrath
-*Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/YeenoghusWrath.webp#right)  
 
 - **Damage**: 1d4 slashing

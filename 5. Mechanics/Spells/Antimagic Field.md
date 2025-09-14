@@ -18,19 +18,16 @@ school: Abjuration
 level: 8
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Self (10-foot Sphere)
+somatic: true
+verbal: true
+material: a pinch of powdered iron or iron filings
+area:
+  shape: sphere
+  size: 10
 aliases:
   - Antimagic Field
-range: Self
-material: A pinch of powdered iron or iron filings.
-area:
-  type: sphere
-  size: 10
-concentration: true
 ---
 # Antimagic Field
 *8th-level, Abjuration*  
@@ -46,11 +43,11 @@ Spells and other magical effects, except those created by an artifact or a deity
 
 ## Targeted Effects
 
-Spells and other magical effects, such as [[5. Mechanics/Spells/Magic Missile.md\|magic missile]] and [[5. Mechanics/Spells/Charm Person.md\|charm person]], that target a creature or an object in the sphere have no effect on that target.
+Spells and other magical effects, such as [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]] and [[/5. Mechanics/Spells/Charm Person.md\|charm person]], that target a creature or an object in the sphere have no effect on that target.
 
 ## Areas of Magic
 
-The area of another spell or magical effect, such as [[5. Mechanics/Spells/Fireball.md\|fireball]], can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
+The area of another spell or magical effect, such as [[/5. Mechanics/Spells/Fireball.md\|fireball]], can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
 
 ## Spells
 
@@ -72,10 +69,10 @@ A creature or object summoned or created by magic temporarily winks out of exist
 
 ## Dispel Magic
 
-Spells and magical effects such as [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] have no effect on the sphere. Likewise, the spheres created by different [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]] spells don't nullify each other.
+Spells and magical effects such as [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] have no effect on the sphere. Likewise, the spheres created by different [[/5. Mechanics/Spells/Antimagic Field.md\|antimagic field]] spells don't nullify each other.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

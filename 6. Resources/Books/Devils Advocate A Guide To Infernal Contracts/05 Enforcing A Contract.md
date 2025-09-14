@@ -21,7 +21,7 @@ It's common for a signee to struggle or attempt an escape when their time runs o
 
 ### Collection Agents: The Enforcers
 
-Collection efforts are performed on behalf of the contract administrator. They are reimbursed by either the contract administrator or a higher-ranking devil to which the contract administrator reports, such as a duke or archdevil. These barbarous task forces may involve any number of devils outlined in the *Monster Manual* or *Mordenkainen's Tome of Foes*, but most collection efforts include [[5. Mechanics/Bestiary/Fiend/Bagger Da Gic.md\|baggers]], [[5. Mechanics/Bestiary/Monstrosity/Bloodhound Da Gic.md\|bloodhounds]], and [[5. Mechanics/Bestiary/Fiend/Handler Da Gic.md\|handlers]] (see Appendix A for monster stats). Regardless of the type of devils that compose the group, these enforcers are commonly referred to as collection agents.
+Collection efforts are performed on behalf of the contract administrator. They are reimbursed by either the contract administrator or a higher-ranking devil to which the contract administrator reports, such as a duke or archdevil. These barbarous task forces may involve any number of devils outlined in the *Monster Manual* or *Mordenkainen's Tome of Foes*, but most collection efforts include [[/5. Mechanics/Bestiary/Fiend/Bagger Da Gic.md\|baggers]], [[/5. Mechanics/Bestiary/Monstrosity/Bloodhound Da Gic.md\|bloodhounds]], and [[/5. Mechanics/Bestiary/Fiend/Handler Da Gic.md\|handlers]] (see Appendix A for monster stats). Regardless of the type of devils that compose the group, these enforcers are commonly referred to as collection agents.
 
 #### Baggers
 
@@ -29,7 +29,7 @@ Baggers are tall, gangly devils charged with transporting uncooperative signees 
 
 #### Bloodhounds
 
-Hellhounds are excellent trackers, but they're mediocre at sniffing out signees who can mask their trail with illusion magic or hide through a spell like [[5. Mechanics/Spells/Mordenkainens Private Sanctum.md\|Mordenkainen's private sanctum]]. Deep in the lorehouses of frigid Cania, servants of the archdevil Mephistopheles sought to remedy this problem by experimenting on hellhounds with ancient magic. The result was the bloodhound, a brutish tracker with a nose calibrated to arcane violators. When it's in range, the olfactory glands of a bloodhound's snout are capable of disrupting magical nondetection and illusions
+Hellhounds are excellent trackers, but they're mediocre at sniffing out signees who can mask their trail with illusion magic or hide through a spell like [[/5. Mechanics/Spells/Mordenkainens Private Sanctum.md\|Mordenkainen's private sanctum]]. Deep in the lorehouses of frigid Cania, servants of the archdevil Mephistopheles sought to remedy this problem by experimenting on hellhounds with ancient magic. The result was the bloodhound, a brutish tracker with a nose calibrated to arcane violators. When it's in range, the olfactory glands of a bloodhound's snout are capable of disrupting magical nondetection and illusions
 
 #### Handlers
 

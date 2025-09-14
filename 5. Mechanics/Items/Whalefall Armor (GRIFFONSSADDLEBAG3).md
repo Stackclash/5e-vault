@@ -13,7 +13,7 @@ armorClass: 15 + Dex modifier (max of +2)
 weight: 40
 ---
 # Whalefall Armor
-*Medium armor ([[5. Mechanics/Items/Half Plate Armor.md\|half plate armor]]), major, very rare (requires attunement)*  
+*Medium armor ([[/5. Mechanics/Items/Half Plate Armor.md\|half plate armor]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Whalefall-Armor.webp#right)  
 
 - **Armor Class**: 15 + Dex modifier (max of +2)
@@ -28,7 +28,7 @@ The armor has 5 charges for the following properties. It regains `dice:1d4+1|nof
 
 ## Spells
 
-While wearing this armor, you can use an action to cast one of the following spells (save DC 16): [[5. Mechanics/Spells/False Life.md\|false life]] (2nd-level version, 1 charge), [[5. Mechanics/Spells/Insect Plague.md\|insect plague]] (4 charges; the insects appear as a massive swarm of rotting quippers), or [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] (2 charges).
+While wearing this armor, you can use an action to cast one of the following spells (save DC 16): [[/5. Mechanics/Spells/False Life.md\|false life]] (2nd-level version, 1 charge), [[/5. Mechanics/Spells/Insect Plague.md\|insect plague]] (4 charges; the insects appear as a massive swarm of rotting quippers), or [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] (2 charges).
 
 ## Bakekujira
 

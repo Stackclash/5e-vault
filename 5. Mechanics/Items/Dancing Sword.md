@@ -20,7 +20,7 @@ aliases:
 ---
 # Dancing Sword
 *Major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/dancing-sword.webp#right]]  
+![[/5. Mechanics/Items/img/dancing-sword.webp#right]]  
 
 
 You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.

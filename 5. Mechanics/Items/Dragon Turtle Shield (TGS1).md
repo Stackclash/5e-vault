@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Dragon Turtle Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Dragon-Turtle-Shield.webp#right)  
 
 - **Armor Class**: 2

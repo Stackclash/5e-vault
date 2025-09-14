@@ -18,16 +18,29 @@ classes:
   - Wizard
 school: Evocation
 level: 4
+damage:
+  base: 10d4
+  scaling:
+    damage: 2d4
+    level: 5
+  types:
+    - acid
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 150 feet
+somatic: true
+verbal: true
+material: a drop of giant slug bile
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Vitriolic Sphere
-material: a drop of giant slug bile
 ---
 # Vitriolic Sphere
 *4th-level, Evocation*  
@@ -41,6 +54,6 @@ You point at a location within range, and a glowing 1-foot-diameter ball of emer
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the initial damage increases by `dice:2d4|noform|noparens|avg|text(2d4)` for each slot level above 4th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 170*

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Annis Hag
 ---
-# [[5. Mechanics\Bestiary\Fey\Annis Hag (MPMM).md|Annis Hag]]
+# [[5. Mechanics/Bestiary/Fey/Annis Hag (MPMM).md|Annis Hag]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47, Volo's Guide to Monsters p. 159*
 
 Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.
@@ -24,7 +24,7 @@ Annis hags leave tokens of their cruelty at the edges of forests and other areas
 
 When an annis feels especially cruel, the hag adopts the appearance of a kindly elder, approaches a child in a remote place, and gives them an iron token (described below), through which the child can magically confide in the hag. Over time, "Granny" or "Grampy" convinces the child that it's okay to do bad deeds—starting with breaking things or wandering without permission, then graduating to pushing someone down the stairs or setting a house on fire. Eventually, the child's terrified family and community face painful decisions of what to do about the seemingly remorseless child.
 
-Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([[5. Mechanics/Bestiary/Giant/Ogre.md|ogres]] and [[5. Mechanics/Bestiary/Giant/Troll.md|trolls]]), ruling them through brute strength, insults, and superstition.
+Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([[/5. Mechanics/Bestiary/Giant/Ogre.md|ogres]] and [[/5. Mechanics/Bestiary/Giant/Troll.md|trolls]]), ruling them through brute strength, insults, and superstition.
 
 ## Iron Token
 
@@ -53,26 +53,27 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
   - !!int "15"
 "speed": "40 ft."
 "saves":
-  - "constitution": "+5"
+  - "constitution": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "cold"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": "Common, Giant, Sylvan"
 "cr": "6"
 "actions":
   - "desc": "The annis makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15\
       \ (3d6 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15\
       \ (3d6 + 5) slashing damage."
     "name": "Claw"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 36\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 36\
       \ (9d6 + 5) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 15) if it is a Large or smaller creature. Until the grapple ends,\
       \ the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of the\
@@ -80,13 +81,13 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
       \ way."
     "name": "Crushing Hug"
   - "desc": "The hag casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 13):\n\n3/day each: [[5. Mechanics/Spells/Disguise Self.md|disguise self]]\
-      \ (including the form of a Medium Humanoid), [[5. Mechanics/Spells/Fog Cloud.md|Fog cloud]]"
+      \ ability (spell save DC 13):\n\n**3/day each:** [[/5. Mechanics/Spells/Disguise Self.md|disguise self]]\
+      \ (including the form of a Medium Humanoid), [[/5. Mechanics/Spells/Fog Cloud.md|Fog cloud]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/annis-hag-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/annis-hag-mpmm.webp"
 ```
 ^statblock
 

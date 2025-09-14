@@ -19,16 +19,24 @@ classes:
   - Warlock
 school: Enchantment
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 2
+  types: []
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self (10-foot Radius)
+somatic: true
+verbal: true
+material: 'a holy symbol or religious tome, text, or pamphlet'
+area:
+  shape: radius
+  size: 10
 aliases:
   - Proselytize
-material: 'a holy symbol or religious tome, text, or pamphlet'
 ---
 # Proselytize
 *1st-level, Enchantment*  
@@ -42,6 +50,8 @@ You imbue your words with darkness and fear, bringing creatures around you to th
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the radius of the effect increases by 10 feet for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Paladin (Oath of the Annihilator)](compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
 
 *Source: Deep Magic p. 312*

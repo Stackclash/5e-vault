@@ -14,7 +14,7 @@ tags:
 aliases:
   - Grung Wildling (Green)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Wildling Green (MPMM).md|Grung Wildling (Green)]]
+# [[5. Mechanics/Bestiary/Humanoid/Grung Wildling Green (MPMM).md|Grung Wildling (Green)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*
 
 ```statblock
@@ -36,7 +36,7 @@ aliases:
   - !!int "11"
 "speed": "25 ft., climb 25 ft."
 "saves":
-  - "dexterity": "+5"
+  - "dexterity": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+2"
@@ -70,16 +70,16 @@ aliases:
       \ only through magic or by immersing itself in water for at least 1 hour."
     "name": "Water Dependency"
 "actions":
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 5 (2d4) poison damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage plus 5 (2d4) poison damage."
     "name": "Dagger"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit:*\
       \ 6 (1d6 + 3) piercing damage plus 5 (2d4) poison damage."
     "name": "Shortbow"
   - "desc": "The grung casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Druidcraft.md|druidcraft]]\n\
-      \n3/day each: [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Spike Growth.md|spike growth]]\n\
-      \n2/day: [[5. Mechanics/Spells/Plant Growth.md|plant growth]]"
+      \ ability (spell save DC 12):\n\n**At will:** [[/5. Mechanics/Spells/Druidcraft.md|druidcraft]]\n\
+      \n**3/day each:** [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[/5. Mechanics/Spells/Spike Growth.md|spike growth]]\n\
+      \n**2/day:** [[/5. Mechanics/Spells/Plant Growth.md|plant growth]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"

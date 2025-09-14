@@ -14,12 +14,19 @@ classes:
   - Warlock
 school: Necromancy
 level: 7
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
 ritual: false
 time: 1 Reaction
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Defile Healing
 ---
@@ -35,6 +42,6 @@ You attempt to reverse the energy of a healing spell so that it deals damage ins
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level, it can reverse a healing spell being cast using a spell slot of 6th level or lower. If you use a 9th-level spell slot, it can reverse a healing spell being cast using a spell slot of 7th level or lower.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 59*

@@ -22,20 +22,17 @@ school: Transmutation
 level: 2
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: true
+verbal: true
+material: a handful of oak bark
 aliases:
   - Barkskin
-range: Touch
-material: A handful of oak bark.
-concentration: true
 ---
 # Barkskin
 *2nd-level, Transmutation*  
-![[5. Mechanics/Spells/img/barkskin.webp#right]]  
+![[/5. Mechanics/Spells/img/barkskin.webp#right]]  
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -44,6 +41,6 @@ concentration: true
 
 You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

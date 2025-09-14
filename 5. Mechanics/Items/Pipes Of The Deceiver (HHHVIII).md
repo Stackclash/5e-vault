@@ -17,7 +17,7 @@ This pipe has 10 charges. If you are proficient in a wind instrument, you may ex
 
 ## Spellcasting
 
-You use the pipe to cast one of the following spells of your choice: [[5. Mechanics/Spells/Alter Self.md\|alter self]] (2 charges), [[5. Mechanics/Spells/Animate Dead.md\|animate dead]] (3 charges), [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] (3 charges), [[5. Mechanics/Spells/Confusion.md\|confusion]] (4 chargeS), [[5. Mechanics/Spells/Major Image.md\|major image]] (3 charges), [[5. Mechanics/Spells/Modify Memory.md\|modify memory]] (5 charges), [[5. Mechanics/Spells/Mislead.md\|mislead]] (5 charges), [[5. Mechanics/Spells/Nondetection.md\|nondetection]] (3 charges), or [[5. Mechanics/Spells/Sending.md\|sending]] (3 charges).
+You use the pipe to cast one of the following spells of your choice: [[/5. Mechanics/Spells/Alter Self.md\|alter self]] (2 charges), [[/5. Mechanics/Spells/Animate Dead.md\|animate dead]] (3 charges), [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] (3 charges), [[/5. Mechanics/Spells/Confusion.md\|confusion]] (4 chargeS), [[/5. Mechanics/Spells/Major Image.md\|major image]] (3 charges), [[/5. Mechanics/Spells/Modify Memory.md\|modify memory]] (5 charges), [[/5. Mechanics/Spells/Mislead.md\|mislead]] (5 charges), [[/5. Mechanics/Spells/Nondetection.md\|nondetection]] (3 charges), or [[/5. Mechanics/Spells/Sending.md\|sending]] (3 charges).
 
 ## Frightful Word
 

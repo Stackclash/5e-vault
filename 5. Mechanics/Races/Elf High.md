@@ -9,9 +9,9 @@ aliases:
 ---
 # Elf (High)
 *Source: Player's Handbook p. 23. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
-![[5. Mechanics/Races/img/elf.webp#right]]  
+![[/5. Mechanics/Races/img/elf.webp#right]]  
 
-- **Ability Scores**: Intelligence +1
+- **Ability Scores**: int +1
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Intelligence
@@ -51,7 +51,7 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Elf Weapon Training
 
-You have proficiency with the [[5. Mechanics/Items/Longsword.md\|longsword]], [[5. Mechanics/Items/Shortsword.md\|shortsword]], [[5. Mechanics/Items/Shortbow.md\|shortbow]], and [[5. Mechanics/Items/Longbow.md\|longbow]].
+You have proficiency with the [[/5. Mechanics/Items/Longsword.md\|longsword]], [[/5. Mechanics/Items/Shortsword.md\|shortsword]], [[/5. Mechanics/Items/Shortbow.md\|shortbow]], and [[/5. Mechanics/Items/Longbow.md\|longbow]].
 
 ### Cantrip
 
@@ -65,7 +65,7 @@ You can speak, read, and write one extra language of your choosing.
 
 As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many of the worlds of D&D, there are two kinds of high elves. One type (which includes the gray elves and valley elves of Greyhawk, the Silvanesti of Dragonlance, and the sun elves of the Forgotten Realms) is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type (including the high elves of Greyhawk, the Qualinesti of Dragonlance, and the moon elves of the Forgotten Realms) are more common and more friendly, and often encountered among humans and other races.
 
-The sun elves of Faerun (also called gold elves or sunrise elves) have bronze skin and hair of copper, black, or golden blond. Their eyes are golden, silver, or black. Moon elves (also called silver elves or gray elves) are much paler, with alabaster skin sometimes tinged with blue. They often have hair of silver-white, black, or blue, but various shades of blond, brown, and red are not uncommon. Their eyes are blue or green and flecked with gold.
+The sun elves of Faerûn (also called gold elves or sunrise elves) have bronze skin and hair of copper, black, or golden blond. Their eyes are golden, silver, or black. Moon elves (also called silver elves or gray elves) are much paler, with alabaster skin sometimes tinged with blue. They often have hair of silver-white, black, or blue, but various shades of blond, brown, and red are not uncommon. Their eyes are blue or green and flecked with gold.
 
 Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry, and the good things of the world.
 

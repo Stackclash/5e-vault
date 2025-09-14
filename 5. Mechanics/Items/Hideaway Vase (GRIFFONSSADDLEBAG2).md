@@ -19,7 +19,7 @@ While on this demiplane, you can't move and are [[/5. Mechanics/Rules/Conditions
 
 The vase has AC 12, 30 hit points, and is vulnerable to bludgeoning damage. The vase is destroyed if it drops to 0 hit points. If the vase is destroyed while a creature is on its demiplane, that creature is forced into the nearest unoccupied space. Once a creature leaves the demiplane, the vase's lid can't be removed again for 24 hours.
 
-You can remain on the demiplane for up to 8 hours or until the vase is placed inside an extradimensional space created by a [[5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], [[5. Mechanics/Items/Portable Hole.md\|portable hole]], or similar item, at which time you are forcefully shunted out of it. If the lid is successfully held in place when you would be forcefully shunted from the demiplane in this way, the vase shatters and is destroyed.
+You can remain on the demiplane for up to 8 hours or until the vase is placed inside an extradimensional space created by a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], [[/5. Mechanics/Items/Portable Hole.md\|portable hole]], or similar item, at which time you are forcefully shunted out of it. If the lid is successfully held in place when you would be forcefully shunted from the demiplane in this way, the vase shatters and is destroyed.
 
 While holding the vase, you can use an action to change the style, color, and apparent quality of the vessel. The vase's weight doesn't change. Regardless of its appearance, the vase can't be anything but a vase.
 

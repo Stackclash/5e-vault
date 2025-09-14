@@ -13,13 +13,13 @@ armorClass: 14 + Dex modifier (max of +2)
 weight: 45
 ---
 # Couatl Herald's Scales
-*Medium armor ([[5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, rare (requires attunement by a creature of good alignment)*  
+*Medium armor ([[/5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, rare (requires attunement by a creature of good alignment)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Couatl-Heralds-Scales.webp#right)  
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 45.0 lbs.
 
-This enchanted armor is made from [[5. Mechanics/Bestiary/Celestial/Couatl.md\|couatl]] scales that were collected by a generous celestial. You gain a +1 bonus to AC while you wear this armor. This armor does not impose disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks.
+This enchanted armor is made from [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatl]] scales that were collected by a generous celestial. You gain a +1 bonus to AC while you wear this armor. This armor does not impose disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks.
 
 ## Tooth and Scale
 

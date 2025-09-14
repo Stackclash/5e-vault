@@ -15,13 +15,12 @@ level: 8
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: 'a ruby worth 500 gp, which is consumed during the casting'
 aliases:
   - Life Hack
-material: 'a ruby worth 500 gp, which is consumed during the casting'
 ---
 # Life Hack
 *8th-level, Necromancy*  
@@ -35,6 +34,6 @@ Choose up to five creatures that you can see within range. Each of the creatures
 
 A creature can't draw temporary hit points from the pool while it has temporary hit points from any source, including a previous casting of this spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 166*

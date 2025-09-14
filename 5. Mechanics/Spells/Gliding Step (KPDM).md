@@ -14,12 +14,18 @@ classes:
   - Ranger
 school: Abjuration
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 2
+  types: []
 ritual: false
 time: 1 Action
 duration: 10 minutes
-components:
-  - V
-  - S
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Gliding Step
 ---
@@ -35,6 +41,6 @@ Provided you're not carrying more of a load than your carrying capacity permits,
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the duration increases by 10 minutes for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 75*

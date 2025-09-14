@@ -16,16 +16,29 @@ classes:
   - Sorcerer (Divine Soul)
 school: Evocation
 level: 5
+damage:
+  base: 8d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - radiant
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self (15-foot Sphere)
+somatic: true
+verbal: true
+material: a pinch of grave dirt
+area:
+  shape: sphere
+  size: 15
 aliases:
   - Lay to Rest
-material: a pinch of grave dirt
 ---
 # Lay to Rest
 *5th-level, Evocation*  
@@ -39,6 +52,6 @@ A pulse of searing light rushes out from you. Each undead creature within 15 fee
 
 An undead creature reduced to 0 hit points by this spell disintegrates in a burst of radiant motes, leaving anything it was wearing or carrying in the space it formerly occupied.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 90*

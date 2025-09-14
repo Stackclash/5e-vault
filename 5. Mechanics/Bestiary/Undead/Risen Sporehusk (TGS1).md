@@ -16,12 +16,12 @@ tags:
 aliases:
   - Risen Sporehusk
 ---
-# [[5. Mechanics\Bestiary\Undead\Risen Sporehusk (TGS1).md|Risen Sporehusk]]
+# [[5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md|Risen Sporehusk]]
 *Source: The Griffon's Saddlebag, Book 1 p. 186*
 
 The creatures that fall victim to the Lightspore's influence become sporehusks: empty shells of their former selves whose only purpose is to nourish the great Lightspore at the center of the festerwood.
 
-When a creature dies while it has at least one Spore Counter, it becomes a [[5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md|risen sporehusk]] after 24 hours. If it is slain again, the corpse remains dead.
+When a creature dies while it has at least one Spore Counter, it becomes a [[/5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md|risen sporehusk]] after 24 hours. If it is slain again, the corpse remains dead.
 
 Sporehusks will not attack unless provoked. Their natural preference is to shamble their way towards the Lightspore, but will defend themselves if attacked or otherwise prevented from reaching their destination.
 
@@ -84,11 +84,11 @@ The sporehusk makes one grab attack. If that attack hits, the sporehusk can make
 
 ### New Action: Grab
 
-*Melee Weapon Attack:* using Strength. On a hit, the attack deals `dice:1d6|noform|noparens|avg` (`d6`) + Strength modifier bludgeoning damage and if the target is a creature, it is grappled. The escape DC of the grapple is equal to 10 + the creature's Strength modifier.
+*Melee Weapon Attack:* using Strength. On a hit, the attack deals `dice:1d6|noform|noparens|avg` (`1d6`) + Strength modifier bludgeoning damage and if the target is a creature, it is grappled. The escape DC of the grapple is equal to 10 + the creature's Strength modifier.
 
 ### New Action: Bite
 
-*Melee Weapon Attack:* using Strength, targeting a creature grappled by the sporehusk. On a hit, the attack deals `dice:1d8|noform|noparens|avg` (`d8`) + Strength modifier piercing damage.
+*Melee Weapon Attack:* using Strength, targeting a creature grappled by the sporehusk. On a hit, the attack deals `dice:1d8|noform|noparens|avg` (`1d8`) + Strength modifier piercing damage.
 
 > [!note] REMINDER: Changing Ability Scores
 > 
@@ -97,13 +97,13 @@ The sporehusk makes one grab attack. If that attack hits, the sporehusk can make
 
 ## Example Sporehusk
 
-Use the new abilities and features from the *Becoming A Sporehusk* section to create the statistics for a newly turned sporehusk. As an example, the sporehusk template has been applied to a human scout to create a [[5. Mechanics/Bestiary/Humanoid/Scout Sporehusk (TGS1).md|scout sporehusk]].
+Use the new abilities and features from the *Becoming A Sporehusk* section to create the statistics for a newly turned sporehusk. As an example, the sporehusk template has been applied to a human scout to create a [[/5. Mechanics/Bestiary/Humanoid/Scout Sporehusk (TGS1).md|scout sporehusk]].
 
 ## Saving Sporehusks
 
-A sporehusk subjected to 8 or more hours of sunlight each day for 5 days is cured of its affliction. A [[5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md|risen sporehusk]] becomes a nonmagical corpse, and a living sporehusk has no memory of its time spent as a husk.
+A sporehusk subjected to 8 or more hours of sunlight each day for 5 days is cured of its affliction. A [[/5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md|risen sporehusk]] becomes a nonmagical corpse, and a living sporehusk has no memory of its time spent as a husk.
 
-If you reduce a sporehusk to 0 hit points and magically revive it again before it becomes a [[5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md|risen sporehusk]], the creature returns to its normal faculties with 1 level of exhaustion and two Spore Counters.
+If you reduce a sporehusk to 0 hit points and magically revive it again before it becomes a [[/5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md|risen sporehusk]], the creature returns to its normal faculties with 1 level of exhaustion and two Spore Counters.
 
 ```statblock
 "name": "Risen Sporehusk (TGS1)"
@@ -128,7 +128,8 @@ If you reduce a sporehusk to 0 hit points and magically revive it again before i
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft. (blind beyond\
+  \ this radius), passive Perception 10"
 "languages": ""
 "cr": "1"
 "traits":
@@ -147,12 +148,12 @@ If you reduce a sporehusk to 0 hit points and magically revive it again before i
   - "desc": "The sporehusk makes one grab attack. If that attack hits, the sporehusk\
       \ can make one bite attack against the same target."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
       \ + 1) bludgeoning damage and if the target is a creature, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 11)."
     "name": "Grab"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target that is grappled\
-      \ by the sporehusk. Hit: 5 (1d8 + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target that is grappled\
+      \ by the sporehusk. *Hit:* 5 (1d8 + 1) piercing damage."
     "name": "Bite"
 "source":
   - "tgs1"

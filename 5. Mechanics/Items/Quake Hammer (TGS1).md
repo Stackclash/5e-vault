@@ -11,11 +11,11 @@ tags:
 aliases:
   - Quake Hammer
 one-hand-damage: 1d4 bludgeoning
-range: 20\60
+range: 20/60
 weight: 2
 ---
 # Quake Hammer
-*Weapon ([[5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Quake-Hammer.webp#right)  
 
 - **Damage**: 1d4 bludgeoning

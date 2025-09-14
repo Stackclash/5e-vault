@@ -13,7 +13,7 @@ tags:
 aliases:
   - Haunted Figure
 ---
-# [[5. Mechanics\Bestiary\Construct\Haunted Figure (HHHVIII).md|Haunted Figure]]
+# [[5. Mechanics/Bestiary/Construct/Haunted Figure (HHHVIII).md|Haunted Figure]]
 *Source: Hamund's Harvesting Handbook: Volume III p. 89*
 
 ```statblock
@@ -48,7 +48,7 @@ aliases:
       \ haunted figure makes a Charisma check contested by the target's Strength check.\
       \ If the haunted figure wins the contest, the haunted figure hurls the target\
       \ up to 30 feet in any direction, including upward. If the target then comes\
-      \ into contact with a hard surface or heavy object, the target takes d6 damage\
+      \ into contact with a hard surface or heavy object, the target takes 1d6 damage\
       \ per 10 feet moved. If the target is an object that isn't being worn or carried,\
       \ the haunted figure hurls it up to 30 feet in any direction. The haunted figure\
       \ can use the object as a ranged weapon, attacking one creature along the object's\

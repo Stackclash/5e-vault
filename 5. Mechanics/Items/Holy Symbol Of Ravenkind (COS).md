@@ -10,7 +10,7 @@ aliases:
 ---
 # Holy Symbol of Ravenkind
 *Wondrous item, legendary (requires attunement by a cleric or paladin of good alignment)*  
-![[5. Mechanics/Items/img/holy-symbol-of-ravenkind.webp#right]]  
+![[/5. Mechanics/Items/img/holy-symbol-of-ravenkind.webp#right]]  
 
 
 The Holy Symbol of Ravenkind is a unique holy symbol sacred to the good-hearted faithful of Barovia. It predates the establishment of any church in Barovia. According to legend, it was delivered to a paladin named Lugdana by a giant raven—or an angel in the form of a giant raven. Lugdana used the holy symbol to root out and destroy nests of vampires until her death. The high priests of Ravenloft kept and wore the holy symbol after Lugdana's passing.
@@ -21,7 +21,7 @@ The holy symbol has 10 charges for the following properties. It regains `dice:1d
 
 ## Hold Vampires
 
-As an action, you can expend 1 charge and present the holy symbol to make it flare with holy power. Vampires and [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] within 30 feet of the holy symbol when it flares must make a DC 15 Wisdom saving throw. On a failed save, a target is [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] for 1 minute. It can repeat the saving throw at the end of its turns to end the effect on itself.
+As an action, you can expend 1 charge and present the holy symbol to make it flare with holy power. Vampires and [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] within 30 feet of the holy symbol when it flares must make a DC 15 Wisdom saving throw. On a failed save, a target is [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] for 1 minute. It can repeat the saving throw at the end of its turns to end the effect on itself.
 
 ## Turn Undead
 

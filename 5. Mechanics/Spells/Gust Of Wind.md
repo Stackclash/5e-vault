@@ -37,24 +37,22 @@ classes:
   - Wizard
 school: Evocation
 level: 2
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Self (60-foot Line)
+somatic: true
+verbal: true
+material: a legume seed
+area:
+  shape: line
+  size: 60
 aliases:
   - Gust of Wind
-range: Self
-material: A legume seed.
-save:
-  type: STR
-  success: none
-area:
-  type: line
-  size: 60
-concentration: true
 ---
 # Gust of Wind
 *2nd-level, Evocation*  
@@ -72,6 +70,6 @@ The gust disperses gas or vapor, and it extinguishes candles, torches, and simil
 
 As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Tempest Domain.md\|Cleric (Tempest Domain)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Warlock (The Genie Lord)](compendium/lists/list-spells-classes-the-genie-lord-kpdm.md "subclass=KPDM"); [Warlock (The Genie)](compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of Thunder)](compendium/lists/list-spells-classes-oath-of-thunder-kpdm.md "subclass=KPDM"); [Warlock (The Fathomless)](compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Rocborne)](compendium/lists/list-spells-classes-rocborne-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Tempest Domain.md\|Cleric (Tempest Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Thunder)](/compendium/lists/list-spells-classes-oath-of-thunder-kpdm.md "subclass=KPDM"); [Ranger (Rocborne)](/compendium/lists/list-spells-classes-rocborne-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Fathomless)](/compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [Warlock (The Genie Lord)](/compendium/lists/list-spells-classes-the-genie-lord-kpdm.md "subclass=KPDM"); [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

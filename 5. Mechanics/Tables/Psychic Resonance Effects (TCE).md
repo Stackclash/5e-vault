@@ -15,8 +15,8 @@ aliases:
 
 | dice: d100 | Effect |
 |------------|--------|
-| 01–06 | One random creature in the region gains the ability to cast the [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] spell (save DC 13) once over the next 24 hours, requiring no components. Intelligence is the spellcasting ability for this spell. |
-| 07–12 | One random creature in the region is affected by the [[5. Mechanics/Spells/Mind Blank.md\|mind blank]] spell for the next 24 hours. |
+| 01–06 | One random creature in the region gains the ability to cast the [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] spell (save DC 13) once over the next 24 hours, requiring no components. Intelligence is the spellcasting ability for this spell. |
+| 07–12 | One random creature in the region is affected by the [[/5. Mechanics/Spells/Mind Blank.md\|mind blank]] spell for the next 24 hours. |
 | 13–18 | For 1 minute on initiative count 20 (losing all ties), Tiny and Small objects in the region that aren't being worn or carried are flung by an unseen force. One random creature in the region must succeed on a DC 15 Dexterity saving throw or take `dice:2d4\|noform\|noparens\|avg` (`2d4`) bludgeoning damage from the flung objects. |
 | 19–24 | Memories become sharp and clear for 1 hour. During this time, each creature in the region adds double its proficiency bonus to Intelligence checks made to recall information. |
 | 25–34 | Headaches and nosebleeds plague humanoids in the region, imposing disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks for 1 hour. |
@@ -26,7 +26,7 @@ aliases:
 | 53–58 | One random creature in the region can sense the presence of nearby minds for 1 hour. For the duration, the creature gains advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks made to locate other creatures within 120 feet of it, even creatures behind total cover. |
 | 59–64 | Creatures in the region suffer from disjointed thoughts and difficulty concentrating for 1 hour. For the duration, creatures have disadvantage on Intelligence checks and Constitution saving throws to maintain concentration on spells. |
 | 65–70 | One random creature in the region hears strange whispers in its mind. The whispers are fragments of thoughts from other creatures nearby. The creature has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) checks for 1 hour. |
-| 71–76 | One random creature in the region gains the ability to cast the [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]] spell (save DC 15) once over the next 24 hours, requiring no components. Intelligence is the spellcasting ability for this spell. |
+| 71–76 | One random creature in the region gains the ability to cast the [[/5. Mechanics/Spells/Telekinesis.md\|telekinesis]] spell (save DC 15) once over the next 24 hours, requiring no components. Intelligence is the spellcasting ability for this spell. |
 | 77–82 | Thoughts in the region attract ambient psychic energy, forming protective fields around creatures' minds. Creatures in the region gain resistance to psychic damage for the next hour. |
 | 83–88 | For 1 minute on initiative count 20 (losing all ties), one random creature in the region must succeed on a DC 15 Intelligence saving throw or take `dice:2d6\|noform\|noparens\|avg` (`2d6`) psychic damage. |
 | 89–94 | Compassion and joy fill the mind of one random creature in the region for 1 minute. For the duration, the creature has advantage on Intelligence, Wisdom, and Charisma saving throws, and disadvantage on attack rolls. |

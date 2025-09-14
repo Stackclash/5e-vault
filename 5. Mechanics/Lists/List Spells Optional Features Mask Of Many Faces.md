@@ -10,4 +10,4 @@ aliases:
 
 ## 1st Level
 
-- [[5. Mechanics/Spells/Disguise Self.md \|"PHB"]]
+- [[/5. Mechanics/Spells/Disguise Self.md \|"PHB"]]

@@ -13,7 +13,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Stalwart Staff
-*Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), minor, common*  
+*Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Stalwart-Staff.webp#right)  
 
 - **Damage**:

@@ -21,12 +21,12 @@ school: Divination
 level: 2
 ritual: true
 time: 1 Action
-duration: up to 1 hour
-components:
-  - S
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: true
+verbal: false
 aliases:
   - Beast Sense
-concentration: true
 ---
 # Beast Sense
 *2nd-level, Divination (ritual)*  
@@ -38,6 +38,6 @@ concentration: true
 
 You touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. While perceiving through the beast's senses, you gain the benefits of any special senses possessed by that creature, though you are [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] and [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] to your own surroundings.
 
-**Classes**: [Cleric (Cat Domain)](compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Path Of The Totem Warrior.md\|Barbarian (Path of the Totem Warrior)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Path Of The Totem Warrior.md\|Barbarian (Path of the Totem Warrior)]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Player's Handbook p. 217*

@@ -10,10 +10,10 @@ tags:
 aliases:
   - Light Sling
 one-hand-damage: 1d4 bludgeoning
-range: 30\120
+range: 30/120
 ---
 # Light Sling
-*Weapon ([[5. Mechanics/Items/Sling.md\|sling]]), minor, common*  
+*Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Light-Sling.webp#right)  
 
 - **Damage**: 1d4 bludgeoning

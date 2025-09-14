@@ -22,16 +22,21 @@ classes:
   - Wizard
 school: Transmutation
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
 ritual: false
 time: 1 Action
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a drop of ammonia
 aliases:
   - Bloodhound
-material: a drop of ammonia
 ---
 # Bloodhound
 *1st-level, Transmutation*  
@@ -45,6 +50,6 @@ You touch a willing creature to grant it an enhanced sense of smell. For the dur
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you also grant the target [[/5. Mechanics/Rules/Senses.md#Blindsight\|blindsight]] out to a range of 30 feet for the duration.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 45*

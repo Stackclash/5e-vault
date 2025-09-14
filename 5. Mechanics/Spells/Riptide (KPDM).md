@@ -20,12 +20,27 @@ classes:
   - Wizard
 school: Conjuration
 level: 3
+damage:
+  base: 3d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Strength
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Riptide
 ---
@@ -44,6 +59,6 @@ At the start of your next turn, you can direct the current of the swell as it di
 - **Riptide.** The water in the cylinder flows in a direction you choose, sweeping along each creature in the cylinder. An affected creature takes `dice:3d8|noform|noparens|avg` (`3d8`) bludgeoning damage and is pushed 40 feet in the chosen direction, landing [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].  
 - **Undertow.** The water rushes downward, pulling each creature in the cylinder into an unoccupied space at the center. Each creature is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and must make a successful Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the start of your next turn.  
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 103*

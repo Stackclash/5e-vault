@@ -22,17 +22,25 @@ classes:
   - Wizard
 school: Conjuration
 level: 3
+damage:
+  base: 3d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+material: a toy soldier
+area:
+  shape: cube
+  size: 10
 aliases:
   - Legion
-concentration: true
-material: a toy soldier
 ---
 # Legion
 *3rd-level, Conjuration*  
@@ -44,6 +52,6 @@ material: a toy soldier
 
 You call down a legion of shadowy soldiers in a 10-foot cube. Their features resemble a mockery of once-living creatures. Whenever a creature starts its turn inside the cube or within 5 feet of it, or enters the cube for the first time on its turn, the conjured shades make an attack using your melee spell attack modifier; on a hit, the target takes `dice:3d8|noform|noparens|avg` (`3d8`) necrotic damage. The space inside the cube is considered difficult terrain.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Darkness Domain)](compendium/lists/list-spells-classes-darkness-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Darkness Domain)](/compendium/lists/list-spells-classes-darkness-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 250*

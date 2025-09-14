@@ -21,8 +21,9 @@ level: 3
 ritual: false
 time: 1 Reaction
 duration: Instantaneous
-components:
-  - S
+range: 60 feet
+somatic: true
+verbal: false
 aliases:
   - Forceful Repurposing
 ---
@@ -38,6 +39,6 @@ You attempt to hijack a spell being cast and redirect it to serve your purpose. 
 
 Your targets must be valid targets for the spell based on the caster's ability and the range of the spell, but using your distinctions for friendly and hostile creatures.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 310*

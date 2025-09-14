@@ -26,19 +26,24 @@ classes:
   - Wizard
 school: Enchantment
 level: 5
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 6
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Modify Memory
-range: 30 feet
-save:
-  type: WIS
-  success: none
-concentration: true
 ---
 # Modify Memory
 *5th-level, Enchantment*  
@@ -56,10 +61,10 @@ You must speak to the target to describe how its memories are affected, and it m
 
 A modified memory doesn't necessarily affect how a creature behaves, particularly if the memory contradicts the creature's natural inclinations, alignment, or beliefs. An illogical modified memory, such as implanting a memory of how much the creature enjoyed dousing itself in acid, is dismissed, perhaps as a bad dream. The DM might deem a modified memory too nonsensical to affect a creature in a significant manner.
 
-A [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] or [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell cast on the target restores the creature's true memory.
+A [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] or [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell cast on the target restores the creature's true memory.
 
 **At Higher Levels.** If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).
 
-**Classes**: [Sorcerer (Fey Soul)](compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Time Domain)](compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [Cleric (Beer Domain)](compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [Cleric (Prophecy Domain)](compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of Owls)](compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [Warlock (The Shapechanger)](compendium/lists/list-spells-classes-the-shapechanger-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Beer Domain)](/compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [Cleric (Prophecy Domain)](/compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [Cleric (Time Domain)](/compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [Druid (Circle of Owls)](/compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [Sorcerer (Fey Soul)](/compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Warlock (The Shapechanger)](/compendium/lists/list-spells-classes-the-shapechanger-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

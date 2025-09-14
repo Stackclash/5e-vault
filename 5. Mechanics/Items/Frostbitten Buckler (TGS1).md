@@ -13,7 +13,7 @@ armorClass: 2
 weight: 6
 ---
 # Frostbitten Buckler
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Frostbitten-Buckler.webp#right)  
 
 - **Armor Class**: 2

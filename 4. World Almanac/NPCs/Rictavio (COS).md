@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\rictavio.webp
+  - ../../../../../4. World Almanac/NPCs/img/rictavio.webp
 relationships: []
 aliases:
   - Rictavio
@@ -54,7 +54,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 238*
@@ -71,7 +71,7 @@ Van Richten isn't a young man anymore. He knows his road is coming to an end, bu
 
 ### Man with a Plan
 
- Van Richten doesn't know that his former protégé, a good-aligned Vistana named Ezmerelda d'Avenir, has come to Barovia looking for him. He taught her many of his monster-hunting techniques, but she doesn't know all of his tricks and disguises. So far, their paths haven't crossed. In the event that van Richten becomes aware of Ezmerelda's presence, he does his utmost to protect her without putting his own plans in jeopardy. If he can manipulate a party of adventurers into keeping an eye on her, he will do so.
+Van Richten doesn't know that his former protégé, a good-aligned Vistana named Ezmerelda d'Avenir, has come to Barovia looking for him. He taught her many of his monster-hunting techniques, but she doesn't know all of his tricks and disguises. So far, their paths haven't crossed. In the event that van Richten becomes aware of Ezmerelda's presence, he does his utmost to protect her without putting his own plans in jeopardy. If he can manipulate a party of adventurers into keeping an eye on her, he will do so.
 
 Van Richten works alone. A curse placed on him long ago by a Vistani seer brings doom to those he befriends. Furthermore, he believes too much is at stake to risk exposure. Consequently, if he thinks he's in danger of being unmasked, he retreats to his tower (see chapter 11) or some other quiet corner of Strahd's domain.
 
@@ -143,7 +143,7 @@ actions:
 "subtype": "human"
 "alignment": "Lawful Good"
 "ac": !!int "12"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "77"
 "hit_dice": "14d8 + 14"
 "modifier": !!int "1"
@@ -156,8 +156,8 @@ actions:
   - !!int "16"
 "speed": "30 ft."
 "saves":
-  - "constitution": "+4"
-  - "wisdom": "+7"
+  - "constitution": !!int "4"
+  - "wisdom": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+9"
@@ -177,23 +177,23 @@ actions:
 "traits":
   - "desc": "Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom\
       \ (spell save DC 15, +7 to hit with spell attacks). Rictavio has the following\
-      \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-      \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mending.md|mending]],\
-      \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
-      \ [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-      \ [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
-      \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Augury.md|augury]],\
-      \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Protection From Poison.md|protection\
-      \ from poison]]\n\n3rd level (3\
-      \ slots): [[5. Mechanics/Spells/Magic Circle.md|magic circle]], [[5. Mechanics/Spells/Remove Curse.md|remove curse]],\
-      \ [[5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n4th level (3\
-      \ slots): [[5. Mechanics/Spells/Death Ward.md|death ward]], [[5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\
-      \n5th level (1 slots): [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Guidance.md|guidance]],\
+      \ [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Mending.md|mending]],\
+      \ [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n**1st level (4 slots):**\
+      \ [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]], [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+      \ [[/5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
+      \ [[/5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\n**2nd level (3 slots):** [[/5. Mechanics/Spells/Augury.md|augury]],\
+      \ [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[/5. Mechanics/Spells/Protection From Poison.md|protection\
+      \ from poison]]\n\n**3rd level\
+      \ (3 slots):** [[/5. Mechanics/Spells/Magic Circle.md|magic circle]], [[/5. Mechanics/Spells/Remove Curse.md|remove curse]],\
+      \ [[/5. Mechanics/Spells/Speak With Dead.md|speak with dead]]\n\n**4th level (3\
+      \ slots):** [[/5. Mechanics/Spells/Death Ward.md|death ward]], [[/5. Mechanics/Spells/Freedom Of Movement.md|freedom of movement]]\n\
+      \n**5th level (1 slots):** [[/5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]]"
     "name": "Spellcasting"
-  - "desc": "In addition to his sword cane, Rictavio wears a [[5. Mechanics/Items/Hat Of Disguise.md|hat of disguise]]\
-      \ and a [[5. Mechanics/Items/Ring Of Mind Shielding.md|ring of mind shielding]],\
-      \ and he carries a [[5. Mechanics/Items/Spell Scroll 5th Level.md|spell scroll]]\
-      \ of [[5. Mechanics/Spells/Raise Dead.md|raise dead]]."
+  - "desc": "In addition to his sword cane, Rictavio wears a [[/5. Mechanics/Items/Hat Of Disguise.md|hat of disguise]]\
+      \ and a [[/5. Mechanics/Items/Ring Of Mind Shielding.md|ring of mind shielding]],\
+      \ and he carries a [[/5. Mechanics/Items/Spell Scroll 5th Level.md|spell scroll]]\
+      \ of [[/5. Mechanics/Spells/Raise Dead.md|raise dead]]."
     "name": "Special Equipment"
   - "desc": "When Rictavio hits an undead with a weapon attack, the undead takes an\
       \ extra 10 (3d6) damage of the weapon's type."
@@ -201,12 +201,12 @@ actions:
 "actions":
   - "desc": "Rictavio makes two attacks with his sword cane."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
       \ + 1) bludgeoning damage (wooden cane) or piercing damage (silvered sword)."
     "name": "Sword Cane"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/rictavio-cos.webp"
+"image": "/4. World Almanac/NPCs/token/rictavio-cos.webp"
 ```
 ^statblock
 

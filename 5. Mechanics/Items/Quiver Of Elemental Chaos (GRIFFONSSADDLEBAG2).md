@@ -24,7 +24,7 @@ Any arrow or bolt created by this quiver is magical and has the following proper
 
 ## Air Ammunition
 
-This ammunition is weightless and whistles softly as it moves. This piece of ammunition can be fired at its long range without disadvantage and deals an extra `dice:1d6|noform|noparens|avg` (`d6`) thunder damage to any target it hits. In addition, any magical atmospheric effect that the arrow passes through cast at 3rd level or lower, such as a [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] or [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]], is dispelled.
+This ammunition is weightless and whistles softly as it moves. This piece of ammunition can be fired at its long range without disadvantage and deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) thunder damage to any target it hits. In addition, any magical atmospheric effect that the arrow passes through cast at 3rd level or lower, such as a [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] or [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]], is dispelled.
 
 ## Earth Ammunition
 
@@ -32,7 +32,7 @@ This ammunition carries an uncanny force behind it and turns to stone at its end
 
 ## Fire Ammunition
 
-This ammunition has tongues of fire licking up its side and spews embers at the slightest movement. When shot, it erupts into a plume of white-hot flame. This piece of ammunition deals an extra `dice:1d6|noform|noparens|avg` (`d6`) fire damage to any target it hits. Hit or miss, the ammunition explodes. The target and each creature within 5 feet of it must succeed on a DC 15 Dexterity saving throw or take `dice:1d6|noform|noparens|avg` (`d6`) fire damage.
+This ammunition has tongues of fire licking up its side and spews embers at the slightest movement. When shot, it erupts into a plume of white-hot flame. This piece of ammunition deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) fire damage to any target it hits. Hit or miss, the ammunition explodes. The target and each creature within 5 feet of it must succeed on a DC 15 Dexterity saving throw or take `dice:1d6|noform|noparens|avg` (`1d6`) fire damage.
 
 ## Water Ammunition
 
@@ -52,10 +52,10 @@ This special piece of glimmering ammunition is warm to the touch and flakes off 
 
 ## Ooze Ammunition
 
-This special piece of sticky ammunition gives off a faint, alchemical odor. This ammunition creates a unique [[5. Mechanics/Spells/Grease.md\|grease]] spell (save DC 15) at the point of impact. This version of the spell covers a 20-foot-square area, and any creature that starts its turn [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] in the area takes `dice:1d6|noform|noparens|avg` (`d6`) acid damage.
+This special piece of sticky ammunition gives off a faint, alchemical odor. This ammunition creates a unique [[/5. Mechanics/Spells/Grease.md\|grease]] spell (save DC 15) at the point of impact. This version of the spell covers a 20-foot-square area, and any creature that starts its turn [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] in the area takes `dice:1d6|noform|noparens|avg` (`1d6`) acid damage.
 
 ## Smoke Ammunition
 
-This special piece of black ammunition feels smooth like coal to the touch and releases a faint wisp of smoke. This ammunition duplicates the effect of the [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell (2nd-level version) at the point of impact, with the exception that this fog is pitch black.
+This special piece of black ammunition feels smooth like coal to the touch and releases a faint wisp of smoke. This ammunition duplicates the effect of the [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell (2nd-level version) at the point of impact, with the exception that this fog is pitch black.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 140*

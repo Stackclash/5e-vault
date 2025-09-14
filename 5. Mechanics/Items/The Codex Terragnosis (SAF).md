@@ -33,6 +33,6 @@ As an action once per day, you can cast cataclysm. Cataclysm (battle magic): Tar
 
 ## Defender of All the Earth
 
-Once, a druid who holds the codex terragnosis may assume the form of [[5. Mechanics/Bestiary/Celestial/The Phoenix (SAF).md\|the phoenix]]. This form lasts until sunrise or sunset, whichever comes first, at which point the phoenix dies in a flare of brilliant light. The druid must make a Constitution save against DC 18 to survive the conflagration. The codex terragnosis itself survives the conflagration and, regardless of whether the druid lives, relocates itself somewhere safer, and the Defender of all the Earth ability recharges.
+Once, a druid who holds the codex terragnosis may assume the form of [[/5. Mechanics/Bestiary/Celestial/The Phoenix (SAF).md\|the phoenix]]. This form lasts until sunrise or sunset, whichever comes first, at which point the phoenix dies in a flare of brilliant light. The druid must make a Constitution save against DC 18 to survive the conflagration. The codex terragnosis itself survives the conflagration and, regardless of whether the druid lives, relocates itself somewhere safer, and the Defender of all the Earth ability recharges.
 
 *Source: Strongholds and Followers p. 247*

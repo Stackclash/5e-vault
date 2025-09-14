@@ -13,7 +13,7 @@ tags:
 aliases:
   - Shadow Priest
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Shadow Priest (SAF).md|Shadow Priest]]
+# [[5. Mechanics/Bestiary/Humanoid/Shadow Priest (SAF).md|Shadow Priest]]
 *Source: Strongholds and Followers p. 74*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+3"
-  - "dexterity": "+3"
-  - "constitution": "+3"
-  - "intelligence": "+3"
-  - "wisdom": "+6"
-  - "charisma": "+3"
+  - "strength": !!int "3"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+5"
@@ -52,17 +52,17 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "The Shadow Priest casts the [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]]\
+  - "desc": "The Shadow Priest casts the [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]]\
       \ cantrip (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level).\n\
       \nAt 7th level, retainers can take two signature attacks per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nThe Shadow Priest casts the [[5. Mechanics/Spells/Pass Without Trace.md|pass\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nThe Shadow Priest casts the [[/5. Mechanics/Spells/Pass Without Trace.md|pass\
       \ without trace]] spell."
     "name": "Pass Without Trace (3/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe Shadow Priest casts the [[5. Mechanics/Spells/Dispel Magic.md|dispel\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe Shadow Priest casts the [[/5. Mechanics/Spells/Dispel Magic.md|dispel\
       \ magic]] spell."
     "name": "Dispel Magic (1/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe Shadow Priest casts the [[5. Mechanics/Spells/Dimension Door.md|dimension\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe Shadow Priest casts the [[/5. Mechanics/Spells/Dimension Door.md|dimension\
       \ door]] spell."
     "name": "Dimension Door (1/Day)"
 "source":

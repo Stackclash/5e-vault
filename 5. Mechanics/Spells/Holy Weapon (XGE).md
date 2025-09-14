@@ -16,15 +16,28 @@ classes:
   - Sorcerer (Divine Soul)
 school: Evocation
 level: 5
+damage:
+  base: 2d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - radiant
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Bonus Action
-duration: up to 1 hour
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Holy Weapon
-concentration: true
 ---
 # Holy Weapon
 *5th-level, Evocation*  
@@ -38,6 +51,6 @@ You imbue a weapon you touch with holy power. Until the spell ends, the weapon e
 
 As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution saving throw. On a failed save, a creature takes `dice:4d8|noform|noparens|avg` (`4d8`) radiant damage, and it is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] for 1 minute. On a successful save, a creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]]. At the end of each of its turns, a [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] creature can make a Constitution saving throw, ending the effect on itself on a success.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Xanathar's Guide to Everything p. 157*

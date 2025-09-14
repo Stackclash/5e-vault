@@ -13,7 +13,7 @@ tags:
 aliases:
   - Adult Ruby Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Ruby Dragon (SAF).md|Adult Ruby Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Ruby Dragon (SAF).md|Adult Ruby Dragon]]
 *Source: Strongholds and Followers p. 204*
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.
@@ -41,10 +41,10 @@ They are measured and formal, slow to give trust. They like seeing things done p
   - !!int "20"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  - "dexterity": "+11"
-  - "intelligence": "+10"
-  - "wisdom": "+8"
-  - "charisma": "+10"
+  - "dexterity": !!int "11"
+  - "intelligence": !!int "10"
+  - "wisdom": !!int "8"
+  - "charisma": !!int "10"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+10"
@@ -57,12 +57,13 @@ They are measured and formal, slow to give trust. They like seeing things done p
 "damage_vulnerabilities": "psychic"
 "damage_resistances": "bludgeoning, slashing, piercing from nonmagical weapons"
 "damage_immunities": "fire, lightning"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 23"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "16"
 "traits":
-  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
-      \ Charges: 18 • Recharge: d8 • Fracture: 22"
+  - "desc": "**[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].**\
+      \ **Charges:** 18 **• Recharge:** 1d8 **• Fracture:** 22"
     "name": ""
   - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -72,20 +73,23 @@ They are measured and formal, slow to give trust. They like seeing things done p
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 16\
       \ (2d10 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage."
     "name": "Claw"
-  - "desc": "Melee Weapon Attack: +10 to hit; reach 15 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +10 to hit; reach 15 ft., one target. *Hit:* 14\
       \ (2d8 + 5) bludgeoning damage."
     "name": "Tail"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the dragon can expend a use to take one of the following actions. The dragon\
+  \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
       \ Check."
     "name": "Detect"
-  - "desc": "The dragon uses a [[5. Mechanics/Lists/List Optfeaturetype Psi Man.md|psionic ability]]."
+  - "desc": "The dragon uses a [[/5. Mechanics/Lists/List Optfeaturetype Psi Man.md|psionic ability]]."
     "name": "Psionics"
   - "desc": "The dragon releases a wave of telekinetic energy from its mind. Every\
       \ creature within 15 feet must make a DC 24 Intelligence saving throw or take\

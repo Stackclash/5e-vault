@@ -50,18 +50,18 @@ aliases:
 
 Gods of harvesting are some of the oldest and most entrenched deities in their pantheons. This is because virtually every burgeoning humanoid race prays at some point for a successful hunt and the resulting harvest of food and resources. While they may not be as powerful as other gods, they are among the most reliable. They ensure their followers always have what they need and the means to take what they want. The clerics of these gods are naturally good at harvesting but can also use their steady hands and calm wisdom to hunt down any quarry they choose.
 
-Due to their overlap, gods of harvesting also tend to be gods of hunting like [[5. Mechanics/Deities/Greek Artemis.md\|Artemis]], Malar, or [[5. Mechanics/Deities/Norse Uller.md\|Uller]]. They may also be gods of nature, such as Silvanus and [[5. Mechanics/Deities/Egyptian Osiris.md\|Osiris]]. Even gods of crafting like [[5. Mechanics/Deities/Egyptian Ptah.md\|Ptah]] can extend their reach over the harvesting domain, due to their craft's reliance on the raw materials that only harvesting can provide.
+Due to their overlap, gods of harvesting also tend to be gods of hunting like [[/5. Mechanics/Deities/Greek Artemis.md\|Artemis]], Malar, or [[/5. Mechanics/Deities/Norse Uller.md\|Uller]]. They may also be gods of nature, such as Silvanus and [[/5. Mechanics/Deities/Egyptian Osiris.md\|Osiris]]. Even gods of crafting like [[/5. Mechanics/Deities/Egyptian Ptah.md\|Ptah]] can extend their reach over the harvesting domain, due to their craft's reliance on the raw materials that only harvesting can provide.
 
 ### Domain Spells (Level 1)
 
 You gain domain spells at the cleric levels listed in the Harvester Domain spells table.
 
 > [!embed-table]- Harvester Domain Spells
-> ![[5. Mechanics/Tables/Harvester Domain Spells (HHHVIII).md\|Harvester Domain Spells]]
+> ![[/5. Mechanics/Tables/Harvester Domain Spells (HHHVIII).md\|Harvester Domain Spells]]
 
 ### Bonus Proficiency (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with martial weapons and [[5. Mechanics/Items/Harvesting Kit (HHHVI).md\|harvesting kits]].
+When you choose this domain at 1st level, you gain proficiency with martial weapons and [[/5. Mechanics/Items/Harvesting Kit (HHHVI).md\|harvesting kits]].
 
 ### Harvest's Bounty (Level 1)
 
@@ -69,9 +69,9 @@ At 1st level, when you "harvest" a creature, you can choose to lower the DC of a
 
 ### Channel Divinity: Bag Runneth Over (Level 2)
 
-Starting at 2nd level, you can use your Channel Divinity to conjure harvesting equipment to ensure that you always have what you need to perform your duties. As an action, you choose either 2 [[5. Mechanics/Items/Dagger.md\|daggers]], 6 [[5. Mechanics/Items/Enchanted Vial (HHHVI).md\|enchanted vials]], or 3 sheets of [[5. Mechanics/Items/Spirit Paper (HHHVI).md\|spirit paper]], conjuring them into your empty hands.
+Starting at 2nd level, you can use your Channel Divinity to conjure harvesting equipment to ensure that you always have what you need to perform your duties. As an action, you choose either 2 [[/5. Mechanics/Items/Dagger.md\|daggers]], 6 [[/5. Mechanics/Items/Enchanted Vial (HHHVI).md\|enchanted vials]], or 3 sheets of [[/5. Mechanics/Items/Spirit Paper (HHHVI).md\|spirit paper]], conjuring them into your empty hands.
 
-[[5. Mechanics/Items/Dagger.md\|Daggers]] disappear 1 hour after being summoned. If they contain a harvest material, [[5. Mechanics/Items/Spirit Paper (HHHVI).md\|spirit paper]] and [[5. Mechanics/Items/Enchanted Vial (HHHVI).md\|enchanted vials]] remain indefinitely. Otherwise, they disappear if left empty for 1 hour.
+[[/5. Mechanics/Items/Dagger.md\|Daggers]] disappear 1 hour after being summoned. If they contain a harvest material, [[/5. Mechanics/Items/Spirit Paper (HHHVI).md\|spirit paper]] and [[/5. Mechanics/Items/Enchanted Vial (HHHVI).md\|enchanted vials]] remain indefinitely. Otherwise, they disappear if left empty for 1 hour.
 
 ### Guided Hands (Level 6)
 
@@ -81,7 +81,7 @@ You can use this feature a number of times equal to your Wisdom modifier (a mini
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Life Harvest (Level 17)
 

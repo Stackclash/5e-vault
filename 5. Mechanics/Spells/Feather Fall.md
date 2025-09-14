@@ -38,13 +38,12 @@ level: 1
 ritual: false
 time: 1 Reaction
 duration: 1 minute
-components:
-  - V
-  - M
+range: 60 feet
+somatic: false
+verbal: true
+material: a small feather or a piece of down
 aliases:
   - Feather Fall
-range: 60 feet
-material: A small feather or a piece of down.
 ---
 # Feather Fall
 *1st-level, Transmutation*  
@@ -56,6 +55,8 @@ material: A small feather or a piece of down.
 
 Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Cleric (Speed Domain)](compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [Ranger (Griffon Scout)](compendium/lists/list-spells-classes-griffon-scout-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Mountain Domain)](compendium/lists/list-spells-classes-mountain-domain-kpdm.md "subclass=KPDM"); [Ranger (Rocborne)](compendium/lists/list-spells-classes-rocborne-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Cleric (Time Domain)](compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Warlock (The Shapechanger)](compendium/lists/list-spells-classes-the-shapechanger-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Mountain Domain)](/compendium/lists/list-spells-classes-mountain-domain-kpdm.md "subclass=KPDM"); [Cleric (Speed Domain)](/compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [Cleric (Time Domain)](/compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Griffon Scout)](/compendium/lists/list-spells-classes-griffon-scout-kpdm.md "subclass=KPDM"); [Ranger (Rocborne)](/compendium/lists/list-spells-classes-rocborne-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Shapechanger)](/compendium/lists/list-spells-classes-the-shapechanger-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Player's Handbook p. 239. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -13,7 +13,7 @@ weight: 2
 ---
 # Instrument of the Bards, Doss Lute
 *Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  
-![[5. Mechanics/Items/img/instrument-of-the-bards-doss-lute.webp#right]]  
+![[/5. Mechanics/Items/img/instrument-of-the-bards-doss-lute.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 
@@ -23,8 +23,8 @@ You can use an action to play the instrument and cast one of its spells. Once th
 
 You can play the instrument while casting a spell that causes any of its targets to be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] on a failed saving throw, thereby imposing disadvantage on the save. This effect applies only if the spell has a somatic or a material component.
 
-All instruments of the bards can be used to cast the following spells: [[5. Mechanics/Spells/Fly.md\|fly]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]], [[5. Mechanics/Spells/Levitate.md\|levitate]], and [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]].
+All instruments of the bards can be used to cast the following spells: [[/5. Mechanics/Spells/Fly.md\|fly]], [[/5. Mechanics/Spells/Invisibility.md\|invisibility]], [[/5. Mechanics/Spells/Levitate.md\|levitate]], and [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]].
 
-In addition, the Doss lute can be used to cast [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]], [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (fire only), and [[5. Mechanics/Spells/Protection From Poison.md\|protection from poison]].
+In addition, the Doss lute can be used to cast [[/5. Mechanics/Spells/Animal Friendship.md\|animal friendship]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (fire only), and [[/5. Mechanics/Spells/Protection From Poison.md\|protection from poison]].
 
 *Source: Dungeon Master's Guide p. 176*

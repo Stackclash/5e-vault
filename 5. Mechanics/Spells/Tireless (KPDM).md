@@ -22,12 +22,12 @@ level: 1
 ritual: false
 time: 1 Action
 duration: 24 hours
-components:
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: false
+material: an ever-wound spring worth 50 gp
 aliases:
   - Tireless
-material: an ever-wound spring worth 50 gp
 ---
 # Tireless
 *1st-level, Transmutation*  
@@ -39,6 +39,8 @@ material: an ever-wound spring worth 50 gp
 
 You grant machine-like stamina to a creature you touch for the duration of the spell. The target requires no food or drink or rest. It can move at three times its normal speed during overland travel and perform three times the usual amount of labor. The target is not protected from fatigue or [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] caused by a magical effect.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Deep Magic p. 115*

@@ -16,12 +16,23 @@ classes:
   - Wizard
 school: Evocation
 level: 5
+damage:
+  base: 6d6
+  scaling:
+    damage: null
+    level: 6
+  types:
+    - radiant
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Starfall
 ---
@@ -37,6 +48,6 @@ You cause bolts of shimmering starlight to fall from the heavens, striking up to
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can create one additional bolt for each slot level above 5th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 226*

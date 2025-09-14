@@ -10,6 +10,6 @@ aliases:
 # Breath of Winter
 *Source: Player's Handbook p. 81*  
 
-***Prerequisites*** 17th
+***Prerequisites*** Level 17
 
-You can spend 6 ki points to cast [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]].
+You can spend 6 ki points to cast [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]].

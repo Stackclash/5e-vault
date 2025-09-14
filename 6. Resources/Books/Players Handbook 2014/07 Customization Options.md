@@ -13,7 +13,7 @@ The combination of ability scores, race, class, and background defines your char
 
 Chapter 6 of the Player's Handbook defines two optional sets of rules for customizing your character: multiclassing and feats. Multiclassing lets you combine classes together, and feats are special options you can choose instead of increasing your ability scores as you gain levels. Your DM decides whether these options are available in a campaign.
 
-![[6. Resources/Books/Players Handbook 2014/img/ch6.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/ch6.webp#center]]
 
 ## Multiclassing
 
@@ -27,7 +27,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class. having a natural aptitude that is reflected by higher-than-average ability scores.
 
-![[5. Mechanics/Tables/Multiclassing Prerequisites (PHB).md\|Multiclassing Prerequisites]]
+![[/5. Mechanics/Tables/Multiclassing Prerequisites (PHB).md\|Multiclassing Prerequisites]]
 
 ### Experience Points
 
@@ -47,7 +47,7 @@ Your proficiency bonus is always based on your total character level, as shown i
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
 
-![[5. Mechanics/Tables/Multiclassing Proficiencies (PHB).md\|Multiclassing Proficiencies]]
+![[/5. Mechanics/Tables/Multiclassing Proficiencies (PHB).md\|Multiclassing Proficiencies]]
 
 ### Class Features
 
@@ -81,7 +81,7 @@ If a cantrip of yours increases in power at higher levels, the increase is based
 
 You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.
 
-If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [[5. Mechanics/Spells/Burning Hands.md\|burning hands]], has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
+If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]], has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
 
 For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects.
 
@@ -89,7 +89,7 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 
 If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
 
-![[5. Mechanics/Tables/Spellcasting Multiclass Spellcaster Spell Slots Per Spell Level (PHB).md\|Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level]]
+![[/5. Mechanics/Tables/Spellcasting Multiclass Spellcaster Spell Slots Per Spell Level (PHB).md\|Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level]]
 
 #### Starting Equipment
 

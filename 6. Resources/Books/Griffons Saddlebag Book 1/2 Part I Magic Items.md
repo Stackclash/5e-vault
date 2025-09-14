@@ -694,16 +694,16 @@ Magic items have the power to add intrigue to stories and character growth for p
 
 ## Magic Item Tables
 
-- [[5. Mechanics/Tables/Tgs Magic Item Table A (TGS1).md\|TGS Magic Item Table A]]  
-- [[5. Mechanics/Tables/Tgs Magic Item Table B (TGS1).md\|TGS Magic Item Table B]]  
-- [[5. Mechanics/Tables/Tgs Magic Item Table C (TGS1).md\|TGS Magic Item Table C]]  
-- [[5. Mechanics/Tables/Tgs Magic Item Table D (TGS1).md\|TGS Magic Item Table D]]  
-- [[5. Mechanics/Tables/Tgs Magic Item Table E (TGS1).md\|TGS Magic Item Table E]]  
-- [[5. Mechanics/Tables/Tgs Magic Item Table F (TGS1).md\|TGS Magic Item Table F]]  
-- [[5. Mechanics/Tables/Tgs Magic Item Table G Option 1 (TGS1).md\|TGS Magic Item Table G, Option 1]]  
-- [[5. Mechanics/Tables/Tgs Magic Item Table G Option 2 (TGS1).md\|TGS Magic Item Table G, Option 2]]  
-- [[5. Mechanics/Tables/Tgs Magic Item Table H (TGS1).md\|TGS Magic Item Table H]]  
-- [[5. Mechanics/Tables/Tgs Magic Item Table I (TGS1).md\|TGS Magic Item Table I]]  
+- [[/5. Mechanics/Tables/Tgs Magic Item Table A (TGS1).md\|TGS Magic Item Table A]]  
+- [[/5. Mechanics/Tables/Tgs Magic Item Table B (TGS1).md\|TGS Magic Item Table B]]  
+- [[/5. Mechanics/Tables/Tgs Magic Item Table C (TGS1).md\|TGS Magic Item Table C]]  
+- [[/5. Mechanics/Tables/Tgs Magic Item Table D (TGS1).md\|TGS Magic Item Table D]]  
+- [[/5. Mechanics/Tables/Tgs Magic Item Table E (TGS1).md\|TGS Magic Item Table E]]  
+- [[/5. Mechanics/Tables/Tgs Magic Item Table F (TGS1).md\|TGS Magic Item Table F]]  
+- [[/5. Mechanics/Tables/Tgs Magic Item Table G Option 1 (TGS1).md\|TGS Magic Item Table G, Option 1]]  
+- [[/5. Mechanics/Tables/Tgs Magic Item Table G Option 2 (TGS1).md\|TGS Magic Item Table G, Option 2]]  
+- [[/5. Mechanics/Tables/Tgs Magic Item Table H (TGS1).md\|TGS Magic Item Table H]]  
+- [[/5. Mechanics/Tables/Tgs Magic Item Table I (TGS1).md\|TGS Magic Item Table I]]  
 
 > [!note] Making Loot Tables
 > 

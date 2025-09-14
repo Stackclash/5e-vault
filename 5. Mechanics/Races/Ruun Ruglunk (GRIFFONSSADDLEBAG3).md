@@ -11,7 +11,7 @@ aliases:
 *Source: The Griffon's Saddlebag, Book 3 p. 51*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ruun-Ruglunk.webp#right)  
 
-- **Ability Scores**: Strength +1
+- **Ability Scores**: str +1
 - **Size**: Medium
 - **Speed**: walk: 30 ft.; swim: 30 ft.
 

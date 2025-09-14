@@ -40,19 +40,24 @@ classes:
   - Wizard
 school: Enchantment
 level: 5
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 8
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Dominate Person
-range: 60 feet
-save:
-  type: WIS
-  success: other
-concentration: true
 ---
 # Dominate Person
 *5th-level, Enchantment*  
@@ -72,6 +77,6 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 **At Higher Levels.** When you cast this spell using a 6th-level spell slot, the duration is [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], up to 10 minutes. When you use a 7th-level spell slot, the duration is [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], up to 1 hour. When you use a spell slot of 8th level or higher, the duration is [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], up to 8 hours.
 
-**Classes**: [Druid (Circle of Roses)](compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Justice Domain)](compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Paladin (Oath of Conquest)](compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Cleric (Order Domain)](compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [Cleric (Lust Domain)](compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM"); [Paladin (Oath of the Spelldrinker)](compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Sorcerer (Second Soul)](compendium/lists/list-spells-classes-second-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Chain Domain)](compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Warlock (The Apex Predator)](compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [Paladin (Oathbreaker)](compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [[5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [[5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Chain Domain)](/compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Cleric (Justice Domain)](/compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [Cleric (Lust Domain)](/compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM"); [Cleric (Order Domain)](/compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [Druid (Circle of Roses)](/compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Paladin (Oath of the Spelldrinker)](/compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Paladin (Oathbreaker)](/compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Sorcerer (Second Soul)](/compendium/lists/list-spells-classes-second-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Apex Predator)](/compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]; [[/5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 235. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

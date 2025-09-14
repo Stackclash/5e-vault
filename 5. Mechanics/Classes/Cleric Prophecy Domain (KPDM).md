@@ -54,11 +54,11 @@ You see the future, for good or ill. Eventually, you may even become an oracle r
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Divine Favor.md\|divine favor]], [[5. Mechanics/Spells/Insightful Maneuver (KPDM).md\|insightful maneuver]] |
-| 3rd | [[5. Mechanics/Spells/Mirror Image.md\|mirror image]], [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] |
-| 5th | [[5. Mechanics/Spells/Counterspell.md\|counterspell]], [[5. Mechanics/Spells/Slow.md\|slow]] |
-| 7th | [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]], [[5. Mechanics/Spells/Compulsion.md\|compulsion]] |
-| 9th | [[5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]], [[5. Mechanics/Spells/Modify Memory.md\|modify memory]] |
+| 1st | [[/5. Mechanics/Spells/Divine Favor.md\|divine favor]], [[/5. Mechanics/Spells/Insightful Maneuver (KPDM).md\|insightful maneuver]] |
+| 3rd | [[/5. Mechanics/Spells/Mirror Image.md\|mirror image]], [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] |
+| 5th | [[/5. Mechanics/Spells/Counterspell.md\|counterspell]], [[/5. Mechanics/Spells/Slow.md\|slow]] |
+| 7th | [[/5. Mechanics/Spells/Arcane Eye.md\|arcane eye]], [[/5. Mechanics/Spells/Compulsion.md\|compulsion]] |
+| 9th | [[/5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]], [[/5. Mechanics/Spells/Modify Memory.md\|modify memory]] |
 ^prophecy-domain-spells
 
 ### A Path Foretold (Level 1)
@@ -75,7 +75,7 @@ At 6th level, you can use your Channel Divinity to declare an action or movement
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### It Was Foretold (Level 17)
 

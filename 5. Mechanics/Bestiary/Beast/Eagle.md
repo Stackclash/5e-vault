@@ -17,7 +17,7 @@ tags:
 aliases:
   - Eagle
 ---
-# [[5. Mechanics\Bestiary\Beast\Eagle.md|Eagle]]
+# [[5. Mechanics/Bestiary/Beast/Eagle.md|Eagle]]
 *Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -48,12 +48,12 @@ aliases:
       \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) slashing damage."
     "name": "Talons"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/eagle.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/eagle.webp"
 ```
 ^statblock
 

@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Rod-of-the-Scarecrow.webp#right)  
 
 
-This wooden rod has a small stuffed scarecrow head on its end. You can use an action while holding the rod to speak its first command word. When you do, the rod's head transforms into a full scarecrow and leaps from your hand, landing in an unoccupied space that you can see within 5 feet of you and balancing on the rod. The summoned scarecrow uses the [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]] statistics with the following changes:
+This wooden rod has a small stuffed scarecrow head on its end. You can use an action while holding the rod to speak its first command word. When you do, the rod's head transforms into a full scarecrow and leaps from your hand, landing in an unoccupied space that you can see within 5 feet of you and balancing on the rod. The summoned scarecrow uses the [[/5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]] statistics with the following changes:
 
 The scarecrow is a construct, instead of undead, and can't understand any languages.
 

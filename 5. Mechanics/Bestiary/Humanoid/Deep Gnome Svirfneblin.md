@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: underdark
 size: Small
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Deep Gnome (Svirfneblin)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Deep Gnome Svirfneblin.md|Deep Gnome (Svirfneblin)]]
+# [[5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md|Deep Gnome (Svirfneblin)]]
 *Source: Monster Manual p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Deep gnomes, or svirfneblin, live far below the world's surface in twisting warrens and sculpted caverns. They survive by virtue of their stealth, cleverness, and tenacity. Their gray skin allows them to blend in with surrounding stonework. They are also surprisingly heavy and strong for their size. An average adult weighs 100 to 120 pounds and stands 3 feet tall.
@@ -40,7 +40,7 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
 "subtype": "gnome"
 "alignment": "Neutral Good"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]]"
+"ac_class": "[[/5. Mechanics/Items/Chain Shirt.md|chain shirt]]"
 "hp": !!int "16"
 "hit_dice": "3d6 + 6"
 "modifier": !!int "2"
@@ -59,15 +59,16 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "darkvision 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 12"
 "languages": "Gnomish, Terran, Undercommon"
 "cr": "1/2"
 "traits":
   - "desc": "The gnome's innate spellcasting ability is Intelligence (spell save DC\
       \ 11). It can innately cast the following spells, requiring no material components:\n\
-      \nAt will: [[5. Mechanics/Spells/Nondetection.md|nondetection]] (self only)\n\
-      \n1/day each: [[5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]],\
-      \ [[5. Mechanics/Spells/Blur.md|blur]], [[5. Mechanics/Spells/Disguise Self.md|disguise self]]"
+      \n**At will:** [[/5. Mechanics/Spells/Nondetection.md|nondetection]] (self only)\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]],\
+      \ [[/5. Mechanics/Spells/Blur.md|blur]], [[/5. Mechanics/Spells/Disguise Self.md|disguise self]]"
     "name": "Innate Spellcasting"
   - "desc": "The gnome has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]])\
       \ checks made to hide in rocky terrain."
@@ -76,10 +77,10 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
       \ throws against magic."
     "name": "Gnome Cunning"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
       \ + 2) piercing damage."
     "name": "War Pick"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one creature. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one creature. *Hit:*\
       \ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution\
       \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
       \ 1 minute. The target can repeat the saving throw at the end of each of its\
@@ -87,7 +88,7 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
     "name": "Poisoned Dart"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/deep-gnome-svirfneblin.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/deep-gnome-svirfneblin.webp"
 ```
 ^statblock
 

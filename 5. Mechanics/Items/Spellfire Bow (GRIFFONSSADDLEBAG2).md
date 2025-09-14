@@ -11,11 +11,11 @@ tags:
 aliases:
   - Spellfire Bow
 one-hand-damage: 1d8 force
-range: 150\600
+range: 150/600
 weight: 2
 ---
 # Spellfire Bow
-*Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, legendary (requires attunement by a spellcaster)*  
+*Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, legendary (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Spellfire-Bow.webp#right)  
 
 - **Damage**: 1d8 force

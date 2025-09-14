@@ -13,7 +13,7 @@ tags:
 aliases:
   - Necromancer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Necromancer (SAF).md|Necromancer]]
+# [[5. Mechanics/Bestiary/Humanoid/Necromancer (SAF).md|Necromancer]]
 *Source: Strongholds and Followers p. 81*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+3"
-  - "dexterity": "+3"
-  - "constitution": "+3"
-  - "intelligence": "+6"
-  - "wisdom": "+6"
-  - "charisma": "+3"
+  - "strength": !!int "3"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+5"
@@ -52,17 +52,17 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "The necromancer casts the [[5. Mechanics/Spells/Chill Touch.md|chill touch]]\
+  - "desc": "The necromancer casts the [[/5. Mechanics/Spells/Chill Touch.md|chill touch]]\
       \ cantrip (+6 to hit).\n\nAt 7th level, retainers can take two signature attacks\
       \ per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nThe necromancer casts the [[5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]]\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nThe necromancer casts the [[/5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]]\
       \ spell (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level)."
     "name": "Blindness/Deafness (3/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe necromancer casts the [[5. Mechanics/Spells/Vampiric Touch.md|vampiric\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe necromancer casts the [[/5. Mechanics/Spells/Vampiric Touch.md|vampiric\
       \ touch]] spell (+6 to hit)."
     "name": "Vampiric Touch (1/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe necromancer casts the [[5. Mechanics/Spells/Blight.md|blight]]\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe necromancer casts the [[/5. Mechanics/Spells/Blight.md|blight]]\
       \ spell (spell save DC 15)."
     "name": "Blight (1/Day)"
 "source":

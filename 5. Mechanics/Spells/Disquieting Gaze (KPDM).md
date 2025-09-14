@@ -20,9 +20,9 @@ level: 1
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Disquieting Gaze
 ---
@@ -36,6 +36,8 @@ aliases:
 
 Your eyes burn with scintillating motes of unholy crimson light. Until the spell ends, you have advantage on Charisma ([[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]) checks made against creatures that can see you, and you have advantage on spell attack rolls that deal necrotic damage to creatures that can see your eyes.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Shadow Touched (TCE).md\|Shadow Touched]]
 
 *Source: Deep Magic p. 60*

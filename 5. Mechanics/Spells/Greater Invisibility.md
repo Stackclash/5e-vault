@@ -38,14 +38,12 @@ school: Illusion
 level: 4
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Greater Invisibility
-range: Touch
-concentration: true
 ---
 # Greater Invisibility
 *4th-level, Illusion*  
@@ -57,6 +55,6 @@ concentration: true
 
 You or a creature you touch becomes [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] until the spell ends. Anything the target is wearing or carrying is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] as long as it is on the target's person.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Warlock (The Genie)](compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Ranger (Griffon Scout)](compendium/lists/list-spells-classes-griffon-scout-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Warlock (The Undead)](compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR"); [Cleric (Twilight Domain)](compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [Artificer (Armorer)](compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Ranger (Gloom Stalker)](compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [Cleric (Moon Domain)](compendium/lists/list-spells-classes-moon-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]
+**Classes**: [Artificer (Armorer)](/compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Moon Domain)](/compendium/lists/list-spells-classes-moon-domain-kpdm.md "subclass=KPDM"); [Cleric (Twilight Domain)](/compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Gloom Stalker)](/compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [Ranger (Griffon Scout)](/compendium/lists/list-spells-classes-griffon-scout-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]; [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Warlock (The Undead)](/compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

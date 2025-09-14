@@ -15,7 +15,7 @@ two-hand-damage: 1d10 slashing
 weight: 3
 ---
 # Bolide Blade
-*Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bolide-Blade.webp#right)  
 
 - **Damage**:
@@ -28,7 +28,7 @@ This black blade was forged from the metal of a meteor. When swung, a cosmic plu
 
 ## Cosmic Dilation
 
-Each day at dusk, you gain the benefits of the [[5. Mechanics/Spells/Mirror Image.md\|mirror image]] spell. This version of the spell only has two duplicates, instead of three, and remains until both duplicates are destroyed or until the blade isn't on your person.
+Each day at dusk, you gain the benefits of the [[/5. Mechanics/Spells/Mirror Image.md\|mirror image]] spell. This version of the spell only has two duplicates, instead of three, and remains until both duplicates are destroyed or until the blade isn't on your person.
 
 ## Starshower Saya
 

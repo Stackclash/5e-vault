@@ -13,7 +13,7 @@ tags:
 aliases:
   - Forest Defender
 ---
-# [[5. Mechanics\Bestiary\Construct\Forest Defender (KPDM).md|Forest Defender]]
+# [[5. Mechanics/Bestiary/Construct/Forest Defender (KPDM).md|Forest Defender]]
 *Source: Deep Magic p. 53*
 
 ```statblock
@@ -45,7 +45,8 @@ aliases:
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "3"
 "traits":
@@ -61,12 +62,12 @@ aliases:
 "actions":
   - "desc": "The forest defender makes two thorned vine attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 15 ft., one target. *Hit:* 8\
       \ (1d8 + 4) piercing damage, and the target must succeed on a DC 14 Strength\
       \ saving throw or be pulled 10 feet toward the forest defender."
     "name": "Thorned Vine"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one Medium or smaller\
-      \ creature. Hit: 13 (2d8 + 4) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one Medium or smaller\
+      \ creature. *Hit:* 13 (2d8 + 4) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 11). Until the grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
       \ and the forest defender can't embrace another target."
     "name": "Thorned Embrace"

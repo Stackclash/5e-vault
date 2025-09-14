@@ -53,7 +53,7 @@ Some arcanists focus on altering the living, whereas wizards of material magic f
 
 ### Arcane Artisan (Level 2)
 
-Beginning at 2nd level, you have dedicated your studies to creation and the magic surrounding it. You gain proficiency with three artisan's tools of your choice and you learn the [[5. Mechanics/Spells/Mending.md\|mending]] cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+Beginning at 2nd level, you have dedicated your studies to creation and the magic surrounding it. You gain proficiency with three artisan's tools of your choice and you learn the [[/5. Mechanics/Spells/Mending.md\|mending]] cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 In addition, your exceptional wit and aptitude allow you to do more with less time. When you use a set of artisan's tools with which you are proficient to craft an item or piece of art, you complete a full work day in a number of hours equal to 8–your Intelligence modifier (minimum of 1).
 
@@ -79,10 +79,10 @@ You have 2 uses of this feature, and you expend 1 of its uses for each benefit y
 
 ### Dematerialize (Level 10)
 
-Starting at 10th level, your spells deal double damage to objects and structures, and when you deal damage to a construct with an attack or a spell, it takes an extra `dice:1d8|noform|noparens|avg` (`d8`) force damage.
+Starting at 10th level, your spells deal double damage to objects and structures, and when you deal damage to a construct with an attack or a spell, it takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) force damage.
 
 ### Rematerialize (Level 14)
 
-At 14th level, when you destroy a Large or smaller nonmagical object or structure with a spell, you can recreate it as an action once within the next 8 hours. When you do, the object or structure reappears intact in an unoccupied space you choose within 60 feet of you. If the object or structure is recreated in the air, it immediately falls. Any creature below the item must make a Dexterity saving throw against your wizard spell save DC. If the object is Small or smaller, a creature that fails the saving throw takes `dice:1d8|noform|noparens|avg` (`d8`) bludgeoning damage from the impact for every 10 feet that it fell. If the object is Medium or Large, the bludgeoning damage increases to `dice:1d10|noform|noparens|avg` (`d10`) or `dice:1d12|noform|noparens|avg` (`d12`) for every 10 feet it fell, respectively. On a successful save, a creature takes half as much bludgeoning damage. If an object is the same size or larger than a creature it falls on, that creature is pushed to the nearest unoccupied space.
+At 14th level, when you destroy a Large or smaller nonmagical object or structure with a spell, you can recreate it as an action once within the next 8 hours. When you do, the object or structure reappears intact in an unoccupied space you choose within 60 feet of you. If the object or structure is recreated in the air, it immediately falls. Any creature below the item must make a Dexterity saving throw against your wizard spell save DC. If the object is Small or smaller, a creature that fails the saving throw takes `dice:1d8|noform|noparens|avg` (`1d8`) bludgeoning damage from the impact for every 10 feet that it fell. If the object is Medium or Large, the bludgeoning damage increases to `dice:1d10|noform|noparens|avg` (`1d10`) or `dice:1d12|noform|noparens|avg` (`1d12`) for every 10 feet it fell, respectively. On a successful save, a creature takes half as much bludgeoning damage. If an object is the same size or larger than a creature it falls on, that creature is pushed to the nearest unoccupied space.
 
 Once you use this feature, you can't use it again until you finish a long rest.

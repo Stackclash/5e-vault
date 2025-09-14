@@ -13,14 +13,14 @@ one-hand-damage: 1d12 force
 weight: 6
 ---
 # Phantom Lance
-*Weapon ([[5. Mechanics/Items/Lance.md\|lance]]), very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Phantom-Lance.webp#right)  
 
 - **Damage**: 1d12 force
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
 
-This lance becomes shrouded in ghostly energy whenever it's thrust. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals force damage instead of piercing damage. While the lance is on your person, you can cast the [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] spell from it, but only as a ritual.
+This lance becomes shrouded in ghostly energy whenever it's thrust. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which deals force damage instead of piercing damage. While the lance is on your person, you can cast the [[/5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] spell from it, but only as a ritual.
 
 ## Ghostly Charge
 

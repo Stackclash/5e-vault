@@ -19,7 +19,7 @@ tags:
 aliases:
   - Zaratan
 ---
-# [[5. Mechanics\Bestiary\Elemental\Zaratan (MPMM).md|Zaratan]]
+# [[5. Mechanics/Bestiary/Elemental/Zaratan (MPMM).md|Zaratan]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 278, Mordenkainen's Tome of Foes p. 201*
 
 When a zaratan is summoned from the Elemental Plane of Earth, the ground rises up to take the shape of a hulking, armored reptile. A zaratan's steps trigger shock waves severe enough to level structures. It expresses its rage through trumpeting calls and the occasional boulder or blast of debris it spews from its cavernous maw. If seriously injured, a zaratan retracts its appendages to gain shelter beneath its impervious shell, biding its time until it recovers and can resume its march.
@@ -43,15 +43,16 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
   - !!int "18"
 "speed": "40 ft., swim 40 ft."
 "saves":
-  - "wisdom": "+12"
-  - "charisma": "+11"
+  - "wisdom": !!int "12"
+  - "charisma": !!int "11"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., tremorsense\
+  \ 60 ft., passive Perception 15"
 "languages": ""
 "cr": "22"
 "traits":
@@ -63,14 +64,14 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
 "actions":
   - "desc": "The zaratan makes one Bite attack and one Stomp attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 28\
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 28\
       \ (4d8 + 10) force damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 26\
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 26\
       \ (3d10 + 10) thunder damage."
     "name": "Stomp"
-  - "desc": "Ranged Weapon Attack: +17 to hit, range 120 ft./240 ft., one target.\
-      \ Hit: 31 (6d8 + 10) force damage."
+  - "desc": "*Ranged Weapon Attack:* +17 to hit, range 120 ft./240 ft., one target.\
+      \ *Hit:* 31 (6d8 + 10) force damage."
     "name": "Spit Rock"
   - "desc": "The zaratan exhales rocky debris in a 90-foot cube. Each creature in\
       \ that area must make a DC 25 Dexterity saving throw. A creature takes 33 (6d10)\
@@ -96,6 +97,9 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
       \ success. On a successful save, the creature takes half as much damage and\
       \ doesn't fall [[/5. Mechanics/Rules/Conditions.md#Prone|prone]] or become trapped."
     "name": "Earth-Shaking Movement"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the zaratan can expend a use to take one of the following actions. The zaratan\
+  \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The zaratan makes one Stomp attack."
     "name": "Stomp"
@@ -118,7 +122,7 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Elemental/token/zaratan-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/zaratan-mpmm.webp"
 ```
 ^statblock
 

@@ -31,16 +31,16 @@ While the tattoo is on your skin, you have resistance to a type of damage associ
 
 | dice: d10 | Color | Tattoo |
 |-----------|-------|--------|
-| 1 | Green | [[5. Mechanics/Items/Acid Absorbing Tattoo (TCE).md\|Acid Absorbing Tattoo]] |
-| 2 | Blue | [[5. Mechanics/Items/Cold Absorbing Tattoo (TCE).md\|Cold Absorbing Tattoo]] |
-| 3 | Red | [[5. Mechanics/Items/Fire Absorbing Tattoo (TCE).md\|Fire Absorbing Tattoo]] |
-| 4 | White | [[5. Mechanics/Items/Force Absorbing Tattoo (TCE).md\|Force Absorbing Tattoo]] |
-| 5 | Yellow | [[5. Mechanics/Items/Lightning Absorbing Tattoo (TCE).md\|Lightning Absorbing Tattoo]] |
-| 6 | Black | [[5. Mechanics/Items/Necrotic Absorbing Tattoo (TCE).md\|Necrotic Absorbing Tattoo]] |
-| 7 | Violet | [[5. Mechanics/Items/Poison Absorbing Tattoo (TCE).md\|Poison Absorbing Tattoo]] |
-| 8 | Silver | [[5. Mechanics/Items/Psychic Absorbing Tattoo (TCE).md\|Psychic Absorbing Tattoo]] |
-| 9 | Gold | [[5. Mechanics/Items/Radiant Absorbing Tattoo (TCE).md\|Radiant Absorbing Tattoo]] |
-| 10 | Orange | [[5. Mechanics/Items/Thunder Absorbing Tattoo (TCE).md\|Thunder Absorbing Tattoo]] |
+| 1 | Green | [[/5. Mechanics/Items/Acid Absorbing Tattoo (TCE).md\|Acid Absorbing Tattoo]] |
+| 2 | Blue | [[/5. Mechanics/Items/Cold Absorbing Tattoo (TCE).md\|Cold Absorbing Tattoo]] |
+| 3 | Red | [[/5. Mechanics/Items/Fire Absorbing Tattoo (TCE).md\|Fire Absorbing Tattoo]] |
+| 4 | White | [[/5. Mechanics/Items/Force Absorbing Tattoo (TCE).md\|Force Absorbing Tattoo]] |
+| 5 | Yellow | [[/5. Mechanics/Items/Lightning Absorbing Tattoo (TCE).md\|Lightning Absorbing Tattoo]] |
+| 6 | Black | [[/5. Mechanics/Items/Necrotic Absorbing Tattoo (TCE).md\|Necrotic Absorbing Tattoo]] |
+| 7 | Violet | [[/5. Mechanics/Items/Poison Absorbing Tattoo (TCE).md\|Poison Absorbing Tattoo]] |
+| 8 | Silver | [[/5. Mechanics/Items/Psychic Absorbing Tattoo (TCE).md\|Psychic Absorbing Tattoo]] |
+| 9 | Gold | [[/5. Mechanics/Items/Radiant Absorbing Tattoo (TCE).md\|Radiant Absorbing Tattoo]] |
+| 10 | Orange | [[/5. Mechanics/Items/Thunder Absorbing Tattoo (TCE).md\|Thunder Absorbing Tattoo]] |
 ^absorbing-tattoo
 
 ## Damage Absorption
@@ -49,15 +49,15 @@ When you take damage of the chosen type, you can use your reaction to gain immun
 
 **Items in this group:**
 
-- [[5. Mechanics/Items/Acid Absorbing Tattoo (TCE).md\|Acid Absorbing Tattoo]]
-- [[5. Mechanics/Items/Cold Absorbing Tattoo (TCE).md\|Cold Absorbing Tattoo]]
-- [[5. Mechanics/Items/Fire Absorbing Tattoo (TCE).md\|Fire Absorbing Tattoo]]
-- [[5. Mechanics/Items/Force Absorbing Tattoo (TCE).md\|Force Absorbing Tattoo]]
-- [[5. Mechanics/Items/Lightning Absorbing Tattoo (TCE).md\|Lightning Absorbing Tattoo]]
-- [[5. Mechanics/Items/Necrotic Absorbing Tattoo (TCE).md\|Necrotic Absorbing Tattoo]]
-- [[5. Mechanics/Items/Poison Absorbing Tattoo (TCE).md\|Poison Absorbing Tattoo]]
-- [[5. Mechanics/Items/Psychic Absorbing Tattoo (TCE).md\|Psychic Absorbing Tattoo]]
-- [[5. Mechanics/Items/Radiant Absorbing Tattoo (TCE).md\|Radiant Absorbing Tattoo]]
-- [[5. Mechanics/Items/Thunder Absorbing Tattoo (TCE).md\|Thunder Absorbing Tattoo]]
+- [[/5. Mechanics/Items/Acid Absorbing Tattoo (TCE).md\|Acid Absorbing Tattoo]]
+- [[/5. Mechanics/Items/Cold Absorbing Tattoo (TCE).md\|Cold Absorbing Tattoo]]
+- [[/5. Mechanics/Items/Fire Absorbing Tattoo (TCE).md\|Fire Absorbing Tattoo]]
+- [[/5. Mechanics/Items/Force Absorbing Tattoo (TCE).md\|Force Absorbing Tattoo]]
+- [[/5. Mechanics/Items/Lightning Absorbing Tattoo (TCE).md\|Lightning Absorbing Tattoo]]
+- [[/5. Mechanics/Items/Necrotic Absorbing Tattoo (TCE).md\|Necrotic Absorbing Tattoo]]
+- [[/5. Mechanics/Items/Poison Absorbing Tattoo (TCE).md\|Poison Absorbing Tattoo]]
+- [[/5. Mechanics/Items/Psychic Absorbing Tattoo (TCE).md\|Psychic Absorbing Tattoo]]
+- [[/5. Mechanics/Items/Radiant Absorbing Tattoo (TCE).md\|Radiant Absorbing Tattoo]]
+- [[/5. Mechanics/Items/Thunder Absorbing Tattoo (TCE).md\|Thunder Absorbing Tattoo]]
 
 *Source: Tasha's Cauldron of Everything p. 119*

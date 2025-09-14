@@ -16,15 +16,25 @@ classes:
   - Wizard
 school: Divination
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - M
+range: 50 feet
+somatic: false
+verbal: true
+material: a sprinkling of silver dust worth 20 gp
 aliases:
   - Compelling Fate
-material: a sprinkling of silver dust worth 20 gp
 ---
 # Compelling Fate
 *3rd-level, Divination*  
@@ -42,6 +52,6 @@ You view the actions of a single creature you can see through the influence of t
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the duration is extended by 1 round for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 51*

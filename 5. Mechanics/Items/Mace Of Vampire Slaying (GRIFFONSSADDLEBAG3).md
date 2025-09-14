@@ -13,7 +13,7 @@ one-hand-damage: 1d6 bludgeoning
 weight: 4
 ---
 # Mace of Vampire Slaying
-*Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mace-of-Vampire-Slaying.webp#right)  
 
 - **Damage**: 1d6 bludgeoning

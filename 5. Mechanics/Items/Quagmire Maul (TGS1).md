@@ -14,7 +14,7 @@ one-hand-damage: 2d6 bludgeoning
 weight: 10
 ---
 # Quagmire Maul
-*Weapon ([[5. Mechanics/Items/Maul.md\|maul]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Quagmire-Maul.webp#right)  
 
 - **Damage**: 2d6 bludgeoning

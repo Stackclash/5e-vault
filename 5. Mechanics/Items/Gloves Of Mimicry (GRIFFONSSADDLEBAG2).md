@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gloves-of-Mimicry.webp#right)  
 
 
-These brightly colored gloves extend a peculiar psychic magic to your hands and fingers. While wearing the gloves, you can use an action to cast the mage hand spell from them. In addition, you can use an action to cast the [[5. Mechanics/Spells/Bigbys Hand.md\|arcane hand]] spell from the gloves (save DC 16, spell attack +8). Once the gloves have been used to cast this spell, they can't be used to cast it again until the next dawn.
+These brightly colored gloves extend a peculiar psychic magic to your hands and fingers. While wearing the gloves, you can use an action to cast the mage hand spell from them. In addition, you can use an action to cast the [[/5. Mechanics/Spells/Bigbys Hand.md\|arcane hand]] spell from the gloves (save DC 16, spell attack +8). Once the gloves have been used to cast this spell, they can't be used to cast it again until the next dawn.
 
 The gloves have 5 charges for the following properties. They regain `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn.
 

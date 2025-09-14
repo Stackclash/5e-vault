@@ -13,7 +13,7 @@ tags:
 aliases:
   - Strahd Zombie
 ---
-# [[5. Mechanics\Bestiary\Undead\Strahd Zombie (COS).md|Strahd Zombie]]
+# [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md|Strahd Zombie]]
 *Source: Curse of Strahd p. 241*
 
 Strahd zombies are undead that serve the vampire Strahd von Zarovich. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
@@ -44,10 +44,11 @@ A Strahd zombie doesn't require air or sleep.
   - !!int "5"
 "speed": "20 ft."
 "saves":
-  - "wisdom": "+0"
+  - "wisdom": !!int "0"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "1"
 "traits":
@@ -73,15 +74,15 @@ A Strahd zombie doesn't require air or sleep.
 "actions":
   - "desc": "The zombie makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
       \ + 1) slashing damage."
     "name": "Claw"
 "source":
   - "CoS"
-"image": "5. Mechanics/Bestiary/Undead/token/strahd-zombie-cos.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/strahd-zombie-cos.webp"
 ```
 ^statblock
 

@@ -33,21 +33,25 @@ classes:
   - Warlock (The Undead)
 school: Enchantment
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 2
+  types: []
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
+material: a drop of blood
 aliases:
   - Bane
-range: 30 feet
-material: A drop of blood.
-save:
-  type: CHA
-  success: none
-concentration: true
 ---
 # Bane
 *1st-level, Enchantment*  
@@ -61,6 +65,8 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Ranger (Gravetender)](compendium/lists/list-spells-classes-gravetender-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Cleric (Grave Domain)](compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Paladin (Oath of the Spelldrinker)](compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Warlock (The Undead)](compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR"); [Druid (Circle of the Eclipse)](compendium/lists/list-spells-classes-circle-of-the-eclipse-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Cleric (Void Domain)](compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Cleric (Apocalypse Domain)](compendium/lists/list-spells-classes-apocalypse-domain-kpdm.md "subclass=KPDM"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Apocalypse Domain)](/compendium/lists/list-spells-classes-apocalypse-domain-kpdm.md "subclass=KPDM"); [Cleric (Grave Domain)](/compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Cleric (Void Domain)](/compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of the Eclipse)](/compendium/lists/list-spells-classes-circle-of-the-eclipse-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Paladin (Oath of the Spelldrinker)](/compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Ranger (Gravetender)](/compendium/lists/list-spells-classes-gravetender-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Undead)](/compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Player's Handbook p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

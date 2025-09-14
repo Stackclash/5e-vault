@@ -21,6 +21,6 @@ Ironing or otherwise flattening the scarf causes the items stored inside to be s
 
 In addition, while wearing the scarf, you can use an action to mentally control it, using the scarf's frayed hands instead of your own to manipulate a simple object, such as open an unlocked door, stow or retrieve an item from an open container, or pour the contents out of a vial within 5 feet of you. The hands can't attack or activate magic items.
 
-Placing the scarf inside an extradimensional space created by a [[5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], [[5. Mechanics/Items/Portable Hole.md\|portable hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing the scarf inside an extradimensional space created by a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], [[/5. Mechanics/Items/Portable Hole.md\|portable hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 58*

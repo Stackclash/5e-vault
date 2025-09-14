@@ -14,17 +14,29 @@ classes:
   - Wizard
 school: Conjuration
 level: 8
+damage:
+  base: 8d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: 120 feet
+somatic: true
+verbal: true
+material: a vial of air from a tomb
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Wind of the Hereafter
-concentration: true
-material: a vial of air from a tomb
 ---
 # Wind of the Hereafter
 *8th-level, Conjuration*  
@@ -38,6 +50,6 @@ You create a 30-foot-radius sphere of roiling wind that carries the choking sten
 
 The sphere moves 10 feet away from you at the start of each of your turns, drifting along the surface of the ground. It is not heavier than air but drifts in a straight line for the duration of the spell, even if that carries it over a cliff or gully. If the sphere meets a wall or other impassable obstacle, it turns to the left or right (select randomly).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 121*

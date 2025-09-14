@@ -12,7 +12,7 @@ location: >-
   Saint Markovia]]
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\clovin-belview.webp
+  - ../../../../../4. World Almanac/NPCs/img/clovin-belview.webp
 relationships: []
 aliases:
   - Clovin Belview
@@ -67,7 +67,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 147*
@@ -165,18 +165,18 @@ actions:
   - "desc": "Clovin makes two attacks: one with its bite and one with its claw or\
       \ dagger."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) slashing damage."
     "name": "Claw"
-  - "desc": "Melee  or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 3 (1d4 + 1) piercing damage."
     "name": "Dagger"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/clovin-belview-cos.webp"
+"image": "/4. World Almanac/NPCs/token/clovin-belview-cos.webp"
 ```
 ^statblock
 

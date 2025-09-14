@@ -18,12 +18,23 @@ classes:
   - Wizard
 school: Evocation
 level: 2
+damage:
+  base: 3d8
+  scaling:
+    damage: 1d8
+    level: 3
+  types:
+    - radiant
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Orb of Light
 ---
@@ -37,8 +48,8 @@ aliases:
 
 An orb of light the size of your hand shoots from your fingertips toward a creature within range, which takes `dice:3d8|noform|noparens|avg` (`3d8`) radiant damage and is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] for 1 round. A target that makes a successful Dexterity saving throw takes half the damage and is not [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]].
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 224*

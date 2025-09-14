@@ -13,7 +13,7 @@ one-hand-damage: 1d4 slashing
 weight: 2
 ---
 # +2 Moon Sickle
-*Weapon ([[5. Mechanics/Items/Sickle.md\|sickle]]), rare (requires attunement by a druid or ranger)*  
+*Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), rare (requires attunement by a druid or ranger)*  
 
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]

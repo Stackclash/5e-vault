@@ -14,13 +14,12 @@ school: Abjuration
 level: 2
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Conjure Mantelet
-concentration: true
 ---
 # Conjure Mantelet
 *2nd-level, Abjuration*  
@@ -32,6 +31,6 @@ concentration: true
 
 You summon a transparent, faintly luminous barrier with a single arrow slit. The magical mantelet provides you with three-quarters cover for the duration of the spell. If you move on your turn, the mantelet moves with you.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 53*

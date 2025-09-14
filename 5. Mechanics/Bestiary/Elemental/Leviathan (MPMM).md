@@ -15,7 +15,7 @@ tags:
 aliases:
   - Leviathan
 ---
-# [[5. Mechanics\Bestiary\Elemental\Leviathan (MPMM).md|Leviathan]]
+# [[5. Mechanics/Bestiary/Elemental/Leviathan (MPMM).md|Leviathan]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 171, Mordenkainen's Tome of Foes p. 198*
 
 A leviathan is an immense creature that acts as a force of nature, dragging ships down to the ocean's depths and washing away coastal settlements. When called forth, a leviathan arises from a large body of water and takes on the form of a gigantic serpent.
@@ -40,8 +40,8 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
   - !!int "17"
 "speed": "40 ft., swim 120 ft."
 "saves":
-  - "wisdom": "+10"
-  - "charisma": "+9"
+  - "wisdom": !!int "10"
+  - "charisma": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -49,7 +49,8 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": ""
 "cr": "20"
 "traits":
@@ -67,10 +68,10 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 "actions":
   - "desc": "The leviathan makes one Slam attack and one Tail attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 21\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 21\
       \ (2d12 + 8) bludgeoning damage plus 13 (2d12) acid damage."
     "name": "Slam"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 19\
       \ (2d10 + 8) bludgeoning damage plus 10 (3d6) acid damage."
     "name": "Tail"
   - "desc": "The leviathan magically creates a wave of water that extends from a point\
@@ -83,6 +84,9 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
       \ the ground in all directions, extinguishing unprotected flames in its area\
       \ and within 250 feet of it, and then it vanishes."
     "name": "Tidal Wave (Recharge 6)"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the leviathan can expend a use to take one of the following actions. The\
+  \ leviathan regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The leviathan moves up to its speed."
     "name": "Move"
@@ -91,7 +95,7 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Elemental/token/leviathan-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/leviathan-mpmm.webp"
 ```
 ^statblock
 

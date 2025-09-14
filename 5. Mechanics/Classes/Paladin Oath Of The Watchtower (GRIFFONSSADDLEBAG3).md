@@ -65,11 +65,11 @@ You gain the following spells at the following levels:
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]], [[5. Mechanics/Spells/Longstrider.md\|longstrider]] |
-| 5th | [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]], [[5. Mechanics/Spells/Warding Bond.md\|warding bond]] |
-| 9th | [[5. Mechanics/Spells/Magic Circle.md\|magic circle]], [[5. Mechanics/Spells/Sending.md\|sending]] |
-| 13th | [[5. Mechanics/Spells/Death Ward.md\|death ward]], [[5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] |
-| 17th | [[5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[5. Mechanics/Spells/Hallow.md\|hallow]] |
+| 3rd | [[/5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]], [[/5. Mechanics/Spells/Longstrider.md\|longstrider]] |
+| 5th | [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]], [[/5. Mechanics/Spells/Warding Bond.md\|warding bond]] |
+| 9th | [[/5. Mechanics/Spells/Magic Circle.md\|magic circle]], [[/5. Mechanics/Spells/Sending.md\|sending]] |
+| 13th | [[/5. Mechanics/Spells/Death Ward.md\|death ward]], [[/5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] |
+| 17th | [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[/5. Mechanics/Spells/Hallow.md\|hallow]] |
 ^oath-of-watchtower-spells
 
 ### Channel Divinity (Level 3)
@@ -84,7 +84,7 @@ If you later gain the Improved Divine Smite feature, you deal an extra 1d6 radia
 
 ### Warding Tower (Level 3)
 
-During a short or long rest, you can create a magical ward around you to safeguard your respite using your Channel Divinity. At the start of the rest, you can spend 10 minutes warding the area in a 15-radius circle on the ground, after which point a 15 foot tall cylinder extends upward from the circle. The cylinder remains until the rest ends, you roll initiative, or you leave the area, up to 8 hours. The cylinder is transparent from the inside, but is shrouded by camouflaging illusions from the outside, allowing creatures to see to the other side of the cylinder, as if it were not there. Creatures outside the cylinder only become aware of it with a successful Wisdom (Perception) check against your paladin spell save DC, but make the check with a penalty equal to half your paladin level (rounded up). In addition, you are mentally alerted whenever a Tiny or larger creature whom you have not designated, as per the [[5. Mechanics/Spells/Alarm.md\|alarm]] spell, comes within 30 feet of the cylinder.
+During a short or long rest, you can create a magical ward around you to safeguard your respite using your Channel Divinity. At the start of the rest, you can spend 10 minutes warding the area in a 15-radius circle on the ground, after which point a 15 foot tall cylinder extends upward from the circle. The cylinder remains until the rest ends, you roll initiative, or you leave the area, up to 8 hours. The cylinder is transparent from the inside, but is shrouded by camouflaging illusions from the outside, allowing creatures to see to the other side of the cylinder, as if it were not there. Creatures outside the cylinder only become aware of it with a successful Wisdom (Perception) check against your paladin spell save DC, but make the check with a penalty equal to half your paladin level (rounded up). In addition, you are mentally alerted whenever a Tiny or larger creature whom you have not designated, as per the [[/5. Mechanics/Spells/Alarm.md\|alarm]] spell, comes within 30 feet of the cylinder.
 
 Any light from open flames inside the space, such as a campfire, torches, or similar, is not visible outside it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside. Until the rest ends or you leave the cylinder, you can command the interior to become dimly lit or dark.
 

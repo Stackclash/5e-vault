@@ -26,10 +26,10 @@ Each kind of astral bracelet has a different list spells that can be cast from i
 
 | Charges | Spells |
 |---------|--------|
-| 1 | [[5. Mechanics/Spells/Tensers Floating Disk.md\|Tenser's floating disk]] |
-| 3 | [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]], [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
-| 4 | [[5. Mechanics/Spells/Hallucinatory Terrain.md\|hallucinatory terrain]], [[5. Mechanics/Spells/Otilukes Resilient Sphere.md\|Otiluke's resilient sphere]] |
-| 6 | [[5. Mechanics/Spells/Globe Of Invulnerability.md\|globe of invulnerability]] |
+| 1 | [[/5. Mechanics/Spells/Tensers Floating Disk.md\|Tenser's floating disk]] |
+| 3 | [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
+| 4 | [[/5. Mechanics/Spells/Hallucinatory Terrain.md\|hallucinatory terrain]], [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md\|Otiluke's resilient sphere]] |
+| 6 | [[/5. Mechanics/Spells/Globe Of Invulnerability.md\|globe of invulnerability]] |
 ^astral-bracelet-of-energy-spells
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*

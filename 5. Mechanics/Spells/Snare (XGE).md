@@ -24,15 +24,22 @@ classes:
   - Wizard
 school: Abjuration
 level: 1
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 minute
 duration: 8 hours
-components:
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: false
+material: '25 feet of rope, which the spell consumes'
+area:
+  shape: sphere
+  size: 5
 aliases:
   - Snare
-material: '25 feet of rope, which the spell consumes'
 ---
 # Snare
 *1st-level, Abjuration*  
@@ -52,6 +59,8 @@ A [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature can make
 
 After the trap is triggered, the spell ends when no creature is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by it.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Xanathar's Guide to Everything p. 165*

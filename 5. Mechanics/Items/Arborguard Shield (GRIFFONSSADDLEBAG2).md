@@ -13,7 +13,7 @@ armorClass: 2
 weight: 6
 ---
 # Arborguard Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Arborguard-Shield.webp#right)  
 
 - **Armor Class**: 2
@@ -29,6 +29,6 @@ The wall is an object that can be damaged and thus breached. Each tree has AC 13
 
 While you're within 30 feet of the wall, you can see through a tree's space (no action required) using your senses. When you make a melee weapon attack while within 30 feet of one or more of the trees, you can make the attack as if you were in one of the trees' spaces. When you do, the tree magically forms a wooden copy of you and any weapon you're holding to make the attack: duplicating any of its effects.
 
-The wall lasts as long as you concentrate (as if concentrating on a spell), to a maximum of 1 minute, or until it's dispelled by a [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell of 6th-level or higher, or until you are no longer holding the shield. Once this property of the shield has been used, it can't be used again until the next dawn.
+The wall lasts as long as you concentrate (as if concentrating on a spell), to a maximum of 1 minute, or until it's dispelled by a [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell of 6th-level or higher, or until you are no longer holding the shield. Once this property of the shield has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 37*

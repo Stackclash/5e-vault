@@ -14,16 +14,30 @@ classes:
   - Wizard
 school: Evocation
 level: 6
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - radiant
+    - thunder
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 100 feet
+somatic: true
+verbal: true
+material: a miniature trumpet worth 100 gp
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Celestial Fanfare
-material: a miniature trumpet worth 100 gp
 ---
 # Celestial Fanfare
 *6th-level, Evocation*  
@@ -39,6 +53,6 @@ Neutral or unaligned creatures within the area take half as much damage and are 
 
 Good-aligned creatures are not harmed by this spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 176*

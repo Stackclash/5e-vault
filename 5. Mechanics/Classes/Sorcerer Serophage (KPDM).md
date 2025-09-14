@@ -59,15 +59,15 @@ At 1st level, someone who chooses this Origin gains control over his or her bloo
 
 ### Blood Fuel (Level 6)
 
-Starting at 6th level, instead of taking a move action, a serophage can deal `dice:1d4|noform|noparens|avg` (`d4`) slashing damage to him- or herself and regain a number of Sorcery Points equal to the slashing damage. Alternatively, the serophage can choose to increase the save DC or the attack bonus of the next spell he or she casts by +1 instead of regaining Sorcery Points. When the serophage reaches 12th level, the die becomes a d8 and the increase to his or her attack bonus or save DC becomes +2.
+Starting at 6th level, instead of taking a move action, a serophage can deal `dice:1d4|noform|noparens|avg` (`1d4`) slashing damage to him- or herself and regain a number of Sorcery Points equal to the slashing damage. Alternatively, the serophage can choose to increase the save DC or the attack bonus of the next spell he or she casts by +1 instead of regaining Sorcery Points. When the serophage reaches 12th level, the die becomes a d8 and the increase to his or her attack bonus or save DC becomes +2.
 
 ### Blood Barrier (Level 14)
 
 At 14th level, a serophage gains the ability to draw blood from a creature with Intelligence 5 or higher that has been killed within the last 30 minutes and form it into swirling rings that surround the Sorcerer. The number of rings is equal to his or her Charisma modifier.
 
-The rings absorb physical damage. When the serophage is struck by a melee or ranged weapon attack, one ring absorbs `dice:1d10|noform|noparens|avg` (`d10`) damage from the attack, and then disappears in a splash.
+The rings absorb physical damage. When the serophage is struck by a melee or ranged weapon attack, one ring absorbs `dice:1d10|noform|noparens|avg` (`1d10`) damage from the attack, and then disappears in a splash.
 
-As an action, the serophage can cause one ring to form into a magical spear of blood and launch itself at a target he or she selects within 60 feet. The Sorcerer makes a ranged spell attack. On a hit, the target takes piercing damage equal to `dice:1d6|noform|noparens|avg` (`d6`) + the serophage's Charisma modifier and must succeed on a Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the start of the serophage's next turn. The spear is considered a magic weapon. It evaporates after it's expended. Each ring remains until it either absorbs damage or is expended as a weapon.
+As an action, the serophage can cause one ring to form into a magical spear of blood and launch itself at a target he or she selects within 60 feet. The Sorcerer makes a ranged spell attack. On a hit, the target takes piercing damage equal to `dice:1d6|noform|noparens|avg` (`1d6`) + the serophage's Charisma modifier and must succeed on a Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the start of the serophage's next turn. The spear is considered a magic weapon. It evaporates after it's expended. Each ring remains until it either absorbs damage or is expended as a weapon.
 
 ### Siphon Blood (Level 18)
 

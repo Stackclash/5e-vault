@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Abyssal Wretch
 ---
-# [[5. Mechanics\Bestiary\Fiend\Abyssal Wretch (MTF).md|Abyssal Wretch]]
+# [[5. Mechanics/Bestiary/Fiend/Abyssal Wretch (MTF).md|Abyssal Wretch]]
 *Source: Mordenkainen's Tome of Foes p. 136*
 
 ```statblock
@@ -38,16 +38,17 @@ aliases:
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1/4"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
       \ + 1) slashing damage."
     "name": "Bite"
 "source":
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/abyssal-wretch-mtf.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/abyssal-wretch-mtf.webp"
 ```
 ^statblock
 

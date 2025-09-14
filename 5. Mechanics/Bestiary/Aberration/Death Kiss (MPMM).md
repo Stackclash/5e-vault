@@ -14,7 +14,7 @@ tags:
 aliases:
   - Death Kiss
 ---
-# [[5. Mechanics\Bestiary\Aberration\Death Kiss (MPMM).md|Death Kiss]]
+# [[5. Mechanics/Bestiary/Aberration/Death Kiss (MPMM).md|Death Kiss]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85, Volo's Guide to Monsters p. 124*
 
 A death kiss is a lesser beholder that can come into being when a true beholder has a vivid nightmare about losing blood. Its coloration and shape resemble those of the beholder that dreamed it into existence, but its hue is more muted, and instead of magical eye rays, it has ten long tentacles, each ending in a mouth full of teeth. It can speak through any of its tentacle-maws in a high-pitched, nasal voice.
@@ -45,18 +45,19 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
   - !!int "10"
 "speed": "0 ft., fly 30 ft. (hover)"
 "saves":
-  - "constitution": "+8"
-  - "wisdom": "+5"
+  - "constitution": !!int "8"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
 "damage_immunities": "lightning"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "darkvision 120 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 15"
 "languages": "Deep Speech, Undercommon"
 "cr": "10"
 "traits":
-  - "desc": "A creature within 5 feet of the death kiss takes 5 (d10) lightning damage\
+  - "desc": "A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage\
       \ whenever it hits the death kiss with a melee attack that deals piercing or\
       \ slashing damage."
     "name": "Lightning Blood"
@@ -64,7 +65,7 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
   - "desc": "The death kiss makes three Tentacle attacks. Up to three of these attacks\
       \ can be replaced by Blood Drain—one replacement per tentacle grappling a creature."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 11\
       \ (2d6 + 4) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends,\
       \ the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], and\
@@ -79,7 +80,7 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Aberration/token/death-kiss-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/death-kiss-mpmm.webp"
 ```
 ^statblock
 

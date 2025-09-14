@@ -16,7 +16,7 @@ aliases:
 
 This painter's apron is covered with smears of paint, which never entirely dry. While wearing the apron, you can use it and the paints on it as if it were a painter's palette, mixing and manipulating the colors on it indefinitely. The apron magically produces paints in whatever colors you need.
 
-While wearing the apron, you gain a +5 bonus to any ability check made using a set of [[5. Mechanics/Items/Painters Supplies.md\|painter's supplies]]. Using the apron's paints and your hands, the muralist's mark can be used on its own as a set of [[5. Mechanics/Items/Painters Supplies.md\|painter's supplies]].
+While wearing the apron, you gain a +5 bonus to any ability check made using a set of [[/5. Mechanics/Items/Painters Supplies.md\|painter's supplies]]. Using the apron's paints and your hands, the muralist's mark can be used on its own as a set of [[/5. Mechanics/Items/Painters Supplies.md\|painter's supplies]].
 
 ## Impression
 

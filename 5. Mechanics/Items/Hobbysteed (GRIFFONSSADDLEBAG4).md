@@ -16,7 +16,7 @@ weight: 2
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Hobbysteed Uncommon (GRIFFONSSADDLEBAG4).md\|Hobbysteed (Uncommon)]]  
-- [[5. Mechanics/Items/Hobbysteed Rare (GRIFFONSSADDLEBAG4).md\|Hobbysteed (Rare)]]  
+- [[/5. Mechanics/Items/Hobbysteed Uncommon (GRIFFONSSADDLEBAG4).md\|Hobbysteed (Uncommon)]]  
+- [[/5. Mechanics/Items/Hobbysteed Rare (GRIFFONSSADDLEBAG4).md\|Hobbysteed (Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*

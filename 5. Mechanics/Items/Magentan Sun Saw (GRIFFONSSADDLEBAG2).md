@@ -13,7 +13,7 @@ one-hand-damage: 1d6 slashing
 weight: 3
 ---
 # Magentan Sun-Saw
-*Weapon ([[5. Mechanics/Items/Scimitar.md\|scimitar]]), major*  
+*Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Magentan-Sun-Saw.webp#right)  
 
 - **Damage**: 1d6 slashing
@@ -22,7 +22,7 @@ weight: 3
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Magentan Sun Saw Uncommon (GRIFFONSSADDLEBAG2).md\|Magentan Sun-Saw (Uncommon)]]  
-- [[5. Mechanics/Items/Magentan Sun Saw Very Rare (GRIFFONSSADDLEBAG2).md\|Magentan Sun-Saw (Very Rare)]]  
+- [[/5. Mechanics/Items/Magentan Sun Saw Uncommon (GRIFFONSSADDLEBAG2).md\|Magentan Sun-Saw (Uncommon)]]  
+- [[/5. Mechanics/Items/Magentan Sun Saw Very Rare (GRIFFONSSADDLEBAG2).md\|Magentan Sun-Saw (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 118*

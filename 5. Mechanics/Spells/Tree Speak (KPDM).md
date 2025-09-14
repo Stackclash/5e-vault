@@ -18,9 +18,9 @@ level: 1
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Tree Speak
 ---
@@ -36,6 +36,8 @@ You touch a tree and ask one question about anything that might have happened in
 
 If you cast this spell on a tree that contains a creature that can merge with trees, such as a dryad, you can freely communicate with the merged creature for the duration of the spell.
 
-**Classes**: [Druid (Circle of Oaks)](compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of Oaks)](/compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
 
 *Source: Deep Magic p. 115*

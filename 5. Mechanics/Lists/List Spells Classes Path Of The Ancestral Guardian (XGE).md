@@ -10,8 +10,8 @@ aliases:
 
 ## 2nd Level
 
-- [[5. Mechanics/Spells/Augury.md \|"PHB"]] at class level 10
+- [[/5. Mechanics/Spells/Augury.md \|"PHB"]] at class level 10
 
 ## 3rd Level
 
-- [[5. Mechanics/Spells/Clairvoyance.md \|"PHB"]] at class level 10
+- [[/5. Mechanics/Spells/Clairvoyance.md \|"PHB"]] at class level 10

@@ -9,7 +9,7 @@ aliases:
 ---
 # Minotaur
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 27*  
-![[5. Mechanics/Races/img/minotaur.webp#right]]  
+![[/5. Mechanics/Races/img/minotaur.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -19,7 +19,7 @@ aliases:
 
 ### Horns
 
-You have horns that you can use to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`d6`) + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have horns that you can use to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`1d6`) + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Goring Rush
 

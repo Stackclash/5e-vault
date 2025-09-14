@@ -27,19 +27,16 @@ classes:
   - Druid (Circle of the Land)
   - Sorcerer (Divine Soul)
 school: Abjuration
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Touch
+somatic: true
+verbal: true
+material: a miniature cloak
 aliases:
   - Resistance
-range: Touch
-material: A miniature cloak.
-concentration: true
 ---
 # Resistance
 *cantrip, Abjuration*  
@@ -51,6 +48,8 @@ concentration: true
 
 You touch one willing creature. Once before the spell ends, the target can roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
 
 *Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

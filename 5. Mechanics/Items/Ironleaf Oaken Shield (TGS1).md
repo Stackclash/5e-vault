@@ -13,7 +13,7 @@ armorClass: 2
 weight: 6
 ---
 # Ironleaf Oaken Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement by a druid)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement by a druid)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Ironleaf-Oaken-Shield.webp#right)  
 
 - **Armor Class**: 2

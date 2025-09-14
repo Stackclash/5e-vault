@@ -20,18 +20,24 @@ classes:
   - Wizard
 school: Transmutation
 level: 8
+damage:
+  base: 1d4
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 10 minutes
-duration: Up to 8 hours
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 8 hours'
+range: Self (5-mile Radius)
+somatic: true
+verbal: true
+material: burning incense and bits of earth and wood mixed in water
+area:
+  shape: radius
+  size: 5
 aliases:
   - Control Weather
-range: Self
-material: Burning incense and bits of earth and wood mixed in water.
-concentration: true
 ---
 # Control Weather
 *8th-level, Transmutation*  
@@ -81,6 +87,6 @@ When you change the weather conditions, find a current condition on the followin
 | 5 | Storm |
 ^wind
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Druid (Circle of Oaks)](compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Oaks)](/compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 228. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

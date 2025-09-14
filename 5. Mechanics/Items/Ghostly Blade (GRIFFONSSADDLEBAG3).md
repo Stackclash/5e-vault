@@ -15,7 +15,7 @@ two-hand-damage: 1d10 force
 weight: 3
 ---
 # Ghostly Blade
-*Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), cursed item, major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), cursed item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ghostly-Blade.webp#right)  
 
 - **Damage**:
@@ -50,10 +50,10 @@ The spirit seeks to slay the creature who killed it in life. It patiently asks t
 
 This weapon is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the sword, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.
 
-This portion of the curse is only revealed when you die. If a creature slays you while you're cursed, you must make a DC 16 Charisma saving throw. On a failed save, your spirit is shunted into the blade to replace the previous one, becoming the new sentience within the weapon. For the duration, you can't be returned to life by any means other than a [[5. Mechanics/Spells/Wish.md\|wish]] spell, unless the sword is used to slay the creature that killed you. If you're returned to life by wish in this way, the weapon becomes a nonmagical sword handle.
+This portion of the curse is only revealed when you die. If a creature slays you while you're cursed, you must make a DC 16 Charisma saving throw. On a failed save, your spirit is shunted into the blade to replace the previous one, becoming the new sentience within the weapon. For the duration, you can't be returned to life by any means other than a [[/5. Mechanics/Spells/Wish.md\|wish]] spell, unless the sword is used to slay the creature that killed you. If you're returned to life by wish in this way, the weapon becomes a nonmagical sword handle.
 
 When your spirit is shunted into the sword, the original spirit appears as a ghost within 5 feet of the weapon. The ghost can wield this sword and use its properties, although its disposition depends on how you treated it.
 
-Once the sword has slain the creature that killed its inhabited spirit, the spirit leaves the blade (and can be returned to life), and the weapon transforms into a [[5. Mechanics/Items/Sun Blade.md\|sun blade]] that has the Blinkstep property. Using this version of Blinkstep allows you to cast [[5. Mechanics/Spells/Misty Step.md\|misty step]] from it, instead of its usual properties; when you do, you reappear in a flash of bright light.
+Once the sword has slain the creature that killed its inhabited spirit, the spirit leaves the blade (and can be returned to life), and the weapon transforms into a [[/5. Mechanics/Items/Sun Blade.md\|sun blade]] that has the Blinkstep property. Using this version of Blinkstep allows you to cast [[/5. Mechanics/Spells/Misty Step.md\|misty step]] from it, instead of its usual properties; when you do, you reappear in a flash of bright light.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

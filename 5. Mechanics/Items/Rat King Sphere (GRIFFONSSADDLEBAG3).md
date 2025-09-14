@@ -40,7 +40,7 @@ You have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Percep
 
 You have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 30 feet. If you already have [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]], its range increases by 30 feet instead.
 
-You can use an action to transform into a giant rat (as if by the [[5. Mechanics/Spells/Polymorph.md\|polymorph]] spell) or revert back to your normal form. You retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores while in giant rat form. If you're reduced to 0 hit points while in giant rat form, you revert to your normal form and can't transform again in this way for the remainder of the effect.
+You can use an action to transform into a giant rat (as if by the [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] spell) or revert back to your normal form. You retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores while in giant rat form. If you're reduced to 0 hit points while in giant rat form, you revert to your normal form and can't transform again in this way for the remainder of the effect.
 
 ## Mark of the Rat King
 

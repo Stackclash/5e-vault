@@ -16,17 +16,29 @@ classes:
   - Wizard
 school: Evocation
 level: 5
+damage:
+  base: 4d10
+  scaling:
+    damage: null
+    level: null
+  types:
+    - radiant
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: half damage
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+material: a sunburst pendant worth at least 100 gp
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Dawn
-concentration: true
-material: a sunburst pendant worth at least 100 gp
 ---
 # Dawn
 *5th-level, Evocation*  
@@ -42,6 +54,6 @@ When the cylinder appears, each creature in it must make a Constitution saving t
 
 If you're within 60 feet of the cylinder, you can move it up to 60 feet as a bonus action on your turn.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 153*

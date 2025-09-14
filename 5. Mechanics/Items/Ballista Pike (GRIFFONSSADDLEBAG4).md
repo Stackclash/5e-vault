@@ -12,7 +12,7 @@ one-hand-damage: 1d10 piercing
 weight: 18
 ---
 # Ballista Pike
-*Weapon ([[5. Mechanics/Items/Pike.md\|pike]]), uncommon*  
+*Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Ballista-Pike.webp#right)  
 
 - **Damage**: 1d10 piercing

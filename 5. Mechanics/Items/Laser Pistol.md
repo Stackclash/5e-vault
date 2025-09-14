@@ -10,7 +10,7 @@ tags:
 aliases:
   - Laser Pistol
 one-hand-damage: 3d6 radiant
-range: 40\120
+range: 40/120
 weight: 2
 ---
 # Laser Pistol

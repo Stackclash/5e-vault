@@ -20,9 +20,9 @@ This enlarged, floating snowflake is magically held in place and changes its sha
 
 | Charges | Spells |
 |---------|--------|
-| 1 | [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Color Spray.md\|color spray]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] |
-| 3 | [[5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]] |
-| 4 | [[5. Mechanics/Spells/Ice Storm.md\|ice storm]] |
+| 1 | [[/5. Mechanics/Spells/Charm Person.md\|charm person]], [[/5. Mechanics/Spells/Color Spray.md\|color spray]], [[/5. Mechanics/Spells/Detect Magic.md\|detect magic]] |
+| 3 | [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]] |
+| 4 | [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]] |
 ^boreal-pendant-spells
 
 If you expend the pendant's last charge, roll a d20. On a 1, the snowflake melts into a puddle of water. After 1 year, the pendant reforms around the magical golden brackets that hold it in place.

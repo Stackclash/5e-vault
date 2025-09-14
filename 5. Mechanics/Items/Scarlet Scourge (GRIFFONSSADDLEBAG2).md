@@ -14,7 +14,7 @@ one-hand-damage: 1d4 slashing
 weight: 3
 ---
 # Scarlet Scourge
-*Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Scarlet-Scourge.webp#right)  
 
 - **Damage**: 1d4 slashing

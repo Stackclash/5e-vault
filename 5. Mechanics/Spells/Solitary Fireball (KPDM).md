@@ -20,16 +20,26 @@ classes:
   - Wizard
 school: Evocation
 level: 2
+damage:
+  base: 6d6
+  scaling:
+    damage: 1d6
+    level: 3
+  types:
+    - fire
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 150 feet
+somatic: true
+verbal: true
+material: a candle and a pinch of sulfur
 aliases:
   - Solitary Fireball
-material: a candle and a pinch of sulfur
 ---
 # Solitary Fireball
 *2nd-level, Evocation*  
@@ -41,8 +51,8 @@ material: a candle and a pinch of sulfur
 
 A bright streak flashes from your pointing finger to a point you choose within range, where it blossoms with a low roar to engulf a single creature in searing flame. That creature takes `dice:6d6|noform|noparens|avg` (`6d6`) fire damage, or half damage with a successful Dexterity saving throw. *Solitary fireball* does not ignite other flammable objects.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 353*

@@ -15,7 +15,7 @@ two-hand-damage: 1d10 slashing
 weight: 3
 ---
 # Windrazor
-*Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Windrazor.webp#right)  
 
 - **Damage**:
@@ -24,7 +24,7 @@ weight: 3
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
 
-You gain a +2 bonus to attack and damage rolls made with this magic weapon. This weapon has the finesse property. The sword has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. While holding the blade, you can expend 1 or more of its charges to cast one of the following spells from it (save DC 17): [[5. Mechanics/Spells/Heroism.md\|heroism]] (1 charge) or [[5. Mechanics/Spells/Wind Wall.md\|wind wall]] (3 charges). Your spellcasting modifier is +5 when casting *heroism* in this way.
+You gain a +2 bonus to attack and damage rolls made with this magic weapon. This weapon has the finesse property. The sword has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. While holding the blade, you can expend 1 or more of its charges to cast one of the following spells from it (save DC 17): [[/5. Mechanics/Spells/Heroism.md\|heroism]] (1 charge) or [[/5. Mechanics/Spells/Wind Wall.md\|wind wall]] (3 charges). Your spellcasting modifier is +5 when casting *heroism* in this way.
 
 ## Air Rend
 

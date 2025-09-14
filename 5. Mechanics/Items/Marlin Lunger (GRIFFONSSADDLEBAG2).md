@@ -14,7 +14,7 @@ one-hand-damage: 1d8 piercing
 weight: 2
 ---
 # Marlin Lunger
-*Weapon ([[5. Mechanics/Items/Rapier.md\|rapier]]), major, uncommon (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Marlin-Lunger.webp#right)  
 
 - **Damage**: 1d8 piercing

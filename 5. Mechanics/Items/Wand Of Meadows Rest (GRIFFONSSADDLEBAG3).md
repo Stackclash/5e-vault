@@ -18,7 +18,7 @@ This wand looks and smells like a flourishing sprig of lavender. It has 7 charge
 
 ## Sleep
 
-While holding the wand, you can use an action to expend 1 or more of its charges to cast the [[5. Mechanics/Spells/Sleep.md\|sleep]] spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend, up to 5th level. Creatures that have a trait that grants them advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on smell are considered to have half as many current hit points for the purposes of determining the number of creatures affected by the spell.
+While holding the wand, you can use an action to expend 1 or more of its charges to cast the [[/5. Mechanics/Spells/Sleep.md\|sleep]] spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend, up to 5th level. Creatures that have a trait that grants them advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on smell are considered to have half as many current hit points for the purposes of determining the number of creatures affected by the spell.
 
 ## Nature's Respite
 

@@ -11,11 +11,11 @@ tags:
 aliases:
   - Prismatic Javelin
 one-hand-damage: 2d6 piercing
-range: 60\150
+range: 60/150
 weight: 2
 ---
 # Prismatic Javelin
-*Weapon ([[5. Mechanics/Items/Javelin.md\|javelin]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Javelin.md\|javelin]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Prismatic-Javelin.webp#right)  
 
 - **Damage**: 2d6 piercing

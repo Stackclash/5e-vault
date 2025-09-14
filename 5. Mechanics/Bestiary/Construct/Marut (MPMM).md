@@ -13,7 +13,7 @@ tags:
 aliases:
   - Marut
 ---
-# [[5. Mechanics\Bestiary\Construct\Marut (MPMM).md|Marut]]
+# [[5. Mechanics/Bestiary/Construct/Marut (MPMM).md|Marut]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 173, Mordenkainen's Tome of Foes p. 213*
 
 The nigh-unstoppable inevitables serve a singular purpose: they enforce contracts forged in the Hall of Concordance in the city of Sigil. Primus, the leader of the modrons, created maruts and other inevitables to bring order to dealings between planar folk. A wide array of disparate creatures, including yugoloths, will enter into a contract with inevitables if asked.
@@ -42,9 +42,9 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
   - !!int "18"
 "speed": "40 ft., fly 30 ft. (hover)"
 "saves":
-  - "intelligence": "+12"
-  - "wisdom": "+10"
-  - "charisma": "+12"
+  - "intelligence": !!int "12"
+  - "wisdom": !!int "10"
+  - "charisma": !!int "12"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+10"
@@ -57,7 +57,8 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., passive Perception 20"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 20"
 "languages": "all but rarely speaks"
 "cr": "25"
 "traits":
@@ -73,7 +74,7 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 "actions":
   - "desc": "The marut makes two Unerring Slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: automatic hit, reach 5 ft., one target. Hit:\
+  - "desc": "*Melee Weapon Attack:* automatic hit, reach 5 ft., one target. *Hit:*\
       \ 60 force damage, and the target is pushed up to 5 feet away from the marut\
       \ if it is Huge or smaller."
     "name": "Unerring Slam"
@@ -82,7 +83,7 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
       \ of this damage must succeed on a DC 20 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
       \ until the end of the marut's next turn."
     "name": "Blazing Edict (Recharge 5-6)"
-  - "desc": "The marut casts [[5. Mechanics/Spells/Plane Shift.md|plane shift]], requiring\
+  - "desc": "The marut casts [[/5. Mechanics/Spells/Plane Shift.md|plane shift]], requiring\
       \ no material components and using Intelligence as the spellcasting ability.\
       \ The marut can cast the spell normally, or it can cast the spell on an unwilling\
       \ creature it can see within 60 feet of it. If it uses the latter option, the\
@@ -92,7 +93,7 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Construct/token/marut-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/marut-mpmm.webp"
 ```
 ^statblock
 

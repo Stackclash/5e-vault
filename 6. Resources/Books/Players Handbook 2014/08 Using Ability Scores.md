@@ -24,7 +24,7 @@ The three main rolls of the game—the ability check, the saving throw, and the 
 
 This chapter focuses on how to use ability checks and saving throws, covering the fundamental activities that creatures attempt in the game. Rules for attack rolls appear in chapter 9.
 
-![[6. Resources/Books/Players Handbook 2014/img/ch7.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/ch7.webp#center]]
 
 ## Ability Scores and Modifiers
 
@@ -38,7 +38,7 @@ To determine an ability modifier without consulting the table, subtract 10 from 
 
 Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
 
-![[5. Mechanics/Tables/Ability Scores And Modifiers (PHB).md\|Ability Scores and Modifiers]]
+![[/5. Mechanics/Tables/Ability Scores And Modifiers (PHB).md\|Ability Scores and Modifiers]]
 
 ## Advantage and Disadvantage
 
@@ -70,7 +70,7 @@ An ability check tests a character's or monster's innate talent and training in 
 
 For every ability check, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows the most common DCs.
 
-![[5. Mechanics/Tables/Ability Checks Typical Difficulty Classes (PHB).md\|Ability Checks; Typical Difficulty Classes]]
+![[/5. Mechanics/Tables/Ability Checks Typical Difficulty Classes (PHB).md\|Ability Checks; Typical Difficulty Classes]]
 
 To make an ability check, roll a d20 and add the relevant ability modifier.
 
@@ -92,7 +92,7 @@ For example, a Dexterity check might reflect a character's attempt to pull off a
 
 The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability's description in the later sections of this chapter for examples of how to use a skill associated with an ability.
 
-![[5. Mechanics/Tables/Skills (PHB).md\|Skills]]
+![[/5. Mechanics/Tables/Skills (PHB).md\|Skills]]
 
 Sometimes, the DM might ask for an ability check using a specific skill—for example, "Make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check." At other times, a player might ask the DM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
 
@@ -132,7 +132,7 @@ To make a group ability check, everyone in the group makes the ability check. If
 
 Group checks don't come up very often, and they're most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the DM might call for a group Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
 
-![[6. Resources/Books/Players Handbook 2014/img/c71.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c71.webp#center]]
 
 ## Using Each Ability
 
@@ -392,7 +392,7 @@ Your Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check
 
 When you attempt to influence someone or a group of people with tact, social graces, or good nature, the DM might ask you to make a Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.
 
-![[6. Resources/Books/Players Handbook 2014/img/c72.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c72.webp#center]]
 
 ##### Other Charisma Checks
 

@@ -17,6 +17,6 @@ When the trap is triggered, the needle extends 3 inches straight out from the lo
 
 A successful DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check allows a character to deduce the trap's presence from alterations made to the lock to accommodate the needle.
 
-A successful DC 15 Dexterity check using [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] disarms the trap, removing the needle from the lock. Unsuccessfully attempting to pick the lock triggers the trap.
+A successful DC 15 Dexterity check using [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] disarms the trap, removing the needle from the lock. Unsuccessfully attempting to pick the lock triggers the trap.
 
 *Source: Dungeon Master's Guide p. 123. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

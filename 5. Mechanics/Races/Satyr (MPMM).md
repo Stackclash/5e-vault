@@ -9,7 +9,7 @@ aliases:
 ---
 # Satyr
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 29*  
-![[5. Mechanics/Races/img/satyr.webp#right]]  
+![[/5. Mechanics/Races/img/satyr.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: fey
@@ -24,7 +24,7 @@ You are a Fey.
 
 ### Ram
 
-You can use your head and horns to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`d6`) + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
+You can use your head and horns to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`1d6`) + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Magic Resistance
 
@@ -36,7 +36,7 @@ Whenever you make a long jump or a high jump, you can roll a `dice:d8|noform|nop
 
 ### Reveler
 
-As an embodiment of revelry, you have proficiency in the [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]] and [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]] skills, and you have proficiency with one [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]] of your choice.
+As an embodiment of revelry, you have proficiency in the [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]] and [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]] skills, and you have proficiency with one [[/5. Mechanics/Items/Musical Instrument.md\|musical instrument]] of your choice.
 
 ## Description
 

@@ -54,11 +54,11 @@ You embody the grace, strength, and resilience of felines. Eventually, you becom
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] (feline only), [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
-| 3rd | [[5. Mechanics/Spells/Animal Messenger.md\|animal messenger]], [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] |
-| 5th | [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[5. Mechanics/Spells/Nondetection.md\|nondetection]] |
-| 7th | [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Locate Creature.md\|locate creature]] |
-| 9th | [[5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[5. Mechanics/Spells/Mislead.md\|mislead]] |
+| 1st | [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] (feline only), [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
+| 3rd | [[/5. Mechanics/Spells/Animal Messenger.md\|animal messenger]], [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] |
+| 5th | [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[/5. Mechanics/Spells/Nondetection.md\|nondetection]] |
+| 7th | [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[/5. Mechanics/Spells/Locate Creature.md\|locate creature]] |
+| 9th | [[/5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[/5. Mechanics/Spells/Mislead.md\|mislead]] |
 ^cat-domain-spells
 
 ### A Claw in the Clowder (Level 1)

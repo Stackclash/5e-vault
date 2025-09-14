@@ -12,15 +12,26 @@ classes:
   - Wizard
 school: Necromancy
 level: 6
+damage:
+  base: 6d8
+  scaling:
+    damage: 1d8
+    level: 7
+  types:
+    - necrotic
+saving_throw:
+  skills:
+    - Strength
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 300 feet
+somatic: true
+verbal: true
 aliases:
   - Black Well
-concentration: true
 ---
 # Black Well
 *6th-level, Necromancy*  
@@ -36,8 +47,8 @@ An [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] creature t
 
 A total of nine Medium creatures, three Large creatures, or one Huge creature can be inside the well's otherdimensional space at one time. When the spell's duration ends, all creatures inside it tumble out in a heap, landing [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage dealt by the well increases by `dice:1d8|noform|noparens|avg|text(d8)`—and the well pulls creatures an additional 5 feet—for each slot level above 6th.
+**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage dealt by the well increases by `dice:1d8|noform|noparens|avg|text(1d8)`—and the well pulls creatures an additional 5 feet—for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 247*

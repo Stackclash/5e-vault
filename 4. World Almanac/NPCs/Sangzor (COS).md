@@ -54,7 +54,7 @@ image: null
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 160*
@@ -140,12 +140,12 @@ actions:
       \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Sure-Footed"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
       \ + 3) bludgeoning damage."
     "name": "Ram"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/sangzor-cos.webp"
+"image": "/4. World Almanac/NPCs/token/sangzor-cos.webp"
 ```
 ^statblock
 

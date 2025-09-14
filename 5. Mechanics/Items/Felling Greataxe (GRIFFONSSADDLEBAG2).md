@@ -13,7 +13,7 @@ one-hand-damage: 1d12 slashing
 weight: 7
 ---
 # Felling Greataxe
-*Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Felling-Greataxe.webp#right)  
 
 - **Damage**: 1d12 slashing

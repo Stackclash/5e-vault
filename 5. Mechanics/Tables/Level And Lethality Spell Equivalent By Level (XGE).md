@@ -11,8 +11,8 @@ aliases:
 
 **Spell Equivalent by Level**
 
-| Character Level |  Moderate |  Dangerous |  Deadly |
-|-----------------|-----------|------------|---------|
+| Character Level | Moderate | Dangerous | Deadly |
+|-----------------|----------|-----------|--------|
 | 1-4 | Cantrip | 1st | 2nd |
 | 5-10 | 1st | 3rd | 6th |
 | 11-16 | 3rd | 6th | 9th |

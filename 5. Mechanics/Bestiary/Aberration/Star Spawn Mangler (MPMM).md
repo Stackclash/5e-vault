@@ -13,7 +13,7 @@ tags:
 aliases:
   - Star Spawn Mangler
 ---
-# [[5. Mechanics\Bestiary\Aberration\Star Spawn Mangler (MPMM).md|Star Spawn Mangler]]
+# [[5. Mechanics/Bestiary/Aberration/Star Spawn Mangler (MPMM).md|Star Spawn Mangler]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*
 
 > [!quote] A quote from Mordenkainen  
@@ -66,8 +66,8 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  - "dexterity": "+7"
-  - "constitution": "+4"
+  - "dexterity": !!int "7"
+  - "constitution": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+7"
@@ -75,7 +75,8 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "damage_immunities": "psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "Deep Speech"
 "cr": "5"
 "traits":
@@ -84,7 +85,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "actions":
   - "desc": "The mangler makes two Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage. If the attack roll has advantage, the target also takes\
       \ 7 (2d6) psychic damage."
     "name": "Claw"
@@ -98,7 +99,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-mangler-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/star-spawn-mangler-mpmm.webp"
 ```
 ^statblock
 

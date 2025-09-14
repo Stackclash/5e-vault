@@ -14,7 +14,7 @@ tags:
 aliases:
   - Nothic
 ---
-# [[5. Mechanics\Bestiary\Aberration\Nothic.md|Nothic]]
+# [[5. Mechanics/Bestiary/Aberration/Nothic.md|Nothic]]
 *Source: Monster Manual p. 236, Curse of Strahd, Vecna: Eve of Ruin. Available in the Basic Rules (2014)*
 
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
@@ -58,7 +58,8 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "truesight 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 12"
 "languages": "Undercommon"
 "cr": "2"
 "traits":
@@ -68,7 +69,7 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 "actions":
   - "desc": "The nothic makes two claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage."
     "name": "Claw"
   - "desc": "The nothic targets one creature it can see within 30 feet of it. The\
@@ -85,7 +86,7 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Aberration/token/nothic.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/nothic.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Polaris Elite Knight
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Polaris Elite Knight (GRIFFONSSADDLEBAG3).md|Polaris Elite Knight]]
+# [[5. Mechanics/Bestiary/Humanoid/Polaris Elite Knight (GRIFFONSSADDLEBAG3).md|Polaris Elite Knight]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The knights of Polaris are qualified enforcement agents in their own right, but the elite knights of the city stand head and shoulders above the rest in terms of raw strength and tactical know-how. Polaris elite knights are usually left to manage groups of other knights or mind the wellfare and daily tasks of the Magistrates.
@@ -25,7 +25,7 @@ The knights of Polaris are qualified enforcement agents in their own right, but 
 "subtype": "any race"
 "alignment": "Lawful Neutral"
 "ac": !!int "17"
-"ac_class": "[[5. Mechanics/Items/Splint Armor.md|splint armor]]"
+"ac_class": "[[/5. Mechanics/Items/Splint Armor.md|splint armor]]"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "modifier": !!int "0"
@@ -38,8 +38,8 @@ The knights of Polaris are qualified enforcement agents in their own right, but 
   - !!int "13"
 "speed": "30 ft."
 "saves":
-  - "constitution": "+5"
-  - "wisdom": "+4"
+  - "constitution": !!int "5"
+  - "wisdom": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+4"
@@ -61,7 +61,7 @@ The knights of Polaris are qualified enforcement agents in their own right, but 
   - "desc": "The knight makes two glaive attacks. It can take the Dodge or Search\
       \ action in place of one attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 9\
       \ (1d10 + 4) slashing damage."
     "name": "Glaive"
 "reactions":

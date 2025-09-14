@@ -15,7 +15,7 @@ tags:
 aliases:
   - Spawn of Kyuss
 ---
-# [[5. Mechanics\Bestiary\Undead\Spawn Of Kyuss (MPMM).md|Spawn of Kyuss]]
+# [[5. Mechanics/Bestiary/Undead/Spawn Of Kyuss (MPMM).md|Spawn of Kyuss]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225, Volo's Guide to Monsters p. 192*
 
 Kyuss was a high priest of Orcus who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.
@@ -42,11 +42,12 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
   - !!int "3"
 "speed": "30 ft."
 "saves":
-  - "wisdom": "+1"
+  - "wisdom": !!int "1"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "5"
 "traits":
@@ -65,7 +66,7 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 "actions":
   - "desc": "The spawn of Kyuss makes two Claw attacks, and it uses Burrowing Worm."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage plus 7 (2d6) necrotic damage."
     "name": "Claw"
   - "desc": "A worm launches from the spawn of Kyuss at one Humanoid that the spawn\
@@ -85,7 +86,7 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Undead/token/spawn-of-kyuss-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/spawn-of-kyuss-mpmm.webp"
 ```
 ^statblock
 

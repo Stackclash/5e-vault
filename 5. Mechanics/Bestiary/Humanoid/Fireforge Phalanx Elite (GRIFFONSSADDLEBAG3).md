@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fireforge Phalanx Elite
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Fireforge Phalanx Elite (GRIFFONSSADDLEBAG3).md|Fireforge Phalanx Elite]]
+# [[5. Mechanics/Bestiary/Humanoid/Fireforge Phalanx Elite (GRIFFONSSADDLEBAG3).md|Fireforge Phalanx Elite]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The dwarves of the Fireforge Phalanx are extremely militant and unwaveringly committed to Direstone's safety. They march in heavy armor and tall shields emblazoned with the gilded mark of Direstone.
@@ -25,7 +25,7 @@ The dwarves of the Fireforge Phalanx are extremely militant and unwaveringly com
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "20"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "0"
@@ -38,15 +38,16 @@ The dwarves of the Fireforge Phalanx are extremely militant and unwaveringly com
   - !!int "14"
 "speed": "25 ft."
 "saves":
-  - "strength": "+8"
-  - "constitution": "+7"
+  - "strength": !!int "8"
+  - "constitution": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+8"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+5"
 "damage_resistances": "fire, poison"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "Common, Dwarvish"
 "cr": "7"
 "traits":
@@ -55,7 +56,7 @@ The dwarves of the Fireforge Phalanx are extremely militant and unwaveringly com
     "name": "Active Defense"
   - "desc": "If the elite moves at least 10 feet straight toward a Large or smaller\
       \ target and then hits it with a melee weapon attack on the same turn, the target\
-      \ takes an extra 3 (d6) bludgeoning damage. If the target is a creature, it\
+      \ takes an extra 3 (1d6) bludgeoning damage. If the target is a creature, it\
       \ must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Charge"
   - "desc": "The elite has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]."
@@ -63,10 +64,10 @@ The dwarves of the Fireforge Phalanx are extremely militant and unwaveringly com
 "actions":
   - "desc": "The elite makes three attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 8 (1d6 + 5) bludgeoning damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +8 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 8 (1d6 + 5) bludgeoning damage."
     "name": "Shield Bash"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
       \ + 5) bludgeoning damage, or 10 (1d10 + 5) bludgeoning damage if used with\
       \ two hands."
     "name": "Warhammer"

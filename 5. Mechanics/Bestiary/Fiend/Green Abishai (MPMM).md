@@ -14,7 +14,7 @@ tags:
 aliases:
   - Green Abishai
 ---
-# [[5. Mechanics\Bestiary\Fiend\Green Abishai (MPMM).md|Green Abishai]]
+# [[5. Mechanics/Bestiary/Fiend/Green Abishai (MPMM).md|Green Abishai]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162, Vecna: Eve of Ruin*
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
@@ -47,8 +47,8 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - !!int "19"
 "speed": "30 ft., fly 40 ft."
 "saves":
-  - "intelligence": "+8"
-  - "charisma": "+9"
+  - "intelligence": !!int "8"
+  - "charisma": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+9"
@@ -62,7 +62,8 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "15"
 "traits":
@@ -75,7 +76,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "desc": "The abishai makes two Fiendish Claw attacks, or it makes one Fiendish\
       \ Claw attack and uses Spellcasting."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d8 + 3) force damage. If the target is a creature, it must succeed on a\
       \ DC 16 Constitution saving throw or take 16 (3d10) poison damage and become\
       \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for 1 minute. The [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
@@ -84,17 +85,17 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     "name": "Fiendish Claw"
   - "desc": "The abishai casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \nAt will: [[5. Mechanics/Spells/Alter Self.md|alter self]], [[5. Mechanics/Spells/Major Image.md|major image]]\n\
-      \n3/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Detect Thoughts.md|detect\
-      \ thoughts]], [[5. Mechanics/Spells/Fear.md|fear]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Dominate Person.md|dominate person]],\
-      \ [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]"
+      \n**At will:** [[/5. Mechanics/Spells/Alter Self.md|alter self]], [[/5. Mechanics/Spells/Major Image.md|major image]]\n\
+      \n**3/day each:** [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Detect Thoughts.md|detect\
+      \ thoughts]], [[/5. Mechanics/Spells/Fear.md|fear]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Confusion.md|confusion]], [[/5. Mechanics/Spells/Dominate Person.md|dominate person]],\
+      \ [[/5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fiend/token/green-abishai-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/green-abishai-mpmm.webp"
 ```
 ^statblock
 

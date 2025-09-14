@@ -15,13 +15,12 @@ level: 8
 ritual: false
 time: 1 Action
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
+range: Unlimited
+somatic: true
+verbal: true
+material: a pair of linked silver rings
 aliases:
   - Telepathy
-material: a pair of linked silver rings
 ---
 # Telepathy
 *8th-level, Evocation*  
@@ -35,6 +34,6 @@ You create a telepathic link between yourself and a willing creature with which 
 
 Until the spell ends, you and the target can instantaneously share words, images, sounds, and other sensory messages with one another through the link, and the target recognizes you as the creature it is communicating with. The spell enables a creature with an Intelligence score of at least 1 to understand the meaning of your words and take in the scope of any sensory messages you send to it.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 281*

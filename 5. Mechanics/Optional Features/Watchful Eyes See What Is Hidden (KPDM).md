@@ -18,4 +18,4 @@ This symbol represents looking beneath the surface to see the world differently 
 
 **Power (6th level)** After spending 10 minutes inking this hieroglyph in the Middle of your forehead, you gain the benefits of casting Detect Thoughts for as long as you concentrate, up to 1 minute.
 
-**Mastery Power:** By taking an action to draw this hieroglyph, you can cast [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]].
+**Mastery Power:** By taking an action to draw this hieroglyph, you can cast [[/5. Mechanics/Spells/Arcane Eye.md\|arcane eye]].

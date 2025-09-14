@@ -10,4 +10,4 @@ aliases:
 
 ## 4th Level
 
-- [[5. Mechanics/Spells/Wall Of Fire.md \|"PHB"]]
+- [[/5. Mechanics/Spells/Wall Of Fire.md \|"PHB"]]

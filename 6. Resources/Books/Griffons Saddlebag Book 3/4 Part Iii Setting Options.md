@@ -47,9 +47,9 @@ Many of Ourdaarde's vital structures hide partially or entirely below Lake Lebon
 
 #### Oudaarde Basics
 
-- **Population.** 9,700 (47% [[5. Mechanics/Races/Ruun Rooble (GRIFFONSSADDLEBAG3).md\|roobles]], 43% [[5. Mechanics/Races/Ruun Ruglunk (GRIFFONSSADDLEBAG3).md\|ruglunks]], 5% [[5. Mechanics/Races/Human.md\|human]], 3% [[5. Mechanics/Races/Ruun Rangol (GRIFFONSSADDLEBAG3).md\|rangol]] defectors or refugees, 2% other)  
+- **Population.** 9,700 (47% [[/5. Mechanics/Races/Ruun Rooble (GRIFFONSSADDLEBAG3).md\|roobles]], 43% [[/5. Mechanics/Races/Ruun Ruglunk (GRIFFONSSADDLEBAG3).md\|ruglunks]], 5% [[/5. Mechanics/Races/Human.md\|human]], 3% [[/5. Mechanics/Races/Ruun Rangol (GRIFFONSSADDLEBAG3).md\|rangol]] defectors or refugees, 2% other)  
 - **Leader.** The Royal Family of Oudaarde, Warrior Queen Anya Wingwumm, and her son (roobles). Queen Wingwumm remains unwed and does not actively seek suitors. The Amphibious Court aids them.  
-- **Militia.** 500 full-time soldiers (basic ruuns) led by 50 knights; the city can muster an additional 1500 ruun militia members (tribal warriors) led by 15 rooble veterans. A band of 50 [[5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]] patrol the waters and forests outside of the city, keeping it safe from the murkfolk.  
+- **Militia.** 500 full-time soldiers (basic ruuns) led by 50 knights; the city can muster an additional 1500 ruun militia members (tribal warriors) led by 15 rooble veterans. A band of 50 [[/5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]] patrol the waters and forests outside of the city, keeping it safe from the murkfolk.  
 - **Commerce.** Oudaarde specializes in the food trade, particularly in rice, sugar cane, tomatoes, and cranberries. They also trade reed, clay, and stone quarried from the Chatsdown Slopes. They import steel, gems, and precious metals from their human neighbors.  
 - **Rivalries.** Oudaarde's most significant rivalry is with its sister city, Belciennes: a smaller city of 4,000 roobles and ruglunks located on Lake Vasteloc the north. They believe that the legacy of Sir Varion, a legendary human knight originally from Belciennes that moved to Oudaarde, is theirs to own and maintain, and not Oudaarde's. Although Oudaarde participates in intrigue and politics outside of their Croaks and Hisses, they rarely stoke rivalries with outsiders.  
 
@@ -82,7 +82,7 @@ The list of important Ourdaardians listed below represents the most critical ind
 
 - **Gérard Chopin.** is the rooble leader of Entixiir's Chosen, an evil-leaning faction that believes the people of Oudaarde should revert to their original purpose and serve green dragons.  
 
-- **Marie-José Bullion.** heads the [[5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]], a group of rangers that patrols the lands and waters surrounding Oudaarde. Many Oudaardians view her as Ourdaarde's most significant living hero.  
+- **Marie-José Bullion.** heads the [[/5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]], a group of rangers that patrols the lands and waters surrounding Oudaarde. Many Oudaardians view her as Ourdaarde's most significant living hero.  
 
 - **Régis Rapace.** is the high priest of the Ebonhands, a necromantic cult that worships Dhennia, the Ebon God of Death: the same god worshiped by Entixiir. Despite their bleak outlook, the Ebonhands fulfill a valuable role in the city, maintaining its above-ground tombs.  
 
@@ -96,7 +96,7 @@ Oudaarde is the largest and most prosperous settlement in Amphibios, so it only 
 
 ##### Alec's Lost Token
 
-Last week, Warrior Queen Anya Wingwumm left the palace at Ourdaarde on a mission—she wants to recover the locket she gave to the late Sir Alec Varion, a human knight of great renown, before his death. While she hunts for leads across Amphibios, she uses a [[5. Mechanics/Items/Hat Of Disguise.md\|hat of disguise]] to mask her appearance.
+Last week, Warrior Queen Anya Wingwumm left the palace at Ourdaarde on a mission—she wants to recover the locket she gave to the late Sir Alec Varion, a human knight of great renown, before his death. While she hunts for leads across Amphibios, she uses a [[/5. Mechanics/Items/Hat Of Disguise.md\|hat of disguise]] to mask her appearance.
 
 With only the last leg of her journey before her, she offers the characters a sizable reward to help her recover this token of her affection. She knows where it's likely being held but wants the excursion to recover it to be kept secret.
 
@@ -104,7 +104,7 @@ With only the last leg of her journey before her, she offers the characters a si
 
 Shortly after Sir Alec Varion's death, a gang of fanatical frogres (rooble **ogres**) stole relics from the knight's tomb.
 
-The items were his helmet, lance, mantle, and shield. Before Belciennes warriors closed in on them, the frogres split the gear and went their separate ways. Recently, the [[5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]] of Oudaarde reclaimed the mantle and imprisoned the frogre who stole it. After interrogating the frogre, the [[5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]] discovered the locations of the other three pieces.
+The items were his helmet, lance, mantle, and shield. Before Belciennes warriors closed in on them, the frogres split the gear and went their separate ways. Recently, the [[/5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]] of Oudaarde reclaimed the mantle and imprisoned the frogre who stole it. After interrogating the frogre, the [[/5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]] discovered the locations of the other three pieces.
 
 Now, they need the help of adventurers to recover the relics. Of course, this mission would be a lot easier if the nobles of Belciennes weren't intent on subverting the Oudaardians, claiming that the recovery mission is their responsibility and not Ourdaarde's.
 
@@ -142,7 +142,7 @@ Most of Oudaarde's wealthy elite gather at The Ancient Curtain, an old mage towe
 
 Originally a magic shop, the Jolly Ship Wand Store now serves as Oudaarde's all-purpose adventurer's shop. The shop consists of six lily pad structures tethered together by rope bridges. Each shop section offers a different variety of wares, with the centermost shop dedicated to magical goods.
 
-Big Maude, a seven-foot-long awakened **giant toad** druid, manages the shop with her assistants, three awakened [[5. Mechanics/Bestiary/Beast/Giant Wasp.md\|giant wasps]]. Anyone caught shoplifting in the shop usually ends up in Maude's mouth for an hour or two.
+Big Maude, a seven-foot-long awakened **giant toad** druid, manages the shop with her assistants, three awakened [[/5. Mechanics/Bestiary/Beast/Giant Wasp.md\|giant wasps]]. Anyone caught shoplifting in the shop usually ends up in Maude's mouth for an hour or two.
 
 ##### Cyrille's Curio Of Cursed And Forbidden Relics
 
@@ -170,50 +170,50 @@ Encounters marked with an asterisk have explanations that appear after the table
 
 | Day | Night | Encounter |
 |-----|-------|-----------|
-| - | 2 | Rangol [[5. Mechanics/Bestiary/Humanoid/Scout.md\|scouts]]* |
-| - | 3 | 1d4 + 1 [[5. Mechanics/Bestiary/Humanoid/Wererat.md\|wererats]] |
-| 2 | 4 | 1d4 [[5. Mechanics/Bestiary/Ooze/Muck Ooze (GRIFFONSSADDLEBAG3).md\|muck oozes]] |
+| - | 2 | Rangol [[/5. Mechanics/Bestiary/Humanoid/Scout.md\|scouts]]* |
+| - | 3 | 1d4 + 1 [[/5. Mechanics/Bestiary/Humanoid/Wererat.md\|wererats]] |
+| 2 | 4 | 1d4 [[/5. Mechanics/Bestiary/Ooze/Muck Ooze (GRIFFONSSADDLEBAG3).md\|muck oozes]] |
 | 3 | 5 | Pilgrims* |
-| 4 | 6 | 1d4 + 1 [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] and 1 [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]] |
-| 5 | 7 | 1 [[5. Mechanics/Bestiary/Monstrosity/Giant Swamp Goose (GRIFFONSSADDLEBAG3).md\|giant swamp goose]] |
-| - | 8 | 1d3 [[5. Mechanics/Bestiary/Monstrosity/Owlbear.md\|owlbears]] |
-| 7 | - | 1d3 + 1 [[5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] |
-| 8 | 9 | 1d4 + 1 [[5. Mechanics/Bestiary/Humanoid/Bugbear.md\|bugbears]] |
+| 4 | 6 | 1d4 + 1 [[/5. Mechanics/Bestiary/Beast/Wolf.md\|wolves]] and 1 [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|dire wolf]] |
+| 5 | 7 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Giant Swamp Goose (GRIFFONSSADDLEBAG3).md\|giant swamp goose]] |
+| - | 8 | 1d3 [[/5. Mechanics/Bestiary/Monstrosity/Owlbear.md\|owlbears]] |
+| 7 | - | 1d3 + 1 [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] |
+| 8 | 9 | 1d4 + 1 [[/5. Mechanics/Bestiary/Humanoid/Bugbear.md\|bugbears]] |
 | 9 | - | Rooble loggers* |
 | 10 | - | Caravan* |
 | 11 | - | Homestead* |
-| 12 | 10 | [[5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|Marshwardens]]* |
-| 13 | 11 | Human [[5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]]* |
-| 14 | 12 | 1d4 + 1 [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]] |
+| 12 | 10 | [[/5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|Marshwardens]]* |
+| 13 | 11 | Human [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]]* |
+| 14 | 12 | 1d4 + 1 [[/5. Mechanics/Bestiary/Beast/Giant Spider.md\|giant spiders]] |
 | 15 | - | Rooble hunters* |
-| 16 | - | 1d6 + 2 [[5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] |
-| 17 | 13 | 1d3 frogres (rooble [[5. Mechanics/Bestiary/Giant/Ogre.md\|ogres]]) |
-| 18 | 14 | 1 [[5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mound]] |
-| 19 | - | 1d2 [[5. Mechanics/Bestiary/Beast/Giant Vulture.md\|giant vultures]] |
-| 20 | 15 | 1d6 + 1 [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] |
-| - | 16 | 1 [[5. Mechanics/Bestiary/Beast/Fen Serpent (GRIFFONSSADDLEBAG3).md\|fen serpent]] |
-| - | 17 | 1d3 + 1 [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] |
-| - | 18 | 1d3 [[5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
-| - | 20 | 1d2 [[5. Mechanics/Bestiary/Giant/Bog Troll (GRIFFONSSADDLEBAG3).md\|bog trolls]] |
+| 16 | - | 1d6 + 2 [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] |
+| 17 | 13 | 1d3 frogres (rooble [[/5. Mechanics/Bestiary/Giant/Ogre.md\|ogres]]) |
+| 18 | 14 | 1 [[/5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mound]] |
+| 19 | - | 1d2 [[/5. Mechanics/Bestiary/Beast/Giant Vulture.md\|giant vultures]] |
+| 20 | 15 | 1d6 + 1 [[/5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] |
+| - | 16 | 1 [[/5. Mechanics/Bestiary/Beast/Fen Serpent (GRIFFONSSADDLEBAG3).md\|fen serpent]] |
+| - | 17 | 1d3 + 1 [[/5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] |
+| - | 18 | 1d3 [[/5. Mechanics/Bestiary/Undead/Wight.md\|wights]] |
+| - | 20 | 1d2 [[/5. Mechanics/Bestiary/Giant/Bog Troll (GRIFFONSSADDLEBAG3).md\|bog trolls]] |
 ^day-night-encounter
 
-Caravan. A caravan consists of merchants and his or her entourage heading for the nearest settlement. The group consists of 1d4 + 2 [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]], 2d4 [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]], and the caravan leader (a [[5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]]).
+Caravan. A caravan consists of merchants and his or her entourage heading for the nearest settlement. The group consists of 1d4 + 2 [[/5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]], 2d4 [[/5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]], and the caravan leader (a [[/5. Mechanics/Bestiary/Humanoid/Noble.md\|noble]]).
 
-Homestead. The characters discover a homestead of rooble or ruglunk people, consisting of 1d6 adult [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]] and 2d6 - 2 non-combatant children. Residents might provide friendly adventurers with food and shelter.
+Homestead. The characters discover a homestead of rooble or ruglunk people, consisting of 1d6 adult [[/5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]] and 2d6 - 2 non-combatant children. Residents might provide friendly adventurers with food and shelter.
 
-Human Bandits. A gang of human bandits gets the drop on the characters. The gang consists of 2d4 + 1 [[5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] led by a [[5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]].
+Human Bandits. A gang of human bandits gets the drop on the characters. The gang consists of 2d4 + 1 [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] led by a [[/5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]].
 
-Marshwardens. A band of 1d3 [[5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]] stops the characters and questions their purpose in the area. The marshwardens aren't looking for a fight, but want to make sure tha the characters aren't spies working for the murkfolk.
+Marshwardens. A band of 1d3 [[/5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]] stops the characters and questions their purpose in the area. The marshwardens aren't looking for a fight, but want to make sure tha the characters aren't spies working for the murkfolk.
 
-Pilgrims. A group of pilgrims includes 2d6 [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]],
+Pilgrims. A group of pilgrims includes 2d6 [[/5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]],
 
-1d4 + 1 [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]], 1d4 [[5. Mechanics/Bestiary/Humanoid/Acolyte.md\|acolytes]], and a [[5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]] bound for a holy or special site.
+1d4 + 1 [[/5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]], 1d4 [[/5. Mechanics/Bestiary/Humanoid/Acolyte.md\|acolytes]], and a [[/5. Mechanics/Bestiary/Humanoid/Priest.md\|priest]] bound for a holy or special site.
 
 Rangol Scouts. The characters encounter a party of 1d4 + 2 rangol **scouts.** The scouts hide and observe and only engage if the party does first.
 
-Rooble Hunters. This group includes a rooble [[5. Mechanics/Bestiary/Humanoid/Scout.md\|scout]] and 1d4 + 1 rooble and ruglunk [[5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|tribal warriors]]. Roll a d6 to determine if they are friendly (1–3) or indifferent (4–6).
+Rooble Hunters. This group includes a rooble [[/5. Mechanics/Bestiary/Humanoid/Scout.md\|scout]] and 1d4 + 1 rooble and ruglunk [[/5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|tribal warriors]]. Roll a d6 to determine if they are friendly (1–3) or indifferent (4–6).
 
-Rooble Loggers. This group includes 2d6 [[5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]] and 1d4 - 1 [[5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]]. The loggers use a [[5. Mechanics/Bestiary/Monstrosity/Giant Swamp Goose (GRIFFONSSADDLEBAG3).md\|giant swamp goose]] to help them transport logs to the nearest waters source.
+Rooble Loggers. This group includes 2d6 [[/5. Mechanics/Bestiary/Humanoid/Commoner.md\|commoners]] and 1d4 - 1 [[/5. Mechanics/Bestiary/Humanoid/Guard.md\|guards]]. The loggers use a [[/5. Mechanics/Bestiary/Monstrosity/Giant Swamp Goose (GRIFFONSSADDLEBAG3).md\|giant swamp goose]] to help them transport logs to the nearest waters source.
 
 ### Amphibios Sites
 
@@ -227,13 +227,13 @@ Recently, the growing tide of murkfolk forced the Varions to swallow their pride
 
 #### Vasteloc
 
-Vasteloc is the largest of Amphibios' two lakes. While the northern and western parts of the lake are clear and cool, the taint of the Murk and Acridaethruix befouls its southeasternmost waters, transforming the lake into a boiling pool of poison and muck there. From this muck rise dreadful creatures, such as acidic [[5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mounds]] and fearsome chuuls. Boats traveling through Vasteloc stick to its western shores lest they face destruction. As murkfolk continue to press Belciennes and claim more territory, the reach of the boiling water also creeps further.
+Vasteloc is the largest of Amphibios' two lakes. While the northern and western parts of the lake are clear and cool, the taint of the Murk and Acridaethruix befouls its southeasternmost waters, transforming the lake into a boiling pool of poison and muck there. From this muck rise dreadful creatures, such as acidic [[/5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mounds]] and fearsome chuuls. Boats traveling through Vasteloc stick to its western shores lest they face destruction. As murkfolk continue to press Belciennes and claim more territory, the reach of the boiling water also creeps further.
 
 #### Ille Chaude
 
-Ille Chaude is a large, fog-draped island at the center of Vasteloc. However, the waters surrounding the island are far enough from the Murk to all but guarantee their safety from any murkfolk assaults; sailors and anglers still avoid the island. Natives to Laterreprosp believe that the island is haunted. The [[5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]] of Oudaarde warn travelers of The Drifting Prisoner, the spirit of a woman who died alone on the island.
+Ille Chaude is a large, fog-draped island at the center of Vasteloc. However, the waters surrounding the island are far enough from the Murk to all but guarantee their safety from any murkfolk assaults; sailors and anglers still avoid the island. Natives to Laterreprosp believe that the island is haunted. The [[/5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]] of Oudaarde warn travelers of The Drifting Prisoner, the spirit of a woman who died alone on the island.
 
-There is some truth to the [[5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]]' tale. However, it is not a ghost that haunts the island but a gang of human prisoners who escaped the dungeon of one of the northern region's cities. The prisoners use the ghost story to mask their presence on the island. Hoping to redeem their past transgressions, the prisoners live as ascetics on the island.
+There is some truth to the [[/5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]]' tale. However, it is not a ghost that haunts the island but a gang of human prisoners who escaped the dungeon of one of the northern region's cities. The prisoners use the ghost story to mask their presence on the island. Hoping to redeem their past transgressions, the prisoners live as ascetics on the island.
 
 Recently, a young rooble boy from Belciennes hoping to make a name for himself sailed to the island. The boy hoped 7 to find evidence of the Drifting Prisoner so he may rid the lake of her presence. Instead, he found the monks. The prisoners-turned-monks captured the boy, fearful that he might reveal their presence to the people of Laterreprosp. The Belciennians believe that the boy's disappearance is just another confirmation of the island's haunt.
 
@@ -259,9 +259,9 @@ Ironically, the Ancient Curtain nobles of Oudaarde actively oppose Phayetrana, t
 
 #### Drappes
 
-Drappes was a small town just two miles northeast of Oudaarde. The murkfolk marched on Drappes and obliterated its walls with fireballs six months ago. They murdered Soives leader, Duke Gaston Chaufourier, and his family and captured or killed almost all of its citizens. A haze of green fog hangs over the town, wrought by [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]] spells cast in its streets.
+Drappes was a small town just two miles northeast of Oudaarde. The murkfolk marched on Drappes and obliterated its walls with fireballs six months ago. They murdered Soives leader, Duke Gaston Chaufourier, and his family and captured or killed almost all of its citizens. A haze of green fog hangs over the town, wrought by [[/5. Mechanics/Spells/Cloudkill.md\|cloudkill]] spells cast in its streets.
 
-The murkfolk now use Drappes as a staging ground for attacks on Oudaarde. Resilient to poison, these servants of Acridaethruix lurk in the poisonous fog and plot new ways to seize Amphibios' most fantastic city. Brave [[5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]] and well-paid mercenaries occasionally enter Drappes with hopes of clearing the ruins of the dragons' minions. So far, Oudaarde faces a stalemate.
+The murkfolk now use Drappes as a staging ground for attacks on Oudaarde. Resilient to poison, these servants of Acridaethruix lurk in the poisonous fog and plot new ways to seize Amphibios' most fantastic city. Brave [[/5. Mechanics/Bestiary/Humanoid/Marshwarden (GRIFFONSSADDLEBAG3).md\|marshwardens]] and well-paid mercenaries occasionally enter Drappes with hopes of clearing the ruins of the dragons' minions. So far, Oudaarde faces a stalemate.
 
 However, there is a glimmer of hope. A week ago, a band of murkfolk rangol apostates absconded Drappes, seeking refuge in Oudaarde. Although the Queen and her advisors don't wholly trust these refugees, these defectors have offered valuable information to aid the Oudaardians in their war efforts. Furthermore, the Queen believes that there might be more murkfolk who are willing to switch sides.
 
@@ -325,7 +325,7 @@ In addition to the aforementioned thicket labyrinth surrounding the lair, the ol
 
 d4 + d6 **Encounter**
 
-7 1 rangol [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] with 2d6 giant toads or **giant frogs**
+7 1 rangol [[/5. Mechanics/Bestiary/Humanoid/Druid.md\|druid]] with 2d6 giant toads or **giant frogs**
 
 8 4d6 **rangols** led by 1d4 + 1 rangol **scouts** 9 1 **treant** with 1d4 **swarms of ravens**
 
@@ -363,19 +363,19 @@ Overall, these chambers lack treasure and valuable items.
 
 When Acridaethruix assumed control of the castle, his minions cleared the areas of anything that might be of value. The dragon keeps all of his treasure in his hoard (see below).
 
-Peachscar. The castle's old kitchen is home to a wise-cracking [[5. Mechanics/Bestiary/Plant/Treant.md\|treant]] with a Charisma (Deception) bonus of +5 named Peachscar. Because Acridaethruix enjoys the old tree's presence, the dragon allows a single spot within the canopy above to shine light through the collapsed wall at the kitchen's rear. Steady rain and healthy soil keep her well-fed. Despite the dragon's acceptance, Peachscar claims no allegiance to Acridaethruix, nor does she actively oppose him. Peachscar enjoys talking to anyone who comes into the old kitchen. She also enjoys playing games; she will lie to the party about the castle's layout, hoping to catch them in a trap.
+Peachscar. The castle's old kitchen is home to a wise-cracking [[/5. Mechanics/Bestiary/Plant/Treant.md\|treant]] with a Charisma (Deception) bonus of +5 named Peachscar. Because Acridaethruix enjoys the old tree's presence, the dragon allows a single spot within the canopy above to shine light through the collapsed wall at the kitchen's rear. Steady rain and healthy soil keep her well-fed. Despite the dragon's acceptance, Peachscar claims no allegiance to Acridaethruix, nor does she actively oppose him. Peachscar enjoys talking to anyone who comes into the old kitchen. She also enjoys playing games; she will lie to the party about the castle's layout, hoping to catch them in a trap.
 
 ##### Keep (Upstairs)
 
 Vine-ridden staircases wind their way up to the castle's old residential floor. Like the chambers below, the upstairs lies primarily in ruins. Portions of the roof collapsed long ago, allowing rainwater to pool and stagnate in many old rooms.
 
-Many of the creatures that live upstairs are winged, including a colony of goblinoid-werebats (treat them as [[5. Mechanics/Bestiary/Humanoid/Wererat.md\|wererats]])
+Many of the creatures that live upstairs are winged, including a colony of goblinoid-werebats (treat them as [[/5. Mechanics/Bestiary/Humanoid/Wererat.md\|wererats]])
 
 with a flight speed of 60 ft while in giant bat and hybrid form) who revere Acridaethruix. Acridaethruix despises the werebats, finding them grotesque, and refuses to employ them despite their eagerness to please him.
 
 ##### Library 11
 
-The old library is one of the few parts of the castle that remains intact. The [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] of a rangol sorcerer named Kuuk manages the library. In life, she was responsible for curating the library for its original inhabitants.
+The old library is one of the few parts of the castle that remains intact. The [[/5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] of a rangol sorcerer named Kuuk manages the library. In life, she was responsible for curating the library for its original inhabitants.
 
 Although Acridaethruix is not as well-read as other green dragons his age, he enjoys a wide array of reference manuals at his disposal.
 
@@ -399,7 +399,7 @@ The dragon hides its hoard in a hollow near the ledge on which he sleeps. The ma
 
 ### Example Treasure
 
-Characters that visit Amphibios (Laterreprosp) are more likely to come across water, reptile, or swamp-themed magical items. Treasure such as the [[5. Mechanics/Items/Amulet Of Buoyancy (GRIFFONSSADDLEBAG2).md\|amulet of buoyancy]], [[5. Mechanics/Items/Anglers Wand (GRIFFONSSADDLEBAG3).md\|angler's wand]], [[5. Mechanics/Items/Anglers Worldly Fisher (GRIFFONSSADDLEBAG2).md\|angler's worldly fisher]], [[5. Mechanics/Items/Bullfrog Totem (GRIFFONSSADDLEBAG2).md\|bullfrog totem]], [[5. Mechanics/Items/Doubloon Divers Goggles (GRIFFONSSADDLEBAG2).md\|doubloon diver's goggles]], [[5. Mechanics/Items/Drowners Pearl (GRIFFONSSADDLEBAG2).md\|drowner's pearl]], [[5. Mechanics/Items/Flood Pauldron (GRIFFONSSADDLEBAG2).md\|flood pauldron]], [[5. Mechanics/Items/Helm Of The Deep Sea Knight (GRIFFONSSADDLEBAG3).md\|helm of the deep sea knight]], [[5. Mechanics/Items/Marlin Lunger (GRIFFONSSADDLEBAG2).md\|marlin lunger]], [[5. Mechanics/Items/Quagmire Maul (TGS1).md\|quagmire maul]], [[5. Mechanics/Items/Riptide Crossbow (GRIFFONSSADDLEBAG2).md\|riptide crossbow]], [[5. Mechanics/Items/Rod Of Water Absorption (GRIFFONSSADDLEBAG2).md\|rod of water absorption]], [[5. Mechanics/Items/Rose Quartz Koi (GRIFFONSSADDLEBAG2).md\|rose quartz koi]], [[5. Mechanics/Items/Toadstone (TGS1).md\|toadstone]], torpedo arrow, or [[5. Mechanics/Items/Wavecutter (GRIFFONSSADDLEBAG2).md\|wavecutter]] could be ideal for the region. Similarly, anything regarding Amphibios in its name, including Sir Varion or the Murk, originate from Amphibios and would of course be a great fit. Such items include the [[5. Mechanics/Items/Gloves Of Amphibios (GRIFFONSSADDLEBAG2).md\|gloves of Amphibios]], [[5. Mechanics/Items/Murk Blowgun (GRIFFONSSADDLEBAG2).md\|murk blowgun]], [[5. Mechanics/Items/Poison Armor Of Amphibios (GRIFFONSSADDLEBAG2).md\|poison armor of Amphibios]], [[5. Mechanics/Items/Royal Blade Of Amphibios (GRIFFONSSADDLEBAG2).md\|royal blade of Amphibios]], [[5. Mechanics/Items/Sir Varions Helm (GRIFFONSSADDLEBAG2).md\|Sir Varion's Helm]], [[5. Mechanics/Items/Sir Varions Lance (GRIFFONSSADDLEBAG2).md\|Sir Varion's Lance]], [[5. Mechanics/Items/Sir Varions Mantle (GRIFFONSSADDLEBAG2).md\|Sir Varion's Mantle]], and [[5. Mechanics/Items/Sir Varions Shield (GRIFFONSSADDLEBAG2).md\|Sir Varion's Shield]].
+Characters that visit Amphibios (Laterreprosp) are more likely to come across water, reptile, or swamp-themed magical items. Treasure such as the [[/5. Mechanics/Items/Amulet Of Buoyancy (GRIFFONSSADDLEBAG2).md\|amulet of buoyancy]], [[/5. Mechanics/Items/Anglers Wand (GRIFFONSSADDLEBAG3).md\|angler's wand]], [[/5. Mechanics/Items/Anglers Worldly Fisher (GRIFFONSSADDLEBAG2).md\|angler's worldly fisher]], [[/5. Mechanics/Items/Bullfrog Totem (GRIFFONSSADDLEBAG2).md\|bullfrog totem]], [[/5. Mechanics/Items/Doubloon Divers Goggles (GRIFFONSSADDLEBAG2).md\|doubloon diver's goggles]], [[/5. Mechanics/Items/Drowners Pearl (GRIFFONSSADDLEBAG2).md\|drowner's pearl]], [[/5. Mechanics/Items/Flood Pauldron (GRIFFONSSADDLEBAG2).md\|flood pauldron]], [[/5. Mechanics/Items/Helm Of The Deep Sea Knight (GRIFFONSSADDLEBAG3).md\|helm of the deep sea knight]], [[/5. Mechanics/Items/Marlin Lunger (GRIFFONSSADDLEBAG2).md\|marlin lunger]], [[/5. Mechanics/Items/Quagmire Maul (TGS1).md\|quagmire maul]], [[/5. Mechanics/Items/Riptide Crossbow (GRIFFONSSADDLEBAG2).md\|riptide crossbow]], [[/5. Mechanics/Items/Rod Of Water Absorption (GRIFFONSSADDLEBAG2).md\|rod of water absorption]], [[/5. Mechanics/Items/Rose Quartz Koi (GRIFFONSSADDLEBAG2).md\|rose quartz koi]], [[/5. Mechanics/Items/Toadstone (TGS1).md\|toadstone]], torpedo arrow, or [[/5. Mechanics/Items/Wavecutter (GRIFFONSSADDLEBAG2).md\|wavecutter]] could be ideal for the region. Similarly, anything regarding Amphibios in its name, including Sir Varion or the Murk, originate from Amphibios and would of course be a great fit. Such items include the [[/5. Mechanics/Items/Gloves Of Amphibios (GRIFFONSSADDLEBAG2).md\|gloves of Amphibios]], [[/5. Mechanics/Items/Murk Blowgun (GRIFFONSSADDLEBAG2).md\|murk blowgun]], [[/5. Mechanics/Items/Poison Armor Of Amphibios (GRIFFONSSADDLEBAG2).md\|poison armor of Amphibios]], [[/5. Mechanics/Items/Royal Blade Of Amphibios (GRIFFONSSADDLEBAG2).md\|royal blade of Amphibios]], [[/5. Mechanics/Items/Sir Varions Helm (GRIFFONSSADDLEBAG2).md\|Sir Varion's Helm]], [[/5. Mechanics/Items/Sir Varions Lance (GRIFFONSSADDLEBAG2).md\|Sir Varion's Lance]], [[/5. Mechanics/Items/Sir Varions Mantle (GRIFFONSSADDLEBAG2).md\|Sir Varion's Mantle]], and [[/5. Mechanics/Items/Sir Varions Shield (GRIFFONSSADDLEBAG2).md\|Sir Varion's Shield]].
 
 ## Breezeport
 

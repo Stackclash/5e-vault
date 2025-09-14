@@ -19,16 +19,21 @@ classes:
   - Wizard
 school: Necromancy
 level: 4
+damage:
+  base: 4d8
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: true
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a silver knife
 aliases:
   - Sacrificial Healing
-material: a silver knife
 ---
 # Sacrificial Healing
 *4th-level, Necromancy (ritual)*  
@@ -40,6 +45,6 @@ material: a silver knife
 
 You heal another creature's wounds by taking them upon yourself or transferring them to another willing creature in range. Roll `dice:4d8|noform|noparens|avg` (`4d8`). The number rolled is the amount of damage healed by the target and the damage you take, as its wounds close and similar damage appears on your body (or the body of the other willing target of the spell).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 104*

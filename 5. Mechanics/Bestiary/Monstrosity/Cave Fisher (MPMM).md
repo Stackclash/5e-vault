@@ -14,7 +14,7 @@ tags:
 aliases:
   - Cave Fisher
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Cave Fisher (MPMM).md|Cave Fisher]]
+# [[5. Mechanics/Bestiary/Monstrosity/Cave Fisher (MPMM).md|Cave Fisher]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130*
 
 A cave fisher is a subterranean arachnid with a long snout that houses spinnerets, enabling the creature to produce sticky filaments, much like the strands of a spider's webbing, which the creature uses to snag prey.
@@ -52,7 +52,8 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "blindsight 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., passive Perception\
+  \ 12"
 "languages": ""
 "cr": "3"
 "traits":
@@ -65,7 +66,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 "actions":
   - "desc": "The cave fisher makes two Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage."
     "name": "Claw"
   - "desc": "One Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
@@ -89,7 +90,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/cave-fisher-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/cave-fisher-mpmm.webp"
 ```
 ^statblock
 

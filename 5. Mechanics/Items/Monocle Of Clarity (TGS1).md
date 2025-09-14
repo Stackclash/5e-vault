@@ -17,7 +17,7 @@ You can change the monocle's filter by rotating its outer ring. A small arrow al
 
 ## Filter of Comprehend Languages
 
-When you peer through this filter, you can read and comprehend any written language as per the written language portion of the [[5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]] spell.
+When you peer through this filter, you can read and comprehend any written language as per the written language portion of the [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]] spell.
 
 ## Filter of Darkvision
 

@@ -10,11 +10,11 @@ tags:
 aliases:
   - Whirlpool Dart
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 0.25
 ---
 # Whirlpool Dart
-*Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Whirlpool-Dart.webp#right)  
 
 - **Damage**: 1d4 piercing

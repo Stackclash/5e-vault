@@ -18,15 +18,13 @@ school: Necromancy
 level: 2
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
+material: a pinch of earth from a grave
 aliases:
   - Unholy Defiance
-concentration: true
-material: a pinch of earth from a grave
 ---
 # Unholy Defiance
 *2nd-level, Necromancy*  
@@ -38,6 +36,6 @@ material: a pinch of earth from a grave
 
 Until the spell ends, undead creatures within range have advantage on saving throws against effects that turn undead. If an undead creature within this area has the Turning Defiance trait, that creature can roll a `dice:d4|noform|noparens|avg` (`d4`) when it makes a saving throw against an effect that turns undead and add the number rolled to the saving throw.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 118*

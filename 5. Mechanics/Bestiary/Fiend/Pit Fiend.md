@@ -13,7 +13,7 @@ tags:
 aliases:
   - Pit Fiend
 ---
-# [[5. Mechanics\Bestiary\Fiend\Pit Fiend.md|Pit Fiend]]
+# [[5. Mechanics/Bestiary/Fiend/Pit Fiend.md|Pit Fiend]]
 *Source: Monster Manual p. 77, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The undisputed lords of most other devils, pit fiends attend the archdukes and archduchesses of the Nine Hells and carry out their wishes. These mighty devils are the generals of the Nine Hells, leading its infernal legions into battle.
@@ -138,10 +138,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > - A barbed devil has a 30 percent chance of summoning one barbed devil.  
 > - A bearded devil has a 30 percent chance of summoning one bearded devil.  
 > - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`d6`) bearded devils, or one erinyes.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`1d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30 percent chance of summoning one horned devil.  
 > - An ice devil has a 60 percent chance of summoning one ice devil.  
-> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -166,22 +166,23 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - !!int "24"
 "speed": "30 ft., fly 60 ft."
 "saves":
-  - "dexterity": "+8"
-  - "constitution": "+13"
-  - "wisdom": "+10"
+  - "dexterity": !!int "8"
+  - "constitution": !!int "13"
+  - "wisdom": !!int "10"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 14"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "20"
 "traits":
   - "desc": "The pit fiend's spellcasting ability is Charisma (spell save DC 21).\
       \ The pit fiend can innately cast the following spells, requiring no material\
-      \ components:\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-      \ [[5. Mechanics/Spells/Fireball.md|fireball]]\n\n3/day each: [[5. Mechanics/Spells/Hold Monster.md|hold monster]],\
-      \ [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
+      \ components:\n\n**At will:** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[/5. Mechanics/Spells/Fireball.md|fireball]]\n\n**3/day each:** [[/5. Mechanics/Spells/Hold Monster.md|hold monster]],\
+      \ [[/5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]"
     "name": "Innate Spellcasting"
   - "desc": "Any creature hostile to the pit fiend that starts its turn within 20\
       \ feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit\
@@ -199,7 +200,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - "desc": "The pit fiend makes four attacks: one with its bite, one with its claw,\
       \ one with its mace, and one with its tail."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 22\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 22\
       \ (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution\
       \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]].\
       \ While [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way, the\
@@ -208,20 +209,20 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 17\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 17\
       \ (2d8 + 8) slashing damage."
     "name": "Claw"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15\
       \ (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage."
     "name": "Mace"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 24\
       \ (3d10 + 8) bludgeoning damage."
     "name": "Tail"
 "source":
   - "MM"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fiend/token/pit-fiend.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/pit-fiend.webp"
 ```
 ^statblock
 

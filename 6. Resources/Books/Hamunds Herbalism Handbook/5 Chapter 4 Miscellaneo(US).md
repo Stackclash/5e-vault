@@ -21,26 +21,26 @@ aliases:
 ## Feats
 
 > [!embed-feat]- Tincture Master
-> ![[5. Mechanics/Feats/Tincture Master (HHBH).md\|Tincture Master]]
+> ![[/5. Mechanics/Feats/Tincture Master (HHBH).md\|Tincture Master]]
 
 > [!embed-feat]- Nature's Bounty
-> ![[5. Mechanics/Feats/Natures Bounty (HHBH).md\|Nature's Bounty]]
+> ![[/5. Mechanics/Feats/Natures Bounty (HHBH).md\|Nature's Bounty]]
 
 ## Spells
 
 > [!embed-spell]- Cornucopia
-> ![[5. Mechanics/Spells/Cornucopia (HHBH).md\|Cornucopia]]
+> ![[/5. Mechanics/Spells/Cornucopia (HHBH).md\|Cornucopia]]
 
 > [!embed-spell]- Hamund's Herbal Hypodermic
-> ![[5. Mechanics/Spells/Hamunds Herbal Hypodermic (HHBH).md\|Hamund's Herbal Hypodermic]]
+> ![[/5. Mechanics/Spells/Hamunds Herbal Hypodermic (HHBH).md\|Hamund's Herbal Hypodermic]]
 
 > [!embed-spell]- Herbal Infusion
-> ![[5. Mechanics/Spells/Herbal Infusion (HHBH).md\|Herbal Infusion]]
+> ![[/5. Mechanics/Spells/Herbal Infusion (HHBH).md\|Herbal Infusion]]
 
 ## New Background: Herbalist
 
 > [!embed-background]- Herbalist
-> ![[5. Mechanics/Backgrounds/Herbalist (HHBH).md\|Herbalist]]
+> ![[/5. Mechanics/Backgrounds/Herbalist (HHBH).md\|Herbalist]]
 
 ## Hamund's Helpers
 

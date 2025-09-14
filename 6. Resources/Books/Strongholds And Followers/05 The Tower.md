@@ -71,7 +71,7 @@ The time spent takes 8 hours of every day, six days a week. The arcanist is able
 
 > [!note] Other Tags
 > 
-> Graves builds a tower and calls it the Helltower. He decides it would be nice if his [[5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]] spell was better than normal vampiric touches. [[5. Mechanics/Spells/Vampiric Touch.md\|Vampiric Touch]] is a 3rd-level spell, and the Helltower is a 1st-level tower. Thus, researching it will take 6 weeks: the base time of 4 weeks, plus 3 weeks because [[5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]] is a 3rd-level spell , minus 1 week because his tower is 1st level.
+> Graves builds a tower and calls it the Helltower. He decides it would be nice if his [[/5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]] spell was better than normal vampiric touches. [[/5. Mechanics/Spells/Vampiric Touch.md\|Vampiric Touch]] is a 3rd-level spell, and the Helltower is a 1st-level tower. Thus, researching it will take 6 weeks: the base time of 4 weeks, plus 3 weeks because [[/5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]] is a 3rd-level spell , minus 1 week because his tower is 1st level.
 ^other-tags
 
 ### Find the Chart, Roll or Pick
@@ -157,15 +157,15 @@ Find your damage type on the list below.
 - (Acid) **Melting**: Objects carried by the target are hit and take damage equal to the spell's damage.  
 - (Bludgeoning) Sundering: For the spell's duration, armor worn by the targets degrades by 2. Sundering effects do not stack.  
 - (Cold) **Chilling**: Affected targets are grappled until the end of their next turn.  
-- (Fire) **Incinerating**: Affected targets continue to burn, taking an extra `dice:1d6|noform|noparens|avg` (`d6`) damage at the start of each round until they spend an action extinguishing the flames.  
+- (Fire) **Incinerating**: Affected targets continue to burn, taking an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage at the start of each round until they spend an action extinguishing the flames.  
 - (Force) **Detonating**: Affected targets are knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. On their next turn, they must make a Wisdom saving throw to stand up. On their following turn, they may stand up normally without making a save.  
 - (Lightning) **Shocking**: Affected targets have disadvantage on all saving throws until the end of your next turn.  
-- (Necrotic) **Unholy**: ^[Yeah I know some folks don't consider raising the dead to be evil or "unholy."] `dice:1d4|noform|noparens|avg` (`d4`) ghouls rise from the ground, each anywhere you choose within 30 feet. They obey your commands for a number of rounds equal to your spellcasting modifier, then crumble to dust.  
+- (Necrotic) **Unholy**: ^[Yeah I know some folks don't consider raising the dead to be evil or "unholy."] `dice:1d4|noform|noparens|avg` (`1d4`) ghouls rise from the ground, each anywhere you choose within 30 feet. They obey your commands for a number of rounds equal to your spellcasting modifier, then crumble to dust.  
 - (Piercing) **Puncturing**: For 10 minutes, weapon attacks against affected targets score critical hits on attack rolls of 15 or higher ^[In other words, your spell creates a "weak spot" in the target's armor or hide that others can exploit.]  
 - (Poison) **Nauseating**: Affected targets forgo their next turn, spending it vomiting.  
 - (Psychic) **Hallucinating**: On their next turn, the targets perceive allies as enemies and enemies as allies, and act accordingly.  
 - (Radiant) **Dazzling**: Each target is blind until the end of its next turn.  
-- (Slashing) **Wounding**: Each target takes `dice:1d10|noform|noparens|avg` (`d10`) damage at the end of its next turn.  
+- (Slashing) **Wounding**: Each target takes `dice:1d10|noform|noparens|avg` (`1d10`) damage at the end of its next turn.  
 - (Thunder) **Concussive**: The targets are pushed 20 feet back.  
 
 ### "I Got a Result I Don't Like"
@@ -186,9 +186,9 @@ If the player likes the result, they should be free to **choose the same spell m
 
 > [!note] Other Tags
 > 
-> Reginam researches [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]] (spell affects yourself or an ally), rolls on the appropriate chart, and gets a 4. Omniscient! Perfect! She now has Reginam's omniscient eye, and the effects dovetail well.
+> Reginam researches [[/5. Mechanics/Spells/Arcane Eye.md\|arcane eye]] (spell affects yourself or an ally), rolls on the appropriate chart, and gets a 4. Omniscient! Perfect! She now has Reginam's omniscient eye, and the effects dovetail well.
 > 
-> Upon returning to her tower after adventuring, she decides to research [[5. Mechanics/Spells/Haste.md\|haste]], and after spending the time researching it, she simply choose to apply omniscient to haste without rolling, because her player feels like it makes a good combo.
+> Upon returning to her tower after adventuring, she decides to research [[/5. Mechanics/Spells/Haste.md\|haste]], and after spending the time researching it, she simply choose to apply omniscient to haste without rolling, because her player feels like it makes a good combo.
 ^other-tags
 
 Once a character has a signature spell, especially after they've used it in the wild a few times, rumors of its existence begin to circulate and eventually it's possible, even inevitable, that another spellcaster might reverse-engineer how this custom spell was done and duplicate it. Scrolls of Reginam's omniscient eye might begin circulating. Enemy spellcasters might start using it against the heroes!
@@ -221,11 +221,11 @@ Here are some simple rules for towers by school, in case you don't like the spel
 
 Upon finishing a tower, the magic-user must dedicate it to one of the eight schools of magic. It is traditional to give your tower a name based on the school—like, if you choose Divination, you might call your stronghold a Tower of Prophecy. Necromancy...well, a Tower of Necromancy is pretty cool, but also the Tower of Death is pretty badass. Or the Black Tower, or the Tower of Pale Flesh. You get the idea.
 
-**A magic-user who studies at their tower for a week can prepare and cast spells from their tower's school as if the spell were cast at one level higher**. In other words, [[5. Mechanics/Spells/Fireball.md\|fireball]], studied by a 5th-level warlock with an evocation tower, would cast as a 4th-level spell and do an extra 1d6 damage, even though the warlock was using a 3rd-level slot.
+**A magic-user who studies at their tower for a week can prepare and cast spells from their tower's school as if the spell were cast at one level higher**. In other words, [[/5. Mechanics/Spells/Fireball.md\|fireball]], studied by a 5th-level warlock with an evocation tower, would cast as a 4th-level spell and do an extra 1d6 damage, even though the warlock was using a 3rd-level slot.
 
 **A magic-user can only prepare spells in this way a number of times equal to the level of their tower** (so typically once when starting out). After this, they must return home and spend a week researching in their tower.
 
-> Velorin finishes his tower and dedicates it to necromancy. He memorizes [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] at 3rd level, but when he casts it, it behaves in all other ways like a 4th-level spell, extending the duration to "concentration."
+> Velorin finishes his tower and dedicates it to necromancy. He memorizes [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] at 3rd level, but when he casts it, it behaves in all other ways like a 4th-level spell, extending the duration to "concentration."
 > 
 > All the necromancy spells he casts that day are cast as though they were one level higher. But because his tower is only 1st level, he cannot prepare his necromantic spells this way again until he spends a week in his tower. After upgrading to a 2nd-level tower, he may now spend 2 days casting necromantic spells at higher level.
 

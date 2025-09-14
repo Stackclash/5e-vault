@@ -24,13 +24,13 @@ The rarity and strength of this potion differs depending on the age category of 
 ^rarity-hp-regained
 
 > [!embed-table]- Dragon Types
-> ![[5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
+> ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 **Items in this group:**
 
-- [[5. Mechanics/Items/Potion Of Wyrmling Dragonstrength (HHHVI).md\|Potion of Wyrmling Dragonstrength]]
-- [[5. Mechanics/Items/Potion Of Young Dragonstrength (HHHVI).md\|Potion of Young Dragonstrength]]
-- [[5. Mechanics/Items/Potion Of Adult Dragonstrength (HHHVI).md\|Potion of Adult Dragonstrength]]
-- [[5. Mechanics/Items/Potion Of Ancient Dragonstrength (HHHVI).md\|Potion of Ancient Dragonstrength]]
+- [[/5. Mechanics/Items/Potion Of Wyrmling Dragonstrength (HHHVI).md\|Potion of Wyrmling Dragonstrength]]
+- [[/5. Mechanics/Items/Potion Of Young Dragonstrength (HHHVI).md\|Potion of Young Dragonstrength]]
+- [[/5. Mechanics/Items/Potion Of Adult Dragonstrength (HHHVI).md\|Potion of Adult Dragonstrength]]
+- [[/5. Mechanics/Items/Potion Of Ancient Dragonstrength (HHHVI).md\|Potion of Ancient Dragonstrength]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*

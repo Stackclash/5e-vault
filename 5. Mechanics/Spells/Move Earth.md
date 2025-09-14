@@ -18,21 +18,15 @@ school: Transmutation
 level: 6
 ritual: false
 time: 1 Action
-duration: Up to 2 hours
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 2 hours'
+range: 120 feet
+somatic: true
+verbal: true
+material: >-
+  an iron blade and a small bag containing a mixture of soils—clay, loam, and
+  sand
 aliases:
   - Move Earth
-range: 120 feet
-material: >-
-  An iron blade and a small bag containing a mixture of soils--clay, loam, and
-  sand.
-area:
-  type: cone
-  size: 40
-concentration: true
 ---
 # Move Earth
 *6th-level, Transmutation*  
@@ -52,6 +46,6 @@ This spell can't manipulate natural stone or stone construction. Rocks and struc
 
 Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

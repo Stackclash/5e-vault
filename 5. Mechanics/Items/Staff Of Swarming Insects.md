@@ -15,7 +15,7 @@ weight: 4
 ---
 # Staff of Swarming Insects
 *Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
-![[5. Mechanics/Items/img/staff-of-swarming-insects.webp#right]]  
+![[/5. Mechanics/Items/img/staff-of-swarming-insects.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
@@ -23,11 +23,11 @@ weight: 4
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
-This staff has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, a [[5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]] consumes and destroys the staff, then disperses.
+This staff has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, a [[/5. Mechanics/Bestiary/Beast/Swarm Of Insects.md\|swarm of insects]] consumes and destroys the staff, then disperses.
 
 ## Spells
 
-While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: [[5. Mechanics/Spells/Giant Insect.md\|giant insect]] (4 charges) or [[5. Mechanics/Spells/Insect Plague.md\|insect plague]] (5 charges).
+While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: [[/5. Mechanics/Spells/Giant Insect.md\|giant insect]] (4 charges) or [[/5. Mechanics/Spells/Insect Plague.md\|insect plague]] (5 charges).
 
 ## Insect Cloud
 

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Imp
 ---
-# [[5. Mechanics\Bestiary\Fiend\Imp.md|Imp]]
+# [[5. Mechanics/Bestiary/Fiend/Imp.md|Imp]]
 *Source: Monster Manual p. 76, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Imps are found throughout the Lower Planes, either running errands for their infernal masters, spying on rivals, or misleading and waylaying mortals. An imp will proudly serve an evil master of any kind, but it can't be relied on to carry out tasks with any speed or efficiency.
@@ -139,10 +139,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > - A barbed devil has a 30 percent chance of summoning one barbed devil.  
 > - A bearded devil has a 30 percent chance of summoning one bearded devil.  
 > - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`d6`) bearded devils, or one erinyes.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`1d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30 percent chance of summoning one horned devil.  
 > - An ice devil has a 60 percent chance of summoning one ice devil.  
-> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -178,7 +178,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   \ not made with silvered weapons"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 11"
 "languages": "Infernal, Common"
 "cr": "1"
 "traits":
@@ -194,7 +195,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
       \ effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
       \ + 3) piercing damage, and the target must make a DC 11 Constitution saving\
       \ throw, taking 10 (3d6) poison damage on a failed save, or half as much damage\
       \ on a successful one."
@@ -210,7 +211,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - "CoS"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fiend/token/imp.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/imp.webp"
 ```
 ^statblock
 

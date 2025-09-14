@@ -13,7 +13,7 @@ tags:
 aliases:
   - Death Haze
 ---
-# [[5. Mechanics\Bestiary\Undead\Death Haze (GRIFFONSSADDLEBAG3).md|Death Haze]]
+# [[5. Mechanics/Bestiary/Undead/Death Haze (GRIFFONSSADDLEBAG3).md|Death Haze]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 In the miasma of nightmares, either in the space of dreams or in the lands that touch them, the threat of a death haze is a constant worry. Death hazes create powerful illusions responsible for luring unexpecting dreamers into peril, convincing them of any manner of temptations or fears with their illusory appearances.
@@ -36,9 +36,9 @@ In the miasma of nightmares, either in the space of dreams or in the lands that 
   - !!int "17"
 "speed": "0 ft., fly 60 ft. (hover)"
 "saves":
-  - "dexterity": "+7"
-  - "intelligence": "+3"
-  - "wisdom": "+5"
+  - "dexterity": !!int "7"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+9"
@@ -53,7 +53,8 @@ In the miasma of nightmares, either in the space of dreams or in the lands that 
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "blindsight 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., passive Perception\
+  \ 12"
 "languages": "telepathy 60 ft."
 "cr": "6"
 "traits":
@@ -70,9 +71,9 @@ In the miasma of nightmares, either in the space of dreams or in the lands that 
       \ ([[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]]) check. If a creature\
       \ discerns the illusion for what it is, the creature can see through the humanoid,\
       \ its other sensory qualities become faint to the creature, and the creature\
-      \ sees the haze's true form.\n\nWhile in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]],\
+      \ sees the haze's true form.\n\nWhile in the area of an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]],\
       \ the haze's true form is visible to all creatures and its humanoid projection\
-      \ is suppressed. If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+      \ is suppressed. If targeted by [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
       \ the haze must succeed on a Constitution saving throw against the caster's\
       \ spell save DC or the projection vanishes for 1 minute."
     "name": "Continual Projection"

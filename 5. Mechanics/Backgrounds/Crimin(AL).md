@@ -11,8 +11,8 @@ aliases:
 *Source: Player's Handbook p. 129. Available in the Basic Rules (2014)*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]], [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]  
-- **Tool Proficiencies.** One type of gaming set, [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]  
-- **Equipment.** A [[5. Mechanics/Items/Crowbar.md\|crowbar]], a set of dark [[5. Mechanics/Items/Common Clothes.md\|common clothes]] including a hood, and a belt [[5. Mechanics/Items/Pouch.md\|pouch]] containing 15 gp  
+- **Tool Proficiencies.** One type of gaming set, [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]  
+- **Equipment.** A [[/5. Mechanics/Items/Crowbar.md\|crowbar]], a set of dark [[/5. Mechanics/Items/Common Clothes.md\|common clothes]] including a hood, and a belt [[/5. Mechanics/Items/Pouch.md\|pouch]] containing 15 gp  
 
 You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
 

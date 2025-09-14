@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Protector's Ward
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Protectors-Ward.webp#right)  
 
 - **Armor Class**: 2

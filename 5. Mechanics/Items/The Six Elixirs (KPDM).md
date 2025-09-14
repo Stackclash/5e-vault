@@ -18,11 +18,11 @@ Brewing any one of the Six Elixirs takes one year of work with rare, mysterious,
 
 **Items in this group:**
 
-- [[5. Mechanics/Items/Black Elixir (KPDM).md\|Black Elixir]]
-- [[5. Mechanics/Items/Golden Elixir (KPDM).md\|Golden Elixir]]
-- [[5. Mechanics/Items/Iron Elixir (KPDM).md\|Iron Elixir]]
-- [[5. Mechanics/Items/Jade Elixir (KPDM).md\|Jade Elixir]]
-- [[5. Mechanics/Items/Pearl Elixir (KPDM).md\|Pearl Elixir]]
-- [[5. Mechanics/Items/Ruby Elixir (KPDM).md\|Ruby Elixir]]
+- [[/5. Mechanics/Items/Black Elixir (KPDM).md\|Black Elixir]]
+- [[/5. Mechanics/Items/Golden Elixir (KPDM).md\|Golden Elixir]]
+- [[/5. Mechanics/Items/Iron Elixir (KPDM).md\|Iron Elixir]]
+- [[/5. Mechanics/Items/Jade Elixir (KPDM).md\|Jade Elixir]]
+- [[/5. Mechanics/Items/Pearl Elixir (KPDM).md\|Pearl Elixir]]
+- [[/5. Mechanics/Items/Ruby Elixir (KPDM).md\|Ruby Elixir]]
 
 *Source: Deep Magic p. 169*

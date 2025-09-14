@@ -90,7 +90,7 @@ Each warrior focuses on offense or defense in their training. Choose one of the 
 
 *2nd-level Warrior feature*
 
-The sidekick can use a bonus action on its turn to regain hit points equal to `dice:1d10|noform|noparens|avg` (`d10`) + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.
+The sidekick can use a bonus action on its turn to regain hit points equal to `dice:1d10|noform|noparens|avg` (`1d10`) + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.
 
 The sidekick can use this feature twice between rests starting at 20th level.
 

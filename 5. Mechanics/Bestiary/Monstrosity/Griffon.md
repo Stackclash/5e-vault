@@ -18,7 +18,7 @@ tags:
 aliases:
   - Griffon
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Griffon.md|Griffon]]
+# [[5. Mechanics/Bestiary/Monstrosity/Griffon.md|Griffon]]
 *Source: Monster Manual p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Griffons are ferocious avian carnivores with the muscular bodies of lions and the head, forelegs, and wings of eagles. When they attack, griffons are as swift and deadly as eagles, even as they strike with a lion's savage might and grace.
@@ -61,7 +61,8 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": ""
 "cr": "2"
 "traits":
@@ -71,15 +72,15 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 "actions":
   - "desc": "The griffon makes two attacks: one with its beak and one with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) piercing damage."
     "name": "Beak"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage."
     "name": "Claws"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/griffon.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/griffon.webp"
 ```
 ^statblock
 

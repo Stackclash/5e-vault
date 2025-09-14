@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hound of Ill Omen
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Hound Of Ill Omen (XGE).md|Hound of Ill Omen]]
+# [[5. Mechanics/Bestiary/Monstrosity/Hound Of Ill Omen (XGE).md|Hound of Ill Omen]]
 *Source: Xanathar's Guide to Everything p. 50*
 
 ```statblock
@@ -68,13 +68,13 @@ aliases:
       \ if its target is reduced to 0 hit points, or after 5 minutes."
     "name": "Ever at Your Heels"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
       \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Bite"
 "source":
   - "XGE"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/hound-of-ill-omen-xge.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/hound-of-ill-omen-xge.webp"
 ```
 ^statblock
 

@@ -34,24 +34,30 @@ classes:
   - Wizard
 school: Evocation
 level: 4
+damage:
+  base: 2d8
+  scaling:
+    damage: 1d8
+    level: 5
+  types:
+    - bludgeoning
+    - cold
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 300 feet
+somatic: true
+verbal: true
+material: a pinch of dust and a few drops of water
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Ice Storm
-range: 300 feet
-material: A pinch of dust and a few drops of water.
-damageType: Bludgeoning
-save:
-  type: DEX
-  success: half
-area:
-  type: cylinder
-  size: 20
 ---
 # Ice Storm
 *4th-level, Evocation*  
@@ -65,8 +71,8 @@ A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high c
 
 Hailstones turn the storm's area of effect into difficult terrain until the end of your next turn.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 4th.
+**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 4th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Tempest Domain.md\|Cleric (Tempest Domain)]]; [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Rocborne)](compendium/lists/list-spells-classes-rocborne-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Artificer (Artillerist)](compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [Warlock (The Frozen One)](compendium/lists/list-spells-classes-the-frozen-one-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]]; [Cleric (Winter Domain)](compendium/lists/list-spells-classes-winter-domain-kpdm.md "subclass=KPDM")
+**Classes**: [Artificer (Artillerist)](/compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Tempest Domain.md\|Cleric (Tempest Domain)]]; [Cleric (Winter Domain)](/compendium/lists/list-spells-classes-winter-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]]; [Ranger (Rocborne)](/compendium/lists/list-spells-classes-rocborne-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Frozen One)](/compendium/lists/list-spells-classes-the-frozen-one-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 252. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

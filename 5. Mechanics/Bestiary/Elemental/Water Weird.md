@@ -15,7 +15,7 @@ tags:
 aliases:
   - Water Weird
 ---
-# [[5. Mechanics\Bestiary\Elemental\Water Weird.md|Water Weird]]
+# [[5. Mechanics/Bestiary/Elemental/Water Weird.md|Water Weird]]
 *Source: Monster Manual p. 299, Vecna: Eve of Ruin*
 
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
@@ -26,7 +26,7 @@ Invisible while immersed in water, its serpentine shape becomes clear only when 
 
 Like most elementals, a water weird has no concept of good or evil. However, a water weird bound to a sacred or befouled source of water begins to take on the nature of that site, becoming neutral good or neutral evil.
 
-A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [[5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]] spell.
+A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [[/5. Mechanics/Spells/Purify Food And Drink.md|purify food and drink]] spell.
 
 ## Elemental Nature
 
@@ -60,7 +60,8 @@ A water weird doesn't require air, food, drink, or sleep.
   \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "blindsight 30 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., passive Perception\
+  \ 10"
 "languages": "understands Aquan but doesn't speak"
 "cr": "3"
 "traits":
@@ -71,7 +72,7 @@ A water weird doesn't require air, food, drink, or sleep.
       \ that water is destroyed."
     "name": "Water Bound"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit:\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:*\
       \ 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is\
       \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 13) and pulled\
       \ 5 feet toward the water weird. Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
@@ -81,7 +82,7 @@ A water weird doesn't require air, food, drink, or sleep.
 "source":
   - "MM"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Elemental/token/water-weird.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/water-weird.webp"
 ```
 ^statblock
 

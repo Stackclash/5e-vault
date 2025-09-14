@@ -13,7 +13,7 @@ tags:
 aliases:
   - Princip
 ---
-# [[5. Mechanics\Bestiary\Celestial\Princip (SAF).md|Princip]]
+# [[5. Mechanics/Bestiary/Celestial/Princip (SAF).md|Princip]]
 *Source: Strongholds and Followers p. 155*
 
 Herald of the Righteous Power, the Princip arrives ready to crown an ally, bestowing on them a greater destiny, granting them immunity to spells that charm or dominate and raising one ability to god-like levels.
@@ -59,22 +59,23 @@ Um, what? The endless what now? Well, it tried. It probably means, "You're gonna
   - !!int "16"
 "speed": "40 ft."
 "saves":
-  - "wisdom": "+6"
-  - "charisma": "+6"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "6"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight, passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]], passive Perception\
+  \ 19"
 "languages": "all, telepathy 60 ft."
 "cr": "5"
 "traits":
   - "desc": "The princip's spellcasting ability is Wisdom (spell save DC 14). It can\
       \ innately cast the following spells, requiring only verbal components:\n\n\
-      At will: [[5. Mechanics/Spells/Aid.md|aid]], [[5. Mechanics/Spells/Enhance Ability.md|enhance ability]],\
-      \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of\
-      \ faith]]\n\n3/day each: [[5. Mechanics/Spells/Haste.md|haste]],\
-      \ [[5. Mechanics/Spells/Remove Curse.md|remove curse]], [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]"
+      **At will:** [[/5. Mechanics/Spells/Aid.md|aid]], [[/5. Mechanics/Spells/Enhance Ability.md|enhance ability]],\
+      \ [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[/5. Mechanics/Spells/Shield Of Faith.md|shield of\
+      \ faith]]\n\n**3/day each:** [[/5. Mechanics/Spells/Haste.md|haste]],\
+      \ [[/5. Mechanics/Spells/Remove Curse.md|remove curse]], [[/5. Mechanics/Spells/Stoneskin.md|stoneskin]]"
     "name": "Innate Spellcasting"
   - "desc": "The princip's weapon attacks are magical. When the princip hits with\
       \ any weapon, the weapon deals an extra 9 (2d8) radiant damage (included in\
@@ -94,7 +95,7 @@ Um, what? The endless what now? Well, it tried. It probably means, "You're gonna
 "actions":
   - "desc": "The princip makes three attacks with the Scepter of Celestial Will."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d8 + 3) bludgeoning damage and 9 (2d8) radiant damage."
     "name": "Scepter of Celestial Will"
   - "desc": "The princip selects an ally. A golden crown appears over the ally's head.\

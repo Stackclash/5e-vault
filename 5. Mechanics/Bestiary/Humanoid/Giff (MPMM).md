@@ -14,7 +14,7 @@ tags:
 aliases:
   - Giff
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Giff (MPMM).md|Giff]]
+# [[5. Mechanics/Bestiary/Humanoid/Giff (MPMM).md|Giff]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 138, Mordenkainen's Tome of Foes p. 204*
 
 > [!quote] A quote from Mordenkainen  
@@ -39,7 +39,7 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
+"ac_class": "[[/5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "2"
@@ -66,13 +66,13 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
 "actions":
   - "desc": "The giff makes two Longsword, Musket, or Pistol attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
     "name": "Longsword"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 40/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 40/120 ft., one target. *Hit:*\
       \ 8 (1d12 + 2) piercing damage."
     "name": "Musket"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/90 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/90 ft., one target. *Hit:*\
       \ 7 (1d10 + 2) piercing damage."
     "name": "Pistol"
   - "desc": "The giff throws a grenade up to 60 feet, and the grenade explodes in\
@@ -83,7 +83,7 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/giff-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/giff-mpmm.webp"
 ```
 ^statblock
 

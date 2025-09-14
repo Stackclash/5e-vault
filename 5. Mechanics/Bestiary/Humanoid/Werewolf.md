@@ -16,7 +16,7 @@ tags:
 aliases:
   - Werewolf
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|Werewolf]]
+# [[5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]]
 *Source: Monster Manual p. 211, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A werewolf is a savage predator. In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far-a furred and well-muscled humanoid body topped by a ravening wolf's head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
@@ -35,7 +35,7 @@ Evil lycanthropes hide among normal folk, emerging in animal form at night to sp
 
 ### Curse of Lycanthropy
 
-A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
+A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
 
 A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form-or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams.
 
@@ -49,15 +49,15 @@ Some individuals see little point in fighting the curse and accept what they are
 > 
 > The following information applies to specific lycanthropes.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[/5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[[/5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]].** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
+> **[[/5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]].** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]].** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[[/5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]].** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]].** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]].** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 ^player-characters-as-lycanthropes
 
 ```statblock
@@ -102,22 +102,22 @@ Some individuals see little point in fighting the curse and accept what they are
   - "desc": "The werewolf makes two attacks: two with its spear (humanoid form) or\
       \ one with its bite and one with its claws (hybrid form)."
     "name": "Multiattack (Humanoid or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
       \ + 2) piercing damage. If the target is a humanoid, it must succeed on a DC\
       \ 12 Constitution saving throw or be cursed with werewolf lycanthropy."
     "name": "Bite (Wolf or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7\
       \ (2d4 + 2) slashing damage."
     "name": "Claws (Hybrid Form Only)"
-  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
-      \ ft., one creature. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
+      \ ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
       \ damage if used with two hands to make a melee attack."
     "name": "Spear (Humanoid Form Only)"
 "source":
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Humanoid/token/werewolf.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/werewolf.webp"
 ```
 ^statblock
 

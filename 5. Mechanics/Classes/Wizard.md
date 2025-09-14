@@ -53,16 +53,16 @@ aliases:
 
 - **Saving Throws**: Intelligence, Wisdom
 - **Armor**: none
-- **Weapons**: [[5. Mechanics/Items/Dagger.md\|daggers]], [[5. Mechanics/Items/Dart.md\|darts]], [[5. Mechanics/Items/Sling.md\|slings]], [[5. Mechanics/Items/Quarterstaff.md\|quarterstaffs]], [[5. Mechanics/Items/Light Crossbow.md\|light crossbows]]
+- **Weapons**: [[/5. Mechanics/Items/Dagger.md\|daggers]], [[/5. Mechanics/Items/Dart.md\|darts]], [[/5. Mechanics/Items/Sling.md\|slings]], [[/5. Mechanics/Items/Quarterstaff.md\|quarterstaffs]], [[/5. Mechanics/Items/Light Crossbow.md\|light crossbows]]
 - **Tools**: none
 - **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]], and [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]] or (b) a [[5. Mechanics/Items/Dagger.md\|dagger]]
-- (a) a [[5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]]
-- (a) a [[5. Mechanics/Items/Scholars Pack.md\|scholar's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
-- A [[5. Mechanics/Items/Spellbook.md\|spellbook]]
+- (a) a [[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]] or (b) a [[/5. Mechanics/Items/Dagger.md\|dagger]]
+- (a) a [[/5. Mechanics/Items/Component Pouch.md\|component pouch]] or (b) an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]]
+- (a) a [[/5. Mechanics/Items/Scholars Pack.md\|scholar's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
+- A [[/5. Mechanics/Items/Spellbook.md\|spellbook]]
 
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
@@ -100,7 +100,7 @@ What drew you forth from your life of study? Did your first taste of magical kno
 
 #### Quick Build
 
-You can make a wizard quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. If you plan to join the School of Enchantment, make Charisma your next-best score. Second, choose the [[5. Mechanics/Backgrounds/Sage.md\|sage]] background. Third, choose the [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Light.md\|light]], and [[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]] cantrips, along with the following 1st-level spells for your spellbook: [[5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Feather Fall.md\|feather fall]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[5. Mechanics/Spells/Magic Missile.md\|magic missile]], and [[5. Mechanics/Spells/Sleep.md\|sleep]].
+You can make a wizard quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. If you plan to join the School of Enchantment, make Charisma your next-best score. Second, choose the [[/5. Mechanics/Backgrounds/Sage.md\|sage]] background. Third, choose the [[/5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[/5. Mechanics/Spells/Light.md\|light]], and [[/5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]] cantrips, along with the following 1st-level spells for your spellbook: [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[/5. Mechanics/Spells/Charm Person.md\|charm person]], [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]], [[/5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]], and [[/5. Mechanics/Spells/Sleep.md\|sleep]].
 
 > [!quote] A quote from Gimble the illusionist  
 > 
@@ -205,7 +205,7 @@ The Wizard table shows how many spell slots you have to cast your wizard spells 
 
 You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell [[5. Mechanics/Spells/Magic Missile.md\|magic missile]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
@@ -223,7 +223,7 @@ You can cast a wizard spell as a ritual if that spell has the ritual tag and you
 
 #### Spellcasting Focus
 
-You can use an [[5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]] as a spellcasting focus for your wizard spells.
+You can use an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]] as a spellcasting focus for your wizard spells.
 
 #### Learning Spells of 1st Level and Higher
 

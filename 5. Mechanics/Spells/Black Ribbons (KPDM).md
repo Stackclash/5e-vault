@@ -20,17 +20,22 @@ classes:
   - Wizard
 school: Conjuration
 level: 1
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 40 feet
+somatic: true
+verbal: true
+material: a piece of ribbon
+area:
+  shape: cube
+  size: 20
 aliases:
   - Black Ribbons
-concentration: true
-material: a piece of ribbon
 ---
 # Black Ribbons
 *1st-level, Conjuration*  
@@ -44,6 +49,6 @@ You pull pieces of the plane of shadow into your own reality, causing a 20-foot 
 
 Once a creature succeeds on this saving throw, it can't be [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] again by the ribbons, but it's still affected by the difficult terrain.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 246*

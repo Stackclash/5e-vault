@@ -15,7 +15,7 @@ tags:
 aliases:
   - Slithering Tracker
 ---
-# [[5. Mechanics\Bestiary\Ooze\Slithering Tracker (MPMM).md|Slithering Tracker]]
+# [[5. Mechanics/Bestiary/Ooze/Slithering Tracker (MPMM).md|Slithering Tracker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191*
 
 The quest for revenge sometimes leads those terribly aggrieved to undergo a ritual whereby they transform into bodies of semiliquid sentience known as slithering trackers. Innocuous and insidious at the same time, a slithering tracker flows into places where a normal creature can't go and brings its own brand of watery death down on its quarry.
@@ -55,7 +55,8 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "blindsight 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft., passive Perception\
+  \ 12"
 "languages": "understands languages it knew in its previous form but can't speak"
 "cr": "3"
 "traits":
@@ -72,7 +73,7 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
       \ down on ceilings, without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
       \ + 3) bludgeoning damage."
     "name": "Slam"
   - "desc": "One Large or smaller creature that the slithering tracker can see within\
@@ -92,7 +93,7 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Ooze/token/slithering-tracker-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Ooze/token/slithering-tracker-mpmm.webp"
 ```
 ^statblock
 

@@ -14,15 +14,30 @@ classes:
   - Ranger
 school: Evocation
 level: 5
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+    - slashing
+saving_throw:
+  skills:
+    - Dexterity
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+somatic: true
+verbal: true
+area:
+  shape: cube
+  size: 60
 aliases:
   - Wrath of Nature
-concentration: true
 ---
 # Wrath of Nature
 *5th-level, Evocation*  
@@ -52,6 +67,6 @@ As a bonus action on your turn, you can cause a loose rock in the cube to launch
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Xanathar's Guide to Everything p. 171*

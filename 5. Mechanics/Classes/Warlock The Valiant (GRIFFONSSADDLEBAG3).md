@@ -55,11 +55,11 @@ The Valiant lets you choose from an extended list of spells when you learn a war
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Healing Word.md\|healing word]], [[5. Mechanics/Spells/Heroism.md\|heroism]] |
-| 2nd | [[5. Mechanics/Spells/Blur.md\|blur]], [[5. Mechanics/Spells/Find Steed.md\|find steed]] |
-| 3rd | [[5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]] |
-| 4th | [[5. Mechanics/Spells/Fire Shield.md\|fire shield]], [[5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] |
-| 5th | [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]], [[5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
+| 1st | [[/5. Mechanics/Spells/Healing Word.md\|healing word]], [[/5. Mechanics/Spells/Heroism.md\|heroism]] |
+| 2nd | [[/5. Mechanics/Spells/Blur.md\|blur]], [[/5. Mechanics/Spells/Find Steed.md\|find steed]] |
+| 3rd | [[/5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[/5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]] |
+| 4th | [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]], [[/5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] |
+| 5th | [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]], [[/5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
 ^spell-level-spells
 
 ### Bravehearted (Level 1)
@@ -70,7 +70,7 @@ At 1st level, your hit point maximum increases by 1 and increases by 1 again whe
 
 Also at 1st level, you gain the eldritch blast cantrip if you do not already know it. This cantrip does not count against the number of warlock cantrips you know. When you use an action to cast eldritch blast, instead of the spell manifesting as a beam of energy, you can choose to create an eldritch weapon in your hand called an eldritch blade. To do so, your hand must either be empty or carrying a rod or wand, from which the magical weapon extends.
 
-When you create the eldritch blade, you can make one melee spell attack with it for each beam the [[5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] spell would have created when you cast it. If the attack hits, the target is treated as if it were hit by a beam from your eldritch blast. When you cast eldritch blast in this way, you can move between the attacks you make as part of the action. The eldritch blade remains in your hand until the start of your next turn or until you dismiss it early and end the effect (no action required). If a hostile creatures movement would provoke an opportunity attack from you while you are holding the eldritch blade, you can use your reaction to make a single melee spell attack against it using the weapon.
+When you create the eldritch blade, you can make one melee spell attack with it for each beam the [[/5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] spell would have created when you cast it. If the attack hits, the target is treated as if it were hit by a beam from your eldritch blast. When you cast eldritch blast in this way, you can move between the attacks you make as part of the action. The eldritch blade remains in your hand until the start of your next turn or until you dismiss it early and end the effect (no action required). If a hostile creatures movement would provoke an opportunity attack from you while you are holding the eldritch blade, you can use your reaction to make a single melee spell attack against it using the weapon.
 
 The eldritch blade can take whatever form you choose. Warlocks whose patrons are known for a particular weapon may make this spells effect resemble that weapon. Regardless of the weapons form, it can not change your reach for the purposes of making your melee spell attacks with it.
 
@@ -81,7 +81,7 @@ When you reach 3rd level in this class, the damage die of your eldritch blade be
 
 ### Vengeful Shield (Level 6)
 
-At 6th level, you can use your reaction when you are hit by an attack to cast the [[5. Mechanics/Spells/Shield.md\|shield]] spell, without expending a spell slot and requiring no components. For the duration of the spell, whenever a creature attacks you (including the triggering attacker), that creature takes force damage equal to half your warlock level + your Charisma modifier.
+At 6th level, you can use your reaction when you are hit by an attack to cast the [[/5. Mechanics/Spells/Shield.md\|shield]] spell, without expending a spell slot and requiring no components. For the duration of the spell, whenever a creature attacks you (including the triggering attacker), that creature takes force damage equal to half your warlock level + your Charisma modifier.
 
 Once you use this feature, you can not use it again until you finish a short or long rest.
 
@@ -93,6 +93,6 @@ By 10th level, your patrons protection is permanently extended to you. You are i
 
 At 14th level, you have become a figure worthy of your patrons legacy. As an action, you can invoke your patrons name as you summon the eldritch blade to your hand and swing it down in front of you. The weapon then grows to become a massive, shimmering version of your normal eldritch blade and crashes down in front of you in a line that is 30 feet long and 5 feet wide. Each creature in the area must make a Dexterity saving throw against your warlock spell save DC. On a failed save, a creature takes 6d12 force damage and is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], and it has disadvantage on attack rolls until the end of your next turn. On a successful save, a creature takes half as much force damage and suffers no other effects.
 
-A creature is disintegrated if this damage leaves it with 0 hit points. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a [[5. Mechanics/Spells/True Resurrection.md\|true resurrection]] or a [[5. Mechanics/Spells/Wish.md\|wish]] spell.
+A creature is disintegrated if this damage leaves it with 0 hit points. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a [[/5. Mechanics/Spells/True Resurrection.md\|true resurrection]] or a [[/5. Mechanics/Spells/Wish.md\|wish]] spell.
 
 Once you use this feature, you can not use it again until you finish a long rest.

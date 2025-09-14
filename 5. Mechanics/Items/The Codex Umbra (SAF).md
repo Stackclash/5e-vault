@@ -43,7 +43,7 @@ The tower is a 2nd-level tower stronghold and grants units defending it +1 Moral
 
 ## Shadow Legion
 
-Once per week as an action, the holder of the codex umbra can summon a [[5. Mechanics/Optional Features/Shadow Legion (SAF).md\|Shadow Legion]]. The legion dissolves after 1 hour or two battles, whichever comes first.
+Once per week as an action, the holder of the codex umbra can summon a [[/5. Mechanics/Optional Features/Shadow Legion (SAF).md\|Shadow Legion]]. The legion dissolves after 1 hour or two battles, whichever comes first.
 
 ## Black Star
 

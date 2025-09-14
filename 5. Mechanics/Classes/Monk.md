@@ -53,15 +53,15 @@ aliases:
 
 - **Saving Throws**: Dexterity, Strength
 - **Armor**: none
-- **Weapons**: simple weapons, [[5. Mechanics/Items/Shortsword.md\|shortswords]]
-- **Tools**: any one type of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] or any one [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]] of your choice
+- **Weapons**: simple weapons, [[/5. Mechanics/Items/Shortsword.md\|shortswords]]
+- **Tools**: any one type of [[/5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] or any one [[/5. Mechanics/Items/Musical Instrument.md\|musical instrument]] of your choice
 - **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]], [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]], and [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [[5. Mechanics/Items/Shortsword.md\|shortsword]] or (b) any simple weapon
-- (a) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
-- 10 [[5. Mechanics/Items/Dart.md\|darts]]
+- (a) a [[/5. Mechanics/Items/Shortsword.md\|shortsword]] or (b) any simple weapon
+- (a) a [[/5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
+- 10 [[/5. Mechanics/Items/Dart.md\|darts]]
 
 Alternatively, you may start with `dice:5d4|noform|noparens|avg|text(5d4)` (`5d4`) gp to buy your own equipment.
 
@@ -71,7 +71,7 @@ Alternatively, you may start with `dice:5d4|noform|noparens|avg|text(5d4)` (`5d4
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Weapons**: simple weapons, [[5. Mechanics/Items/Shortsword.md\|shortswords]]
+- **Weapons**: simple weapons, [[/5. Mechanics/Items/Shortsword.md\|shortswords]]
 
 ## Monk
 
@@ -107,7 +107,7 @@ As a result of the structured life of a monastic community and the discipline re
 
 #### Quick Build
 
-You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the [[5. Mechanics/Backgrounds/Hermit.md\|hermit]] background.
+You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the [[/5. Mechanics/Backgrounds/Hermit.md\|hermit]] background.
 
 > [!quote] A quote from Ember, grand master of flowers  
 > 
@@ -194,9 +194,9 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 
 ### Martial Arts (Level 1)
 
-Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are [[5. Mechanics/Items/Shortsword.md\|shortswords]] and any simple melee weapons that don't have the two-handed or heavy property.
+Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are [[/5. Mechanics/Items/Shortsword.md\|shortswords]] and any simple melee weapons that don't have the two-handed or heavy property.
 
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [[5. Mechanics/Items/Shield.md\|shield]].
+You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [[/5. Mechanics/Items/Shield.md\|shield]].
 
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.  
 - You can roll a `dice:d4|noform|noparens|avg` (`d4`) in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.  
@@ -249,7 +249,7 @@ At 9th level, you gain the ability to move along vertical surfaces and across li
 
 ### Deflect Missiles (Level 3)
 
-Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by `dice:1d10|noform|noparens|avg` (`d10`) + your Dexterity modifier + your monk level.
+Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by `dice:1d10|noform|noparens|avg` (`1d10`) + your Dexterity modifier + your monk level.
 
 If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack (range 20/60 feet) with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.
 
@@ -306,7 +306,7 @@ At 6th level, you gain one feature granted by your Monastic Tradition.
 
 ### Evasion (Level 7)
 
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a [[5. Mechanics/Spells/Fireball.md\|fireball]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a [[/5. Mechanics/Spells/Fireball.md\|fireball]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Stillness of Mind (Level 7)
 
@@ -364,7 +364,7 @@ At 17th level, you gain one feature granted by your Monastic Tradition.
 
 Beginning at 18th level, you can use your action to spend 4 ki points to become [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] for 1 minute. During that time, you also have resistance to all damage but force damage.
 
-Additionally, you can spend 8 ki points to cast the [[5. Mechanics/Spells/Astral Projection.md\|astral projection]] spell, without needing material components. When you do so, you can't take any other creatures with you.
+Additionally, you can spend 8 ki points to cast the [[/5. Mechanics/Spells/Astral Projection.md\|astral projection]] spell, without needing material components. When you do so, you can't take any other creatures with you.
 
 ### Ability Score Improvement (Level 19)
 

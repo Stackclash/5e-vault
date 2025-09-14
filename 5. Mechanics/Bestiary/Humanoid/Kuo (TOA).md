@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: underdark
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Kuo-toa
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kuo (TOA).md|Kuo-toa]]
+# [[5. Mechanics/Bestiary/Humanoid/Kuo (TOA).md|Kuo-toa]]
 *Source: Monster Manual p. 199*
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -51,7 +51,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > 
 > **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) piercing damage.
 > 
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) bludgeoning damage + `dice:1d6|noform|noparens|avg|text(3)` (`d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) bludgeoning damage + `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 ^variant-kuo-toa-monitor
 
 > [!quote] A quote from Sabal Mizzrym of Menzoberranzan  
@@ -66,7 +66,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "subtype": "kuo-toa"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
-"ac_class": "natural armor, [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "natural armor, [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "18"
 "hit_dice": "4d8"
 "modifier": !!int "0"
@@ -81,7 +81,8 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
-"senses": "darkvision 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 14"
 "languages": "Undercommon"
 "cr": "1/4"
 "traits":
@@ -99,15 +100,15 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) piercing damage."
     "name": "Bite"
-  - "desc": "Melee  or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing\
       \ damage if used with two hands to make a melee attack."
     "name": "Spear"
-  - "desc": "Ranged Weapon Attack: +3 to hit, range 5/15 ft., one Large or smaller\
-      \ creature. Hit: The target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
+  - "desc": "*Ranged Weapon Attack:* +3 to hit, range 5/15 ft., one Large or smaller\
+      \ creature. *Hit:* The target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
       \ A creature can use its action to make a DC 10 Strength check to free itself\
       \ or another creature in a net, ending the effect on a success. Dealing 5 slashing\
       \ damage to the net (AC 10) frees the target without harming it and destroys\
@@ -124,7 +125,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
     "name": "Sticky Shield"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/kuo-toa.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/kuo-toa.webp"
 ```
 ^statblock
 

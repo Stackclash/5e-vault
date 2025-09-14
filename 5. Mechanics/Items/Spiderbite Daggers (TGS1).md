@@ -11,11 +11,11 @@ tags:
 aliases:
   - Spiderbite Daggers
 one-hand-damage: 1d4 piercing
-range: 40\80
+range: 40/80
 weight: 1
 ---
 # Spiderbite Daggers
-*Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Spiderbite-Daggers.webp#right)  
 
 - **Damage**: 1d4 piercing

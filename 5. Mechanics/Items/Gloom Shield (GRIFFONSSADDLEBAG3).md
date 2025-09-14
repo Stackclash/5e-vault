@@ -13,7 +13,7 @@ armorClass: 2
 weight: 6
 ---
 # Gloom Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Gloom-Shield.webp#right)  
 
 - **Armor Class**: 2

@@ -10,4 +10,4 @@ aliases:
 
 ## Cantrip
 
-- [[5. Mechanics/Spells/Guidance.md \|"PHB"]] as cantrip, at class level 3
+- [[/5. Mechanics/Spells/Guidance.md \|"PHB"]] as cantrip, at class level 3

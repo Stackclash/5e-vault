@@ -13,7 +13,7 @@ tags:
 aliases:
   - Marilith
 ---
-# [[5. Mechanics\Bestiary\Fiend\Marilith.md|Marilith]]
+# [[5. Mechanics/Bestiary/Fiend/Marilith.md|Marilith]]
 *Source: Monster Manual p. 61, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Terrible to behold, a marilith has the lower body of a great serpent and the upper torso of a humanoid female with six arms. Wielding a wicked blade in each of its six hands, a marilith is a devastating foe that few can match in battle.
@@ -173,13 +173,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`d8`) vrocks, `dice:1d6|noform|noparens|avg` (`d6`) hezrous, `dice:1d4|noform|noparens|avg` (`d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`1d8`) vrocks, `dice:1d6|noform|noparens|avg` (`1d6`) hezrous, `dice:1d4|noform|noparens|avg` (`1d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`1d2`) mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`d3`) vrocks, `dice:1d2|noform|noparens|avg` (`d2`) hezrous, or one glabrezu.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`1d3`) vrocks, `dice:1d2|noform|noparens|avg` (`1d2`) hezrous, or one glabrezu.  
 > - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) vrocks, `dice:1d4|noform|noparens|avg` (`d4`) hezrous, `dice:1d3|noform|noparens|avg` (`d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) vrocks, `dice:1d3|noform|noparens|avg` (`d3`) hezrous, `dice:1d2|noform|noparens|avg` (`d2`) glabrezus, or one nalfeshnee.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`1d6`) vrocks, `dice:1d4|noform|noparens|avg` (`1d4`) hezrous, `dice:1d3|noform|noparens|avg` (`1d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`1d4`) vrocks, `dice:1d3|noform|noparens|avg` (`1d3`) hezrous, `dice:1d2|noform|noparens|avg` (`1d2`) glabrezus, or one nalfeshnee.  
 > - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
@@ -211,15 +211,16 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - !!int "20"
 "speed": "40 ft."
 "saves":
-  - "strength": "+9"
-  - "constitution": "+10"
-  - "wisdom": "+8"
-  - "charisma": "+10"
+  - "strength": !!int "9"
+  - "constitution": !!int "10"
+  - "wisdom": !!int "8"
+  - "charisma": !!int "10"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "16"
 "traits":
@@ -234,10 +235,10 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - "desc": "The marilith can make seven attacks: six with its longswords and one\
       \ with its tail."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) slashing damage."
     "name": "Longsword"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit:\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one creature. *Hit:*\
       \ 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is\
       \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 19). Until\
       \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
@@ -255,7 +256,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - "MM"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fiend/token/marilith.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/marilith.webp"
 ```
 ^statblock
 

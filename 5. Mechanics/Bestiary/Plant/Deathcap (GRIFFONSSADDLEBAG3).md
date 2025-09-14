@@ -13,10 +13,10 @@ tags:
 aliases:
   - Deathcap
 ---
-# [[5. Mechanics\Bestiary\Plant\Deathcap (GRIFFONSSADDLEBAG3).md|Deathcap]]
+# [[5. Mechanics/Bestiary/Plant/Deathcap (GRIFFONSSADDLEBAG3).md|Deathcap]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
-Found primarily in the Gilded Glade, deathcaps are walking fungal nightmares. These carnivorous and ambulatory mushrooms are apex predators in the Safire Wood. Like most creatures in such a position on the food chain, however, they hunt rarely and hibernate for long periods of time. Some folktales claim that the first deathcap was created when a long-forgotten elf became cursed by one of the [[5. Mechanics/Bestiary/Fey/Safire Hag (GRIFFONSSADDLEBAG3).md|Safire hags]]. Unfortunately, the only proven strategy to escape the spores and tendrils of a deathcap is to avoid catching their interest in the first place.
+Found primarily in the Gilded Glade, deathcaps are walking fungal nightmares. These carnivorous and ambulatory mushrooms are apex predators in the Safire Wood. Like most creatures in such a position on the food chain, however, they hunt rarely and hibernate for long periods of time. Some folktales claim that the first deathcap was created when a long-forgotten elf became cursed by one of the [[/5. Mechanics/Bestiary/Fey/Safire Hag (GRIFFONSSADDLEBAG3).md|Safire hags]]. Unfortunately, the only proven strategy to escape the spores and tendrils of a deathcap is to avoid catching their interest in the first place.
 
 ```statblock
 "name": "Deathcap (GRIFFONSSADDLEBAG3)"
@@ -44,7 +44,8 @@ Found primarily in the Gilded Glade, deathcaps are walking fungal nightmares. Th
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 30 ft., tremorsense 60 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., tremorsense\
+  \ 60 ft., passive Perception 16"
 "languages": "Sylvan"
 "cr": "14"
 "traits":
@@ -63,16 +64,16 @@ Found primarily in the Gilded Glade, deathcaps are walking fungal nightmares. Th
   - "desc": "The deathcap makes three attacks: one with  its bite and two with its\
       \ tendrils. It can replace each of its tendril attacks with one use of Fling."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (1d12 + 4) piercing damage, and the target must make a DC 16 Constitution\
       \ saving throw, taking 21 (6d6) poison damage on a failed save, or half as much\
       \ damage on a successful one. If the saving throw fails by 5 or more, the target\
-      \ is also diseased for d12 hours. While diseased, the target gains vulnerability\
+      \ is also diseased for 1d12 hours. While diseased, the target gains vulnerability\
       \ to necrotic damage. In addition, whenever the target regains hit points, the\
       \ amount of hit points it regains is halved, and if it is reduced to 0 hit points,\
       \ it dies."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 10\
       \ (1d12 + 4) bludgeoning damage plus 13 (2d12) necrotic damage, and if the target\
       \ is Medium or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
@@ -80,7 +81,7 @@ Found primarily in the Gilded Glade, deathcaps are walking fungal nightmares. Th
     "name": "Tendril"
   - "desc": "One Medium or smaller object held or creature grappled by the deathcap\
       \ is thrown up to 30 feet in a random direction and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-      \ If a thrown target strikes a solid surface, the target takes 3 (d6) bludgeoning\
+      \ If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning\
       \ damage for every 10 feet it was thrown. If the target is thrown at another\
       \ creature, that creature must succeed on a DC 14 Dexterity saving throw or\
       \ take the same damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."

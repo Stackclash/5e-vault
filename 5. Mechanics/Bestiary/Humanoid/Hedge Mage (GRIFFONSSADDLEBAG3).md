@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hedge Mage
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Hedge Mage (GRIFFONSSADDLEBAG3).md|Hedge Mage]]
+# [[5. Mechanics/Bestiary/Humanoid/Hedge Mage (GRIFFONSSADDLEBAG3).md|Hedge Mage]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A hedge mage practices a curious mixture of arcana and herbalism to produce potent brews and remedies. Societies might view a hedge mage's magic as occult or accuse them of being a hag, especially during times of scarcity when they want a scapegoat to blame. Even when faced with such vitriol, hedge mages devote themselves to the healing arts andthe growth of nature's bounties.
@@ -25,7 +25,7 @@ A hedge mage practices a curious mixture of arcana and herbalism to produce pote
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "16 with [[5. Mechanics/Spells/Barkskin.md|barkskin]]"
+"ac_class": "16 with [[/5. Mechanics/Spells/Barkskin.md|barkskin]]"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "2"
@@ -38,8 +38,8 @@ A hedge mage practices a curious mixture of arcana and herbalism to produce pote
   - !!int "8"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+7"
-  - "wisdom": "+4"
+  - "intelligence": !!int "7"
+  - "wisdom": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+7"
@@ -53,24 +53,24 @@ A hedge mage practices a curious mixture of arcana and herbalism to produce pote
 "traits":
   - "desc": "The hedge mage is an 11th-level spellcaster. Its spellcasting ability\
       \ is Intelligence (spell save DC 16, +8 to hit with spell attacks). It has the\
-      \ following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
-      \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Message.md|message]],\
-      \ [[5. Mechanics/Spells/Poison Spray.md|poison spray]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-      \n1st level (4 slots): [[5. Mechanics/Spells/Entangle.md|entangle]], [[5. Mechanics/Spells/Feather Fall.md|feather\
-      \ fall]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
-      \ [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]]\n\n2nd level\
-      \ (3 slots): [[5. Mechanics/Spells/Barkskin.md|barkskin]], [[5. Mechanics/Spells/Enlarge Reduce.md|enlarge/reduce]],\
-      \ [[5. Mechanics/Spells/Locate Animals Or Plants.md|locate animals or plants]]\n\
-      \n3rd level (3 slots): [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
-      \ [[5. Mechanics/Spells/Plant Growth.md|plant growth]], [[5. Mechanics/Spells/Speak With Plants.md|speak with plants]]\n\
-      \n4th level (3 slots): [[5. Mechanics/Spells/Control Water.md|control water]],\
-      \ [[5. Mechanics/Spells/Giant Insect.md|giant insect]]\n\n5th level (2 slots):\
-      \ [[5. Mechanics/Spells/Cone Of Cold.md|cone of cold]], [[5. Mechanics/Spells/Contagion.md|contagion]]\n\
-      \n6th level (1 slots): [[5. Mechanics/Spells/Transport Via Plants.md|transport via plants]]"
+      \ following wizard spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
+      \ [[/5. Mechanics/Spells/Mending.md|mending]], [[/5. Mechanics/Spells/Message.md|message]],\
+      \ [[/5. Mechanics/Spells/Poison Spray.md|poison spray]], [[/5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
+      \n**1st level (4 slots):** [[/5. Mechanics/Spells/Entangle.md|entangle]], [[/5. Mechanics/Spells/Feather Fall.md|feather\
+      \ fall]], [[/5. Mechanics/Spells/Magic Missile.md|magic missile]],\
+      \ [[/5. Mechanics/Spells/Speak With Animals.md|speak with animals]]\n\n**2nd level\
+      \ (3 slots):** [[/5. Mechanics/Spells/Barkskin.md|barkskin]], [[/5. Mechanics/Spells/Enlarge Reduce.md|enlarge/reduce]],\
+      \ [[/5. Mechanics/Spells/Locate Animals Or Plants.md|locate animals or plants]]\n\
+      \n**3rd level (3 slots):** [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
+      \ [[/5. Mechanics/Spells/Plant Growth.md|plant growth]], [[/5. Mechanics/Spells/Speak With Plants.md|speak with plants]]\n\
+      \n**4th level (3 slots):** [[/5. Mechanics/Spells/Control Water.md|control water]],\
+      \ [[/5. Mechanics/Spells/Giant Insect.md|giant insect]]\n\n**5th level (2 slots):**\
+      \ [[/5. Mechanics/Spells/Cone Of Cold.md|cone of cold]], [[/5. Mechanics/Spells/Contagion.md|contagion]]\n\
+      \n**6th level (1 slots):** [[/5. Mechanics/Spells/Transport Via Plants.md|transport via plants]]"
     "name": "Spellcasting"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 3 (d6)\
-      \ bludgeoning damage, or 4 (d8) bludgeoning damage if wielded with two hands."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
+      \ bludgeoning damage, or 4 (1d8) bludgeoning damage if wielded with two hands."
     "name": "Staff"
   - "desc": "The hedge mage magically animates a Medium or smaller plant it touches,\
       \ transforming it into a plant creature with a challenge rating of 1 or lower.\

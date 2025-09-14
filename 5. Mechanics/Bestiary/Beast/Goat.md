@@ -17,7 +17,7 @@ tags:
 aliases:
   - Goat
 ---
-# [[5. Mechanics\Bestiary\Beast\Goat.md|Goat]]
+# [[5. Mechanics/Bestiary/Beast/Goat.md|Goat]]
 *Source: Monster Manual p. 330, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -42,7 +42,7 @@ aliases:
 "cr": "0"
 "traits":
   - "desc": "If the goat moves at least 20 feet straight toward a target and then\
-      \ hits it with a ram attack on the same turn, the target takes an extra 2 (d4)\
+      \ hits it with a ram attack on the same turn, the target takes an extra 2 (1d4)\
       \ bludgeoning damage. If the target is a creature, it must succeed on a DC 10\
       \ Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Charge"
@@ -50,13 +50,13 @@ aliases:
       \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Sure-Footed"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) bludgeoning damage."
     "name": "Ram"
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Beast/token/goat.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/goat.webp"
 ```
 ^statblock
 

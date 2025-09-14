@@ -15,7 +15,7 @@ weight: 4
 ---
 # Staff of Thunder and Lightning
 *Staff, weapon, major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/staff-of-thunder-and-lightning.webp#right]]  
+![[/5. Mechanics/Items/img/staff-of-thunder-and-lightning.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

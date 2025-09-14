@@ -13,10 +13,10 @@ tags:
 aliases:
   - Alicorn
 ---
-# [[5. Mechanics\Bestiary\Celestial\Alicorn (SAF).md|Alicorn]]
+# [[5. Mechanics/Bestiary/Celestial/Alicorn (SAF).md|Alicorn]]
 *Source: Strongholds and Followers p. 55*
 
-Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unicorn]] (not to be confused with the horned [[5. Mechanics/Bestiary/Celestial/Pegas(US).md|pegasus]]) can be summoned by a particularly devout paladin to serve as their mount. They do not particularly like the Mundane World, but they enjoy and find satisfaction in hunting evil and chaos. They will serve as mount and companion to a holy knight only so long as it brings the opportunity to smash evil, a sport they are denied on their home plane.
+Natives of Arcadia, the winged [[/5. Mechanics/Bestiary/Celestial/Unicorn.md|unicorn]] (not to be confused with the horned [[/5. Mechanics/Bestiary/Celestial/Pegas(US).md|pegasus]]) can be summoned by a particularly devout paladin to serve as their mount. They do not particularly like the Mundane World, but they enjoy and find satisfaction in hunting evil and chaos. They will serve as mount and companion to a holy knight only so long as it brings the opportunity to smash evil, a sport they are denied on their home plane.
 
 ```statblock
 "name": "Alicorn (SAF)"
@@ -36,25 +36,26 @@ Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unic
   - !!int "16"
 "speed": "60 ft., fly 90 ft."
 "saves":
-  - "dexterity": "+5"
-  - "wisdom": "+4"
-  - "charisma": "+3"
+  - "dexterity": !!int "5"
+  - "wisdom": !!int "4"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 60 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
+  \ 16"
 "languages": "Celestial, Elvish, Sylvan, telepathy 60 ft."
 "cr": "5"
 "traits":
   - "desc": "The alicorn's innate spellcasting ability is Charisma (spell save DC\
       \ 14). The alicorn can innately cast the following spells, requiring no components:\n\
-      \nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-      \ [[5. Mechanics/Spells/Druidcraft.md|druidcraft]], [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Calm Emotions.md|calm emotions]], [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel\
-      \ evil and good]], [[5. Mechanics/Spells/Entangle.md|entangle]]"
+      \n**At will:** [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+      \ [[/5. Mechanics/Spells/Druidcraft.md|druidcraft]], [[/5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Calm Emotions.md|calm emotions]], [[/5. Mechanics/Spells/Dispel Evil And Good.md|dispel\
+      \ evil and good]], [[/5. Mechanics/Spells/Entangle.md|entangle]]"
     "name": "Innate Spellcasting"
   - "desc": "If the alicorn moves at least 20 feet straight toward a target and then\
       \ hits it with a horn attack on the same turn, the target takes an extra 9 (2d8)\
@@ -69,10 +70,10 @@ Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unic
 "actions":
   - "desc": "The alicorn makes two attacks: one with its hooves and one with its horn."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage."
     "name": "Hooves"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) piercing damage."
     "name": "Horn"
   - "desc": "The alicorn touches another creature with its horn. The target magically\
@@ -83,6 +84,9 @@ Natives of Arcadia, the winged [[5. Mechanics/Bestiary/Celestial/Unicorn.md|unic
       \ it can see within 5 feet of it, along with any equipment they are wearing\
       \ or carrying, to a location the alicorn is familiar with, up to 1 mile away."
     "name": "Teleport (1/Day)"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the alicorn can expend a use to take one of the following actions. The alicorn\
+  \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The alicorn makes one attack with its hooves."
     "name": "Hooves"

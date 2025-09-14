@@ -14,7 +14,7 @@ tags:
 aliases:
   - Winter Wolf
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Winter Wolf.md|Winter Wolf]]
+# [[5. Mechanics/Bestiary/Monstrosity/Winter Wolf.md|Winter Wolf]]
 *Source: Monster Manual p. 340. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves' deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
@@ -58,7 +58,7 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
       \ checks made to hide in snowy terrain."
     "name": "Snow Camouflage"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) piercing damage. If the target is a creature, it must succeed on\
       \ a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Bite"
@@ -68,7 +68,7 @@ The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fu
     "name": "Cold Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/winter-wolf.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/winter-wolf.webp"
 ```
 ^statblock
 

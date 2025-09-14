@@ -13,7 +13,7 @@ tags:
 aliases:
   - Homunculus
 ---
-# [[5. Mechanics\Bestiary\Construct\Homuncul(US).md|Homunculus]]
+# [[5. Mechanics/Bestiary/Construct/Homuncul(US).md|Homunculus]]
 *Source: Monster Manual p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare ritual magic to create a faithful, squirrel-sized companion.
@@ -44,7 +44,8 @@ A homunculus knows everything its creator knows, including all the languages the
 "speed": "20 ft., fly 40 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "0"
 "traits":
@@ -53,16 +54,16 @@ A homunculus knows everything its creator knows, including all the languages the
       \ telepathically."
     "name": "Telepathic Bond"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1\
       \ piercing damage, and the target must succeed on a DC 10 Constitution saving\
       \ throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for 1 minute.\
       \ If the saving throw fails by 5 or more, the target is instead [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-      \ for 5 (d10) minutes and [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
+      \ for 5 (1d10) minutes and [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
       \ while [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] in this way."
     "name": "Bite"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Construct/token/homunculus.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/homunculus.webp"
 ```
 ^statblock
 

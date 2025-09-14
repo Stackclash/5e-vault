@@ -18,7 +18,7 @@ aliases:
 ---
 # Berserker Axe
 *Cursed item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/berserker-axe.webp#right]]  
+![[/5. Mechanics/Items/img/berserker-axe.webp#right]]  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 

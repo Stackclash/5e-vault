@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Vancian-Helm.webp#right)  
 
 
-This helmet is made from the reclaimed and partially disenchanted remains of a [[5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]]. The helm is no longer bound to an amulet. You gain a +1 bonus to AC while you wear this helmet.
+This helmet is made from the reclaimed and partially disenchanted remains of a [[/5. Mechanics/Bestiary/Construct/Shield Guardian.md\|shield guardian]]. The helm is no longer bound to an amulet. You gain a +1 bonus to AC while you wear this helmet.
 
 ## Spell Storing
 

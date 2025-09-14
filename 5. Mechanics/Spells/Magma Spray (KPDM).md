@@ -20,17 +20,22 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+damage:
+  base: 3d8
+  scaling:
+    damage: 1d8
+    level: 3
+  types:
+    - fire
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 40 feet
+somatic: true
+verbal: true
+material: a pinch of sulfur or a piece of brimstone
 aliases:
   - Magma Spray
-concentration: true
-material: a pinch of sulfur or a piece of brimstone
 ---
 # Magma Spray
 *2nd-level, Transmutation*  
@@ -44,8 +49,8 @@ A 5-foot-diameter, 5-foot-tall cylindrical fountain of magma erupts from the gro
 
 A creature whose hit points are reduced to 0 by this damage is killed immediately, and its body burns to ash.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 312*

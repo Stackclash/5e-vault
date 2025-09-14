@@ -15,7 +15,7 @@ tags:
 aliases:
   - Deep Scion
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Deep Scion (MPMM).md|Deep Scion]]
+# [[5. Mechanics/Bestiary/Monstrosity/Deep Scion (MPMM).md|Deep Scion]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135*
 
 Deep scions began life as people who were stolen from shore or saved from sinking ships and offered a terrible bargain by an undersea power: surrender, body and soul, or drown. Those who submit are subjected to an ancient ritual widespread among evil aquatic creatures. Its methods are painful and the result never certain, but when it works, the magic transforms an air-breathing person into a shapeshifter that can take on an aquatic form.
@@ -42,8 +42,8 @@ The training to which a deep scion is subjected rids it of empathy for those the
   - !!int "14"
 "speed": "30 ft. (20 ft. and swim 40 ft. in hybrid form)"
 "saves":
-  - "wisdom": "+3"
-  - "charisma": "+4"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+6"
@@ -53,7 +53,8 @@ The training to which a deep scion is subjected rids it of empathy for those the
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 11"
 "languages": "Aquan, Common, thieves' cant"
 "cr": "3"
 "traits":
@@ -63,13 +64,13 @@ The training to which a deep scion is subjected rids it of empathy for those the
   - "desc": "The deep scion makes two Battleaxe attacks, or it makes one Bite attack\
       \ and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
     "name": "Battleaxe"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 6\
       \ (1d4 + 4) piercing damage."
     "name": "Bite (Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) slashing damage."
     "name": "Claw (Hybrid Form Only)"
   - "desc": "The deep scion emits a terrible scream audible within 300 feet. Creatures\
@@ -88,7 +89,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/deep-scion-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/deep-scion-mpmm.webp"
 ```
 ^statblock
 

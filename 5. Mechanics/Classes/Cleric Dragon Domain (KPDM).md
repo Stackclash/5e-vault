@@ -54,11 +54,11 @@ When it comes to beings of awesome power, dragons reign supreme. How much more a
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] |
-| 3rd | [[5. Mechanics/Spells/Lair Sense (KPDM).md\|lair sense]], [[5. Mechanics/Spells/Enthrall.md\|enthrall]] |
-| 5th | [[5. Mechanics/Spells/Catch The Breath (KPDM).md\|catch the breath]], [[5. Mechanics/Spells/Fear.md\|fear]] |
-| 7th | [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Scale Rot (KPDM).md\|scale rot]] |
-| 9th | [[5. Mechanics/Spells/Claws Of The Earth Dragon (KPDM).md\|claws of the earth dragon]], [[5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
+| 1st | [[/5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]] |
+| 3rd | [[/5. Mechanics/Spells/Lair Sense (KPDM).md\|lair sense]], [[/5. Mechanics/Spells/Enthrall.md\|enthrall]] |
+| 5th | [[/5. Mechanics/Spells/Catch The Breath (KPDM).md\|catch the breath]], [[/5. Mechanics/Spells/Fear.md\|fear]] |
+| 7th | [[/5. Mechanics/Spells/Blight.md\|blight]], [[/5. Mechanics/Spells/Scale Rot (KPDM).md\|scale rot]] |
+| 9th | [[/5. Mechanics/Spells/Claws Of The Earth Dragon (KPDM).md\|claws of the earth dragon]], [[/5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
 ^dragon-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -75,7 +75,7 @@ Starting at 6th level, as a reaction when you fail a saving throw, you can choos
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) fire damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) fire damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Frightful Presence (Level 17)
 

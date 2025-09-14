@@ -13,7 +13,7 @@ tags:
 aliases:
   - Adult Sapphire Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Adult Sapphire Dragon (SAF).md|Adult Sapphire Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Adult Sapphire Dragon (SAF).md|Adult Sapphire Dragon]]
 *Source: Strongholds and Followers p. 214*
 
 Eldest, first, the sapphire dragons inspire awe in any who see them. They guard the knowledge of past and future and the power that lets one shift between them. They approve of the dwarves, who imposed the rigid rules of causality on the world, and consider the remnant domains of the elves, the wodes, as a danger. Not a threat per se, because they know it is in the elves' nature to ignore past and future, but when mortals exploit this or discover the means to move through time, or summon creatures from the past and future, then the sapphire dragons get riled up.
@@ -41,10 +41,10 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
   - !!int "22"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  - "dexterity": "+12"
-  - "intelligence": "+12"
-  - "wisdom": "+9"
-  - "charisma": "+12"
+  - "dexterity": !!int "12"
+  - "intelligence": !!int "12"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "12"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+12"
@@ -58,12 +58,13 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "damage_resistances": "bludgeoning, slashing, piercing from nonmagical weapons"
 "damage_immunities": "fire, lightning"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 25"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 25"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "17"
 "traits":
-  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
-      \ Charges: 19 • Recharge: d8 • Fracture: 23"
+  - "desc": "**[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].**\
+      \ **Charges:** 19 **• Recharge:** 1d8 **• Fracture:** 23"
     "name": ""
   - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -75,20 +76,23 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 16\
       \ (2d10 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage."
     "name": "Claw"
-  - "desc": "Melee Weapon Attack: +11 to hit; reach 15 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +11 to hit; reach 15 ft., one target. *Hit:* 14\
       \ (2d8 + 5) bludgeoning damage."
     "name": "Tail"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the dragon can expend a use to take one of the following actions. The dragon\
+  \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
       \ Check."
     "name": "Detect"
-  - "desc": "The dragon uses a [[5. Mechanics/Lists/List Optfeaturetype Psi Man.md|psionic ability]]."
+  - "desc": "The dragon uses a [[/5. Mechanics/Lists/List Optfeaturetype Psi Man.md|psionic ability]]."
     "name": "Psionics"
   - "desc": "The dragon releases a wave of telekinetic energy from its mind. Every\
       \ creature within 15 feet must make a DC 24 Intelligence saving throw or take\

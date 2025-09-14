@@ -51,9 +51,9 @@ You concentrate your efforts on perfecting your art, developing special marks to
 
 ### Impressionist (Level 3)
 
-Starting at 3rd level, you're never without your brushes. You gain proficiency in [[5. Mechanics/Items/Calligraphers Supplies.md\|calligrapher's supplies]] and [[5. Mechanics/Items/Painters Supplies.md\|painter's supplies]]. Your proficiency bonus is doubled whenever you make an ability check that uses either of these tools.
+Starting at 3rd level, you're never without your brushes. You gain proficiency in [[/5. Mechanics/Items/Calligraphers Supplies.md\|calligrapher's supplies]] and [[/5. Mechanics/Items/Painters Supplies.md\|painter's supplies]]. Your proficiency bonus is doubled whenever you make an ability check that uses either of these tools.
 
-In addition, whenever you finish making a mark or rune with ink or paint, you can imbue it with the effects of the [[5. Mechanics/Spells/Message.md\|message]] spell. When you do, the mark is visibly magical and casts dim light in a 5-foot radius. A creature that touches the glowing mark telepathically hears the message you imbued in it. Once a message is heard, the magic fades from the mark.
+In addition, whenever you finish making a mark or rune with ink or paint, you can imbue it with the effects of the [[/5. Mechanics/Spells/Message.md\|message]] spell. When you do, the mark is visibly magical and casts dim light in a 5-foot radius. A creature that touches the glowing mark telepathically hears the message you imbued in it. Once a message is heard, the magic fades from the mark.
 
 You always have at least one paint or calligraphy brush on your person and can either create or purchase inks and pigments as part of your downtime activities. You can improvise these tools over the course of 10 minutes, assembling them from objects in your environment.
 
@@ -71,12 +71,12 @@ The creature can't take reactions until the start of your next turn. The rune's 
 #### Hexxus
 _Source: The Griffon's Saddlebag, Book 1_
 
-The creature is cursed with an enervating rune. While a creature is marked with this rune, you can use your reaction to activate it when the marked creature makes an attack roll or ability check, reducing the total of the attack roll or ability check by `dice:1d6|noform|noparens|avg` (`d6`). You must be within 60 feet and be able to see the creature in order to activate the rune. You can choose to activate the rune after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails. Once the rune has been activated, its magic fades.
+The creature is cursed with an enervating rune. While a creature is marked with this rune, you can use your reaction to activate it when the marked creature makes an attack roll or ability check, reducing the total of the attack roll or ability check by `dice:1d6|noform|noparens|avg` (`1d6`). You must be within 60 feet and be able to see the creature in order to activate the rune. You can choose to activate the rune after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails. Once the rune has been activated, its magic fades.
 
 #### Locus
 _Source: The Griffon's Saddlebag, Book 1_
 
-The next attack against the marked creature is made with advantage, and if that attack hits, it deals an extra `dice:1d6|noform|noparens|avg` (`d6`) acid damage. Hit or miss, the rune's magic fades after the next attack is made against the marked creature.
+The next attack against the marked creature is made with advantage, and if that attack hits, it deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) acid damage. Hit or miss, the rune's magic fades after the next attack is made against the marked creature.
 
 ### Escape Artist (Level 9)
 

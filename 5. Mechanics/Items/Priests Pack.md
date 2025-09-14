@@ -18,15 +18,15 @@ weight: 24
 
 Includes:
 
-- a [[5. Mechanics/Items/Backpack.md\|backpack]]  
-- a [[5. Mechanics/Items/Blanket.md\|blanket]]  
-- 10 [[5. Mechanics/Items/Candle.md\|candles]]  
-- a [[5. Mechanics/Items/Tinderbox.md\|tinderbox]]  
+- a [[/5. Mechanics/Items/Backpack.md\|backpack]]  
+- a [[/5. Mechanics/Items/Blanket.md\|blanket]]  
+- 10 [[/5. Mechanics/Items/Candle.md\|candles]]  
+- a [[/5. Mechanics/Items/Tinderbox.md\|tinderbox]]  
 - an alms box  
 - 2 blocks of incense  
 - a censer  
 - vestments  
-- 2 days of [[5. Mechanics/Items/Rations 1 Day.md\|rations]]  
-- a [[5. Mechanics/Items/Waterskin.md\|waterskin]].  
+- 2 days of [[/5. Mechanics/Items/Rations 1 Day.md\|rations]]  
+- a [[/5. Mechanics/Items/Waterskin.md\|waterskin]].  
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

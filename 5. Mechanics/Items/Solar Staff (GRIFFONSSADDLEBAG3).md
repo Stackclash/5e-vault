@@ -32,7 +32,7 @@ This staff has 10 charges for the following properties:
 
 ## Spells
 
-While holding the staff, you can use an action to expend some of its charges to cast either the [[5. Mechanics/Spells/Daylight.md\|daylight]] (2 charges) or [[5. Mechanics/Spells/Sunbeam.md\|sunbeam]] spell (4 charges) from it, using your spell save DC. Each spell can originate from either you or the orb of light when cast in this way.
+While holding the staff, you can use an action to expend some of its charges to cast either the [[/5. Mechanics/Spells/Daylight.md\|daylight]] (2 charges) or [[/5. Mechanics/Spells/Sunbeam.md\|sunbeam]] spell (4 charges) from it, using your spell save DC. Each spell can originate from either you or the orb of light when cast in this way.
 
 ## Purifying Light
 

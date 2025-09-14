@@ -54,11 +54,11 @@ Few ever catch a glimpse of the cold immensity of the stars and the void, and fe
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Bane.md\|bane]], protection from the Void |
-| 3rd | [[5. Mechanics/Spells/Destructive Resonance (KPDM).md\|destructive resonance]], [[5. Mechanics/Spells/Rope Trick.md\|rope trick]] |
-| 5th | [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], [[5. Mechanics/Spells/Void Strike (KPDM).md\|Void strike]] |
-| 7th | [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Nether Weapon (KPDM).md\|nether weapon]] |
-| 9th | [[5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]], [[5. Mechanics/Spells/Living Shadows (KPDM).md\|living shadows]] |
+| 1st | [[/5. Mechanics/Spells/Bane.md\|bane]], protection from the Void |
+| 3rd | [[/5. Mechanics/Spells/Destructive Resonance (KPDM).md\|destructive resonance]], [[/5. Mechanics/Spells/Rope Trick.md\|rope trick]] |
+| 5th | [[/5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], [[/5. Mechanics/Spells/Void Strike (KPDM).md\|Void strike]] |
+| 7th | [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[/5. Mechanics/Spells/Nether Weapon (KPDM).md\|nether weapon]] |
+| 9th | [[/5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]], [[/5. Mechanics/Spells/Living Shadows (KPDM).md\|living shadows]] |
 ^void-domain-spells
 
 ### Messenger of the Void (Level 1)
@@ -67,7 +67,7 @@ A cleric who adopts the Void domain gains proficiency in [[/5. Mechanics/Rules/S
 
 ### Bonus Proficiency (Level 1)
 
-Beginning at 1st level, you are proficient with [[5. Mechanics/Items/Navigators Tools.md\|navigator's tools]].
+Beginning at 1st level, you are proficient with [[/5. Mechanics/Items/Navigators Tools.md\|navigator's tools]].
 
 ### Channel Divinity: Hidden Knowledge (Level 2)
 
@@ -79,7 +79,7 @@ Starting at 6th level, you can use your Channel Divinity to inflict madness on c
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) cold damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) cold damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Black Star (Level 17)
 

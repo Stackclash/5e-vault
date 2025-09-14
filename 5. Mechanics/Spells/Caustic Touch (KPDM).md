@@ -33,13 +33,20 @@ classes:
   - Sorcerer (Divine Soul)
   - Wizard
 school: Evocation
-level: cantrip
+level: 0
+damage:
+  base: 1d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - acid
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Caustic Touch
 ---
@@ -51,10 +58,12 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Your hand sweats profusely and becomes coated in a film of caustic slime. Make a melee spell attack against a creature you touch. On a hit, the target takes `dice:1d8|noform|noparens|avg` (`d8`) acid damage. If the target was concentrating on a spell, it has disadvantage on its Constitution saving throw to maintain concentration.
+Your hand sweats profusely and becomes coated in a film of caustic slime. Make a melee spell attack against a creature you touch. On a hit, the target takes `dice:1d8|noform|noparens|avg` (`1d8`) acid damage. If the target was concentrating on a spell, it has disadvantage on its Constitution saving throw to maintain concentration.
 
-This spell's damage increases by `dice:1d8|noform|noparens|avg` (`d8`) when you reach 5th level (`dice:2d8|noform|noparens|avg` (`2d8`)), 11th level (`dice:3d8|noform|noparens|avg` (`3d8`)), and 17th level (`dice:4d8|noform|noparens|avg` (`4d8`)).
+This spell's damage increases by `dice:1d8|noform|noparens|avg` (`1d8`) when you reach 5th level (`dice:2d8|noform|noparens|avg` (`2d8`)), 11th level (`dice:3d8|noform|noparens|avg` (`3d8`)), and 17th level (`dice:4d8|noform|noparens|avg` (`4d8`)).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
 
 *Source: Deep Magic p. 48*

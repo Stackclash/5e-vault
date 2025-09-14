@@ -12,7 +12,7 @@ armorClass: 12 + Dex modifier
 weight: 13
 ---
 # Armor of the Infernal Enforcer
-*Light armor ([[5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), legendary (requires attunement)*  
+*Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), legendary (requires attunement)*  
 
 - **Armor Class**: 12 + Dex modifier
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]

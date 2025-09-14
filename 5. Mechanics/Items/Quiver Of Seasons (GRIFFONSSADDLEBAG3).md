@@ -20,19 +20,19 @@ The quiver has 8 charges and regains `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`
 
 ## Spring
 
-The ammunition is wrapped by verdant brambles. On a hit, the brambles wrap around the target and deal an extra `dice:1d10|noform|noparens|avg` (`d10`) piercing damage. The target must succeed on a DC 15 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the brambles until the end of your next turn. A creature can use its action to make a DC 15 Strength check, freeing itself or another creature within its reach from the brambles on a success.
+The ammunition is wrapped by verdant brambles. On a hit, the brambles wrap around the target and deal an extra `dice:1d10|noform|noparens|avg` (`1d10`) piercing damage. The target must succeed on a DC 15 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the brambles until the end of your next turn. A creature can use its action to make a DC 15 Strength check, freeing itself or another creature within its reach from the brambles on a success.
 
 ## Summer
 
-The ammunition is scorched by wildfire. On a hit, flames erupt from it that deal an extra `dice:1d10|noform|noparens|avg` (`d10`) fire damage to the target. The target must succeed on a DC 15 Dexterity saving throw or take an extra `dice:1d10|noform|noparens|avg` (`d10`) fire damage at the start of its next turn.
+The ammunition is scorched by wildfire. On a hit, flames erupt from it that deal an extra `dice:1d10|noform|noparens|avg` (`1d10`) fire damage to the target. The target must succeed on a DC 15 Dexterity saving throw or take an extra `dice:1d10|noform|noparens|avg` (`1d10`) fire damage at the start of its next turn.
 
 ## Autumn
 
-The ammunition is touched by decaying fungus. On a hit, a cloud of sickening spores bursts from it that deals an extra `dice:1d10|noform|noparens|avg` (`d10`) necrotic damage to the target. The target must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of your next turn. This has no effect on undead or constructs.
+The ammunition is touched by decaying fungus. On a hit, a cloud of sickening spores bursts from it that deals an extra `dice:1d10|noform|noparens|avg` (`1d10`) necrotic damage to the target. The target must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of your next turn. This has no effect on undead or constructs.
 
 ## Winter
 
-The ammunition is covered in biting frost. On a hit, ice splinters outward from it that deals an extra `dice:1d10|noform|noparens|avg` (`d10`) cold damage. The target must make a DC 15 Constitution saving throw. On a failed save, the target's speed is halved until the end of your next turn. For the duration of this effect, it can't use reactions, and on its turn, it can use either an action or a bonus action, but not both. Regardless of the target's abilities, it can't make more than one attack during its turn for the duration.
+The ammunition is covered in biting frost. On a hit, ice splinters outward from it that deals an extra `dice:1d10|noform|noparens|avg` (`1d10`) cold damage. The target must make a DC 15 Constitution saving throw. On a failed save, the target's speed is halved until the end of your next turn. For the duration of this effect, it can't use reactions, and on its turn, it can use either an action or a bonus action, but not both. Regardless of the target's abilities, it can't make more than one attack during its turn for the duration.
 
 The ammunition returns to normal after the attack.
 

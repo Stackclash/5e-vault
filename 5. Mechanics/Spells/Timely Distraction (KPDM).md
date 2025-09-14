@@ -18,16 +18,19 @@ classes:
   - Wizard
 school: Evocation
 level: 2
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 3 rounds
-components:
-  - V
-  - S
-  - M
+range: 25 feet
+somatic: true
+verbal: true
+material: a handful of sand or dirt thrown in the air
 aliases:
   - Timely Distraction
-material: a handful of sand or dirt thrown in the air
 ---
 # Timely Distraction
 *2nd-level, Evocation*  
@@ -49,6 +52,6 @@ You call forth a swirling, crackling wave of constantly shifting pops, flashes, 
 | 4 | Prone |
 ^affliction
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 186*

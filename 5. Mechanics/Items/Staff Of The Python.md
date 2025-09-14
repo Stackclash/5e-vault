@@ -15,7 +15,7 @@ weight: 4
 ---
 # Staff of the Python
 *Staff, weapon, major, uncommon (requires attunement by a cleric, druid, or warlock)*  
-![[5. Mechanics/Items/img/staff-of-the-python.webp#right]]  
+![[/5. Mechanics/Items/img/staff-of-the-python.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
@@ -23,7 +23,7 @@ weight: 4
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
-You can use an action to speak this staff's command word and throw the staff on the ground within 10 feet of you. The staff becomes a [[5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|giant constrictor snake]] under your control and acts on its own initiative count. By using a bonus action to speak the command word again, you return the staff to its normal form in a space formerly occupied by the snake.
+You can use an action to speak this staff's command word and throw the staff on the ground within 10 feet of you. The staff becomes a [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|giant constrictor snake]] under your control and acts on its own initiative count. By using a bonus action to speak the command word again, you return the staff to its normal form in a space formerly occupied by the snake.
 
 On your turn, you can mentally command the snake if it is within 60 feet of you and you aren't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. You decide what action the snake takes and where it moves during its next turn, or you can issue it a general command, such as to attack your enemies or guard a location.
 

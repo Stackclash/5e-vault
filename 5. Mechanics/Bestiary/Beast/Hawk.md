@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hawk
 ---
-# [[5. Mechanics\Bestiary\Beast\Hawk.md|Hawk]]
+# [[5. Mechanics/Bestiary/Beast/Hawk.md|Hawk]]
 *Source: Monster Manual p. 330. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -44,12 +44,12 @@ aliases:
       \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 slashing\
       \ damage."
     "name": "Talons"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/hawk.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/hawk.webp"
 ```
 ^statblock
 

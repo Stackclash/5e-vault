@@ -13,7 +13,7 @@ tags:
 aliases:
   - Virtue
 ---
-# [[5. Mechanics\Bestiary\Celestial\Virtue (SAF).md|Virtue]]
+# [[5. Mechanics/Bestiary/Celestial/Virtue (SAF).md|Virtue]]
 *Source: Strongholds and Followers p. 159*
 
 A collection of mouths and hands that arrives and sings power, which is a totally normal thing to do. The Virtue is the Word of the Gods, and that word is death to evil. These songs are not spells, so magic resistance does not affect them. They are divine words spoken by a creature sent by the gods.
@@ -64,14 +64,15 @@ See? Proper Celestial gibberish!
   - !!int "20"
 "speed": "0 ft., fly 40 ft. (hover)"
 "saves":
-  - "intelligence": "+6"
-  - "wisdom": "+6"
-  - "charisma": "+8"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "8"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight, passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]], passive Perception\
+  \ 19"
 "languages": "all, telepathy 60 ft."
 "cr": "7"
 "traits":

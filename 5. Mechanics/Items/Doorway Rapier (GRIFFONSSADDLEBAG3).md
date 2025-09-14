@@ -14,7 +14,7 @@ one-hand-damage: 1d8 piercing
 weight: 2
 ---
 # Doorway Rapier
-*Weapon ([[5. Mechanics/Items/Rapier.md\|rapier]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Doorway-Rapier.webp#right)  
 
 - **Damage**: 1d8 piercing

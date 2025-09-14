@@ -12,16 +12,29 @@ classes:
   - Sorcerer
 school: Conjuration
 level: 4
+damage:
+  base: 6d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - fire
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self (60-foot Cone)
+somatic: true
+verbal: true
+material: a piece of obsidian
+area:
+  shape: cone
+  size: 60
 aliases:
   - Torrent of Fire
-material: a piece of obsidian
 ---
 # Torrent of Fire
 *4th-level, Conjuration*  
@@ -33,6 +46,6 @@ material: a piece of obsidian
 
 You harness the power of fire contained in ley lines with this spell. You create a 60-foot cone of flame. Creatures in the cone take `dice:6d6|noform|noparens|avg` (`6d6`) fire damage, or half as much damage with a successful Dexterity saving throw. You can then flow along the flames, reappearing anywhere inside the cone's area. This repositioning doesn't count as movement and doesn't trigger [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack\|opportunity attacks]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Deep Magic p. 204*

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cartographer's Agent
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Cartographers Agent (GRIFFONSSADDLEBAG2).md|Cartographer's Agent]]
+# [[5. Mechanics/Bestiary/Humanoid/Cartographers Agent (GRIFFONSSADDLEBAG2).md|Cartographer's Agent]]
 *Source: The Griffon's Saddlebag, Book 2 p. 337*
 
 Most members of The Cartographer's Guild are simple mapmakers or merchants, but a special division known as The Cartographer's Agents handles the faction's dirtier business. These are the individuals that track and follow adventurers, using them as pawns to wear down the defenses of various dungeons and similar challenging locations. If these unknowing adventurers fall in combat, these agents are the ones that retrieve their belongings and treasures to fill the guild's coffers. If they survive, the agents can either finish them off and claim the wealth, or loot any leftover treasure that they were unable to acquire.
@@ -25,7 +25,7 @@ Most members of The Cartographer's Guild are simple mapmakers or merchants, but 
 "subtype": "any race"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "104"
 "hit_dice": "19d8 + 19"
 "modifier": !!int "4"
@@ -38,8 +38,8 @@ Most members of The Cartographer's Guild are simple mapmakers or merchants, but 
   - !!int "15"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+7"
-  - "intelligence": "+6"
+  - "dexterity": !!int "7"
+  - "intelligence": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+7"
@@ -65,7 +65,7 @@ Most members of The Cartographer's Guild are simple mapmakers or merchants, but 
       \ saving throw to take only half damage, the agent instead takes no damage if\
       \ it succeeds on the saving throw, and only half damage if it fails."
     "name": "Evasion"
-  - "desc": "The agent has a +3 bonus to any ability check it makes using [[5. Mechanics/Items/Cartographers Tools.md|cartographer's\
+  - "desc": "The agent has a +3 bonus to any ability check it makes using [[/5. Mechanics/Items/Cartographers Tools.md|cartographer's\
       \ tools]], in addition to the ability\
       \ modifier used for the check."
     "name": "Expert Cartography"
@@ -77,10 +77,10 @@ Most members of The Cartographer's Guild are simple mapmakers or merchants, but 
 "actions":
   - "desc": "The agent makes two attacks with its dagger."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 6 (1d4+ 4) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 6 (1d4+ 4) piercing damage."
     "name": "Dagger"
-  - "desc": "Ranged Weapon Attack: +7 to hit, range 80/320 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 80/320 ft., one target. *Hit:*\
       \ 8 (1d8 + 4) piercing damage."
     "name": "Light Crossbow"
 "reactions":

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dighrogh
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Dighrogh (GRIFFONSSADDLEBAG3).md|Dighrogh]]
+# [[5. Mechanics/Bestiary/Humanoid/Dighrogh (GRIFFONSSADDLEBAG3).md|Dighrogh]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Dighrogh are repulsive, frog-faced humanoids that reek of muck and acrid mineral deposits, and lurk in the abandoned or disused tunnels beneath Ilridun. Many stories tell of entrepreneurial miners losing their lives to dighrogh, who are capable of swallowing entire dwarves whole. Dighrogh were once a massive threat to the city in its early years of expansion and are universally despised throughout Ilridun and its populace. Despite the efforts of the Order of the Enlightened Matrons, these creatures continue to survive and threaten miners beneath the city. Clever enough to be dangerous on their own, some dighrogh have also been known to serve powerful, aberrant forces from the Realm Below.
@@ -42,7 +42,8 @@ Dighrogh are repulsive, frog-faced humanoids that reek of muck and acrid mineral
     "desc": "+1"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "Undercommon"
 "cr": "1"
 "traits":
@@ -62,13 +63,13 @@ Dighrogh are repulsive, frog-faced humanoids that reek of muck and acrid mineral
       \ dighrogh lacks the room to become Large, it attains the maximum size possible\
       \ in the space available."
     "name": "Enlarge (Recharges after a Short or Long Rest)"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarged, and if\
       \ the target is at least one size smaller than the dighrogh, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 12). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
       \ and the dighrogh can't bite another target."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) slashing damage, or 7 (2d4 + 2) slashing damage while enlarged."
     "name": "Claw"
   - "desc": "The dighrogh attempts to swallow a target it is grappling that is at\

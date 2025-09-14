@@ -11,7 +11,7 @@ weight: 2
 ---
 # Nature's Mantle
 *Wondrous item, uncommon (requires attunement by a druid or ranger)*  
-![[5. Mechanics/Items/img/natures-mantle.webp#right]]  
+![[/5. Mechanics/Items/img/natures-mantle.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

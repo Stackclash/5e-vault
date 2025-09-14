@@ -17,7 +17,7 @@ This chapter provides the rules you need for your characters and monsters to eng
 
 The Dungeon Master controls all the monsters and nonplayer characters involved in combat, and each other player controls an adventurer. "You" can also mean the character or monster that you control.
 
-![[6. Resources/Books/Players Handbook 2014/img/ch9.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/ch9.webp#center]]
 
 > [!note] Combat Step by Step
 > 
@@ -137,7 +137,7 @@ If you take an action that includes more than one weapon attack, you can break u
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the [[5. Mechanics/Spells/Fly.md\|fly]] spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the [[/5. Mechanics/Spells/Fly.md\|fly]] spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 ### Difficult Terrain
 
@@ -167,9 +167,9 @@ If you leave a hostile creature's reach during your move, you provoke an opportu
 
 ### Flying Movement
 
-Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [[5. Mechanics/Spells/Fly.md\|fly]] spell.
+Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [[/5. Mechanics/Spells/Fly.md\|fly]] spell.
 
-![[6. Resources/Books/Players Handbook 2014/img/c91.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c91.webp#center]]
 
 ### Creature Size
 
@@ -177,7 +177,7 @@ Each creature takes up a different amount of space.
 
 The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
 
-![[5. Mechanics/Tables/Creature Size Size Categories (PHB).md\|Creature Size; Size Categories]]
+![[/5. Mechanics/Tables/Creature Size Size Categories (PHB).md\|Creature Size; Size Categories]]
 
 #### Space
 
@@ -240,7 +240,7 @@ Whether you're striking with a melee weapon, firing a weapon at range, or making
 
 If there's ever any question whether something you're doing counts as an attack, the rule is simple: if you're making an attack roll, you're making an attack.
 
-![[6. Resources/Books/Players Handbook 2014/img/c92.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c92.webp#center]]
 
 ### Attack Rolls
 
@@ -270,7 +270,7 @@ If the `dice:d20|noform|noparens|avg` (`d20`) roll for an attack is a 1, the att
 
 ### Unseen Attackers and Targets
 
-Combatants often try to escape their foes' notice by hiding, casting the [[5. Mechanics/Spells/Invisibility.md\|invisibility]] spell, or lurking in darkness.
+Combatants often try to escape their foes' notice by hiding, casting the [[/5. Mechanics/Spells/Invisibility.md\|invisibility]] spell, or lurking in darkness.
 
 When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the DM typically just says that the attack missed, not whether you guessed the target's location correctly.
 
@@ -278,7 +278,7 @@ When a creature can't see you, you have advantage on attack rolls against it.
 
 If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
 
-![[6. Resources/Books/Players Handbook 2014/img/c93.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c93.webp#center]]
 
 ### Ranged Attacks
 
@@ -494,9 +494,9 @@ The best way to save a creature with 0 hit points is to heal it. If healing is u
 
 You can use your action to administer first aid to an [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check.
 
-A stable creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after `dice:1d4|noform|noparens|avg` (`d4`) hours.
+A stable creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after `dice:1d4|noform|noparens|avg` (`1d4`) hours.
 
-![[6. Resources/Books/Players Handbook 2014/img/c94.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c94.webp#center]]
 
 #### Monsters and Death
 

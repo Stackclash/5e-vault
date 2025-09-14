@@ -14,7 +14,7 @@ tags:
 aliases:
   - Crab
 ---
-# [[5. Mechanics\Bestiary\Beast\Crab.md|Crab]]
+# [[5. Mechanics/Bestiary/Beast/Crab.md|Crab]]
 *Source: Monster Manual p. 320, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -38,20 +38,21 @@ aliases:
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+2"
-"senses": "blindsight 30 ft., passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., passive Perception\
+  \ 9"
 "languages": ""
 "cr": "0"
 "traits":
   - "desc": "The crab can breathe air and water."
     "name": "Amphibious"
 "actions":
-  - "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 bludgeoning\
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning\
       \ damage."
     "name": "Claw"
 "source":
   - "MM"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Beast/token/crab.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/crab.webp"
 ```
 ^statblock
 

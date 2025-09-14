@@ -13,7 +13,7 @@ armorClass: 18
 weight: 65
 ---
 # Godsteel Warplate
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, legendary (requires attunement)*  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Godsteel-Warplate.webp#right)  
 
 - **Armor Class**: 18

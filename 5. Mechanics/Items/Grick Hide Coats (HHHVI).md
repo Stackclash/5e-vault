@@ -11,7 +11,7 @@ armorClass: 12 + Dex modifier
 weight: 13
 ---
 # Grick Hide Coats
-*Light armor ([[5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]])*  
+*Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]])*  
 
 - **Armor Class**: 12 + Dex modifier
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
@@ -23,7 +23,7 @@ If this is the rare version of this armor, you also gain a +1 bonus to AC while 
 
 **Items in this group:**
 
-- [[5. Mechanics/Items/Grick Hide Coat (HHHVI).md\|Grick Hide Coat]]
-- [[5. Mechanics/Items/Alpha Grick Hide Coat (HHHVI).md\|Alpha Grick Hide Coat]]
+- [[/5. Mechanics/Items/Grick Hide Coat (HHHVI).md\|Grick Hide Coat]]
+- [[/5. Mechanics/Items/Alpha Grick Hide Coat (HHHVI).md\|Alpha Grick Hide Coat]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 129*

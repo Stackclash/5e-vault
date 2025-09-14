@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Cacophony Crows
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Swarm Of Cacophony Crows (GRIFFONSSADDLEBAG3).md|Swarm of Cacophony Crows]]
+# [[5. Mechanics/Bestiary/Monstrosity/Swarm Of Cacophony Crows (GRIFFONSSADDLEBAG3).md|Swarm of Cacophony Crows]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Cacophony crows are dark, but brassy in color and can imitate the sound and even resonance of temple bells. Some crows are trained to take the place of bells in buildings with limited space or resources, and can even be used to tell time, with enough patience, in much the same way that a belltower chimes throughout the day.
@@ -47,7 +47,8 @@ In the wild, the crows use their raucous calls to startle and disarm potential p
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": ""
 "cr": "6"
 "traits":
@@ -59,11 +60,11 @@ In the wild, the crows use their raucous calls to startle and disarm potential p
       \ The swarm can't regain hit points or gain temporary hit points."
     "name": "Swarm"
 "actions":
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 0 ft., one target. Hit: 25\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 0 ft., one target. *Hit:* 25\
       \ (6d6 + 4) piercing damage, or 18 (4d6 + 4) piercing damage if the swarm has\
       \ half of its hit points or fewer."
     "name": "Beaks"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 0 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 0 ft., one target. *Hit:* 19\
       \ (6d4 + 4) piercing damage, or 14 (4d4 + 4) piercing damage if the swarm has\
       \ half of its hit points or fewer. If the target is a Large or smaller creature,\
       \ it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 17).\

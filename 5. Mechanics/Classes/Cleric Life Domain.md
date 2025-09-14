@@ -48,7 +48,7 @@ aliases:
 
 ### Life Domain (Level 1)
 
-The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, [[5. Mechanics/Deities/Eberron Araw(AI).md\|Arawai]], and [[5. Mechanics/Deities/Greek Demeter.md\|Demeter]]), sun gods (such as Lathander, [[5. Mechanics/Deities/Greyhawk Pelor.md\|Pelor]], and [[5. Mechanics/Deities/Egyptian Re Horakhty.md\|Re-Horakhty]]), gods of healing or endurance (such as Ilmater, [[5. Mechanics/Deities/Dragonlance Mishakal (PHB).md\|Mishakal]], [[5. Mechanics/Deities/Greek Apollo.md\|Apollo]], and [[5. Mechanics/Deities/Celtic Diancecht.md\|Diancecht]]), and gods of home and community (such as [[5. Mechanics/Deities/Greek Hestia.md\|Hestia]], [[5. Mechanics/Deities/Egyptian Hathor.md\|Hathor]], and Boldrei).
+The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, [[/5. Mechanics/Deities/Eberron Araw(AI).md\|Arawai]], and [[/5. Mechanics/Deities/Greek Demeter.md\|Demeter]]), sun gods (such as Lathander, [[/5. Mechanics/Deities/Greyhawk Pelor.md\|Pelor]], and [[/5. Mechanics/Deities/Egyptian Re Horakhty.md\|Re-Horakhty]]), gods of healing or endurance (such as Ilmater, [[/5. Mechanics/Deities/Dragonlance Mishakal (PHB).md\|Mishakal]], [[/5. Mechanics/Deities/Greek Apollo.md\|Apollo]], and [[/5. Mechanics/Deities/Celtic Diancecht.md\|Diancecht]]), and gods of home and community (such as [[/5. Mechanics/Deities/Greek Hestia.md\|Hestia]], [[/5. Mechanics/Deities/Egyptian Hathor.md\|Hathor]], and Boldrei).
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -56,11 +56,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] |
-| 3rd | [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]], [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]] |
-| 5th | [[5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[5. Mechanics/Spells/Revivify.md\|revivify]] |
-| 7th | [[5. Mechanics/Spells/Death Ward.md\|death ward]], [[5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] |
-| 9th | [[5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]], [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] |
+| 1st | [[/5. Mechanics/Spells/Bless.md\|bless]], [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] |
+| 3rd | [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]], [[/5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]] |
+| 5th | [[/5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[/5. Mechanics/Spells/Revivify.md\|revivify]] |
+| 7th | [[/5. Mechanics/Spells/Death Ward.md\|death ward]], [[/5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] |
+| 9th | [[/5. Mechanics/Spells/Mass Cure Wounds.md\|mass cure wounds]], [[/5. Mechanics/Spells/Raise Dead.md\|raise dead]] |
 ^life-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -83,14 +83,14 @@ Beginning at 6th level, the healing spells you cast on others heal you as well. 
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Divine Strike feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Supreme Healing (Level 17)
 

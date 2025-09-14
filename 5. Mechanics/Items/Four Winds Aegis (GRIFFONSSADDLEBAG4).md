@@ -11,7 +11,7 @@ armorClass: 2
 weight: 6
 ---
 # Four Winds Aegis
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), rare*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Four-Winds-Aegos.webp#right)  
 
 - **Armor Class**: 2

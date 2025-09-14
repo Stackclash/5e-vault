@@ -18,17 +18,26 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+damage:
+  base: 2d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Strength
+  succeeds: half damage
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
+material: a miniature hand sculpted from clay
 aliases:
   - Maximilian's Earthen Grasp
-concentration: true
-material: a miniature hand sculpted from clay
 ---
 # Maximilian's Earthen Grasp
 *2nd-level, Transmutation*  
@@ -46,6 +55,6 @@ To break out, the [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] t
 
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] target if you do either.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 161*

@@ -54,11 +54,11 @@ In speed and skill there is power, and your faith gives you incredible quickness
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Expeditious Retreat.md\|expeditious retreat]], [[5. Mechanics/Spells/Feather Fall.md\|feather fall]] |
-| 3rd | [[5. Mechanics/Spells/Blur.md\|blur]], [[5. Mechanics/Spells/Web.md\|web]] |
-| 5th | [[5. Mechanics/Spells/Haste.md\|haste]], [[5. Mechanics/Spells/Slow.md\|slow]] |
-| 7th | [[5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[5. Mechanics/Spells/Dimension Door.md\|dimension door]] |
-| 9th | [[5. Mechanics/Spells/Hold Monster.md\|hold monster]], [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] |
+| 1st | [[/5. Mechanics/Spells/Expeditious Retreat.md\|expeditious retreat]], [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] |
+| 3rd | [[/5. Mechanics/Spells/Blur.md\|blur]], [[/5. Mechanics/Spells/Web.md\|web]] |
+| 5th | [[/5. Mechanics/Spells/Haste.md\|haste]], [[/5. Mechanics/Spells/Slow.md\|slow]] |
+| 7th | [[/5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]] |
+| 9th | [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]], [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] |
 ^speed-domain-spells
 
 ### Celerity in Thought and Action (Level 1)
@@ -67,7 +67,7 @@ When you choose this domain at 1st level, your speed increases by 5 feet, and yo
 
 ### Channel Divinity: Burst of Speed (Level 2)
 
-At 2nd level, you can use your Channel Divinity to grant yourself or another creature greater speed. By using an action to touch a creature, the target adds 10 feet to its base speed. It also gains the benefit of a [[5. Mechanics/Spells/Bless.md\|bless]] spell, but only on attacks and saving throws that rely on Dexterity. This lasts a number of rounds equal to 3 + your Wisdom modifier.
+At 2nd level, you can use your Channel Divinity to grant yourself or another creature greater speed. By using an action to touch a creature, the target adds 10 feet to its base speed. It also gains the benefit of a [[/5. Mechanics/Spells/Bless.md\|bless]] spell, but only on attacks and saving throws that rely on Dexterity. This lasts a number of rounds equal to 3 + your Wisdom modifier.
 
 ### Quickness of the Gods (Level 6)
 
@@ -75,8 +75,8 @@ At 6th level, your movement speed increases by another 5 feet. Also, as a reacti
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Channel Divinity: Time Stop (Level 17)
 
-At 17th level, you can use your Channel Divinity to stop the flow of time. The effect is identical to the [[5. Mechanics/Spells/Time Stop.md\|time stop]] spell; you can take 3 turns in a row when the effect is triggered. You must complete a long rest before using this ability again.
+At 17th level, you can use your Channel Divinity to stop the flow of time. The effect is identical to the [[/5. Mechanics/Spells/Time Stop.md\|time stop]] spell; you can take 3 turns in a row when the effect is triggered. You must complete a long rest before using this ability again.

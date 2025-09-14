@@ -32,27 +32,32 @@ classes:
   - Wizard
 school: Conjuration
 level: 5
+damage:
+  base: 5d8
+  scaling:
+    damage: 1d8
+    level: 6
+  types:
+    - poison
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: half damage
 ritual: false
 time: 1 Action
-duration: Up to 10 minutes
-components:
-  - V
-  - S
+duration: 'Concentration, up to 10 minutes'
+range: 120 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Cloudkill
-range: 120 feet
-damageType: Poison
-save:
-  type: CON
-  success: half
-area:
-  type: sphere
-  size: 20
-concentration: true
 ---
 # Cloudkill
 *5th-level, Conjuration*  
-![[5. Mechanics/Spells/img/cloudkill.webp#right]]  
+![[/5. Mechanics/Spells/img/cloudkill.webp#right]]  
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -65,8 +70,8 @@ When a creature enters the spell's area for the first time on a turn or starts i
 
 The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 5th.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 5th.
 
-**Classes**: [Warlock (The Undead)](compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR"); [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Ranger (Marshwarden)](compendium/lists/list-spells-classes-marshwarden-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Cleric (Festus Domain)](compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Death Domain)](compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Druid (Circle of Spores)](compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [Paladin (Oath of Conquest)](compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Cleric (Hunger Domain)](compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [Artificer (Alchemist)](compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE")
+**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Festus Domain)](/compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Cleric (Hunger Domain)](/compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of Spores)](/compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Ranger (Marshwarden)](/compendium/lists/list-spells-classes-marshwarden-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Undead)](/compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 222. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Necrichor
 ---
-# [[5. Mechanics\Bestiary\Undead\Necrichor (VRGR).md|Necrichor]]
+# [[5. Mechanics/Bestiary/Undead/Necrichor (VRGR).md|Necrichor]]
 *Source: Van Richten's Guide to Ravenloft p. 238*
 
 A necrichor is a being of living blood, formed from the ichor of evil gods or the sludge in the crypts of failed liches. Despite the loss of a solid physical form, these foul creatures retain their terrible intellects and aspire to megalomaniacal goals—the first of which involves regaining a body. To do this, they seek servants to exact their will, coercing even the most stubborn potential minions by turning their own blood against them.
@@ -38,9 +38,9 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
   - !!int "10"
 "speed": "20 ft., climb 20 ft."
 "saves":
-  - "constitution": "+6"
-  - "intelligence": "+6"
-  - "wisdom": "+4"
+  - "constitution": !!int "6"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+9"
@@ -50,15 +50,16 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft. (blind beyond\
+  \ this radius), passive Perception 11"
 "languages": "any three languages, telepathy 120 ft."
 "cr": "7"
 "traits":
   - "desc": "If the necrichor fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (2/Day)"
   - "desc": "Unless its lifeless remains are splashed with holy water or placed in\
-      \ a vessel under the effects of the [[5. Mechanics/Spells/Hallow.md|hallow]] spell,\
-      \ the destroyed necrichor re-forms in d10 days, regaining all its hits points\
+      \ a vessel under the effects of the [[/5. Mechanics/Spells/Hallow.md|hallow]] spell,\
+      \ the destroyed necrichor re-forms in 1d10 days, regaining all its hits points\
       \ and appearing in the place it died or in the nearest unoccupied space."
     "name": "Rejuvenation"
   - "desc": "The necrichor can climb difficult surfaces, including upside down on\
@@ -69,12 +70,12 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
 "actions":
   - "desc": "The necrichor makes two attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 5\
       \ (1d6 + 2) necrotic damage, and the target must succeed on a DC 14 Constitution\
       \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
       \ until the start of the necrichor's next turn."
     "name": "Pseudopod"
-  - "desc": "Ranged Spell Attack: +6 to hit, range 120 ft., one creature. Hit:\
+  - "desc": "*Ranged Spell Attack:* +6 to hit, range 120 ft., one creature. *Hit:*\
       \ 12 (2d8 + 3) necrotic damage, and the target can't regain hit points until\
       \ the start of the necrichor's next turn."
     "name": "Necrotic Bolt"
@@ -93,7 +94,7 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
     "name": "Blood Puppeteering (Recharge 6)"
 "source":
   - "VRGR"
-"image": "5. Mechanics/Bestiary/Undead/token/necrichor-vrgr.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/necrichor-vrgr.webp"
 ```
 ^statblock
 

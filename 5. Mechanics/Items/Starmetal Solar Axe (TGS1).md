@@ -14,14 +14,14 @@ one-hand-damage: 1d12 slashing
 weight: 7
 ---
 # Starmetal Solar Axe
-*Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Starmetal-Solar-Axe.webp#right)  
 
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
-This magic weapon is forged using iron from the stars. While you're attuned to this weapon, you can call upon its latent stellar energy to catalyze change within the metal and create endothermic and exothermic reactions. The weapon can be fused into a greataxe or fissioned into two separated [[5. Mechanics/Items/Battleaxe.md\|battleaxes]]. The weapon has the following properties based on its current state:
+This magic weapon is forged using iron from the stars. While you're attuned to this weapon, you can call upon its latent stellar energy to catalyze change within the metal and create endothermic and exothermic reactions. The weapon can be fused into a greataxe or fissioned into two separated [[/5. Mechanics/Items/Battleaxe.md\|battleaxes]]. The weapon has the following properties based on its current state:
 
 ## Fused State
 
@@ -29,7 +29,7 @@ While wielding the fused greataxe, you gain a +1 bonus to attack and damage roll
 
 ## Fissioned State
 
-While wielding the two fissioned battleaxes, you gain a +1 bonus to attack and damage rolls made with them. The weapons are bitter cold to the touch and deal an extra `dice:1d6|noform|noparens|avg` (`d6`) cold damage to any target they hit. The axes orbit you slowly while they aren't being held or stowed. You can retrieve a floating battleaxe as if it were sheathed. In addition, when you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can use a bonus action to make one melee weapon attack with an orbiting battleaxe against a creature you can see within 20 feet of you.
+While wielding the two fissioned battleaxes, you gain a +1 bonus to attack and damage rolls made with them. The weapons are bitter cold to the touch and deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) cold damage to any target they hit. The axes orbit you slowly while they aren't being held or stowed. You can retrieve a floating battleaxe as if it were sheathed. In addition, when you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can use a bonus action to make one melee weapon attack with an orbiting battleaxe against a creature you can see within 20 feet of you.
 
 ## State Change
 

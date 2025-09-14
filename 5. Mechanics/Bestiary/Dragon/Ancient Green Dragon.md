@@ -14,7 +14,7 @@ tags:
 aliases:
   - Ancient Green Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ancient Green Dragon.md|Ancient Green Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Ancient Green Dragon.md|Ancient Green Dragon]]
 *Source: Monster Manual p. 93. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
@@ -126,10 +126,10 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - !!int "19"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  - "dexterity": "+8"
-  - "constitution": "+14"
-  - "wisdom": "+10"
-  - "charisma": "+11"
+  - "dexterity": !!int "8"
+  - "constitution": !!int "14"
+  - "wisdom": !!int "10"
+  - "charisma": !!int "11"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+11"
@@ -143,7 +143,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     "desc": "+8"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 27"
 "languages": "Common, Draconic"
 "cr": "22"
 "traits":
@@ -155,13 +156,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
       \ one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +15 to hit, reach 15 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19\
       \ (2d10 + 8) piercing damage plus 10 (3d6) poison damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 22\
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 22\
       \ (4d6 + 8) slashing damage."
     "name": "Claw"
-  - "desc": "Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 17\
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17\
       \ (2d8 + 8) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
@@ -175,26 +176,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison\
       \ damage on a failed save, or half as much damage on a successful one."
     "name": "Poison Breath (Recharge 5-6)"
-"legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-      \ check."
-    "name": "Detect"
-  - "desc": "The dragon makes a tail attack."
-    "name": "Tail Attack"
-  - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
-      \ must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
-      \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The\
-      \ dragon can then fly up to half its flying speed."
-    "name": "Wing Attack (Costs 2 Actions)"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
       \ action to cause one of the following effects; the dragon can't use the same\
-      \ effect two rounds in a row:"
-    "name": ""
-  - "desc": "- Grasping roots and vines erupt in a 20-foot radius centered on a point\
-      \ on the ground that the dragon can see within 120 feet of it. That area becomes\
-      \ difficult terrain, and each creature there must succeed on a DC 15 Strength\
-      \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
+      \ effect two rounds in a row:\n\n- Grasping roots and vines erupt in a 20-foot\
+      \ radius centered on a point on the ground that the dragon can see within 120\
+      \ feet of it. That area becomes difficult terrain, and each creature there must\
+      \ succeed on a DC 15 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
       \ by the roots and vines. A creature can be freed if it or another creature\
       \ takes an action to make a DC 15 Strength check and succeeds. The roots and\
       \ vines wilt away when the dragon uses this lair action again or when the dragon\
@@ -215,33 +203,31 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ lair action again or when the dragon dies.  \n- Magical fog billows around\
       \ one creature the dragon can see within 120 feet of it. The creature must succeed\
       \ on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-      \ by the dragon until initiative count 20 on the next round.  "
-    "name": ""
-  - "desc": "At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Green Dragon.md|adult]]\
-      \ or [[5. Mechanics/Bestiary/Dragon/Ancient Green Dragon.md|ancient]]) green dragon\
+      \ by the dragon until initiative count 20 on the next round.  \n\n**Additional\
+      \ Lair Actions.** At your discretion, a legendary ([[/5. Mechanics/Bestiary/Dragon/Adult Green Dragon.md|adult]]\
+      \ or [[/5. Mechanics/Bestiary/Dragon/Ancient Green Dragon.md|ancient]]) green dragon\
       \ can use one or both of the following additional lair actions while in its\
-      \ lair:\n\n- Creeper Vines. The dragon can use the vines and roots within\
-      \ its lair to animate up to three Humanoid corpses, which become [[5. Mechanics/Bestiary/Undead/Zombie.md|zombies]].\
+      \ lair:\n\n- **Creeper Vines.** The dragon can use the vines and roots within\
+      \ its lair to animate up to three Humanoid corpses, which become [[/5. Mechanics/Bestiary/Undead/Zombie.md|zombies]].\
       \ The zombies take their turn immediately after this lair action. Each one reverts\
       \ to an inanimate corpse after 1 minute, when the dragon uses this lair action\
-      \ again, or when the zombie is destroyed.  \n- Lashing Root. One large root\
+      \ again, or when the zombie is destroyed.  \n- **Lashing Root.** One large root\
       \ or branch that is part of the lair makes a melee attack roll against a creature\
       \ within 10 feet of it. It has a +7 bonus to hit and deals 10 (3d6) bludgeoning\
       \ damage on a hit. If the target is a Medium or smaller creature, it must succeed\
       \ on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
       \  "
-    "name": "Additional Lair Actions"
+    "name": ""
 "regional_effects":
   - "desc": "The region containing a legendary green dragon's lair is warped by the\
-      \ dragon's magic, which creates one or more of the following effects:"
-    "name": ""
-  - "desc": "- Thickets form labyrinthine passages within 1 mile of the dragon's lair.\
-      \ The thickets act as 10-foot-high, 10-foot-thick walls that block line of sight.\
-      \ Creatures can move through the thickets, with every 1 foot a creature moves\
-      \ costing it 4 feet of movement. A creature in the thickets must make a DC 15\
-      \ Dexterity saving throw once each round it's in contact with the thickets or\
-      \ take 3 (d6) piercing damage from thorns.  \n\n    Each 10-foot-cube of thickets\
-      \ has AC 5, 30 hit points, resistance to bludgeoning and piercing damage, vulnerability\
+      \ dragon's magic, which creates one or more of the following effects:\n\n- Thickets\
+      \ form labyrinthine passages within 1 mile of the dragon's lair. The thickets\
+      \ act as 10-foot-high, 10-foot-thick walls that block line of sight. Creatures\
+      \ can move through the thickets, with every 1 foot a creature moves costing\
+      \ it 4 feet of movement. A creature in the thickets must make a DC 15 Dexterity\
+      \ saving throw once each round it's in contact with the thickets or take 3 (1d6)\
+      \ piercing damage from thorns.  \n\n    Each 10-foot-cube of thickets has AC\
+      \ 5, 30 hit points, resistance to bludgeoning and piercing damage, vulnerability\
       \ to fire damage, and immunity to psychic and thunder damage.  \n- Within 1\
       \ mile of its lair, the dragon leaves no physical evidence of its passage unless\
       \ it wishes to. Tracking it there is impossible except by magical means. In\
@@ -250,26 +236,37 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ The plants remove themselves from the dragon's path.  \n- Rodents and birds\
       \ within 1 mile of the dragon's lair serve as the dragon's eyes and ears. Deer\
       \ and other large game are strangely absent, hinting at the presence of an unnaturally\
-      \ hungry predator.  "
+      \ hungry predator.  \n\nIf the dragon dies, the rodents and birds lose their\
+      \ supernatural link to it. The thickets remain, but within 1d10 days, they become\
+      \ mundane plants and normal difficult terrain, losing their thorns.\n\n**Additional\
+      \ Regional Effects.** Either or both of these effects might appear in the area\
+      \ around a green dragon's lair, in addition to or instead of those described\
+      \ in the *Monster Manual*:\n\n- **Inviting Whispers.** Whispers rustle in the\
+      \ foliage within 1 mile of the dragon's lair. The words are indistinct, but\
+      \ a creature with an Intelligence score of 5 or higher interprets them as an\
+      \ invitation to move deeper into the greenery.  \n- **Twisted Messengers.**\
+      \ The dragon can cause any Tiny Beast within 1 mile of its lair to act as its\
+      \ mouthpiece. The effect is horrendous, as the creature's throat and mouth temporarily\
+      \ warp into a twisted version of the dragon's own in order to allow the dragon's\
+      \ voice to issue forth.  "
     "name": ""
-  - "desc": "If the dragon dies, the rodents and birds lose their supernatural link\
-      \ to it. The thickets remain, but within d10 days, they become mundane plants\
-      \ and normal difficult terrain, losing their thorns."
-    "name": ""
-  - "desc": "Either or both of these effects might appear in the area around a green\
-      \ dragon's lair, in addition to or instead of those described in the Monster\
-      \ Manual:\n\n- Inviting Whispers. Whispers rustle in the foliage within\
-      \ 1 mile of the dragon's lair. The words are indistinct, but a creature with\
-      \ an Intelligence score of 5 or higher interprets them as an invitation to move\
-      \ deeper into the greenery.  \n- Twisted Messengers. The dragon can cause\
-      \ any Tiny Beast within 1 mile of its lair to act as its mouthpiece. The effect\
-      \ is horrendous, as the creature's throat and mouth temporarily warp into a\
-      \ twisted version of the dragon's own in order to allow the dragon's voice to\
-      \ issue forth.  "
-    "name": "Additional Regional Effects"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the dragon can expend a use to take one of the following actions. The dragon\
+  \ regains all expended uses at the start of each of its turns."
+"legendary_actions":
+  - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ check."
+    "name": "Detect"
+  - "desc": "The dragon makes a tail attack."
+    "name": "Tail Attack"
+  - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
+      \ must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
+      \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. The\
+      \ dragon can then fly up to half its flying speed."
+    "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Dragon/token/ancient-green-dragon.webp"
+"image": "/5. Mechanics/Bestiary/Dragon/token/ancient-green-dragon.webp"
 ```
 ^statblock
 

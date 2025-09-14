@@ -13,7 +13,7 @@ tags:
 aliases:
   - Geode Wurm
 ---
-# [[5. Mechanics\Bestiary\Elemental\Geode Wurm (GRIFFONSSADDLEBAG3).md|Geode Wurm]]
+# [[5. Mechanics/Bestiary/Elemental/Geode Wurm (GRIFFONSSADDLEBAG3).md|Geode Wurm]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 This curious specimen, while similar in shape to creatures like the purple worm, is in fact an elemental. With hundreds of crystal formations grown from its core, the geode wurm shreds most creatures it manages to constrict. Those unlucky few that survive the shredding are conscious as the wurm begins grinding its flesh into giblets with the immense crushing force of its geode-like maw. Given their diet of precious gems and minerals, creatures in possession of mirrorlight crystals are often targets of geode wurm attack
@@ -37,8 +37,8 @@ This curious specimen, while similar in shape to creatures like the purple worm,
   - !!int "7"
 "speed": "40 ft., burrow 30 ft."
 "saves":
-  - "strength": "+10"
-  - "constitution": "+10"
+  - "strength": !!int "10"
+  - "constitution": !!int "10"
 "damage_vulnerabilities": "thunder"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
@@ -70,10 +70,10 @@ This curious specimen, while similar in shape to creatures like the purple worm,
   - "desc": "The wurm makes one attack with its grinding jaws and one constrict attack.\
       \ It can't make both attacks against the same target."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 32\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 32\
       \ (4d12 + 6) bludgeoning damage."
     "name": "Grinding Jaws"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 19\
       \ (3d8 + 6) bludgeoning damage. If the target is Large or smaller, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 15) and pulled 5 feet toward the wurm. Until this grapple ends,\
       \ the creature is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\

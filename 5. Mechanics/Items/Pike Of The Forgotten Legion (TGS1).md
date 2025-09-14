@@ -14,14 +14,14 @@ one-hand-damage: 1d10 piercing
 weight: 18
 ---
 # Pike of the Forgotten Legion
-*Weapon ([[5. Mechanics/Items/Pike.md\|pike]]), major, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Pike-of-the-Forgotten-Legion.webp#right)  
 
 - **Damage**: 1d10 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 18.0 lbs.
 
-You gain a +2 bonus to attack and damage rolls made with this magic weapon. This weapon has 6 charges and regains `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) expended charges daily at dusk. While holding this pike, you can expend 1 or more of its charges to cast one of the following spells from it (save DC 16): [[5. Mechanics/Spells/Mirror Image.md\|mirror image]] (1 charge), [[5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] (1 charge), [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] (1 charge), or [[5. Mechanics/Spells/Spirit Guardians.md\|spirit guardians]] (2 charges).
+You gain a +2 bonus to attack and damage rolls made with this magic weapon. This weapon has 6 charges and regains `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) expended charges daily at dusk. While holding this pike, you can expend 1 or more of its charges to cast one of the following spells from it (save DC 16): [[/5. Mechanics/Spells/Mirror Image.md\|mirror image]] (1 charge), [[/5. Mechanics/Spells/Phantom Steed.md\|phantom steed]] (1 charge), [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] (1 charge), or [[/5. Mechanics/Spells/Spirit Guardians.md\|spirit guardians]] (2 charges).
 
 ## Spectral Warrior
 

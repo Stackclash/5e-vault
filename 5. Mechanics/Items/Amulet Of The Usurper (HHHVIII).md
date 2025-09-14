@@ -18,7 +18,7 @@ This amulet has 20 charges. While wearing it, you may use your action to spend a
 ## Spellcasting
 
 
-You may use the amulet to cast any of the following spells using your spell save DC and spell attack bonus: [[5. Mechanics/Spells/Animate Dead.md\|animate dead]] (3 charges), [[5. Mechanics/Spells/Burning Hands.md\|burning hands]] (1 charge), [[5. Mechanics/Spells/Confusion.md\|confusion]] (4 charges), [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] (1 charge), [[5. Mechanics/Spells/Flame Strike.md\|flame strike]] (5 charges), [[5. Mechanics/Spells/Fly.md\|fly]] (3 charges), [[5. Mechanics/Spells/Geas.md\|geas]] (5 charges), [[5. Mechanics/Spells/Major Image.md\|major image]] (3 charges), [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] (3 charges), [[5. Mechanics/Spells/Suggestion.md\|suggestion]] (2 charges), and [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] (4 charges).
+You may use the amulet to cast any of the following spells using your spell save DC and spell attack bonus: [[/5. Mechanics/Spells/Animate Dead.md\|animate dead]] (3 charges), [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]] (1 charge), [[/5. Mechanics/Spells/Confusion.md\|confusion]] (4 charges), [[/5. Mechanics/Spells/Detect Magic.md\|detect magic]] (1 charge), [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]] (5 charges), [[/5. Mechanics/Spells/Fly.md\|fly]] (3 charges), [[/5. Mechanics/Spells/Geas.md\|geas]] (5 charges), [[/5. Mechanics/Spells/Major Image.md\|major image]] (3 charges), [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] (3 charges), [[/5. Mechanics/Spells/Suggestion.md\|suggestion]] (2 charges), and [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] (4 charges).
 
 ## Teleport
 

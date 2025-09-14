@@ -10,11 +10,11 @@ tags:
 aliases:
   - Trident of the Hydra
 one-hand-damage: 1d6 piercing
-range: 20\60
+range: 20/60
 weight: 4
 ---
 # Trident of the Hydra
-*Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Trident-of-the-Hydra.webp#right)  
 
 - **Damage**: 1d6 piercing

@@ -48,7 +48,7 @@ aliases:
 
 ### Trickery Domain (Level 1)
 
-Gods of trickery—such as Tymora, Beshaba, [[5. Mechanics/Deities/Greyhawk Olidammara.md\|Olidammara]], [[5. Mechanics/Deities/Eberron The Traveler.md\|the Traveler]], [[5. Mechanics/Deities/Nonhuman Garl Glittergold.md\|Garl Glittergold]], and [[5. Mechanics/Deities/Norse Loki.md\|Loki]]—are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.
+Gods of trickery—such as Tymora, Beshaba, [[/5. Mechanics/Deities/Greyhawk Olidammara.md\|Olidammara]], [[/5. Mechanics/Deities/Eberron The Traveler.md\|the Traveler]], [[/5. Mechanics/Deities/Nonhuman Garl Glittergold.md\|Garl Glittergold]], and [[/5. Mechanics/Deities/Norse Loki.md\|Loki]]—are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -56,11 +56,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Disguise Self.md\|disguise self]] |
-| 3rd | [[5. Mechanics/Spells/Mirror Image.md\|mirror image]], [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] |
-| 5th | [[5. Mechanics/Spells/Blink.md\|blink]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] |
-| 7th | [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Polymorph.md\|polymorph]] |
-| 9th | [[5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[5. Mechanics/Spells/Modify Memory.md\|modify memory]] |
+| 1st | [[/5. Mechanics/Spells/Charm Person.md\|charm person]], [[/5. Mechanics/Spells/Disguise Self.md\|disguise self]] |
+| 3rd | [[/5. Mechanics/Spells/Mirror Image.md\|mirror image]], [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] |
+| 5th | [[/5. Mechanics/Spells/Blink.md\|blink]], [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] |
+| 7th | [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] |
+| 9th | [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[/5. Mechanics/Spells/Modify Memory.md\|modify memory]] |
 ^trickery-domain-spells
 
 ### Blessing of the Trickster (Level 1)
@@ -83,14 +83,14 @@ As an action, you become [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisibl
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with poison—a gift from your deity. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) poison damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with poison—a gift from your deity. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) poison damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Divine Strike feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Improved Duplicity (Level 17)
 

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cutpurse
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Cutpurse (SAF).md|Cutpurse]]
+# [[5. Mechanics/Bestiary/Humanoid/Cutpurse (SAF).md|Cutpurse]]
 *Source: Strongholds and Followers p. 79*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+3"
-  - "dexterity": "+6"
-  - "constitution": "+3"
-  - "intelligence": "+6"
-  - "wisdom": "+3"
-  - "charisma": "+3"
+  - "strength": !!int "3"
+  - "dexterity": !!int "6"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+5"
@@ -56,16 +56,16 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
       \ + 2) piercing damage.\n\nAt 7th level, retainers can take two signature attacks\
       \ per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nUsing their signature attack, the\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nUsing their signature attack, the\
       \ cutpurse attacks a weak point on an enemy creature, causing them to fall [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
       \ The target must succeed on a Constitution saving throw or suffer disadvantage\
       \ on all attacks they make until the end of their next turn."
     "name": "Low Blow (1/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe cutpurse throws a satchel of\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe cutpurse throws a satchel of\
       \ powder at a point they can see within 60 feet, and it explodes in a blinding\
       \ flash. Each creature within 5 feet of the flash must make a Constitution saving\
       \ throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]. At the end\
@@ -73,7 +73,7 @@ aliases:
       \ creature can repeat this saving throw. On a success, the creature is no longer\
       \ [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]."
     "name": "Flash Powder (1/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe cutpurse throws a smoke bomb\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe cutpurse throws a smoke bomb\
       \ at a point they can see within 30 feet, and it explodes in a choking cloud\
       \ with a 20-foot radius. Any creature that enters the cloud or starts its turn\
       \ there must make a Constitution saving throw. On a failed save, it takes 16\

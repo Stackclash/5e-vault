@@ -54,7 +54,7 @@ image: null
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 110*
@@ -115,7 +115,7 @@ actions:
 "subtype": "human"
 "alignment": "Lawful Neutral"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
+"ac_class": "[[/5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -138,7 +138,7 @@ actions:
 "languages": "any two languages"
 "cr": "1/8"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
       \ + 1) piercing damage."
     "name": "Rapier"
 "reactions":
@@ -147,7 +147,7 @@ actions:
     "name": "Parry"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/nikolai-wachter-cos.webp"
+"image": "/4. World Almanac/NPCs/token/nikolai-wachter-cos.webp"
 ```
 ^statblock
 

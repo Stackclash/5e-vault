@@ -12,7 +12,7 @@ armorClass: 18
 weight: 65
 ---
 # Remorhaz Plate
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
 
 - **Armor Class**: 18
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
@@ -26,7 +26,7 @@ If this was crafted from an Adult Remorhaz Carapace, you also gain a +1 bonus to
 
 **Items in this group:**
 
-- [[5. Mechanics/Items/Young Remorhaz Plate (HHHVI).md\|Young Remorhaz Plate]]
-- [[5. Mechanics/Items/Adult Remorhaz Plate (HHHVI).md\|Adult Remorhaz Plate]]
+- [[/5. Mechanics/Items/Young Remorhaz Plate (HHHVI).md\|Young Remorhaz Plate]]
+- [[/5. Mechanics/Items/Adult Remorhaz Plate (HHHVI).md\|Adult Remorhaz Plate]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 139*

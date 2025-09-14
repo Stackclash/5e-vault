@@ -111,21 +111,21 @@ Creating a location-based adventure can be broken down into a number of steps. E
 
 The Dungeon Goals table provides common goals that drive or lure adventurers into dungeons. The Wilderness Goals table provides similar inspiration for an adventure focused on outdoor exploration. The Other Goals table suggests location-based adventures that don't fit neatly into the first two categories.
 
-![[5. Mechanics/Tables/Identify The Partys Goals Dungeon Goals.md\|Identify the Party's Goals; Dungeon Goals]]
+![[/5. Mechanics/Tables/Identify The Partys Goals Dungeon Goals.md\|Identify the Party's Goals; Dungeon Goals]]
 
-![[5. Mechanics/Tables/Identify The Partys Goals Wilderness Goals.md\|Identify the Party's Goals; Wilderness Goals]]
+![[/5. Mechanics/Tables/Identify The Partys Goals Wilderness Goals.md\|Identify the Party's Goals; Wilderness Goals]]
 
-![[5. Mechanics/Tables/Identify The Partys Goals Other Goals.md\|Identify the Party's Goals; Other Goals]]
+![[/5. Mechanics/Tables/Identify The Partys Goals Other Goals.md\|Identify the Party's Goals; Other Goals]]
 
 #### 2. Identify Important NPCs
 
 Use the Adventure Villains, Adventure Allies, and Adventure Patrons tables to help you identify these NPCs. Chapter 4 can help you bring these NPCs to life.
 
-![[5. Mechanics/Tables/Identify Important Npcs Adventure Villains.md\|Identify Important NPCs; Adventure Villains]]
+![[/5. Mechanics/Tables/Identify Important Npcs Adventure Villains.md\|Identify Important NPCs; Adventure Villains]]
 
-![[5. Mechanics/Tables/Identify Important Npcs Adventure Allies.md\|Identify Important NPCs; Adventure Allies]]
+![[/5. Mechanics/Tables/Identify Important Npcs Adventure Allies.md\|Identify Important NPCs; Adventure Allies]]
 
-![[5. Mechanics/Tables/Identify Important Npcs Adventure Patrons.md\|Identify Important NPCs; Adventure Patrons]]
+![[/5. Mechanics/Tables/Identify Important Npcs Adventure Patrons.md\|Identify Important NPCs; Adventure Patrons]]
 
 #### 3. Flesh Out the Location Details
 
@@ -135,13 +135,13 @@ Chapter 5 offers suggestions for creating and fleshing out an adventure location
 
 An adventure can begin with a social interaction encounter in which the adventurers find out what they must do and why. It can start with a surprise attack, or with the adventurers coming across information by accident. The best introductions arise naturally from the goals and setting of the adventure. Let the entries in the Adventure Introduction table inspire you.
 
-![[5. Mechanics/Tables/Find The Ideal Introduction Adventure Introduction.md\|Find the Ideal Introduction; Adventure Introduction]]
+![[/5. Mechanics/Tables/Find The Ideal Introduction Adventure Introduction.md\|Find the Ideal Introduction; Adventure Introduction]]
 
 #### 5. Consider the Ideal Climax
 
 The climactic ending of an adventure fulfills the promise of all that came before. Although the climax must hinge on the successes and failures of the characters up to that moment, the Adventure Climax table can provide suggestions to help you shape the end of your adventure.
 
-![[5. Mechanics/Tables/Consider The Ideal Climax Adventure Climax.md\|Consider the Ideal Climax; Adventure Climax]]
+![[/5. Mechanics/Tables/Consider The Ideal Climax Adventure Climax.md\|Consider the Ideal Climax; Adventure Climax]]
 
 #### 6. Plan Encounters
 
@@ -169,7 +169,7 @@ Building on the previous example, you might decide that your vampire villain mur
 
 If you need additional inspiration, consider a few different options for how the villain's actions unfold over the course of the adventure.
 
-![[5. Mechanics/Tables/Determine The Villains Actions Event Based Villain Actions.md\|Determine the Villain's Actions; Event-Based Villain Actions]]
+![[/5. Mechanics/Tables/Determine The Villains Actions Event Based Villain Actions.md\|Determine the Villain's Actions; Event-Based Villain Actions]]
 
 ##### Big Event
 
@@ -199,7 +199,7 @@ In pursuit of its goal, the villain carries out a specific set of actions in a p
 
 You can use the Event-Based Goals table to set the party's goal. A goal can also suggest ways in which the adventurers become caught up in the villain's plans, and what exactly they must do to foil those plans.
 
-![[5. Mechanics/Tables/Determine The Partys Goals Event Based Goals.md\|Determine the Party's Goals; Event-Based Goals]]
+![[/5. Mechanics/Tables/Determine The Partys Goals Event Based Goals.md\|Determine the Party's Goals; Event-Based Goals]]
 
 For example, you roll a 10 on the table, indicating that the party's goal is to secure aid from a ruler or council. You decide to connect that to the leadership of the order targeted by your vampire villain. Maybe the order's leaders have a chest of jewels stolen from the vampire centuries ago, and the characters can use the chest as bait to trap the villain.
 
@@ -301,7 +301,7 @@ Another way to handle influence is to treat it like renown (see chapter 1), allo
 
 You can base an entire adventure on a framing event or use such an event to grab the players' interest. The Framing Events table presents several ideas, or you can use it to inspire your own framing event.
 
-![[5. Mechanics/Tables/Framing Events.md\|Framing Events]]
+![[/5. Mechanics/Tables/Framing Events.md\|Framing Events]]
 
 ## Complications
 
@@ -311,7 +311,7 @@ Sometimes an adventure isn't as straightforward as it might seem.
 
 If you want to give the characters a crisis that no amount of spellcasting or swordplay can resolve, add a moral quandary to the adventure. A moral quandary is a problem of conscience for which the adventurers must make a single choice-but never a simple one.
 
-![[5. Mechanics/Tables/Moral Quandaries.md\|Moral Quandaries]]
+![[/5. Mechanics/Tables/Moral Quandaries.md\|Moral Quandaries]]
 
 #### Ally Quandary
 
@@ -337,13 +337,13 @@ Two important allies give conflicting directions or advice to the adventurers. P
 
 A twist can complicate a story and make it harder for the characters to complete their goals.
 
-![[5. Mechanics/Tables/Twists.md\|Twists]]
+![[/5. Mechanics/Tables/Twists.md\|Twists]]
 
 ### Side Quests
 
 You can also add one or more side quests to your adventure, taking the characters off the main story path defined by location or events. Side quests are peripheral to the characters' primary goal, but successfully completing a side quest might provide a benefit toward completing the primary goal.
 
-![[5. Mechanics/Tables/Side Quests.md\|Side Quests]]
+![[/5. Mechanics/Tables/Side Quests.md\|Side Quests]]
 
 ## Creating Encounters
 
@@ -419,7 +419,7 @@ A hard encounter could go badly for the adventurers. Weaker characters might get
 
 A deadly encounter could be lethal for one or more player characters. Survival often requires good tactics and quick thinking, and the party risks defeat.
 
-![[5. Mechanics/Tables/Combat Encounter Difficulty Xp Thresholds By Character Level.md\|Combat Encounter Difficulty; XP Thresholds by Character Level]]
+![[/5. Mechanics/Tables/Combat Encounter Difficulty Xp Thresholds By Character Level.md\|Combat Encounter Difficulty; XP Thresholds by Character Level]]
 
 > [!note] Challenge Rating
 > 
@@ -465,7 +465,7 @@ This adjusted value is not what the monsters are worth in terms of XP; the adjus
 
 When making this calculation, don't count any monsters whose challenge rating is significantly below the average challenge rating of the other monsters in the group unless you think the weak monsters significantly contribute to the difficulty of the encounter.
 
-![[5. Mechanics/Tables/Modify Total Xp For Multiple Monsters Encounter Multipliers.md\|Modify Total XP for Multiple Monsters; Encounter Multipliers]]
+![[/5. Mechanics/Tables/Modify Total Xp For Multiple Monsters Encounter Multipliers.md\|Modify Total XP for Multiple Monsters; Encounter Multipliers]]
 
 ##### 5 Compare XP
 
@@ -505,7 +505,7 @@ In the same way you figure out the difficulty of an encounter, you can use the X
 
 For each character in the party, use the Adventuring Day XP table to estimate how much XP that character is expected to earn in a day. Add together the values of all party members to get a total for the party's adventuring day. This provides a rough estimate of the adjusted XP value for encounters the party can handle before the characters will need to take a long rest.
 
-![[5. Mechanics/Tables/The Adventuring Day Adventuring Day Xp.md\|The Adventuring Day; Adventuring Day XP]]
+![[/5. Mechanics/Tables/The Adventuring Day Adventuring Day Xp.md\|The Adventuring Day; Adventuring Day XP]]
 
 #### Short Rests
 
@@ -587,11 +587,11 @@ As with planned encounters, random encounters are more interesting when they hap
 
 #### Probabilities
 
-A random encounter table can be created in a number of ways, ranging from simple (roll `dice:1d6|noform|noparens|avg` (`d6`) for one of six possible encounters) to complicated (roll percentile dice, modify for time of day, and cross-index the modified number with the dungeon level). The sample encounter table presented here uses a range of 2 to 20 (nineteen entries total), generated using `dice:1d12+1d8|noform|noparens|avg` (`1d12 + 1d8`). The probability curve ensures that encounters appearing in the middle of the table are more likely to occur than encounters placed at the beginning or end of the table. A roll of 2 or 20 is rare (about a 1 percent chance of either), while each of the rolls from 9 to 13 occurs a little over 8 percent of the time.
+A random encounter table can be created in a number of ways, ranging from simple (roll `dice:1d6|noform|noparens|avg` (`1d6`) for one of six possible encounters) to complicated (roll percentile dice, modify for time of day, and cross-index the modified number with the dungeon level). The sample encounter table presented here uses a range of 2 to 20 (nineteen entries total), generated using `dice:1d12+1d8|noform|noparens|avg` (`1d12 + 1d8`). The probability curve ensures that encounters appearing in the middle of the table are more likely to occur than encounters placed at the beginning or end of the table. A roll of 2 or 20 is rare (about a 1 percent chance of either), while each of the rolls from 9 to 13 occurs a little over 8 percent of the time.
 
 The Sylvan Forest Encounters table is an example of a random encounter table that implements the ideas mentioned above. Creature names in bold refer to stat blocks that appear in the *Monster Manual*.
 
-![[5. Mechanics/Tables/Sylvan Forest Encounters.md\|Sylvan Forest Encounters]]
+![[/5. Mechanics/Tables/Sylvan Forest Encounters.md\|Sylvan Forest Encounters]]
 
 ### Random Encounter Challenge
 

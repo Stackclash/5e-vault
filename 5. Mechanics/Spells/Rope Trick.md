@@ -27,14 +27,12 @@ level: 2
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: powdered corn extract and a twisted loop of parchment
 aliases:
   - Rope Trick
-range: Touch
-material: Powdered corn extract and a twisted loop of parchment.
 ---
 # Rope Trick
 *2nd-level, Transmutation*  
@@ -52,6 +50,6 @@ Attacks and spells can't cross through the entrance into or out of the extradime
 
 Anything inside the extradimensional space drops out when the spell ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Void Domain)](compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Ranger (Gloom Stalker)](compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Angler)](compendium/lists/list-spells-classes-angler-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Void Domain)](/compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Angler)](/compendium/lists/list-spells-classes-angler-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Ranger (Gloom Stalker)](/compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

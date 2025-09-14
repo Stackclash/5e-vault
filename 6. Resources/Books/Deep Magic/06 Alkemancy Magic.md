@@ -27,7 +27,7 @@ The power of alkemancy resides within the six fundamental essences: brimstone, l
 
 ### Brimstone
 
-The yellow of brimstone (otherwise known as sulfur) represents activity, energy, and masculinity, and it's related to the sun, volcanoes, and elemental fire. Brimstone is a destructive essence present in small amounts in explosives, various acids, and in substances such as [[5. Mechanics/Items/Alchemists Fire Flask.md\|alchemist's fire]].
+The yellow of brimstone (otherwise known as sulfur) represents activity, energy, and masculinity, and it's related to the sun, volcanoes, and elemental fire. Brimstone is a destructive essence present in small amounts in explosives, various acids, and in substances such as [[/5. Mechanics/Items/Alchemists Fire Flask.md\|alchemist's fire]].
 
 ### Lead
 
@@ -51,7 +51,7 @@ Dull black crystals distilled from the blood of slain creatures of the Void, the
 
 ## Alkemancy Magic Spell Lists
 
-Most alkemancy spells reside on the [[5. Mechanics/Classes/Wizard.md\|wizard]] spell list. The [[5. Mechanics/Classes/Sorcerer.md\|sorcerer]] and the [[5. Mechanics/Classes/Warlock.md\|warlock]] also have access to a smattering of alkemancy magic.
+Most alkemancy spells reside on the [[/5. Mechanics/Classes/Wizard.md\|wizard]] spell list. The [[/5. Mechanics/Classes/Sorcerer.md\|sorcerer]] and the [[/5. Mechanics/Classes/Warlock.md\|warlock]] also have access to a smattering of alkemancy magic.
 
 > [!note]
 > See the spells page to browse and sort each class' spell list.
@@ -67,53 +67,53 @@ The following spells are presented in alphabetical order.
 > [!note]
 > See the spells page to browse and sort spells. Art from this section is attached to the respective spells.
 
-- [[5. Mechanics/Spells/Acid Gate (KPDM).md\|Acid Gate]]  
-- [[5. Mechanics/Spells/Acid Rain (KPDM).md\|Acid Rain]]  
-- [[5. Mechanics/Spells/Alchemical Form (KPDM).md\|Alchemical Form]]  
-- [[5. Mechanics/Spells/Blood To Acid (KPDM).md\|Blood to Acid]]  
-- [[5. Mechanics/Spells/Boiling Oil (KPDM).md\|Boiling Oil]]  
-- [[5. Mechanics/Spells/Bottled Arcana (KPDM).md\|Bottled Arcana]]  
-- [[5. Mechanics/Spells/Bottomless Stomach (KPDM).md\|Bottomless Stomach]]  
-- [[5. Mechanics/Spells/Brimstone Infusion (KPDM).md\|Brimstone Infusion]]  
-- [[5. Mechanics/Spells/Caustic Torrent (KPDM).md\|Caustic Torrent]]  
-- [[5. Mechanics/Spells/Delay Potion (KPDM).md\|Delay Potion]]  
-- [[5. Mechanics/Spells/Gluey Globule (KPDM).md\|Gluey Globule]]  
-- [[5. Mechanics/Spells/Life Hack (KPDM).md\|Life Hack]]  
-- [[5. Mechanics/Spells/Mephitic Croak (KPDM).md\|Mephitic Croak]]  
-- [[5. Mechanics/Spells/Quicksilver Mantle (KPDM).md\|Quicksilver Mantle]]  
-- [[5. Mechanics/Spells/Ray Of Alchemical Negation (KPDM).md\|Ray of Alchemical Negation]]  
-- [[5. Mechanics/Spells/Salt Lash (KPDM).md\|Salt Lash]]  
+- [[/5. Mechanics/Spells/Acid Gate (KPDM).md\|Acid Gate]]  
+- [[/5. Mechanics/Spells/Acid Rain (KPDM).md\|Acid Rain]]  
+- [[/5. Mechanics/Spells/Alchemical Form (KPDM).md\|Alchemical Form]]  
+- [[/5. Mechanics/Spells/Blood To Acid (KPDM).md\|Blood to Acid]]  
+- [[/5. Mechanics/Spells/Boiling Oil (KPDM).md\|Boiling Oil]]  
+- [[/5. Mechanics/Spells/Bottled Arcana (KPDM).md\|Bottled Arcana]]  
+- [[/5. Mechanics/Spells/Bottomless Stomach (KPDM).md\|Bottomless Stomach]]  
+- [[/5. Mechanics/Spells/Brimstone Infusion (KPDM).md\|Brimstone Infusion]]  
+- [[/5. Mechanics/Spells/Caustic Torrent (KPDM).md\|Caustic Torrent]]  
+- [[/5. Mechanics/Spells/Delay Potion (KPDM).md\|Delay Potion]]  
+- [[/5. Mechanics/Spells/Gluey Globule (KPDM).md\|Gluey Globule]]  
+- [[/5. Mechanics/Spells/Life Hack (KPDM).md\|Life Hack]]  
+- [[/5. Mechanics/Spells/Mephitic Croak (KPDM).md\|Mephitic Croak]]  
+- [[/5. Mechanics/Spells/Quicksilver Mantle (KPDM).md\|Quicksilver Mantle]]  
+- [[/5. Mechanics/Spells/Ray Of Alchemical Negation (KPDM).md\|Ray of Alchemical Negation]]  
+- [[/5. Mechanics/Spells/Salt Lash (KPDM).md\|Salt Lash]]  
 
 ## Alkemancer
 
 > [!embed-subclass]- Alkemancer
-> ![[5. Mechanics/Classes/Wizard Alkemancer (KPDM).md\|Alkemancer]]
+> ![[/5. Mechanics/Classes/Wizard Alkemancer (KPDM).md\|Alkemancer]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/KPDM/full/001-0472.webp#center)
 
 ## The Six Elixirs
 
 > [!embed-item]- The Six Elixirs
-> ![[5. Mechanics/Items/The Six Elixirs (KPDM).md\|The Six Elixirs]]
+> ![[/5. Mechanics/Items/The Six Elixirs (KPDM).md\|The Six Elixirs]]
 
 ## Alkemancy Magic Items
 
-Alkemancers have devised countless magic items over the centuries. Their creations range from fairly standard items such as the [[5. Mechanics/Items/Bubbling Retort (KPDM).md\|bubbling retort]] and [[5. Mechanics/Items/Scalehide Cream (KPDM).md\|scalehide cream]] to uniquely alkemantic items such as [[5. Mechanics/Items/Anuraags Crucible (KPDM).md\|Anuraag's crucible]].
+Alkemancers have devised countless magic items over the centuries. Their creations range from fairly standard items such as the [[/5. Mechanics/Items/Bubbling Retort (KPDM).md\|bubbling retort]] and [[/5. Mechanics/Items/Scalehide Cream (KPDM).md\|scalehide cream]] to uniquely alkemantic items such as [[/5. Mechanics/Items/Anuraags Crucible (KPDM).md\|Anuraag's crucible]].
 
-- [[5. Mechanics/Items/Alembic Of Unmaking (KPDM).md\|Alembic of Unmaking]]  
-- [[5. Mechanics/Items/Anuraags Crucible (KPDM).md\|Anuraag's Crucible]]  
-- [[5. Mechanics/Items/Brain Juice (KPDM).md\|Brain Juice]]  
-- [[5. Mechanics/Items/Bubbling Retort (KPDM).md\|Bubbling Retort]]  
-- [[5. Mechanics/Items/Girdle Of Traveling Alchemy (KPDM).md\|Girdle of Traveling Alchemy]]  
-- [[5. Mechanics/Items/Oil Of Defoliation (KPDM).md\|Oil of Defoliation]]  
-- [[5. Mechanics/Items/Potion Pill Form (KPDM).md\|Potion, Pill Form]]  
-- [[5. Mechanics/Items/Scalehide Cream (KPDM).md\|Scalehide Cream]]  
+- [[/5. Mechanics/Items/Alembic Of Unmaking (KPDM).md\|Alembic of Unmaking]]  
+- [[/5. Mechanics/Items/Anuraags Crucible (KPDM).md\|Anuraag's Crucible]]  
+- [[/5. Mechanics/Items/Brain Juice (KPDM).md\|Brain Juice]]  
+- [[/5. Mechanics/Items/Bubbling Retort (KPDM).md\|Bubbling Retort]]  
+- [[/5. Mechanics/Items/Girdle Of Traveling Alchemy (KPDM).md\|Girdle of Traveling Alchemy]]  
+- [[/5. Mechanics/Items/Oil Of Defoliation (KPDM).md\|Oil of Defoliation]]  
+- [[/5. Mechanics/Items/Potion Pill Form (KPDM).md\|Potion, Pill Form]]  
+- [[/5. Mechanics/Items/Scalehide Cream (KPDM).md\|Scalehide Cream]]  
 
 ## Mundane Alkemical Items
 
 In addition to the many spells and magic items alkemancers have created, they are also responsible for scores of nonmagical items that are tremendously useful. A few of these are described here.
 
-- [[5. Mechanics/Items/Alchemists Ice (KPDM).md\|Alchemist's Ice]]  
-- [[5. Mechanics/Items/Hypodermic Arrow (KPDM).md\|Hypodermic Arrow]]  
-- [[5. Mechanics/Items/Swarm Repellent (KPDM).md\|Swarm Repellent]]  
-- [[5. Mechanics/Items/Tooth Capsule (KPDM).md\|Tooth Capsule]]
+- [[/5. Mechanics/Items/Alchemists Ice (KPDM).md\|Alchemist's Ice]]  
+- [[/5. Mechanics/Items/Hypodermic Arrow (KPDM).md\|Hypodermic Arrow]]  
+- [[/5. Mechanics/Items/Swarm Repellent (KPDM).md\|Swarm Repellent]]  
+- [[/5. Mechanics/Items/Tooth Capsule (KPDM).md\|Tooth Capsule]]

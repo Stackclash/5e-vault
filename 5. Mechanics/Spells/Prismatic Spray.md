@@ -14,25 +14,38 @@ classes:
   - Wizard
 school: Evocation
 level: 7
+damage:
+  base: 10d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - acid
+    - cold
+    - fire
+    - lightning
+    - poison
+saving_throw:
+  skills:
+    - Dexterity
+    - Constitution
+    - Wisdom
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: Self (60-foot Cone)
+somatic: true
+verbal: true
+area:
+  shape: cone
+  size: 60
 aliases:
   - Prismatic Spray
-range: Self
-save:
-  type: DEX
-  success: other
-area:
-  type: cone
-  size: 60
 ---
 # Prismatic Spray
 *7th-level, Evocation*  
-![[5. Mechanics/Spells/img/prismatic-spray.webp#right]]  
+![[/5. Mechanics/Spells/img/prismatic-spray.webp#right]]  
 
 - **Casting time:** 1 Action
 - **Range:** Self (60-foot Cone)
@@ -75,6 +88,6 @@ The target is struck by two rays. Roll twice more, rerolling any 8.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

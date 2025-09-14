@@ -16,7 +16,7 @@ tags:
 aliases:
   - Ghast
 ---
-# [[5. Mechanics\Bestiary\Undead\Ghast.md|Ghast]]
+# [[5. Mechanics/Bestiary/Undead/Ghast.md|Ghast]]
 *Source: Monster Manual p. 148, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
@@ -54,7 +54,8 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Common"
 "cr": "2"
 "traits":
@@ -67,10 +68,10 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
       \ throws against effects that turn undead."
     "name": "Turn Defiance"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 12\
       \ (2d8 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage. If the target is a creature other than an undead,\
       \ it must succeed on a DC 10 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
@@ -79,7 +80,7 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Undead/token/ghast.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/ghast.webp"
 ```
 ^statblock
 

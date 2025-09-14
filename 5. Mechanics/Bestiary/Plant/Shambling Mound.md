@@ -15,7 +15,7 @@ tags:
 aliases:
   - Shambling Mound
 ---
-# [[5. Mechanics\Bestiary\Plant\Shambling Mound.md|Shambling Mound]]
+# [[5. Mechanics/Bestiary/Plant/Shambling Mound.md|Shambling Mound]]
 *Source: Monster Manual p. 270, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
@@ -69,7 +69,8 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 "damage_immunities": "lightning"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
@@ -82,7 +83,7 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
       \ or smaller target, the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 14), and the shambling mound uses its Engulf on it."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage."
     "name": "Slam"
   - "desc": "The shambling mound engulfs a Medium or smaller creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
@@ -97,7 +98,7 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Plant/token/shambling-mound.webp"
+"image": "/5. Mechanics/Bestiary/Plant/token/shambling-mound.webp"
 ```
 ^statblock
 

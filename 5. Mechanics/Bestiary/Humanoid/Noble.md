@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: urban
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Noble
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Noble.md|Noble]]
+# [[5. Mechanics/Bestiary/Humanoid/Noble.md|Noble]]
 *Source: Monster Manual p. 348, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.
@@ -28,7 +28,7 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
+"ac_class": "[[/5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -51,7 +51,7 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 "languages": "any two languages"
 "cr": "1/8"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
       \ + 1) piercing damage."
     "name": "Rapier"
 "reactions":
@@ -62,7 +62,7 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Humanoid/token/noble.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/noble.webp"
 ```
 ^statblock
 

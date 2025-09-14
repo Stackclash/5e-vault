@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\053-cos05-06.webp
+  - ../../../../../4. World Almanac/NPCs/img/053-cos05-06.webp
 relationships: []
 aliases:
   - Yevgeni Krushkin
@@ -54,7 +54,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 100*
@@ -115,7 +115,7 @@ actions:
 "subtype": "human"
 "alignment": "Neutral"
 "ac": !!int "13"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "2"
@@ -146,15 +146,15 @@ actions:
 "actions":
   - "desc": "Yevgeni makes two melee attacks or two ranged attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Shortsword"
-  - "desc": "Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, ranged 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
     "name": "Longbow"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/yevgeni-krushkin-cos.webp"
+"image": "/4. World Almanac/NPCs/token/yevgeni-krushkin-cos.webp"
 ```
 ^statblock
 

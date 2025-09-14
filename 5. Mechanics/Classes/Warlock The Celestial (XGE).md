@@ -60,16 +60,16 @@ The Celestial lets you choose from an expanded list of spells when you learn a w
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], [[5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]] |
-| 2nd | [[5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] |
-| 3rd | [[5. Mechanics/Spells/Daylight.md\|daylight]], [[5. Mechanics/Spells/Revivify.md\|revivify]] |
-| 4th | [[5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]], [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] |
-| 5th | [[5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] |
+| 1st | [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], [[/5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]] |
+| 2nd | [[/5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] |
+| 3rd | [[/5. Mechanics/Spells/Daylight.md\|daylight]], [[/5. Mechanics/Spells/Revivify.md\|revivify]] |
+| 4th | [[/5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]], [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] |
+| 5th | [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] |
 ^celestial-expanded-spells
 
 ### Bonus Cantrips (Level 1)
 
-At 1st level, you learn the [[5. Mechanics/Spells/Sacred Flame.md\|sacred flame]] and [[5. Mechanics/Spells/Light.md\|light]] cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
+At 1st level, you learn the [[/5. Mechanics/Spells/Sacred Flame.md\|sacred flame]] and [[/5. Mechanics/Spells/Light.md\|light]] cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
 
 ### Healing Light (Level 1)
 

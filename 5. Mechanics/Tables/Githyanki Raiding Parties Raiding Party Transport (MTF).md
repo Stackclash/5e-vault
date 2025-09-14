@@ -17,6 +17,6 @@ aliases:
 |----------|-----------------------|
 | 1-2 | One astral skiff carrying entire group |
 | 3-4 | Two astral skiffs, each carrying half of group |
-| 5 | Astral brig carrying entire group plus an additional 30 [[5. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md\|githyanki warriors]] |
-| 6 | Planar raider carrying entire group plus an additional 60 [[5. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md\|githyanki warriors]] |
+| 5 | Astral brig carrying entire group plus an additional 30 [[/5. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md\|githyanki warriors]] |
+| 6 | Planar raider carrying entire group plus an additional 60 [[/5. Mechanics/Bestiary/Humanoid/Githyanki Warrior.md\|githyanki warriors]] |
 ^raiding-party-transport

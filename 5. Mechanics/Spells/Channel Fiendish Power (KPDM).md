@@ -16,16 +16,21 @@ classes:
   - Wizard
 school: Transmutation
 level: 5
+damage:
+  base: 1d8
+  scaling:
+    damage: null
+    level: 6
+  types: []
 ritual: false
 time: 1 Action
 duration: 10 minutes
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: an amulet inscribed with a demonic or diabolic symbol
 aliases:
   - Channel Fiendish Power
-material: an amulet inscribed with a demonic or diabolic symbol
 ---
 # Channel Fiendish Power
 *5th-level, Transmutation*  
@@ -44,11 +49,11 @@ You infuse yourself with dark power from the Lower Planes, which grants you magi
 - Resistance to one of the following damage types: cold, fire, or lightning.  
 - Resistance to bludgeoning, piercing, and slashing damage from weapons that aren't silvered.  
 - Resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.  
-- Claws that grant you a melee weapon attack that deals `dice:1d8|noform|noparens|avg` (`d8`) slashing damage.  
+- Claws that grant you a melee weapon attack that deals `dice:1d8|noform|noparens|avg` (`1d8`) slashing damage.  
 - Wings that grant you a flying speed of 60 feet.  
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can choose one additional benefit to be granted by the spell for each slot level above 5th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 325*

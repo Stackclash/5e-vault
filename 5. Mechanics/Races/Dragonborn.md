@@ -9,9 +9,9 @@ aliases:
 ---
 # Dragonborn
 *Source: Player's Handbook p. 32. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
-![[5. Mechanics/Races/img/dragonborn.webp#right]]  
+![[/5. Mechanics/Races/img/dragonborn.webp#right]]  
 
-- **Ability Scores**: Strength +2; Charisma +1
+- **Ability Scores**: str +2 cha +1
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -67,7 +67,7 @@ Born of dragons, as their name proclaims, the dragonborn walk proudly through a 
 
 ### Proud Dragon Kin
 
-Dragonborn look very much like dragons standing erect in humanoid form, though they lack wings or a tail. The first dragonborn had scales of vibrant hues matching the colors of their dragon kin, but generations of interbreeding have created a more uniform appearance. Their small, fine scales are usually brass or bronze in color, sometimes ranging to scarlet, rust, gold, or copper-green. They are tall and strongly built, often standing close to 6½ feet tall and weighing 300 pounds or more. Their hands and feet are smiting, talonlike claws with three fingers and a thumb on each hand.
+Dragonborn look very much like dragons standing erect in humanoid form, though they lack wings or a tail. The first dragonborn had scales of vibrant hues matching the colors of their dragon kin, but generations of interbreeding have created a more uniform appearance. Their small, fine scales are usually brass or bronze in color, sometimes ranging to scarlet, rust, gold, or copper-green. They are tall and strongly built, often standing close to 6½ feet tall and weighing 300 pounds or more. Their hands and feet are smiting, talon-like claws with three fingers and a thumb on each hand.
 
 The blood of a particular type of dragon runs very strong through some dragonborn clans. These dragonborn often boast scales that more closely match those of their dragon ancestor-bright red, green, blue, or white, lustrous black, or gleaming metallic like gold, silver, brass, copper, or bronze.
 
@@ -90,5 +90,5 @@ Dragonborn have personal names given at birth, but they put their clan names fir
 
 > [!note] Draconians
 > 
-> In the Dragonlance setting, the followers of the evil goddess Takhisis learned a dark ritual that let them corrupt the eggs of metallic dragons, producing evil dragonborn called draconians. Five types of draconians, corresponding to the five types of metallic dragons, fought for Takhis is in the War of the Lance-auraks (gold), baaz (brass), bozak (bronze), kapak (copper), and sivak (silver). In place of their draconic breath weapons they have unique magical abilities.
+> In the Dragonlance setting, the followers of the evil goddess Takhisis learned a dark ritual that let them corrupt the eggs of metallic dragons, producing evil dragonborn called draconians. Five types of draconians, corresponding to the five types of metallic dragons, fought for Takhisis in the War of the Lance-auraks (gold), baaz (brass), bozak (bronze), kapak (copper), and sivak (silver). In place of their draconic breath weapons they have unique magical abilities.
 ^draconians

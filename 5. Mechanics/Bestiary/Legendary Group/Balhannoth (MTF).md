@@ -9,7 +9,7 @@ aliases:
 ---
 # Balhannoth
 
-## Lair actions
+## Lair Actions
 _Source: Mordenkainen's Tome of Foes_
 
 When fighting inside its lair, a balhannoth can use lair actions. On initiative count 20 (losing initiative ties), a balhannoth can take one lair action to cause one of the following effects; the balhannoth can't use the same lair action two rounds in a row:
@@ -18,7 +18,7 @@ When fighting inside its lair, a balhannoth can use lair actions. On initiative 
 - The balhannoth targets one creature within 500 feet of it. The target must succeed on a DC 16 Wisdom saving throw or the target, along with whatever it is wearing and carrying, teleports to an unoccupied space of the balhannoth's choice within 60 feet of it.  
 - The balhannoth targets one creature within 500 feet of it. The target must succeed on a DC 16 Wisdom saving throw or the balhannoth becomes [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]] to that creature for 1 minute. This effect ends if the balhannoth attacks the target.  
 
-## Regional effects
+## Regional Effects
 _Source: Mordenkainen's Tome of Foes_
 
 A region containing a balhannoth's lair becomes warped by the creature's unnatural presence, which creates one or more of the following effects:

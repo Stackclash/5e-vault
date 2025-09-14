@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'grassland, forest, urban'
 size: Medium
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Giant Wasp
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Wasp.md|Giant Wasp]]
+# [[5. Mechanics/Bestiary/Beast/Giant Wasp.md|Giant Wasp]]
 *Source: Monster Manual p. 329. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -40,7 +40,7 @@ aliases:
 "languages": ""
 "cr": "1/2"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5\
       \ (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving\
       \ throw, taking 10 (3d6) poison damage on a failed save, or half as much damage\
       \ on a successful one. If the poison damage reduces the target to 0 hit points,\
@@ -50,7 +50,7 @@ aliases:
     "name": "Sting"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-wasp.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/giant-wasp.webp"
 ```
 ^statblock
 

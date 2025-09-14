@@ -13,7 +13,7 @@ weight: 2
 ---
 # Rod of Rulership
 *Rod, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/rod-of-rulership.webp#right]]  
+![[/5. Mechanics/Items/img/rod-of-rulership.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

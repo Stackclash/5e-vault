@@ -22,23 +22,19 @@ classes:
   - Warlock (The Fiend)
 school: Evocation
 level: 5
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 24 hours
 duration: Until dispelled
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: 'herbs, oils, and incense worth at least 1,000 gp, which the spell consumes'
 aliases:
   - Hallow
-range: Touch
-material: 'Herbs, oils, and incense worth at least 1,000 gp, which the spell consumes.'
-save:
-  type: CHA
-  success: none
-area:
-  type: sphere
-  size: 60
 ---
 # Hallow
 *5th-level, Evocation*  
@@ -96,6 +92,6 @@ Affected creatures can communicate with any other creature in the area, even if 
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]; [Paladin (Oath of the Annihilator)](compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Paladin (Oath of the Watchtower)](compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Ranger (Gravetender)](compendium/lists/list-spells-classes-gravetender-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Ranger (Gravetender)](/compendium/lists/list-spells-classes-gravetender-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]
 
 *Source: Player's Handbook p. 249. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

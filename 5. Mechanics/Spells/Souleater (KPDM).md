@@ -18,15 +18,24 @@ classes:
   - Wizard
 school: Evocation
 level: 5
+damage:
+  base: 2d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
 ritual: false
 time: 1 Bonus Action
-duration: up to 1 hour
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Souleater
-concentration: true
 ---
 # Souleater
 *5th-level, Evocation*  
@@ -40,6 +49,6 @@ You instill a hunger for the life force of others into a weapon you touch. Until
 
 As a bonus action, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of you must make a Constitution saving throw. On a failed save, the creature takes `dice:2d8|noform|noparens|avg` (`2d8`) necrotic damage and you heal half that many hit points. On a successful save, the creature takes half as much damage and you do not heal.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Cleric (Apocalypse Domain)](compendium/lists/list-spells-classes-apocalypse-domain-kpdm.md "subclass=KPDM")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Apocalypse Domain)](/compendium/lists/list-spells-classes-apocalypse-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 313*

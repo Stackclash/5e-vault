@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Retaliating Shield of Ink
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), minor, uncommon*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Retaliating-Shield-of-Ink.webp#right)  
 
 - **Armor Class**: 2

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: urban
 size: Large
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Draft Horse
 ---
-# [[5. Mechanics\Bestiary\Beast\Draft Horse.md|Draft Horse]]
+# [[5. Mechanics/Bestiary/Beast/Draft Horse.md|Draft Horse]]
 *Source: Monster Manual p. 321, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -38,13 +38,13 @@ aliases:
 "languages": ""
 "cr": "1/4"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
       \ + 4) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Beast/token/draft-horse.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/draft-horse.webp"
 ```
 ^statblock
 

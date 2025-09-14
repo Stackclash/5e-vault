@@ -23,9 +23,9 @@ Roll on the table below once for every 1 foot of tape used to determine what gro
 |----------|-------------|
 | 1 | A sickly mushroom. Boiling three of these for 1 hour renders one vial's worth of basic poison. |
 | 2-5 | A cluster of random crops, which yield either 1 pound of wheat (30%), 1 pound of ginger (30%), 1 pound of cloves (30%), or 1 pound of saffron (10%). |
-| 6 | A vine grows from the ground to produce 1d4 berries, which function as if created by the [[5. Mechanics/Spells/Goodberry.md\|goodberry]] spell. |
+| 6 | A vine grows from the ground to produce 1d4 berries, which function as if created by the [[/5. Mechanics/Spells/Goodberry.md\|goodberry]] spell. |
 ^grown-plant
 
-If you use one or more strips of tape to enclose an area, the tape recreates either version of the [[5. Mechanics/Spells/Plant Growth.md\|plant growth]] spell (your choice) for all plants within that area. For example, you can use 20 feet of tape to enclose a 5-foot square, or 30 feet of tape to enclose a 5-foot-radius circle.
+If you use one or more strips of tape to enclose an area, the tape recreates either version of the [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]] spell (your choice) for all plants within that area. For example, you can use 20 feet of tape to enclose a 5-foot square, or 30 feet of tape to enclose a 5-foot-radius circle.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

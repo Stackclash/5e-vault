@@ -17,7 +17,7 @@ tags:
 aliases:
   - Clockwork Bronze Scout
 ---
-# [[5. Mechanics\Bestiary\Construct\Clockwork Bronze Scout (MPMM).md|Clockwork Bronze Scout]]
+# [[5. Mechanics/Bestiary/Construct/Clockwork Bronze Scout (MPMM).md|Clockwork Bronze Scout]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*
 
 A bronze scout seldom emerges from underground. Its telescoping eyestalks observe foes at close range while most of its segmented body remains buried. If detected, it sends electrical shocks through the ground toward pursuers while it retreats.
@@ -90,7 +90,8 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 16"
 "languages": "understands one language of its creator but can't speak"
 "cr": "1"
 "traits":
@@ -103,8 +104,8 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
   - "desc": "The clockwork doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-      \ + 3) piercing damage plus 3 (d6) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
+      \ + 3) piercing damage plus 3 (1d6) lightning damage."
     "name": "Bite"
   - "desc": "Each creature in contact with the ground within 15 feet of the clockwork\
       \ must make a DC 13 Dexterity saving throw, taking 14 (4d6) lightning damage\
@@ -113,7 +114,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Construct/token/clockwork-bronze-scout-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/clockwork-bronze-scout-mpmm.webp"
 ```
 ^statblock
 

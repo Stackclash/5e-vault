@@ -16,7 +16,7 @@ aliases:
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Celestial Sunrise Common (GRIFFONSSADDLEBAG2).md\|Celestial Sunrise (Common)]]  
-- [[5. Mechanics/Items/Celestial Sunrise Uncommon (GRIFFONSSADDLEBAG2).md\|Celestial Sunrise (Uncommon)]]  
+- [[/5. Mechanics/Items/Celestial Sunrise Common (GRIFFONSSADDLEBAG2).md\|Celestial Sunrise (Common)]]  
+- [[/5. Mechanics/Items/Celestial Sunrise Uncommon (GRIFFONSSADDLEBAG2).md\|Celestial Sunrise (Uncommon)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 57*

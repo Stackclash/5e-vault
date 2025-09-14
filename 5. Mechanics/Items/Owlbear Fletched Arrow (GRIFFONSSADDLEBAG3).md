@@ -11,7 +11,7 @@ aliases:
 weight: 0.05
 ---
 # Owlbear-Fletched Arrow
-*Ammunition ([[5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  
+*Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Owlbear-Fletched-Arrow.webp#right)  
 
 - **Weight**: 0.05 lbs.

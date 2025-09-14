@@ -11,11 +11,11 @@ tags:
 aliases:
   - Shade and Shine
 one-hand-damage: 1d6 slashing
-range: 20\60
+range: 20/60
 weight: 2
 ---
 # Shade and Shine
-*Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Shade-and-Shine.webp#right)  
 
 - **Damage**: 1d6 slashing
@@ -29,11 +29,11 @@ When you make an opportunity attack using the axes, you can make two attacks aga
 
 ## Shade
 
-The first axe, named Shade, is made from an inky black metal. Thin plumes of smoke emanate from several small holes found across it. While holding Shade, you can use a bonus action to exude a dark aura, which lasts for 10 minutes or until you use the weapons' Shine property. For the duration, any creature within 10 feet of you that attacks you immediately takes `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage, as smoke-like blades lash out and strike it in return. In addition, your attacks with Shade and Shine deal an extra `dice:1d6|noform|noparens|avg` (`d6`) necrotic damage to any target you hit with them. Once this property has been used, it can't be used again until the next dawn.
+The first axe, named Shade, is made from an inky black metal. Thin plumes of smoke emanate from several small holes found across it. While holding Shade, you can use a bonus action to exude a dark aura, which lasts for 10 minutes or until you use the weapons' Shine property. For the duration, any creature within 10 feet of you that attacks you immediately takes `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage, as smoke-like blades lash out and strike it in return. In addition, your attacks with Shade and Shine deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) necrotic damage to any target you hit with them. Once this property has been used, it can't be used again until the next dawn.
 
 ## Shine
 
-The second axe, named Shine, is made from a pale silver metal. Thin rays of light glimmer from a series of small holes found across it. While holding Shine, you can use a bonus action to exude a brilliant aura, which lasts for 10 minutes or until you use the weapons' Shade property. For the duration, any creature within 10 feet of you that attacks you immediately takes `dice:2d6|noform|noparens|avg` (`2d6`) radiant damage, as blades of pure radiance appear in a flash of light and strike it. In addition, your attacks with Shade and Shine deal an extra `dice:1d6|noform|noparens|avg` (`d6`) radiant damage to any target you hit with them. Once this property has been used, it can't be used again until the next dawn.
+The second axe, named Shine, is made from a pale silver metal. Thin rays of light glimmer from a series of small holes found across it. While holding Shine, you can use a bonus action to exude a brilliant aura, which lasts for 10 minutes or until you use the weapons' Shade property. For the duration, any creature within 10 feet of you that attacks you immediately takes `dice:2d6|noform|noparens|avg` (`2d6`) radiant damage, as blades of pure radiance appear in a flash of light and strike it. In addition, your attacks with Shade and Shine deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) radiant damage to any target you hit with them. Once this property has been used, it can't be used again until the next dawn.
 
 ## Special Reaction
 

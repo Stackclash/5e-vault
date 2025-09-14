@@ -13,7 +13,7 @@ armorClass: 12 + Dex modifier (max of +2)
 weight: 12
 ---
 # Wildskin Armor
-*Medium armor ([[5. Mechanics/Items/Hide Armor.md\|hide armor]]), major, uncommon (requires attunement by a druid)*  
+*Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), major, uncommon (requires attunement by a druid)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wildskin-Armor.webp#right)  
 
 - **Armor Class**: 12 + Dex modifier (max of +2)

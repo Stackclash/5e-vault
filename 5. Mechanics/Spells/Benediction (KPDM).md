@@ -17,16 +17,15 @@ classes:
   - Rogue (Arcane Trickster)
   - Wizard
 school: Abjuration
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Benediction
-concentration: true
 ---
 # Benediction
 *cantrip, Abjuration*  
@@ -38,6 +37,6 @@ concentration: true
 
 You call down a blessing in the name of an angel of protection. A creature you can see within range shimmers with a faint white light. The next time the creature takes damage, it rolls a `dice:d4|noform|noparens|avg` (`d4`) and reduces the damage by the result. The spell then ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 175*

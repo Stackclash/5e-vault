@@ -13,7 +13,7 @@ tags:
 aliases:
   - Healer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Healer (SAF).md|Healer]]
+# [[5. Mechanics/Bestiary/Humanoid/Healer (SAF).md|Healer]]
 *Source: Strongholds and Followers p. 73*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+3"
-  - "dexterity": "+3"
-  - "constitution": "+3"
-  - "intelligence": "+3"
-  - "wisdom": "+6"
-  - "charisma": "+3"
+  - "strength": !!int "3"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]"
     "desc": "+5"
@@ -58,13 +58,13 @@ aliases:
       \ all the rules of a signature attack.\n\nAt 7th level, retainers can take two\
       \ signature attacks per round."
     "name": "Orison"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nAn ally the healer can see within\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nAn ally the healer can see within\
       \ 30 feet regains 7 (1d8 + 3) hit points."
     "name": "Minor Heal (5/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe Healer casts the [[5. Mechanics/Spells/Revivify.md|revivify]]\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe Healer casts the [[/5. Mechanics/Spells/Revivify.md|revivify]]\
       \ spell."
     "name": "Revivify (3/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe Healer casts the [[5. Mechanics/Spells/Guardian Of Faith.md|guardian\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe Healer casts the [[/5. Mechanics/Spells/Guardian Of Faith.md|guardian\
       \ of faith]] spell."
     "name": "Guardian of Faith (3/Day)"
 "source":

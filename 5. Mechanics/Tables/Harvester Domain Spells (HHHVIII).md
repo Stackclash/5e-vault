@@ -11,11 +11,11 @@ aliases:
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Hamunds Harvesting Hands (HHHVII).md\|hamund's harvesting hands]]*, [[5. Mechanics/Spells/Identify Vitals (HHHVII).md\|identify vitals]]* |
-| 3rd | [[5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], [[5. Mechanics/Spells/Transfusion (HHHVII).md\|transfusion]]* |
-| 5th | [[5. Mechanics/Spells/Recomposition (HHHVII).md\|recomposition]]*, [[5. Mechanics/Spells/Slow.md\|slow]] |
-| 7th | [[5. Mechanics/Spells/Cold Storage (HHHVII).md\|cold storage]]*, [[5. Mechanics/Spells/Locate Creature.md\|locate creature]] |
-| 9th | [[5. Mechanics/Spells/Conjure Creature (HHHVII).md\|conjure creature]]*, [[5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
+| 1st | [[/5. Mechanics/Spells/Hamunds Harvesting Hands (HHHVII).md\|hamund's harvesting hands]]*, [[/5. Mechanics/Spells/Identify Vitals (HHHVII).md\|identify vitals]]* |
+| 3rd | [[/5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], [[/5. Mechanics/Spells/Transfusion (HHHVII).md\|transfusion]]* |
+| 5th | [[/5. Mechanics/Spells/Recomposition (HHHVII).md\|recomposition]]*, [[/5. Mechanics/Spells/Slow.md\|slow]] |
+| 7th | [[/5. Mechanics/Spells/Cold Storage (HHHVII).md\|cold storage]]*, [[/5. Mechanics/Spells/Locate Creature.md\|locate creature]] |
+| 9th | [[/5. Mechanics/Spells/Conjure Creature (HHHVII).md\|conjure creature]]*, [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
 ^cleric-level-spells
 
 > [!note]

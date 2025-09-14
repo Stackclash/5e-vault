@@ -18,16 +18,21 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: false
+verbal: true
+material: a feather
 aliases:
   - Feather Travel
-concentration: true
-material: a feather
 ---
 # Feather Travel
 *2nd-level, Transmutation*  
@@ -41,6 +46,6 @@ The target of this spell (along with its clothing and other gear) transforms int
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, two additional creatures can be transformed per slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 69*

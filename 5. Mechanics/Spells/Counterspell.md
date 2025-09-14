@@ -28,14 +28,20 @@ classes:
   - Wizard
 school: Abjuration
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
 ritual: false
 time: 1 Reaction
 duration: Instantaneous
-components:
-  - S
+range: 60 feet
+somatic: true
+verbal: false
 aliases:
   - Counterspell
-range: 60 feet
 ---
 # Counterspell
 *3rd-level, Abjuration*  
@@ -49,6 +55,6 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
 
-**Classes**: [Sorcerer (Fey Soul)](compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Paladin (Oath of the Watchers)](compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Prophecy Domain)](compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Redemption)](compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Prophecy Domain)](/compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [Paladin (Oath of the Watchers)](/compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Fey Soul)](/compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 228. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

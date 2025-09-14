@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mighty Servant of Leuk-o
 ---
-# [[5. Mechanics\Bestiary\Construct\Mighty Servant Of Leuk O (TCE).md|Mighty Servant of Leuk-o]]
+# [[5. Mechanics/Bestiary/Construct/Mighty Servant Of Leuk O (TCE).md|Mighty Servant of Leuk-o]]
 *Source: Tasha's Cauldron of Everything p. 131*
 
 ```statblock
@@ -35,8 +35,8 @@ aliases:
   - !!int "10"
 "speed": "60 ft."
 "saves":
-  - "wisdom": "+9"
-  - "charisma": "+7"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+9"
@@ -50,7 +50,8 @@ aliases:
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "blindsight 120 ft., passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft., passive Perception\
+  \ 19"
 "languages": "understands the languages of creatures attuned to it but can't speak"
 "traits":
   - "desc": "The servant is immune to any spell or effect that would alter its form\
@@ -70,9 +71,9 @@ aliases:
   - "desc": "The servant doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 36\
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 36\
       \ (4d12 + 10) force damage. Or Ranged Weapon Attack: +17 to hit, range 120 ft.,\
-      \ one target. Hit: 36 (4d12 + 10) force damage. If the target is an object,\
+      \ one target. *Hit:* 36 (4d12 + 10) force damage. If the target is an object,\
       \ it takes triple damage."
     "name": "Destructive Fist"
   - "desc": "If the servant jumps at least 25 feet as part of its movement, it can\
@@ -85,7 +86,7 @@ aliases:
     "name": "Crushing Leap"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Construct/token/mighty-servant-of-leuk-o-tce.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/mighty-servant-of-leuk-o-tce.webp"
 ```
 ^statblock
 

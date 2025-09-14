@@ -48,7 +48,7 @@ aliases:
 
 ### Knowledge Domain (Level 1)
 
-The gods of knowledge—including Oghma, [[5. Mechanics/Deities/Greyhawk Boccob.md\|Boccob]], [[5. Mechanics/Deities/Dragonlance Gilean (PHB).md\|Gilean]], [[5. Mechanics/Deities/Eberron Aureon.md\|Aureon]], and [[5. Mechanics/Deities/Egyptian Thoth.md\|Thoth]]—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, [[5. Mechanics/Deities/Dragonlance Reorx (PHB).md\|Reorx]], [[5. Mechanics/Deities/Eberron Onatar.md\|Onatar]], [[5. Mechanics/Deities/Nonhuman Moradin.md\|Moradin]], [[5. Mechanics/Deities/Greek Hephaest(US).md\|Hephaestus]], and [[5. Mechanics/Deities/Celtic Goibhniu.md\|Goibhniu]].
+The gods of knowledge—including Oghma, [[/5. Mechanics/Deities/Greyhawk Boccob.md\|Boccob]], [[/5. Mechanics/Deities/Dragonlance Gilean (PHB).md\|Gilean]], [[/5. Mechanics/Deities/Eberron Aureon.md\|Aureon]], and [[/5. Mechanics/Deities/Egyptian Thoth.md\|Thoth]]—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, [[/5. Mechanics/Deities/Dragonlance Reorx (PHB).md\|Reorx]], [[/5. Mechanics/Deities/Eberron Onatar.md\|Onatar]], [[/5. Mechanics/Deities/Nonhuman Moradin.md\|Moradin]], [[/5. Mechanics/Deities/Greek Hephaest(US).md\|Hephaestus]], and [[/5. Mechanics/Deities/Celtic Goibhniu.md\|Goibhniu]].
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -56,11 +56,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Command.md\|command]], [[5. Mechanics/Spells/Identify.md\|identify]] |
-| 3rd | [[5. Mechanics/Spells/Augury.md\|augury]], [[5. Mechanics/Spells/Suggestion.md\|suggestion]] |
-| 5th | [[5. Mechanics/Spells/Nondetection.md\|nondetection]], [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] |
-| 7th | [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]], [[5. Mechanics/Spells/Confusion.md\|confusion]] |
-| 9th | [[5. Mechanics/Spells/Legend Lore.md\|legend lore]], [[5. Mechanics/Spells/Scrying.md\|scrying]] |
+| 1st | [[/5. Mechanics/Spells/Command.md\|command]], [[/5. Mechanics/Spells/Identify.md\|identify]] |
+| 3rd | [[/5. Mechanics/Spells/Augury.md\|augury]], [[/5. Mechanics/Spells/Suggestion.md\|suggestion]] |
+| 5th | [[/5. Mechanics/Spells/Nondetection.md\|nondetection]], [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] |
+| 7th | [[/5. Mechanics/Spells/Arcane Eye.md\|arcane eye]], [[/5. Mechanics/Spells/Confusion.md\|confusion]] |
+| 9th | [[/5. Mechanics/Spells/Legend Lore.md\|legend lore]], [[/5. Mechanics/Spells/Scrying.md\|scrying]] |
 ^knowledge-domain-spells
 
 ### Blessings of Knowledge (Level 1)
@@ -81,7 +81,7 @@ As an action, choose one creature that you can see within 60 feet of you. That c
 
 If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.
 
-During that time, you can use your action to end this effect and cast the [[5. Mechanics/Spells/Suggestion.md\|suggestion]] spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
+During that time, you can use your action to end this effect and cast the [[/5. Mechanics/Spells/Suggestion.md\|suggestion]] spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
 
 ### Potent Spellcasting (Level 8)
 
@@ -92,7 +92,7 @@ _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Potent Spellcasting feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Visions of the Past (Level 17)
 

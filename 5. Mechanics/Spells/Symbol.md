@@ -18,22 +18,34 @@ classes:
   - Wizard
 school: Abjuration
 level: 7
+damage:
+  base: 10d10
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
+saving_throw:
+  skills:
+    - Constitution
+    - Wisdom
+    - Charisma
+    - Intelligence
+  succeeds: half damage
 ritual: false
 time: 1 minute
-duration: Until dispelled
-components:
-  - V
-  - S
-  - M
+duration: Until dispelled or triggered
+range: Touch
+somatic: true
+verbal: true
+material: >-
+  mercury, phosphorus, and powdered diamond and opal with a total value of at
+  least 1,000 gp, which the spell consumes
+area:
+  shape: sphere
+  size: 60
 aliases:
   - Symbol
-range: Touch
-material: >-
-  Mercury, phosphorus, and powdered diamond and opal with a total value of at
-  least 1,000 gp, which the spell consumes.
-area:
-  type: cube
-  size: 10
 ---
 # Symbol
 *7th-level, Abjuration*  
@@ -87,6 +99,6 @@ Each target must make a Wisdom saving throw and becomes [[/5. Mechanics/Rules/Co
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 280. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

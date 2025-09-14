@@ -13,7 +13,7 @@ tags:
 aliases:
   - Enchanter
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Enchanter (SAF).md|Enchanter]]
+# [[5. Mechanics/Bestiary/Humanoid/Enchanter (SAF).md|Enchanter]]
 *Source: Strongholds and Followers p. 80*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+3"
-  - "dexterity": "+3"
-  - "constitution": "+3"
-  - "intelligence": "+6"
-  - "wisdom": "+6"
-  - "charisma": "+3"
+  - "strength": !!int "3"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+5"
@@ -52,17 +52,17 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "The enchanter casts the [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\
+  - "desc": "The enchanter casts the [[/5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\
       \ cantrip (+6 to hit).\n\nAt 7th level, retainers can take two signature attacks\
       \ per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nThe enchanter casts the [[5. Mechanics/Spells/Melfs Acid Arrow.md|acid arrow]]\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nThe enchanter casts the [[/5. Mechanics/Spells/Melfs Acid Arrow.md|acid arrow]]\
       \ spell (+6 to hit)."
     "name": "Acid Arrow (3/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe enchanter casts the [[5. Mechanics/Spells/Fireball.md|fireball]]\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe enchanter casts the [[/5. Mechanics/Spells/Fireball.md|fireball]]\
       \ spell."
     "name": "Fireball (1/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe enchanter casts the [[5. Mechanics/Spells/Confusion.md|confusion]]\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe enchanter casts the [[/5. Mechanics/Spells/Confusion.md|confusion]]\
       \ spell (spell save DC 15)."
     "name": "Confusion (3/Day)"
 "source":

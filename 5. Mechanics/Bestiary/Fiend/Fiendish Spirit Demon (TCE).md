@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fiendish Spirit (Demon)
 ---
-# [[5. Mechanics\Bestiary\Fiend\Fiendish Spirit Demon (TCE).md|Fiendish Spirit (Demon)]]
+# [[5. Mechanics/Bestiary/Fiend/Fiendish Spirit Demon (TCE).md|Fiendish Spirit (Demon)]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock
@@ -34,7 +34,8 @@ aliases:
 "damage_resistances": "fire"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "traits":
   - "desc": "The fiend has advantage on saving throws against spells and other magical\
@@ -49,8 +50,8 @@ aliases:
   - "desc": "The fiend makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d12 + 3 + the spell's level necrotic damage."
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d12 + 3 + the spell's level necrotic damage."
     "name": "Bite"
 "source":
   - "TCE"

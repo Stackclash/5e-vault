@@ -16,17 +16,21 @@ classes:
   - Sorcerer (Divine Soul)
 school: Evocation
 level: 5
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 6
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: Self
+somatic: true
+verbal: true
+material: 'a vial of holy water, which is consumed'
 aliases:
   - Holy Ground
-concentration: true
-material: 'a vial of holy water, which is consumed'
 ---
 # Holy Ground
 *5th-level, Evocation*  
@@ -40,6 +44,6 @@ You invoke divine powers to bless the ground within 60 feet of you. Creatures sl
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the level of spells that are prevented from functioning increases by 1 for each slot level above 5th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 81*

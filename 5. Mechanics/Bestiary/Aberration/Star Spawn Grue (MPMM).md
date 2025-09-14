@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'mountain, swamp'
 size: Small
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Star Spawn Grue
 ---
-# [[5. Mechanics\Bestiary\Aberration\Star Spawn Grue (MPMM).md|Star Spawn Grue]]
+# [[5. Mechanics/Bestiary/Aberration/Star Spawn Grue (MPMM).md|Star Spawn Grue]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*
 
 Fanged and lipless, the ever-grinning, eerily staring grue lopes about on spindly legs and long arms. Bristles and spines project from odd patches of its grayish skin, and its long fingers end in broken and dirty nails. Grues are the weakest of the star spawn. A host of writhing, scrambling grues typically accompanies more powerful star spawn. Their constant chittering and shrieking produce discordant psychic energy that disrupts thought patterns in other creatures, which experience flashing colors, hallucinations, disorientation, and waves of hopelessness.
@@ -62,7 +62,8 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "psychic"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Deep Speech"
 "cr": "1/4"
 "traits":
@@ -71,7 +72,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
       \ a star spawn grue."
     "name": "Aura of Shrieks"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
       \ + 1) piercing damage, and the target must succeed on a DC 10 Wisdom saving\
       \ throw or attack rolls against it have advantage until the start of the grue's\
       \ next turn."
@@ -79,7 +80,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/star-spawn-grue-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/star-spawn-grue-mpmm.webp"
 ```
 ^statblock
 

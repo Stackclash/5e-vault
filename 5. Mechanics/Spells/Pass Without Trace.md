@@ -36,16 +36,13 @@ school: Abjuration
 level: 2
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Self
+somatic: true
+verbal: true
+material: ashes from a burned leaf of mistletoe and a sprig of spruce
 aliases:
   - Pass without Trace
-range: Self
-material: Ashes from a burned leaf of mistletoe and a sprig of spruce.
-concentration: true
 ---
 # Pass without Trace
 *2nd-level, Abjuration*  
@@ -57,6 +54,8 @@ concentration: true
 
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [Paladin (Oath of the Open Road)](compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Cat Domain)](compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [Bard (Greenleaf College)](compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Cleric (Hunting Domain)](compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [Cleric (Labyrinth Domain)](compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Travel Domain)](compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [[5. Mechanics/Lists/List Spells Classes Way Of Shadow.md\|Monk (Way of Shadow)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [Bard (Greenleaf College)](/compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [Cleric (Hunting Domain)](/compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [Cleric (Labyrinth Domain)](/compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [Cleric (Travel Domain)](/compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Way Of Shadow.md\|Monk (Way of Shadow)]]; [Paladin (Oath of the Open Road)](/compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
 
 *Source: Player's Handbook p. 264. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

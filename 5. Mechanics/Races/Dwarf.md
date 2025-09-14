@@ -9,9 +9,9 @@ aliases:
 ---
 # Dwarf
 *Source: Player's Handbook p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
-![[5. Mechanics/Races/img/dwarf.webp#right]]  
+![[/5. Mechanics/Races/img/dwarf.webp#right]]  
 
-- **Ability Scores**: Constitution +2
+- **Ability Scores**: con +2
 - **Size**: Medium
 - **Speed**: 25 ft.
 
@@ -39,11 +39,11 @@ You have advantage on saving throws against poison, and you have resistance agai
 
 ### Dwarven Combat Training
 
-You have proficiency with the [[5. Mechanics/Items/Battleaxe.md\|battleaxe]], [[5. Mechanics/Items/Handaxe.md\|handaxe]], [[5. Mechanics/Items/Light Hammer.md\|light hammer]], and [[5. Mechanics/Items/Warhammer.md\|warhammer]].
+You have proficiency with the [[/5. Mechanics/Items/Battleaxe.md\|battleaxe]], [[/5. Mechanics/Items/Handaxe.md\|handaxe]], [[/5. Mechanics/Items/Light Hammer.md\|light hammer]], and [[/5. Mechanics/Items/Warhammer.md\|warhammer]].
 
 ### Tool Proficiency
 
-You gain proficiency with the artisan's tools of your choice: [[5. Mechanics/Items/Smiths Tools.md\|Smith's tools]], [[5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]], or [[5. Mechanics/Items/Masons Tools.md\|mason's tools]].
+You gain proficiency with the artisan's tools of your choice: [[/5. Mechanics/Items/Smiths Tools.md\|Smith's tools]], [[/5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]], or [[/5. Mechanics/Items/Masons Tools.md\|mason's tools]].
 
 ### Stonecunning
 

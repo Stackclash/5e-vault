@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Shield of Expression
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), minor, common*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), minor, common*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

@@ -14,28 +14,32 @@ classes:
   - Wizard
 school: Conjuration
 level: 5
+damage:
+  base: 3d6
+  scaling:
+    damage: null
+    level: 6
+  types: []
 ritual: false
 time: 1 minute
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: 90 feet
+somatic: true
+verbal: true
+material: a ruby worth at least 999 gp
 aliases:
   - Infernal Calling
-concentration: true
-material: a ruby worth at least 999 gp
 ---
 # Infernal Calling
 *5th-level, Conjuration*  
-![[5. Mechanics/Spells/img/infernal-calling.webp#right]]  
+![[/5. Mechanics/Spells/img/infernal-calling.webp#right]]  
 
 - **Casting time:** 1 minute
 - **Range:** 90 feet
 - **Components:** V, S, M (a ruby worth at least 999 gp)
 - **Duration:** Concentration, up to 1 hour
 
-Uttering a dark incantation, you summon a devil from the Nine Hells. You choose the devil's type, which must be one of challenge rating 6 or lower, such as a [[5. Mechanics/Bestiary/Fiend/Barbed Devil.md\|barbed devil]] or a [[5. Mechanics/Bestiary/Fiend/Bearded Devil.md\|bearded devil]]. The devil appears in an unoccupied space that you can see within range. The devil disappears when it drops to 0 hit points or when the spell ends.
+Uttering a dark incantation, you summon a devil from the Nine Hells. You choose the devil's type, which must be one of challenge rating 6 or lower, such as a [[/5. Mechanics/Bestiary/Fiend/Barbed Devil.md\|barbed devil]] or a [[/5. Mechanics/Bestiary/Fiend/Bearded Devil.md\|bearded devil]]. The devil appears in an unoccupied space that you can see within range. The devil disappears when it drops to 0 hit points or when the spell ends.
 
 The devil is unfriendly toward you and your companions. Roll initiative for the devil, which has its own turns. It is under the Dungeon Master's control and acts according to its nature on each of its turns, which might result in its attacking you if it thinks it can prevail, or trying to tempt you to undertake an evil act in exchange for limited service. The DM has the creature's statistics.
 
@@ -47,6 +51,6 @@ If you possess an individual devil's talisman, you can summon that devil if it i
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 158*

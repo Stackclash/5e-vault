@@ -21,7 +21,7 @@ The crown has the following properties.
 
 ## Curse Bestowment
 
-While wearing this crown, you can use an action to touch a creature and cast the [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] spell on it from the crown (save DC 16). If you hit a creature with a melee attack, you can cast the spell on that creature in this way (as if you were touching it) before the end of your next turn. You must be able to see the creature.
+While wearing this crown, you can use an action to touch a creature and cast the [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] spell on it from the crown (save DC 16). If you hit a creature with a melee attack, you can cast the spell on that creature in this way (as if you were touching it) before the end of your next turn. You must be able to see the creature.
 
 ## Curse Suppression
 

@@ -34,17 +34,21 @@ classes:
   - Wizard
 school: Necromancy
 level: 1
+damage:
+  base: 1d4+4
+  scaling:
+    damage: null
+    level: 2
+  types: []
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: a small amount of alcohol or distilled spirits
 aliases:
   - False Life
-range: Self
-material: A small amount of alcohol or distilled spirits.
 ---
 # False Life
 *1st-level, Necromancy*  
@@ -58,6 +62,8 @@ Bolstering yourself with a necromantic facsimile of life, you gain `dice:1d4+4|n
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Warlock (The Lithic)](compendium/lists/list-spells-classes-the-lithic-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Grave Domain)](compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Cleric (Hunger Domain)](compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [Warlock (The Undead)](compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Death Domain)](compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Grave Domain)](/compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Cleric (Hunger Domain)](/compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Lithic)](/compendium/lists/list-spells-classes-the-lithic-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Warlock (The Undead)](/compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Shadow Touched (TCE).md\|Shadow Touched]]
 
 *Source: Player's Handbook p. 239. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

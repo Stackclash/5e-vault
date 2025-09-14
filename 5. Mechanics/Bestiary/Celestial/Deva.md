@@ -13,7 +13,7 @@ tags:
 aliases:
   - Deva
 ---
-# [[5. Mechanics\Bestiary\Celestial\Deva.md|Deva]]
+# [[5. Mechanics/Bestiary/Celestial/Deva.md|Deva]]
 *Source: Monster Manual p. 16, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -59,8 +59,8 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
   - !!int "20"
 "speed": "30 ft., fly 90 ft."
 "saves":
-  - "wisdom": "+9"
-  - "charisma": "+9"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+9"
@@ -69,14 +69,15 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 120 ft., passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 19"
 "languages": "all, telepathy 120 ft."
 "cr": "10"
 "traits":
   - "desc": "The deva's spellcasting ability is Charisma (spell save DC 17). The deva\
       \ can innately cast the following spells, requiring only verbal components:\n\
-      \nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
+      \n**At will:** [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Commune.md|commune]], [[/5. Mechanics/Spells/Raise Dead.md|raise dead]]"
     "name": "Innate Spellcasting"
   - "desc": "The deva's weapon attacks are magical. When the deva hits with any weapon,\
       \ the weapon deals an extra 4d8 radiant damage (included in the attack)."
@@ -87,7 +88,7 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 "actions":
   - "desc": "The deva makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) bludgeoning damage plus 18 (4d8) radiant damage."
     "name": "Mace"
   - "desc": "The deva touches another creature. The target magically regains 20 (4d8\
@@ -107,7 +108,7 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Celestial/token/deva.webp"
+"image": "/5. Mechanics/Bestiary/Celestial/token/deva.webp"
 ```
 ^statblock
 

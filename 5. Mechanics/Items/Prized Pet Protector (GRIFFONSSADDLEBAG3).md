@@ -17,6 +17,6 @@ A typical prized pet protector, an uncommon item, is a colorful bandana featurin
 
 The following prized pet protector is a rare variant with additional properties. It's made of fine silk, and its designs are embroidered with golden thread. A beast that wears it also gains a +2 bonus to saving throws.
 
-If the beast wearing the bandana is a transformed humanoid or other creature, such as by the [[5. Mechanics/Spells/Polymorph.md\|polymorph]] spell or similar magic, the bandana has no effect on it. The bandana can be worn over a collar.
+If the beast wearing the bandana is a transformed humanoid or other creature, such as by the [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] spell or similar magic, the bandana has no effect on it. The bandana can be worn over a collar.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

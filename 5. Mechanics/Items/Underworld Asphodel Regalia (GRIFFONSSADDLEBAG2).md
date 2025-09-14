@@ -16,7 +16,7 @@ aliases:
 
 This set of royal finery was worn by a noble necromancer with a unique appreciation for the quality of life that extends beyond death. Asphodel blossoms, representing life beyond the tomb, ornament this enchanted outfit. The lush flowers in its laurel crown are nestled among long-dead leaves.
 
-While wearing the regalia, you can cast the [[5. Mechanics/Spells/Animate Dead.md\|animate dead]] spell from it over the course of 1 minute. You can use this property a number of times equal to your spellcasting ability modifier, and you regain all expended uses daily at dusk. When you create an undead using a necromancy spell, the creature's hit point maximum is increased by an amount equal to five times your spellcasting ability modifier. In addition, when you cast a spell that deals necrotic damage, you can add your spellcasting ability modifier to one damage roll of that spell.
+While wearing the regalia, you can cast the [[/5. Mechanics/Spells/Animate Dead.md\|animate dead]] spell from it over the course of 1 minute. You can use this property a number of times equal to your spellcasting ability modifier, and you regain all expended uses daily at dusk. When you create an undead using a necromancy spell, the creature's hit point maximum is increased by an amount equal to five times your spellcasting ability modifier. In addition, when you cast a spell that deals necrotic damage, you can add your spellcasting ability modifier to one damage roll of that spell.
 
 ## Chthonic Command
 
@@ -29,6 +29,6 @@ You can use this property a number of times equal to your spellcasting ability m
 
 ## Ruler of the Dead
 
-You are always under the effects of the [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]] spell. This version of the spell only affects undead. If you make an attack or cast a spell that affects an undead creature, that creature is immune to this spell's effects for 24 hours.
+You are always under the effects of the [[/5. Mechanics/Spells/Sanctuary.md\|sanctuary]] spell. This version of the spell only affects undead. If you make an attack or cast a spell that affects an undead creature, that creature is immune to this spell's effects for 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 178*

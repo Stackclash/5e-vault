@@ -17,10 +17,10 @@ tags:
 aliases:
   - Clockwork Stone Defender
 ---
-# [[5. Mechanics\Bestiary\Construct\Clockwork Stone Defender (MPMM).md|Clockwork Stone Defender]]
+# [[5. Mechanics/Bestiary/Construct/Clockwork Stone Defender (MPMM).md|Clockwork Stone Defender]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*
 
-The thick plates of stone riveted onto a stone [[5. Mechanics/Items/Defender.md|defender]] give it substantial protection. Its chief role is as a bodyguard.
+The thick plates of stone riveted onto a stone [[/5. Mechanics/Items/Defender.md|defender]] give it substantial protection. Its chief role is as a bodyguard.
 
 ## Clockworks
 
@@ -86,7 +86,8 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands one language of its creator but can't speak"
 "cr": "4"
 "traits":
@@ -96,7 +97,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
   - "desc": "The clockwork doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage, and if the target is Large or smaller, it is\
       \ knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Slam"
@@ -109,7 +110,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Construct/token/clockwork-stone-defender-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/clockwork-stone-defender-mpmm.webp"
 ```
 ^statblock
 

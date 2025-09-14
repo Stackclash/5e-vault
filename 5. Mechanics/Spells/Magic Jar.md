@@ -12,22 +12,21 @@ classes:
   - Wizard
 school: Necromancy
 level: 6
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 minute
 duration: Until dispelled
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: >-
+  a gem, crystal, reliquary, or some other ornamental container worth at least
+  500 gp
 aliases:
   - Magic Jar
-range: Self
-material: >-
-  A gem, crystal, reliquary, or some other ornamental container worth at least
-  500 gp.
-save:
-  type: CHA
-  success: other
 ---
 # Magic Jar
 *6th-level, Necromancy*  
@@ -39,7 +38,7 @@ save:
 
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoid's body.
 
-You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] or [[5. Mechanics/Spells/Magic Circle.md\|magic circle]] spell can't be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
+You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] or [[/5. Mechanics/Spells/Magic Circle.md\|magic circle]] spell can't be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 
 Once you possess a creature's body, you control it. Your game statistics are replaced by the statistics of the creature, though you retain your alignment and your Intelligence, Wisdom, and Charisma scores. You retain the benefit of your own class features. If the target has any class levels, you can't use any of its class features.
 
@@ -51,6 +50,6 @@ If the container is destroyed or the spell ends, your soul immediately returns t
 
 When the spell ends, the container is destroyed.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

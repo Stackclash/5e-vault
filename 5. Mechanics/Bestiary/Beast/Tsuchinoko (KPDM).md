@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Tiny
 tags:
@@ -13,10 +13,10 @@ tags:
 aliases:
   - Tsuchinoko
 ---
-# [[5. Mechanics\Bestiary\Beast\Tsuchinoko (KPDM).md|Tsuchinoko]]
+# [[5. Mechanics/Bestiary/Beast/Tsuchinoko (KPDM).md|Tsuchinoko]]
 *Source: Deep Magic p. 294*
 
-A snakelike creature with a fondness for alcohol that lurks in forests, the tsuchinoko is more capable than a typical standard familiar, and as such at least 50 gp worth of wine or spirits must be expended as part of the casting of the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] spell.
+A snakelike creature with a fondness for alcohol that lurks in forests, the tsuchinoko is more capable than a typical standard familiar, and as such at least 50 gp worth of wine or spirits must be expended as part of the casting of the [[/5. Mechanics/Spells/Find Familiar.md|find familiar]] spell.
 
 ```statblock
 "name": "Tsuchinoko (KPDM)"
@@ -42,7 +42,8 @@ A snakelike creature with a fondness for alcohol that lurks in forests, the tsuc
     "desc": "+6"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 10 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., passive Perception\
+  \ 13"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -59,7 +60,7 @@ A snakelike creature with a fondness for alcohol that lurks in forests, the tsuc
   - "desc": "The tsuchinoko makes two Leaping Bite attacks. The second attack is made\
       \ with disadvantage and must be against the same target as the first."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 1\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 1\
       \ piercing damage plus 5 (2d4) poison damage."
     "name": "Leaping Bite"
   - "desc": "The tsuchinoko bites its tail, forming a hoop with its body. While in\

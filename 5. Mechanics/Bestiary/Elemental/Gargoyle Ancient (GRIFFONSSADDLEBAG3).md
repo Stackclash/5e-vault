@@ -13,7 +13,7 @@ tags:
 aliases:
   - 'Gargoyle, Ancient'
 ---
-# [[5. Mechanics\Bestiary\Elemental\Gargoyle Ancient (GRIFFONSSADDLEBAG3).md|Gargoyle, Ancient]]
+# [[5. Mechanics/Bestiary/Elemental/Gargoyle Ancient (GRIFFONSSADDLEBAG3).md|Gargoyle, Ancient]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Gargoyles that have survived for centuries become ancient, all-knowing statues. Some adventurers turn to such gargoyles, despite the risks, in hopes of gleaning information from their wisdom and lasting memories. Their gaze can even create new statues by petrifying living creatures.
@@ -39,8 +39,8 @@ Conversely, small statuettes posessed by the same sentience granted by the Eleme
   - !!int "8"
 "speed": "30 ft., fly 60 ft."
 "saves":
-  - "constitution": "+9"
-  - "charisma": "+3"
+  - "constitution": !!int "9"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
     "desc": "+3"
@@ -50,7 +50,8 @@ Conversely, small statuettes posessed by the same sentience granted by the Eleme
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 16"
 "languages": "Terran"
 "cr": "9"
 "traits":
@@ -64,10 +65,10 @@ Conversely, small statuettes posessed by the same sentience granted by the Eleme
   - "desc": "The gargoyle makes three attacks: one with its bite and two with its\
       \ fists."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16\
       \ (3d6 + 6) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19\
       \ (3d8 + 6) bludgeoning damage."
     "name": "Fist"
   - "desc": "The gargoyle glares at one creature it can see within 60 feet of it.\
@@ -76,7 +77,7 @@ Conversely, small statuettes posessed by the same sentience granted by the Eleme
       \nThe [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] target must repeat\
       \ the saving throw at the end of its next turn. On a success, the effect ends\
       \ on the target. On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
-      \ until freed by the [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ until freed by the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spell or other magic."
     "name": "Petrifying Gaze (Recharge 6)"
 "source":

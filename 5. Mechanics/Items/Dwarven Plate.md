@@ -12,8 +12,8 @@ armorClass: 18
 weight: 65
 ---
 # Dwarven Plate
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare*  
-![[5. Mechanics/Items/img/dwarven-plate.webp#right]]  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare*  
+![[/5. Mechanics/Items/img/dwarven-plate.webp#right]]  
 
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.

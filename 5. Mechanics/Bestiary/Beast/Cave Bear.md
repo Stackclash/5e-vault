@@ -15,7 +15,7 @@ tags:
 aliases:
   - Cave Bear
 ---
-# [[5. Mechanics\Bestiary\Beast\Cave Bear.md|Cave Bear]]
+# [[5. Mechanics/Bestiary/Beast/Cave Bear.md|Cave Bear]]
 *Source: Monster Manual p. 334*
 
 ```statblock
@@ -39,7 +39,8 @@ aliases:
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": ""
 "cr": "2"
 "traits":
@@ -49,15 +50,15 @@ aliases:
 "actions":
   - "desc": "The bear makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
       \ + 5) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage."
     "name": "Claws"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/cave-bear.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/cave-bear.webp"
 ```
 ^statblock
 

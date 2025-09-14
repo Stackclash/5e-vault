@@ -54,11 +54,11 @@ You invoke the power of salt and sea—the fountain of life—in all its chaotic
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]], [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
-| 3rd | [[5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], [[5. Mechanics/Spells/Misty Step.md\|misty step]] |
-| 5th | [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], [[5. Mechanics/Spells/Water Breathing.md\|water breathing]] |
-| 7th | [[5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]] (excluding fire), [[5. Mechanics/Spells/Evards Black Tentacles.md\|black tentacles]] |
-| 9th | [[5. Mechanics/Spells/Awaken.md\|awaken]], [[5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]] (excluding fire) |
+| 1st | [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]], [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
+| 3rd | [[/5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], [[/5. Mechanics/Spells/Misty Step.md\|misty step]] |
+| 5th | [[/5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], [[/5. Mechanics/Spells/Water Breathing.md\|water breathing]] |
+| 7th | [[/5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]] (excluding fire), [[/5. Mechanics/Spells/Evards Black Tentacles.md\|black tentacles]] |
+| 9th | [[/5. Mechanics/Spells/Awaken.md\|awaken]], [[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]] (excluding fire) |
 ^ocean-domain-spells
 
 ### Envoy to the Waves (Level 1)
@@ -75,7 +75,7 @@ At 6th level, you gain a swim speed of 30 feet and [[/5. Mechanics/Rules/Senses.
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) cold damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) cold damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Scales of the Sea (Level 17)
 

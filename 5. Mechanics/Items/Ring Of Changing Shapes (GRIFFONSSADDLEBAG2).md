@@ -19,7 +19,7 @@ This magic ring is made of solid mercury that bubbles and flows freely around yo
 
 ## Shift Spell
 
-When a spell you are casting fails because of a [[5. Mechanics/Spells/Counterspell.md\|counterspell]] cast by another creature, you can spend 3 sorcery points as a reaction to immediately cast a different spell of the same level or lower without expending another spell slot. This property can't be used again until the next dawn.
+When a spell you are casting fails because of a [[/5. Mechanics/Spells/Counterspell.md\|counterspell]] cast by another creature, you can spend 3 sorcery points as a reaction to immediately cast a different spell of the same level or lower without expending another spell slot. This property can't be used again until the next dawn.
 
 To be eligible, the new spell must have the same casting time as the first one and can't consume any material components.
 

@@ -11,7 +11,7 @@ weight: 2
 ---
 # Horn of Blasting
 *Wondrous item, major, rare*  
-![[5. Mechanics/Items/img/horn-of-blasting.webp#right]]  
+![[/5. Mechanics/Items/img/horn-of-blasting.webp#right]]  
 
 - **Weight**: 2.0 lbs.
 

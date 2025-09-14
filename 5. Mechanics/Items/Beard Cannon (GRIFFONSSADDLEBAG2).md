@@ -20,6 +20,6 @@ This item appears to be a wide, cylindrical hair cuff used for taming unruly hai
 
 When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can forgo one of your attacks to point the hair cuff at a target within range and speak its command word. When you do, the cuff magically retracts any hair pulled through it and fires 1 of the smaller beads through its exposed opening. Make a ranged weapon attack using the magic cuff, which has a normal range of 15 feet and a long range of 30 feet. You are proficient with the attack. When fired, the spherical bead magically grows to become fist-sized, and it deals `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage on a hit.
 
-After the attack, the retracted hair magically reappears through the cuff, and the fired bead is lost. `dice:1d6|noform|noparens|avg` (`d6`) fired beads magically reappear in your hair daily at dawn. When not in use as a weapon, the item is indistinguishable from a normal hair cuff.
+After the attack, the retracted hair magically reappears through the cuff, and the fired bead is lost. `dice:1d6|noform|noparens|avg` (`1d6`) fired beads magically reappear in your hair daily at dawn. When not in use as a weapon, the item is indistinguishable from a normal hair cuff.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 43*

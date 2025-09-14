@@ -13,7 +13,7 @@ armorClass: 16
 weight: 55
 ---
 # Bastion Chain
-*Heavy armor ([[5. Mechanics/Items/Chain Mail.md\|chain mail]]), major, rare (requires attunement)*  
+*Heavy armor ([[/5. Mechanics/Items/Chain Mail.md\|chain mail]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bastion-Chain.webp#right)  
 
 - **Armor Class**: 16

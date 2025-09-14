@@ -54,11 +54,11 @@ The mountains signify strength, endurance, and hard-won wisdom. Many gods make t
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Feather Fall.md\|feather fall]], [[5. Mechanics/Spells/Jump.md\|jump]] |
-| 3rd | [[5. Mechanics/Spells/Enhance Ability.md\|enhance ability]], [[5. Mechanics/Spells/Spider Climb.md\|spider climb]] |
-| 5th | [[5. Mechanics/Spells/Meld Into Stone.md\|meld into stone]], [[5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] |
-| 7th | [[5. Mechanics/Spells/Stone Shape.md\|stone shape]], [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
-| 9th | [[5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
+| 1st | [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]], [[/5. Mechanics/Spells/Jump.md\|jump]] |
+| 3rd | [[/5. Mechanics/Spells/Enhance Ability.md\|enhance ability]], [[/5. Mechanics/Spells/Spider Climb.md\|spider climb]] |
+| 5th | [[/5. Mechanics/Spells/Meld Into Stone.md\|meld into stone]], [[/5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] |
+| 7th | [[/5. Mechanics/Spells/Stone Shape.md\|stone shape]], [[/5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
+| 9th | [[/5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
 ^mountain-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -79,7 +79,7 @@ Beginning at 6th level, you gain [[/5. Mechanics/Rules/Senses.md#Darkvision\|dar
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) cold damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) cold damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Avalanche (Level 17)
 

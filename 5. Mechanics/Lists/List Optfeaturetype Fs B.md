@@ -9,5 +9,5 @@ aliases:
 # Fighting Style, Bard
 *Source: Xanathar's Guide to Everything, Player's Handbook* 
 
-- [[5. Mechanics/Optional Features/Dueling.md\|Dueling]]
-- [[5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]]
+- [[/5. Mechanics/Optional Features/Dueling.md\|Dueling]]
+- [[/5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]]

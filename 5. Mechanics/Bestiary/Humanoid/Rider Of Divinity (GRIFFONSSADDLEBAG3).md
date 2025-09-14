@@ -13,7 +13,7 @@ tags:
 aliases:
   - Rider of Divinity
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Rider Of Divinity (GRIFFONSSADDLEBAG3).md|Rider of Divinity]]
+# [[5. Mechanics/Bestiary/Humanoid/Rider Of Divinity (GRIFFONSSADDLEBAG3).md|Rider of Divinity]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Paladins of Val Linsin that are trained in the bow. Often mounted on horseback, these defenders seek out evil and smite it from afar, protecting those in harm's way with a magical aura.
@@ -25,7 +25,7 @@ Paladins of Val Linsin that are trained in the bow. Often mounted on horseback, 
 "subtype": "any race"
 "alignment": "typically  Lawful Good"
 "ac": !!int "17"
-"ac_class": "[[5. Mechanics/Items/Splint Armor.md|splint]]"
+"ac_class": "[[/5. Mechanics/Items/Splint Armor.md|splint]]"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
 "modifier": !!int "0"
@@ -38,8 +38,8 @@ Paladins of Val Linsin that are trained in the bow. Often mounted on horseback, 
   - !!int "18"
 "speed": "30 ft."
 "saves":
-  - "wisdom": "+4"
-  - "charisma": "+6"
+  - "wisdom": !!int "4"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+6"
@@ -53,11 +53,11 @@ Paladins of Val Linsin that are trained in the bow. Often mounted on horseback, 
 "traits":
   - "desc": "The rider is a 7th-level spellcaster. Its spellcasting ability is Charisma\
       \ (+6 to hit with spell attacks). It has the following paladin spells prepared:\n\
-      \n1st level (4 slots): [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-      \ [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]], [[5. Mechanics/Spells/Heroism.md|heroism]],\
-      \ [[5. Mechanics/Spells/Longstrider.md|longstrider]]\n\n2nd level (3 slots):\
-      \ [[5. Mechanics/Spells/Branding Smite.md|branding smite]], [[5. Mechanics/Spells/See Invisibility.md|see invisibility]],\
-      \ [[5. Mechanics/Spells/Warding Bond.md|warding bond]]"
+      \n**1st level (4 slots):** [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+      \ [[/5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]], [[/5. Mechanics/Spells/Heroism.md|heroism]],\
+      \ [[/5. Mechanics/Spells/Longstrider.md|longstrider]]\n\n**2nd level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Branding Smite.md|branding smite]], [[/5. Mechanics/Spells/See Invisibility.md|see invisibility]],\
+      \ [[/5. Mechanics/Spells/Warding Bond.md|warding bond]]"
     "name": "Spellcasting"
   - "desc": "The rider and friendly creatures within 10 feet of it can't be [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]],\
       \ and opportunity attacks against them are made with disadvantage."
@@ -65,10 +65,10 @@ Paladins of Val Linsin that are trained in the bow. Often mounted on horseback, 
 "actions":
   - "desc": "The rider makes two attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage."
     "name": "Javelin"
-  - "desc": "Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:*\
       \ 8 (1d8 + 4) piercing damage."
     "name": "Longbow"
   - "desc": "The rider touches a creature, making that creature the origin of its\

@@ -65,7 +65,7 @@ At 3rd level, you gain proficiency in the [[/5. Mechanics/Rules/Skills.md#Persua
 
 ### Peacebringer (Level 7)
 
-Starting at 7th level, your weapon attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. In addition, you can use an action to cast the [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell, without expending a spell slot. The saving throw DC for the spell equals 8 + your proficiency bonus + your Charisma modifier. Once you cast this spell, you can't cast it again until you finish a short or long rest.
+Starting at 7th level, your weapon attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. In addition, you can use an action to cast the [[/5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell, without expending a spell slot. The saving throw DC for the spell equals 8 + your proficiency bonus + your Charisma modifier. Once you cast this spell, you can't cast it again until you finish a short or long rest.
 
 ### Calm Mind (Level 10)
 
@@ -81,6 +81,6 @@ If a weapon attack made in this way reduces a creature to 0 hit points, that cre
 
 ### Heraldic Enforcer (Level 18)
 
-At 18th level, your training has taught you to strike with the magic and force of a mighty [[5. Mechanics/Bestiary/Celestial/Couatl.md\|couatl]]. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d10 force damage to the target. When you deal this force damage, you can choose to spend a mercy die to add an additional 1d10 force damage to the attack.
+At 18th level, your training has taught you to strike with the magic and force of a mighty [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatl]]. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d10 force damage to the target. When you deal this force damage, you can choose to spend a mercy die to add an additional 1d10 force damage to the attack.
 
 In addition, if you choose to knock a creature out instead of killing it outright when you reduce it to 0 hit points, the target remains unconscious for 8 hours or until a creature friendly to you uses an action to shake it awake, even if the target regains hit points.

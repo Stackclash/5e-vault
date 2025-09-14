@@ -48,7 +48,7 @@ aliases:
 
 ### Light Domain (Level 1)
 
-Gods of light—including Helm, Lathander, [[5. Mechanics/Deities/Greyhawk Pholt(US).md\|Pholtus]], [[5. Mechanics/Deities/Dragonlance Branchala (PHB).md\|Branchala]], [[5. Mechanics/Deities/Eberron The Silver Flame.md\|the Silver Flame]], [[5. Mechanics/Deities/Celtic Belen(US).md\|Belenus]], [[5. Mechanics/Deities/Greek Apollo.md\|Apollo]], and [[5. Mechanics/Deities/Egyptian Re Horakhty.md\|Re-Horakhty]]—promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Some of these gods are portrayed as the sun itself or as a charioteer who guides the sun across the sky. Others are tireless sentinels whose eyes pierce every shadow and see through every deception. Some are deities of beauty and artistry, who teach that art is a vehicle for the soul's improvement. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.
+Gods of light—including Helm, Lathander, [[/5. Mechanics/Deities/Greyhawk Pholt(US).md\|Pholtus]], [[/5. Mechanics/Deities/Dragonlance Branchala (PHB).md\|Branchala]], [[/5. Mechanics/Deities/Eberron The Silver Flame.md\|the Silver Flame]], [[/5. Mechanics/Deities/Celtic Belen(US).md\|Belenus]], [[/5. Mechanics/Deities/Greek Apollo.md\|Apollo]], and [[/5. Mechanics/Deities/Egyptian Re Horakhty.md\|Re-Horakhty]]—promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Some of these gods are portrayed as the sun itself or as a charioteer who guides the sun across the sky. Others are tireless sentinels whose eyes pierce every shadow and see through every deception. Some are deities of beauty and artistry, who teach that art is a vehicle for the soul's improvement. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -56,16 +56,16 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] |
-| 3rd | [[5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] |
-| 5th | [[5. Mechanics/Spells/Daylight.md\|daylight]], [[5. Mechanics/Spells/Fireball.md\|fireball]] |
-| 7th | [[5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]], [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] |
-| 9th | [[5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[5. Mechanics/Spells/Scrying.md\|scrying]] |
+| 1st | [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] |
+| 3rd | [[/5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] |
+| 5th | [[/5. Mechanics/Spells/Daylight.md\|daylight]], [[/5. Mechanics/Spells/Fireball.md\|fireball]] |
+| 7th | [[/5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]], [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] |
+| 9th | [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[/5. Mechanics/Spells/Scrying.md\|scrying]] |
 ^light-domain-spells
 
 ### Bonus Cantrip (Level 1)
 
-When you choose this domain at 1st level, you gain the [[5. Mechanics/Spells/Light.md\|light]] cantrip if you don't already know it. This cantrip doesn't count against the number of cleric cantrips you know.
+When you choose this domain at 1st level, you gain the [[/5. Mechanics/Spells/Light.md\|light]] cantrip if you don't already know it. This cantrip doesn't count against the number of cleric cantrips you know.
 
 ### Warding Flare (Level 1)
 
@@ -92,7 +92,7 @@ _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Potent Spellcasting feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Corona of Light (Level 17)
 

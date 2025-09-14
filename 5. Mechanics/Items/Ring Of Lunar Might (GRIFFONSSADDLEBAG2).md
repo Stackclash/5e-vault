@@ -21,6 +21,6 @@ For the duration, you can use a bonus action on each of your turns to try and ov
 
 Once the ring has been used to create an area of gravitational force, it can't do so again until the next dusk.
 
-Alternatively, you can use an action to speak the ring's command word to cast the [[5. Mechanics/Spells/Reverse Gravity.md\|reverse gravity]] spell (spell DC 16) from it. Once the ring has been used in this way, it loses this property.
+Alternatively, you can use an action to speak the ring's command word to cast the [[/5. Mechanics/Spells/Reverse Gravity.md\|reverse gravity]] spell (spell DC 16) from it. Once the ring has been used in this way, it loses this property.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 146*

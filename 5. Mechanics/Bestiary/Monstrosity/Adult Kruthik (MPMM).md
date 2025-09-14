@@ -16,10 +16,10 @@ tags:
 aliases:
   - Adult Kruthik
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Adult Kruthik (MPMM).md|Adult Kruthik]]
+# [[5. Mechanics/Bestiary/Monstrosity/Adult Kruthik (MPMM).md|Adult Kruthik]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*
 
-It takes six months of steady eating for a [[5. Mechanics/Bestiary/Monstrosity/Young Kruthik (MPMM).md|young kruthik]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
+It takes six months of steady eating for a [[/5. Mechanics/Bestiary/Monstrosity/Young Kruthik (MPMM).md|young kruthik]] to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 
 Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-sized spikes at enemies beyond the reach of their claws.
 
@@ -64,7 +64,8 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., tremorsense\
+  \ 60 ft., passive Perception 15"
 "languages": "Kruthik"
 "cr": "2"
 "traits":
@@ -78,16 +79,16 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "actions":
   - "desc": "The kruthik makes two Stab or Spike attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage."
     "name": "Stab"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit:*\
       \ 5 (1d4 + 3) piercing damage."
     "name": "Spike"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/adult-kruthik-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/adult-kruthik-mpmm.webp"
 ```
 ^statblock
 

@@ -29,18 +29,19 @@ classes:
   - Wizard
 school: Divination
 level: 2
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: true
+verbal: true
+material: a copper piece
 aliases:
   - Detect Thoughts
-range: Self
-material: A copper coin.
-concentration: true
 ---
 # Detect Thoughts
 *2nd-level, Divination*  
@@ -60,6 +61,8 @@ You can also use this spell to detect the presence of thinking creatures you can
 
 Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it, but it must still be within range.
 
-**Classes**: [Sorcerer (Second Soul)](compendium/lists/list-spells-classes-second-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Sorcerer (Aberrant Mind)](compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of Owls)](compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of Owls)](/compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Aberrant Mind)](/compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Sorcerer (Second Soul)](/compendium/lists/list-spells-classes-second-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Telepathic (TCE).md\|Telepathic]]
 
 *Source: Player's Handbook p. 231. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -17,7 +17,7 @@ This warm red coat carries a feeling of good tidings and midwinter cheer, even i
 
 ## Spells
 
-While wearing the cloak, you can use an action to cast one of the following spells from it on yourself (save DC 17): [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]], [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], or [[5. Mechanics/Spells/Invisibility.md\|invisibility]]. Once a spell has been cast from the cloak, that spell can't be cast from it again until the next dawn.
+While wearing the cloak, you can use an action to cast one of the following spells from it on yourself (save DC 17): [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[/5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]], [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], or [[/5. Mechanics/Spells/Invisibility.md\|invisibility]]. Once a spell has been cast from the cloak, that spell can't be cast from it again until the next dawn.
 
 ## Nimble
 

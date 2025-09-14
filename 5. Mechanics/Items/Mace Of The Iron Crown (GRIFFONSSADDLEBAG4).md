@@ -13,7 +13,7 @@ one-hand-damage: 1d6 bludgeoning
 weight: 4
 ---
 # Mace of the Iron Crown
-*Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Mace-of-the-Iron-Crown.webp#right)  
 
 - **Damage**: 1d6 bludgeoning

@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Crown-of-Deep-Winter.webp#right)  
 
 
-This icy crown is made using ice from the Everglacier. While wearing the crown, you have resistance to cold damage. In addition, you can use an action to cast the [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell from it, making only a chill shield when you do. Once the crown has cast this spell, it can't cast it again until the next dawn.
+This icy crown is made using ice from the Everglacier. While wearing the crown, you have resistance to cold damage. In addition, you can use an action to cast the [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell from it, making only a chill shield when you do. Once the crown has cast this spell, it can't cast it again until the next dawn.
 
 ## Frozen Burst
 

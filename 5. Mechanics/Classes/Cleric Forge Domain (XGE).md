@@ -52,7 +52,7 @@ aliases:
 
 ### Forge Domain (Level 1)
 
-The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [[5. Mechanics/Deities/Dragonlance Reorx (PHB).md\|Reorx]], [[5. Mechanics/Deities/Eberron Onatar.md\|Onatar]], [[5. Mechanics/Deities/Nonhuman Moradin.md\|Moradin]], [[5. Mechanics/Deities/Greek Hephaest(US).md\|Hephaestus]], and [[5. Mechanics/Deities/Celtic Goibhniu.md\|Goibhniu]].
+The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [[/5. Mechanics/Deities/Dragonlance Reorx (PHB).md\|Reorx]], [[/5. Mechanics/Deities/Eberron Onatar.md\|Onatar]], [[/5. Mechanics/Deities/Nonhuman Moradin.md\|Moradin]], [[/5. Mechanics/Deities/Greek Hephaest(US).md\|Hephaestus]], and [[/5. Mechanics/Deities/Celtic Goibhniu.md\|Goibhniu]].
 
 At each indicated cleric level, add the listed spells to your spells prepared.
 
@@ -60,16 +60,16 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Identify.md\|identify]], [[5. Mechanics/Spells/Searing Smite.md\|searing smite]] |
-| 3rd | [[5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]] |
-| 5th | [[5. Mechanics/Spells/Elemental Weapon.md\|elemental weapon]], [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
-| 7th | [[5. Mechanics/Spells/Fabricate.md\|fabricate]], [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] |
-| 9th | [[5. Mechanics/Spells/Animate Objects.md\|animate objects]], [[5. Mechanics/Spells/Creation.md\|creation]] |
+| 1st | [[/5. Mechanics/Spells/Identify.md\|identify]], [[/5. Mechanics/Spells/Searing Smite.md\|searing smite]] |
+| 3rd | [[/5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], [[/5. Mechanics/Spells/Magic Weapon.md\|magic weapon]] |
+| 5th | [[/5. Mechanics/Spells/Elemental Weapon.md\|elemental weapon]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
+| 7th | [[/5. Mechanics/Spells/Fabricate.md\|fabricate]], [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] |
+| 9th | [[/5. Mechanics/Spells/Animate Objects.md\|animate objects]], [[/5. Mechanics/Spells/Creation.md\|creation]] |
 ^forge-domain-spells
 
 ### Bonus Proficiency (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor and [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]].
+When you choose this domain at 1st level, you gain proficiency with heavy armor and [[/5. Mechanics/Items/Smiths Tools.md\|smith's tools]].
 
 ### Blessing of the Forge (Level 1)
 
@@ -94,14 +94,14 @@ Starting at 6th level, your mastery of the forge grants you special abilities:
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) fire damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) fire damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Divine Strike feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Saint of Forge and Fire (Level 17)
 

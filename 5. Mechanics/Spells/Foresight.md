@@ -19,14 +19,12 @@ level: 9
 ritual: false
 time: 1 minute
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a hummingbird feather
 aliases:
   - Foresight
-range: Touch
-material: A hummingbird feather.
 ---
 # Foresight
 *9th-level, Divination*  
@@ -40,6 +38,6 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 This spell immediately ends if you cast it again before its duration ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 244. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

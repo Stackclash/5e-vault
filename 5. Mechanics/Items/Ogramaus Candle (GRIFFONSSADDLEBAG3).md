@@ -19,6 +19,6 @@ While lit, the candle sheds dim light in a 30-foot radius. Any undead that enter
 
 A turned creature must spend its turns trying to move as far away from the candle as it can, and it can't willingly move to a space within the candle's dim light. It also can't take reactions. For its action, it can use only the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action.
 
-Alternatively, you can use an action to plant the candle on the skull or head of a corpse, allowing its wax to affix itself to the new base. While it's affixed to the head, you can speak the candle's command word to deduct 5 minutes from its total burn time to ask the corpse up to five questions, as described by the [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] spell.
+Alternatively, you can use an action to plant the candle on the skull or head of a corpse, allowing its wax to affix itself to the new base. While it's affixed to the head, you can speak the candle's command word to deduct 5 minutes from its total burn time to ask the corpse up to five questions, as described by the [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] spell.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

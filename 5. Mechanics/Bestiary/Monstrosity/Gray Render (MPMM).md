@@ -15,7 +15,7 @@ tags:
 aliases:
   - Gray Render
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Gray Render (MPMM).md|Gray Render]]
+# [[5. Mechanics/Bestiary/Monstrosity/Gray Render (MPMM).md|Gray Render]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209*
 
 A curious impulse drives the gray render. Despite its hulking form and terrible appetite, it wants most of all to bond with an intelligent creature and, once bonded, to give its life to protect that creature. Great strength and a ferocious nature make gray renders fierce guardians, but they lack a shred of cunning.
@@ -65,22 +65,23 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
   - !!int "8"
 "speed": "30 ft."
 "saves":
-  - "strength": "+8"
-  - "constitution": "+9"
+  - "strength": !!int "8"
+  - "constitution": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": ""
 "cr": "12"
 "actions":
   - "desc": "The gray render makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 17\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 17\
       \ (2d12 + 4) piercing damage. If the target is Medium or smaller, the target\
       \ must succeed on a DC 16 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 13\
       \ (2d8 + 4) slashing damage, plus 10 (3d6) bludgeoning damage if the target\
       \ is [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Claw"
@@ -91,7 +92,7 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/gray-render-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/gray-render-mpmm.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ weight: 20
 ---
 # Elven Chain
 *Medium armor, major, rare*  
-![[5. Mechanics/Items/img/elven-chain.webp#right]]  
+![[/5. Mechanics/Items/img/elven-chain.webp#right]]  
 
 - **Armor Class**: 13 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

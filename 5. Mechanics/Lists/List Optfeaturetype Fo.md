@@ -9,4 +9,4 @@ aliases:
 # Fiendish Offering
 *Source: Devil's Advocate: A Guide to Infernal Contracts* 
 
-- [[5. Mechanics/Optional Features/Infernal Ally Da Gic.md\|Infernal Ally]]
+- [[/5. Mechanics/Optional Features/Infernal Ally Da Gic.md\|Infernal Ally]]

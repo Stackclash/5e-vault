@@ -12,25 +12,27 @@ classes:
   - Wizard
 school: Evocation
 level: 6
+damage:
+  base: 10d6
+  scaling:
+    damage: 2d6
+    level: 7
+  types:
+    - cold
+saving_throw:
+  skills:
+    - Dexterity
+    - Constitution
+  succeeds: half damage
 ritual: false
 time: 1 Action
-duration: Up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: 120 feet
+somatic: true
+verbal: true
+material: a small piece of quartz
 aliases:
   - Wall of Ice
-range: 120 feet
-material: A small piece of quartz.
-damageType: Cold
-save:
-  type: DEX
-  success: half
-area:
-  type: sphere
-  size: 10
-concentration: true
 ---
 # Wall of Ice
 *6th-level, Evocation*  
@@ -46,8 +48,8 @@ If the wall cuts through a creature's space when it appears, the creature within
 
 The wall is an object that can be damaged and thus breached. It has AC 12 and 30 hit points per 10-foot section, and it is vulnerable to fire damage. Reducing a 10-foot section of wall to 0 hit points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air for the first time on a turn must make a Constitution saving throw. That creature takes `dice:5d6|noform|noparens|avg` (`5d6`) cold damage on a failed save, or half as much damage on a successful one.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by `dice:2d6|noform|noparens|avg|text(2d6)`, and the damage from passing through the sheet of frigid air increases by `dice:1d6|noform|noparens|avg|text(d6)`, for each slot level above 6th.
+**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by `dice:2d6|noform|noparens|avg|text(2d6)`, and the damage from passing through the sheet of frigid air increases by `dice:1d6|noform|noparens|avg|text(1d6)`, for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 285. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

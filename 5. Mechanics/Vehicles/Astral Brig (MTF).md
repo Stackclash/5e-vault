@@ -10,13 +10,12 @@ aliases:
   - Astral Brig
 ---
 # Astral Brig
-%%-- Embedded content starts on the next line. --%%
 *Source: Mordenkainen's Tome of Foes p. 90*  
 
 The astral brig is the standard githyanki military vessel. It requires a crew of five and can transport up to sixty passengers. A brig is 90 feet long and 30 feet wide, with two levels below decks for quarters and storage space. It is equipped with two ballistae, each one operated by a pair of crew members, and has a top speed of 12 miles per hour.
 ```ad-statblock
 title: Astral Brig
-![[5. Mechanics/Vehicles/token/astral-brig-mtf.webp#token]]
+![[/5. Mechanics/Vehicles/token/astral-brig-mtf.webp#token]]
 *Gargantuan vehicle (90 ft. by 30 ft.); air*
 
 - **Creature Capacity** 5 crew, 60 passengers

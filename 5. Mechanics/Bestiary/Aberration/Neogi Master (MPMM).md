@@ -15,7 +15,7 @@ tags:
 aliases:
   - Neogi Master
 ---
-# [[5. Mechanics\Bestiary\Aberration\Neogi Master (MPMM).md|Neogi Master]]
+# [[5. Mechanics/Bestiary/Aberration/Neogi Master (MPMM).md|Neogi Master]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*
 
 Neogi masters use magic, as a result of a pact between neogi and aberrant entities they met during their journey from their home world. These entities—known by such names as Acamar, Caiphon, Gibbeth, and Hadar—resemble stars and embody the essence of evil.
@@ -50,7 +50,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
   - !!int "18"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  - "wisdom": "+3"
+  - "wisdom": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+5"
@@ -62,7 +62,8 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
     "desc": "+6"
-"senses": "darkvision 120 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 13"
 "languages": "Common, Deep Speech, Undercommon, telepathy 30 ft."
 "cr": "4"
 "traits":
@@ -79,25 +80,25 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
   - "desc": "The neogi makes one Bite attack and one Claw attack, or it makes two\
       \ Tentacle of Hadar attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed\
       \ on a DC 12 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
       \ for 1 minute. A target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
       \ + 3) piercing damage."
     "name": "Claw"
-  - "desc": "Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 14\
+  - "desc": "*Ranged Spell Attack:* +6 to hit, range 120 ft., one target. *Hit:* 14\
       \ (3d6 + 4) necrotic damage, and the target can't take reactions until the end\
       \ of the neogi's next turn, as a spectral tentacle clings to the target."
     "name": "Tentacle of Hadar"
   - "desc": "The neogi casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Guidance.md|guidance]],\
-      \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
-      \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-      \ [[5. Mechanics/Spells/Hunger Of Hadar.md|hunger of Hadar]]"
+      \ ability (spell save DC 14):\n\n**At will:** [[/5. Mechanics/Spells/Guidance.md|guidance]],\
+      \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n**1/day each:**\
+      \ [[/5. Mechanics/Spells/Dimension Door.md|dimension door]], [[/5. Mechanics/Spells/Hold Person.md|hold person]],\
+      \ [[/5. Mechanics/Spells/Hunger Of Hadar.md|hunger of Hadar]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The neogi targets one creature it can see within 30 feet of it. The target\
@@ -113,7 +114,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Aberration/token/neogi-master-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/neogi-master-mpmm.webp"
 ```
 ^statblock
 

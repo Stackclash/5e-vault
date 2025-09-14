@@ -24,7 +24,7 @@ While holding the rod, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skill
 
 ## Spells
 
-While holding the rod, you can use an action to cast one of the following spells from it: [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[5. Mechanics/Spells/Detect Poison And Disease.md\|detect poison and disease]], or [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]].
+While holding the rod, you can use an action to cast one of the following spells from it: [[/5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]], [[/5. Mechanics/Spells/Detect Magic.md\|detect magic]], [[/5. Mechanics/Spells/Detect Poison And Disease.md\|detect poison and disease]], or [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]].
 
 ## Protective Aura
 

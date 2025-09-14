@@ -10,4 +10,4 @@ aliases:
 
 ## 2nd Level
 
-- [[5. Mechanics/Spells/Alter Self.md \|"PHB"]]
+- [[/5. Mechanics/Spells/Alter Self.md \|"PHB"]]

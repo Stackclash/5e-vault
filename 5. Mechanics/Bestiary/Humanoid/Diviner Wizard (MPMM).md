@@ -14,7 +14,7 @@ tags:
 aliases:
   - Diviner Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Diviner Wizard (MPMM).md|Diviner Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Diviner Wizard (MPMM).md|Diviner Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*
 
 Diviners peer into the future and know that knowledge is power. They might act aloof and mysterious, hinting at omens and secrets, or they might be know-it-alls, spilling insights to advance their own status.
@@ -29,7 +29,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+"ac_class": "15 with [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "90"
 "hit_dice": "20d8"
 "modifier": !!int "2"
@@ -42,8 +42,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - !!int "11"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+7"
-  - "wisdom": "+4"
+  - "intelligence": !!int "7"
+  - "wisdom": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+7"
@@ -55,8 +55,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
   - "desc": "The diviner makes three Arcane Burst attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 120\
-      \ ft., one target. Hit: 20 (3d10 + 4) radiant damage."
+  - "desc": "*Melee  or Ranged Spell Attack:* +7 to hit, reach 5 ft. or range 120\
+      \ ft., one target. *Hit:* 20 (3d10 + 4) radiant damage."
     "name": "Arcane Burst"
   - "desc": "The diviner magically creates a burst of illumination in a 10-foot-radius\
       \ sphere centered on a point within 120 feet of it. Each creature in that area\
@@ -66,13 +66,13 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]."
     "name": "Overwhelming Revelation (Recharge 5-6)"
   - "desc": "The diviner casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 15):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-      \ [[5. Mechanics/Spells/Message.md|message]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-      \n2/day each: [[5. Mechanics/Spells/Arcane Eye.md|arcane eye]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-      \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Fly.md|fly]],\
-      \ [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[5. Mechanics/Spells/Locate Object.md|locate object]],\
-      \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]], [[5. Mechanics/Spells/Rarys Telepathic Bond.md|Rary's telepathic bond]]\n\
-      \n1/day each: [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
+      \ the spellcasting ability (spell save DC 15):\n\n**At will:** [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[/5. Mechanics/Spells/Message.md|message]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+      \n**2/day each:** [[/5. Mechanics/Spells/Arcane Eye.md|arcane eye]], [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/5. Mechanics/Spells/Fly.md|fly]],\
+      \ [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], [[/5. Mechanics/Spells/Locate Object.md|locate object]],\
+      \ [[/5. Mechanics/Spells/Mage Armor.md|mage armor]], [[/5. Mechanics/Spells/Rarys Telepathic Bond.md|Rary's telepathic bond]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/True Seeing.md|true seeing]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When the diviner or a creature it can see makes an attack roll, a saving\
@@ -83,7 +83,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/diviner-wizard-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/diviner-wizard-mpmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ armorClass: 18
 weight: 65
 ---
 # Contagion Plate
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/ContagionPlate.webp#right)  
 
 - **Armor Class**: 18

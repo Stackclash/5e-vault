@@ -9,7 +9,7 @@ aliases:
 ---
 # Merrenoloth
 
-## Lair actions
+## Lair Actions
 _Source: Mordenkainen Presents: Monsters of the Multiverse_
 
 On initiative count 20 (losing initiative ties) while captaining a vessel, the merrenoloth can take one of the following lair actions; it can't take the same lair action two rounds in a row:
@@ -18,7 +18,7 @@ On initiative count 20 (losing initiative ties) while captaining a vessel, the m
 - **Propel.** A strong wind propels the vessel, increasing its speed by 30 feet until initiative count 20 on the next round.  
 - **Repair.** The vessel regains `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) hit points.  
 
-## Regional effects
+## Regional Effects
 _Source: Mordenkainen Presents: Monsters of the Multiverse_
 
 A merrenoloth imbues its vessel with magic that creates one or more of the following effects:
@@ -26,4 +26,4 @@ A merrenoloth imbues its vessel with magic that creates one or more of the follo
 - **Unerring.** The vessel always stays on course to the destination the merrenoloth names.  
 - **Unsinkable.** The vessel doesn't sink even if its hull is breached.  
 
-If the merrenoloth dies, these effects fade over the course of `dice:1d6|noform|noparens|avg` (`d6`) hours.
+If the merrenoloth dies, these effects fade over the course of `dice:1d6|noform|noparens|avg` (`1d6`) hours.

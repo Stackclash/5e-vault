@@ -24,16 +24,22 @@ classes:
   - Wizard
 school: Evocation
 level: 4
+damage:
+  base: 2d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - lightning
 ritual: false
 time: 1 Action
 duration: 10 minutes
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: 'a bit of fur and a bead of amber, crystal, or glass'
 aliases:
   - Shocking Shroud
-material: 'a bit of fur and a bead of amber, crystal, or glass'
 ---
 # Shocking Shroud
 *4th-level, Evocation*  
@@ -47,6 +53,6 @@ Arcs of electricity dance over your body for the duration, granting you resistan
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack, arcs of electricity strike your attacker, who takes `dice:2d8|noform|noparens|avg` (`2d8`) lightning damage.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 105*

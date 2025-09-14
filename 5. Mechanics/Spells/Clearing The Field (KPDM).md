@@ -19,12 +19,16 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: true
 time: 10 minutes
 duration: 1 hour
-components:
-  - V
-  - S
+range: 40 feet
+somatic: true
+verbal: true
 aliases:
   - Clearing the Field
 ---
@@ -47,10 +51,10 @@ When other spellcasters aid you in casting this spell, the spell lasts for an ad
 
 ## Ritual Focus
 
-If you expend your ritual focus, plant creatures in the area must make a successful Constitution saving throw or be affected as though by a [[5. Mechanics/Spells/Enlarge Reduce.md\|reduce]] spell.
+If you expend your ritual focus, plant creatures in the area must make a successful Constitution saving throw or be affected as though by a [[/5. Mechanics/Spells/Enlarge Reduce.md\|reduce]] spell.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 211*

@@ -13,7 +13,7 @@ one-hand-damage: 1d12 slashing
 weight: 7
 ---
 # Giantcraft Ambusher
-*Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Giantcraft-Ambusher.webp#right)  
 
 - **Damage**: 1d12 slashing

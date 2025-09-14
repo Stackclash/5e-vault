@@ -23,19 +23,16 @@ school: Illusion
 level: 1
 ritual: false
 time: 1 Action
-duration: Up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: 60 feet
+somatic: true
+verbal: true
+material: a bit of fleece
+area:
+  shape: cube
+  size: 15
 aliases:
   - Silent Image
-range: 60 feet
-material: A bit of fleece.
-area:
-  type: cube
-  size: 15
-concentration: true
 ---
 # Silent Image
 *1st-level, Illusion*  
@@ -51,6 +48,8 @@ You can use your action to cause the image to move to any spot within range. As 
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Shadow Touched (TCE).md\|Shadow Touched]]
 
 *Source: Player's Handbook p. 276. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

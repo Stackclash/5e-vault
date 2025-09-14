@@ -10,8 +10,8 @@ aliases:
 # Gift of the Depths
 *Source: Xanathar's Guide to Everything p. 57*  
 
-***Prerequisites*** 5th
+***Prerequisites*** Level 5
 
 You can breathe underwater, and you gain a swimming speed equal to your walking speed.
 
-You can also cast [[5. Mechanics/Spells/Water Breathing.md\|water breathing]] once without expending a spell slot. You regain the ability to do so when you finish a long rest.
+You can also cast [[/5. Mechanics/Spells/Water Breathing.md\|water breathing]] once without expending a spell slot. You regain the ability to do so when you finish a long rest.

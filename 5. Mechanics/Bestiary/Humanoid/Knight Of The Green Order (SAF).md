@@ -13,7 +13,7 @@ tags:
 aliases:
   - Knight of the Green Order
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Knight Of The Green Order (SAF).md|Knight of the Green Order]]
+# [[5. Mechanics/Bestiary/Humanoid/Knight Of The Green Order (SAF).md|Knight of the Green Order]]
 *Source: Strongholds and Followers p. 77*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "18"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+6"
-  - "dexterity": "+3"
-  - "constitution": "+3"
-  - "intelligence": "+3"
-  - "wisdom": "+6"
-  - "charisma": "+6"
+  - "strength": !!int "6"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+5"
@@ -52,20 +52,20 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) slashing damage.\n\nAt 7th level, retainers can take two signature attacks\
       \ per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nThe knight makes an attack with\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nThe knight makes an attack with\
       \ their signature attack. On a hit, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
       \ It can make a Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
       \ or Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]) check\
       \ on its turn to escape. If it escapes, the vines wither and die."
     "name": "Twisting Vines (3/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe knight casts the [[5. Mechanics/Spells/Entangle.md|entangle]]\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe knight casts the [[/5. Mechanics/Spells/Entangle.md|entangle]]\
       \ spell (spell save DC 14 at 5th level, and 15 at 7th level)."
     "name": "Entangle (1/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe knight casts the [[5. Mechanics/Spells/Moonbeam.md|moonbeam]]\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe knight casts the [[/5. Mechanics/Spells/Moonbeam.md|moonbeam]]\
       \ spell (spell save DC 15)."
     "name": "Moonbeam (1/Day)"
 "source":

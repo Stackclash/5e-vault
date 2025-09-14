@@ -15,7 +15,7 @@ tags:
 aliases:
   - Frost Giant
 ---
-# [[5. Mechanics\Bestiary\Giant\Frost Giant.md|Frost Giant]]
+# [[5. Mechanics/Bestiary/Giant/Frost Giant.md|Frost Giant]]
 *Source: Monster Manual p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging. They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
@@ -99,9 +99,9 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - !!int "12"
 "speed": "40 ft."
 "saves":
-  - "constitution": "+8"
-  - "wisdom": "+3"
-  - "charisma": "+4"
+  - "constitution": !!int "8"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+9"
@@ -114,15 +114,15 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "actions":
   - "desc": "The giant makes two greataxe attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 25\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 25\
       \ (3d12 + 6) slashing damage."
     "name": "Greataxe"
-  - "desc": "Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Giant/token/frost-giant.webp"
+"image": "/5. Mechanics/Bestiary/Giant/token/frost-giant.webp"
 ```
 ^statblock
 

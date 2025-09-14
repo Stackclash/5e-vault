@@ -18,16 +18,27 @@ classes:
   - Wizard
 school: Conjuration
 level: 5
+damage:
+  base: 3d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - fire
+    - radiant
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: a small golden wheel worth 250 gp
 aliases:
   - Blazing Chariot
-material: a small golden wheel worth 250 gp
 ---
 # Blazing Chariot
 *5th-level, Conjuration*  
@@ -41,6 +52,6 @@ Calling upon the might of the angels, you conjure a flaming chariot made of gold
 
 On your turn, you can guide the chariot in place of your own movement. You can use a bonus action to direct it to take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]], or [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action. As an action, you can use the chariot to overrun creatures in its path. On this turn, the chariot can enter a hostile creature's space. The creature takes damage as if it had touched the chariot, is shunted to the nearest unoccupied space that it can occupy, and must make a successful Strength saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] in that space.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 175*

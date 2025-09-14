@@ -14,7 +14,7 @@ tags:
 aliases:
   - Girallon
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Girallon (MPMM).md|Girallon]]
+# [[5. Mechanics/Bestiary/Monstrosity/Girallon (MPMM).md|Girallon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 139, Volo's Guide to Monsters p. 152*
 
 A girallon looks like an oversized, four-armed ape with grayish-tan skin and white fur. Its vicious fangs and claws reveal it to be a monstrous predator.
@@ -53,16 +53,17 @@ Girallons that are well treated might be willing to serve as guards, though they
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": ""
 "cr": "4"
 "actions":
   - "desc": "The girallon makes one Bite attack and four Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 7\
       \ (1d6 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 7\
       \ (1d6 + 4) slashing damage."
     "name": "Claw"
 "bonus_actions":
@@ -72,7 +73,7 @@ Girallons that are well treated might be willing to serve as guards, though they
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/girallon-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/girallon-mpmm.webp"
 ```
 ^statblock
 

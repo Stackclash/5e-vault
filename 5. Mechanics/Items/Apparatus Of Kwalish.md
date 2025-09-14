@@ -11,7 +11,7 @@ weight: 500
 ---
 # Apparatus of Kwalish
 *Wondrous item, major, legendary*  
-![[5. Mechanics/Vehicles/img/apparatus-of-kwalish.webp#right]]  
+![[/5. Mechanics/Vehicles/img/apparatus-of-kwalish.webp#right]]  
 
 - **Weight**: 500.0 lbs.
 

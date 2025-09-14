@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mummy
 ---
-# [[5. Mechanics\Bestiary\Undead\Mummy.md|Mummy]]
+# [[5. Mechanics/Bestiary/Undead/Mummy.md|Mummy]]
 *Source: Monster Manual p. 228, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
@@ -73,27 +73,28 @@ A mummy doesn't require air, food, drink, or sleep.
   - !!int "12"
 "speed": "20 ft."
 "saves":
-  - "wisdom": "+2"
+  - "wisdom": !!int "2"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "the languages it knew in life"
 "cr": "3"
 "actions":
   - "desc": "The mummy can use its Dreadful Glare and makes one attack with its rotting\
       \ fist."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target\
       \ is a creature, it must succeed on a DC 12 Constitution saving throw or be\
       \ cursed with mummy rot. The cursed target can't regain hit points, and its\
       \ hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If\
       \ the curse reduces the target's hit point maximum to 0, the target dies, and\
-      \ its body turns to dust. The curse lasts until removed by the [[5. Mechanics/Spells/Remove Curse.md|remove curse]]\
+      \ its body turns to dust. The curse lasts until removed by the [[/5. Mechanics/Spells/Remove Curse.md|remove curse]]\
       \ spell or other magic."
     "name": "Rotting Fist"
   - "desc": "The mummy targets one creature it can see within 60 feet of it. If the\
@@ -108,7 +109,7 @@ A mummy doesn't require air, food, drink, or sleep.
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Undead/token/mummy.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/mummy.webp"
 ```
 ^statblock
 

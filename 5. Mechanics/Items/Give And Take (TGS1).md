@@ -14,7 +14,7 @@ one-hand-damage: 1d6 slashing
 weight: 3
 ---
 # Give and Take
-*Weapon ([[5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Give-and-Take.webp#right)  
 
 - **Damage**: 1d6 slashing

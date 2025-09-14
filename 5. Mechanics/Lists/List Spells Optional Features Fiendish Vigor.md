@@ -10,4 +10,4 @@ aliases:
 
 ## 1st Level
 
-- [[5. Mechanics/Spells/False Life.md \|"PHB"]]
+- [[/5. Mechanics/Spells/False Life.md \|"PHB"]]

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Scarecrow
 ---
-# [[5. Mechanics\Bestiary\Construct\Scarecrow.md|Scarecrow]]
+# [[5. Mechanics/Bestiary/Construct/Scarecrow.md|Scarecrow]]
 *Source: Monster Manual p. 268, Curse of Strahd*
 
 At harvest time, when death revisits the twilit world and summer's blossoms bow their withered heads, eerie scarecrows loom in silent vigil over empty fields. With immortal patience, these stoic sentinels hold their posts through wind, storm, and flood, bound to their master's command, eager to terrify prey with its sackcloth visage and rend victims with its razor-sharp claws.
@@ -46,7 +46,8 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1"
 "traits":
@@ -56,7 +57,7 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 "actions":
   - "desc": "The scarecrow makes two claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
       \ + 1) slashing damage. If the target is a creature, it must succeed on a DC\
       \ 11 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
       \ until the end of the scarecrow's next turn."
@@ -70,7 +71,7 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Construct/token/scarecrow.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/scarecrow.webp"
 ```
 ^statblock
 

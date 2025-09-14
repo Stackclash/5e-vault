@@ -13,7 +13,7 @@ tags:
 aliases:
   - Aberrant Spirit
 ---
-# [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit (TCE).md|Aberrant Spirit]]
+# [[5. Mechanics/Bestiary/Aberration/Aberrant Spirit (TCE).md|Aberrant Spirit]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
@@ -32,7 +32,8 @@ aliases:
   - !!int "6"
 "speed": "30 ft., fly 30 ft. (beholderkin only; hover)"
 "damage_immunities": "psychic"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Deep Speech, understands the languages you speak"
 "traits":
   - "desc": "The aberration regains 5 hit points at the start of its turn if it has\
@@ -47,20 +48,20 @@ aliases:
   - "desc": "The aberration makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Ranged Spell Attack: your spell attack modifier to hit, range 150 ft.,\
-      \ one creature. Hit: 1d8 + 3 + the spell's level psychic damage."
+  - "desc": "*Ranged Spell Attack:* your spell attack modifier to hit, range 150 ft.,\
+      \ one creature. *Hit:* 1d8 + 3 + the spell's level psychic damage."
     "name": "Eye Ray (Beholderkin Only)"
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d10 + 3 + the spell's level slashing damage. If the target\
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d10 + 3 + the spell's level slashing damage. If the target\
       \ is a creature, it can't regain hit points until the start of the aberration's\
       \ next turn."
     "name": "Claws (Slaad Only)"
-  - "desc": "Melee Spell Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one creature. Hit: 1d8 + 3 + the spell's level psychic damage."
+  - "desc": "*Melee Spell Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one creature. *Hit:* 1d8 + 3 + the spell's level psychic damage."
     "name": "Psychic Slam (Star Spawn Only)"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Aberration/token/aberrant-spirit-tce.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/aberrant-spirit-tce.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 weight: 0.075
 ---
 # Lodestone Bolts
-*Ammunition ([[5. Mechanics/Items/Crossbow Bolt.md\|crossbow bolt]]), uncommon*  
+*Ammunition ([[/5. Mechanics/Items/Crossbow Bolt.md\|crossbow bolt]]), uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Lodestone-Bolts.webp#right)  
 
 - **Weight**: 0.075 lbs.

@@ -56,16 +56,16 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]], [[5. Mechanics/Spells/Longstrider.md\|longstrider]] |
-| 3rd | [[5. Mechanics/Spells/Blur.md\|blur]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]] |
-| 5th | [[5. Mechanics/Spells/Blink.md\|blink]], [[5. Mechanics/Spells/Slow.md\|slow]] |
-| 7th | [[5. Mechanics/Spells/Banishment.md\|banishment]], [[5. Mechanics/Spells/Dimension Door.md\|dimension door]] |
-| 9th | [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]], [[5. Mechanics/Spells/Wall Of Force.md\|wall of force]] |
+| 1st | [[/5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]], [[/5. Mechanics/Spells/Longstrider.md\|longstrider]] |
+| 3rd | [[/5. Mechanics/Spells/Blur.md\|blur]], [[/5. Mechanics/Spells/Invisibility.md\|invisibility]] |
+| 5th | [[/5. Mechanics/Spells/Blink.md\|blink]], [[/5. Mechanics/Spells/Slow.md\|slow]] |
+| 7th | [[/5. Mechanics/Spells/Banishment.md\|banishment]], [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]] |
+| 9th | [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]], [[/5. Mechanics/Spells/Wall Of Force.md\|wall of force]] |
 ^astral-domain-spells
 
 ### Bonus Cantrip (Level 1)
 
-When you choose this domain at 1st level, you gain the [[5. Mechanics/Spells/Guidance.md\|guidance]] cantrip if you don't already know it.
+When you choose this domain at 1st level, you gain the [[/5. Mechanics/Spells/Guidance.md\|guidance]] cantrip if you don't already know it.
 
 ### Planar Reach (Level 1)
 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Trinket
 *Adventuring gear*  
-![[5. Mechanics/Items/img/trinket-phb.webp#right]]  
+![[/5. Mechanics/Items/img/trinket-phb.webp#right]]  
 
 
 When you make your character, you can roll once on the Trinkets table to gain a trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creatures pockets.
@@ -66,13 +66,13 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 43 | A tiny silver bell without a clapper |
 | 44 | A mechanical canary inside a gnomish lamp |
 | 45 | A tiny chest carved to look like it has numerous feet on the bottom |
-| 46 | A dead [[5. Mechanics/Bestiary/Fey/Sprite.md\|sprite]] inside a clear glass bottle |
+| 46 | A dead [[/5. Mechanics/Bestiary/Fey/Sprite.md\|sprite]] inside a clear glass bottle |
 | 47 | A metal can that has no opening but sounds as if it is filled with liquid, sand, spiders, or broken glass (your choice) |
 | 48 | A glass orb filled with water, in which swims a clockwork goldfish |
 | 49 | A silver spoon with an 'M' engraved on the handle |
 | 50 | A whistle made from gold-colored wood |
 | 51 | A dead scarab beetle the size of your hand |
-| 52 | Two toy soldiers, one with a missing head  |
+| 52 | Two toy soldiers, one with a missing head |
 | 53 | A small box filled with different-sized buttons |
 | 54 | A candle that can't be lit |
 | 55 | A tiny cage with no door |
@@ -101,7 +101,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 78 | An ornate scabbard that fits no blade you have found so far |
 | 79 | An invitation to a party where a murder happened |
 | 80 | A bronze pentacle with an etching of a rat's head in its center |
-| 81 | A purple handkerchief embroidered with the name of a powerful [[5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] |
+| 81 | A purple handkerchief embroidered with the name of a powerful [[/5. Mechanics/Bestiary/Humanoid/Archmage.md\|archmage]] |
 | 82 | Half of a floorplan for a temple, castle, or some other structure |
 | 83 | A bit of folded cloth that, when unfolded, turns into a stylish cap |
 | 84 | A receipt of deposit at a bank in a far-flung city |

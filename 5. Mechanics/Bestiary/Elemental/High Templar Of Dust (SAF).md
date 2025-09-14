@@ -13,7 +13,7 @@ tags:
 aliases:
   - High Templar of Dust
 ---
-# [[5. Mechanics\Bestiary\Elemental\High Templar Of Dust (SAF).md|High Templar of Dust]]
+# [[5. Mechanics/Bestiary/Elemental/High Templar Of Dust (SAF).md|High Templar of Dust]]
 *Source: Strongholds and Followers p. 192*
 
 The High Templars serve the Lady of Brass, but unlike the rest of the Court of Elements they were not created by her. They were the original Elemental Lords who dwelled on the Plane of Quintessence before the arrival of the Lady. Before the construction of Alloy, the City of Brass, began. When Quintessence was a wasteland.
@@ -53,10 +53,10 @@ The High Templar of Dust focuses on movement, moving through enemies to use its 
   - !!int "13"
 "speed": "30 ft."
 "saves":
-  - "strength": "+9"
-  - "constitution": "+9"
-  - "wisdom": "+7"
-  - "charisma": "+5"
+  - "strength": !!int "9"
+  - "constitution": !!int "9"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "fire, lightning, cold, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
@@ -64,12 +64,13 @@ The High Templar of Dust focuses on movement, moving through enemies to use its 
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 17"
 "languages": "Aquan, Auran, Common, Ignan, Terran"
 "cr": "10"
 "traits":
   - "desc": "At the start of each of the templar's turns, each creature within 5 feet\
-      \ of it takes 5 (d10) piercing damage."
+      \ of it takes 5 (1d10) piercing damage."
     "name": "Sandstorm"
   - "desc": "The Templar moves up to its speed without provoking opportunity attacks.\n\
       \nIt can move through creatures, and each creature it passes through must make\
@@ -79,10 +80,10 @@ The High Templar of Dust focuses on movement, moving through enemies to use its 
   - "desc": "The Templar makes four attacks with its halberd, Lightning, or Fire.\
       \ Lightning and Fire can only be used twice each."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 10\
       \ (1d10 + 5) slashing damage."
     "name": "Halberd"
-  - "desc": "Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 10\
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 60 ft., one target. *Hit:* 10\
       \ (3d6) lightning damage."
     "name": "Lightning"
   - "desc": "The templar hurls a ball of fire that explodes at a point it can see\

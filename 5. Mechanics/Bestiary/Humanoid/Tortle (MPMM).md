@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: coastal
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Tortle
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tortle (MPMM).md|Tortle]]
+# [[5. Mechanics/Bestiary/Humanoid/Tortle (MPMM).md|Tortle]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.
@@ -55,15 +55,15 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   - "desc": "The tortle can hold its breath for 1 hour."
     "name": "Hold Breath"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) slashing damage."
     "name": "Claw"
-  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
       \ damage if used with two hands in melee."
     "name": "Spear"
-  - "desc": "Ranged Weapon Attack: +2 to hit, range 80/320 ft., one target. Hit:\
-      \ 4 (d8) piercing damage."
+  - "desc": "*Ranged Weapon Attack:* +2 to hit, range 80/320 ft., one target. *Hit:*\
+      \ 4 (1d8) piercing damage."
     "name": "Light Crossbow"
   - "desc": "The tortle withdraws into its shell. Until it emerges, it gains a +4\
       \ bonus to AC and has advantage on Strength and Constitution saving throws.\
@@ -75,7 +75,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/tortle-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/tortle-mpmm.webp"
 ```
 ^statblock
 

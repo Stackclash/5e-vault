@@ -31,16 +31,14 @@ level: 5
 ritual: false
 time: 10 minutes
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: >-
+  incense worth at least 250 gp, which the spell consumes, and four ivory strips
+  worth at least 50 gp each
 aliases:
   - Legend Lore
-range: Self
-material: >-
-  Incense worth at least 250 gp, which the spell consumes, and four ivory strips
-  worth at least 50 gp each.
 ---
 # Legend Lore
 *5th-level, Divination*  
@@ -54,6 +52,6 @@ Name or describe a person, place, or object. The spell brings to your mind a bri
 
 The information you learn is accurate but might be couched in figurative language. For example, if you have a mysterious magic axe on hand, the spell might yield this information: "Woe to the evildoer whose hand touches the axe, for even the haft slices the hand of the evil ones. Only a true Child of Stone, lover and beloved of Moradin, may awaken the true powers of the axe, and only with the sacred word Rudnogg on the lips."
 
-**Classes**: [Ranger (Rocborne)](compendium/lists/list-spells-classes-rocborne-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Dragon Domain)](compendium/lists/list-spells-classes-dragon-domain-kpdm.md "subclass=KPDM"); [Warlock (The Valiant)](compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [Paladin (Oath of Legacy)](compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Warlock (The Sibyl)](compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Dragon Domain)](/compendium/lists/list-spells-classes-dragon-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [Ranger (Rocborne)](/compendium/lists/list-spells-classes-rocborne-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Sibyl)](/compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [Warlock (The Valiant)](/compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

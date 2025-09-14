@@ -10,7 +10,7 @@ aliases:
 # Aarakocra
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Dexterity +2; Wisdom +2
+- **Ability Scores**: dex +2 wis +2
 - **Size**: Medium
 - **Speed**: walk: 20 ft.; fly: 50 ft.
 
@@ -18,11 +18,11 @@ aliases:
 
 ### Dive Attack
 
-If you are flying and dive at least 30 ft. straight toward a target and then hit it with a melee weapon attack, the attack deals an extra `dice:1d6|noform|noparens|avg` (`d6`) damage to the target.
+If you are flying and dive at least 30 ft. straight toward a target and then hit it with a melee weapon attack, the attack deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage to the target.
 
 ### Talons
 
-You are proficient with your unarmed strikes, which deal `dice:1d4|noform|noparens|avg` (`d4`) slashing damage on a hit.
+You are proficient with your unarmed strikes, which deal `dice:1d4|noform|noparens|avg` (`1d4`) slashing damage on a hit.
 
 ### Language
 

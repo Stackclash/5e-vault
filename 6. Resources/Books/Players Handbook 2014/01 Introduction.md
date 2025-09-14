@@ -121,7 +121,7 @@ The target number for an ability check or a saving throw is called a **Difficult
 
 This simple rule governs the resolution of most tasks in D&D play. Chapter 7 provides more detailed rules for using the d20 in the game.
 
-![[6. Resources/Books/Players Handbook 2014/img/dice_1.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/dice_1.webp#center]]
 
 ### Advantage and Disadvantage
 
@@ -175,4 +175,4 @@ For adventurers, though, magic is key to their survival. Without the healing mag
 
 Magic is also a favored tool of villains. Many adventures are driven by the machinations of spellcasters who are hellbent on using magic for some ill end. A cult leader seeks to awaken a god who slumbers beneath the sea, a hag kidnaps youths to magically drain them of their vigor, a mad wizard labors to invest an army of automatons with a facsimile of life, a dragon begins a mystical ritual to rise up as a god of destruction—these are just a few of the magical threats that adventurers might face. With magic of their own, in the form of spells and magic items, the adventurers might prevail!
 
-![[6. Resources/Books/Players Handbook 2014/img/dice_2.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/dice_2.webp#center]]

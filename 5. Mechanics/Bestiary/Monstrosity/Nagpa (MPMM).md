@@ -19,7 +19,7 @@ tags:
 aliases:
   - Nagpa
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Nagpa (MPMM).md|Nagpa]]
+# [[5. Mechanics/Bestiary/Monstrosity/Nagpa (MPMM).md|Nagpa]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215*
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
@@ -48,9 +48,9 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
   - !!int "21"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+12"
-  - "wisdom": "+10"
-  - "charisma": "+11"
+  - "intelligence": !!int "12"
+  - "wisdom": !!int "10"
+  - "charisma": !!int "11"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+12"
@@ -62,27 +62,29 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
     "desc": "+10"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+10"
-"senses": "truesight 120 ft., passive Perception 20"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 20"
 "languages": "Common plus up to five other languages"
 "cr": "17"
 "actions":
   - "desc": "The nagpa makes three Staff or Deathly Ray attacks. It can replace one\
       \ attack with a use of Spellcasting."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
       \ + 2) bludgeoning damage plus 24 (7d6) necrotic damage."
     "name": "Staff"
-  - "desc": "Ranged Spell Attack: +12 to hit, range 120 ft., one target. Hit:\
+  - "desc": "*Ranged Spell Attack:* +12 to hit, range 120 ft., one target. *Hit:*\
       \ 30 (7d6 + 6) necrotic damage."
     "name": "Deathly Ray"
   - "desc": "The nagpa casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 20):\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-      \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]],\
-      \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n2/day each: [[5. Mechanics/Spells/Fireball.md|fireball]],\
-      \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-      \ [[5. Mechanics/Spells/Suggestion.md|suggestion]], [[5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Dominate Person.md|dominate person]], [[5. Mechanics/Spells/Etherealness.md|etherealness]],\
-      \ [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]"
+      \ spellcasting ability (spell save DC 20):\n\n**At will:** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Message.md|message]],\
+      \ [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n**2/day each:**\
+      \ [[/5. Mechanics/Spells/Fireball.md|fireball]], [[/5. Mechanics/Spells/Fly.md|fly]],\
+      \ [[/5. Mechanics/Spells/Hold Person.md|hold person]], [[/5. Mechanics/Spells/Suggestion.md|suggestion]],\
+      \ [[/5. Mechanics/Spells/Wall Of Fire.md|wall of fire]]\n\n**1/day each:** [[/5. Mechanics/Spells/Dominate Person.md|dominate\
+      \ person]], [[/5. Mechanics/Spells/Etherealness.md|etherealness]],\
+      \ [[/5. Mechanics/Spells/Feeblemind.md|feeblemind]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The nagpa targets one creature it can see within 90 feet of it. The target\
@@ -101,7 +103,7 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/nagpa-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/nagpa-mpmm.webp"
 ```
 ^statblock
 

@@ -17,15 +17,11 @@ level: 7
 ritual: false
 time: 10 minutes
 duration: 10 days
-components:
-  - V
-  - S
+range: Sight
+somatic: true
+verbal: true
 aliases:
   - Mirage Arcane
-range: Sight
-area:
-  type: cube
-  size: 5280
 ---
 # Mirage Arcane
 *7th-level, Illusion*  
@@ -43,6 +39,6 @@ The illusion includes audible, visual, tactile, and olfactory elements, so it ca
 
 Creatures with [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]] can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

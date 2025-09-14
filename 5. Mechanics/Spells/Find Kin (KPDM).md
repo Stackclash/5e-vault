@@ -21,16 +21,19 @@ classes:
   - Sorcerer (Divine Soul)
 school: Divination
 level: 1
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: true
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a freshly dug up tree root that is consumed by the spell
 aliases:
   - Find Kin
-material: a freshly dug up tree root that is consumed by the spell
 ---
 # Find Kin
 *1st-level, Divination (ritual)*  
@@ -42,6 +45,8 @@ material: a freshly dug up tree root that is consumed by the spell
 
 You touch one willing creature or make a melee spell attack against an unwilling creature, which is entitled to a Wisdom saving throw. On a failed save, or automatically if the target is willing, you learn the identity, appearance, and location of one randomly selected living relative of the target.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Ritual Caster.md\|Ritual Caster]]
 
 *Source: Deep Magic p. 69*

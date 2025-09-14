@@ -13,7 +13,7 @@ tags:
 aliases:
   - Arcanaloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Arcanaloth.md|Arcanaloth]]
+# [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md|Arcanaloth]]
 *Source: Monster Manual p. 313, Curse of Strahd, Tasha's Cauldron of Everything*
 
 Arcanaloths are sly, jackal-headed beings with humanoid bodies, but they can employ magic to take any humanoid form. They do so to gain the trust of creatures with whom they negotiate, replacing jackal snarls with winsome smiles. Regardless of its chosen form, an arcanaloth appears well groomed, clothing itself in fine robes. Highly intelligent spellcasters who hunger for knowledge and power, arcanaloths command units of lesser yugoloths and maintain the contracts, records, and accounts of their kind.
@@ -60,8 +60,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > 
 > - An arcanaloth has a 40 percent chance of summoning one arcanaloth.  
 > - A mezzoloth has a 30 percent chance of summoning one mezzoloth.  
-> - A nycaloth has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) mezzoloths or one nycaloth.  
-> - An ultroloth has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) mezzoloths, `dice:1d4|noform|noparens|avg` (`d4`) nycaloths, or one ultroloth.  
+> - A nycaloth has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`1d4`) mezzoloths or one nycaloth.  
+> - An ultroloth has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`1d6`) mezzoloths, `dice:1d4|noform|noparens|avg` (`1d4`) nycaloths, or one ultroloth.  
 > 
 > A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for l minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it
 ^variant-yugoloth-summoning
@@ -91,10 +91,10 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - !!int "17"
 "speed": "30 ft., fly 30 ft."
 "saves":
-  - "dexterity": "+5"
-  - "intelligence": "+9"
-  - "wisdom": "+7"
-  - "charisma": "+7"
+  - "dexterity": !!int "5"
+  - "intelligence": !!int "9"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+13"
@@ -108,34 +108,35 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 17"
 "languages": "all, telepathy 120 ft."
 "cr": "12"
 "traits":
   - "desc": "The arcanaloth is a 16th-level spellcaster. Its spellcasting ability\
       \ is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth\
-      \ has the following wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire\
-      \ bolt]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-      \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-      \n1st level (4 slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-      \ [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Shield.md|shield]],\
-      \ [[5. Mechanics/Spells/Tensers Floating Disk.md|Tenser's floating disk]]\n\n2nd\
-      \ level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-      \ [[5. Mechanics/Spells/Mirror Image.md|mirror image]], [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]],\
-      \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3rd level (3 slots):\
-      \ [[5. Mechanics/Spells/Counterspell.md|counterspell]], [[5. Mechanics/Spells/Fear.md|fear]],\
-      \ [[5. Mechanics/Spells/Fireball.md|fireball]]\n\n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]],\
-      \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\n5th level (2 slots):\
-      \ [[5. Mechanics/Spells/Contact Other Plane.md|contact other plane]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\
-      \n6th level (1 slots): [[5. Mechanics/Spells/Chain Lightning.md|chain lightning]]\n\
-      \n7th level (1 slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]]\n\
-      \n8th level (1 slots): [[5. Mechanics/Spells/Mind Blank.md|mind blank]]"
+      \ has the following wizard spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Fire Bolt.md|fire\
+      \ bolt]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+      \n**1st level (4 slots):** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[/5. Mechanics/Spells/Identify.md|identify]], [[/5. Mechanics/Spells/Shield.md|shield]],\
+      \ [[/5. Mechanics/Spells/Tensers Floating Disk.md|Tenser's floating disk]]\n\n\
+      **2nd level (3 slots):** [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+      \ [[/5. Mechanics/Spells/Mirror Image.md|mirror image]], [[/5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]],\
+      \ [[/5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n**3rd level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Counterspell.md|counterspell]], [[/5. Mechanics/Spells/Fear.md|fear]],\
+      \ [[/5. Mechanics/Spells/Fireball.md|fireball]]\n\n**4th level (3 slots):** [[/5. Mechanics/Spells/Banishment.md|banishment]],\
+      \ [[/5. Mechanics/Spells/Dimension Door.md|dimension door]]\n\n**5th level (2 slots):**\
+      \ [[/5. Mechanics/Spells/Contact Other Plane.md|contact other plane]], [[/5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\
+      \n**6th level (1 slots):** [[/5. Mechanics/Spells/Chain Lightning.md|chain lightning]]\n\
+      \n**7th level (1 slots):** [[/5. Mechanics/Spells/Finger Of Death.md|finger of death]]\n\
+      \n**8th level (1 slots):** [[/5. Mechanics/Spells/Mind Blank.md|mind blank]]"
     "name": "Spellcasting"
   - "desc": "The arcanaloth's innate spellcasting ability is Charisma (spell save\
       \ DC 15). The arcanaloth can innately cast the following spells, requiring no\
-      \ material components:\n\nAt will: [[5. Mechanics/Spells/Alter Self.md|alter self]],\
-      \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Heat Met(AL).md|heat metal]],\
-      \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only), [[5. Mechanics/Spells/Magic Missile.md|magic missile]]"
+      \ material components:\n\n**At will:** [[/5. Mechanics/Spells/Alter Self.md|alter self]],\
+      \ [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Heat Met(AL).md|heat metal]],\
+      \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]] (self only), [[/5. Mechanics/Spells/Magic Missile.md|magic missile]]"
     "name": "Innate Spellcasting"
   - "desc": "The arcanaloth has advantage on saving throws against spells and other\
       \ magical effects."
@@ -143,7 +144,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - "desc": "The arcanaloth's weapon attacks are magical."
     "name": "Magic Weapons"
 "actions":
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
       \ + 3) slashing damage. The target must make a DC 14 Constitution saving throw,\
       \ taking 10 (3d6) poison damage on a failed save, or half as much damage on\
       \ a successful one."
@@ -155,7 +156,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - "MM"
   - "CoS"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Fiend/token/arcanaloth.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/arcanaloth.webp"
 ```
 ^statblock
 

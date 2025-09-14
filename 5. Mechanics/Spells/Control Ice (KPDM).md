@@ -16,17 +16,29 @@ classes:
   - Wizard
 school: Transmutation
 level: 5
+damage:
+  base: 4d10
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 300 feet
+somatic: true
+verbal: true
+material: a cube of white wax
+area:
+  shape: cube
+  size: 20
 aliases:
   - Control Ice
-concentration: true
-material: a cube of white wax
 ---
 # Control Ice
 *5th-level, Transmutation*  
@@ -44,6 +56,6 @@ Until the spell ends, you control any ice inside an area you choose within range
 
 **Thicken/Thin.** You cause existing ice to increase or decrease in thickness, up to 1 inch per round over some or all of the total area, either making the surface stronger or creating thin ice that is hazardous to walk on.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 269*

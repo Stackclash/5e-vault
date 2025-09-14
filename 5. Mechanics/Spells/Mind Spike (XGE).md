@@ -20,14 +20,25 @@ classes:
   - Wizard
 school: Divination
 level: 2
+damage:
+  base: 3d8
+  scaling:
+    damage: 1d8
+    level: 3
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: half damage
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - S
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+somatic: true
+verbal: false
 aliases:
   - Mind Spike
-concentration: true
 ---
 # Mind Spike
 *2nd-level, Divination*  
@@ -39,8 +50,8 @@ concentration: true
 
 You reach into the mind of one creature you can see within range. The target must make a Wisdom saving throw, taking `dice:3d8|noform|noparens|avg` (`3d8`) psychic damage on a failed save, or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it's [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]], it gains no benefit from that condition against you.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 162*

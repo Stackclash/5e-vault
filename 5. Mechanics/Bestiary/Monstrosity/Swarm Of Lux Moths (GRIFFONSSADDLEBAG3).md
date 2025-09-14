@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Lux Moths
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Swarm Of Lux Moths (GRIFFONSSADDLEBAG3).md|Swarm of Lux Moths]]
+# [[5. Mechanics/Bestiary/Monstrosity/Swarm Of Lux Moths (GRIFFONSSADDLEBAG3).md|Swarm of Lux Moths]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Having absorbed a portion of energy from the region's crystals, these moths exhibit an increased sense of awareness and group cohesion, acting more like drones of a beehive to protect and supply their queen. They seem to prefer utilizing their silhouette to deter threats from afar, but can also charm or blind foes in closer quarters. Some cavern denizens even use the phrase "beware the beauties" as both literal warning of these creatures, and as metaphorical advice against similarly dangerous illusory threats.
@@ -41,7 +41,8 @@ Having absorbed a portion of energy from the region's crystals, these moths exhi
   \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "blindsight 10 ft., passive Perception 7"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., passive Perception\
+  \ 7"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -62,7 +63,7 @@ Having absorbed a portion of energy from the region's crystals, these moths exhi
       \ nature of the silhouette."
     "name": "Intimidating Facade"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 0 ft., one target. Hit: 6 (2d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 0 ft., one target. *Hit:* 6 (2d4\
       \ + 1) radiant damage, or 3 (1d4 + 1) radiant damage if the swarm has half of\
       \ its hit points or fewer."
     "name": "Disrupting Flashes"

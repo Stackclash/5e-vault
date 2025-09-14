@@ -13,7 +13,7 @@ tags:
 aliases:
   - Lesser Marilith
 ---
-# [[5. Mechanics\Bestiary\Fiend\Lesser Marilith (SAF).md|Lesser Marilith]]
+# [[5. Mechanics/Bestiary/Fiend/Lesser Marilith (SAF).md|Lesser Marilith]]
 *Source: Strongholds and Followers p. 151*
 
 ```statblock
@@ -36,13 +36,14 @@ aliases:
   - !!int "17"
 "speed": "40 ft."
 "saves":
-  - "wisdom": "+5"
-  - "charisma": "+6"
+  - "wisdom": !!int "5"
+  - "charisma": !!int "6"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical weapons"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Abyssal, telepathy 60 ft."
 "cr": "5"
 "traits":
@@ -55,10 +56,10 @@ aliases:
   - "desc": "The lesser marilith makes three attacks with its longsword and one attack\
       \ with its tail."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) slashing damage."
     "name": "Longsword"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. Hit:\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:*\
       \ 12 (2d8 + 3) bludgeoning damage. If the target is Medium or smaller, it is\
       \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 14). Until\
       \ this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\

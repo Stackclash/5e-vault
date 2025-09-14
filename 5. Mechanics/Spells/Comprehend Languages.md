@@ -34,14 +34,12 @@ level: 1
 ritual: true
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: a pinch of soot and salt
 aliases:
   - Comprehend Languages
-range: Self
-material: A pinch of soot and salt.
 ---
 # Comprehend Languages
 *1st-level, Divination (ritual)*  
@@ -55,6 +53,8 @@ For the duration, you understand the literal meaning of any spoken language that
 
 This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Paladin (Oath of the Open Road)](compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Beer Domain)](compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Travel Domain)](compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Beer Domain)](/compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [Cleric (Travel Domain)](/compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Open Road)](/compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Ritual Caster.md\|Ritual Caster]]
 
 *Source: Player's Handbook p. 224. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

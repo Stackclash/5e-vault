@@ -71,6 +71,6 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Weapon-of-Showmanship.webp#right)  
 
 
-When you reduce a Small or larger creature to 0 hit points or score a critical hit against a target with this weapon, you can create a harmless sensory effect or illusion, as per the [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] spell, as part of that attack. The effect can appear on the target of the attack or in the area immediately surrounding it.
+When you reduce a Small or larger creature to 0 hit points or score a critical hit against a target with this weapon, you can create a harmless sensory effect or illusion, as per the [[/5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] spell, as part of that attack. The effect can appear on the target of the attack or in the area immediately surrounding it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 143*

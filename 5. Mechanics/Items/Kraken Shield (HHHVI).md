@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Kraken Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), legendary (requires attunement)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), legendary (requires attunement)*  
 
 - **Armor Class**: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]

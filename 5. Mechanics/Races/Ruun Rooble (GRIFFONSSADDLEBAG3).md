@@ -11,7 +11,7 @@ aliases:
 *Source: The Griffon's Saddlebag, Book 3 p. 51*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ruun-Rooble.webp#right)  
 
-- **Ability Scores**: Charisma +1
+- **Ability Scores**: cha +1
 - **Size**: Medium
 - **Speed**: walk: 30 ft.; swim: 30 ft.
 

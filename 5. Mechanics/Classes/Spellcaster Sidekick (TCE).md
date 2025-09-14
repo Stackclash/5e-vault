@@ -102,9 +102,9 @@ The Spellcaster table shows how many spell slots the sidekick has to cast its Sp
 
 The sidekick knows two cantrips and one 1st-level spell of your choice from its spell list. Here are recommendations for a 1st-level spellcaster of each role:
 
-- **Mage.** [[5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]], [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]]  
-- **Healer.** [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], [[5. Mechanics/Spells/Guidance.md\|guidance]], [[5. Mechanics/Spells/Sacred Flame.md\|sacred flame]]  
-- **Prodigy.** [[5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]], [[5. Mechanics/Spells/Healing Word.md\|healing word]], [[5. Mechanics/Spells/Light.md\|light]]  
+- **Mage.** [[/5. Mechanics/Spells/Mage Hand.md\|mage hand]], [[/5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]], [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]]  
+- **Healer.** [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], [[/5. Mechanics/Spells/Guidance.md\|guidance]], [[/5. Mechanics/Spells/Sacred Flame.md\|sacred flame]]  
+- **Prodigy.** [[/5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]], [[/5. Mechanics/Spells/Healing Word.md\|healing word]], [[/5. Mechanics/Spells/Light.md\|light]]  
 - The Cantrips Known and Spells Known columns of the Spellcaster table shows when the sidekick learns more spells of your choice. Each of the spells in the Spells Known column must be of a level for which the sidekick has spell slots, as shown on the table. For instance, when the sidekick reaches 5th level in this class, it can learn one new spell of 1st or 2nd level.  
 - Additionally, when the sidekick gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list. The new spell must be a cantrip or of a level for which the sidekick has spell slots.  
 
@@ -120,7 +120,7 @@ The sidekick uses its spellcasting ability whenever a spell refers to that abili
 
 #### Spellcasting Focus
 
-The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Healer can use a holy symbol, and a Prodigy can use an arcane focus or a [[5. Mechanics/Items/Musical Instrument.md\|musical instrument]].
+The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Healer can use a holy symbol, and a Prodigy can use an arcane focus or a [[/5. Mechanics/Items/Musical Instrument.md\|musical instrument]].
 
 ### Ability Score Improvement (Level 4)
 

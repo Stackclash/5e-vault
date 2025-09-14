@@ -12,7 +12,7 @@ one-hand-damage: 1d4 slashing
 weight: 3
 ---
 # Stinger Whip
-*Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), rare*  
+*Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/StingerWhip.webp#right)  
 
 - **Damage**: 1d4 slashing

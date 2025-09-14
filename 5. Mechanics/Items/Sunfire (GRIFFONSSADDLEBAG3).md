@@ -11,11 +11,11 @@ tags:
 aliases:
   - Sunfire
 one-hand-damage: 2d8 radiant
-range: 100\400
+range: 100/400
 weight: 3
 ---
 # Sunfire
-*Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare (requires attunement by a cleric or paladin)*  
+*Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Sunfire.webp#right)  
 
 - **Damage**: 2d8 radiant

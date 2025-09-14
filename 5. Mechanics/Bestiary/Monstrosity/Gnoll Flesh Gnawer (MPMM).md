@@ -17,7 +17,7 @@ tags:
 aliases:
   - Gnoll Flesh Gnawer
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Gnoll Flesh Gnawer (MPMM).md|Gnoll Flesh Gnawer]]
+# [[5. Mechanics/Bestiary/Monstrosity/Gnoll Flesh Gnawer (MPMM).md|Gnoll Flesh Gnawer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*
 
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
@@ -32,7 +32,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"
@@ -45,17 +45,18 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
   - !!int "8"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+4"
-"senses": "darkvision 60 ft., passive Perception 10"
+  - "dexterity": !!int "4"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Gnoll"
 "cr": "1"
 "actions":
   - "desc": "The gnoll makes one Bite attack and two Shortsword attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Shortsword"
   - "desc": "Until the end of the turn, the gnoll's speed increases by 60 feet and\
@@ -68,7 +69,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/gnoll-flesh-gnawer-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/gnoll-flesh-gnawer-mpmm.webp"
 ```
 ^statblock
 

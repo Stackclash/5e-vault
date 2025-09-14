@@ -13,7 +13,7 @@ tags:
 aliases:
   - Empyrean
 ---
-# [[5. Mechanics\Bestiary\Celestial\Empyrean.md|Empyrean]]
+# [[5. Mechanics/Bestiary/Celestial/Empyrean.md|Empyrean]]
 *Source: Monster Manual p. 130*
 
 Empyreans are the celestial children of the gods of the Upper Planes. They are universally beautiful, statuesque, and self-assured.
@@ -50,27 +50,28 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
   - !!int "27"
 "speed": "50 ft., fly 50 ft., swim 50 ft."
 "saves":
-  - "strength": "+17"
-  - "intelligence": "+12"
-  - "wisdom": "+13"
-  - "charisma": "+15"
+  - "strength": !!int "17"
+  - "intelligence": !!int "12"
+  - "wisdom": !!int "13"
+  - "charisma": !!int "15"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+13"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
     "desc": "+15"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "truesight 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 16"
 "languages": "all"
 "cr": "23"
 "traits":
   - "desc": "The empyrean's innate spellcasting ability is Charisma (spell save DC\
       \ 23, +15 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
-      \ [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]], [[5. Mechanics/Spells/Water Breathing.md|water breathing]],\
-      \ [[5. Mechanics/Spells/Water Wa(LK).md|water walk]]\n\n1/day each: [[5. Mechanics/Spells/Commune.md|commune]],\
-      \ [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[5. Mechanics/Spells/Earthquake.md|earthquake]],\
-      \ [[5. Mechanics/Spells/Fire Storm.md|fire storm]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]\
+      \ requiring no material components:\n\n**At will:** [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
+      \ [[/5. Mechanics/Spells/Pass Without Trace.md|pass without trace]], [[/5. Mechanics/Spells/Water Breathing.md|water breathing]],\
+      \ [[/5. Mechanics/Spells/Water Wa(LK).md|water walk]]\n\n**1/day each:** [[/5. Mechanics/Spells/Commune.md|commune]],\
+      \ [[/5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]], [[/5. Mechanics/Spells/Earthquake.md|earthquake]],\
+      \ [[/5. Mechanics/Spells/Fire Storm.md|fire storm]], [[/5. Mechanics/Spells/Plane Shift.md|plane shift]]\
       \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "If the empyrean fails a saving throw, it can choose to succeed instead."
@@ -81,15 +82,18 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
   - "desc": "The empyrean's weapon attacks are magical."
     "name": "Magic Weapons"
 "actions":
-  - "desc": "Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 31\
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 31\
       \ (6d6 + 10) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
       \ until the end of the empyrean's next turn."
     "name": "Maul"
-  - "desc": "Ranged Spell Attack: +15 to hit, range 600 ft., one target. Hit:\
+  - "desc": "*Ranged Spell Attack:* +15 to hit, range 600 ft., one target. *Hit:*\
       \ 24 (7d6) damage of one of the following types (empyrean's choice): acid, cold,\
       \ fire, force, lightning, radiant, or thunder."
     "name": "Bolt"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the empyrean can expend a use to take one of the following actions. The\
+  \ empyrean regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The empyrean makes one attack."
     "name": "Attack"
@@ -105,7 +109,7 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
     "name": "Trembling Strike (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Celestial/token/empyrean.webp"
+"image": "/5. Mechanics/Bestiary/Celestial/token/empyrean.webp"
 ```
 ^statblock
 

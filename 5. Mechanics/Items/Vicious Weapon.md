@@ -69,7 +69,7 @@ aliases:
 ---
 # Vicious Weapon
 *Major, rare*  
-![[5. Mechanics/Items/img/vicious-weapon.webp#right]]  
+![[/5. Mechanics/Items/img/vicious-weapon.webp#right]]  
 
 
 When you roll a 20 with this magic weapon, the target takes an extra 7 damage of the weapon's type.

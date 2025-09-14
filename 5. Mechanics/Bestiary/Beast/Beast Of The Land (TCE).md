@@ -13,7 +13,7 @@ tags:
 aliases:
   - Beast of the Land
 ---
-# [[5. Mechanics\Bestiary\Beast\Beast Of The Land (TCE).md|Beast of the Land]]
+# [[5. Mechanics/Bestiary/Beast/Beast Of The Land (TCE).md|Beast of the Land]]
 *Source: Tasha's Cauldron of Everything p. 61*
 
 ```statblock
@@ -31,11 +31,12 @@ aliases:
   - !!int "14"
   - !!int "11"
 "speed": "40 ft., climb 40 ft."
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "If the beast moves at least 20 feet straight toward a target and then\
-      \ hits it with a maul attack on the same turn, the target takes an extra d6\
+      \ hits it with a maul attack on the same turn, the target takes an extra 1d6\
       \ slashing damage. If the target is a creature, it must succeed on a Strength\
       \ saving throw against your spell save DC or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Charge"
@@ -43,12 +44,12 @@ aliases:
       \ that the beast makes."
     "name": "Primal Bond"
 "actions":
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d8 + 2 + PB slashing damage."
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d8 + 2 + PB slashing damage."
     "name": "Maul"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Beast/token/beast-of-the-land-tce.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/beast-of-the-land-tce.webp"
 ```
 ^statblock
 

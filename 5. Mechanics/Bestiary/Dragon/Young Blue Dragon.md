@@ -15,7 +15,7 @@ tags:
 aliases:
   - Young Blue Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Blue Dragon.md|Young Blue Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Blue Dragon.md|Young Blue Dragon]]
 *Source: Monster Manual p. 91, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -44,7 +44,7 @@ A blue dragon keeps its lair secret and well protected, and even its most truste
 
 ## Hoarders of Gems
 
-Though blue dragons collect anything that looks valuable, they are especially fond of gems. Considering blue to be the most noble and beautiful of colors, they covet sapphires, favoring jewelery and magic items adorned with those gems.
+Though blue dragons collect anything that looks valuable, they are especially fond of gems. Considering blue to be the most noble and beautiful of colors, they covet sapphires, favoring jewelry and magic items adorned with those gems.
 
 A blue dragon buries its most valuable treasures deep in the sand, while scattering a few less valuable trinkets in plainer sight over hidden sinkholes to punish and eliminate would-be thieves.
 
@@ -121,26 +121,27 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - !!int "17"
 "speed": "40 ft., burrow 20 ft., fly 80 ft."
 "saves":
-  - "dexterity": "+4"
-  - "constitution": "+8"
-  - "wisdom": "+5"
-  - "charisma": "+7"
+  - "dexterity": !!int "4"
+  - "constitution": !!int "8"
+  - "wisdom": !!int "5"
+  - "charisma": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+9"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
 "damage_immunities": "lightning"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 19"
 "languages": "Common, Draconic"
 "cr": "9"
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16\
-      \ (2d10 + 5) piercing damage plus 5 (d10) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16\
+      \ (2d10 + 5) piercing damage plus 5 (1d10) lightning damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage."
     "name": "Claw"
   - "desc": "The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each\
@@ -151,7 +152,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Dragon/token/young-blue-dragon.webp"
+"image": "/5. Mechanics/Bestiary/Dragon/token/young-blue-dragon.webp"
 ```
 ^statblock
 

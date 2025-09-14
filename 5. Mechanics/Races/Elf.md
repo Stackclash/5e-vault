@@ -9,9 +9,9 @@ aliases:
 ---
 # Elf
 *Source: Player's Handbook p. 21. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
-![[5. Mechanics/Races/img/elf.webp#right]]  
+![[/5. Mechanics/Races/img/elf.webp#right]]  
 
-- **Ability Scores**: Dexterity +2
+- **Ability Scores**: dex +2
 - **Size**: Medium
 - **Speed**: 30 ft.
 

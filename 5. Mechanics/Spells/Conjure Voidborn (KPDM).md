@@ -12,15 +12,20 @@ classes:
   - Wizard
 school: Conjuration
 level: 7
+damage:
+  base: 2d6
+  scaling:
+    damage: null
+    level: 8
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 hour'
+range: 90 feet
+somatic: true
+verbal: true
 aliases:
   - Conjure Voidborn
-concentration: true
 ---
 # Conjure Voidborn
 *7th-level, Conjuration*  
@@ -38,6 +43,6 @@ If your concentration is broken, the spell ends but the creature doesn't disappe
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the challenge rating increases by 1 for each slot level above 7th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 331*

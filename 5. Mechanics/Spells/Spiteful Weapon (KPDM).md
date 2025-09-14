@@ -26,17 +26,25 @@ classes:
   - Wizard
 school: Necromancy
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 5
+  types: []
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: half damage
 ritual: false
 time: 1 Action
-duration: up to 5 rounds
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 5 rounds'
+range: 25 feet
+somatic: true
+verbal: true
+material: a melee weapon that has been used to injure the target
 aliases:
   - Spiteful Weapon
-concentration: true
-material: a melee weapon that has been used to injure the target
 ---
 # Spiteful Weapon
 *3rd-level, Necromancy*  
@@ -54,6 +62,6 @@ Once the connection is established, it lasts for the duration of the spell regar
 
 **At Higher Levels.** The target has disadvantage on its Charisma saving throws if spiteful weapon is cast using a spell slot of 5th level or higher.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 108*

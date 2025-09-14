@@ -14,12 +14,21 @@ classes:
   - Paladin
 school: Abjuration
 level: 5
+damage:
+  base: 2d6
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 1 Action
 duration: 10 minutes
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 10
 aliases:
   - Surprise Blessing
 ---
@@ -49,6 +58,6 @@ the original condition or until the spell ends. If this spell ends before the or
 
 **Stunned**: The target has advantage on Intelligence, Wisdom, and Charisma saving throws.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 111*

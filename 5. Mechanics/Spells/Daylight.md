@@ -36,15 +36,14 @@ level: 3
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 60
 aliases:
   - Daylight
-range: 60 feet
-area:
-  type: sphere
-  size: 60
 ---
 # Daylight
 *3rd-level, Evocation*  
@@ -60,6 +59,6 @@ If you chose a point on an object you are holding or one that isn't being worn o
 
 If any of this spell's area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Bard (Greenleaf College)](compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Warlock (The Celestial)](compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [Paladin (Oath of Radiance)](compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Greenleaf College)](/compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of Radiance)](/compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

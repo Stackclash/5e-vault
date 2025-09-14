@@ -51,7 +51,7 @@ An Alchemist is an expert at combining reagents to produce mystical effects. Alc
 
 ### Tool Proficiency (Level 3)
 
-When you adopt this specialization at 3rd level, you gain proficiency with [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]]. If you already have this proficiency, you gain proficiency with one other type of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice.
+When you adopt this specialization at 3rd level, you gain proficiency with [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]]. If you already have this proficiency, you gain proficiency with one other type of [[/5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice.
 
 ### Alchemist Spells (Level 3)
 
@@ -61,18 +61,18 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 
 | Artificer Level | Spell |
 |-----------------|-------|
-| 3rd | [[5. Mechanics/Spells/Healing Word.md\|healing word]], [[5. Mechanics/Spells/Ray Of Sickness.md\|ray of sickness]] |
-| 5th | [[5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[5. Mechanics/Spells/Melfs Acid Arrow.md\|Melf's acid arrow]] |
-| 9th | [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], [[5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]] |
-| 13th | [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Death Ward.md\|death ward]] |
-| 17th | [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]], [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] |
+| 3rd | [[/5. Mechanics/Spells/Healing Word.md\|healing word]], [[/5. Mechanics/Spells/Ray Of Sickness.md\|ray of sickness]] |
+| 5th | [[/5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[/5. Mechanics/Spells/Melfs Acid Arrow.md\|Melf's acid arrow]] |
+| 9th | [[/5. Mechanics/Spells/Gaseous Form.md\|gaseous form]], [[/5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]] |
+| 13th | [[/5. Mechanics/Spells/Blight.md\|blight]], [[/5. Mechanics/Spells/Death Ward.md\|death ward]] |
+| 17th | [[/5. Mechanics/Spells/Cloudkill.md\|cloudkill]], [[/5. Mechanics/Spells/Raise Dead.md\|raise dead]] |
 ^alchemist-spells
 
 ### Experimental Elixir (Level 3)
 
 Beginning at 3rd level, whenever you finish a long rest, you can magically produce an *experimental elixir* in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] creature.
 
-Creating an *experimental elixir* requires you to have [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.
+Creating an *experimental elixir* requires you to have [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.
 
 When you reach certain levels in this class, you can make more elixirs at the end of a long rest: two at 6th level and three at 15th level. Roll for each elixir's effect separately. Each elixir requires its own flask.
 
@@ -89,23 +89,23 @@ You can create additional *experimental elixirs* by expending a spell slot of 1s
 | 3 | **Resilience**. The drinker gains a +1 bonus to AC for 10 minutes. |
 | 4 | **Boldness**. The drinker can roll a `dice:d4\|noform\|noparens\|avg` (`d4`) and add the number rolled to every attack roll and saving throw they make for the next minute. |
 | 5 | **Flight**. The drinker gains a flying speed of 10 feet for 10 minutes. |
-| 6 | **Transformation**. The drinker's body is transformed as if by the [[5. Mechanics/Spells/Alter Self.md\|alter self]] spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes. |
+| 6 | **Transformation**. The drinker's body is transformed as if by the [[/5. Mechanics/Spells/Alter Self.md\|alter self]] spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes. |
 ^experimental-elixir
 
 ### Alchemical Savant (Level 5)
 
-At 5th level, you develop masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).
+At 5th level, you develop masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).
 
 ### Restorative Reagents (Level 9)
 
 Starting at 9th level, you can incorporate restorative reagents into some of your works:
 
 - Whenever a creature drinks an *experimental elixir* you created, the creature gains temporary hit points equal to `dice:2d6|noform|noparens|avg` (`2d6`) + your Intelligence modifier (minimum of 1 temporary hit point).  
-- You can cast [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] without expending a spell slot and without preparing the spell, provided you use [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.  
+- You can cast [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] without expending a spell slot and without preparing the spell, provided you use [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.  
 
 ### Chemical Mastery (Level 15)
 
 By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:
 
 - You gain resistance to acid damage and poison damage, and you are immune to the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition.  
-- You can cast [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] and [[5. Mechanics/Spells/He(AL).md\|heal]] without expending a spell slot, without preparing the spell, and without material components, provided you use [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.
+- You can cast [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] and [[/5. Mechanics/Spells/He(AL).md\|heal]] without expending a spell slot, without preparing the spell, and without material components, provided you use [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.

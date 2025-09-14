@@ -12,7 +12,7 @@ aliases:
 
 ***Prerequisites*** "The Genie Lord" Patron
 
-You learn the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
+You learn the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
 
 When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.
 

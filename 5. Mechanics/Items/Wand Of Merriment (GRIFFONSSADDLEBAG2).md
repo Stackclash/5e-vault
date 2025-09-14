@@ -19,7 +19,7 @@ This wand is made from a sprig of holly and exudes an unmistakable aura of cheer
 
 ## Spells
 
-While holding the wand, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 16) from it: [[5. Mechanics/Spells/Create Food And Water.md\|create food and water]] (3 charges), [[5. Mechanics/Spells/Goodberry.md\|goodberry]] (1 charge), [[5. Mechanics/Spells/Tashas Hideous Laughter.md\|hideous laughter]] (1 charge), or [[5. Mechanics/Spells/Ottos Irresistible Dance.md\|irresistible dance]] (6 charges).
+While holding the wand, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 16) from it: [[/5. Mechanics/Spells/Create Food And Water.md\|create food and water]] (3 charges), [[/5. Mechanics/Spells/Goodberry.md\|goodberry]] (1 charge), [[/5. Mechanics/Spells/Tashas Hideous Laughter.md\|hideous laughter]] (1 charge), or [[/5. Mechanics/Spells/Ottos Irresistible Dance.md\|irresistible dance]] (6 charges).
 
 ## Dashing through the Snow
 

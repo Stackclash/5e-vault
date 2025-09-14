@@ -12,15 +12,25 @@ classes:
   - Ranger
 school: Transmutation
 level: 3
+damage:
+  base: 4d8
+  scaling:
+    damage: 1d8
+    level: 4
+  types:
+    - lightning
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: half damage
 ritual: false
 time: 1 Bonus Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Lightning Arrow
-concentration: true
 ---
 # Lightning Arrow
 *3rd-level, Transmutation*  
@@ -36,8 +46,8 @@ Whether you hit or miss, each creature within 10 feet of the target must make a 
 
 The piece of ammunition or weapon then returns to its normal form.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Player's Handbook p. 255*

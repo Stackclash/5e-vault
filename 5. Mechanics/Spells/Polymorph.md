@@ -25,21 +25,19 @@ classes:
   - Wizard
 school: Transmutation
 level: 4
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+somatic: true
+verbal: true
+material: a caterpillar cocoon
 aliases:
   - Polymorph
-range: 60 feet
-material: A caterpillar cocoon.
-save:
-  type: WIS
-  success: none
-concentration: true
 ---
 # Polymorph
 *4th-level, Transmutation*  
@@ -59,6 +57,6 @@ The creature is limited in the actions it can perform by the nature of its new f
 
 The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Warlock (The Shapechanger)](compendium/lists/list-spells-classes-the-shapechanger-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Shapechanger)](/compendium/lists/list-spells-classes-the-shapechanger-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

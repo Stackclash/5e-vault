@@ -24,14 +24,12 @@ level: 5
 ritual: true
 time: 1 minute
 duration: 1 minute
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: incense and a vial of holy or unholy water
 aliases:
   - Commune
-range: Self
-material: Incense and a vial of holy or unholy water.
 ---
 # Commune
 *5th-level, Divination (ritual)*  
@@ -47,6 +45,6 @@ Divine beings aren't necessarily omniscient, so you might receive "unclear" as a
 
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative  chance for each casting after the first that you get no answer. The DM makes this roll in secret.
 
-**Classes**: [Paladin (Oath of Glory)](compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Cleric (Order Domain)](compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Order Domain)](/compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [Paladin (Oath of Glory)](/compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

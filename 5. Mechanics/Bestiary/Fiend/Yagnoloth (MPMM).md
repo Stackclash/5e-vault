@@ -14,7 +14,7 @@ tags:
 aliases:
   - Yagnoloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Yagnoloth (MPMM).md|Yagnoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Yagnoloth (MPMM).md|Yagnoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
@@ -43,10 +43,10 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
   - !!int "18"
 "speed": "40 ft."
 "saves":
-  - "dexterity": "+6"
-  - "intelligence": "+7"
-  - "wisdom": "+6"
-  - "charisma": "+8"
+  - "dexterity": !!int "6"
+  - "intelligence": !!int "7"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "8"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+8"
@@ -60,7 +60,8 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 16"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "11"
 "traits":
@@ -72,10 +73,10 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
       \ attack, or it makes one Massive Arm attack and uses Battlefield Cunning, if\
       \ available, or Teleport."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 27\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 27\
       \ (6d8) lightning damage."
     "name": "Electrified Touch"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 23\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 23\
       \ (3d12 + 4) force damage. If the target is a creature, it must succeed on a\
       \ DC 16 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]\
       \ until the end of the yagnoloth's next turn."
@@ -96,15 +97,15 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     "name": "Teleport"
   - "desc": "The yagnoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]\
-      \ (self only), [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3/day: [[5. Mechanics/Spells/Lightning Bolt.md|lightning\
-      \ bolt]]"
+      \n**At will:** [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]]\
+      \ (self only), [[/5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n**3/day:**\
+      \ [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/yagnoloth-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/yagnoloth-mpmm.webp"
 ```
 ^statblock
 

@@ -12,17 +12,19 @@ classes:
   - Sorcerer
 school: Enchantment
 level: 2
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 100 feet
+somatic: true
+verbal: true
+material: a gold coin
 aliases:
   - Treasure Chasm
-concentration: true
-material: a gold coin
 ---
 # Treasure Chasm
 *2nd-level, Enchantment*  
@@ -38,6 +40,6 @@ An affected creature can repeat the saving throw at the end of each of its turns
 
 Creatures with the dragon type have disadvantage on the initial saving throw but have advantage on saving throws against this spell made after reaching the designated spot.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Deep Magic p. 204*

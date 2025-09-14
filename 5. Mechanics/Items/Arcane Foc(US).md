@@ -14,10 +14,10 @@ aliases:
 
 **Items in this group:**
 
-- [[5. Mechanics/Items/Cryst(AL).md\|Crystal]]
-- [[5. Mechanics/Items/Orb.md\|Orb]]
-- [[5. Mechanics/Items/Rod.md\|Rod]]
-- [[5. Mechanics/Items/Staff.md\|Staff]]
-- [[5. Mechanics/Items/Wand.md\|Wand]]
+- [[/5. Mechanics/Items/Cryst(AL).md\|Crystal]]
+- [[/5. Mechanics/Items/Orb.md\|Orb]]
+- [[/5. Mechanics/Items/Rod.md\|Rod]]
+- [[/5. Mechanics/Items/Staff.md\|Staff]]
+- [[/5. Mechanics/Items/Wand.md\|Wand]]
 
 *Source: Player's Handbook p. 151*

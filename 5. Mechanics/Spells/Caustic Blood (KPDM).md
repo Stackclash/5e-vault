@@ -24,12 +24,23 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+damage:
+  base: 1d10
+  scaling:
+    damage: null
+    level: 3
+  types:
+    - acid
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Reaction
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Caustic Blood
 ---
@@ -41,10 +52,10 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Your blood becomes caustic when exposed to the air. When you take piercing or slashing damage, you can use your reaction to select up to three creatures within 30 feet of you. Each target takes `dice:1d10|noform|noparens|avg` (`d10`) acid damage unless it makes a successful Dexterity saving throw.
+Your blood becomes caustic when exposed to the air. When you take piercing or slashing damage, you can use your reaction to select up to three creatures within 30 feet of you. Each target takes `dice:1d10|noform|noparens|avg` (`1d10`) acid damage unless it makes a successful Dexterity saving throw.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the number of targets increases by one for each slot level above 2nd, to a maximum of six targets.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 320*

@@ -83,11 +83,11 @@ You gain oath spells at the paladin levels listed in the Oath of Glory Spells ta
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]], [[5. Mechanics/Spells/Heroism.md\|heroism]] |
-| 5th | [[5. Mechanics/Spells/Enhance Ability.md\|enhance ability]], [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]] |
-| 9th | [[5. Mechanics/Spells/Haste.md\|haste]], [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
-| 13th | [[5. Mechanics/Spells/Compulsion.md\|compulsion]], [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] |
-| 17th | [[5. Mechanics/Spells/Commune.md\|commune]], [[5. Mechanics/Spells/Flame Strike.md\|flame strike]] |
+| 3rd | [[/5. Mechanics/Spells/Guiding Bolt.md\|guiding bolt]], [[/5. Mechanics/Spells/Heroism.md\|heroism]] |
+| 5th | [[/5. Mechanics/Spells/Enhance Ability.md\|enhance ability]], [[/5. Mechanics/Spells/Magic Weapon.md\|magic weapon]] |
+| 9th | [[/5. Mechanics/Spells/Haste.md\|haste]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
+| 13th | [[/5. Mechanics/Spells/Compulsion.md\|compulsion]], [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] |
+| 17th | [[/5. Mechanics/Spells/Commune.md\|commune]], [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]] |
 ^oath-of-glory-spells
 
 ### Channel Divinity (Level 3)

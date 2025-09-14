@@ -11,12 +11,12 @@ tags:
 aliases:
   - Oathbow
 one-hand-damage: 1d8 piercing
-range: 150\600
+range: 150/600
 weight: 2
 ---
 # Oathbow
-*Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/oathbow.webp#right]]  
+*Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
+![[/5. Mechanics/Items/img/oathbow.webp#right]]  
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600

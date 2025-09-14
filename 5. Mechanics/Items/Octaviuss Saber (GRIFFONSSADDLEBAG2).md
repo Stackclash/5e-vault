@@ -14,7 +14,7 @@ one-hand-damage: 1d8 piercing
 weight: 2
 ---
 # Octavius's Saber
-*Weapon ([[5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement by a rogue)*  
+*Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement by a rogue)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Octavius-Saber.webp#right)  
 
 - **Damage**: 1d8 piercing

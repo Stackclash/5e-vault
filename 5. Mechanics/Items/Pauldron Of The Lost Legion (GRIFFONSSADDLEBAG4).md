@@ -21,7 +21,7 @@ The pauldron has the spirits of 10 long-lost souls trapped within its metal. Whi
 
 ## Spells
 
-You can use an action to cast either the [[5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] (4 spirits) or [[5. Mechanics/Spells/Spirit Guardians.md\|spirit guardians]] (3 spirits) spell from the pauldron. The spells appear as a ghostly formation of stalwart soldiers or a swirling whirlwind of weaponry, respectively.
+You can use an action to cast either the [[/5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] (4 spirits) or [[/5. Mechanics/Spells/Spirit Guardians.md\|spirit guardians]] (3 spirits) spell from the pauldron. The spells appear as a ghostly formation of stalwart soldiers or a swirling whirlwind of weaponry, respectively.
 
 ## Retaliate
 

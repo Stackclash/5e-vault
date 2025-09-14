@@ -25,13 +25,24 @@ classes:
   - Rogue (Arcane Trickster)
   - Wizard
 school: Conjuration
-level: cantrip
+level: 0
+damage:
+  base: 1d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - cold
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Ale-dritch Blast
 ---
@@ -43,10 +54,12 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A stream of ice-cold ale blasts from your outstretched hands toward a creature or object within range. Make a ranged spell attack against the target. On a hit, it takes `dice:1d8|noform|noparens|avg` (`d8`) cold damage and it must make a successful Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of its next turn. A targeted creature has disadvantage on the saving throw if it has drunk any alcohol within the last hour.
+A stream of ice-cold ale blasts from your outstretched hands toward a creature or object within range. Make a ranged spell attack against the target. On a hit, it takes `dice:1d8|noform|noparens|avg` (`1d8`) cold damage and it must make a successful Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of its next turn. A targeted creature has disadvantage on the saving throw if it has drunk any alcohol within the last hour.
 
 The damage increases when you reach higher levels: `dice:2d8|noform|noparens|avg` (`2d8`) at 5th level, `dice:3d8|noform|noparens|avg` (`3d8`) at 11th level, and `dice:4d8|noform|noparens|avg` (`4d8`) at 17th level.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Beer Domain)](compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Beer Domain)](/compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
 
 *Source: Deep Magic p. 34*

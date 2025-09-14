@@ -14,7 +14,7 @@ tags:
 aliases:
   - Evoker Wizard
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Evoker Wizard (MPMM).md|Evoker Wizard]]
+# [[5. Mechanics/Bestiary/Humanoid/Evoker Wizard (MPMM).md|Evoker Wizard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214*
 
 Evokers harness arcane energy to destroy. Many armies employ evokers to rain destruction down on enemy forces.
@@ -29,7 +29,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+"ac_class": "15 with [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "121"
 "hit_dice": "22d8 + 22"
 "modifier": !!int "2"
@@ -42,8 +42,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - !!int "11"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+7"
-  - "wisdom": "+5"
+  - "intelligence": !!int "7"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+7"
@@ -55,8 +55,8 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
   - "desc": "The evoker makes three Arcane Burst attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 120\
-      \ ft., one target. Hit: 25 (4d10 + 3) force damage."
+  - "desc": "*Melee  or Ranged Spell Attack:* +7 to hit, reach 5 ft. or range 120\
+      \ ft., one target. *Hit:* 25 (4d10 + 3) force damage."
     "name": "Arcane Burst"
   - "desc": "The evoker unleashes a magical explosion of a particular damage type:\
       \ cold, fire, lightning, or thunder. The magic erupts in a 20-foot-radius sphere\
@@ -69,17 +69,17 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Sculpted Explosion (Recharge 4-6)"
   - "desc": "The evoker casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 15):\n\nAt will: [[5. Mechanics/Spells/Light.md|light]],\
-      \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Message.md|message]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n2/day each:\
-      \ [[5. Mechanics/Spells/Ice Storm.md|ice storm]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
-      \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]]\n\n1/day each: [[5. Mechanics/Spells/Wall Of Ice.md|wall of\
+      \ spellcasting ability (spell save DC 15):\n\n**At will:** [[/5. Mechanics/Spells/Light.md|light]],\
+      \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Message.md|message]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n**2/day each:**\
+      \ [[/5. Mechanics/Spells/Ice Storm.md|ice storm]], [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
+      \ [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]\n\n**1/day each:** [[/5. Mechanics/Spells/Wall Of Ice.md|wall of\
       \ ice]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/evoker-wizard-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/evoker-wizard-mpmm.webp"
 ```
 ^statblock
 

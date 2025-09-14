@@ -12,7 +12,7 @@ weight: 1
 ---
 # Amulet of Health
 *Wondrous item, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/amulet-of-health.webp#right]]  
+![[/5. Mechanics/Items/img/amulet-of-health.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

@@ -55,7 +55,7 @@ Blades who abandon their lives as entertainers have often run into trouble that 
 
 ### Bonus Proficiencies (Level 3)
 
-When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [[5. Mechanics/Items/Scimitar.md\|scimitar]].
+When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [[/5. Mechanics/Items/Scimitar.md\|scimitar]].
 
 If you're proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your bard spells.
 
@@ -63,8 +63,8 @@ If you're proficient with a simple or martial melee weapon, you can use it as a 
 
 At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if something in the game lets you choose again.
 
-- [[5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
-- [[5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]]  
+- [[/5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
+- [[/5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]]  
 
 ### Blade Flourish (Level 3)
 
@@ -95,5 +95,5 @@ Starting at 14th level, whenever you use a Blade Flourish option, you can roll a
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Bard
-> ![Fighting Style, Bard](compendium/lists/list-optfeaturetype-fs-b.md#Fighting%20Style,%20Bard)
+> ![Fighting Style, Bard](/compendium/lists/list-optfeaturetype-fs-b.md#Fighting%20Style,%20Bard)
 ^list-optfeature-fs-b

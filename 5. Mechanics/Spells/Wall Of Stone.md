@@ -27,18 +27,19 @@ classes:
   - Wizard
 school: Evocation
 level: 5
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: 120 feet
+somatic: true
+verbal: true
+material: a small block of granite
 aliases:
   - Wall of Stone
-range: 120 feet
-material: A small block of granite.
-concentration: true
 ---
 # Wall of Stone
 *5th-level, Evocation*  
@@ -60,6 +61,6 @@ The wall is an object made of stone that can be damaged and thus breached. Each 
 
 If you maintain your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Warlock (The Genie Lord)](compendium/lists/list-spells-classes-the-genie-lord-kpdm.md "subclass=KPDM"); [Warlock (The Genie)](compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Warlock (The Lithic)](compendium/lists/list-spells-classes-the-lithic-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Genie Lord)](/compendium/lists/list-spells-classes-the-genie-lord-kpdm.md "subclass=KPDM"); [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Warlock (The Lithic)](/compendium/lists/list-spells-classes-the-lithic-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

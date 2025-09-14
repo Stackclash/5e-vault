@@ -24,17 +24,26 @@ classes:
   - Sorcerer
   - Wizard
 school: Evocation
-level: cantrip
+level: 0
+damage:
+  base: 5d8
+  scaling:
+    damage: null
+    level: null
+  types: []
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: a humanoid tooth
 aliases:
   - Shiver
-material: a humanoid tooth
 ---
 # Shiver
 *cantrip, Evocation*  
@@ -48,6 +57,6 @@ You fill a humanoid creature with such cold that its teeth begin to chatter and 
 
 The maximum hit points you can affect increases by `dice:4d8|noform|noparens|avg` (`4d8`) when you reach 5th level (`dice:9d8|noform|noparens|avg` (`9d8`)), 11th level (`dice:13d8|noform|noparens|avg` (`13d8`)), and 17th level (`dice:17d8|noform|noparens|avg` (`17d8`)).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 275*

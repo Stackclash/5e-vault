@@ -13,7 +13,7 @@ one-hand-damage: 2d6 slashing
 weight: 6
 ---
 # Claymore of the Great Badger
-*Weapon ([[5. Mechanics/Items/Greatsword.md\|greatsword]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Claymore-of-the--Great-Badger.webp#right)  
 
 - **Damage**: 2d6 slashing

@@ -18,15 +18,13 @@ school: Abjuration
 level: 4
 ritual: false
 time: 10 minutes
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Self
+somatic: true
+verbal: true
+material: a piece of the dragon whose lair you are raiding
 aliases:
   - Raid the Lair
-concentration: true
-material: a piece of the dragon whose lair you are raiding
 ---
 # Raid the Lair
 *4th-level, Abjuration*  
@@ -44,6 +42,6 @@ You create an [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] circle 
 
 The caster has advantage on Constitution saving throws to maintain concentration on this spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 203*

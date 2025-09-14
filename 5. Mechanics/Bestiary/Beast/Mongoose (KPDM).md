@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mongoose
 ---
-# [[5. Mechanics\Bestiary\Beast\Mongoose (KPDM).md|Mongoose]]
+# [[5. Mechanics/Bestiary/Beast/Mongoose (KPDM).md|Mongoose]]
 *Source: Deep Magic p. 293*
 
 The mongoose is a sleek mammal with tiny, sharp teeth that lives in forests and deserts and eats insects, eggs, and small lizards. The mongoose is a fierce familiar and has even been known to kill snakes.
@@ -40,7 +40,8 @@ The mongoose is a sleek mammal with tiny, sharp teeth that lives in forests and 
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "0"
 "traits":
@@ -51,7 +52,7 @@ The mongoose is a sleek mammal with tiny, sharp teeth that lives in forests and 
       \ and snakelike monsters."
     "name": "Venom Resistance"
 "actions":
-  - "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 piercing\
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage."
     "name": "Bite"
 "source":

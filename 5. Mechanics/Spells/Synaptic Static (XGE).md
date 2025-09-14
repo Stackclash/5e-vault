@@ -16,12 +16,27 @@ classes:
   - Wizard
 school: Enchantment
 level: 5
+damage:
+  base: 8d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Intelligence
+    - Constitution
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 120 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Synaptic Static
 ---
@@ -37,6 +52,6 @@ You choose a point within range and cause psychic energy to explode there. Each 
 
 After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a `dice:d6|noform|noparens|avg` (`d6`) and subtracts the number rolled from all its attack rolls and ability checks, as well as its Constitution saving throws to maintain [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]]. The target can make an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 167*

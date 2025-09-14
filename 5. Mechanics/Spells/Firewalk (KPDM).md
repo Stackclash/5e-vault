@@ -18,15 +18,20 @@ classes:
   - Wizard
 school: Transmutation
 level: 6
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 7
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
+duration: 'Concentration, up to 10 minutes'
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Firewalk
-concentration: true
 ---
 # Firewalk
 *6th-level, Transmutation*  
@@ -40,6 +45,6 @@ The creature you cast this spell on becomes immune to fire damage. In addition, 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, two additional creatures can be affected for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 70*

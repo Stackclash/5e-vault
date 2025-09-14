@@ -28,14 +28,12 @@ level: 1
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a sprig of mistletoe
 aliases:
   - Goodberry
-range: Touch
-material: A sprig of mistletoe.
 ---
 # Goodberry
 *1st-level, Transmutation*  
@@ -49,6 +47,8 @@ Up to ten berries appear in your hand and are infused with magic for the duratio
 
 The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
-**Classes**: [Cleric (Festus Domain)](compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Bard (Greenleaf College)](compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Cleric (Hunger Domain)](compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Druid (Circle of the Grove)](compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [Bard (Greenleaf College)](/compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Festus Domain)](/compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Cleric (Hunger Domain)](/compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of the Grove)](/compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Player's Handbook p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

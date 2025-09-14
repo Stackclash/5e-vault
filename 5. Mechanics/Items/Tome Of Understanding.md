@@ -11,7 +11,7 @@ weight: 5
 ---
 # Tome of Understanding
 *Wondrous item, major, very rare*  
-![[5. Mechanics/Items/img/tome-of-understanding.webp#right]]  
+![[/5. Mechanics/Items/img/tome-of-understanding.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

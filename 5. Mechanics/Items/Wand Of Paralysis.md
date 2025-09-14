@@ -13,7 +13,7 @@ weight: 1
 ---
 # Wand of Paralysis
 *Wand, major, rare (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/wand-of-paralysis.webp#right]]  
+![[/5. Mechanics/Items/img/wand-of-paralysis.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

@@ -25,6 +25,6 @@ While in half-dragon form, your personality changes to align with that of your d
 If you are attuned to the legendary version of this item, you may engage in deep meditation with the dragon stone for a continuous 24 hours. Once these 24 hours have finished, you transform into your half-dragon form permanently, and the dragon stone crumbles into dust.
 
 > [!embed-table]- Dragon Types
-> ![[5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
+> ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*

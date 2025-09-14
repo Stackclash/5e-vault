@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Abyssal Worm
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Abyssal Worm (KPDM).md|Abyssal Worm]]
+# [[5. Mechanics/Bestiary/Monstrosity/Abyssal Worm (KPDM).md|Abyssal Worm]]
 *Source: Deep Magic p. 295*
 
 These creatures can be found in vast numbers in the lower planes, mostly providing fodder for demons and other denizens. Typically, an abyssal worm measures a foot to a foot and a half in length, its body gray in color, with mossy green and mustard yellow mottling. The worm's mouth is a round orifice ringed with sharp, needle-like teeth. The worm's skin exudes a slime that leaves a glistening trail in its path.
@@ -49,7 +49,8 @@ If an abyssal worm agrees to serve another creature as a familiar, it forms a te
 "damage_resistances": "cold, fire, bludgeoning from nonmagical weapons"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 30 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., passive Perception\
+  \ 13"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -60,7 +61,7 @@ If an abyssal worm agrees to serve another creature as a familiar, it forms a te
       \ immune to the stench of all abyssal worms for 1 hour."
     "name": "Stench"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, 5 ft. reach, one target. Hit: 5 (1d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, 5 ft. reach, one target. *Hit:* 5 (1d4\
       \ + 3) piercing damage plus 1 poison damage, and the abyssal worm attaches to\
       \ the target. While attached, the abyssal worm doesn't attack. Instead, at the\
       \ start of the abyssal worm's turn, the target loses 5 (1d4 + 3) hit points\

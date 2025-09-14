@@ -13,14 +13,14 @@ one-hand-damage: 2d6 slashing
 weight: 6
 ---
 # H'rethi Desperation
-*Weapon ([[5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hrethi-Desperation.webp#right)  
 
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
-The handle of this blade is all that remains of this old weapon. Its shattered metal blade is overgrown and replaced by sharpened desert glass, which magically radiates with a sweltering heat. You gain a +1 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d8|noform|noparens|avg` (`d8`) fire damage to any target it hits. If you have one or more levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], the fire damage becomes `dice:1d10|noform|noparens|avg` (`d10`), instead.
+The handle of this blade is all that remains of this old weapon. Its shattered metal blade is overgrown and replaced by sharpened desert glass, which magically radiates with a sweltering heat. You gain a +1 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) fire damage to any target it hits. If you have one or more levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], the fire damage becomes `dice:1d10|noform|noparens|avg` (`1d10`), instead.
 
 You have resistance to fire damage and ignore difficult terrain created by sand while the weapon is on your person. If you have one or more levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] and take fire damage, the damage is reduced to 0, but you have a 20 percent chance to gain an additional level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. Once you gain a level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] as a result of taking fire damage, you can't gain another in this way until the start of your next turn.
 

@@ -55,11 +55,11 @@ The Lithic lets you choose from an expanded list of spells when you learn a warl
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/False Life.md\|false life]], [[5. Mechanics/Spells/Shield.md\|shield]] (appears as a stone barrier) |
-| 2nd | [[5. Mechanics/Spells/Alter Self.md\|alter self]], [[5. Mechanics/Spells/Spike Growth.md\|spike growth]] (appears as caltrop-sized stone spikes) |
-| 3rd | [[5. Mechanics/Spells/Meld Into Stone.md\|meld into stone]], [[5. Mechanics/Spells/Slow.md\|slow]] |
-| 4th | [[5. Mechanics/Spells/Stone Shape.md\|stone shape]], [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
-| 5th | [[5. Mechanics/Spells/Animate Objects.md\|animate objects]], [[5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]] |
+| 1st | [[/5. Mechanics/Spells/False Life.md\|false life]], [[/5. Mechanics/Spells/Shield.md\|shield]] (appears as a stone barrier) |
+| 2nd | [[/5. Mechanics/Spells/Alter Self.md\|alter self]], [[/5. Mechanics/Spells/Spike Growth.md\|spike growth]] (appears as caltrop-sized stone spikes) |
+| 3rd | [[/5. Mechanics/Spells/Meld Into Stone.md\|meld into stone]], [[/5. Mechanics/Spells/Slow.md\|slow]] |
+| 4th | [[/5. Mechanics/Spells/Stone Shape.md\|stone shape]], [[/5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
+| 5th | [[/5. Mechanics/Spells/Animate Objects.md\|animate objects]], [[/5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]] |
 ^spell-level-spells
 
 ### Major Mending (Level 1)
@@ -76,13 +76,13 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 
 ### Heart of Stone (Level 6)
 
-At 6th level, you understand the very nature of stone itself. You can not be [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] against your will, and moving through difficult terrain created by stone costs you no extra movement. If you are [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]], you can use a bonus action to end the effect on yourself, even if you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. You can also cast the [[5. Mechanics/Spells/Illusory Script.md\|illusory script]] and [[5. Mechanics/Spells/Magic Mouth.md\|magic mouth]] spells, but only as a ritual. These versions of the spells don not require any material components, but must target an object thats made of stone. A spells effect ends early if you use this feature to cast it again.
+At 6th level, you understand the very nature of stone itself. You can not be [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] against your will, and moving through difficult terrain created by stone costs you no extra movement. If you are [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]], you can use a bonus action to end the effect on yourself, even if you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. You can also cast the [[/5. Mechanics/Spells/Illusory Script.md\|illusory script]] and [[/5. Mechanics/Spells/Magic Mouth.md\|magic mouth]] spells, but only as a ritual. These versions of the spells don not require any material components, but must target an object thats made of stone. A spells effect ends early if you use this feature to cast it again.
 
 In addition, you can use a bonus action to become [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]], becoming indistinguishable from an ordinary statue. You remain [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] for up to 1 hour or until you use a bonus action to end the effect. While [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]], you have blindsight and tremorsense out to a range of 10 feet and can hear. Further, you do not need to breathe for the duration, and you and are not considered to be [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]], although you still can not take any actions or reactions (except for the bonus action to end the effect). You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Invoke Earth (Level 10)
 
-At 10th level, you can use an action to expend a use of your Heart of Stone feature to transform into an [[5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elemental]], as if by the [[5. Mechanics/Spells/Polymorph.md\|polymorph]] spell (even though its not a beast), without requiring concentration. You remain transformed for 1 hour or until you end the effect as a bonus action or are reduced to 0 hit points.
+At 10th level, you can use an action to expend a use of your Heart of Stone feature to transform into an [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elemental]], as if by the [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] spell (even though its not a beast), without requiring concentration. You remain transformed for 1 hour or until you end the effect as a bonus action or are reduced to 0 hit points.
 
 You retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies. Once you use this feature, you can not do so again until you finish a long rest.
 
@@ -92,4 +92,4 @@ Once you reach 14th level in this class, you can make a third Slam attack as an 
 
 By 14th level, you suffer none of the frailty of old age, and you can not be aged magically. You can still die of old age, however. You always have blindsight and tremorsense out to a range of 10 feet, even if you are not [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]]. If you are [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]], the range of these senses is increased to 30 feet for the duration, and you can still speak.
 
-Finally, you can use an action to cast the [[5. Mechanics/Spells/Flesh To Stone.md\|flesh to stone]] spell. You can not do so again until after you finish a long rest. If you target yourself with the spell, you can choose to fail the saving throws against it.
+Finally, you can use an action to cast the [[/5. Mechanics/Spells/Flesh To Stone.md\|flesh to stone]] spell. You can not do so again until after you finish a long rest. If you target yourself with the spell, you can choose to fail the saving throws against it.

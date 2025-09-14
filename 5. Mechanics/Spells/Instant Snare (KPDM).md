@@ -12,16 +12,25 @@ classes:
   - Ranger
 school: Abjuration
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
+range: 120 feet
+somatic: true
+verbal: true
+material: a loop of twine
 aliases:
   - Instant Snare
-material: a loop of twine
 ---
 # Instant Snare
 *2nd-level, Abjuration*  
@@ -39,6 +48,6 @@ This spell alerts you with a ping in your mind when the trap is triggered if you
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can create one additional snare for each slot level above 2nd. When you receive the mental ping that a trap was triggered, you know which snare was triggered if you have more than one.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 85*

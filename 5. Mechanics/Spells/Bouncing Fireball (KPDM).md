@@ -14,16 +14,26 @@ classes:
   - Wizard
 school: Evocation
 level: 6
+damage:
+  base: 7d6
+  scaling:
+    damage: 1d6
+    level: 7
+  types:
+    - fire
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 150 feet
+somatic: true
+verbal: true
+material: 'a tiny ball of bat guano and sulfur, and three iron pins'
 aliases:
   - Bouncing Fireball
-material: 'a tiny ball of bat guano and sulfur, and three iron pins'
 ---
 # Bouncing Fireball
 *6th-level, Evocation*  
@@ -39,8 +49,8 @@ Immediately afterward, a second bolt of flame streaks from that explosion to a s
 
 Note that for the second and third bursts, the flame jumps exactly 40 feet—never more, never less—and if any part of a burst area overlaps the area of a previous burst, the burst fails to happen and the spell ends immediately.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 6th.
+**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 353*

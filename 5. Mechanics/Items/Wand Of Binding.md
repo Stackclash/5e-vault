@@ -13,7 +13,7 @@ weight: 1
 ---
 # Wand of Binding
 *Wand, major, rare (requires attunement by a spellcaster)*  
-![[5. Mechanics/Items/img/wand-of-binding.webp#right]]  
+![[/5. Mechanics/Items/img/wand-of-binding.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 
@@ -21,7 +21,7 @@ This wand has 7 charges for the following properties. It regains `dice:1d6+1|nof
 
 ## Spells
 
-While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): [[5. Mechanics/Spells/Hold Monster.md\|hold monster]] (5 charges) or [[5. Mechanics/Spells/Hold Person.md\|hold person]] (2 charges).
+While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 17): [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]] (5 charges) or [[/5. Mechanics/Spells/Hold Person.md\|hold person]] (2 charges).
 
 ## Assisted Escape
 

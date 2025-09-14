@@ -17,7 +17,7 @@ tags:
 aliases:
   - Clockwork Oaken Bolter
 ---
-# [[5. Mechanics\Bestiary\Construct\Clockwork Oaken Bolter (MPMM).md|Clockwork Oaken Bolter]]
+# [[5. Mechanics/Bestiary/Construct/Clockwork Oaken Bolter (MPMM).md|Clockwork Oaken Bolter]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*
 
 No ordinary ballista, an oaken bolter is a Construct capable of striking at long distances. The bolts it launches can rend flesh, destroy armor, or drag enemies toward traps or melee-oriented clockworks—and at shorter ranges, burst with explosive force.
@@ -86,7 +86,8 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands one language of its creator but can't speak"
 "cr": "5"
 "traits":
@@ -99,16 +100,16 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
   - "desc": "The clockwork makes two Lancing Bolt attacks or one Lancing Bolt attack\
       \ and one Harpoon attack."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 100/400\
-      \ ft., one target. Hit: 15 (2d10 + 4) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 100/400\
+      \ ft., one target. *Hit:* 15 (2d10 + 4) piercing damage."
     "name": "Lancing Bolt"
-  - "desc": "Ranged Weapon Attack: +7 to hit, range 50/200 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 50/200 ft., one target. *Hit:*\
       \ 9 (1d10 + 4) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 12). While [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ in this way, a creature's speed isn't reduced, but it can move only in directions\
-      \ that bring it closer to the clockwork. A creature takes 5 (d10) slashing damage\
-      \ if it escapes from the grapple or if it tries and fails. The clockwork can\
-      \ grapple only one creature at a time with its harpoon."
+      \ that bring it closer to the clockwork. A creature takes 5 (1d10) slashing\
+      \ damage if it escapes from the grapple or if it tries and fails. The clockwork\
+      \ can grapple only one creature at a time with its harpoon."
     "name": "Harpoon"
   - "desc": "The clockwork launches an explosive charge at a point within 120 feet.\
       \ Each creature in a 20-foot-radius sphere centered on that point must make\
@@ -122,7 +123,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Construct/token/clockwork-oaken-bolter-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/clockwork-oaken-bolter-mpmm.webp"
 ```
 ^statblock
 

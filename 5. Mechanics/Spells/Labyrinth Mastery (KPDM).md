@@ -22,15 +22,13 @@ school: Divination
 level: 4
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Self
+somatic: true
+verbal: true
+material: a piece of blank parchment
 aliases:
   - Labyrinth Mastery
-concentration: true
-material: a piece of blank parchment
 ---
 # Labyrinth Mastery
 *4th-level, Divination*  
@@ -46,8 +44,8 @@ In addition, while the spell is guiding you out of such a structure, you have ad
 
 You gain a perfect memory of all portions of the structure you move through during the spell's duration. If you revisit such a portion, you recognize that you've been there before and automatically notice any changes to the environment.
 
-Also, while under the effect of this spell, you can exit any [[5. Mechanics/Spells/Maze.md\|maze]] spell (and its [[5. Mechanics/Spells/Lesser Maze (KPDM).md\|lesser]] varieties) and [[5. Mechanics/Spells/Greater Maze (KPDM).md\|greater]] varieties) as an action without needing to make an Intelligence check.
+Also, while under the effect of this spell, you can exit any [[/5. Mechanics/Spells/Maze.md\|maze]] spell (and its [[/5. Mechanics/Spells/Lesser Maze (KPDM).md\|lesser]] varieties) and [[/5. Mechanics/Spells/Greater Maze (KPDM).md\|greater]] varieties) as an action without needing to make an Intelligence check.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 88*

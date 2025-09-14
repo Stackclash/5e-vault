@@ -14,14 +14,20 @@ classes:
   - Ranger
 school: Divination
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 5
+  types: []
 ritual: false
 time: 1 Bonus Action
-duration: up to 1 hour
-components:
-  - V
+duration: 'Concentration, up to 1 hour'
+range: 120 feet
+somatic: false
+verbal: true
 aliases:
   - Mark Prey
-concentration: true
 ---
 # Mark Prey
 *2nd-level, Divination*  
@@ -35,6 +41,6 @@ You choose a creature you can see within range as your prey. Until the spell end
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 93*

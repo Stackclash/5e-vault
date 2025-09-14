@@ -13,7 +13,7 @@ tags:
 aliases:
   - Balor
 ---
-# [[5. Mechanics\Bestiary\Fiend\Balor.md|Balor]]
+# [[5. Mechanics/Bestiary/Fiend/Balor.md|Balor]]
 *Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
@@ -169,13 +169,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`d8`) vrocks, `dice:1d6|noform|noparens|avg` (`d6`) hezrous, `dice:1d4|noform|noparens|avg` (`d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`1d8`) vrocks, `dice:1d6|noform|noparens|avg` (`1d6`) hezrous, `dice:1d4|noform|noparens|avg` (`1d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`1d2`) mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`d3`) vrocks, `dice:1d2|noform|noparens|avg` (`d2`) hezrous, or one glabrezu.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`1d3`) vrocks, `dice:1d2|noform|noparens|avg` (`1d2`) hezrous, or one glabrezu.  
 > - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) vrocks, `dice:1d4|noform|noparens|avg` (`d4`) hezrous, `dice:1d3|noform|noparens|avg` (`d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) vrocks, `dice:1d3|noform|noparens|avg` (`d3`) hezrous, `dice:1d2|noform|noparens|avg` (`d2`) glabrezus, or one nalfeshnee.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`1d6`) vrocks, `dice:1d4|noform|noparens|avg` (`1d4`) hezrous, `dice:1d3|noform|noparens|avg` (`1d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`1d4`) vrocks, `dice:1d3|noform|noparens|avg` (`1d3`) hezrous, `dice:1d2|noform|noparens|avg` (`1d2`) glabrezus, or one nalfeshnee.  
 > - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
@@ -207,15 +207,16 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - !!int "22"
 "speed": "40 ft., fly 80 ft."
 "saves":
-  - "strength": "+14"
-  - "constitution": "+12"
-  - "wisdom": "+9"
-  - "charisma": "+12"
+  - "strength": !!int "14"
+  - "constitution": !!int "12"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "12"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "19"
 "traits":
@@ -239,11 +240,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - "desc": "The balor makes two attacks: one with its longsword and one with its\
       \ whip."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 21\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 21\
       \ (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores\
       \ a critical hit, it rolls damage dice three times, instead of twice."
     "name": "Longsword"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 30 ft., one target. *Hit:* 15\
       \ (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed\
       \ on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor."
     "name": "Whip"
@@ -253,7 +254,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Fiend/token/balor.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/balor.webp"
 ```
 ^statblock
 

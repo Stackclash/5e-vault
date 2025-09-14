@@ -22,20 +22,24 @@ classes:
   - Warlock (The Frozen One)
 school: Transmutation
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 2
+  types: []
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: a drop of water if creating water or a few grains of sand if destroying it
+area:
+  shape: cube
+  size: 30
 aliases:
   - Create or Destroy Water
-range: 30 feet
-material: 'A drop of water if creating water, or a few grains of sand if destroying it.'
-area:
-  type: cube
-  size: 30
 ---
 # Create or Destroy Water
 *1st-level, Transmutation*  
@@ -61,6 +65,8 @@ When you cast this spell using a spell slot of 2nd level or higher, you create o
 
 ## Summary
 
-**Classes**: [Warlock (The Frozen One)](compendium/lists/list-spells-classes-the-frozen-one-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Warlock (The Fathomless)](compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Fathomless)](/compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [Warlock (The Frozen One)](/compendium/lists/list-spells-classes-the-frozen-one-kpdm.md "subclass=KPDM")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Player's Handbook p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

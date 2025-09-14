@@ -13,7 +13,7 @@ armorClass: 2
 weight: 6
 ---
 # Arrow-Catching Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

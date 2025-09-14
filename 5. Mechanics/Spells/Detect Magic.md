@@ -47,17 +47,12 @@ school: Divination
 level: 1
 ritual: true
 time: 1 Action
-duration: Up to 10 minutes
-components:
-  - V
-  - S
+duration: 'Concentration, up to 10 minutes'
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Detect Magic
-range: Self
-area:
-  type: sphere
-  size: 30
-concentration: true
 ---
 # Detect Magic
 *1st-level, Divination (ritual)*  
@@ -71,6 +66,8 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-**Classes**: [Paladin (Oath of the Watchers)](compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Dragon Domain)](compendium/lists/list-spells-classes-dragon-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Spelldrinker)](compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Dragon Domain)](/compendium/lists/list-spells-classes-dragon-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Spelldrinker)](/compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Paladin (Oath of the Watchers)](/compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Drow High Magic (XGE).md\|Drow High Magic]]; [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Ritual Caster.md\|Ritual Caster]]
 
 *Source: Player's Handbook p. 231. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

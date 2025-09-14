@@ -17,9 +17,9 @@ level: 2
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Mantle of the Brave
 ---
@@ -33,6 +33,6 @@ aliases:
 
 You touch up to four individuals, bolstering their courage. The next time a creature affected by this spell must make a saving throw against a spell or effect that would cause the [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] condition, it has advantage on the roll. Once a creature has received this benefit, the spell ends for that creature.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 93*

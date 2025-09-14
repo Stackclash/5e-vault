@@ -9,9 +9,9 @@ aliases:
 ---
 # Dwarf (Hill)
 *Source: Player's Handbook p. 20. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
-![[5. Mechanics/Races/img/dwarf.webp#right]]  
+![[/5. Mechanics/Races/img/dwarf.webp#right]]  
 
-- **Ability Scores**: Wisdom +1
+- **Ability Scores**: wis +1
 - **Size**: Medium
 - **Speed**: 25 ft.
 
@@ -39,11 +39,11 @@ You have advantage on saving throws against poison, and you have resistance agai
 
 ### Dwarven Combat Training
 
-You have proficiency with the [[5. Mechanics/Items/Battleaxe.md\|battleaxe]], [[5. Mechanics/Items/Handaxe.md\|handaxe]], [[5. Mechanics/Items/Light Hammer.md\|light hammer]], and [[5. Mechanics/Items/Warhammer.md\|warhammer]].
+You have proficiency with the [[/5. Mechanics/Items/Battleaxe.md\|battleaxe]], [[/5. Mechanics/Items/Handaxe.md\|handaxe]], [[/5. Mechanics/Items/Light Hammer.md\|light hammer]], and [[/5. Mechanics/Items/Warhammer.md\|warhammer]].
 
 ### Tool Proficiency
 
-You gain proficiency with the artisan's tools of your choice: [[5. Mechanics/Items/Smiths Tools.md\|Smith's tools]], [[5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]], or [[5. Mechanics/Items/Masons Tools.md\|mason's tools]].
+You gain proficiency with the artisan's tools of your choice: [[/5. Mechanics/Items/Smiths Tools.md\|Smith's tools]], [[/5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]], or [[/5. Mechanics/Items/Masons Tools.md\|mason's tools]].
 
 ### Stonecunning
 
@@ -59,7 +59,7 @@ Your hit point maximum increases by 1, and it increases by 1 every time you gain
 
 ## Description
 
-As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerun in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting.
+As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerûn in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting.
 
 Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of goblins and orcs-these common threads unite all dwarves.
 

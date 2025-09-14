@@ -34,8 +34,8 @@ Reading the Book of Death does not make you undead, but you quickly develop an a
 Once per month as an action, you can summon a Legion of the Dead. They remain under your control for 3 days or six battles, whichever comes first.
 
 - Legion of the Dead  
-- [[5. Mechanics/Optional Features/Skeletal Archers (SAF).md\|Skeletal Archers]]  
-- [[5. Mechanics/Optional Features/Wight Cavalry (SAF).md\|Wight Cavalry]]  
+- [[/5. Mechanics/Optional Features/Skeletal Archers (SAF).md\|Skeletal Archers]]  
+- [[/5. Mechanics/Optional Features/Wight Cavalry (SAF).md\|Wight Cavalry]]  
 
 ## Lady Czorgan
 

@@ -34,7 +34,7 @@ Alternatively, you can use an action to name one of the magical potions below wh
 | Potion of Water Breathing | 95 |
 ^potion-name-success-threshold
 
-Once you've named a potion, it can't be named again until the next dawn. A potion with varying effects, such as a [[5. Mechanics/Items/Potion Of Healing.md\|potion of healing]] or [[5. Mechanics/Items/Potion Of Greater Healing.md\|potion of greater healing]], count as a single named potion for the purposes of this property. Any liquid or potion remaining in the flask is lost daily at dawn. A potion that's poured into another vessel for later use immediately loses its magic and turns to water.
+Once you've named a potion, it can't be named again until the next dawn. A potion with varying effects, such as a [[/5. Mechanics/Items/Potion Of Healing.md\|potion of healing]] or [[/5. Mechanics/Items/Potion Of Greater Healing.md\|potion of greater healing]], count as a single named potion for the purposes of this property. Any liquid or potion remaining in the flask is lost daily at dawn. A potion that's poured into another vessel for later use immediately loses its magic and turns to water.
 
 ## Sentience
 
@@ -42,7 +42,7 @@ Mister Bottle is a sentient chaotic neutral item with an Intelligence of 19, a W
 
 ## Personality
 
-Mister Bottle used to be a renowned alchemist whose experiments (and misadventures) eventually got the better of him. After centuries of being trapped within an [[5. Mechanics/Items/Iron Flask.md\|iron flask]], he managed to transform it into its current form from inside. He has since forgotten his given name. Regardless, his passion for alchemy and potions remains unchanged.
+Mister Bottle used to be a renowned alchemist whose experiments (and misadventures) eventually got the better of him. After centuries of being trapped within an [[/5. Mechanics/Items/Iron Flask.md\|iron flask]], he managed to transform it into its current form from inside. He has since forgotten his given name. Regardless, his passion for alchemy and potions remains unchanged.
 
 If you use an action to pour a magical potion into Mister Bottle's mouth, the potion disappears, but it can be made again using the bottle's Create Potion property. The GM decides the potion's success threshold.
 

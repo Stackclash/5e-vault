@@ -13,7 +13,7 @@ tags:
 aliases:
   - Helmed Horror
 ---
-# [[5. Mechanics\Bestiary\Construct\Helmed Horror.md|Helmed Horror]]
+# [[5. Mechanics/Bestiary/Construct/Helmed Horror.md|Helmed Horror]]
 *Source: Monster Manual p. 183, Vecna: Eve of Ruin*
 
 This construct possesses intelligence, the ability to reason and adjust its tactics, and an unswerving devotion to its maker that persists even after its maker's demise. Resembling an animated suit of empty plate armor, a helmed horror serves without ambition or emotion.
@@ -36,7 +36,7 @@ A helmed horror doesn't require air, food, drink, or sleep.
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "20"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate armor]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "1"
@@ -58,7 +58,8 @@ A helmed horror doesn't require air, food, drink, or sleep.
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 14"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "4"
 "traits":
@@ -66,19 +67,19 @@ A helmed horror doesn't require air, food, drink, or sleep.
       \ magical effects."
     "name": "Magic Resistance"
   - "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
-      \ immunities include [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Heat Met(AL).md|heat metal]],\
-      \ and [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]."
+      \ immunities include [[/5. Mechanics/Spells/Fireball.md|fireball]], [[/5. Mechanics/Spells/Heat Met(AL).md|heat metal]],\
+      \ and [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]]."
     "name": "Spell Immunity"
 "actions":
   - "desc": "The helmed horror makes two longsword attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
     "name": "Longsword"
 "source":
   - "MM"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Construct/token/helmed-horror.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/helmed-horror.webp"
 ```
 ^statblock
 

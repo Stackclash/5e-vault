@@ -20,15 +20,18 @@ classes:
   - Wizard
 school: Illusion
 level: 5
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 8 hours
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Seeming
-range: 30 feet
 ---
 # Seeming
 *5th-level, Illusion*  
@@ -46,6 +49,6 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 A creature can use its action to inspect a target and make an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Warlock (The Genie)](compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Ranger (Gloom Stalker)](compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Ranger (Gloom Stalker)](/compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]; [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Priest of Osybus (Spectral Boon)
 ---
-# [[5. Mechanics\Bestiary\Undead\Priest Of Osybus Spectral Boon (VRGR).md|Priest of Osybus (Spectral Boon)]]
+# [[5. Mechanics/Bestiary/Undead/Priest Of Osybus Spectral Boon (VRGR).md|Priest of Osybus (Spectral Boon)]]
 *Source: Van Richten's Guide to Ravenloft p. 241, Vecna: Eve of Ruin*
 
 ```statblock
@@ -35,11 +35,12 @@ aliases:
   - !!int "11"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+7"
-  - "wisdom": "+6"
-  - "charisma": "+3"
+  - "intelligence": !!int "7"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "3"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 120 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 13"
 "languages": "any three languages"
 "cr": "6"
 "traits":
@@ -56,20 +57,20 @@ aliases:
   - "desc": "The priest now appears wraithlike, and its challenge rating increases\
       \ by 1. It gains resistance to all damage but force, radiant, and psychic, and\
       \ it is vulnerable to radiant damage. It can also move through creatures and\
-      \ objects as if they were difficult terrain, but it takes 5 (d10) force damage\
+      \ objects as if they were difficult terrain, but it takes 5 (1d10) force damage\
       \ if it ends its turn inside a creature or an object."
     "name": "Spectral Boon"
 "actions":
   - "desc": "The priest attacks twice."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (2d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
       \ + 2) piercing damage, and if the target is a creature, it is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
       \ until the start of the priest's next turn. If this damage reduces a Medium\
       \ or smaller creature to 0 hit points, the creature dies, and its soul is trapped\
       \ in the priest's body, manifesting as a shadowy Soul Tattoo on the priest.\
       \ The soul is freed if the priest dies."
     "name": "Soul Blade"
-  - "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17\
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 17\
       \ (3d8 + 4) necrotic damage, and the target can't regain hit points until the\
       \ start of the priest's next turn."
     "name": "Necrotic Bolt"

@@ -13,7 +13,7 @@ aliases:
 *Potion, minor, uncommon*  
 
 
-FOR [HEDGE MAGE](compendium/classes/wizard-hedge-mage-griffonssaddlebag3.md#Hedge%20Mage%20(Level%202)) USE ONLY
+FOR [HEDGE MAGE](/compendium/classes/wizard-hedge-mage-griffonssaddlebag3.md#Hedge%20Mage%20(Level%202)) USE ONLY
 
 Ingredients: A sprig of cherry, a mockingbird feather, and fleck of fools gold.
 

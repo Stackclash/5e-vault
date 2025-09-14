@@ -12,17 +12,26 @@ classes:
   - Wizard
 school: Transmutation
 level: 6
+damage:
+  base: 2d12
+  scaling:
+    damage: null
+    level: null
+  types:
+    - force
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: Self
+somatic: true
+verbal: true
+material: a few hairs from a bull
 aliases:
   - Tenser's Transformation
-concentration: true
-material: a few hairs from a bull
 ---
 # Tenser's Transformation
 *6th-level, Transmutation*  
@@ -43,6 +52,6 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 
 Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 168*

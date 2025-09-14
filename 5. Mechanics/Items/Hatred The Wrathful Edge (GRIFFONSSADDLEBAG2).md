@@ -14,7 +14,7 @@ one-hand-damage: 1d12 slashing
 weight: 7
 ---
 # Hatred, the Wrathful Edge
-*Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), major, artifact (requires attunement by a creature the axe deems worthy)*  
+*Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, artifact (requires attunement by a creature the axe deems worthy)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hatred-The-Wrathful-Edge.webp#right)  
 
 - **Damage**: 1d12 slashing
@@ -27,7 +27,7 @@ You gain a +3 bonus to attack and damage rolls made with this magic weapon, whic
 
 ## Explosive Rage
 
-If you're a barbarian, the first time you enter a rage after finishing a short or long rest, up to 6 creatures of your choice within 10 feet of you take `dice:4d6|noform|noparens|avg` (`4d6`) fire or lightning damage (your choice). In addition, while raging, any creature that touches you or hits you with a melee attack while within 5 feet of you takes `dice:1d6|noform|noparens|avg` (`d6`) fire or lightning damage (your choice).
+If you're a barbarian, the first time you enter a rage after finishing a short or long rest, up to 6 creatures of your choice within 10 feet of you take `dice:4d6|noform|noparens|avg` (`4d6`) fire or lightning damage (your choice). In addition, while raging, any creature that touches you or hits you with a melee attack while within 5 feet of you takes `dice:1d6|noform|noparens|avg` (`1d6`) fire or lightning damage (your choice).
 
 ## Fiendish Mind
 
@@ -37,10 +37,10 @@ You can speak, read, and write Abyssal and Infernal while attuned to this weapon
 
 Hatred, the Wrathful Edge has the following random properties:
 
-- 1 [[5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial property]]  
-- 1 [[5. Mechanics/Tables/Artifact Properties Major Beneficial Properties.md\|major beneficial property]]  
-- 1 [[5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental property]]  
-- 1 [[5. Mechanics/Tables/Artifact Properties Major Detrimental Properties.md\|major detrimental property]]  
+- 1 [[/5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial property]]  
+- 1 [[/5. Mechanics/Tables/Artifact Properties Major Beneficial Properties.md\|major beneficial property]]  
+- 1 [[/5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental property]]  
+- 1 [[/5. Mechanics/Tables/Artifact Properties Major Detrimental Properties.md\|major detrimental property]]  
 
 ## Volcanic Immunity
 
@@ -58,6 +58,6 @@ The weapon enjoys the sensation of anger. It sees all conflict eventually reachi
 
 ## Destroying the Axe
 
-The only way to destroy the axe is to dispel the malevolent spirit within it over time from the Upper Planes. Casting [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] on the weapon every day for 5 years while on an Upper Plane causes the wrathful spirit within it to eventually succumb and perish. When the spirit leaves the axe, it loses all of its properties except for its bonus to attack and damage rolls, but becomes no harder to destroy than a normal magic weapon.
+The only way to destroy the axe is to dispel the malevolent spirit within it over time from the Upper Planes. Casting [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] on the weapon every day for 5 years while on an Upper Plane causes the wrathful spirit within it to eventually succumb and perish. When the spirit leaves the axe, it loses all of its properties except for its bonus to attack and damage rolls, but becomes no harder to destroy than a normal magic weapon.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 197*

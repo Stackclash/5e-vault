@@ -11,7 +11,7 @@ aliases:
 
 Creating your own horror adventures is like crafting any other D&D adventure with one exception: your goal is to horrify your players in the most fun way possible. Frightening adventures benefit from an atmosphere of dread, conceived through a combination of terrifying narratives, dramatic presentation, and game elements encouraging fear. Drawing out the anxiety and anticipation of players requires deliberate consideration, though. The tools and techniques in this chapter provide ways to make sure your game is both spooky and safe in ways right for your specific group. A toolbox of horror-focused rules also provides options for what sort of grim adventures you might create. At the end of this chapter, a horror adventure puts these methods to use and leads characters on their first steps into the Domains of Dread.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/105-04-001-intro-splash.webp#center\|"During a séance, a spirit makes itself known to the Keepers of the Feather"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/105-04-001-intro-splash.webp#center\|"During a séance, a spirit makes itself known to the Keepers of the Feather"]]
 
 ## Preparing for Horror
 
@@ -209,7 +209,7 @@ A typical D&D session is longer than a typical horror movie, and it can be hard 
 
 Beyond impromptu checks, once during a session, after a scheduled break, check in with the group and consider asking the following questions:
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/106-04-002.webp#center]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/106-04-002.webp#center]]
 
 - What do your characters hope will happen?  
 - What do your characters worry might happen?  
@@ -255,7 +255,7 @@ Ravenloft has a tradition of adventures featuring setting-specific props and mem
 
 ### Tarokka Deck
 
-In both 1983's adventure *Ravenloft* and 2016's adventure Curse of Strahd, the plot changes in accordance with cards drawn from a [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]]. A tarokka deck contains fifty-four tarot-like, fortune-telling cards, each one bearing one of the following symbols:
+In both 1983's adventure *Ravenloft* and 2016's adventure Curse of Strahd, the plot changes in accordance with cards drawn from a [[/5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]]. A tarokka deck contains fifty-four tarot-like, fortune-telling cards, each one bearing one of the following symbols:
 
 - **Crowns.** The portentous cards of the high deck are marked with crowns but are not themselves a suit. The figures on these fourteen cards represent distinct forces of fate, change, and despair.  
 - **Coins.** The ten cards of this suit symbolize avarice and the desire for personal gain.  
@@ -265,13 +265,13 @@ In both 1983's adventure *Ravenloft* and 2016's adventure Curse of Strahd, the p
 
 Tarokka decks allow you run encounters where fortune-tellers predict characters' fates. Once you're familiar with the cards and their meanings, you can interpret them in ways that tie in to the characters' pasts or events in your adventures. You can also use the results of tarokka readings to guide your campaign and make sure predictions come to pass.
 
-The tarokka hails from the same world as the domain of Barovia, but it and its users have since spread throughout the Domains of Dread. Further details and a complete [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]] appear in the adventure Curse of Strahd.
+The tarokka hails from the same world as the domain of Barovia, but it and its users have since spread throughout the Domains of Dread. Further details and a complete [[/5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]] appear in the adventure Curse of Strahd.
 
 ### Spirit Board
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/107-04-003.webp#center]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/107-04-003.webp#center]]
 
-Spirit boards are tools to contact and divine the will of spirits or other mysterious forces. Upon placing their fingertips on a planchette set atop the board, assembled users feel forces move the planchette toward letters and symbols, gradually revealing a cryptic message. The spirits boards common in the Land of the Mists were first created by members of the "Keepers of the Feather" (see "chapter 3"), and feature half-understood images from their occult studies and Barovian lore. These markings include symbols from the [[5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]], which carry the same meanings as they do upon those cards. All manner of mysterious beings consider a spirit board's use an invitation to communicate with the living, resulting in messages shared from beyond the grave and frightful revelations.
+Spirit boards are tools to contact and divine the will of spirits or other mysterious forces. Upon placing their fingertips on a planchette set atop the board, assembled users feel forces move the planchette toward letters and symbols, gradually revealing a cryptic message. The spirits boards common in the Land of the Mists were first created by members of the "Keepers of the Feather" (see "chapter 3"), and feature half-understood images from their occult studies and Barovian lore. These markings include symbols from the [[/5. Mechanics/Decks/Tarokka Deck (COS).md\|tarokka deck]], which carry the same meanings as they do upon those cards. All manner of mysterious beings consider a spirit board's use an invitation to communicate with the living, resulting in messages shared from beyond the grave and frightful revelations.
 
 This book's "appendix" provides a depiction of a spirit board to use in your adventures, while a planchette to be used with it appears here. The adventure "The House of Lament" later in this chapter features séances employing a spirit board. When making use of this game prop, you take the role of the forces guiding the planchette. Move the planchette subtly to reveal mysterious messages appropriate to your adventures.
 
@@ -295,13 +295,13 @@ Curses aren't something to throw around lightly. They should be dramatically app
 - Murdering or grievously harming an innocent  
 - Stealing a treasure that is meaningful to an entire culture  
 
-In cases where the curse arises from a creature, such as a dying villain's last breath, the pronouncement of the curse is clear. When there is no wronged party present to lay the curse directly, the curse should be obvious in some way, such as a warning of dire consequences carved into the wall of an ancient crypt or relayed by a spell such as [[5. Mechanics/Spells/Magic Mouth.md\|magic mouth]].
+In cases where the curse arises from a creature, such as a dying villain's last breath, the pronouncement of the curse is clear. When there is no wronged party present to lay the curse directly, the curse should be obvious in some way, such as a warning of dire consequences carved into the wall of an ancient crypt or relayed by a spell such as [[/5. Mechanics/Spells/Magic Mouth.md\|magic mouth]].
 
 ### Components of a Curse
 
 Most curses have three distinct components: pronouncement, burden, and resolution. Whatever form these take, at least one of them, especially the burden or resolution, should have an ironic connection to the action that triggered the curse.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/108-04-004-a-dying-priest-of-ezra.webp#center\|A dying priest of Ezra curses his murderer]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/108-04-004-a-dying-priest-of-ezra.webp#center\|A dying priest of Ezra curses his murderer]]
 
 #### Pronouncement
 
@@ -321,8 +321,8 @@ A curse's burden is the effect that causes hardship and suffering to the curse's
 - The victim has disadvantage on attack rolls, ability checks, saving throws, or some combination of the three. This can be tied to a single ability score or applied generally.  
 - The victim can't communicate using language, whether through speaking, sign language, writing, telepathy, or any other means.  
 - The victim gains 3 levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] that can't be removed while the curse endures.  
-- When the victim finishes a long rest, they must succeed on a DC 15 Constitution saving throw, or their hit point maximum is reduced by `dice:1d10|noform|noparens|avg` (`d10`). If this reduces their hit point maximum to 0, the victim dies, and their body crumbles to dust.  
-- When the victim takes damage, they take an extra `dice:1d10|noform|noparens|avg` (`d10`) necrotic damage. This effect can't happen again until the start of the victim's next turn.  
+- When the victim finishes a long rest, they must succeed on a DC 15 Constitution saving throw, or their hit point maximum is reduced by `dice:1d10|noform|noparens|avg` (`1d10`). If this reduces their hit point maximum to 0, the victim dies, and their body crumbles to dust.  
+- When the victim takes damage, they take an extra `dice:1d10|noform|noparens|avg` (`1d10`) necrotic damage. This effect can't happen again until the start of the victim's next turn.  
 - The victim gains a Dark Gift (see "chapter 1") appropriate to the circumstances surrounding the curse.  
 - The victim gains vulnerability to one damage type.  
 - The victim's Strength, Dexterity, or Constitution score is reduced to 3, and the victim can't be raised from the dead while the curse lasts.  
@@ -332,11 +332,11 @@ A curse's burden is the effect that causes hardship and suffering to the curse's
 
 Sometimes a curse can be ended by making restitution to a wronged party (or their closest kin in the case of a death) or reparation if something was stolen or destroyed. The resolution might be declared as part of the pronouncement, or it may be left to those who suffer the curse to make amends on their own. Research and divination can offer clues or even reveal the exact steps needed to resolve the curse.
 
-While more general curses can lifted by a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, more specific or dramatic curses can't be permanently lifted through spells. Magic can offer temporary respite, though. A [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell cast on the victim of such a curse suppresses the burden for 1 hour. A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell suppresses the burden until the victim finishes a long rest. Death usually ends a curse, but the curse returns in full force if the cursed character returns to life without resolving the curse.
+While more general curses can lifted by a [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell, more specific or dramatic curses can't be permanently lifted through spells. Magic can offer temporary respite, though. A [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell cast on the victim of such a curse suppresses the burden for 1 hour. A [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell suppresses the burden until the victim finishes a long rest. Death usually ends a curse, but the curse returns in full force if the cursed character returns to life without resolving the curse.
 
 ##### Persistent Curses
 
-When a curse is resolved, its effects usually end immediately. Some more insidious curses might linger beyond the resolution but can then be removed by a [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic if the victim succeeds on a DC 15 Charisma saving throw when the spell is cast. If the save fails, it can be repeated after a specific interval passes, usually 1 month, with the curse ending on a successful save. Adjust the DC of a particularly weak curse to 10 or that of a stronger one to 20.
+When a curse is resolved, its effects usually end immediately. Some more insidious curses might linger beyond the resolution but can then be removed by a [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic if the victim succeeds on a DC 15 Charisma saving throw when the spell is cast. If the save fails, it can be repeated after a specific interval passes, usually 1 month, with the curse ending on a successful save. Adjust the DC of a particularly weak curse to 10 or that of a stronger one to 20.
 
 Here are some examples of curse resolutions:
 
@@ -359,7 +359,7 @@ Carved into the stone of the crypt door are the words "Relentless death follows 
 
 #### Burden
 
-Each character that gains the curse is hunted by a [[5. Mechanics/Bestiary/Undead/Wraith.md\|wraith]] that appears at sunset and vanishes at dawn, pursuing the single-minded goal of slaying the cursed individual. The wraith manifests in an unoccupied space within 30 feet of its victim. Destroying the wraith grants a temporary reprieve; it doesn't reform for 10 days. You can scale this curse for lower- and higher-level characters by choosing another kind of creature.
+Each character that gains the curse is hunted by a [[/5. Mechanics/Bestiary/Undead/Wraith.md\|wraith]] that appears at sunset and vanishes at dawn, pursuing the single-minded goal of slaying the cursed individual. The wraith manifests in an unoccupied space within 30 feet of its victim. Destroying the wraith grants a temporary reprieve; it doesn't reform for 10 days. You can scale this curse for lower- and higher-level characters by choosing another kind of creature.
 
 #### Resolution
 
@@ -407,13 +407,13 @@ The dying victim spits final words: "You shall spill innocent blood until laid l
 
 #### Burden
 
-The character is cursed with [[5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md\|loup garou]] lycanthropy (see "chapter 5").
+The character is cursed with [[/5. Mechanics/Bestiary/Monstrosity/Loup Garou (VRGR).md\|loup garou]] lycanthropy (see "chapter 5").
 
 #### Resolution
 
-This curse can't be broken until the character is reduced to 0 hit points by a silvered weapon. If the character survives, the curse can be broken as described in the ""Loup Garou Lycanthropy"" section of "chapter 5". Treat the character as a [[5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] whose loup garou progenitor has been killed.
+This curse can't be broken until the character is reduced to 0 hit points by a silvered weapon. If the character survives, the curse can be broken as described in the ""Loup Garou Lycanthropy"" section of "chapter 5". Treat the character as a [[/5. Mechanics/Bestiary/Humanoid/Werewolf.md\|werewolf]] whose loup garou progenitor has been killed.
 
-![[6. Resources/Books/Van Richtens Guide To Ravenloft/img/109-04-005-ancient-curse.webp#center\|"In Har'Akir, an ancient curse awakens the Children of Ankhtepot"]]
+![[/6. Resources/Books/Van Richtens Guide To Ravenloft/img/109-04-005-ancient-curse.webp#center\|"In Har'Akir, an ancient curse awakens the Children of Ankhtepot"]]
 
 ## Fear and Stress
 

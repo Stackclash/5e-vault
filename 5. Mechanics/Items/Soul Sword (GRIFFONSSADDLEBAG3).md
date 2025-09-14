@@ -15,7 +15,7 @@ two-hand-damage: 1d10 slashing
 weight: 3
 ---
 # Soul Sword
-*Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Soul-Sword.webp#right)  
 
 - **Damage**:
@@ -35,7 +35,7 @@ While you're attuned to the sword, you gain a +1 bonus to attack and damage roll
 | Evil | A dark, serrated blade | Green | Necrotic |
 ^alignment-appearance-light-damage-type
 
-A target hit by the illuminated sword takes an extra `dice:1d12|noform|noparens|avg` (`d12`) damage of the type associated with your alignment.
+A target hit by the illuminated sword takes an extra `dice:1d12|noform|noparens|avg` (`1d12`) damage of the type associated with your alignment.
 
 ## Soul Surge
 

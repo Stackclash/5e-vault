@@ -9,9 +9,9 @@ aliases:
 ---
 # Half-Orc
 *Source: Player's Handbook p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
-![[5. Mechanics/Races/img/half-orc.webp#right]]  
+![[/5. Mechanics/Races/img/half-orc.webp#right]]  
 
-- **Ability Scores**: Strength +2; Constitution +1
+- **Ability Scores**: str +2 con +1
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -57,7 +57,7 @@ Orcs regard battle scars as tokens of pride and ornamental scars as things of be
 
 ### The Mark of Gruumsh
 
-The one-eyed god Gruumsh created the Orcs, and even those orcs who turn away from his worship can't fully escape his influence. The same is true of half orcs, though their human blood moderates the impact of their orcish heritage. Some half-orcs hear the whispers of Grummsh in their dreams, calling them to unleash the rage that simmers within them. Others feel Gruumsh's exultation when they join in melee combat-and either exult along with him or shiver with fear and loathing. Half-orcs are not evil by nature, but evil does lurk within them, whether they embrace it or rebel against it.
+The one-eyed god Gruumsh created the Orcs, and even those orcs who turn away from his worship can't fully escape his influence. The same is true of half orcs, though their human blood moderates the impact of their orcish heritage. Some half-orcs hear the whispers of Gruumsh in their dreams, calling them to unleash the rage that simmers within them. Others feel Gruumsh's exultation when they join in melee combat-and either exult along with him or shiver with fear and loathing. Half-orcs are not evil by nature, but evil does lurk within them, whether they embrace it or rebel against it.
 
 Beyond the rage of Gruumsh, half-orcs feel emotion powerfully. Rage doesn't just quicken their pulse, it makes their bodies burn. An insult stings like acid, and sadness saps their strength. But they laugh loudly and heartily, and simple bodily pleasures-feasting, drinking, wrestling, drumming, and wild dancing-fill their hearts with joy. They tend to be short tempered and sometimes sullen, more inclined to action than contemplation and to fighting than arguing. The most accomplished half-orcs are those with enough self control to get by in a civilized land.
 

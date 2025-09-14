@@ -14,12 +14,18 @@ classes:
   - Warlock
 school: Evocation
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - S
+range: 100 feet
+somatic: true
+verbal: true
 aliases:
   - Grudge Match
 ---
@@ -35,6 +41,6 @@ This spell affects any creatures you designate within range, as long as the grou
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the duration increases by 1 round for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 77*

@@ -11,11 +11,11 @@ tags:
 aliases:
   - Midnight Smoke
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 1
 ---
 # Midnight Smoke
-*Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Midnight-Smoke.webp#right)  
 
 - **Damage**: 1d4 piercing

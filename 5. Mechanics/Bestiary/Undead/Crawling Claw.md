@@ -13,7 +13,7 @@ tags:
 aliases:
   - Crawling Claw
 ---
-# [[5. Mechanics\Bestiary\Undead\Crawling Claw.md|Crawling Claw]]
+# [[5. Mechanics/Bestiary/Undead/Crawling Claw.md|Crawling Claw]]
 *Source: Monster Manual p. 44, Curse of Strahd*
 
 Crawling claws are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
@@ -69,20 +69,21 @@ A crawling claw doesn't require air, food, drink, or sleep.
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft. (blind beyond\
+  \ this radius), passive Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "0"
 "traits":
   - "desc": "The claw is immune to effects that turn undead."
     "name": "Turn Immunity"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) bludgeoning or slashing damage (claw's choice)."
     "name": "Claw"
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Undead/token/crawling-claw.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/crawling-claw.webp"
 ```
 ^statblock
 

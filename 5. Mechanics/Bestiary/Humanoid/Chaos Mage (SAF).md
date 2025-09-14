@@ -13,7 +13,7 @@ tags:
 aliases:
   - Chaos Mage
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Chaos Mage (SAF).md|Chaos Mage]]
+# [[5. Mechanics/Bestiary/Humanoid/Chaos Mage (SAF).md|Chaos Mage]]
 *Source: Strongholds and Followers p. 79*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "18"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+3"
-  - "dexterity": "+3"
-  - "constitution": "+6"
-  - "intelligence": "+3"
-  - "wisdom": "+3"
-  - "charisma": "+6"
+  - "strength": !!int "3"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "6"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+5"
@@ -52,25 +52,25 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "Roll d4: 1 = [[5. Mechanics/Spells/Acid Splash.md|acid splash]], 2 = [[5. Mechanics/Spells/Fire Bolt.md|fire\
-      \ bolt]], 3 = [[5. Mechanics/Spells/Poison Spray.md|poison spray]],\
-      \ [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]] (+6 to hit, spell save DC\
-      \ 13 at 3rd level, 14 at 5th level, and 15 at 7th level).\n\nAt 7th level, retainers\
-      \ can take two signature attacks per round."
+  - "desc": "Roll 1d4: 1 = [[/5. Mechanics/Spells/Acid Splash.md|acid splash]], 2 = [[/5. Mechanics/Spells/Fire Bolt.md|fire\
+      \ bolt]], 3 = [[/5. Mechanics/Spells/Poison Spray.md|poison spray]],\
+      \ [[/5. Mechanics/Spells/Ray Of Frost.md|ray of frost]] (+6 to hit, spell save\
+      \ DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level).\n\nAt 7th level,\
+      \ retainers can take two signature attacks per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nRoll d4: 1 = [[5. Mechanics/Spells/Blur.md|blur]],\
-      \ 2 = [[5. Mechanics/Spells/Enhance Ability.md|enhance ability]], 3 = [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-      \ 4 = [[5. Mechanics/Spells/Mirror Image.md|mirror image]] (+6 to hit, spell save\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nRoll 1d4: 1 = [[/5. Mechanics/Spells/Blur.md|blur]],\
+      \ 2 = [[/5. Mechanics/Spells/Enhance Ability.md|enhance ability]], 3 = [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
+      \ 4 = [[/5. Mechanics/Spells/Mirror Image.md|mirror image]] (+6 to hit, spell save\
       \ DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level)."
     "name": "Minor Chaos (3/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nRoll d4: 1 = [[5. Mechanics/Spells/Fireball.md|fireball]],\
-      \ 2 = [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], 3 = [[5. Mechanics/Spells/Sleet Storm.md|sleet storm]],\
-      \ 4 = [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]] (+6 to hit, spell\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nRoll 1d4: 1 = [[/5. Mechanics/Spells/Fireball.md|fireball]],\
+      \ 2 = [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]], 3 = [[/5. Mechanics/Spells/Sleet Storm.md|sleet storm]],\
+      \ 4 = [[/5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]] (+6 to hit, spell\
       \ save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level)."
     "name": "Chaos (1/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nRoll d4: 1 = [[5. Mechanics/Spells/Blight.md|blight]],\
-      \ 2 = [[5. Mechanics/Spells/Ice Storm.md|ice storm]], 3 = [[5. Mechanics/Spells/Polymorph.md|polymorph]],\
-      \ 4 = [[5. Mechanics/Spells/Wall Of Fire.md|fire wall]] (+6 to hit, spell save\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nRoll 1d4: 1 = [[/5. Mechanics/Spells/Blight.md|blight]],\
+      \ 2 = [[/5. Mechanics/Spells/Ice Storm.md|ice storm]], 3 = [[/5. Mechanics/Spells/Polymorph.md|polymorph]],\
+      \ 4 = [[/5. Mechanics/Spells/Wall Of Fire.md|fire wall]] (+6 to hit, spell save\
       \ DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level)."
     "name": "Major Chaos (1/Day)"
 "source":

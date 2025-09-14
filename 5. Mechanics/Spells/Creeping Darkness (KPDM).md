@@ -16,15 +16,28 @@ classes:
   - Wizard
 school: Conjuration
 level: 8
+damage:
+  base: 6d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+area:
+  shape: cube
+  size: 10
 aliases:
   - Creeping Darkness
-concentration: true
 ---
 # Creeping Darkness
 *8th-level, Conjuration*  
@@ -40,6 +53,6 @@ All light in this area is reduced to dim light. The surface covered by the darkn
 
 Bright light can destroy portions of the spell. One 5-foot cube is destroyed if it takes 12 radiant damage. As long as at least one 5-foot cube occupies all or part of a creature's space, the creature remains [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 248*

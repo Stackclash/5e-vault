@@ -8,30 +8,29 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images: []
 relationships: []
 aliases:
   - Urwin Martikov
-pronounced:
-race:
-gender:
-age:
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Good
-occupation:
+occupation: null
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
-partyRelationships:
-  Curse of Strahd: Stranger
-image:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
+partyRelationships: {}
+image: null
 ---
 
 > [!infobox]
@@ -85,15 +84,6 @@ TBD
 
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
-
-## Quests
-```dataview
-TABLE WITHOUT ID
-link(file.path, name) AS "Name"
-FROM "3. The Party/Quests"
-WHERE contains(file.outlinks, this.file.link)
-SORT file.name asc
-```
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -164,20 +154,20 @@ actions:
 "actions":
   - "desc": "Urwin makes two weapon attacks, one of which can be with its hand crossbow."
     "name": "Multiattack (Human or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage in raven form, or 4 (1d4 + 2) piercing damage in hybrid form. If the\
       \ target is humanoid, it must succeed on a DC 10 Constitution saving throw or\
       \ be cursed with wereraven lycanthropy."
     "name": "Beak (Raven or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Shortsword (Human or Hybrid Form Only)"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage."
     "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/urwin-martikov-cos.webp"
+"image": "/4. World Almanac/NPCs/token/urwin-martikov-cos.webp"
 ```
 ^statblock
 

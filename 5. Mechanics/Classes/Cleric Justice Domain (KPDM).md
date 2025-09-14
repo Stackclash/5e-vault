@@ -54,11 +54,11 @@ All seek some form of justice when they have been wronged, and many live under t
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Divine Favor.md\|divine favor]], [[5. Mechanics/Spells/Longstrider.md\|longstrider]] |
-| 3rd | [[5. Mechanics/Spells/Blade Of Wrath (KPDM).md\|blade of wrath]], [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] |
-| 5th | [[5. Mechanics/Spells/Call Lightning.md\|call lightning]], [[5. Mechanics/Spells/Fear.md\|fear]] |
-| 7th | [[5. Mechanics/Spells/Inspiring Speech (KPDM).md\|inspiring speech]], [[5. Mechanics/Spells/Mordenkainens Faithful Hound.md\|faithful hound]] |
-| 9th | [[5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
+| 1st | [[/5. Mechanics/Spells/Divine Favor.md\|divine favor]], [[/5. Mechanics/Spells/Longstrider.md\|longstrider]] |
+| 3rd | [[/5. Mechanics/Spells/Blade Of Wrath (KPDM).md\|blade of wrath]], [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] |
+| 5th | [[/5. Mechanics/Spells/Call Lightning.md\|call lightning]], [[/5. Mechanics/Spells/Fear.md\|fear]] |
+| 7th | [[/5. Mechanics/Spells/Inspiring Speech (KPDM).md\|inspiring speech]], [[/5. Mechanics/Spells/Mordenkainens Faithful Hound.md\|faithful hound]] |
+| 9th | [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
 ^justice-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -75,7 +75,7 @@ At 6th level, you become immune to the [[/5. Mechanics/Rules/Conditions.md#Frigh
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Holy Denunciation (Level 17)
 

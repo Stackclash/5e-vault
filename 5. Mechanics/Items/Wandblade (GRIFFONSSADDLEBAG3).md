@@ -10,11 +10,11 @@ tags:
 aliases:
   - Wandblade
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 1
 ---
 # Wandblade
-*Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wandblade.webp#right)  
 
 - **Damage**: 1d4 piercing

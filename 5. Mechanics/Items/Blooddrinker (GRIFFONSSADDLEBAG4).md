@@ -13,7 +13,7 @@ one-hand-damage: 1d12 slashing
 weight: 7
 ---
 # Blooddrinker
-*Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), cursed item, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), cursed item, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Blooddrinker.webp#right)  
 
 - **Damage**: 1d12 slashing

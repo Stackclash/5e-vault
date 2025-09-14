@@ -21,15 +21,15 @@ classes:
   - Warlock
   - Wizard
 school: Divination
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
-duration: up to 1 round
-components:
-  - S
+duration: 'Concentration, up to 1 round'
+range: 30 feet
+somatic: true
+verbal: false
 aliases:
   - Uncanny Avoidance
-concentration: true
 ---
 # Uncanny Avoidance
 *cantrip, Divination*  
@@ -41,6 +41,6 @@ concentration: true
 
 You extend a hand and point a finger at a creature within range. Your magic grants the target enhanced awareness of attacks directed at it. The next attack roll against the creature before the spell ends is made with disadvantage.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 118*

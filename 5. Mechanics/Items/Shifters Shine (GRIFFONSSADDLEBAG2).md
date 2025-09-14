@@ -16,7 +16,7 @@ aliases:
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Shifters Shine Common (GRIFFONSSADDLEBAG2).md\|Shifter's Shine (Common)]]  
-- [[5. Mechanics/Items/Shifters Shine Uncommon (GRIFFONSSADDLEBAG2).md\|Shifter's Shine (Uncommon)]]  
+- [[/5. Mechanics/Items/Shifters Shine Common (GRIFFONSSADDLEBAG2).md\|Shifter's Shine (Common)]]  
+- [[/5. Mechanics/Items/Shifters Shine Uncommon (GRIFFONSSADDLEBAG2).md\|Shifter's Shine (Uncommon)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 160*

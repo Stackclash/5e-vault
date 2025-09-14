@@ -80,11 +80,11 @@ You gain oath spells at the paladin levels listed in the Oath of the Watchers ta
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Alarm.md\|alarm]], [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] |
-| 5th | [[5. Mechanics/Spells/Moonbeam.md\|moonbeam]], [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] |
-| 9th | [[5. Mechanics/Spells/Counterspell.md\|counterspell]], [[5. Mechanics/Spells/Nondetection.md\|nondetection]] |
-| 13th | [[5. Mechanics/Spells/Aura Of Purity.md\|aura of purity]], [[5. Mechanics/Spells/Banishment.md\|banishment]] |
-| 17th | [[5. Mechanics/Spells/Hold Monster.md\|hold monster]], [[5. Mechanics/Spells/Scrying.md\|scrying]] |
+| 3rd | [[/5. Mechanics/Spells/Alarm.md\|alarm]], [[/5. Mechanics/Spells/Detect Magic.md\|detect magic]] |
+| 5th | [[/5. Mechanics/Spells/Moonbeam.md\|moonbeam]], [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] |
+| 9th | [[/5. Mechanics/Spells/Counterspell.md\|counterspell]], [[/5. Mechanics/Spells/Nondetection.md\|nondetection]] |
+| 13th | [[/5. Mechanics/Spells/Aura Of Purity.md\|aura of purity]], [[/5. Mechanics/Spells/Banishment.md\|banishment]] |
+| 17th | [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]], [[/5. Mechanics/Spells/Scrying.md\|scrying]] |
 ^oath-of-the-watchers-spells
 
 ### Channel Divinity (Level 3)

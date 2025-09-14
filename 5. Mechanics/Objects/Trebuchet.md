@@ -19,7 +19,7 @@ Before the trebuchet can be fired, it must be loaded and aimed. It takes two act
 A trebuchet typically hurls a heavy stone. However, it can launch other kinds of projectiles, such as barrels of oil or sewage, with different effects.
 ```ad-statblock
 title: Trebuchet
-![[5. Mechanics/Objects/token/trebuchet.webp#token]]
+![[/5. Mechanics/Objects/token/trebuchet.webp#token]]
 *Huge Siege weapon*
 
 - **Armor Class** 15 

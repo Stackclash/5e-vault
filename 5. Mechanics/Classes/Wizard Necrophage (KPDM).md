@@ -53,11 +53,11 @@ The practice of necrophagy is similar to that of Necromancy, but with a more hor
 
 Adherents of this specialty claim that it is the origin of all necromancy magic and necrotic energy. They view the Negative Plane as a cosmic necrophage all its own, devouring all matter, energy, and life and replacing it with necrotic energy and undead.
 
-Except as noted, necrophages function as [[5. Mechanics/Classes/Wizard.md\|necromancers]] and use the wizard spell list. Instead of gaining the corresponding features of the [[5. Mechanics/Classes/Wizard.md\|School of Necromancy]], a necrophage has the features described below.
+Except as noted, necrophages function as [[/5. Mechanics/Classes/Wizard.md\|necromancers]] and use the wizard spell list. Instead of gaining the corresponding features of the [[/5. Mechanics/Classes/Wizard.md\|School of Necromancy]], a necrophage has the features described below.
 
 ### Undead Familiar (Level 2)
 
-When adopting this specialty at 2nd level, a necrophage adds the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell to his or her spellbook if it's not already there. When a necrophage conjures a familiar, the creature is Undead instead of a celestial, fey, or fiend. The familiar gains the following trait.
+When adopting this specialty at 2nd level, a necrophage adds the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell to his or her spellbook if it's not already there. When a necrophage conjures a familiar, the creature is Undead instead of a celestial, fey, or fiend. The familiar gains the following trait.
 
 **Undead Fortitude.** If damage reduces the familiar to 0 hit points, it makes a Constitution saving throw with a DC equal to 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the familiar drops to 1 hit point instead.
 

@@ -10,11 +10,11 @@ tags:
 aliases:
   - Dagger of Apathy
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 1
 ---
 # Dagger of Apathy
-*Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), rare (requires attunement)*  
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

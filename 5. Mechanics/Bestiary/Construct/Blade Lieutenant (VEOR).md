@@ -13,7 +13,7 @@ tags:
 aliases:
   - Blade Lieutenant
 ---
-# [[5. Mechanics\Bestiary\Construct\Blade Lieutenant (VEOR).md|Blade Lieutenant]]
+# [[5. Mechanics/Bestiary/Construct/Blade Lieutenant (VEOR).md|Blade Lieutenant]]
 *Source: Vecna: Eve of Ruin p. 209*
 
 Blade lieutenants lead subordinates on raids on behalf of the Lord of Blades. Soldiers who fail to meet a lieutenant's demands are harshly disciplined.
@@ -42,8 +42,8 @@ In the aftermath of Eberron's Last War, a warforged called the Lord of Blades ro
   - !!int "17"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+6"
-  - "charisma": "+7"
+  - "intelligence": !!int "6"
+  - "charisma": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+6"
@@ -66,11 +66,11 @@ In the aftermath of Eberron's Last War, a warforged called the Lord of Blades ro
 "actions":
   - "desc": "The lieutenant makes three Longsword or Javelin Launcher attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 17\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 17\
       \ (3d8 + 4) slashing damage, or 20 (3d10 + 4) slashing damage if used with two\
       \ hands."
     "name": "Longsword"
-  - "desc": "Ranged Weapon Attack: +8 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +8 to hit, range 30/120 ft., one target. *Hit:*\
       \ 14 (3d6 + 4) piercing damage, and the target has the [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
       \ condition."
     "name": "Javelin Launcher"
@@ -90,7 +90,7 @@ In the aftermath of Eberron's Last War, a warforged called the Lord of Blades ro
     "name": "Parry"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Construct/token/blade-lieutenant-veor.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/blade-lieutenant-veor.webp"
 ```
 ^statblock
 

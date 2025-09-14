@@ -13,7 +13,7 @@ tags:
 aliases:
   - Night Terror
 ---
-# [[5. Mechanics\Bestiary\Undead\Night Terror (GRIFFONSSADDLEBAG3).md|Night Terror]]
+# [[5. Mechanics/Bestiary/Undead/Night Terror (GRIFFONSSADDLEBAG3).md|Night Terror]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Shapeshifting specters made of protomatter themselves, night terrors are aptly named. These undead harbingers of misery emanate fear wherever they go and cause their prey to wither and lose all sense of hope in their wake. When invading the dreams of creatures, a terror transforms any dream into a horrifying experience.
@@ -38,9 +38,9 @@ Shapeshifting specters made of protomatter themselves, night terrors are aptly n
   - !!int "19"
 "speed": "30 ft., fly 20 ft."
 "saves":
-  - "constitution": "+9"
-  - "wisdom": "+6"
-  - "charisma": "+7"
+  - "constitution": !!int "9"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+10"
@@ -53,16 +53,17 @@ Shapeshifting specters made of protomatter themselves, night terrors are aptly n
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 16"
 "languages": "Common, telepathy 60 ft."
 "cr": "8"
 "traits":
   - "desc": "The night terror's spellcasting ability is Charisma (spell save DC 15).\
       \ The night terror can innately cast the following spells, requiring no material\
-      \ components:\n\nAt will: [[5. Mechanics/Spells/Silent Image.md|silent image]],\
-      \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n3/day each: [[5. Mechanics/Spells/Bane.md|bane]],\
-      \ [[5. Mechanics/Spells/Command.md|command]] (as a 2nd-level spell)\n\n1/day:\
-      \ [[5. Mechanics/Spells/Fear.md|fear]]"
+      \ components:\n\n**At will:** [[/5. Mechanics/Spells/Silent Image.md|silent image]],\
+      \ [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n**3/day each:** [[/5. Mechanics/Spells/Bane.md|bane]],\
+      \ [[/5. Mechanics/Spells/Command.md|command]] (as a 2nd-level spell)\n\n**1/day:**\
+      \ [[/5. Mechanics/Spells/Fear.md|fear]]"
     "name": "Innate Spellcasting"
   - "desc": "The night terror can use its action to polymorph into a Small or Medium\
       \ humanoid, or back into its true form. Its statistics, other than its size,\
@@ -81,7 +82,7 @@ Shapeshifting specters made of protomatter themselves, night terrors are aptly n
       \ SADDLEBAG"
     "name": "Aura of Fear"
   - "desc": "The night terror can move through other creatures and objects as if they\
-      \ were difficult terrain. It takes 5 (d10) force damage if it ends its turn\
+      \ were difficult terrain. It takes 5 (1d10) force damage if it ends its turn\
       \ inside an object."
     "name": "Incorporeal Movement (True Form Only)"
   - "desc": "The night terror has advantage on saving throws against any effect that\
@@ -91,8 +92,8 @@ Shapeshifting specters made of protomatter themselves, night terrors are aptly n
   - "desc": "The night terror makes two attacks with its Nightmarish Touch. It can\
       \ cast a spell in place of one attack."
     "name": "Multiattack"
-  - "desc": "Melee Spell Attack: +7 to hit (with advantage if the target is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]),\
-      \ reach 5 ft., one target. Hit: 9 (2d8) psychic damage plus 14 (4d6) necrotic\
+  - "desc": "*Melee Spell Attack:* +7 to hit (with advantage if the target is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]),\
+      \ reach 5 ft., one target. *Hit:* 9 (2d8) psychic damage plus 14 (4d6) necrotic\
       \ damage, and the target must make a DC 15 Constitution saving throw. On a failed\
       \ save, the target's hit point maximum is reduced by an amount equal to the\
       \ necrotic damage taken. This reduction lasts until the target finishes a long\

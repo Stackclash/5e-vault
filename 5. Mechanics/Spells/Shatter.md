@@ -31,24 +31,29 @@ classes:
   - Wizard
 school: Evocation
 level: 2
+damage:
+  base: 3d8
+  scaling:
+    damage: 1d8
+    level: 3
+  types:
+    - thunder
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 60 feet
+somatic: true
+verbal: true
+material: a chip of mica
+area:
+  shape: sphere
+  size: 10
 aliases:
   - Shatter
-range: 60 feet
-material: A burst of mica.
-damageType: Thunder
-save:
-  type: CON
-  success: half
-area:
-  type: sphere
-  size: 10
 ---
 # Shatter
 *2nd-level, Evocation*  
@@ -62,8 +67,8 @@ A sudden loud ringing noise, painfully intense, erupts from a point of your choi
 
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Tempest Domain.md\|Cleric (Tempest Domain)]]; [Artificer (Artillerist)](compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Artificer (Armorer)](compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [Paladin (Oath of the Annihilator)](compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [Artificer (Armorer)](/compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [Artificer (Artillerist)](/compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](/compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Tempest Domain.md\|Cleric (Tempest Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 275. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

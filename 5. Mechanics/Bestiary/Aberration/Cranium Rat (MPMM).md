@@ -15,7 +15,7 @@ tags:
 aliases:
   - Cranium Rat
 ---
-# [[5. Mechanics\Bestiary\Aberration\Cranium Rat (MPMM).md|Cranium Rat]]
+# [[5. Mechanics/Bestiary/Aberration/Cranium Rat (MPMM).md|Cranium Rat]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*
 
 ## Cranium Rat
@@ -41,7 +41,8 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
   - !!int "11"
   - !!int "8"
 "speed": "30 ft."
-"senses": "darkvision 30 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 30 ft., passive Perception\
+  \ 10"
 "languages": "telepathy 30 ft."
 "cr": "0"
 "traits":
@@ -49,7 +50,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
       \ or read its thoughts, as well as to all divination spells."
     "name": "Telepathic Shroud"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage."
     "name": "Bite"
 "bonus_actions":
@@ -59,7 +60,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Aberration/token/cranium-rat-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/cranium-rat-mpmm.webp"
 ```
 ^statblock
 

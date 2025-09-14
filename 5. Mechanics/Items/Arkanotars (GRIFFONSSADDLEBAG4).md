@@ -9,11 +9,11 @@ tags:
 aliases:
   - Arkanotars
 one-hand-damage: 1d4 lightning
-range: 20\60
+range: 20/60
 weight: 1
 ---
 # Arkanotars
-*Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), very rare*  
+*Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Arkanotars.webp#right)  
 
 - **Damage**: 1d4 lightning

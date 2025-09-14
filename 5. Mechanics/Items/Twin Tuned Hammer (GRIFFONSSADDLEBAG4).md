@@ -11,11 +11,11 @@ tags:
 aliases:
   - Twin-Tuned Hammer
 one-hand-damage: 1d4 bludgeoning
-range: 20\60
+range: 20/60
 weight: 2
 ---
 # Twin-Tuned Hammer
-*Weapon ([[5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Twin-Tuned-Hammer.webp#right)  
 
 - **Damage**: 1d4 bludgeoning

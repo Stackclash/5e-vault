@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'grassland, forest, hill'
 size: Medium
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Panther
 ---
-# [[5. Mechanics\Bestiary\Beast\Panther.md|Panther]]
+# [[5. Mechanics/Bestiary/Beast/Panther.md|Panther]]
 *Source: Monster Manual p. 333. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -55,15 +55,15 @@ aliases:
       \ can make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) slashing damage."
     "name": "Claw"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/panther.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/panther.webp"
 ```
 ^statblock
 

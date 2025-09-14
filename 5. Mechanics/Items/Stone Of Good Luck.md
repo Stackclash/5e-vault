@@ -11,7 +11,7 @@ aliases:
 ---
 # Stone of Good Luck
 *Wondrous item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/stone-of-good-luck.webp#right]]  
+![[/5. Mechanics/Items/img/stone-of-good-luck.webp#right]]  
 
 
 While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.

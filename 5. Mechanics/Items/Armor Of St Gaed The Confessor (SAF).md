@@ -11,7 +11,7 @@ armorClass: 18
 weight: 65
 ---
 # Armor of St. Gaed the Confessor
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]])*  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]])*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/socr-armor-confessor.jpg#right)  
 
 - **Armor Class**: 18

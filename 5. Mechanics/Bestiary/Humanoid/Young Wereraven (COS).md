@@ -14,7 +14,7 @@ tags:
 aliases:
   - Young Wereraven
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Young Wereraven (COS).md|Young Wereraven]]
+# [[5. Mechanics/Bestiary/Humanoid/Young Wereraven (COS).md|Young Wereraven]]
 *Source: Curse of Strahd p. 98*
 
 ```statblock
@@ -63,20 +63,20 @@ aliases:
   - "desc": "The wereraven makes two weapon attacks, one of which can be with its\
       \ hand crossbow."
     "name": "Multiattack (Human or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage in raven form, or 4 (1d4 + 2) piercing damage in hybrid form. If the\
       \ target is humanoid, it must succeed on a DC 10 Constitution saving throw or\
       \ be cursed with wereraven lycanthropy."
     "name": "Beak (Raven or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Shortsword (Human or Hybrid Form Only)"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage."
     "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
   - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/young-wereraven-cos.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/young-wereraven-cos.webp"
 ```
 ^statblock
 

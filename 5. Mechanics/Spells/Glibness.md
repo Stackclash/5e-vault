@@ -15,11 +15,11 @@ level: 8
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
+range: Self
+somatic: false
+verbal: true
 aliases:
   - Glibness
-range: Self
 ---
 # Glibness
 *8th-level, Transmutation*  
@@ -31,6 +31,6 @@ range: Self
 
 Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Player's Handbook p. 245. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -10,7 +10,7 @@ aliases:
 # Kenku
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Dexterity +2
+- **Ability Scores**: dex +2
 - **Size**: Medium
 - **Speed**: 30 ft.
 

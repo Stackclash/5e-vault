@@ -29,7 +29,7 @@ This wand has 7 charges for the following properties. It regains `dice:1d6+1|nof
 
 ## Spells
 
-While holding this wand, you can use an action to expend 1 of its charges to cast one of the following spells from it (save DC 15): [[5. Mechanics/Spells/Alter Self.md\|alter self]] (Change Appearance only), [[5. Mechanics/Spells/Charm Person.md\|charm person]] (2nd-level version), [[5. Mechanics/Spells/Enthrall.md\|enthrall]], or [[5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]].
+While holding this wand, you can use an action to expend 1 of its charges to cast one of the following spells from it (save DC 15): [[/5. Mechanics/Spells/Alter Self.md\|alter self]] (Change Appearance only), [[/5. Mechanics/Spells/Charm Person.md\|charm person]] (2nd-level version), [[/5. Mechanics/Spells/Enthrall.md\|enthrall]], or [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]].
 
 ## Silver Tongue
 

@@ -20,16 +20,22 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+damage:
+  base: 3d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - piercing
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a spiked metal ring
 aliases:
   - Bitter Chains
-material: a spiked metal ring
 ---
 # Bitter Chains
 *2nd-level, Transmutation*  
@@ -43,6 +49,6 @@ The spiked ring in your hand expands into a long, barbed chain to ensnare a crea
 
 The creature can escape from the chains by using an action and making a successful Strength or Dexterity check against your spell save DC, or if the chains are destroyed. The chains have AC 18 and 20 hit points.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 231*

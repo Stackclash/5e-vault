@@ -21,7 +21,7 @@ A whetstone has 5 uses. When you use the last use, it loses its gem-like shine a
 
 | Dragon Age | Bonus Damage | Rarity |
 |------------|--------------|--------|
-| Wyrmling | +`dice:1d4\|noform\|noparens\|avg` (`d4`) | Uncommon |
+| Wyrmling | +`dice:1d4\|noform\|noparens\|avg` (`1d4`) | Uncommon |
 | Young | +`dice:2d4\|noform\|noparens\|avg` (`2d4`) | Rare |
 | Adult | +`dice:3d4\|noform\|noparens\|avg` (`3d4`) | Very Rare |
 | Ancient | +`dice:4d4\|noform\|noparens\|avg` (`4d4`) | Legendary |

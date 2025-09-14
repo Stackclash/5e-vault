@@ -14,7 +14,7 @@ one-hand-damage: 2d6 slashing
 weight: 6
 ---
 # Executioner's Mercy
-*Weapon ([[5. Mechanics/Items/Greatsword.md\|greatsword]]), major, very rare (requires attunement by a lawful creature)*  
+*Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, very rare (requires attunement by a lawful creature)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Executioners-Mercy.webp#right)  
 
 - **Damage**: 2d6 slashing

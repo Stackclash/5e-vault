@@ -14,16 +14,21 @@ classes:
   - Ranger
 school: Transmutation
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 2
+  types: []
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a plant from the surrounding terrain
 aliases:
   - Green Mantle
-material: a plant from the surrounding terrain
 ---
 # Green Mantle
 *1st-level, Transmutation*  
@@ -37,6 +42,6 @@ You take on the physical characteristics of the terrain around you. In a forest,
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, one additional creature is affected for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 77*

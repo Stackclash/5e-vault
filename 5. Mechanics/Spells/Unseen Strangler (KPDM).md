@@ -11,16 +11,22 @@ classes:
   - Bard
 school: Conjuration
 level: 3
+damage:
+  base: 3d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
 ritual: true
 time: 1 Action
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: a pinch of sulfur and a live rodent
 aliases:
   - Unseen Strangler
-material: a pinch of sulfur and a live rodent
 ---
 # Unseen Strangler
 *3rd-level, Conjuration (ritual)*  
@@ -36,6 +42,6 @@ The strangler is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] to a
 
 If any creatures hostile to you are within 5 feet of the strangler at the start of your turn, the strangler attacks one of them with a tentacle. It makes a melee weapon attack with a bonus equal to your spellcasting ability modifier + your proficiency bonus. On a hit, it deals `dice:3d6|noform|noparens|avg` (`3d6`) bludgeoning damage, and a Large or smaller creature is [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] (escape DC = your spellcasting ability modifier + your proficiency bonus). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]], and the strangler can't attack another target. If the strangler scores a critical hit, the target begins to suffocate and can't speak until the grapple ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 342*

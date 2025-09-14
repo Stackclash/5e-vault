@@ -71,7 +71,7 @@ The Antronec Branches and Divisions table details the various branches and divis
 
 > [!note] Curators & Appraiser's Eyes
 > 
-> In Antronec, there are a few dozen individuals called curators that have been granted magical prosthetic eyes, [[5. Mechanics/Items/Appraisers Eye (GRIFFONSSADDLEBAG2).md\|appraiser's eyes]], that allow them to precisely determine the value of magical and mundane objects. With these, the Mercantile Guild is able to effectively monitor and alter the prices of goods in Antronec to ensure optimal retail value and maximum profit.
+> In Antronec, there are a few dozen individuals called curators that have been granted magical prosthetic eyes, [[/5. Mechanics/Items/Appraisers Eye (GRIFFONSSADDLEBAG2).md\|appraiser's eyes]], that allow them to precisely determine the value of magical and mundane objects. With these, the Mercantile Guild is able to effectively monitor and alter the prices of goods in Antronec to ensure optimal retail value and maximum profit.
 ^curators-appraisers-eyes
 
 ### Artisan Guilds
@@ -464,7 +464,7 @@ The slow but constant flow of bloodwater rippling through the Bloodmire can be d
 
 Traversing the Bloodmire offers many dangers, though the foremost is the threat of becoming ill with one or more of its magical diseases. After an encounter with a blood eel, giant mosquito, or creature with 'Bloodmire' in its name, any character that was hit by such a creature must succeed on a DC 13 Constitution saving throw or become diseased (see the Bloodmire Diseases table). Casting the remove curse spell on a creature ends any Bloodmire disease affecting it.
 
-![[5. Mechanics/Tables/Bloodmire Diseases (GRIFFONSSADDLEBAG2).md\|Bloodmire Diseases]]
+![[/5. Mechanics/Tables/Bloodmire Diseases (GRIFFONSSADDLEBAG2).md\|Bloodmire Diseases]]
 
 ### The Crimson Legion
 
@@ -585,22 +585,22 @@ A bloodfern is an herb that helps to calm the frenzied or stressed mind when ing
 |------------|--------|
 | 4 | A corrupted fey portal that allows instant travel to a realm of shadows and dread during the New Moon. |
 | 5 | A hidden, quicksand-like pool of diseased blood. Each character must succeed on a DC 15 Constitution saving throw or become diseased (see Bloodmire Diseases table). |
-| 6 | `dice:1d4\|noform\|noparens\|avg` (`d4`) carnivorous plants. The same number of characters must succeed on a DC 13 Dexterity saving throw or suffer 2d8 slashing damage and become diseased (see Bloodmire Diseases table) as the plants' vines slice into exposed flesh. |
-| 7 | 1 [[5. Mechanics/Bestiary/Plant/Bloodmire Treant (GRIFFONSSADDLEBAG2).md\|bloodmire treant]] |
+| 6 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) carnivorous plants. The same number of characters must succeed on a DC 13 Dexterity saving throw or suffer 2d8 slashing damage and become diseased (see Bloodmire Diseases table) as the plants' vines slice into exposed flesh. |
+| 7 | 1 [[/5. Mechanics/Bestiary/Plant/Bloodmire Treant (GRIFFONSSADDLEBAG2).md\|bloodmire treant]] |
 | 8 | A grove of abundant bloodfern. Spending 1 hour gathering yields 1d4 pounds per character, up to a maximum of 30 pounds. |
 | 9 | A fallen bloodbark tree. Spending 1 hour with an axe yields 2d12 pounds per character, up to a maximum of 48 pounds. |
-| 10-13 | `dice:1d4\|noform\|noparens\|avg` (`d4`) [[5. Mechanics/Bestiary/Beast/Giant Mosquito (GRIFFONSSADDLEBAG2).md\|giant mosquitoes]] (60%) or [[5. Mechanics/Bestiary/Beast/Swarm Of Giant Mosquitoes (GRIFFONSSADDLEBAG2).md\|swarms of giant mosquitoes]] (40%) |
-| 14-17 | `dice:1d3\|noform\|noparens\|avg` (`d3`) [[5. Mechanics/Bestiary/Beast/Giant Blood Eel (GRIFFONSSADDLEBAG2).md\|giant blood eels]] |
-| 18-21 | `dice:3d4\|noform\|noparens\|avg` (`3d4`) [[5. Mechanics/Bestiary/Beast/Giant Frog.md\|giant frogs]] (50%) or giant snakes (50%) |
-| 22-25 | `dice:1d6\|noform\|noparens\|avg` (`d6`) [[5. Mechanics/Bestiary/Beast/Crocodile.md\|crocodiles]] (25%) or [[5. Mechanics/Bestiary/Beast/Hunter Shark.md\|hunter sharks]] (75%) |
-| 26-29 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Quipper.md\|quippers]] (70%) or [[5. Mechanics/Bestiary/Beast/Stirge.md\|stirges]] (30%) |
+| 10-13 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Beast/Giant Mosquito (GRIFFONSSADDLEBAG2).md\|giant mosquitoes]] (60%) or [[/5. Mechanics/Bestiary/Beast/Swarm Of Giant Mosquitoes (GRIFFONSSADDLEBAG2).md\|swarms of giant mosquitoes]] (40%) |
+| 14-17 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Beast/Giant Blood Eel (GRIFFONSSADDLEBAG2).md\|giant blood eels]] |
+| 18-21 | `dice:3d4\|noform\|noparens\|avg` (`3d4`) [[/5. Mechanics/Bestiary/Beast/Giant Frog.md\|giant frogs]] (50%) or giant snakes (50%) |
+| 22-25 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [[/5. Mechanics/Bestiary/Beast/Crocodile.md\|crocodiles]] (25%) or [[/5. Mechanics/Bestiary/Beast/Hunter Shark.md\|hunter sharks]] (75%) |
+| 26-29 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Beast/Quipper.md\|quippers]] (70%) or [[/5. Mechanics/Bestiary/Beast/Stirge.md\|stirges]] (30%) |
 | 30–33 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) fugitives (outlaws) hunting for food. They leave peacefully if given rations/supplies, but otherwise attack. |
-| 34 | `dice:1d4\|noform\|noparens\|avg` (`d4`) [[5. Mechanics/Bestiary/Fiend/Crimson Legion Imp (GRIFFONSSADDLEBAG2).md\|Crimson Legion imps]] (see appendix B) prowling for violence. |
+| 34 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Fiend/Crimson Legion Imp (GRIFFONSSADDLEBAG2).md\|Crimson Legion imps]] (see appendix B) prowling for violence. |
 | 35 | A dense cloud of diseased insects. Each charac- ter must succeed on a DC 12 Constitution saving throw or become diseased (see Bloodmire Diseases table). |
 | 36 | Old fey ruins buried under mud and submerged in the swamp. Murals of the war (75%) or carved poetry about Syre (25%) can be found with a DC 17 Intelligence (Investigation) check. |
 | 37 | A battlefield from the war. Fey and fiendish weapons and armor long corroded (90%) or intact (10%). |
 | 38 | A partially submerged fey monument depicting a bold warrior. A successful DC 18 Intelligence (Religion) check recognizes the ancient hero as Syre. |
-| 39 | `dice:1d8\|noform\|noparens\|avg` (`d8`) [[5. Mechanics/Bestiary/Fey/Sprite.md\|sprites]] out scouting in secret for intelligence (Reroll if the party is far away from the Verdant Heart). |
+| 39 | `dice:1d8\|noform\|noparens\|avg` (`1d8`) [[/5. Mechanics/Bestiary/Fey/Sprite.md\|sprites]] out scouting in secret for intelligence (Reroll if the party is far away from the Verdant Heart). |
 | 40 | An intact fey portal that allows instant travel to the sprite village in the Verdant Heart while a waxing crescent moon is overhead. |
 ^example-encounters-table
 
@@ -658,6 +658,6 @@ When designing a Bloodmire dungeon, take special note of the humidity's eroding 
 
 ### Example Treasure
 
-When determining treasure for the Bloodmire, consider the denizens that live there. Items that are fey or fiendish in origin, such as the [[5. Mechanics/Items/Bane Shield (GRIFFONSSADDLEBAG2).md\|bane shield]], [[5. Mechanics/Items/Signet Rings Of The Fey Court (TGS1).md\|signet rings of the fey court]] or [[5. Mechanics/Items/Chain Devil Gloves (GRIFFONSSADDLEBAG2).md\|chain devil gloves]], are ideal. Similarly, items related to sickness and disease such as the [[5. Mechanics/Items/Carrion Shroud (GRIFFONSSADDLEBAG2).md\|carrion shroud]] or [[5. Mechanics/Items/Plaguebane Mask (TGS1).md\|plaguebane mask]] would be good fits. Of course, any item with "blood" or "bloodmire" in its name is perfect for this environment.
+When determining treasure for the Bloodmire, consider the denizens that live there. Items that are fey or fiendish in origin, such as the [[/5. Mechanics/Items/Bane Shield (GRIFFONSSADDLEBAG2).md\|bane shield]], [[/5. Mechanics/Items/Signet Rings Of The Fey Court (TGS1).md\|signet rings of the fey court]] or [[/5. Mechanics/Items/Chain Devil Gloves (GRIFFONSSADDLEBAG2).md\|chain devil gloves]], are ideal. Similarly, items related to sickness and disease such as the [[/5. Mechanics/Items/Carrion Shroud (GRIFFONSSADDLEBAG2).md\|carrion shroud]] or [[/5. Mechanics/Items/Plaguebane Mask (TGS1).md\|plaguebane mask]] would be good fits. Of course, any item with "blood" or "bloodmire" in its name is perfect for this environment.
 
-[[5. Mechanics/Items/Silverwind The Cleansing Breeze (GRIFFONSSADDLEBAG2).md\|Silverwind, the Cleansing Breeze]] was the blade once wielded by Syre, the lord of the Syre Wood. It can be found within the Bloodmire piercing the petrified body of Malfuriel the Betrayer in the Verdant Heart. Its details can be found on page 200.
+[[/5. Mechanics/Items/Silverwind The Cleansing Breeze (GRIFFONSSADDLEBAG2).md\|Silverwind, the Cleansing Breeze]] was the blade once wielded by Syre, the lord of the Syre Wood. It can be found within the Bloodmire piercing the petrified body of Malfuriel the Betrayer in the Verdant Heart. Its details can be found on page 200.

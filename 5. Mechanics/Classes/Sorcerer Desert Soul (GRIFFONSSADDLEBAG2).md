@@ -57,11 +57,11 @@ Starting when you choose this origin at 1st level, you ignore difficult terrain 
 
 Starting at 1st level, you can cause the magical sandstorm within you to manifest as a nearby twister. When you cast a spell of 1st level or higher on your turn, you can use a bonus action to create this storm in a 5-foot cube in a space you can see within 30 feet of you. A Large or smaller creature in the area must succeed on a Strength saving throw against your sorcerer spell save DC. A creature that fails the saving throw is pushed up to 10 feet in a direction of your choice if it's Medium or smaller, or 5 feet if it's Large.
 
-When you reach 6th level in this class, a creature that fails this saving throw also takes either `dice:1d8|noform|noparens|avg` (`d8`) bludgeoning damage or `dice:1d8|noform|noparens|avg` (`d8`) fire damage (your choice). The damage increases when you reach certain levels in this class, increasing to `dice:2d8|noform|noparens|avg` (`2d8`) at 14th level, and `dice:3d8|noform|noparens|avg` (`3d8`) at 18th level.
+When you reach 6th level in this class, a creature that fails this saving throw also takes either `dice:1d8|noform|noparens|avg` (`1d8`) bludgeoning damage or `dice:1d8|noform|noparens|avg` (`1d8`) fire damage (your choice). The damage increases when you reach certain levels in this class, increasing to `dice:2d8|noform|noparens|avg` (`2d8`) at 14th level, and `dice:3d8|noform|noparens|avg` (`3d8`) at 18th level.
 
 ### Mirage (Level 6)
 
-At 6th level, you learn the [[5. Mechanics/Spells/Mirror Image.md\|mirror image]] spell. If you already know this spell, you learn a different sorcerer spell of your choice. The spell doesn't count against your number of spells known. You can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, any creature within 10 feet of you that destroys one of the spell's illusions takes fire damage equal to half your sorcerer level, as the illusion bursts into a wave of scalding air and sand.
+At 6th level, you learn the [[/5. Mechanics/Spells/Mirror Image.md\|mirror image]] spell. If you already know this spell, you learn a different sorcerer spell of your choice. The spell doesn't count against your number of spells known. You can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, any creature within 10 feet of you that destroys one of the spell's illusions takes fire damage equal to half your sorcerer level, as the illusion bursts into a wave of scalding air and sand.
 
 ### Desert Nomad (Level 14)
 

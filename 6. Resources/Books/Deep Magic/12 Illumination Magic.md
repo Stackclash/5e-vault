@@ -17,7 +17,7 @@ Illumination magic concerns both the manipulation of light and observations of t
 
 ## Illumination Magic Spell Lists
 
-Mastery of illumination magic comes from long and dedicated study, and thus [[5. Mechanics/Classes/Wizard.md\|wizards]] have access to more of these spells than other spellcasting classes do.
+Mastery of illumination magic comes from long and dedicated study, and thus [[/5. Mechanics/Classes/Wizard.md\|wizards]] have access to more of these spells than other spellcasting classes do.
 
 > [!note]
 > See the spells page to browse and sort each class' spell list.
@@ -47,29 +47,29 @@ The following spells are presented in alphabetical order.
 > [!note]
 > See the spells page to browse and sort spells.
 
-- [[5. Mechanics/Spells/Amplify Light (KPDM).md\|Amplify Light]]  
-- [[5. Mechanics/Spells/Burning Radiance (KPDM).md\|Burning Radiance]]  
-- [[5. Mechanics/Spells/Greater Protective Nimbus (KPDM).md\|Greater Protective Nimbus]]  
-- [[5. Mechanics/Spells/Guiding Star (KPDM).md\|Guiding Star]]  
-- [[5. Mechanics/Spells/Last Rays Of The Dying Sun (KPDM).md\|Last Rays of the Dying Sun]]  
-- [[5. Mechanics/Spells/Orb Of Light (KPDM).md\|Orb of Light]]  
-- [[5. Mechanics/Spells/Phantom Light (KPDM).md\|Phantom Light]]  
-- [[5. Mechanics/Spells/Protective Nimbus (KPDM).md\|Protective Nimbus]]  
-- [[5. Mechanics/Spells/Searing Sun (KPDM).md\|Searing Sun]]  
-- [[5. Mechanics/Spells/Shield Of Starlight (KPDM).md\|Shield of Starlight]]  
-- [[5. Mechanics/Spells/Soothing Incandescence (KPDM).md\|Soothing Incandescence]]  
-- [[5. Mechanics/Spells/Starburst (KPDM).md\|Starburst]]  
-- [[5. Mechanics/Spells/Starfall (KPDM).md\|Starfall]]  
-- [[5. Mechanics/Spells/Stars Heart (KPDM).md\|Star's Heart]]  
-- [[5. Mechanics/Spells/Summon Star (KPDM).md\|Summon Star]]  
-- [[5. Mechanics/Spells/Tracking Beacon (KPDM).md\|Tracking Beacon]]  
+- [[/5. Mechanics/Spells/Amplify Light (KPDM).md\|Amplify Light]]  
+- [[/5. Mechanics/Spells/Burning Radiance (KPDM).md\|Burning Radiance]]  
+- [[/5. Mechanics/Spells/Greater Protective Nimbus (KPDM).md\|Greater Protective Nimbus]]  
+- [[/5. Mechanics/Spells/Guiding Star (KPDM).md\|Guiding Star]]  
+- [[/5. Mechanics/Spells/Last Rays Of The Dying Sun (KPDM).md\|Last Rays of the Dying Sun]]  
+- [[/5. Mechanics/Spells/Orb Of Light (KPDM).md\|Orb of Light]]  
+- [[/5. Mechanics/Spells/Phantom Light (KPDM).md\|Phantom Light]]  
+- [[/5. Mechanics/Spells/Protective Nimbus (KPDM).md\|Protective Nimbus]]  
+- [[/5. Mechanics/Spells/Searing Sun (KPDM).md\|Searing Sun]]  
+- [[/5. Mechanics/Spells/Shield Of Starlight (KPDM).md\|Shield of Starlight]]  
+- [[/5. Mechanics/Spells/Soothing Incandescence (KPDM).md\|Soothing Incandescence]]  
+- [[/5. Mechanics/Spells/Starburst (KPDM).md\|Starburst]]  
+- [[/5. Mechanics/Spells/Starfall (KPDM).md\|Starfall]]  
+- [[/5. Mechanics/Spells/Stars Heart (KPDM).md\|Star's Heart]]  
+- [[/5. Mechanics/Spells/Summon Star (KPDM).md\|Summon Star]]  
+- [[/5. Mechanics/Spells/Tracking Beacon (KPDM).md\|Tracking Beacon]]  
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/KPDM/0070.webp#center)
 
 ## Illuminator
 
 > [!embed-subclass]- Illuminator
-> ![[5. Mechanics/Classes/Wizard Illuminator (KPDM).md\|Illuminator]]
+> ![[/5. Mechanics/Classes/Wizard Illuminator (KPDM).md\|Illuminator]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/KPDM/0071.webp#center)
 

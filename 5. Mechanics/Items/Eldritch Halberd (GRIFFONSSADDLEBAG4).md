@@ -13,7 +13,7 @@ one-hand-damage: 1d10 slashing
 weight: 6
 ---
 # Eldritch Halberd
-*Weapon ([[5. Mechanics/Items/Halberd.md\|halberd]]), cursed item, uncommon (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), cursed item, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Eldritch-Halberd.webp#right)  
 
 - **Damage**: 1d10 slashing
@@ -22,9 +22,9 @@ weight: 6
 
 A sickly, yellow eye stares unblinkingly from the winged blade of this magic halberd. You can use your Charisma modifier, instead of Strength, for attack and damage rolls made with this magic weapon.
 
-While you aren't missing any hit points, you can use an action to cast the [[5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] cantrip from the weapon, using a spell attack bonus of +5. If you're a warlock and holding this weapon, you can always cast the spell from the weapon as if you were casting it. This version of eldritch blast fires beams of purple energy, which look like magical bats streaking through the air.
+While you aren't missing any hit points, you can use an action to cast the [[/5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] cantrip from the weapon, using a spell attack bonus of +5. If you're a warlock and holding this weapon, you can always cast the spell from the weapon as if you were casting it. This version of eldritch blast fires beams of purple energy, which look like magical bats streaking through the air.
 
-When you use this weapon to either make an attack or cast [[5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] and roll a 10 on a damage die, the attack deals extra psychic damage equal to your Charisma modifier (a minimum of 0). You can deal this extra damage once per turn.
+When you use this weapon to either make an attack or cast [[/5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] and roll a 10 on a damage die, the attack deals extra psychic damage equal to your Charisma modifier (a minimum of 0). You can deal this extra damage once per turn.
 
 ## Curse
 

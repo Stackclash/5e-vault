@@ -57,9 +57,9 @@ Starting when you join the College of Mercantile at 3rd level, a creature that u
 
 Also at 3rd level, you know that coins can be just as powerful as the most enthralling rhetoric. Whereas other bards may use words and song as their means for conjuring spells, you instead use a simple coin. You can use any coin worth at least 1 cp as a spellcasting focus for your bard spells.
 
-In addition, you can use an action to magically fling a coin from your hand at a target within 60 feet of you. Make a ranged spell attack with the coin, using your Charisma modifier for the attack roll. On a hit, the target takes 1 bludgeoning damage plus `dice:1d12|noform|noparens|avg` (`d12`) thunder damage. Immediately after the attack, the coin returns to your hand. If you roll a 20 on the attack roll against a hostile creature using a nonmagical copper, silver, electrum, or gold piece, the coin is magically duplicated when it returns to your hand. The new coin can appear in your hand, at your feet, or in a coin pouch on your person (your choice).
+In addition, you can use an action to magically fling a coin from your hand at a target within 60 feet of you. Make a ranged spell attack with the coin, using your Charisma modifier for the attack roll. On a hit, the target takes 1 bludgeoning damage plus `dice:1d12|noform|noparens|avg` (`1d12`) thunder damage. Immediately after the attack, the coin returns to your hand. If you roll a 20 on the attack roll against a hostile creature using a nonmagical copper, silver, electrum, or gold piece, the coin is magically duplicated when it returns to your hand. The new coin can appear in your hand, at your feet, or in a coin pouch on your person (your choice).
 
-The coin's thunder damage increases by `dice:1d12|noform|noparens|avg` (`d12`) when you reach 6th level (`dice:2d12|noform|noparens|avg` (`2d12`)) and 14th level (`dice:3d12|noform|noparens|avg` (`3d12`)).
+The coin's thunder damage increases by `dice:1d12|noform|noparens|avg` (`1d12`) when you reach 6th level (`dice:2d12|noform|noparens|avg` (`2d12`)) and 14th level (`dice:3d12|noform|noparens|avg` (`3d12`)).
 
 ### Money Talks (Level 6)
 

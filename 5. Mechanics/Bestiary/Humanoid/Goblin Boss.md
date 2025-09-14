@@ -17,7 +17,7 @@ tags:
 aliases:
   - Goblin Boss
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Goblin Boss.md|Goblin Boss]]
+# [[5. Mechanics/Bestiary/Humanoid/Goblin Boss.md|Goblin Boss]]
 *Source: Monster Manual p. 166, Tasha's Cauldron of Everything*
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
@@ -58,7 +58,7 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "17"
-"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Chain Shirt.md|chain shirt]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "21"
 "hit_dice": "6d6"
 "modifier": !!int "2"
@@ -73,7 +73,8 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+6"
-"senses": "darkvision 60 ft., passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 9"
 "languages": "Common, Goblin"
 "cr": "1"
 "traits":
@@ -84,11 +85,11 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
   - "desc": "The goblin makes two attacks with its scimitar. The second attack has\
       \ disadvantage."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) slashing damage."
     "name": "Scimitar"
-  - "desc": "Melee  or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. Hit: 3 (d6) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. *Hit:* 3 (1d6) piercing damage."
     "name": "Javelin"
 "reactions":
   - "desc": "When a creature the goblin can see targets it with an attack, the goblin\
@@ -98,7 +99,7 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Humanoid/token/goblin-boss.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/goblin-boss.webp"
 ```
 ^statblock
 

@@ -9,9 +9,9 @@ aliases:
 ---
 # Halfling (Lightfoot)
 *Source: Player's Handbook p. 28. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
-![[5. Mechanics/Races/img/halfling.webp#right]]  
+![[/5. Mechanics/Races/img/halfling.webp#right]]  
 
-- **Ability Scores**: Charisma +1
+- **Ability Scores**: cha +1
 - **Size**: Small
 - **Speed**: 25 ft.
 

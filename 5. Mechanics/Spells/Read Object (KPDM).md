@@ -17,13 +17,12 @@ school: Divination
 level: 2
 ritual: true
 time: 1 minute
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Read Object
-concentration: true
 ---
 # Read Object
 *2nd-level, Divination (ritual)*  
@@ -42,6 +41,6 @@ By handling an object and reading the psychic residue on it, you can divine info
 - A visual image of the item's owner or crafter  
 - Information regarding the item's historical significance, if any  
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 102*

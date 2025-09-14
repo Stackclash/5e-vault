@@ -13,7 +13,7 @@ tags:
 aliases:
   - Construct Spirit (Metal)
 ---
-# [[5. Mechanics\Bestiary\Construct\Construct Spirit Metal (TCE).md|Construct Spirit (Metal)]]
+# [[5. Mechanics/Bestiary/Construct/Construct Spirit Metal (TCE).md|Construct Spirit (Metal)]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock
@@ -36,18 +36,19 @@ aliases:
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "A creature that touches the construct or hits it with a melee attack\
-      \ while within 5 feet of it takes d10 fire damage."
+      \ while within 5 feet of it takes 1d10 fire damage."
     "name": "Heated Body"
 "actions":
   - "desc": "The construct makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d8 + 4 + the spell's level bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d8 + 4 + the spell's level bludgeoning damage."
     "name": "Slam"
 "source":
   - "TCE"

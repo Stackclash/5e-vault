@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\baba-lysagas-creeping-hut.webp
+  - ../../../../../4. World Almanac/NPCs/img/baba-lysagas-creeping-hut.webp
 relationships: []
 aliases:
   - Baba Lysaga's Creeping Hut
@@ -54,7 +54,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 226*
@@ -137,15 +137,16 @@ actions:
   - !!int "3"
 "speed": "30 ft."
 "saves":
-  - "constitution": "+9"
-  - "wisdom": "+0"
-  - "charisma": "+0"
+  - "constitution": !!int "9"
+  - "wisdom": !!int "0"
+  - "charisma": !!int "0"
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 6"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft. (blind beyond\
+  \ this radius), passive Perception 6"
 "languages": ""
 "cr": "11"
 "traits":
@@ -155,8 +156,8 @@ actions:
       \ too damaged to be of much use or value to anyone."
     "name": "Constructed Nature"
   - "desc": "The hut is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
-      \ while the magic gem that animates it is in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-      \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the hut\
+      \ while the magic gem that animates it is in the area of an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
+      \ If targeted by [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the hut\
       \ must succeed on a Constitution saving throw against the caster's spell save\
       \ DC or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for\
       \ 1 minute."
@@ -167,15 +168,15 @@ actions:
   - "desc": "The hut makes three attacks with its roots. It can replace one of these\
       \ attacks with a rock attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +12 to hit, reach 60 ft., one target. Hit: 30\
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 60 ft., one target. *Hit:* 30\
       \ (4d10 + 8) bludgeoning damage."
     "name": "Root"
-  - "desc": "Ranged Weapon Attack: +12 to hit, range 120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +12 to hit, range 120 ft., one target. *Hit:*\
       \ 21 (3d8 + 8) bludgeoning damage."
     "name": "Rock"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/baba-lysagas-creeping-hut-cos.webp"
+"image": "/4. World Almanac/NPCs/token/baba-lysagas-creeping-hut-cos.webp"
 ```
 ^statblock
 

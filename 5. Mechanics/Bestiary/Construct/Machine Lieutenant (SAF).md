@@ -13,7 +13,7 @@ tags:
 aliases:
   - Machine Lieutenant
 ---
-# [[5. Mechanics\Bestiary\Construct\Machine Lieutenant (SAF).md|Machine Lieutenant]]
+# [[5. Mechanics/Bestiary/Construct/Machine Lieutenant (SAF).md|Machine Lieutenant]]
 *Source: Strongholds and Followers p. 252*
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "type": "construct"
 "alignment": "Neutral"
 "ac": !!int "20"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate armor]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "1"
@@ -44,7 +44,8 @@ aliases:
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 14"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "4"
 "traits":
@@ -58,7 +59,7 @@ aliases:
 "actions":
   - "desc": "The lieutenant makes two longsword attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage or 9 (1d10 + 4) slashing damage if used with two hands."
     "name": "Longsword"
 "source":

@@ -15,7 +15,7 @@ two-hand-damage: 1d10 bludgeoning
 weight: 2
 ---
 # Furious Flail
-*Weapon ([[5. Mechanics/Items/Flail.md\|flail]]), major, very rare (requires attunement by a barbarian)*  
+*Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, very rare (requires attunement by a barbarian)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Furious-Flail.webp#right)  
 
 - **Damage**:
@@ -24,7 +24,7 @@ weight: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 2.0 lbs.
 
-This magic stone flail has the heavy property. If you're raging while holding the flail, its volcanic nature reacts to your fury. When it does, the basalt handle extends, giving the weapon both the reach and versatile (`dice:1d10|noform|noparens|avg` (`d10`)) properties. In addition, while you're raging, the flail deals an extra `dice:1d8|noform|noparens|avg` (`d8`) fire damage to any target it hits. You take `dice:1d4|noform|noparens|avg` (`d4`) fire damage when the flail transforms in this way and again at the start of each of your turns if you're holding the flail. The flail returns to its normal form and cools if you are no longer holding it at the end of your turn or if your rage ends.
+This magic stone flail has the heavy property. If you're raging while holding the flail, its volcanic nature reacts to your fury. When it does, the basalt handle extends, giving the weapon both the reach and versatile (`dice:1d10|noform|noparens|avg` (`1d10`)) properties. In addition, while you're raging, the flail deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) fire damage to any target it hits. You take `dice:1d4|noform|noparens|avg` (`1d4`) fire damage when the flail transforms in this way and again at the start of each of your turns if you're holding the flail. The flail returns to its normal form and cools if you are no longer holding it at the end of your turn or if your rage ends.
 
 ## Volcanic Fury
 

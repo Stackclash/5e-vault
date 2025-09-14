@@ -61,7 +61,7 @@ You must choose undead as your favored enemy type at 1st level. At 6th and 14th 
 
 At 3rd level, you can choose the following feature in place of Colossus Slayer, Giant Killer, or Horde Breaker:
 
-Empowered Strike Your expertise in fighting undead and lycanthropes allows you to harm them even when you're not wielding a magical weapon. When fighting a creature that has resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons, you can ignore this resistance once per turn when you hit successfully with your nonmagical weapon. If you are wielding a magical weapon, the creature takes an extra `dice:1d8|noform|noparens|avg` (`d8`) damage from one of your successful attacks per turn.
+Empowered Strike Your expertise in fighting undead and lycanthropes allows you to harm them even when you're not wielding a magical weapon. When fighting a creature that has resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons, you can ignore this resistance once per turn when you hit successfully with your nonmagical weapon. If you are wielding a magical weapon, the creature takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage from one of your successful attacks per turn.
 
 ### Defensive Tactics (Level 7)
 

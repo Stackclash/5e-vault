@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bone Devil
 ---
-# [[5. Mechanics\Bestiary\Fiend\Bone Devil.md|Bone Devil]]
+# [[5. Mechanics/Bestiary/Fiend/Bone Devil.md|Bone Devil]]
 *Source: Monster Manual p. 71. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Driven by hate, lust, and envy, bone devils act as the cruel taskmasters of the Nine Hells. They set weaker devils to work, taking special delight in seeing fiends that defy them demoted. At the same time, they long for promotion and are bitterly envious of their superiors, attempting to curry favor though it irks them to do so.
@@ -132,10 +132,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > - A barbed devil has a 30 percent chance of summoning one barbed devil.  
 > - A bearded devil has a 30 percent chance of summoning one bearded devil.  
 > - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`d6`) bearded devils, or one erinyes.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`1d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30 percent chance of summoning one horned devil.  
 > - An ice devil has a 60 percent chance of summoning one ice devil.  
-> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -160,9 +160,9 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - !!int "16"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  - "intelligence": "+5"
-  - "wisdom": "+6"
-  - "charisma": "+7"
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+7"
@@ -172,7 +172,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "9"
 "traits":
@@ -184,10 +185,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "actions":
   - "desc": "The devil makes three attacks: two with its claws and one with its sting."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 8\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 8\
       \ (1d8 + 4) slashing damage."
     "name": "Claw"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 13\
       \ (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must\
       \ succeed on a DC 14 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
@@ -195,7 +196,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     "name": "Sting"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Fiend/token/bone-devil.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/bone-devil.webp"
 ```
 ^statblock
 

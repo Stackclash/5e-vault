@@ -13,7 +13,7 @@ tags:
 aliases:
   - Spiderdragon
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Spiderdragon (VEOR).md|Spiderdragon]]
+# [[5. Mechanics/Bestiary/Monstrosity/Spiderdragon (VEOR).md|Spiderdragon]]
 *Source: Vecna: Eve of Ruin p. 233*
 
 The terrors known as spiderdragons were first found in the deepest corners of the Underdark and trace their origins to black dragon wyrmlings who ate a steady diet of spiders. Though spiderdragons were not created in the Abyss or by Lolth's faithful, worshipers of the Spider Queen claim that spiderdragons are a gift from their deity, as spiderdragons are most numerous in Underdark areas that Lolth's faithful claim as their own. Lolth worshipers might employ spiderdragons as guards or treat them as venerated guests. The creatures aren't as powerful as their black dragon progenitors, though, and they often drain the enclaves' resources with their selfish demands.
@@ -39,15 +39,16 @@ Uninterested in building lairs, spiderdragons weave powerful webs and eat an abu
   - !!int "18"
 "speed": "50 ft., climb 60 ft."
 "saves":
-  - "strength": "+9"
-  - "dexterity": "+8"
+  - "strength": !!int "9"
+  - "dexterity": !!int "8"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+8"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
 "damage_resistances": "poison, psychic"
-"senses": "darkvision 90 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 90 ft., passive Perception\
+  \ 16"
 "languages": "Abyssal, Draconic, Undercommon"
 "cr": "11"
 "traits":
@@ -62,10 +63,10 @@ Uninterested in building lairs, spiderdragons weave powerful webs and eat an abu
 "actions":
   - "desc": "The spiderdragon makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 10\
       \ (1d10 + 5) piercing damage plus 13 (2d12) poison damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage."
     "name": "Claw"
   - "desc": "The spiderdragon exhales venomous spiderlings in a 30-foot cone. Each\
@@ -86,7 +87,7 @@ Uninterested in building lairs, spiderdragons weave powerful webs and eat an abu
     "name": "Stifling Webs (Recharge 5-6)"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/spiderdragon-veor.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/spiderdragon-veor.webp"
 ```
 ^statblock
 

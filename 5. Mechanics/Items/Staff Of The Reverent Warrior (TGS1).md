@@ -14,7 +14,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Staff of the Reverent Warrior
-*Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a spellcaster)*  
+*Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Staff-of-the-Reverent-Warrior.webp#right)  
 
 - **Damage**:
@@ -25,7 +25,7 @@ weight: 4
 
 This staff was made as a means of worship rather than war by a retired warrior using the weapons he'd once wielded. The staff is adorned with blades and channels the inner focus of a warrior. This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. In addition, attacks made with this weapon can deal either bludgeoning, piercing, or slashing damage (your choice).
 
-This staff has 10 charges. While attuned to the staff, you know the [[5. Mechanics/Spells/True Strike.md\|true strike]] cantrip and can cast it at will. When you cast this spell while holding the staff, you can expend 1 or more of its charges to enhance the spell in one or more of the following ways:
+This staff has 10 charges. While attuned to the staff, you know the [[/5. Mechanics/Spells/True Strike.md\|true strike]] cantrip and can cast it at will. When you cast this spell while holding the staff, you can expend 1 or more of its charges to enhance the spell in one or more of the following ways:
 
 - You can expend 1 charge to reveal the target's weaknesses to your allies instead of merely yourself, causing the next attack roll made against the target to have advantage instead.  
 - You can expend 1 charge to cast the spell as a bonus action, instead of as an action.  

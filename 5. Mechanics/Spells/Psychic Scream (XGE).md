@@ -16,11 +16,23 @@ classes:
   - Wizard
 school: Enchantment
 level: 9
+damage:
+  base: 14d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Intelligence
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - S
+range: 90 feet
+somatic: true
+verbal: false
 aliases:
   - Psychic Scream
 ---
@@ -38,6 +50,6 @@ Each target must make an Intelligence saving throw. On a failed save, a target t
 
 A [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] target can make an Intelligence saving throw at the end of each of its turns. On a successful save, the stunning effect ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 163*

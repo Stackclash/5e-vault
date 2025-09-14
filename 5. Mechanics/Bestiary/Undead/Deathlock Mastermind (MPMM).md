@@ -14,7 +14,7 @@ tags:
 aliases:
   - Deathlock Mastermind
 ---
-# [[5. Mechanics\Bestiary\Undead\Deathlock Mastermind (MPMM).md|Deathlock Mastermind]]
+# [[5. Mechanics/Bestiary/Undead/Deathlock Mastermind (MPMM).md|Deathlock Mastermind]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
@@ -44,8 +44,8 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - !!int "17"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+5"
-  - "charisma": "+6"
+  - "intelligence": !!int "5"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+5"
@@ -58,7 +58,8 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 14"
 "languages": "the languages it knew in life"
 "cr": "8"
 "traits":
@@ -72,10 +73,10 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "actions":
   - "desc": "The deathlock makes two Deathly Claw or Grave Bolt attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (3d6 + 3 necrotic damage)."
     "name": "Deathly Claw"
-  - "desc": "Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 13\
+  - "desc": "*Ranged Spell Attack:* +6 to hit, range 120 ft., one target. *Hit:* 13\
       \ (3d8) necrotic damage. If the target is Large or smaller, it must succeed\
       \ on a DC 16 Strength saving throw or become [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
       \ as shadowy tendrils wrap around it for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
@@ -83,16 +84,17 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ itself on a success."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 14):\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-      \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-      \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n1/day each: [[5. Mechanics/Spells/Darkness.md|darkness]],\
-      \ [[5. Mechanics/Spells/Dimension Door.md|dimension door]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-      \ [[5. Mechanics/Spells/Fly.md|fly]], [[5. Mechanics/Spells/Invisibility.md|invisibility]]"
+      \ spellcasting ability (spell save DC 14):\n\n**At will:** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[/5. Mechanics/Spells/Disguise Self.md|disguise self]], [[/5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+      \ [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\n**1/day each:**\
+      \ [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Dimension Door.md|dimension door]],\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Fly.md|fly]],\
+      \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/deathlock-mastermind-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/deathlock-mastermind-mpmm.webp"
 ```
 ^statblock
 

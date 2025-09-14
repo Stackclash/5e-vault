@@ -15,7 +15,7 @@ tags:
 aliases:
   - Owl
 ---
-# [[5. Mechanics\Bestiary\Beast\Owl.md|Owl]]
+# [[5. Mechanics/Bestiary/Beast/Owl.md|Owl]]
 *Source: Monster Manual p. 333. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -40,7 +40,8 @@ aliases:
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
-"senses": "darkvision 120 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 13"
 "languages": ""
 "cr": "0"
 "traits":
@@ -51,12 +52,12 @@ aliases:
       \ checks that rely on hearing or sight."
     "name": "Keen Hearing and Sight"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 slashing\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1 slashing\
       \ damage."
     "name": "Talons"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/owl.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/owl.webp"
 ```
 ^statblock
 

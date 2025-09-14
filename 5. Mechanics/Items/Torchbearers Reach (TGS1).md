@@ -13,7 +13,7 @@ one-hand-damage: 1d4 fire
 weight: 3
 ---
 # Torchbearer's Reach
-*Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Torchbearers-Reach.webp#right)  
 
 - **Damage**: 1d4 fire

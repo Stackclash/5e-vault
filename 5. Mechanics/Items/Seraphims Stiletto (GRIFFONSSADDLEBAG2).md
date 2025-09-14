@@ -11,11 +11,11 @@ tags:
 aliases:
   - Seraphim's Stiletto
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 1
 ---
 # Seraphim's Stiletto
-*Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement by a creature of good alignment)*  
+*Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement by a creature of good alignment)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Seraphim%27s-Stiletto.webp#right)  
 
 - **Damage**: 1d4 piercing

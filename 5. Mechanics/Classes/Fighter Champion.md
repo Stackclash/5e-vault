@@ -74,5 +74,5 @@ At 18th level, you attain the pinnacle of resilience in battle. At the start of 
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Fighter
-> ![Fighting Style, Fighter](compendium/lists/list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
+> ![Fighting Style, Fighter](/compendium/lists/list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
 ^list-optfeature-fs-f

@@ -22,12 +22,15 @@ school: Evocation
 level: 2
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
+duration: 'Concentration, up to 10 minutes'
+range: Self
+somatic: false
+verbal: true
+area:
+  shape: sphere
+  size: 10
 aliases:
   - Warding Wind
-concentration: true
 ---
 # Warding Wind
 *2nd-level, Evocation*  
@@ -47,6 +50,6 @@ The wind has the following effects:
 - The area is difficult terrain for creatures other than you.  
 - The attack rolls of ranged weapon attacks have disadvantage if the attacks pass in or out of the wind.  
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 170*

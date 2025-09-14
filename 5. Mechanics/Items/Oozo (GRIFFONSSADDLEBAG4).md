@@ -15,7 +15,7 @@ aliases:
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Oozo Uncommon (GRIFFONSSADDLEBAG4).md\|Oozo (Uncommon)]]  
-- [[5. Mechanics/Items/Oozo Very Rare (GRIFFONSSADDLEBAG4).md\|Oozo (Very Rare)]]  
+- [[/5. Mechanics/Items/Oozo Uncommon (GRIFFONSSADDLEBAG4).md\|Oozo (Uncommon)]]  
+- [[/5. Mechanics/Items/Oozo Very Rare (GRIFFONSSADDLEBAG4).md\|Oozo (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*

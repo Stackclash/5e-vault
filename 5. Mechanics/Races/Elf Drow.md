@@ -10,7 +10,7 @@ aliases:
 # Elf (Drow)
 *Source: Player's Handbook p. 24*  
 
-- **Ability Scores**: Charisma +1
+- **Ability Scores**: cha +1
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma
@@ -54,11 +54,11 @@ You have disadvantage on attack rolls and on Wisdom ([[/5. Mechanics/Rules/Skill
 
 ### Drow Magic
 
-You know the [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] cantrip. When you reach 3rd level, you can cast the [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the [[5. Mechanics/Spells/Darkness.md\|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] cantrip. When you reach 3rd level, you can cast the [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]] spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the [[/5. Mechanics/Spells/Darkness.md\|darkness]] spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Drow Weapon Training
 
-You have proficiency with [[5. Mechanics/Items/Rapier.md\|rapiers]], [[5. Mechanics/Items/Shortsword.md\|shortswords]], and [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbows]].
+You have proficiency with [[/5. Mechanics/Items/Rapier.md\|rapiers]], [[/5. Mechanics/Items/Shortsword.md\|shortswords]], and [[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbows]].
 
 ## Description
 

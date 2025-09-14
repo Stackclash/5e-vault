@@ -10,11 +10,11 @@ tags:
 aliases:
   - Serpent Dart
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 0.25
 ---
 # Serpent Dart
-*Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Serpent-Dart.webp#right)  
 
 - **Damage**: 1d4 piercing

@@ -15,7 +15,7 @@ two-hand-damage: 1d10 slashing
 weight: 3
 ---
 # Daybreaker Katana
-*Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Daybreaker-Katana.webp#right)  
 
 - **Damage**:

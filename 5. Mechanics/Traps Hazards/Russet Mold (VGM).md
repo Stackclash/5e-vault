@@ -10,7 +10,7 @@ aliases:
 # Russet Mold
 *Generic Hazard*  
 
-Few know for sure where russet mold came from. One historical account tells of adventurers in a mountain range discovering russet mold and vegepygmies in a peculiar metal dungeon full of strange life. Another story says that explorers found russet mold in a crater left by a falling star, with [[5. Mechanics/Bestiary/Plant/Vegepygmy (MPMM).md\|vegepygmies]] infesting the forest nearby.
+Few know for sure where russet mold came from. One historical account tells of adventurers in a mountain range discovering russet mold and vegepygmies in a peculiar metal dungeon full of strange life. Another story says that explorers found russet mold in a crater left by a falling star, with [[/5. Mechanics/Bestiary/Plant/Vegepygmy (MPMM).md\|vegepygmies]] infesting the forest nearby.
 
 The mold is found only in places that are dark, warm, and wet. Russet mold that spreads out across a metal object can be mistaken for rust, and a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check is required to identify it.
 

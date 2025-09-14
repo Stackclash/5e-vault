@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\kasimir-velikov.webp
+  - ../../../../../4. World Almanac/NPCs/img/kasimir-velikov.webp
 relationships: []
 aliases:
   - Kasimir Velikov
@@ -54,7 +54,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 233*
@@ -115,7 +115,7 @@ actions:
 "subtype": "Dusk elf"
 "alignment": "Neutral"
 "ac": !!int "12"
-"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+"ac_class": "15 with [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -128,50 +128,51 @@ actions:
   - !!int "11"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+6"
-  - "wisdom": "+4"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
     "desc": "+6"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "any four languages"
 "cr": "6"
 "traits":
   - "desc": "Kasimir is a 9th-level spellcaster. His spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks). Kasimir has the following\
-      \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
-      \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
-      \ slots): [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-      \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]], [[5. Mechanics/Spells/Shield.md|shield]]\n\
-      \n2nd level (3 slots): [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
-      \n3rd level (3 slots): [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
-      \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Fly.md|fly]]\n\
-      \n4th level (3 slots): [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
-      \ [[5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Cone Of Cold.md|cone\
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Fire Bolt.md|fire bolt]],\
+      \ [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n**1st level\
+      \ (4 slots):** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+      \ [[/5. Mechanics/Spells/Magic Missile.md|magic missile]], [[/5. Mechanics/Spells/Shield.md|shield]]\n\
+      \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Misty Step.md|misty step]], [[/5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
+      \n**3rd level (3 slots):** [[/5. Mechanics/Spells/Counterspell.md|counterspell]],\
+      \ [[/5. Mechanics/Spells/Fireball.md|fireball]], [[/5. Mechanics/Spells/Fly.md|fly]]\n\
+      \n**4th level (3 slots):** [[/5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
+      \ [[/5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n**5th level (1 slots):** [[/5. Mechanics/Spells/Cone Of Cold.md|cone\
       \ of cold]]"
     "name": "Spellcasting"
   - "desc": "Kasimir has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
       \ and magic can't put the him to sleep."
     "name": "Fey Ancestry"
-  - "desc": "Kasimir wears a [[5. Mechanics/Items/Ring Of Warmth.md|ring of warmth]]\
+  - "desc": "Kasimir wears a [[/5. Mechanics/Items/Ring Of Warmth.md|ring of warmth]]\
       \ and carries a spellbook containing all the spells he has prepared plus the\
-      \ following spells: [[5. Mechanics/Spells/Arcane Lock.md|arcane lock]], [[5. Mechanics/Spells/Comprehend Languages.md|comprehend\
-      \ languages]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-      \ [[5. Mechanics/Spells/Identify.md|identify]], [[5. Mechanics/Spells/Locate Object.md|locate object]],\
-      \ [[5. Mechanics/Spells/Nondetection.md|nondetection]], [[5. Mechanics/Spells/Polymorph.md|polymorph]],\
-      \ [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
-      \ and [[5. Mechanics/Spells/Wall Of Stone.md|wall of stone]]."
+      \ following spells: [[/5. Mechanics/Spells/Arcane Lock.md|arcane lock]], [[/5. Mechanics/Spells/Comprehend Languages.md|comprehend\
+      \ languages]], [[/5. Mechanics/Spells/Hold Person.md|hold person]],\
+      \ [[/5. Mechanics/Spells/Identify.md|identify]], [[/5. Mechanics/Spells/Locate Object.md|locate object]],\
+      \ [[/5. Mechanics/Spells/Nondetection.md|nondetection]], [[/5. Mechanics/Spells/Polymorph.md|polymorph]],\
+      \ [[/5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil and good]],\
+      \ and [[/5. Mechanics/Spells/Wall Of Stone.md|wall of stone]]."
     "name": "Special Equipment"
 "actions":
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
     "name": "Dagger"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/kasimir-velikov-cos.webp"
+"image": "/4. World Almanac/NPCs/token/kasimir-velikov-cos.webp"
 ```
 ^statblock
 

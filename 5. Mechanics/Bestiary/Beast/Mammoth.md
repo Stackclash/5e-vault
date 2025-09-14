@@ -14,7 +14,7 @@ tags:
 aliases:
   - Mammoth
 ---
-# [[5. Mechanics\Bestiary\Beast\Mammoth.md|Mammoth]]
+# [[5. Mechanics/Bestiary/Beast/Mammoth.md|Mammoth]]
 *Source: Monster Manual p. 332. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.
@@ -48,15 +48,15 @@ A mammoth is an elephantine creature with thick fur and long tusks. Stockier and
       \ can make one stomp attack against it as a bonus action."
     "name": "Trampling Charge"
 "actions":
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 25\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 25\
       \ (4d8 + 7) piercing damage."
     "name": "Gore"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-      \ creature. Hit: 29 (4d10 + 7) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ creature. *Hit:* 29 (4d10 + 7) bludgeoning damage."
     "name": "Stomp"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/mammoth.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/mammoth.webp"
 ```
 ^statblock
 

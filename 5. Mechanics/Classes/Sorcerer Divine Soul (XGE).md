@@ -67,11 +67,11 @@ In addition, choose an affinity for the source of your divine power: good, evil,
 
 | Affinity | Spell |
 |----------|-------|
-| Good | [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] |
-| Evil | [[5. Mechanics/Spells/Inflict Wounds.md\|inflict wounds]] |
-| Law | [[5. Mechanics/Spells/Bless.md\|bless]] |
-| Chaos | [[5. Mechanics/Spells/Bane.md\|bane]] |
-| Neutrality | [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
+| Good | [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] |
+| Evil | [[/5. Mechanics/Spells/Inflict Wounds.md\|inflict wounds]] |
+| Law | [[/5. Mechanics/Spells/Bless.md\|bless]] |
+| Chaos | [[/5. Mechanics/Spells/Bane.md\|bane]] |
+| Neutrality | [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
 ^affinity-spell
 
 ### Favored by the Gods (Level 1)

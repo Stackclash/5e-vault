@@ -14,7 +14,7 @@ tags:
 aliases:
   - Myconid Sovereign
 ---
-# [[5. Mechanics\Bestiary\Plant\Myconid Sovereign.md|Myconid Sovereign]]
+# [[5. Mechanics/Bestiary/Plant/Myconid Sovereign.md|Myconid Sovereign]]
 *Source: Monster Manual p. 232*
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
@@ -47,7 +47,8 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
   - !!int "15"
   - !!int "10"
 "speed": "30 ft."
-"senses": "darkvision 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 12"
 "languages": ""
 "cr": "2"
 "traits":
@@ -62,7 +63,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
   - "desc": "The myconid uses either its Hallucination Spores or its Pacifying Spores,\
       \ then makes a fist attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (3d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (3d4\
       \ + 1) bludgeoning damage plus 7 (3d4) poison damage."
     "name": "Fist"
   - "desc": "The myconid targets one corpse of a humanoid or a Large or smaller beast\
@@ -90,7 +91,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     "name": "Rapport Spores"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Plant/token/myconid-sovereign.webp"
+"image": "/5. Mechanics/Bestiary/Plant/token/myconid-sovereign.webp"
 ```
 ^statblock
 

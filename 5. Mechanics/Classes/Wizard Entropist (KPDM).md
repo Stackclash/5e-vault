@@ -53,9 +53,9 @@ Wizards who specialize in Chaos Magic crave an understanding of probability and 
 
 What starts as an attempt to analyze the patterns of chaos quickly becomes a trip down the rabbit hole to madness.
 
-***How to Start:*** If you're a [[5. Mechanics/Classes/Wizard.md\|wizard]] who wants to become an entropist, you make that decision upon reaching 2nd level, when you are also entitled to choose an arcane tradition. If you decide to follow the path of the entropist exclusively, you can forego the selection of an arcane tradition and gain the features of the entropist specialty instead.
+***How to Start:*** If you're a [[/5. Mechanics/Classes/Wizard.md\|wizard]] who wants to become an entropist, you make that decision upon reaching 2nd level, when you are also entitled to choose an arcane tradition. If you decide to follow the path of the entropist exclusively, you can forego the selection of an arcane tradition and gain the features of the entropist specialty instead.
 
-You can also pursue the entropist specialty in conjunction with one of the standard arcane traditions. If you choose to do this, you gain the Savant feature of your chosen school in addition to [Chaos Magic Savant](compendium/classes/wizard-entropist-kpdm.md#Chaos%20Magic%20Savant%20(Level%202)). Also at 2nd level, you choose whether to gain [Long Odds](compendium/classes/wizard-entropist-kpdm.md#Long%20Odds%20(Level%202)) or the 2nd-level feature of your chosen school. Thereafter, at 6th, 10th, and 14th level, you choose between the lowest-level features still available. For instance, a [[5. Mechanics/Classes/Wizard.md\|transmuter]] might select [Minor Alchemy](compendium/classes/wizard-school-of-transmutation.md#Minor%20Alchemy%20(Level%202)) at 2nd level and [Long Odds](compendium/classes/wizard-entropist-kpdm.md#Long%20Odds%20(Level%202)) at 6th level, followed by either [Transmuter's Stone](compendium/classes/wizard-school-of-transmutation.md#Transmuter's%20Stone%20(Level%206)) or [Twisted Arcana](compendium/classes/wizard-entropist-kpdm.md#Twisted%20Arcana%20(Level%206)) at 10th level.
+You can also pursue the entropist specialty in conjunction with one of the standard arcane traditions. If you choose to do this, you gain the Savant feature of your chosen school in addition to [Chaos Magic Savant](/compendium/classes/wizard-entropist-kpdm.md#Chaos%20Magic%20Savant%20(Level%202)). Also at 2nd level, you choose whether to gain [Long Odds](/compendium/classes/wizard-entropist-kpdm.md#Long%20Odds%20(Level%202)) or the 2nd-level feature of your chosen school. Thereafter, at 6th, 10th, and 14th level, you choose between the lowest-level features still available. For instance, a [[/5. Mechanics/Classes/Wizard.md\|transmuter]] might select [Minor Alchemy](/compendium/classes/wizard-school-of-transmutation.md#Minor%20Alchemy%20(Level%202)) at 2nd level and [Long Odds](/compendium/classes/wizard-entropist-kpdm.md#Long%20Odds%20(Level%202)) at 6th level, followed by either [Transmuter's Stone](/compendium/classes/wizard-school-of-transmutation.md#Transmuter's%20Stone%20(Level%206)) or [Twisted Arcana](/compendium/classes/wizard-entropist-kpdm.md#Twisted%20Arcana%20(Level%206)) at 10th level.
 
 ### Chaos Magic Savant (Level 2)
 
@@ -63,7 +63,7 @@ Beginning when you take up this specialty at 2nd level, the gold and time you mu
 
 ### Long Odds (Level 2)
 
-Also starting at 2nd level, you can manipulate the reality-changing forces of chaos to alter the odds in a situation. You can use a bonus action to give yourself, or a reaction to give a creature you can see, advantage on one attack roll, saving throw, or ability check made during this turn. Using this feature causes a [[5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]]. You must finish a long rest before you can use this feature again.
+Also starting at 2nd level, you can manipulate the reality-changing forces of chaos to alter the odds in a situation. You can use a bonus action to give yourself, or a reaction to give a creature you can see, advantage on one attack roll, saving throw, or ability check made during this turn. Using this feature causes a [[/5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]]. You must finish a long rest before you can use this feature again.
 
 ### Twisted Arcana (Level 6)
 
@@ -72,14 +72,14 @@ Starting at 6th level, when you cast a spell that deals damage, you can infuse t
 In addition, the type of damage your spell deals is replaced randomly. Use the Random Damage Type table to determine the spell's new damage type.
 
 > [!embed-table]- Random Damage Type
-> ![[5. Mechanics/Tables/Random Damage Type (KPDM).md\|Random Damage Type]]
+> ![[/5. Mechanics/Tables/Random Damage Type (KPDM).md\|Random Damage Type]]
 
-Using this feature has a chance of causing a [[5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]]. You must finish a long rest before you can use this feature again.
+Using this feature has a chance of causing a [[/5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]]. You must finish a long rest before you can use this feature again.
 
 ### Shifting Resistance (Level 10)
 
-Beginning at 10th level, when you cast a chaos spell, you gain resistance to a random damage type for a number of rounds equal to 1 + your Intelligence modifier (minimum of 1). You can try to narrow the spell's focus to a damage type you prefer, but doing so has an element of risk; you can roll twice on the [[5. Mechanics/Tables/Random Damage Type (KPDM).md\|Random Damage Type]] table and choose the result you prefer, but you must also roll to see if a [[5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]] occurs. You must finish a long rest before you can use this feature again.
+Beginning at 10th level, when you cast a chaos spell, you gain resistance to a random damage type for a number of rounds equal to 1 + your Intelligence modifier (minimum of 1). You can try to narrow the spell's focus to a damage type you prefer, but doing so has an element of risk; you can roll twice on the [[/5. Mechanics/Tables/Random Damage Type (KPDM).md\|Random Damage Type]] table and choose the result you prefer, but you must also roll to see if a [[/5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]] occurs. You must finish a long rest before you can use this feature again.
 
 ### Master of Chaos (Level 14)
 
-Starting at 14th level, anytime you cause a [[5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]], you regain one use of [Long Odds](compendium/classes/wizard-entropist-kpdm.md#Long%20Odds%20(Level%202)), [Twisted Arcana](compendium/classes/wizard-entropist-kpdm.md#Twisted%20Arcana%20(Level%206)), or [Shifting Resistance](compendium/classes/wizard-entropist-kpdm.md#Shifting%20Resistance%20(Level%2010)) without needing to finish a long rest. In addition, every time you cast a chaos spell, you gain temporary hit points equal to your Intelligence modifier + the spell's level.
+Starting at 14th level, anytime you cause a [[/5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]], you regain one use of [Long Odds](/compendium/classes/wizard-entropist-kpdm.md#Long%20Odds%20(Level%202)), [Twisted Arcana](/compendium/classes/wizard-entropist-kpdm.md#Twisted%20Arcana%20(Level%206)), or [Shifting Resistance](/compendium/classes/wizard-entropist-kpdm.md#Shifting%20Resistance%20(Level%2010)) without needing to finish a long rest. In addition, every time you cast a chaos spell, you gain temporary hit points equal to your Intelligence modifier + the spell's level.

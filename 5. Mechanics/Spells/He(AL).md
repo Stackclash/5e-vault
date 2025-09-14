@@ -16,15 +16,20 @@ classes:
   - Sorcerer (Divine Soul)
 school: Evocation
 level: 6
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 7
+  types: []
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Heal
-range: 60 feet
 ---
 # Heal
 *6th-level, Evocation*  
@@ -38,6 +43,6 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

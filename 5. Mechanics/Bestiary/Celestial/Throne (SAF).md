@@ -13,7 +13,7 @@ tags:
 aliases:
   - Throne
 ---
-# [[5. Mechanics\Bestiary\Celestial\Throne (SAF).md|Throne]]
+# [[5. Mechanics/Bestiary/Celestial/Throne (SAF).md|Throne]]
 *Source: Strongholds and Followers p. 163*
 
 Wat. Okay, well...look, I don't make these things up, the gods do that, and who are we to question them?
@@ -51,13 +51,14 @@ It chooses the most evil enemy creature (by whatever metric you want) and attack
   - !!int "18"
 "speed": "30 ft."
 "saves":
-  - "strength": "+7"
-  - "constitution": "+7"
+  - "strength": !!int "7"
+  - "constitution": !!int "7"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight, passive Perception 22"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]], passive Perception\
+  \ 22"
 "languages": "all, telepathy 60 ft."
 "cr": "9"
 "traits":
@@ -77,7 +78,7 @@ It chooses the most evil enemy creature (by whatever metric you want) and attack
       \ effect."
     "name": "Aura of Protection Against Evil"
 "actions":
-  - "desc": "Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 10\
+  - "desc": "*Ranged Spell Attack:* +8 to hit, range 120 ft., one target. *Hit:* 10\
       \ (3d6) fire damage plus 9 (2d8) radiant damage. If the target is Medium or\
       \ smaller, it must succeed on a DC 16 Dexterity saving throw or be teleported\
       \ into the throne's burning rings. The target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\

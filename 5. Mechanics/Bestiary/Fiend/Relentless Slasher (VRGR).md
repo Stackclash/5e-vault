@@ -13,7 +13,7 @@ tags:
 aliases:
   - Relentless Slasher
 ---
-# [[5. Mechanics\Bestiary\Fiend\Relentless Slasher (VRGR).md|Relentless Slasher]]
+# [[5. Mechanics/Bestiary/Fiend/Relentless Slasher (VRGR).md|Relentless Slasher]]
 *Source: Van Richten's Guide to Ravenloft p. 242*
 
 A relentless slasher conducts its bloody work in silence then vanishes into shadow and infamy. Fixated on a specific individual or type of victim, it pursues its target with single-minded obsession.
@@ -73,10 +73,10 @@ Relentless killers come into being and undertake their terrifying sprees for a s
   - !!int "16"
 "speed": "40 ft."
 "saves":
-  - "strength": "+4"
-  - "dexterity": "+7"
-  - "constitution": "+5"
-  - "wisdom": "+5"
+  - "strength": !!int "4"
+  - "dexterity": !!int "7"
+  - "constitution": !!int "5"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+7"
@@ -85,7 +85,8 @@ Relentless killers come into being and undertake their terrifying sprees for a s
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+5"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 120 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 15"
 "languages": "understands all languages but can't speak"
 "cr": "8"
 "traits":
@@ -97,19 +98,22 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 "actions":
   - "desc": "The slasher makes two Slasher's Knife attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/60\
-      \ ft., one target. Hit: 6 (1d4 + 4) slashing damage plus 21 (6d6) necrotic\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 30/60\
+      \ ft., one target. *Hit:* 6 (1d4 + 4) slashing damage plus 21 (6d6) necrotic\
       \ damage. If the target is a creature, it suffers a lingering wound that causes\
       \ it to take 7 (2d6) necrotic damage at the start of each of its turns. Each\
       \ time the slasher hits the wounded target with this attack, the damage dealt\
-      \ by the wound increases by 3 (d6). The wound ends if the target regains hit\
+      \ by the wound increases by 3 (1d6). The wound ends if the target regains hit\
       \ points or if a creature uses an action to stanch the wound, which requires\
       \ a successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]])\
       \ check."
     "name": "Slasher's Knife"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the relentless slasher can expend a use to take one of the following actions.\
+  \ The relentless slasher regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/60\
-      \ ft., one target. Hit: 7 (1d6 + 4) slashing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 30/60\
+      \ ft., one target. *Hit:* 7 (1d6 + 4) slashing damage."
     "name": "Slice"
   - "desc": "The slasher makes one Slasher's Knife attack. After the attack hits or\
       \ misses, the slasher can teleport up to 30 feet to an unoccupied space it can\
@@ -117,7 +121,7 @@ Relentless killers come into being and undertake their terrifying sprees for a s
     "name": "Vanishing Strike (Costs 3 Actions)"
 "source":
   - "VRGR"
-"image": "5. Mechanics/Bestiary/Fiend/token/relentless-slasher-vrgr.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/relentless-slasher-vrgr.webp"
 ```
 ^statblock
 

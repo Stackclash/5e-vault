@@ -24,16 +24,26 @@ classes:
   - Wizard
 school: Transmutation
 level: 1
+damage:
+  base: 2d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - cold
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 60 feet
+somatic: true
+verbal: true
+material: a piece of sunstone
 aliases:
   - Thin the Ice
-material: a piece of sunstone
 ---
 # Thin the Ice
 *1st-level, Transmutation*  
@@ -47,6 +57,6 @@ You target a point within range. That point becomes the top center of a cylinder
 
 If a creature weighing more than 20 pounds (or a greater weight specified by you when casting the spell) treads over the cylinder or is already standing on it, the ice gives way. Unless the creature makes a successful Dexterity saving throw, it falls into the icy water, taking `dice:2d6|noform|noparens|avg` (`2d6`) cold damage plus whatever other problems are caused by water, by armor, or by being drenched in a freezing environment. The water gradually refreezes normally.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 113*

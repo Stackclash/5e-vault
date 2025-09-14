@@ -14,7 +14,7 @@ one-hand-damage: 1d12 piercing
 weight: 6
 ---
 # Lance of the White Dragon
-*Weapon ([[5. Mechanics/Items/Lance.md\|lance]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Lance-of-the-White-Dragon.webp#right)  
 
 - **Damage**: 1d12 piercing
@@ -25,7 +25,7 @@ This magic lance is covered in spines and white dragon fragments. The air around
 
 ## Charges
 
-This weapon has 5 charges for the following properties; it regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn. If the lance has at least 1 charge, it deals an extra `dice:1d10|noform|noparens|avg` (`d10`) cold damage to any target it hits.
+This weapon has 5 charges for the following properties; it regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn. If the lance has at least 1 charge, it deals an extra `dice:1d10|noform|noparens|avg` (`1d10`) cold damage to any target it hits.
 
 You can use one of the following properties on each of your turns while holding the lance.
 

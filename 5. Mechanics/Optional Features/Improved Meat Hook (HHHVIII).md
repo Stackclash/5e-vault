@@ -10,6 +10,6 @@ aliases:
 # Improved Meat Hook
 *Source: Hamund's Harvesting Handbook: Volume III p. 112*  
 
-***Prerequisites*** 18th Fighter (Butcher)
+***Prerequisites*** Level 18 Fighter (Butcher)
 
 You add your Strength modifier to this damage when you reach 18th level in this class.

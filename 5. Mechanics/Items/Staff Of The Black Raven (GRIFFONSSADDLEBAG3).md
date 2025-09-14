@@ -28,7 +28,7 @@ This staff has a crystalline black raven perched at its top. It can be wielded a
 
 ## "Attack!"
 
-The raven flies out and makes a melee weapon attack against a target that you can see within 30 feet of you, using an attack bonus of +5. On a hit, it deals `dice:1d10|noform|noparens|avg` (`d10`) magical piercing or slashing damage (your choice) as the raven pecks and slashes at the target. The target gains no benefit from cover, as the raven flies around any obstacle to attack. The raven then returns and perches atop the staff.
+The raven flies out and makes a melee weapon attack against a target that you can see within 30 feet of you, using an attack bonus of +5. On a hit, it deals `dice:1d10|noform|noparens|avg` (`1d10`) magical piercing or slashing damage (your choice) as the raven pecks and slashes at the target. The target gains no benefit from cover, as the raven flies around any obstacle to attack. The raven then returns and perches atop the staff.
 
 ## "Collect!"
 
@@ -42,6 +42,6 @@ The raven opens its beak and replays the last 6 seconds of sound. The raven reco
 
 The raven leaves the staff, flying or remaining perched within 30 feet of you for 8 hours or until you speak this command word again. For the duration, the raven keeps watch, using a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of 13. The raven caws loudly when a creature other than one you've designated comes within 30 feet of you, at which point it flies back and returns to the top of the staff.
 
-The detached raven has AC 13, 10 hit points, and its movement doesn't provoke opportunity attacks. If it's reduced to 0 hit points, it splits apart into a handful of pieces and stops moving. A [[5. Mechanics/Spells/Mending.md\|mending]] cantrip can restore the broken raven to its hit point maximum. If the raven returns to the staff, it regains any hit points it lost. Otherwise, the raven magically rematerializes on the staff the next day at dawn, at which point any of its broken pieces are turned to dust and are destroyed.
+The detached raven has AC 13, 10 hit points, and its movement doesn't provoke opportunity attacks. If it's reduced to 0 hit points, it splits apart into a handful of pieces and stops moving. A [[/5. Mechanics/Spells/Mending.md\|mending]] cantrip can restore the broken raven to its hit point maximum. If the raven returns to the staff, it regains any hit points it lost. Otherwise, the raven magically rematerializes on the staff the next day at dawn, at which point any of its broken pieces are turned to dust and are destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

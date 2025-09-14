@@ -19,13 +19,12 @@ level: 3
 ritual: false
 time: 1 Bonus Action
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: a drop of bright paint
 aliases:
   - Tracer
-material: a drop of bright paint
 ---
 # Tracer
 *3rd-level, Divination*  
@@ -39,6 +38,6 @@ When you cast this spell and as a bonus action on each of your turns until the s
 
 A creature must succeed on an Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check against your spell save DC to notice the magical beacon.
 
-**Classes**: [Cleric (Hunting Domain)](compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Hunting Domain)](/compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 115*

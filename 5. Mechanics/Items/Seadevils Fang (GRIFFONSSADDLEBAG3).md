@@ -13,7 +13,7 @@ one-hand-damage: 2d6 slashing
 weight: 6
 ---
 # Seadevil's Fang
-*Weapon ([[5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Seadevils-Fang.webp#right)  
 
 - **Damage**: 2d6 slashing

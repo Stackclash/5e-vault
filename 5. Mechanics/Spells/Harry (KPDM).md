@@ -22,17 +22,25 @@ classes:
   - Wizard
 school: Enchantment
 level: 4
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 8
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: 120 feet
+somatic: true
+verbal: true
+material: a bit of fur from a game animal
 aliases:
   - Harry
-concentration: true
-material: a bit of fur from a game animal
 ---
 # Harry
 *4th-level, Enchantment*  
@@ -48,6 +56,6 @@ On a successful save, the target isn't affected, and you can't use this spell ag
 
 **At Higher Levels.** When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 8 hours, and the target can repeat the saving throw once each hour. When you use a spell slot of 8th level or higher, the duration is concentration, up to 24 hours, and the target can repeat the saving throw every 8 hours.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 78*

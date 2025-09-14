@@ -12,7 +12,7 @@ aliases:
 
 ***Prerequisites*** Pact of the Chain
 
-When you cast [[5. Mechanics/Spells/Find Familiar.md\|find familiar]], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
+When you cast [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
 
 - The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.  
 - As a bonus action, you can command the familiar to take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action.  

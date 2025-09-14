@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Mind Master
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Mind Master (MPMM).md|Duergar Mind Master]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Mind Master (MPMM).md|Duergar Mind Master]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 108, Mordenkainen's Tome of Foes p. 189*
 
 Wearing fearsome masks, duergar mind masters usually operate as spies, both inside and beyond a duergar stronghold. Their psionically augmented abilities enable them to see through illusions with ease and shrink down to miniature size to spy on their targets.
@@ -47,7 +47,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "modifier": !!int "3"
@@ -60,14 +60,15 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "12"
 "speed": "25 ft."
 "saves":
-  - "wisdom": "+2"
+  - "wisdom": !!int "2"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "poison"
-"senses": "darkvision 120 ft., truesight 30 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., [[/5. Mechanics/Rules/Senses.md#Truesight|truesight]]\
+  \ 30 ft., passive Perception 12"
 "languages": "Dwarvish, Undercommon"
 "cr": "2"
 "traits":
@@ -83,7 +84,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - "desc": "The duergar makes two Mind-Poison Dagger attacks. It can replace one\
       \ attack with a use of Mind Mastery."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
       \ + 3) piercing damage plus 10 (3d6) psychic damage, or 1 piercing damage plus\
       \ 10 (3d6) psychic damage while under the effect of Reduce."
     "name": "Mind-Poison Dagger"
@@ -113,7 +114,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/duergar-mind-master-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/duergar-mind-master-mpmm.webp"
 ```
 ^statblock
 

@@ -57,11 +57,11 @@ The Many lets you choose from an expanded list of spells when you learn a warloc
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Entangle.md\|entangle]], [[5. Mechanics/Spells/Magic Missile.md\|magic missile]] |
-| 2nd | [[5. Mechanics/Spells/Scorching Ray.md\|scorching ray]], [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] |
-| 3rd | [[5. Mechanics/Spells/Blink.md\|blink]], [[5. Mechanics/Spells/Nondetection.md\|nondetection]] |
-| 4th | [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]], [[5. Mechanics/Spells/Evards Black Tentacles.md\|black tentacles]] |
-| 5th | [[5. Mechanics/Spells/Mislead.md\|mislead]], [[5. Mechanics/Spells/Rarys Telepathic Bond.md\|telepathic bond]] |
+| 1st | [[/5. Mechanics/Spells/Entangle.md\|entangle]], [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]] |
+| 2nd | [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]], [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] |
+| 3rd | [[/5. Mechanics/Spells/Blink.md\|blink]], [[/5. Mechanics/Spells/Nondetection.md\|nondetection]] |
+| 4th | [[/5. Mechanics/Spells/Arcane Eye.md\|arcane eye]], [[/5. Mechanics/Spells/Evards Black Tentacles.md\|black tentacles]] |
+| 5th | [[/5. Mechanics/Spells/Mislead.md\|mislead]], [[/5. Mechanics/Spells/Rarys Telepathic Bond.md\|telepathic bond]] |
 ^spell-level-spells
 
 ### Eldritch Heads (Level 1)

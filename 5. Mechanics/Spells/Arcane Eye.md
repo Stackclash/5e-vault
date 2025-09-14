@@ -31,19 +31,13 @@ school: Divination
 level: 4
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: 30 feet
+somatic: true
+verbal: true
+material: a bit of bat fur
 aliases:
   - Arcane Eye
-range: 30 feet
-material: A bit of bat fur.
-area:
-  type: sphere
-  size: 30
-concentration: true
 ---
 # Arcane Eye
 *4th-level, Divination*  
@@ -59,6 +53,6 @@ You mentally receive visual information from the eye, which has normal vision an
 
 As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Ranger (Swarmkeeper)](compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Prophecy Domain)](compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of Owls)](compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Warlock (The Many)](compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [Cleric (Prophecy Domain)](/compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of Owls)](/compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Swarmkeeper)](/compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Warlock (The Many)](/compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

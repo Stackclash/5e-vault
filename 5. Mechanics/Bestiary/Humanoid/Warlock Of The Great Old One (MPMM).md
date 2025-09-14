@@ -18,7 +18,7 @@ tags:
 aliases:
   - Warlock of the Great Old One
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Warlock Of The Great Old One (MPMM).md|Warlock of the Great Old One]]
+# [[5. Mechanics/Bestiary/Humanoid/Warlock Of The Great Old One (MPMM).md|Warlock of the Great Old One]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 256, Volo's Guide to Monsters p. 220*
 
 Warlocks of the Great Old One gain their powers through magical pacts forged with eldritch entities from strange and distant realms of existence. Some of these warlocks associate with cultists devoted to these entities, as well as Aberrations that share their goals, yet other warlocks of the Great Old One are experts at rooting out the chaos and wickedness inspired by bizarre beings from beyond the stars.
@@ -33,7 +33,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "16 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+"ac_class": "16 with [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
 "modifier": !!int "3"
@@ -46,15 +46,16 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
   - !!int "18"
 "speed": "30 ft."
 "saves":
-  - "wisdom": "+4"
-  - "charisma": "+7"
+  - "wisdom": !!int "4"
+  - "charisma": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
     "desc": "+4"
 "damage_resistances": "psychic"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "any two languages, telepathy 30 ft."
 "cr": "6"
 "traits":
@@ -65,8 +66,8 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "actions":
   - "desc": "The warlock makes two Dagger attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) psychic\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage plus 10 (3d6) psychic\
       \ damage."
     "name": "Dagger"
   - "desc": "The warlock opens a momentary extraplanar rift within 60 feet of it.\
@@ -77,17 +78,17 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
       \ save, a creature takes half as much damage and isn't [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]."
     "name": "Howling Void"
   - "desc": "The warlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 15): \n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-      \ [[5. Mechanics/Spells/Guidance.md|guidance]], [[5. Mechanics/Spells/Levitate.md|levitate]],\
-      \ [[5. Mechanics/Spells/Mage Armor.md|mage armor]] (self only), [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-      \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Arcane Gate.md|arcane gate]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-      \ [[5. Mechanics/Spells/True Seeing.md|true seeing]]"
+      \ spellcasting ability (spell save DC 15): \n\n**At will:** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[/5. Mechanics/Spells/Guidance.md|guidance]], [[/5. Mechanics/Spells/Levitate.md|levitate]],\
+      \ [[/5. Mechanics/Spells/Mage Armor.md|mage armor]] (self only), [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Arcane Gate.md|arcane gate]], [[/5. Mechanics/Spells/Detect Thoughts.md|detect\
+      \ thoughts]], [[/5. Mechanics/Spells/True Seeing.md|true seeing]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/warlock-of-the-great-old-one-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/warlock-of-the-great-old-one-mpmm.webp"
 ```
 ^statblock
 

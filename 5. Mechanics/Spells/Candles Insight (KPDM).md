@@ -22,13 +22,12 @@ level: 1
 ritual: false
 time: 1 Action
 duration: 10 minutes
-components:
-  - V
-  - S
-  - M
+range: 10 feet
+somatic: true
+verbal: true
+material: a blessed candle
 aliases:
   - Candle's Insight
-material: a blessed candle
 ---
 # Candle's Insight
 *1st-level, Divination*  
@@ -42,6 +41,8 @@ This spell is cast on its target as the component candle is lit. The candle burn
 
 *Candle's insight* is used across society: by merchants while negotiating deals, by inquisitors investigating heresy, and by monarchs as they interview foreign diplomats. In some societies, casting candle's insight without the consent of the spell's target is considered a serious breach of hospitality.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
 
 *Source: Deep Magic p. 47*

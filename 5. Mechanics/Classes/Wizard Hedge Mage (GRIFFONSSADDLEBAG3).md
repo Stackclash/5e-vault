@@ -57,14 +57,14 @@ When you choose this tradition at 2nd level, the following druid spells are adde
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]], [[5. Mechanics/Spells/Detect Poison And Disease.md\|detect poison and disease]], [[5. Mechanics/Spells/Entangle.md\|entangle]], [[5. Mechanics/Spells/Goodberry.md\|goodberry]], [[5. Mechanics/Spells/Purify Food And Drink.md\|purify food and drink]], [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
-| 2nd | [[5. Mechanics/Spells/Animal Messenger.md\|animal messenger]], [[5. Mechanics/Spells/Barkskin.md\|barkskin]], [[5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], [[5. Mechanics/Spells/Protection From Poison.md\|protection from poison]], [[5. Mechanics/Spells/Spike Growth.md\|spike growth]] |
-| 3rd | [[5. Mechanics/Spells/Conjure Animals.md\|conjure animals]], [[5. Mechanics/Spells/Plant Growth.md\|plant growth]], [[5. Mechanics/Spells/Speak With Plants.md\|speak with plants]] |
-| 4th | [[5. Mechanics/Spells/Conjure Woodland Beings.md\|conjure woodland beings]], [[5. Mechanics/Spells/Dominate Beast.md\|dominate beast]], [[5. Mechanics/Spells/Giant Insect.md\|giant insect]] |
-| 5th | [[5. Mechanics/Spells/Awaken.md\|awaken]], [[5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[5. Mechanics/Spells/Contagion.md\|contagion]], [[5. Mechanics/Spells/Insect Plague.md\|insect plague]], [[5. Mechanics/Spells/Tree Stride.md\|tree stride]] |
-| 6th | [[5. Mechanics/Spells/Conjure Fey.md\|conjure fey]], [[5. Mechanics/Spells/Find The Path.md\|find the path]], [[5. Mechanics/Spells/Transport Via Plants.md\|transport via plants]], [[5. Mechanics/Spells/Wall Of Thorns.md\|wall of thorns]] |
-| 7th | [[5. Mechanics/Spells/Regenerate.md\|regenerate]] |
-| 8th | [[5. Mechanics/Spells/Animal Shapes.md\|animal shapes]] |
+| 1st | [[/5. Mechanics/Spells/Animal Friendship.md\|animal friendship]], [[/5. Mechanics/Spells/Detect Poison And Disease.md\|detect poison and disease]], [[/5. Mechanics/Spells/Entangle.md\|entangle]], [[/5. Mechanics/Spells/Goodberry.md\|goodberry]], [[/5. Mechanics/Spells/Purify Food And Drink.md\|purify food and drink]], [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
+| 2nd | [[/5. Mechanics/Spells/Animal Messenger.md\|animal messenger]], [[/5. Mechanics/Spells/Barkskin.md\|barkskin]], [[/5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], [[/5. Mechanics/Spells/Protection From Poison.md\|protection from poison]], [[/5. Mechanics/Spells/Spike Growth.md\|spike growth]] |
+| 3rd | [[/5. Mechanics/Spells/Conjure Animals.md\|conjure animals]], [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]], [[/5. Mechanics/Spells/Speak With Plants.md\|speak with plants]] |
+| 4th | [[/5. Mechanics/Spells/Conjure Woodland Beings.md\|conjure woodland beings]], [[/5. Mechanics/Spells/Dominate Beast.md\|dominate beast]], [[/5. Mechanics/Spells/Giant Insect.md\|giant insect]] |
+| 5th | [[/5. Mechanics/Spells/Awaken.md\|awaken]], [[/5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[/5. Mechanics/Spells/Contagion.md\|contagion]], [[/5. Mechanics/Spells/Insect Plague.md\|insect plague]], [[/5. Mechanics/Spells/Tree Stride.md\|tree stride]] |
+| 6th | [[/5. Mechanics/Spells/Conjure Fey.md\|conjure fey]], [[/5. Mechanics/Spells/Find The Path.md\|find the path]], [[/5. Mechanics/Spells/Transport Via Plants.md\|transport via plants]], [[/5. Mechanics/Spells/Wall Of Thorns.md\|wall of thorns]] |
+| 7th | [[/5. Mechanics/Spells/Regenerate.md\|regenerate]] |
+| 8th | [[/5. Mechanics/Spells/Animal Shapes.md\|animal shapes]] |
 ^hedge-mage-spells
 
 In addition, you gain proficiency with the herbalism kit. If you already have this proficiency, you gain proficiency with the poisoners kit or one type of artisans tools of your choice.
@@ -87,13 +87,13 @@ You can create a number of elixirs equal to your proficiency bonus using this fe
 
 ### Elixir Recipies (Level 6)
 
-- [[5. Mechanics/Items/Elixir Of Charm (GRIFFONSSADDLEBAG3).md\|Elixir of Charm]]  
-- [[5. Mechanics/Items/Elixir Of Night (GRIFFONSSADDLEBAG3).md\|Elixir of Night]]  
-- [[5. Mechanics/Items/Elixir Of Protection (GRIFFONSSADDLEBAG3).md\|Elixir of Protection]]  
-- [[5. Mechanics/Items/Elixir Of Recovery (GRIFFONSSADDLEBAG3).md\|Elixir of Recovery]]  
-- [[5. Mechanics/Items/Elixir Of Restoration (GRIFFONSSADDLEBAG3).md\|Elixir of Restoration]]  
-- [[5. Mechanics/Items/Elixir Of Truth (GRIFFONSSADDLEBAG3).md\|Elixir of Truth]]  
-- [[5. Mechanics/Items/Elixir Of Witchfire (GRIFFONSSADDLEBAG3).md\|Elixir of Witchfire]]  
+- [[/5. Mechanics/Items/Elixir Of Charm (GRIFFONSSADDLEBAG3).md\|Elixir of Charm]]  
+- [[/5. Mechanics/Items/Elixir Of Night (GRIFFONSSADDLEBAG3).md\|Elixir of Night]]  
+- [[/5. Mechanics/Items/Elixir Of Protection (GRIFFONSSADDLEBAG3).md\|Elixir of Protection]]  
+- [[/5. Mechanics/Items/Elixir Of Recovery (GRIFFONSSADDLEBAG3).md\|Elixir of Recovery]]  
+- [[/5. Mechanics/Items/Elixir Of Restoration (GRIFFONSSADDLEBAG3).md\|Elixir of Restoration]]  
+- [[/5. Mechanics/Items/Elixir Of Truth (GRIFFONSSADDLEBAG3).md\|Elixir of Truth]]  
+- [[/5. Mechanics/Items/Elixir Of Witchfire (GRIFFONSSADDLEBAG3).md\|Elixir of Witchfire]]  
 
 ### Forest Sage (Level 10)
 

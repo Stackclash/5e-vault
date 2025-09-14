@@ -14,7 +14,7 @@ tags:
 aliases:
   - Sibriex
 ---
-# [[5. Mechanics\Bestiary\Fiend\Sibriex (MPMM).md|Sibriex]]
+# [[5. Mechanics/Bestiary/Fiend/Sibriex (MPMM).md|Sibriex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
@@ -43,8 +43,8 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
   - !!int "25"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
-  - "intelligence": "+13"
-  - "charisma": "+13"
+  - "intelligence": !!int "13"
+  - "charisma": !!int "13"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+13"
@@ -56,7 +56,8 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
   \ nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 23"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 23"
 "languages": "all, telepathy 120 ft."
 "cr": "18"
 "traits":
@@ -75,7 +76,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "actions":
   - "desc": "The sibriex makes three Chain attacks, and it uses Squirt Bile."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 20\
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 20\
       \ (2d12 + 7) force damage."
     "name": "Chain"
   - "desc": "The sibriex targets one creature it can see within 120 feet of it. The\
@@ -93,15 +94,18 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
       \ any levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]] caused\
       \ by it. Each failed save causes the target to gain another level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]].\
       \ Once the target reaches 6 levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
-      \ it dies and instantly transforms into a living [[5. Mechanics/Bestiary/Fiend/Manes.md|manes]]\
+      \ it dies and instantly transforms into a living [[/5. Mechanics/Bestiary/Fiend/Manes.md|manes]]\
       \ under the sibriex's control. The transformation of the body can be undone\
-      \ only by a [[5. Mechanics/Spells/Wish.md|wish]] spell."
+      \ only by a [[/5. Mechanics/Spells/Wish.md|wish]] spell."
     "name": "Warp Creature"
   - "desc": "The sibriex casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 21):\n\
-      \nAt will: [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-      \ [[5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\n1/day: [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]"
+      \n**At will:** [[/5. Mechanics/Spells/Command.md|command]], [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+      \ [[/5. Mechanics/Spells/Hold Monster.md|hold monster]]\n\n**1/day:** [[/5. Mechanics/Spells/Feeblemind.md|feeblemind]]"
     "name": "Spellcasting"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the sibriex can expend a use to take one of the following actions. The sibriex\
+  \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The sibriex uses Spellcasting."
     "name": "Cast a Spell"
@@ -112,7 +116,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/sibriex-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/sibriex-mpmm.webp"
 ```
 ^statblock
 

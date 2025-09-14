@@ -10,12 +10,22 @@ classes:
   - Bard
 school: Enchantment
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Beguiling Bet
 ---
@@ -33,6 +43,6 @@ The [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature must use its
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for every two slot levels above 2nd. Each creature must be within 30 feet of another creature when you cast the spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 42*

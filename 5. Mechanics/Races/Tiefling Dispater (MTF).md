@@ -9,9 +9,9 @@ aliases:
 ---
 # Tiefling (Dispater)
 *Source: Mordenkainen's Tome of Foes p. 21*  
-![[5. Mechanics/Races/img/tiefling.webp#right]]  
+![[/5. Mechanics/Races/img/tiefling.webp#right]]  
 
-- **Ability Scores**: Charisma +2; Dexterity +1
+- **Ability Scores**: cha +2 dex +1
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma
@@ -36,7 +36,7 @@ You have resistance to fire damage.
 
 ### Legacy of Dis
 
-You know the [[5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[5. Mechanics/Spells/Disguise Self.md\|disguise self]] spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[/5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[/5. Mechanics/Spells/Disguise Self.md\|disguise self]] spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

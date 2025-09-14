@@ -36,6 +36,6 @@ Sehanine's priests often seek her guidance by entering into a state of true slee
 
 ## Lunar Worship
 
- Temples to Sehanine Moonbow are almost always aligned with the heavens to enable the priests to track the motion and phases of the moon. The sleeping quarters of the priests are positioned such that a shaft of light from the full moon falls on them while they are sleeping, and this silver light of Sehanine can influence their dreams and impart messages to them.
+Temples to Sehanine Moonbow are almost always aligned with the heavens to enable the priests to track the motion and phases of the moon. The sleeping quarters of the priests are positioned such that a shaft of light from the full moon falls on them while they are sleeping, and this silver light of Sehanine can influence their dreams and impart messages to them.
 
 Offerings to Sehanine are mostly made from silver, often shaped in a way that is reminiscent of the full moon. Cups, bowls, cloak pins, and plates of silver are found at her shrines, as well as those dedicated to the Seldarine collectively. The weapons and gear used by her followers, such as silver arrowheads, knife blades, and wooden shields, are often decorated with a stylized image of Sehanine's eye with rays coming out of it-a warning to the elves' enemies that Sehanine's gaze has fallen upon them.

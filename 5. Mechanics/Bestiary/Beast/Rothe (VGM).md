@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: grassland
 size: Large
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Rothé
 ---
-# [[5. Mechanics\Bestiary\Beast\Rothe (VGM).md|Rothé]]
+# [[5. Mechanics/Bestiary/Beast/Rothe (VGM).md|Rothé]]
 *Source: Volo's Guide to Monsters p. 208*
 
 Ordinary rothé resemble musk oxen and have [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] out to a range of 30 feet.
@@ -36,7 +36,8 @@ Ordinary rothé resemble musk oxen and have [[/5. Mechanics/Rules/Senses.md#Dark
   - !!int "10"
   - !!int "4"
 "speed": "30 ft."
-"senses": "darkvision 30 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 30 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -45,12 +46,12 @@ Ordinary rothé resemble musk oxen and have [[/5. Mechanics/Rules/Senses.md#Dark
       \ piercing damage."
     "name": "Charge"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) piercing damage."
     "name": "Gore"
 "source":
   - "VGM"
-"image": "5. Mechanics/Bestiary/Beast/token/rothe-vgm.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/rothe-vgm.webp"
 ```
 ^statblock
 

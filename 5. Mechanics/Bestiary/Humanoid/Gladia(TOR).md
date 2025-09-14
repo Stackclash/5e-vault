@@ -14,7 +14,7 @@ tags:
 aliases:
   - Gladiator
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Gladia(TOR).md|Gladiator]]
+# [[5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md|Gladiator]]
 *Source: Monster Manual p. 346, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Gladiators battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
@@ -26,7 +26,7 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "2"
@@ -39,9 +39,9 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
   - !!int "15"
 "speed": "30 ft."
 "saves":
-  - "strength": "+7"
-  - "dexterity": "+5"
-  - "constitution": "+6"
+  - "strength": !!int "7"
+  - "dexterity": !!int "5"
+  - "constitution": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+10"
@@ -59,11 +59,11 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
 "actions":
   - "desc": "The gladiator makes three melee attacks or two ranged attacks."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60\
-      \ ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. and range 20/60\
+      \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
       \ damage if used with two hands to make a melee attack."
     "name": "Spear"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 9\
       \ (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature,\
       \ it must succeed on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Shield Bash"
@@ -75,7 +75,7 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/gladiator.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/gladiator.webp"
 ```
 ^statblock
 

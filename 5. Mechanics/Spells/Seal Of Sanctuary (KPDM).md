@@ -15,16 +15,26 @@ classes:
   - Wizard
 school: Abjuration
 level: 7
+damage:
+  base: 10d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - radiant
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: true
 time: 1 minute
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: 'incense and special inks worth 250 gp, which the spell consumes'
 aliases:
   - Seal of Sanctuary
-material: 'incense and special inks worth 250 gp, which the spell consumes'
 ---
 # Seal of Sanctuary
 *7th-level, Abjuration (ritual)*  
@@ -42,6 +52,6 @@ Creatures other than aberrations, elementals, fey, fiends, and undead can't be [
 
 The seal has AC 18, 50 hit points, resistance to bludgeoning, piercing, and slashing damage, and immunity to psychic and poison damage. Ranged attacks against the seal are made with disadvantage. If it is scribed on the surface of an object that is later destroyed (such as a wooden door), the seal is not damaged and remains in place, perhaps suspended in midair. The spell ends only if the seal is reduced to 0 hit points.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 177*

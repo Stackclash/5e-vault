@@ -20,17 +20,25 @@ classes:
   - Druid
   - Druid (Circle of the Land)
 school: Conjuration
-level: cantrip
+level: 0
+damage:
+  base: 1d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - fire
 ritual: false
 time: 1 Action
 duration: 10 minutes
-components:
-  - V
-  - S
+range: Self
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 10
 aliases:
   - Produce Flame
-range: Self
-damageType: Fire
 ---
 # Produce Flame
 *cantrip, Conjuration*  
@@ -42,10 +50,12 @@ damageType: Fire
 
 A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again.
 
-You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes `dice:1d8|noform|noparens|avg` (`d8`) fire damage.
+You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes `dice:1d8|noform|noparens|avg` (`1d8`) fire damage.
 
-This spell's damage increases by `dice:1d8|noform|noparens|avg` (`d8`) when you reach 5th level (`dice:2d8|noform|noparens|avg` (`2d8`)), 11th level (`dice:3d8|noform|noparens|avg` (`3d8`)), and 17th level (`dice:4d8|noform|noparens|avg` (`4d8`)).
+This spell's damage increases by `dice:1d8|noform|noparens|avg` (`1d8`) when you reach 5th level (`dice:2d8|noform|noparens|avg` (`2d8`)), 11th level (`dice:3d8|noform|noparens|avg` (`3d8`)), and 17th level (`dice:4d8|noform|noparens|avg` (`4d8`)).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
 
 *Source: Player's Handbook p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

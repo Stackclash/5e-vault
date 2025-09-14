@@ -26,9 +26,9 @@ level: 1
 ritual: false
 time: 1 Action
 duration: Special
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Charm of Long Standing
 ---
@@ -42,6 +42,8 @@ aliases:
 
 As charm person but with a longer duration. The target of the spell remains [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] for one day per level you've attained in your spellcasting class. In addition, so long as the target remains [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you, you are also [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by the target. While you're [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] this way, you won't tolerate any harm, abuse, or mistreatment being directed toward the spell's target.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
 
 *Source: Deep Magic p. 349*

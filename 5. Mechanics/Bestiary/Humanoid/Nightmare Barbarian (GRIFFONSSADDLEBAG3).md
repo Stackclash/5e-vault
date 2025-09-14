@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nightmare Barbarian
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Nightmare Barbarian (GRIFFONSSADDLEBAG3).md|Nightmare Barbarian]]
+# [[5. Mechanics/Bestiary/Humanoid/Nightmare Barbarian (GRIFFONSSADDLEBAG3).md|Nightmare Barbarian]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Barbarians that are driven by their innermost turmoil as much as they are their anger. Using bizarre magic pulled seemingly straight from The Grephearon, these brutal warriors are capable of striking bone-chilling fear into those whom they stalk from the shadows.
@@ -25,7 +25,7 @@ Barbarians that are driven by their innermost turmoil as much as they are their 
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
+"ac_class": "[[/5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "3"
@@ -38,7 +38,7 @@ Barbarians that are driven by their innermost turmoil as much as they are their 
   - !!int "14"
 "speed": "40 ft."
 "saves":
-  - "dexterity": "+5"
+  - "dexterity": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+4"
@@ -62,7 +62,7 @@ Barbarians that are driven by their innermost turmoil as much as they are their 
       \ y It has advantage on Strength checks and Strength saving throws. y It gains\
       \ a +2 bonus to the damage roll of any melee weapon attacks it makes (included\
       \ in the attack). y The first creature it hits on each of its turns with a weapon\
-      \ attack takes an extra 4 (d8) psychic damage. y It has resistance to bludgeoning,\
+      \ attack takes an extra 4 (1d8) psychic damage. y It has resistance to bludgeoning,\
       \ piercing, and slashing damage."
     "name": "Rage (3/Day)"
   - "desc": "At the start of its turn, the barbarian can gain advantage on all melee\
@@ -72,7 +72,7 @@ Barbarians that are driven by their innermost turmoil as much as they are their 
 "actions":
   - "desc": "The barbarian makes two attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) bludgeoning damage, or 12 (2d6 + 5) bludgeoning damage while raging."
     "name": "Maul"
 "source":

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Young White Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young White Dragon.md|Young White Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young White Dragon.md|Young White Dragon]]
 *Source: Monster Manual p. 101. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
@@ -118,17 +118,18 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - !!int "12"
 "speed": "40 ft., burrow 20 ft., fly 80 ft., swim 40 ft."
 "saves":
-  - "dexterity": "+3"
-  - "constitution": "+7"
-  - "wisdom": "+3"
-  - "charisma": "+4"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "7"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
 "damage_immunities": "cold"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 16"
 "languages": "Common, Draconic"
 "cr": "6"
 "traits":
@@ -139,10 +140,10 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15\
-      \ (2d10 + 4) piercing damage plus 4 (d8) cold damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15\
+      \ (2d10 + 4) piercing damage plus 4 (1d8) cold damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage."
     "name": "Claw"
   - "desc": "The dragon exhales an icy blast in a 30-foot cone. Each creature in that\
@@ -151,7 +152,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     "name": "Cold Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Dragon/token/young-white-dragon.webp"
+"image": "/5. Mechanics/Bestiary/Dragon/token/young-white-dragon.webp"
 ```
 ^statblock
 

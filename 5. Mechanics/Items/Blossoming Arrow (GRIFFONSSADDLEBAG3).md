@@ -11,7 +11,7 @@ aliases:
 weight: 0.05
 ---
 # Blossoming Arrow
-*Ammunition ([[5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  
+*Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Blossoming-Arrow.webp#right)  
 
 - **Weight**: 0.05 lbs.

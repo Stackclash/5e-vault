@@ -16,11 +16,23 @@ classes:
   - Sorcerer (Divine Soul)
 school: Divination
 level: 4
+damage:
+  base: 7d6
+  scaling:
+    damage: 1d6
+    level: 5
+  types:
+    - thunder
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
+range: 90 feet
+somatic: false
+verbal: true
 aliases:
   - Consult the Storm
 ---
@@ -36,8 +48,8 @@ You ask a question of an entity connected to storms, such as an elemental, a dei
 
 As part of the casting of the spell, you must speak a question consisting of fifteen words or fewer. Choose a point within range. A short, truthful answer to your question booms from that point. It can be heard clearly by any creature within 600 feet. Each creature within 15 feet of the point takes `dice:7d6|noform|noparens|avg` (`7d6`) thunder damage, or half as much damage with a successful Constitution saving throw.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 4th.
+**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 4th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 54*

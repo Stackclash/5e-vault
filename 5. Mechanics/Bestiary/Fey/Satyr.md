@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: forest
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Satyr
 ---
-# [[5. Mechanics\Bestiary\Fey\Satyr.md|Satyr]]
+# [[5. Mechanics/Bestiary/Fey/Satyr.md|Satyr]]
 *Source: Monster Manual p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.
@@ -64,7 +64,7 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 "type": "fey"
 "alignment": "Chaotic Neutral"
 "ac": !!int "14"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "31"
 "hit_dice": "7d8"
 "modifier": !!int "3"
@@ -91,18 +91,18 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
       \ effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
       \ + 1) bludgeoning damage."
     "name": "Ram"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage."
     "name": "Shortsword"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit:*\
       \ 6 (1d6 + 3) piercing damage."
     "name": "Shortbow"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Fey/token/satyr.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/satyr.webp"
 ```
 ^statblock
 

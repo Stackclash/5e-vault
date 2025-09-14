@@ -39,15 +39,15 @@ The tower counts as a tower stronghold, and it grants units defending it +2 Mora
 
 ## Iron Company
 
-Once per month, as an action you can summon the [[5. Mechanics/Optional Features/The Iron Company (SAF).md\|The Iron Company]], a unit of iron golems. The Iron Company rusts after 1 hour or two battles, whichever comes first.
+Once per month, as an action you can summon the [[/5. Mechanics/Optional Features/The Iron Company (SAF).md\|The Iron Company]], a unit of iron golems. The Iron Company rusts after 1 hour or two battles, whichever comes first.
 
 ## Machine Lieutenant
 
-By spending 1 week in a laboratory worth at least 1,000 gp, you can produce a [[5. Mechanics/Bestiary/Construct/Machine Lieutenant (SAF).md\|machine lieutenant]]. You can only have one lieutenant at a time. It is loyal to you and obeys your commands, but it will not willingly move more than 30 feet away from you. If it is ever more than 30 feet away, the lieutenant shuts down and awaits your return.
+By spending 1 week in a laboratory worth at least 1,000 gp, you can produce a [[/5. Mechanics/Bestiary/Construct/Machine Lieutenant (SAF).md\|machine lieutenant]]. You can only have one lieutenant at a time. It is loyal to you and obeys your commands, but it will not willingly move more than 30 feet away from you. If it is ever more than 30 feet away, the lieutenant shuts down and awaits your return.
 
 ## Master of Golems
 
-No construct will attack you. As an action, you can make a Command check against a construct within 30 feet by rolling `dice:1d20|noform|noparens|avg` (`d20`) and adding your Wisdom bonus + 2. If the result is greater than the construct's Hit Dice, then the construct is yours to command, as though you were its creator.
+No construct will attack you. As an action, you can make a Command check against a construct within 30 feet by rolling `dice:1d20|noform|noparens|avg` (`1d20`) and adding your Wisdom bonus + 2. If the result is greater than the construct's Hit Dice, then the construct is yours to command, as though you were its creator.
 
 This control lasts 1 hour, after which the construct is free of your influence and cannot be commanded again in this way.
 

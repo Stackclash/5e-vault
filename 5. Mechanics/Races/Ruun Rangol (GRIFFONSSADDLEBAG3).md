@@ -11,7 +11,7 @@ aliases:
 *Source: The Griffon's Saddlebag, Book 3 p. 51*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ruun-Rangol.webp#right)  
 
-- **Ability Scores**: Wisdom +1
+- **Ability Scores**: wis +1
 - **Size**: Medium
 - **Speed**: walk: 30 ft.; climb: 30 ft.
 

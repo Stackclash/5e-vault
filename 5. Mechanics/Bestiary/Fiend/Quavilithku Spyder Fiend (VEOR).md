@@ -13,7 +13,7 @@ tags:
 aliases:
   - Quavilithku Spyder-Fiend
 ---
-# [[5. Mechanics\Bestiary\Fiend\Quavilithku Spyder Fiend (VEOR).md|Quavilithku Spyder-Fiend]]
+# [[5. Mechanics/Bestiary/Fiend/Quavilithku Spyder Fiend (VEOR).md|Quavilithku Spyder-Fiend]]
 *Source: Vecna: Eve of Ruin p. 236*
 
 Quavilithku spyder-fiends revel in destruction. Although they like to savage prey with their mangy wolf heads, they delight in destroying structures and art objects—the more beautiful, the better. The arms hanging below their wolf heads are physically frail but useful for employing tools of destruction or sabotage.
@@ -46,9 +46,9 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
   - !!int "12"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  - "dexterity": "+9"
-  - "constitution": "+10"
-  - "wisdom": "+8"
+  - "dexterity": !!int "9"
+  - "constitution": !!int "10"
+  - "wisdom": !!int "8"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]]"
     "desc": "+9"
@@ -59,7 +59,8 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 60 ft., passive Perception 18"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
+  \ 18"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "17"
 "traits":
@@ -77,7 +78,7 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
 "actions":
   - "desc": "The quavilithku makes two Bite attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 15\
       \ (2d10 + 4) piercing damage plus 17 (5d6) poison damage. If the target is a\
       \ creature, it must succeed on a DC 18 Constitution saving throw or have the\
       \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] condition for 1 minute.\
@@ -99,7 +100,7 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
     "name": "Assess Weakness"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fiend/token/quavilithku-spyder-fiend-veor.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/quavilithku-spyder-fiend-veor.webp"
 ```
 ^statblock
 

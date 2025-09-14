@@ -10,4 +10,4 @@ aliases:
 
 ## 5th Level
 
-- [[5. Mechanics/Spells/Telekinesis.md \|"PHB"]] at class level 18
+- [[/5. Mechanics/Spells/Telekinesis.md \|"PHB"]] at class level 18

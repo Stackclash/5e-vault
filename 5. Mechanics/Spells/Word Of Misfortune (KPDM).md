@@ -17,16 +17,15 @@ classes:
   - Rogue (Arcane Trickster)
   - Wizard
 school: Enchantment
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Word of Misfortune
-concentration: true
 ---
 # Word of Misfortune
 *cantrip, Enchantment*  
@@ -38,6 +37,6 @@ concentration: true
 
 You hiss a word of Void Speech. Choose one creature you can see within range. The next time the target makes a saving throw during the spell's duration, it must roll a `dice:d4|noform|noparens|avg` (`d4`) and subtract the result from the total of the saving throw. The spell then ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 333*

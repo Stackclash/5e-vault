@@ -20,17 +20,22 @@ classes:
   - Wizard
 school: Evocation
 level: 6
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 400 feet
+somatic: true
+verbal: true
+material: a piece of polished glass
+area:
+  shape: cube
+  size: 30
 aliases:
   - Winter's Radiance
-concentration: true
-material: a piece of polished glass
 ---
 # Winter's Radiance
 *6th-level, Evocation*  
@@ -42,6 +47,6 @@ material: a piece of polished glass
 
 When you cast this spell, the piercing rays of a day's worth of sunlight reflecting off fresh snow blankets the area in a 30-foot cube centered at a point within range. A creature caught in the spell's area must succeed on a Constitution saving throw or have disadvantage on ranged attacks and Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks for the duration of the spell. In addition, an affected creature's vision is hampered such that foes it targets are treated as having three-quarters cover.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 277*

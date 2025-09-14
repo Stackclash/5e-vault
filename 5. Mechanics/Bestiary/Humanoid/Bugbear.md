@@ -16,7 +16,7 @@ tags:
 aliases:
   - Bugbear
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bugbear.md|Bugbear]]
+# [[5. Mechanics/Bestiary/Humanoid/Bugbear.md|Bugbear]]
 *Source: Monster Manual p. 33, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
@@ -40,7 +40,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 "subtype": "goblinoid"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Hide Armor.md|hide armor]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "2"
@@ -57,7 +57,8 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Common, Goblin"
 "cr": "1"
 "traits":
@@ -69,17 +70,17 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
       \ attack."
     "name": "Surprise Attack"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d8 + 2) piercing damage."
     "name": "Morningstar"
-  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2)\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. *Hit:* 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2)\
       \ piercing damage at range."
     "name": "Javelin"
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Humanoid/token/bugbear.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/bugbear.webp"
 ```
 ^statblock
 

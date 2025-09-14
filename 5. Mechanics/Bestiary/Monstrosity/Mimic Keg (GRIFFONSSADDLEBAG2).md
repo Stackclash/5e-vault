@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mimic Keg
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Mimic Keg (GRIFFONSSADDLEBAG2).md|Mimic Keg]]
+# [[5. Mechanics/Bestiary/Monstrosity/Mimic Keg (GRIFFONSSADDLEBAG2).md|Mimic Keg]]
 *Source: The Griffon's Saddlebag, Book 2 p. 361*
 
 Although most mimics are known for their ability to transform into innocuous items, mimic kegs are a particular cousin that transform solely into alcoholrelated objects. Scholars believe that long-term exposure to alcoholic drinks gradually morphed a number of ancient mimics into this unique breed. Most mimics are ambush predators, but mimic kegs are particularly patient hunters. When plagued by these monsters, some taverns develop an almost religious inventory system to ensure their mugs, jugs, and kegs are safe for customers.
@@ -43,7 +43,8 @@ Although most mimics are known for their ability to transform into innocuous ite
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Drunkenness|drunkenness]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": ""
 "cr": "2"
 "traits":
@@ -65,12 +66,12 @@ Although most mimics are known for their ability to transform into innocuous ite
       \ by it."
     "name": "Grappler"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) bludgeoning damage. If the mimic is in object form, the target is subjected\
       \ to its Adhesive trait."
     "name": "Pseudopod"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
-      \ + 3) piercing damage plus 4 (d8) poison damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
+      \ + 3) piercing damage plus 4 (1d8) poison damage."
     "name": "Bite"
 "source":
   - "GriffonsSaddlebag2"

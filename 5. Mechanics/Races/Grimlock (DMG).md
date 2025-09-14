@@ -10,7 +10,7 @@ aliases:
 # Grimlock
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Strength +2; Charisma -2
+- **Ability Scores**: str +2 cha -2
 - **Size**: Medium
 - **Speed**: 30 ft.
 

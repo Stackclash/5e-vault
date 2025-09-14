@@ -11,11 +11,11 @@ tags:
 aliases:
   - Shooting Star
 one-hand-damage: 1d8 radiant
-range: 150\600
+range: 150/600
 weight: 2
 ---
 # Shooting Star
-*Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Shooting-Star.webp#right)  
 
 - **Damage**: 1d8 radiant
@@ -29,7 +29,7 @@ Tiny specks of starlight gleam from the dark surface of this magic longbow at ni
 
 As an action, you can speak the bow's command word and fire a starlit arrow into the air above you, choosing a point that you can see within 60 feet of you. The arrow immediately vanishes and creates a shower of tiny, magical stars that fall and land in a 30-foot-radius circle on the ground centered on the point you chose. Each creature of your choice within the area must make a DC 16 Dexterity saving throw. A target takes `dice:3d6|noform|noparens|avg` (`3d6`) radiant damage and `dice:3d6|noform|noparens|avg` (`3d6`) force damage on a failed save, or half as much damage on a successful one, as a shower of magical stars slam into the ground around them. This property can't be used again until the next dusk.
 
-In addition, when you use a starlit arrow and roll a 20 on an attack roll made with this weapon, a tiny magical star appears and strikes the target. The target must make a DC 16 Dexterity saving throw, taking `dice:1d6|noform|noparens|avg` (`d6`) radiant damage and `dice:1d6|noform|noparens|avg` (`d6`) force damage on a failed save, or half as much damage on a successful one.
+In addition, when you use a starlit arrow and roll a 20 on an attack roll made with this weapon, a tiny magical star appears and strikes the target. The target must make a DC 16 Dexterity saving throw, taking `dice:1d6|noform|noparens|avg` (`1d6`) radiant damage and `dice:1d6|noform|noparens|avg` (`1d6`) force damage on a failed save, or half as much damage on a successful one.
 
 Immediately after a falling star hits the ground or a target, it disappears.
 

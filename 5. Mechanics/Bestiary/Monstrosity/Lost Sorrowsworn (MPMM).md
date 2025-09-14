@@ -20,7 +20,7 @@ tags:
 aliases:
   - Lost Sorrowsworn
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Lost Sorrowsworn (MPMM).md|Lost Sorrowsworn]]
+# [[5. Mechanics/Bestiary/Monstrosity/Lost Sorrowsworn (MPMM).md|Lost Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233, Vecna: Eve of Ruin*
 
 The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can't find their way. These sorrowsworn appear desperate and panicked.
@@ -53,16 +53,17 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
-"senses": "darkvision 60 ft., passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 8"
 "languages": "Common"
 "cr": "7"
 "actions":
   - "desc": "The sorrowsworn makes two Arm Spike attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14\
       \ (2d10 + 3) piercing damage."
     "name": "Arm Spike"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 25\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 25\
       \ (4d10 + 3) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends,\
       \ the target is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], and\
@@ -77,7 +78,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - "MPMM"
   - "MTF"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/lost-sorrowsworn-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/lost-sorrowsworn-mpmm.webp"
 ```
 ^statblock
 

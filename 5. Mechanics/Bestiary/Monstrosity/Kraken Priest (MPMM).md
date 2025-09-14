@@ -15,7 +15,7 @@ tags:
 aliases:
   - Kraken Priest
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Kraken Priest (MPMM).md|Kraken Priest]]
+# [[5. Mechanics/Bestiary/Monstrosity/Kraken Priest (MPMM).md|Kraken Priest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167, Volo's Guide to Monsters p. 215*
 
 A kraken can seem godlike to folk who have faced its fury. Those who mistake its might for divine power and those who seek to appease the monster through veneration are sometimes rewarded with power, to serve thereafter as kraken priests.
@@ -52,10 +52,10 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 "actions":
   - "desc": "The priest makes two Thunderous Touch or Thunderbolt attacks."
     "name": "Multiattack"
-  - "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 27 (5d10)\
+  - "desc": "*Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 27 (5d10)\
       \ thunder damage."
     "name": "Thunderous Touch"
-  - "desc": "Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 11\
+  - "desc": "*Ranged Spell Attack:* +5 to hit, range 60 ft., one target. *Hit:* 11\
       \ (2d10) lightning damage plus 11 (2d10) thunder damage, and the target is knocked\
       \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Thunderbolt"
@@ -68,16 +68,16 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
       \ the effect on itself on a success."
     "name": "Voice of the Kraken (Recharges after a Short or Long Rest)"
   - "desc": "The priest casts one of the following spells, requiring no material components\
-      \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\nAt will:\
-      \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Create Or Destroy Water.md|create or destroy water]]\n\
-      \n3/day each: [[5. Mechanics/Spells/Control Water.md|control water]], [[5. Mechanics/Spells/Darkness.md|darkness]],\
-      \ [[5. Mechanics/Spells/Water Breathing.md|water breathing]], [[5. Mechanics/Spells/Water Wa(LK).md|water walk]]\n\
-      \n1/day: [[5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]]"
+      \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\n**At will:**\
+      \ [[/5. Mechanics/Spells/Command.md|command]], [[/5. Mechanics/Spells/Create Or Destroy Water.md|create or destroy water]]\n\
+      \n**3/day each:** [[/5. Mechanics/Spells/Control Water.md|control water]], [[/5. Mechanics/Spells/Darkness.md|darkness]],\
+      \ [[/5. Mechanics/Spells/Water Breathing.md|water breathing]], [[/5. Mechanics/Spells/Water Wa(LK).md|water walk]]\n\
+      \n**1/day:** [[/5. Mechanics/Spells/Evards Black Tentacles.md|Evard's black tentacles]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/kraken-priest-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/kraken-priest-mpmm.webp"
 ```
 ^statblock
 

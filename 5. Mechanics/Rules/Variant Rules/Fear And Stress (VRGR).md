@@ -74,6 +74,6 @@ When a character makes an attack roll, an ability check, or a saving throw, they
 
 A character who spends an entire day relaxing or in otherwise calm circumstances reduces their Stress Score by 1 when they finish their next long rest.
 
-The [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell effect used to suppress the [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] and [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] conditions also suppresses the effects of one's Stress Score for the spell's duration.
+The [[/5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] spell effect used to suppress the [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] and [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] conditions also suppresses the effects of one's Stress Score for the spell's duration.
 
-A [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] spell reduces the target's Stress Score by 1, and a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell reduces a character's Stress Score to 0.
+A [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] spell reduces the target's Stress Score by 1, and a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell reduces a character's Stress Score to 0.

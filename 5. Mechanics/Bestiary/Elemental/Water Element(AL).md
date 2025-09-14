@@ -16,7 +16,7 @@ tags:
 aliases:
   - Water Elemental
 ---
-# [[5. Mechanics\Bestiary\Elemental\Water Element(AL).md|Water Elemental]]
+# [[5. Mechanics/Bestiary/Elemental/Water Element(AL).md|Water Elemental]]
 *Source: Monster Manual p. 125, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
@@ -66,7 +66,8 @@ An elemental doesn't require air, food, drink, or sleep.
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Aquan"
 "cr": "5"
 "traits":
@@ -79,7 +80,7 @@ An elemental doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The elemental makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage."
     "name": "Slam"
   - "desc": "Each creature in the elemental's space must make a DC 15 Strength saving\
@@ -98,7 +99,7 @@ An elemental doesn't require air, food, drink, or sleep.
   - "MM"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Elemental/token/water-elemental.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/water-elemental.webp"
 ```
 ^statblock
 

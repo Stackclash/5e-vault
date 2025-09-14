@@ -16,16 +16,30 @@ classes:
   - Wizard
 school: Transmutation
 level: 5
+damage:
+  base: 4d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Strength
+    - Dexterity
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Until dispelled
-components:
-  - V
-  - S
-  - M
+range: 120 feet
+somatic: true
+verbal: true
+material: clay and water
+area:
+  shape: cube
+  size: 40
 aliases:
   - Transmute Rock
-material: clay and water
 ---
 # Transmute Rock
 *5th-level, Transmutation*  
@@ -51,6 +65,6 @@ Nonmagical mud or quicksand in the area no more than 10 feet deep transforms int
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 169*

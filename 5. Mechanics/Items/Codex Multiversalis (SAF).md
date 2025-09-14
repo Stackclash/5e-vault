@@ -31,6 +31,6 @@ As an action you can banish any creature not native to the plane you are on, sen
 
 ## No Barrier Between
 
-As an action once per day, you can summon any creature from any row of the [[5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart. They are free agents, not bound to serve you, and they return to their point of origin after 1 hour.
+As an action once per day, you can summon any creature from any row of the [[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart. They are free agents, not bound to serve you, and they return to their point of origin after 1 hour.
 
 *Source: Strongholds and Followers p. 259*

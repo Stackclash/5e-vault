@@ -13,7 +13,7 @@ The marketplace of a large city teems with buyers and sellers of many sorts: dwa
 
 For an adventurer, the availability of armor, weapons, backpacks, rope, and similar goods is of paramount importance, since proper equipment can mean the difference between life and death in a dungeon or the untamed wilds. This chapter details the mundane and exotic merchandise that adventurers commonly find useful in the face of the threats that the worlds of D&D present.
 
-![[6. Resources/Books/Players Handbook 2014/img/ch5.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/ch5.webp#center]]
 
 ## Starting Equipment
 
@@ -21,7 +21,7 @@ When you create your character, you receive equipment based on a combination of 
 
 You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. You might have been equipped with a weapon, armor, and a backpack as part of military service. You might even have stolen your gear. A weapon could be a family heirloom, passed down from generation to generation until your character finally took up the mantle and followed in an ancestor's adventurous footsteps.
 
-![[5. Mechanics/Tables/Starting Equipment Starting Wealth By Class (PHB).md\|Starting Equipment; Starting Wealth by Class]]
+![[/5. Mechanics/Tables/Starting Equipment Starting Wealth By Class (PHB).md\|Starting Equipment; Starting Wealth by Class]]
 
 ## Wealth
 
@@ -41,9 +41,9 @@ In addition, unusual coins made of other precious metals sometimes appear in tre
 
 A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
-![[6. Resources/Books/Players Handbook 2014/img/c51.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c51.webp#center]]
 
-![[5. Mechanics/Tables/Coinage Standard Exchange Rates (PHB).md\|Coinage; Standard Exchange Rates]]
+![[/5. Mechanics/Tables/Coinage Standard Exchange Rates (PHB).md\|Coinage; Standard Exchange Rates]]
 
 ### Selling Treasure
 
@@ -71,7 +71,7 @@ D&D worlds are a vast tapestry made up of many different cultures, each with its
 
 The Armor table shows the cost, weight, and other properties of the common types of armor worn in the worlds of D&D.
 
-![[5. Mechanics/Tables/Armor And Shields Armor (PHB).md\|Armor and Shields; Armor]]
+![[/5. Mechanics/Tables/Armor And Shields Armor (PHB).md\|Armor and Shields; Armor]]
 
 ### Armor Proficiency
 
@@ -79,7 +79,7 @@ Anyone can put on a suit of armor or strap a shield to an arm. Only those profic
 
 Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells.
 
-![[6. Resources/Books/Players Handbook 2014/img/c52.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c52.webp#center]]
 
 ### Armor Class (AC)
 
@@ -178,7 +178,7 @@ This is the time it takes to put on armor. You benefit from the armor's AC only 
 
 This is the time it takes to take off armor. If you have help, reduce this time by half.
 
-![[5. Mechanics/Tables/Getting Into And Out Of Armor Donning And Doffing Armor (PHB).md\|Getting Into and Out of Armor; Donning and Doffing Armor]]
+![[/5. Mechanics/Tables/Getting Into And Out Of Armor Donning And Doffing Armor (PHB).md\|Getting Into and Out of Armor; Donning and Doffing Armor]]
 
 ## Weapons
 
@@ -186,7 +186,7 @@ Your class grants proficiency in certain weapons, reflecting both the class's fo
 
 The Weapons table shows the most common weapons used in the worlds of D&D, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A melee weapon is used to attack a target within 5 feet of you, whereas a ranged weapon is used to attack a target at a distance.
 
-![[5. Mechanics/Tables/Weapons (PHB).md\|Weapons]]
+![[/5. Mechanics/Tables/Weapons (PHB).md\|Weapons]]
 
 ### Weapon Proficiency
 
@@ -194,7 +194,7 @@ Your race, class, and feats can grant you proficiency with certain weapons or ca
 
 Proficiency with a weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
 
-![[6. Resources/Books/Players Handbook 2014/img/c56.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c56.webp#center]]
 
 ### Weapon Properties
 
@@ -247,8 +247,8 @@ This weapon requires two hands to use. This property is relevant only when you a
 This weapon can be used with one or two hands. A damage value in parentheses appears with the property-the damage when the weapon is used with two hands to make a melee attack.
 
 > [!gallery]
-> ![[6. Resources/Books/Players Handbook 2014/img/c53.webp#gallery]]
-> ![[6. Resources/Books/Players Handbook 2014/img/c54.webp#gallery]]
+> ![[/6. Resources/Books/Players Handbook 2014/img/c53.webp#gallery]]
+> ![[/6. Resources/Books/Players Handbook 2014/img/c54.webp#gallery]]
 
 #### Improvised Weapons
 
@@ -274,13 +274,13 @@ You have disadvantage when you use a lance to attack a target within 5 feet of y
 
 A Large or smaller creature hit by a net is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-![[6. Resources/Books/Players Handbook 2014/img/c55.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c55.webp#center]]
 
 ## Adventuring Gear
 
 This section describes items that have special rules or require further explanation.
 
-![[5. Mechanics/Tables/Adventuring Gear (PHB).md\|Adventuring Gear]]
+![[/5. Mechanics/Tables/Adventuring Gear (PHB).md\|Adventuring Gear]]
 
 ### Acid
 
@@ -354,7 +354,7 @@ This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead
 
 This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check.
 
-![[6. Resources/Books/Players Handbook 2014/img/c57.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c57.webp#center]]
 
 ### Holy Symbol
 
@@ -384,7 +384,7 @@ A hooded lantern casts bright light in a 30-foot radius and dim light for an add
 
 ### Lock
 
-A key is provided with the lock. Without the key, a creature proficient with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
+A key is provided with the lock. Without the key, a creature proficient with [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
 
 ### Magnifying Glass
 
@@ -392,7 +392,7 @@ This lens allows a closer look at small objects. It is also useful as a substitu
 
 ### Manacles
 
-These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
+These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
 
 ### Mess Kit
 
@@ -458,9 +458,9 @@ This small container holds flint, fire steel, and tinder (usually dry cloth soak
 
 A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
-![[6. Resources/Books/Players Handbook 2014/img/c58.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c58.webp#center]]
 
-![[5. Mechanics/Tables/Adventuring Gear Container Capacity (PHB).md\|Adventuring Gear; Container Capacity]]
+![[/5. Mechanics/Tables/Adventuring Gear Container Capacity (PHB).md\|Adventuring Gear; Container Capacity]]
 
 > [!note] Equipment Packs
 > 
@@ -513,19 +513,19 @@ Several of the most common types of musical instruments are shown on the table a
 
 ### Navigator's Tools
 
-This set of instruments is used for navigation at sea. Proficiency with [[5. Mechanics/Items/Navigators Tools.md\|navigator's tools]] lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
+This set of instruments is used for navigation at sea. Proficiency with [[/5. Mechanics/Items/Navigators Tools.md\|navigator's tools]] lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
 
 ### Poisoner's Kit
 
-A [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]] includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
+A [[/5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]] includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
 
 ### Thieves' Tools
 
 This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
 
-![[6. Resources/Books/Players Handbook 2014/img/c59.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c59.webp#center]]
 
-![[5. Mechanics/Tables/Tools (PHB).md\|Tools]]
+![[/5. Mechanics/Tables/Tools (PHB).md\|Tools]]
 
 ## Mounts and Vehicles
 
@@ -541,7 +541,7 @@ Barding is armor designed to protect an animal's head, neck, chest, and body. An
 
 ### Saddles
 
-A [[5. Mechanics/Items/Military Saddle.md\|military saddle]] braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An [[5. Mechanics/Items/Exotic Saddle.md\|exotic saddle]] is required for riding any aquatic or flying mount.
+A [[/5. Mechanics/Items/Military Saddle.md\|military saddle]] braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An [[/5. Mechanics/Items/Exotic Saddle.md\|exotic saddle]] is required for riding any aquatic or flying mount.
 
 ### Vehicle Proficiency
 
@@ -551,15 +551,15 @@ If you have proficiency with a certain kind of vehicle (land or water), you can 
 
 Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
-![[6. Resources/Books/Players Handbook 2014/img/c510.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c510.webp#center]]
 
-![[5. Mechanics/Tables/Mounts And Vehicles Mounts And Other Animals (PHB).md\|Mounts and Vehicles; Mounts and Other Animals]]
+![[/5. Mechanics/Tables/Mounts And Vehicles Mounts And Other Animals (PHB).md\|Mounts and Vehicles; Mounts and Other Animals]]
 
-![[5. Mechanics/Tables/Mounts And Vehicles Tack Harness And Drawn Vehicles (PHB).md\|Mounts and Vehicles; Tack, Harness, and Drawn Vehicles]]
+![[/5. Mechanics/Tables/Mounts And Vehicles Tack Harness And Drawn Vehicles (PHB).md\|Mounts and Vehicles; Tack, Harness, and Drawn Vehicles]]
 
-![[5. Mechanics/Tables/Mounts And Vehicles Waterborne Vehicles (PHB).md\|Mounts and Vehicles; Waterborne Vehicles]]
+![[/5. Mechanics/Tables/Mounts And Vehicles Waterborne Vehicles (PHB).md\|Mounts and Vehicles; Waterborne Vehicles]]
 
-![[6. Resources/Books/Players Handbook 2014/img/c511.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c511.webp#center]]
 
 ## Trade Goods
 
@@ -567,7 +567,7 @@ Most wealth is not in coins. It is measured in livestock, grain, land, rights to
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
 
-![[5. Mechanics/Tables/Trade Goods (PHB).md\|Trade Goods]]
+![[/5. Mechanics/Tables/Trade Goods (PHB).md\|Trade Goods]]
 
 ## Expenses
 
@@ -581,9 +581,9 @@ At the start of each week or month (your choice), choose a lifestyle from the Ex
 
 Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
 
-![[6. Resources/Books/Players Handbook 2014/img/c512.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c512.webp#center]]
 
-![[5. Mechanics/Tables/Lifestyle Expenses (PHB).md\|Lifestyle Expenses]]
+![[/5. Mechanics/Tables/Lifestyle Expenses (PHB).md\|Lifestyle Expenses]]
 
 #### Wretched
 
@@ -619,7 +619,7 @@ The wealthier you are, the greater the chance you will be drawn into political i
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
 
-![[5. Mechanics/Tables/Food Drink And Lodging (PHB).md\|Food, Drink, and Lodging]]
+![[/5. Mechanics/Tables/Food Drink And Lodging (PHB).md\|Food, Drink, and Lodging]]
 
 > [!note] Self-Sufficiency
 > 
@@ -632,24 +632,24 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 
 Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
 
-Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the [[5. Mechanics/Spells/Leomunds Secret Chest.md\|Leomund's secret chest]] spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
+Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a wizard might pay a carpenter to construct an elaborate chest (and its miniature replica) for use in the [[/5. Mechanics/Spells/Leomunds Secret Chest.md\|Leomund's secret chest]] spell. A fighter might commission a blacksmith to forge a special sword. A bard might pay a tailor to make exquisite clothing for an upcoming performance in front of the duke.
 
 Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a hobgoblin army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the stables clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
 
-![[6. Resources/Books/Players Handbook 2014/img/c513.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c513.webp#center]]
 
-![[5. Mechanics/Tables/Services (PHB).md\|Services]]
+![[/5. Mechanics/Tables/Services (PHB).md\|Services]]
 
 ### Spellcasting Services
 
 People who are able to cast spells don't fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a spell in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired spell, the harder it is to find someone who can cast it and the more it costs.
 
-Hiring someone to cast a relatively common spell of 1st or 2nd level, such as [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] or [[5. Mechanics/Spells/Identify.md\|identify]], is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster infested wilderness to deliver something important to a distant settlement.
+Hiring someone to cast a relatively common spell of 1st or 2nd level, such as [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] or [[/5. Mechanics/Spells/Identify.md\|identify]], is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster infested wilderness to deliver something important to a distant settlement.
 
 ## Trinkets
 
-When you make your character, you can roll once on the [[5. Mechanics/Items/Trinket.md\|Trinkets]] table to gain a trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
+When you make your character, you can roll once on the [[/5. Mechanics/Items/Trinket.md\|Trinkets]] table to gain a trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
 
-![[6. Resources/Books/Players Handbook 2014/img/c514.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c514.webp#center]]

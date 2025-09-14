@@ -77,4 +77,4 @@ In addition, when a creature within 5 feet of you that you can see hits you with
 
 At 18th level, you gain immunity to cold damage and resistance to fire damage.
 
-You also learn the [[5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]] spell. The spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. In addition, you can cast it once without expending a spell slot. When you do, the panels of ice created by the spell don't need to be contiguous with one another. Once you cast the spell in this way, you can't do so again until you finish a long rest.
+You also learn the [[/5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]] spell. The spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. In addition, you can cast it once without expending a spell slot. When you do, the panels of ice created by the spell don't need to be contiguous with one another. Once you cast the spell in this way, you can't do so again until you finish a long rest.

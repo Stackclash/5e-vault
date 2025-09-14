@@ -10,11 +10,11 @@ tags:
 aliases:
   - Quickdraw
 one-hand-damage: 1d6 piercing
-range: 30\120
+range: 30/120
 weight: 3
 ---
 # Quickdraw
-*Weapon ([[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Quickdraw.webp#right)  
 
 - **Damage**: 1d6 piercing

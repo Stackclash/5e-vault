@@ -14,7 +14,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Hedgewitch's Gardening Cane
-*Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), spellcasting focus, minor, common*  
+*Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), spellcasting focus, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hedgewitchs-Gardening-Cane.webp#right)  
 
 - **Damage**:

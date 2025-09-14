@@ -13,7 +13,7 @@ tags:
 aliases:
   - Parrot
 ---
-# [[5. Mechanics\Bestiary\Beast\Parrot (KPDM).md|Parrot]]
+# [[5. Mechanics/Bestiary/Beast/Parrot (KPDM).md|Parrot]]
 *Source: Deep Magic p. 293*
 
 This bird is noted for its colorful plumage and boisterous disposition. Parrots are favored as familiars by spellcasters who like bright and flashy magic.
@@ -47,7 +47,7 @@ This bird is noted for its colorful plumage and boisterous disposition. Parrots 
       \ tell they are imitations with a successful DC 10 Wisdom (Insight) check."
     "name": "Mimicry"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage."
     "name": "Beak"
 "source":

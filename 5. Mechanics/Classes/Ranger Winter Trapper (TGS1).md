@@ -57,16 +57,16 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[5. Mechanics/Spells/Expeditious Retreat.md\|expeditious retreat]] |
-| 5th | [[5. Mechanics/Spells/Mirror Image.md\|mirror image]] |
-| 9th | [[5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] |
-| 13th | [[5. Mechanics/Spells/Hallucinatory Terrain.md\|hallucinatory terrain]] |
-| 17th | [[5. Mechanics/Spells/Mislead.md\|mislead]] |
+| 3rd | [[/5. Mechanics/Spells/Expeditious Retreat.md\|expeditious retreat]] |
+| 5th | [[/5. Mechanics/Spells/Mirror Image.md\|mirror image]] |
+| 9th | [[/5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] |
+| 13th | [[/5. Mechanics/Spells/Hallucinatory Terrain.md\|hallucinatory terrain]] |
+| 17th | [[/5. Mechanics/Spells/Mislead.md\|mislead]] |
 ^winter-trapper-spells
 
 ### Pin Down (Level 3)
 
-At 3rd level, you learn how to keep your prey exactly where you want them. Once on each of your turns when you make a weapon attack, you can attempt to pin down that target. You make this choice before rolling the attack. If it hits, the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the weapon's type and its speed is reduced by 10 feet until the start of your next turn.
+At 3rd level, you learn how to keep your prey exactly where you want them. Once on each of your turns when you make a weapon attack, you can attempt to pin down that target. You make this choice before rolling the attack. If it hits, the target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage of the weapon's type and its speed is reduced by 10 feet until the start of your next turn.
 
 When you reach 11th level in this class, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`), and if the attack hits, the target also can't take reactions until the start of your next turn.
 
@@ -84,7 +84,7 @@ Also at 7th level, attacking a prone creature doesn't impose disadvantage on you
 
 At 11th level, you've learned how to quickly set undetectable magical traps. You can imperceptibly create one of these magical snares in the ground at your feet as a bonus action on your turn. The first Large or smaller creature other than you that steps in that space within 1 minute must make a Dexterity saving throw against your spell save DC. On a failed save, a creature takes `dice:2d8|noform|noparens|avg` (`2d8`) piercing damage and has its speed reduced to 0 until the end of its current turn, as the ground opens up and clamps down on it. On a successful save, a creature takes half as much piercing damage, and its speed is unaffected.
 
-When you create a snare, you can designate any creatures you choose, and the trap ignores them. A creature that can see invisible creatures and objects (such as one benefiting from [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] or [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]]) can see these traps. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
+When you create a snare, you can designate any creatures you choose, and the trap ignores them. A creature that can see invisible creatures and objects (such as one benefiting from [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] or [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]]) can see these traps. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
 ### Tripped Defenses (Level 15)
 

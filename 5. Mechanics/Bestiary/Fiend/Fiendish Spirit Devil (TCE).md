@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fiendish Spirit (Devil)
 ---
-# [[5. Mechanics\Bestiary\Fiend\Fiendish Spirit Devil (TCE).md|Fiendish Spirit (Devil)]]
+# [[5. Mechanics/Bestiary/Fiend/Fiendish Spirit Devil (TCE).md|Fiendish Spirit (Devil)]]
 *Source: Tasha's Cauldron of Everything p. 112*
 
 ```statblock
@@ -34,7 +34,8 @@ aliases:
 "damage_resistances": "fire"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "traits":
   - "desc": "The fiend has advantage on saving throws against spells and other magical\
@@ -46,8 +47,8 @@ aliases:
   - "desc": "The fiend makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Ranged Spell Attack: your spell attack modifier to hit, range 150 ft.,\
-      \ one target. Hit: 2d6 + 3 + the spell's level fire damage. If the target\
+  - "desc": "*Ranged Spell Attack:* your spell attack modifier to hit, range 150 ft.,\
+      \ one target. *Hit:* 2d6 + 3 + the spell's level fire damage. If the target\
       \ is a flammable object that isn't being worn or carried, it also catches fire."
     "name": "Hurl Flame"
 "source":

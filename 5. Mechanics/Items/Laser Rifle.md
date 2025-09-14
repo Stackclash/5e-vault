@@ -10,7 +10,7 @@ tags:
 aliases:
   - Laser Rifle
 one-hand-damage: 3d8 radiant
-range: 100\300
+range: 100/300
 weight: 7
 ---
 # Laser Rifle

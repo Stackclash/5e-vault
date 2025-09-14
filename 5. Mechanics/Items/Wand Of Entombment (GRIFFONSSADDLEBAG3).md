@@ -23,7 +23,7 @@ You can use an action to hold the wand out in front of you and expend 1 of its c
 
 ## Disintegrate
 
-While holding the wand, you can use an action to expend 4 of its charges to cast the [[5. Mechanics/Spells/Disintegrate.md\|disintegrate]] spell from it (save DC 15).
+While holding the wand, you can use an action to expend 4 of its charges to cast the [[/5. Mechanics/Spells/Disintegrate.md\|disintegrate]] spell from it (save DC 15).
 
 ## Entombing Nail
 

@@ -15,13 +15,12 @@ level: 1
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: a topaz worth at least 10 gp
 aliases:
   - Waft
-material: a topaz worth at least 10 gp
 ---
 # Waft
 *1st-level, Transmutation*  
@@ -33,6 +32,6 @@ material: a topaz worth at least 10 gp
 
 This spell was first invented by dragon parents to assist their offspring when learning to fly. You gain a flying speed of 60 feet for 1 round. At the start of your next turn, you float rapidly down and land gently on a solid surface beneath you.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Deep Magic p. 205*

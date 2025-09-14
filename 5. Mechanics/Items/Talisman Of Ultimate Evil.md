@@ -12,7 +12,7 @@ weight: 1
 ---
 # Talisman of Ultimate Evil
 *Wondrous item, major, legendary (requires attunement by a creature of evil alignment)*  
-![[5. Mechanics/Items/img/talisman-of-ultimate-evil.webp#right]]  
+![[/5. Mechanics/Items/img/talisman-of-ultimate-evil.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

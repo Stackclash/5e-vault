@@ -26,11 +26,11 @@ Each kind of astral bracelet has a different list spells that can be cast from i
 
 | Charges | Spells |
 |---------|--------|
-| 1 | [[5. Mechanics/Spells/Detect Magic.md\|detect magic]] |
-| 2 | [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] |
-| 3 | [[5. Mechanics/Spells/Sending.md\|sending]] |
-| 4 | [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]] |
-| 5 | [[5. Mechanics/Spells/Scrying.md\|scrying]], [[5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]] |
+| 1 | [[/5. Mechanics/Spells/Detect Magic.md\|detect magic]] |
+| 2 | [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] |
+| 3 | [[/5. Mechanics/Spells/Sending.md\|sending]] |
+| 4 | [[/5. Mechanics/Spells/Arcane Eye.md\|arcane eye]] |
+| 5 | [[/5. Mechanics/Spells/Scrying.md\|scrying]], [[/5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]] |
 ^astral-bracelet-of-omniscience-spells
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*

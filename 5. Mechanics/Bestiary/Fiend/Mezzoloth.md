@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mezzoloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Mezzoloth.md|Mezzoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Mezzoloth.md|Mezzoloth]]
 *Source: Monster Manual p. 313*
 
 The bulk of the yugoloth population is made up of mezzoloths, which are human-sized insect creatures covered in dense chitinous plates. Mezzoloths serve as foot soldiers in yugoloth armies, their wide-set eyes glowing red as the mezzoloths bear down on their foes.
@@ -60,8 +60,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > 
 > - An arcanaloth has a 40 percent chance of summoning one arcanaloth.  
 > - A mezzoloth has a 30 percent chance of summoning one mezzoloth.  
-> - A nycaloth has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) mezzoloths or one nycaloth.  
-> - An ultroloth has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) mezzoloths, `dice:1d4|noform|noparens|avg` (`d4`) nycaloths, or one ultroloth.  
+> - A nycaloth has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`1d4`) mezzoloths or one nycaloth.  
+> - An ultroloth has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`1d6`) mezzoloths, `dice:1d4|noform|noparens|avg` (`1d4`) nycaloths, or one ultroloth.  
 > 
 > A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for l minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it
 ^variant-yugoloth-summoning
@@ -97,14 +97,15 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 13"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "5"
 "traits":
   - "desc": "The mezzoloth's innate spellcasting ability is Charisma (spell save DC\
       \ 11). The mezzoloth can innately cast the following spells, requiring no material\
-      \ components:\n\n2/day each: [[5. Mechanics/Spells/Darkness.md|darkness]],\
-      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\n1/day: [[5. Mechanics/Spells/Cloudkill.md|cloudkill]]"
+      \ components:\n\n**2/day each:** [[/5. Mechanics/Spells/Darkness.md|darkness]],\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\n**1/day:** [[/5. Mechanics/Spells/Cloudkill.md|cloudkill]]"
     "name": "Innate Spellcasting"
   - "desc": "The mezzoloth has advantage on saving throws against spells and other\
       \ magical effects."
@@ -115,11 +116,11 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - "desc": "The mezzoloth makes two attacks: one with its claws and one with its\
       \ trident."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
       \ + 4) slashing damage."
     "name": "Claws"
-  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing\
       \ damage when held with two claws and used to make a melee attack."
     "name": "Trident"
   - "desc": "The mezzoloth magically teleports, along with any equipment it is wearing\
@@ -127,7 +128,7 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     "name": "Teleport"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Fiend/token/mezzoloth.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/mezzoloth.webp"
 ```
 ^statblock
 

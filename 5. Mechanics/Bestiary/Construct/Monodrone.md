@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Monodrone
 ---
-# [[5. Mechanics\Bestiary\Construct\Monodrone.md|Monodrone]]
+# [[5. Mechanics/Bestiary/Construct/Monodrone.md|Monodrone]]
 *Source: Monster Manual p. 224*
 
 A monodrone can perform one simple task at a time and can relay a single message of up to forty-eight words.
@@ -68,7 +68,8 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
   - !!int "10"
   - !!int "5"
 "speed": "30 ft., fly 30 ft."
-"senses": "truesight 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 10"
 "languages": "Modron"
 "cr": "1/8"
 "traits":
@@ -79,15 +80,15 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
       \ its weapons and anything else it was carrying."
     "name": "Disintegration"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) piercing damage."
     "name": "Dagger"
-  - "desc": "Melee  or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. Hit: 3 (d6) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. *Hit:* 3 (1d6) piercing damage."
     "name": "Javelin"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Construct/token/monodrone.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/monodrone.webp"
 ```
 ^statblock
 

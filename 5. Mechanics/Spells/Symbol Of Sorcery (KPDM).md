@@ -16,16 +16,22 @@ classes:
   - Wizard
 school: Conjuration
 level: 5
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 10 minutes
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a stick of incense worth 20 gp
+area:
+  shape: cone
+  size: 60
 aliases:
   - Symbol of Sorcery
-material: a stick of incense worth 20 gp
 ---
 # Symbol of Sorcery
 *5th-level, Conjuration*  
@@ -37,6 +43,6 @@ material: a stick of incense worth 20 gp
 
 You draw an arcane symbol on an object, wall, or other surface at least 5 feet wide. When a creature other than you approaches within 5 feet of the symbol, that act triggers an arcane explosion. Each creature in a 60-foot cone must make a successful Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]]. A [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a successful save. After this symbol explodes or when the duration expires, its power is spent and the spell ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 112*

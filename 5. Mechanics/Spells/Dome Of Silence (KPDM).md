@@ -18,13 +18,15 @@ school: Abjuration
 level: 2
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
+duration: 'Concentration, up to 10 minutes'
+range: Self
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 10
 aliases:
   - Dome of Silence
-concentration: true
 ---
 # Dome of Silence
 *2nd-level, Abjuration*  
@@ -38,6 +40,6 @@ An [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] dome encompasses a
 
 Any attack that deals thunder damage dispels the dome, but the dome reduces that damage to any creatures inside it by half.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Cleric (Moon Domain)](compendium/lists/list-spells-classes-moon-domain-kpdm.md "subclass=KPDM")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Moon Domain)](/compendium/lists/list-spells-classes-moon-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Deep Magic p. 61*

@@ -20,17 +20,22 @@ classes:
   - Wizard
 school: Evocation
 level: 4
+damage:
+  base: 5d10
+  scaling:
+    damage: 1d10
+    level: 6
+  types:
+    - necrotic
 ritual: false
 time: 1 Bonus Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: true
+verbal: true
+material: mummy dust
 aliases:
   - Staff of Violet Fire
-concentration: true
-material: mummy dust
 ---
 # Staff of Violet Fire
 *4th-level, Evocation*  
@@ -49,8 +54,8 @@ This staff is an extremely unstable and impermanent magic item; it has 10 charge
 
 The staff disappears and the spell ends when all the staff's charges have been expended or if you stop concentrating on the spell.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the melee damage increases by `dice:1d10|noform|noparens|avg|text(d10)` for every two slot levels above 4th, or you add one additional ranged bolt for every two slot levels above 4th.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the melee damage increases by `dice:1d10|noform|noparens|avg|text(1d10)` for every two slot levels above 4th, or you add one additional ranged bolt for every two slot levels above 4th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 108*

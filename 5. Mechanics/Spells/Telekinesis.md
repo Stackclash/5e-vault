@@ -22,17 +22,12 @@ school: Transmutation
 level: 5
 ritual: false
 time: 1 Action
-duration: Up to 10 minutes
-components:
-  - V
-  - S
+duration: 'Concentration, up to 10 minutes'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Telekinesis
-range: 60 feet
-area:
-  type: sphere
-  size: 30
-concentration: true
 ---
 # Telekinesis
 *5th-level, Transmutation*  
@@ -60,6 +55,6 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ## Summary
 
-**Classes**: [Sorcerer (Aberrant Mind)](compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Fighter (Psi Warrior)](compendium/lists/list-spells-classes-psi-warrior-tce.md "subclass=TCE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Fighter (Psi Warrior)](/compendium/lists/list-spells-classes-psi-warrior-tce.md "subclass=TCE"); [Sorcerer (Aberrant Mind)](/compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 280. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

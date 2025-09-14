@@ -78,7 +78,7 @@ The wand has a number of charges equal to your Intelligence modifier (minimum of
 
 When you reach 14th level, you can convert the core charges within your wand into raw, arcane energy. By manipulating this energy, you can use the wand's core charges in the following new ways:
 
-- As a bonus action, you can expend 1 or more of the wand's core charges to create a number of motes of magical force equal to the core charges spent. Each mote streaks toward a different target that you can see within 60 feet of you, dealing force damage to each target equal to `dice:1d4|noform|noparens|avg` (`d4`) + your Intelligence modifier.  
+- As a bonus action, you can expend 1 or more of the wand's core charges to create a number of motes of magical force equal to the core charges spent. Each mote streaks toward a different target that you can see within 60 feet of you, dealing force damage to each target equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Intelligence modifier.  
 - When you or another creature that you can see within 30 feet of you takes damage, you can use your reaction to expend 1 or more of the wand's core charges to create a magical barrier, reducing the damage taken by an amount equal to three times the number of core charges spent.  
 
 In addition, you have gained a supreme mastery and understanding of wands. If you expend the last charge of a staff or wand, you needn't roll a `dice:d20|noform|noparens|avg` (`d20`), even if it says to. Further, the gold and time you must spend to craft a magic wand is halved.

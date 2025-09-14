@@ -17,7 +17,7 @@ aliases:
 > 
 > I, a lowly servant of Barovia, send honor to thee. We plead for thy so desperately needed assistance.
 > 
-> The love of my life, [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]], has been afflicted by an evil so deadly that even the good people of our village cannot protect her. She languishes from her wound, and I would have her saved from this menace.
+> The love of my life, [[/4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]], has been afflicted by an evil so deadly that even the good people of our village cannot protect her. She languishes from her wound, and I would have her saved from this menace.
 > 
 > There is much wealth in this community. I offer all that might be had to thee and thy fellows if thou shalt but answer my desperate plea.
 > 
@@ -26,7 +26,7 @@ aliases:
 > Kolyan Indirovich Burgomaster
 ^7f0
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/210-f1.webp#center]]
+![[/6. Resources/5e Modules/Curse Of Strahd/img/210-f1.webp#center]]
 
 ## Strahd's Invitation
 
@@ -36,10 +36,10 @@ aliases:
 > 
 > Know that it is I who have brought you to this land, my home, and know that I alone can release you from it. I bid you dine at my castle so that we can meet in civilized surroundings. Your passage here will be a safe one. I await your arrival.
 > 
-> Your host, [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]
+> Your host, [[/4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]
 ^7f2
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/211-f2.webp#center]]
+![[/6. Resources/5e Modules/Curse Of Strahd/img/211-f2.webp#center]]
 
 ## From the Tome of Strahd
 
@@ -67,8 +67,8 @@ aliases:
 ^7f4
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/212-f3.webp#gallery]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/213-f4.webp#gallery]]
+> ![[/6. Resources/5e Modules/Curse Of Strahd/img/212-f3.webp#gallery]]
+> ![[/6. Resources/5e Modules/Curse Of Strahd/img/213-f4.webp#gallery]]
 
 ## Journal of Rudolph van Richten
 
@@ -92,8 +92,8 @@ aliases:
 ^7f6
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/214-f5.webp#gallery]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/215-f6.webp#gallery]]
+> ![[/6. Resources/5e Modules/Curse Of Strahd/img/214-f5.webp#gallery]]
+> ![[/6. Resources/5e Modules/Curse Of Strahd/img/215-f6.webp#gallery]]
 
 ## Kolyan Indirovich's Letter (version 2)
 
@@ -103,7 +103,7 @@ aliases:
 > 
 > I, the Burgomaster of Barovia, send you honor—with despair.
 > 
-> My adopted daughter, the fair [[4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]], has been these past nights bitten by a vampyr. For over four hundred years, this creature has drained the life blood of my people. Now, my dear Ireena languishes and dies from an unholy wound caused by this vile beast. He has become too powerful to conquer.
+> My adopted daughter, the fair [[/4. World Almanac/NPCs/Ireena Kolyana (COS).md\|Ireena Kolyana]], has been these past nights bitten by a vampyr. For over four hundred years, this creature has drained the life blood of my people. Now, my dear Ireena languishes and dies from an unholy wound caused by this vile beast. He has become too powerful to conquer.
 > 
 > So I say to you, give us up for dead and encircle this land with the symbols of good. Let holy men call upon their power that the devil may be contained within the walls of weeping Barovia. Leave our sorrows to our graves, and save the world from this evil fate of ours.
 > 
@@ -112,7 +112,7 @@ aliases:
 > Kolyan Indirovich Burgomaster
 ^7f8
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/216-f7.webp#center]]
+![[/6. Resources/5e Modules/Curse Of Strahd/img/216-f7.webp#center]]
 
 ## Journal of Argynvost
 
@@ -129,4 +129,4 @@ aliases:
 > A
 ^7fa
 
-![[6. Resources/5e Modules/Curse Of Strahd/img/217-f8.webp#center]]
+![[/6. Resources/5e Modules/Curse Of Strahd/img/217-f8.webp#center]]

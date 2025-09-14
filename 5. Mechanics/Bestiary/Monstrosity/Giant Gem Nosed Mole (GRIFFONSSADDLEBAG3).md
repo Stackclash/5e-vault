@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Gem-nosed Mole
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Giant Gem Nosed Mole (GRIFFONSSADDLEBAG3).md|Giant Gem-nosed Mole]]
+# [[5. Mechanics/Bestiary/Monstrosity/Giant Gem Nosed Mole (GRIFFONSSADDLEBAG3).md|Giant Gem-nosed Mole]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 With claws of diamond-cutting adamantine and a particularly sensitive olfactory organ made of some sort of living crystal, the giant gem-nosed mole is another creature that seeks out gems and mineral growths for nutrients, but are generally much less aggressive than geode wurms are. Their gemstone noses are capable of detecting both light and smell, allowing it to navigate to nearby mineral deposits and detect even the slightest hint of light from a crystal or gem.
@@ -40,12 +40,12 @@ With claws of diamond-cutting adamantine and a particularly sensitive olfactory 
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]"
-"senses": "blindsight 30 ft., tremorsense 60 ft. (blind beyond this radius), passive\
-  \ Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., tremorsense\
+  \ 60 ft. (blind beyond this radius), passive Perception 13"
 "languages": ""
 "cr": "3"
 "traits":
-  - "desc": "The mole's claw attacks are magical and deal an extra 4 (d8) force damage\
+  - "desc": "The mole's claw attacks are magical and deal an extra 4 (1d8) force damage\
       \ on a hit (included in the attack)."
     "name": "Adamantine Claws"
   - "desc": "The mole has advantage on Wisdom (Perception) checks that rely on smell."
@@ -62,8 +62,8 @@ With claws of diamond-cutting adamantine and a particularly sensitive olfactory 
 "actions":
   - "desc": "The mole makes two attacks with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
-      \ (2d6 + 3) slashing damage plus 4 (d8) force damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
+      \ (2d6 + 3) slashing damage plus 4 (1d8) force damage."
     "name": "Adamantine Claws"
 "source":
   - "GriffonsSaddlebag3"

@@ -53,13 +53,13 @@ While the chaotic bend of nature is found within these druids, their bodies and 
 
 ### Improved Shillelagh (Level 2)
 
-When you choose this circle at 2nd level, you gain proficiency with martial weapons. In addition, you learn the [[5. Mechanics/Spells/Shillelagh.md\|shillelagh]] cantrip. If you already know this cantrip, you learn a different druid cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+When you choose this circle at 2nd level, you gain proficiency with martial weapons. In addition, you learn the [[/5. Mechanics/Spells/Shillelagh.md\|shillelagh]] cantrip. If you already know this cantrip, you learn a different druid cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
 When you cast shillelagh, you can use it to imbue any melee weapon you're holding with nature's power. If you're holding a weapon under the effects of shillelagh, you can use it as a spellcasting focus for your druid spells.
 
 ### Wild Recovery (Level 2)
 
-At 2nd level, you gain the ability to recover using the wild, bestial magic that courses through you. As a bonus action, you can expend a use of your Wild Shape to regain a number of hit points equal to `dice:1d10|noform|noparens|avg` (`d10`) + your Wisdom modifier (minimum of 1). When you reach 10th level in this class, you regain `dice:2d10|noform|noparens|avg` (`2d10`) + your Wisdom modifier instead.
+At 2nd level, you gain the ability to recover using the wild, bestial magic that courses through you. As a bonus action, you can expend a use of your Wild Shape to regain a number of hit points equal to `dice:1d10|noform|noparens|avg` (`1d10`) + your Wisdom modifier (minimum of 1). When you reach 10th level in this class, you regain `dice:2d10|noform|noparens|avg` (`2d10`) + your Wisdom modifier instead.
 
 ### Shillelagh Mastery (Level 6)
 

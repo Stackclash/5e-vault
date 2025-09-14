@@ -13,7 +13,7 @@ tags:
 aliases:
   - Lesser Star Spawn Emissary
 ---
-# [[5. Mechanics\Bestiary\Aberration\Lesser Star Spawn Emissary (VRGR).md|Lesser Star Spawn Emissary]]
+# [[5. Mechanics/Bestiary/Aberration/Lesser Star Spawn Emissary (VRGR).md|Lesser Star Spawn Emissary]]
 *Source: Van Richten's Guide to Ravenloft p. 245*
 
 A star spawn emissary's lesser form allows it to appear as any creature. Emissaries have no misplaced pride and just as readily appear as people, animals, or other creatures—the more unassuming, the better. Should it reveal its true form, an emissary appears as a roughly bipedal mass of agitated organs, self-cannibalizing alien orifices, and appendages suggestive of forms it has previously assumed.
@@ -47,9 +47,9 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
   - !!int "23"
 "speed": "40 ft., fly 40 ft. (hover)"
 "saves":
-  - "intelligence": "+13"
-  - "wisdom": "+11"
-  - "charisma": "+12"
+  - "intelligence": !!int "13"
+  - "wisdom": !!int "11"
+  - "charisma": !!int "12"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+19"
@@ -59,7 +59,8 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
     "desc": "+11"
 "damage_resistances": "acid, force, necrotic, psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "truesight 120 ft., passive Perception 21"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 21"
 "languages": "all, telepathy 1,000 ft."
 "cr": "19"
 "traits":
@@ -75,16 +76,20 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
 "actions":
   - "desc": "The emissary makes three attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 16\
       \ (2d10 + 5) piercing damage plus 13 (3d8) acid damage."
     "name": "Lashing Maw"
-  - "desc": "Ranged Spell Attack: +13 to hit, range 120 ft., one creature. Hit:\
+  - "desc": "*Ranged Spell Attack:* +13 to hit, range 120 ft., one creature. *Hit:*\
       \ 18 (2d10 + 7) psychic damage."
     "name": "Psychic Orb"
   - "desc": "The emissary polymorphs into a Small or Medium creature of its choice\
       \ or back into its true form. Its statistics, other than its size, are the same\
       \ in each form. Any equipment it is wearing or carrying isn't transformed."
     "name": "Change Shape"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the lesser star spawn emissary can expend a use to take one of the following\
+  \ actions. The lesser star spawn emissary regains all expended uses at the start\
+  \ of each of its turns."
 "legendary_actions":
   - "desc": "The emissary makes a Psychic Orb attack."
     "name": "Psychic Orb"
@@ -98,7 +103,7 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
     "name": "Psychic Lash (Costs 3 Actions)"
 "source":
   - "VRGR"
-"image": "5. Mechanics/Bestiary/Aberration/token/lesser-star-spawn-emissary-vrgr.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/lesser-star-spawn-emissary-vrgr.webp"
 ```
 ^statblock
 

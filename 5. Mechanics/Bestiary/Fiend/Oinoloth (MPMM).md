@@ -15,7 +15,7 @@ tags:
 aliases:
   - Oinoloth
 ---
-# [[5. Mechanics\Bestiary\Fiend\Oinoloth (MPMM).md|Oinoloth]]
+# [[5. Mechanics/Bestiary/Fiend/Oinoloth (MPMM).md|Oinoloth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 202, Mordenkainen's Tome of Foes p. 251*
 
 Grim specters of death, oinoloths bring pestilence wherever they go. When armies recognize their awful forms, their mere appearance causes soldiers to break ranks and flee, lest they succumb to one of the awful plagues that oinoloths let loose.
@@ -42,8 +42,8 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
   - !!int "19"
 "speed": "40 ft."
 "saves":
-  - "constitution": "+8"
-  - "wisdom": "+7"
+  - "constitution": !!int "8"
+  - "wisdom": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+8"
@@ -55,7 +55,8 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 17"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "12"
 "traits":
@@ -65,7 +66,7 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
 "actions":
   - "desc": "The oinoloth makes two Claw attacks, and it uses Spellcasting or Teleport."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (3d6 + 4) slashing damage plus 22 (4d10) necrotic damage."
     "name": "Claw"
   - "desc": "The oinoloth touches one willing creature within 5 feet of it. The target\
@@ -75,7 +76,7 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
       \ or [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]. The target then gains\
       \ 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]], and its\
       \ hit point maximum is reduced by 7 (2d6). This reduction can be removed only\
-      \ by a [[5. Mechanics/Spells/Wish.md|wish]] spell or by casting [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ by a [[/5. Mechanics/Spells/Wish.md|wish]] spell or by casting [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ on the target three times within the same hour. The target dies if its hit\
       \ point maximum is reduced to 0."
     "name": "Corrupted Healing (Recharge 6)"
@@ -84,10 +85,10 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
     "name": "Teleport"
   - "desc": "The oinoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Hold Monster.md|hold monster]],\
-      \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only)\n\n1/day each:\
-      \ [[5. Mechanics/Spells/Feeblemind.md|feeblemind]], [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]]"
+      \n**At will:** [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Hold Monster.md|hold monster]],\
+      \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]] (self only)\n\n**1/day\
+      \ each:** [[/5. Mechanics/Spells/Feeblemind.md|feeblemind]], [[/5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The oinoloth blights the area in a 30-foot-radius sphere centered on\
@@ -100,14 +101,14 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
       \ next 24 hours.\n\nThe [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
       \ creature can't regain hit points. After every 24 hours that elapse, the [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
       \ creature can repeat the saving throw. On a failed save, the creature's hit\
-      \ point maximum is reduced by 5 (d10). This reduction lasts until the poison\
+      \ point maximum is reduced by 5 (1d10). This reduction lasts until the poison\
       \ ends, and the target dies if its hit point maximum is reduced to 0. The poison\
       \ ends after the creature successfully saves against it three times."
     "name": "Bringer of Plagues (Recharge 5-6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/oinoloth-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/oinoloth-mpmm.webp"
 ```
 ^statblock
 

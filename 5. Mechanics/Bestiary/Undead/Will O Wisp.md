@@ -16,7 +16,7 @@ tags:
 aliases:
   - Will-o'-Wisp
 ---
-# [[5. Mechanics\Bestiary\Undead\Will O Wisp.md|Will-o'-Wisp]]
+# [[5. Mechanics/Bestiary/Undead/Will O Wisp.md|Will-o'-Wisp]]
 *Source: Monster Manual p. 301, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
@@ -63,7 +63,8 @@ A will-o'-wisp doesn't require air, drink, or sleep.
   \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 12"
 "languages": "the languages it knew in life"
 "cr": "2"
 "traits":
@@ -75,7 +76,7 @@ A will-o'-wisp doesn't require air, drink, or sleep.
   - "desc": "The will-o'-wisp can't wear or carry anything."
     "name": "Ephemeral"
   - "desc": "The will-o'-wisp can move through other creatures and objects as if they\
-      \ were difficult terrain. It takes 5 (d10) force damage if it ends its turn\
+      \ were difficult terrain. It takes 5 (1d10) force damage if it ends its turn\
       \ inside an object."
     "name": "Incorporeal Movement"
   - "desc": "The will-o'-wisp sheds bright light in a 5 to 20-foot radius and dim\
@@ -83,7 +84,7 @@ A will-o'-wisp doesn't require air, drink, or sleep.
       \ can alter the radius as a bonus action."
     "name": "Variable Illumination"
 "actions":
-  - "desc": "Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 9\
+  - "desc": "*Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9\
       \ (2d8) lightning damage."
     "name": "Shock"
   - "desc": "The will-o'-wisp and its light magically become [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
@@ -95,7 +96,7 @@ A will-o'-wisp doesn't require air, drink, or sleep.
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Undead/token/will-o-wisp.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/will-o-wisp.webp"
 ```
 ^statblock
 

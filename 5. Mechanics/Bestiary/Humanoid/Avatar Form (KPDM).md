@@ -13,7 +13,7 @@ tags:
 aliases:
   - Avatar Form
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Avatar Form (KPDM).md|Avatar Form]]
+# [[5. Mechanics/Bestiary/Humanoid/Avatar Form (KPDM).md|Avatar Form]]
 *Source: Deep Magic p. 72*
 
 ```statblock
@@ -35,7 +35,8 @@ aliases:
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks; plus\
   \ one additional type of your choice"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "speaks all languages known in previous form"
 "cr": "18"
 "traits":
@@ -44,15 +45,15 @@ aliases:
       \ for 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] creature\
       \ repeats the saving throw at the end of each of its turns, ending the effect\
       \ on itself on a successful save. Once a creature makes a successful saving\
-      \ throw, that creature is immune to your Awesome Presence for 24 hours."
+      \ throw, that creature is immune to your *Awesome Presence* for 24 hours."
     "name": "Awesome Presence"
 "actions":
   - "desc": "You make two slam attacks and one bite attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (2d8 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 16\
       \ (2d10 + 5) bludgeoning damage."
     "name": "Slam"
 "source":

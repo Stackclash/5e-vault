@@ -14,16 +14,29 @@ classes:
   - Wizard
 school: Evocation
 level: 8
+damage:
+  base: 8d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: half damage
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: 150 feet
+somatic: false
+verbal: true
+material: a drop of pitch mixed with a drop of mercury
+area:
+  shape: sphere
+  size: 60
 aliases:
   - Maddening Darkness
-concentration: true
-material: a drop of pitch mixed with a drop of mercury
 ---
 # Maddening Darkness
 *8th-level, Evocation*  
@@ -37,6 +50,6 @@ Magical darkness spreads from a point you choose within range to fill a 60-foot-
 
 Shrieks, gibbering, and mad laughter can be heard within the sphere. Whenever a creature starts its turn in the sphere, it must make a Wisdom saving throw, taking `dice:8d8|noform|noparens|avg` (`8d8`) psychic damage on a failed save, or half as much damage on a successful one.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 160*

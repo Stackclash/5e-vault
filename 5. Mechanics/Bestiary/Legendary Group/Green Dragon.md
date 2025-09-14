@@ -9,7 +9,7 @@ aliases:
 ---
 # Green Dragon
 
-## Lair actions
+## Lair Actions
 _Source: Monster Manual_
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
@@ -20,23 +20,23 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 ### Additional Lair Actions
 
-At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Green Dragon.md|adult]] or [[5. Mechanics/Bestiary/Dragon/Ancient Green Dragon.md|ancient]]) green dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary ([[/5. Mechanics/Bestiary/Dragon/Adult Green Dragon.md|adult]] or [[/5. Mechanics/Bestiary/Dragon/Ancient Green Dragon.md|ancient]]) green dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [[5. Mechanics/Bestiary/Undead/Zombie.md|zombies]]. The zombies take their turn immediately after this lair action. Each one reverts to an inanimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
+- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [[/5. Mechanics/Bestiary/Undead/Zombie.md|zombies]]. The zombies take their turn immediately after this lair action. Each one reverts to an inanimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
 - **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a +7 bonus to hit and deals `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].  
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual_
 
 The region containing a legendary green dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
 
-- Thickets form labyrinthine passages within 1 mile of the dragon's lair. The thickets act as 10-foot-high, 10-foot-thick walls that block line of sight. Creatures can move through the thickets, with every 1 foot a creature moves costing it 4 feet of movement. A creature in the thickets must make a DC 15 Dexterity saving throw once each round it's in contact with the thickets or take `dice:1d6|noform|noparens|avg|text(3)` (`d6`) piercing damage from thorns.  
+- Thickets form labyrinthine passages within 1 mile of the dragon's lair. The thickets act as 10-foot-high, 10-foot-thick walls that block line of sight. Creatures can move through the thickets, with every 1 foot a creature moves costing it 4 feet of movement. A creature in the thickets must make a DC 15 Dexterity saving throw once each round it's in contact with the thickets or take `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) piercing damage from thorns.  
 
     Each 10-foot-cube of thickets has AC 5, 30 hit points, resistance to bludgeoning and piercing damage, vulnerability to fire damage, and immunity to psychic and thunder damage.  
 - Within 1 mile of its lair, the dragon leaves no physical evidence of its passage unless it wishes to. Tracking it there is impossible except by magical means. In addition, it ignores movement impediments and damage from plants in this area that are neither magical nor creatures, including the thickets described above. The plants remove themselves from the dragon's path.  
 - Rodents and birds within 1 mile of the dragon's lair serve as the dragon's eyes and ears. Deer and other large game are strangely absent, hinting at the presence of an unnaturally hungry predator.  
 
-If the dragon dies, the rodents and birds lose their supernatural link to it. The thickets remain, but within `dice:1d10|noform|noparens|avg` (`d10`) days, they become mundane plants and normal difficult terrain, losing their thorns.
+If the dragon dies, the rodents and birds lose their supernatural link to it. The thickets remain, but within `dice:1d10|noform|noparens|avg` (`1d10`) days, they become mundane plants and normal difficult terrain, losing their thorns.
 
 ### Additional Regional Effects
 

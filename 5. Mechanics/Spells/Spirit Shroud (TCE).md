@@ -24,15 +24,23 @@ classes:
   - Wizard
 school: Necromancy
 level: 3
+damage:
+  base: 1d8
+  scaling:
+    damage: 1d8
+    level: 4
+  types:
+    - radiant
+    - necrotic
+    - cold
 ritual: false
 time: 1 Bonus Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Spirit Shroud
-concentration: true
 ---
 # Spirit Shroud
 *3rd-level, Necromancy*  
@@ -44,12 +52,12 @@ concentration: true
 
 You call forth spirits of the dead, which flit around you for the spell's duration. The spirits are intangible and invulnerable.
 
-Until the spell ends, any attack you make deals `dice:1d8|noform|noparens|avg` (`d8`) extra damage when you hit a creature within 10 feet of you. This damage is radiant, necrotic, or cold (your choice when you cast the spell). Any creature that takes this damage can't regain hit points until the start of your next turn.
+Until the spell ends, any attack you make deals `dice:1d8|noform|noparens|avg` (`1d8`) extra damage when you hit a creature within 10 feet of you. This damage is radiant, necrotic, or cold (your choice when you cast the spell). Any creature that takes this damage can't regain hit points until the start of your next turn.
 
 In addition, any creature of your choice that you can see that starts its turn within 10 feet of you has its speed reduced by 10 feet until the start of your next turn.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for every two slot levels above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for every two slot levels above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Tasha's Cauldron of Everything p. 108*

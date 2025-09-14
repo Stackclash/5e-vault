@@ -12,17 +12,21 @@ classes:
   - Ranger
 school: Transmutation
 level: 5
+damage:
+  base: 1d10
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: true
+verbal: true
+material: a bit of fur from a carnivorous animal
 aliases:
   - Primal Infusion
-concentration: true
-material: a bit of fur from a carnivorous animal
 ---
 # Primal Infusion
 *5th-level, Transmutation*  
@@ -36,10 +40,10 @@ You channel the fury of nature, drawing on its power. Until the spell ends, you 
 
 - You gain 30 temporary hit points. If any of these remain when the spell ends, they are lost.  
 - You have advantage on attack rolls when one of your allies is within 5 feet of the target and the ally isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].  
-- Your weapon attacks deal an extra `dice:1d10|noform|noparens|avg` (`d10`) damage of the same type dealt by the weapon on a hit.  
+- Your weapon attacks deal an extra `dice:1d10|noform|noparens|avg` (`1d10`) damage of the same type dealt by the weapon on a hit.  
 - You gain a +2 bonus to AC.  
 - You have proficiency on Constitution saving throws.  
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 100*

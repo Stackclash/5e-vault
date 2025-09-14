@@ -16,7 +16,7 @@ tags:
 aliases:
   - Gorgon
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Gorgon.md|Gorgon]]
+# [[5. Mechanics/Bestiary/Monstrosity/Gorgon.md|Gorgon]]
 *Source: Monster Manual p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Few creatures that encounter a gorgon live to tell about it. Its body is covered in iron plates, and its nostrils fume with green vapor.
@@ -51,7 +51,8 @@ When a gorgon spots potential prey, it charges with a hideous clamor of metal on
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": ""
 "cr": "5"
 "traits":
@@ -62,10 +63,10 @@ When a gorgon spots potential prey, it charges with a hideous clamor of metal on
       \ can make one attack with its hooves against it as a bonus action."
     "name": "Trampling Charge"
 "actions":
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 18\
       \ (2d12 + 5) piercing damage."
     "name": "Gore"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16\
       \ (2d10 + 5) bludgeoning damage."
     "name": "Hooves"
   - "desc": "The gorgon exhales petrifying gas in a 30-foot cone. Each creature in\
@@ -74,12 +75,12 @@ When a gorgon spots potential prey, it charges with a hideous clamor of metal on
       \ The [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] target must repeat\
       \ the saving throw at the end of its next turn. On a success, the effect ends\
       \ on the target. On a failure, the target is [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
-      \ until freed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ until freed by the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spell or other magic."
     "name": "Petrifying Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/gorgon.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/gorgon.webp"
 ```
 ^statblock
 

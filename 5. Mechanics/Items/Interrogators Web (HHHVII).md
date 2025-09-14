@@ -8,11 +8,11 @@ tags:
   - item/weapon/ranged
 aliases:
   - Interrogator's Web
-range: 5\15
+range: 5/15
 weight: 3
 ---
 # Interrogator's Web
-*Weapon ([[5. Mechanics/Items/Net.md\|net]]), rare*  
+*Weapon ([[/5. Mechanics/Items/Net.md\|net]]), rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 3.0 lbs.

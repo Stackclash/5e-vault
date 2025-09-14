@@ -47,11 +47,11 @@ aliases:
 
 ### Way of Shadow (Level 3)
 
-Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves' guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
+Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadow dancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves' guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
 
 ### Shadow Arts (Level 3)
 
-You can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Darkvision.md\|darkvision]], [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]], or [[5. Mechanics/Spells/Silence.md\|silence]], without providing material components. Additionally, you gain the [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]] cantrip if you don't already know it.
+You can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast [[/5. Mechanics/Spells/Darkness.md\|darkness]], [[/5. Mechanics/Spells/Darkvision.md\|darkvision]], [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]], or [[/5. Mechanics/Spells/Silence.md\|silence]], without providing material components. Additionally, you gain the [[/5. Mechanics/Spells/Minor Illusion.md\|minor illusion]] cantrip if you don't already know it.
 
 ### Shadow Step (Level 6)
 

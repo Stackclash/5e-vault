@@ -14,16 +14,25 @@ classes:
   - Ranger
 school: Enchantment
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: a morsel of food
 aliases:
   - Monstrous Empathy
-material: a morsel of food
 ---
 # Monstrous Empathy
 *3rd-level, Enchantment*  
@@ -37,6 +46,6 @@ This spell lets you forge a connection with a monstrosity. Choose a monstrosity 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can affect one additional monstrosity for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 95*

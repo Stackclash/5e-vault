@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: forest
 size: Small
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Grung (Orange)
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grung Orange (MPMM).md|Grung (Orange)]]
+# [[5. Mechanics/Bestiary/Humanoid/Grung Orange (MPMM).md|Grung (Orange)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156*
 
 ```statblock
@@ -35,7 +35,7 @@ aliases:
   - !!int "10"
 "speed": "25 ft., climb 25 ft."
 "saves":
-  - "dexterity": "+4"
+  - "dexterity": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+2"
@@ -68,8 +68,8 @@ aliases:
       \ only through magic or by immersing itself in water for at least 1 hour."
     "name": "Water Dependency"
 "actions":
-  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 5 (2d4) poison damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage plus 5 (2d4) poison damage."
     "name": "Dagger"
 "source":
   - "MPMM"

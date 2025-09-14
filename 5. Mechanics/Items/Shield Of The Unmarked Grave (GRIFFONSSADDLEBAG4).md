@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Shield of the Unmarked Grave
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), cursed item, legendary (requires attunement)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), cursed item, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Shield-of-the-Unmarked-Grave.webp#right)  
 
 - **Armor Class**: 2
@@ -37,7 +37,7 @@ When you take damage while holding the shield, you can use a reaction to expend 
 
 ## Curse
 
-This shield is cursed, and attuning to it extends the curse to you. You remain cursed until you're targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. Alternatively, casting banishment or dispel evil and good on the shield puts the spirit residing within it to rest, transforming the shield into a normal +2 shield with no other properties, although it still only weighs as much as a normal shield.
+This shield is cursed, and attuning to it extends the curse to you. You remain cursed until you're targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. Alternatively, casting banishment or dispel evil and good on the shield puts the spirit residing within it to rest, transforming the shield into a normal +2 shield with no other properties, although it still only weighs as much as a normal shield.
 
 As long as you remain cursed, the spirits within the shield can reach you through your dreams. Whenever you finish a long rest, roll a `dice:d100|noform|noparens|avg` (`d100`) and refer to the table below.
 

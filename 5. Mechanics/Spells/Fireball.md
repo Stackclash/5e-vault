@@ -27,28 +27,33 @@ classes:
   - Wizard
 school: Evocation
 level: 3
+damage:
+  base: 8d6
+  scaling:
+    damage: 1d6
+    level: 4
+  types:
+    - fire
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 150 feet
+somatic: true
+verbal: true
+material: a tiny ball of bat guano and sulfur
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Fireball
-range: 150 feet
-material: A tiny ball of bat guano and sulfur.
-damageType: Fire
-save:
-  type: DEX
-  success: half
-area:
-  type: sphere
-  size: 20
 ---
 # Fireball
 *3rd-level, Evocation*  
-![[5. Mechanics/Spells/img/fireball.webp#right]]  
+![[/5. Mechanics/Spells/img/fireball.webp#right]]  
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet
@@ -59,8 +64,8 @@ A bright streak flashes from your pointing finger to a point you choose within r
 
 The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 3rd.
 
-**Classes**: [Artificer (Artillerist)](compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [[5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Warlock (The Genie)](compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [Artificer (Artillerist)](/compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]; [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 241. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

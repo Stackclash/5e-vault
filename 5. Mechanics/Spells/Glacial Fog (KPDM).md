@@ -18,17 +18,29 @@ classes:
   - Wizard
 school: Evocation
 level: 7
+damage:
+  base: 12d6
+  scaling:
+    damage: 1d6
+    level: 8
+  types:
+    - cold
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 100 feet
+somatic: true
+verbal: true
+material: crystalline statue of a polar bear worth at least 25 gp
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Glacial Fog
-concentration: true
-material: crystalline statue of a polar bear worth at least 25 gp
 ---
 # Glacial Fog
 *7th-level, Evocation*  
@@ -42,8 +54,8 @@ As you cast this spell, a 30-foot-radius sphere centered on a point within range
 
 Stored devices and tools are all frozen by the fog: crossbow mechanisms become sluggish, weapons are stuck in scabbards, potions turn to ice, bag cords freeze together, and so forth. Such items require the application of heat for 1 round or longer in order to become useful again.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 7th.
+**At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 7th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 272*

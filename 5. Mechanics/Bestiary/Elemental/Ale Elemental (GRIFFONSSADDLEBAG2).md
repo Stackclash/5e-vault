@@ -13,7 +13,7 @@ tags:
 aliases:
   - Ale Elemental
 ---
-# [[5. Mechanics\Bestiary\Elemental\Ale Elemental (GRIFFONSSADDLEBAG2).md|Ale Elemental]]
+# [[5. Mechanics/Bestiary/Elemental/Ale Elemental (GRIFFONSSADDLEBAG2).md|Ale Elemental]]
 *Source: The Griffon's Saddlebag, Book 2 p. 358*
 
 These swirling and frothy, caramel-colored creatures smell of honey and hops. The existence of ale elementals has brought about hours of intense research and debate about the possibility of an elemental plane of alcohol or the like. Planar travel has thus far proved impossible, although these elementals are occasionally summoned by inebriated mages purposefully or accidentally. Regardless of their means of arrival, these creatures swarm towards areas with high concentrations of alcoholic beverages. As they pursue their murky agendas, they usually end up causing terrible havoc and general mayhem.
@@ -44,7 +44,8 @@ These swirling and frothy, caramel-colored creatures smell of honey and hops. Th
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Aquan"
 "cr": "5"
 "traits":
@@ -57,8 +58,8 @@ These swirling and frothy, caramel-colored creatures smell of honey and hops. Th
 "actions":
   - "desc": "The elemental makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
-      \ + 4) bludgeoning damage, plus 4 (d8) poison damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
+      \ + 4) bludgeoning damage, plus 4 (1d8) poison damage."
     "name": "Slam"
   - "desc": "Each creature in the elemental's space must make a DC 15 Strength saving\
       \ throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it\
@@ -68,8 +69,8 @@ These swirling and frothy, caramel-colored creatures smell of honey and hops. Th
       \ successful, the target is pushed out of the elemental's space.\n\nThe elemental\
       \ can grapple one Large creature or up to two Medium or smaller creatures at\
       \ one time. At the start of each of the elemental's turns, each target [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-      \ by it takes 8 (1d8 + 4) bludgeoning damage plus 4 (d8) poison damage and must\
-      \ succeed on a Constitution saving throw or gain one level of [[/5. Mechanics/Rules/Conditions.md#Drunkenness|drunkenness]].\
+      \ by it takes 8 (1d8 + 4) bludgeoning damage plus 4 (1d8) poison damage and\
+      \ must succeed on a Constitution saving throw or gain one level of [[/5. Mechanics/Rules/Conditions.md#Drunkenness|drunkenness]].\
       \ A creature within 5 feet of the elemental can pull a creature or object out\
       \ of it by taking an action to make a DC 14 Strength check and succeeding. Any\
       \ levels of [[/5. Mechanics/Rules/Conditions.md#Drunkenness|drunkenness]] caused\

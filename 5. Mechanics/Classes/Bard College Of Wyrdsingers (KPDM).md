@@ -57,13 +57,13 @@ Your proficiency bonus is doubled when you make a [[/5. Mechanics/Rules/Skills.m
 
 ### Inspire Greatness (Level 3)
 
-Also Beginning at 3rd level, you can use a bonus action to instill a sense of worth in a single ally within 60 feet who can hear you. Your ally gains a bonus equal to your Charisma modifier on attack rolls, damage rolls, ability checks, and saving throws for a number of rounds equal to your bard level. That ally cannot benefit from your [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) until the duration of this feature has run its course. You can use this feature once at 3rd level, twice at 8th level, and three times at 15th level. You regain all expended uses when you finish a long rest.
+Also Beginning at 3rd level, you can use a bonus action to instill a sense of worth in a single ally within 60 feet who can hear you. Your ally gains a bonus equal to your Charisma modifier on attack rolls, damage rolls, ability checks, and saving throws for a number of rounds equal to your bard level. That ally cannot benefit from your [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) until the duration of this feature has run its course. You can use this feature once at 3rd level, twice at 8th level, and three times at 15th level. You regain all expended uses when you finish a long rest.
 
-Additionally, you can use a bonus action to cast any abjuration spell you know that normally takes 1 action to cast (for example, kaugh in the face of fear or [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]]). Once you use this feature, you must finish a long rest before you can use it again.
+Additionally, you can use a bonus action to cast any abjuration spell you know that normally takes 1 action to cast (for example, kaugh in the face of fear or [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]]). Once you use this feature, you must finish a long rest before you can use it again.
 
 ### Not This Day (Level 6)
 
-Starting at 6th level, if an ally of yours drops to 0 hit points, you can use a reaction to expend one of your uses of [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)). Your ally gains a number of temporary hit points equal to the die roll and remains conscious.
+Starting at 6th level, if an ally of yours drops to 0 hit points, you can use a reaction to expend one of your uses of [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)). Your ally gains a number of temporary hit points equal to the die roll and remains conscious.
 
 If the attack that reduced the ally to 0 hit points would have been fatal, the ally will die if they lose all temporary hit points they currently possess, unless their hit point total is raised to 1 or higher before that happens.
 
@@ -71,6 +71,6 @@ If the attack that reduced the ally to 0 hit points would have been fatal, the a
 
 At 14th level and higher, you can use an action to sing a song of valor that enables you to remain courageous and fight fiercely in the face of the gravest danger.
 
-For 1 minute thereafter, you gain immunity to the [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] condition. Any ally you affect with your [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) feature also gains this immunity until they expend the [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die or the duration expires.
+For 1 minute thereafter, you gain immunity to the [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] condition. Any ally you affect with your [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) feature also gains this immunity until they expend the [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die or the duration expires.
 
 In addition, while this feature is in effect, you add your Charisma modifier to your weapon damage and to the damage of any spell you cast.

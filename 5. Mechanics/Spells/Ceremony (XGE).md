@@ -23,13 +23,12 @@ level: 1
 ritual: true
 time: 1 hour
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: '25 gp worth of powdered silver, which the spell consumes'
 aliases:
   - Ceremony
-material: '25 gp worth of powdered silver, which the spell consumes'
 ---
 # Ceremony
 *1st-level, Abjuration (ritual)*  
@@ -47,7 +46,7 @@ You touch one willing creature whose alignment has changed, and you make a DC 20
 
 ## Bless Water
 
-You touch one [[5. Mechanics/Items/Vi(AL).md\|vial]] of water and cause it to become [[5. Mechanics/Items/Holy Water Flask.md\|holy water]].
+You touch one [[/5. Mechanics/Items/Vi(AL).md\|vial]] of water and cause it to become [[/5. Mechanics/Items/Holy Water Flask.md\|holy water]].
 
 ## Coming of Age
 
@@ -59,7 +58,7 @@ You touch one humanoid who wishes to be dedicated to your god's service. For the
 
 ## Funeral Rite
 
-You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [[5. Mechanics/Spells/Wish.md\|wish]] spell.
+You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [[/5. Mechanics/Spells/Wish.md\|wish]] spell.
 
 ## Wedding
 
@@ -67,6 +66,8 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Ritual Caster.md\|Ritual Caster]]
 
 *Source: Xanathar's Guide to Everything p. 151*

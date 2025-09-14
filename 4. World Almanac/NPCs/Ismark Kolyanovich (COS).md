@@ -10,7 +10,7 @@ tags:
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\ismark-kolyanovich.webp
+  - ../../../../../4. World Almanac/NPCs/img/ismark-kolyanovich.webp
 relationships: []
 aliases:
   - Ismark Kolyanovich
@@ -55,7 +55,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 43*
@@ -116,7 +116,7 @@ actions:
 "subtype": "human"
 "alignment": "Lawful Good"
 "ac": !!int "17"
-"ac_class": "[[5. Mechanics/Items/Splint Armor.md|splint armor]]"
+"ac_class": "[[/5. Mechanics/Items/Splint Armor.md|splint armor]]"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -140,18 +140,18 @@ actions:
   - "desc": "Ismark makes two longsword attacks. If it has a shortsword drawn, it\
       \ can also make a shortsword attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
     "name": "Longsword"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage."
     "name": "Shortsword"
-  - "desc": "Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +3 to hit, range 100/400 ft., one target. *Hit:*\
       \ 6 (1d10 + 1) piercing damage."
     "name": "Heavy Crossbow"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/ismark-kolyanovich-cos.webp"
+"image": "/4. World Almanac/NPCs/token/ismark-kolyanovich-cos.webp"
 ```
 ^statblock
 

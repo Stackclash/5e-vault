@@ -16,14 +16,12 @@ school: Transmutation
 level: 8
 ritual: false
 time: 1 Action
-duration: Up to 24 hours
-components:
-  - V
-  - S
+duration: 'Concentration, up to 24 hours'
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Animal Shapes
-range: 30 feet
-concentration: true
 ---
 # Animal Shapes
 *8th-level, Transmutation*  
@@ -39,6 +37,6 @@ The transformation lasts for the duration for each target, or until the target d
 
 The target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

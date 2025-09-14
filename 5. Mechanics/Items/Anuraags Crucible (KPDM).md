@@ -20,9 +20,9 @@ If one or more creatures are placed in the crucible and the crucible is heated o
 
 If this transformation is interrupted, the transforming creature is slain. It can be brought back to life in its original form by a resurrection spell or comparable magic.
 
-If the process reaches completion, the creature transforms into another creature as if affected by a [[5. Mechanics/Spells/Shapechange.md\|shapechange]] spell. The transformed creature must make a successful DC 20 Wisdom saving throw or lose its memory and all its previous abilities, traits, and features, which are replaced by the blank mind of a newly born version of the creature it transformed into. Whether or not a creature retains its mental faculties, the newly assumed form is permanent. At that point, the creature can regain its former form (and memories and abilities) only through a [[5. Mechanics/Spells/Wish.md\|wish]] spell or comparable magic.
+If the process reaches completion, the creature transforms into another creature as if affected by a [[/5. Mechanics/Spells/Shapechange.md\|shapechange]] spell. The transformed creature must make a successful DC 20 Wisdom saving throw or lose its memory and all its previous abilities, traits, and features, which are replaced by the blank mind of a newly born version of the creature it transformed into. Whether or not a creature retains its mental faculties, the newly assumed form is permanent. At that point, the creature can regain its former form (and memories and abilities) only through a [[/5. Mechanics/Spells/Wish.md\|wish]] spell or comparable magic.
 
-Constructs and undead are immune to the crucible's power, as is any creature that can change its shape at will, such as a [[5. Mechanics/Bestiary/Monstrosity/Doppelganger.md\|doppelganger]].
+Constructs and undead are immune to the crucible's power, as is any creature that can change its shape at will, such as a [[/5. Mechanics/Bestiary/Monstrosity/Doppelganger.md\|doppelganger]].
 
 To determine what a creature transforms into, roll a `dice:d20|noform|noparens|avg` (`d20`).
 
@@ -30,25 +30,25 @@ To determine what a creature transforms into, roll a `dice:d20|noform|noparens|a
 
 | dice: d20 | Creature |
 |-----------|----------|
-| 01 | [[5. Mechanics/Bestiary/Beast/Cat.md\|Cat]] |
-| 02 | [[5. Mechanics/Bestiary/Beast/Ape.md\|Ape]] |
-| 03 | [[5. Mechanics/Bestiary/Beast/Camel.md\|Camel]] |
-| 04 | [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|Dire wolf]] |
-| 05 | [[5. Mechanics/Bestiary/Beast/Giant Fly (DMG).md\|Giant fly]] |
-| 06 | [[5. Mechanics/Bestiary/Beast/Giant Lizard.md\|Giant lizard]] |
-| 07 | [[5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] |
-| 08 | [[5. Mechanics/Bestiary/Beast/Mastiff.md\|Mastiff]] |
-| 09 | [[5. Mechanics/Bestiary/Beast/Tiger.md\|Tiger]] |
-| 10 | [[5. Mechanics/Bestiary/Monstrosity/Basilisk.md\|Basilisk]] |
-| 11 | [[5. Mechanics/Bestiary/Monstrosity/Chimera.md\|Chimera]] |
-| 12 | [[5. Mechanics/Bestiary/Monstrosity/Griffon.md\|Griffon]] |
-| 13 | [[5. Mechanics/Bestiary/Monstrosity/Harpy.md\|Harpy]] |
-| 14 | [[5. Mechanics/Bestiary/Monstrosity/Lamia.md\|Lamia]] |
-| 15 | [[5. Mechanics/Bestiary/Monstrosity/Manticore.md\|Manticore]] |
-| 16 | [[5. Mechanics/Bestiary/Monstrosity/Spirit Naga.md\|Spirit naga]] |
-| 17 | [[5. Mechanics/Bestiary/Aberration/Aboleth.md\|Aboleth]] |
-| 18 | [[5. Mechanics/Bestiary/Aberration/Gibbering Mouther.md\|Gibbering mouther]] |
-| 19 | [[5. Mechanics/Bestiary/Elemental/Gargoyle.md\|Gargoyle]] |
+| 01 | [[/5. Mechanics/Bestiary/Beast/Cat.md\|Cat]] |
+| 02 | [[/5. Mechanics/Bestiary/Beast/Ape.md\|Ape]] |
+| 03 | [[/5. Mechanics/Bestiary/Beast/Camel.md\|Camel]] |
+| 04 | [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|Dire wolf]] |
+| 05 | [[/5. Mechanics/Bestiary/Beast/Giant Fly (DMG).md\|Giant fly]] |
+| 06 | [[/5. Mechanics/Bestiary/Beast/Giant Lizard.md\|Giant lizard]] |
+| 07 | [[/5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] |
+| 08 | [[/5. Mechanics/Bestiary/Beast/Mastiff.md\|Mastiff]] |
+| 09 | [[/5. Mechanics/Bestiary/Beast/Tiger.md\|Tiger]] |
+| 10 | [[/5. Mechanics/Bestiary/Monstrosity/Basilisk.md\|Basilisk]] |
+| 11 | [[/5. Mechanics/Bestiary/Monstrosity/Chimera.md\|Chimera]] |
+| 12 | [[/5. Mechanics/Bestiary/Monstrosity/Griffon.md\|Griffon]] |
+| 13 | [[/5. Mechanics/Bestiary/Monstrosity/Harpy.md\|Harpy]] |
+| 14 | [[/5. Mechanics/Bestiary/Monstrosity/Lamia.md\|Lamia]] |
+| 15 | [[/5. Mechanics/Bestiary/Monstrosity/Manticore.md\|Manticore]] |
+| 16 | [[/5. Mechanics/Bestiary/Monstrosity/Spirit Naga.md\|Spirit naga]] |
+| 17 | [[/5. Mechanics/Bestiary/Aberration/Aboleth.md\|Aboleth]] |
+| 18 | [[/5. Mechanics/Bestiary/Aberration/Gibbering Mouther.md\|Gibbering mouther]] |
+| 19 | [[/5. Mechanics/Bestiary/Elemental/Gargoyle.md\|Gargoyle]] |
 | 20 | New life form* |
 ^creature
 

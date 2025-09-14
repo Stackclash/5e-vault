@@ -51,7 +51,7 @@ Very few Scavenger rogues chose to follow this archetype; usually this path is c
 
 ### Cut and Run (Level 3)
 
-Starting at 3rd level, you learn to minimise danger by darting in and out of battle. Whenever you use your [Sneak Attack](compendium/classes/rogue.md#Sneak%20Attack%20(Level%201)) feature against a target, you regain all expended speed you may have used that turn.
+Starting at 3rd level, you learn to minimise danger by darting in and out of battle. Whenever you use your [Sneak Attack](/compendium/classes/rogue.md#Sneak%20Attack%20(Level%201)) feature against a target, you regain all expended speed you may have used that turn.
 
 ### Waste Not Want Not (Level 3)
 

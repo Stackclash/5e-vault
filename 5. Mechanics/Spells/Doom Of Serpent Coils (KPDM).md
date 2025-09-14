@@ -20,16 +20,29 @@ classes:
   - Wizard
 school: Necromancy
 level: 4
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - poison
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self (10-foot Radius)
+somatic: true
+verbal: true
+material: a vial of poison
+area:
+  shape: radius
+  size: 10
 aliases:
   - Doom of Serpent Coils
-material: a vial of poison
 ---
 # Doom of Serpent Coils
 *4th-level, Necromancy*  
@@ -43,6 +56,6 @@ You drink a dose of venom or other poison and spread the effect to other living 
 
 Multiple castings of this spell have no additional effect on creatures that are already [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] by it. The effect can be ended by protection from poison or comparable magic.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 62*

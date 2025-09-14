@@ -17,7 +17,7 @@ tags:
 aliases:
   - Wereboar
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Wereboar.md|Wereboar]]
+# [[5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]]
 *Source: Monster Manual p. 209, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Wereboars are ill-tempered and vulgar brutes. As humanoids, they are stocky and muscular, with short, stiff hair. In their humanoid and hybrid forms, they use heavy weapons, while in hybrid or animal form, they gain a devastating goring attack through which their curse is spread. A wereboar infects other creatures indiscriminately, relishing the fact that the more its victims resist the curse, the more savage and bestial they become.
@@ -32,7 +32,7 @@ Evil lycanthropes hide among normal folk, emerging in animal form at night to sp
 
 ### Curse of Lycanthropy
 
-A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
+A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
 
 A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form-or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams.
 
@@ -46,15 +46,15 @@ Some individuals see little point in fighting the curse and accept what they are
 > 
 > The following information applies to specific lycanthropes.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[/5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[[/5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]].** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
+> **[[/5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]].** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]].** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[[/5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]].** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]].** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]].** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 ^player-characters-as-lycanthropes
 
 ```statblock
@@ -101,17 +101,17 @@ Some individuals see little point in fighting the curse and accept what they are
 "actions":
   - "desc": "The wereboar makes two attacks, only one of which can be with its tusks."
     "name": "Multiattack (Humanoid or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) bludgeoning damage."
     "name": "Maul (Humanoid or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on\
       \ a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy."
     "name": "Tusks (Boar or Hybrid Form Only)"
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Humanoid/token/wereboar.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/wereboar.webp"
 ```
 ^statblock
 

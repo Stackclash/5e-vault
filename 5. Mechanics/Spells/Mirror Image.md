@@ -33,12 +33,11 @@ level: 2
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Mirror Image
-range: Self
 ---
 # Mirror Image
 *2nd-level, Illusion*  
@@ -58,6 +57,6 @@ A duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplic
 
 A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [Sorcerer (Fey Soul)](compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Artificer (Armorer)](compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [Cleric (Prophecy Domain)](compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [Artificer (Armorer)](/compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Prophecy Domain)](/compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Fey Soul)](/compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

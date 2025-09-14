@@ -16,7 +16,7 @@ tags:
 aliases:
   - Bodak
 ---
-# [[5. Mechanics\Bestiary\Undead\Bodak (MPMM).md|Bodak]]
+# [[5. Mechanics/Bestiary/Undead/Bodak (MPMM).md|Bodak]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127*
 
 A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.
@@ -55,7 +55,8 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 14"
 "languages": "Abyssal, the languages it knew in life"
 "cr": "6"
 "traits":
@@ -77,7 +78,7 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
   - "desc": "The bodak doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) bludgeoning damage plus 9 (2d8) necrotic damage."
     "name": "Fist"
   - "desc": "One creature that the bodak can see within 60 feet of it must make a\
@@ -92,7 +93,7 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Undead/token/bodak-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/bodak-mpmm.webp"
 ```
 ^statblock
 

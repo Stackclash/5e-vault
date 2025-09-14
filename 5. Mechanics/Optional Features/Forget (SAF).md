@@ -23,4 +23,4 @@ Pick a target and choose a spell the target knows. Spend charges equal in number
 
 ## Weapons:
 
-Pick a target and choose a weapon. Spend 3 extra charges. The target must make a Wisdom saving throw. On a failed save, the target does not gain the benefit of their proficiency bonus with the chosen kind of weapon while the effect lasts. (For example, they might forget how to use a [[5. Mechanics/Items/Longsword.md\|longsword]], but still gain their proficiency benefit with [[5. Mechanics/Items/Shortsword.md\|shortswords]].)
+Pick a target and choose a weapon. Spend 3 extra charges. The target must make a Wisdom saving throw. On a failed save, the target does not gain the benefit of their proficiency bonus with the chosen kind of weapon while the effect lasts. (For example, they might forget how to use a [[/5. Mechanics/Items/Longsword.md\|longsword]], but still gain their proficiency benefit with [[/5. Mechanics/Items/Shortsword.md\|shortswords]].)

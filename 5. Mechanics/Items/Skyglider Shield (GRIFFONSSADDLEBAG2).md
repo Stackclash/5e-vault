@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Skyglider Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Skyglider-Shield.webp#right)  
 
 - **Armor Class**: 2

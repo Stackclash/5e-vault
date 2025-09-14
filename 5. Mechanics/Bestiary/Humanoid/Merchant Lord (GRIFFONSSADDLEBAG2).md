@@ -13,7 +13,7 @@ tags:
 aliases:
   - Merchant Lord
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Merchant Lord (GRIFFONSSADDLEBAG2).md|Merchant Lord]]
+# [[5. Mechanics/Bestiary/Humanoid/Merchant Lord (GRIFFONSSADDLEBAG2).md|Merchant Lord]]
 *Source: The Griffon's Saddlebag, Book 2 p. 339*
 
 Within the Mercantile Guild, the most powerful, skilled, and experienced members are known as Merchant Lords. They typically occupy a notable position in one of Antronec's public service departments, hold a government office, or are major players in their black market. These individuals are truly masters of deception and manipulation of commerce, working behind the scenes to direct the populace and maintain their city.
@@ -25,7 +25,7 @@ Within the Mercantile Guild, the most powerful, skilled, and experienced members
 "subtype": "any race"
 "alignment": "Neutral"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
 "modifier": !!int "3"
@@ -38,8 +38,8 @@ Within the Mercantile Guild, the most powerful, skilled, and experienced members
   - !!int "18"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+5"
-  - "charisma": "+6"
+  - "dexterity": !!int "5"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+3"
@@ -54,22 +54,22 @@ Within the Mercantile Guild, the most powerful, skilled, and experienced members
 "cr": "3"
 "traits":
   - "desc": "The merchant is a 7th-level spellcaster. Their spellcasting ability is\
-      \ Charisma (spell save DC 14). They know the following bard spells:\n\nCantrips\
-      \ (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Mending.md|mending]],\
-      \ [[5. Mechanics/Spells/Message.md|message]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-      \n1st level (4 slots): [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
-      \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Identify.md|identify]],\
-      \ [[5. Mechanics/Spells/Unseen Servant.md|unseen servant]]\n\n2nd level (3 slots):\
-      \ [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Locate Object.md|locate object]],\
-      \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n3rd level (3 slots):\
-      \ [[5. Mechanics/Spells/Glyph Of Warding.md|glyph of warding]], [[5. Mechanics/Spells/Sending.md|sending]]\n\
-      \n4th level (1 slots): [[5. Mechanics/Spells/Leomunds Secret Chest.md|secret chest]]"
+      \ Charisma (spell save DC 14). They know the following bard spells:\n\n**Cantrips\
+      \ (at will):** [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Mending.md|mending]],\
+      \ [[/5. Mechanics/Spells/Message.md|message]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+      \n**1st level (4 slots):** [[/5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
+      \ [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Identify.md|identify]],\
+      \ [[/5. Mechanics/Spells/Unseen Servant.md|unseen servant]]\n\n**2nd level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/5. Mechanics/Spells/Locate Object.md|locate object]],\
+      \ [[/5. Mechanics/Spells/Suggestion.md|suggestion]]\n\n**3rd level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Glyph Of Warding.md|glyph of warding]], [[/5. Mechanics/Spells/Sending.md|sending]]\n\
+      \n**4th level (1 slots):** [[/5. Mechanics/Spells/Leomunds Secret Chest.md|secret chest]]"
     "name": "Spellcasting"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) piercing damage."
     "name": "Rapier"
-  - "desc": "Ranged Spell Attack: +6 to hit, range 60 ft., one target. Hit: 1\
+  - "desc": "*Ranged Spell Attack:* +6 to hit, range 60 ft., one target. *Hit:* 1\
       \ bludgeoning damage plus 13 (2d12) thunder damage."
     "name": "Magic Coin"
   - "desc": "The merchant enchants a coin in its hand with divination magic, which\

@@ -18,9 +18,9 @@ You can clasp or remove this metal bracelet around the wrist or ankle of yoursel
 
 | Rarity | Ward Hit Points |
 |--------|-----------------|
-| [[5. Mechanics/Items/Abjurers Bangle Uncommon (GRIFFONSSADDLEBAG2).md\|Uncommon]] | 30 |
-| [[5. Mechanics/Items/Abjurers Bangle Rare (GRIFFONSSADDLEBAG2).md\|Rare]] | 75 |
-| [[5. Mechanics/Items/Abjurers Bangle Very Rare (GRIFFONSSADDLEBAG2).md\|Very Rare]] | 120 |
+| [[/5. Mechanics/Items/Abjurers Bangle Uncommon (GRIFFONSSADDLEBAG2).md\|Uncommon]] | 30 |
+| [[/5. Mechanics/Items/Abjurers Bangle Rare (GRIFFONSSADDLEBAG2).md\|Rare]] | 75 |
+| [[/5. Mechanics/Items/Abjurers Bangle Very Rare (GRIFFONSSADDLEBAG2).md\|Very Rare]] | 120 |
 ^rarity-ward-hit-points
 
 *Source: The Griffon's Saddlebag, Book 2 p. 32*

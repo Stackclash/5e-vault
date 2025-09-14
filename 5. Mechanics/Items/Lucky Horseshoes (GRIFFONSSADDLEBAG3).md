@@ -19,6 +19,6 @@ Lucky horseshoes normally come in a set of four: one for each of a horse's hoove
 
 Each horseshoe has this property. When a creature wearing the shoes either misses with an attack roll or fails an ability check or saving throw, it can use its reaction to automatically hit or succeed on the roll instead. When this happens, one of the horseshoes immediately tarnishes and loses this property.
 
-This effect can't allow the creature to do the impossible. For example, even with the aid of a lucky horseshoe, a horse can't succeed on an ability check in such a way that allows it to magically fly doing that would require a set of [[5. Mechanics/Items/Horseshoes Of A Zephyr.md\|horseshoes of a zephyr]] instead.
+This effect can't allow the creature to do the impossible. For example, even with the aid of a lucky horseshoe, a horse can't succeed on an ability check in such a way that allows it to magically fly doing that would require a set of [[/5. Mechanics/Items/Horseshoes Of A Zephyr.md\|horseshoes of a zephyr]] instead.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

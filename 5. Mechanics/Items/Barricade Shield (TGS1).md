@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Barricade Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), minor, uncommon*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Barricade-Shield.webp#right)  
 
 - **Armor Class**: 2

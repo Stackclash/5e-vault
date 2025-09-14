@@ -13,7 +13,7 @@ armorClass: 18
 weight: 65
 ---
 # Solacesteel Plate
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare (requires attunement)*  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Solacesteel-Plate.webp#right)  
 
 - **Armor Class**: 18

@@ -55,13 +55,13 @@ Trophy hunters are very often found in adventurer's guilds or mercenary halls, h
 
 ### Bonus Proficiencies (Level 3)
 
-When you join the College of Trophy Hunters at 3rd level, you gain proficiency in [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]] checks and [[5. Mechanics/Items/Harvesting Kit (HHHVI).md\|harvesting kits]], and you always add your proficiency bonus when making "Appraisal checks", even if you do not have the relevant skill for that creature type.
+When you join the College of Trophy Hunters at 3rd level, you gain proficiency in [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]] checks and [[/5. Mechanics/Items/Harvesting Kit (HHHVI).md\|harvesting kits]], and you always add your proficiency bonus when making "Appraisal checks", even if you do not have the relevant skill for that creature type.
 
 ### Harvest Trophy (Level 3)
 
 Starting at 3rd level, you gain a true appreciation for the history of objects and keepsakes, allowing you to draw inspirational power from the materials you harvest. Whenever you successfully harvest a material from a creature you helped kill, you may designate it as one of your trophies. A trophy must weigh less than 10 pounds and be able to be held aloft in one hand. You may have a number of trophies equal to your Charisma modifier (minimum of one). If you exceed this number, you must replace one of your current trophies with your newest addition.
 
-When you use your [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)), you may choose to also hold one of your trophies aloft, granting an extra benefit to the creature you inspired. In addition to the normal bonus gained from your inspiration dice, a creature that used that dice may also roll their ability check, attack roll, or saving throw with advantage if that roll was made in relation to a creature that has the same creature type as the one the trophy was made from. For example, if your target gained inspiration from a trophy taken from an aberrant, they would be able to gain advantage on attack rolls made against aberrants, saving throws made to resist an aberrant's spells, and ability checks made to track an aberrant if they used the inspiration die on that roll.
+When you use your [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)), you may choose to also hold one of your trophies aloft, granting an extra benefit to the creature you inspired. In addition to the normal bonus gained from your inspiration dice, a creature that used that dice may also roll their ability check, attack roll, or saving throw with advantage if that roll was made in relation to a creature that has the same creature type as the one the trophy was made from. For example, if your target gained inspiration from a trophy taken from an aberrant, they would be able to gain advantage on attack rolls made against aberrants, saving throws made to resist an aberrant's spells, and ability checks made to track an aberrant if they used the inspiration die on that roll.
 
 ### Grim Keepsake (Level 6)
 

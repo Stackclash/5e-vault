@@ -53,9 +53,9 @@ A fey mystique surrounds you, thanks to the boon of an archfey, the shining frui
 
 *3rd-level Fey Wanderer feature*
 
-You can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra `dice:1d4|noform|noparens|avg` (`d4`) psychic damage to the target, which can take this extra damage only once per turn.
+You can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra `dice:1d4|noform|noparens|avg` (`1d4`) psychic damage to the target, which can take this extra damage only once per turn.
 
-The extra damage increases to `dice:1d6|noform|noparens|avg` (`d6`) when you reach 11th level in this class.
+The extra damage increases to `dice:1d6|noform|noparens|avg` (`1d6`) when you reach 11th level in this class.
 
 ### Fey Wanderer Magic (Level 3)
 
@@ -67,11 +67,11 @@ You learn an additional spell when you reach certain levels in this class, as sh
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[5. Mechanics/Spells/Charm Person.md\|charm person]] |
-| 5th | [[5. Mechanics/Spells/Misty Step.md\|misty step]] |
-| 9th | [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] |
-| 13th | [[5. Mechanics/Spells/Dimension Door.md\|dimension door]] |
-| 17th | [[5. Mechanics/Spells/Mislead.md\|mislead]] |
+| 3rd | [[/5. Mechanics/Spells/Charm Person.md\|charm person]] |
+| 5th | [[/5. Mechanics/Spells/Misty Step.md\|misty step]] |
+| 9th | [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] |
+| 13th | [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]] |
+| 17th | [[/5. Mechanics/Spells/Mislead.md\|mislead]] |
 ^fey-wanderer-spells
 
 You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.
@@ -110,7 +110,7 @@ In addition, whenever you or a creature you can see within 120 feet of you succe
 
 *11th-level Fey Wanderer feature*
 
-The royal courts of the Feywild have blessed you with the assistance of fey beings: you know [[5. Mechanics/Spells/Summon Fey (TCE).md\|summon fey]]. It doesn't count against the number of ranger spells you know, and you can cast it without a material component. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
+The royal courts of the Feywild have blessed you with the assistance of fey beings: you know [[/5. Mechanics/Spells/Summon Fey (TCE).md\|summon fey]]. It doesn't count against the number of ranger spells you know, and you can cast it without a material component. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
 
 Whenever you start casting the spell, you can modify it so that it doesn't require [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]]. If you do so, the spell's duration becomes 1 minute for that casting.
 
@@ -118,6 +118,6 @@ Whenever you start casting the spell, you can modify it so that it doesn't requi
 
 *15th-level Fey Wanderer feature*
 
-You can slip in and out of the Feywild to move in a blink of an eye: you can cast [[5. Mechanics/Spells/Misty Step.md\|misty step]] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+You can slip in and out of the Feywild to move in a blink of an eye: you can cast [[/5. Mechanics/Spells/Misty Step.md\|misty step]] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 In addition, whenever you cast *misty step*, you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.

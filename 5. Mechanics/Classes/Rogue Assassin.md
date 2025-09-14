@@ -57,7 +57,7 @@ Starting at 3rd level, you are at your deadliest when you get the drop on your e
 
 ### Bonus Proficiencies (Level 3)
 
-When you choose this archetype at 3rd level, you gain proficiency with the [[5. Mechanics/Items/Disguise Kit.md\|disguise kit]] and the [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]].
+When you choose this archetype at 3rd level, you gain proficiency with the [[/5. Mechanics/Items/Disguise Kit.md\|disguise kit]] and the [[/5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]].
 
 ### Infiltration Expertise (Level 9)
 

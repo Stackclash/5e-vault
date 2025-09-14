@@ -19,7 +19,7 @@ tags:
 aliases:
   - Bandit Captain
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Bandit Captain.md|Bandit Captain]]
+# [[5. Mechanics/Bestiary/Humanoid/Bandit Captain.md|Bandit Captain]]
 *Source: Monster Manual p. 344, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades.
@@ -35,7 +35,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 "subtype": "any race"
 "alignment": "Any Non-Lawful alignment"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -48,9 +48,9 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
   - !!int "14"
 "speed": "30 ft."
 "saves":
-  - "strength": "+4"
-  - "dexterity": "+5"
-  - "wisdom": "+2"
+  - "strength": !!int "4"
+  - "dexterity": !!int "5"
+  - "wisdom": !!int "2"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+4"
@@ -63,11 +63,11 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
   - "desc": "The captain makes three melee attacks: two with its scimitar and one\
       \ with its dagger. Or the captain makes two ranged attacks with its daggers."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage."
     "name": "Scimitar"
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage."
     "name": "Dagger"
 "reactions":
   - "desc": "The captain adds 2 to its AC against one melee attack that would hit\
@@ -76,7 +76,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/bandit-captain.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/bandit-captain.webp"
 ```
 ^statblock
 

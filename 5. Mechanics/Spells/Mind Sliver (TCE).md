@@ -25,28 +25,42 @@ classes:
   - Warlock
   - Wizard
 school: Enchantment
-level: cantrip
+level: 0
+damage:
+  base: 1d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Intelligence
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
+range: 60 feet
+somatic: false
+verbal: true
 aliases:
   - Mind Sliver
 ---
 # Mind Sliver
 *cantrip, Enchantment*  
-![[5. Mechanics/Spells/img/mind-sliver.webp#right]]  
+![[/5. Mechanics/Spells/img/mind-sliver.webp#right]]  
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** 1 round
 
-You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must succeed on an Intelligence saving throw or take `dice:1d6|noform|noparens|avg` (`d6`) psychic damage and subtract `dice:1d4|noform|noparens|avg` (`d4`) from the next saving throw it makes before the end of your next turn.
+You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must succeed on an Intelligence saving throw or take `dice:1d6|noform|noparens|avg` (`1d6`) psychic damage and subtract `dice:1d4|noform|noparens|avg` (`1d4`) from the next saving throw it makes before the end of your next turn.
 
-This spell's damage increases by `dice:1d6|noform|noparens|avg` (`d6`) when you reach certain levels: 5th level (`dice:2d6|noform|noparens|avg` (`2d6`)), 11th level (`dice:3d6|noform|noparens|avg` (`3d6`)), and 17th level (`dice:4d6|noform|noparens|avg` (`4d6`)).
+This spell's damage increases by `dice:1d6|noform|noparens|avg` (`1d6`) when you reach certain levels: 5th level (`dice:2d6|noform|noparens|avg` (`2d6`)), 11th level (`dice:3d6|noform|noparens|avg` (`3d6`)), and 17th level (`dice:4d6|noform|noparens|avg` (`4d6`)).
 
-**Classes**: [Sorcerer (Aberrant Mind)](compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Aberrant Mind)](/compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Tasha's Cauldron of Everything p. 108*

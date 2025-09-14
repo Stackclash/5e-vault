@@ -13,7 +13,7 @@ tags:
 aliases:
   - Barovian Commoner
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Barovian Commoner (COS).md|Barovian Commoner]]
+# [[5. Mechanics/Bestiary/Humanoid/Barovian Commoner (COS).md|Barovian Commoner]]
 *Source: Curse of Strahd p. 29*
 
 ```statblock
@@ -38,12 +38,12 @@ aliases:
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (d6)\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
       \ piercing damage."
     "name": "Pitchfork"
 "source":
   - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/barovian-commoner-cos.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/barovian-commoner-cos.webp"
 ```
 ^statblock
 

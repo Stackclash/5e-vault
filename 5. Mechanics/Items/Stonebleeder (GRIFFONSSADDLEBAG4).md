@@ -13,7 +13,7 @@ two-hand-damage: 1d10 slashing
 weight: 4
 ---
 # Stonebleeder
-*Weapon ([[5. Mechanics/Items/Battleaxe.md\|battleaxe]]), rare*  
+*Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Stonebleeder.webp#right)  
 
 - **Damage**:

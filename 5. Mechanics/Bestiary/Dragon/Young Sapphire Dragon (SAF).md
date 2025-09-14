@@ -13,7 +13,7 @@ tags:
 aliases:
   - Young Sapphire Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Young Sapphire Dragon (SAF).md|Young Sapphire Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Young Sapphire Dragon (SAF).md|Young Sapphire Dragon]]
 *Source: Strongholds and Followers p. 215*
 
 Eldest, first, the sapphire dragons inspire awe in any who see them. They guard the knowledge of past and future and the power that lets one shift between them. They approve of the dwarves, who imposed the rigid rules of causality on the world, and consider the remnant domains of the elves, the wodes, as a danger. Not a threat per se, because they know it is in the elves' nature to ignore past and future, but when mortals exploit this or discover the means to move through time, or summon creatures from the past and future, then the sapphire dragons get riled up.
@@ -41,10 +41,10 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
   - !!int "17"
 "speed": "40 ft., fly 80 ft. (hover)"
 "saves":
-  - "dexterity": "+7"
-  - "intelligence": "+8"
-  - "wisdom": "+7"
-  - "charisma": "+7"
+  - "dexterity": !!int "7"
+  - "intelligence": !!int "8"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+8"
@@ -55,12 +55,13 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+8"
 "damage_vulnerabilities": "psychic"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 21"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 21"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "10"
 "traits":
-  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
-      \ Charges: 17 • Recharge: d6 • Fracture: 17"
+  - "desc": "**[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].**\
+      \ **Charges:** 17 **• Recharge:** 1d6 **• Fracture:** 17"
     "name": ""
   - "desc": "All creatures within 30 feet must make a DC 16 Charisma saving throw\
       \ in order to attack this dragon. On a failed save, the attacking creature's\
@@ -70,10 +71,10 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 15\
       \ (2d10 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage."
     "name": "Claw"
 "source":

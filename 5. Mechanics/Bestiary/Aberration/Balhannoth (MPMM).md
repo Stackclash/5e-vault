@@ -16,7 +16,7 @@ tags:
 aliases:
   - Balhannoth
 ---
-# [[5. Mechanics\Bestiary\Aberration\Balhannoth (MPMM).md|Balhannoth]]
+# [[5. Mechanics/Bestiary/Aberration/Balhannoth (MPMM).md|Balhannoth]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 55, Mordenkainen's Tome of Foes p. 119*
 
 Native to the Shadowfell, the vicious, predatory balhannoth alters reality in its lair to make the place appear inviting to travelers. A limited form of telepathy enables a balhannoth to identify images of places where its prey expects their needs and desires to be met, such as an inn or a temple offering healing. It then warps reality around itself, hiding itself and remaking its environment to resemble such a place. The imitation is imperfect, but it's good enough to fool greedy or desperate creatures. Once its prey enters the trap, it snatches the targets and teleports away to feed on their fear and despair.
@@ -46,12 +46,13 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
   - !!int "8"
 "speed": "25 ft., climb 25 ft."
 "saves":
-  - "constitution": "+8"
+  - "constitution": !!int "8"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]"
-"senses": "blindsight 500 ft. (blind beyond this radius), passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 500 ft. (blind beyond\
+  \ this radius), passive Perception 16"
 "languages": "understands Deep Speech, telepathy 1 mile"
 "cr": "11"
 "traits":
@@ -60,16 +61,51 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
 "actions":
   - "desc": "The balhannoth makes one Bite attack and two Tentacle attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 19\
       \ (3d10 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 10\
       \ (2d6 + 3) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this\
       \ grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
       \ and the balhannoth can't use this tentacle against other targets. The balhannoth\
       \ has four tentacles."
     "name": "Tentacle"
+"lair_actions":
+  - "desc": "On initiative count 20 (losing initiative ties), a balhannoth can take\
+      \ one of the following lair actions; the balhannoth can't take the same lair\
+      \ action two rounds in a row:\n\n- **Teleport.** The balhannoth targets one\
+      \ creature within 500 feet of it. The target must succeed on a DC 16 Wisdom\
+      \ saving throw, or the target, along with whatever it is wearing and carrying,\
+      \ teleports to an unoccupied space of the balhannoth's choice within 60 feet\
+      \ of it.  \n- **Vanish.** The balhannoth targets one creature within 500 feet\
+      \ of it. The target must succeed on a DC 16 Wisdom saving throw, or the balhannoth\
+      \ becomes [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]] to that creature\
+      \ for 1 minute. This effect ends if the balhannoth attacks the target.  \n-\
+      \ **Warp Terrain.** The balhannoth warps reality around it in an area up to\
+      \ 500 feet square. After 10 minutes, the terrain in the area reshapes to assume\
+      \ the appearance of a location sought by one Humanoid whose desires the balhannoth\
+      \ has sensed (see Regional Effects below). The transformation affects nonliving\
+      \ material only and can't create anything with moving parts or magical properties.\
+      \ Any object created in this area is, upon close inspection, revealed as a fake.\
+      \ Books are filled with empty pages, golden items are obvious counterfeits,\
+      \ and so on. The transformation lasts until the balhannoth dies or takes this\
+      \ lair action again.  "
+    "name": ""
+"regional_effects":
+  - "desc": "A region containing a balhannoth's lair becomes warped by the creature's\
+      \ unnatural presence, which creates one or more of the following effects:\n\n\
+      - **Sense Desires.** The balhannoth can sense the strongest desires of any Humanoid\
+      \ within 1 mile of it and learns whether those desires involve a place: a safe\
+      \ location to rest, such as a temple, a home, or somewhere else.  \n- **Supernatural\
+      \ Lure.** Creatures within 1 mile of the balhannoth's lair experience the sensation\
+      \ of being close to whatever they desire most. The sensation grows stronger\
+      \ the closer the creatures come to the balhannoth's lair.  \n\nIf the balhannoth\
+      \ dies, these effects end immediately."
+    "name": ""
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the balhannoth can expend a use to take one of the following actions. The\
+  \ balhannoth regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The balhannoth makes one Bite attack against one creature it has [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]."
     "name": "Bite"
@@ -80,46 +116,10 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
   - "desc": "The balhannoth magically becomes [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
       \ for up to 10 minutes or until immediately after it makes an attack roll."
     "name": "Vanish"
-"lair_actions":
-  - "desc": "On initiative count 20 (losing initiative ties), a balhannoth can take\
-      \ one of the following lair actions; the balhannoth can't take the same lair\
-      \ action two rounds in a row:"
-    "name": ""
-  - "desc": "- Teleport. The balhannoth targets one creature within 500 feet of\
-      \ it. The target must succeed on a DC 16 Wisdom saving throw, or the target,\
-      \ along with whatever it is wearing and carrying, teleports to an unoccupied\
-      \ space of the balhannoth's choice within 60 feet of it.  \n- Vanish. The\
-      \ balhannoth targets one creature within 500 feet of it. The target must succeed\
-      \ on a DC 16 Wisdom saving throw, or the balhannoth becomes [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
-      \ to that creature for 1 minute. This effect ends if the balhannoth attacks\
-      \ the target.  \n- Warp Terrain. The balhannoth warps reality around it\
-      \ in an area up to 500 feet square. After 10 minutes, the terrain in the area\
-      \ reshapes to assume the appearance of a location sought by one Humanoid whose\
-      \ desires the balhannoth has sensed (see Regional Effects below). The transformation\
-      \ affects nonliving material only and can't create anything with moving parts\
-      \ or magical properties. Any object created in this area is, upon close inspection,\
-      \ revealed as a fake. Books are filled with empty pages, golden items are obvious\
-      \ counterfeits, and so on. The transformation lasts until the balhannoth dies\
-      \ or takes this lair action again.  "
-    "name": ""
-"regional_effects":
-  - "desc": "A region containing a balhannoth's lair becomes warped by the creature's\
-      \ unnatural presence, which creates one or more of the following effects:"
-    "name": ""
-  - "desc": "- Sense Desires. The balhannoth can sense the strongest desires of\
-      \ any Humanoid within 1 mile of it and learns whether those desires involve\
-      \ a place: a safe location to rest, such as a temple, a home, or somewhere else.\
-      \  \n- Supernatural Lure. Creatures within 1 mile of the balhannoth's lair\
-      \ experience the sensation of being close to whatever they desire most. The\
-      \ sensation grows stronger the closer the creatures come to the balhannoth's\
-      \ lair.  "
-    "name": ""
-  - "desc": "If the balhannoth dies, these effects end immediately."
-    "name": ""
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/balhannoth-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/balhannoth-mpmm.webp"
 ```
 ^statblock
 

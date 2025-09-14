@@ -18,7 +18,7 @@ tags:
 aliases:
   - Barghest
 ---
-# [[5. Mechanics\Bestiary\Fiend\Barghest (MPMM).md|Barghest]]
+# [[5. Mechanics/Bestiary/Fiend/Barghest (MPMM).md|Barghest]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123*
 
 Long ago, the god Maglubiyet—conqueror and then lord of early goblinoids—bargained with the General of Gehenna for aid. The General provided yugoloths, which then died in service to Maglubiyet. Yet when the time came to honor his part of the compact, Maglubiyet reneged on the deal. In vengeance, the General of Gehenna created the soul-devouring barghests to devour goblinoid souls.
@@ -60,7 +60,8 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
   \ attacks"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Goblin, Infernal, telepathy 60 ft."
 "cr": "4"
 "traits":
@@ -79,18 +80,18 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "actions":
   - "desc": "The barghest makes one Bite attack and one Claw attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage."
     "name": "Claw"
   - "desc": "The barghest casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-      \nAt will: [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
-      \ [[5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\n1/day each:\
-      \ [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Dimension Door.md|dimension door]],\
-      \ [[5. Mechanics/Spells/Suggestion.md|suggestion]]"
+      \n**At will:** [[/5. Mechanics/Spells/Levitate.md|levitate]], [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]],\
+      \ [[/5. Mechanics/Spells/Pass Without Trace.md|pass without trace]]\n\n**1/day\
+      \ each:** [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Dimension Door.md|dimension door]],\
+      \ [[/5. Mechanics/Spells/Suggestion.md|suggestion]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The barghest transforms into a Small goblin or back into its true form.\
@@ -101,7 +102,7 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Fiend/token/barghest-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/barghest-mpmm.webp"
 ```
 ^statblock
 

@@ -12,14 +12,20 @@ classes:
   - Wizard
 school: Transmutation
 level: 1
+damage:
+  base: 1d6
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
+duration: 'Concentration, up to 1 hour'
+range: Self
+somatic: false
+verbal: true
 aliases:
   - Bottomless Stomach
-concentration: true
 ---
 # Bottomless Stomach
 *1st-level, Transmutation*  
@@ -33,10 +39,10 @@ When you cast this spell, you gain the ability to consume dangerous substances a
 
 The spell allows you to store up to 10 gallons of liquid at one time. The liquid doesn't need to all be of the same type, and different types don't mix while in your stomach. Any liquid in excess of 10 gallons has its normal effect when you try to swallow it.
 
-At any time before you stop concentrating on the spell, you can regurgitate up to 1 gallon of liquid stored in your stomach as a bonus action. The liquid is vomited into an adjacent 5-foot square. A target in that square must succeed on a DC 15 Dexterity saving throw or be affected by the liquid. The GM determines the exact effect based on the type of liquid regurgitated, using `dice:1d6|noform|noparens|avg` (`d6`) damage of the appropriate type as the baseline.
+At any time before you stop concentrating on the spell, you can regurgitate up to 1 gallon of liquid stored in your stomach as a bonus action. The liquid is vomited into an adjacent 5-foot square. A target in that square must succeed on a DC 15 Dexterity saving throw or be affected by the liquid. The GM determines the exact effect based on the type of liquid regurgitated, using `dice:1d6|noform|noparens|avg` (`1d6`) damage of the appropriate type as the baseline.
 
 When you stop concentrating on the spell, its duration expires, or it's dispelled, the extradimensional reservoir and the liquid it contains cease to exist.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 165*

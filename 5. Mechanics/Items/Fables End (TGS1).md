@@ -14,7 +14,7 @@ one-hand-damage: 1d6 bludgeoning
 weight: 4
 ---
 # Fable's End
-*Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Fables-End.webp#right)  
 
 - **Damage**: 1d6 bludgeoning

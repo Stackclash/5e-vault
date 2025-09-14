@@ -14,16 +14,22 @@ classes:
   - Wizard
 school: Illusion
 level: 8
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Self (60-foot Radius)
+somatic: false
+verbal: true
+material: 'a discolored pearl, which the spell consumes'
+area:
+  shape: radius
+  size: 60
 aliases:
   - Black Sunshine
-concentration: true
-material: 'a discolored pearl, which the spell consumes'
 ---
 # Black Sunshine
 *8th-level, Illusion*  
@@ -37,6 +43,6 @@ You hold up a flawed pearl and it disappears, leaving behind a magic orb in your
 
 The orb can be used as a thrown weapon to attack an enemy. On a hit, the orb explodes in a flash of light and the spell ends. The targeted enemy and each creature within 10 feet of it must make a successful Dexterity saving throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] for 1 minute. A creature [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] in this way repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 43*

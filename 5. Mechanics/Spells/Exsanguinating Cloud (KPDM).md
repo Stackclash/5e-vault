@@ -18,15 +18,28 @@ classes:
   - Wizard
 school: Necromancy
 level: 5
+damage:
+  base: 6d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 5 minutes
-components:
-  - V
-  - S
+duration: 'Concentration, up to 5 minutes'
+range: 100 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Exsanguinating Cloud
-concentration: true
 ---
 # Exsanguinating Cloud
 *5th-level, Necromancy*  
@@ -40,6 +53,6 @@ When you cast this spell, a rose-colored mist billows up in a 20-foot radius, ce
 
 This cloud leaches the blood or similar fluid from creatures in the area. It doesn't affect undead or constructs. Any creature in the cloud when it's created or at the start of your turn takes `dice:6d6|noform|noparens|avg` (`6d6`) necrotic damage and gains one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]; a successful Constitution saving throw halves the damage and prevents the [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 320*

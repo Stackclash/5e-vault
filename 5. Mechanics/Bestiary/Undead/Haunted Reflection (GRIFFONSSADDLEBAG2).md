@@ -13,7 +13,7 @@ tags:
 aliases:
   - Haunted Reflection
 ---
-# [[5. Mechanics\Bestiary\Undead\Haunted Reflection (GRIFFONSSADDLEBAG2).md|Haunted Reflection]]
+# [[5. Mechanics/Bestiary/Undead/Haunted Reflection (GRIFFONSSADDLEBAG2).md|Haunted Reflection]]
 *Source: The Griffon's Saddlebag, Book 2 p. 356*
 
 When an eminently-wrathful soul is murdered within view of a mirror, it can sometimes become trapped within. This haunted reflection can only interact with the material plane in a very limited fashion, but is dangerous nonetheless. With concentrated rage as it's weapon, it hunts those that it deems undeserving of life, that still possess the joy it no longer can. Those who wish to confront a reflection should be especially wary of using magic against it, lest they find themselves suffering from the rebounded spell. They should also take care to destroy other reflective surfaces nearby, lest it escape.
@@ -41,7 +41,7 @@ A haunted reflection doesn't require air, food, drink, or sleep.
   - !!int "16"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
-  - "constitution": "+5"
+  - "constitution": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+5"
@@ -53,7 +53,8 @@ A haunted reflection doesn't require air, food, drink, or sleep.
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": "understands any languages it knew in life but can't speak"
 "cr": "3"
 "traits":

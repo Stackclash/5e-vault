@@ -13,7 +13,7 @@ armorClass: 14 + Dex modifier (max of +2)
 weight: 20
 ---
 # Breastplate of the Morning Light
-*Medium armor ([[5. Mechanics/Items/Breastplate.md\|breastplate]]), major, rare (requires attunement by a cleric or paladin)*  
+*Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), major, rare (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Breastplate-of-the-Morning-Light.webp#right)  
 
 - **Armor Class**: 14 + Dex modifier (max of +2)

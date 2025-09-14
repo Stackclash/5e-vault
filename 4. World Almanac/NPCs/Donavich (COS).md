@@ -10,7 +10,7 @@ tags:
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\donavich.webp
+  - ../../../../../4. World Almanac/NPCs/img/donavich.webp
 relationships: []
 aliases:
   - Donavich
@@ -55,7 +55,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 46*
@@ -138,18 +138,18 @@ actions:
 "traits":
   - "desc": "Donavich is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). Donavich has following cleric\
-      \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Light.md|light]],\
-      \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-      \n1st level (3 slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-      \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]"
+      \ spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Light.md|light]],\
+      \ [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+      \n**1st level (3 slots):** [[/5. Mechanics/Spells/Bless.md|bless]], [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+      \ [[/5. Mechanics/Spells/Sanctuary.md|sanctuary]]"
     "name": "Spellcasting"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
       \ bludgeoning damage."
     "name": "Club"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/donavich-cos.webp"
+"image": "/4. World Almanac/NPCs/token/donavich-cos.webp"
 ```
 ^statblock
 

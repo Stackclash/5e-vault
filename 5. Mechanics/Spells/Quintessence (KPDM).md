@@ -14,15 +14,21 @@ classes:
   - Wizard
 school: Transmutation
 level: 8
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Self (120-foot Radius)
+somatic: true
+verbal: true
+area:
+  shape: radius
+  size: 120
 aliases:
   - Quintessence
-concentration: true
 ---
 # Quintessence
 *8th-level, Transmutation*  
@@ -36,6 +42,6 @@ By calling upon an archangel, you become infused with celestial essence and take
 
 In addition, each hostile creature that starts its turn within 120 feet of you or enters that area for the first time on a turn must succeed on a Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] for 1 minute. A creature [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] in this way is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. A [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or if the effect ends for it, the creature is immune to the frightening effect of the spell until you cast *quintessence* again.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 177*

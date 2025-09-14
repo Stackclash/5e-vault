@@ -13,7 +13,7 @@ tags:
 aliases:
   - Chasme
 ---
-# [[5. Mechanics\Bestiary\Fiend\Chasme.md|Chasme]]
+# [[5. Mechanics/Bestiary/Fiend/Chasme.md|Chasme]]
 *Source: Monster Manual p. 57*
 
 This loathsome demon resembles an unspeakable crossing of humanoid and fly. A chasme shuffles about on four spindly legs that can find purchase on walls and ceilings. A droning sound precedes the approach of a chasme, inflicting foes with a terrible lethargy that leaves them open to attack.
@@ -169,13 +169,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`d8`) vrocks, `dice:1d6|noform|noparens|avg` (`d6`) hezrous, `dice:1d4|noform|noparens|avg` (`d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`1d8`) vrocks, `dice:1d6|noform|noparens|avg` (`1d6`) hezrous, `dice:1d4|noform|noparens|avg` (`1d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`1d2`) mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`d3`) vrocks, `dice:1d2|noform|noparens|avg` (`d2`) hezrous, or one glabrezu.  
+> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`1d3`) vrocks, `dice:1d2|noform|noparens|avg` (`1d2`) hezrous, or one glabrezu.  
 > - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`d6`) vrocks, `dice:1d4|noform|noparens|avg` (`d4`) hezrous, `dice:1d3|noform|noparens|avg` (`d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`d4`) vrocks, `dice:1d3|noform|noparens|avg` (`d3`) hezrous, `dice:1d2|noform|noparens|avg` (`d2`) glabrezus, or one nalfeshnee.  
+> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`1d6`) vrocks, `dice:1d4|noform|noparens|avg` (`1d4`) hezrous, `dice:1d3|noform|noparens|avg` (`1d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`1d2`) nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`1d4`) vrocks, `dice:1d3|noform|noparens|avg` (`1d3`) hezrous, `dice:1d2|noform|noparens|avg` (`1d2`) glabrezus, or one nalfeshnee.  
 > - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
@@ -207,15 +207,16 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - !!int "10"
 "speed": "20 ft., fly 60 ft."
 "saves":
-  - "dexterity": "+5"
-  - "wisdom": "+5"
+  - "dexterity": !!int "5"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 10 ft., darkvision 120 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 15"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "6"
 "traits":
@@ -235,16 +236,16 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 16\
       \ (4d6 + 2) piercing damage plus 24 (7d6) necrotic damage, and the target's\
       \ hit point maximum is reduced by an amount equal to the necrotic damage taken.\
       \ If this effect reduces a creature's hit point maximum to 0, the creature dies.\
       \ This reduction to a creature's hit point maximum lasts until the creature\
-      \ finishes a long rest or until it is affected by a spell like  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]."
+      \ finishes a long rest or until it is affected by a spell like  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]."
     "name": "Proboscis"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Fiend/token/chasme.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/chasme.webp"
 ```
 ^statblock
 

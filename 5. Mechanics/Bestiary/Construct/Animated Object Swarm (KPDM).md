@@ -13,7 +13,7 @@ tags:
 aliases:
   - Animated Object Swarm
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Object Swarm (KPDM).md|Animated Object Swarm]]
+# [[5. Mechanics/Bestiary/Construct/Animated Object Swarm (KPDM).md|Animated Object Swarm]]
 *Source: Deep Magic p. 37*
 
 ```statblock
@@ -37,11 +37,12 @@ aliases:
   \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "blindsight 30 ft. (blind beyond this distance), passive Perception 6"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft. (blind beyond\
+  \ this distance), passive Perception 6"
 "languages": ""
 "actions":
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 0 ft., one target in the swarm's\
-      \ space. Hit: 6 (1d4 + 4) damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 0 ft., one target in the swarm's\
+      \ space. *Hit:* 6 (1d4 + 4) damage."
     "name": "Attack"
 "source":
   - "KPDM"

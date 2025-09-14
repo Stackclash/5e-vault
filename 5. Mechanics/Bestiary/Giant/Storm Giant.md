@@ -15,7 +15,7 @@ tags:
 aliases:
   - Storm Giant
 ---
-# [[5. Mechanics\Bestiary\Giant\Storm Giant.md|Storm Giant]]
+# [[5. Mechanics/Bestiary/Giant/Storm Giant.md|Storm Giant]]
 *Source: Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.
@@ -84,7 +84,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "type": "giant"
 "alignment": "Chaotic Good"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Scale Mail.md|scale mail]]"
+"ac_class": "[[/5. Mechanics/Items/Scale Mail.md|scale mail]]"
 "hp": !!int "230"
 "hit_dice": "20d12 + 100"
 "modifier": !!int "2"
@@ -97,10 +97,10 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - !!int "18"
 "speed": "50 ft., swim 50 ft."
 "saves":
-  - "strength": "+14"
-  - "constitution": "+10"
-  - "wisdom": "+9"
-  - "charisma": "+9"
+  - "strength": !!int "14"
+  - "constitution": !!int "10"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+8"
@@ -118,20 +118,20 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "traits":
   - "desc": "The giant's innate spellcasting ability is Charisma (spell save DC 17).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Feather Fall.md|feather fall]],\
-      \ [[5. Mechanics/Spells/Levitate.md|levitate]], [[5. Mechanics/Spells/Light.md|light]]\n\
-      \n3/day each: [[5. Mechanics/Spells/Control Weather.md|control weather]], [[5. Mechanics/Spells/Water Breathing.md|water\
-      \ breathing]]"
+      \n**At will:** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Feather Fall.md|feather\
+      \ fall]], [[/5. Mechanics/Spells/Levitate.md|levitate]],\
+      \ [[/5. Mechanics/Spells/Light.md|light]]\n\n**3/day each:** [[/5. Mechanics/Spells/Control Weather.md|control weather]],\
+      \ [[/5. Mechanics/Spells/Water Breathing.md|water breathing]]"
     "name": "Innate Spellcasting"
   - "desc": "The giant can breathe air and water."
     "name": "Amphibious"
 "actions":
   - "desc": "The giant makes two greatsword attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 30\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 30\
       \ (6d6 + 9) slashing damage."
     "name": "Greatsword"
-  - "desc": "Ranged Weapon Attack: +14 to hit, range 60/240 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +14 to hit, range 60/240 ft., one target. *Hit:*\
       \ 35 (4d12 + 9) bludgeoning damage."
     "name": "Rock"
   - "desc": "The giant hurls a magical lightning bolt at a point it can see within\
@@ -141,7 +141,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     "name": "Lightning Strike (Recharge 5-6)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Giant/token/storm-giant.webp"
+"image": "/5. Mechanics/Bestiary/Giant/token/storm-giant.webp"
 ```
 ^statblock
 

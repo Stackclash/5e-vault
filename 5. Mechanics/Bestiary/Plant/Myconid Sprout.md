@@ -14,7 +14,7 @@ tags:
 aliases:
   - Myconid Sprout
 ---
-# [[5. Mechanics\Bestiary\Plant\Myconid Sprout.md|Myconid Sprout]]
+# [[5. Mechanics/Bestiary/Plant/Myconid Sprout.md|Myconid Sprout]]
 *Source: Monster Manual p. 230*
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
@@ -46,7 +46,8 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
   - !!int "11"
   - !!int "5"
 "speed": "10 ft."
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "0"
 "traits":
@@ -58,8 +59,8 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
       \ direct sunlight."
     "name": "Sun Sickness"
 "actions":
-  - "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4\
-      \ - 1) bludgeoning damage plus 2 (d4) poison damage."
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4\
+      \ - 1) bludgeoning damage plus 2 (1d4) poison damage."
     "name": "Fist"
   - "desc": "A 10-foot radius of spores extends from the myconid. These spores can\
       \ go around corners and affect only creatures with an Intelligence of 2 or higher\
@@ -69,7 +70,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     "name": "Rapport Spores (3/Day)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Plant/token/myconid-sprout.webp"
+"image": "/5. Mechanics/Bestiary/Plant/token/myconid-sprout.webp"
 ```
 ^statblock
 

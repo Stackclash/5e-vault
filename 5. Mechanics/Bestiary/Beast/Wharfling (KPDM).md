@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Wharfling
 ---
-# [[5. Mechanics\Bestiary\Beast\Wharfling (KPDM).md|Wharfling]]
+# [[5. Mechanics/Bestiary/Beast/Wharfling (KPDM).md|Wharfling]]
 *Source: Deep Magic p. 294*
 
 Tiny, doglike creatures with slippery, hairless skin and webbed claws, wharflings are occasionally chosen as familiars by spellcasters who are unconcerned about their personal appearance, who frequently engage in acts of larceny, or who dwell in watery conditions.
@@ -40,11 +40,12 @@ Tiny, doglike creatures with slippery, hairless skin and webbed claws, wharfling
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand|Sleight of Hand]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": ""
 "cr": "1/8"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
       \ + 3) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 10). Until this grapple ends, the wharfling can't use its bite\
       \ on another target. While the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]],\

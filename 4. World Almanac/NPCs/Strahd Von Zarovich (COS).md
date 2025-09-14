@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\153-636988936829621698.webp
+  - ../../../../../4. World Almanac/NPCs/img/153-636988936829621698.webp
 relationships: []
 aliases:
   - Strahd von Zarovich
@@ -54,7 +54,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 240*
@@ -83,12 +83,12 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 | dice: d20 | Creatures |
 |-----------|-----------|
-| 1–3 | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
-| 4–6 | `dice:1d6+3\|noform\|noparens\|avg` (`1d6 + 3`) [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
-| 7–9 | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) [[5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md|Strahd zombies]] (in this appendix) |
-| 10–12 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
-| 13–15 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]] |
-| 16–18 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
+| 1–3 | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md|dire wolves]] |
+| 4–6 | `dice:1d6+3\|noform\|noparens\|avg` (`1d6 + 3`) [[/5. Mechanics/Bestiary/Undead/Ghoul.md|ghouls]] |
+| 7–9 | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) [[/5. Mechanics/Bestiary/Undead/Strahd Zombie (COS).md|Strahd zombies]] (in this appendix) |
+| 10–12 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]] |
+| 13–15 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]] |
+| 16–18 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Beast/Wolf.md|wolves]] |
 | 19–20 | None |
 ^creatures
 
@@ -102,7 +102,7 @@ Any damage that Strahd takes is transferred to the Heart of Sorrow (see chapter 
 
 The effect of the protection afforded by the Heart of Sorrow can be chilling to behold, as damage to Strahd is quickly undone. For example, a critical hit might dislocate Strahd's jaw, but only for a moment; then the vampire's jaw quickly resets itself.
 
-The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].
+The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]].
 
 ## Traits/Goals
 > [!column] Traits
@@ -171,9 +171,9 @@ actions:
   - !!int "18"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+9"
-  - "wisdom": "+7"
-  - "charisma": "+9"
+  - "dexterity": !!int "9"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+15"
@@ -184,23 +184,25 @@ actions:
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+14"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 120 ft., passive Perception 22"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 22"
 "languages": "Abyssal, Common, Draconic, Elvish, Giant, Infernal"
 "cr": "15"
 "traits":
   - "desc": "Strahd is a 9th-level spellcaster. His spellcasting ability is Intelligence\
       \ (spell save DC 18, +10 to hit with spell attacks). He has the following wizard\
-      \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-      \n1st level (4 slots): [[5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
-      \ [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
-      \n2nd level (3 slots): [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-      \ [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\
-      \n3rd level (3 slots): [[5. Mechanics/Spells/Animate Dead.md|animate dead]],\
-      \ [[5. Mechanics/Spells/Fireball.md|fireball]], [[5. Mechanics/Spells/Nondetection.md|nondetection]]\n\
-      \n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]], [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
-      \ [[5. Mechanics/Spells/Polymorph.md|polymorph]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Animate Objects.md|animate\
-      \ objects]], [[5. Mechanics/Spells/Scrying.md|scrying]]"
+      \ spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]], [[/5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
+      \n**1st level (4 slots):** [[/5. Mechanics/Spells/Comprehend Languages.md|comprehend languages]],\
+      \ [[/5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[/5. Mechanics/Spells/Sleep.md|sleep]]\n\
+      \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+      \ [[/5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[/5. Mechanics/Spells/Mirror Image.md|mirror image]]\n\
+      \n**3rd level (3 slots):** [[/5. Mechanics/Spells/Animate Dead.md|animate dead]],\
+      \ [[/5. Mechanics/Spells/Fireball.md|fireball]], [[/5. Mechanics/Spells/Nondetection.md|nondetection]]\n\
+      \n**4th level (3 slots):** [[/5. Mechanics/Spells/Blight.md|blight]], [[/5. Mechanics/Spells/Greater Invisibility.md|greater\
+      \ invisibility]], [[/5. Mechanics/Spells/Polymorph.md|polymorph]]\n\
+      \n**5th level (1 slots):** [[/5. Mechanics/Spells/Animate Objects.md|animate objects]],\
+      \ [[/5. Mechanics/Spells/Scrying.md|scrying]]"
     "name": "Spellcasting"
   - "desc": "If Strahd isn't in running water or sunlight, he can use his action to\
       \ polymorph into a Tiny bat, a Medium wolf, or a Medium cloud of mist, or back\
@@ -235,33 +237,33 @@ actions:
   - "desc": "Strahd can climb difficult surfaces, including upside down on ceilings,\
       \ without having to make an ability check."
     "name": "Spider Climb"
-  - "desc": "Strahd has the following flaws:\n\n- Forbiddance. He can't enter\
-      \ a residence without an invitation from one of the occupants.  \n- Harmed\
-      \ by Running Water. He takes 20 acid damage if he ends his turn in running\
-      \ water.  \n- Stake to the Heart. If a piercing weapon made of wood is driven\
+  - "desc": "Strahd has the following flaws:\n\n- **Forbiddance.** He can't enter\
+      \ a residence without an invitation from one of the occupants.  \n- **Harmed\
+      \ by Running Water.** He takes 20 acid damage if he ends his turn in running\
+      \ water.  \n- **Stake to the Heart.** If a piercing weapon made of wood is driven\
       \ into his heart while he is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
       \ in his coffin, he is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
-      \ until the stake is removed.  \n- Sunlight Hypersensitivity. While in sunlight,\
+      \ until the stake is removed.  \n- **Sunlight Hypersensitivity.** While in sunlight,\
       \ Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage\
       \ on attack rolls and ability checks  "
     "name": "Vampire Weaknesses"
 "actions":
   - "desc": "Strahd makes two attacks, only one of which can be a bite attack."
     "name": "Multiattack (Vampire Form Only)"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage, plus 14 (4d6) necrotic damage. If the target is a creature,\
       \ Strahd can grapple it (escape DC 18) instead of dealing the slashing damage."
     "name": "Unarmed Strike (Vampire or Wolf Form Only)"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one willing creature,\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one willing creature,\
       \ or a creature that is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ by Strahd, [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]],\
-      \ or [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]. Hit: 7 (1d6\
+      \ or [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]. *Hit:* 7 (1d6\
       \ + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point\
       \ maximum is reduced by an amount equal to the necrotic damage taken, and Strahd\
       \ regains hit points equal to that amount. The reduction lasts until the target\
       \ finishes a long rest. The target dies if its hit point maximum is reduced\
       \ to 0. A humanoid slain in this way and then buried in the ground rises the\
-      \ following night as a [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
+      \ following night as a [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md|vampire spawn]]\
       \ under Strahd's control."
     "name": "Bite"
   - "desc": "Strahd targets one humanoid he can see within 30 feet of him. If the\
@@ -276,13 +278,39 @@ actions:
       \ is destroyed, is on a different plane of existence than the target, or takes\
       \ a bonus action to end the effect."
     "name": "Charm"
-  - "desc": "Strahd magically calls 2d4 [[5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]]\
-      \ or [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarms of rats]], provided\
-      \ that the sun isn't up. While outdoors, Strahd can call 3d6 [[5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]\
-      \ instead. The called creatures arrive in d4 rounds, acting as allies of Strahd\
+  - "desc": "Strahd magically calls 2d4 [[/5. Mechanics/Bestiary/Beast/Swarm Of Bats.md|swarms of bats]]\
+      \ or [[/5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|swarms of rats]], provided\
+      \ that the sun isn't up. While outdoors, Strahd can call 3d6 [[/5. Mechanics/Bestiary/Beast/Wolf.md|wolves]]\
+      \ instead. The called creatures arrive in 1d4 rounds, acting as allies of Strahd\
       \ and obeying his spoken commands. The beasts remain for 1 hour, until Strahd\
       \ dies, or until he dismisses them as a bonus action."
     "name": "Children of the Night (1/Day)"
+"lair_actions":
+  - "desc": "While Strahd is in Castle Ravenloft, he can take lair actions as long\
+      \ as he isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]].\n\
+      \nOn initiative count 20 (losing initiative ties), Strahd can take one of the\
+      \ following lair action options, or forgo using any of them in that round:\n\
+      \n- Until initiative count 20 of the next round, Strahd can pass through solid\
+      \ walls, doors, ceilings, and floors as if they weren't there.  \n- Strahd targets\
+      \ any number of doors and windows that he can see, causing each one to either\
+      \ open or close as he wishes. Closed doors can be magically locked (needing\
+      \ a successful DC 20 Strength check to force open) until Strahd chooses to end\
+      \ the effect, or until Strahd uses this lair action again.  \n- Strahd summons\
+      \ the angry spirit of one who has died in the castle. The apparition appears\
+      \ next to a hostile creature that Strahd can see, makes an attack against that\
+      \ creature, and then disappears. The apparition has the statistics of a [[/5. Mechanics/Bestiary/Undead/Specter.md|specter]].\
+      \  \n- Strahd targets one Medium or smaller creature that casts a shadow. The\
+      \ target's shadow must be visible to Strahd and within 30 feet of him. If the\
+      \ target fails a DC 17 Charisma saving throw, its shadow detaches from it and\
+      \ becomes a [[/5. Mechanics/Bestiary/Undead/Shadow.md|shadow]] that obeys Strahd's\
+      \ commands, acting on initiative count 20. A [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ spell or a [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell cast on\
+      \ the target restores its natural shadow, but only if its undead shadow has\
+      \ been destroyed.  "
+    "name": ""
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, Strahd can expend a use to take one of the following actions. Strahd regains\
+  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Strahd moves up to his speed without provoking opportunity attacks."
     "name": "Move"
@@ -290,34 +318,9 @@ actions:
     "name": "Unarmed Strike"
   - "desc": "Strahd makes one bite attack."
     "name": "Bite (Costs 2 Actions)"
-"lair_actions":
-  - "desc": "While Strahd is in Castle Ravenloft, he can take lair actions as long\
-      \ as he isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
-    "name": ""
-  - "desc": "On initiative count 20 (losing initiative ties), Strahd can take one\
-      \ of the following lair action options, or forgo using any of them in that round:"
-    "name": ""
-  - "desc": "- Until initiative count 20 of the next round, Strahd can pass through\
-      \ solid walls, doors, ceilings, and floors as if they weren't there.  \n- Strahd\
-      \ targets any number of doors and windows that he can see, causing each one\
-      \ to either open or close as he wishes. Closed doors can be magically locked\
-      \ (needing a successful DC 20 Strength check to force open) until Strahd chooses\
-      \ to end the effect, or until Strahd uses this lair action again.  \n- Strahd\
-      \ summons the angry spirit of one who has died in the castle. The apparition\
-      \ appears next to a hostile creature that Strahd can see, makes an attack against\
-      \ that creature, and then disappears. The apparition has the statistics of a\
-      \ [[5. Mechanics/Bestiary/Undead/Specter.md|specter]].  \n- Strahd targets one\
-      \ Medium or smaller creature that casts a shadow. The target's shadow must be\
-      \ visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma\
-      \ saving throw, its shadow detaches from it and becomes a [[5. Mechanics/Bestiary/Undead/Shadow.md|shadow]]\
-      \ that obeys Strahd's commands, acting on initiative count 20. A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-      \ spell or a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell cast on\
-      \ the target restores its natural shadow, but only if its undead shadow has\
-      \ been destroyed.  "
-    "name": ""
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/strahd-von-zarovich-cos.webp"
+"image": "/4. World Almanac/NPCs/token/strahd-von-zarovich-cos.webp"
 ```
 ^statblock
 

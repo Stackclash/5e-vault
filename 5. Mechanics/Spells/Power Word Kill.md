@@ -19,11 +19,11 @@ level: 9
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
+range: 60 feet
+somatic: false
+verbal: true
 aliases:
   - Power Word Kill
-range: 60 feet
 ---
 # Power Word Kill
 *9th-level, Enchantment*  
@@ -35,6 +35,6 @@ range: 60 feet
 
 You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

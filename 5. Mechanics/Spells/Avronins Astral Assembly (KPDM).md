@@ -17,14 +17,13 @@ school: Necromancy
 level: 6
 ritual: true
 time: 10 minutes
-duration: up to 1 hour
-components:
-  - V
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Unlimited
+somatic: false
+verbal: true
+material: a spool of fine copper wire and a gem worth at least 100 gp for each target
 aliases:
   - Avronin's Astral Assembly
-concentration: true
-material: a spool of fine copper wire and a gem worth at least 100 gp for each target
 ---
 # Avronin's Astral Assembly
 *6th-level, Necromancy (ritual)*  
@@ -40,6 +39,6 @@ When a creature accepts, its spirit is projected into one of the gems used in ca
 
 A creature can end the spell's effect on itself voluntarily at any time, as can you. When the effect ends or the duration expires, a creature's spirit returns to its body and it regains consciousness. A creature that withdraws voluntarily from the assembly can't rejoin it even if the spell is still active. If a gem is broken while occupied by a creature's astral self, the spirit in the gem returns to its body and the creature suffers two levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 40*

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Champion
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Champion (MPMM).md|Champion]]
+# [[5. Mechanics/Bestiary/Humanoid/Champion (MPMM).md|Champion]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212*
 
 > [!quote] A quote from Mordenkainen  
@@ -52,7 +52,7 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate]]"
 "hp": !!int "143"
 "hit_dice": "22d8 + 44"
 "modifier": !!int "2"
@@ -65,8 +65,8 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
   - !!int "12"
 "speed": "30 ft."
 "saves":
-  - "strength": "+9"
-  - "constitution": "+6"
+  - "strength": !!int "9"
+  - "constitution": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+9"
@@ -83,11 +83,11 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 "actions":
   - "desc": "The champion makes three Greatsword or Shortbow attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage, plus 7 (2d6) slashing damage if the champion has\
       \ more than half of its total hit points remaining."
     "name": "Greatsword"
-  - "desc": "Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage, plus 7 (2d6) piercing damage if the champion\
       \ has more than half of its total hit points remaining."
     "name": "Shortbow"
@@ -97,7 +97,7 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/champion-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/champion-mpmm.webp"
 ```
 ^statblock
 

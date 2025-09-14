@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'arctic, forest, grassland, hill'
 size: Medium
 tags:
@@ -17,7 +17,7 @@ tags:
 aliases:
   - Gnoll Hunter
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Gnoll Hunter (MPMM).md|Gnoll Hunter]]
+# [[5. Mechanics/Bestiary/Monstrosity/Gnoll Hunter (MPMM).md|Gnoll Hunter]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*
 
 Hunters are the stealthiest gnolls in a war band. In the vanguard, they creep around, picking off isolated opposition while clearing the way for the rest of the force to advance.
@@ -34,7 +34,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"
@@ -51,20 +51,21 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Gnoll"
 "cr": "1/2"
 "actions":
   - "desc": "The gnoll makes two Bite, Spear, or Longbow attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) piercing damage."
     "name": "Bite"
-  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
       \ damage when used with two hands to make a melee attack."
     "name": "Spear"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage, and the target's speed is reduced by 10 feet\
       \ until the end of its next turn."
     "name": "Longbow"
@@ -75,7 +76,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/gnoll-hunter-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/gnoll-hunter-mpmm.webp"
 ```
 ^statblock
 

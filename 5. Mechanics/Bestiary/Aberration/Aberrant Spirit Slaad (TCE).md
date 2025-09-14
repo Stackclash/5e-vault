@@ -13,7 +13,7 @@ tags:
 aliases:
   - Aberrant Spirit (Slaad)
 ---
-# [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit Slaad (TCE).md|Aberrant Spirit (Slaad)]]
+# [[5. Mechanics/Bestiary/Aberration/Aberrant Spirit Slaad (TCE).md|Aberrant Spirit (Slaad)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
@@ -32,7 +32,8 @@ aliases:
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "psychic"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Deep Speech, understands the languages you speak"
 "traits":
   - "desc": "The aberration regains 5 hit points at the start of its turn if it has\
@@ -42,8 +43,8 @@ aliases:
   - "desc": "The aberration makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d10 + 3 + the spell's level slashing damage. If the target\
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d10 + 3 + the spell's level slashing damage. If the target\
       \ is a creature, it can't regain hit points until the start of the aberration's\
       \ next turn."
     "name": "Claws"

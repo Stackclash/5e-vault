@@ -15,7 +15,7 @@ tags:
 aliases:
   - Orc Claw of Luthic
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Claw Of Luthic (VGM).md|Orc Claw of Luthic]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Claw Of Luthic (VGM).md|Orc Claw of Luthic]]
 *Source: Volo's Guide to Monsters p. 183*
 
 Luthic is Gruumsh's wife and the paragon of maternity to all orcs. She is the Cave Mother, a fierce dweller in the darkness who raises new broods of orcs to be vicious and strong. Her symbol is the cave bear, and orc females raise such bears alongside orc whelps. Females particularly attracted to Luthic grow long nails and lacquer them, learning to use these claws as weapons much as Luthic uses her own.
@@ -40,7 +40,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
+"ac_class": "[[/5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "2"
@@ -59,20 +59,21 @@ In addition, orcs have special relationships with two creatures that are sometim
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "Common, Orc"
 "cr": "2"
 "traits":
   - "desc": "The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). The orc has the following\
-      \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-      \ [[5. Mechanics/Spells/Mending.md|mending]], [[5. Mechanics/Spells/Resistance.md|resistance]],\
-      \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
-      \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-      \ [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]]\n\n2nd level (3 slots):\
-      \ [[5. Mechanics/Spells/Augury.md|augury]], [[5. Mechanics/Spells/Warding Bond.md|warding bond]]\n\
-      \n3rd level (2 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]],\
-      \ [[5. Mechanics/Spells/Create Food And Water.md|create food and water]]"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Guidance.md|guidance]],\
+      \ [[/5. Mechanics/Spells/Mending.md|mending]], [[/5. Mechanics/Spells/Resistance.md|resistance]],\
+      \ [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n**1st level (4 slots):**\
+      \ [[/5. Mechanics/Spells/Bane.md|bane]], [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+      \ [[/5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]]\n\n**2nd level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Augury.md|augury]], [[/5. Mechanics/Spells/Warding Bond.md|warding bond]]\n\
+      \n**3rd level (2 slots):** [[/5. Mechanics/Spells/Bestow Curse.md|bestow curse]],\
+      \ [[/5. Mechanics/Spells/Create Food And Water.md|create food and water]]"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the orc can move up to its speed toward a hostile\
       \ creature that it can see."
@@ -81,12 +82,12 @@ In addition, orcs have special relationships with two creatures that are sometim
   - "desc": "The orc makes two claw attacks, or four claw attacks if it has fewer\
       \ than half of its hit points remaining."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
       \ + 2) slashing damage."
     "name": "Claw"
 "source":
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc-claw-of-luthic-vgm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/orc-claw-of-luthic-vgm.webp"
 ```
 ^statblock
 

@@ -16,7 +16,7 @@ aliases:
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Orostead Iced Tea Common (GRIFFONSSADDLEBAG2).md\|Orostead Iced Tea (Common)]]  
-- [[5. Mechanics/Items/Orostead Iced Tea Very Rare (GRIFFONSSADDLEBAG2).md\|Orostead Iced Tea (Very Rare)]]  
+- [[/5. Mechanics/Items/Orostead Iced Tea Common (GRIFFONSSADDLEBAG2).md\|Orostead Iced Tea (Common)]]  
+- [[/5. Mechanics/Items/Orostead Iced Tea Very Rare (GRIFFONSSADDLEBAG2).md\|Orostead Iced Tea (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 133*

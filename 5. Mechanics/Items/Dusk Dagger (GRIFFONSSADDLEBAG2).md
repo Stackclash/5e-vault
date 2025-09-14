@@ -10,11 +10,11 @@ tags:
 aliases:
   - Dusk Dagger
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 1
 ---
 # Dusk Dagger
-*Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major*  
+*Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dusk-Dagger.webp#right)  
 
 - **Damage**: 1d4 piercing
@@ -24,8 +24,8 @@ weight: 1
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Dusk Dagger Uncommon (GRIFFONSSADDLEBAG2).md\|Dusk Dagger (Uncommon)]]  
-- [[5. Mechanics/Items/Dusk Dagger Rare (GRIFFONSSADDLEBAG2).md\|Dusk Dagger (Rare)]]  
-- [[5. Mechanics/Items/Dusk Dagger Very Rare (GRIFFONSSADDLEBAG2).md\|Dusk Dagger (Very Rare)]]  
+- [[/5. Mechanics/Items/Dusk Dagger Uncommon (GRIFFONSSADDLEBAG2).md\|Dusk Dagger (Uncommon)]]  
+- [[/5. Mechanics/Items/Dusk Dagger Rare (GRIFFONSSADDLEBAG2).md\|Dusk Dagger (Rare)]]  
+- [[/5. Mechanics/Items/Dusk Dagger Very Rare (GRIFFONSSADDLEBAG2).md\|Dusk Dagger (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 76*

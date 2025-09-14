@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dullahan
 ---
-# [[5. Mechanics\Bestiary\Undead\Dullahan (VRGR).md|Dullahan]]
+# [[5. Mechanics/Bestiary/Undead/Dullahan (VRGR).md|Dullahan]]
 *Source: Van Richten's Guide to Ravenloft p. 233*
 
 Dullahans are headless undead warriors—the remains of villains who let vengeance consume them. These decapitated hunters haunt the areas where they were slain, butchering innocents in search of their severed heads or to quench their thirst for revenge.
@@ -42,7 +42,7 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
 "type": "undead"
 "alignment": "Unaligned"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Breastplate.md|breastplate]]"
+"ac_class": "[[/5. Mechanics/Items/Breastplate.md|breastplate]]"
 "hp": !!int "135"
 "hit_dice": "18d8 + 54"
 "modifier": !!int "2"
@@ -55,19 +55,20 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
   - !!int "16"
 "speed": "30 ft."
 "saves":
-  - "constitution": "+7"
+  - "constitution": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
 "damage_resistances": "cold, lightning, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 16"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "10"
 "traits":
   - "desc": "If the dullahan is reduced to 0 hit points, it doesn't die or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]].\
-      \ Instead, it regains 97 hit points. In addition, it summons three [[5. Mechanics/Bestiary/Undead/Deaths Head (VRGR).md|death's\
+      \ Instead, it regains 97 hit points. In addition, it summons three [[/5. Mechanics/Bestiary/Undead/Deaths Head (VRGR).md|death's\
       \ heads]], one of each type,\
       \ in unoccupied spaces within 5 feet of it. The death's heads are under the\
       \ dullahan's control and act immediately after the dullahan in the initiative\
@@ -82,7 +83,7 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
 "actions":
   - "desc": "The dullahan makes two attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands,\
       \ plus 11 (2d10) necrotic damage. If the dullahan scores a critical hit against\
       \ a creature, the target must succeed on a DC 15 Constitution saving throw or\
@@ -90,9 +91,12 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
       \ without the lost head. A creature that doesn't have or need a head, or has\
       \ legendary actions, instead takes an extra 27 (6d8) slashing damage."
     "name": "Battleaxe"
-  - "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 14\
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 14\
       \ (2d10 + 3) fire damage."
     "name": "Fiery Skull"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the dullahan can expend a use to take one of the following actions. The\
+  \ dullahan regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The dullahan makes one attack."
     "name": "Attack"
@@ -104,9 +108,22 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
       \ and makes one Battleaxe attack with advantage. If the attack hits, but is\
       \ not a critical hit, the attack deals an extra 27 (6d8) necrotic damage."
     "name": "Head Hunt (Costs 3 Actions)"
+"mythic_description": "If the dullahan's Headless Summoning trait is active, it can\
+  \ use the options below as legendary actions."
+"mythic_actions":
+  - "desc": "The dullahan makes a Battleaxe attack, and then one [[/5. Mechanics/Bestiary/Undead/Deaths Head (VRGR).md|death's head]]\
+      \ the dullahan can see within 30 feet of it can use its reaction to make a melee\
+      \ attack."
+    "name": "Coordinated Assault"
+  - "desc": "An echoing shriek issues from the dullahan's headless stump. Each creature\
+      \ of the dullahan's choice within 10 feet of it must make a DC 15 Wisdom saving\
+      \ throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half\
+      \ as much damage on a successful one. If one or more creatures fail the saving\
+      \ throw, the dullahan gains 10 temporary hit points."
+    "name": "Headless Wail (Costs 2 Actions)"
 "source":
   - "VRGR"
-"image": "5. Mechanics/Bestiary/Undead/token/dullahan-vrgr.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/dullahan-vrgr.webp"
 ```
 ^statblock
 

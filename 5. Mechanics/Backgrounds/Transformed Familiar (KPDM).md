@@ -11,9 +11,9 @@ aliases:
 *Source: Deep Magic p. 159*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]], [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]  
-- **Tool Proficiencies.** Artisan's tools ([[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's kit]])  
+- **Tool Proficiencies.** Artisan's tools ([[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's kit]])  
 - **Languages.** One of your choice  
-- **Equipment.** A trinket worn or carried by your previous form, a set of traveler's clothes, an [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's kit]], an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]], and a pouch containing 5 gp  
+- **Equipment.** A trinket worn or carried by your previous form, a set of traveler's clothes, an [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's kit]], an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]], and a pouch containing 5 gp  
 
 Your connection to magic began with a term of service, or servitude, to a magician of power. Your partnership continued as expected for years, until the bond was abruptly broken. In the aftermath, you found yourself with a new body. Despite your new appearance, your actions often betray your Origin. The struggle between what you have become and what you once were rages within you.
 

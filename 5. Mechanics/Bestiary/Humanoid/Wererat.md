@@ -16,7 +16,7 @@ tags:
 aliases:
   - Wererat
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Wererat.md|Wererat]]
+# [[5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]]
 *Source: Monster Manual p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Wererats are cunning lycanthropes with sly, avaricious personalities. They are wiry and twitchy in humanoid form, with thin hair and darting eyes. In their humanoid and hybrid forms, wererats prefer light weapons and use ambush tactics rather than fighting as a pack. Although a wererat can deliver a nasty bite in its rat form, it favors that form for stealthy infiltration and escape rather than combat.
@@ -33,7 +33,7 @@ Evil lycanthropes hide among normal folk, emerging in animal form at night to sp
 
 ### Curse of Lycanthropy
 
-A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
+A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
 
 A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form-or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams.
 
@@ -47,15 +47,15 @@ Some individuals see little point in fighting the curse and accept what they are
 > 
 > The following information applies to specific lycanthropes.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[/5. Mechanics/Bestiary/Humanoid/Werebear.md|Werebear]].** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[[/5. Mechanics/Bestiary/Humanoid/Wereboar.md|Wereboar]].** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]].** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
+> **[[/5. Mechanics/Bestiary/Humanoid/Wererat.md|Wererat]].** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]].** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[[/5. Mechanics/Bestiary/Humanoid/Weretiger.md|Weretiger]].** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 > 
-> **[[5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]].** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[[/5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]].** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 ^player-characters-as-lycanthropes
 
 ```statblock
@@ -83,7 +83,8 @@ Some individuals see little point in fighting the curse and accept what they are
     "desc": "+4"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
-"senses": "darkvision 60 ft. (rat form only), passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft. (rat form only),\
+  \ passive Perception 12"
 "languages": "Common (can't speak in rat form)"
 "cr": "2"
 "traits":
@@ -98,19 +99,19 @@ Some individuals see little point in fighting the curse and accept what they are
 "actions":
   - "desc": "The wererat makes two attacks, only one of which can be a bite."
     "name": "Multiattack (Humanoid or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) piercing damage. If the target is a humanoid, it must succeed on a DC\
       \ 11 Constitution saving throw or be cursed with wererat lycanthropy."
     "name": "Bite (Rat or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Shortsword (Humanoid or Hybrid Form Only)"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage."
     "name": "Hand Crossbow (Humanoid or Hybrid Form Only)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/wererat.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/wererat.webp"
 ```
 ^statblock
 

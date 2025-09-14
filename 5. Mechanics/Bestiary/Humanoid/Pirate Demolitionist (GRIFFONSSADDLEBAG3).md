@@ -13,7 +13,7 @@ tags:
 aliases:
   - Pirate Demolitionist
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Pirate Demolitionist (GRIFFONSSADDLEBAG3).md|Pirate Demolitionist]]
+# [[5. Mechanics/Bestiary/Humanoid/Pirate Demolitionist (GRIFFONSSADDLEBAG3).md|Pirate Demolitionist]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Sailors with a penchant for the explosive are demoltionists. On vessels with cannonry, these characters often serve as their munitions experts and fire mitigation experts. On vessels without, demoltionists find satisfying work with makeshift bombs using small explosives and alchemical know-how.
@@ -25,7 +25,7 @@ Sailors with a penchant for the explosive are demoltionists. On vessels with can
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather armor]]"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "3"
@@ -58,15 +58,15 @@ Sailors with a penchant for the explosive are demoltionists. On vessels with can
   - "desc": "The demolitionist makes two rapier attacks.\n\nIt can use its demolitionist's\
       \ fire or bomb in place of one attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) piercing damage."
     "name": "Rapier"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 15/30 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 15/30 ft., one target. *Hit:*\
       \ 5 (2d4) piercing damage. Hit or miss, each creature within 5 feet of the target\
       \ must succeed on a DC 14 Dexterity saving throw or ignite. A flammable object\
       \ in the area that isn't being worn or carried automatically ignites. Until\
       \ a creature uses an action to extinguish a creature or object ignited in this\
-      \ way, it takes 5 (d10) fire damage at the start of each of its turns."
+      \ way, it takes 5 (1d10) fire damage at the start of each of its turns."
     "name": "Demolitionist's Fire (Recharges After a Short or Long Rest)"
   - "desc": "The demolitionist ignites the fuse of one of its handheld bombs, tossing\
       \ the bomb to a point it can see within 30 feet of it. The bomb then detonates,\

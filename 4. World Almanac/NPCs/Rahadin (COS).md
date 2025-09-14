@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\rahadin.webp
+  - ../../../../../4. World Almanac/NPCs/img/rahadin.webp
 relationships: []
 aliases:
   - Rahadin
@@ -58,7 +58,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 237*
@@ -157,7 +157,7 @@ actions:
 "subtype": "elf"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "135"
 "hit_dice": "18d8 + 54"
 "modifier": !!int "6"
@@ -170,8 +170,8 @@ actions:
   - !!int "18"
 "speed": "35 ft."
 "saves":
-  - "constitution": "+7"
-  - "wisdom": "+7"
+  - "constitution": !!int "7"
+  - "wisdom": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+8"
@@ -183,16 +183,17 @@ actions:
     "desc": "+11"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+14"
-"senses": "darkvision 60 ft., passive Perception 21"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 21"
 "languages": "Common, Elvish"
 "cr": "10"
 "traits":
   - "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately\
-      \ cast the following spells, requiring no components:\n\n3/day: [[5. Mechanics/Spells/Misty Step.md|misty step]],\
-      \ [[5. Mechanics/Spells/Phantom Steed.md|phantom steed]]\n\n1/day: [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]],\
-      \ [[5. Mechanics/Spells/Nondetection.md|nondetection]]"
+      \ cast the following spells, requiring no components:\n\n**3/day:** [[/5. Mechanics/Spells/Misty Step.md|misty step]],\
+      \ [[/5. Mechanics/Spells/Phantom Steed.md|phantom steed]]\n\n**1/day:** [[/5. Mechanics/Spells/Magic Weapon.md|magic\
+      \ weapon]], [[/5. Mechanics/Spells/Nondetection.md|nondetection]]"
     "name": "Innate Spellcasting"
-  - "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [[5. Mechanics/Spells/Mind Blank.md|mind\
+  - "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [[/5. Mechanics/Spells/Mind Blank.md|mind\
       \ blank]] spell hears in its mind the screams\
       \ of the thousands of people Rahadin has killed. As a bonus action, Rahadin\
       \ can force all creatures that can hear the screams to make a DC 16 Wisdom saving\
@@ -209,15 +210,15 @@ actions:
   - "desc": "Rahadin attacks three times with his scimitar, or twice with his [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
       \ darts."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 9\
       \ (1d6 + 6) slashing damage."
     "name": "Scimitar"
-  - "desc": "Ranged Weapon Attack: +10 to hit, range 20/60 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +10 to hit, range 20/60 ft., one target. *Hit:*\
       \ 8 (1d4 + 6) piercing damage plus 5 (2d4) poison damage."
     "name": "Poisoned Dart"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/rahadin-cos.webp"
+"image": "/4. World Almanac/NPCs/token/rahadin-cos.webp"
 ```
 ^statblock
 

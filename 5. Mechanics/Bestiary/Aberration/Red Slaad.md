@@ -13,7 +13,7 @@ tags:
 aliases:
   - Red Slaad
 ---
-# [[5. Mechanics\Bestiary\Aberration\Red Slaad.md|Red Slaad]]
+# [[5. Mechanics/Bestiary/Aberration/Red Slaad.md|Red Slaad]]
 *Source: Monster Manual p. 276*
 
 When a red slaad claws a humanoid creature, it can inject an egg from a gland under one of its claws. The egg works its way into its host and gestates, eventually forming a slaad tadpole. Such a tadpole then eats its way out of the host's body, feeds on the host's remains, and then seeks any other fresh meat it can find. The tadpole transforms into a fully grown blue slaad-or green slaad if the host had the ability to cast 3rd level spells or higher-within `dice:2d12|noform|noparens|avg` (`2d12`) hours.
@@ -44,9 +44,9 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] while so controlled.
 > 
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [[5. Mechanics/Spells/Wish.md|wish]] spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [[/5. Mechanics/Spells/Wish.md|wish]] spell, if cast in the slaad's presence, can be worded to acquire the gem.
 > 
-> A [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
+> A [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell cast on the slaad destroys the gem without harming the slaad.
 > 
 > Someone who is proficient in Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) can remove the gem from an [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]] slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]) check. Each failed attempt deals `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
@@ -78,7 +78,8 @@ Some slaadi can transform into the humanoid creatures from which they were origi
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+1"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "Slaad, telepathy 60 ft."
 "cr": "5"
 "traits":
@@ -91,14 +92,14 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 "actions":
   - "desc": "The slaad makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
       \ + 3) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) piercing damage. If the target is a humanoid, it must succeed on a DC\
       \ 14 Constitution saving throw or be infected with a disease—a minuscule slaad\
       \ egg.\n\nA humanoid host can carry only one slaad egg to term at a time. Over\
-      \ three months, the egg moves to the chest cavity, gestates, and forms a [[5. Mechanics/Bestiary/Aberration/Slaad Tadpole.md|slaad\
+      \ three months, the egg moves to the chest cavity, gestates, and forms a [[/5. Mechanics/Bestiary/Aberration/Slaad Tadpole.md|slaad\
       \ tadpole]]. In the 24-hour\
       \ period before giving birth, the host starts to feel unwell, its speed is halved,\
       \ and it has disadvantage on attack rolls, ability checks, and saving throws.\
@@ -108,7 +109,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
     "name": "Claw"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Aberration/token/red-slaad.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/red-slaad.webp"
 ```
 ^statblock
 

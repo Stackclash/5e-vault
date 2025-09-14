@@ -13,7 +13,7 @@ one-hand-damage: 1d6 force
 weight: 2
 ---
 # Spellsword
-*Weapon ([[5. Mechanics/Items/Shortsword.md\|shortsword]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Spellsword.webp#right)  
 
 - **Damage**: 1d6 force

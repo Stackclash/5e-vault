@@ -13,7 +13,7 @@ tags:
 aliases:
   - Topaz Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Topaz Wyrmling (SAF).md|Topaz Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Topaz Wyrmling (SAF).md|Topaz Wyrmling]]
 *Source: Strongholds and Followers p. 219*
 
 The youngest species, the most enthusiastic about the world, the one you're most likely to meet, topaz dragons study magic obsessively, and their older kin consider this juvenile. When you're older you'll realize magic is just ambient interference from overlapping manifolds constrained by oblique functions. Well, poo on that, look, I made a fireball!
@@ -43,10 +43,10 @@ They're approachable and easy to talk to as long as you don't mind never getting
   - !!int "12"
 "speed": "30 ft., fly 60 ft. (hover)"
 "saves":
-  - "dexterity": "+3"
-  - "intelligence": "+3"
-  - "wisdom": "+2"
-  - "charisma": "+3"
+  - "dexterity": !!int "3"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "2"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+3"
@@ -57,17 +57,18 @@ They're approachable and easy to talk to as long as you don't mind never getting
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+3"
 "damage_vulnerabilities": "psychic"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 14"
 "languages": "Common, Draconic, telepathy 60 ft."
 "cr": "2"
 "traits":
-  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
-      \ Charges: 6 • Recharge: d4 • Fracture: 5"
+  - "desc": "**[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].**\
+      \ **Charges:** 6 **• Recharge:** 1d4 **• Fracture:** 5"
     "name": ""
   - "desc": "All allies within 30 feet gain +1 on Intelligence checks and saving throws."
     "name": "Uplift Aura"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d10\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (1d10\
       \ + 1) piercing damage."
     "name": "Bite"
 "source":

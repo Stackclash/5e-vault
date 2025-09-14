@@ -17,12 +17,19 @@ classes:
   - Sorcerer (Divine Soul)
 school: Necromancy
 level: 1
+damage:
+  base: 2d6
+  scaling:
+    damage: 1d6
+    level: 2
+  types:
+    - necrotic
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 120 feet
+somatic: true
+verbal: true
 aliases:
   - Life Transference Arrow
 ---
@@ -39,8 +46,10 @@ You create a glowing arrow of necrotic magic and command it to strike a creature
 - The arrow deals `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage to the target, and you heal the same amount of hit points.  
 - You take `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage, and the target heals the same amount of hit points.  
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the spell's damage and hit points healed increase by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the spell's damage and hit points healed increase by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Shadow Touched (TCE).md\|Shadow Touched]]
 
 *Source: Deep Magic p. 91*

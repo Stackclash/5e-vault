@@ -17,7 +17,7 @@ tags:
 aliases:
   - Harpy
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Harpy.md|Harpy]]
+# [[5. Mechanics/Bestiary/Monstrosity/Harpy.md|Harpy]]
 *Source: Monster Manual p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
@@ -69,10 +69,10 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
 "actions":
   - "desc": "The harpy makes two attacks: one with its claws and one with its club."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
       \ + 1) slashing damage."
     "name": "Claws"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) bludgeoning damage."
     "name": "Club"
   - "desc": "The harpy sings a magical melody. Every humanoid and giant within 300\
@@ -94,7 +94,7 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
     "name": "Luring Song"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/harpy.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/harpy.webp"
 ```
 ^statblock
 

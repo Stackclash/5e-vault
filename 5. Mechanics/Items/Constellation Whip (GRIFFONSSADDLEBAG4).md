@@ -13,7 +13,7 @@ one-hand-damage: 1d4 slashing
 weight: 3
 ---
 # Constellation Whip
-*Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Constellation-Whip.webp#right)  
 
 - **Damage**: 1d4 slashing

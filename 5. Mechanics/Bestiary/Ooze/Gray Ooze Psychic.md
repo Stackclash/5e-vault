@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: underdark
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Gray Ooze (Psychic)
 ---
-# [[5. Mechanics\Bestiary\Ooze\Gray Ooze Psychic.md|Gray Ooze (Psychic)]]
+# [[5. Mechanics/Bestiary/Ooze/Gray Ooze Psychic.md|Gray Ooze (Psychic)]]
 *Source: Monster Manual p. 243, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock
@@ -41,7 +41,8 @@ aliases:
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 8"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -57,7 +58,7 @@ aliases:
       \ pool or wet rock."
     "name": "False Appearance"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
       \ + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing\
       \ nonmagical metal armor, its armor is partly corroded and takes a permanent\
       \ and cumulative −1 penalty to the AC it offers. The armor is destroyed if the\

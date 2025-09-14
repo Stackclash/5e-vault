@@ -13,7 +13,7 @@ tags:
 aliases:
   - Righteous Spirit
 ---
-# [[5. Mechanics\Bestiary\Undead\Righteous Spirit (GRIFFONSSADDLEBAG3).md|Righteous Spirit]]
+# [[5. Mechanics/Bestiary/Undead/Righteous Spirit (GRIFFONSSADDLEBAG3).md|Righteous Spirit]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Standing in stark contrast to most ethereal undead, a righteous spirit forgoes moving on to the afterlife in order to accomplish a greater good on the Material Plane. Often, these individuals are highly devoted knights and warriors, but virtually any good-aligned creature that dies with an unfinished, righteous purpose could follow this path. Compared to more typical spirits, they often retain elements of their past abilities such as skill with magic and the like. As goals are completed and time passes, they may decide to pass on, or they may take up a new purpose, such as guarding a graveyard, temple, or a particular lineage.
@@ -37,8 +37,8 @@ Standing in stark contrast to most ethereal undead, a righteous spirit forgoes m
   - !!int "20"
 "speed": "0 ft., fly 30 ft. (hover)"
 "saves":
-  - "wisdom": "+12"
-  - "charisma": "+12"
+  - "wisdom": !!int "12"
+  - "charisma": !!int "12"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
     "desc": "+12"
@@ -52,7 +52,8 @@ Standing in stark contrast to most ethereal undead, a righteous spirit forgoes m
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 120 ft., passive Perception 22"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 22"
 "languages": "any languages it knew in life"
 "cr": "21"
 "traits":
@@ -60,7 +61,7 @@ Standing in stark contrast to most ethereal undead, a righteous spirit forgoes m
       \ Material Plane, and vice versa."
     "name": "Ethereal Sight"
   - "desc": "The spirit can move through other creatures and objects as if they were\
-      \ difficult terrain. It takes 5 (d10) force damage if it ends its turn inside\
+      \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
       \ an object."
     "name": "Incorporeal Movement"
   - "desc": "The spirit has advantage on saving throws against spells and other magical\
@@ -71,7 +72,7 @@ Standing in stark contrast to most ethereal undead, a righteous spirit forgoes m
 "actions":
   - "desc": "The spirit makes two attacks."
     "name": "Multiattack"
-  - "desc": "Melee Spell Attack: +12 to hit, reach 5 ft., one target. Hit: 23\
+  - "desc": "*Melee Spell Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 23\
       \ (4d8 + 5) force damage."
     "name": "Spectral Strike"
   - "desc": "The spirit enters the Ethereal Plane from the Material Plane, or vice\
@@ -79,6 +80,9 @@ Standing in stark contrast to most ethereal undead, a righteous spirit forgoes m
       \ and vice versa, yet it can't affect or be affected by anything on the other\
       \ plane."
     "name": "Etherealness"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the righteous spirit can expend a use to take one of the following actions.\
+  \ The righteous spirit regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The spirit makes a Spectral Strike attack."
     "name": "Attack"

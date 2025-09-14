@@ -36,14 +36,12 @@ level: 3
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - S
-  - M
+range: Unlimited
+somatic: true
+verbal: true
+material: a short piece of fine copper wire
 aliases:
   - Sending
-range: Unlimited
-material: A short piece of fine copper wire.
 ---
 # Sending
 *3rd-level, Evocation*  
@@ -57,6 +55,6 @@ You send a short message of twenty-five words or less to a creature with which y
 
 You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a  chance that the message doesn't arrive.
 
-**Classes**: [Sorcerer (Aberrant Mind)](compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Paladin (Oath of the Watchtower)](compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Peace Domain)](compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Druid (Circle of Owls)](compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](/compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Owls)](/compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Aberrant Mind)](/compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes The Great Old One.md\|Warlock (The Great Old One)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

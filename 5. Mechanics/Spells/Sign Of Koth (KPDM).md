@@ -10,18 +10,26 @@ classes:
   - Bard
 school: Abjuration
 level: 7
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 8
+  types: []
 ritual: false
 time: 1 round
 duration: Until dispelled
-components:
-  - V
-  - S
-  - M
-aliases:
-  - Sign of Koth
+range: Self (60-foot Radius)
+somatic: true
+verbal: true
 material: >-
   a platinum dagger and a powdered black pearl worth 500 gp, which the spell
   consumes
+area:
+  shape: radius
+  size: 60
+aliases:
+  - Sign of Koth
 ---
 # Sign of Koth
 *7th-level, Abjuration*  
@@ -47,6 +55,6 @@ When you cast this spell, you can choose to reverse its magic; doing this will p
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the radius increases by 30 feet for each slot level above 7th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 340*

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Derro Savant
 ---
-# [[5. Mechanics\Bestiary\Aberration\Derro Savant (MPMM).md|Derro Savant]]
+# [[5. Mechanics/Bestiary/Aberration/Derro Savant (MPMM).md|Derro Savant]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*
 
 > [!quote] A quote from Mordenkainen  
@@ -38,7 +38,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "subtype": "sorcerer"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "36"
 "hit_dice": "8d6 + 8"
 "modifier": !!int "2"
@@ -53,7 +53,8 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "darkvision 120 ft., passive Perception 7"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 7"
 "languages": "Dwarvish, Undercommon"
 "cr": "3"
 "traits":
@@ -65,7 +66,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6\
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6\
       \ - 1) bludgeoning damage."
     "name": "Quarterstaff"
   - "desc": "The derro launches a brilliant beam of magical energy in a 5-foot-wide\
@@ -74,15 +75,15 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ much damage on a successful one."
     "name": "Chromatic Beam"
   - "desc": "The derro casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-      \ [[5. Mechanics/Spells/Message.md|message]], [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Sleep.md|sleep]],\
-      \ [[5. Mechanics/Spells/Spider Climb.md|spider climb]]"
+      \ ability (spell save DC 12):\n\n**At will:** [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[/5. Mechanics/Spells/Message.md|message]], [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Invisibility.md|invisibility]], [[/5. Mechanics/Spells/Sleep.md|sleep]],\
+      \ [[/5. Mechanics/Spells/Spider Climb.md|spider climb]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Aberration/token/derro-savant-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/derro-savant-mpmm.webp"
 ```
 ^statblock
 

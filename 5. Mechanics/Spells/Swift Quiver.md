@@ -16,15 +16,13 @@ school: Transmutation
 level: 5
 ritual: false
 time: 1 Bonus Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Touch
+somatic: true
+verbal: true
+material: a quiver containing at least one piece of ammunition
 aliases:
   - Swift Quiver
-concentration: true
-material: a quiver containing at least one piece of ammunition
 ---
 # Swift Quiver
 *5th-level, Transmutation*  
@@ -38,6 +36,6 @@ You transmute your quiver so it produces an endless supply of nonmagical ammunit
 
 On each of your turns until the spell ends, you can use a bonus action to make two attacks with a weapon that uses ammunition from the quiver. Each time you make such a ranged attack, your quiver magically replaces the piece of ammunition you used with a similar piece of nonmagical ammunition. Any pieces of ammunition created by this spell disintegrate when the spell ends. If the quiver leaves your possession, the spell ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Paladin (Oath of Thunder)](compendium/lists/list-spells-classes-oath-of-thunder-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Paladin (Oath of Thunder)](/compendium/lists/list-spells-classes-oath-of-thunder-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Player's Handbook p. 279*

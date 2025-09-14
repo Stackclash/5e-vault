@@ -12,17 +12,22 @@ classes:
   - Warlock
 school: Necromancy
 level: 4
+damage:
+  base: 2d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: true
+verbal: true
+material: an undead eyeball encased in a gem worth at least 150 gp
 aliases:
   - Shadow of Moil
-concentration: true
-material: an undead eyeball encased in a gem worth at least 150 gp
 ---
 # Shadow of Moil
 *4th-level, Necromancy*  
@@ -36,6 +41,6 @@ Flame-like shadows wreathe your body until the spell ends, causing you to become
 
 Until the spell ends, you have resistance to radiant damage. In addition, whenever a creature within 10 feet of you hits you with an attack, the shadows lash out at that creature, dealing it `dice:2d8|noform|noparens|avg` (`2d8`) necrotic damage.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Xanathar's Guide to Everything p. 164*

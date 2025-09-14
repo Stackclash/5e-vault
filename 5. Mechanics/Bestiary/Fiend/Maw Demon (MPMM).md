@@ -14,7 +14,7 @@ tags:
 aliases:
   - Maw Demon
 ---
-# [[5. Mechanics\Bestiary\Fiend\Maw Demon (MPMM).md|Maw Demon]]
+# [[5. Mechanics/Bestiary/Fiend/Maw Demon (MPMM).md|Maw Demon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*
 
 > [!quote] A quote from Tasha  
@@ -66,11 +66,12 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d8 + 2) piercing damage."
     "name": "Bite"
   - "desc": "The demon vomits in a 15-foot cube. Each creature in that area must succeed\
@@ -80,7 +81,7 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Fiend/token/maw-demon-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/maw-demon-mpmm.webp"
 ```
 ^statblock
 

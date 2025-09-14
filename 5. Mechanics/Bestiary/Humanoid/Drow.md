@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: underdark
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Drow
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow.md|Drow]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow.md|Drow]]
 *Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ## Drow
@@ -43,7 +43,7 @@ Drow craft weapons made of adamantine, a dark and supernaturally hard metal. Dro
 
 ### Cutthroat Politics
 
-Drow politics are cutthroat and rife with intrigue. When drow work together, it is typically to destroy a common foe and ensure their own survival, and such alliances are short lived and fraught with peril.
+Drow politics are cutthroat and rife with intrigue. When drow work together, it is typically to destroy a common foe and ensure their own survival, and such alliances are short-lived and fraught with peril.
 
 Drow society is divided into noble houses, each ruled by a matron who seeks to raise the prestige and power of her house above all others. Other high-ranking members of the house are blood relatives, while the middling ranks are flush with drow from weaker families that have sworn fealty to the greater house. Clinging precariously to the bottom rung of a house's social ladder are the house slaves, made up of drow of low birth and the occasional non-drow captive.
 
@@ -78,7 +78,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "subtype": "elf"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]]"
+"ac_class": "[[/5. Mechanics/Items/Chain Shirt.md|chain shirt]]"
 "hp": !!int "13"
 "hit_dice": "3d8"
 "modifier": !!int "2"
@@ -95,14 +95,15 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "darkvision 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 12"
 "languages": "Elvish, Undercommon"
 "cr": "1/4"
 "traits":
   - "desc": "The drow's spellcasting ability is Charisma (spell save DC 11). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      At will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day\
-      \ each: [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
+      **At will:** [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n**1/day\
+      \ each:** [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Faerie Fire.md|faerie fire]]"
     "name": "Innate Spellcasting"
   - "desc": "The drow has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
       \ and magic can't put the drow to sleep."
@@ -112,10 +113,10 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Shortsword"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution\
       \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
       \ 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
@@ -125,7 +126,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     "name": "Hand Crossbow"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/drow.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/drow.webp"
 ```
 ^statblock
 

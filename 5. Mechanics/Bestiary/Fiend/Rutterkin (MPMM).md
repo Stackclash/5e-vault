@@ -13,7 +13,7 @@ tags:
 aliases:
   - Rutterkin
 ---
-# [[5. Mechanics\Bestiary\Fiend\Rutterkin (MPMM).md|Rutterkin]]
+# [[5. Mechanics/Bestiary/Fiend/Rutterkin (MPMM).md|Rutterkin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 210, Mordenkainen's Tome of Foes p. 136*
 
 > [!quote] A quote from Tasha  
@@ -24,7 +24,7 @@ aliases:
 
 Rutterkins are warped demons that roam the Abyss in mobs, constantly searching for intruders to surround and devour. These Fiends protect the Abyss from non-demons. When they spot any interlopers, they gather in a crowd and surge forward, emitting a wave of fear in advance of their attacks that leaves their victims terrified and rooted in place.
 
-Creatures bitten by rutterkins are exposed to a terrible disease that infects them with the corrupting influence of the Abyss. Victims afflicted with the disease experience tremendous pain as their bodies become disfigured, flesh twisting around the bones, until they transform to join the mass of [[5. Mechanics/Bestiary/Fiend/Manes.md|manes]] demons that follow in the wake of the rutterkin mob that laid them low.
+Creatures bitten by rutterkins are exposed to a terrible disease that infects them with the corrupting influence of the Abyss. Victims afflicted with the disease experience tremendous pain as their bodies become disfigured, flesh twisting around the bones, until they transform to join the mass of [[/5. Mechanics/Bestiary/Fiend/Manes.md|manes]] demons that follow in the wake of the rutterkin mob that laid them low.
 
 ```statblock
 "name": "Rutterkin (MPMM)"
@@ -48,7 +48,8 @@ Creatures bitten by rutterkins are exposed to a terrible disease that infects th
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 11"
 "languages": "understands Abyssal but can't speak"
 "cr": "2"
 "traits":
@@ -64,20 +65,20 @@ Creatures bitten by rutterkins are exposed to a terrible disease that infects th
       \ Fear of all rutterkins for 24 hours."
     "name": "Immobilizing Fear"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (3d6 + 2) piercing damage. If the target is a creature, it must succeed on\
       \ a DC 13 Constitution saving throw against disease or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]].\
       \ At the end of each long rest, the [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
       \ target can repeat the saving throw, ending the effect on itself on a success.\
       \ If the target is reduced to 0 hit points while [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
-      \ in this way, it dies and instantly transforms into a living [[5. Mechanics/Bestiary/Fiend/Manes.md|manes]].\
-      \ The transformation can be undone only by a [[5. Mechanics/Spells/Wish.md|wish]]\
+      \ in this way, it dies and instantly transforms into a living [[/5. Mechanics/Bestiary/Fiend/Manes.md|manes]].\
+      \ The transformation can be undone only by a [[/5. Mechanics/Spells/Wish.md|wish]]\
       \ spell."
     "name": "Bite"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/rutterkin-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/rutterkin-mpmm.webp"
 ```
 ^statblock
 

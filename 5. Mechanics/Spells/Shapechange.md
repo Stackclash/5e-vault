@@ -20,18 +20,15 @@ school: Transmutation
 level: 9
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Self
+somatic: true
+verbal: true
+material: >-
+  a jade circlet worth at least 1,500 gp, which you must place on your head
+  before you cast the spell
 aliases:
   - Shapechange
-range: Self
-material: >-
-  A jade circlet worth at least 1,500 gp, which you must place on your head
-  before you cast the spell.
-concentration: true
 ---
 # Shapechange
 *9th-level, Transmutation*  
@@ -53,6 +50,6 @@ When you transform, you choose whether your equipment falls to the ground, merge
 
 During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Druid (Circle of the Cycle)](compendium/lists/list-spells-classes-circle-of-the-cycle-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Skin Wearer)](compendium/lists/list-spells-classes-skin-wearer-hhhviii.md "subclass=HHHVIII")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of the Cycle)](/compendium/lists/list-spells-classes-circle-of-the-cycle-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Skin Wearer)](/compendium/lists/list-spells-classes-skin-wearer-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

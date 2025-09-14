@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: urban
 size: Large
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Warhorse (Plate Barding)
 ---
-# [[5. Mechanics\Bestiary\Beast\Warhorse Plate Barding.md|Warhorse (Plate Barding)]]
+# [[5. Mechanics/Bestiary/Beast/Warhorse Plate Barding.md|Warhorse (Plate Barding)]]
 *Source: Monster Manual p. 340, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -23,7 +23,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Barding.md|plate barding]]"
+"ac_class": "[[/5. Mechanics/Items/Barding.md|plate barding]]"
 "hp": !!int "19"
 "hit_dice": "3d10 + 3"
 "modifier": !!int "1"
@@ -46,7 +46,7 @@ aliases:
       \ can make another attack with its hooves against it as a bonus action."
     "name": "Trampling Charge"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage."
     "name": "Hooves"
 "source":

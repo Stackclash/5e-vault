@@ -13,7 +13,7 @@ tags:
 aliases:
   - Deadbark Dryad
 ---
-# [[5. Mechanics\Bestiary\Fey\Deadbark Dryad (VEOR).md|Deadbark Dryad]]
+# [[5. Mechanics/Bestiary/Fey/Deadbark Dryad (VEOR).md|Deadbark Dryad]]
 *Source: Vecna: Eve of Ruin p. 216*
 
 When a dryad fails to protect its wilderness home from a great evil and is unable to forgive itself, the dryad might transform into a wicked Fey monster called a deadbark dryad. Such dryads relinquish any compassion they once felt for living beings and instead harbor hatred for anyone who dares to invade their rotted demesne.
@@ -43,8 +43,8 @@ Deadbark dryads are most often found on Krynn, but occasionally they are found o
   - !!int "18"
 "speed": "30 ft."
 "saves":
-  - "constitution": "+9"
-  - "charisma": "+9"
+  - "constitution": !!int "9"
+  - "charisma": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+8"
@@ -53,7 +53,8 @@ Deadbark dryads are most often found on Krynn, but occasionally they are found o
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 18"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 18"
 "languages": "Elvish, Sylvan"
 "cr": "13"
 "traits":
@@ -69,13 +70,13 @@ Deadbark dryads are most often found on Krynn, but occasionally they are found o
 "actions":
   - "desc": "The dryad makes two Poisonous Thorn attacks and one Sapping Vine attack."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 120\
-      \ ft., one target. Hit: 13 (4d4 + 3) piercing damage plus 10 (3d6) poison\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +8 to hit, reach 5 ft. or range 120\
+      \ ft., one target. *Hit:* 13 (4d4 + 3) piercing damage plus 10 (3d6) poison\
       \ damage. If the target is a creature, it must succeed on a DC 17 Constitution\
       \ saving throw or have the [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
       \ condition until the start of the dryad's next turn."
     "name": "Poisonous Thorn"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 30 ft., one target. Hit: The\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 30 ft., one target. *Hit:* The\
       \ target has the [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] condition\
       \ (escape DC 16). Until the grapple ends, the target has the [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
       \ condition, and the dryad can't use the same vine on another target. A creature\
@@ -89,14 +90,14 @@ Deadbark dryads are most often found on Krynn, but occasionally they are found o
       \ points."
     "name": "Sapping Vine"
   - "desc": "The dryad casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt\
-      \ will: [[5. Mechanics/Spells/Druidcraft.md|Druidcraft]]\n\n2/day each: [[5. Mechanics/Spells/Pass Without Trace.md|Pass\
-      \ without Trace]], [[5. Mechanics/Spells/Spike Growth.md|Spike Growth]]\n\
-      \n1/day: [[5. Mechanics/Spells/Dispel Magic.md|Dispel Magic]]"
+      \ and using Charisma as the spellcasting ability (spell save DC 17):\n\n**At\
+      \ will:** [[/5. Mechanics/Spells/Druidcraft.md|Druidcraft]]\n\n**2/day each:**\
+      \ [[/5. Mechanics/Spells/Pass Without Trace.md|Pass without Trace]], [[/5. Mechanics/Spells/Spike Growth.md|Spike Growth]]\n\
+      \n**1/day:** [[/5. Mechanics/Spells/Dispel Magic.md|Dispel Magic]]"
     "name": "Spellcasting"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fey/token/deadbark-dryad-veor.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/deadbark-dryad-veor.webp"
 ```
 ^statblock
 

@@ -11,7 +11,7 @@ weight: 5
 ---
 # Tome of Clear Thought
 *Wondrous item, major, very rare*  
-![[5. Mechanics/Items/img/tome-of-clear-thought.webp#right]]  
+![[/5. Mechanics/Items/img/tome-of-clear-thought.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

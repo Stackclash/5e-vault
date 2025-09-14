@@ -17,7 +17,7 @@ aliases:
 
 This rod is actually a large bone from a nondescript beast. A small bell and engraved tag hang from its side by a leather strap. The rod can also be used as a magic club that grants a +2 bonus to attack and damage rolls made with it.
 
-The rod has 6 charges and regains `dice:1d6|noform|noparens|avg` (`d6`) expended charges daily at dawn. While holding the rod, you can use an action to expend 1 of its charges to cast the faithful hound spell with the following changes:
+The rod has 6 charges and regains `dice:1d6|noform|noparens|avg` (`1d6`) expended charges daily at dawn. While holding the rod, you can use an action to expend 1 of its charges to cast the faithful hound spell with the following changes:
 
 - The spell ends early if you cast the spell again.  
 - The hound has an attack bonus of +10.  

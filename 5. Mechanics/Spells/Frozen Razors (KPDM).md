@@ -16,17 +16,30 @@ classes:
   - Wizard
 school: Evocation
 level: 3
+damage:
+  base: 2d6
+  scaling:
+    damage: 1d6
+    level: 4
+  types:
+    - cold
+    - slashing
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 90 feet
+somatic: true
+verbal: true
+material: water from a melted icicle
+area:
+  shape: cube
+  size: 20
 aliases:
   - Frozen Razors
-concentration: true
-material: water from a melted icicle
 ---
 # Frozen Razors
 *3rd-level, Evocation*  
@@ -40,8 +53,8 @@ Razor-sharp blades of ice erupt from the ground or other surface, filling a 20-f
 
 A creature that takes cold damage from frozen razors is reduced to half speed until the start of its next turn.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the slashing or cold damage (your choice) increases by `dice:1d6|noform|noparens|avg` (`d6`) for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the slashing or cold damage (your choice) increases by `dice:1d6|noform|noparens|avg` (`1d6`) for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 73*

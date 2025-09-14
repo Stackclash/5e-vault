@@ -16,15 +16,13 @@ school: Transmutation
 level: 3
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Self
+somatic: true
+verbal: true
+material: a bit of bat fur
 aliases:
   - Ears of the Bat
-concentration: true
-material: a bit of bat fur
 ---
 # Ears of the Bat
 *3rd-level, Transmutation*  
@@ -38,6 +36,6 @@ You gain the keen hearing and echolocation abilities of a bat. For the duration 
 
 You cannot use the [[/5. Mechanics/Rules/Senses.md#Blindsight\|blindsight]] ability while [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]]. While the spell is in effect, you have disadvantage on saving throws against spells and effects that deal thunder damage.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 65*

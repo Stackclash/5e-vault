@@ -15,7 +15,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Royal Incinerator
-*Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, legendary (requires attunement by a druid, sorcerer, warlock, or wizard)*  
+*Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, legendary (requires attunement by a druid, sorcerer, warlock, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Royal-Incinerator.webp#right)  
 
 - **Damage**:
@@ -26,7 +26,7 @@ weight: 4
 
 This crimson and gold staff exudes authority and is always warm to the touch. While held, a mote of harmless fire sparks into life and floats above its crownlike head.
 
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. On a hit, the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) fire damage. You have resistance to fire damage while you hold this staff.
+This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. On a hit, the target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) fire damage. You have resistance to fire damage while you hold this staff.
 
 The staff has 15 charges for the following properties. The staff regains `dice:2d6+3|noform|noparens|avg` (`2d6 + 3`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff erupts into a pillar of flame and is destroyed. The flames erupt in a 20-foot-radius cylinder that's 80 feet tall. Each creature in the area must make a DC 17 Dexterity saving throw, taking `dice:8d6|noform|noparens|avg` (`8d6`) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -36,6 +36,6 @@ When a creature that you can see hits you with an attack while you're holding th
 
 ## Spells
 
-While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] (4 charges, warm shield only), [[5. Mechanics/Spells/Fireball.md\|fireball]] (3 or more charges), or [[5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] (2 or more charges). When you cast [[5. Mechanics/Spells/Fireball.md\|fireball]] or [[5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] from the staff in this way, you can increase the spell slot level by one for each additional charge you expend.
+While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] (4 charges, warm shield only), [[/5. Mechanics/Spells/Fireball.md\|fireball]] (3 or more charges), or [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] (2 or more charges). When you cast [[/5. Mechanics/Spells/Fireball.md\|fireball]] or [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] from the staff in this way, you can increase the spell slot level by one for each additional charge you expend.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 152*

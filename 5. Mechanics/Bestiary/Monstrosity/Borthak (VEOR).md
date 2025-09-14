@@ -13,7 +13,7 @@ tags:
 aliases:
   - Borthak
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Borthak (VEOR).md|Borthak]]
+# [[5. Mechanics/Bestiary/Monstrosity/Borthak (VEOR).md|Borthak]]
 *Source: Vecna: Eve of Ruin p. 212*
 
 Borthaks are irascible, wolflike behemoths that ravage northern wetlands and alpine fens on Krynn. Few mountain animals can challenge a borthak physically. Its powerful jaws, acidic spittle, and lightning-quick tail make the borthak an apex predator in its home territory.
@@ -39,11 +39,12 @@ Luckily for most wetland dwellers, borthaks rarely congregate. Unluckily, a sing
   - !!int "15"
 "speed": "30 ft."
 "saves":
-  - "strength": "+12"
-  - "constitution": "+11"
-  - "charisma": "+7"
+  - "strength": !!int "12"
+  - "constitution": !!int "11"
+  - "charisma": !!int "7"
 "damage_resistances": "acid, cold"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": ""
 "cr": "15"
 "traits":
@@ -62,10 +63,10 @@ Luckily for most wetland dwellers, borthaks rarely congregate. Unluckily, a sing
   - "desc": "The borthak makes one Bite attack or uses Noxious Regurgitation if available,\
       \ and it makes two Stomp attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 16\
       \ (2d8 + 7) piercing damage plus 7 (2d6) acid damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 11\
       \ (1d8 + 7) bludgeoning damage."
     "name": "Stomp"
   - "desc": "The borthak spews acid at a creature it can see within 120 feet of itself.\
@@ -80,6 +81,9 @@ Luckily for most wetland dwellers, borthaks rarely congregate. Unluckily, a sing
       \ and any creature within 5 feet of it must succeed on a DC 16 Dexterity saving\
       \ throw or take 16 (2d8 + 7) bludgeoning damage."
     "name": "Reactive Tail"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the borthak can expend a use to take one of the following actions. The borthak\
+  \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The borthak moves up to its speed without provoking opportunity attacks."
     "name": "Move"
@@ -87,7 +91,7 @@ Luckily for most wetland dwellers, borthaks rarely congregate. Unluckily, a sing
     "name": "Bite (Costs 2 Actions)"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/borthak-veor.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/borthak-veor.webp"
 ```
 ^statblock
 

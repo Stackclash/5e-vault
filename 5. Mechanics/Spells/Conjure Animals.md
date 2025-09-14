@@ -18,16 +18,20 @@ classes:
   - Wizard (Hedge Mage)
 school: Conjuration
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Conjure Animals
-range: 60 feet
-concentration: true
 ---
 # Conjure Animals
 *3rd-level, Conjuration*  
@@ -52,6 +56,6 @@ The DM has the creatures' statistics.
 
 **At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Bard (Greenleaf College)](compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [Bard (Greenleaf College)](/compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 225. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

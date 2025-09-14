@@ -9,7 +9,7 @@ aliases:
 ---
 # Lich
 
-## Lair actions
+## Lair Actions
 _Source: Monster Manual_
 
 On initiative count 20 (losing initiative ties), the lich can take a lair action to cause one of the following magical effects; the lich can't use the same effect two rounds in a row:

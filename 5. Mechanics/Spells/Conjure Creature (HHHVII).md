@@ -21,13 +21,12 @@ level: 5
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: 'the intact heart of the creature you wish to conjure, which the spell consumes'
 aliases:
   - Conjure Creature
-material: 'the intact heart of the creature you wish to conjure, which the spell consumes'
 ---
 # Conjure Creature
 *5th-level, Conjuration*  
@@ -43,6 +42,6 @@ The conjured creature immediately performs one action of your choice from its st
 
 A creature's heart may be harvested with a DC 10 "harvesting check" unless otherwise stated in its harvesting table.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Paladin (Oath of Legacy)](compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Harvester Domain)](compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Harvester Domain)](/compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 69*

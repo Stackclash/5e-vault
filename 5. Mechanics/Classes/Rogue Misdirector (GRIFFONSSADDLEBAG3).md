@@ -63,7 +63,7 @@ You can use this feature a number of times equal to your Charisma modifier (a mi
 
 ### Bonus Spells (Level 3)
 
-Also at 3rd level, you learn the minor illusion cantrip. When you reach 9th level, you can cast the [[5. Mechanics/Spells/Major Image.md\|major image]] or [[5. Mechanics/Spells/Mirror Image.md\|mirror image]] spell; once you cast one of these spells, you can't cast that spell again until you finish a long rest. Charisma is your spellcasting ability for these spells.
+Also at 3rd level, you learn the minor illusion cantrip. When you reach 9th level, you can cast the [[/5. Mechanics/Spells/Major Image.md\|major image]] or [[/5. Mechanics/Spells/Mirror Image.md\|mirror image]] spell; once you cast one of these spells, you can't cast that spell again until you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Improved Conjure Projection (Level 9)
 

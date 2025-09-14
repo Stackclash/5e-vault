@@ -10,4 +10,4 @@ aliases:
 
 ## Cantrip
 
-- [[5. Mechanics/Spells/Mage Hand.md \|"PHB"]] as cantrip
+- [[/5. Mechanics/Spells/Mage Hand.md \|"PHB"]] as cantrip

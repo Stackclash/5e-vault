@@ -23,6 +23,6 @@ This wand has 5 charges. While holding this wand, you may spend an action and 1 
 - **5. Stunning Ray.** The targeted creature must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] for 1 minute. The target can repeat the saving throw at the start of each of its turns, ending the effect on itself on a success.  
 - **6. Telekinetic Ray.** If the target is a creature, it must make a DC 13 Strength saving throw. On a failed save, you move it up to 30 feet in any direction, and it is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the ray's telekinetic grip until the start of your next turn or until you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is telekinetically moved up to 30 feet in any direction. You can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.  
 
-The wand recovers `dice:1d4|noform|noparens|avg` (`d4`) charges at dawn. When you use the last charge of the wand, there is a 10 percent chance that it crumbles into ashes and is destroyed.
+The wand recovers `dice:1d4|noform|noparens|avg` (`1d4`) charges at dawn. When you use the last charge of the wand, there is a 10 percent chance that it crumbles into ashes and is destroyed.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 62*

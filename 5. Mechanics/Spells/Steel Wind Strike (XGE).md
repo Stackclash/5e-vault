@@ -14,15 +14,22 @@ classes:
   - Wizard
 school: Conjuration
 level: 5
+damage:
+  base: 6d10
+  scaling:
+    damage: null
+    level: null
+  types:
+    - force
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: false
+material: a melee weapon worth at least 1 sp
 aliases:
   - Steel Wind Strike
-material: a melee weapon worth at least 1 sp
 ---
 # Steel Wind Strike
 *5th-level, Conjuration*  
@@ -36,6 +43,6 @@ You flourish the weapon used in the casting and then vanish to strike like the w
 
 You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 166*

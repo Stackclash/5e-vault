@@ -13,7 +13,7 @@ tags:
 aliases:
   - Tracker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tracker (SAF).md|Tracker]]
+# [[5. Mechanics/Bestiary/Humanoid/Tracker (SAF).md|Tracker]]
 *Source: Strongholds and Followers p. 78*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+6"
-  - "dexterity": "+6"
-  - "constitution": "+3"
-  - "intelligence": "+3"
-  - "wisdom": "+3"
-  - "charisma": "+3"
+  - "strength": !!int "6"
+  - "dexterity": !!int "6"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]]"
     "desc": "+5"
@@ -52,18 +52,18 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:*\
       \ 8 (1d8 + 4) piercing damage.\n\nAt 7th level, retainers can take two signature\
       \ attacks per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nThe tracker casts the [[5. Mechanics/Spells/Hunters Mark.md|hunter's\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nThe tracker casts the [[/5. Mechanics/Spells/Hunters Mark.md|hunter's\
       \ mark]] spell."
     "name": "Hunter's Mark (3/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe tracker casts the [[5. Mechanics/Spells/Find Traps.md|find traps]]\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe tracker casts the [[/5. Mechanics/Spells/Find Traps.md|find traps]]\
       \ spell."
     "name": "Find Traps (3/Day)"
 "reactions":
-  - "desc": "Prerequisite: 7th-level retainer\n\nWhen a creature the tracker can\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nWhen a creature the tracker can\
       \ see enters a space adjacent to the tracker's leader, the tracker may use their\
       \ reaction to make a signature attack against that creature. On a hit, the attack\
       \ also knocks the target [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."

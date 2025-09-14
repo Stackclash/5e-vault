@@ -15,7 +15,7 @@ tags:
 aliases:
   - Grick Alpha
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Grick Alpha.md|Grick Alpha]]
+# [[5. Mechanics/Bestiary/Monstrosity/Grick Alpha.md|Grick Alpha]]
 *Source: Monster Manual p. 173*
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
@@ -51,7 +51,8 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
   - !!int "9"
 "speed": "30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": ""
 "cr": "7"
 "traits":
@@ -63,18 +64,18 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
       \ If it hits with its tentacles, the grick can make one beak attack against\
       \ the same target."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage."
     "name": "Tail"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 22\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 22\
       \ (4d8 + 4) slashing damage."
     "name": "Tentacles"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 13\
       \ (2d8 + 4) piercing damage."
     "name": "Beak"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/grick-alpha.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/grick-alpha.webp"
 ```
 ^statblock
 

@@ -20,17 +20,30 @@ classes:
   - Wizard
 school: Evocation
 level: 3
+damage:
+  base: 2d8
+  scaling:
+    damage: 1d8
+    level: 4
+  types:
+    - fire
+    - radiant
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Bonus Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: Self
+somatic: true
+verbal: true
+material: 'a rebuke of evil, written in Celestial'
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Blade of Wrath
-concentration: true
-material: 'a rebuke of evil, written in Celestial'
 ---
 # Blade of Wrath
 *3rd-level, Evocation*  
@@ -46,8 +59,8 @@ You can use your action to make a melee spell attack with the blade. On a hit, t
 
 The blade sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, either the fire damage or the radiant damage (your choice) increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, either the fire damage or the radiant damage (your choice) increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Justice Domain)](compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Justice Domain)](/compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 175*

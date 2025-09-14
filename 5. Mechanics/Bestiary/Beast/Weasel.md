@@ -13,7 +13,7 @@ tags:
 aliases:
   - Weasel
 ---
-# [[5. Mechanics\Bestiary\Beast\Weasel.md|Weasel]]
+# [[5. Mechanics/Bestiary/Beast/Weasel.md|Weasel]]
 *Source: Monster Manual p. 340. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -46,12 +46,12 @@ aliases:
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 1\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 1\
       \ piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/weasel.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/weasel.webp"
 ```
 ^statblock
 

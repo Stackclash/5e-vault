@@ -10,17 +10,29 @@ classes:
   - Bard
 school: Necromancy
 level: 2
+damage:
+  base: 2d6
+  scaling:
+    damage: 1d6
+    level: 3
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+material: a pinch of bone dust
+area:
+  shape: sphere
+  size: 10
 aliases:
   - Ectoplasm
-concentration: true
-material: a pinch of bone dust
 ---
 # Ectoplasm
 *2nd-level, Necromancy*  
@@ -36,8 +48,8 @@ As a bonus action, you can move the manifestation up to 30 feet. It can move thr
 
 When you move the manifestation, it can flow through a gap as small as 1 square inch, over barriers up to 5 feet tall, and across pits up to 10 feet wide. The manifestation sheds dim light in a 10-foot radius. It also leaves a thin film of ectoplasmic residue on everything it touches or moves through. This residue doesn't illuminate the surroundings but does glow dimly enough to show the manifestation's path. The residue dissipates 1 round after it is deposited.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 338*

@@ -14,17 +14,31 @@ classes:
   - Ranger
 school: Conjuration
 level: 4
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
+    - poison
+    - slashing
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+material: a drop of honey
+area:
+  shape: sphere
+  size: 15
 aliases:
   - Storm of Wings
-concentration: true
-material: a drop of honey
 ---
 # Storm of Wings
 *4th-level, Conjuration*  
@@ -44,6 +58,6 @@ As a bonus action on your turn, you can move the storm up to 30 feet. As an acti
 
 **Insects**. The creature takes `dice:4d6|noform|noparens|avg` (`4d6`) poison damage, and it must make a Constitution saving throw each time it casts a spell while within the storm. On a failed save, the creature fails to cast the spell, losing the action but not the spell slot.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 110*

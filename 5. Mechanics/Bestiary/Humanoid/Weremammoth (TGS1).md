@@ -16,7 +16,7 @@ tags:
 aliases:
   - Weremammoth
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Weremammoth (TGS1).md|Weremammoth]]
+# [[5. Mechanics/Bestiary/Humanoid/Weremammoth (TGS1).md|Weremammoth]]
 *Source: The Griffon's Saddlebag, Book 1 p. 176*
 
 ```statblock
@@ -43,7 +43,8 @@ aliases:
     "desc": "+4"
 "damage_immunities": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": "Common (can't speak in mammoth form)"
 "cr": "8"
 "traits":
@@ -67,17 +68,17 @@ aliases:
       \ form, it makes two attacks with its maul or three attacks with its spears.\
       \ In hybrid form, it can attack like a mammoth or a humanoid."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 16\
       \ (2d8 + 7) piercing damage."
     "name": "Gore (Mammoth or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one prone creature. Hit:\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one prone creature. *Hit:*\
       \ 16 (2d8 + 7) bludgeoning damage."
     "name": "Stomp (Mammoth or Hybrid Form Only)"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 18\
       \ (2d10 + 7) bludgeoning damage."
     "name": "Maul (Humanoid or Hybrid Form Only)"
-  - "desc": "Melee  or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 10 (1d6 + 7) piercing damage, or 11 (1d8 + 7) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +10 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 10 (1d6 + 7) piercing damage, or 11 (1d8 + 7) piercing\
       \ damage if used with two hands to make a melee attack."
     "name": "Spear (Humanoid or Hybrid Form Only)"
 "source":

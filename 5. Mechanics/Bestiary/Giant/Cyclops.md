@@ -19,7 +19,7 @@ tags:
 aliases:
   - Cyclops
 ---
-# [[5. Mechanics\Bestiary\Giant\Cyclops.md|Cyclops]]
+# [[5. Mechanics/Bestiary/Giant/Cyclops.md|Cyclops]]
 *Source: Monster Manual p. 45, Vecna: Eve of Ruin. Available in the Basic Rules (2014)*
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
@@ -66,16 +66,16 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 "actions":
   - "desc": "The cyclops makes two greatclub attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 19\
       \ (3d8 + 6) bludgeoning damage."
     "name": "Greatclub"
-  - "desc": "Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +9 to hit, range 30/120 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
 "source":
   - "MM"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Giant/token/cyclops.webp"
+"image": "/5. Mechanics/Bestiary/Giant/token/cyclops.webp"
 ```
 ^statblock
 

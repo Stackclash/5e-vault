@@ -13,7 +13,7 @@ tags:
 aliases:
   - White Tusk Juggernaut
 ---
-# [[5. Mechanics\Bestiary\Humanoid\White Tusk Juggernaut (SAF).md|White Tusk Juggernaut]]
+# [[5. Mechanics/Bestiary/Humanoid/White Tusk Juggernaut (SAF).md|White Tusk Juggernaut]]
 *Source: Strongholds and Followers p. 138*
 
 The White Tusk orc clan named itself after its hulking warriors who, in addition to their massive bodies, possessed enormous white tusks. White Tusk juggernauts pride themselves not just in their battle prowess but also in the size and sharpness of their monstrous lower canines. Some juggernauts have their tusks pierced and display fearsome jewelry from their teeth, others decorate them with ink or paint, and those who can withstand the pain even have symbols or runes inscribed upon them.
@@ -27,7 +27,7 @@ A juggernaut's immense muscles allow them to wield oversized weapons worthy of t
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "20"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate armor]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "95"
 "hit_dice": "10d10 + 40"
 "modifier": !!int "-1"
@@ -40,14 +40,15 @@ A juggernaut's immense muscles allow them to wield oversized weapons worthy of t
   - !!int "8"
 "speed": "25 ft."
 "saves":
-  - "strength": "+6"
-  - "wisdom": "+3"
+  - "strength": !!int "6"
+  - "wisdom": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+7"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "Orc"
 "cr": "4"
 "traits":
@@ -61,11 +62,11 @@ A juggernaut's immense muscles allow them to wield oversized weapons worthy of t
 "actions":
   - "desc": "The White Tusk juggernaut makes one tusk attack and one longsword attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11\
       \ (2d6 + 4) piercing damage. If the target is a creature, it must succeed on\
       \ a DC 14 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Tusk"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 13\
       \ (2d8 + 4) slashing damage."
     "name": "Longsword"
 "reactions":

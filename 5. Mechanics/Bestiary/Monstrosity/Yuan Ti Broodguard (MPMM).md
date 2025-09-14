@@ -16,10 +16,10 @@ tags:
 aliases:
   - Yuan-ti Broodguard
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Yuan Ti Broodguard (MPMM).md|Yuan-ti Broodguard]]
+# [[5. Mechanics/Bestiary/Monstrosity/Yuan Ti Broodguard (MPMM).md|Yuan-ti Broodguard]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203*
 
-> [!quote] A quote from Mordekainen  
+> [!quote] A quote from Mordenkainen  
 > 
 > Tasha once likened histachii to the bees that tend to larvae in beehives. It is a fanciful view of a horrific process.
 
@@ -48,16 +48,17 @@ Most broodguards are made from human captives forced to consume a magical brew t
   - !!int "4"
 "speed": "30 ft."
 "saves":
-  - "strength": "+4"
-  - "dexterity": "+4"
-  - "wisdom": "+2"
+  - "strength": !!int "4"
+  - "dexterity": !!int "4"
+  - "wisdom": !!int "2"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "Abyssal, Common, Draconic"
 "cr": "2"
 "traits":
@@ -68,16 +69,16 @@ Most broodguards are made from human captives forced to consume a magical brew t
 "actions":
   - "desc": "The broodguard makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
       \ + 2) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) slashing damage."
     "name": "Claw"
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-broodguard-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/yuan-ti-broodguard-mpmm.webp"
 ```
 ^statblock
 

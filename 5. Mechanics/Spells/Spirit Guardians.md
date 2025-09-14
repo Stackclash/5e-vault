@@ -20,18 +20,30 @@ classes:
   - Sorcerer (Fey Soul)
 school: Conjuration
 level: 3
+damage:
+  base: 3d8
+  scaling:
+    damage: 1d8
+    level: 4
+  types:
+    - necrotic
+    - radiant
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: Self (15-foot Radius)
+somatic: true
+verbal: true
+material: a holy symbol
+area:
+  shape: radius
+  size: 15
 aliases:
   - Spirit Guardians
-range: Self
-material: A holy symbol.
-concentration: true
 ---
 # Spirit Guardians
 *3rd-level, Conjuration*  
@@ -45,8 +57,8 @@ You call forth spirits to protect you. They flit around you to a distance of 15 
 
 When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature's speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes `dice:3d8|noform|noparens|avg` (`3d8`) radiant damage (if you are good or neutral) or `dice:3d8|noform|noparens|avg` (`3d8`) necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 3rd.
 
-**Classes**: [Sorcerer (Fey Soul)](compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Druid (Circle of the Spirits)](compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes War Domain.md\|Cleric (War Domain)]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes War Domain.md\|Cleric (War Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of the Spirits)](/compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer (Fey Soul)](/compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 278. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

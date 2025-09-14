@@ -14,8 +14,8 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Rod of Seven Parts
-*Weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), rod, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/rod-of-seven-parts.webp#right]]  
+*Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), rod, artifact (requires attunement)*  
+![[/5. Mechanics/Items/img/rod-of-seven-parts.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
@@ -23,7 +23,7 @@ weight: 4
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
 
-Eons ago, a war between the primordials and the gods scarred the planes of existence. A demon lord named [[4. World Almanac/NPCs/Miska The Wolf Spider (VEOR).md\|Miska the Wolf-Spider]] eventually pushed the primordials' enemies to the brink of annihilation.
+Eons ago, a war between the primordials and the gods scarred the planes of existence. A demon lord named [[/4. World Almanac/NPCs/Miska The Wolf Spider (VEOR).md\|Miska the Wolf-Spider]] eventually pushed the primordials' enemies to the brink of annihilation.
 
 Desperate to save themselves and their allies, powerful elemental beings called the Wind Dukes of Aaqa rose against Miska. Committed to the concept of law, the Wind Dukes descended from a people called the vaati, who once ruled many worlds. Seven Wind Dukes wove their power into an artifact called the Rod of Law. The dukes used the rod to imprison Miska on the plane of Pandemonium. As a result, the rod shattered into seven parts that were scattered throughout the multiverse. The rod thus became known as the Rod of Seven Parts.
 
@@ -37,13 +37,13 @@ Additionally, while holding one piece of the broken rod, you can use an action t
 
 | Piece | Spell |
 |-------|-------|
-| First | [[5. Mechanics/Spells/Commune.md\|Commune]] |
-| Second | [[5. Mechanics/Spells/Arcane Gate.md\|Arcane Gate]] |
-| Third | [[5. Mechanics/Spells/Reverse Gravity.md\|Reverse Gravity]] (spell save DC 18) |
-| Fourth | [[5. Mechanics/Spells/Regenerate.md\|Regenerate]] |
-| Fifth | [[5. Mechanics/Spells/Find The Path.md\|Find the Path]] |
-| Sixth | [[5. Mechanics/Spells/Mirage Arcane.md\|Mirage Arcane]] |
-| Seventh | [[5. Mechanics/Spells/Simulacrum.md\|Simulacrum]] |
+| First | [[/5. Mechanics/Spells/Commune.md\|Commune]] |
+| Second | [[/5. Mechanics/Spells/Arcane Gate.md\|Arcane Gate]] |
+| Third | [[/5. Mechanics/Spells/Reverse Gravity.md\|Reverse Gravity]] (spell save DC 18) |
+| Fourth | [[/5. Mechanics/Spells/Regenerate.md\|Regenerate]] |
+| Fifth | [[/5. Mechanics/Spells/Find The Path.md\|Find the Path]] |
+| Sixth | [[/5. Mechanics/Spells/Mirage Arcane.md\|Mirage Arcane]] |
+| Seventh | [[/5. Mechanics/Spells/Simulacrum.md\|Simulacrum]] |
 ^rod-pieces
 
 ## Possessing the Whole Rod
@@ -56,7 +56,7 @@ The Rod of Seven Parts functions for you as a magic quarterstaff that grants a +
 
 ## Rod Spellcasting
 
-The Rod of Seven Parts has 7 charges and regains `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) expended charges daily at dawn. While holding the rod, you can use an action to expend 1 charge and cast any of the spells in the Rod Pieces table. You can also use an action to cast [[5. Mechanics/Spells/Detect Evil And Good.md\|Detect Evil and Good]] from the rod without using any charges.
+The Rod of Seven Parts has 7 charges and regains `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) expended charges daily at dawn. While holding the rod, you can use an action to expend 1 charge and cast any of the spells in the Rod Pieces table. You can also use an action to cast [[/5. Mechanics/Spells/Detect Evil And Good.md\|Detect Evil and Good]] from the rod without using any charges.
 
 ## Ultimate Law
 
@@ -68,7 +68,7 @@ The only way to destroy the Rod of Seven Parts is to immerse the assembled rod i
 
 A piece of the rod may be temporarily destroyed in this way, but each piece re-forms one year after it has succumbed. A re-formed piece teleports to a random place in the multiverse.
 
-![[5. Mechanics/Items/img/rod-of-seven-parts-piece.webp#center\|A piece of the Rod of Seven Parts]]
+![[/5. Mechanics/Items/img/rod-of-seven-parts-piece.webp#center\|A piece of the Rod of Seven Parts]]
  
 
 *Source: Vecna: Eve of Ruin p. 8*

@@ -16,17 +16,26 @@ classes:
   - Warlock
 school: Transmutation
 level: 2
+damage:
+  base: 2d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - poison
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Self
+somatic: true
+verbal: true
+material: a sprig of milkweed
 aliases:
   - Poisonous Flesh
-concentration: true
-material: a sprig of milkweed
 ---
 # Poisonous Flesh
 *2nd-level, Transmutation*  
@@ -40,6 +49,6 @@ You make your flesh and blood poisonous, deterring creatures that might want to 
 
 If you are swallowed by a creature, immediately after you take whatever damage is dealt by the creature's digestion, the creature takes `dice:4d8|noform|noparens|avg` (`4d8`) poison damage and is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 hour. A successful Constitution saving throw negates the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition. On its next turn, the creature uses an action to spit you out.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 98*

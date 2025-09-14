@@ -9,7 +9,7 @@ aliases:
 ---
 # Bheur Hag
 
-## Lair actions
+## Lair Actions
 _Source: Volo's Guide to Monsters_
 
 The following lair actions are options for grandmothers and powerful aunties. Grandmothers usually have three to five lair actions, aunties usually only one (if they have any at all). Unless otherwise noted, any lair action that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability.
@@ -23,7 +23,7 @@ A powerful bheur hag might have the following additional lair action:
 
 - The hag creates a blizzard in a 40-foot-high, 20-foot radius cylinder centered on a point she can see within 120 feet of her. The effect lasts until initiative count 20 on the next round. The blizzard lightly obscures every creature and object in the area for the duration. A creature that enters the blizzard for the first time on a turn or starts its turn there is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] until initiative count 20 on the next round.  
 
-## Regional effects
+## Regional Effects
 _Source: Volo's Guide to Monsters_
 
 Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice:2d10|noform|noparens|avg` (`2d10`) days to fade away.
@@ -38,5 +38,5 @@ A powerful bheur hag creates one or more of the following additional regional ef
 
 - Small avalanches of snow intermittently fall, blocking a path or burying intruders. A buried creature is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] and has to hold its breath until it is dug out.  
 - Human-sized blocks of ice appear, containing frozen corpses. These corpses might break free and attack as zombies, or their spirits might attack as specters.  
-- Blizzards come without warning. A blizzard occurs once every `dice:2d12|noform|noparens|avg` (`2d12`) hours and lasts `dice:1d3|noform|noparens|avg` (`d3`) hours. During a storm, creatures moving overland travel at half normal speed, and normal visibility is reduced to 30 feet.  
+- Blizzards come without warning. A blizzard occurs once every `dice:2d12|noform|noparens|avg` (`2d12`) hours and lasts `dice:1d3|noform|noparens|avg` (`1d3`) hours. During a storm, creatures moving overland travel at half normal speed, and normal visibility is reduced to 30 feet.  
 - Roads, paths, and trails twist and turn back on themselves, making navigation in the area exceedingly difficult.

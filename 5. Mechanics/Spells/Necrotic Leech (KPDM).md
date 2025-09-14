@@ -18,12 +18,23 @@ classes:
   - Wizard
 school: Necromancy
 level: 5
+damage:
+  base: 8d10
+  scaling:
+    damage: 1d10
+    level: 6
+  types:
+    - necrotic
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Necrotic Leech
 ---
@@ -39,8 +50,8 @@ You channel destructive energy through your touch. Make a melee spell attack aga
 
 This spell has no effect on constructs or undead.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the spell's damage increases by `dice:1d10|noform|noparens|avg|text(d10)` for each slot level above 5th.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the spell's damage increases by `dice:1d10|noform|noparens|avg|text(1d10)` for each slot level above 5th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 96*

@@ -9,16 +9,16 @@ aliases:
 ---
 # Demilich
 
-## Lair actions
+## Lair Actions
 _Source: Monster Manual_
 
 On initiative count 20 (losing initiative ties), the demilich rolls a `dice:d20|noform|noparens|avg` (`d20`). On a result of 11 or higher, the demilich takes a lair action to cause one of the following effects. It can't use the same effect two rounds in a row.
 
 - The tomb trembles violently for a moment. Each creature on the floor of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].  
-- The demilich targets one creature it can see within 60 feet of it. An [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]] fills the space of the target, moving with it until initiative count 20 on the next round.  
+- The demilich targets one creature it can see within 60 feet of it. An [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]] fills the space of the target, moving with it until initiative count 20 on the next round.  
 - The demilich targets any number of creatures it can see within 30 feet of it. No target can regain hit points until initiative count 20 on the next round.  
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual_
 
 A demilich's tomb might have any or all of the following effects in place:

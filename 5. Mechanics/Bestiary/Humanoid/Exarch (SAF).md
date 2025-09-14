@@ -13,7 +13,7 @@ tags:
 aliases:
   - Exarch
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Exarch (SAF).md|Exarch]]
+# [[5. Mechanics/Bestiary/Humanoid/Exarch (SAF).md|Exarch]]
 *Source: Strongholds and Followers p. 80*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "18"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+3"
-  - "dexterity": "+3"
-  - "constitution": "+3"
-  - "intelligence": "+3"
-  - "wisdom": "+6"
-  - "charisma": "+6"
+  - "strength": !!int "3"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
     "desc": "+5"
@@ -52,17 +52,17 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "The diabolist casts the [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]]\
+  - "desc": "The diabolist casts the [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]]\
       \ cantrip (+6 to hit).\n\nAt 7th level, retainers can take two signature attacks\
       \ per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nThe diabolist casts the [[5. Mechanics/Spells/Blink.md|blink]]\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nThe diabolist casts the [[/5. Mechanics/Spells/Blink.md|blink]]\
       \ spell."
     "name": "Blink (3/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe diabolist casts the [[5. Mechanics/Spells/Greater Invisibility.md|greater\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe diabolist casts the [[/5. Mechanics/Spells/Greater Invisibility.md|greater\
       \ invisibility]] spell."
     "name": "Greater Invisibility (1/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe diabolist casts the [[5. Mechanics/Spells/Dominate Person.md|dominate\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe diabolist casts the [[/5. Mechanics/Spells/Dominate Person.md|dominate\
       \ person]] spell (spell save DC 15)."
     "name": "Dominate Person (3/Day)"
 "source":

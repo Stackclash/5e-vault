@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dream Witch
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Dream Witch (GRIFFONSSADDLEBAG3).md|Dream Witch]]
+# [[5. Mechanics/Bestiary/Humanoid/Dream Witch (GRIFFONSSADDLEBAG3).md|Dream Witch]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Goblinoid spellcasters that dabble in the magic surrounding dreams are sometimes given titles of soothsayer or prophet among goblin society. Their magic grows more powerful when among their spellcasting peers, approaching the likes of even hags.
@@ -25,7 +25,7 @@ Goblinoid spellcasters that dabble in the magic surrounding dreams are sometimes
 "subtype": "goblin"
 "alignment": "Neutral Evil"
 "ac": !!int "14"
-"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
+"ac_class": "[[/5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "71"
 "hit_dice": "13d6 + 26"
 "modifier": !!int "2"
@@ -46,16 +46,17 @@ Goblinoid spellcasters that dabble in the magic surrounding dreams are sometimes
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": "Common, Goblin, Sylvan"
 "cr": "3"
 "traits":
   - "desc": "The witch's innate spellcasting ability is Charisma (spell save DC 13).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Disguise Self.md|disguise\
-      \ self]]\n\n3/day each: [[5. Mechanics/Spells/Bane.md|bane]],\
-      \ [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Sleep.md|sleep]]\
-      \ (7d8)\n\n1/day each: [[5. Mechanics/Spells/Dream.md|dream]], [[5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic pattern]]"
+      \n**At will:** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Disguise Self.md|disguise\
+      \ self]]\n\n**3/day each:** [[/5. Mechanics/Spells/Bane.md|bane]],\
+      \ [[/5. Mechanics/Spells/Command.md|command]], [[/5. Mechanics/Spells/Sleep.md|sleep]]\
+      \ (7d8)\n\n**1/day each:** [[/5. Mechanics/Spells/Dream.md|dream]], [[/5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic pattern]]"
     "name": "Innate Spellcasting"
   - "desc": "The witch has advantage on saving throws against spells and other magical\
       \ effects."
@@ -71,8 +72,8 @@ Goblinoid spellcasters that dabble in the magic surrounding dreams are sometimes
 "actions":
   - "desc": "The witch makes two attacks with its dagger."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
     "name": "Dagger"
 "reactions":
   - "desc": "When the [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\

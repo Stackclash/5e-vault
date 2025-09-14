@@ -48,7 +48,7 @@ aliases:
 
 ### Nature Domain (Level 1)
 
-Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as Silvanus, [[5. Mechanics/Deities/Greyhawk Obad H(AI).md\|Obad-Hai]], [[5. Mechanics/Deities/Dragonlance Chislev (PHB).md\|Chislev]], [[5. Mechanics/Deities/Eberron Balinor.md\|Balinor]], and [[5. Mechanics/Deities/Greek Pan.md\|Pan]]) to friendly deities associated with particular springs and groves (such as Eldath). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
+Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as Silvanus, [[/5. Mechanics/Deities/Greyhawk Obad H(AI).md\|Obad-Hai]], [[/5. Mechanics/Deities/Dragonlance Chislev (PHB).md\|Chislev]], [[/5. Mechanics/Deities/Eberron Balinor.md\|Balinor]], and [[/5. Mechanics/Deities/Greek Pan.md\|Pan]]) to friendly deities associated with particular springs and groves (such as Eldath). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -56,11 +56,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Animal Friendship.md\|animal friendship]], [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
-| 3rd | [[5. Mechanics/Spells/Barkskin.md\|barkskin]], [[5. Mechanics/Spells/Spike Growth.md\|spike growth]] |
-| 5th | [[5. Mechanics/Spells/Plant Growth.md\|plant growth]], [[5. Mechanics/Spells/Wind Wall.md\|wind wall]] |
-| 7th | [[5. Mechanics/Spells/Dominate Beast.md\|dominate beast]], [[5. Mechanics/Spells/Grasping Vine.md\|grasping vine]] |
-| 9th | [[5. Mechanics/Spells/Insect Plague.md\|insect plague]], [[5. Mechanics/Spells/Tree Stride.md\|tree stride]] |
+| 1st | [[/5. Mechanics/Spells/Animal Friendship.md\|animal friendship]], [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
+| 3rd | [[/5. Mechanics/Spells/Barkskin.md\|barkskin]], [[/5. Mechanics/Spells/Spike Growth.md\|spike growth]] |
+| 5th | [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]], [[/5. Mechanics/Spells/Wind Wall.md\|wind wall]] |
+| 7th | [[/5. Mechanics/Spells/Dominate Beast.md\|dominate beast]], [[/5. Mechanics/Spells/Grasping Vine.md\|grasping vine]] |
+| 9th | [[/5. Mechanics/Spells/Insect Plague.md\|insect plague]], [[/5. Mechanics/Spells/Tree Stride.md\|tree stride]] |
 ^nature-domain-spells
 
 ### Acolyte of Nature (Level 1)
@@ -83,14 +83,14 @@ Starting at 6th level, when you or a creature within 30 feet of you takes acid, 
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Divine Strike feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Master of Nature (Level 17)
 

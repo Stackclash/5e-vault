@@ -18,7 +18,7 @@ tags:
 aliases:
   - Lonely Sorrowsworn
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Lonely Sorrowsworn (MPMM).md|Lonely Sorrowsworn]]
+# [[5. Mechanics/Bestiary/Monstrosity/Lonely Sorrowsworn (MPMM).md|Lonely Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232, Vecna: Eve of Ruin*
 
 The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but the need for companionship is never manifested more dramatically than in the lonely sorrowsworn—also called the Lonely. When these sorrowsworn spot other creatures, they feel keenly the need for interaction and launch their harpoon-like arms to drag their victims closer.
@@ -46,7 +46,8 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - !!int "6"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Common"
 "cr": "9"
 "traits":
@@ -60,7 +61,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "actions":
   - "desc": "The sorrowsworn makes one Harpoon Arm attack, and it uses Sorrowful Embrace."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 60 ft., one target. Hit: 21\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 60 ft., one target. *Hit:* 21\
       \ (4d8 + 3) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 15) if it is a Large or smaller creature. The sorrowsworn has two\
       \ harpoon arms and can grapple up to two creatures at once."
@@ -75,7 +76,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - "MPMM"
   - "MTF"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/lonely-sorrowsworn-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/lonely-sorrowsworn-mpmm.webp"
 ```
 ^statblock
 

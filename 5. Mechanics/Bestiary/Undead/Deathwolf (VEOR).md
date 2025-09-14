@@ -13,7 +13,7 @@ tags:
 aliases:
   - Deathwolf
 ---
-# [[5. Mechanics\Bestiary\Undead\Deathwolf (VEOR).md|Deathwolf]]
+# [[5. Mechanics/Bestiary/Undead/Deathwolf (VEOR).md|Deathwolf]]
 *Source: Vecna: Eve of Ruin p. 217*
 
 A deathwolf combines the might of a werewolf, the unholy powers of undeath, and the magic of the full moon. Deathwolves are most common on Krynn but occasionally are found in other locations where lycanthropy and necromancy are prevalent.
@@ -44,9 +44,9 @@ To create a deathwolf, a necromancer reanimates the body of a powerful werewolf 
   - !!int "19"
 "speed": "40 ft."
 "saves":
-  - "strength": "+10"
-  - "dexterity": "+8"
-  - "charisma": "+9"
+  - "strength": !!int "10"
+  - "dexterity": !!int "8"
+  - "charisma": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+13"
@@ -56,7 +56,8 @@ To create a deathwolf, a necromancer reanimates the body of a powerful werewolf 
   \ that aren't silvered"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 23"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 23"
 "languages": "Common"
 "cr": "15"
 "traits":
@@ -69,15 +70,15 @@ To create a deathwolf, a necromancer reanimates the body of a powerful werewolf 
   - "desc": "The deathwolf makes one Bite attack and two Claw attacks. It can replace\
       \ one of these attacks with Phantom Deathwolf if available."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (2d8 + 5) piercing damage plus 9 (2d8) necrotic damage. The target must succeed\
       \ on a DC 16 Wisdom saving throw or have disadvantage on saving throws against\
       \ the [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]] condition. This\
-      \ curse lasts until removed by the [[5. Mechanics/Spells/Remove Curse.md|Remove Curse]]\
+      \ curse lasts until removed by the [[/5. Mechanics/Spells/Remove Curse.md|Remove Curse]]\
       \ spell or other magic."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12\
-      \ (2d6 + 5) slashing damage plus 4 (d8) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12\
+      \ (2d6 + 5) slashing damage plus 4 (1d8) necrotic damage."
     "name": "Claw"
   - "desc": "The deathwolf creates a terrifying phantom of itself in the mind of a\
       \ creature the deathwolf can see within 60 feet of itself. The target must succeed\
@@ -89,9 +90,6 @@ To create a deathwolf, a necromancer reanimates the body of a powerful werewolf 
       \ the effect on itself on a success."
     "name": "Phantom Deathwolf (Recharge 5-6)"
 "reactions":
-  - "desc": "The deathwolf can take up to two reactions per round but only one per\
-      \ turn."
-    "name": ""
   - "desc": "When a creature within 5 feet of the deathwolf makes an attack roll against\
       \ it, the deathwolf forces the creature to succeed on a DC 17 Wisdom saving\
       \ throw or have disadvantage on that roll. After the attack hits or misses,\
@@ -102,7 +100,7 @@ To create a deathwolf, a necromancer reanimates the body of a powerful werewolf 
     "name": "Phase Step"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Undead/token/deathwolf-veor.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/deathwolf-veor.webp"
 ```
 ^statblock
 

@@ -30,14 +30,12 @@ level: 2
 ritual: true
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: a bit of fur from a bloodhound
 aliases:
   - Locate Animals or Plants
-range: Self
-material: A bit of fur from a bloodhound.
 ---
 # Locate Animals or Plants
 *2nd-level, Divination (ritual)*  
@@ -49,6 +47,6 @@ material: A bit of fur from a bloodhound.
 
 Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 
-**Classes**: [Cleric (Hunting Domain)](compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [Cleric (Ocean Domain)](compendium/lists/list-spells-classes-ocean-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Warlock (The Apex Predator)](compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Cleric (Hunger Domain)](compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [Cleric (Harvester Domain)](compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Harvester Domain)](/compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [Cleric (Hunger Domain)](/compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [Cleric (Hunting Domain)](/compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [Cleric (Ocean Domain)](/compendium/lists/list-spells-classes-ocean-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Warlock (The Apex Predator)](/compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 256. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

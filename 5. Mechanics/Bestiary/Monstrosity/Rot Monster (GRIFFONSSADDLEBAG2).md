@@ -13,7 +13,7 @@ tags:
 aliases:
   - Rot Monster
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Rot Monster (GRIFFONSSADDLEBAG2).md|Rot Monster]]
+# [[5. Mechanics/Bestiary/Monstrosity/Rot Monster (GRIFFONSSADDLEBAG2).md|Rot Monster]]
 *Source: The Griffon's Saddlebag, Book 2 p. 362*
 
 Considered a cousin to rust monsters in behavior if not biology, the rot monster thrives on spoiled, contaminated, or rotting food and drinks—consuming them without suffering any ill effects. Its appearance is not unlike a featherless, scaly-skinned vulture, though its wings are almost vestigial. A vicious scavenger, it is willing to stalk living prey when the pickings are slim. In this instance, it shows a terrifying ability to rapidly putrefy organic material with its talons.
@@ -41,7 +41,8 @@ Considered a cousin to rust monsters in behavior if not biology, the rot monster
     "desc": "+3"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": ""
 "cr": "1"
 "traits":
@@ -64,8 +65,8 @@ Considered a cousin to rust monsters in behavior if not biology, the rot monster
       \ and other decaying organic matter within 1 mile of it."
     "name": "Waste Scent"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
-      \ + 1) piercing damage, plus 3 (d6) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
+      \ + 1) piercing damage, plus 3 (1d6) necrotic damage."
     "name": "Beak"
   - "desc": "The rot monster touches a nonmagical object made of organic matter that\
       \ it can see within 5 feet of it, causing it to rot and deteriorate. If the\

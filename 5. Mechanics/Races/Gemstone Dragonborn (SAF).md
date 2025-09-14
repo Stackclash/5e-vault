@@ -11,7 +11,7 @@ aliases:
 *Source: Strongholds and Followers*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/topaz-dragonborn-wizard.webp#right)  
 
-- **Ability Scores**: Intelligence +2; Wisdom +1
+- **Ability Scores**: int +2 wis +1
 - **Size**: Medium
 - **Speed**: 30 ft.
 
@@ -39,7 +39,7 @@ Gemstone dragonborn pride themselves on the vibrant, glowing crystals embedded i
 
 ### Limited Psionics
 
-You have 4 psionic charges, which refresh when you finish a long rest. You know [[5. Mechanics/Optional Features/Flay (SAF).md\|flay]] and [[5. Mechanics/Optional Features/Distance (SAF).md\|distance]]. At your GM's discretion, you may learn more through adventuring and research. The DC for your psionic saving throws equals 8 + your Intelligence modifier + your proficiency bonus.
+You have 4 psionic charges, which refresh when you finish a long rest. You know [[/5. Mechanics/Optional Features/Flay (SAF).md\|flay]] and [[/5. Mechanics/Optional Features/Distance (SAF).md\|distance]]. At your GM's discretion, you may learn more through adventuring and research. The DC for your psionic saving throws equals 8 + your Intelligence modifier + your proficiency bonus.
 
 ### Languages
 

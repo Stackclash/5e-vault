@@ -12,23 +12,28 @@ classes:
   - Wizard
 school: Evocation
 level: 7
+damage:
+  base: 3d10
+  scaling:
+    damage: null
+    level: null
+  types:
+    - force
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
-aliases:
-  - Mordenkainen's Sword
-concentration: true
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
 material: >-
   a miniature platinum sword with a grip and pommel of copper and zinc, worth
   250 gp
+aliases:
+  - Mordenkainen's Sword
 ---
 # Mordenkainen's Sword
 *7th-level, Evocation*  
-![[5. Mechanics/Spells/img/mordenkainens-sword.webp#right]]  
+![[/5. Mechanics/Spells/img/mordenkainens-sword.webp#right]]  
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -39,6 +44,6 @@ You create a sword-shaped plane of force that hovers within range. It lasts for 
 
 When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes `dice:3d10|noform|noparens|avg` (`3d10`) force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 262. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Arcane Sword") and the Basic Rules (2014)*

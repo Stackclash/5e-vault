@@ -11,7 +11,7 @@ weight: 12
 ---
 # Alchemy Jug
 *Wondrous item, minor, uncommon*  
-![[5. Mechanics/Items/img/alchemy-jug.webp#right]]  
+![[/5. Mechanics/Items/img/alchemy-jug.webp#right]]  
 
 - **Weight**: 12.0 lbs.
 

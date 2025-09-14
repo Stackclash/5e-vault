@@ -18,22 +18,26 @@ classes:
   - Druid
 school: Transmutation
 level: 2
+damage:
+  base: 2d8
+  scaling:
+    damage: 1d8
+    level: 3
+  types:
+    - fire
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+material: a piece of iron and a flame
 aliases:
   - Heat Metal
-range: 60 feet
-material: A piece of iron and a flame.
-damageType: Fire
-save:
-  type: CON
-  success: other
-concentration: true
 ---
 # Heat Metal
 *2nd-level, Transmutation*  
@@ -47,8 +51,8 @@ Choose a manufactured metal object, such as a metal weapon or a suit of heavy or
 
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Cleric (Festus Domain)](compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Cleric (Forge Domain)](compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Festus Domain)](/compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Cleric (Forge Domain)](/compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

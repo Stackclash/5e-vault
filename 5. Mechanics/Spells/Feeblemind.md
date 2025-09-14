@@ -16,21 +16,26 @@ classes:
   - Wizard
 school: Enchantment
 level: 8
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Intelligence
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 150 feet
+somatic: true
+verbal: true
+material: 'a handful of clay, crystal, glass, or mineral spheres'
 aliases:
   - Feeblemind
-range: 150 feet
-material: 'A handful of clay, crystal, glass, or mineral spheres.'
-damageType: Psychic
-save:
-  type: INT
-  success: other
 ---
 # Feeblemind
 *8th-level, Enchantment*  
@@ -46,8 +51,8 @@ On a failed save, the creature's Intelligence and Charisma scores become 1. The 
 
 At the end of every 30 days, the creature can repeat its saving throw against this spell. If it succeeds on its saving throw, the spell ends.
 
-The spell can also be ended by [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], [[5. Mechanics/Spells/He(AL).md\|heal]], or [[5. Mechanics/Spells/Wish.md\|wish]].
+The spell can also be ended by [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], [[/5. Mechanics/Spells/He(AL).md\|heal]], or [[/5. Mechanics/Spells/Wish.md\|wish]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 239. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

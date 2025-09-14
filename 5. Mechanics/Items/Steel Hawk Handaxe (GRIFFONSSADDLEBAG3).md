@@ -10,11 +10,11 @@ tags:
 aliases:
   - Steel Hawk Handaxe
 one-hand-damage: 1d6 slashing
-range: 20\60
+range: 20/60
 weight: 2
 ---
 # Steel Hawk Handaxe
-*Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Steel-Hawk-Handaxe.webp#right)  
 
 - **Damage**: 1d6 slashing

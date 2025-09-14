@@ -71,7 +71,7 @@ Alternatively, you can apply one of these effects to the first target you hit as
 
 Also at 3rd level, your knowledge of the body and the energy that runs through it grants you proficiency in the Medicine skill. If you already have this proficiency, you instead gain proficiency in the Insight or Sleight of Hand skill (your choice). When you make a Wisdom (Medicine) check, you can choose to expend 1 ki point to reroll the d20. You must use the new roll. You can choose to do so after you roll the die, but before the outcome is determined.
 
-In addition, you can use an action to touch a creature and expend 2 ki points to cast the [[5. Mechanics/Spells/Enhance Ability.md\|enhance ability]] spell on it. Starting when you reach 6th level in this class, you can harmlessly launch a blowgun needle or dart at the target, instead of touching it, in order to deliver the spell. The target must be within the weapons normal range.
+In addition, you can use an action to touch a creature and expend 2 ki points to cast the [[/5. Mechanics/Spells/Enhance Ability.md\|enhance ability]] spell on it. Starting when you reach 6th level in this class, you can harmlessly launch a blowgun needle or dart at the target, instead of touching it, in order to deliver the spell. The target must be within the weapons normal range.
 
 ### Restoring Touch (Level 6)
 
@@ -89,6 +89,6 @@ If you attack a creature under the effect of your Expose feature and hit it, tha
 
 ### Total Restoration (Level 17)
 
-At 17th level, you can restore the balance of energy and health to creatures under your care. You can use an action to touch a creature and expend 5 ki points to simultaneously cast the [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] and [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spells on it, requiring no material components, and cause the target to regain up to 5 expended Hit Dice. Alternatively, you can harmlessly launch a blowgun needle or dart at the target, instead of touching it, in order to deliver the spells. The target must be within the weapons normal range.
+At 17th level, you can restore the balance of energy and health to creatures under your care. You can use an action to touch a creature and expend 5 ki points to simultaneously cast the [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] and [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spells on it, requiring no material components, and cause the target to regain up to 5 expended Hit Dice. Alternatively, you can harmlessly launch a blowgun needle or dart at the target, instead of touching it, in order to deliver the spells. The target must be within the weapons normal range.
 
 Once a creature has benefited from this feature, it can not do so again until it finishes a long rest.

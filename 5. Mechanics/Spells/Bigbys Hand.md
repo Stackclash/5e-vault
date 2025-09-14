@@ -18,17 +18,23 @@ classes:
   - Wizard
 school: Evocation
 level: 5
+damage:
+  base: 1d20+8
+  scaling:
+    damage: 2d8
+    level: 6
+  types:
+    - bludgeoning
+    - force
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+somatic: true
+verbal: true
+material: an eggshell and a snakeskin glove
 aliases:
   - Bigby's Hand
-concentration: true
-material: an eggshell and a snakeskin glove
 ---
 # Bigby's Hand
 *5th-level, Evocation*  
@@ -66,6 +72,6 @@ When you cast this spell using a spell slot of 6th level or higher, the damage f
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Warlock (The Fathomless)](compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Fathomless)](/compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 218. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Arcane Hand")*

@@ -14,7 +14,7 @@ one-hand-damage: 1d6 slashing
 weight: 3
 ---
 # Adrenal Blades
-*Weapon ([[5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Adrenal-Blades.webp#right)  
 
 - **Damage**: 1d6 slashing

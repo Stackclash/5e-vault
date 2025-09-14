@@ -14,14 +14,12 @@ school: Conjuration
 level: 8
 ritual: false
 time: 1 Action
-duration: Up to 10 minutes
-components:
-  - V
-  - S
+duration: 'Concentration, up to 10 minutes'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Maze
-range: 60 feet
-concentration: true
 ---
 # Maze
 *8th-level, Conjuration*  
@@ -33,10 +31,10 @@ concentration: true
 
 You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.
 
-The target can use its action to attempt to escape. When it does so, it makes a DC 20 Intelligence check. If it succeeds, it escapes, and the spell ends (a [[5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaur]] or [[5. Mechanics/Bestiary/Fiend/Goristro.md\|goristro]] demon automatically succeeds).
+The target can use its action to attempt to escape. When it does so, it makes a DC 20 Intelligence check. If it succeeds, it escapes, and the spell ends (a [[/5. Mechanics/Bestiary/Monstrosity/Minotaur.md\|minotaur]] or [[/5. Mechanics/Bestiary/Fiend/Goristro.md\|goristro]] demon automatically succeeds).
 
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

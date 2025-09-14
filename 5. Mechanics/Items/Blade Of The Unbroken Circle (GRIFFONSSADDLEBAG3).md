@@ -15,7 +15,7 @@ two-hand-damage: 1d10 slashing
 weight: 3
 ---
 # Blade of the Unbroken Circle
-*Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Blade-of-the-Unbroken-Circle.webp#right)  
 
 - **Damage**:
@@ -34,7 +34,7 @@ This sword has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4
 
 ## Spells
 
-While holding the sword, you can use an action to expend some of its charges to cast one of the following spells from it (save DC 17): [[5. Mechanics/Spells/Barkskin.md\|barkskin]] (2 charges), [[5. Mechanics/Spells/Plant Growth.md\|plant growth]] (3 charges), [[5. Mechanics/Spells/Regenerate.md\|regenerate]] (7 charges), [[5. Mechanics/Spells/Tree Stride.md\|tree stride]] (5 charges), or [[5. Mechanics/Spells/Wall Of Thorns.md\|wall of thorns]] (6 charges). If you're a druid, this version of the [[5. Mechanics/Spells/Barkskin.md\|barkskin]] spell prevents your AC from being less than 18, instead of 16.
+While holding the sword, you can use an action to expend some of its charges to cast one of the following spells from it (save DC 17): [[/5. Mechanics/Spells/Barkskin.md\|barkskin]] (2 charges), [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]] (3 charges), [[/5. Mechanics/Spells/Regenerate.md\|regenerate]] (7 charges), [[/5. Mechanics/Spells/Tree Stride.md\|tree stride]] (5 charges), or [[/5. Mechanics/Spells/Wall Of Thorns.md\|wall of thorns]] (6 charges). If you're a druid, this version of the [[/5. Mechanics/Spells/Barkskin.md\|barkskin]] spell prevents your AC from being less than 18, instead of 16.
 
 ## Nature's Wrath
 

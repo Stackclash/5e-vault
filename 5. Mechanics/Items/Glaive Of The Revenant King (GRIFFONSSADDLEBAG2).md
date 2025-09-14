@@ -14,7 +14,7 @@ one-hand-damage: 1d10 slashing
 weight: 6
 ---
 # Glaive of the Revenant King
-*Weapon ([[5. Mechanics/Items/Glaive.md\|glaive]]), major, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Glaive-of-the-Revenant-King.webp#right)  
 
 - **Damage**: 1d10 slashing
@@ -37,7 +37,7 @@ Kelren is stern, but honest. He may share stories of his kingdom from time to ti
 
 ## Elven Kinship
 
-You are considered proficient with this weapon if you are an [[5. Mechanics/Races/Elf.md\|elf]] or [[5. Mechanics/Races/Half Elf.md\|half-elf]]. In addition, while attuned to this weapon, you have advantage on Charisma checks made to interact with fey creatures.
+You are considered proficient with this weapon if you are an [[/5. Mechanics/Races/Elf.md\|elf]] or [[/5. Mechanics/Races/Half Elf.md\|half-elf]]. In addition, while attuned to this weapon, you have advantage on Charisma checks made to interact with fey creatures.
 
 ## Energy Nullification
 

@@ -42,16 +42,13 @@ school: Transmutation
 level: 3
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
+material: a shaving of licorice root
 aliases:
   - Haste
-range: 30 feet
-material: A shaving of licorice root.
-concentration: true
 ---
 # Haste
 *3rd-level, Transmutation*  
@@ -65,6 +62,6 @@ Choose a willing creature that you can see within range. Until the spell ends, t
 
 When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Paladin (Oath of the Open Road)](compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Cleric (Speed Domain)](compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [Ranger (Griffon Scout)](compendium/lists/list-spells-classes-griffon-scout-kpdm.md "subclass=KPDM"); [Ranger (Horizon Walker)](compendium/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Time Domain)](compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [Paladin (Oath of Glory)](compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Warlock (The Apex Predator)](compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [Cleric (Travel Domain)](compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Speed Domain)](/compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [Cleric (Time Domain)](/compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [Cleric (Travel Domain)](/compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Glory)](/compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Paladin (Oath of the Open Road)](/compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Ranger (Griffon Scout)](/compendium/lists/list-spells-classes-griffon-scout-kpdm.md "subclass=KPDM"); [Ranger (Horizon Walker)](/compendium/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Apex Predator)](/compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

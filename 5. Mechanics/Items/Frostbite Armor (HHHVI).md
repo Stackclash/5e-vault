@@ -12,7 +12,7 @@ armorClass: 18
 weight: 65
 ---
 # Frostbite Armor
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/FrostbiteArmor.webp#right)  
 
 - **Armor Class**: 18

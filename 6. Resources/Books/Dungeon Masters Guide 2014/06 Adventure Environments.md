@@ -31,9 +31,9 @@ When you set out to create a dungeon, think about its distinctive qualities. For
 
 You can use the Dungeon Location table to determine the locale of your dungeon. You can roll on the table or choose an entry that inspires you.
 
-![[5. Mechanics/Tables/Dungeon Location.md\|Dungeon Location]]
+![[/5. Mechanics/Tables/Dungeon Location.md\|Dungeon Location]]
 
-![[5. Mechanics/Tables/Dungeon Location Exotic Location.md\|Dungeon Location; Exotic Location]]
+![[/5. Mechanics/Tables/Dungeon Location Exotic Location.md\|Dungeon Location; Exotic Location]]
 
 #### Dungeon Creator
 
@@ -43,19 +43,19 @@ Details bring a dungeon setting's personality to life. Great bearded faces might
 
 The Dungeon Creator table includes creatures that typically build dungeons. You can choose a creator from the table or roll randomly, or choose some other dungeon builder appropriate for your campaign.
 
-![[5. Mechanics/Tables/Dungeon Crea(TOR).md\|Dungeon Creator]]
+![[/5. Mechanics/Tables/Dungeon Crea(TOR).md\|Dungeon Creator]]
 
-![[5. Mechanics/Tables/Dungeon Creator Cults And Religions.md\|Dungeon Creator; Cults and Religions]]
+![[/5. Mechanics/Tables/Dungeon Creator Cults And Religions.md\|Dungeon Creator; Cults and Religions]]
 
-![[5. Mechanics/Tables/Dungeon Creator Npc Alignment.md\|Dungeon Creator; NPC Alignment]]
+![[/5. Mechanics/Tables/Dungeon Creator Npc Alignment.md\|Dungeon Creator; NPC Alignment]]
 
-![[5. Mechanics/Tables/Dungeon Creator Npc Class.md\|Dungeon Creator; NPC Class]]
+![[/5. Mechanics/Tables/Dungeon Creator Npc Class.md\|Dungeon Creator; NPC Class]]
 
 #### Dungeon Purpose
 
 Except in the case of a natural cavern, a dungeon is crafted and inhabited for a specific purpose that influences its design and features. You can choose a purpose from the Dungeon Purpose table, roll one at random, or use your own ideas.
 
-![[5. Mechanics/Tables/Dungeon Purpose.md\|Dungeon Purpose]]
+![[/5. Mechanics/Tables/Dungeon Purpose.md\|Dungeon Purpose]]
 
 ##### Death Trap
 
@@ -99,7 +99,7 @@ In most cases, the original architects of a dungeon are long gone, and the quest
 
 The Dungeon History table notes key events that can transform a site from its original purpose into a dungeon for adventurers to explore. Particularly old dungeons can have a history that consists of multiple events, each of which transformed the site in some way.
 
-![[5. Mechanics/Tables/Dungeon History.md\|Dungeon History]]
+![[/5. Mechanics/Tables/Dungeon History.md\|Dungeon History]]
 
 ### Dungeon Inhabitants
 
@@ -168,7 +168,7 @@ Dungeon doors often become stuck when not used frequently. Opening a stuck door 
 
 ##### Locked Doors
 
-Characters who don't have the key to a locked door can pick the lock with a successful Dexterity check (doing so requires [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] and proficiency in their use). They can also force the door with a successful Strength check, smash the door to pieces by dealing enough damage to it, or use a knock spell or similar magic. Chapter 8 provides guidelines for setting the DCs and assigning statistics to doors and other objects.
+Characters who don't have the key to a locked door can pick the lock with a successful Dexterity check (doing so requires [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] and proficiency in their use). They can also force the door with a successful Strength check, smash the door to pieces by dealing enough damage to it, or use a knock spell or similar magic. Chapter 8 provides guidelines for setting the DCs and assigning statistics to doors and other objects.
 
 ##### Barred Doors
 
@@ -294,7 +294,7 @@ If you expect the characters to explore a monster's lair, you'll need to find or
 
 In places where civilization rules or once ruled, adventurers might find monuments built to honor great leaders, gods, and cultures. Use the Monuments table for inspiration, or randomly roll to determine what monument the adventurers stumble upon.
 
-![[5. Mechanics/Tables/Monuments.md\|Monuments]]
+![[/5. Mechanics/Tables/Monuments.md\|Monuments]]
 
 #### Ruins
 
@@ -314,7 +314,7 @@ Strongholds provide the local population with protection in times of trouble. Th
 
 Weird locales make the fantastic and the supernatural an intrinsic part of your wilderness adventures.
 
-![[5. Mechanics/Tables/Weird Locales.md\|Weird Locales]]
+![[/5. Mechanics/Tables/Weird Locales.md\|Weird Locales]]
 
 ## Wilderness Survival
 
@@ -324,11 +324,11 @@ Adventuring in the wilderness presents a host of perils beyond the threats of mo
 
 You can pick weather to fit your campaign or roll on the Weather table to determine the weather for a given day, adjusting for the terrain and season as appropriate.
 
-![[5. Mechanics/Tables/Weather.md\|Weather]]
+![[/5. Mechanics/Tables/Weather.md\|Weather]]
 
-![[5. Mechanics/Tables/Weather Wind.md\|Weather; Wind]]
+![[/5. Mechanics/Tables/Weather Wind.md\|Weather; Wind]]
 
-![[5. Mechanics/Tables/Weather Precipitation.md\|Weather; Precipitation]]
+![[/5. Mechanics/Tables/Weather Precipitation.md\|Weather; Precipitation]]
 
 #### Extreme Cold
 
@@ -366,11 +366,11 @@ The other hazards presented here can be identified with a successful Intelligenc
 
 #### Desecrated Ground
 
-Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] spell cast within range reveals its presence.
+Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [[/5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] spell cast within range reveals its presence.
 
 Undead standing on desecrated ground have advantage on all saving throws.
 
-A vial of [[5. Mechanics/Items/Holy Water Flask.md\|holy water]] purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [[5. Mechanics/Spells/Hallow.md\|hallow]] spell purifies desecrated ground within its area.
+A vial of [[/5. Mechanics/Items/Holy Water Flask.md\|holy water]] purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [[/5. Mechanics/Spells/Hallow.md\|hallow]] spell purifies desecrated ground within its area.
 
 #### Frigid Water
 
@@ -378,7 +378,7 @@ A creature can be immersed in frigid water for a number of minutes equal to its 
 
 #### Quicksand
 
-A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks `dice:1d4+1|noform|noparens|avg` (`1d4+1`) feet into the quicksand and becomes [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. At the start of each of the creature's turns, it sinks another `dice:1d4|noform|noparens|avg` (`d4`) feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the "suffocation" rules in the *Player's Handbook*).
+A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks `dice:1d4+1|noform|noparens|avg` (`1d4+1`) feet into the quicksand and becomes [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. At the start of each of the creature's turns, it sinks another `dice:1d4|noform|noparens|avg` (`1d4`) feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the "suffocation" rules in the *Player's Handbook*).
 
 A creature can pull another creature within its reach out of a quicksand pit by using its action and succeeding on a Strength check. The DC is 5 plus the number of feet the target creature has sunk into the quicksand.
 
@@ -386,7 +386,7 @@ A creature can pull another creature within its reach out of a quicksand pit by 
 
 Razorvine is a plant that grows in wild tangles and hedges. It also clings to the sides of buildings and other surfaces as ivy does. A 10-foot-high, 10-foot-wide, 5-foot-thick wall or hedge of razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage.
 
-When a creature comes into direct contact with razorvine for the first time on a turn, the creature must succeed on a DC 10 Dexterity saving throw or take `dice:1d10|noform|noparens|avg|text(5)` (`d10`) slashing damage from the razorvine's bladelike thorns.
+When a creature comes into direct contact with razorvine for the first time on a turn, the creature must succeed on a DC 10 Dexterity saving throw or take `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) slashing damage from the razorvine's bladelike thorns.
 
 #### Slippery Ice
 
@@ -400,23 +400,23 @@ Thin ice has a weight tolerance of `3d10 × 10` pounds per 10-foot-square area. 
 
 Characters can gather food and water as the party travels at a normal or slow pace. A foraging character makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check whenever you call for it, with the DC determined by the abundance of food and water in the region.
 
-![[5. Mechanics/Tables/Foraging Dcs.md\|Foraging DCs]]
+![[/5. Mechanics/Tables/Foraging Dcs.md\|Foraging DCs]]
 
-If multiple characters forage, each character makes a separate check. A foraging character finds nothing on a failed check. On a successful check, roll `dice:1d6|noform|noparens|avg` (`d6`) + the character's Wisdom modifier to determine how much food (in pounds) the character finds, then repeat the roll for water (in gallons).
+If multiple characters forage, each character makes a separate check. A foraging character finds nothing on a failed check. On a successful check, roll `dice:1d6|noform|noparens|avg` (`1d6`) + the character's Wisdom modifier to determine how much food (in pounds) the character finds, then repeat the roll for water (in gallons).
 
 #### Food and Water
 
 The food and water requirements noted in the Player's Handbook are for characters. Horses and other creatures require different quantities of food and water per day based on their size. Water needs are doubled if the weather is hot.
 
-![[5. Mechanics/Tables/Food And Water Needs.md\|Food and Water Needs]]
+![[/5. Mechanics/Tables/Food And Water Needs.md\|Food and Water Needs]]
 
 ### Becoming Lost
 
 Unless they are following a path, or something like it, adventurers traveling in the wilderness run the risk of becoming lost. The party's navigator makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check when you decide it's appropriate, against a DC determined by the prevailing terrain, as shown on the Wilderness Navigation table. If the party is moving at a slow pace, the navigator gains a +5 bonus to the check, and a fast pace imposes a -5 penalty. If the party has an accurate map of the region or can see the sun or stars, the navigator has advantage on the check.
 
-If the Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check succeeds, the party travels in the desired direction without becoming lost. If the check fails, the party inadvertently travels in the wrong direction and becomes lost. The party's navigator can repeat the check after the party spends `dice:1d6|noform|noparens|avg` (`d6`) hours trying to get back on course.
+If the Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check succeeds, the party travels in the desired direction without becoming lost. If the check fails, the party inadvertently travels in the wrong direction and becomes lost. The party's navigator can repeat the check after the party spends `dice:1d6|noform|noparens|avg` (`1d6`) hours trying to get back on course.
 
-![[5. Mechanics/Tables/Becoming Lost Wilderness Navigation.md\|Becoming Lost; Wilderness Navigation]]
+![[/5. Mechanics/Tables/Becoming Lost Wilderness Navigation.md\|Becoming Lost; Wilderness Navigation]]
 
 ## Settlement
 
@@ -428,15 +428,15 @@ When creating a settlement for your campaign, focus on the locations that are mo
 
 The following tables allow you to quickly create a settlement. They assume that you've already determined its size and its basic form of government.
 
-![[5. Mechanics/Tables/Random Settlements Race Relations.md\|Random Settlements; Race Relations]]
+![[/5. Mechanics/Tables/Random Settlements Race Relations.md\|Random Settlements; Race Relations]]
 
-![[5. Mechanics/Tables/Random Settlements Rulers Stat(US).md\|Random Settlements; Ruler's Status]]
+![[/5. Mechanics/Tables/Random Settlements Rulers Stat(US).md\|Random Settlements; Ruler's Status]]
 
-![[5. Mechanics/Tables/Random Settlements Notable Traits.md\|Random Settlements; Notable Traits]]
+![[/5. Mechanics/Tables/Random Settlements Notable Traits.md\|Random Settlements; Notable Traits]]
 
-![[5. Mechanics/Tables/Random Settlements Known For Its.md\|Random Settlements; Known For Its...]]
+![[/5. Mechanics/Tables/Random Settlements Known For Its.md\|Random Settlements; Known For Its...]]
 
-![[5. Mechanics/Tables/Random Settlements Current Calamity.md\|Random Settlements; Current Calamity]]
+![[/5. Mechanics/Tables/Random Settlements Current Calamity.md\|Random Settlements; Current Calamity]]
 
 ## Random Buildings
 
@@ -444,19 +444,19 @@ Pulse-pounding chases and harrowing escapes within the confines of a town or cit
 
 If a roll makes no sense considering where the characters are (such as a lavish mansion in a rundown part of town), you can always roll again or simply choose another result. However, such unexpected results can prompt creativity and memorable locations that help make your urban encounters distinct.
 
-![[5. Mechanics/Tables/Random Buildings Building Type.md\|Random Buildings; Building Type]]
+![[/5. Mechanics/Tables/Random Buildings Building Type.md\|Random Buildings; Building Type]]
 
-![[5. Mechanics/Tables/Random Buildings Residence.md\|Random Buildings; Residence]]
+![[/5. Mechanics/Tables/Random Buildings Residence.md\|Random Buildings; Residence]]
 
-![[5. Mechanics/Tables/Random Buildings Religious Building.md\|Random Buildings; Religious Building]]
+![[/5. Mechanics/Tables/Random Buildings Religious Building.md\|Random Buildings; Religious Building]]
 
-![[5. Mechanics/Tables/Random Buildings Tavern.md\|Random Buildings; Tavern]]
+![[/5. Mechanics/Tables/Random Buildings Tavern.md\|Random Buildings; Tavern]]
 
-![[5. Mechanics/Tables/Random Buildings Tavern Name Genera(TOR).md\|Random Buildings; Tavern Name Generator]]
+![[/5. Mechanics/Tables/Random Buildings Tavern Name Genera(TOR).md\|Random Buildings; Tavern Name Generator]]
 
-![[5. Mechanics/Tables/Random Buildings Warehouse.md\|Random Buildings; Warehouse]]
+![[/5. Mechanics/Tables/Random Buildings Warehouse.md\|Random Buildings; Warehouse]]
 
-![[5. Mechanics/Tables/Random Buildings Shop.md\|Random Buildings; Shop]]
+![[/5. Mechanics/Tables/Random Buildings Shop.md\|Random Buildings; Shop]]
 
 ## Mapping a Settlement
 
@@ -488,7 +488,7 @@ A settlement might have a jail to hold accused criminals awaiting trial, but few
 
 The Random Urban Encounters table is useful for city—and town—based adventures. Check for a random encounter at least once per day, and once at night if the characters are out and about. Reroll the result if it doesn't make sense given the time of day.
 
-![[5. Mechanics/Tables/Random Urban Encounters.md\|Random Urban Encounters]]
+![[/5. Mechanics/Tables/Random Urban Encounters.md\|Random Urban Encounters]]
 
 #### Animals on the Loose
 
@@ -534,7 +534,7 @@ A fire breaks out, and the characters have a chance to help put out the flames b
 
 The characters find a random trinket.
 
-You can determine the trinket by rolling on the [[5. Mechanics/Items/Trinket.md\|Trinkets table]] in the *Player's Handbook*.
+You can determine the trinket by rolling on the [[/5. Mechanics/Items/Trinket.md\|Trinkets table]] in the *Player's Handbook*.
 
 #### Guard Harassment
 
@@ -582,7 +582,7 @@ See chapter 9 of the Player's Handbook for rules on underwater combat.
 
 You can check for random undersea encounters as often as you would check for them on land (see chapter 3). The Random Undersea Encounters table presents several intriguing options. You can either roll on the table for a random result or choose whichever one works best.
 
-![[5. Mechanics/Tables/Random Undersea Encounters.md\|Random Undersea Encounters]]
+![[/5. Mechanics/Tables/Random Undersea Encounters.md\|Random Undersea Encounters]]
 
 #### Swimming
 
@@ -596,7 +596,7 @@ Swimming through deep water is similar to traveling at high altitudes, because o
 
 Visibility underwater depends on water clarity and the available light. Unless the characters have light sources, use the Underwater Encounter Distance table to determine the distance at which characters underwater become aware of a possible encounter.
 
-![[5. Mechanics/Tables/Underwater Encounter Distance.md\|Underwater Encounter Distance]]
+![[/5. Mechanics/Tables/Underwater Encounter Distance.md\|Underwater Encounter Distance]]
 
 ### The Sea
 
@@ -621,7 +621,7 @@ Use the Wilderness Navigation table below to determine whether a ship veers off 
 
 You can check for random encounters at sea as often as you would check for them on land (see chapter 3 for more information). The Random Encounters at Sea table presents a number of options and ideas
 
-![[5. Mechanics/Tables/Random Encounters At Sea.md\|Random Encounters at Sea]]
+![[/5. Mechanics/Tables/Random Encounters At Sea.md\|Random Encounters at Sea]]
 
 #### Weather at Sea
 
@@ -665,7 +665,7 @@ A ship has immunity to all damage unless it takes an amount of damage equal to o
 
 Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 hit point of damage requires 1 day and costs 20 gp for materials and labor.
 
-![[5. Mechanics/Tables/Owning A Ship Airborne And Waterborne Vehicles.md\|Owning a Ship; Airborne and Waterborne Vehicles]]
+![[/5. Mechanics/Tables/Owning A Ship Airborne And Waterborne Vehicles.md\|Owning a Ship; Airborne and Waterborne Vehicles]]
 
 ### The Sky
 
@@ -695,7 +695,7 @@ Most traps are triggered when a creature goes somewhere or touches something tha
 
 Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap's presence.
 
-A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check for a character to deduce what needs to be done, followed by a Dexterity check using [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] to perform the necessary sabotage.
+A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check for a character to deduce what needs to be done, followed by a Dexterity check using [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] to perform the necessary sabotage.
 
 Any character can attempt an Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check to detect or disarm a magic trap, in addition to any other checks noted in the trap's description. The DCs are the same regardless of the check used. In addition, dispel magic has a chance of disabling most magic traps. A magic trap's description provides the DC for the ability check made when you use dispel magic.
 
@@ -715,9 +715,9 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A *deadly* trap is likely to kill characters of the indicated levels.
 
-![[5. Mechanics/Tables/Trap Effects Trap Save Dcs And Attack Bonuses.md\|Trap Effects; Trap Save DCs and Attack Bonuses]]
+![[/5. Mechanics/Tables/Trap Effects Trap Save Dcs And Attack Bonuses.md\|Trap Effects; Trap Save DCs and Attack Bonuses]]
 
-![[5. Mechanics/Tables/Trap Effects Damage Severity By Level.md\|Trap Effects; Damage Severity by Level]]
+![[/5. Mechanics/Tables/Trap Effects Damage Severity By Level.md\|Trap Effects; Damage Severity by Level]]
 
 #### Complex Traps
 

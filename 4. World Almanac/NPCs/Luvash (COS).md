@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\luvash.webp
+  - ../../../../../4. World Almanac/NPCs/img/luvash.webp
 relationships: []
 aliases:
   - Luvash
@@ -54,7 +54,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 121*
@@ -115,7 +115,7 @@ actions:
 "subtype": "human"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -128,9 +128,9 @@ actions:
   - !!int "14"
 "speed": "30 ft."
 "saves":
-  - "strength": "+4"
-  - "dexterity": "+5"
-  - "wisdom": "+2"
+  - "strength": !!int "4"
+  - "dexterity": !!int "5"
+  - "wisdom": !!int "2"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+4"
@@ -143,11 +143,11 @@ actions:
   - "desc": "Luvash makes three melee attacks: two with its scimitar and one with\
       \ its dagger. Or Luvash makes two ranged attacks with its daggers."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage."
     "name": "Scimitar"
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage."
     "name": "Dagger"
 "reactions":
   - "desc": "Luvash adds 2 to its AC against one melee attack that would hit it. To\
@@ -155,7 +155,7 @@ actions:
     "name": "Parry"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/luvash-cos.webp"
+"image": "/4. World Almanac/NPCs/token/luvash-cos.webp"
 ```
 ^statblock
 

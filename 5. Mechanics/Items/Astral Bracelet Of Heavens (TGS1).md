@@ -26,11 +26,11 @@ Each kind of astral bracelet has a different list spells that can be cast from i
 
 | Charges | Spells |
 |---------|--------|
-| 1 | [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]], [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
-| 2 | [[5. Mechanics/Spells/Warding Bond.md\|warding bond]] |
-| 3 | [[5. Mechanics/Spells/Magic Circle.md\|magic circle]], [[5. Mechanics/Spells/Spirit Guardians.md\|spirit guardians]] |
-| 4 | [[5. Mechanics/Spells/Divination.md\|divination]] |
-| 5 | [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] |
+| 1 | [[/5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]], [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
+| 2 | [[/5. Mechanics/Spells/Warding Bond.md\|warding bond]] |
+| 3 | [[/5. Mechanics/Spells/Magic Circle.md\|magic circle]], [[/5. Mechanics/Spells/Spirit Guardians.md\|spirit guardians]] |
+| 4 | [[/5. Mechanics/Spells/Divination.md\|divination]] |
+| 5 | [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] |
 ^astral-bracelet-of-heavens-spells
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*

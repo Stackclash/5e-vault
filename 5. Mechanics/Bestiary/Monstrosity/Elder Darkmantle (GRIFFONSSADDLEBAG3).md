@@ -13,7 +13,7 @@ tags:
 aliases:
   - Elder Darkmantle
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Elder Darkmantle (GRIFFONSSADDLEBAG3).md|Elder Darkmantle]]
+# [[5. Mechanics/Bestiary/Monstrosity/Elder Darkmantle (GRIFFONSSADDLEBAG3).md|Elder Darkmantle]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Like their smaller relatives, elder darkmantles thrive in darkness. However, elder darkmantles are massive by comparison, and exude an psionic aura from them that controls nearby darkmantles and enhances their natural abilities.
@@ -37,9 +37,9 @@ Like their smaller relatives, elder darkmantles thrive in darkness. However, eld
   - !!int "12"
 "speed": "20 ft., fly 40 ft."
 "saves":
-  - "intelligence": "+6"
-  - "wisdom": "+4"
-  - "charisma": "+4"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "4"
+  - "charisma": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+4"
@@ -51,21 +51,22 @@ Like their smaller relatives, elder darkmantles thrive in darkness. However, eld
     "desc": "+5"
 "damage_immunities": "cold, psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "blindsight 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft., passive Perception\
+  \ 14"
 "languages": "telepathy 120 ft."
 "cr": "7"
 "traits":
   - "desc": "The darkmantle's innate spellcasting ability is Intelligence (spell save\
       \ DC 14). It can innately cast the following spells, requiring no components:\n\
-      \nAt will: [[5. Mechanics/Spells/Command.md|command]]\n\n1/day: [[5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]]\
-      \ (as a 4th-level spell), [[5. Mechanics/Spells/Fear.md|fear]], [[5. Mechanics/Spells/Hold Person.md|hold person]]"
+      \n**At will:** [[/5. Mechanics/Spells/Command.md|command]]\n\n**1/day:** [[/5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]]\
+      \ (as a 4th-level spell), [[/5. Mechanics/Spells/Fear.md|fear]], [[/5. Mechanics/Spells/Hold Person.md|hold person]]"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "Darkmantles within 120 feet of the elder darkmantle have resistance to\
       \ psychic damage and advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
       \ or [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]].\n\nIn addition,\
       \ when a darkmantle within 120 feet of the elder darkmantle (including itself)\
       \ scores a critical hit, the target must succeed on a DC 14 Wisdom saving throw\
-      \ or gain a random form of short-term madness; this effect lasts for d10 minutes."
+      \ or gain a random form of short-term madness; this effect lasts for 1d10 minutes."
     "name": "Darkmantle Aura"
   - "desc": "The darkmantle can't use its blindsight while [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]."
     "name": "Echolocation"
@@ -78,7 +79,7 @@ Like their smaller relatives, elder darkmantles thrive in darkness. However, eld
   - "desc": "The darkmantle makes two crush attacks. It can cast a spell in place\
       \ of one attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 14\
       \ (3d6 + 4) bludgeoning damage plus 10 (3d6) psychic damage, and the darkmantle\
       \ attaches to the target. If the target is Huge or smaller and the darkmantle\
       \ has advantage on the attack roll, it attaches by engulfing the target's head,\

@@ -14,19 +14,21 @@ classes:
   - Wizard
 school: Divination
 level: 7
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
-aliases:
-  - Legend Killer
-concentration: true
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
 material: >-
   a silver scroll describing the spell's target worth at least 1,000 gp, which
   the spell consumes
+aliases:
+  - Legend Killer
 ---
 # Legend Killer
 *7th-level, Divination*  
@@ -38,6 +40,6 @@ material: >-
 
 You tap into the life force of a creature that is capable of performing legendary actions. When you cast the spell, the target must make a successful Constitution saving throw or lose the ability to take legendary actions for the spell's duration. A creature can't use legendary resistance to automatically succeed on the saving throw against this spell. An affected creature can repeat the saving throw at the end of each of its turns, regaining 1 legendary action (per round) on a successful save. The target continues repeating the saving throw until the spell ends or it regains all its legendary actions.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 202*

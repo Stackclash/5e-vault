@@ -19,7 +19,7 @@ tags:
 aliases:
   - Troll (Loathsome Limb; Severed Head)
 ---
-# [[5. Mechanics\Bestiary\Giant\Troll Loathsome Limb Severed Head.md|Troll (Loathsome Limb; Severed Head)]]
+# [[5. Mechanics/Bestiary/Giant/Troll Loathsome Limb Severed Head.md|Troll (Loathsome Limb; Severed Head)]]
 *Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -42,7 +42,8 @@ aliases:
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "Giant"
 "cr": "5"
 "traits":
@@ -55,7 +56,7 @@ aliases:
       \ and doesn't regenerate."
     "name": "Regeneration"
 "actions":
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) piercing damage."
     "name": "Bite"
 "source":

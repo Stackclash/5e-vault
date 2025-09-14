@@ -16,17 +16,33 @@ classes:
   - Wizard
 school: Evocation
 level: 9
+damage:
+  base: 6d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - cold
+    - fire
+    - lightning
+    - necrotic
+    - radiant
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 1 miles
+somatic: true
+verbal: true
+material: a metal ring
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Circle of Devastation
-concentration: true
-material: a metal ring
 ---
 # Circle of Devastation
 *9th-level, Evocation*  
@@ -40,6 +56,6 @@ You create a 10-foot-tall, 20-foot-radius cylinder of destructive energy around 
 
 The cylinder's radius expands by 20 feet at the start of each of your turns after the spell is cast. Any creatures or objects enveloped in the enlarged area are subject to its effects immediately.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 231*

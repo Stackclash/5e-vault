@@ -25,22 +25,18 @@ classes:
   - Wizard (Hedge Mage)
 school: Conjuration
 level: 1
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 90 feet
+somatic: true
+verbal: true
 aliases:
   - Entangle
-range: 90 feet
-save:
-  type: STR
-  success: none
-area:
-  type: cube
-  size: 20
-concentration: true
 ---
 # Entangle
 *1st-level, Conjuration*  
@@ -56,6 +52,8 @@ A creature in the area when you cast the spell must succeed on a Strength saving
 
 When the spell ends, the conjured plants wilt away.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Bard (Greenleaf College)](compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Warlock (The Many)](compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Druid (Circle of the Grove)](compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Ranger (Angler)](compendium/lists/list-spells-classes-angler-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Wizard (Hedge Mage)](compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [Bard (Greenleaf College)](/compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of the Grove)](/compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Ranger (Angler)](/compendium/lists/list-spells-classes-angler-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Warlock (The Many)](/compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Player's Handbook p. 238. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -9,7 +9,7 @@ aliases:
 ---
 # Githyanki
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 18*  
-![[5. Mechanics/Races/img/githyanki.webp#right]]  
+![[/5. Mechanics/Races/img/githyanki.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -24,9 +24,9 @@ You can mystically access a reservoir of experiences of entities connected to th
 
 ### Githyanki Psionics
 
-You know the [[5. Mechanics/Spells/Mage Hand.md\|mage hand]] cantrip, and the hand is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] when you cast the cantrip with this trait.
+You know the [[/5. Mechanics/Spells/Mage Hand.md\|mage hand]] cantrip, and the hand is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] when you cast the cantrip with this trait.
 
-Starting at 3rd level, you can cast the [[5. Mechanics/Spells/Jump.md\|jump]] spell with this trait. Starting at 5th level, you can also cast [[5. Mechanics/Spells/Misty Step.md\|misty step]] with it. Once you cast [[5. Mechanics/Spells/Jump.md\|jump]] or [[5. Mechanics/Spells/Misty Step.md\|misty step]] with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the [[/5. Mechanics/Spells/Jump.md\|jump]] spell with this trait. Starting at 5th level, you can also cast [[/5. Mechanics/Spells/Misty Step.md\|misty step]] with it. Once you cast [[/5. Mechanics/Spells/Jump.md\|jump]] or [[/5. Mechanics/Spells/Misty Step.md\|misty step]] with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.
 

@@ -11,11 +11,11 @@ aliases:
   - Chimera Trident
 one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
-range: 20\60
+range: 20/60
 weight: 4
 ---
 # Chimera Trident
-*Weapon ([[5. Mechanics/Items/Trident.md\|trident]]), very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Chimera-Trident.webp#right)  
 
 - **Damage**:

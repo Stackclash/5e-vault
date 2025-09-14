@@ -11,14 +11,23 @@ classes:
   - Bard
 school: Divination
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - S
+duration: 'Concentration, up to 10 minutes'
+range: Self (20-foot Radius)
+somatic: true
+verbal: false
+area:
+  shape: radius
+  size: 20
 aliases:
   - Voorish Sign
-concentration: true
 ---
 # Voorish Sign
 *1st-level, Divination*  
@@ -32,6 +41,8 @@ For the duration, [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] cre
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the radius increases by 5 feet for every two slot levels above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
 
 *Source: Deep Magic p. 342*

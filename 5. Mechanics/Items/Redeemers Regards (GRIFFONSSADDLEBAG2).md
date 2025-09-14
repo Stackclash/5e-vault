@@ -11,11 +11,11 @@ tags:
 aliases:
   - Redeemer's Regards
 one-hand-damage: 1d8 piercing
-range: 150\600
+range: 150/600
 weight: 2
 ---
 # Redeemer's Regards
-*Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, rare (requires attunement by a paladin)*  
+*Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, rare (requires attunement by a paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Redeemers-Regards.webp#right)  
 
 - **Damage**: 1d8 piercing

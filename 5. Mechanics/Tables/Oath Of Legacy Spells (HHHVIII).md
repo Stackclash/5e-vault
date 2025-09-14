@@ -11,11 +11,11 @@ aliases:
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 1st | [[5. Mechanics/Spells/Hamunds Harvesting Hands (HHHVII).md\|hamund's harvesting hands]]*, [[5. Mechanics/Spells/Identify Vitals (HHHVII).md\|identify vitals]]* |
-| 5th | [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]], [[5. Mechanics/Spells/Transfusion (HHHVII).md\|transfusion]]* |
-| 9th | life transference, [[5. Mechanics/Spells/Recomposition (HHHVII).md\|recomposition]]* |
-| 13th | [[5. Mechanics/Spells/Death Ward.md\|death ward]], [[5. Mechanics/Spells/Divination.md\|divination]] |
-| 17th | [[5. Mechanics/Spells/Conjure Creature (HHHVII).md\|conjure creature]]*, [[5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
+| 1st | [[/5. Mechanics/Spells/Hamunds Harvesting Hands (HHHVII).md\|hamund's harvesting hands]]*, [[/5. Mechanics/Spells/Identify Vitals (HHHVII).md\|identify vitals]]* |
+| 5th | [[/5. Mechanics/Spells/Gentle Repose.md\|gentle repose]], [[/5. Mechanics/Spells/Transfusion (HHHVII).md\|transfusion]]* |
+| 9th | life transference, [[/5. Mechanics/Spells/Recomposition (HHHVII).md\|recomposition]]* |
+| 13th | [[/5. Mechanics/Spells/Death Ward.md\|death ward]], [[/5. Mechanics/Spells/Divination.md\|divination]] |
+| 17th | [[/5. Mechanics/Spells/Conjure Creature (HHHVII).md\|conjure creature]]*, [[/5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
 ^paladin-level-spells
 
 > [!note]

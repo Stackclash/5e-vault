@@ -52,17 +52,17 @@ aliases:
 ## Starting Paladin
 
 - **Saving Throws**: Charisma, Wisdom
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Rules/Item Types.md#Heavy%20Armor\|heavy armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Rules/Item Types.md#Heavy%20Armor\|heavy armor]], [[/5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple weapons, martial weapons
 - **Tools**: none
 - **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]], [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]], and [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a martial weapon and a [[5. Mechanics/Items/Shield.md\|shield]] or (b) two martial weapons
-- (a) five [[5. Mechanics/Items/Javelin.md\|javelins]] or (b) any simple melee weapon
-- (a) a [[5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
-- [[5. Mechanics/Items/Chain Mail.md\|Chain mail]] and a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]]
+- (a) a martial weapon and a [[/5. Mechanics/Items/Shield.md\|shield]] or (b) two martial weapons
+- (a) five [[/5. Mechanics/Items/Javelin.md\|javelins]] or (b) any simple melee weapon
+- (a) a [[/5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
+- [[/5. Mechanics/Items/Chain Mail.md\|Chain mail]] and a [[/5. Mechanics/Items/Holy Symbol.md\|holy symbol]]
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
@@ -72,7 +72,7 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple weapons, martial weapons
 
 ## Paladin
@@ -107,7 +107,7 @@ As guardians against the forces of wickedness, paladins are rarely of any evil a
 
 #### Quick Build
 
-You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the [[5. Mechanics/Backgrounds/Noble.md\|noble]] background.
+You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the [[/5. Mechanics/Backgrounds/Noble.md\|noble]] background.
 
 > [!quote] A quote from Isteval  
 > 
@@ -211,7 +211,7 @@ What is the temptation that your character succumbs to or finds it difficult to 
 
 ### Divine Sense (Level 1)
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[5. Mechanics/Spells/Hallow.md\|hallow]] spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[/5. Mechanics/Spells/Hallow.md\|hallow]] spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
@@ -227,16 +227,16 @@ This feature has no effect on undead and constructs.
 
 ### Divine Smite (Level 2)
 
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is `dice:2d8|noform|noparens|avg` (`2d8`) for a 1st-level spell slot, plus `dice:1d8|noform|noparens|avg` (`d8`) for each spell level higher than 1st, to a maximum of `dice:5d8|noform|noparens|avg` (`5d8`). The damage increases by `dice:1d8|noform|noparens|avg` (`d8`) if the target is an undead or a fiend, to a maximum of `dice:6d8|noform|noparens|avg` (`6d8`).
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is `dice:2d8|noform|noparens|avg` (`2d8`) for a 1st-level spell slot, plus `dice:1d8|noform|noparens|avg` (`1d8`) for each spell level higher than 1st, to a maximum of `dice:5d8|noform|noparens|avg` (`5d8`). The damage increases by `dice:1d8|noform|noparens|avg` (`1d8`) if the target is an undead or a fiend, to a maximum of `dice:6d8|noform|noparens|avg` (`6d8`).
 
 ### Fighting Style (Level 2)
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-- [[5. Mechanics/Optional Features/Defense.md\|Defense]]  
-- [[5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
-- [[5. Mechanics/Optional Features/Great Weapon Fighting.md\|Great Weapon Fighting]]  
-- [[5. Mechanics/Optional Features/Protection.md\|Protection]]  
+- [[/5. Mechanics/Optional Features/Defense.md\|Defense]]  
+- [[/5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
+- [[/5. Mechanics/Optional Features/Great Weapon Fighting.md\|Great Weapon Fighting]]  
+- [[/5. Mechanics/Optional Features/Protection.md\|Protection]]  
 
 ### Spellcasting (Level 2)
 
@@ -248,7 +248,7 @@ The Paladin table shows how many spell slots you have to cast your paladin spell
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -262,7 +262,7 @@ Charisma is your spellcasting ability for your paladin spells, since their power
 
 #### Spellcasting Focus
 
-You can use a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]] as a spellcasting focus for your paladin spells.
+You can use a [[/5. Mechanics/Items/Holy Symbol.md\|holy symbol]] as a spellcasting focus for your paladin spells.
 
 ### Divine Health (Level 3)
 
@@ -315,7 +315,7 @@ _Source: Tasha's Cauldron of Everything p. 52_
 
 *4th-level paladin [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a [[5. Mechanics/Lists/List Optfeaturetype Fs P.md\|fighting style]] you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a [[/5. Mechanics/Lists/List Optfeaturetype Fs P.md\|fighting style]] you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
 
 ### Extra Attack (Level 5)
 
@@ -345,7 +345,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ### Improved Divine Smite (Level 11)
 
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra `dice:1d8|noform|noparens|avg` (`d8`) radiant damage.
+By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage.
 
 ### Ability Score Improvement (Level 12)
 
@@ -386,5 +386,5 @@ At 20th level, you gain a feature granted to you by your Sacred Oath.
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Paladin
-> ![Fighting Style, Paladin](compendium/lists/list-optfeaturetype-fs-p.md#Fighting%20Style,%20Paladin)
+> ![Fighting Style, Paladin](/compendium/lists/list-optfeaturetype-fs-p.md#Fighting%20Style,%20Paladin)
 ^list-optfeature-fs-p

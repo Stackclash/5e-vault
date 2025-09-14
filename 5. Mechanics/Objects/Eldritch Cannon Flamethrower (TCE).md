@@ -12,10 +12,10 @@ aliases:
 # Eldritch Cannon, Flamethrower
 *Source: Tasha's Cauldron of Everything p. 17*  
 
-![[5. Mechanics/Objects/img/eldritch-cannon.webp#right\|Human Artillerist with Eldritch Cannon]]  
+![[/5. Mechanics/Objects/img/eldritch-cannon.webp#right\|Human Artillerist with Eldritch Cannon]]  
 > [!note]
-> Created by the [Eldritch Cannon](compendium/classes/artificer-artillerist-tce.md#Eldritch%20Cannon%20(Level%203)) subclass feature.
-![[5. Mechanics/Objects/img/eldritch-cannon-2.webp#center\|"The Gnome Artificer Vi and Her Cockatrice-like Eldritch Cannon Battle Foes Atop a Lightning Train"]] 
+> Created by the [Eldritch Cannon](/compendium/classes/artificer-artillerist-tce.md#Eldritch%20Cannon%20(Level%203)) subclass feature.
+![[/5. Mechanics/Objects/img/eldritch-cannon-2.webp#center\|"The Gnome Artificer Vi and Her Cockatrice-like Eldritch Cannon Battle Foes Atop a Lightning Train"]] 
 ```ad-statblock
 title: Eldritch Cannon, Flamethrower
 *Unknown Unknown*

@@ -48,7 +48,7 @@ aliases:
 
 ### War Domain (Level 1)
 
-War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry (such as Torm, [[5. Mechanics/Deities/Greyhawk Heironeo(US).md\|Heironeous]], and [[5. Mechanics/Deities/Dragonlance Kiri Jolith (PHB).md\|Kiri-Jolith]]) as well as gods of destruction and pillage (such as [[5. Mechanics/Deities/Greyhawk Erythnul.md\|Erythnul]], [[5. Mechanics/Deities/Eberron The Fury.md\|the Fury]], [[5. Mechanics/Deities/Nonhuman Gruumsh.md\|Gruumsh]], and [[5. Mechanics/Deities/Greek Ares.md\|Ares]]) and gods of conquest and domination (such as Bane, [[5. Mechanics/Deities/Greyhawk Hex(TOR).md\|Hextor]], and [[5. Mechanics/Deities/Nonhuman Maglubiyet.md\|Maglubiyet]]). Other war gods (such as Tempus, [[5. Mechanics/Deities/Greek Nike.md\|Nike]], and [[5. Mechanics/Deities/Celtic Nuada.md\|Nuada]]) take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.
+War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry (such as Torm, [[/5. Mechanics/Deities/Greyhawk Heironeo(US).md\|Heironeous]], and [[/5. Mechanics/Deities/Dragonlance Kiri Jolith (PHB).md\|Kiri-Jolith]]) as well as gods of destruction and pillage (such as [[/5. Mechanics/Deities/Greyhawk Erythnul.md\|Erythnul]], [[/5. Mechanics/Deities/Eberron The Fury.md\|the Fury]], [[/5. Mechanics/Deities/Nonhuman Gruumsh.md\|Gruumsh]], and [[/5. Mechanics/Deities/Greek Ares.md\|Ares]]) and gods of conquest and domination (such as Bane, [[/5. Mechanics/Deities/Greyhawk Hex(TOR).md\|Hextor]], and [[/5. Mechanics/Deities/Nonhuman Maglubiyet.md\|Maglubiyet]]). Other war gods (such as Tempus, [[/5. Mechanics/Deities/Greek Nike.md\|Nike]], and [[/5. Mechanics/Deities/Celtic Nuada.md\|Nuada]]) take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.
 
 At each indicated cleric level, add the listed spells to your spells prepared.
 
@@ -56,11 +56,11 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Divine Favor.md\|divine favor]], [[5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]] |
-| 3rd | [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]], [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]] |
-| 5th | [[5. Mechanics/Spells/Crusaders Mantle.md\|crusader's mantle]], [[5. Mechanics/Spells/Spirit Guardians.md\|spirit guardians]] |
-| 7th | [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
-| 9th | [[5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
+| 1st | [[/5. Mechanics/Spells/Divine Favor.md\|divine favor]], [[/5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]] |
+| 3rd | [[/5. Mechanics/Spells/Magic Weapon.md\|magic weapon]], [[/5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]] |
+| 5th | [[/5. Mechanics/Spells/Crusaders Mantle.md\|crusader's mantle]], [[/5. Mechanics/Spells/Spirit Guardians.md\|spirit guardians]] |
+| 7th | [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[/5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
+| 9th | [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
 ^war-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -81,14 +81,14 @@ At 6th level, when a creature within 30 feet of you makes an attack roll, you ca
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Divine Strike feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Avatar of Battle (Level 17)
 

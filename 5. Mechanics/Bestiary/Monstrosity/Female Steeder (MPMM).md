@@ -14,7 +14,7 @@ tags:
 aliases:
   - Female Steeder
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Female Steeder (MPMM).md|Female Steeder]]
+# [[5. Mechanics/Bestiary/Monstrosity/Female Steeder (MPMM).md|Female Steeder]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*
 
 ## Steeders
@@ -54,7 +54,8 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
     "desc": "+7"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
-"senses": "darkvision 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 14"
 "languages": ""
 "cr": "1"
 "traits":
@@ -65,18 +66,18 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) piercing damage plus 9 (2d8) poison damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller\
-      \ creature. Hit: The target is stuck to the steeder's leg and [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller\
+      \ creature. *Hit:* The target is stuck to the steeder's leg and [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 12). The steeder can have only one creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ at a time."
     "name": "Sticky Leg"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/female-steeder-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/female-steeder-mpmm.webp"
 ```
 ^statblock
 

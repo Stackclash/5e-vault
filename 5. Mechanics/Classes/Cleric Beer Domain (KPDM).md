@@ -54,16 +54,16 @@ The heady brew of fortitude, courage, and companionship is your nectar, and you 
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]], [[5. Mechanics/Spells/Heroism.md\|heroism]] |
-| 3rd | [[5. Mechanics/Spells/Blur.md\|blur]], [[5. Mechanics/Spells/Bolstering Brew (KPDM).md\|bolstering brew]] |
-| 5th | [[5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]], [[5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]] |
-| 7th | [[5. Mechanics/Spells/Confusion.md\|confusion]], [[5. Mechanics/Spells/Otilukes Resilient Sphere.md\|resilient sphere]] |
-| 9th | [[5. Mechanics/Spells/Dream.md\|dream]], [[5. Mechanics/Spells/Modify Memory.md\|modify memory]] |
+| 1st | [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]], [[/5. Mechanics/Spells/Heroism.md\|heroism]] |
+| 3rd | [[/5. Mechanics/Spells/Blur.md\|blur]], [[/5. Mechanics/Spells/Bolstering Brew (KPDM).md\|bolstering brew]] |
+| 5th | [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]], [[/5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]] |
+| 7th | [[/5. Mechanics/Spells/Confusion.md\|confusion]], [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md\|resilient sphere]] |
+| 9th | [[/5. Mechanics/Spells/Dream.md\|dream]], [[/5. Mechanics/Spells/Modify Memory.md\|modify memory]] |
 ^beer-domain-spells
 
 ### Disciple of the Draught (Level 1)
 
-At 1st level, you learn the [[5. Mechanics/Spells/Message.md\|message]] cantrip. You also gain proficiency in either [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]] or [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]] (your choice), and you gain proficiency with [[5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]]. Your proficiency bonus is doubled for any ability check you make that uses those supplies.
+At 1st level, you learn the [[/5. Mechanics/Spells/Message.md\|message]] cantrip. You also gain proficiency in either [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]] or [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]] (your choice), and you gain proficiency with [[/5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]]. Your proficiency bonus is doubled for any ability check you make that uses those supplies.
 
 ### Channel Divinity: Blessed Brew (Level 2)
 
@@ -75,7 +75,7 @@ Starting at 6th level, you can use your Channel Divinity to aid and rally your a
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with radiant energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with radiant energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Fire in the Belly (Level 17)
 

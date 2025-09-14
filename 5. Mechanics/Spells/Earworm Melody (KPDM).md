@@ -11,15 +11,25 @@ classes:
   - Bard
 school: Enchantment
 level: 1
+damage:
+  base: 2d4
+  scaling:
+    damage: 1d4
+    level: 2
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Earworm Melody
-concentration: true
 ---
 # Earworm Melody
 *1st-level, Enchantment*  
@@ -33,8 +43,10 @@ You sing or play a catchy tune that only one creature of your choice within rang
 
 For the spell's duration, the target takes `dice:2d4|noform|noparens|avg` (`2d4`) psychic damage at the start of each of its turns as the melody plays over and over in its mind. The target repeats the saving throw at the end of each of its turns, ending the effect on a success. On a failed save, the target must also repeat the Constitution check with disadvantage if it is concentrating on a spell.
 
-**At Higher Levels.** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d4|noform|noparens|avg|text(d4)` for each slot level above 1st.
+**At Higher Levels.** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d4|noform|noparens|avg|text(1d4)` for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
 
 *Source: Deep Magic p. 66*

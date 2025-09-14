@@ -13,7 +13,7 @@ tags:
 aliases:
   - Vault Scanner
 ---
-# [[5. Mechanics\Bestiary\Construct\Vault Scanner (GRIFFONSSADDLEBAG3).md|Vault Scanner]]
+# [[5. Mechanics/Bestiary/Construct/Vault Scanner (GRIFFONSSADDLEBAG3).md|Vault Scanner]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Vault scanners are the mechanical constructs that patrol the vaults and hallways of the Mountain of Gold. Their purpose is to find intruders and validate any bank-going clientelle.
@@ -47,7 +47,8 @@ Vault scanners are the mechanical constructs that patrol the vaults and hallways
   \ [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "blindsight 60 ft., passive Perception 21"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., passive Perception\
+  \ 21"
 "languages": "Common"
 "cr": "8"
 "traits":
@@ -66,10 +67,10 @@ Vault scanners are the mechanical constructs that patrol the vaults and hallways
   - "desc": "The vault scanner uses its Aim Lock. It then makes two attacks with its\
       \ slam or beam."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 18\
       \ (4d6 + 4) bludgeoning damage."
     "name": "Slam"
-  - "desc": "Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 13\
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 60 ft., one target. *Hit:* 13\
       \ (2d12) radiant damage."
     "name": "Beam"
   - "desc": "The vault scanner attempts to lock onto a creature it can see within\

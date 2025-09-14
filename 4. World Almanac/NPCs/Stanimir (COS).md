@@ -54,7 +54,7 @@ image: null
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 20*
@@ -115,7 +115,7 @@ actions:
 "subtype": "human"
 "alignment": "Chaotic Neutral"
 "ac": !!int "12"
-"ac_class": "15 with [[5. Mechanics/Spells/Mage Armor.md|mage armor]]"
+"ac_class": "15 with [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -128,8 +128,8 @@ actions:
   - !!int "11"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+6"
-  - "wisdom": "+4"
+  - "intelligence": !!int "6"
+  - "wisdom": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+6"
@@ -141,25 +141,25 @@ actions:
 "traits":
   - "desc": "Stanimir is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks). Stanimir has the following\
-      \ wizard spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Friends.md|friends]],\
-      \ [[5. Mechanics/Spells/Light.md|light]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1st level (4\
-      \ slots): [[5. Mechanics/Spells/Charm Person.md|charm person]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-      \ [[5. Mechanics/Spells/Shield.md|shield]], [[5. Mechanics/Spells/Sleep.md|sleep]]\n\
-      \n2nd level (3 slots): [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
-      \n3rd level (3 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]],\
-      \ [[5. Mechanics/Spells/Phantom Steed.md|phantom steed]], [[5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]\n\
-      \n4th level (3 slots): [[5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
-      \ [[5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\n5th level (1 slots): [[5. Mechanics/Spells/Dominate Person.md|dominate\
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Friends.md|friends]],\
+      \ [[/5. Mechanics/Spells/Light.md|light]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n**1st level\
+      \ (4 slots):** [[/5. Mechanics/Spells/Charm Person.md|charm person]], [[/5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+      \ [[/5. Mechanics/Spells/Shield.md|shield]], [[/5. Mechanics/Spells/Sleep.md|sleep]]\n\
+      \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Misty Step.md|misty step]], [[/5. Mechanics/Spells/Suggestion.md|suggestion]]\n\
+      \n**3rd level (3 slots):** [[/5. Mechanics/Spells/Bestow Curse.md|bestow curse]],\
+      \ [[/5. Mechanics/Spells/Phantom Steed.md|phantom steed]], [[/5. Mechanics/Spells/Vampiric Touch.md|vampiric touch]]\n\
+      \n**4th level (3 slots):** [[/5. Mechanics/Spells/Greater Invisibility.md|greater invisibility]],\
+      \ [[/5. Mechanics/Spells/Stoneskin.md|stoneskin]]\n\n**5th level (1 slots):** [[/5. Mechanics/Spells/Dominate Person.md|dominate\
       \ person]]"
     "name": "Spellcasting"
 "actions":
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
     "name": "Dagger"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/stanimir-cos.webp"
+"image": "/4. World Almanac/NPCs/token/stanimir-cos.webp"
 ```
 ^statblock
 

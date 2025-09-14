@@ -135,7 +135,7 @@ A retainer has primary skills. They gain +5 to skill checks with primary skills,
 
 A retainer gets +3 to all saving throws, and an extra +3 to saves with a primary ability.
 
-They save against spells just like PCs do, but if they succeed on a save, they lose health levels equal to half the original number of dice. So a retainer who saves against a [[5. Mechanics/Spells/Fireball.md\|fireball]] (8d6) loses 4 health levels.
+They save against spells just like PCs do, but if they succeed on a save, they lose health levels equal to half the original number of dice. So a retainer who saves against a [[/5. Mechanics/Spells/Fireball.md\|fireball]] (8d6) loses 4 health levels.
 
 ### Ancestry, Perception, and Movement
 
@@ -185,79 +185,79 @@ The character who recruited the retainer is called their **leader**. This term i
 
 #### Barbarian Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Reaver (SAF).md\|Reaver]]  
-- [[5. Mechanics/Bestiary/Humanoid/Spirit Warden (SAF).md\|Spirit Warden]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Reaver (SAF).md\|Reaver]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Spirit Warden (SAF).md\|Spirit Warden]]  
 
 #### Bard Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Loremaster (SAF).md\|Loremaster]]  
-- [[5. Mechanics/Bestiary/Humanoid/Troubadour Warrior (SAF).md\|Troubadour-warrior]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Loremaster (SAF).md\|Loremaster]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Troubadour Warrior (SAF).md\|Troubadour-warrior]]  
 
 #### Cleric Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Curate (SAF).md\|Curate]]  
-- [[5. Mechanics/Bestiary/Humanoid/Exorcist (SAF).md\|Exorcist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Healer (SAF).md\|Healer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Shadow Priest (SAF).md\|Shadow Priest]]  
-- [[5. Mechanics/Bestiary/Humanoid/Stormspeaker (SAF).md\|Stormspeaker]]  
-- [[5. Mechanics/Bestiary/Humanoid/Warden (SAF).md\|Warden]]  
-- [[5. Mechanics/Bestiary/Humanoid/Battle Priest (SAF).md\|Battle Priest]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Curate (SAF).md\|Curate]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Exorcist (SAF).md\|Exorcist]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Healer (SAF).md\|Healer]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Shadow Priest (SAF).md\|Shadow Priest]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Stormspeaker (SAF).md\|Stormspeaker]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Warden (SAF).md\|Warden]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Battle Priest (SAF).md\|Battle Priest]]  
 
 #### Druid Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Mystic (SAF).md\|Mystic]]  
-- [[5. Mechanics/Bestiary/Humanoid/Skinwalker (SAF).md\|Skinwalker]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Mystic (SAF).md\|Mystic]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Skinwalker (SAF).md\|Skinwalker]]  
 
 #### Fighter Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Knight Sorcerer (SAF).md\|Knight-Sorcerer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Swordmaster (SAF).md\|Swordmaster]]  
-- [[5. Mechanics/Bestiary/Humanoid/Warlord (SAF).md\|Warlord]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Knight Sorcerer (SAF).md\|Knight-Sorcerer]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Swordmaster (SAF).md\|Swordmaster]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Warlord (SAF).md\|Warlord]]  
 
 #### Monk Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Acolyte Of The Way (SAF).md\|Acolyte of the Way]]  
-- [[5. Mechanics/Bestiary/Humanoid/Acolyte Of Darkness (SAF).md\|Acolyte of Darkness]]  
-- [[5. Mechanics/Bestiary/Humanoid/Elemental Acolyte (SAF).md\|Elemental Acolyte]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Acolyte Of The Way (SAF).md\|Acolyte of the Way]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Acolyte Of Darkness (SAF).md\|Acolyte of Darkness]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Elemental Acolyte (SAF).md\|Elemental Acolyte]]  
 
 #### Paladin Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Cavalier (SAF).md\|Cavalier]]  
-- [[5. Mechanics/Bestiary/Humanoid/Justicar (SAF).md\|Justicar]]  
-- [[5. Mechanics/Bestiary/Humanoid/Knight Of The Green Order (SAF).md\|Knight of the Green Order]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Cavalier (SAF).md\|Cavalier]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Justicar (SAF).md\|Justicar]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Knight Of The Green Order (SAF).md\|Knight of the Green Order]]  
 
 #### Ranger Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Beast Lord (SAF).md\|Beast Lord]]  
-- [[5. Mechanics/Bestiary/Humanoid/Tracker (SAF).md\|Tracker]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Beast Lord (SAF).md\|Beast Lord]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Tracker (SAF).md\|Tracker]]  
 
 #### Rogue Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Executioner (SAF).md\|Executioner]]  
-- [[5. Mechanics/Bestiary/Humanoid/Guild Adept (SAF).md\|Guild Adept]]  
-- [[5. Mechanics/Bestiary/Humanoid/Cutpurse (SAF).md\|Cutpurse]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Executioner (SAF).md\|Executioner]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Guild Adept (SAF).md\|Guild Adept]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Cutpurse (SAF).md\|Cutpurse]]  
 
 #### Sorcerer Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Thaumaturgist (SAF).md\|Thaumaturgist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Chaos Mage (SAF).md\|Chaos Mage]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Thaumaturgist (SAF).md\|Thaumaturgist]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Chaos Mage (SAF).md\|Chaos Mage]]  
 
 #### Warlock Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Alienist (SAF).md\|Alienist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Diabolist (SAF).md\|Diabolist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Exarch (SAF).md\|Exarch]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Alienist (SAF).md\|Alienist]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Diabolist (SAF).md\|Diabolist]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Exarch (SAF).md\|Exarch]]  
 
 #### Wizard Retainers
 
-- [[5. Mechanics/Bestiary/Humanoid/Conjurer (SAF).md\|Conjurer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Enchanter (SAF).md\|Enchanter]]  
-- [[5. Mechanics/Bestiary/Humanoid/Evoker (SAF).md\|Evoker]]  
-- [[5. Mechanics/Bestiary/Humanoid/Illusionist (SAF).md\|Illusionist]]  
-- [[5. Mechanics/Bestiary/Humanoid/Necromancer (SAF).md\|Necromancer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Seer (SAF).md\|Seer]]  
-- [[5. Mechanics/Bestiary/Humanoid/Shaper (SAF).md\|Shaper]]  
-- [[5. Mechanics/Bestiary/Humanoid/Theurgist (SAF).md\|Theurgist]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Conjurer (SAF).md\|Conjurer]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Enchanter (SAF).md\|Enchanter]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Evoker (SAF).md\|Evoker]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Illusionist (SAF).md\|Illusionist]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Necromancer (SAF).md\|Necromancer]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Seer (SAF).md\|Seer]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Shaper (SAF).md\|Shaper]]  
+- [[/5. Mechanics/Bestiary/Humanoid/Theurgist (SAF).md\|Theurgist]]  
 
 ## Artisans
 
@@ -273,7 +273,7 @@ The mason who sets up shop in a fighter's keep was probably one of the folks who
 
 A tailor who joins a lord in their wilderness stronghold may be a local townsperson seeking greater glory, the opportunity to serve a baron or a count! Or they may be someone from the nearest big city who's tired of serving folks who don't appreciate their handiwork, hearing tell of a newly landed noble building a keep, and decides it is better to be a big fish in a small pond than a little fish in the great wide ocean. The tailor from the big city brings with them all the prejudices of civilization, but also all the knowledge that comes with it, knowledge of court intrigues and fashion.
 
-![[5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md\|Artisan Shop Improvement Table]]
+![[/5. Mechanics/Tables/Artisan Shop Improvement Table (SAF).md\|Artisan Shop Improvement Table]]
 
 ### Your Artisan's Shop
 
@@ -293,7 +293,7 @@ An alchemy test combines two skill checks: first an Arcana check to determine if
 
 **The DC of the Arcana check** to locate the organs and remember the best way to extract them equals 8 + the challenge rating of the creature you're operating on.
 
-**The DC of the Medicine check** to perform the surgery and extract enough useful material without destroying it depends on the organ in question and the challenge rating of the creature, as shown in the [[5. Mechanics/Tables/Alchemy Test (SAF).md\|Alchemy Test]] table.
+**The DC of the Medicine check** to perform the surgery and extract enough useful material without destroying it depends on the organ in question and the challenge rating of the creature, as shown in the [[/5. Mechanics/Tables/Alchemy Test (SAF).md\|Alchemy Test]] table.
 
 A given corpse can only withstand one alchemy test before it's unusable.
 
@@ -304,13 +304,13 @@ In all these instances, it's assumed your follower knows how to procure *just en
 
 Generally we don't worry too much about *which* recipes an artisan follower has access to. Their job is to save you time and money—all the other requirements must be met normally—but the GM could rule that the artisan comes with a handful of recipes and make finding other recipes part of adventuring!
 
-> Goran the Smith offers his services to Lady Halfrid. When she asks what services he can provide, he mentions repairing armor and forging weapons, and he discreetly mentions that if she knows a mage, he has the knowing of crafting [[5. Mechanics/Items/Javelin Of Lightning.md\|javelins of lightning]] passed down from his grandfather's father. A very useful inheritance!
+> Goran the Smith offers his services to Lady Halfrid. When she asks what services he can provide, he mentions repairing armor and forging weapons, and he discreetly mentions that if she knows a mage, he has the knowing of crafting [[/5. Mechanics/Items/Javelin Of Lightning.md\|javelins of lightning]] passed down from his grandfather's father. A very useful inheritance!
 
 ### The Alchemist
 
 The alchemist is to the wizard as the blacksmith is to the fighter. Closely related disciplines that nonetheless require so much specialized knowledge it's functionally impossible to be a master at both.
 
-Alchemists are primarily useful for brewing potions, but many are also lorecrafty and well versed in obscure uses for various materials. Yes, an [[5. Mechanics/Spells/Alarm.md\|alarm]] spell requires a bell, but do you know what happens if you use a crystal bell crafted by an elf maiden? I don't, but your alchemist might!
+Alchemists are primarily useful for brewing potions, but many are also lorecrafty and well versed in obscure uses for various materials. Yes, an [[/5. Mechanics/Spells/Alarm.md\|alarm]] spell requires a bell, but do you know what happens if you use a crystal bell crafted by an elf maiden? I don't, but your alchemist might!
 
 Many wizards began life as alchemists in service to a lord. Eventually frustrated by the limits of what alchemy can do, they set out to learn proper magic!
 
@@ -321,15 +321,15 @@ The kinds of potions your alchemist can make depend on the monster organs you br
 
 ### The Eyes of the Beast: Potion of Invisibility to Monsters (Uncommon)
 
-With the preserved eyes of a creature your alchemist can make a lesser form of the [[5. Mechanics/Items/Potion Of Invisibility.md\|potion of invisibility]]. This is an uncommon potion requiring a spellcaster of at least 3rd level.
+With the preserved eyes of a creature your alchemist can make a lesser form of the [[/5. Mechanics/Items/Potion Of Invisibility.md\|potion of invisibility]]. This is an uncommon potion requiring a spellcaster of at least 3rd level.
 
-The potion takes just as long to craft and costs just as much as a [[5. Mechanics/Items/Potion Of Invisibility.md\|potion of invisibility]] (reduced by the alchemist's crafting bonus), but it only grants invisibility against exactly the kind of creature the eyes were harvested from. A black dragon's eyes make *potions of invisibility to black dragons*. Not all dragons or even all evil dragons. A *potion of invisibility to goblins* will not work against bugbears or hobgoblins, and a *potion of invisibility to lizardfolk* will not work against troglodytes. Unless, of course, you are a generous GM.
+The potion takes just as long to craft and costs just as much as a [[/5. Mechanics/Items/Potion Of Invisibility.md\|potion of invisibility]] (reduced by the alchemist's crafting bonus), but it only grants invisibility against exactly the kind of creature the eyes were harvested from. A black dragon's eyes make *potions of invisibility to black dragons*. Not all dragons or even all evil dragons. A *potion of invisibility to goblins* will not work against bugbears or hobgoblins, and a *potion of invisibility to lizardfolk* will not work against troglodytes. Unless, of course, you are a generous GM.
 
 ### The Brain of the Beast: Potion of Monster Control (Very Rare)
 
 If the rarest and hardest of all organs to harvest and preserve—the brain—is brought to an alchemist, they can craft the very rare *potion of monster control*.
 
-This powerful item distills the magics of the spell [[5. Mechanics/Spells/Dominate Monster.md\|dominate monster]] into a potion anyone can drink. Crafting this item requires the services of a 7th-level spellcaster.
+This powerful item distills the magics of the spell [[/5. Mechanics/Spells/Dominate Monster.md\|dominate monster]] into a potion anyone can drink. Crafting this item requires the services of a 7th-level spellcaster.
 
 Consuming the potion acts just like casting the spell, but it only works against the kind of creature whose brain was used to make the potion. Also, the target does not gain advantage if you are fighting it, and its duration is 1 hour.
 
@@ -346,7 +346,7 @@ Consuming the potion acts just like casting the spell, but it only works against
 > ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/sample-witch.webp#center)
 ^sample-alchemist-morwen-the-witch
 
-![[5. Mechanics/Tables/Alchemy Test (SAF).md\|Alchemy Test]]
+![[/5. Mechanics/Tables/Alchemy Test (SAF).md\|Alchemy Test]]
 
 ### The Blacksmith
 
@@ -362,7 +362,7 @@ What items your smith can forge depends on which organs you bring!
 
 #### The Blood of the Beast: Arrows of Slaying
 
-The alchemy test needed to make [[5. Mechanics/Items/Arrow Of Slaying.md\|arrows of slaying]] depends on the CR of the monster in question, as described in [[5. Mechanics/Tables/Alchemy Test (SAF).md\|The Alchemy Test]] (page 83). The number of arrows you get is also based on the CR of the monster. Very powerful monsters yield only a single arrow. Crafting the arrows requires the services of a 9th-level spellcaster.
+The alchemy test needed to make [[/5. Mechanics/Items/Arrow Of Slaying.md\|arrows of slaying]] depends on the CR of the monster in question, as described in [[/5. Mechanics/Tables/Alchemy Test (SAF).md\|The Alchemy Test]] (page 83). The number of arrows you get is also based on the CR of the monster. Very powerful monsters yield only a single arrow. Crafting the arrows requires the services of a 9th-level spellcaster.
 
 If a player asks, "Why there aren't more of these things out in the world?" remind them that there are few people out there with the necessary skill (alchemy), opportunity (adventuring), and resources (stronghold with appropriate follower), and even then, you only get a handful of arrows, and of course they are spent once shot!
 
@@ -382,8 +382,8 @@ The alchemy test needed to make a slaying weapon depends on the CR of the monste
 
 | Monster CR | # Arrows |
 |------------|----------|
-| 1–5 | `dice:1d6\|noform\|noparens\|avg\|text(d6)` |
-| 6–9 | `dice:1d4\|noform\|noparens\|avg\|text(d4)` |
+| 1–5 | `dice:1d6\|noform\|noparens\|avg\|text(1d6)` |
+| 6–9 | `dice:1d4\|noform\|noparens\|avg\|text(1d4)` |
 | 10–14 | 2 |
 | 15 + | 1 |
 ^arrows-of-slaying

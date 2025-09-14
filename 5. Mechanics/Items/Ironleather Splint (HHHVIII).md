@@ -11,7 +11,7 @@ armorClass: 17
 weight: 60
 ---
 # Ironleather Splint
-*Heavy armor ([[5. Mechanics/Items/Splint Armor.md\|splint armor]]), rare*  
+*Heavy armor ([[/5. Mechanics/Items/Splint Armor.md\|splint armor]]), rare*  
 
 - **Armor Class**: 17
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]

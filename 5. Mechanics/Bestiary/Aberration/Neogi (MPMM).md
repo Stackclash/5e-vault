@@ -15,7 +15,7 @@ tags:
 aliases:
   - Neogi
 ---
-# [[5. Mechanics\Bestiary\Aberration\Neogi (MPMM).md|Neogi]]
+# [[5. Mechanics/Bestiary/Aberration/Neogi (MPMM).md|Neogi]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*
 
 The mentality of neogi is alien to many other peoples. Because adult neogi have the power to control minds, they consider doing so to be entirely appropriate. Their society makes no distinction between individuals, aside from the ability that a given creature has to control others, and they don't comprehend the emotional aspects of existence that humans and similar beings experience. To a neogi, hatred is as foreign a sensation as love, and showing loyalty in the absence of authority is foolishness.
@@ -55,7 +55,8 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Common, Deep Speech, Undercommon"
 "cr": "3"
 "traits":
@@ -69,13 +70,13 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "actions":
   - "desc": "The neogi makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed\
       \ on a DC 12 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
       \ for 1 minute. A target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
       \ + 3) slashing damage."
     "name": "Claw"
 "bonus_actions":
@@ -92,7 +93,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Aberration/token/neogi-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/neogi-mpmm.webp"
 ```
 ^statblock
 

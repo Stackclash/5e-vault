@@ -19,16 +19,21 @@ classes:
   - Wizard
 school: Conjuration
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 7
+  types: []
 ritual: true
 time: 5 minutes
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a canvas tent
 aliases:
   - Althea's Travel Tent
-material: a canvas tent
 ---
 # Althea's Travel Tent
 *2nd-level, Conjuration (ritual)*  
@@ -50,6 +55,6 @@ With a 6th-level slot, a third room is added that has three two-person beds.
 
 With a slot of 7th level or higher, the dining area and second sleeping area can each accommodate eight persons.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 35*

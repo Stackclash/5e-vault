@@ -79,29 +79,29 @@ Some of your maneuvers require your target to make a saving throw to resist the 
 
 The maneuvers are presented in alphabetical order.
 
-- [[5. Mechanics/Optional Features/Commanders Strike.md\|Commander's Strike]]  
-- [[5. Mechanics/Optional Features/Disarming Attack.md\|Disarming Attack]]  
-- [[5. Mechanics/Optional Features/Distracting Strike.md\|Distracting Strike]]  
-- [[5. Mechanics/Optional Features/Evasive Footwork.md\|Evasive Footwork]]  
-- [[5. Mechanics/Optional Features/Feinting Attack.md\|Feinting Attack]]  
-- [[5. Mechanics/Optional Features/Goading Attack.md\|Goading Attack]]  
-- [[5. Mechanics/Optional Features/Lunging Attack.md\|Lunging Attack]]  
-- [[5. Mechanics/Optional Features/Maneuvering Attack.md\|Maneuvering Attack]]  
-- [[5. Mechanics/Optional Features/Menacing Attack.md\|Menacing Attack]]  
-- [[5. Mechanics/Optional Features/Parry.md\|Parry]]  
-- [[5. Mechanics/Optional Features/Precision Attack.md\|Precision Attack]]  
-- [[5. Mechanics/Optional Features/Pushing Attack.md\|Pushing Attack]]  
-- [[5. Mechanics/Optional Features/Rally.md\|Rally]]  
-- [[5. Mechanics/Optional Features/Riposte.md\|Riposte]]  
-- [[5. Mechanics/Optional Features/Sweeping Attack.md\|Sweeping Attack]]  
-- [[5. Mechanics/Optional Features/Trip Attack.md\|Trip Attack]]  
+- [[/5. Mechanics/Optional Features/Commanders Strike.md\|Commander's Strike]]  
+- [[/5. Mechanics/Optional Features/Disarming Attack.md\|Disarming Attack]]  
+- [[/5. Mechanics/Optional Features/Distracting Strike.md\|Distracting Strike]]  
+- [[/5. Mechanics/Optional Features/Evasive Footwork.md\|Evasive Footwork]]  
+- [[/5. Mechanics/Optional Features/Feinting Attack.md\|Feinting Attack]]  
+- [[/5. Mechanics/Optional Features/Goading Attack.md\|Goading Attack]]  
+- [[/5. Mechanics/Optional Features/Lunging Attack.md\|Lunging Attack]]  
+- [[/5. Mechanics/Optional Features/Maneuvering Attack.md\|Maneuvering Attack]]  
+- [[/5. Mechanics/Optional Features/Menacing Attack.md\|Menacing Attack]]  
+- [[/5. Mechanics/Optional Features/Parry.md\|Parry]]  
+- [[/5. Mechanics/Optional Features/Precision Attack.md\|Precision Attack]]  
+- [[/5. Mechanics/Optional Features/Pushing Attack.md\|Pushing Attack]]  
+- [[/5. Mechanics/Optional Features/Rally.md\|Rally]]  
+- [[/5. Mechanics/Optional Features/Riposte.md\|Riposte]]  
+- [[/5. Mechanics/Optional Features/Sweeping Attack.md\|Sweeping Attack]]  
+- [[/5. Mechanics/Optional Features/Trip Attack.md\|Trip Attack]]  
 
 ### Maneuver Options (Level 3)
 _Source: Tasha's Cauldron of Everything p. 41_
 
 *3rd-level fighter [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
-If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [[5. Mechanics/Optional Features/Superior Technique (TCE).md\|Superior Technique]] fighting style or the [[5. Mechanics/Feats/Martial Adept.md\|Martial Adept]] feat.
+If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [[/5. Mechanics/Optional Features/Superior Technique (TCE).md\|Superior Technique]] fighting style or the [[/5. Mechanics/Feats/Martial Adept.md\|Martial Adept]] feat.
 
 ### Additional Maneuvers (Level 7)
 
@@ -150,5 +150,5 @@ At 18th level, your superiority dice turn into `dice:d12|noform|noparens|avg` (`
 ## Optional Features
 
 > [!example]- Optional Features: Maneuver, Battle Master
-> ![Maneuver, Battle Master](compendium/lists/list-optfeaturetype-mv-b.md#Maneuver,%20Battle%20Master)
+> ![Maneuver, Battle Master](/compendium/lists/list-optfeaturetype-mv-b.md#Maneuver,%20Battle%20Master)
 ^list-optfeature-mv-b

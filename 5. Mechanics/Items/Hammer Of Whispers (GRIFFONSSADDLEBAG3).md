@@ -11,11 +11,11 @@ tags:
 aliases:
   - Hammer of Whispers
 one-hand-damage: 1d4 bludgeoning
-range: 20\60
+range: 20/60
 weight: 2
 ---
 # Hammer of Whispers
-*Weapon ([[5. Mechanics/Items/Light Hammer.md\|light hammer]]), cursed item, major, uncommon (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), cursed item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Hammer-of-Whispers.webp#right)  
 
 - **Damage**: 1d4 bludgeoning
@@ -23,7 +23,7 @@ weight: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
 
-This dark silver hammer is miraculously light. It has the finesse property, and any target hit with it takes an extra `dice:1d4|noform|noparens|avg` (`d4`) psychic damage. Hitting a target with the hammer produces no sound.
+This dark silver hammer is miraculously light. It has the finesse property, and any target hit with it takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) psychic damage. Hitting a target with the hammer produces no sound.
 
 ## Curse
 

@@ -14,7 +14,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Siege Staff
-*Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
+*Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Siege-Staff.webp#right)  
 
 - **Damage**:
@@ -27,11 +27,11 @@ This stony staff has been carved into the shape of a castle tower. The staff has
 
 ## Battering Strike
 
-This staff can be wielded as a magic quarterstaff. When you hit with a melee attack using this staff, you can expend 1 of its charges to cause the target to take an extra `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning damage. If the target is a creature, it's also pushed 5 feet away from you. In addition, when you attack an object with the staff and hit, maximize your weapon damage dice against the target.
+This staff can be wielded as a magic quarterstaff. When you hit with a melee attack using this staff, you can expend 1 of its charges to cause the target to take an extra `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage. If the target is a creature, it's also pushed 5 feet away from you. In addition, when you attack an object with the staff and hit, maximize your weapon damage dice against the target.
 
 ## Fire Pot
 
-While holding the staff, you can use an action and expend 1 or more charges to cast the [[5. Mechanics/Spells/Grease.md\|grease]] spell from it. You can increase the size of the square covered by the spell by 5 feet for each additional charge you expend in this way (up to a 20-foot square). When you expend 2 or more charges to cast the spell in this way, creatures also take `dice:2d6|noform|noparens|avg` (`2d6`) fire damage on a failed save, or half as much damage on a successful one.
+While holding the staff, you can use an action and expend 1 or more charges to cast the [[/5. Mechanics/Spells/Grease.md\|grease]] spell from it. You can increase the size of the square covered by the spell by 5 feet for each additional charge you expend in this way (up to a 20-foot square). When you expend 2 or more charges to cast the spell in this way, creatures also take `dice:2d6|noform|noparens|avg` (`2d6`) fire damage on a failed save, or half as much damage on a successful one.
 
 ## Trebuchet
 

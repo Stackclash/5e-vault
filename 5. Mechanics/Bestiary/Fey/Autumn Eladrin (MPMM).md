@@ -14,7 +14,7 @@ tags:
 aliases:
   - Autumn Eladrin
 ---
-# [[5. Mechanics\Bestiary\Fey\Autumn Eladrin (MPMM).md|Autumn Eladrin]]
+# [[5. Mechanics/Bestiary/Fey/Autumn Eladrin (MPMM).md|Autumn Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 115, Mordenkainen's Tome of Foes p. 195*
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
@@ -62,7 +62,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - "name": "[[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]"
     "desc": "+7"
 "damage_resistances": "psychic"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Common, Elvish, Sylvan"
 "cr": "10"
 "traits":
@@ -81,19 +82,19 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - "desc": "The eladrin makes two Longsword or Longbow attacks. It can replace one\
       \ attack with a use of Spellcasting."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
       \ + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands,\
       \ plus 22 (5d8) psychic damage."
     "name": "Longsword"
-  - "desc": "Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:*\
       \ 7 (1d8 + 3) piercing damage plus 22 (5d8) psychic damage."
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[5. Mechanics/Spells/Hold Person.md|hold person]]\n\n2/day each:\
-      \ [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]] (as a 5th-level spell), [[5. Mechanics/Spells/Lesser Restoration.md|lesser\
-      \ restoration]]\n\n1/day each: [[5. Mechanics/Spells/Greater Restoration.md|greater\
-      \ restoration]], [[5. Mechanics/Spells/Revivify.md|revivify]]"
+      \n**At will:** [[/5. Mechanics/Spells/Hold Person.md|hold person]]\n\n**2/day each:**\
+      \ [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]] (as a 5th-level spell), [[/5. Mechanics/Spells/Lesser Restoration.md|lesser\
+      \ restoration]]\n\n**1/day each:**\
+      \ [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]], [[/5. Mechanics/Spells/Revivify.md|revivify]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
@@ -108,7 +109,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fey/token/autumn-eladrin-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/autumn-eladrin-mpmm.webp"
 ```
 ^statblock
 

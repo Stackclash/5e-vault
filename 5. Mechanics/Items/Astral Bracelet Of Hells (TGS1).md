@@ -26,11 +26,11 @@ Each kind of astral bracelet has a different list spells that can be cast from i
 
 | Charges | Spells |
 |---------|--------|
-| 1 | [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]], [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]], [[5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]] |
-| 2 | [[5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]] |
-| 3 | [[5. Mechanics/Spells/Magic Circle.md\|magic circle]] |
-| 4 | [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] |
-| 5 | [[5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] |
+| 1 | [[/5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]], [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]], [[/5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]] |
+| 2 | [[/5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]] |
+| 3 | [[/5. Mechanics/Spells/Magic Circle.md\|magic circle]] |
+| 4 | [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] |
+| 5 | [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] |
 ^astral-bracelet-of-hells-spells
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*

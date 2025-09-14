@@ -10,7 +10,7 @@ aliases:
 # Cloak of Flies
 *Source: Xanathar's Guide to Everything p. 56*  
 
-***Prerequisites*** 5th
+***Prerequisites*** Level 5
 
 As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or you dismiss it as a bonus action.
 

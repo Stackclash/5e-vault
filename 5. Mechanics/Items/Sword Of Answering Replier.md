@@ -15,7 +15,7 @@ two-hand-damage: 1d10 slashing
 weight: 3
 ---
 # Sword of Answering (Replier)
-*Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement by a neutral creature)*  
+*Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement by a neutral creature)*  
 
 - **Damage**:
   - One-handed: 1d8 slashing

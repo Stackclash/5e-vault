@@ -51,7 +51,7 @@ Druids of the Circle of Roses bend the power of nature to influence the minds an
 
 ### Circle Spells (Level 2)
 
-Your deep bond with the ebb and flow of nature grants you knowledge of certain spells. At 2nd level, you learn the [[5. Mechanics/Spells/Friends.md\|friends]] cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Roses Spells table.
+Your deep bond with the ebb and flow of nature grants you knowledge of certain spells. At 2nd level, you learn the [[/5. Mechanics/Spells/Friends.md\|friends]] cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Roses Spells table.
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
@@ -59,11 +59,11 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 | Druid Level | Spells |
 |-------------|--------|
-| 2nd | [[5. Mechanics/Spells/Poison Spray.md\|poison spray]] |
-| 3rd | [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]], [[5. Mechanics/Spells/Suggestion.md\|suggestion]] |
-| 5th | [[5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]], [[5. Mechanics/Spells/Tongues.md\|tongues]] |
-| 7th | [[5. Mechanics/Spells/Confusion.md\|confusion]], [[5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]] |
-| 9th | [[5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[5. Mechanics/Spells/Geas.md\|geas]] |
+| 2nd | [[/5. Mechanics/Spells/Poison Spray.md\|poison spray]] |
+| 3rd | [[/5. Mechanics/Spells/Calm Emotions.md\|calm emotions]], [[/5. Mechanics/Spells/Suggestion.md\|suggestion]] |
+| 5th | [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]], [[/5. Mechanics/Spells/Tongues.md\|tongues]] |
+| 7th | [[/5. Mechanics/Spells/Confusion.md\|confusion]], [[/5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]] |
+| 9th | [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[/5. Mechanics/Spells/Geas.md\|geas]] |
 ^circle-of-roses-spells
 
 ### Bonus Proficiency (Level 2)
@@ -86,7 +86,7 @@ At 6th level, your perfume can affect one creature of your choice within 20 feet
 
 ### Rose's Thorns (Level 10)
 
-At 10th level, you can stab thorns at the minds of those who dare raise their hand against you. When a creature within 20 feet of you hits you with an attack, you can use your reaction to force the creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature takes `dice:1d10|noform|noparens|avg` (`d10`) psychic damage.
+At 10th level, you can stab thorns at the minds of those who dare raise their hand against you. When a creature within 20 feet of you hits you with an attack, you can use your reaction to force the creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature takes `dice:1d10|noform|noparens|avg` (`1d10`) psychic damage.
 
 ### Lingering Perfume (Level 14)
 

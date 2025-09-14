@@ -10,11 +10,11 @@ tags:
 aliases:
   - Spitfire
 one-hand-damage: 1d10 piercing
-range: 100\400
+range: 100/400
 weight: 18
 ---
 # Spitfire
-*Weapon ([[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Spitfire.webp#right)  
 
 - **Damage**: 1d10 piercing

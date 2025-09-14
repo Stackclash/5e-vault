@@ -54,11 +54,11 @@ You are master of the hunt. The bounty of the land is yours for the taking.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Hunters Mark.md\|hunter's mark]], [[5. Mechanics/Spells/Strength Of An Ox (KPDM).md\|strength of an ox]] |
-| 3rd | [[5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] |
-| 5th | [[5. Mechanics/Spells/Speak With Plants.md\|speak with plants]], [[5. Mechanics/Spells/Tracer (KPDM).md\|tracer]] |
-| 7th | [[5. Mechanics/Spells/Heart Seeking Arrow (KPDM).md\|heart-seeking arrow]], [[5. Mechanics/Spells/Power Word Pain (KPDM).md\|power word pain]] |
-| 9th | [[5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
+| 1st | [[/5. Mechanics/Spells/Hunters Mark.md\|hunter's mark]], [[/5. Mechanics/Spells/Strength Of An Ox (KPDM).md\|strength of an ox]] |
+| 3rd | [[/5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] |
+| 5th | [[/5. Mechanics/Spells/Speak With Plants.md\|speak with plants]], [[/5. Mechanics/Spells/Tracer (KPDM).md\|tracer]] |
+| 7th | [[/5. Mechanics/Spells/Heart Seeking Arrow (KPDM).md\|heart-seeking arrow]], [[/5. Mechanics/Spells/Power Word Pain (KPDM).md\|power word pain]] |
+| 9th | [[/5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
 ^hunting-domain-spells
 
 ### Forest Master (Level 1)
@@ -71,11 +71,11 @@ At 2nd level, you can use your Channel Divinity to camouflage yourself in any en
 
 ### Resolute Hunter (Level 6)
 
-At 6th level, you select a favored enemy the same as if you were a [[5. Mechanics/Classes/Ranger.md\|ranger]]. You gain all the benefits of the [[5. Mechanics/Classes/Ranger.md\|ranger's]] Favored Enemy feature with one exception: you choose additional favored enemies (and languages) at 10th level and 16th level instead of at 6th level and 14th level.
+At 6th level, you select a favored enemy the same as if you were a [[/5. Mechanics/Classes/Ranger.md\|ranger]]. You gain all the benefits of the [[/5. Mechanics/Classes/Ranger.md\|ranger's]] Favored Enemy feature with one exception: you choose additional favored enemies (and languages) at 10th level and 16th level instead of at 6th level and 14th level.
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. On your turn, you can cause one successful weapon attack against a creature to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the type dealt by the weapon. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. On your turn, you can cause one successful weapon attack against a creature to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage of the type dealt by the weapon. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Deadly Stalker (Level 17)
 

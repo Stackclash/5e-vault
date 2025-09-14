@@ -13,7 +13,7 @@ tags:
 aliases:
   - Animated Armor
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Armor.md|Animated Armor]]
+# [[5. Mechanics/Bestiary/Construct/Animated Armor.md|Animated Armor]]
 *Source: Monster Manual p. 19, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.
@@ -51,13 +51,14 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 6"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 6"
 "languages": ""
 "cr": "1"
 "traits":
   - "desc": "The armor is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
-      \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-      \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the armor\
+      \ while in the area of an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
+      \ If targeted by [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the armor\
       \ must succeed on a Constitution saving throw against the caster's spell save\
       \ DC or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for\
       \ 1 minute."
@@ -68,7 +69,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "actions":
   - "desc": "The armor makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) bludgeoning damage."
     "name": "Slam"
 "source":
@@ -76,7 +77,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
   - "CoS"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Construct/token/animated-armor.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/animated-armor.webp"
 ```
 ^statblock
 

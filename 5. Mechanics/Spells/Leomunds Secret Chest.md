@@ -23,16 +23,15 @@ level: 4
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
-aliases:
-  - Leomund's Secret Chest
+range: Touch
+somatic: true
+verbal: true
 material: >-
   an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare
   materials worth at least 5,000 gp, and a Tiny replica made from the same
   materials worth at least 50 gp
+aliases:
+  - Leomund's Secret Chest
 ---
 # Leomund's Secret Chest
 *4th-level, Conjuration*  
@@ -48,6 +47,6 @@ While the chest remains on the Ethereal Plane, you can use an action and touch t
 
 After 60 days, there is a cumulative  chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Wealth Domain)](compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Wealth Domain)](/compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Secret Chest")*

@@ -15,17 +15,21 @@ classes:
   - Ranger
 school: Divination
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: true
+verbal: true
+material: a firefly
 aliases:
   - Illuminate Spoor
-concentration: true
-material: a firefly
 ---
 # Illuminate Spoor
 *1st-level, Divination*  
@@ -41,6 +45,8 @@ If the creature leaving the tracks changes its tracks, such as by adding or remo
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the duration is concentration, up to 8 hours. When you use a spell slot of 5th level or higher, the duration is concentration, up to 24 hours.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
 
 *Source: Deep Magic p. 83*

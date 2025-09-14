@@ -13,7 +13,7 @@ one-hand-damage: 1d6 piercing
 weight: 2
 ---
 # Shadow Sword
-*Weapon ([[5. Mechanics/Items/Shortsword.md\|shortsword]]), rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), rare (requires attunement)*  
 
 - **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]

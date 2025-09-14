@@ -16,7 +16,7 @@ tags:
 aliases:
   - Vargouille
 ---
-# [[5. Mechanics\Bestiary\Fiend\Vargouille (MPMM).md|Vargouille]]
+# [[5. Mechanics/Bestiary/Fiend/Vargouille (MPMM).md|Vargouille]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 251, Volo's Guide to Monsters p. 195*
 
 Shrieking, flapping, and hideous to behold—with a body like a severed head and wings in place of ears—vargouilles boil out of the Abyss to infest other planes of existence, such as Carceri, where they are a menace. Each vargouille carries a disease that creates more of its kind; a flock of vargouilles on the wing is a plague of chaos and evil.
@@ -25,7 +25,7 @@ Swarms of vargouilles flap through the caverns and skies of the Abyss. They are 
 
 Because of their hunger for living prey, vargouilles are eager to escape the Lower Planes. On rare occasions, summoning a demon to another plane can bring a vargouille along for the ride, attached like a tick. The precautions a mortal takes to control a summoned demon rarely account for a stowaway, enabling the vargouille to escape into the world.
 
-Vargouilles that roam free on the Material Plane are a dire threat to all creatures. Their awful shrieking can [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyze]] other creatures with fear, which also makes the creatures susceptible to the vargouille's curse. If the curse is allowed to run its course, an abyssal spirit invades the person's body, causing a gruesome transformation. Over a period of hours, the victim's head takes on fiendish aspects, such as fangs, tentacles, and horns. At the same time, the person's ears grow larger, expanding into wing-like appendages. In the final moments, the victim's head tears away from the body in a fountain of blood, becoming another vargouille, which often then eagerly laps up the blood spilling from its former body. Sunlight or the brilliant illumination of a [[5. Mechanics/Spells/Daylight.md|daylight]] spell can delay this transformation; otherwise, only magic can overcome the curse. 
+Vargouilles that roam free on the Material Plane are a dire threat to all creatures. Their awful shrieking can [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyze]] other creatures with fear, which also makes the creatures susceptible to the vargouille's curse. If the curse is allowed to run its course, an abyssal spirit invades the person's body, causing a gruesome transformation. Over a period of hours, the victim's head takes on fiendish aspects, such as fangs, tentacles, and horns. At the same time, the person's ears grow larger, expanding into wing-like appendages. In the final moments, the victim's head tears away from the body in a fountain of blood, becoming another vargouille, which often then eagerly laps up the blood spilling from its former body. Sunlight or the brilliant illumination of a [[/5. Mechanics/Spells/Daylight.md|daylight]] spell can delay this transformation; otherwise, only magic can overcome the curse. 
 
 ```statblock
 "name": "Vargouille (MPMM)"
@@ -47,22 +47,23 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 8"
 "languages": "understands Abyssal, Infernal, and any languages it knew before becoming\
   \ a vargouille but can't speak"
 "cr": "1"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage plus 10 (3d6) poison damage."
     "name": "Bite"
   - "desc": "The vargouille targets one [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
       \ Humanoid within 5 feet of it. The target must succeed on a DC 12 Charisma\
       \ saving throw or become cursed. The cursed target loses 1 point of Charisma\
       \ after each hour, as its head takes on fiendish aspects. The curse doesn't\
-      \ advance while the target is in sunlight or the area of a [[5. Mechanics/Spells/Daylight.md|daylight]]\
+      \ advance while the target is in sunlight or the area of a [[/5. Mechanics/Spells/Daylight.md|daylight]]\
       \ spell; don't count that time. When the cursed target's Charisma becomes 2,\
       \ it dies, and its head tears from its body and becomes a new vargouille. Casting\
-      \ [[5. Mechanics/Spells/Remove Curse.md|remove curse]], [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
+      \ [[/5. Mechanics/Spells/Remove Curse.md|remove curse]], [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]],\
       \ or a similar spell on the target before the transformation is complete can\
       \ end the curse. Doing so undoes the changes made to the target by the curse."
     "name": "Abyssal Curse"
@@ -77,7 +78,7 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Fiend/token/vargouille-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/vargouille-mpmm.webp"
 ```
 ^statblock
 

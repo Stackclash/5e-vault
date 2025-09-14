@@ -13,7 +13,7 @@ tags:
 aliases:
   - Vistana Commoner
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Commoner (COS).md|Vistana Commoner]]
+# [[5. Mechanics/Bestiary/Humanoid/Vistana Commoner (COS).md|Vistana Commoner]]
 *Source: Curse of Strahd p. 28*
 
 ```statblock
@@ -38,20 +38,20 @@ aliases:
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
       \ bludgeoning damage."
     "name": "Club"
   - "desc": "10\n\n- The target is unable to perform a certain kind of act involving\
       \ fine motor control, such as tying knots, writing, playing an instrument, sewing,\
       \ or casting spells that have somatic components. When this curse ends, the\
-      \ Vistana takes d6 psychic damage.  \n- The target's appearance changes in a\
-      \ sinister yet purely cosmetic way. For example, the curse can place a scar\
+      \ Vistana takes 1d6 psychic damage.  \n- The target's appearance changes in\
+      \ a sinister yet purely cosmetic way. For example, the curse can place a scar\
       \ on the target's face, turn the target's teeth into yellow fangs, or give the\
-      \ target bad breath. When this curse ends, the Vistana takes d6 psychic damage.\
+      \ target bad breath. When this curse ends, the Vistana takes 1d6 psychic damage.\
       \  \n- A nonmagical item in the target's possession (chosen by the DM) disappears\
       \ and can't be found until the curse ends. The lost item can weigh no more than\
-      \ 1 pound. When this curse ends, the Vistana takes d6 psychic damage.  \n- The\
-      \ target gains vulnerability to a damage type of the Vistana's choice. When\
+      \ 1 pound. When this curse ends, the Vistana takes 1d6 psychic damage.  \n-\
+      \ The target gains vulnerability to a damage type of the Vistana's choice. When\
       \ this curse ends, the Vistana takes 3d6 psychic damage.  \n- The target has\
       \ disadvantage on ability checks and saving throws tied to one ability score\
       \ of the Vistana's choice. When this curse ends, the Vistana takes 3d6 psychic\
@@ -60,8 +60,8 @@ aliases:
       \ When this curse ends, the Vistana takes 5d6 psychic damage.  \n- The target\
       \ is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
       \ or both. When this curse ends, the Vistana takes 5d6 psychic damage.  \n\n\
-      The curse lasts until ended with a [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-      \ spell, a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
+      The curse lasts until ended with a [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ spell, a [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
       \ magic. It doesn't end when the target dies. If a cursed target is returned\
       \ to life, the curse remains in effect."
     "name": "Curse (Recharges After a Long Rest)"
@@ -71,7 +71,7 @@ aliases:
     "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
   - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/vistana-commoner-cos.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/vistana-commoner-cos.webp"
 ```
 ^statblock
 

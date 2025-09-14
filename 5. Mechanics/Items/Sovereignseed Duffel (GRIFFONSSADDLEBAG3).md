@@ -35,7 +35,7 @@ Mycelium weaves through the ground in a 20-foot cube. When a creature other than
 
 ## Twisting Thistle
 
-This seed replicates the effects of the [[5. Mechanics/Spells/Entangle.md\|entangle]] spell (save DC 17), centered on the seed, with the following change: a creature [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the weeds and vines takes `dice:2d6|noform|noparens|avg` (`2d6`) piercing damage from the plants' thorns at the start of each of its turns.
+This seed replicates the effects of the [[/5. Mechanics/Spells/Entangle.md\|entangle]] spell (save DC 17), centered on the seed, with the following change: a creature [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the weeds and vines takes `dice:2d6|noform|noparens|avg` (`2d6`) piercing damage from the plants' thorns at the start of each of its turns.
 
 ## Sovereign Synergy
 

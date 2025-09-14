@@ -11,7 +11,7 @@ weight: 1
 ---
 # Periapt of Health
 *Wondrous item, minor, uncommon*  
-![[5. Mechanics/Items/img/periapt-of-health.webp#right]]  
+![[/5. Mechanics/Items/img/periapt-of-health.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

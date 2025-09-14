@@ -18,9 +18,9 @@ This warm ushanka bears the symbol of a clan of winter wolves, made as a gift to
 
 ## Summon Winter Wolf
 
-This hat is bound to a celestial spirit loyal to the winter wolf clan. While wearing the hat, you can cast the [[5. Mechanics/Spells/Find Steed.md\|find steed]] spell with the following changes:
+This hat is bound to a celestial spirit loyal to the winter wolf clan. While wearing the hat, you can cast the [[/5. Mechanics/Spells/Find Steed.md\|find steed]] spell with the following changes:
 
-The spirit assumes the form of a [[5. Mechanics/Bestiary/Monstrosity/Winter Wolf.md\|winter wolf]] and its creature type is always celestial.
+The spirit assumes the form of a [[/5. Mechanics/Bestiary/Monstrosity/Winter Wolf.md\|winter wolf]] and its creature type is always celestial.
 
 The spirit acts independently of you, but it always obeys your commands. In combat, it takes its turn immediately after yours. When summoned in this way, the spirit's Cold Breath recharges after it finishes a short or long rest.
 

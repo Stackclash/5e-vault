@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Xarrorn
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Xarrorn (MPMM).md|Duergar Xarrorn]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Xarrorn (MPMM).md|Duergar Xarrorn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 193*
 
 Xarrorn are specialists who construct weapons using a mixture of alchemy and psionics.
@@ -47,7 +47,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate armor]]"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "0"
@@ -60,7 +60,8 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "2"
 "traits":
@@ -73,9 +74,9 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 9\
       \ (1d12 + 3) piercing damage, or 16 (2d12 + 3) piercing damage while under the\
-      \ effect of Enlarge, plus 3 (d6) fire damage."
+      \ effect of Enlarge, plus 3 (1d6) fire damage."
     "name": "Fire Lance"
   - "desc": "From its fire lance, the duergar shoots a 15-foot cone of fire or a line\
       \ of fire 30 feet long and 5 feet wide. Each creature in that area must make\
@@ -100,7 +101,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/duergar-xarrorn-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/duergar-xarrorn-mpmm.webp"
 ```
 ^statblock
 

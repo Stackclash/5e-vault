@@ -59,11 +59,11 @@ The Genie Lord lets you choose from an expanded list of spells when you learn a 
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Chromatic Orb.md\|chromatic orb]], [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] |
-| 2nd | [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]], [[5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] |
-| 3rd | [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]], [[5. Mechanics/Spells/Water Breathing.md\|water breathing]] |
-| 4th | [[5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] |
-| 5th | [[5. Mechanics/Spells/Creation.md\|creation]], [[5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]] |
+| 1st | [[/5. Mechanics/Spells/Chromatic Orb.md\|chromatic orb]], [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]] |
+| 2nd | [[/5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]], [[/5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] |
+| 3rd | [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]], [[/5. Mechanics/Spells/Water Breathing.md\|water breathing]] |
+| 4th | [[/5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] |
+| 5th | [[/5. Mechanics/Spells/Creation.md\|creation]], [[/5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]] |
 ^the-genie-lord-expanded-spells
 
 ### Genie Lord's Favor (Level 1)

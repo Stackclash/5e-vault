@@ -59,11 +59,11 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 | Druid Level | Spells |
 |-------------|--------|
-| 2nd | [[5. Mechanics/Spells/Goodberry.md\|goodberry]], [[5. Mechanics/Spells/Entangle.md\|entangle]] |
-| 3rd | [[5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]], [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] |
-| 5th | [[5. Mechanics/Spells/Plant Growth.md\|plant growth]], [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
-| 7th | [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Giant Insect.md\|giant insect]] |
-| 9th | [[5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[5. Mechanics/Spells/Tree Stride.md\|tree stride]] |
+| 2nd | [[/5. Mechanics/Spells/Goodberry.md\|goodberry]], [[/5. Mechanics/Spells/Entangle.md\|entangle]] |
+| 3rd | [[/5. Mechanics/Spells/Enlarge Reduce.md\|enlarge/reduce]], [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] |
+| 5th | [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]], [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] |
+| 7th | [[/5. Mechanics/Spells/Blight.md\|blight]], [[/5. Mechanics/Spells/Giant Insect.md\|giant insect]] |
+| 9th | [[/5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[/5. Mechanics/Spells/Tree Stride.md\|tree stride]] |
 ^circle-of-the-grove-spells
 
 ### Plant Shape (Level 2)
@@ -72,7 +72,7 @@ Starting at 2nd level, you gain the ability to use Wild Shape to transform into 
 
 While transformed into a plant, your melee attacks can use your Wisdom modifier for attack and damage rolls, instead of Strength or Dexterity.
 
-You can cast any spell that you know from your Circle of the Grove Spells table while transformed into a plant in this way. Starting at 5th level, when you use an action to cast the [[5. Mechanics/Spells/Plant Growth.md\|plant growth]] spell while transformed into a plant, you also regain a number of hit points equal to 3d8 + your Wisdom modifier.
+You can cast any spell that you know from your Circle of the Grove Spells table while transformed into a plant in this way. Starting at 5th level, when you use an action to cast the [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]] spell while transformed into a plant, you also regain a number of hit points equal to 3d8 + your Wisdom modifier.
 
 ### Razor Leaf (Level 2)
 
@@ -100,7 +100,7 @@ Starting at 6th level, you take on treelike features while concentrating on a dr
 
 For as long as you have this appearance, you gain a +10 bonus to any Dexterity (Stealth) check you make in areas of dense foliage. Starting at 10th level, you also can not be moved against your will or knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] while you have it.
 
-In addition, if the spell was cast using a spell slot of 1st level or higher, your skin becomes barklike. You gain the effect of the [[5. Mechanics/Spells/Barkskin.md\|barkskin]] spell for as long as you concentrate on the spell. For the duration, you have resistance to nonmagical bludgeoning and piercing damage, and if you are also transformed into a plant creature, you ignore any vulnerability to fire damage you have.
+In addition, if the spell was cast using a spell slot of 1st level or higher, your skin becomes barklike. You gain the effect of the [[/5. Mechanics/Spells/Barkskin.md\|barkskin]] spell for as long as you concentrate on the spell. For the duration, you have resistance to nonmagical bludgeoning and piercing damage, and if you are also transformed into a plant creature, you ignore any vulnerability to fire damage you have.
 
 ### Greater Plant Shape (Level 10)
 
@@ -113,5 +113,5 @@ You can also use an action to use your Wild Shape to transform into an awakened 
 By 14th level, you are as strong and timeless as even the most ancient oaks.
 
 - If you spend at least 1 hour in sunlight, you do not need to eat or drink for 24 hours.  
-- You always have the [[5. Mechanics/Spells/Transport Via Plants.md\|transport via plants]] spell prepared, which does not count against the number of spells you can prepare each day. Further, you can cast it once without expending a spell slot. Once you cast it in this way, you can not do so again until you finish a long rest.  
+- You always have the [[/5. Mechanics/Spells/Transport Via Plants.md\|transport via plants]] spell prepared, which does not count against the number of spells you can prepare each day. Further, you can cast it once without expending a spell slot. Once you cast it in this way, you can not do so again until you finish a long rest.  
 - Roots extend from you while you are transformed into a plant using Wild Shape, provided that you are on the ground. Hostile creatures within 30 feet of you treat the ground as if its difficult terrain, as your roots reach up and hinder their movement. You also have tremorsense out to the same range.

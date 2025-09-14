@@ -18,12 +18,23 @@ classes:
   - Sorcerer
 school: Transmutation
 level: 2
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - S
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Crushing Trample
 ---
@@ -39,6 +50,6 @@ Upon casting this spell, you are filled with a desire to overrun your foes. You 
 
 You move through the spaces of foes whether or not they succeed on their Strength saving throws. You do not provoke [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack\|opportunity attacks]] while moving under the effect of this spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Deep Magic p. 55*

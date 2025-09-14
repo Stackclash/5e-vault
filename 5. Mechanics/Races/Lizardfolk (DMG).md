@@ -10,7 +10,7 @@ aliases:
 # Lizardfolk
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Strength +2; Intelligence -2
+- **Ability Scores**: str +2 int -2
 - **Size**: Medium
 - **Speed**: walk: 30 ft.; swim: 30 ft.
 

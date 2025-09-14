@@ -57,11 +57,11 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[5. Mechanics/Spells/Sleep.md\|sleep]] |
-| 2nd | [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]], [[5. Mechanics/Spells/Phantasmal Force.md\|phantasmal force]] |
-| 3rd | [[5. Mechanics/Spells/Blink.md\|blink]], [[5. Mechanics/Spells/Plant Growth.md\|plant growth]] |
-| 4th | [[5. Mechanics/Spells/Dominate Beast.md\|dominate beast]], [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] |
-| 5th | [[5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[5. Mechanics/Spells/Seeming.md\|seeming]] |
+| 1st | [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[/5. Mechanics/Spells/Sleep.md\|sleep]] |
+| 2nd | [[/5. Mechanics/Spells/Calm Emotions.md\|calm emotions]], [[/5. Mechanics/Spells/Phantasmal Force.md\|phantasmal force]] |
+| 3rd | [[/5. Mechanics/Spells/Blink.md\|blink]], [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]] |
+| 4th | [[/5. Mechanics/Spells/Dominate Beast.md\|dominate beast]], [[/5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] |
+| 5th | [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[/5. Mechanics/Spells/Seeming.md\|seeming]] |
 ^archfey-expanded-spells
 
 ### Fey Presence (Level 1)

@@ -23,6 +23,6 @@ While the coins are heads up over the eyes of an unconscious creature, that crea
 
 ## Tails
 
-While the coins are tails up over the eyes of a dead creature, that creature is under the effects of the [[5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spell. Its body can't be detected through magical means, and the soul of the creature can't be contacted.
+While the coins are tails up over the eyes of a dead creature, that creature is under the effects of the [[/5. Mechanics/Spells/Gentle Repose.md\|gentle repose]] spell. Its body can't be detected through magical means, and the soul of the creature can't be contacted.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 61*

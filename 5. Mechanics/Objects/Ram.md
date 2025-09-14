@@ -19,7 +19,7 @@ The log is shod in iron and used to batter through doors and barricades.
 It takes a minimum of four Medium creatures to operate a ram. Because of the gallery roof, these operators have total cover against attacks from above.
 ```ad-statblock
 title: Ram
-![[5. Mechanics/Objects/token/ram.webp#token]]
+![[/5. Mechanics/Objects/token/ram.webp#token]]
 *Large Siege weapon*
 
 - **Armor Class** 15 

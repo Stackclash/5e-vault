@@ -10,11 +10,11 @@ tags:
 aliases:
   - Weaving Wasp Needles
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 0.25
 ---
 # Weaving Wasp Needles
-*Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Weaving-Wasp-Needles.webp#right)  
 
 - **Damage**: 1d4 piercing
@@ -24,6 +24,6 @@ weight: 0.25
 
 This pair of dark, chiseled throwing needles are linked by a magical bond. A needle that hits a Large or smaller creature flies around it for 1 minute or until the creature falls to 0 hit points. If both needles fly around the same creature, they spin a magical thread that binds and restrains it. The creature is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until freed or until you take a bonus action to speak the needles' command word to release it. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Once the needles restrain a creature in this way, this property can't be used again until the next dawn.
 
-In addition, you can use the needles as a set of [[5. Mechanics/Items/Weavers Tools.md\|weaver's tools]]. These magical needles can act on their own to either mend a simple tear or craft a simple garment given the proper materials in 1 minute or over the course of a short rest, respectively. As an action, you can speak the needles' other command word, followed by a description of the task, to cause them to spring to life and begin sewing and crafting. Uttering this command word again causes them to stop early and fall to the ground.
+In addition, you can use the needles as a set of [[/5. Mechanics/Items/Weavers Tools.md\|weaver's tools]]. These magical needles can act on their own to either mend a simple tear or craft a simple garment given the proper materials in 1 minute or over the course of a short rest, respectively. As an action, you can speak the needles' other command word, followed by a description of the task, to cause them to spring to life and begin sewing and crafting. Uttering this command word again causes them to stop early and fall to the ground.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 187*

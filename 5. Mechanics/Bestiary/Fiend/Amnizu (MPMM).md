@@ -13,12 +13,12 @@ tags:
 aliases:
   - Amnizu
 ---
-# [[5. Mechanics\Bestiary\Fiend\Amnizu (MPMM).md|Amnizu]]
+# [[5. Mechanics/Bestiary/Fiend/Amnizu (MPMM).md|Amnizu]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46, Mordenkainen's Tome of Foes p. 164*
 
 Amnizus lead infernal legions into battle and command guardians at the gateways to the Hells. Amnizus are arrogant, bullying, and ruthless, but they're also highly intelligent tacticians and unfailingly loyal—qualities the hellish archdukes value.
 
-Some amnizus perform the critical task of watching over the River Styx from fortresses along the river's blighted banks, where it flows through Dis and Stygia. They collect the souls arriving in the form of [[5. Mechanics/Bestiary/Fiend/Lemure.md|lemures]]. Lemures have no personalities or memories; they're driven only by the desire to commit evil. The amnizus that patrol here drill the rules of the Nine Hells into the new arrivals' minds and marshal them into legions.
+Some amnizus perform the critical task of watching over the River Styx from fortresses along the river's blighted banks, where it flows through Dis and Stygia. They collect the souls arriving in the form of [[/5. Mechanics/Bestiary/Fiend/Lemure.md|lemures]]. Lemures have no personalities or memories; they're driven only by the desire to commit evil. The amnizus that patrol here drill the rules of the Nine Hells into the new arrivals' minds and marshal them into legions.
 
 ```statblock
 "name": "Amnizu (MPMM)"
@@ -40,10 +40,10 @@ Some amnizus perform the critical task of watching over the River Styx from fort
   - !!int "18"
 "speed": "30 ft., fly 40 ft."
 "saves":
-  - "dexterity": "+7"
-  - "constitution": "+9"
-  - "wisdom": "+7"
-  - "charisma": "+10"
+  - "dexterity": !!int "7"
+  - "constitution": !!int "9"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "10"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+7"
@@ -51,7 +51,8 @@ Some amnizus perform the critical task of watching over the River Styx from fort
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 17"
 "languages": "Common, Infernal, telepathy 1,000 ft."
 "cr": "18"
 "traits":
@@ -64,7 +65,7 @@ Some amnizus perform the critical task of watching over the River Styx from fort
   - "desc": "The amnizu uses Blinding Rot or Forgetfulness, if available. It also\
       \ makes two Taskmaster Whip attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 9\
       \ (1d8 + 5) slashing damage plus 16 (3d10) force damage."
     "name": "Taskmaster Whip"
   - "desc": "The amnizu targets one or two creatures that it can see within 60 feet\
@@ -83,8 +84,8 @@ Some amnizus perform the critical task of watching over the River Styx from fort
     "name": "Forgetfulness (Recharge 6)"
   - "desc": "The amnizu casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 19):\n\n\
-      At will: [[5. Mechanics/Spells/Command.md|command]]\n\n3/day: [[5. Mechanics/Spells/Dominate Monster.md|dominate\
-      \ monster]]\n\n1/day: [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]"
+      **At will:** [[/5. Mechanics/Spells/Command.md|command]]\n\n**3/day:** [[/5. Mechanics/Spells/Dominate Monster.md|dominate\
+      \ monster]]\n\n**1/day:** [[/5. Mechanics/Spells/Feeblemind.md|feeblemind]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature within 60 feet of the amnizu makes an attack roll against\
@@ -98,7 +99,7 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/amnizu-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/amnizu-mpmm.webp"
 ```
 ^statblock
 

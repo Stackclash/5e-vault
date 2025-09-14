@@ -13,7 +13,7 @@ tags:
 aliases:
   - Death
 ---
-# [[5. Mechanics\Bestiary\Construct\Death (SAF).md|Death]]
+# [[5. Mechanics/Bestiary/Construct/Death (SAF).md|Death]]
 *Source: Strongholds and Followers p. 228*
 
 > [!quote]  
@@ -51,13 +51,14 @@ This thing is powerful, but not hard to run. Its Law of Death radiates damage to
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
+  \ 15"
 "languages": "all those of the creature who summoned it"
 "cr": "6"
 "traits":
   - "desc": "Death's innate spellcasting ability is Charisma (spell save DC 13). It\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n3/day: [[5. Mechanics/Spells/Death Ward.md|death ward]]"
+      \n**3/day:** [[/5. Mechanics/Spells/Death Ward.md|death ward]]"
     "name": "Innate Spellcasting"
   - "desc": "At the start of each of Death's turns, undead within 10 feet of it take\
       \ 10 force damage."
@@ -71,7 +72,7 @@ This thing is powerful, but not hard to run. Its Law of Death radiates damage to
   - "desc": "Death makes three slam attacks or makes one slam attack and one Death\
       \ to Undeath attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d8 + 3) bludgeoning damage."
     "name": "Slam"
   - "desc": "Death points at an undead creature within 60 feet. The target must make\

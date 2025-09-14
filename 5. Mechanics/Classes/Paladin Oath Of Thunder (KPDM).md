@@ -95,11 +95,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Heroism.md\|heroism]], [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] |
-| 5th | [[5. Mechanics/Spells/Find Steed.md\|find steed]], [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] |
-| 9th | [[5. Mechanics/Spells/Call Lightning.md\|call lightning]], [[5. Mechanics/Spells/Elemental Weapon.md\|elemental weapon]] |
-| 13th | [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
-| 17th | [[5. Mechanics/Spells/Conjure Volley.md\|conjure volley]], [[5. Mechanics/Spells/Swift Quiver.md\|swift quiver]] |
+| 3rd | [[/5. Mechanics/Spells/Heroism.md\|heroism]], [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]] |
+| 5th | [[/5. Mechanics/Spells/Find Steed.md\|find steed]], [[/5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] |
+| 9th | [[/5. Mechanics/Spells/Call Lightning.md\|call lightning]], [[/5. Mechanics/Spells/Elemental Weapon.md\|elemental weapon]] |
+| 13th | [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[/5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
+| 17th | [[/5. Mechanics/Spells/Conjure Volley.md\|conjure volley]], [[/5. Mechanics/Spells/Swift Quiver.md\|swift quiver]] |
 ^oath-of-thunder-spells
 
 #### Channel Divinity
@@ -129,7 +129,7 @@ By using your action, you undergo a transformation. For 1 hour, you gain the fol
 
 - You don't have disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks because of armor.  
 - You have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks and initiative rolls.  
-- Your weapon attacks deal an additional `dice:1d10|noform|noparens|avg` (`d10`) lightning or thunder damage (your choice when you hit).  
+- Your weapon attacks deal an additional `dice:1d10|noform|noparens|avg` (`1d10`) lightning or thunder damage (your choice when you hit).  
 - As an action, you can unleash a terrifying war cry. Every enemy creature in a 30-foot cone must make a successful Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you for 1 minute. While [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] in this way, the creature must spend its turn trying to move as far away from you as it can. It can't take reactions. For its action, it can only use the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action. A [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] creature that's more than 30 feet from you and can't see you repeats the saving throw at the start of its turn, ending the effect on itself on a success. A creature that succeeds on its saving throw can't be affected by this war cry for 24 hours.  
 
 Once you use this feature, you can't use it again until you finish a long rest.

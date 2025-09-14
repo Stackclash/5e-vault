@@ -16,15 +16,13 @@ school: Transmutation
 level: 4
 ritual: false
 time: 1 Action
-duration: up to 4 rounds
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 4 rounds'
+range: Touch
+somatic: true
+verbal: true
+material: melee weapon owned by a dead ally of the target
 aliases:
   - Blade of My Brother
-concentration: true
-material: melee weapon owned by a dead ally of the target
 ---
 # Blade of My Brother
 *4th-level, Transmutation*  
@@ -38,6 +36,6 @@ You touch a melee weapon that was used by an ally who is now dead, and it leaps 
 
 The weapon acts on your turn by making an attack if a target presents itself. Its attack modifier equals your spellcasting level + the weapon's inherent magical bonus, if any; it receives only its own inherent magical bonus to damage. The weapon fights for up to 4 rounds or until your concentration is broken, after which the spell ends and it falls to the ground.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 43*

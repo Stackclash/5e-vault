@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Despot
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Despot (MPMM).md|Duergar Despot]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Despot (MPMM).md|Duergar Despot]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188*
 
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
@@ -60,13 +60,14 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "13"
 "speed": "25 ft."
 "saves":
-  - "constitution": "+8"
-  - "wisdom": "+6"
+  - "constitution": !!int "8"
+  - "wisdom": !!int "6"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 12"
 "languages": "Dwarvish, Undercommon"
 "cr": "12"
 "traits":
@@ -87,12 +88,12 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
       \ [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack|opportunity attacks]].\
       \ It can replace one of the attacks with a use of Flame Jet."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 23\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 23\
       \ (4d8 + 5) bludgeoning damage. If the target is a Large or smaller creature,\
       \ it must succeed on a DC 17 Strength saving throw or be pushed up to 30 feet\
       \ away in a straight line and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Iron Fist"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (1d10 + 5) bludgeoning damage, or 21 (3d10 + 5) to a [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
       \ target."
     "name": "Stomping Foot"
@@ -102,13 +103,13 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     "name": "Flame Jet"
   - "desc": "The duergar casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 12):\n\n\
-      At will: [[5. Mechanics/Spells/Mage Hand.md|mage hand]], [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
-      \n1/day: [[5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]]"
+      **At will:** [[/5. Mechanics/Spells/Mage Hand.md|mage hand]], [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]]\n\
+      \n**1/day:** [[/5. Mechanics/Spells/Stinking Cloud.md|stinking cloud]]"
     "name": "Spellcasting (Psionics)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/duergar-despot-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/duergar-despot-mpmm.webp"
 ```
 ^statblock
 

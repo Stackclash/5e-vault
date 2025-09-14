@@ -19,7 +19,7 @@ tags:
 aliases:
   - Troll
 ---
-# [[5. Mechanics\Bestiary\Giant\Troll.md|Troll]]
+# [[5. Mechanics/Bestiary/Giant/Troll.md|Troll]]
 *Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do serve as mercenaries to orcs, ogres, ettins, hags, and giants. As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
@@ -53,7 +53,8 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "Giant"
 "cr": "5"
 "traits":
@@ -68,15 +69,15 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 "actions":
   - "desc": "The troll makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage."
     "name": "Claw"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Giant/token/troll.webp"
+"image": "/5. Mechanics/Bestiary/Giant/token/troll.webp"
 ```
 ^statblock
 

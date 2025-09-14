@@ -14,7 +14,7 @@ one-hand-damage: 1d10 slashing
 weight: 6
 ---
 # Crypt Keeper Glaive
-*Weapon ([[5. Mechanics/Items/Glaive.md\|glaive]]), major, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Crypt-Keeper-Glaive.webp#right)  
 
 - **Damage**: 1d10 slashing

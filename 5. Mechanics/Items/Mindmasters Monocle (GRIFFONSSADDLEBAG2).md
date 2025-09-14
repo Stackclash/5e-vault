@@ -20,7 +20,7 @@ This monocle has 10 charges for the following properties. It regains `dice:1d6+4
 
 ## Spells
 
-While wearing the monocle, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]] (4 charges), [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] (2 charges), or [[5. Mechanics/Spells/Rarys Telepathic Bond.md\|telepathic bond]] (5 charges).
+While wearing the monocle, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: [[/5. Mechanics/Spells/Arcane Eye.md\|arcane eye]] (4 charges), [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] (2 charges), or [[/5. Mechanics/Spells/Rarys Telepathic Bond.md\|telepathic bond]] (5 charges).
 
 ## Mental Assault
 

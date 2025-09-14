@@ -20,20 +20,24 @@ classes:
   - Wizard
 school: Illusion
 level: 1
+damage:
+  base: 6d10
+  scaling:
+    damage: 2d10
+    level: 2
+  types: []
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - S
-  - M
+range: Self (15-foot Cone)
+somatic: true
+verbal: true
+material: 'a pinch of powder or sand that is colored red, yellow, and blue'
+area:
+  shape: cone
+  size: 15
 aliases:
   - Color Spray
-range: Self
-material: 'A pinch of powder or sand that is colored red, yellow, and blue.'
-area:
-  type: cone
-  size: 15
 ---
 # Color Spray
 *1st-level, Illusion*  
@@ -49,6 +53,8 @@ Starting with the creature that has the lowest current hit points, each creature
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, roll an additional `dice:2d10|noform|noparens|avg|text(2d10)` for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Shadow Touched (TCE).md\|Shadow Touched]]
 
 *Source: Player's Handbook p. 222. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

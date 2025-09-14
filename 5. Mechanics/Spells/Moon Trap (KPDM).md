@@ -22,16 +22,19 @@ classes:
   - Wizard
 school: Abjuration
 level: 4
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 hour
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: powdered silver worth 250 gp
 aliases:
   - Moon Trap
-material: powdered silver worth 250 gp
 ---
 # Moon Trap
 *4th-level, Abjuration*  
@@ -47,6 +50,6 @@ Any creature that touches the glyph, except those you designate during the casti
 
 The glyph lasts until the next sunrise, at which time it flares with bright light, and any creature trapped inside returns to the space it last occupied, unharmed. If that space has become occupied or dangerous, the creature appears in the nearest safe unoccupied space.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Cleric (Labyrinth Domain)](compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Labyrinth Domain)](/compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 95*

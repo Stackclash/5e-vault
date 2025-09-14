@@ -19,7 +19,7 @@ The hat has 7 charges and regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) e
 
 ## Spells
 
-While wearing the hat, you can expend 1 or more of its charges to cast the following spells from it, using the typical casting time for each spell when you do: [[5. Mechanics/Spells/Feather Fall.md\|feather fall]] (1 charge), [[5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] (3 charges), or [[5. Mechanics/Spells/Misty Step.md\|misty step]] (2 charges; you appear as a swiftly traveling patch of fog). Alternatively, you can use an action to expend 1 or more charges from the hat to cast the [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell from it. For 1 charge, you cast the 1st-level version of the spell; you can increase the spell slot level by one for each additional charge you expend.
+While wearing the hat, you can expend 1 or more of its charges to cast the following spells from it, using the typical casting time for each spell when you do: [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] (1 charge), [[/5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] (3 charges), or [[/5. Mechanics/Spells/Misty Step.md\|misty step]] (2 charges; you appear as a swiftly traveling patch of fog). Alternatively, you can use an action to expend 1 or more charges from the hat to cast the [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell from it. For 1 charge, you cast the 1st-level version of the spell; you can increase the spell slot level by one for each additional charge you expend.
 
 ## Neutralize Weather
 

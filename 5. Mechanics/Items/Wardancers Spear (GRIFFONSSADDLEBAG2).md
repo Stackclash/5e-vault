@@ -11,11 +11,11 @@ aliases:
   - Wardancer's Spear
 one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
-range: 20\60
+range: 20/60
 weight: 3
 ---
 # Wardancer's Spear
-*Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wardancers-Spear.webp#right)  
 
 - **Damage**:

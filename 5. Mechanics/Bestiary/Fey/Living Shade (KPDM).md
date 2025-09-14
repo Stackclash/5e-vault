@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Medium
 tags:
@@ -13,10 +13,10 @@ tags:
 aliases:
   - Living Shade
 ---
-# [[5. Mechanics\Bestiary\Fey\Living Shade (KPDM).md|Living Shade]]
+# [[5. Mechanics/Bestiary/Fey/Living Shade (KPDM).md|Living Shade]]
 *Source: Deep Magic p. 299*
 
-One of the rarer and more bizarre options for a familiar is the living shade, a fey creature often confused with undead creatures such as the [[5. Mechanics/Bestiary/Undead/Shadow.md|shadow]]. [[5. Mechanics/Classes/Wizard.md|Illusionists]], [[5. Mechanics/Classes/Wizard.md|wizards]] who specialize in shadow, and [[5. Mechanics/Classes/Warlock.md|Pact of the Archfey]] [[5. Mechanics/Classes/Warlock.md|warlocks]] are the most common masters of these creatures. Obtaining a living shade by casting the [[5. Mechanics/Spells/Find Familiar.md|find familiar]] spell requires an additional material component: 50 gp worth of powdered jet.
+One of the rarer and more bizarre options for a familiar is the living shade, a fey creature often confused with undead creatures such as the [[/5. Mechanics/Bestiary/Undead/Shadow.md|shadow]]. [[/5. Mechanics/Classes/Wizard.md|Illusionists]], [[/5. Mechanics/Classes/Wizard.md|wizards]] who specialize in shadow, and [[/5. Mechanics/Classes/Warlock.md|Pact of the Archfey]] [[/5. Mechanics/Classes/Warlock.md|warlocks]] are the most common masters of these creatures. Obtaining a living shade by casting the [[/5. Mechanics/Spells/Find Familiar.md|find familiar]] spell requires an additional material component: 50 gp worth of powdered jet.
 
 ## Familiar
 
@@ -51,7 +51,8 @@ If a living shade agrees to serve another creature as a familiar, it forms a tel
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands Common but can't speak"
 "cr": "1/4"
 "traits":
@@ -66,7 +67,7 @@ If a living shade agrees to serve another creature as a familiar, it forms a tel
       \ checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
       \ cold damage."
     "name": "Shadow Touch"
 "source":

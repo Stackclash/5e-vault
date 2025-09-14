@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: forest
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Blink Dog
 ---
-# [[5. Mechanics\Bestiary\Fey\Blink Dog.md|Blink Dog]]
+# [[5. Mechanics/Bestiary/Fey/Blink Dog.md|Blink Dog]]
 *Source: Monster Manual p. 318, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.
@@ -49,7 +49,7 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
       \ + 1) piercing damage."
     "name": "Bite"
   - "desc": "The dog magically teleports, along with any equipment it is wearing or\
@@ -60,7 +60,7 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
   - "MM"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fey/token/blink-dog.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/blink-dog.webp"
 ```
 ^statblock
 

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Swarm of Skeletal Ravens
 ---
-# [[5. Mechanics\Bestiary\Undead\Swarm Of Skeletal Ravens (GRIFFONSSADDLEBAG3).md|Swarm of Skeletal Ravens]]
+# [[5. Mechanics/Bestiary/Undead/Swarm Of Skeletal Ravens (GRIFFONSSADDLEBAG3).md|Swarm of Skeletal Ravens]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Ravens transformed by necromancy to exist perpetually in life-defying undeath. Often found in places of relentless decay or in the realms and lairs of powerful necromancers and liches.
@@ -45,7 +45,8 @@ Ravens transformed by necromancy to exist perpetually in life-defying undeath. O
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -61,8 +62,8 @@ Ravens transformed by necromancy to exist perpetually in life-defying undeath. O
   - "desc": "The swarm doesn't require air, food, drink, or sleep."
     "name": "Undead Nature"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the swarm's\
-      \ space. Hit: 7 (2d6) piercing damage, or 3 (d6) piercing damage if the swarm\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 0 ft., one target in the swarm's\
+      \ space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm\
       \ has half of its hit points or fewer."
     "name": "Beaks"
 "source":

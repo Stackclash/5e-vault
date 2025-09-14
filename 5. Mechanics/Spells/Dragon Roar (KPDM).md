@@ -19,12 +19,24 @@ classes:
   - Sorcerer
   - Wizard
 school: Evocation
-level: cantrip
+level: 0
+damage:
+  base: 1d4
+  scaling:
+    damage: null
+    level: null
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
+range: 30 feet
+somatic: false
+verbal: true
 aliases:
   - Dragon Roar
 ---
@@ -36,10 +48,10 @@ aliases:
 - **Components:** V
 - **Duration:** Instantaneous
 
-Your voice is amplified to assault the mind of one creature. The target must make a Charisma saving throw. If it fails, the target takes `dice:1d4|noform|noparens|avg` (`d4`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] until the start of your next turn. A target can be affected by your *dragon roar* only once per 24 hours.
+Your voice is amplified to assault the mind of one creature. The target must make a Charisma saving throw. If it fails, the target takes `dice:1d4|noform|noparens|avg` (`1d4`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] until the start of your next turn. A target can be affected by your *dragon roar* only once per 24 hours.
 
-This spell's damage increases by `dice:1d4|noform|noparens|avg` (`d4`) when you reach 5th level (`dice:2d4|noform|noparens|avg` (`2d4`)), 11th level (`dice:3d4|noform|noparens|avg` (`3d4`)), and 17th level (`dice:4d4|noform|noparens|avg` (`4d4`)).
+This spell's damage increases by `dice:1d4|noform|noparens|avg` (`1d4`) when you reach 5th level (`dice:2d4|noform|noparens|avg` (`2d4`)), 11th level (`dice:3d4|noform|noparens|avg` (`3d4`)), and 17th level (`dice:4d4|noform|noparens|avg` (`4d4`)).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 201*

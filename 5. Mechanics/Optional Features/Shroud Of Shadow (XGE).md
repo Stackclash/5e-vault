@@ -10,6 +10,6 @@ aliases:
 # Shroud of Shadow
 *Source: Xanathar's Guide to Everything p. 57*  
 
-***Prerequisites*** 15th
+***Prerequisites*** Level 15
 
-You can cast [[5. Mechanics/Spells/Invisibility.md\|invisibility]] at will, without expending a spell slot.
+You can cast [[/5. Mechanics/Spells/Invisibility.md\|invisibility]] at will, without expending a spell slot.

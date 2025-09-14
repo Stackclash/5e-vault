@@ -57,7 +57,7 @@ The walkers of this way usually don robes with deep cowls, and they often concea
 
 *3rd-level Way of Mercy feature*
 
-You gain proficiency in the [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]] and [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]] skills, and you gain proficiency with the [[5. Mechanics/Items/Herbalism Kit.md\|herbalism kit]].
+You gain proficiency in the [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]] and [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]] skills, and you gain proficiency with the [[/5. Mechanics/Items/Herbalism Kit.md\|herbalism kit]].
 
 You also gain a special mask, which you often wear when using the features of this subclass. You determine its appearance, or generate it randomly by rolling on the Merciful Mask table.
 

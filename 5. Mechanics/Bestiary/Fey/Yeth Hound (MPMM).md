@@ -16,12 +16,12 @@ tags:
 aliases:
   - Yeth Hound
 ---
-# [[5. Mechanics\Bestiary\Fey\Yeth Hound (MPMM).md|Yeth Hound]]
+# [[5. Mechanics/Bestiary/Fey/Yeth Hound (MPMM).md|Yeth Hound]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201*
 
 Granted by mighty Fey to individuals who please them, yeth hounds serve their masters like hunting dogs. They race in pursuit of their prey, running it down until it's too exhausted to fight back. Only the threat of dawn drives the pack back into hiding.
 
-A pack of yeth hounds can be created by powerful Fey such as the Queen of Air and Darkness. Each pack's master can telepathically communicate with their yeth hounds to give the pack commands from afar. If a pack's master is killed, the hounds seek out a new master, typically an evil [[5. Mechanics/Bestiary/Undead/Vampire.md|vampire]], [[5. Mechanics/Bestiary/Humanoid/Necromancer Wizard (MPMM).md|necromancer]], or [[5. Mechanics/Bestiary/Fey/Green Hag.md|hag]].
+A pack of yeth hounds can be created by powerful Fey such as the Queen of Air and Darkness. Each pack's master can telepathically communicate with their yeth hounds to give the pack commands from afar. If a pack's master is killed, the hounds seek out a new master, typically an evil [[/5. Mechanics/Bestiary/Undead/Vampire.md|vampire]], [[/5. Mechanics/Bestiary/Humanoid/Necromancer Wizard (MPMM).md|necromancer]], or [[/5. Mechanics/Bestiary/Fey/Green Hag.md|hag]].
 
 ```statblock
 "name": "Yeth Hound (MPMM)"
@@ -48,7 +48,8 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
   \ made with silvered weapons"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": "understands Common, Elvish and Sylvan but can't speak"
 "cr": "4"
 "traits":
@@ -67,7 +68,7 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
       \ telepathically with each other."
     "name": "Telepathic Bond"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) piercing damage, plus 14 (4d6) psychic damage if the target is [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]."
     "name": "Bite"
   - "desc": "The yeth hound bays magically. Every enemy within 300 feet of the hound\
@@ -83,7 +84,7 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/yeth-hound-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/yeth-hound-mpmm.webp"
 ```
 ^statblock
 

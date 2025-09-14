@@ -18,7 +18,7 @@ The gittern has the following properties. If you're not proficient with the gitt
 
 ## Gittern Smash
 
-This instrument can be used as a magic greatclub. On a hit, a target takes an extra `dice:1d4|noform|noparens|avg` (`d4`) lightning damage from the attack.
+This instrument can be used as a magic greatclub. On a hit, a target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) lightning damage from the attack.
 
 ## Shocking Performance
 
@@ -26,6 +26,6 @@ As an action, you can strum the gittern and expend 4 of its charges to send a bo
 
 ## Thunderous Finale
 
-Whenever you deal lightning damage using the gittern, you can immediately use your reaction to play a final, climactic chord. When you do, you can expend up to 4 of the instrument's charges: for each expended charge, the initial lightning damage is increased by `dice:1d8|noform|noparens|avg` (`d8`).
+Whenever you deal lightning damage using the gittern, you can immediately use your reaction to play a final, climactic chord. When you do, you can expend up to 4 of the instrument's charges: for each expended charge, the initial lightning damage is increased by `dice:1d8|noform|noparens|avg` (`1d8`).
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*

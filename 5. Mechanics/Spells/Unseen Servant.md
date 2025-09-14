@@ -27,14 +27,12 @@ level: 1
 ritual: true
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: 60 feet
+somatic: true
+verbal: true
+material: a piece of string and a bit of wood
 aliases:
   - Unseen Servant
-range: 60 feet
-material: A piece of string and a bit of wood.
 ---
 # Unseen Servant
 *1st-level, Conjuration (ritual)*  
@@ -50,6 +48,8 @@ Once on each of your turns as a bonus action, you can mentally command the serva
 
 If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Wealth Domain)](compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Wealth Domain)](/compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Ritual Caster.md\|Ritual Caster]]
 
 *Source: Player's Handbook p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

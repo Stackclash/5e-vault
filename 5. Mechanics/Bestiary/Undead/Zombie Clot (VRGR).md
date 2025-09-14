@@ -13,7 +13,7 @@ tags:
 aliases:
   - Zombie Clot
 ---
-# [[5. Mechanics\Bestiary\Undead\Zombie Clot (VRGR).md|Zombie Clot]]
+# [[5. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md|Zombie Clot]]
 *Source: Van Richten's Guide to Ravenloft p. 255*
 
 Among the undead, a lone zombie ranks far from the most menacing. The horror of the shambling dead lies not in their individual menace, though, but their numbers, their persistence, and their disregard for their own well-being. A throng of zombies will douse a forest fire with their own ashes or march into a dragon's maw until the monster chokes. In the course of their relentless marches, zombies might suffer all manner of trauma, potentially reducing them to masses of crawling limbs (see swarm of zombie limbs), infecting them with terrible diseases (see zombie plague spreader), or crushing an entire horde into a single, rotting titan.
@@ -28,10 +28,10 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 
 | dice: d4 | Zombie Plot |
 |----------|-------------|
-| 1 | A twisted wish causes those affected by healing magic and [[5. Mechanics/Items/Potion Of Healing.md|potions of healing]] to rise as zombies. |
-| 2 | Overwhelming magic reanimates zombies again and again as [[5. Mechanics/Bestiary/Undead/Swarm Of Zombie Limbs (VRGR).md|swarms of zombie limbs]]. |
-| 3 | The githyanki unleash [[5. Mechanics/Bestiary/Undead/Zombie Plague Spreader (VRGR).md|zombie plague spreaders]] to scour mind flayers from a world. |
-| 4 | The seals containing an underground zombie horde fail, releasing ancient [[5. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md|zombie clots]]. |
+| 1 | A twisted wish causes those affected by healing magic and [[/5. Mechanics/Items/Potion Of Healing.md|potions of healing]] to rise as zombies. |
+| 2 | Overwhelming magic reanimates zombies again and again as [[/5. Mechanics/Bestiary/Undead/Swarm Of Zombie Limbs (VRGR).md|swarms of zombie limbs]]. |
+| 3 | The githyanki unleash [[/5. Mechanics/Bestiary/Undead/Zombie Plague Spreader (VRGR).md|zombie plague spreaders]] to scour mind flayers from a world. |
+| 4 | The seals containing an underground zombie horde fail, releasing ancient [[/5. Mechanics/Bestiary/Undead/Zombie Clot (VRGR).md|zombie clots]]. |
 ^zombie-apocalypses
 
 ```statblock
@@ -53,12 +53,13 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
   - !!int "10"
 "speed": "40 ft."
 "saves":
-  - "constitution": "+6"
+  - "constitution": !!int "6"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "darkvision 60 ft., passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 9"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "6"
 "traits":
@@ -76,7 +77,7 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "actions":
   - "desc": "The zombie makes two Slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18\
       \ (3d8 + 5) bludgeoning damage."
     "name": "Slam"
   - "desc": "The zombie flings a detached clump of corpses at a creature it can see\
@@ -91,7 +92,7 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
     "name": "Flesh Entomb (Recharge 5-6)"
 "source":
   - "VRGR"
-"image": "5. Mechanics/Bestiary/Undead/token/zombie-clot-vrgr.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/zombie-clot-vrgr.webp"
 ```
 ^statblock
 

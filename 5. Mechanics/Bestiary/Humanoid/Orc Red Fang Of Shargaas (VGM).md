@@ -18,7 +18,7 @@ tags:
 aliases:
   - Orc Red Fang of Shargaas
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Red Fang Of Shargaas (VGM).md|Orc Red Fang of Shargaas]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Red Fang Of Shargaas (VGM).md|Orc Red Fang of Shargaas]]
 *Source: Volo's Guide to Monsters p. 185*
 
 Shargaas is the orc deity of deep darkness and sneakiness, a murderous god who hates anything that lives that isn't an orc. Orcs consider Shargaas to be a divinity suited to pariahs and weaklings, all of them unfit for true roles in tribal life. These outsiders live in the most remote, deepest parts of the tribe's domain.
@@ -45,7 +45,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "3"
@@ -64,7 +64,8 @@ In addition, orcs have special relationships with two creatures that are sometim
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "Common, Orc"
 "cr": "3"
 "traits":
@@ -84,18 +85,18 @@ In addition, orcs have special relationships with two creatures that are sometim
 "actions":
   - "desc": "The orc makes two scimitar or dart attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (3d6 + 3) slashing damage."
     "name": "Scimitar"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit:*\
       \ 10 (3d4 + 3) piercing damage."
     "name": "Dart"
-  - "desc": "The orc casts [[5. Mechanics/Spells/Darkness.md|darkness]] without any components.\
-      \ Wisdom is its spellcasting ability."
+  - "desc": "The orc casts [[/5. Mechanics/Spells/Darkness.md|darkness]] without any\
+      \ components. Wisdom is its spellcasting ability."
     "name": "Veil of Shargaas (Recharges after a Short or Long Rest)"
 "source":
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc-red-fang-of-shargaas-vgm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/orc-red-fang-of-shargaas-vgm.webp"
 ```
 ^statblock
 

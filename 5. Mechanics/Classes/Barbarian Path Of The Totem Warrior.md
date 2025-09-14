@@ -53,7 +53,7 @@ Most barbarian tribes consider a totem animal to be kin to a particular clan. In
 
 ### Spirit Seeker (Level 3)
 
-Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the [[5. Mechanics/Spells/Beast Sense.md\|beast sense]] and [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] spells, but only as rituals, as described in "chapter 10".
+Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. At 3rd level when you adopt this path, you gain the ability to cast the [[/5. Mechanics/Spells/Beast Sense.md\|beast sense]] and [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] spells, but only as rituals, as described in "chapter 10".
 
 ### Totem Spirit (Level 3)
 
@@ -111,7 +111,7 @@ At 6th level, you gain a magical benefit based on the totem animal of your choic
 
 ### Spirit Walker (Level 10)
 
-At 10th level, you can cast the [[5. Mechanics/Spells/Commune With Nature.md\|commune with nature]] spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
+At 10th level, you can cast the [[/5. Mechanics/Spells/Commune With Nature.md\|commune with nature]] spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
 
 ### Totemic Attunement (Level 14)
 
@@ -128,7 +128,7 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 - **Elk**  
     _Source: Sword Coast Adventurer's Guide p. 122_  
 
-    While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC 8 + your Strength bonus + your proficiency bonus) or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and take bludgeoning damage equal to `dice:1d12|noform|noparens|avg` (`d12`) + your Strength modifier.  
+    While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC 8 + your Strength bonus + your proficiency bonus) or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and take bludgeoning damage equal to `dice:1d12|noform|noparens|avg` (`1d12`) + your Strength modifier.  
 
 - **Tiger**  
     _Source: Sword Coast Adventurer's Guide p. 122_  

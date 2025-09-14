@@ -25,11 +25,11 @@ Step of Gaoh (1st level or higher). You can immediately use a bonus action to mo
 
 ## Arcane Fusion 2:
 
-Fist of Amun (3rd level or higher). Before the end of your turn, you can use a bonus action to make a single melee spell attack, using the hand holding the rod. When you do, a giant fist of compressed wind surrounds your hand. On a hit, the target takes `dice:1d10|noform|noparens|avg` (`d10`) bludgeoning damage for each slot level used to cast the initial spell. It is also pushed a number of feet away from you equal to 10 times the spell slot's level.
+Fist of Amun (3rd level or higher). Before the end of your turn, you can use a bonus action to make a single melee spell attack, using the hand holding the rod. When you do, a giant fist of compressed wind surrounds your hand. On a hit, the target takes `dice:1d10|noform|noparens|avg` (`1d10`) bludgeoning damage for each slot level used to cast the initial spell. It is also pushed a number of feet away from you equal to 10 times the spell slot's level.
 
 ## Arcane Fusion 3:
 
-Javelins of Njord (5th level or higher). You can immediately use a bonus action to summon a number of javelins in the air above you, which float as if by an unseen wind. The javelins are made of magical force. You summon a number of javelins equal to the level of the spell slot used to cast the initial spell. Make a ranged spell attack for each javelin against the same or multiple targets of your choice within 120 feet of you. On a hit, a target takes `dice:1d8|noform|noparens|avg` (`d8`) force damage.
+Javelins of Njord (5th level or higher). You can immediately use a bonus action to summon a number of javelins in the air above you, which float as if by an unseen wind. The javelins are made of magical force. You summon a number of javelins equal to the level of the spell slot used to cast the initial spell. Make a ranged spell attack for each javelin against the same or multiple targets of your choice within 120 feet of you. On a hit, a target takes `dice:1d8|noform|noparens|avg` (`1d8`) force damage.
 
 ## Arcane Fusion 4:
 

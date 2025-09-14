@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nightmare
 ---
-# [[5. Mechanics\Bestiary\Fiend\Nightmare.md|Nightmare]]
+# [[5. Mechanics/Bestiary/Fiend/Nightmare.md|Nightmare]]
 *Source: Monster Manual p. 235, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A nightmare appears in a cloud of roiling smoke, its mane, tail, and hooves wreathed in flame. The creature's unearthly black form moves with supernatural speed, vanishing in a cloud of brimstone as quickly as it appeared.
@@ -55,7 +55,7 @@ Nightmares don't appear naturally in the multiverse. They must be created from p
       \ an additional 10 feet."
     "name": "Illumination"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage."
     "name": "Hooves"
   - "desc": "The nightmare and up to three willing creatures within 5 feet of it magically\
@@ -65,7 +65,7 @@ Nightmares don't appear naturally in the multiverse. They must be created from p
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fiend/token/nightmare.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/nightmare.webp"
 ```
 ^statblock
 

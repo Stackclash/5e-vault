@@ -14,7 +14,7 @@ tags:
 aliases:
   - Fire Snake
 ---
-# [[5. Mechanics\Bestiary\Elemental\Fire Snake.md|Fire Snake]]
+# [[5. Mechanics/Bestiary/Elemental/Fire Snake.md|Fire Snake]]
 *Source: Monster Manual p. 265*
 
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
@@ -66,25 +66,26 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 "damage_vulnerabilities": "cold"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands Ignan but can't speak"
 "cr": "1"
 "traits":
   - "desc": "A creature that touches the snake or hits it with a melee attack while\
-      \ within 5 feet of it takes 3 (d6) fire damage."
+      \ within 5 feet of it takes 3 (1d6) fire damage."
     "name": "Heated Body"
 "actions":
   - "desc": "The snake makes two attacks: one with its bite and one with its tail."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-      \ + 1) piercing damage plus 3 (d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
+      \ + 1) piercing damage plus 3 (1d6) fire damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-      \ + 1) bludgeoning damage plus 3 (d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
+      \ + 1) bludgeoning damage plus 3 (1d6) fire damage."
     "name": "Tail"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Elemental/token/fire-snake.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/fire-snake.webp"
 ```
 ^statblock
 

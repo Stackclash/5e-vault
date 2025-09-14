@@ -10,12 +10,12 @@ aliases:
 weight: 0.05
 ---
 # Banishing Arrow
-*Ammunition ([[5. Mechanics/Items/Arrow.md\|arrow]]), very rare*  
+*Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Banishing-Arrow.webp#right)  
 
 - **Weight**: 0.05 lbs.
 
-The body of this arrow is twisted in a warping spiral. Small gateways are imprinted on the arrow's head. When you hit a creature with this arrow, that creature must succeed on a DC 17 Charisma saving throw or be affected by the [[5. Mechanics/Spells/Banishment.md\|banishment]] spell (no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required); the creature can repeat the saving throw at the end of each of its turns for the duration, ending the effect on itself on a success.
+The body of this arrow is twisted in a warping spiral. Small gateways are imprinted on the arrow's head. When you hit a creature with this arrow, that creature must succeed on a DC 17 Charisma saving throw or be affected by the [[/5. Mechanics/Spells/Banishment.md\|banishment]] spell (no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required); the creature can repeat the saving throw at the end of each of its turns for the duration, ending the effect on itself on a success.
 
 Alternatively, you can use an action to snap the arrow, releasing the magic inside and targeting yourself with the spell instead. You automatically fail the saving throw, but can end the effect at the end of any of your turns (no action required).
 

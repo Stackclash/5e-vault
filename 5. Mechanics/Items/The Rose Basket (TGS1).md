@@ -14,14 +14,14 @@ one-hand-damage: 1d8 piercing
 weight: 2
 ---
 # The Rose Basket
-*Weapon ([[5. Mechanics/Items/Rapier.md\|rapier]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/The-Rose-Basket.webp#right)  
 
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
 
-This silver rapier has a rose adorning its crossguard and pommel and has thorns lining its hilt. You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon deals an extra `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to any shapechanger or fey creature it hits.
+This silver rapier has a rose adorning its crossguard and pommel and has thorns lining its hilt. You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to any shapechanger or fey creature it hits.
 
 ## Field of Roses
 

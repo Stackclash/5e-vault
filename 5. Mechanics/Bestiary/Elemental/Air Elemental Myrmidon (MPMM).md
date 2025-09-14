@@ -13,7 +13,7 @@ tags:
 aliases:
   - Air Elemental Myrmidon
 ---
-# [[5. Mechanics\Bestiary\Elemental\Air Elemental Myrmidon (MPMM).md|Air Elemental Myrmidon]]
+# [[5. Mechanics/Bestiary/Elemental/Air Elemental Myrmidon (MPMM).md|Air Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*
 
 ## Elemental Myrmidons
@@ -26,7 +26,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate]]"
 "hp": !!int "117"
 "hit_dice": "18d8 + 36"
 "modifier": !!int "2"
@@ -43,13 +43,14 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Auran, one language of its creator's choice"
 "cr": "7"
 "actions":
   - "desc": "The myrmidon makes three Flail attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) force damage."
     "name": "Flail"
   - "desc": "The myrmidon makes one Flail attack. On a hit, the target takes an extra\
@@ -60,7 +61,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Elemental/token/air-elemental-myrmidon-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/air-elemental-myrmidon-mpmm.webp"
 ```
 ^statblock
 

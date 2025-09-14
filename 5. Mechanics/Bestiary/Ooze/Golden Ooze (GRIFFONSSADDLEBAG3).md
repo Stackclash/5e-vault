@@ -13,7 +13,7 @@ tags:
 aliases:
   - Golden Ooze
 ---
-# [[5. Mechanics\Bestiary\Ooze\Golden Ooze (GRIFFONSSADDLEBAG3).md|Golden Ooze]]
+# [[5. Mechanics/Bestiary/Ooze/Golden Ooze (GRIFFONSSADDLEBAG3).md|Golden Ooze]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A golden ooze is a sparkling golden ooze. It devours gold and similar valuables more often than it does people, and uses its stock of treasure as added weight behind its pseudopod strikes.
@@ -40,7 +40,8 @@ A golden ooze is a sparkling golden ooze. It devours gold and similar valuables 
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 8"
 "languages": ""
 "cr": "1"
 "traits":
@@ -53,8 +54,8 @@ A golden ooze is a sparkling golden ooze. It devours gold and similar valuables 
       \ as coins and gems, within 60 feet of it."
     "name": "Treasure Sense"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
-      \ + 2) bludgeoning damage plus 2 (d4) acid damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
+      \ + 2) bludgeoning damage plus 2 (1d4) acid damage."
     "name": "Pseudopod"
   - "desc": "The ooze hurls a flurry of coins, treasure, and Tiny objects in a line\
       \ that is 5 feet wide and 15 feet long.\n\nEach creature in the area must make\

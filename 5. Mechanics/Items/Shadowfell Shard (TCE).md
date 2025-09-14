@@ -11,7 +11,7 @@ weight: 1
 ---
 # Shadowfell Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  
-![[5. Mechanics/Items/img/shadowfell-shard.webp#right]]  
+![[/5. Mechanics/Items/img/shadowfell-shard.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

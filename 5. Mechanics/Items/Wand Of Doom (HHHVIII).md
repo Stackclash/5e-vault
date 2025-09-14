@@ -14,6 +14,6 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 
-While holding this wand, you have a +2 bonus to your spell save DC and attack bonus for spell attacks, and any necrotic damage that you deal as the result of a spell deals one additional damage dice. In addition, you may use this wand to cast the [[5. Mechanics/Spells/Circle Of Death.md\|circle of death]] or [[5. Mechanics/Spells/Finger Of Death.md\|finger of death]] spells once per day each.
+While holding this wand, you have a +2 bonus to your spell save DC and attack bonus for spell attacks, and any necrotic damage that you deal as the result of a spell deals one additional damage dice. In addition, you may use this wand to cast the [[/5. Mechanics/Spells/Circle Of Death.md\|circle of death]] or [[/5. Mechanics/Spells/Finger Of Death.md\|finger of death]] spells once per day each.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 99*

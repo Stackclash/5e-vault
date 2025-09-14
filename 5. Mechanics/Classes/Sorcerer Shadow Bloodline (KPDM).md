@@ -53,7 +53,7 @@ Except as noted below, Shadow bloodline sorcerers function as sorcerers and use 
 
 ### Taint of Shadow (Level 1)
 
-Your magic always acts a bit differently from that of other casters. Your magical fire burns with a deep purple flame that sheds little light but casts inky shadows. The Influence of the Shadow Realm can be seen in every manifestation of your magic, whether that's shadowy bonds tightening around the target of a [[5. Mechanics/Spells/Hold Person.md\|hold person]] spell or the shadows that swirl like storm clouds inside your Dimension Door. At 1st level, you gain [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to 60 feet. Within that range, you see through magical darkness as if it were dim light.
+Your magic always acts a bit differently from that of other casters. Your magical fire burns with a deep purple flame that sheds little light but casts inky shadows. The Influence of the Shadow Realm can be seen in every manifestation of your magic, whether that's shadowy bonds tightening around the target of a [[/5. Mechanics/Spells/Hold Person.md\|hold person]] spell or the shadows that swirl like storm clouds inside your Dimension Door. At 1st level, you gain [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to 60 feet. Within that range, you see through magical darkness as if it were dim light.
 
 ### Evil Eye (Level 1)
 
@@ -61,7 +61,7 @@ Starting at 1st level, you can gaze at one creature within 60 feet of you and wi
 
 ### Dark Illusions (Level 6)
 
-Starting at 6th level, you have advantage on saving throws against Illusion magic. You can also cast [[5. Mechanics/Spells/Blur.md\|blur]] or [[5. Mechanics/Spells/Mirror Image.md\|mirror image]] by spending 2 Sorcery Points.
+Starting at 6th level, you have advantage on saving throws against Illusion magic. You can also cast [[/5. Mechanics/Spells/Blur.md\|blur]] or [[/5. Mechanics/Spells/Mirror Image.md\|mirror image]] by spending 2 Sorcery Points.
 
 ### Passage Through the Dark (Level 14)
 

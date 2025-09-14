@@ -35,6 +35,6 @@ The scepter has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 
 | 10 | Black | The target must make a Dexterity saving throw, taking an extra 8d6 force damage on a failed save, or half as much damage on a successful one. If this damage reduces the target to 0 hit points, its body becomes a pile of fine gray dust. |
 ^beam-color-additional-effect
 
-Alternatively, you can expend 3 or more charges from the scepter to cast [[5. Mechanics/Spells/Counterspell.md\|counterspell]] from it, using your reaction. The spell's level increases by 1 for each charge you spend after the third.
+Alternatively, you can expend 3 or more charges from the scepter to cast [[/5. Mechanics/Spells/Counterspell.md\|counterspell]] from it, using your reaction. The spell's level increases by 1 for each charge you spend after the third.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: underdark
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Piercer
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Piercer.md|Piercer]]
+# [[5. Mechanics/Bestiary/Monstrosity/Piercer.md|Piercer]]
 *Source: Monster Manual p. 252*
 
 Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below.
@@ -48,7 +48,8 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -59,13 +60,13 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, one creature directly underneath the\
-      \ piercer. Hit: 3 (d6) piercing damage per 10 feet fallen, up to 21 (6d6).\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, one creature directly underneath the\
+      \ piercer. *Hit:* 3 (1d6) piercing damage per 10 feet fallen, up to 21 (6d6).\
       \ Miss: The piercer takes half the normal falling damage for the distance fallen."
     "name": "Drop"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/piercer.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/piercer.webp"
 ```
 ^statblock
 

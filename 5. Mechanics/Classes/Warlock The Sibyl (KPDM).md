@@ -59,11 +59,11 @@ The Sibyl lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Alarm.md\|alarm]], [[5. Mechanics/Spells/Seers Reaction (KPDM).md\|seer's reaction]] |
-| 2nd | [[5. Mechanics/Spells/Augury.md\|augury]], [[5. Mechanics/Spells/Blindness Deafness.md\|blindness/deafness]] |
-| 3rd | [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] |
-| 4th | [[5. Mechanics/Spells/Confusion.md\|confusion]], [[5. Mechanics/Spells/Divination.md\|divination]] |
-| 5th | [[5. Mechanics/Spells/Eidetic Memory (KPDM).md\|eidetic memory]], [[5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
+| 1st | [[/5. Mechanics/Spells/Alarm.md\|alarm]], [[/5. Mechanics/Spells/Seers Reaction (KPDM).md\|seer's reaction]] |
+| 2nd | [[/5. Mechanics/Spells/Augury.md\|augury]], [[/5. Mechanics/Spells/Blindness Deafness.md\|blindness/deafness]] |
+| 3rd | [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[/5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] |
+| 4th | [[/5. Mechanics/Spells/Confusion.md\|confusion]], [[/5. Mechanics/Spells/Divination.md\|divination]] |
+| 5th | [[/5. Mechanics/Spells/Eidetic Memory (KPDM).md\|eidetic memory]], [[/5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
 ^the-sibyl-expanded-spells
 
 ### Touched by the Sibyl (Level 1)

@@ -21,8 +21,9 @@ level: 2
 ritual: false
 time: 1 Bonus Action
 duration: Instantaneous
-components:
-  - V
+range: Self
+somatic: false
+verbal: true
 aliases:
   - Shifting the Odds
 ---
@@ -36,6 +37,6 @@ aliases:
 
 By wrapping yourself in strands of chaotic energy, you gain advantage on the next attack roll or ability check that you make. Fate is a cruel mistress, however, and her scales must always be balanced. The second attack roll or ability check (whichever occurs first) that you make after casting shifting the odds is made with disadvantage.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 186*

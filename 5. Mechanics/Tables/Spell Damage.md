@@ -13,7 +13,7 @@ aliases:
 
 | Spell Level | One Target | Multiple Targets |
 |-------------|------------|------------------|
-| Cantrip | `dice:1d10\|noform\|noparens\|avg\|text(d10)` | `dice:1d6\|noform\|noparens\|avg\|text(d6)` |
+| Cantrip | `dice:1d10\|noform\|noparens\|avg\|text(1d10)` | `dice:1d6\|noform\|noparens\|avg\|text(1d6)` |
 | 1st | `dice:2d10\|noform\|noparens\|avg` (`2d10`) | `dice:2d6\|noform\|noparens\|avg` (`2d6`) |
 | 2nd | `dice:3d10\|noform\|noparens\|avg` (`3d10`) | `dice:4d6\|noform\|noparens\|avg` (`4d6`) |
 | 3rd | `dice:5d10\|noform\|noparens\|avg` (`5d10`) | `dice:6d6\|noform\|noparens\|avg` (`6d6`) |

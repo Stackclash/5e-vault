@@ -9,7 +9,7 @@ aliases:
 # Gith and Their Endless War
 *Source: Mordenkainen's Tome of Foes, p. 85* 
 
-![[6. Resources/Books/Mordenkainens Tome Of Foes/img/mtf_chapterstarts_ch4.webp#center]]
+![[/6. Resources/Books/Mordenkainens Tome Of Foes/img/mtf_chapterstarts_ch4.webp#center]]
 
 The story of the gith is rooted in a cruel twist of cosmic fate. Inspired by the great leader for whom the race is named, the gith rose up to overthrow the mind flayers that held them in servitude. But after they won their freedom, two factions among the gith disagreed on what kind of civilization they would forge. That disagreement quickly flared into open hostility, and the two groups distanced themselves from one another to pursue their separate agendas. They remain bitter enemies today, each side willing to fight to the death whenever they cross paths.
 
@@ -63,7 +63,7 @@ All attempts to learn about Gith through divine magic return utter silence. Thos
 
 From birth, githyanki are conditioned to fight and die for their queen. Children endure a brutal upbringing that constantly preaches devotion to Vlaakith. Each of the fortified settlements where young githyanki are raised and trained is a combination of military academy and cult headquarters.
 
-![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315591_cn_wmask.webp#center]]
+![[/6. Resources/Books/Mordenkainens Tome Of Foes/img/315591_cn_wmask.webp#center]]
 
 #### Only the Best Survive
 
@@ -142,9 +142,9 @@ The first silver swords were created eons ago, when the gith were still a single
 
 Knights and their silver swords are inseparable, and a knight will fight to the death to prevent the loss of its weapon. If a silver sword falls into the possession of someone other than a githyanki, Vlaakith sends a squad of knights out from Tu'narath to destroy the malefactor and recover the weapon.
 
-![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315596_cn.webp#center]]
+![[/6. Resources/Books/Mordenkainens Tome Of Foes/img/315596_cn.webp#center]]
 
-- [[5. Mechanics/Items/Greater Silver Sword (MTF).md\|Greater Silver Sword]]  
+- [[/5. Mechanics/Items/Greater Silver Sword (MTF).md\|Greater Silver Sword]]  
 
 #### Dragon Steeds
 
@@ -172,7 +172,7 @@ In battle, the githyanki use mobile tactics combining psionics and magic to deva
 
 Because the githyanki strike to plunder rather than conquer, raiders linger over their target for no more than a few hours. By daybreak the attackers are gone, purposely leaving behind enough survivors to rebuild the ruined community-so that the githyanki might visit the place years or decades later and lay it low all over again.
 
-![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315592_cn_wmask.webp#center]]
+![[/6. Resources/Books/Mordenkainens Tome Of Foes/img/315592_cn_wmask.webp#center]]
 
 #### The Helm
 
@@ -223,16 +223,16 @@ Nonetheless, the city does have a great number of permanent structures, and a sy
 > 
 > Here are some key details of Tu'narath.
 > 
-> **Population.**  Roughly one hundred thousand folk dwell in Tu'narath. The vast majority are githyanki, but visitors from other planes aren't uncommon. Individuals who come to deal with the githyanki reside here. Residents also include captives that the githyanki have taken on raids.
+> **Population.** Roughly one hundred thousand folk dwell in Tu'narath. The vast majority are githyanki, but visitors from other planes aren't uncommon. Individuals who come to deal with the githyanki reside here. Residents also include captives that the githyanki have taken on raids.
 > 
-> **Law and Order.**  Warriors patrol above the streets in astral skiffs to keep the peace. Githyanki who cause unwarranted conflict are disciplined, but such punishment is rarely lethal. Any visitor who causes a ruckus, however, is likely to be slain on the spot, unless Vlaakith has specifically forbidden such action.
+> **Law and Order.** Warriors patrol above the streets in astral skiffs to keep the peace. Githyanki who cause unwarranted conflict are disciplined, but such punishment is rarely lethal. Any visitor who causes a ruckus, however, is likely to be slain on the spot, unless Vlaakith has specifically forbidden such action.
 > 
-> **Inns.**  Tu'narath has no taverns or inns in the traditional sense. The githyanki expect visitors to carve out their own accommodations; they can choose from among any number of abandoned structures. As an alternative, a small troupe of renegade modrons maintains a crumbling citadel called the Iron House that has rooms for rent. Visitors can pay with interesting trinkets from across the planes.
+> **Inns.** Tu'narath has no taverns or inns in the traditional sense. The githyanki expect visitors to carve out their own accommodations; they can choose from among any number of abandoned structures. As an alternative, a small troupe of renegade modrons maintains a crumbling citadel called the Iron House that has rooms for rent. Visitors can pay with interesting trinkets from across the planes.
 > 
-> **Markets.**  There are no organized markets in Tu'narath. The githyanki don't offer goods for sale to visitors, and they don't purchase items offered to them-they simply take what they want.
+> **Markets.** There are no organized markets in Tu'narath. The githyanki don't offer goods for sale to visitors, and they don't purchase items offered to them-they simply take what they want.
 ^tunarath-in-brief
 
-![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315593_cn_wmask.webp#center]]
+![[/6. Resources/Books/Mordenkainens Tome Of Foes/img/315593_cn_wmask.webp#center]]
 
 ##### Queen's District
 
@@ -242,7 +242,7 @@ Susurrus, the queen's stronghold, is protected by thick, obsidian walls. Only on
 
 A muddy field that extends as far as the eye can see is the githyanki equivalent of a labor camp.
 
-The glathk district, named after the Gith word for "farmer"-a term of derision-is where githyanki are taken when they violate society's rules. Punishments are nonlethal, and often don't involve physical harm.
+The Glathk district, named after the Gith word for "farmer"-a term of derision-is where githyanki are taken when they violate society's rules. Punishments are nonlethal, and often don't involve physical harm.
 
 Instead, offenders are forced to submit to the mind-numbing sameness of performing one task interminably-a fate that, for some, might feel worse than death. For instance, a warrior might be sequestered here after slacking off during weapons practice, sentenced to a prison term and charged with moving piles of mud from one end of the field to the other. Elsewhere, a squad of warriors stands at attention for an indeterminate time, after their failure to maintain proper formations during drills.
 
@@ -329,7 +329,7 @@ Aside from its inhabitants, the most well-defended element of a githzerai fortre
 
 A community's activity is overseen by monks who assign duties to each occupant. Everyone participates in mock combats and ongoing academic instruction, and each fortress allocates personnel and resources as needed. Every fortress is designed to be self-sufficient, even though no two of them are ever out of psychic contact.
 
-![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315594_cn_wmask.webp#center]]
+![[/6. Resources/Books/Mordenkainens Tome Of Foes/img/315594_cn_wmask.webp#center]]
 
 #### Shra'kt'lor
 
@@ -381,7 +381,7 @@ Though they devote most of their military efforts to the constant campaign again
 
 As their means of vengeance against the mind flayers, the githzerai send bands of warriors called rrakkmas—illithid hunting parties—to other planes to do battle with any mind flayers they come across. It is in these circumstances that the natives of the plane most often encounter githzerai away from their monastery. With their attention focused only on their mission, the githzerai pay little heed to those around as long as they don't interfere with the hunt.
 
-![[6. Resources/Books/Mordenkainens Tome Of Foes/img/315595_cn_wmask.webp#center]]
+![[/6. Resources/Books/Mordenkainens Tome Of Foes/img/315595_cn_wmask.webp#center]]
 
 > [!note] The Sha'sal Khou
 > 
@@ -394,12 +394,12 @@ As their means of vengeance against the mind flayers, the githzerai send bands o
 
 At the DM's option, you can create a gith character, using the following traits.
 
-- [[5. Mechanics/Races/Githyanki (MPMM).md\|Gith (Githyanki)]]  
-- [[5. Mechanics/Races/Githzerai (MPMM).md\|Gith (Githzerai)]]  
+- [[/5. Mechanics/Races/Githyanki (MPMM).md\|Gith (Githyanki)]]  
+- [[/5. Mechanics/Races/Githzerai (MPMM).md\|Gith (Githzerai)]]  
 
 ### Gith Random Height and Weight
 
-![[5. Mechanics/Tables/Gith Random Height And Weight (MTF).md\|Gith Random Height and Weight]]
+![[/5. Mechanics/Tables/Gith Random Height And Weight (MTF).md\|Gith Random Height and Weight]]
 
 **Height** = Base Height + Height Modifier (in inches) **Weight** = Base Weight + Height Modifier (in pounds) × Weight Modifier
 
@@ -407,31 +407,31 @@ At the DM's option, you can create a gith character, using the following traits.
 
 This section provides tables for players and DMs who want to create githzerai and githyanki characters. **Githyanki**
 
-![[5. Mechanics/Tables/Gith Tables Githyanki Names Male (MTF).md\|Gith Tables; Githyanki Names, Male]]
+![[/5. Mechanics/Tables/Gith Tables Githyanki Names Male (MTF).md\|Gith Tables; Githyanki Names, Male]]
 
-![[5. Mechanics/Tables/Gith Tables Githyanki Names Female (MTF).md\|Gith Tables; Githyanki Names, Female]]
+![[/5. Mechanics/Tables/Gith Tables Githyanki Names Female (MTF).md\|Gith Tables; Githyanki Names, Female]]
 
-![[5. Mechanics/Tables/Gith Tables Githyanki Personality Traits (MTF).md\|Gith Tables; Githyanki Personality Traits]]
+![[/5. Mechanics/Tables/Gith Tables Githyanki Personality Traits (MTF).md\|Gith Tables; Githyanki Personality Traits]]
 
-![[5. Mechanics/Tables/Gith Tables Githyanki Ideals (MTF).md\|Gith Tables; Githyanki Ideals]]
+![[/5. Mechanics/Tables/Gith Tables Githyanki Ideals (MTF).md\|Gith Tables; Githyanki Ideals]]
 
-![[5. Mechanics/Tables/Gith Tables Githyanki Bonds (MTF).md\|Gith Tables; Githyanki Bonds]]
+![[/5. Mechanics/Tables/Gith Tables Githyanki Bonds (MTF).md\|Gith Tables; Githyanki Bonds]]
 
-![[5. Mechanics/Tables/Gith Tables Githyanki Flaws (MTF).md\|Gith Tables; Githyanki Flaws]]
+![[/5. Mechanics/Tables/Gith Tables Githyanki Flaws (MTF).md\|Gith Tables; Githyanki Flaws]]
 
 **Githzerai**
 
-![[5. Mechanics/Tables/Gith Tables Githzerai Names Male (MTF).md\|Gith Tables; Githzerai Names, Male]]
+![[/5. Mechanics/Tables/Gith Tables Githzerai Names Male (MTF).md\|Gith Tables; Githzerai Names, Male]]
 
-![[5. Mechanics/Tables/Gith Tables Githzerai Names Female (MTF).md\|Gith Tables; Githzerai Names, Female]]
+![[/5. Mechanics/Tables/Gith Tables Githzerai Names Female (MTF).md\|Gith Tables; Githzerai Names, Female]]
 
-![[5. Mechanics/Tables/Gith Tables Githzerai Personality Traits (MTF).md\|Gith Tables; Githzerai Personality Traits]]
+![[/5. Mechanics/Tables/Gith Tables Githzerai Personality Traits (MTF).md\|Gith Tables; Githzerai Personality Traits]]
 
-![[5. Mechanics/Tables/Gith Tables Githzerai Ideals (MTF).md\|Gith Tables; Githzerai Ideals]]
+![[/5. Mechanics/Tables/Gith Tables Githzerai Ideals (MTF).md\|Gith Tables; Githzerai Ideals]]
 
-![[5. Mechanics/Tables/Gith Tables Githzerai Bonds (MTF).md\|Gith Tables; Githzerai Bonds]]
+![[/5. Mechanics/Tables/Gith Tables Githzerai Bonds (MTF).md\|Gith Tables; Githzerai Bonds]]
 
-![[5. Mechanics/Tables/Gith Tables Githzerai Flaws (MTF).md\|Gith Tables; Githzerai Flaws]]
+![[/5. Mechanics/Tables/Gith Tables Githzerai Flaws (MTF).md\|Gith Tables; Githzerai Flaws]]
 
 ### Githyanki Raiding Parties
 
@@ -439,15 +439,15 @@ Use the following tables to generate a band of githyanki raiders and some additi
 
 In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 
-![[5. Mechanics/Tables/Githyanki Raiding Parties Dragon Chance (MTF).md\|Githyanki Raiding Parties; Dragon Chance]]
+![[/5. Mechanics/Tables/Githyanki Raiding Parties Dragon Chance (MTF).md\|Githyanki Raiding Parties; Dragon Chance]]
 
-![[5. Mechanics/Tables/Githyanki Raiding Parties Raiding Party Leader (MTF).md\|Githyanki Raiding Parties; Raiding Party Leader]]
+![[/5. Mechanics/Tables/Githyanki Raiding Parties Raiding Party Leader (MTF).md\|Githyanki Raiding Parties; Raiding Party Leader]]
 
-![[5. Mechanics/Tables/Githyanki Raiding Parties Githyanki Special Allies (MTF).md\|Githyanki Raiding Parties; Githyanki Special Allies]]
+![[/5. Mechanics/Tables/Githyanki Raiding Parties Githyanki Special Allies (MTF).md\|Githyanki Raiding Parties; Githyanki Special Allies]]
 
-![[5. Mechanics/Tables/Githyanki Raiding Parties Raiding Party Transport (MTF).md\|Githyanki Raiding Parties; Raiding Party Transport]]
+![[/5. Mechanics/Tables/Githyanki Raiding Parties Raiding Party Transport (MTF).md\|Githyanki Raiding Parties; Raiding Party Transport]]
 
-![[5. Mechanics/Tables/Githyanki Raiding Parties Githyanki Purpose Of Raid (MTF).md\|Githyanki Raiding Parties; Githyanki Purpose of Raid]]
+![[/5. Mechanics/Tables/Githyanki Raiding Parties Githyanki Purpose Of Raid (MTF).md\|Githyanki Raiding Parties; Githyanki Purpose of Raid]]
 
 ### Githzerai Groups
 
@@ -455,8 +455,8 @@ Use the following tables to generate a band of githzerai and determine their rea
 
 In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 
-![[5. Mechanics/Tables/Githzerai Groups Githzerai Group Leader (MTF).md\|Githzerai Groups; Githzerai Group Leader]]
+![[/5. Mechanics/Tables/Githzerai Groups Githzerai Group Leader (MTF).md\|Githzerai Groups; Githzerai Group Leader]]
 
-![[5. Mechanics/Tables/Githzerai Groups Githzerai Special Allies (MTF).md\|Githzerai Groups; Githzerai Special Allies]]
+![[/5. Mechanics/Tables/Githzerai Groups Githzerai Special Allies (MTF).md\|Githzerai Groups; Githzerai Special Allies]]
 
-![[5. Mechanics/Tables/Githzerai Groups Githzerai Mission Purpose (MTF).md\|Githzerai Groups; Githzerai Mission Purpose]]
+![[/5. Mechanics/Tables/Githzerai Groups Githzerai Mission Purpose (MTF).md\|Githzerai Groups; Githzerai Mission Purpose]]

@@ -15,7 +15,7 @@ two-hand-damage: 1d10 slashing
 weight: 3
 ---
 # Dragon-Kindled Edge
-*Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Dragon-Kindled-Edge.webp#right)  
 
 - **Damage**:

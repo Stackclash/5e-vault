@@ -14,12 +14,24 @@ classes:
   - Wizard
 school: Evocation
 level: 7
+damage:
+  base: 6d6
+  scaling:
+    damage: 1d6
+    level: null
+  types:
+    - cold
+    - fire
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 40 feet
+somatic: true
+verbal: true
 aliases:
   - Last Rays of the Dying Sun
 ---
@@ -33,8 +45,8 @@ aliases:
 
 A burst of searing heat explodes from you, dealing `dice:6d6|noform|noparens|avg` (`6d6`) fire damage to all enemies within range. Immediately afterward, a wave of frigid cold rolls across the same area, dealing `dice:6d6|noform|noparens|avg` (`6d6`) cold damage to enemies. A creature that makes a successful Dexterity saving throw takes half the damage.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 8th or 9th level, the damage from both waves increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 7th.
+**At Higher Levels.** When you cast this spell using a spell slot of 8th or 9th level, the damage from both waves increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 7th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 224*

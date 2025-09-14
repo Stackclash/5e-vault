@@ -59,20 +59,20 @@ Their priesthoods often consider themselves the messengers of that doom, and the
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Vicious Mockery.md\|vicious mockery]], [[5. Mechanics/Spells/Dissonant Whispers.md\|dissonant whispers]], [[5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]] |
-| 3rd | [[5. Mechanics/Spells/Enthrall.md\|enthrall]], [[5. Mechanics/Spells/Magic Mouth.md\|magic mouth]] |
-| 5th | [[5. Mechanics/Spells/Fear.md\|fear]], [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
-| 7th | [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]] |
-| 9th | [[5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]], [[5. Mechanics/Spells/Telekinesis.md\|telekinesis]] |
+| 1st | [[/5. Mechanics/Spells/Vicious Mockery.md\|vicious mockery]], [[/5. Mechanics/Spells/Dissonant Whispers.md\|dissonant whispers]], [[/5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]] |
+| 3rd | [[/5. Mechanics/Spells/Enthrall.md\|enthrall]], [[/5. Mechanics/Spells/Magic Mouth.md\|magic mouth]] |
+| 5th | [[/5. Mechanics/Spells/Fear.md\|fear]], [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
+| 7th | [[/5. Mechanics/Spells/Blight.md\|blight]], [[/5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]] |
+| 9th | [[/5. Mechanics/Spells/Contact Other Plane.md\|contact other plane]], [[/5. Mechanics/Spells/Telekinesis.md\|telekinesis]] |
 ^apocalypse-domain-spells
 
 ### Ranting Ruin (Level 1)
 
-At 1st level, you learn the [[5. Mechanics/Spells/Vicious Mockery.md\|vicious mockery]] cantrip. You also gain proficiency in either [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] or [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]] (your choice).
+At 1st level, you learn the [[/5. Mechanics/Spells/Vicious Mockery.md\|vicious mockery]] cantrip. You also gain proficiency in either [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] or [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]] (your choice).
 
 ### Channel Divinity: Damnation (Level 2)
 
-Starting at 2nd level, you can use your Channel Divinity to lash out at those who defy your deity's messenger. As an action, you present your [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]] while pronouncing doom to unbelievers. Each hostile creature that can see you and is within 30 feet of you takes `dice:3d6|noform|noparens|avg` (`3d6`) + your Cleric level necrotic damage, or half damage with a successful Wisdom saving throw. A creature that has total cover from you is not affected.
+Starting at 2nd level, you can use your Channel Divinity to lash out at those who defy your deity's messenger. As an action, you present your [[/5. Mechanics/Items/Holy Symbol.md\|holy symbol]] while pronouncing doom to unbelievers. Each hostile creature that can see you and is within 30 feet of you takes `dice:3d6|noform|noparens|avg` (`3d6`) + your Cleric level necrotic damage, or half damage with a successful Wisdom saving throw. A creature that has total cover from you is not affected.
 
 ### Channel Divinity: Weight of Guilt (Level 6)
 
@@ -82,7 +82,7 @@ As an action, choose one creature that you can see within 60 feet of you. That  
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with necrotic energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) necrotic damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with necrotic energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) necrotic damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Herald of the Apocalypse (Level 17)
 

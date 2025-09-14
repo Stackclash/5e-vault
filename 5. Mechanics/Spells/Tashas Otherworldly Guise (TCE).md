@@ -18,15 +18,13 @@ school: Transmutation
 level: 6
 ritual: false
 time: 1 Bonus Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Self
+somatic: true
+verbal: true
+material: 'an object engraved with a symbol of the Outer Planes, worth at least 500 gp'
 aliases:
   - Tasha's Otherworldly Guise
-concentration: true
-material: 'an object engraved with a symbol of the Outer Planes, worth at least 500 gp'
 ---
 # Tasha's Otherworldly Guise
 *6th-level, Transmutation*  
@@ -45,6 +43,6 @@ Uttering an incantation, you draw on the magic of the Lower Planes or Upper Plan
 - All your weapon attacks are magical, and when you make a weapon attack, you can use your spellcasting ability modifier, instead of Strength or Dexterity, for the attack and damage rolls.  
 - You can attack twice, instead of once, when you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the Attack action on your turn.  
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Tasha's Cauldron of Everything p. 116*

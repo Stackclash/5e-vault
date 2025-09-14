@@ -11,7 +11,7 @@ aliases:
 *Source: The Griffon's Saddlebag, Book 3 p. 51*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ruun.webp#right)  
 
-- **Ability Scores**: Constitution +2
+- **Ability Scores**: con +2
 - **Size**: Medium
 - **Speed**: 30 ft.
 

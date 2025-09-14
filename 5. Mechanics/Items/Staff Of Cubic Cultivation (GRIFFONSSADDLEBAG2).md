@@ -13,7 +13,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Staff of Cubic Cultivation
-*Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), minor, uncommon*  
+*Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Staff-of-Cubic-Cultivation.webp#right)  
 
 - **Damage**:

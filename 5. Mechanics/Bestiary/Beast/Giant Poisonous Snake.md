@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'underdark, grassland, forest, swamp, urban, desert'
 size: Medium
 tags:
@@ -19,7 +19,7 @@ tags:
 aliases:
   - Giant Poisonous Snake
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Poisonous Snake.md|Giant Poisonous Snake]]
+# [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md|Giant Poisonous Snake]]
 *Source: Monster Manual p. 327, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -42,11 +42,12 @@ aliases:
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
-"senses": "blindsight 10 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., passive Perception\
+  \ 12"
 "languages": ""
 "cr": "1/4"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 6\
       \ (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving\
       \ throw, taking 10 (3d6) poison damage on a failed save, or half as much damage\
       \ on a successful one."
@@ -55,7 +56,7 @@ aliases:
   - "MM"
   - "CoS"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-poisonous-snake.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/giant-poisonous-snake.webp"
 ```
 ^statblock
 

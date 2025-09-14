@@ -13,7 +13,7 @@ tags:
 aliases:
   - Authority
 ---
-# [[5. Mechanics\Bestiary\Celestial\Authority (SAF).md|Authority]]
+# [[5. Mechanics/Bestiary/Celestial/Authority (SAF).md|Authority]]
 *Source: Strongholds and Followers p. 157*
 
 Pretty much what you'd expect from an angelic being called an Authority. It is the knight of the Celestial Court. What paladins would like to be when they grow up. The Authority arrives on our plane in heavy armor, armed with the Brightsword and looking for evil to smash. It is responsible for maintaining celestial order, and while it's still absolutely committed to smashing evil, it tends to smash chaotic evil a little more than other evils.
@@ -47,13 +47,14 @@ Well, it finds the biggest, most evil thing and bashes the hell out of it (perha
   - !!int "16"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  - "dexterity": "+5"
-  - "constitution": "+6"
+  - "dexterity": !!int "5"
+  - "constitution": !!int "6"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight, passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]], passive Perception\
+  \ 19"
 "languages": "all, telepathy 60 ft."
 "cr": "6"
 "traits":
@@ -75,7 +76,7 @@ Well, it finds the biggest, most evil thing and bashes the hell out of it (perha
 "actions":
   - "desc": "The Authority makes three attacks with the Brightsword."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 14\
       \ (3d6 + 4) slashing damage and 9 (2d8) radiant damage. Evil creatures take\
       \ an extra 9 (2d8) radiant damage."
     "name": "Brightsword"

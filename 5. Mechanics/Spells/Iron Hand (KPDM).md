@@ -23,16 +23,15 @@ classes:
   - Druid (Circle of the Land)
   - Sorcerer (Divine Soul)
 school: Abjuration
-level: cantrip
+level: 0
 ritual: false
 time: 1 Bonus Action
-duration: up to 1 hour
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 hour'
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Iron Hand
-concentration: true
 ---
 # Iron Hand
 *cantrip, Abjuration*  
@@ -44,6 +43,8 @@ concentration: true
 
 This spell is common among metalsmiths and other crafters who work with heat. When you use this spell, one of your arms becomes immune to fire damage, allowing you to grasp red-hot metal, scoop up molten glass with your fingers, or reach deep into a roaring fire to pick up an object. In addition, if you take the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action while you're protected by iron hand, you have resistance to fire damage until the start of your next turn.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
 
 *Source: Deep Magic p. 86*

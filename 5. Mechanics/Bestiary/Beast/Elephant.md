@@ -14,7 +14,7 @@ tags:
 aliases:
   - Elephant
 ---
-# [[5. Mechanics\Bestiary\Beast\Elephant.md|Elephant]]
+# [[5. Mechanics/Bestiary/Beast/Elephant.md|Elephant]]
 *Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -46,15 +46,15 @@ aliases:
       \ can make one stomp attack against it as a bonus action."
     "name": "Trampling Charge"
 "actions":
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 19\
       \ (3d8 + 6) piercing damage."
     "name": "Gore"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-      \ creature. Hit: 22 (3d10 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
+      \ creature. *Hit:* 22 (3d10 + 6) bludgeoning damage."
     "name": "Stomp"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/elephant.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/elephant.webp"
 ```
 ^statblock
 

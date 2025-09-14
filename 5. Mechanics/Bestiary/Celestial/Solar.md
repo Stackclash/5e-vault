@@ -13,7 +13,7 @@ tags:
 aliases:
   - Solar
 ---
-# [[5. Mechanics\Bestiary\Celestial\Solar.md|Solar]]
+# [[5. Mechanics/Bestiary/Celestial/Solar.md|Solar]]
 *Source: Monster Manual p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -61,9 +61,9 @@ It is said that only twenty-four solars exist. The few solars that are known are
   - !!int "30"
 "speed": "50 ft., fly 150 ft."
 "saves":
-  - "intelligence": "+14"
-  - "wisdom": "+14"
-  - "charisma": "+17"
+  - "intelligence": !!int "14"
+  - "wisdom": !!int "14"
+  - "charisma": !!int "17"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+14"
@@ -71,17 +71,18 @@ It is said that only twenty-four solars exist. The few solars that are known are
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 24"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 24"
 "languages": "all, telepathy 120 ft."
 "cr": "21"
 "traits":
   - "desc": "The solar's spellcasting ability is Charisma (spell save DC 25). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      At will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-      \ [[5. Mechanics/Spells/Invisibility.md|invisibility]] (self only)\n\n3/day each:\
-      \ [[5. Mechanics/Spells/Blade Barrier.md|blade barrier]], [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]],\
-      \ [[5. Mechanics/Spells/Resurrection.md|resurrection]]\n\n1/day each: [[5. Mechanics/Spells/Commune.md|commune]],\
-      \ [[5. Mechanics/Spells/Control Weather.md|control weather]]"
+      **At will:** [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+      \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]] (self only)\n\n**3/day\
+      \ each:** [[/5. Mechanics/Spells/Blade Barrier.md|blade barrier]], [[/5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil\
+      \ and good]], [[/5. Mechanics/Spells/Resurrection.md|resurrection]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Commune.md|commune]], [[/5. Mechanics/Spells/Control Weather.md|control weather]]"
     "name": "Innate Spellcasting"
   - "desc": "The solar's weapon attacks are magical. When the solar hits with any\
       \ weapon, the weapon deals an extra 6d8 radiant damage (included in the attack)."
@@ -94,10 +95,10 @@ It is said that only twenty-four solars exist. The few solars that are known are
 "actions":
   - "desc": "The solar makes two greatsword attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 22\
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 22\
       \ (4d6 + 8) slashing damage plus 27 (6d8) radiant damage."
     "name": "Greatsword"
-  - "desc": "Ranged Weapon Attack: +13 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +13 to hit, range 150/600 ft., one target. *Hit:*\
       \ 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is\
       \ a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution\
       \ saving throw or die."
@@ -113,6 +114,9 @@ It is said that only twenty-four solars exist. The few solars that are known are
       \ + 4) hit points and is freed from any curse, disease, poison, blindness, or\
       \ deafness."
     "name": "Healing Touch (4/Day)"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the solar can expend a use to take one of the following actions. The solar\
+  \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The solar magically teleports, along with any equipment it is wearing\
       \ or carrying, up to 120 feet to an unoccupied space it can see."
@@ -125,12 +129,12 @@ It is said that only twenty-four solars exist. The few solars that are known are
   - "desc": "The solar targets one creature it can see within 30 feet of it. If the\
       \ target can see it, the target must succeed on a DC 15 Constitution saving\
       \ throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]] until magic\
-      \ such as the [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
+      \ such as the [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]]\
       \ spell removes the blindness."
     "name": "Blinding Gaze (Costs 3 Actions)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Celestial/token/solar.webp"
+"image": "/5. Mechanics/Bestiary/Celestial/token/solar.webp"
 ```
 ^statblock
 

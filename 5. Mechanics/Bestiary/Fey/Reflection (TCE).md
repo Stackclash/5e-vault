@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Reflection
 ---
-# [[5. Mechanics\Bestiary\Fey\Reflection (TCE).md|Reflection]]
+# [[5. Mechanics/Bestiary/Fey/Reflection (TCE).md|Reflection]]
 *Source: Tasha's Cauldron of Everything p. 158*
 
 ```statblock
@@ -45,7 +45,8 @@ aliases:
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -59,15 +60,15 @@ aliases:
       \ checks, and saving throws."
     "name": "Sunlight Weakness"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9\
-      \ (2d6 + 2) necrotic damage, and the target's Strength score is reduced by d4.\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9\
+      \ (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4.\
       \ The target dies if this reduces its Strength to 0. Otherwise, the reduction\
       \ lasts until the target finishes a short or long rest.\n\nIf a non-evil humanoid\
-      \ dies from this attack, a new reflection rises from the corpse d4 hours later."
+      \ dies from this attack, a new reflection rises from the corpse 1d4 hours later."
     "name": "Strength Drain"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Fey/token/reflection-tce.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/reflection-tce.webp"
 ```
 ^statblock
 

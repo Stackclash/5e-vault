@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hazvongel
 ---
-# [[5. Mechanics\Bestiary\Fiend\Hazvongel (VEOR).md|Hazvongel]]
+# [[5. Mechanics/Bestiary/Fiend/Hazvongel (VEOR).md|Hazvongel]]
 *Source: Vecna: Eve of Ruin p. 222*
 
 > [!quote] A quote from The Demon Lord Pazuzu  
@@ -44,8 +44,8 @@ Hazvongels sometimes soar in the skies of the Abyss, where they originate, but t
   - !!int "11"
 "speed": "20 ft., fly 60 ft."
 "saves":
-  - "constitution": "+8"
-  - "wisdom": "+7"
+  - "constitution": !!int "8"
+  - "wisdom": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+7"
@@ -54,7 +54,8 @@ Hazvongels sometimes soar in the skies of the Abyss, where they originate, but t
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 17"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "14"
 "traits":
@@ -64,7 +65,7 @@ Hazvongels sometimes soar in the skies of the Abyss, where they originate, but t
 "actions":
   - "desc": "The hazvongel makes three Talon attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:* 18\
       \ (3d8 + 5) piercing damage."
     "name": "Talon"
   - "desc": "The hazvongel launches a spray of blood in a 90-foot cone. Each creature\
@@ -73,7 +74,7 @@ Hazvongels sometimes soar in the skies of the Abyss, where they originate, but t
     "name": "Blood Barrage (Recharge 5-6)"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fiend/token/hazvongel-veor.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/hazvongel-veor.webp"
 ```
 ^statblock
 

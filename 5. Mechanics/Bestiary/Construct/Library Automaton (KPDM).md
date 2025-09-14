@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Library Automaton
 ---
-# [[5. Mechanics\Bestiary\Construct\Library Automaton (KPDM).md|Library Automaton]]
+# [[5. Mechanics/Bestiary/Construct/Library Automaton (KPDM).md|Library Automaton]]
 *Source: Deep Magic p. 298*
 
 These strange-looking constructs are unusually intelligent for creatures of their type and will sometimes serve a lawful or neutral spellcaster (though never a chaotic one) as a familiar.
@@ -47,7 +47,8 @@ If a library automaton agrees to serve another creature as a familiar, it forms 
     "desc": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 60 ft., truesight 10 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Truesight|truesight]]\
+  \ 10 ft., passive Perception 11"
 "languages": "Common"
 "cr": "1/2"
 "traits":
@@ -63,7 +64,7 @@ If a library automaton agrees to serve another creature as a familiar, it forms 
       \ throws, and attack rolls until the end of its next turn. On a successful save,\
       \ the target takes half as much damage and suffers no other effect."
     "name": "Gaze of Confusion"
-  - "desc": "This ability functions as the [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\
+  - "desc": "This ability functions as the [[/5. Mechanics/Spells/Mage Hand.md|mage hand]]\
       \ cantrip but can be used only on books, scrolls, maps, and other printed or\
       \ written materials."
     "name": "Bibliotelekinesis"

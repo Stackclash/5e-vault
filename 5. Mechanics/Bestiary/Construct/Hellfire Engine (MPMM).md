@@ -13,7 +13,7 @@ tags:
 aliases:
   - Hellfire Engine
 ---
-# [[5. Mechanics\Bestiary\Construct\Hellfire Engine (MPMM).md|Hellfire Engine]]
+# [[5. Mechanics/Bestiary/Construct/Hellfire Engine (MPMM).md|Hellfire Engine]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 152, Mordenkainen's Tome of Foes p. 165*
 
 Hellfire engines are semiautonomous bringers of destruction. Amnizus (in this book) and other devilish generals hold them in reserve until they are needed to repel an incursion by demons or crusading mortals, but occasionally one of these magical-mechanical hybrids gets loose, driven berserk by its need to destroy.
@@ -41,9 +41,9 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
   - !!int "1"
 "speed": "40 ft."
 "saves":
-  - "dexterity": "+8"
-  - "wisdom": "+5"
-  - "charisma": "+0"
+  - "dexterity": !!int "8"
+  - "wisdom": !!int "5"
+  - "charisma": !!int "0"
 "damage_resistances": "cold; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "damage_immunities": "fire, poison"
@@ -51,7 +51,8 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
   \ [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 10"
 "languages": "understands Infernal but can't speak"
 "cr": "16"
 "traits":
@@ -79,33 +80,33 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
       \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]."
     "name": "Flesh-Crushing Stride"
   - "desc": "The hellfire engine uses one of the following options (choose one or\
-      \ roll a d6):\n\n- 1–2 Bonemelt Sprayer. The hellfire engine spews acidic\
+      \ roll a d6):\n\n- **1–2 Bonemelt Sprayer.** The hellfire engine spews acidic\
       \ flame in a 60-foot cone. Each creature in the cone must make a DC 20 Dexterity\
       \ saving throw, taking 11 (2d10) fire damage plus 18 (4d8) acid damage on a\
       \ failed save, or half as much damage on a successful one. Creatures that fail\
-      \ the saving throw are drenched in burning acid and take 5 (d10) fire damage\
+      \ the saving throw are drenched in burning acid and take 5 (1d10) fire damage\
       \ plus 9 (2d8) acid damage at the end of their turns. An affected creature or\
       \ another creature within 5 feet of it can take an action to scrape off the\
-      \ burning fuel.  \n- 3–4 Lightning Flail. Melee Weapon Attack: +10 to\
-      \ hit, reach 15 ft., one creature. Hit: 18 (3d8 + 5) bludgeoning damage plus\
+      \ burning fuel.  \n- **3–4 Lightning Flail.** *Melee Weapon Attack:* +10 to\
+      \ hit, reach 15 ft., one creature. *Hit:* 18 (3d8 + 5) bludgeoning damage plus\
       \ 22 (5d8) lightning damage. Up to three other creatures of the hellfire engine's\
       \ choice that it can see within 30 feet of the target must each make a DC 20\
       \ Dexterity saving throw, taking 22 (5d8) lightning damage on a failed save,\
-      \ or half as much damage on a successful one.  \n- 5–6 Thunder Cannon. The\
+      \ or half as much damage on a successful one.  \n- **5–6 Thunder Cannon.** The\
       \ hellfire engine targets a point within 120 feet of it that it can see. Each\
       \ creature within 30 feet of that point must make a DC 20 Dexterity saving throw,\
       \ taking 27 (5d10) bludgeoning damage plus 19 (3d12) thunder damage on a failed\
       \ save, or half as much damage on a successful one.  \n\n    If the chosen option\
-      \ kills a creature, the creature's soul rises from the River Styx as a [[5. Mechanics/Bestiary/Fiend/Lemure.md|lemure]]\
-      \ in Avernus in d4 hours. If the creature isn't revived before then, only a\
-      \ [[5. Mechanics/Spells/Wish.md|wish]] spell or killing the [[5. Mechanics/Bestiary/Fiend/Lemure.md|lemure]]\
+      \ kills a creature, the creature's soul rises from the River Styx as a [[/5. Mechanics/Bestiary/Fiend/Lemure.md|lemure]]\
+      \ in Avernus in 1d4 hours. If the creature isn't revived before then, only a\
+      \ [[/5. Mechanics/Spells/Wish.md|wish]] spell or killing the [[/5. Mechanics/Bestiary/Fiend/Lemure.md|lemure]]\
       \ and casting true resurrection on the creature's original body can restore\
       \ it to life. Constructs and devils are immune to this effect.  "
     "name": "Hellfire Weapons"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Construct/token/hellfire-engine-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/hellfire-engine-mpmm.webp"
 ```
 ^statblock
 

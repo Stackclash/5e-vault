@@ -13,7 +13,7 @@ tags:
 aliases:
   - Heretic
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Heretic (GRIFFONSSADDLEBAG3).md|Heretic]]
+# [[5. Mechanics/Bestiary/Humanoid/Heretic (GRIFFONSSADDLEBAG3).md|Heretic]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Heretics are tricksters that interface with deities but aren't called to serve a single one. These rogues are able to broker tenuous, temporary accords with them to cast a limited spectrum of magic. These Hereteics often play as pivotal roles in the Upper Planes' greater machinations as the clerics and paladins that devoutly serve them.
@@ -25,7 +25,7 @@ Heretics are tricksters that interface with deities but aren't called to serve a
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "4"
@@ -38,8 +38,8 @@ Heretics are tricksters that interface with deities but aren't called to serve a
   - !!int "15"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+4"
-  - "intelligence": "+2"
+  - "dexterity": !!int "4"
+  - "intelligence": !!int "2"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+6"
@@ -56,10 +56,10 @@ Heretics are tricksters that interface with deities but aren't called to serve a
   - "desc": "The heretic is an 8th-level spellcaster. Its spellcasting ability is\
       \ Wisdom (spell save DC 13, +5 to hit with spell attacks). It regains its expended\
       \ spell slots when it finishes a short or long rest. It knows the following\
-      \ cleric spells:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-      \ [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-      \n1st-2nd level (2 slots): [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-      \ [[5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual\
+      \ cleric spells:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Guidance.md|guidance]],\
+      \ [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+      \n**1st-2nd level (2 slots):** [[/5. Mechanics/Spells/Bless.md|bless]], [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+      \ [[/5. Mechanics/Spells/Lesser Restoration.md|lesser restoration]], [[/5. Mechanics/Spells/Spiritual Weapon.md|spiritual\
       \ weapon]]"
     "name": "Spellcasting"
   - "desc": "If the heretic is subjected to an effect that allows it to make a Dexterity\
@@ -83,7 +83,7 @@ Heretics are tricksters that interface with deities but aren't called to serve a
       \ on it."
     "name": "Sneak Attack (1/Turn)"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) bludgeoning damage."
     "name": "Mace"
 "source":

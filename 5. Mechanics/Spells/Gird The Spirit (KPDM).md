@@ -21,9 +21,9 @@ level: 1
 ritual: false
 time: 1 Reaction
 duration: 1 minute
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Gird the Spirit
 ---
@@ -35,8 +35,8 @@ aliases:
 - **Components:** V, S
 - **Duration:** 1 minute
 
-Your magic protects the target creature from the life-sapping energies of the undead. For the duration, the target has immunity to effects from undead creatures that reduce its ability scores, such as a [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]]'s Strength Drain, or its hit point maximum, such as a [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]]'s Life Drain. This spell doesn't prevent damage from those attacks; it prevents only the reduction in ability score or hit point maximum.
+Your magic protects the target creature from the life-sapping energies of the undead. For the duration, the target has immunity to effects from undead creatures that reduce its ability scores, such as a [[/5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]]'s Strength Drain, or its hit point maximum, such as a [[/5. Mechanics/Bestiary/Undead/Specter.md\|specter]]'s Life Drain. This spell doesn't prevent damage from those attacks; it prevents only the reduction in ability score or hit point maximum.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 75*

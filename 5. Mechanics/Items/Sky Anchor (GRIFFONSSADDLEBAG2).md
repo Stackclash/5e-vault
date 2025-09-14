@@ -11,11 +11,11 @@ aliases:
   - Sky Anchor
 one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
-range: 40\60
+range: 40/60
 weight: 3
 ---
 # Sky Anchor
-*Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Sky-Anchor.webp#right)  
 
 - **Damage**:

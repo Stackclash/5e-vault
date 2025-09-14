@@ -14,7 +14,7 @@ tags:
 aliases:
   - Succubus
 ---
-# [[5. Mechanics\Bestiary\Fiend\Succub(US).md|Succubus]]
+# [[5. Mechanics/Bestiary/Fiend/Succub(US).md|Succubus]]
 *Source: Monster Manual p. 285, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Succubi and incubi inhabit all of the Lower Planes, and the lascivious dark-winged fiends can be found in service to devils, demons, night hags, rakshasas, and yugoloths. Asmodeus, ruler of the Nine Hells, uses these fiends to tempt mortals to perform evil acts. The demon lord Graz'zt keeps succubi and incubi as advisers and consorts.
@@ -37,7 +37,7 @@ The kiss of a succubus or incubus is an echo of the emptiness that is the fiend'
 
 ## Fiendish Offspring
 
-Succubi and incubi can reproduce with one another to spawn more of their kind. Less commonly, a succubus or incubus reproduces with a humanoid. From this unholy union, a [[5. Mechanics/Bestiary/Fiend/Cambion.md|cambion]] child is conceived. Invariably, the fiendish offspring is as wicked as its fiendish parent.
+Succubi and incubi can reproduce with one another to spawn more of their kind. Less commonly, a succubus or incubus reproduces with a humanoid. From this unholy union, a [[/5. Mechanics/Bestiary/Fiend/Cambion.md|cambion]] child is conceived. Invariably, the fiendish offspring is as wicked as its fiendish parent.
 
 ```statblock
 "name": "Succub(US)"
@@ -71,7 +71,8 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; poison; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": "Abyssal, Common, Infernal, telepathy 60 ft."
 "cr": "4"
 "traits":
@@ -86,7 +87,7 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
       \ form if it dies."
     "name": "Shapechanger"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage."
     "name": "Claw (Fiend Form Only)"
   - "desc": "One humanoid the fiend can see within 30 feet of it must succeed on a\
@@ -113,7 +114,7 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Fiend/token/succubus.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/succubus.webp"
 ```
 ^statblock
 

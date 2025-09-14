@@ -1,24 +1,51 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-spell
-{#if resource.tags }
-tags:
+tags: {#if resource.tags.isEmpty()}[]{/if}
 {#for tag in resource.tags}
 - {tag}
 {/for}
-{/if}
 {#if resource.classList}
-classes: 
+classes: {#if resource.tags.isEmpty()}[]{/if}
 {#for class in resource.classList}
-  - {class}
+- {class}
 {/for}
 {/if}
 school: {resource.school}
-level: {resource.level}
+level: {#if resource.level.startsWith('cantrip')}0{#else}{resource.level.replaceAll('[^0-9]', '')}{/if}
+{#if resource.damage}
+damage:
+  base: {resource.damage.baseDamage}
+  scaling:
+    damage: {resource.damage.scalingDamage}
+    level: {resource.damage.scalingLevel}
+  types: {#if resource.damageType.isEmpty()}[]{/if}
+  {#for type in resource.damageType}
+  - {type}
+  {/for}
+{/if}
+{#if resource.savingThrows.size > 0}
+saving_throw:
+  skills:
+  {#for save in resource.savingThrows}
+  - {save}
+  {/for}
+  succeeds: {resource.savingThrowSucceeds}
+{/if}
 ritual: {resource.ritual}
 time: {resource.time}
 duration: {resource.duration}
-components: {resource.components}
+range: {resource.range}
+somatic: {resource.somatic}
+verbal: {resource.verbal}
+{#if resource.material}
+material: {resource.material}
+{/if}
+{#if resource.areaOfEffect}
+area:
+  shape: {resource.areaOfEffect.shape}
+  size: {resource.areaOfEffect.size}
+{/if}
 aliases: 
 - {resource.name}
 ---
@@ -46,6 +73,9 @@ aliases:
 
 {/if}{#if resource.classes }
 **Classes**: {resource.classes}
+
+{/if}{#if resource.feats}
+**Feats**: {resource.feats}
 
 {/if}
 *Source: {resource.source}*

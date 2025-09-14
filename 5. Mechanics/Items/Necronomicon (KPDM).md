@@ -30,10 +30,10 @@ Unseen forces of evil will pursue any owner of the book, hoping to steal it for 
 
 The Necronomicon has the following random properties:
 
-- 2 [[5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial properties]]  
-- 1 [[5. Mechanics/Tables/Artifact Properties Major Beneficial Properties.md\|major beneficial properties]]  
-- 1 [[5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental properties]]  
-- 2 [[5. Mechanics/Tables/Artifact Properties Major Detrimental Properties.md\|major detrimental properties]]  
+- 2 [[/5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial properties]]  
+- 1 [[/5. Mechanics/Tables/Artifact Properties Major Beneficial Properties.md\|major beneficial properties]]  
+- 1 [[/5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental properties]]  
+- 2 [[/5. Mechanics/Tables/Artifact Properties Major Detrimental Properties.md\|major detrimental properties]]  
 
 ## Adjusted Ability Scores
 
@@ -53,15 +53,15 @@ The book's bearer can reference the Necronomicon whenever it makes an Intelligen
 
 ## Eldritch Guise
 
-While a creature carries the Necronomicon and is attuned to it, the creature can speak, read, and write Void Speech, and it can cast [[5. Mechanics/Spells/Semblance Of Dread (KPDM).md\|semblance of dread]] as a bonus action.
+While a creature carries the Necronomicon and is attuned to it, the creature can speak, read, and write Void Speech, and it can cast [[/5. Mechanics/Spells/Semblance Of Dread (KPDM).md\|semblance of dread]] as a bonus action.
 
 ## Voidmarked
 
-After a creature spends the requisite amount of time reading and studying the book, it acquires mental and physical disfigurements as hideous signs of its devotion to the Great Old Ones. The creature gains one [[5. Mechanics/Tables/Flesh Warps (KPDM).md\|flesh warp]] and one form of [[5. Mechanics/Tables/Indefinite Madness (KPDM).md\|indefinite madness]]. The voidmark grants you advantage on [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]] checks made to interact with aberrations and on [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]] checks made to interact with non-aberrations.
+After a creature spends the requisite amount of time reading and studying the book, it acquires mental and physical disfigurements as hideous signs of its devotion to the Great Old Ones. The creature gains one [[/5. Mechanics/Tables/Flesh Warps (KPDM).md\|flesh warp]] and one form of [[/5. Mechanics/Tables/Indefinite Madness (KPDM).md\|indefinite madness]]. The voidmark grants you advantage on [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]] checks made to interact with aberrations and on [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]] checks made to interact with non-aberrations.
 
 ## Thought Control
 
-A creature that is attuned to the book and holding it can use an action to cast [[5. Mechanics/Spells/Dominate Monster.md\|dominate monster]] on a creature within range (save DC 18). This property can't be used again for 19 hours.
+A creature that is attuned to the book and holding it can use an action to cast [[/5. Mechanics/Spells/Dominate Monster.md\|dominate monster]] on a creature within range (save DC 18). This property can't be used again for 19 hours.
 
 ## Destroying the Book
 

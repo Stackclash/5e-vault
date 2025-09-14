@@ -13,7 +13,7 @@ aliases:
 
 In some cases you need to determine damage on the fly. The Improvising Damage table gives you suggestions for when you do so.
 
-![[5. Mechanics/Tables/Improvising Damage.md\|Improvising Damage]]
+![[/5. Mechanics/Tables/Improvising Damage.md\|Improvising Damage]]
 
 The Damage Severity and Level table is a guide to how deadly these damage numbers are for characters of various levels. Cross-reference a character's level with the damage being dealt to gauge the severity of the damage.
 
@@ -21,7 +21,7 @@ The Damage Severity and Level table is a guide to how deadly these damage number
 
 | Character Level | Setback | Dangerous | Deadly |
 |-----------------|---------|-----------|--------|
-| 1st-4th | `dice:1d10\|noform\|noparens\|avg\|text(d10)` | `dice:2d10\|noform\|noparens\|avg` (`2d10`) | `dice:4d10\|noform\|noparens\|avg` (`4d10`) |
+| 1st-4th | `dice:1d10\|noform\|noparens\|avg\|text(1d10)` | `dice:2d10\|noform\|noparens\|avg` (`2d10`) | `dice:4d10\|noform\|noparens\|avg` (`4d10`) |
 | 5th-10th | `dice:2d10\|noform\|noparens\|avg` (`2d10`) | `dice:4d10\|noform\|noparens\|avg` (`4d10`) | `dice:10d10\|noform\|noparens\|avg` (`10d10`) |
 | 11th-16th | `dice:4d10\|noform\|noparens\|avg` (`4d10`) | `dice:10d10\|noform\|noparens\|avg` (`10d10`) | `dice:18d10\|noform\|noparens\|avg` (`18d10`) |
 | 17th-20th | `dice:10d10\|noform\|noparens\|avg` (`10d10`) | `dice:18d10\|noform\|noparens\|avg` (`18d10`) | `dice:24d10\|noform\|noparens\|avg` (`24d10`) |

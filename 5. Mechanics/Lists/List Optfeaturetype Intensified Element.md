@@ -9,5 +9,5 @@ aliases:
 # null
 *Source: Deep Magic* 
 
-- [[5. Mechanics/Optional Features/Sweeping Swell (KPDM).md\|Sweeping Swell]]
-- [[5. Mechanics/Optional Features/Wind Blast (KPDM).md\|Wind Blast]]
+- [[/5. Mechanics/Optional Features/Sweeping Swell (KPDM).md\|Sweeping Swell]]
+- [[/5. Mechanics/Optional Features/Wind Blast (KPDM).md\|Wind Blast]]

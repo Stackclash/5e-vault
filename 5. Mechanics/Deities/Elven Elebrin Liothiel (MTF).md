@@ -13,9 +13,9 @@ pantheon: Elven
 province: 'Abundance, gardens, the harvest'
 symbol: Acorn
 aliases:
-  - Elebrin liothiel
+  - Elebrin Liothiel
 ---
-# Elebrin liothiel
+# Elebrin Liothiel
 *Source: Mordenkainen's Tome of Foes p. 43* 
 
 - **Alignment**: Chaotic Good

@@ -14,17 +14,19 @@ classes:
   - Wizard
 school: Transmutation
 level: 9
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: 120 feet
+somatic: true
+verbal: true
+material: a caterpillar cocoon
 aliases:
   - Mass Polymorph
-concentration: true
-material: a caterpillar cocoon
 ---
 # Mass Polymorph
 *9th-level, Transmutation*  
@@ -44,6 +46,6 @@ The creature is limited in the actions it can perform by the nature of its new f
 
 The target's gear melds into the new form. The target can't activate, use, wield, or otherwise benefit from any of its equipment.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 160*

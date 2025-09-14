@@ -14,7 +14,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Staff of the Eclipse
-*Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
+*Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Staff-of-the-Eclipse.webp#right)  
 
 - **Damage**:

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bone Roc
 ---
-# [[5. Mechanics\Bestiary\Undead\Bone Roc (VEOR).md|Bone Roc]]
+# [[5. Mechanics/Bestiary/Undead/Bone Roc (VEOR).md|Bone Roc]]
 *Source: Vecna: Eve of Ruin p. 211*
 
 A bone roc is a birdlike Undead that can incorporate the bones of multiple flying creatures. Despite their name, bone rocs aren't always reanimated skeletons of rocs. You may customize a bone roc by rolling on the Bone Roc Sources table to determine the type of bones used and how that affects its stat block.
@@ -48,8 +48,8 @@ A bone roc is a birdlike Undead that can incorporate the bones of multiple flyin
   - !!int "10"
 "speed": "15 ft., fly 90 ft."
 "saves":
-  - "dexterity": "+8"
-  - "wisdom": "+6"
+  - "dexterity": !!int "8"
+  - "wisdom": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
@@ -57,21 +57,22 @@ A bone roc is a birdlike Undead that can incorporate the bones of multiple flyin
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 16"
 "languages": ""
 "cr": "8"
 "actions":
   - "desc": "The bone roc makes one Beak attack and two Talons attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (2d8 + 5) piercing damage."
     "name": "Beak"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage plus 10 (3d6) necrotic damage."
     "name": "Talons"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Undead/token/bone-roc-veor.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/bone-roc-veor.webp"
 ```
 ^statblock
 

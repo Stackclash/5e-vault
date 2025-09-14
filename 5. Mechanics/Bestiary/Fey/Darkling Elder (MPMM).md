@@ -17,7 +17,7 @@ tags:
 aliases:
   - Darkling Elder
 ---
-# [[5. Mechanics\Bestiary\Fey\Darkling Elder (MPMM).md|Darkling Elder]]
+# [[5. Mechanics/Bestiary/Fey/Darkling Elder (MPMM).md|Darkling Elder]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*
 
 A wise and respected darkling can undergo a ritual to become an elder. Other elders mark the supplicant with glowing tattoos, channeling away some of the darkling's absorbed light. If the ritual succeeds, the darkling grows into a taller, elf-like form. The darkling perishes if the ritual fails.
@@ -32,7 +32,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather armor]]"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "3"
@@ -53,7 +53,8 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+7"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 16"
 "languages": "Elvish, Sylvan"
 "cr": "2"
 "traits":
@@ -68,16 +69,16 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "actions":
   - "desc": "The darkling elder makes two Scimitar attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage plus 7 (2d6) necrotic damage."
     "name": "Scimitar"
-  - "desc": "The darkling elder casts [[5. Mechanics/Spells/Darkness.md|darkness]], requiring\
-      \ no spell components and using Wisdom as the spellcasting ability.\n"
+  - "desc": "The darkling elder casts [[/5. Mechanics/Spells/Darkness.md|darkness]],\
+      \ requiring no spell components and using Wisdom as the spellcasting ability.\n"
     "name": "Darkness (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Fey/token/darkling-elder-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/darkling-elder-mpmm.webp"
 ```
 ^statblock
 

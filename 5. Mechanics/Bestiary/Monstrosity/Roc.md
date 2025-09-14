@@ -18,7 +18,7 @@ tags:
 aliases:
   - Roc
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Roc.md|Roc]]
+# [[5. Mechanics/Bestiary/Monstrosity/Roc.md|Roc]]
 *Source: Monster Manual p. 260, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 At first sight, a roc's silhouette looks much like any other bird of prey. As it descends, however, its unearthly size becomes terrifyingly clear. In flight, a roc's wingspan spreads two hundred feet or more. At rest, perched upon the mountain peaks that are its home, this monstrous bird rivals the oldest dragons in size.
@@ -56,10 +56,10 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
   - !!int "9"
 "speed": "20 ft., fly 120 ft."
 "saves":
-  - "dexterity": "+4"
-  - "constitution": "+9"
-  - "wisdom": "+4"
-  - "charisma": "+3"
+  - "dexterity": !!int "4"
+  - "constitution": !!int "9"
+  - "wisdom": !!int "4"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
@@ -73,10 +73,10 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 "actions":
   - "desc": "The roc makes two attacks: one with its beak and one with its talons."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 27\
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 27\
       \ (4d8 + 9) piercing damage."
     "name": "Beak"
-  - "desc": "Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 23\
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 23\
       \ (4d6 + 9) slashing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 19). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
       \ and the roc can't use its talons on another target."
@@ -85,7 +85,7 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/roc.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/roc.webp"
 ```
 ^statblock
 

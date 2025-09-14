@@ -14,7 +14,7 @@ tags:
 aliases:
   - Giant Crocodile
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Crocodile.md|Giant Crocodile]]
+# [[5. Mechanics/Bestiary/Beast/Giant Crocodile.md|Giant Crocodile]]
 *Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -47,19 +47,19 @@ aliases:
 "actions":
   - "desc": "The crocodile makes two attacks: one with its bite and one with its tail."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 21\
       \ (3d10 + 5) piercing damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 16). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
       \ and the crocodile can't bite another target."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target not [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
-      \ by the crocodile. Hit: 14 (2d8 + 5) bludgeoning damage. If the target is\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target not [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+      \ by the crocodile. *Hit:* 14 (2d8 + 5) bludgeoning damage. If the target is\
       \ a creature, it must succeed on a DC 16 Strength saving throw or be knocked\
       \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Tail"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-crocodile.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/giant-crocodile.webp"
 ```
 ^statblock
 

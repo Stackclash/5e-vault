@@ -11,11 +11,11 @@ tags:
 aliases:
   - Hadiya's Handy Quill
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 0.25
 ---
 # Hadiya's Handy Quill
-*Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), minor, uncommon (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hadiyas-Handy-Quill.webp#right)  
 
 - **Damage**: 1d4 piercing

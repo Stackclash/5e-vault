@@ -13,7 +13,7 @@ tags:
 aliases:
   - Elemental Spirit
 ---
-# [[5. Mechanics\Bestiary\Elemental\Elemental Spirit (TCE).md|Elemental Spirit]]
+# [[5. Mechanics/Bestiary/Elemental/Elemental Spirit (TCE).md|Elemental Spirit]]
 *Source: Tasha's Cauldron of Everything p. 111*
 
 ```statblock
@@ -37,7 +37,8 @@ aliases:
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Primordial, understands the languages you speak"
 "traits":
   - "desc": "The elemental can move through a space as narrow as 1 inch wide without\
@@ -47,13 +48,13 @@ aliases:
   - "desc": "The elemental makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d10 + 4 + the spell's level bludgeoning damage (Air, Earth,\
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d10 + 4 + the spell's level bludgeoning damage (Air, Earth,\
       \ and Water only) or fire damage (Fire only)."
     "name": "Slam"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Elemental/token/elemental-spirit-tce.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/elemental-spirit-tce.webp"
 ```
 ^statblock
 

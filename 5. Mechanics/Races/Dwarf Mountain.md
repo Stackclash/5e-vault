@@ -9,9 +9,9 @@ aliases:
 ---
 # Dwarf (Mountain)
 *Source: Player's Handbook p. 20. Available in the Basic Rules (2014)*  
-![[5. Mechanics/Races/img/dwarf.webp#right]]  
+![[/5. Mechanics/Races/img/dwarf.webp#right]]  
 
-- **Ability Scores**: Strength +2
+- **Ability Scores**: str +2
 - **Size**: Medium
 - **Speed**: 25 ft.
 
@@ -39,11 +39,11 @@ You have advantage on saving throws against poison, and you have resistance agai
 
 ### Dwarven Combat Training
 
-You have proficiency with the [[5. Mechanics/Items/Battleaxe.md\|battleaxe]], [[5. Mechanics/Items/Handaxe.md\|handaxe]], [[5. Mechanics/Items/Light Hammer.md\|light hammer]], and [[5. Mechanics/Items/Warhammer.md\|warhammer]].
+You have proficiency with the [[/5. Mechanics/Items/Battleaxe.md\|battleaxe]], [[/5. Mechanics/Items/Handaxe.md\|handaxe]], [[/5. Mechanics/Items/Light Hammer.md\|light hammer]], and [[/5. Mechanics/Items/Warhammer.md\|warhammer]].
 
 ### Tool Proficiency
 
-You gain proficiency with the artisan's tools of your choice: [[5. Mechanics/Items/Smiths Tools.md\|Smith's tools]], [[5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]], or [[5. Mechanics/Items/Masons Tools.md\|mason's tools]].
+You gain proficiency with the artisan's tools of your choice: [[/5. Mechanics/Items/Smiths Tools.md\|Smith's tools]], [[/5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]], or [[/5. Mechanics/Items/Masons Tools.md\|mason's tools]].
 
 ### Stonecunning
 
@@ -59,7 +59,7 @@ You have proficiency with light and medium armor.
 
 ## Description
 
-As a mountain dwarf, you're strong and hardy, accustomed to a difficult life in rugged terrain. You're probably on the tall side (for a dwarf), and tend toward lighter coloration. The shield dwarves of northern Faerun, as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves.
+As a mountain dwarf, you're strong and hardy, accustomed to a difficult life in rugged terrain. You're probably on the tall side (for a dwarf), and tend toward lighter coloration. The shield dwarves of northern Faerûn, as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves.
 
 Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of goblins and orcs-these common threads unite all dwarves.
 

@@ -26,7 +26,7 @@ weight: 4
 
 This staff is made of both raw and polished obsidian. Your Intelligence and Wisdom scores each increase by 2, up to a maximum of 22, while you're attuned to it. In addition, you can use your Arcane Recovery twice between long rests, instead of once.
 
-This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls. A target hit with the staff takes an extra `dice:1d10|noform|noparens|avg` (`d10`) force damage and is pushed up to 10 feet away from you.
+This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls. A target hit with the staff takes an extra `dice:1d10|noform|noparens|avg` (`1d10`) force damage and is pushed up to 10 feet away from you.
 
 ## Spell Storing
 

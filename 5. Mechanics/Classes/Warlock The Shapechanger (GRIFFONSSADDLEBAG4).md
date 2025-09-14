@@ -55,11 +55,11 @@ The Shapechanger lets you choose from an expanded list of spells when you learn 
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[5. Mechanics/Spells/Feather Fall.md\|feather fall]] |
-| 2nd | [[5. Mechanics/Spells/Enhance Ability.md\|enhance ability]], [[5. Mechanics/Spells/Moonbeam.md\|moonbeam]] |
-| 3rd | [[5. Mechanics/Spells/Meld Into Stone.md\|meld into stone]], [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
-| 4th | [[5. Mechanics/Spells/Polymorph.md\|polymorph]], [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
-| 5th | [[5. Mechanics/Spells/Mislead.md\|mislead]], [[5. Mechanics/Spells/Modify Memory.md\|modify memory]] |
+| 1st | [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] |
+| 2nd | [[/5. Mechanics/Spells/Enhance Ability.md\|enhance ability]], [[/5. Mechanics/Spells/Moonbeam.md\|moonbeam]] |
+| 3rd | [[/5. Mechanics/Spells/Meld Into Stone.md\|meld into stone]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
+| 4th | [[/5. Mechanics/Spells/Polymorph.md\|polymorph]], [[/5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
+| 5th | [[/5. Mechanics/Spells/Mislead.md\|mislead]], [[/5. Mechanics/Spells/Modify Memory.md\|modify memory]] |
 ^spell-level-spells
 
 ### Regenerator (Level 1)
@@ -74,11 +74,11 @@ The number of attacks you make, as well as the reach of the attacks, increases w
 
 You can always use an action to make this attack, even if your body is transformed by a spell.
 
-Beginning at 2nd level, any Eldritch Invocation you gain that affects the [[5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] cantrip also affects the attacks from this feature (except for invocations that affect the spell's range). If you later gain the Pact of the Blade feature, your reach with your pact weapon increases to match the reach of your Shapechanger's Strike whenever you make an attack with it as part of the Attack action. Similarly, if you are attuned to a magic item that grants a bonus to the attack rolls of your warlock spells, that bonus also applies to your spell attack rolls with this attack.
+Beginning at 2nd level, any Eldritch Invocation you gain that affects the [[/5. Mechanics/Spells/Eldritch Blast.md\|eldritch blast]] cantrip also affects the attacks from this feature (except for invocations that affect the spell's range). If you later gain the Pact of the Blade feature, your reach with your pact weapon increases to match the reach of your Shapechanger's Strike whenever you make an attack with it as part of the Attack action. Similarly, if you are attuned to a magic item that grants a bonus to the attack rolls of your warlock spells, that bonus also applies to your spell attack rolls with this attack.
 
 ### Malleable Form (Level 6)
 
-Starting at 6th level, you can cast the [[5. Mechanics/Spells/Alter Self.md\|alter self]] spell at will, without expending a spell slot.
+Starting at 6th level, you can cast the [[/5. Mechanics/Spells/Alter Self.md\|alter self]] spell at will, without expending a spell slot.
 
 When you reach 14th level in this class, you also gain the following option when casting the spell:
 
@@ -88,7 +88,7 @@ When you reach 14th level in this class, you also gain the following option when
 
 Beginning at 10th level, your patron's malleability helps you adapt without the normal strains of typical spellcasting. You can use this feature in one of the following ways:
 
-- When you cast [[5. Mechanics/Spells/Alter Self.md\|alter self]] or target only yourself with a spell from your expanded spell list, you can choose for the spell to not require concentration. When you do, you can still choose to end the spell early (no action required).  
+- When you cast [[/5. Mechanics/Spells/Alter Self.md\|alter self]] or target only yourself with a spell from your expanded spell list, you can choose for the spell to not require concentration. When you do, you can still choose to end the spell early (no action required).  
 - You can cast a spell from your expanded spell list that you don't know, expending a spell slot as normal and using the required casting time.  
 
 Once you use this feature, you can't do so again until you finish a long rest.

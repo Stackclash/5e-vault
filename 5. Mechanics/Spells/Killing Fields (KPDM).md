@@ -12,16 +12,28 @@ classes:
   - Ranger
 school: Transmutation
 level: 5
+damage:
+  base: 1d6
+  scaling:
+    damage: null
+    level: null
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 10 minutes
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
+range: 300 feet
+somatic: true
+verbal: true
+material: 'a game animal, which must be sacrificed as part of casting the spell'
+area:
+  shape: cube
+  size: 100
 aliases:
   - Killing Fields
-material: 'a game animal, which must be sacrificed as part of casting the spell'
 ---
 # Killing Fields
 *5th-level, Transmutation*  
@@ -41,12 +53,12 @@ This spell creates the following effects within the area:
 
 **Pack Hunters**. A helped creature has advantage on attack rolls against a hindered creature if at least one helped ally is within 5 feet of the hindered creature and the helped ally isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 
-**Slaying**. Once per turn, when a helped creature hits with any weapon, the weapon deals an extra `dice:1d6|noform|noparens|avg` (`d6`) damage of the same type dealt by its weapon to a hindered creature.
+**Slaying**. Once per turn, when a helped creature hits with any weapon, the weapon deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage of the same type dealt by its weapon to a hindered creature.
 
 **Tracking**. A helped creature has advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) and Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks against a hindered creature.
 
 You can create a permanent *killing field* by casting this spell in the same location every day for one year. Structures built in the area after the killing field is permanent don't end the spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 88*

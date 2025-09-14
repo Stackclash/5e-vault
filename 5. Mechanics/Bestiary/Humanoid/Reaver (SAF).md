@@ -13,7 +13,7 @@ tags:
 aliases:
   - Reaver
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Reaver (SAF).md|Reaver]]
+# [[5. Mechanics/Bestiary/Humanoid/Reaver (SAF).md|Reaver]]
 *Source: Strongholds and Followers p. 72*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "14"
 "speed": "30 ft. (dependent on ancestry)"
 "saves":
-  - "strength": "+6"
-  - "dexterity": "+3"
-  - "constitution": "+6"
-  - "intelligence": "+3"
-  - "wisdom": "+3"
-  - "charisma": "+3"
+  - "strength": !!int "6"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "6"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+5"
@@ -52,14 +52,14 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d12\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d12\
       \ + 3) slashing damage.\n\nAt 7th level, retainers can take two signature attacks\
       \ per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe reaver immediately makes three\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe reaver immediately makes three\
       \ attacks with their signature attack that score a critical hit on a 18–20."
     "name": "Frenzy (3/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe reaver roars with bestial might.\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe reaver roars with bestial might.\
       \ Enemies within 30 feet must make a Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]].\
       \ On each of its turns, a [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
       \ creature must take the Dash action and move away from the reaver by the safest\
@@ -68,7 +68,7 @@ aliases:
       \ it can make a Wisdom saving throw. On a successful save, the condition ends."
     "name": "Fearful Yawp (1/Day)"
 "reactions":
-  - "desc": "Prerequisite: 3rd-level retainer\n\nThe reaver ignores all damage taken\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nThe reaver ignores all damage taken\
       \ from one attack."
     "name": "Invulnerable (3/Day)"
 "source":

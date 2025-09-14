@@ -14,22 +14,28 @@ classes:
   - Wizard
 school: Illusion
 level: 9
+damage:
+  base: 4d10
+  scaling:
+    damage: null
+    level: null
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Weird
-range: 120 feet
-save:
-  type: WIS
-  success: none
-area:
-  type: sphere
-  size: 30
-concentration: true
 ---
 # Weird
 *9th-level, Illusion*  
@@ -41,6 +47,6 @@ concentration: true
 
 Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] creature's turns, it must succeed on a Wisdom saving throw or take `dice:4d10|noform|noparens|avg` (`4d10`) psychic damage. On a successful save, the spell ends for that creature.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 288. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

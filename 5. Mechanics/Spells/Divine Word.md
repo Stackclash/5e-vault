@@ -14,17 +14,18 @@ classes:
   - Sorcerer (Divine Soul)
 school: Evocation
 level: 7
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 Bonus Action
 duration: Instantaneous
-components:
-  - V
+range: 30 feet
+somatic: false
+verbal: true
 aliases:
   - Divine Word
-range: 30 feet
-save:
-  type: CHA
-  success: none
 ---
 # Divine Word
 *7th-level, Evocation*  
@@ -41,8 +42,8 @@ You utter a divine word, imbued with the power that shaped the world at the dawn
 - 30 hit points or fewer: [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]], and [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] for 1 hour  
 - 20 hit points or fewer: killed instantly  
 
-Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a [[5. Mechanics/Spells/Wish.md\|wish]] spell.
+Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a [[/5. Mechanics/Spells/Wish.md\|wish]] spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

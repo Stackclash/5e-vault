@@ -18,12 +18,26 @@ classes:
   - Wizard
 school: Evocation
 level: 3
+damage:
+  base: 3d8
+  scaling:
+    damage: 1d6
+    level: 4
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Storm God's Doom
 ---
@@ -37,8 +51,8 @@ aliases:
 
 A powerful wind swirls from your outstretched hand toward a point you choose within range, where it explodes with a low roar into vortex of air. Each creature in a 20-foot-radius cylinder centered on that point must make a Strength saving throw. On a failed save, the creature takes `dice:3d8|noform|noparens|avg` (`3d8`) bludgeoning damage, is pulled to the center of the cylinder, and is thrown 50 feet upward into the air. If a creature hits a solid obstruction when it's thrown upward (such as a stone ceiling), it takes bludgeoning damage as if it had fallen 50 feet, minus the distance it traveled upward. For example, if a creature hits the ceiling after rising only 10 feet, it takes bludgeoning damage as if it had fallen 40 feet, or `dice:4d6|noform|noparens|avg` (`4d6`) bludgeoning damage. The creature then falls to the ground, taking the remaining fall damage as usual.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, increase the distance affected creatures are thrown into the air by 10 feet for each slot level above 3rd. In effect, this increases the bludgeoning damage taken by the creature by `dice:1d6|noform|noparens|avg` (`d6`) for each level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, increase the distance affected creatures are thrown into the air by 10 feet for each slot level above 3rd. In effect, this increases the bludgeoning damage taken by the creature by `dice:1d6|noform|noparens|avg` (`1d6`) for each level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 110*

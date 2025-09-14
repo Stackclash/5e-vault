@@ -22,13 +22,12 @@ school: Divination
 level: 3
 ritual: false
 time: 1 Action
-duration: up to 8 hours
-components:
-  - V
-  - S
+duration: 'Concentration, up to 8 hours'
+range: 120 feet
+somatic: true
+verbal: true
 aliases:
   - Tracking Beacon
-concentration: true
 ---
 # Tracking Beacon
 *3rd-level, Divination*  
@@ -42,6 +41,6 @@ You choose a creature within range to mark with a glowing orb of light, which fl
 
 You can use a bonus action on your turn to adjust the height of the beacon, ranging from its starting point of 120 feet to as low as 5 feet above the head of the target.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 227*

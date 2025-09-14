@@ -10,10 +10,10 @@ aliases:
 ---
 # Mighty Servant of Leuk-o
 *Wondrous item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/mighty-servant-of-leuk-o.webp#right]]  
+![[/5. Mechanics/Items/img/mighty-servant-of-leuk-o.webp#right]]  
 
 
-Named for the warlord who infamously employed it, the [[5. Mechanics/Bestiary/Construct/Mighty Servant Of Leuk O (TCE).md\|Mighty Servant of Leuk-o]] is a fantastically powerful, 10-foot-tall machine that turns into an animate construct when piloted. Crafted of a gleaming black alloy of unknown origin, the servant is often described as a combination of a disproportioned dwarf and an oversized beetle. The servant contains enough space for 1 ton of cargo and a crew compartment within, from which up to two Medium creatures can control it-and potentially execute a spree of unstoppable destruction.
+Named for the warlord who infamously employed it, the [[/5. Mechanics/Bestiary/Construct/Mighty Servant Of Leuk O (TCE).md\|Mighty Servant of Leuk-o]] is a fantastically powerful, 10-foot-tall machine that turns into an animate construct when piloted. Crafted of a gleaming black alloy of unknown origin, the servant is often described as a combination of a disproportioned dwarf and an oversized beetle. The servant contains enough space for 1 ton of cargo and a crew compartment within, from which up to two Medium creatures can control it-and potentially execute a spree of unstoppable destruction.
 
 Tales of the servant's origins involve more conjecture than fact, often referring to otherworldly beings, the mysterious Barrier Peaks in Oerth, and the supposedly related device known as the *Machine of Lum the Mad*. The best details on the device's origins and operation can be found in the *Mind of Metal*, a tome of artificer's secrets that connects the device to the traditions of the lost Olman people, and which was written by Lum the Mad's several times over granddaughter, Lum the Maestro, while she reconstructed the long disassembled Mighty Servant of Leuk-o.
 
@@ -27,7 +27,7 @@ Attuning to the artifact requires two hours, which can be undertaken as part of 
 
 ## Controlling the Servant
 
-While any creatures are attuned to the artifact, attuned creatures can open the hatch as easily as any other door. Other creatures can open the hatch as an action with a successful DC 25 Dexterity check using [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]. A [[5. Mechanics/Spells/Knock.md\|knock]] spell cast on the hatch also opens it until the start of the caster's next turn.
+While any creatures are attuned to the artifact, attuned creatures can open the hatch as easily as any other door. Other creatures can open the hatch as an action with a successful DC 25 Dexterity check using [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]. A [[/5. Mechanics/Spells/Knock.md\|knock]] spell cast on the hatch also opens it until the start of the caster's next turn.
 
 A creature can enter or exit through the hatch by spending 10 feet of movement. Those inside the servant have total cover from effects originating outside it. The controls within it allow creatures to see outside without obstruction.
 

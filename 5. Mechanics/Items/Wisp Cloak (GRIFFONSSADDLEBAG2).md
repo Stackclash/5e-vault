@@ -19,6 +19,6 @@ This near-weightless cloak billows softly even without wind. While wearing this 
 
 ## Curse
 
-This cloak is cursed by the spirit of a person who was betrayed by a close friend. Once you wear this cursed cloak, you can't remove it unless you are targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. While wearing the cloak, whenever you move or end your turn within 10 feet of a friendly creature with 0 hit points for the first time on each of your turns, that creature must succeed on a DC 13 Constitution saving throw or suffer a failed death saving throw.
+This cloak is cursed by the spirit of a person who was betrayed by a close friend. Once you wear this cursed cloak, you can't remove it unless you are targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. While wearing the cloak, whenever you move or end your turn within 10 feet of a friendly creature with 0 hit points for the first time on each of your turns, that creature must succeed on a DC 13 Constitution saving throw or suffer a failed death saving throw.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 191*

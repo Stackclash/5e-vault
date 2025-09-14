@@ -79,6 +79,6 @@ If the wizard does not pass the disease or poison along to another living creatu
 
 ### Thicken or Quicken Blood (Level 14)
 
-A blood mage of 14th level or higher can turn another creature's blood into sludge, hampering the creature, or can thin it out, giving the creature extra mobility. As an action, the wizard can cause a Touched creature that fails a Constitution saving throw to become affected as if by a [[5. Mechanics/Spells/Slow.md\|slow]] spell—or, alternatively, to gain the effect of a [[5. Mechanics/Spells/Haste.md\|haste]] spell. The duration of either effect is a number of rounds equal to the blood mage's Intelligence modifier. The target of the [[5. Mechanics/Spells/Haste.md\|haste]] effect can intentionally fail the saving throw.
+A blood mage of 14th level or higher can turn another creature's blood into sludge, hampering the creature, or can thin it out, giving the creature extra mobility. As an action, the wizard can cause a Touched creature that fails a Constitution saving throw to become affected as if by a [[/5. Mechanics/Spells/Slow.md\|slow]] spell—or, alternatively, to gain the effect of a [[/5. Mechanics/Spells/Haste.md\|haste]] spell. The duration of either effect is a number of rounds equal to the blood mage's Intelligence modifier. The target of the [[/5. Mechanics/Spells/Haste.md\|haste]] effect can intentionally fail the saving throw.
 
 The blood mage can use this ability once, regaining the use of it upon finishing a long rest.

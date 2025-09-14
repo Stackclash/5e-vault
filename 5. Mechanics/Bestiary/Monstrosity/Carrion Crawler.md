@@ -14,7 +14,7 @@ tags:
 aliases:
   - Carrion Crawler
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Carrion Crawler.md|Carrion Crawler]]
+# [[5. Mechanics/Bestiary/Monstrosity/Carrion Crawler.md|Carrion Crawler]]
 *Source: Monster Manual p. 37*
 
 Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
@@ -48,7 +48,8 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": ""
 "cr": "2"
 "traits":
@@ -62,19 +63,19 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
   - "desc": "The carrion crawler makes two attacks: one with its tentacles and one\
       \ with its bite."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit:\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one creature. *Hit:*\
       \ 4 (1d4 + 2) poison damage, and the target must succeed on a DC 13 Constitution\
       \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
       \ 1 minute. Until this poison ends, the target is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]].\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the poison on itself on a success."
     "name": "Tentacles"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
       \ + 2) piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/carrion-crawler.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/carrion-crawler.webp"
 ```
 ^statblock
 

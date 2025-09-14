@@ -12,17 +12,29 @@ classes:
   - Warlock
 school: Conjuration
 level: 5
+damage:
+  base: 3d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Self (30-foot Cube)
+somatic: true
+verbal: true
+material: a thread of black silk
+area:
+  shape: cube
+  size: 30
 aliases:
   - Dark Web of the Spider Monarch
-concentration: true
-material: a thread of black silk
 ---
 # Dark Web of the Spider Monarch
 *5th-level, Conjuration*  
@@ -44,6 +56,6 @@ A creature [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the w
 
 The webs are not flammable, but are susceptible to radiant damage. Any 5-foot cube of webs exposed to radiant damage dissipates to nothing in 1 round.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 58*

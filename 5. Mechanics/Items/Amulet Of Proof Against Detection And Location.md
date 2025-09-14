@@ -12,7 +12,7 @@ weight: 1
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous item, major, uncommon (requires attunement)*  
-![[5. Mechanics/Items/img/amulet-of-proof-against-detection-and-location.webp#right]]  
+![[/5. Mechanics/Items/img/amulet-of-proof-against-detection-and-location.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

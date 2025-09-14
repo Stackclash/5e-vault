@@ -24,8 +24,9 @@ level: 1
 ritual: false
 time: 1 Reaction
 duration: Instantaneous
-components:
-  - V
+range: 30 feet
+somatic: false
+verbal: true
 aliases:
   - Auspicious Warning
 ---
@@ -39,6 +40,8 @@ aliases:
 
 Just in time, you call out a fortunate warning to a creature within range. The target rolls a `dice:d4|noform|noparens|avg` (`d4`) and adds the number rolled to an attack roll, ability check, or saving throw that it has just made and uses the new result for determining success or failure.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Time Domain)](compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Time Domain)](/compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
 
 *Source: Deep Magic p. 258*

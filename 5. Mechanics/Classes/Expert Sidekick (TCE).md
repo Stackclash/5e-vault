@@ -137,7 +137,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *11th-level Expert feature*
 
-When the sidekick takes the [[/5. Mechanics/Rules/Actions.md#Help\|Help]] action, the creature who receives the help also gains a `dice:1d6|noform|noparens|avg` (`d6`) bonus to the `dice:d20|noform|noparens|avg` (`d20`) roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
+When the sidekick takes the [[/5. Mechanics/Rules/Actions.md#Help\|Help]] action, the creature who receives the help also gains a `dice:1d6|noform|noparens|avg` (`1d6`) bonus to the `dice:d20|noform|noparens|avg` (`d20`) roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
 
 At 20th level, the bonus increases to `dice:2d6|noform|noparens|avg` (`2d6`).
 

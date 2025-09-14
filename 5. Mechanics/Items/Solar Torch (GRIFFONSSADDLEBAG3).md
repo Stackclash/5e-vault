@@ -19,6 +19,6 @@ While holding this rod, you can use a bonus action to cause a Tiny sun to float 
 
 ## Sunburst
 
-While holding the rod, you can use an action to cast the [[5. Mechanics/Spells/Sunburst.md\|sunburst]] spell from it (save DC 16), centered on you. You take no damage from the spell when cast in this way, but are still [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] if you fail the saving throw. Each time the rod is used to cast this spell, there is a 50 percent chance that the rod loses this property. When that happens, the rod no longer requires you to be attuned to it in order to use its properties.
+While holding the rod, you can use an action to cast the [[/5. Mechanics/Spells/Sunburst.md\|sunburst]] spell from it (save DC 16), centered on you. You take no damage from the spell when cast in this way, but are still [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] if you fail the saving throw. Each time the rod is used to cast this spell, there is a 50 percent chance that the rod loses this property. When that happens, the rod no longer requires you to be attuned to it in order to use its properties.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

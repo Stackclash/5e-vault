@@ -54,16 +54,16 @@ The Lust domain concerns itself with desire, sex, and awakening passion in other
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Charm Person.md\|charm person]], [[5. Mechanics/Spells/Command.md\|command]] |
-| 3rd | [[5. Mechanics/Spells/Alter Self.md\|alter self]], [[5. Mechanics/Spells/Suggestion.md\|suggestion]] |
-| 5th | [[5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]], [[5. Mechanics/Spells/Throes Of Ecstasy (KPDM).md\|throes of ecstasy]] |
-| 7th | [[5. Mechanics/Spells/Compulsion.md\|compulsion]], [[5. Mechanics/Spells/Lovesick (KPDM).md\|lovesick]] |
-| 9th | [[5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[5. Mechanics/Spells/Kiss Of The Succubus (KPDM).md\|kiss of the succubus]] |
+| 1st | [[/5. Mechanics/Spells/Charm Person.md\|charm person]], [[/5. Mechanics/Spells/Command.md\|command]] |
+| 3rd | [[/5. Mechanics/Spells/Alter Self.md\|alter self]], [[/5. Mechanics/Spells/Suggestion.md\|suggestion]] |
+| 5th | [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]], [[/5. Mechanics/Spells/Throes Of Ecstasy (KPDM).md\|throes of ecstasy]] |
+| 7th | [[/5. Mechanics/Spells/Compulsion.md\|compulsion]], [[/5. Mechanics/Spells/Lovesick (KPDM).md\|lovesick]] |
+| 9th | [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[/5. Mechanics/Spells/Kiss Of The Succubus (KPDM).md\|kiss of the succubus]] |
 ^lust-domain-spells
 
 ### Gifts of Lust (Level 1)
 
-A Cleric who adopts the Lust domain learns the [[5. Mechanics/Spells/Message.md\|message]] cantrip. They also gain proficiency in one of the following skills: [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]], [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]], or [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]].
+A Cleric who adopts the Lust domain learns the [[/5. Mechanics/Spells/Message.md\|message]] cantrip. They also gain proficiency in one of the following skills: [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]], [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]], or [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]].
 
 ### Channel Divinity: Lustful Distraction (Level 2)
 
@@ -75,7 +75,7 @@ A Cleric of the Lust domain of 6th level of higher can keep the targets of a Lus
 
 ### Divine Strike (Level 8)
 
-A Cleric of the Lust domain of 8th level or higher has the ability to infuse his or her weapon strikes with divine energy. Once on each of the cleric's turns, when hitting a creature with a weapon attack, the Cleric can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) psychic damage to the target. For a Cleric of 14th level or higher, the extra psychic damage is `dice:2d8|noform|noparens|avg` (`2d8`).
+A Cleric of the Lust domain of 8th level or higher has the ability to infuse his or her weapon strikes with divine energy. Once on each of the cleric's turns, when hitting a creature with a weapon attack, the Cleric can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) psychic damage to the target. For a Cleric of 14th level or higher, the extra psychic damage is `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Master of Seduction (Level 17)
 

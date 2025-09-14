@@ -59,11 +59,11 @@ You gain oathbreaker spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]], [[5. Mechanics/Spells/Inflict Wounds.md\|inflict wounds]] |
-| 5th | [[5. Mechanics/Spells/Crown Of Madness.md\|crown of madness]], [[5. Mechanics/Spells/Darkness.md\|darkness]] |
-| 9th | [[5. Mechanics/Spells/Animate Dead.md\|animate dead]], [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] |
-| 13th | [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Confusion.md\|confusion]] |
-| 17th | [[5. Mechanics/Spells/Contagion.md\|contagion]], [[5. Mechanics/Spells/Dominate Person.md\|dominate person]] |
+| 3rd | [[/5. Mechanics/Spells/Hellish Rebuke.md\|hellish rebuke]], [[/5. Mechanics/Spells/Inflict Wounds.md\|inflict wounds]] |
+| 5th | [[/5. Mechanics/Spells/Crown Of Madness.md\|crown of madness]], [[/5. Mechanics/Spells/Darkness.md\|darkness]] |
+| 9th | [[/5. Mechanics/Spells/Animate Dead.md\|animate dead]], [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] |
+| 13th | [[/5. Mechanics/Spells/Blight.md\|blight]], [[/5. Mechanics/Spells/Confusion.md\|confusion]] |
+| 17th | [[/5. Mechanics/Spells/Contagion.md\|contagion]], [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]] |
 ^oathbreaker-spells
 
 ### Channel Divinity (Level 3)

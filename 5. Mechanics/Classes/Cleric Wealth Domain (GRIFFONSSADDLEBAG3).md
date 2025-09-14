@@ -54,11 +54,11 @@ The Wealth domain is a divine path followed by those who worship gods of riches,
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Identify.md\|identify]], [[5. Mechanics/Spells/Unseen Servant.md\|unseen servant]] |
-| 3rd | [[5. Mechanics/Spells/Knock.md\|knock]], [[5. Mechanics/Spells/Locate Object.md\|locate object]] |
-| 5th | [[5. Mechanics/Spells/Nondetection.md\|nondetection]], [[5. Mechanics/Spells/Tongues.md\|tongues]] |
-| 7th | [[5. Mechanics/Spells/Fabricate.md\|fabricate]], [[5. Mechanics/Spells/Leomunds Secret Chest.md\|secret chest]] |
-| 9th | [[5. Mechanics/Spells/Mislead.md\|mislead]], [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] |
+| 1st | [[/5. Mechanics/Spells/Identify.md\|identify]], [[/5. Mechanics/Spells/Unseen Servant.md\|unseen servant]] |
+| 3rd | [[/5. Mechanics/Spells/Knock.md\|knock]], [[/5. Mechanics/Spells/Locate Object.md\|locate object]] |
+| 5th | [[/5. Mechanics/Spells/Nondetection.md\|nondetection]], [[/5. Mechanics/Spells/Tongues.md\|tongues]] |
+| 7th | [[/5. Mechanics/Spells/Fabricate.md\|fabricate]], [[/5. Mechanics/Spells/Leomunds Secret Chest.md\|secret chest]] |
+| 9th | [[/5. Mechanics/Spells/Mislead.md\|mislead]], [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] |
 ^wealth-domain-spells
 
 ### Dimensional Treasury (Level 1)
@@ -127,7 +127,7 @@ When you make a saving throw, you can spend a number of wealth points up to your
 
 You can use an action to spend 1 or more wealth points to purchase one item, as if by your Golden Cauldron Channel Divinity; 1 wealth point is equal to 500 gp. Any item purchased with wealth points in this way appears in your open hand or at your feet (your choice). It is golden, obviously magical, and disappears after 1 hour. An item immediately corrodes and turns to dust if you attempt to use it as a material component for a spell or if you attempt to sell or otherwise trade it.
 
-Alternatively, you can spend 3 wealth points to create a special gilded chest in the nearest unoccupied space within 5 feet of you. The chest is 3 feet long, 2 feet wide, and 2 feet tall. It is magically weightless and can be used in place of the normal material components for the [[5. Mechanics/Spells/Leomunds Secret Chest.md\|secret chest]] spell. When you cast the spell using this special chest, it does not require you to have a Tiny replica of it. Instead, to recall the chest or send it back to the Ethereal Plane after casting the spell, you must use an action to spend 1 wealth point, in place of using the replica. The gilded chest disappears from the Material Plane if you are ever more than 30 feet away from it, ending the spell early and dropping its contents on the ground.
+Alternatively, you can spend 3 wealth points to create a special gilded chest in the nearest unoccupied space within 5 feet of you. The chest is 3 feet long, 2 feet wide, and 2 feet tall. It is magically weightless and can be used in place of the normal material components for the [[/5. Mechanics/Spells/Leomunds Secret Chest.md\|secret chest]] spell. When you cast the spell using this special chest, it does not require you to have a Tiny replica of it. Instead, to recall the chest or send it back to the Ethereal Plane after casting the spell, you must use an action to spend 1 wealth point, in place of using the replica. The gilded chest disappears from the Material Plane if you are ever more than 30 feet away from it, ending the spell early and dropping its contents on the ground.
 
 ### Potent Spellcasting (Level 8)
 

@@ -13,7 +13,7 @@ one-hand-damage: 1d8 piercing
 weight: 2
 ---
 # Silver Star Cane
-*Weapon ([[5. Mechanics/Items/Rapier.md\|rapier]]), minor, common*  
+*Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Silver-Star-Cane.webp#right)  
 
 - **Damage**: 1d8 piercing

@@ -38,17 +38,15 @@ level: 1
 ritual: true
 time: 1 minute
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: a tiny bell and a piece of fine silver wire
+area:
+  shape: cube
+  size: 20
 aliases:
   - Alarm
-range: 30 feet
-material: A tiny bell and a piece of fine silver wire.
-area:
-  type: cube
-  size: 20
 ---
 # Alarm
 *1st-level, Abjuration (ritual)*  
@@ -64,6 +62,8 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 
 An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
 
-**Classes**: [Paladin (Oath of the Watchers)](compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Sorcerer (Clockwork Soul)](compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Labyrinth Domain)](compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Warlock (The Sibyl)](compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](/compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Labyrinth Domain)](/compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Watchers)](/compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Clockwork Soul)](/compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Warlock (The Sibyl)](/compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Ritual Caster.md\|Ritual Caster]]
 
 *Source: Player's Handbook p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

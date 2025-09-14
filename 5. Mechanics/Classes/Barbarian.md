@@ -52,16 +52,16 @@ aliases:
 ## Starting Barbarian
 
 - **Saving Throws**: Constitution, Strength
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple weapons, martial weapons
 - **Tools**: none
 - **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]], [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]], [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]], and [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [[5. Mechanics/Items/Greataxe.md\|greataxe]] or (b) any martial melee weapon
-- (a) two [[5. Mechanics/Items/Handaxe.md\|handaxes]] or (b) any simple weapon
-- An [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]], and four [[5. Mechanics/Items/Javelin.md\|javelins]]
+- (a) a [[/5. Mechanics/Items/Greataxe.md\|greataxe]] or (b) any martial melee weapon
+- (a) two [[/5. Mechanics/Items/Handaxe.md\|handaxes]] or (b) any simple weapon
+- An [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]], and four [[/5. Mechanics/Items/Javelin.md\|javelins]]
 
 Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
@@ -71,7 +71,7 @@ Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [[5. Mechanics/Items/Shield.md\|shields]]
+- **Armor**: [[/5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple weapons, martial weapons
 
 ## Barbarian
@@ -106,7 +106,7 @@ What led you to take up the adventuring life? Were you lured to settled lands by
 
 #### Quick Build
 
-You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the [[5. Mechanics/Backgrounds/Outlander.md\|outlander]] background.
+You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the [[/5. Mechanics/Backgrounds/Outlander.md\|outlander]] background.
 
 > [!quote] A quote from Seret, archwizard  
 > 

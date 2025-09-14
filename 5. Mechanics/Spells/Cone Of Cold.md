@@ -37,24 +37,29 @@ classes:
   - Wizard
 school: Evocation
 level: 5
+damage:
+  base: 8d8
+  scaling:
+    damage: 1d8
+    level: 6
+  types:
+    - cold
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self (60-foot Cone)
+somatic: true
+verbal: true
+material: a small crystal or glass cone
+area:
+  shape: cone
+  size: 60
 aliases:
   - Cone of Cold
-range: Self
-material: A small crystal or glass cone.
-damageType: Cold
-save:
-  type: CON
-  success: half
-area:
-  type: cone
-  size: 60
 ---
 # Cone of Cold
 *5th-level, Evocation*  
@@ -68,8 +73,8 @@ A blast of cold air erupts from your hands. Each creature in a 60-foot cone must
 
 A creature killed by this spell becomes a frozen statue until it thaws.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 5th.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 5th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Warlock (The Genie)](compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Warlock (The Fathomless)](compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [Cleric (Hunger Domain)](compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [Cleric (Mountain Domain)](compendium/lists/list-spells-classes-mountain-domain-kpdm.md "subclass=KPDM"); [Artificer (Artillerist)](compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [Druid (Circle of the Eclipse)](compendium/lists/list-spells-classes-circle-of-the-eclipse-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Warlock (The Hexblade)](compendium/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE"); [Warlock (The Frozen One)](compendium/lists/list-spells-classes-the-frozen-one-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Winter Domain)](compendium/lists/list-spells-classes-winter-domain-kpdm.md "subclass=KPDM")
+**Classes**: [Artificer (Artillerist)](/compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Hunger Domain)](/compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [Cleric (Mountain Domain)](/compendium/lists/list-spells-classes-mountain-domain-kpdm.md "subclass=KPDM"); [Cleric (Winter Domain)](/compendium/lists/list-spells-classes-winter-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of the Eclipse)](/compendium/lists/list-spells-classes-circle-of-the-eclipse-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Fathomless)](/compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [Warlock (The Frozen One)](/compendium/lists/list-spells-classes-the-frozen-one-kpdm.md "subclass=KPDM"); [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Warlock (The Hexblade)](/compendium/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 224. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

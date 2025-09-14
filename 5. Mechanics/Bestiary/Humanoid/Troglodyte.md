@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: underdark
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Troglodyte
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Troglodyte.md|Troglodyte]]
+# [[5. Mechanics/Bestiary/Humanoid/Troglodyte.md|Troglodyte]]
 *Source: Monster Manual p. 290*
 
 The savage, degenerate troglodytes squat in the shallow depths of the Underdark in a constant state of war against their neighbors and one another. They mark the borders of their territories with cracked bones and skulls, or with pictographs painted in blood or dung.
@@ -33,7 +33,7 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 
 > [!quote] A quote from Last words of Arlack Hammermantle, dwarf spelunker  
 > 
-> Smells liek an orc's loincloth in here!
+> Smells like an orc's loincloth in here!
 
 
 ```statblock
@@ -58,7 +58,8 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Troglodyte"
 "cr": "1/4"
 "traits":
@@ -79,15 +80,15 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
   - "desc": "The troglodyte makes three attacks: one with its bite and two with its\
       \ claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) slashing damage."
     "name": "Claw"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/troglodyte.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/troglodyte.webp"
 ```
 ^statblock
 

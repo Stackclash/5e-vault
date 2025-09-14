@@ -54,11 +54,11 @@ Darkness enshrouds our private affairs and shelters our secrets. The shadows may
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Shadow Armor (KPDM).md\|shadow armor]], [[5. Mechanics/Spells/Sleep.md\|sleep]] |
-| 3rd | [[5. Mechanics/Spells/Darkness.md\|darkness]], [[5. Mechanics/Spells/Dark Path (KPDM).md\|dark path]] |
-| 5th | [[5. Mechanics/Spells/Legion (KPDM).md\|legion]], [[5. Mechanics/Spells/Nondetection.md\|nondetection]] |
-| 7th | [[5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]], [[5. Mechanics/Spells/Shadow Monsters (KPDM).md\|shadow monsters]] |
-| 9th | [[5. Mechanics/Spells/Dark Dementing (KPDM).md\|dark dementing]], [[5. Mechanics/Spells/Mislead.md\|mislead]] |
+| 1st | [[/5. Mechanics/Spells/Shadow Armor (KPDM).md\|shadow armor]], [[/5. Mechanics/Spells/Sleep.md\|sleep]] |
+| 3rd | [[/5. Mechanics/Spells/Darkness.md\|darkness]], [[/5. Mechanics/Spells/Dark Path (KPDM).md\|dark path]] |
+| 5th | [[/5. Mechanics/Spells/Legion (KPDM).md\|legion]], [[/5. Mechanics/Spells/Nondetection.md\|nondetection]] |
+| 7th | [[/5. Mechanics/Spells/Phantasmal Killer.md\|phantasmal killer]], [[/5. Mechanics/Spells/Shadow Monsters (KPDM).md\|shadow monsters]] |
+| 9th | [[/5. Mechanics/Spells/Dark Dementing (KPDM).md\|dark dementing]], [[/5. Mechanics/Spells/Mislead.md\|mislead]] |
 ^darkness-domain-spells
 
 ### Creature of Darkness (Level 1)
@@ -71,11 +71,11 @@ Starting at 2nd level, you can use your Channel Divinity to gain [[/5. Mechanics
 
 ### Shadow Meld (Level 6)
 
-Beginning at 6th level, you can use your Channel Divinity to merge your current location with the version of it that exists on the plane of shadow. The affected area is a sphere with a 60-foot radius centered on you. Within that area, bright light becomes dim light, dim light becomes darkness, and darkness becomes equivalent to magical darkness. The temperature plummets; all creatures other than you in the darkened sphere at the end of their turns must make a successful Constitution saving throw or take `dice:1d8|noform|noparens|avg` (`d8`) cold damage. The sphere lasts for 1 minute or until you dismiss it as a bonus action. There's a chance, if the GM allows, that `dice:2d4|noform|noparens|avg` (`2d4`) [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] might step through into your world when the effect ends. Such creatures might or might not be hostile.
+Beginning at 6th level, you can use your Channel Divinity to merge your current location with the version of it that exists on the plane of shadow. The affected area is a sphere with a 60-foot radius centered on you. Within that area, bright light becomes dim light, dim light becomes darkness, and darkness becomes equivalent to magical darkness. The temperature plummets; all creatures other than you in the darkened sphere at the end of their turns must make a successful Constitution saving throw or take `dice:1d8|noform|noparens|avg` (`1d8`) cold damage. The sphere lasts for 1 minute or until you dismiss it as a bonus action. There's a chance, if the GM allows, that `dice:2d4|noform|noparens|avg` (`2d4`) [[/5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] might step through into your world when the effect ends. Such creatures might or might not be hostile.
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) necrotic damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) necrotic damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Shadow Shield (Level 17)
 

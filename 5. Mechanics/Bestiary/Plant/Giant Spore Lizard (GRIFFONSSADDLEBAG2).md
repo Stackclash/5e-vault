@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Spore Lizard
 ---
-# [[5. Mechanics\Bestiary\Plant\Giant Spore Lizard (GRIFFONSSADDLEBAG2).md|Giant Spore Lizard]]
+# [[5. Mechanics/Bestiary/Plant/Giant Spore Lizard (GRIFFONSSADDLEBAG2).md|Giant Spore Lizard]]
 *Source: The Griffon's Saddlebag, Book 2*
 
 Another major consequence of Antronec's sewer network was that it provided a wonderfully damp environment for the giant spore lizards to move in and claim. A strange creature, it possesses the ability to magically transport itself between instances of flora and biota, for instance from a mushroom to a bush. They also possess hazardous spores, which they utilize as a defensive system against attackers. With these elements and a ferocious dedication to protecting its perceived territory, to underestimate a giant spore lizard is to court death.
@@ -41,7 +41,8 @@ Another major consequence of Antronec's sewer network was that it provided a won
     "desc": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 30 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 30 ft., passive Perception\
+  \ 12"
 "languages": ""
 "cr": "1"
 "traits":
@@ -61,7 +62,7 @@ Another major consequence of Antronec's sewer network was that it provided a won
       \ checks made to hide in flora."
     "name": "Organic Camouflage"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) piercing damage."
     "name": "Bite"
 "reactions":

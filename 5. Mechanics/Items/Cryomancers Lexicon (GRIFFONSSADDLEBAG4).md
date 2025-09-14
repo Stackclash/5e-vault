@@ -13,7 +13,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Cryomancers-Lexicon.webp#right)  
 
 
-This thick book is bound with white leather and is freezing cold to the touch. This book can be used as a spellbook and contains the following spells, which are wizard spells for you while you're attuned to the book: [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[5. Mechanics/Spells/Otilukes Freezing Sphere.md\|freezing sphere]], [[5. Mechanics/Spells/Ice Storm.md\|ice storm]], [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (cold damage only), [[5. Mechanics/Spells/Sleet Storm.md\|sleet storm]], and [[5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]].
+This thick book is bound with white leather and is freezing cold to the touch. This book can be used as a spellbook and contains the following spells, which are wizard spells for you while you're attuned to the book: [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[/5. Mechanics/Spells/Otilukes Freezing Sphere.md\|freezing sphere]], [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (cold damage only), [[/5. Mechanics/Spells/Sleet Storm.md\|sleet storm]], and [[/5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]].
 
 The book also has 7 charges. It regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. While the book is on your person, you can expend 1 or more of its charges for use with the following properties:
 

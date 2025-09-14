@@ -18,21 +18,19 @@ classes:
   - Wizard
 school: Transmutation
 level: 6
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+material: 'a pinch of lime, water, and earth'
 aliases:
   - Flesh to Stone
-range: 60 feet
-material: 'A pinch of lime, water, and earth.'
-save:
-  type: CON
-  success: none
-concentration: true
 ---
 # Flesh to Stone
 *6th-level, Transmutation*  
@@ -50,6 +48,6 @@ If the creature is physically broken while [[/5. Mechanics/Rules/Conditions.md#P
 
 If you maintain your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] on this spell for the entire possible duration, the creature is turned to stone until the effect is removed.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

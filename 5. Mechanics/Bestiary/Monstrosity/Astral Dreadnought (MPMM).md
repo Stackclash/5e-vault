@@ -13,7 +13,7 @@ tags:
 aliases:
   - Astral Dreadnought
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Astral Dreadnought (MPMM).md|Astral Dreadnought]]
+# [[5. Mechanics/Bestiary/Monstrosity/Astral Dreadnought (MPMM).md|Astral Dreadnought]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51, Mordenkainen's Tome of Foes p. 117, Vecna: Eve of Ruin*
 
 Enormous and terrifying, astral dreadnoughts haunt the silvery void of the Astral Plane, causing planar travelers to shudder at the very thought of them. Dreadnoughts have been gliding through the astral mists since the dawn of the multiverse, trying to devour all other creatures they encounter.
@@ -40,8 +40,8 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
   - !!int "18"
 "speed": "15 ft., fly 80 ft. (hover)"
 "saves":
-  - "dexterity": "+5"
-  - "wisdom": "+9"
+  - "dexterity": !!int "5"
+  - "wisdom": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+9"
@@ -50,11 +50,12 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "darkvision 120 ft., passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 19"
 "languages": ""
 "cr": "21"
 "traits":
-  - "desc": "The dreadnought's eye creates an area of antimagic, as in the [[5. Mechanics/Spells/Antimagic Field.md|antimagic\
+  - "desc": "The dreadnought's eye creates an area of antimagic, as in the [[/5. Mechanics/Spells/Antimagic Field.md|antimagic\
       \ field]] spell, in a 150-foot cone. At\
       \ the start of each of its turns, it decides which way the cone faces. The cone\
       \ doesn't function while the eye is closed or while the dreadnought is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]."
@@ -63,9 +64,9 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
       \ or otherwise transported out of that plane."
     "name": "Astral Entity"
   - "desc": "Anything the dreadnought swallows is transported to a demiplane that\
-      \ can be entered by no other means except a [[5. Mechanics/Spells/Wish.md|wish]]\
+      \ can be entered by no other means except a [[/5. Mechanics/Spells/Wish.md|wish]]\
       \ spell or the dreadnought's Bite and Donjon Visit. A creature can leave the\
-      \ demiplane only by using magic that enables planar travel, such as the [[5. Mechanics/Spells/Plane Shift.md|plane\
+      \ demiplane only by using magic that enables planar travel, such as the [[/5. Mechanics/Spells/Plane Shift.md|plane\
       \ shift]] spell. The demiplane resembles a\
       \ stone cave roughly 1,000 feet in diameter with a ceiling 100 feet high. Like\
       \ a stomach, it contains the remains of past meals. The dreadnought can't be\
@@ -76,7 +77,7 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
   - "desc": "If the dreadnought fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
   - "desc": "If the dreadnought scores a critical hit against a creature traveling\
-      \ by means of the [[5. Mechanics/Spells/Astral Projection.md|astral projection]]\
+      \ by means of the [[/5. Mechanics/Spells/Astral Projection.md|astral projection]]\
       \ spell, the dreadnought can cut the target's silver cord instead of dealing\
       \ damage."
     "name": "Sever Silver Cord"
@@ -85,16 +86,19 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 "actions":
   - "desc": "The dreadnought makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 36\
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 36\
       \ (5d10 + 9) force damage. If the target is a Huge or smaller creature and this\
       \ damage reduces it to 0 hit points or it is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]],\
       \ the dreadnought swallows it. The swallowed target, along with everything it\
       \ is wearing and carrying, appears in an unoccupied space on the floor of the\
       \ Demiplanar Donjon."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 19\
       \ (3d6 + 9) force damage."
     "name": "Claw"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the astral dreadnought can expend a use to take one of the following actions.\
+  \ The astral dreadnought regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The dreadnought makes one Claw attack."
     "name": "Claw"
@@ -112,7 +116,7 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
   - "MPMM"
   - "MTF"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/astral-dreadnought-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/astral-dreadnought-mpmm.webp"
 ```
 ^statblock
 

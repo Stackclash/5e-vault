@@ -13,7 +13,7 @@ tags:
 aliases:
   - Boneless
 ---
-# [[5. Mechanics\Bestiary\Undead\Boneless (VRGR).md|Boneless]]
+# [[5. Mechanics/Bestiary/Undead/Boneless (VRGR).md|Boneless]]
 *Source: Van Richten's Guide to Ravenloft p. 228*
 
 Not all animate corpses shamble from their graves. Boneless are undead remains devoid of skeletons. Most rise from the bodies of those who've suffered brutal ends, such as deliberate skinning or crushing. Deathless malice infuses what remains, their husks flopping and slithering in pursuit of vengeance or at the whims of sinister masters. Slipping through cracks and under doors, these stealthy undead seek to adorn living frames once more, wrapping themselves around their victims and wringing them to death in their full-body grip.
@@ -45,7 +45,8 @@ Whether through accident or depraved genius, some villains use one corpse to cre
 "damage_resistances": "bludgeoning, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "1"
 "traits":
@@ -60,7 +61,7 @@ Whether through accident or depraved genius, some villains use one corpse to cre
       \ creature, the creature is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 13), and the boneless can use Crushing Embrace."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
       \ + 3) bludgeoning damage."
     "name": "Slam"
   - "desc": "The boneless wraps its body around a Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
@@ -76,7 +77,7 @@ Whether through accident or depraved genius, some villains use one corpse to cre
     "name": "Crushing Embrace"
 "source":
   - "VRGR"
-"image": "5. Mechanics/Bestiary/Undead/token/boneless-vrgr.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/boneless-vrgr.webp"
 ```
 ^statblock
 

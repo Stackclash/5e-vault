@@ -30,20 +30,19 @@ classes:
   - Wizard
 school: Enchantment
 level: 2
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 8 hours
-components:
-  - V
-  - M
+duration: 'Concentration, up to 8 hours'
+range: 30 feet
+somatic: false
+verbal: true
+material: a snake's tongue and either a bit of honeycomb or a drop of sweet oil
 aliases:
   - Suggestion
-range: 30 feet
-material: A snake's tongue and either a bit of honeycomb or a drop of sweet oil.
-save:
-  type: WIS
-  success: none
-concentration: true
 ---
 # Suggestion
 *2nd-level, Enchantment*  
@@ -61,6 +60,6 @@ You can also specify conditions that will trigger a special activity during the 
 
 If you or any of your companions damage the target, the spell ends.
 
-**Classes**: [Druid (Circle of Roses)](compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Hunger Domain)](compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [Cleric (Lust Domain)](compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Hunger Domain)](/compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [Cleric (Lust Domain)](/compendium/lists/list-spells-classes-lust-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of Roses)](/compendium/lists/list-spells-classes-circle-of-roses-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

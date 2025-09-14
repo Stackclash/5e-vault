@@ -13,12 +13,12 @@ tags:
 aliases:
   - Safire Hag
 ---
-# [[5. Mechanics\Bestiary\Fey\Safire Hag (GRIFFONSSADDLEBAG3).md|Safire Hag]]
+# [[5. Mechanics/Bestiary/Fey/Safire Hag (GRIFFONSSADDLEBAG3).md|Safire Hag]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
-The vile hags that call this forest home are excellent reflections of it's deadly allure. With skillful illusions and superb control over plants, these witches work individually and in covens to exert influence over the region. They thrive by harvesting the wood's plentiful herbs for their craft, but have a special affinity for the acidic mucus produced by their domesticated [[5. Mechanics/Bestiary/Monstrosity/Spider Newt (GRIFFONSSADDLEBAG3).md|spider-newt]] mounts.
+The vile hags that call this forest home are excellent reflections of it's deadly allure. With skillful illusions and superb control over plants, these witches work individually and in covens to exert influence over the region. They thrive by harvesting the wood's plentiful herbs for their craft, but have a special affinity for the acidic mucus produced by their domesticated [[/5. Mechanics/Bestiary/Monstrosity/Spider Newt (GRIFFONSSADDLEBAG3).md|spider-newt]] mounts.
 
-Although their true forms reflect their sickly, vile nature, they present to the world façades that can range from kindly medicine women to endangered maidens. From their huts in the Safire Wood, these powerful fey sway public opinion against the [[5. Mechanics/Bestiary/Humanoid/Hedge Mage (GRIFFONSSADDLEBAG3).md|hedge mages]] with propaganda to prop up their own image.
+Although their true forms reflect their sickly, vile nature, they present to the world façades that can range from kindly medicine women to endangered maidens. From their huts in the Safire Wood, these powerful fey sway public opinion against the [[/5. Mechanics/Bestiary/Humanoid/Hedge Mage (GRIFFONSSADDLEBAG3).md|hedge mages]] with propaganda to prop up their own image.
 
 ```statblock
 "name": "Safire Hag (GRIFFONSSADDLEBAG3)"
@@ -39,7 +39,7 @@ Although their true forms reflect their sickly, vile nature, they present to the
   - !!int "17"
 "speed": "30 ft."
 "saves":
-  - "wisdom": "+4"
+  - "wisdom": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+5"
@@ -50,16 +50,17 @@ Although their true forms reflect their sickly, vile nature, they present to the
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
 "damage_resistances": "poison"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": "Common, Elvish, Sylvan"
 "cr": "4"
 "traits":
   - "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 13).\
       \ She can innately cast the following spells, requiring no material components:\n\
-      \nAt will: [[5. Mechanics/Spells/Barkskin.md|barkskin]], [[5. Mechanics/Spells/Entangle.md|entangle]],\
-      \ [[5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[5. Mechanics/Spells/Poison Spray.md|poison spray]]\
-      \ (as a 5th-level spellcaster)\n\n3/day: [[5. Mechanics/Spells/Speak With Plants.md|speak with plants]],\
-      \ [[5. Mechanics/Spells/Spike Growth.md|spike growth]]"
+      \n**At will:** [[/5. Mechanics/Spells/Barkskin.md|barkskin]], [[/5. Mechanics/Spells/Entangle.md|entangle]],\
+      \ [[/5. Mechanics/Spells/Minor Illusion.md|minor illusion]], [[/5. Mechanics/Spells/Poison Spray.md|poison spray]]\
+      \ (as a 5th-level spellcaster)\n\n**3/day:** [[/5. Mechanics/Spells/Speak With Plants.md|speak with plants]],\
+      \ [[/5. Mechanics/Spells/Spike Growth.md|spike growth]]"
     "name": "Innate Spellcasting"
   - "desc": "While the hag remains motionless and her Illusory Appearance isn't active,\
       \ she is nearly indistinguishable from an ordinary, partially decayed tree.\
@@ -69,8 +70,8 @@ Although their true forms reflect their sickly, vile nature, they present to the
     "name": "Arborous Appearance"
 "actions":
   - "desc": "The hag makes two attacks with her claws. Fetid Claws. Melee Weapon Attack:\
-      \ +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus\
-      \ 4 (d8) necrotic damage."
+      \ +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage plus\
+      \ 4 (1d8) necrotic damage."
     "name": "Multiattack"
   - "desc": "The hag magically animates a Large or larger tree she touches, corrupting\
       \ it. The tree has the same statistics as a safire treant, except it has half\

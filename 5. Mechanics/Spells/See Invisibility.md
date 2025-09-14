@@ -35,14 +35,12 @@ level: 2
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: a pinch of talc and a small sprinkling of powdered silver
 aliases:
   - See Invisibility
-range: Self
-material: A dash of talc and a small amount of silver powder.
 ---
 # See Invisibility
 *2nd-level, Divination*  
@@ -54,6 +52,6 @@ material: A dash of talc and a small amount of silver powder.
 
 For the duration, you see [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-**Classes**: [Paladin (Oath of the Watchers)](compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Justice Domain)](compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Twilight Domain)](compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Paladin (Oath of the Watchtower)](compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Prophecy Domain)](compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Warlock (The Many)](compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Justice Domain)](/compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [Cleric (Prophecy Domain)](/compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [Cleric (Twilight Domain)](/compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Watchers)](/compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Many)](/compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

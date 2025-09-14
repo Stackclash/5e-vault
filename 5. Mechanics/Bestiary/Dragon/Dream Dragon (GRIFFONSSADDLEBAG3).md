@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dream Dragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Dream Dragon (GRIFFONSSADDLEBAG3).md|Dream Dragon]]
+# [[5. Mechanics/Bestiary/Dragon/Dream Dragon (GRIFFONSSADDLEBAG3).md|Dream Dragon]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Dream dragons lord over their lairs in The Grephearon's Dream Gallery, enjoying the unique magics that radiate off of their collected gallery paintings. They magically turn invisible when exploring the gallery's labyrinth in search of new treasures, interesting dreams, or visiting humanoids. When within a dream, a dragon attempts to devour other outsider creatures—those not belonging to the dream. To the dragon, these morsels, while not truly necessary for their survival, are nevertheless a delicious treat.
@@ -37,10 +37,10 @@ Dream dragons lord over their lairs in The Grephearon's Dream Gallery, enjoying 
   - !!int "16"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  - "dexterity": "+10"
-  - "constitution": "+9"
-  - "intelligence": "+11"
-  - "wisdom": "+7"
+  - "dexterity": !!int "10"
+  - "constitution": !!int "9"
+  - "intelligence": !!int "11"
+  - "wisdom": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]]"
     "desc": "+11"
@@ -49,7 +49,8 @@ Dream dragons lord over their lairs in The Grephearon's Dream Gallery, enjoying 
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+10"
 "damage_resistances": "poison, psychic"
-"senses": "truesight 120 ft., passive Perception 22"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 22"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "15"
 "traits":
@@ -63,13 +64,13 @@ Dream dragons lord over their lairs in The Grephearon's Dream Gallery, enjoying 
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 16\
       \ (2d10 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage."
     "name": "Claw"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:* 14\
       \ (2d8 + 5) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
@@ -105,6 +106,9 @@ Dream dragons lord over their lairs in The Grephearon's Dream Gallery, enjoying 
       \ on a spell). Any equipment the dragon wears or carries is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\
       \ with it."
     "name": "Invisibility"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the dream dragon can expend a use to take one of the following actions.\
+  \ The dream dragon regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The dragon makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
       \ check."

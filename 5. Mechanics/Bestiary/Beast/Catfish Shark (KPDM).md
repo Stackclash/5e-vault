@@ -13,7 +13,7 @@ tags:
 aliases:
   - Catfish Shark
 ---
-# [[5. Mechanics\Bestiary\Beast\Catfish Shark (KPDM).md|Catfish Shark]]
+# [[5. Mechanics/Bestiary/Beast/Catfish Shark (KPDM).md|Catfish Shark]]
 *Source: Deep Magic p. 292*
 
 The catfish shark lives in deep water. Most species are less than 1 foot long and range from pale orange to silvery white in color. Some are also bioluminescent. The catfish shark is an ideal familiar for a spellcaster who operates underwater.
@@ -38,7 +38,8 @@ The catfish shark lives in deep water. Most species are less than 1 foot long an
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
-"senses": "darkvision 90 ft., passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 90 ft., passive Perception\
+  \ 9"
 "languages": ""
 "cr": "0"
 "traits":
@@ -48,7 +49,7 @@ The catfish shark lives in deep water. Most species are less than 1 foot long an
   - "desc": "The catfish shark can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing\
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage."
     "name": "Bite"
 "source":

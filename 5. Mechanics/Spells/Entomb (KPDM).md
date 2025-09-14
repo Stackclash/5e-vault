@@ -16,16 +16,22 @@ classes:
   - Wizard
 school: Transmutation
 level: 6
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: 90 feet
+somatic: true
+verbal: true
+material: a chip of granite
+area:
+  shape: cube
+  size: 10
 aliases:
   - Entomb
-material: a chip of granite
 ---
 # Entomb
 *6th-level, Transmutation*  
@@ -39,6 +45,6 @@ You cause slabs of rock to burst out of the ground or other stone surface to for
 
 The tomb has AC 18 and 50 hit points. It is resistant to fire, cold, lightning, bludgeoning, and slashing damage, is immune to poison and psychic damage, and is vulnerable to thunder damage. When reduced to 0 hit points, the tomb crumbles into harmless powder.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 67*

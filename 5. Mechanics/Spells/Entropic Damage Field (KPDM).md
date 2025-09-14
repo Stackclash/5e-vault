@@ -18,17 +18,19 @@ classes:
   - Wizard
 school: Transmutation
 level: 3
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+material: a silver wire
 aliases:
   - Entropic Damage Field
-concentration: true
-material: a silver wire
 ---
 # Entropic Damage Field
 *3rd-level, Transmutation*  
@@ -40,6 +42,6 @@ material: a silver wire
 
 By twisting a length of silver wire around your finger, you tie your fate to those around you. When you take damage, that damage is divided equally between you and all creatures in range who get a failure on a Charisma saving throw. Any leftover damage that can't be divided equally is taken by you. Creatures that approach to within 60 feet of you after the spell was cast are also affected. A creature is allowed a new saving throw against this spell each time you take damage, and a successful save ends the spell's effect on that creature.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 183*

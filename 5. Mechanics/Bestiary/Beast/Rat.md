@@ -15,7 +15,7 @@ tags:
 aliases:
   - Rat
 ---
-# [[5. Mechanics\Bestiary\Beast\Rat.md|Rat]]
+# [[5. Mechanics/Bestiary/Beast/Rat.md|Rat]]
 *Source: Monster Manual p. 335. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -35,7 +35,8 @@ aliases:
   - !!int "10"
   - !!int "4"
 "speed": "20 ft."
-"senses": "darkvision 30 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 30 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "0"
 "traits":
@@ -43,12 +44,12 @@ aliases:
       \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
-  - "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing\
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/rat.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/rat.webp"
 ```
 ^statblock
 

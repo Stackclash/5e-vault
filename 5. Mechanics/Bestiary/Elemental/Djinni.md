@@ -14,7 +14,7 @@ tags:
 aliases:
   - Djinni
 ---
-# [[5. Mechanics\Bestiary\Elemental\Djinni.md|Djinni]]
+# [[5. Mechanics/Bestiary/Elemental/Djinni.md|Djinni]]
 *Source: Monster Manual p. 144, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Proud, sensuous genies from the Elemental Plane of Air, the djinn are attractive, tall, well-muscled humanoids with blue skin and dark eyes. They dress in airy, shimmering silks, designed as much for comfort as to flaunt their musculature.
@@ -86,24 +86,25 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
   - !!int "20"
 "speed": "30 ft., fly 90 ft."
 "saves":
-  - "dexterity": "+6"
-  - "wisdom": "+7"
-  - "charisma": "+9"
+  - "dexterity": !!int "6"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "9"
 "damage_immunities": "lightning, thunder"
-"senses": "darkvision 120 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 13"
 "languages": "Auran"
 "cr": "11"
 "traits":
   - "desc": "The djinni's innate spellcasting ability is Charisma (spell save DC 17,\
       \ +9 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
-      \ [[5. Mechanics/Spells/Detect Magic.md|detect magic]], [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
-      \n3/day each: [[5. Mechanics/Spells/Create Food And Water.md|create food and water]]\
-      \ (can create wine instead of water), [[5. Mechanics/Spells/Tongues.md|tongues]],\
-      \ [[5. Mechanics/Spells/Wind Wa(LK).md|wind walk]]\n\n1/day each: [[5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]\
-      \ ([[5. Mechanics/Bestiary/Elemental/Air Element(AL).md|air elemental]] only), [[5. Mechanics/Spells/Creation.md|creation]],\
-      \ [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-      \ [[5. Mechanics/Spells/Major Image.md|major image]], [[5. Mechanics/Spells/Plane Shift.md|plane shift]]"
+      \ requiring no material components:\n\n**At will:** [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]],\
+      \ [[/5. Mechanics/Spells/Detect Magic.md|detect magic]], [[/5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\
+      \n**3/day each:** [[/5. Mechanics/Spells/Create Food And Water.md|create food and water]]\
+      \ (can create wine instead of water), [[/5. Mechanics/Spells/Tongues.md|tongues]],\
+      \ [[/5. Mechanics/Spells/Wind Wa(LK).md|wind walk]]\n\n**1/day each:** [[/5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]\
+      \ ([[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md|air elemental]] only), [[/5. Mechanics/Spells/Creation.md|creation]],\
+      \ [[/5. Mechanics/Spells/Gaseous Form.md|gaseous form]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
+      \ [[/5. Mechanics/Spells/Major Image.md|major image]], [[/5. Mechanics/Spells/Plane Shift.md|plane shift]]"
     "name": "Innate Spellcasting"
   - "desc": "If the djinni dies, its body disintegrates into a warm breeze, leaving\
       \ behind only equipment the djinni was wearing or carrying."
@@ -111,8 +112,8 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "actions":
   - "desc": "The djinni makes three scimitar attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12\
-      \ (2d6 + 5) slashing damage plus 3 (d6) lightning or thunder damage (djinni's\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12\
+      \ (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's\
       \ choice)."
     "name": "Scimitar"
   - "desc": "A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms\
@@ -132,7 +133,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Elemental/token/djinni.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/djinni.webp"
 ```
 ^statblock
 

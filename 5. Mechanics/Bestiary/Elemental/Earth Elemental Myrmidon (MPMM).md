@@ -13,7 +13,7 @@ tags:
 aliases:
   - Earth Elemental Myrmidon
 ---
-# [[5. Mechanics\Bestiary\Elemental\Earth Elemental Myrmidon (MPMM).md|Earth Elemental Myrmidon]]
+# [[5. Mechanics/Bestiary/Elemental/Earth Elemental Myrmidon (MPMM).md|Earth Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*
 
 ## Elemental Myrmidons
@@ -26,7 +26,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate]]"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
 "modifier": !!int "0"
@@ -42,13 +42,14 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Terran, one language of its creator's choice"
 "cr": "7"
 "actions":
   - "desc": "The myrmidon makes two Maul attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) force damage."
     "name": "Maul"
   - "desc": "The myrmidon makes one Maul attack. On a hit, the target takes an extra\
@@ -58,7 +59,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Elemental/token/earth-elemental-myrmidon-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/earth-elemental-myrmidon-mpmm.webp"
 ```
 ^statblock
 

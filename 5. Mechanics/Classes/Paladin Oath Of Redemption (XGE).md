@@ -87,11 +87,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]], [[5. Mechanics/Spells/Sleep.md\|sleep]] |
-| 5th | [[5. Mechanics/Spells/Calm Emotions.md\|calm emotions]], [[5. Mechanics/Spells/Hold Person.md\|hold person]] |
-| 9th | [[5. Mechanics/Spells/Counterspell.md\|counterspell]], [[5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]] |
-| 13th | [[5. Mechanics/Spells/Otilukes Resilient Sphere.md\|Otiluke's resilient sphere]], [[5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
-| 17th | [[5. Mechanics/Spells/Hold Monster.md\|hold monster]], [[5. Mechanics/Spells/Wall Of Force.md\|wall of force]] |
+| 3rd | [[/5. Mechanics/Spells/Sanctuary.md\|sanctuary]], [[/5. Mechanics/Spells/Sleep.md\|sleep]] |
+| 5th | [[/5. Mechanics/Spells/Calm Emotions.md\|calm emotions]], [[/5. Mechanics/Spells/Hold Person.md\|hold person]] |
+| 9th | [[/5. Mechanics/Spells/Counterspell.md\|counterspell]], [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]] |
+| 13th | [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md\|Otiluke's resilient sphere]], [[/5. Mechanics/Spells/Stoneskin.md\|stoneskin]] |
+| 17th | [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]], [[/5. Mechanics/Spells/Wall Of Force.md\|wall of force]] |
 ^oath-of-redemption-spells
 
 ### Channel Divinity (Level 3)
@@ -114,7 +114,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ### Protective Spirit (Level 15)
 
-Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `dice:1d6|noform|noparens|avg` (`d6`) + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
+Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `dice:1d6|noform|noparens|avg` (`1d6`) + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 
 ### Emissary of Redemption (Level 20)
 

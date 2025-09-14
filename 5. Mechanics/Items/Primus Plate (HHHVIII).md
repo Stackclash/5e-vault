@@ -12,7 +12,7 @@ armorClass: 18
 weight: 65
 ---
 # Primus Plate
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), legendary (requires attunement)*  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), legendary (requires attunement)*  
 
 - **Armor Class**: 18
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]

@@ -14,7 +14,7 @@ two-hand-damage: 1d10 bludgeoning
 weight: 2
 ---
 # Hammer of Thorns
-*Weapon ([[5. Mechanics/Items/Warhammer.md\|warhammer]]), very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hammer-of-Thorns.webp#right)  
 
 - **Damage**:

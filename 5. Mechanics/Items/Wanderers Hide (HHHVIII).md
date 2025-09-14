@@ -11,7 +11,7 @@ armorClass: 12 + Dex modifier (max of +2)
 weight: 12
 ---
 # Wanderer's Hide
-*Medium armor ([[5. Mechanics/Items/Hide Armor.md\|hide armor]]), rare*  
+*Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), rare*  
 
 - **Armor Class**: 12 + Dex modifier (max of +2)
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]

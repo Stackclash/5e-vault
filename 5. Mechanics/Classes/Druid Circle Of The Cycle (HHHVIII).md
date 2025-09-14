@@ -53,7 +53,7 @@ These druids wander the land, ensuring the cycle is unbroken. They are just as a
 
 ### Healing Through Change (Level 2)
 
-When you choose this circle at 2nd level, whenever you cause yourself or an ally to change into another form through magic (such as with your [Wild Shape](compendium/classes/druid.md#Wild%20Shape%20(Level%202)) feature or through the [[5. Mechanics/Spells/Polymorph.md\|polymorph]] spell), that creature recovers hit points equal to your Druid level plus your Wisdom modifier. These hit points are added to their original hit points instead of their new form.
+When you choose this circle at 2nd level, whenever you cause yourself or an ally to change into another form through magic (such as with your [Wild Shape](/compendium/classes/druid.md#Wild%20Shape%20(Level%202)) feature or through the [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] spell), that creature recovers hit points equal to your Druid level plus your Wisdom modifier. These hit points are added to their original hit points instead of their new form.
 
 ### Accelerate the Cycle (Level 6)
 
@@ -71,4 +71,4 @@ Once you use this feature once, you cannot use it again until you finish a short
 
 ### Monstrous Wild Shape (Level 14)
 
-At 14th level, your mastery of the cycle allows you to transform into the monsters you have harvested. As an action, you may expend a use of your [Wild Shape](compendium/classes/druid.md#Wild%20Shape%20(Level%202)) feature to cast the [[5. Mechanics/Spells/Shapechange.md\|shapechange]] spell. When cast in this way, you may only assume the form of a creature with the beast, dragon, giant, humanoid, or monstrosity creature types, there is no challenge rating limit to what creature you can transform into, and you do not need any of the spell's normal components. Instead, the spell consumes a heart harvested by you from the creature you are transforming into. If you wish to change into another form during the duration of the spell, you must expend another heart using the same rules.
+At 14th level, your mastery of the cycle allows you to transform into the monsters you have harvested. As an action, you may expend a use of your [Wild Shape](/compendium/classes/druid.md#Wild%20Shape%20(Level%202)) feature to cast the [[/5. Mechanics/Spells/Shapechange.md\|shapechange]] spell. When cast in this way, you may only assume the form of a creature with the beast, dragon, giant, humanoid, or monstrosity creature types, there is no challenge rating limit to what creature you can transform into, and you do not need any of the spell's normal components. Instead, the spell consumes a heart harvested by you from the creature you are transforming into. If you wish to change into another form during the duration of the spell, you must expend another heart using the same rules.

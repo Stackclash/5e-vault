@@ -18,19 +18,33 @@ classes:
   - Wizard
 school: Evocation
 level: 4
+damage:
+  base: 2d6
+  scaling:
+    damage: 1d6
+    level: 5
+  types:
+    - bludgeoning
+    - lightning
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 150 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Storm Sphere
-concentration: true
 ---
 # Storm Sphere
 *4th-level, Evocation*  
-![[5. Mechanics/Spells/img/storm-sphere.webp#right]]  
+![[/5. Mechanics/Spells/img/storm-sphere.webp#right]]  
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet
@@ -43,8 +57,8 @@ Until the spell ends, you can use a bonus action on each of your turns to cause 
 
 Creatures within 30 feet of the sphere have disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks made to listen.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage for each of its effects increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 4th.
+**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage for each of its effects increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 4th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 166*

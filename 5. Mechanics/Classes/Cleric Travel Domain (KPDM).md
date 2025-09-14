@@ -54,11 +54,11 @@ Voyages across oceans, over mountain ranges, through steaming jungles, and from 
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]], [[5. Mechanics/Spells/Longstrider.md\|longstrider]] |
-| 3rd | [[5. Mechanics/Spells/Find Steed.md\|find steed]], [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] |
-| 5th | [[5. Mechanics/Spells/Haste.md\|haste]], [[5. Mechanics/Spells/Water Wa(LK).md\|water walk]] |
-| 7th | [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] |
-| 9th | passwall, [[5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] |
+| 1st | [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]], [[/5. Mechanics/Spells/Longstrider.md\|longstrider]] |
+| 3rd | [[/5. Mechanics/Spells/Find Steed.md\|find steed]], [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] |
+| 5th | [[/5. Mechanics/Spells/Haste.md\|haste]], [[/5. Mechanics/Spells/Water Wa(LK).md\|water walk]] |
+| 7th | [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] |
+| 9th | passwall, [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] |
 ^travel-domain-spells
 
 ### Born to the Road (Level 1)
@@ -79,7 +79,7 @@ Beginning at 6th level, if you are planning to travel any distance longer than 5
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) lightning damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) lightning damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### World Traveller (Level 17)
 

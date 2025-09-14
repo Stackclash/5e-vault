@@ -10,13 +10,12 @@ aliases:
   - Venatrix
 ---
 # Venatrix
-%%-- Embedded content starts on the next line. --%%
 *Source: Vecna: Eve of Ruin*  
 
 
 ```ad-statblock
 title: Venatrix
-![[5. Mechanics/Vehicles/token/venatrix-veor.webp#token]]
+![[/5. Mechanics/Vehicles/token/venatrix-veor.webp#token]]
 *Gargantuan vehicle (6 tons); land*
 
 - **Cargo Capacity** 1 ton

@@ -11,11 +11,11 @@ tags:
 aliases:
   - Frozen Dagger
 one-hand-damage: 1d4 cold
-range: 40\80
+range: 40/80
 weight: 1
 ---
 # Frozen Dagger
-*Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Frozen-Dagger.webp#right)  
 
 - **Damage**: 1d4 cold

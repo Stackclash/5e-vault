@@ -13,7 +13,7 @@ tags:
 aliases:
   - Beast of the Sea
 ---
-# [[5. Mechanics\Bestiary\Beast\Beast Of The Sea (TCE).md|Beast of the Sea]]
+# [[5. Mechanics/Bestiary/Beast/Beast Of The Sea (TCE).md|Beast of the Sea]]
 *Source: Tasha's Cauldron of Everything p. 61*
 
 ```statblock
@@ -31,7 +31,8 @@ aliases:
   - !!int "14"
   - !!int "11"
 "speed": "5 ft., swim 60 ft."
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "The beast can breathe both air and water."
@@ -40,15 +41,15 @@ aliases:
       \ that the beast makes."
     "name": "Primal Bond"
 "actions":
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d6 + 2 + PB piercing damage or 1d6 + 2 + PB bludgeoning\
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d6 + 2 + PB piercing damage or 1d6 + 2 + PB bludgeoning\
       \ damage (your choice), and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC equal to your spellcasting save DC). Until this grapple ends, the\
       \ beast can't use this attack on another target."
     "name": "Binding Strike"
 "source":
   - "TCE"
-"image": "5. Mechanics/Bestiary/Beast/token/beast-of-the-sea-tce.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/beast-of-the-sea-tce.webp"
 ```
 ^statblock
 

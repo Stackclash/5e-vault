@@ -14,14 +14,20 @@ classes:
   - Warlock
 school: Transmutation
 level: 8
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
+duration: 'Concentration, up to 1 minute'
+range: Touch
+somatic: false
+verbal: true
 aliases:
   - Ghoul King's Cloak
-concentration: true
 ---
 # Ghoul King's Cloak
 *8th-level, Transmutation*  
@@ -40,6 +46,6 @@ You touch a creature, giving it some of the power of a ghoul king. The target ga
 
 **At Higher Levels.** When you cast this spell using a 9th level spell slot, the spell lasts for 10 minutes and doesn't require concentration.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 74*

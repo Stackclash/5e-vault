@@ -14,7 +14,7 @@ tags:
 aliases:
   - Giant Ape
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Ape.md|Giant Ape]]
+# [[5. Mechanics/Bestiary/Beast/Giant Ape.md|Giant Ape]]
 *Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -45,15 +45,15 @@ aliases:
 "actions":
   - "desc": "The ape makes two fist attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 22\
       \ (3d10 + 6) bludgeoning damage."
     "name": "Fist"
-  - "desc": "Ranged Weapon Attack: +9 to hit, range 50/100 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:*\
       \ 30 (7d6 + 6) bludgeoning damage."
     "name": "Rock"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-ape.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/giant-ape.webp"
 ```
 ^statblock
 

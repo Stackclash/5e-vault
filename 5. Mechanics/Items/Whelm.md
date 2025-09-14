@@ -11,12 +11,12 @@ aliases:
   - Whelm
 one-hand-damage: 1d8 bludgeoning
 two-hand-damage: 1d10 bludgeoning
-range: 20\60
+range: 20/60
 weight: 2
 ---
 # Whelm
-*Weapon ([[5. Mechanics/Items/Warhammer.md\|warhammer]]), legendary (requires attunement by a dwarf)*  
-![[5. Mechanics/Items/img/whelm.webp#right]]  
+*Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), legendary (requires attunement by a dwarf)*  
+![[/5. Mechanics/Items/img/whelm.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d8 bludgeoning
@@ -31,7 +31,7 @@ You gain a +3 bonus to attack and damage rolls made with this magic weapon. At d
 
 ## Thrown Weapon
 
-Whelm has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged weapon attack using it, the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) bludgeoning damage, or an extra `dice:2d8|noform|noparens|avg` (`2d8`) bludgeoning damage if the target is a giant. Each time you throw the weapon, it flies back to your hand after the attack. If you don't have a hand free, the weapon lands at your feet.
+Whelm has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged weapon attack using it, the target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) bludgeoning damage, or an extra `dice:2d8|noform|noparens|avg` (`2d8`) bludgeoning damage if the target is a giant. Each time you throw the weapon, it flies back to your hand after the attack. If you don't have a hand free, the weapon lands at your feet.
 
 ## Shock Wave
 
@@ -39,7 +39,7 @@ You can use an action to strike the ground with Whelm and send a shock wave out 
 
 ## Supernatural Awareness
 
-While you are holding the weapon, it alerts you to the location of any secret or concealed doors within 30 feet of you. In addition, you can use an action to cast [[5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] or [[5. Mechanics/Spells/Locate Object.md\|locate object]] from the weapon. Once you cast either spell, you can't cast it from the weapon again until the next dawn.
+While you are holding the weapon, it alerts you to the location of any secret or concealed doors within 30 feet of you. In addition, you can use an action to cast [[/5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] or [[/5. Mechanics/Spells/Locate Object.md\|locate object]] from the weapon. Once you cast either spell, you can't cast it from the weapon again until the next dawn.
 
 ## Sentience
 
@@ -49,6 +49,6 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 
 ## Personality
 
-Whelm's purpose is to slaughter giants and goblinoids. It also seeks to protect dwarves against all enemies. Conflict arises if the wielder fails to destroy goblins and giants or to protect dwarves. Whelm has ties to the dwarf clan that created it, variously called the Dankil or the Mightyhammer clan. It longs to be returned to that clan. It would do anything to protect those dwarves from harm. The hammer also carries a secret shame. Centuries ago, a dwarf named Ctenmiir wielded it valiantly for a time. But Ctenmiir was turned into a [[5. Mechanics/Bestiary/Undead/Vampire.md\|vampire]]. His will was strong enough that he bent Whelm to his evil purposes, even killing members of his own clan.
+Whelm's purpose is to slaughter giants and goblinoids. It also seeks to protect dwarves against all enemies. Conflict arises if the wielder fails to destroy goblins and giants or to protect dwarves. Whelm has ties to the dwarf clan that created it, variously called the Dankil or the Mightyhammer clan. It longs to be returned to that clan. It would do anything to protect those dwarves from harm. The hammer also carries a secret shame. Centuries ago, a dwarf named Ctenmiir wielded it valiantly for a time. But Ctenmiir was turned into a [[/5. Mechanics/Bestiary/Undead/Vampire.md\|vampire]]. His will was strong enough that he bent Whelm to his evil purposes, even killing members of his own clan.
 
 *Source: Dungeon Master's Guide p. 218*

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Earth Elemental
 ---
-# [[5. Mechanics\Bestiary\Elemental\Earth Element(AL).md|Earth Elemental]]
+# [[5. Mechanics/Bestiary/Elemental/Earth Element(AL).md|Earth Elemental]]
 *Source: Monster Manual p. 124, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An earth elemental plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.
@@ -65,7 +65,8 @@ An elemental doesn't require air, food, drink, or sleep.
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., tremorsense\
+  \ 60 ft., passive Perception 10"
 "languages": "Terran"
 "cr": "5"
 "traits":
@@ -77,14 +78,14 @@ An elemental doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The elemental makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 14\
       \ (2d8 + 5) bludgeoning damage."
     "name": "Slam"
 "source":
   - "MM"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Elemental/token/earth-elemental.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/earth-elemental.webp"
 ```
 ^statblock
 

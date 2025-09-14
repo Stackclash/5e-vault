@@ -14,16 +14,13 @@ school: Illusion
 level: 7
 ritual: false
 time: 1 Action
-duration: Up to 24 hours
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 day'
+range: 500 miles
+somatic: true
+verbal: true
+material: a small replica of you made from materials worth at least 5 gp
 aliases:
   - Project Image
-range: 500 miles
-material: A small replica of you made from materials worth at least 5 gp.
-concentration: true
 ---
 # Project Image
 *7th-level, Illusion*  
@@ -41,6 +38,6 @@ You can see through its eyes and hear through its ears as if you were in its spa
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

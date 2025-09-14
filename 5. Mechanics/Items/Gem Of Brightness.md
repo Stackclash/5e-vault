@@ -11,7 +11,7 @@ weight: 1
 ---
 # Gem of Brightness
 *Wondrous item, major, uncommon*  
-![[5. Mechanics/Items/img/gem-of-brightness.webp#right]]  
+![[/5. Mechanics/Items/img/gem-of-brightness.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

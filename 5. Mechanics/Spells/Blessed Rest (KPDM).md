@@ -16,16 +16,21 @@ classes:
   - Sorcerer (Divine Soul)
 school: Enchantment
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
 ritual: false
 time: 1 Action
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a sprinkling of holy water
 aliases:
   - Blessed Rest
-material: a sprinkling of holy water
 ---
 # Blessed Rest
 *2nd-level, Enchantment*  
@@ -43,6 +48,6 @@ Once the target has taken one rest (long or short), the spell ends.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional humanoid for every two slot levels above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 44*

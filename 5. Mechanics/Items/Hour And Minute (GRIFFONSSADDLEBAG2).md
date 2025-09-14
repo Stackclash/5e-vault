@@ -11,7 +11,7 @@ aliases:
   - Hour and Minute
 ---
 # Hour and Minute
-*Melee weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  
+*Melee weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hour-and-Minute.webp#right)  
 
 
@@ -23,8 +23,8 @@ While holding both weapons in either hand, you gain several benefits:
 
 - You gain a +1 bonus to attack and damage rolls made with these magic weapons.  
 - Your perception of time is slightly quickened: allowing you to dodge attacks that would have normally hit you. You gain a +1 bonus to AC.  
-- When you roll a 20 on an attack roll using Hour (the [[5. Mechanics/Items/Dagger.md\|dagger]]) against a creature, that creature is subjected to the effect of the [[5. Mechanics/Spells/Slow.md\|slow]] spell until the end of your next turn.  
-- When you roll a 20 on an attack roll using Minute (the [[5. Mechanics/Items/Shortsword.md\|shortsword]]), you gain the effect of the [[5. Mechanics/Spells/Haste.md\|haste]] spell until the start of your next turn. When the effect ends, you don't suffer the normal effects of the spell ending.  
+- When you roll a 20 on an attack roll using Hour (the [[/5. Mechanics/Items/Dagger.md\|dagger]]) against a creature, that creature is subjected to the effect of the [[/5. Mechanics/Spells/Slow.md\|slow]] spell until the end of your next turn.  
+- When you roll a 20 on an attack roll using Minute (the [[/5. Mechanics/Items/Shortsword.md\|shortsword]]), you gain the effect of the [[/5. Mechanics/Spells/Haste.md\|haste]] spell until the start of your next turn. When the effect ends, you don't suffer the normal effects of the spell ending.  
 - In addition, you can use an action to lay the two weapons down on the ground. When you do, they magically point north before spinning around to align and tell the current time. When they do, 12:00 is always facing north.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 107*

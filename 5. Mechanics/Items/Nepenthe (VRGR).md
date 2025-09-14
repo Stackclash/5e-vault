@@ -14,8 +14,8 @@ two-hand-damage: 1d10 slashing
 weight: 3
 ---
 # Nepenthe
-*Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), legendary (requires attunement by a paladin)*  
-![[5. Mechanics/Items/img/nepenthe.webp#right]]  
+*Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), legendary (requires attunement by a paladin)*  
+![[/5. Mechanics/Items/img/nepenthe.webp#right]]  
 
 - **Damage**:
   - One-handed: 1d8 slashing

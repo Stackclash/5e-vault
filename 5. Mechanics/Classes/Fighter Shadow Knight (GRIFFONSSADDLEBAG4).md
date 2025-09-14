@@ -79,7 +79,7 @@ By 7th level, armor you wear no longer imposes disadvantage on your Dexterity (S
 Starting at 10th level, whenever you use an action to use a Shadowcasting option, you can use a bonus action to make a single weapon attack with a shadow weapon you're holding. In addition, you gain the following three Shadowcasting options:
 
 - **Cloak of Shadow.** You can use an action to choose up to four creatures that you can see within 20 feet of you. For the next hour, those creatures have advantage on Dexterity (Stealth) checks.  
-- **Darkness.** You can use an action to cast the [[5. Mechanics/Spells/Darkness.md\|darkness]] spell.  
+- **Darkness.** You can use an action to cast the [[/5. Mechanics/Spells/Darkness.md\|darkness]] spell.  
 - **Eyes of the Dark.** You can use a bonus action to choose up to four creatures that you can see within 20 feet of you. For the next hour, those creatures gain the benefits of your Dark Gaze feature.  
 
 ### Shadow Sneak (Level 15)

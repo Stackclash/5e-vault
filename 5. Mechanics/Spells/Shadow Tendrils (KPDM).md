@@ -20,15 +20,25 @@ classes:
   - Wizard
 school: Necromancy
 level: 3
+damage:
+  base: 2d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - cold
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Shadow Tendrils
-concentration: true
 ---
 # Shadow Tendrils
 *3rd-level, Necromancy*  
@@ -44,6 +54,6 @@ A creature that starts its turn [[/5. Mechanics/Rules/Conditions.md#Restrained\|
 
 The tendrils have AC 13 and 12 hit points. They are immune to bludgeoning damage, and to piercing and slashing damage from nonmagical weapons. They are vulnerable to radiant damage. If the tendrils are destroyed by damage but the spell is still in effect, you can re-form them on your turn as a bonus action.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 251*

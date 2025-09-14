@@ -35,7 +35,7 @@ While in another temporal manifold, you sacrifice 1 Hit Dice at the end of each 
 
 ## Clockwise
 
-Once per month as an action, choose a mortal enemy you can see within 60 feet. It must make a DC 13 Constitution saving throw or instantly advance into extreme old age. Its Strength, Constitution, and Dexterity are permanently halved. Because it gained no new experiences, its mental stats do not change. This effect can be reversed by a [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell cast within 24 hours of the time shift.
+Once per month as an action, choose a mortal enemy you can see within 60 feet. It must make a DC 13 Constitution saving throw or instantly advance into extreme old age. Its Strength, Constitution, and Dexterity are permanently halved. Because it gained no new experiences, its mental stats do not change. This effect can be reversed by a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell cast within 24 hours of the time shift.
 
 ## Jaunt
 

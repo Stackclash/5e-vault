@@ -13,7 +13,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Whistle-of-Dog-Command.webp#right)  
 
 
-You can use an action to blow this whistle, which is only audible to dogs and wolves within 300 feet of you. When you do, choose up to four dogs or wolves that you can see that can hear the whistle. Each creature must make a DC 15 Wisdom saving throw. On a failed save, the creature is affected by a special version of the [[5. Mechanics/Spells/Command.md\|command]] spell, and it must obey your choice of one of the following commands on its next turn:
+You can use an action to blow this whistle, which is only audible to dogs and wolves within 300 feet of you. When you do, choose up to four dogs or wolves that you can see that can hear the whistle. Each creature must make a DC 15 Wisdom saving throw. On a failed save, the creature is affected by a special version of the [[/5. Mechanics/Spells/Command.md\|command]] spell, and it must obey your choice of one of the following commands on its next turn:
 
 ## Attack
 

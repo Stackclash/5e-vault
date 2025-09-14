@@ -17,13 +17,12 @@ level: 4
 ritual: false
 time: 1 hour
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: 'a diamond worth at least 500 gp, which the spell consumes'
 aliases:
   - Raise Hero
-material: 'a diamond worth at least 500 gp, which the spell consumes'
 ---
 # Raise Hero
 *4th-level, Necromancy*  
@@ -33,8 +32,8 @@ material: 'a diamond worth at least 500 gp, which the spell consumes'
 - **Components:** V, S, M (a diamond worth at least 500 gp, which the spell consumes)
 - **Duration:** 24 hours
 
-This spell is identical to [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] in every way except duration; the creature is restored to life for only 24 hours. The spell can be recast on the same creature, but on the second and subsequent castings, the caster must roll a `dice:d20|noform|noparens|avg` (`d20`). If the roll equals or is less than the number of prior castings on the same creature, the spell fails and cannot affect that creature again. Each new casting resets the clock to 24 hours; it doesn't stack another 24 hours onto a previous casting.
+This spell is identical to [[/5. Mechanics/Spells/Raise Dead.md\|raise dead]] in every way except duration; the creature is restored to life for only 24 hours. The spell can be recast on the same creature, but on the second and subsequent castings, the caster must roll a `dice:d20|noform|noparens|avg` (`d20`). If the roll equals or is less than the number of prior castings on the same creature, the spell fails and cannot affect that creature again. Each new casting resets the clock to 24 hours; it doesn't stack another 24 hours onto a previous casting.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 350*

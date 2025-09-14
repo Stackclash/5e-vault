@@ -15,7 +15,7 @@ aliases:
 
 | dice: d6 | Leader |
 |----------|--------|
-| 1 | [[5. Mechanics/Bestiary/Humanoid/Githzerai Anarch (MPMM).md\|Githzerai Anarch]] |
-| 2-3 | [[5. Mechanics/Bestiary/Humanoid/Githzerai Enlightened (MPMM).md\|Githzerai Enlightened]] |
-| 4-6 | [[5. Mechanics/Bestiary/Humanoid/Githzerai Zerth.md\|Githzerai Zerth]] |
+| 1 | [[/5. Mechanics/Bestiary/Humanoid/Githzerai Anarch (MPMM).md\|Githzerai Anarch]] |
+| 2-3 | [[/5. Mechanics/Bestiary/Humanoid/Githzerai Enlightened (MPMM).md\|Githzerai Enlightened]] |
+| 4-6 | [[/5. Mechanics/Bestiary/Humanoid/Githzerai Zerth.md\|Githzerai Zerth]] |
 ^githzerai-group-leader

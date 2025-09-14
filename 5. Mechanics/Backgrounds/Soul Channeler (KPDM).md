@@ -11,9 +11,9 @@ aliases:
 *Source: Deep Magic p. 158*  
 
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] and either [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]] or [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]]  
-- **Tool Proficiencies.** Artisan's tools ([[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]]), [[5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]]  
+- **Tool Proficiencies.** Artisan's tools ([[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]]), [[/5. Mechanics/Items/Poisoners Kit.md\|poisoner's kit]]  
 - **Languages.** Infernal or Abyssal  
-- **Equipment.** A set of [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]], a pocket knife, a piece of chalk connected to a string, a chapbook of esoteric symbols, a set of common clothes, and a pouch containing 10 gp  
+- **Equipment.** A set of [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]], a pocket knife, a piece of chalk connected to a string, a chapbook of esoteric symbols, a set of common clothes, and a pouch containing 10 gp  
 
 A quirk of fate, or a circumstance of birth, exposed you to the intoxicating power of Arcane Magic and changed you irrevocably. You spent your formative years learning about yourself, gauging your inner reserves and how much you are willing to sacrifice to achieve your goals.
 

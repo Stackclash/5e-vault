@@ -35,7 +35,7 @@ Many elf wizards honor Corellon and adorn their spellbooks and towers with the g
 
 ## The Mysteries of Arvandor
 
- Only those long-lived scholars who have researched the elves with the greatest tenacity have heard of the Mysteries of Arvandor, and all these luminaries have ever been able to glean is that it is a secret gathering of elves dedicated to Corellon where a magical replaying of the elven myths of creation is communally experienced.
+Only those long-lived scholars who have researched the elves with the greatest tenacity have heard of the Mysteries of Arvandor, and all these luminaries have ever been able to glean is that it is a secret gathering of elves dedicated to Corellon where a magical replaying of the elven myths of creation is communally experienced.
 
 The truth is that the Mysteries of Arvandor is a phenomenon that elves recognize as a summons from their creator, which they can choose to accept or disregard. The event occurs on one plane or multiple planes within the multiverse in a single moment, and there is no guarantee that it will ever occur again; the ability to hear the call is a rare gift. Depending on Corellon's need, the god might call a few dozen or several thousand elves to gather, each elf returning to Corellon's body temporarily for some task that only the god can comprehend.
 

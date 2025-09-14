@@ -11,7 +11,7 @@ weight: 50
 ---
 # Mirror of Life Trapping
 *Wondrous item, major, very rare*  
-![[5. Mechanics/Items/img/mirror-of-life-trapping.webp#right]]  
+![[/5. Mechanics/Items/img/mirror-of-life-trapping.webp#right]]  
 
 - **Weight**: 50.0 lbs.
 

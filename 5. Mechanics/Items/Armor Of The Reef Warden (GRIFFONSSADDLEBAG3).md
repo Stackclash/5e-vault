@@ -29,7 +29,7 @@ When you take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] action, you can 
 
 ## Moray Eel
 
-When you hit a creature with a melee weapon attack, you can cause a pair of eels to wrap around and grapple the target. The target must succeed on a DC 16 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] and [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the spectral eels for up to 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] creature takes `dice:1d8|noform|noparens|avg` (`d8`) force damage and can repeat the saving throw at the end of each of its turns, ending the effect on a success. If the target is underwater, it has disadvantage on the saving throw.
+When you hit a creature with a melee weapon attack, you can cause a pair of eels to wrap around and grapple the target. The target must succeed on a DC 16 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] and [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the spectral eels for up to 1 minute. A [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] creature takes `dice:1d8|noform|noparens|avg` (`1d8`) force damage and can repeat the saving throw at the end of each of its turns, ending the effect on a success. If the target is underwater, it has disadvantage on the saving throw.
 
 ## Pufferfish
 

@@ -14,15 +14,28 @@ classes:
   - Wizard
 school: Enchantment
 level: 6
+damage:
+  base: 4d8
+  scaling:
+    damage: 2d8
+    level: 7
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Self (20-foot Radius)
+somatic: true
+verbal: true
+area:
+  shape: radius
+  size: 20
 aliases:
   - Aura of Wrath
-concentration: true
 ---
 # Aura of Wrath
 *6th-level, Enchantment*  
@@ -40,6 +53,6 @@ If a creature affected by your aura hits you with an attack that targets you, th
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, creatures that leave the aura remain under the effect of the spell for 1 additional round for each slot level above 6th. Also, the damage an affected creature takes from striking you increases by `dice:2d8|noform|noparens|avg|text(2d8)` for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 324*

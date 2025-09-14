@@ -13,7 +13,7 @@ tags:
 aliases:
   - Refuse Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Refuse Golem (GRIFFONSSADDLEBAG2).md|Refuse Golem]]
+# [[5. Mechanics/Bestiary/Construct/Refuse Golem (GRIFFONSSADDLEBAG2).md|Refuse Golem]]
 *Source: The Griffon's Saddlebag, Book 2 p. 361*
 
 Many speak of trash becoming treasure, but trash is lifeblood for the refuse golem. Most common in areas with large amounts of magical food and drink, these beasts form when mounds of partially consumed waste are not disposed of properly. The resulting magical landfill develops an aggressive, sentient construct that is formidable in battle, most known for their poisonous stench and amorphous defenses.
@@ -41,7 +41,8 @@ Many speak of trash becoming treasure, but trash is lifeblood for the refuse gol
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "8"
 "traits":
@@ -64,11 +65,11 @@ Many speak of trash becoming treasure, but trash is lifeblood for the refuse gol
 "actions":
   - "desc": "The golem makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage, plus 9 (2d8) piercing or slashing damage (golem's\
       \ choice)."
     "name": "Slam"
-  - "desc": "Ranged Weapon Attack: +7 to hit, range 60/240 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 60/240 ft., one target. *Hit:*\
       \ 26 (4d10 + 4) bludgeoning damage."
     "name": "Hurl Junk"
 "reactions":

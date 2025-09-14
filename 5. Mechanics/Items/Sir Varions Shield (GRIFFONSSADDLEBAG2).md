@@ -13,7 +13,7 @@ armorClass: 2
 weight: 6
 ---
 # Sir Varion's Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Sir-Varions-Shield.webp#right)  
 
 - **Armor Class**: 2

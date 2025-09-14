@@ -59,11 +59,11 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 1st | [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] (fey creature type only) |
-| 3rd | [[5. Mechanics/Spells/Nystuls Magic Aura.md\|Nystul's magic aura]], [[5. Mechanics/Spells/Mirror Image.md\|mirror image]] |
-| 5th | [[5. Mechanics/Spells/Counterspell.md\|counterspell]], [[5. Mechanics/Spells/Spirit Guardians.md\|spirit guardians]] (fey spirits only) |
-| 7th | [[5. Mechanics/Spells/Compulsion.md\|compulsion]], [[5. Mechanics/Spells/Hallucinatory Terrain.md\|hallucinatory terrain]] |
-| 9th | [[5. Mechanics/Spells/Mislead.md\|mislead]], [[5. Mechanics/Spells/Modify Memory.md\|modify memory]] |
+| 1st | [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] (fey creature type only) |
+| 3rd | [[/5. Mechanics/Spells/Nystuls Magic Aura.md\|Nystul's magic aura]], [[/5. Mechanics/Spells/Mirror Image.md\|mirror image]] |
+| 5th | [[/5. Mechanics/Spells/Counterspell.md\|counterspell]], [[/5. Mechanics/Spells/Spirit Guardians.md\|spirit guardians]] (fey spirits only) |
+| 7th | [[/5. Mechanics/Spells/Compulsion.md\|compulsion]], [[/5. Mechanics/Spells/Hallucinatory Terrain.md\|hallucinatory terrain]] |
+| 9th | [[/5. Mechanics/Spells/Mislead.md\|mislead]], [[/5. Mechanics/Spells/Modify Memory.md\|modify memory]] |
 ^fey-soul-spells
 
 ### Charming Touch (Level 1)
@@ -72,7 +72,7 @@ At 1st level, you can bend the minds of creatures to your will with a simple tou
 
 You can use an action to touch a creature and choose one of the Charming Touch options you know, using your sorcerer spell save DC. You magically know if a creature failed its saving throw against an effect. Any creature that can not be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] succeeds on the saving throw for this feature automatically.
 
-You can use this feature twice at 1st level. You gain additional uses of it when you reach certain levels in this class: 6th level (three uses) and 14th level (four uses). You regain all expended uses of it when you finish a short or long rest. In addition, if you have a familiar (such as by the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell), you can have it deliver the effect of this feature as if it were you, provided that its touching the target.
+You can use this feature twice at 1st level. You gain additional uses of it when you reach certain levels in this class: 6th level (three uses) and 14th level (four uses). You regain all expended uses of it when you finish a short or long rest. In addition, if you have a familiar (such as by the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell), you can have it deliver the effect of this feature as if it were you, provided that its touching the target.
 
 The Charming Touch options are presented in alphabetical order.
 
@@ -94,7 +94,7 @@ For the next 1 minute, you and the target can communicate as if you shared a com
 
 #### Compel
 
-As part of touching the target, you must also give a one-word command. The target then makes a Wisdom saving throw. On a failed save, its compelled to follow the command on its next turn, as if by the [[5. Mechanics/Spells/Command.md\|command]] spell. When the effect ends, it rationalizes any action it took, provided that it was reasonable. If its obviously not, the creature knows that it was [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] and reacts accordingly.
+As part of touching the target, you must also give a one-word command. The target then makes a Wisdom saving throw. On a failed save, its compelled to follow the command on its next turn, as if by the [[/5. Mechanics/Spells/Command.md\|command]] spell. When the effect ends, it rationalizes any action it took, provided that it was reasonable. If its obviously not, the creature knows that it was [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] and reacts accordingly.
 
 ### Fey Resistance (Level 6)
 

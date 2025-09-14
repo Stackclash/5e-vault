@@ -14,7 +14,7 @@ one-hand-damage: 1d10 piercing
 weight: 18
 ---
 # Knight's Standard of Vigor
-*Weapon ([[5. Mechanics/Items/Pike.md\|pike]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Knights-Standard-of-Vigor.webp#right)  
 
 - **Damage**: 1d10 piercing

@@ -61,18 +61,18 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[5. Mechanics/Spells/Disguise Self.md\|disguise self]] |
-| 5th | [[5. Mechanics/Spells/Rope Trick.md\|rope trick]] |
-| 9th | [[5. Mechanics/Spells/Fear.md\|fear]] |
-| 13th | [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] |
-| 17th | [[5. Mechanics/Spells/Seeming.md\|seeming]] |
+| 3rd | [[/5. Mechanics/Spells/Disguise Self.md\|disguise self]] |
+| 5th | [[/5. Mechanics/Spells/Rope Trick.md\|rope trick]] |
+| 9th | [[/5. Mechanics/Spells/Fear.md\|fear]] |
+| 13th | [[/5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] |
+| 17th | [[/5. Mechanics/Spells/Seeming.md\|seeming]] |
 ^gloom-stalker-spells
 
 ### Dread Ambusher (Level 3)
 
 At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.
 
-At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the weapon's damage type.
+At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage of the weapon's damage type.
 
 ### Umbral Sight (Level 3)
 

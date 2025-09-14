@@ -25,12 +25,12 @@ level: 3
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - S
-  - M
+range: Self
+somatic: true
+verbal: false
+material: one herb that the spell consumes
 aliases:
   - Herbal Infusion
-material: one herb that the spell consumes
 ---
 # Herbal Infusion
 *3rd-level, Transmutation*  
@@ -42,6 +42,6 @@ material: one herb that the spell consumes
 
 You magically extract and absorb the essence of a herb in your hand, allowing you to instantly use the herb regardless of how long it would normally take to use it. This spell can only be used on herbs that affect your own body.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Hamund's Herbalism Handbook p. 40*

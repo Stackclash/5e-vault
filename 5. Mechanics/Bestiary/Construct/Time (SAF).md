@@ -13,7 +13,7 @@ tags:
 aliases:
   - Time
 ---
-# [[5. Mechanics\Bestiary\Construct\Time (SAF).md|Time]]
+# [[5. Mechanics/Bestiary/Construct/Time (SAF).md|Time]]
 *Source: Strongholds and Followers p. 231*
 
 Time is something of the hypocrite among the Inexorables, perfectly happy to speed things up for itself while denying that same ability to anyone else. Many of the Inexorables don't mind if their allies bend the rules so long as their enemies toe the line, and if this seems like commentary on the nature of law and how it tends to be applied, of course it is. Or is it? Maybe it's the opposite.
@@ -45,7 +45,8 @@ Time prevents enemies from taking bonus actions or reactions, which is very usef
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
+  \ 14"
 "languages": "all those of the creature who summoned it"
 "cr": "9"
 "traits":
@@ -62,7 +63,7 @@ Time prevents enemies from taking bonus actions or reactions, which is very usef
 "actions":
   - "desc": "Time makes three slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16\
       \ (2d10 + 5) bludgeoning damage."
     "name": "Slam"
   - "desc": "Until the end of its next turn, Time magically gains a +2 bonus to its\

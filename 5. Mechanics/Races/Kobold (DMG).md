@@ -10,7 +10,7 @@ aliases:
 # Kobold
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Dexterity +2; Strength -4
+- **Ability Scores**: dex +2 str -4
 - **Size**: Small
 - **Speed**: 30 ft.
 

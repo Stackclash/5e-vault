@@ -34,18 +34,21 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+damage:
+  base: 2d6
+  scaling:
+    damage: null
+    level: 3
+  types: []
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: true
+verbal: true
+material: fur or a feather from a beast
 aliases:
   - Enhance Ability
-range: Touch
-material: Fur or a feather from a beast.
-concentration: true
 ---
 # Enhance Ability
 *2nd-level, Transmutation*  
@@ -87,6 +90,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Mountain Domain)](compendium/lists/list-spells-classes-mountain-domain-kpdm.md "subclass=KPDM"); [Paladin (Oath of Glory)](compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Warlock (The Shapechanger)](compendium/lists/list-spells-classes-the-shapechanger-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Mountain Domain)](/compendium/lists/list-spells-classes-mountain-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Glory)](/compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Shapechanger)](/compendium/lists/list-spells-classes-the-shapechanger-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: 'hill, urban, desert'
 size: Medium
 tags:
@@ -16,7 +16,7 @@ tags:
 aliases:
   - Mule
 ---
-# [[5. Mechanics\Bestiary\Beast\Mule.md|Mule]]
+# [[5. Mechanics/Bestiary/Beast/Mule.md|Mule]]
 *Source: Monster Manual p. 333, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -47,13 +47,13 @@ aliases:
       \ effects that would knock it [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Sure-Footed"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Beast/token/mule.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/mule.webp"
 ```
 ^statblock
 

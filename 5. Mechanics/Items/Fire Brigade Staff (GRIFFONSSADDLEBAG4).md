@@ -28,7 +28,7 @@ While holding the staff, you can use an action to use one of the properties belo
 
 ## Spells
 
-You can cast one of the following spells from the staff: [[5. Mechanics/Spells/Control Water.md\|control water]] (4 gallons, save DC 15), [[5. Mechanics/Spells/Create Or Destroy Water.md\|create or destroy water]] (1 gallon per spell level, up to 9th), or [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (fire damage only; 3 gallons).
+You can cast one of the following spells from the staff: [[/5. Mechanics/Spells/Control Water.md\|control water]] (4 gallons, save DC 15), [[/5. Mechanics/Spells/Create Or Destroy Water.md\|create or destroy water]] (1 gallon per spell level, up to 9th), or [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (fire damage only; 3 gallons).
 
 ## Douse Fire
 

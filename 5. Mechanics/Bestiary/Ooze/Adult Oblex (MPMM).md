@@ -16,7 +16,7 @@ tags:
 aliases:
   - Adult Oblex
 ---
-# [[5. Mechanics\Bestiary\Ooze\Adult Oblex (MPMM).md|Adult Oblex]]
+# [[5. Mechanics/Bestiary/Ooze/Adult Oblex (MPMM).md|Adult Oblex]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 198, Mordenkainen's Tome of Foes p. 218*
 
 Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.
@@ -53,8 +53,8 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
   - !!int "15"
 "speed": "20 ft."
 "saves":
-  - "intelligence": "+7"
-  - "charisma": "+5"
+  - "intelligence": !!int "7"
+  - "charisma": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+5"
@@ -66,7 +66,8 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 60 ft. (blind beyond this distance), passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this distance), passive Perception 14"
 "languages": "Common plus two more languages"
 "cr": "5"
 "traits":
@@ -80,14 +81,14 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "actions":
   - "desc": "The oblex makes two pseudopod attacks, and it uses Eat Memories."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage plus 7 (2d6) psychic damage."
     "name": "Pseudopod"
   - "desc": "The oblex targets one creature it can see within 5 feet of it. The target\
       \ must succeed on a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage\
       \ and become memory drained until it finishes a short or long rest or until\
-      \ it benefits from the [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-      \ or [[5. Mechanics/Spells/He(AL).md|heal]] spell. Constructs, Oozes, Plants, and\
+      \ it benefits from the [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ or [[/5. Mechanics/Spells/He(AL).md|heal]] spell. Constructs, Oozes, Plants, and\
       \ Undead succeed on the save automatically.\n\nWhile memory drained, the target\
       \ must roll a d4 and subtract the number rolled from its ability checks and\
       \ attack rolls. Each time the target is memory drained beyond the first, the\
@@ -98,8 +99,8 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
     "name": "Eat Memories"
   - "desc": "The oblex casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
-      3/day each: [[5. Mechanics/Spells/Charm Person.md|charm person]] (as 5th-level\
-      \ spell), [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic\
+      **3/day each:** [[/5. Mechanics/Spells/Charm Person.md|charm person]] (as 5th-level\
+      \ spell), [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]], [[/5. Mechanics/Spells/Hypnotic Pattern.md|hypnotic\
       \ pattern]]"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
@@ -117,7 +118,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Ooze/token/adult-oblex-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Ooze/token/adult-oblex-mpmm.webp"
 ```
 ^statblock
 

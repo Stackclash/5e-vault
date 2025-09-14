@@ -14,7 +14,7 @@ tags:
 aliases:
   - Tortle Druid
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Tortle Druid (MPMM).md|Tortle Druid]]
+# [[5. Mechanics/Bestiary/Humanoid/Tortle Druid (MPMM).md|Tortle Druid]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*
 
 Many tortles view the world as a place of wonder. They live for the chance to hear a soft wind blowing through trees, to watch a frog croaking on a lily pad, or to stand in a crowded marketplace. A tortle druid savors such things more than most, channeling the natural magic of the world around them.
@@ -60,10 +60,10 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   - "desc": "The tortle makes four Claw attacks or two [[/5. Mechanics/Rules/Skills.md#Nature|Nature]]'s\
       \ Wrath attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) slashing damage."
     "name": "Claw"
-  - "desc": "Ranged Spell Attack: +4 to hit, range 90 ft., one target. Hit: 9\
+  - "desc": "*Ranged Spell Attack:* +4 to hit, range 90 ft., one target. *Hit:* 9\
       \ (2d6 + 2) damage of a type chosen by the tortle: cold, fire, lightning, or\
       \ thunder."
     "name": "Nature's Wrath"
@@ -75,15 +75,15 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
       \ action to emerge."
     "name": "Shell Defense"
   - "desc": "The tortle casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 12):\n\nAt will: [[5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
-      \ [[5. Mechanics/Spells/Guidance.md|guidance]]\n\n2/day each: [[5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
-      \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Speak With Animals.md|speak with animals]],\
-      \ [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]"
+      \ ability (spell save DC 12):\n\n**At will:** [[/5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
+      \ [[/5. Mechanics/Spells/Guidance.md|guidance]]\n\n**2/day each:** [[/5. Mechanics/Spells/Cure Wounds.md|cure wounds]],\
+      \ [[/5. Mechanics/Spells/Hold Person.md|hold person]], [[/5. Mechanics/Spells/Speak With Animals.md|speak with animals]],\
+      \ [[/5. Mechanics/Spells/Thunderwave.md|thunderwave]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/tortle-druid-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/tortle-druid-mpmm.webp"
 ```
 ^statblock
 

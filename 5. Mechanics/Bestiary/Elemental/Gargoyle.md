@@ -15,7 +15,7 @@ tags:
 aliases:
   - Gargoyle
 ---
-# [[5. Mechanics\Bestiary\Elemental\Gargoyle.md|Gargoyle]]
+# [[5. Mechanics/Bestiary/Elemental/Gargoyle.md|Gargoyle]]
 *Source: Monster Manual p. 140, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. A gargoyle lurks among masonry and ruins, as still as any stone sculpture, and delights in the terror it creates when it breaks from its suspended pose, as well as the pain it inflicts on its victims.
@@ -70,7 +70,8 @@ A gargoyle doesn't require air, food, drink, or sleep.
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Terran"
 "cr": "2"
 "traits":
@@ -80,16 +81,16 @@ A gargoyle doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The gargoyle makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) slashing damage."
     "name": "Claws"
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Elemental/token/gargoyle.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/gargoyle.webp"
 ```
 ^statblock
 

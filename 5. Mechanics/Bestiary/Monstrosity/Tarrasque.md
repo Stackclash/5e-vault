@@ -14,7 +14,7 @@ tags:
 aliases:
   - Tarrasque
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Tarrasque.md|Tarrasque]]
+# [[5. Mechanics/Bestiary/Monstrosity/Tarrasque.md|Tarrasque]]
 *Source: Monster Manual p. 286, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The legendary tarrasque is possibly the most dreaded monster of the Material Plane. It is widely believed that only one of these creatures exists, though no one can predict where and when it will strike.
@@ -47,14 +47,15 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
   - !!int "11"
 "speed": "40 ft."
 "saves":
-  - "intelligence": "+5"
-  - "wisdom": "+9"
-  - "charisma": "+9"
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "9"
 "damage_immunities": "fire; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "30"
 "traits":
@@ -63,7 +64,7 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
   - "desc": "The tarrasque has advantage on saving throws against spells and other\
       \ magical effects."
     "name": "Magic Resistance"
-  - "desc": "Any time the tarrasque is targeted by a [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\
+  - "desc": "Any time the tarrasque is targeted by a [[/5. Mechanics/Spells/Magic Missile.md|magic missile]]\
       \ spell, a line spell, or a spell that requires a ranged attack roll, roll a\
       \ d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected,\
       \ and the effect is reflected back at the caster as though it originated from\
@@ -76,18 +77,18 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
       \ one with its bite, two with its claws, one with its horns, and one with its\
       \ tail. It can use its Swallow instead of its bite."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 36\
+  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 10 ft., one target. *Hit:* 36\
       \ (4d12 + 10) piercing damage. If the target is a creature, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 20). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
       \ and the tarrasque can't bite another target."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +19 to hit, reach 15 ft., one target. Hit: 28\
+  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 15 ft., one target. *Hit:* 28\
       \ (4d8 + 10) slashing damage."
     "name": "Claw"
-  - "desc": "Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 32\
+  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 10 ft., one target. *Hit:* 32\
       \ (4d10 + 10) piercing damage."
     "name": "Horns"
-  - "desc": "Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 24\
+  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 20 ft., one target. *Hit:* 24\
       \ (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 20 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Tail"
@@ -113,6 +114,9 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
       \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] by it and can escape\
       \ from the corpse by using 30 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Swallow"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the tarrasque can expend a use to take one of the following actions. The\
+  \ tarrasque regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The tarrasque makes one claw attack or tail attack."
     "name": "Attack"
@@ -123,7 +127,7 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/tarrasque.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/tarrasque.webp"
 ```
 ^statblock
 

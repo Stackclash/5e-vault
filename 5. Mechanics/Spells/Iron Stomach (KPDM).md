@@ -12,12 +12,18 @@ classes:
   - Druid
 school: Transmutation
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
 ritual: false
 time: 1 Action
 duration: 24 hours
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Iron Stomach
 ---
@@ -33,6 +39,6 @@ You subtly alter the digestive system of the creature you touch, allowing it to 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can affect one additional creature for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 87*

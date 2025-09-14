@@ -14,17 +14,30 @@ classes:
   - Warlock
 school: Conjuration
 level: 3
+damage:
+  base: 2d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - acid
+    - cold
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 150 feet
+somatic: true
+verbal: true
+material: a pickled octopus tentacle
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Hunger of Hadar
-concentration: true
-material: a pickled octopus tentacle
 ---
 # Hunger of Hadar
 *3rd-level, Conjuration*  
@@ -38,6 +51,6 @@ You open a gateway to the dark between the stars, a region infested with unknown
 
 The void creates a warp in the fabric of space, and the area is difficult terrain. Any creature that starts its turn in the area takes `dice:2d6|noform|noparens|avg` (`2d6`) cold damage. Any creature that ends its turn in the area must succeed on a Dexterity saving throw or take `dice:2d6|noform|noparens|avg` (`2d6`) acid damage as milky, otherworldly tentacles rub against it.
 
-**Classes**: [Sorcerer (Aberrant Mind)](compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Sorcerer (Aberrant Mind)](/compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Player's Handbook p. 251*

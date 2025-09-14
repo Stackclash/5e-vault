@@ -54,7 +54,7 @@ image: null
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 151*
@@ -127,8 +127,8 @@ actions:
   - !!int "20"
 "speed": "30 ft., fly 90 ft."
 "saves":
-  - "wisdom": "+9"
-  - "charisma": "+9"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "9"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+9"
@@ -137,14 +137,15 @@ actions:
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 120 ft., passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 19"
 "languages": "all, telepathy 120 ft."
 "cr": "10"
 "traits":
   - "desc": "The Abbot's spellcasting ability is Charisma (spell save DC 17). The\
       \ Abbot can innately cast the following spells, requiring only verbal components:\n\
-      \nAt will: [[5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Commune.md|commune]], [[5. Mechanics/Spells/Raise Dead.md|raise dead]]"
+      \n**At will:** [[/5. Mechanics/Spells/Detect Evil And Good.md|detect evil and good]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Commune.md|commune]], [[/5. Mechanics/Spells/Raise Dead.md|raise dead]]"
     "name": "Innate Spellcasting"
   - "desc": "The Abbot's weapon attacks are magical. When The Abbot hits with any\
       \ weapon, the weapon deals an extra 4d8 radiant damage (included in the attack)."
@@ -155,7 +156,7 @@ actions:
 "actions":
   - "desc": "The Abbot makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) bludgeoning damage plus 18 (4d8) radiant damage."
     "name": "Mace"
   - "desc": "The Abbot touches another creature. The target magically regains 20 (4d8\
@@ -173,7 +174,7 @@ actions:
     "name": "Change Shape"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/the-abbot-cos.webp"
+"image": "/4. World Almanac/NPCs/token/the-abbot-cos.webp"
 ```
 ^statblock
 

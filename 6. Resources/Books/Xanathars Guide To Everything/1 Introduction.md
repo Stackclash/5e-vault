@@ -13,7 +13,7 @@ Beneath the bustling City of Waterdeep, a beholder crime lord keeps tabs on ever
 
 The first major rules expansion to the fifth edition of D&D, *Xanathar's Guide to Everything* provides a wealth of new options for the game. Xanathar might not be able to realize its dream to know everything, but this book does delve into every major part of the game: adventurers, their adventures, and the magic they wield.
 
-![[6. Resources/Books/Xanathars Guide To Everything/img/intro01.webp#center]]
+![[/6. Resources/Books/Xanathars Guide To Everything/img/intro01.webp#center]]
 
 ## Using this Book
 
@@ -25,7 +25,7 @@ Appendix A provides guidance on running a shared campaign, similar to the activi
 
 As you peruse the many options herein, you'll come across observations from Xanathar itself. Like the beholder's roving mind, your reading will take you to places in the game familiar and new. May you enjoy the journey!
 
-![[6. Resources/Books/Xanathars Guide To Everything/img/intro02.webp#center]]
+![[/6. Resources/Books/Xanathars Guide To Everything/img/intro02.webp#center]]
 
 > [!note] Unearthed Arcana
 > 
@@ -96,4 +96,4 @@ As soon as you start casting a spell or using a special ability that requires co
 
 Temporary hit points aren't cumulative. If you have temporary hit points and receive more of them, you don't add them together, unless a game feature says you can. Instead, you decide which temporary hit points to keep.
 
-![[6. Resources/Books/Xanathars Guide To Everything/img/intro03.webp#center]]
+![[/6. Resources/Books/Xanathars Guide To Everything/img/intro03.webp#center]]

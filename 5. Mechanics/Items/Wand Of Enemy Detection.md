@@ -13,7 +13,7 @@ weight: 1
 ---
 # Wand of Enemy Detection
 *Wand, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/wand-of-enemy-detection.webp#right]]  
+![[/5. Mechanics/Items/img/wand-of-enemy-detection.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

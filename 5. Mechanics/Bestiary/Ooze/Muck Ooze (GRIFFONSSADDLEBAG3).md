@@ -13,7 +13,7 @@ tags:
 aliases:
   - Muck Ooze
 ---
-# [[5. Mechanics\Bestiary\Ooze\Muck Ooze (GRIFFONSSADDLEBAG3).md|Muck Ooze]]
+# [[5. Mechanics/Bestiary/Ooze/Muck Ooze (GRIFFONSSADDLEBAG3).md|Muck Ooze]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 ```statblock
@@ -41,7 +41,8 @@ aliases:
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 8"
 "languages": ""
 "cr": "2"
 "traits":
@@ -62,7 +63,7 @@ aliases:
       \ hazard."
     "name": "Swamp Stride"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) bludgeoning damage plus 13 (3d8) acid damage."
     "name": "Pseudopod"
   - "desc": "The ooze lunges at a Large or smaller creature it can see within 10 feet\

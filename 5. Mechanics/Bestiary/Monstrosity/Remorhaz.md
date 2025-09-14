@@ -14,7 +14,7 @@ tags:
 aliases:
   - Remorhaz
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Remorhaz.md|Remorhaz]]
+# [[5. Mechanics/Bestiary/Monstrosity/Remorhaz.md|Remorhaz]]
 *Source: Monster Manual p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pulsing with internal fire. Wing like fins flare from the back of the creature's head, and its wide mouth brims with jagged teeth.
@@ -46,7 +46,8 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
   - !!int "5"
 "speed": "30 ft., burrow 20 ft."
 "damage_immunities": "cold, fire"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., tremorsense\
+  \ 60 ft., passive Perception 10"
 "languages": ""
 "cr": "11"
 "traits":
@@ -54,7 +55,7 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
       \ within 5 feet of it takes 10 (3d6) fire damage."
     "name": "Heated Body"
 "actions":
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 40\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 40\
       \ (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature,\
       \ it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 17).\
       \ Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
@@ -75,7 +76,7 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
     "name": "Swallow"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/remorhaz.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/remorhaz.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ aliases:
 
 | Layer | Layer Name | Ruler |
 |-------|------------|-------|
-| 1 | Avernus | [[4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]] |
+| 1 | Avernus | [[/4. World Almanac/NPCs/Zariel (MPMM).md\|Zariel]] |
 | 2 | Dis | Dispater |
 | 3 | Minauros | Mammon |
 | 4 | Phlegethos | Belial and Fierna |

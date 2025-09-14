@@ -14,16 +14,24 @@ classes:
   - Wizard
 school: Abjuration
 level: 6
+damage:
+  base: 3d6
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 10 minutes
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: 'material goods and wealth worth at least 2,000 gp'
+area:
+  shape: sphere
+  size: 15
 aliases:
   - Claim Lair
-material: 'material goods and wealth worth at least 2,000 gp'
 ---
 # Claim Lair
 *6th-level, Abjuration*  
@@ -41,6 +49,6 @@ By placing your personal wealth within an area and invoking a dragon's territori
 
 Casting this spell on the same area every day for a year makes this effect permanent.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 198*

@@ -23,14 +23,14 @@ The scroll is blank when found. A spell appears on it when you first attune to t
 
 | dice: d8 | Spell | Extra Spell |
 |----------|-------|-------------|
-| 1 | [[5. Mechanics/Spells/Slow.md\|Slow]]; roll a second d8 and consult the Extra Spell column to determine what extra spell appears on the scroll. | [[5. Mechanics/Spells/Rope Trick.md\|Rope trick]] |
-| 2 | [[5. Mechanics/Spells/Call Lightning.md\|Call lightning]] | [[5. Mechanics/Spells/Bane.md\|Bane]] |
-| 3 | [[5. Mechanics/Spells/Hypnotic Pattern.md\|Hypnotic pattern]] | [[5. Mechanics/Spells/Bless.md\|Bless]] |
-| 4 | [[5. Mechanics/Spells/Spirit Guardians.md\|Spirit guardians]] | [[5. Mechanics/Spells/Disguise Self.md\|Disguise self]] |
-| 5 | [[5. Mechanics/Spells/Dimension Door.md\|Dimension door]] | [[5. Mechanics/Spells/Magic Missile.md\|Magic missile]] |
-| 6 | [[5. Mechanics/Spells/Fireball.md\|Fireball]] | [[5. Mechanics/Spells/Invisibility.md\|Invisibility]] |
-| 7 | [[5. Mechanics/Spells/Ice Storm.md\|Ice storm]] | [[5. Mechanics/Spells/Flaming Sphere.md\|Flaming sphere]] |
-| 8 | [[5. Mechanics/Spells/Haste.md\|Haste]]; roll a second d8 and consult the Extra Spell column to determine what extra spell appears on the scroll. | [[5. Mechanics/Spells/Pass Without Trace.md\|Pass without trace]] |
+| 1 | [[/5. Mechanics/Spells/Slow.md\|Slow]]; roll a second d8 and consult the Extra Spell column to determine what extra spell appears on the scroll. | [[/5. Mechanics/Spells/Rope Trick.md\|Rope trick]] |
+| 2 | [[/5. Mechanics/Spells/Call Lightning.md\|Call lightning]] | [[/5. Mechanics/Spells/Bane.md\|Bane]] |
+| 3 | [[/5. Mechanics/Spells/Hypnotic Pattern.md\|Hypnotic pattern]] | [[/5. Mechanics/Spells/Bless.md\|Bless]] |
+| 4 | [[/5. Mechanics/Spells/Spirit Guardians.md\|Spirit guardians]] | [[/5. Mechanics/Spells/Disguise Self.md\|Disguise self]] |
+| 5 | [[/5. Mechanics/Spells/Dimension Door.md\|Dimension door]] | [[/5. Mechanics/Spells/Magic Missile.md\|Magic missile]] |
+| 6 | [[/5. Mechanics/Spells/Fireball.md\|Fireball]] | [[/5. Mechanics/Spells/Invisibility.md\|Invisibility]] |
+| 7 | [[/5. Mechanics/Spells/Ice Storm.md\|Ice storm]] | [[/5. Mechanics/Spells/Flaming Sphere.md\|Flaming sphere]] |
+| 8 | [[/5. Mechanics/Spells/Haste.md\|Haste]]; roll a second d8 and consult the Extra Spell column to determine what extra spell appears on the scroll. | [[/5. Mechanics/Spells/Pass Without Trace.md\|Pass without trace]] |
 ^spell-extra-spell
 
 You can cast a spell from the scroll as normal while you're attuned to it, even if that spell isn't on your spell list, using your spellcasting ability modifier, spell save DC, and spell attack bonus. Once a spell has been cast from the scroll, the ink in which it was written vanishes from the paper, and that spell can't be cast again until the next time it appears on the scroll. Any spell remaining on the scroll is replaced by the new spell or spells daily at dawn.

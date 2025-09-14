@@ -13,7 +13,7 @@ tags:
 aliases:
   - Larva
 ---
-# [[5. Mechanics\Bestiary\Fiend\Larva (DMG).md|Larva]]
+# [[5. Mechanics/Bestiary/Fiend/Larva (DMG).md|Larva]]
 *Source: Dungeon Master's Guide p. 63*
 
 ```statblock
@@ -37,12 +37,12 @@ aliases:
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "0"
 "actions":
-  - "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4\
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4\
       \ - 1) piercing damage."
     "name": "Bite"
 "source":
   - "DMG"
-"image": "5. Mechanics/Bestiary/Fiend/token/larva-dmg.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/larva-dmg.webp"
 ```
 ^statblock
 

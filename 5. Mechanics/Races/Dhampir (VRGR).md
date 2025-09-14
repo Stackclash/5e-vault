@@ -9,7 +9,7 @@ aliases:
 ---
 # Dhampir
 *Source: Van Richten's Guide to Ravenloft p. 16*  
-![[5. Mechanics/Races/img/dhampir.webp#right]]  
+![[/5. Mechanics/Races/img/dhampir.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -41,7 +41,7 @@ You have a climbing speed equal to your walking speed. In addition, at 3rd level
 
 ### Vampiric Bite
 
-Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals `dice:1d4|noform|noparens|avg` (`d4`) piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite.
+Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite.
 
 When you attack with this bite and hit a creature that isn't a Construct or an Undead, you can empower yourself in one of the following ways of your choice:
 

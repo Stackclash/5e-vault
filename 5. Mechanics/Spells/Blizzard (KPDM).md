@@ -16,15 +16,25 @@ classes:
   - Wizard
 school: Conjuration
 level: 7
+damage:
+  base: 8d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - cold
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 100 feet
+somatic: true
+verbal: true
 aliases:
   - Blizzard
-concentration: true
 ---
 # Blizzard
 *7th-level, Conjuration*  
@@ -36,6 +46,6 @@ concentration: true
 
 A howling storm of thick snow and ice crystals appears in a cylinder 40 feet high and 40 feet in diameter within range. The area is heavily obscured by the swirling snow. When the storm appears, each creature in the area takes `dice:8d8|noform|noparens|avg` (`8d8`) cold damage, or half as much damage with a successful Constitution saving throw. A creature also makes this saving throw and takes damage when it enters the area for the first time on a turn or ends its turn there. In addition, a creature that takes cold damage from this spell has disadvantage on Constitution saving throws to maintain concentration until the start of its next turn.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 268*

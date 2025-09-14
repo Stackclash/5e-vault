@@ -81,11 +81,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]], [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]] |
-| 5th | [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]], [[5. Mechanics/Spells/Zone Of Truth.md\|zone of truth]] |
-| 9th | [[5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] |
-| 13th | [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] |
-| 17th | [[5. Mechanics/Spells/Commune.md\|commune]], [[5. Mechanics/Spells/Flame Strike.md\|flame strike]] |
+| 3rd | [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]], [[/5. Mechanics/Spells/Sanctuary.md\|sanctuary]] |
+| 5th | [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]], [[/5. Mechanics/Spells/Zone Of Truth.md\|zone of truth]] |
+| 9th | [[/5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] |
+| 13th | [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[/5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] |
+| 17th | [[/5. Mechanics/Spells/Commune.md\|commune]], [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]] |
 ^oath-of-devotion-spells
 
 ### Channel Divinity (Level 3)
@@ -112,7 +112,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ### Purity of Spirit (Level 15)
 
-Beginning at 15th level, you are always under the effects of a [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] spell.
+Beginning at 15th level, you are always under the effects of a [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] spell.
 
 ### Holy Nimbus (Level 20)
 

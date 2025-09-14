@@ -15,14 +15,14 @@ tags:
 aliases:
   - Vegepygmy Chief
 ---
-# [[5. Mechanics\Bestiary\Plant\Vegepygmy Chief (MPMM).md|Vegepygmy Chief]]
+# [[5. Mechanics/Bestiary/Plant/Vegepygmy Chief (MPMM).md|Vegepygmy Chief]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*
 
-As a [[5. Mechanics/Bestiary/Plant/Vegepygmy (MPMM).md|vegepygmy]] ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way [[5. Mechanics/Traps Hazards/Russet Mold (VGM).md|russet mold]] does.
+As a [[/5. Mechanics/Bestiary/Plant/Vegepygmy (MPMM).md|vegepygmy]] ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way [[/5. Mechanics/Traps Hazards/Russet Mold (VGM).md|russet mold]] does.
 
 ## Vegepygmies
 
-Vegepygmies are fungus creatures that live in simple bands, hunting for sustenance and spreading the spores by which they reproduce. Also called mold folk or moldies, vegepygmies inhabit dark, moist areas, so they're most commonly found underground or in forests where little sunlight penetrates. A vegepygmy feels kinship with other plant and fungus creatures, and thus vegepygmy bands coexist well with creatures such as [[5. Mechanics/Bestiary/Plant/Myconid Adult.md|myconid adults]], [[5. Mechanics/Bestiary/Plant/Shrieker.md|shriekers]], and [[5. Mechanics/Bestiary/Plant/Violet Fung(US).md|violet fungi]].
+Vegepygmies are fungus creatures that live in simple bands, hunting for sustenance and spreading the spores by which they reproduce. Also called mold folk or moldies, vegepygmies inhabit dark, moist areas, so they're most commonly found underground or in forests where little sunlight penetrates. A vegepygmy feels kinship with other plant and fungus creatures, and thus vegepygmy bands coexist well with creatures such as [[/5. Mechanics/Bestiary/Plant/Myconid Adult.md|myconid adults]], [[/5. Mechanics/Bestiary/Plant/Shrieker.md|shriekers]], and [[/5. Mechanics/Bestiary/Plant/Violet Fung(US).md|violet fungi]].
 
 Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, so they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can't speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and tapping. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
 
@@ -50,7 +50,8 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
 "damage_resistances": "lightning, piercing"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Vegepygmy"
 "cr": "2"
 "traits":
@@ -65,11 +66,11 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 "actions":
   - "desc": "The vegepygmy makes two Claw attacks or two melee Spear attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) slashing damage."
     "name": "Claws"
-  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
       \ damage if used with two hands to make a melee attack."
     "name": "Spear"
   - "desc": "A 15-foot-radius cloud of toxic spores extends out from the vegepygmy.\
@@ -83,7 +84,7 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Plant/token/vegepygmy-chief-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Plant/token/vegepygmy-chief-mpmm.webp"
 ```
 ^statblock
 

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: underdark
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Grimlock
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Grimlock.md|Grimlock]]
+# [[5. Mechanics/Bestiary/Humanoid/Grimlock.md|Grimlock]]
 *Source: Monster Manual p. 175, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
@@ -63,8 +63,8 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]"
-"senses": "blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius),\
-  \ passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft. or 10 ft. while\
+  \ deafened (blind beyond this radius), passive Perception 13"
 "languages": "Undercommon"
 "cr": "1/4"
 "traits":
@@ -78,13 +78,13 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
       \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-      \ + 3) bludgeoning damage plus 2 (d4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
+      \ + 3) bludgeoning damage plus 2 (1d4) piercing damage."
     "name": "Spiked Bone Club"
 "source":
   - "MM"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Humanoid/token/grimlock.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/grimlock.webp"
 ```
 ^statblock
 

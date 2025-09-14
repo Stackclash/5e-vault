@@ -16,7 +16,7 @@ tags:
 aliases:
   - Retriever
 ---
-# [[5. Mechanics\Bestiary\Construct\Retriever (MPMM).md|Retriever]]
+# [[5. Mechanics/Bestiary/Construct/Retriever (MPMM).md|Retriever]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
@@ -42,9 +42,9 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
   - !!int "4"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  - "dexterity": "+8"
-  - "constitution": "+10"
-  - "wisdom": "+5"
+  - "dexterity": !!int "8"
+  - "constitution": !!int "10"
+  - "wisdom": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
@@ -55,7 +55,8 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 15"
 "languages": "understands Abyssal, Elvish, and Undercommon but can't speak"
 "cr": "14"
 "traits":
@@ -70,7 +71,7 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
   - "desc": "The retriever makes two Foreleg attacks, and it uses Force Beam or Paralyzing\
       \ Beam, if available."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 15\
       \ (2d8 + 6) slashing damage."
     "name": "Foreleg"
   - "desc": "The retriever targets one creature it can see within 60 feet of it. The\
@@ -87,14 +88,14 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
     "name": "Paralyzing Beam (Recharge 5-6)"
   - "desc": "The retriever casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n3/day each: [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (only self\
+      \n**3/day each:** [[/5. Mechanics/Spells/Plane Shift.md|plane shift]] (only self\
       \ and up to one incapacitated creature, which is considered willing for the\
-      \ spell), [[5. Mechanics/Spells/Web.md|web]]"
+      \ spell), [[/5. Mechanics/Spells/Web.md|web]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Construct/token/retriever-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/retriever-mpmm.webp"
 ```
 ^statblock
 

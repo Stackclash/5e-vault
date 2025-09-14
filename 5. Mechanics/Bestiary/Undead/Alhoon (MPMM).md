@@ -15,14 +15,14 @@ tags:
 aliases:
   - Alhoon
 ---
-# [[5. Mechanics\Bestiary\Undead\Alhoon (MPMM).md|Alhoon]]
+# [[5. Mechanics/Bestiary/Undead/Alhoon (MPMM).md|Alhoon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*
 
 > [!quote] A quote from Mordenkainen  
 > 
 > There are many reasons to avoid the way of the lich. An impermanent solution is paradoxical. Take alhoons. They require souls to keep from shriveling. I fail to see the appeal.
 
-Mind flayers that pursue arcane magic are exiled as deviants, and for them no everlasting communion with an elder brain is possible. The road to lichdom offers an alternative way to escape the permanency of death, but that path is long and fraught with barriers. Alhoons are mind flayers who have used a shortcut to attain a lichlike state.
+Mind flayers that pursue arcane magic are exiled as deviants, and for them no everlasting communion with an elder brain is possible. The road to lichdom offers an alternative way to escape the permanency of death, but that path is long and fraught with barriers. Alhoons are mind flayers who have used a shortcut to attain a lich-like state.
 
 Elder brains forbid mind flayers from pursuing magic power aside from psionics, but it isn't an interdiction they must often enforce. Illithids brook no masters but members of their own kind, so it isn't in their nature to bow to any god or otherworldly patron. However, wizardry remains a temptation. In the pages of a spellbook, an illithid sees a system to acquire authority. Through the writings of the wizard who penned it, the illithid perceives the workings of a highly intelligent mind. Most mind flayers who find a spellbook react with abhorrence or indifference, but for some, a spellbook is a gateway to a new way of thinking.
 
@@ -64,10 +64,10 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
   - !!int "17"
 "speed": "30 ft., fly 15 ft. (hover)"
 "saves":
-  - "constitution": "+7"
-  - "intelligence": "+8"
-  - "wisdom": "+7"
-  - "charisma": "+7"
+  - "constitution": !!int "7"
+  - "intelligence": !!int "8"
+  - "wisdom": !!int "7"
+  - "charisma": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+8"
@@ -86,7 +86,8 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 17"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "10"
 "traits":
@@ -99,10 +100,10 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "actions":
   - "desc": "The alhoon makes two Chilling Grasp or Arcane Bolt attacks."
     "name": "Multiattack"
-  - "desc": "Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (4d6)\
+  - "desc": "*Melee Spell Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14 (4d6)\
       \ cold damage, and the alhoon regains 14 hit points."
     "name": "Chilling Grasp"
-  - "desc": "Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 28\
+  - "desc": "*Ranged Spell Attack:* +8 to hit, range 120 ft., one target. *Hit:* 28\
       \ (8d6) force damage."
     "name": "Arcane Bolt"
   - "desc": "The alhoon magically emits psychic energy in a 60-foot cone. Each creature\
@@ -113,13 +114,13 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The alhoon casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      At will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Detect Magic.md|detect\
-      \ magic]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-      \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-      \ [[5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n1/day each:\
-      \ [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]],\
-      \ [[5. Mechanics/Spells/Invisibility.md|invisibility]], [[5. Mechanics/Spells/Modify Memory.md|modify memory]],\
-      \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only), [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
+      **At will:** [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[/5. Mechanics/Spells/Detect Magic.md|detect\
+      \ magic]], [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+      \ [[/5. Mechanics/Spells/Disguise Self.md|disguise self]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[/5. Mechanics/Spells/Prestidigitation.md|prestidigitation]]\n\n**1/day each:**\
+      \ [[/5. Mechanics/Spells/Dominate Monster.md|dominate monster]], [[/5. Mechanics/Spells/Globe Of Invulnerability.md|globe of invulnerability]],\
+      \ [[/5. Mechanics/Spells/Invisibility.md|invisibility]], [[/5. Mechanics/Spells/Modify Memory.md|modify memory]],\
+      \ [[/5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only), [[/5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "The alhoon targets one creature it can see within 60 feet of it that\
@@ -129,7 +130,7 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Undead/token/alhoon-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/alhoon-mpmm.webp"
 ```
 ^statblock
 

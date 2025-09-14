@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'underdark, forest'
 size: Large
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Giant Bat
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Bat.md|Giant Bat]]
+# [[5. Mechanics/Bestiary/Beast/Giant Bat.md|Giant Bat]]
 *Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -35,7 +35,8 @@ aliases:
   - !!int "12"
   - !!int "6"
 "speed": "10 ft., fly 60 ft."
-"senses": "blindsight 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., passive Perception\
+  \ 11"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -45,13 +46,13 @@ aliases:
       \ checks that rely on hearing."
     "name": "Keen Hearing"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5\
       \ (1d6 + 2) piercing damage."
     "name": "Bite"
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-bat.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/giant-bat.webp"
 ```
 ^statblock
 

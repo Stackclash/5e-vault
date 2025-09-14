@@ -16,7 +16,7 @@ tags:
 aliases:
   - Ogre Chain Brute
 ---
-# [[5. Mechanics\Bestiary\Giant\Ogre Chain Brute (MPMM).md|Ogre Chain Brute]]
+# [[5. Mechanics/Bestiary/Giant/Ogre Chain Brute (MPMM).md|Ogre Chain Brute]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*
 
 An ogre chain brute wields a great spiked chain, swinging it with both hands in a wide circle to knock foes off their feet. Alternatively, the ogre can swing the chain in a crushing overhead smash.
@@ -31,7 +31,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
+"ac_class": "[[/5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -43,14 +43,15 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
   - !!int "7"
   - !!int "7"
 "speed": "40 ft."
-"senses": "darkvision 60 ft., passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 8"
 "languages": "Common, Giant"
 "cr": "3"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
       \ + 4) bludgeoning damage."
     "name": "Fist"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage, and the target must make a DC 14 Constitution\
       \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] for\
       \ 1 minute. The target repeats the saving throw if it takes damage and at the\
@@ -65,7 +66,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Giant/token/ogre-chain-brute-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Giant/token/ogre-chain-brute-mpmm.webp"
 ```
 ^statblock
 

@@ -18,16 +18,21 @@ classes:
   - Wizard
 school: Necromancy
 level: 5
+damage:
+  base: 2d4
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: a tupilak idol
 aliases:
   - Grasp of the Tupilak
-material: a tupilak idol
 ---
 # Grasp of the Tupilak
 *5th-level, Necromancy*  
@@ -43,8 +48,8 @@ For example, if you roll a 5 and the target has at least one 5th-level spell slo
 
 If the target has no available spell slots of an appropriate level—for example, if you roll a 2 and the target has expended all of its 1st- and 2nd-level spell slots—then this spell has no effect, including causing no necrotic damage. If a stolen spell slot is of a higher level than you're able to use, treat it as of the highest level you can use.
 
-Unused stolen spell slots disappear, returning whence they came, when you take a long rest or when the creature you stole them from receives the benefit of [[5. Mechanics/Spells/Remove Curse.md\|remove curse]], [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], or comparable magic.
+Unused stolen spell slots disappear, returning whence they came, when you take a long rest or when the creature you stole them from receives the benefit of [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]], [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], or comparable magic.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 76*

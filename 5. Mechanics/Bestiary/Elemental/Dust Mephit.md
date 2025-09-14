@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: desert
 size: Small
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Dust Mephit
 ---
-# [[5. Mechanics\Bestiary\Elemental\Dust Mephit.md|Dust Mephit]]
+# [[5. Mechanics/Bestiary/Elemental/Dust Mephit.md|Dust Mephit]]
 *Source: Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ## Mephits
@@ -56,11 +56,12 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "Auran, Terran"
 "cr": "1/2"
 "traits":
-  - "desc": "The mephit can innately cast [[5. Mechanics/Spells/Sleep.md|sleep]], requiring\
+  - "desc": "The mephit can innately cast [[/5. Mechanics/Spells/Sleep.md|sleep]], requiring\
       \ no material components. Its innate spellcasting ability is Charisma.\n"
     "name": "Innate Spellcasting (1/Day)"
   - "desc": "When the mephit dies, it explodes in a burst of dust. Each creature within\
@@ -70,7 +71,7 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
       \ on itself on a success."
     "name": "Death Burst"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4\
       \ (1d4 + 2) slashing damage."
     "name": "Claws"
   - "desc": "The mephit exhales a 15-foot cone of blinding dust. Each creature in\
@@ -80,7 +81,7 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
     "name": "Blinding Breath (Recharge 6)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Elemental/token/dust-mephit.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/dust-mephit.webp"
 ```
 ^statblock
 

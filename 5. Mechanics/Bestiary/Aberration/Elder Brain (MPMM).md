@@ -14,7 +14,7 @@ tags:
 aliases:
   - Elder Brain
 ---
-# [[5. Mechanics\Bestiary\Aberration\Elder Brain (MPMM).md|Elder Brain]]
+# [[5. Mechanics/Bestiary/Aberration/Elder Brain (MPMM).md|Elder Brain]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173*
 
 The ultimate expression of mind flayer domination, an elder brain sprawls within a vat of viscous brine, cared for by mind flayer minions as it touches the thoughts of creatures near and far. It scrawls upon the canvas of the creatures' minds, rewriting their thoughts and authoring their dreams.
@@ -54,9 +54,9 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - !!int "24"
 "speed": "5 ft., swim 10 ft."
 "saves":
-  - "intelligence": "+10"
-  - "wisdom": "+9"
-  - "charisma": "+12"
+  - "intelligence": !!int "10"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "12"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+10"
@@ -68,7 +68,8 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
     "desc": "+12"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
     "desc": "+12"
-"senses": "blindsight 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft., passive Perception\
+  \ 14"
 "languages": "understands Common, Deep Speech, and Undercommon but can't speak, telepathy\
   \ 5 miles"
 "cr": "14"
@@ -76,8 +77,8 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - "desc": "The elder brain is aware of creatures within 5 miles of it that have\
       \ an Intelligence score of 4 or higher. It knows the distance and direction\
       \ to each creature, as well as each one's Intelligence score, but can't sense\
-      \ anything else about it. A creature protected by a [[5. Mechanics/Spells/Mind Blank.md|mind blank]]\
-      \ spell, a [[5. Mechanics/Spells/Nondetection.md|nondetection]] spell, or similar\
+      \ anything else about it. A creature protected by a [[/5. Mechanics/Spells/Mind Blank.md|mind blank]]\
+      \ spell, a [[/5. Mechanics/Spells/Nondetection.md|nondetection]] spell, or similar\
       \ magic can't be perceived in this manner."
     "name": "Creature Sense"
   - "desc": "If the elder brain fails a saving throw, it can choose to succeed instead."
@@ -90,7 +91,7 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
       \ those creatures telepathically hear each other while connected in this way."
     "name": "Telepathic Hub"
 "actions":
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 20\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 30 ft., one target. *Hit:* 20\
       \ (4d8 + 2) bludgeoning damage. If the target is a Huge or smaller creature,\
       \ it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 15)\
       \ and takes 9 (1d8 + 5) psychic damage at the start of each of its turns until\
@@ -105,10 +106,10 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The elder brain casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 18):\n\nAt will: [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-      \ [[5. Mechanics/Spells/Levitate.md|levitate]]\n\n3/day: [[5. Mechanics/Spells/Modify Memory.md|modify memory]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]],\
-      \ [[5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)"
+      \ DC 18):\n\n**At will:** [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+      \ [[/5. Mechanics/Spells/Levitate.md|levitate]]\n\n**3/day:** [[/5. Mechanics/Spells/Modify Memory.md|modify memory]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Dominate Monster.md|dominate monster]],\
+      \ [[/5. Mechanics/Spells/Plane Shift.md|plane shift]] (self only)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The elder brain targets one [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
@@ -127,10 +128,42 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
       \ The elder brain gains insight into the target's emotional state and foremost\
       \ thoughts (including worries, loves, and hates)."
     "name": "Sense Thoughts"
+"lair_actions":
+  - "desc": "On initiative count 20 (losing initiative ties), an elder brain can take\
+      \ one of the following lair actions; the elder brain can't take the same lair\
+      \ action two rounds in a row:\n\n- **Force Wall.** The elder brain casts [[/5. Mechanics/Spells/Wall Of Force.md|wall\
+      \ of force]].  \n- **Psionic Anchor.** The\
+      \ elder brain targets one creature it can sense within 120 feet of it and anchors\
+      \ it by sheer force of will. The target must make a DC 18 Charisma saving throw.\
+      \ On a failed save, its speed is reduced to 0, and it can't teleport. It can\
+      \ repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success.  \n- **Psychic Inspiration.** The elder brain targets\
+      \ one friendly creature it can sense within 120 feet of it. The target has a\
+      \ flash of inspiration and gains advantage on one attack roll, ability check,\
+      \ or saving throw it makes before the end of its next turn.  "
+    "name": ""
+"regional_effects":
+  - "desc": "The territory within 5 miles of an elder brain is altered by the creature's\
+      \ psionic presence, which creates one or more of the following effects:\n\n\
+      - **Paranoia.** Creatures within 5 miles of an elder brain feel as if they are\
+      \ being followed, even when they're not.  \n- **Psychic Whispers.** Any creature\
+      \ with which the elder brain has formed a psychic link hears faint, incomprehensible\
+      \ whispers in the deepest recesses of its mind. This psychic detritus consists\
+      \ of the elder brain's stray thoughts commingled with those of other creatures\
+      \ to which it is linked.  \n- **Telepathic Eavesdropping.** The elder brain\
+      \ can overhear any telepathic conversation within 5 miles of it. The creature\
+      \ that initiated the telepathic conversation makes a DC 18 Wisdom saving throw\
+      \ when telepathic contact is first established. If the save is successful, the\
+      \ creature is aware that something is eavesdropping. The nature of the eavesdropper\
+      \ isn't revealed.  \n\nIf the elder brain dies, these effects immediately end."
+    "name": ""
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the elder brain can expend a use to take one of the following actions. The\
+  \ elder brain regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The elder brain targets one creature within 120 feet of it with which\
       \ it has a psychic link. The elder brain breaks the creature's [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
-      \ on a spell it has cast. The creature also takes 2 (d4) psychic damage per\
+      \ on a spell it has cast. The creature also takes 2 (1d4) psychic damage per\
       \ level of the spell."
     "name": "Break Concentration"
   - "desc": "The elder brain targets one creature within 120 feet of it with which\
@@ -144,44 +177,10 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
     "name": "Sever Psychic Link"
   - "desc": "The elder brain makes one Tentacle attack."
     "name": "Tentacle (Costs 2 Actions)"
-"lair_actions":
-  - "desc": "On initiative count 20 (losing initiative ties), an elder brain can take\
-      \ one of the following lair actions; the elder brain can't take the same lair\
-      \ action two rounds in a row:"
-    "name": ""
-  - "desc": "- Force Wall. The elder brain casts [[5. Mechanics/Spells/Wall Of Force.md|wall of force]].\
-      \  \n- Psionic Anchor. The elder brain targets one creature it can sense\
-      \ within 120 feet of it and anchors it by sheer force of will. The target must\
-      \ make a DC 18 Charisma saving throw. On a failed save, its speed is reduced\
-      \ to 0, and it can't teleport. It can repeat the saving throw at the end of\
-      \ each of its turns, ending the effect on itself on a success.  \n- Psychic\
-      \ Inspiration. The elder brain targets one friendly creature it can sense\
-      \ within 120 feet of it. The target has a flash of inspiration and gains advantage\
-      \ on one attack roll, ability check, or saving throw it makes before the end\
-      \ of its next turn.  "
-    "name": ""
-"regional_effects":
-  - "desc": "The territory within 5 miles of an elder brain is altered by the creature's\
-      \ psionic presence, which creates one or more of the following effects:"
-    "name": ""
-  - "desc": "- Paranoia. Creatures within 5 miles of an elder brain feel as if\
-      \ they are being followed, even when they're not.  \n- Psychic Whispers.\
-      \ Any creature with which the elder brain has formed a psychic link hears faint,\
-      \ incomprehensible whispers in the deepest recesses of its mind. This psychic\
-      \ detritus consists of the elder brain's stray thoughts commingled with those\
-      \ of other creatures to which it is linked.  \n- Telepathic Eavesdropping.\
-      \ The elder brain can overhear any telepathic conversation within 5 miles of\
-      \ it. The creature that initiated the telepathic conversation makes a DC 18\
-      \ Wisdom saving throw when telepathic contact is first established. If the save\
-      \ is successful, the creature is aware that something is eavesdropping. The\
-      \ nature of the eavesdropper isn't revealed.  "
-    "name": ""
-  - "desc": "If the elder brain dies, these effects immediately end."
-    "name": ""
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Aberration/token/elder-brain-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/elder-brain-mpmm.webp"
 ```
 ^statblock
 

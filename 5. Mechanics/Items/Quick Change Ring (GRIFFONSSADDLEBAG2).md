@@ -26,18 +26,18 @@ When found, the ring has a 50 percent chance to have a set of bound armor in its
 
 | dice: d12 | Armor |
 |-----------|-------|
-| 1 | [[5. Mechanics/Items/Padded Armor.md\|Padded]] |
-| 2 | [[5. Mechanics/Items/Leather Armor.md\|Leather]] |
-| 3 | [[5. Mechanics/Items/Studded Leather Armor.md\|Studded Leather]] |
-| 4 | [[5. Mechanics/Items/Hide Armor.md\|Hide]] |
-| 5 | [[5. Mechanics/Items/Chain Shirt.md\|Chain shirt]] |
-| 6 | [[5. Mechanics/Items/Scale Mail.md\|Scale mail]] |
-| 7 | [[5. Mechanics/Items/Breastplate.md\|Breastplate]] |
-| 8 | [[5. Mechanics/Items/Half Plate Armor.md\|Half plate]] |
-| 9 | [[5. Mechanics/Items/Ring Mail.md\|Ring mail]] |
-| 10 | [[5. Mechanics/Items/Chain Mail.md\|Chain mail]] |
-| 11 | [[5. Mechanics/Items/Splint Armor.md\|Splint]] |
-| 12 | [[5. Mechanics/Items/Plate Armor.md\|Plate]] |
+| 1 | [[/5. Mechanics/Items/Padded Armor.md\|Padded]] |
+| 2 | [[/5. Mechanics/Items/Leather Armor.md\|Leather]] |
+| 3 | [[/5. Mechanics/Items/Studded Leather Armor.md\|Studded Leather]] |
+| 4 | [[/5. Mechanics/Items/Hide Armor.md\|Hide]] |
+| 5 | [[/5. Mechanics/Items/Chain Shirt.md\|Chain shirt]] |
+| 6 | [[/5. Mechanics/Items/Scale Mail.md\|Scale mail]] |
+| 7 | [[/5. Mechanics/Items/Breastplate.md\|Breastplate]] |
+| 8 | [[/5. Mechanics/Items/Half Plate Armor.md\|Half plate]] |
+| 9 | [[/5. Mechanics/Items/Ring Mail.md\|Ring mail]] |
+| 10 | [[/5. Mechanics/Items/Chain Mail.md\|Chain mail]] |
+| 11 | [[/5. Mechanics/Items/Splint Armor.md\|Splint]] |
+| 12 | [[/5. Mechanics/Items/Plate Armor.md\|Plate]] |
 ^armor
 
 *Source: The Griffon's Saddlebag, Book 2 p. 140*

@@ -30,16 +30,14 @@ level: 1
 ritual: true
 time: 1 hour
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 10 feet
+somatic: true
+verbal: true
+material: >-
+  10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a
+  brass brazier
 aliases:
   - Find Familiar
-range: 10 feet
-material: >-
-  10gp worth of charcoal, incense, and herbs that must be consumed by fire in a
-  brass brazier.
 ---
 # Find Familiar
 *1st-level, Conjuration (ritual)*  
@@ -49,7 +47,7 @@ material: >-
 - **Components:** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)
 - **Duration:** Instantaneous
 
-You gain the service of a familiar, a spirit that takes an animal form you choose: [[5. Mechanics/Bestiary/Beast/Bat.md\|bat]], [[5. Mechanics/Bestiary/Beast/Cat.md\|cat]], [[5. Mechanics/Bestiary/Beast/Crab.md\|crab]], [[5. Mechanics/Bestiary/Beast/Frog.md\|frog]] (toad), [[5. Mechanics/Bestiary/Beast/Hawk.md\|hawk]], [[5. Mechanics/Bestiary/Beast/Lizard.md\|lizard]], [[5. Mechanics/Bestiary/Beast/Octop(US).md\|octopus]], [[5. Mechanics/Bestiary/Beast/Owl.md\|owl]], [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|poisonous snake]], fish ([[5. Mechanics/Bestiary/Beast/Quipper.md\|quipper]]), [[5. Mechanics/Bestiary/Beast/Rat.md\|rat]], [[5. Mechanics/Bestiary/Beast/Raven.md\|raven]], [[5. Mechanics/Bestiary/Beast/Sea Horse.md\|sea horse]], [[5. Mechanics/Bestiary/Beast/Spider.md\|spider]], or [[5. Mechanics/Bestiary/Beast/Weasel.md\|weasel]]. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
+You gain the service of a familiar, a spirit that takes an animal form you choose: [[/5. Mechanics/Bestiary/Beast/Bat.md\|bat]], [[/5. Mechanics/Bestiary/Beast/Cat.md\|cat]], [[/5. Mechanics/Bestiary/Beast/Crab.md\|crab]], [[/5. Mechanics/Bestiary/Beast/Frog.md\|frog]] (toad), [[/5. Mechanics/Bestiary/Beast/Hawk.md\|hawk]], [[/5. Mechanics/Bestiary/Beast/Lizard.md\|lizard]], [[/5. Mechanics/Bestiary/Beast/Octop(US).md\|octopus]], [[/5. Mechanics/Bestiary/Beast/Owl.md\|owl]], [[/5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|poisonous snake]], fish ([[/5. Mechanics/Bestiary/Beast/Quipper.md\|quipper]]), [[/5. Mechanics/Bestiary/Beast/Rat.md\|rat]], [[/5. Mechanics/Bestiary/Beast/Raven.md\|raven]], [[/5. Mechanics/Bestiary/Beast/Sea Horse.md\|sea horse]], [[/5. Mechanics/Bestiary/Beast/Spider.md\|spider]], or [[/5. Mechanics/Bestiary/Beast/Weasel.md\|weasel]]. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
 
 > [!note]
 > Additional animal form choices may be available at the DM's discretion.
@@ -64,6 +62,8 @@ You can't have more than one familiar at a time. If you cast this spell while yo
 
 Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
 
-**Classes**: [Sorcerer (Fey Soul)](compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Druid (Circle of the Spirits)](compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Cat Domain)](compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of the Spirits)](/compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Fey Soul)](/compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Ritual Caster.md\|Ritual Caster]]
 
 *Source: Player's Handbook p. 240. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

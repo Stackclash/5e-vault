@@ -14,7 +14,7 @@ tags:
 aliases:
   - Giant Octopus
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Octop(US).md|Giant Octopus]]
+# [[5. Mechanics/Bestiary/Beast/Giant Octop(US).md|Giant Octopus]]
 *Source: Monster Manual p. 326, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -39,7 +39,8 @@ aliases:
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": ""
 "cr": "1"
 "traits":
@@ -51,7 +52,7 @@ aliases:
   - "desc": "The octopus can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 15 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 15 ft., one target. *Hit:* 10\
       \ (2d6 + 3) bludgeoning damage. If the target is a creature, it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 16). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
       \ and the octopus can't use its tentacles on another target."
@@ -64,7 +65,7 @@ aliases:
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-octopus.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/giant-octopus.webp"
 ```
 ^statblock
 

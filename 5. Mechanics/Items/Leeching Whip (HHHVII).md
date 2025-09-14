@@ -12,7 +12,7 @@ one-hand-damage: 1d4 slashing
 weight: 3
 ---
 # Leeching Whip
-*Weapon ([[5. Mechanics/Items/Whip.md\|whip]]), rare*  
+*Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), rare*  
 
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]

@@ -19,7 +19,7 @@ This wand is made of a partially rotted tree branch with a polished, bug-bitten 
 
 ## Spells
 
-While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 15) from it: [[5. Mechanics/Spells/Blight.md\|blight]] (3 charges) or [[5. Mechanics/Spells/Insect Plague.md\|insect plague]] (4 charges).
+While holding the wand, you can use an action to expend some of its charges to cast one of the following spells (save DC 15) from it: [[/5. Mechanics/Spells/Blight.md\|blight]] (3 charges) or [[/5. Mechanics/Spells/Insect Plague.md\|insect plague]] (4 charges).
 
 ## Termite Assault
 

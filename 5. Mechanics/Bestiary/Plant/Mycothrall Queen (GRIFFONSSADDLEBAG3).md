@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mycothrall Queen
 ---
-# [[5. Mechanics\Bestiary\Plant\Mycothrall Queen (GRIFFONSSADDLEBAG3).md|Mycothrall Queen]]
+# [[5. Mechanics/Bestiary/Plant/Mycothrall Queen (GRIFFONSSADDLEBAG3).md|Mycothrall Queen]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The prime consciousness of the collective Mycothrall Sovereignty. The Queen is stretched thin across the Lunar Sea after launching an all-out attack against Styggar's Preserver constructs. She hopes to eventually take complete control of the Lunar Sea and overrun it onto the planet below, further spreading her collective conscience.
@@ -39,9 +39,9 @@ Creatures that have been transformed by her spores and joined the Sovereignty ga
   - !!int "15"
 "speed": "30 ft."
 "saves":
-  - "constitution": "+6"
-  - "wisdom": "+4"
-  - "charisma": "+4"
+  - "constitution": !!int "6"
+  - "wisdom": !!int "4"
+  - "charisma": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+6"
@@ -50,7 +50,8 @@ Creatures that have been transformed by her spores and joined the Sovereignty ga
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 14"
 "languages": "telepathy 120 ft."
 "cr": "4"
 "traits":
@@ -67,7 +68,7 @@ Creatures that have been transformed by her spores and joined the Sovereignty ga
       \ telepathically with any other member of the Hivemind, as long as they are\
       \ on the same plane of existence."
     "name": "Hivemind"
-  - "desc": "The queen takes 5 (d10) radiant damage if she starts her turn in sunlight.\
+  - "desc": "The queen takes 5 (1d10) radiant damage if she starts her turn in sunlight.\
       \ While in sunlight, she has disadvantage on ability checks, attack rolls, and\
       \ saving throws."
     "name": "Sunlight Susceptibility"
@@ -75,7 +76,7 @@ Creatures that have been transformed by her spores and joined the Sovereignty ga
   - "desc": "The queen uses her Eject Spores; before or after doing so, she makes\
       \ one clutch attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) bludgeoning damage plus 10 (4d4) poison damage. If the target is\
       \ Medium or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]."
     "name": "Clutch"
@@ -94,7 +95,7 @@ Creatures that have been transformed by her spores and joined the Sovereignty ga
   - "desc": "The target must succeed on a DC 14 Constitution saving throw against\
       \ disease or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] until\
       \ the disease is cured. Every 24 hours that elapse, the diseased target must\
-      \ repeat the saving throw, reducing its hit point maximum by 5 (d10) on a failure.\
+      \ repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure.\
       \ The disease is cured on a success. If the target dies while diseased in this\
       \ way, it immediately rises as a mycothrall (see the sidebar) and regains all\
       \ its hit points.\n\nThe queen has total control of the mycothrall subject."

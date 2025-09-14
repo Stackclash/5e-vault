@@ -14,12 +14,18 @@ classes:
   - Ranger
 school: Transmutation
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 2
+  types: []
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Wolfsong
 ---
@@ -39,6 +45,6 @@ A creature that understands the message is not compelled to act in a particular 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can name another specific recipient for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 122*

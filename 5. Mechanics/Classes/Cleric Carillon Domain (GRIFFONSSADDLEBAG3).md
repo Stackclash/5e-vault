@@ -54,11 +54,11 @@ Clerics that revere the meditative toll of bells are practitioners of the carill
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Alarm.md\|alarm]], [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] |
-| 3rd | [[5. Mechanics/Spells/Knock.md\|knock]], [[5. Mechanics/Spells/Shatter.md\|shatter]] |
-| 5th | [[5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]], [[5. Mechanics/Spells/Sending.md\|sending]] |
-| 7th | [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Mordenkainens Faithful Hound.md\|faithful hound]] |
-| 9th | [[5. Mechanics/Spells/Passwall.md\|passwall]], [[5. Mechanics/Spells/Raise Dead.md\|raise dead]] |
+| 1st | [[/5. Mechanics/Spells/Alarm.md\|alarm]], [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]] |
+| 3rd | [[/5. Mechanics/Spells/Knock.md\|knock]], [[/5. Mechanics/Spells/Shatter.md\|shatter]] |
+| 5th | [[/5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]], [[/5. Mechanics/Spells/Sending.md\|sending]] |
+| 7th | [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[/5. Mechanics/Spells/Mordenkainens Faithful Hound.md\|faithful hound]] |
+| 9th | [[/5. Mechanics/Spells/Passwall.md\|passwall]], [[/5. Mechanics/Spells/Raise Dead.md\|raise dead]] |
 ^carillon-domain-spells
 
 ### Bonus Proficiencies (Level 1)

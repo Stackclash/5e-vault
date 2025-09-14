@@ -27,7 +27,7 @@ This leather bag is filled with magic wooden blocks, which are painted with vibr
 | 6 | Triangle | 3 in. on a side, 1 in. tall |
 ^block-shape-dimensions
 
-You can assemble these blocks into various constructions, creating stacks of blocks representative of creatures or objects. You can use an action to tap a Small or smaller construction using the blocks and speak their command word, animating the construction as if by the [[5. Mechanics/Spells/Animate Objects.md\|animate objects]] spell (no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required). The animated blocks can't attack, but are capable of performing simple tasks.
+You can assemble these blocks into various constructions, creating stacks of blocks representative of creatures or objects. You can use an action to tap a Small or smaller construction using the blocks and speak their command word, animating the construction as if by the [[/5. Mechanics/Spells/Animate Objects.md\|animate objects]] spell (no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required). The animated blocks can't attack, but are capable of performing simple tasks.
 
 Alternatively, when you tap the blocks, you can cause them to transform into a larger assembled form, with no one side measuring more than 10 feet. At the GM's discretion, the blocks function in a semblance that you'd expect based on the constructed form. For example, four small cylinders beneath a square block would function as a make-shift cart when transformed, despite it not having any axles. A player could also add sides to the cart using planks, but you would need to find a means to pull it separately.
 

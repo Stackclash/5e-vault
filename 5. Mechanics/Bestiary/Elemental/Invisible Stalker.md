@@ -14,7 +14,7 @@ tags:
 aliases:
   - Invisible Stalker
 ---
-# [[5. Mechanics\Bestiary\Elemental\Invisible Stalker.md|Invisible Stalker]]
+# [[5. Mechanics/Bestiary/Elemental/Invisible Stalker.md|Invisible Stalker]]
 *Source: Monster Manual p. 192, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 An invisible stalker is an air elemental that has been summoned from its native plane and transformed by powerful magic. Its sole purpose is to hunt down creatures and retrieve objects for its summoner. When it is defeated or the magic that binds it expires, an invisible stalker vanishes in a gust of wind.
@@ -62,7 +62,8 @@ An invisible stalker requires no air, food, drink, or sleep.
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., passive Perception 18"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 18"
 "languages": "Auran, understands Common but doesn't speak it"
 "cr": "6"
 "traits":
@@ -75,14 +76,14 @@ An invisible stalker requires no air, food, drink, or sleep.
 "actions":
   - "desc": "The stalker makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) bludgeoning damage."
     "name": "Slam"
 "source":
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Elemental/token/invisible-stalker.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/invisible-stalker.webp"
 ```
 ^statblock
 

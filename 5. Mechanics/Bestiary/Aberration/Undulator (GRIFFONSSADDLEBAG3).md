@@ -13,7 +13,7 @@ tags:
 aliases:
   - Undulator
 ---
-# [[5. Mechanics\Bestiary\Aberration\Undulator (GRIFFONSSADDLEBAG3).md|Undulator]]
+# [[5. Mechanics/Bestiary/Aberration/Undulator (GRIFFONSSADDLEBAG3).md|Undulator]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The Terror of the Deep, the Shadow's Tentacles, the Droning Kraken—all of these are names used to describe the horrific undulator. Eyeless yet ever-watching, this inscrutable, aberrant entity of unknown origins lurks within the deepest shadowy recesses of the earth. Just to be near the monstrous thing is to risk shattering the psyche, as its suckered physical and shadowy magical tendrils lash out indiscriminately. To make matters worse, it even possesses potent, mind-altering magic that imposes its own will over its prey, charming them into submission and obedience. In some parts of Ilridun, even speaking its name is taboo, seen as a potential invitation of its presence.
@@ -37,9 +37,9 @@ The Terror of the Deep, the Shadow's Tentacles, the Droning Kraken—all of thes
   - !!int "20"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
-  - "dexterity": "+7"
-  - "intelligence": "+9"
-  - "wisdom": "+8"
+  - "dexterity": !!int "7"
+  - "intelligence": !!int "9"
+  - "wisdom": !!int "8"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+10"
@@ -49,7 +49,8 @@ The Terror of the Deep, the Shadow's Tentacles, the Droning Kraken—all of thes
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 300 ft. (blind beyond this radius), passive Perception 18"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 300 ft. (blind beyond\
+  \ this radius), passive Perception 18"
 "languages": "Deep Speech"
 "cr": "15"
 "traits":
@@ -66,10 +67,10 @@ The Terror of the Deep, the Shadow's Tentacles, the Droning Kraken—all of thes
   - "desc": "The undulator can use its Resonate. It then makes three attacks, only\
       \ one of which can be with its beak."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 18\
       \ (3d8 + 5) piercing damage."
     "name": "Beak"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:* 15\
       \ (3d6 + 5) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 15). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
       \ The undulator has twelve tentacles, each of which can grapple one target."
@@ -86,6 +87,9 @@ The Terror of the Deep, the Shadow's Tentacles, the Droning Kraken—all of thes
       \ a creature's saving throw is successful or the effect ends for it, the creature\
       \ is immune to the undulator's Resonate for the next 24 hours."
     "name": "Resonate (Recharge 5-6)"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the undulator can expend a use to take one of the following actions. The\
+  \ undulator regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The undulator makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
       \ check.\n\nIt can do so using its senses, or using the senses of one creature\

@@ -20,7 +20,7 @@ Collecting a herb is known as **gathering**, which is further broken down into t
 Foraging refers to wandering through one's environment and simply gathering whatever they may come across. It may be done as a downtime activity, or while the party is travelling at a normal or slower pace. For every 8 hours that a character spends foraging, they may make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) check, with the results determined by the table below. Results are cumulative: each row's results also earn the foraging character the results of the rows above it.
 
 > [!embed-table]- Foraging Herb Table
-> ![[5. Mechanics/Tables/Foraging Herb Table (HHBH).md\|Foraging Herb Table]]
+> ![[/5. Mechanics/Tables/Foraging Herb Table (HHBH).md\|Foraging Herb Table]]
 
 > [!embed-variantrule]- Optional Rule: Identifying Herbs
 > ![[/5. Mechanics/Rules/Variant Rules/Optional Rule Identifying Herbs (HHBH).md\|Optional Rule: Identifying Herbs]]
@@ -40,7 +40,7 @@ On a success they find the herb they were looking for. On a failure, it is deeme
 > To use the table, the player [[/5. Mechanics/Rules/Actions.md#Cast%20a%20Spell\|casting the spell]] must roll a `dice:d100|noform|noparens|avg` (`d100`). If they roll equal to or above the number listed next to the herb they are trying to locate's corresponding position on their herb table, then the herb is present and the spell leads them to it.
 > 
 > > [!embed-table]- Herb's Relative Rarity Table
-> > ![[5. Mechanics/Tables/Herbs Relative Rarity Table (HHBH).md\|Herb's Relative Rarity Table]]
+> > ![[/5. Mechanics/Tables/Herbs Relative Rarity Table (HHBH).md\|Herb's Relative Rarity Table]]
 > 
 > Note that this table only applies to special herbs. If your players wish to find many common herbs, that should have little impact on game balance.
 ^resolving-the-locate-animals-and-plants-spell
@@ -58,6 +58,6 @@ A creature may only be under the effect of one herb ata time. If a creature atte
 
 Many herbs are quick and simple to apply, usually just using an action to eat them or spending a bit of time rubbing their juices on one's equipment. However, other herbs require a much longer and more involved process—needing to be smoked, boiled, peeled, burned, etc. before they become usable. Herbs that require a process such as this are said to **require preparation**.
 
-To prepare a herb, a character must have a [[5. Mechanics/Items/Herbalism Kit.md\|herbalism kit]] in their possession and spend an hour during a short or long rest processing the herb appropriately. This is considered a light and non-strenuous activity for the purpose of calculating rest requirements. If done during a short rest, that character may still recover hit points by expending hit die as usual. Once the rest has been finished, the herb must be used immediately. The character preparing the herb and the character using the herb do not need to be the same—one character can prepare the herb, while another uses it at the end of the rest.
+To prepare a herb, a character must have a [[/5. Mechanics/Items/Herbalism Kit.md\|herbalism kit]] in their possession and spend an hour during a short or long rest processing the herb appropriately. This is considered a light and non-strenuous activity for the purpose of calculating rest requirements. If done during a short rest, that character may still recover hit points by expending hit die as usual. Once the rest has been finished, the herb must be used immediately. The character preparing the herb and the character using the herb do not need to be the same—one character can prepare the herb, while another uses it at the end of the rest.
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHbH/UsingHerbs.webp#center)

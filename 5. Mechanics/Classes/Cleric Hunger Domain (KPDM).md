@@ -54,11 +54,11 @@ You have dedicated your life to the satisfaction of your appetites, sometimes at
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/False Life.md\|false life]], [[5. Mechanics/Spells/Goodberry.md\|goodberry]] |
-| 3rd | [[5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], [[5. Mechanics/Spells/Suggestion.md\|suggestion]] |
-| 5th | [[5. Mechanics/Spells/Create Food And Water.md\|create food and water]], [[5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]] |
-| 7th | [[5. Mechanics/Spells/Blight.md\|blight]], dessicating breath |
-| 9th | [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]], [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
+| 1st | [[/5. Mechanics/Spells/False Life.md\|false life]], [[/5. Mechanics/Spells/Goodberry.md\|goodberry]] |
+| 3rd | [[/5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], [[/5. Mechanics/Spells/Suggestion.md\|suggestion]] |
+| 5th | [[/5. Mechanics/Spells/Create Food And Water.md\|create food and water]], [[/5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]] |
+| 7th | [[/5. Mechanics/Spells/Blight.md\|blight]], dessicating breath |
+| 9th | [[/5. Mechanics/Spells/Cloudkill.md\|cloudkill]], [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
 ^hunger-domain-spells
 
 ### Unsated (Level 1)
@@ -71,7 +71,7 @@ You gain proficiency with heavy armor.
 
 ### Channel Divinity: Ferocious Feast (Level 2)
 
-At 2nd level, you can use your channel divinity to gain a bite attack for 1 minute. The bite does `dice:1d6|noform|noparens|avg` (`d6`) + your Strength modifier piercing damage. On a critical hit, you can also add your Wisdom modifier to the damage roll in addition to the normal benefits of a critical hit.
+At 2nd level, you can use your channel divinity to gain a bite attack for 1 minute. The bite does `dice:1d6|noform|noparens|avg` (`1d6`) + your Strength modifier piercing damage. On a critical hit, you can also add your Wisdom modifier to the damage roll in addition to the normal benefits of a critical hit.
 
 ### Revitalize (Level 6)
 
@@ -79,7 +79,7 @@ Beginning at 6th level, you can remove the effect of a disease, a poison or the 
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with necrotic energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) necrotic damage to the target. When the cleric reaches 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with necrotic energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) necrotic damage to the target. When the cleric reaches 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Ravening Horde (Level 17)
 

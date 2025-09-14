@@ -57,16 +57,16 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[5. Mechanics/Spells/Bane.md\|bane]] |
-| 5th | [[5. Mechanics/Spells/Misty Step.md\|misty step]] |
-| 9th | [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] |
-| 13th | [[5. Mechanics/Spells/Blight.md\|blight]] |
-| 17th | [[5. Mechanics/Spells/Hallow.md\|hallow]] |
+| 3rd | [[/5. Mechanics/Spells/Bane.md\|bane]] |
+| 5th | [[/5. Mechanics/Spells/Misty Step.md\|misty step]] |
+| 9th | [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]] |
+| 13th | [[/5. Mechanics/Spells/Blight.md\|blight]] |
+| 17th | [[/5. Mechanics/Spells/Hallow.md\|hallow]] |
 ^gravetender-spells
 
 ### Touch of the Departed (Level 3)
 
-Also at 3rd level, you gain the ability to connect with the dead and preserve the lives of those teetering on the edge. You learn the [[5. Mechanics/Spells/Spare The Dying.md\|spare the dying]] cantrip, which counts as a ranger spell for you, and undead are considered to be a favored enemy for you, if they weren't already.
+Also at 3rd level, you gain the ability to connect with the dead and preserve the lives of those teetering on the edge. You learn the [[/5. Mechanics/Spells/Spare The Dying.md\|spare the dying]] cantrip, which counts as a ranger spell for you, and undead are considered to be a favored enemy for you, if they weren't already.
 
 In addition, you can use an action to touch a corpse to learn its relative age when it died (in years), as well as the kind of creature it is, including its species or race if it's a humanoid. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses of it whenever you finish a long rest.
 

@@ -13,7 +13,7 @@ one-hand-damage: 1d8 bludgeoning
 weight: 2
 ---
 # Attack-In-The-Box
-*Weapon ([[5. Mechanics/Items/Flail.md\|flail]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Attack-In-The-Box.webp#right)  
 
 - **Damage**: 1d8 bludgeoning

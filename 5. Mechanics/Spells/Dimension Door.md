@@ -44,19 +44,25 @@ classes:
   - Wizard
 school: Conjuration
 level: 4
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - force
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
+range: 500 feet
+somatic: false
+verbal: true
 aliases:
   - Dimension Door
-range: 500 feet
-damageType: Force
 ---
 # Dimension Door
 *4th-level, Conjuration*  
-![[5. Mechanics/Spells/img/dimension-door.webp#right]]  
+![[/5. Mechanics/Spells/img/dimension-door.webp#right]]  
 
 - **Casting time:** 1 Action
 - **Range:** 500 feet
@@ -69,6 +75,6 @@ You can bring along objects as long as their weight doesn't exceed what you can 
 
 If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take `dice:4d6|noform|noparens|avg` (`4d6`) force damage, and the spell fails to teleport you.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Paladin (Oath of the Open Road)](compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Cat Domain)](compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Cleric (Speed Domain)](compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [Ranger (Fey Wanderer)](compendium/lists/list-spells-classes-fey-wanderer-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Spelldrinker)](compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Druid (Circle of the Eclipse)](compendium/lists/list-spells-classes-circle-of-the-eclipse-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Cleric (Void Domain)](compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Cleric (Labyrinth Domain)](compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Cleric (Travel Domain)](compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](/compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [Cleric (Labyrinth Domain)](/compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [Cleric (Speed Domain)](/compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [Cleric (Travel Domain)](/compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [Cleric (Void Domain)](/compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of the Eclipse)](/compendium/lists/list-spells-classes-circle-of-the-eclipse-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Paladin (Oath of the Open Road)](/compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Paladin (Oath of the Spelldrinker)](/compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Ranger (Fey Wanderer)](/compendium/lists/list-spells-classes-fey-wanderer-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 233. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

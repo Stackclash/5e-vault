@@ -13,7 +13,7 @@ tags:
 aliases:
   - Skeletal Raven
 ---
-# [[5. Mechanics\Bestiary\Undead\Skeletal Raven (GRIFFONSSADDLEBAG3).md|Skeletal Raven]]
+# [[5. Mechanics/Bestiary/Undead/Skeletal Raven (GRIFFONSSADDLEBAG3).md|Skeletal Raven]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Ravens transformed by necromancy to exist perpetually in life-defying undeath. Often found in places of relentless decay or in the realms and lairs of powerful necromancers and liches.
@@ -42,7 +42,8 @@ Ravens transformed by necromancy to exist perpetually in life-defying undeath. O
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": ""
 "cr": "0"
 "traits":
@@ -54,7 +55,7 @@ Ravens transformed by necromancy to exist perpetually in life-defying undeath. O
   - "desc": "The raven doesn't require air, food, drink, or sleep."
     "name": "Undead Nature"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage."
     "name": "Beak"
 "source":

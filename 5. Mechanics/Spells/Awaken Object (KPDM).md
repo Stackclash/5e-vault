@@ -12,16 +12,21 @@ classes:
   - Druid
 school: Transmutation
 level: 8
+damage:
+  base: 1d20+8
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: false
 time: 8 hours
 duration: Until dispelled
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: 'a ruby worth at least 1,000 gp, which the spell consumes'
 aliases:
   - Awaken Object
-material: 'a ruby worth at least 1,000 gp, which the spell consumes'
 ---
 # Awaken Object
 *8th-level, Transmutation*  
@@ -47,6 +52,6 @@ An awakened object needs no air, food, water, or sleep. Damage to an awakened ob
 | L | 50 | 10 | `dice:1d20+6\|noform\|noparens\|text(+6)` to hit, `dice:2d10+2\|noform\|noparens\|avg` (`2d10 + 2`) damage | 14 | 10 | 10 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) | `dice:3d6\|noform\|noparens\|avg` (`3d6`) | `dice:2d6+2\|noform\|noparens\|avg` (`2d6 + 2`) |
 ^awakened-creature-statistics
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 41*

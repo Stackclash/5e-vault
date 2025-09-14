@@ -13,12 +13,26 @@ classes:
   - Sorcerer
 school: Evocation
 level: 1
+damage:
+  base: 2d8
+  scaling:
+    damage: 1d6
+    level: 2
+  types:
+    - acid
+    - cold
+    - fire
+    - force
+    - lightning
+    - poison
+    - psychic
+    - thunder
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 120 feet
+somatic: true
+verbal: true
 aliases:
   - Chaos Bolt
 ---
@@ -52,8 +66,10 @@ If you roll the same number on both `dice:d8|noform|noparens|avg` (`d8`)s, the c
 
 A creature can be targeted only once by each casting of this spell.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, each target takes `dice:1d6|noform|noparens|avg|text(d6)` extra damage of the type rolled for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, each target takes `dice:1d6|noform|noparens|avg|text(1d6)` extra damage of the type rolled for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Xanathar's Guide to Everything p. 151*

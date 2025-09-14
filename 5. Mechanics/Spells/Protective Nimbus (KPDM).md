@@ -21,13 +21,15 @@ level: 3
 ritual: false
 time: 1 Action
 duration: 10 minutes
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: a crystal or glass bead
+area:
+  shape: sphere
+  size: 20
 aliases:
   - Protective Nimbus
-material: a crystal or glass bead
 ---
 # Protective Nimbus
 *3rd-level, Abjuration*  
@@ -39,6 +41,6 @@ material: a crystal or glass bead
 
 You wrap yourself in a corona that sheds bright light in a 20-foot radius and dim light for an additional 20 feet. Until the spell ends, you have resistance to necrotic damage. You can end the spell early by using an action to dismiss it.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 225*

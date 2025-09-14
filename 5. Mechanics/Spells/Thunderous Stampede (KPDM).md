@@ -20,11 +20,22 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+damage:
+  base: null
+  scaling:
+    damage: 1d6
+    level: 3
+  types:
+    - thunder
 ritual: false
 time: 1 Bonus Action
 duration: Instantaneous
-components:
-  - V
+range: Self (30-foot Radius)
+somatic: false
+verbal: true
+area:
+  shape: radius
+  size: 30
 aliases:
   - Thunderous Stampede
 ---
@@ -36,10 +47,10 @@ aliases:
 - **Components:** V
 - **Duration:** Instantaneous
 
-This spell acts as [[5. Mechanics/Spells/Thunderous Charge (KPDM).md\|thunderous charge]], but affecting up to three targets within range, including yourself. A target other than you must use its reaction to move and attack under the effect of this spell.
+This spell acts as [[/5. Mechanics/Spells/Thunderous Charge (KPDM).md\|thunderous charge]], but affecting up to three targets within range, including yourself. A target other than you must use its reaction to move and attack under the effect of this spell.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the distance your targets can move increases by 10 feet, and the attack deals an additional `dice:1d6|noform|noparens|avg|text(d6)` thunder damage, for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the distance your targets can move increases by 10 feet, and the attack deals an additional `dice:1d6|noform|noparens|avg|text(1d6)` thunder damage, for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 114*

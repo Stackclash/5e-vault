@@ -32,7 +32,7 @@ The staff has 10 charges. It regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`
 
 ## Spells
 
-While holding the staff, you can use an action to expend some of its charges to cast either [[5. Mechanics/Spells/Blight.md\|blight]] (4 charges) or [[5. Mechanics/Spells/Ray Of Enfeeblement.md\|ray of enfeeblement]] (2 charges) from it, using your spell attack bonus and spell save DC. Alternatively, you can expend 3 or more of the staff's charges to cast the [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] spell from it, using your spell save DC. For 3 charges, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend, up to 7th level.
+While holding the staff, you can use an action to expend some of its charges to cast either [[/5. Mechanics/Spells/Blight.md\|blight]] (4 charges) or [[/5. Mechanics/Spells/Ray Of Enfeeblement.md\|ray of enfeeblement]] (2 charges) from it, using your spell attack bonus and spell save DC. Alternatively, you can expend 3 or more of the staff's charges to cast the [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]] spell from it, using your spell save DC. For 3 charges, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend, up to 7th level.
 
 ## Rotting Touch
 
@@ -40,6 +40,6 @@ Once per turn when you hit a creature with the staff, you can expend 1 charge to
 
 ## Curse
 
-This staff is cursed, and attuning to it extends the curse to you. You remain cursed until you're targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. While cursed, your hit point maximum is reduced by `dice:3d6|noform|noparens|avg` (`3d6`) each time you drop to 0 hit points. If your hit point maximum is reduced to 0 in this way, you die, and your body is turned to dust. Your hit point maximum remains reduced in this way until you're targeted by the [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, even if the curse on you ends.
+This staff is cursed, and attuning to it extends the curse to you. You remain cursed until you're targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. While cursed, your hit point maximum is reduced by `dice:3d6|noform|noparens|avg` (`3d6`) each time you drop to 0 hit points. If your hit point maximum is reduced to 0 in this way, you die, and your body is turned to dust. Your hit point maximum remains reduced in this way until you're targeted by the [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, even if the curse on you ends.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

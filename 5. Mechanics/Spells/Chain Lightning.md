@@ -14,23 +14,26 @@ classes:
   - Wizard
 school: Evocation
 level: 6
+damage:
+  base: 10d8
+  scaling:
+    damage: null
+    level: 7
+  types:
+    - lightning
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 150 feet
+somatic: true
+verbal: true
+material: 'a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins'
 aliases:
   - Chain Lightning
-range: 150 feet
-material: >-
-  A bit of fur; a piece of amber, glass, or a crystal rod; and three silver
-  pins.
-damageType: Lightning
-save:
-  type: DEX
-  success: half
 ---
 # Chain Lightning
 *6th-level, Evocation*  
@@ -46,6 +49,6 @@ A target must make a Dexterity saving throw. The target takes `dice:10d8|noform|
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 221. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

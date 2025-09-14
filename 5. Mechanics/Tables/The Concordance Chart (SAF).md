@@ -25,4 +25,4 @@ aliases:
 ^the-concordance-chart
 
 > [!note]
-> Servitors are listed [[5. Mechanics/Tables/Servitors (SAF).md\|here]].
+> Servitors are listed [[/5. Mechanics/Tables/Servitors (SAF).md\|here]].

@@ -10,7 +10,7 @@ aliases:
 # Bullywug
 *Source: Dungeon Master's Guide p. 282*  
 
-- **Ability Scores**: Intelligence -2; Charisma -2
+- **Ability Scores**: int -2 cha -2
 - **Size**: Medium
 - **Speed**: walk: 20 ft.; swim: 40 ft.
 

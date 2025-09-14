@@ -10,7 +10,7 @@ aliases:
 # Gift of the Protectors
 *Source: Tasha's Cauldron of Everything p. 71*  
 
-***Prerequisites*** 9th, Pact of the Tome
+***Prerequisites*** Level 9, Pact of the Tome
 
 A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
 

@@ -16,16 +16,21 @@ classes:
   - Wizard
 school: Abjuration
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: 'an amethyst worth 250 gp, which the spell consumes'
 aliases:
   - Calm of the Storm
-material: 'an amethyst worth 250 gp, which the spell consumes'
 ---
 # Calm of the Storm
 *3rd-level, Abjuration*  
@@ -39,6 +44,6 @@ While visualizing the world as you wish it was, you lay your hands upon a creatu
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the time since the chaos magic surge can be 1 minute longer for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 182*

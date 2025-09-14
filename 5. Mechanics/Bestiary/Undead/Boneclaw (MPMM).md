@@ -16,7 +16,7 @@ tags:
 aliases:
   - Boneclaw
 ---
-# [[5. Mechanics\Bestiary\Undead\Boneclaw (MPMM).md|Boneclaw]]
+# [[5. Mechanics/Bestiary/Undead/Boneclaw (MPMM).md|Boneclaw]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66, Mordenkainen's Tome of Foes p. 121*
 
 A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling monsters share a few of liches' attributes, but while liches are immortal masters of the arcane, boneclaws are thralls to evil, hatred, and pain.
@@ -46,9 +46,9 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
   - !!int "9"
 "speed": "40 ft."
 "saves":
-  - "dexterity": "+7"
-  - "constitution": "+6"
-  - "wisdom": "+6"
+  - "dexterity": !!int "7"
+  - "constitution": !!int "6"
+  - "wisdom": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
@@ -58,11 +58,12 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 16"
 "languages": "Common plus one language spoken by its master"
 "cr": "12"
 "traits":
-  - "desc": "While its master lives, a destroyed boneclaw gains a new body in d10\
+  - "desc": "While its master lives, a destroyed boneclaw gains a new body in 1d10\
       \ hours, with all its hit points. The new body appears within 1 mile of the\
       \ boneclaw's master."
     "name": "Rejuvenation"
@@ -71,7 +72,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 "actions":
   - "desc": "The boneclaw makes two Piercing Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 20\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 20\
       \ (3d10 + 4) piercing damage plus 11 (2d10) necrotic damage. If the target is\
       \ a creature, the boneclaw can pull the target up to 10 feet toward itself,\
       \ and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape\
@@ -97,7 +98,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/boneclaw-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/boneclaw-mpmm.webp"
 ```
 ^statblock
 

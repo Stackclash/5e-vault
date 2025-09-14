@@ -13,7 +13,7 @@ armorClass: 11 + Dex modifier
 weight: 10
 ---
 # Owlbear Leather Armor
-*Light armor ([[5. Mechanics/Items/Leather Armor.md\|leather armor]]), major, uncommon (requires attunement)*  
+*Light armor ([[/5. Mechanics/Items/Leather Armor.md\|leather armor]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Owlbear-Leather-Armor.webp#right)  
 
 - **Armor Class**: 11 + Dex modifier

@@ -57,18 +57,18 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spell |
 |--------------|-------|
-| 3rd | [[5. Mechanics/Spells/Feather Fall.md\|feather fall]] |
-| 5th | [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] |
-| 9th | [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] |
-| 13th | [[5. Mechanics/Spells/Ice Storm.md\|ice storm]] |
-| 17th | [[5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
+| 3rd | [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] |
+| 5th | [[/5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] |
+| 9th | [[/5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] |
+| 13th | [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]] |
+| 17th | [[/5. Mechanics/Spells/Legend Lore.md\|legend lore]] |
 ^ranger-level-spell
 
 ### Guiding Wind (Level 3)
 
 Starting at 3rd level, when you make an attack, you can whisper to the wind to have it aid your strikes. Once on each of your turns, you can choose to gain one of the following benefits:
 
-- When you hit with a weapon attack, the target takes an extra `dice:1d4|noform|noparens|avg` (`d4`) damage of the weapon's type. When you reach 11th level in this class, the extra damage increases to `dice:1d8|noform|noparens|avg` (`d8`).  
+- When you hit with a weapon attack, the target takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) damage of the weapon's type. When you reach 11th level in this class, the extra damage increases to `dice:1d8|noform|noparens|avg` (`1d8`).  
 - When you miss with a weapon attack, you can change its trajectory to attack a different target up to 5 feet away from the original one and within range of your weapon. When you do, your attack roll against the new target is equal to the original attack roll plus your Wisdom modifier (minimum of +0). When you reach 11th level in this class, the new target can be up to 15 feet away as long as it's still within range of your weapon.  
 
 ### Whispers of Knowledge (Level 3)

@@ -14,16 +14,29 @@ classes:
   - Wizard
 school: Necromancy
 level: 8
+damage:
+  base: 12d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 150 feet
+somatic: true
+verbal: true
+material: a bit of sponge
+area:
+  shape: cube
+  size: 30
 aliases:
   - Abi-Dalzim's Horrid Wilting
-material: a bit of sponge
 ---
 # Abi-Dalzim's Horrid Wilting
 *8th-level, Necromancy*  
@@ -37,6 +50,6 @@ You draw the moisture from every creature in a 30-foot cube centered on a point 
 
 Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 150*

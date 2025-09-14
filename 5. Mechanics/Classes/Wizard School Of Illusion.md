@@ -55,9 +55,9 @@ Beginning when you select this school at 2nd level, the gold and time you must s
 
 ### Improved Minor Illusion (Level 2)
 
-When you choose this school at 2nd level, you learn the [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]] cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+When you choose this school at 2nd level, you learn the [[/5. Mechanics/Spells/Minor Illusion.md\|minor illusion]] cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
-When you cast [[5. Mechanics/Spells/Minor Illusion.md\|minor illusion]], you can create both a sound and an image with a single casting of the spell.
+When you cast [[/5. Mechanics/Spells/Minor Illusion.md\|minor illusion]], you can create both a sound and an image with a single casting of the spell.
 
 ### Malleable Illusions (Level 6)
 
@@ -71,6 +71,6 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 ### Illusory Reality (Level 14)
 
-By 14th level, you have learned the secret of weaving shadow magic into your illusions to give them a semireality. When you cast an illusion spell of 1st level or higher, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a bonus action while the spell is ongoing. The object remains real for 1 minute. For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross.
+By 14th level, you have learned the secret of weaving shadow magic into your illusions to give them a semi-reality. When you cast an illusion spell of 1st level or higher, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a bonus action while the spell is ongoing. The object remains real for 1 minute. For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross.
 
 The object can't deal damage or otherwise directly harm anyone.

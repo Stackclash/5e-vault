@@ -13,7 +13,7 @@ tags:
 aliases:
   - Blade Scout
 ---
-# [[5. Mechanics\Bestiary\Construct\Blade Scout (VEOR).md|Blade Scout]]
+# [[5. Mechanics/Bestiary/Construct/Blade Scout (VEOR).md|Blade Scout]]
 *Source: Vecna: Eve of Ruin p. 209*
 
 Blade scouts are responsible for exploring and charting Mournland regions not yet claimed by the Lord of Blades' legions.
@@ -42,8 +42,8 @@ In the aftermath of Eberron's Last War, a warforged called the Lord of Blades ro
   - !!int "10"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+8"
-  - "wisdom": "+7"
+  - "dexterity": !!int "8"
+  - "wisdom": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+8"
@@ -66,10 +66,10 @@ In the aftermath of Eberron's Last War, a warforged called the Lord of Blades ro
   - "desc": "The scout makes three Armblade or Bolt Launcher attacks. It can replace\
       \ one of the attacks with a use of Snare Trap."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage."
     "name": "Armblade"
-  - "desc": "Ranged Weapon Attack: +8 to hit, range 80/320 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +8 to hit, range 80/320 ft., one target. *Hit:*\
       \ 9 (1d8 + 5) piercing damage."
     "name": "Bolt Launcher"
   - "desc": "The scout deploys a Tiny mechanical trap on a solid surface within 5\
@@ -85,7 +85,7 @@ In the aftermath of Eberron's Last War, a warforged called the Lord of Blades ro
     "name": "Dash"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Construct/token/blade-scout-veor.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/blade-scout-veor.webp"
 ```
 ^statblock
 

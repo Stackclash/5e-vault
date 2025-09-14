@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Medium
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mongrelfolk
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Mongrelfolk (COS).md|Mongrelfolk]]
+# [[5. Mechanics/Bestiary/Humanoid/Mongrelfolk (COS).md|Mongrelfolk]]
 *Source: Curse of Strahd p. 234*
 
 Mongrelfolk are humanoids that have undergone, or whose ancestors underwent, horrific magical transformations, to the extent that they retain only a fraction of their original being. Their humanoid bodies incorporate the features of various beasts. For example, one mongrelfolk might have the basic body shape of a dwarf with a head that combines the features of a cat and a lizard, one arm that ends in a crab's pincer, and one leg that ends in a cloven hoof. Another might have the skin and horns of a cow, the eyes of a spider, frog's legs, and a scaly lizard's tail. Each mongrelfolk's mad combination of humanoid and animal forms results in its having a slow, awkward gait.
@@ -32,7 +32,7 @@ Mongrelfolk often hide their deformities under cloaks and cowls. In this way, th
 
 ## Horrific Offspring
 
-It's possible to restore a mongrel-folk to its original form using a [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell, but the same can't be said for a mongrelfolk's offspring. Only mongrelfolk that are made by magic can be restored to their original forms. Mongrelfolk that are born are true mongrelfolk and not the subjects of a spell or an effect that can be undone.
+It's possible to restore a mongrel-folk to its original form using a [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]] spell, but the same can't be said for a mongrelfolk's offspring. Only mongrelfolk that are made by magic can be restored to their original forms. Mongrelfolk that are born are true mongrelfolk and not the subjects of a spell or an effect that can be undone.
 
 Mongrelfolk can breed with other humanoids, but nearly all children born to such parents are mongrelfolk. (About one child in every hundred is born looking like its non-mongrelfolk parent.)
 
@@ -90,18 +90,18 @@ Mongrelfolk can breed with other humanoids, but nearly all children born to such
   - "desc": "The mongrelfolk makes two attacks: one with its bite and one with its\
       \ claw or dagger."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) slashing damage."
     "name": "Claw"
-  - "desc": "Melee  or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 3 (1d4 + 1) piercing damage."
     "name": "Dagger"
 "source":
   - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/mongrelfolk-cos.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/mongrelfolk-cos.webp"
 ```
 ^statblock
 

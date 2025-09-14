@@ -14,17 +14,26 @@ classes:
   - Ranger
 school: Transmutation
 level: 4
+damage:
+  base: 1d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 4 rounds
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 4 rounds'
+range: 90 feet
+somatic: true
+verbal: true
+material: a handful of snow
 aliases:
   - Snow Boulder
-concentration: true
-material: a handful of snow
 ---
 # Snow Boulder
 *4th-level, Transmutation*  
@@ -38,12 +47,12 @@ A ball of snow forms 5 feet away from you and rolls in the direction you point a
 
 | Round | Size | Damage |
 |-------|------|--------|
-| 1 | Small | `dice:1d6\|noform\|noparens\|avg` (`d6`) bludgeoning |
+| 1 | Small | `dice:1d6\|noform\|noparens\|avg` (`1d6`) bludgeoning |
 | 2 | Medium | `dice:2d6\|noform\|noparens\|avg` (`2d6`) bludgeoning |
 | 3 | Large | `dice:4d6\|noform\|noparens\|avg` (`4d6`) bludgeoning |
 | 4 | Huge | `dice:6d6\|noform\|noparens\|avg` (`6d6`) bludgeoning |
 ^round-size-damage
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 275*

@@ -21,7 +21,7 @@ The wand has 7 charges for the following properties:
 
 ## Spells
 
-While holding the wand, you can use an action to expend 1 of its charges to cast one of the following spells from it: [[5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]] (written language only) or [[5. Mechanics/Spells/Illusory Script.md\|illusory script]].
+While holding the wand, you can use an action to expend 1 of its charges to cast one of the following spells from it: [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]] (written language only) or [[/5. Mechanics/Spells/Illusory Script.md\|illusory script]].
 
 ## Cloudscript
 

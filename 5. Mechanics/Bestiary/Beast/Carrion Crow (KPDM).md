@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Tiny
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Carrion Crow
 ---
-# [[5. Mechanics\Bestiary\Beast\Carrion Crow (KPDM).md|Carrion Crow]]
+# [[5. Mechanics/Bestiary/Beast/Carrion Crow (KPDM).md|Carrion Crow]]
 *Source: Deep Magic p. 291*
 
 Feasting on the hearts of fallen evil warriors on battlefields has corrupted these crows. They resemble normal crows, but they are easily distinguished by their rust-colored, barbed beaks and a patch of feathers on their breasts of the same color. Sometimes, carrion crows use their mimicry to lure animals and people into danger, in hopes of having more dead meat on which to feast.
@@ -54,7 +54,7 @@ Evil spellcasters find carrion crows to be capable familiars. The creatures are 
       \ check."
     "name": "Mimicry"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage and the target must succeed on a DC 13 Constitution saving throw or\
       \ lose 1 hit point each round from blood loss until it receives magical healing\
       \ or until the target or an ally succeeds on a DC 10 Wisdom check to stop the\

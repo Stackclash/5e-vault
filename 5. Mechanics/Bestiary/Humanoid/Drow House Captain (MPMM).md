@@ -14,7 +14,7 @@ tags:
 aliases:
   - Drow House Captain
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Drow House Captain (MPMM).md|Drow House Captain]]
+# [[5. Mechanics/Bestiary/Humanoid/Drow House Captain (MPMM).md|Drow House Captain]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184*
 
 > [!quote] A quote from Tasha  
@@ -32,7 +32,7 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "subtype": "elf"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Chain Mail.md|chain mail]]"
+"ac_class": "[[/5. Mechanics/Items/Chain Mail.md|chain mail]]"
 "hp": !!int "162"
 "hit_dice": "25d8 + 50"
 "modifier": !!int "4"
@@ -45,15 +45,16 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
   - !!int "13"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+8"
-  - "constitution": "+6"
-  - "wisdom": "+6"
+  - "dexterity": !!int "8"
+  - "constitution": !!int "6"
+  - "wisdom": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+8"
-"senses": "darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 16"
 "languages": "Elvish, Undercommon"
 "cr": "9"
 "traits":
@@ -67,13 +68,13 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "actions":
   - "desc": "The drow makes two Scimitar attacks and one Whip or Hand Crossbow attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) slashing damage plus 14 (4d6) poison damage."
     "name": "Scimitar"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 6\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 6\
       \ (1d4 + 4) slashing damage."
     "name": "Whip"
-  - "desc": "Ranged Weapon Attack: +8 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +8 to hit, range 30/120 ft., one target. *Hit:*\
       \ 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution\
       \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for\
       \ 1 hour. If the saving throw fails by 5 or more, the target is also [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
@@ -82,10 +83,10 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
       \ an action to shake it."
     "name": "Hand Crossbow"
   - "desc": "The drow casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt\
-      \ will: [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n1/day each:\
-      \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
-      \ [[5. Mechanics/Spells/Levitate.md|levitate]] (self only)"
+      \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**At\
+      \ will:** [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]]\n\n**1/day\
+      \ each:** [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Faerie Fire.md|faerie fire]],\
+      \ [[/5. Mechanics/Spells/Levitate.md|levitate]] (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Choose one creature within 30 feet of the drow that the drow can see.\
@@ -100,7 +101,7 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/drow-house-captain-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/drow-house-captain-mpmm.webp"
 ```
 ^statblock
 

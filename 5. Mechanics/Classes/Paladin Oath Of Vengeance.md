@@ -77,11 +77,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Bane.md\|bane]], [[5. Mechanics/Spells/Hunters Mark.md\|hunter's mark]] |
-| 5th | [[5. Mechanics/Spells/Hold Person.md\|hold person]], [[5. Mechanics/Spells/Misty Step.md\|misty step]] |
-| 9th | [[5. Mechanics/Spells/Haste.md\|haste]], [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
-| 13th | [[5. Mechanics/Spells/Banishment.md\|banishment]], [[5. Mechanics/Spells/Dimension Door.md\|dimension door]] |
-| 17th | [[5. Mechanics/Spells/Hold Monster.md\|hold monster]], [[5. Mechanics/Spells/Scrying.md\|scrying]] |
+| 3rd | [[/5. Mechanics/Spells/Bane.md\|bane]], [[/5. Mechanics/Spells/Hunters Mark.md\|hunter's mark]] |
+| 5th | [[/5. Mechanics/Spells/Hold Person.md\|hold person]], [[/5. Mechanics/Spells/Misty Step.md\|misty step]] |
+| 9th | [[/5. Mechanics/Spells/Haste.md\|haste]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
+| 13th | [[/5. Mechanics/Spells/Banishment.md\|banishment]], [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]] |
+| 17th | [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]], [[/5. Mechanics/Spells/Scrying.md\|scrying]] |
 ^oath-of-vengeance-spells
 
 ### Channel Divinity (Level 3)

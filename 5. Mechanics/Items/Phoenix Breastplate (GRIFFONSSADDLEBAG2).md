@@ -13,7 +13,7 @@ armorClass: 14 + Dex modifier (max of +2)
 weight: 20
 ---
 # Phoenix Breastplate
-*Medium armor ([[5. Mechanics/Items/Breastplate.md\|breastplate]]), major, very rare (requires attunement)*  
+*Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Phoenix-Breastplate.webp#right)  
 
 - **Armor Class**: 14 + Dex modifier (max of +2)

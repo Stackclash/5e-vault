@@ -13,7 +13,7 @@ tags:
 aliases:
   - Knight of Air
 ---
-# [[5. Mechanics\Bestiary\Elemental\Knight Of Air (SAF).md|Knight of Air]]
+# [[5. Mechanics/Bestiary/Elemental/Knight Of Air (SAF).md|Knight of Air]]
 *Source: Strongholds and Followers p. 190*
 
 The Knights of Alloy enjoy the privilege of being neutral in the conflicts that rage across the timescape. Because Alloy is neutral ground, the Knights are often seen in the company of visiting members of the Court of Arcadia (especially the Mantis Knights or the Orchid Count) or the Knights of Axiom. Even the unchanging changers from the Court of All Flesh are welcome. The Knights of Fire seem to enjoy the company of Korsoth Vastikan especially.
@@ -34,7 +34,7 @@ Otherwise, the Wind Lords use their high Armor Class and crazy-good movement to 
 "type": "elemental"
 "alignment": "Neutral"
 "ac": !!int "20"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate armor]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "77"
 "hit_dice": "14d8 + 14"
 "modifier": !!int "6"
@@ -47,8 +47,8 @@ Otherwise, the Wind Lords use their high Armor Class and crazy-good movement to 
   - !!int "16"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  - "dexterity": "+9"
-  - "charisma": "+6"
+  - "dexterity": !!int "9"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+9"
@@ -60,22 +60,23 @@ Otherwise, the Wind Lords use their high Armor Class and crazy-good movement to 
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": "Auran, Common"
 "cr": "8"
 "traits":
   - "desc": "The Knight of Air's innate spellcasting ability is Wisdom (spell save\
       \ DC 13, +5 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no components:\n\n3/day each: [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-      \ [[5. Mechanics/Spells/Misty Step.md|misty step]], [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]]\n\
-      \n1/day each: [[5. Mechanics/Spells/Wind Wall.md|wind wall]], [[5. Mechanics/Spells/Gaseous Form.md|gaseous form]]\n\
-      \nCantrips (at will): [[5. Mechanics/Spells/Mage Hand.md|mage hand]] (the hand\
-      \ is invisible)"
+      \ requiring no components:\n\n**3/day each:** [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
+      \ [[/5. Mechanics/Spells/Misty Step.md|misty step]], [[/5. Mechanics/Spells/Gust Of Wind.md|gust of wind]]\n\
+      \n**1/day each:** [[/5. Mechanics/Spells/Wind Wall.md|wind wall]], [[/5. Mechanics/Spells/Gaseous Form.md|gaseous form]]\n\
+      \n**Cantrips (at will):** [[/5. Mechanics/Spells/Mage Hand.md|mage hand]] (the\
+      \ hand is invisible)"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "The Knight makes three attacks with the Sword of Clouds."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 15\
       \ (2d8 + 6) piercing damage."
     "name": "The Sword of Clouds"
 "source":

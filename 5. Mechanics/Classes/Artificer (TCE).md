@@ -17,7 +17,7 @@ aliases:
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th><th colspan='5'>Spell Slots per Spell Level</th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Infusions Known^<a href="compendium/lists/list-optfeaturetype-ai.md">Optional features from [Artificer Infusion</a>; defined in Tasha's Cauldron of Everything]</th><th class="value">Infused Items</th><th class="value">Cantrips Known</th><th class="spellSlot">1st</th><th class="spellSlot">2nd</th><th class="spellSlot">3rd</th><th class="spellSlot">4th</th><th class="spellSlot">5th</th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Infusions Known <sup>‡1</sup></th><th class="value">Infused Items</th><th class="value">Cantrips Known</th><th class="spellSlot">1st</th><th class="spellSlot">2nd</th><th class="spellSlot">3rd</th><th class="spellSlot">4th</th><th class="spellSlot">5th</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Optional Rule: Firearm Proficiency (Level 1)' class='internal-link'>Optional Rule: Firearm Proficiency</a>, <a href='#Magical Tinkering (Level 1)' class='internal-link'>Magical Tinkering</a>, <a href='#Spellcasting (Level 1)' class='internal-link'>Spellcasting</a></td><td class="value">⏤</td><td class="value">⏤</td><td class="value">2</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Infuse Item (Level 2)' class='internal-link'>Infuse Item</a></td><td class="value">4</td><td class="value">2</td><td class="value">2</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
@@ -40,6 +40,9 @@ aliases:
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td><td class="value">12</td><td class="value">6</td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Soul of Artifice (Level 20)' class='internal-link'>Soul of Artifice</a></td><td class="value">12</td><td class="value">6</td><td class="value">4</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td></tr>
 > </tbody></table>
+> <section class="footnotes"><ul>
+> <li>‡1: Optional features from <a href="/compendium/lists/list-optfeaturetype-ai.md">Artificer Infusion</a>; defined in Tasha's Cauldron of Everything</li>
+> </ul></section>
 
 ^class-progression
 
@@ -52,17 +55,17 @@ aliases:
 ## Starting Artificer
 
 - **Saving Throws**: Constitution, Intelligence
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple weapons, firearms (optional)
-- **Tools**: [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]], one type of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice
+- **Tools**: [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], [[/5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]], one type of [[/5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice
 - **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]], [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]], and [[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]
 
 You start with the following items, plus anything provided by your background.
 
 - any two simple weapons of your choice
-- a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]]
-- (a) [[5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]] or (b) [[5. Mechanics/Items/Scale Mail.md\|scale mail]]
-- [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] and a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]]
+- a [[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[/5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]]
+- (a) [[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]] or (b) [[/5. Mechanics/Items/Scale Mail.md\|scale mail]]
+- [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] and a [[/5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]]
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
@@ -72,8 +75,8 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
-- **Tools**: [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]]
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Items/Shield.md\|shields]]
+- **Tools**: [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], [[/5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]]
 
 ## Artificer
 
@@ -105,7 +108,7 @@ As a multiclass character, you must have at least an Intelligence score of 13 to
 
 #### Proficiencies Gained
 
-If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]].
+If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], [[/5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]].
 
 #### Spell Slots
 
@@ -114,7 +117,7 @@ Add half your levels (rounded up) in the artificer class to the appropriate leve
 ## Artificer
 _Source: Eberron: Rising from the Last War_
 
-Masters of unlocking magic in everyday objects, artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an artificer could use [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] to create a potent elixir, [[5. Mechanics/Items/Calligraphers Supplies.md\|calligrapher's supplies]] to inscribe a sigil of power on an ally's armor, or [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]] to craft a temporary charm. The magic of artificers is tied to their tools and their talents.
+Masters of unlocking magic in everyday objects, artificers are supreme inventors. They see magic as a complex system waiting to be decoded and controlled. Artificers use tools to channel arcane power, crafting magical objects. To cast a spell, an artificer could use [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]] to create a potent elixir, [[/5. Mechanics/Items/Calligraphers Supplies.md\|calligrapher's supplies]] to inscribe a sigil of power on an ally's armor, or [[/5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]] to craft a temporary charm. The magic of artificers is tied to their tools and their talents.
 
 ### Arcane Science
 _Source: Eberron: Rising from the Last War_
@@ -143,7 +146,7 @@ When creating an artificer, think about your character's relationship with the a
 #### Quick Build
 _Source: Eberron: Rising from the Last War_
 
-You can make an artificer quickly by following these suggestions. First, put your highest ability score in Intelligence, followed by Constitution or Dexterity. Second, choose the [[5. Mechanics/Backgrounds/Guild Artisan.md\|guild artisan]] background.
+You can make an artificer quickly by following these suggestions. First, put your highest ability score in Intelligence, followed by Constitution or Dexterity. Second, choose the [[/5. Mechanics/Backgrounds/Guild Artisan.md\|guild artisan]] background.
 
 #### Optional Rule: Multiclassing
 _Source: Eberron: Rising from the Last War_
@@ -158,7 +161,7 @@ As a multiclass character, you must have at least an Intelligence score of 13 to
 ##### Proficiencies Gained
 _Source: Eberron: Rising from the Last War_
 
-If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]].
+If artificer isn't your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]], [[/5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]].
 
 ##### Spell Slots
 _Source: Eberron: Rising from the Last War_
@@ -175,7 +178,7 @@ The secrets of creating and operating gunpowder weapons have been discovered in 
 
 *1st-level artificer feature*
 
-You've learned how to invest a spark of magic into mundane objects. To use this ability, you must have [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
+You've learned how to invest a spark of magic into mundane objects. To use this ability, you must have [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or [[/5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
 
 - The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.  
 - Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.  
@@ -194,15 +197,15 @@ You've studied the workings of magic and how to cast spells, channeling the magi
 
 #### Tools Required
 
-You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or some kind of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tool]]—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an 'M' component when you cast it). You must be proficient with the tool to use it in this way. See "chapter 5", "Equipment," in the "Player's Handbook" for descriptions of these tools.
+You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or some kind of [[/5. Mechanics/Items/Artisans Tools.md\|artisan's tool]]—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an 'M' component when you cast it). You must be proficient with the tool to use it in this way. See "chapter 5", "Equipment," in the "Player's Handbook" for descriptions of these tools.
 
 After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.
 
 > [!note] The Magic of Artifice
 > 
-> As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you're using a tool to perform the spell effect. If you cast [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] using [[5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]], you could be quickly producing a salve. If you cast it using [[5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]], you might have a miniature mechanical spider that binds wounds. When you cast [[5. Mechanics/Spells/Poison Spray.md\|poison spray]], you could fling foul chemicals or use a wand that spits venom. The effect of the spell is the same as for a spellcaster of any other class, but your method of spellcasting is special.
+> As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you're using a tool to perform the spell effect. If you cast [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] using [[/5. Mechanics/Items/Alchemists Supplies.md\|alchemist's supplies]], you could be quickly producing a salve. If you cast it using [[/5. Mechanics/Items/Tinkers Tools.md\|tinker's tools]], you might have a miniature mechanical spider that binds wounds. When you cast [[/5. Mechanics/Spells/Poison Spray.md\|poison spray]], you could fling foul chemicals or use a wand that spits venom. The effect of the spell is the same as for a spellcaster of any other class, but your method of spellcasting is special.
 > 
-> The same principle applies when you prepare your spells. As an artificer, you don't study a spellbook or pray to prepare your spells. Instead, you work with your tools and create the specialized items you'll use to produce your effects. If you replace [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] with [[5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], you might be altering the device you use to heal—perhaps modifying a tool so that it channels heat instead of healing energy.
+> The same principle applies when you prepare your spells. As an artificer, you don't study a spellbook or pray to prepare your spells. Instead, you work with your tools and create the specialized items you'll use to produce your effects. If you replace [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] with [[/5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], you might be altering the device you use to heal—perhaps modifying a tool so that it channels heat instead of healing energy.
 > 
 > Such details don't limit you in any way or provide you with any benefit beyond the spell's effects. You don't have to justify how you're using tools to cast a spell. But describing your spellcasting creatively is a fun way to distinguish yourself from other spellcasters.
 ^the-magic-of-artifice
@@ -219,7 +222,7 @@ The Artificer table shows how many spell slots you have to cast your artificer s
 
 You prepare the list of artificer spells that are available for you to cast, choosing from the artificer spell list. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.
 
@@ -243,7 +246,7 @@ You've gained the ability to imbue mundane items with certain magical infusions,
 
 ### Infusions Known (Level 2)
 
-When you gain this feature, pick four artificer infusions to learn, choosing from the "Artificer Infusions^[[5. Mechanics/Lists/List Optfeaturetype (AI).md\|Optional features from [Artificer Infusion]]; defined in Tasha's Cauldron of Everything]" section at the end of the class's description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
+When you gain this feature, pick four artificer infusions to learn, choosing from the "Artificer Infusions^[[/5. Mechanics/Lists/List Optfeaturetype (AI).md\|Optional features from [Artificer Infusion]]; defined in Tasha's Cauldron of Everything]" section at the end of the class's description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
 
 Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.
 
@@ -266,7 +269,7 @@ Your infusion remains in an item indefinitely, but when you die, the infusion va
 
 You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.
 
-If an infusion ends on an item that contains other things, like a [[5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], its contents harmlessly appear in and around its space.
+If an infusion ends on an item that contains other things, like a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], its contents harmlessly appear in and around its space.
 
 ### Artificer Specialist (Level 3)
 
@@ -278,7 +281,7 @@ Choose the type of specialist you are, each of which is detailed at the end of t
 
 *3rd-level artificer feature*
 
-You've learned how to produce exactly the tool you need: with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in hand, you can magically create one set of [[5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+You've learned how to produce exactly the tool you need: with [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] or [[/5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in hand, you can magically create one set of [[/5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
 
 ### Ability Score Improvement (Level 4)
 
@@ -396,5 +399,5 @@ You have developed a mystical connection to your magic items, which you can draw
 ## Optional Features
 
 > [!example]- Optional Features: Artificer Infusion
-> ![[5. Mechanics/Lists/List Optfeaturetype (AI).md#Artificer%20Infusion\|Artificer Infusion]]
+> ![[/5. Mechanics/Lists/List Optfeaturetype (AI).md#Artificer%20Infusion\|Artificer Infusion]]
 ^list-optfeature-ai

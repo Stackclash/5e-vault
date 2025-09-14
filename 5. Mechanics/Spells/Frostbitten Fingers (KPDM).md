@@ -22,15 +22,25 @@ classes:
   - Wizard
 school: Evocation
 level: 3
+damage:
+  base: 1d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - cold
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 hour'
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Frostbitten Fingers
-concentration: true
 ---
 # Frostbitten Fingers
 *3rd-level, Evocation*  
@@ -42,8 +52,8 @@ concentration: true
 
 You fire a ray of intense cold that instantly induces frostbite. With a successful ranged spell attack, this spell causes one of the target's hands to lose sensation. When the spell is cast, the target must make a successful Dexterity saving throw to maintain its grip on any object with the affected hand. The saving throw must be repeated every time the target tries to manipulate, wield, or pick up an item with the affected hand. Additionally, the target has disadvantage on Dexterity checks or Strength checks that require the use of both hands.
 
-After every 10 minutes of being affected by this spell, the target must make a successful Constitution saving throw, or take `dice:1d6|noform|noparens|avg` (`d6`) cold damage and lose one of the fingers on the affected hand, beginning with the pinkie.
+After every 10 minutes of being affected by this spell, the target must make a successful Constitution saving throw, or take `dice:1d6|noform|noparens|avg` (`1d6`) cold damage and lose one of the fingers on the affected hand, beginning with the pinkie.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 272*

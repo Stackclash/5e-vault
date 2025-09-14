@@ -20,16 +20,29 @@ classes:
   - Wizard
 school: Evocation
 level: 2
+damage:
+  base: 2d8
+  scaling:
+    damage: 1d8
+    level: 3
+  types:
+    - thunder
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self (30-foot Line)
+somatic: true
+verbal: true
+material: a sliver of metal from a gong
+area:
+  shape: line
+  size: 30
 aliases:
   - Rolling Thunder
-material: a sliver of metal from a gong
 ---
 # Rolling Thunder
 *2nd-level, Evocation*  
@@ -43,8 +56,8 @@ A tremendous bell note explodes from your outstretched hand and rolls forward in
 
 While a creature is [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] in this way, it is wreathed in thundering energy; it takes `dice:2d8|noform|noparens|avg` (`2d8`) thunder damage at the start of its turn, and its speed is halved. A [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 2nd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 103*

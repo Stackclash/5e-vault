@@ -15,8 +15,9 @@ level: 7
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
+range: Self
+somatic: false
+verbal: true
 aliases:
   - Time Jaunt
 ---
@@ -56,7 +57,7 @@ Troll #3 charges the fighter. Cleric tips over an open barrel of pickled herring
 
 Troll #4 moves and attacks the fighter, scoring a hit. Cleric pulls on the troll's weapon arm so the strike is a glancing one rather than a direct hit, and the attack deals half as much damage.
 
-Wizard casts [[5. Mechanics/Spells/Grease.md\|grease]] on the area where trolls #1 and #4 are standing. Cleric gives each a swift kick to the back of the knee. Trolls have disadvantage on their Dexterity saving throws, fail their saves, and fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
+Wizard casts [[/5. Mechanics/Spells/Grease.md\|grease]] on the area where trolls #1 and #4 are standing. Cleric gives each a swift kick to the back of the knee. Trolls have disadvantage on their Dexterity saving throws, fail their saves, and fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]].
 
 Fighter stabs at troll #1, scoring a hit. Cleric gives the troll's arm a yank, moving it just enough that the fighter hits the monster's chest rather than its shoulder, providing the fighter a bonus of +7 (half the cleric's level) on the attack's damage.
 
@@ -64,6 +65,6 @@ Cleric pops back into view, occupying the space where *time jaunt* was cast, the
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 260*

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Wood Woad
 ---
-# [[5. Mechanics\Bestiary\Plant\Wood Woad (MPMM).md|Wood Woad]]
+# [[5. Mechanics/Bestiary/Plant/Wood Woad (MPMM).md|Wood Woad]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198*
 
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.
@@ -29,7 +29,7 @@ A wood woad has a hole where its heart would be, just as does the body of its fo
 
 Like trees, wood woads need only sunlight, air, and nutrients from the earth to go on living. Because they are undying, some wood woads outlive their original purpose. The site a wood woad guards might lose its power or significance over time, or those whom it was assigned to guard might die. If it is freed from its specific duties, a wood woad might roam to find another place of natural beauty or fey influence to watch over.
 
-Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [[5. Mechanics/Bestiary/Humanoid/Druid.md|druids]] and [[5. Mechanics/Bestiary/Plant/Treant.md|treants]]. Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
+Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [[/5. Mechanics/Bestiary/Humanoid/Druid.md|druids]] and [[/5. Mechanics/Bestiary/Plant/Treant.md|treants]]. Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
 
 ```statblock
 "name": "Wood Woad (MPMM)"
@@ -37,7 +37,7 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "type": "plant"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "18"
-"ac_class": "natural armor, [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "natural armor, [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "modifier": !!int "1"
@@ -59,7 +59,8 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": "Sylvan"
 "cr": "5"
 "traits":
@@ -80,13 +81,13 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "actions":
   - "desc": "The wood woad makes two Club attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (4d4 + 4) force damage."
     "name": "Club"
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Plant/token/wood-woad-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Plant/token/wood-woad-mpmm.webp"
 ```
 ^statblock
 

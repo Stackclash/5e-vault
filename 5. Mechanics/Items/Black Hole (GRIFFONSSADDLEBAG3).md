@@ -20,7 +20,7 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 
-This black longsword has a pulsating, cosmic void at its center. The void is a tiny shred of a [[5. Mechanics/Items/Sphere Of Annihilation.md\|sphere of annihilation]], which only functions to grant this weapon its various properties.
+This black longsword has a pulsating, cosmic void at its center. The void is a tiny shred of a [[/5. Mechanics/Items/Sphere Of Annihilation.md\|sphere of annihilation]], which only functions to grant this weapon its various properties.
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon, which has the finesse property. While holding it, ranged attacks against you are made with disadvantage. Whenever a ranged attack misses you while holding the longsword, you gain `dice:2d6|noform|noparens|avg` (`2d6`) temporary hit points, and the missile or spell permanently disappears into the void at the weapon's center. If the missile is a magic item, it immediately reappears in a random location within 1,000 feet of you. The first target you hit with the sword on each of your turns takes an extra `dice:2d10|noform|noparens|avg` (`2d10`) force damage.
 

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Death Knight
 ---
-# [[5. Mechanics\Bestiary\Undead\Death Knight.md|Death Knight]]
+# [[5. Mechanics/Bestiary/Undead/Death Knight.md|Death Knight]]
 *Source: Monster Manual p. 47, Tasha's Cauldron of Everything, Vecna: Eve of Ruin*
 
 When a paladin that falls from grace dies without seeking atonement, dark powers can transform the once-mortal knight into a hateful undead creature. A death knight is a skeletal warrior clad in fearsome plate armor. Beneath its helmet, one can see the knight's skull with malevolent pinpoints of light burning in its eye sockets.
@@ -41,7 +41,7 @@ A death knight doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Chaotic Evil"
 "ac": !!int "20"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate armor]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "180"
 "hit_dice": "19d8 + 95"
 "modifier": !!int "0"
@@ -54,26 +54,27 @@ A death knight doesn't require air, food, drink, or sleep.
   - !!int "18"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+6"
-  - "wisdom": "+9"
-  - "charisma": "+10"
+  - "dexterity": !!int "6"
+  - "wisdom": !!int "9"
+  - "charisma": !!int "10"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 13"
 "languages": "Abyssal, Common"
 "cr": "17"
 "traits":
   - "desc": "The death knight is a 19th-level spellcaster. Its spellcasting ability\
       \ is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the\
-      \ following paladin spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
-      \ [[5. Mechanics/Spells/Compelled Duel.md|compelled duel]], [[5. Mechanics/Spells/Searing Smite.md|searing smite]]\n\
-      \n2nd level (3 slots): [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-      \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n3rd level (3 slots):\
-      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Elemental Weapon.md|elemental weapon]]\n\
-      \n4th level (3 slots): [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Staggering Smite.md|staggering\
-      \ smite]]\n\n5th level (2 slots):\
-      \ [[5. Mechanics/Spells/Destructive Wave.md|destructive wave]] (necrotic)"
+      \ following paladin spells prepared:\n\n**1st level (4 slots):** [[/5. Mechanics/Spells/Command.md|command]],\
+      \ [[/5. Mechanics/Spells/Compelled Duel.md|compelled duel]], [[/5. Mechanics/Spells/Searing Smite.md|searing smite]]\n\
+      \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Hold Person.md|hold person]],\
+      \ [[/5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n**3rd level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Elemental Weapon.md|elemental weapon]]\n\
+      \n**4th level (3 slots):** [[/5. Mechanics/Spells/Banishment.md|banishment]], [[/5. Mechanics/Spells/Staggering Smite.md|staggering\
+      \ smite]]\n\n**5th level (2 slots):**\
+      \ [[/5. Mechanics/Spells/Destructive Wave.md|destructive wave]] (necrotic)"
     "name": "Spellcasting"
   - "desc": "The death knight has advantage on saving throws against spells and other\
       \ magical effects."
@@ -85,7 +86,7 @@ A death knight doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The death knight makes three longsword attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 9\
       \ (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two\
       \ hands, plus 18 (4d8) necrotic damage."
     "name": "Longsword"
@@ -104,7 +105,7 @@ A death knight doesn't require air, food, drink, or sleep.
   - "MM"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Undead/token/death-knight.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/death-knight.webp"
 ```
 ^statblock
 

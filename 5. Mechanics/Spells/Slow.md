@@ -37,24 +37,22 @@ classes:
   - Wizard
 school: Transmutation
 level: 3
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+somatic: true
+verbal: true
+material: a drop of molasses
+area:
+  shape: cube
+  size: 40
 aliases:
   - Slow
-range: 120 feet
-material: A drop of molasses.
-save:
-  type: WIS
-  success: none
-area:
-  type: cube
-  size: 40
-concentration: true
 ---
 # Slow
 *3rd-level, Transmutation*  
@@ -72,6 +70,6 @@ If the creature attempts to cast a spell with a casting time of 1 action, roll a
 
 A creature affected by this spell makes another Wisdom saving throw at the end of each of its turns. On a successful save, the effect ends for it.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Warlock (The Lithic)](compendium/lists/list-spells-classes-the-lithic-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Cleric (Speed Domain)](compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [Cleric (Order Domain)](compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Spelldrinker)](compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Cleric (Time Domain)](compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [Cleric (Chain Domain)](compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Prophecy Domain)](compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [Cleric (Harvester Domain)](compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Chain Domain)](/compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Cleric (Harvester Domain)](/compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [Cleric (Order Domain)](/compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [Cleric (Prophecy Domain)](/compendium/lists/list-spells-classes-prophecy-domain-kpdm.md "subclass=KPDM"); [Cleric (Speed Domain)](/compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [Cleric (Time Domain)](/compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Spelldrinker)](/compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Lithic)](/compendium/lists/list-spells-classes-the-lithic-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

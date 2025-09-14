@@ -57,18 +57,18 @@ The Astral Griffon lets you choose from an expanded list of spells when you lear
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[5. Mechanics/Spells/Identify.md\|identify]], [[5. Mechanics/Spells/Magic Missile.md\|magic missile]] |
-| 2nd | [[5. Mechanics/Spells/Locate Object.md\|locate object]], [[5. Mechanics/Spells/Rope Trick.md\|rope trick]] |
-| 3rd | [[5. Mechanics/Spells/Blink.md\|blink]], [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] |
-| 4th | [[5. Mechanics/Spells/Mordenkainens Private Sanctum.md\|Mordenkainen's private sanctum]], [[5. Mechanics/Spells/Leomunds Secret Chest.md\|Leomund's secret chest]] |
-| 5th | [[5. Mechanics/Spells/Legend Lore.md\|legend lore]], [[5. Mechanics/Spells/Passwall.md\|passwall]] |
+| 1st | [[/5. Mechanics/Spells/Identify.md\|identify]], [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]] |
+| 2nd | [[/5. Mechanics/Spells/Locate Object.md\|locate object]], [[/5. Mechanics/Spells/Rope Trick.md\|rope trick]] |
+| 3rd | [[/5. Mechanics/Spells/Blink.md\|blink]], [[/5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] |
+| 4th | [[/5. Mechanics/Spells/Mordenkainens Private Sanctum.md\|Mordenkainen's private sanctum]], [[/5. Mechanics/Spells/Leomunds Secret Chest.md\|Leomund's secret chest]] |
+| 5th | [[/5. Mechanics/Spells/Legend Lore.md\|legend lore]], [[/5. Mechanics/Spells/Passwall.md\|passwall]] |
 ^astral-domain-spells
 
 ### Extradimensional Acuity (Level 1)
 
 At 1st level, your patron grants you the ability to maintain a small pocket dimension. The extradimensional space is always accessible to you and can hold up to 50 pounds of inanimate material, not exceeding 1 cubic foot. You can access and interact with this space using your hands the same way you would with a normal container. Your hands disappear within the space while they're accessing it.
 
-Placing a [[5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], [[5. Mechanics/Items/Hewards Handy Haversack.md\|Heward's handy haversack]], [[5. Mechanics/Items/Portable Hole.md\|portable hole]], or similar item inside your pocket dimension instantly destroys both the item and anything else within the two extradimensional spaces. When this happens, you are unable to access your pocket dimension again until 7 days have passed.
+Placing a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], [[/5. Mechanics/Items/Hewards Handy Haversack.md\|Heward's handy haversack]], [[/5. Mechanics/Items/Portable Hole.md\|portable hole]], or similar item inside your pocket dimension instantly destroys both the item and anything else within the two extradimensional spaces. When this happens, you are unable to access your pocket dimension again until 7 days have passed.
 
 In addition, you can sense whether pocket dimensions are present within 60 feet of you. This feature doesn't reveal their location or number.
 

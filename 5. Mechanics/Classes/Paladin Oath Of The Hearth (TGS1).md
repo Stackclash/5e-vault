@@ -81,11 +81,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] |
-| 5th | [[5. Mechanics/Spells/Aid.md\|aid]], [[5. Mechanics/Spells/Continual Flame.md\|continual flame]] |
-| 9th | [[5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[5. Mechanics/Spells/Daylight.md\|daylight]] |
-| 13th | [[5. Mechanics/Spells/Fire Shield.md\|fire shield]], [[5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] |
-| 17th | [[5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]] |
+| 3rd | [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]], [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] |
+| 5th | [[/5. Mechanics/Spells/Aid.md\|aid]], [[/5. Mechanics/Spells/Continual Flame.md\|continual flame]] |
+| 9th | [[/5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[/5. Mechanics/Spells/Daylight.md\|daylight]] |
+| 13th | [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]], [[/5. Mechanics/Spells/Guardian Of Faith.md\|guardian of faith]] |
+| 17th | [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]], [[/5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]] |
 ^astral-domain-spells
 
 ### Channel Divinity (Level 3)

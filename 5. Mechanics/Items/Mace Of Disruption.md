@@ -14,8 +14,8 @@ one-hand-damage: 1d6 bludgeoning
 weight: 4
 ---
 # Mace of Disruption
-*Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/mace-of-disruption.webp#right]]  
+*Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare (requires attunement)*  
+![[/5. Mechanics/Items/img/mace-of-disruption.webp#right]]  
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.

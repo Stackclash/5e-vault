@@ -11,7 +11,7 @@ aliases:
 
 Characters are defined by much more than their race and class. They're individuals with their own stories, interests, connections, and capabilities beyond those that class and race define. This chapter expounds on the details that distinguish characters from one another, including the basics of name and physical description, the rules of backgrounds and languages, and the finer points of personality and alignment.
 
-![[6. Resources/Books/Players Handbook 2014/img/ch4.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/ch4.webp#center]]
 
 ## Character Details
 
@@ -46,7 +46,7 @@ If you want to, you can roll randomly for your character's height and weight usi
 
 The dice roll given in the Height Modifier column determines the character's extra height (in inches) beyond the base height. That same number multiplied by the dice roll or quantity given in the Weight Modifier column determines the character's extra weight (in pounds) beyond the base weight.
 
-![[5. Mechanics/Tables/Random Height And Weight (PHB).md\|Random Height and Weight]]
+![[/5. Mechanics/Tables/Random Height And Weight (PHB).md\|Random Height and Weight]]
 
 For example, as a human, Tika has a height of 4 feet 8 inches plus 2d10 inches. Her player rolls 2d10 and gets a total of 12, so Tika stands 5 feet 8 inches tall. Then the player uses that same roll of 12 and multiplies it by 2d4 pounds. Her 2d4 roll is 3, so Tika weighs an extra 36 pounds (12 × 3) on top of her base 110 pounds, for a total of 146 pounds.
 
@@ -108,17 +108,17 @@ Your race indicates the languages your character can speak by default, and your 
 
 With your DM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
 
-![[6. Resources/Books/Players Handbook 2014/img/c4dwarvishalphabet.webp#center\|Dwarvish Alphabet]]
+![[/6. Resources/Books/Players Handbook 2014/img/c4dwarvishalphabet.webp#center\|Dwarvish Alphabet]]
 
 Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Primordial, Primordial, Primordial, and Primordial dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
-![[5. Mechanics/Tables/Standard Languages (PHB).md\|Standard Languages]]
+![[/5. Mechanics/Tables/Standard Languages (PHB).md\|Standard Languages]]
 
-![[6. Resources/Books/Players Handbook 2014/img/c4elvishalphabet.webp#center\|Elvish Alphabet]]
+![[/6. Resources/Books/Players Handbook 2014/img/c4elvishalphabet.webp#center\|Elvish Alphabet]]
 
-![[5. Mechanics/Tables/Exotic Languages (PHB).md\|Exotic Languages]]
+![[/5. Mechanics/Tables/Exotic Languages (PHB).md\|Exotic Languages]]
 
-![[6. Resources/Books/Players Handbook 2014/img/c4draconicalphabet.webp#center\|Draconic Alphabet]]
+![[/6. Resources/Books/Players Handbook 2014/img/c4draconicalphabet.webp#center\|Draconic Alphabet]]
 
 ### Personal Characteristics
 
@@ -185,7 +185,7 @@ Choosing a background provides you with important story cues about your characte
 
 The sample backgrounds in this chapter provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
-![[6. Resources/Books/Players Handbook 2014/img/c4-1.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c4-1.webp#center]]
 
 ### Proficiencies
 

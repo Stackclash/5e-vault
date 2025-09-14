@@ -57,13 +57,13 @@ Clerics who serve these deities-examples of which appear on the Twilight Deities
 | Example Deity | Pantheon |
 |---------------|----------|
 | Boldrei | Eberron |
-| [[5. Mechanics/Deities/Greyhawk Celestian.md\|Celestian]] | Greyhawk |
+| [[/5. Mechanics/Deities/Greyhawk Celestian.md\|Celestian]] | Greyhawk |
 | Dol Arrah | Eberron |
 | Helm | Forgotten Realms |
 | Ilmater | Forgotten Realms |
-| [[5. Mechanics/Deities/Dragonlance Mishakal (PHB).md\|Mishakal]] | Dragonlance |
+| [[/5. Mechanics/Deities/Dragonlance Mishakal (PHB).md\|Mishakal]] | Dragonlance |
 | Selûne | Forgotten Realms |
-| [[5. Mechanics/Deities/Nonhuman Yondalla.md\|Yondalla]] | Halfling |
+| [[/5. Mechanics/Deities/Nonhuman Yondalla.md\|Yondalla]] | Halfling |
 ^twilight-deities
 
 #### Domain Spells
@@ -77,11 +77,11 @@ You gain domain spells at the cleric levels listed in the Twilight Domain Spells
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[5. Mechanics/Spells/Sleep.md\|sleep]] |
-| 3rd | [[5. Mechanics/Spells/Moonbeam.md\|moonbeam]], [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] |
-| 5th | [[5. Mechanics/Spells/Aura Of Vitality.md\|aura of vitality]], [[5. Mechanics/Spells/Leomunds Tiny Hut.md\|Leomund's tiny hut]] |
-| 7th | [[5. Mechanics/Spells/Aura Of Life.md\|aura of life]], [[5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] |
-| 9th | [[5. Mechanics/Spells/Circle Of Power.md\|circle of power]], [[5. Mechanics/Spells/Mislead.md\|mislead]] |
+| 1st | [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[/5. Mechanics/Spells/Sleep.md\|sleep]] |
+| 3rd | [[/5. Mechanics/Spells/Moonbeam.md\|moonbeam]], [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] |
+| 5th | [[/5. Mechanics/Spells/Aura Of Vitality.md\|aura of vitality]], [[/5. Mechanics/Spells/Leomunds Tiny Hut.md\|Leomund's tiny hut]] |
+| 7th | [[/5. Mechanics/Spells/Aura Of Life.md\|aura of life]], [[/5. Mechanics/Spells/Greater Invisibility.md\|greater invisibility]] |
+| 9th | [[/5. Mechanics/Spells/Circle Of Power.md\|circle of power]], [[/5. Mechanics/Spells/Mislead.md\|mislead]] |
 ^twilight-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -112,7 +112,7 @@ You can use your Channel Divinity to refresh your allies with soothing twilight.
 
 As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
 
-- You grant it temporary hit points equal to `dice:1d6|noform|noparens|avg` (`d6`) plus your cleric level.  
+- You grant it temporary hit points equal to `dice:1d6|noform|noparens|avg` (`1d6`) plus your cleric level.  
 - You end one effect on it causing it to be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].  
 
 ### Steps of Night (Level 6)
@@ -125,13 +125,13 @@ You can draw on the mystical power of night to rise into the air. As a bonus act
 
 *8th-level Twilight Domain feature*
 
-You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) radiant damage. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 
 *8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Divine Strike feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Twilight Shroud (Level 17)
 

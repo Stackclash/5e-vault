@@ -25,16 +25,21 @@ classes:
   - Warlock (The Celestial)
 school: Evocation
 level: 1
+damage:
+  base: 4d6
+  scaling:
+    damage: 1d6
+    level: 2
+  types:
+    - radiant
 ritual: false
 time: 1 Action
 duration: 1 round
-components:
-  - V
-  - S
+range: 120 feet
+somatic: true
+verbal: true
 aliases:
   - Guiding Bolt
-range: 120 feet
-damageType: Radiant
 ---
 # Guiding Bolt
 *1st-level, Evocation*  
@@ -46,8 +51,10 @@ damageType: Radiant
 
 A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes `dice:4d6|noform|noparens|avg` (`4d6`) radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 1st.
 
-**Classes**: [Paladin (Oath of Radiance)](compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [Druid (Circle of Stars)](compendium/lists/list-spells-classes-circle-of-stars-tce.md "subclass=TCE"); [Paladin (Oath of Glory)](compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Paladin (Oath of the Watchtower)](compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Warlock (The Celestial)](compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Stars)](/compendium/lists/list-spells-classes-circle-of-stars-tce.md "subclass=TCE"); [Paladin (Oath of Glory)](/compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Paladin (Oath of Radiance)](/compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

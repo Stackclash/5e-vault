@@ -13,7 +13,7 @@ tags:
 aliases:
   - Amber Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Amber Golem (COS).md|Amber Golem]]
+# [[5. Mechanics/Bestiary/Construct/Amber Golem (COS).md|Amber Golem]]
 *Source: Curse of Strahd p. 186*
 
 ```statblock
@@ -39,7 +39,8 @@ aliases:
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
@@ -53,7 +54,7 @@ aliases:
 "actions":
   - "desc": "The golem makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19\
       \ (3d8 + 6) bludgeoning damage."
     "name": "Slam"
   - "desc": "The golem targets one or more creatures it can see within 10 feet of\
@@ -66,7 +67,7 @@ aliases:
     "name": "Slow (Recharge 5-6)"
 "source":
   - "CoS"
-"image": "5. Mechanics/Bestiary/Construct/token/amber-golem-cos.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/amber-golem-cos.webp"
 ```
 ^statblock
 

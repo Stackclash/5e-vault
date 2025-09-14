@@ -13,10 +13,10 @@ tags:
 aliases:
   - Kuunganisha
 ---
-# [[5. Mechanics\Bestiary\Fiend\Kuunganisha (KPDM).md|Kuunganisha]]
+# [[5. Mechanics/Bestiary/Fiend/Kuunganisha (KPDM).md|Kuunganisha]]
 *Source: Deep Magic p. 297*
 
-The kuunganisha is a type of fiend that appears to have been specifically created by the powers of villainy to serve as a familiar. An evil [[5. Mechanics/Classes/Warlock.md|warlock]] who has the [[5. Mechanics/Optional Features/Pact Of The Chain.md|Pact of the Chain]] can summon a kuunganisha in place of a [[5. Mechanics/Bestiary/Fiend/Quasit.md|quasit]] or an [[5. Mechanics/Bestiary/Fiend/Imp.md|imp]], while a [[5. Mechanics/Classes/Wizard.md|wizard]] can acquire one only by casting a [[5. Mechanics/Spells/Planar Binding.md|planar binding]] spell (though the kuunganisha serves the [[5. Mechanics/Classes/Wizard.md|wizard]] permanently in this case, rather than for just 24 hours).
+The kuunganisha is a type of fiend that appears to have been specifically created by the powers of villainy to serve as a familiar. An evil [[/5. Mechanics/Classes/Warlock.md|warlock]] who has the [[/5. Mechanics/Optional Features/Pact Of The Chain.md|Pact of the Chain]] can summon a kuunganisha in place of a [[/5. Mechanics/Bestiary/Fiend/Quasit.md|quasit]] or an [[/5. Mechanics/Bestiary/Fiend/Imp.md|imp]], while a [[/5. Mechanics/Classes/Wizard.md|wizard]] can acquire one only by casting a [[/5. Mechanics/Spells/Planar Binding.md|planar binding]] spell (though the kuunganisha serves the [[/5. Mechanics/Classes/Wizard.md|wizard]] permanently in this case, rather than for just 24 hours).
 
 ## Familiar
 
@@ -48,7 +48,8 @@ If a kuunganisha agrees to serve another creature as a familiar, it forms a tele
   \ attacks not made with silver"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 11"
 "languages": "Abyssal, Common, Infernal"
 "cr": "2"
 "traits":
@@ -70,13 +71,13 @@ If a kuunganisha agrees to serve another creature as a familiar, it forms a tele
 "actions":
   - "desc": "The kuunganisha makes one claw attack and one bite attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
       \ + 3) piercing damage, and the target must succeed on a DC 13 Constitution\
       \ saving throw or take 5 (2d4) poison damage and become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
       \ + 3) slashing damage."
     "name": "Claw"
   - "desc": "The kuunganisha magically turns [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]\

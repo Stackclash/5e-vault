@@ -13,7 +13,7 @@ one-hand-damage: 1d6 bludgeoning
 weight: 4
 ---
 # Prying Mace
-*Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Prying-Mace.webp#right)  
 
 - **Damage**: 1d6 bludgeoning

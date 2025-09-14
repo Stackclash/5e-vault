@@ -17,7 +17,7 @@ These adamantine vambraces look like miniature shields; they feel cool in the he
 
 ## Fire Shield
 
-You can use an action to cast the [[5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell from the vambraces while wearing them. For the duration, friendly creatures within 15 feet of you also gain the spell's damage resistance to either cold or fire damage. In addition, the vambraces' bonus to your AC increases to +2 for the duration of the spell.
+You can use an action to cast the [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell from the vambraces while wearing them. For the duration, friendly creatures within 15 feet of you also gain the spell's damage resistance to either cold or fire damage. In addition, the vambraces' bonus to your AC increases to +2 for the duration of the spell.
 
 The vambraces can be used to cast this spell twice. They regain all expended uses of it daily at dawn.
 

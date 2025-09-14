@@ -69,7 +69,7 @@ By 6th level, when you use your Lightning Leap feature, you can stop the line sh
 
 When you return to your normal or beast form after using your Lightning Leap feature and are within 5 feet of a creature, you can use a bonus action to make a single weapon attack against that creature.
 
-In addition, you always have the [[5. Mechanics/Spells/Call Lightning.md\|call lightning]], [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]], and [[5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] spells prepared, which do not count against the number of spells you can prepare each day.
+In addition, you always have the [[/5. Mechanics/Spells/Call Lightning.md\|call lightning]], [[/5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]], and [[/5. Mechanics/Spells/Sleet Storm.md\|sleet storm]] spells prepared, which do not count against the number of spells you can prepare each day.
 
 ### Live Wire (Level 10)
 

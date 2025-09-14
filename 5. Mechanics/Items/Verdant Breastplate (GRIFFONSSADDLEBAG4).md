@@ -12,7 +12,7 @@ armorClass: 14 + Dex modifier (max of +2)
 weight: 20
 ---
 # Verdant Breastplate
-*Medium armor ([[5. Mechanics/Items/Breastplate.md\|breastplate]]), rare (requires attunement)*  
+*Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Verdant-Breastplate.webp#right)  
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
@@ -28,7 +28,7 @@ This armor has 7 charges and regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`
 
 ## Spells
 
-While wearing this armor, you can use an action to expend some of its charges to cast either the [[5. Mechanics/Spells/Entangle.md\|entangle]] (1 charges) or [[5. Mechanics/Spells/Plant Growth.md\|plant growth]] (3 charges) spell from it, using a spell save DC of 15. If you're a druid or ranger, you can choose to cast the spell from the armor using your spell save DC instead.
+While wearing this armor, you can use an action to expend some of its charges to cast either the [[/5. Mechanics/Spells/Entangle.md\|entangle]] (1 charges) or [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]] (3 charges) spell from it, using a spell save DC of 15. If you're a druid or ranger, you can choose to cast the spell from the armor using your spell save DC instead.
 
 When you cast plant growth using this armor, the plants affected by the spell are enriched for 30 days. The plants yield twice the normal amount of food when harvested.
 

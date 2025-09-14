@@ -14,7 +14,7 @@ tags:
 aliases:
   - Gibbering Mouther
 ---
-# [[5. Mechanics\Bestiary\Aberration\Gibbering Mouther.md|Gibbering Mouther]]
+# [[5. Mechanics/Bestiary/Aberration/Gibbering Mouther.md|Gibbering Mouther]]
 *Source: Monster Manual p. 157, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Of all the terrors created by foul sorcery, gibbering mouthers are among the most wicked and depraved. This creature is the composite eyes, mouths, and liquefied matter of its former victims. Driven to insanity by the destruction of their bodies and absorption into the mouther, those victims gibber incoherent madness, forced to consume everything in reach.
@@ -51,7 +51,8 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
   - !!int "6"
 "speed": "10 ft., swim 10 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "2"
 "traits":
@@ -75,7 +76,7 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
   - "desc": "The gibbering mouther makes one bite attack and, if it can, uses its\
       \ Blinding Spittle."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 17\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 17\
       \ (5d6) piercing damage. If the target is Medium or smaller, it must succeed\
       \ on a DC 10 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
       \ If the target is killed by this damage, it is absorbed into the mouther."
@@ -89,7 +90,7 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Aberration/token/gibbering-mouther.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/gibbering-mouther.webp"
 ```
 ^statblock
 

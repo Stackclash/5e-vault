@@ -9,7 +9,7 @@ aliases:
 ---
 # Illithilich
 
-## Lair actions
+## Lair Actions
 _Source: Volo's Guide to Monsters_
 
 On initiative count 20 (losing initiative ties), the illithilich can take a lair action to cause one of the following magical effects; the illithilich can't use the same effect two rounds in a row:

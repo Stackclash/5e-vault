@@ -33,10 +33,10 @@ The wode is their home, but they are under no compulsion to remain in it, though
 
 ## The Inconsequent
 
-You cease aging and no longer need to sleep. You cannot be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], and magic cannot put you to sleep. You are immune to the effects of [[5. Mechanics/Spells/Slow.md\|slow]] and [[5. Mechanics/Spells/Time Stop.md\|time stop]]. You are immune to the effects of [[5. Mechanics/Items/The Chronos Codex (SAF).md\|the chronos codex]].
+You cease aging and no longer need to sleep. You cannot be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], and magic cannot put you to sleep. You are immune to the effects of [[/5. Mechanics/Spells/Slow.md\|slow]] and [[/5. Mechanics/Spells/Time Stop.md\|time stop]]. You are immune to the effects of [[/5. Mechanics/Items/The Chronos Codex (SAF).md\|the chronos codex]].
 
 ## Motivate Trees
 
-Once per month as an action, you can transform a copse of trees into a unit of [[5. Mechanics/Optional Features/Treants (SAF).md\|treants]]. The treants serve you for 1 hour or two battles, whichever happens first, after which they root back into the ground and become normal trees again.
+Once per month as an action, you can transform a copse of trees into a unit of [[/5. Mechanics/Optional Features/Treants (SAF).md\|treants]]. The treants serve you for 1 hour or two battles, whichever happens first, after which they root back into the ground and become normal trees again.
 
 *Source: Strongholds and Followers p. 253*

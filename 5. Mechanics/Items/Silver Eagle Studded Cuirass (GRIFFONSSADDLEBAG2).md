@@ -13,7 +13,7 @@ armorClass: 12 + Dex modifier
 weight: 13
 ---
 # Silver Eagle Studded Cuirass
-*Light armor ([[5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), major, uncommon (requires attunement)*  
+*Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Silver-Eagle-Studded-Cuirass.webp#right)  
 
 - **Armor Class**: 12 + Dex modifier

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Doppelganger
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Doppelganger.md|Doppelganger]]
+# [[5. Mechanics/Bestiary/Monstrosity/Doppelganger.md|Doppelganger]]
 *Source: Monster Manual p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Few creatures spread fear, suspicion, and deceit better than doppelgangers. Found in every land and culture, they can take on the guise of any individual of any race.
@@ -56,7 +56,8 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+3"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "Common"
 "cr": "3"
 "traits":
@@ -75,7 +76,7 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
 "actions":
   - "desc": "The doppelganger makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) bludgeoning damage."
     "name": "Slam"
   - "desc": "The doppelganger magically reads the surface thoughts of one creature\
@@ -91,7 +92,7 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
     "name": "Read Thoughts"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/doppelganger.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/doppelganger.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Vistana Bandit Captain
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Vistana Bandit Captain (COS).md|Vistana Bandit Captain]]
+# [[5. Mechanics/Bestiary/Humanoid/Vistana Bandit Captain (COS).md|Vistana Bandit Captain]]
 *Source: Curse of Strahd p. 28*
 
 ```statblock
@@ -23,7 +23,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any Non-Lawful alignment"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -36,9 +36,9 @@ aliases:
   - !!int "14"
 "speed": "30 ft."
 "saves":
-  - "strength": "+4"
-  - "dexterity": "+5"
-  - "wisdom": "+2"
+  - "strength": !!int "4"
+  - "dexterity": !!int "5"
+  - "wisdom": !!int "2"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]]"
     "desc": "+4"
@@ -51,23 +51,23 @@ aliases:
   - "desc": "The captain makes three melee attacks: two with its scimitar and one\
       \ with its dagger. Or the captain makes two ranged attacks with its daggers."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage."
     "name": "Scimitar"
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage."
     "name": "Dagger"
   - "desc": "12\n\n- The target is unable to perform a certain kind of act involving\
       \ fine motor control, such as tying knots, writing, playing an instrument, sewing,\
       \ or casting spells that have somatic components. When this curse ends, the\
-      \ Vistana takes d6 psychic damage.  \n- The target's appearance changes in a\
-      \ sinister yet purely cosmetic way. For example, the curse can place a scar\
+      \ Vistana takes 1d6 psychic damage.  \n- The target's appearance changes in\
+      \ a sinister yet purely cosmetic way. For example, the curse can place a scar\
       \ on the target's face, turn the target's teeth into yellow fangs, or give the\
-      \ target bad breath. When this curse ends, the Vistana takes d6 psychic damage.\
+      \ target bad breath. When this curse ends, the Vistana takes 1d6 psychic damage.\
       \  \n- A nonmagical item in the target's possession (chosen by the DM) disappears\
       \ and can't be found until the curse ends. The lost item can weigh no more than\
-      \ 1 pound. When this curse ends, the Vistana takes d6 psychic damage.  \n- The\
-      \ target gains vulnerability to a damage type of the Vistana's choice. When\
+      \ 1 pound. When this curse ends, the Vistana takes 1d6 psychic damage.  \n-\
+      \ The target gains vulnerability to a damage type of the Vistana's choice. When\
       \ this curse ends, the Vistana takes 3d6 psychic damage.  \n- The target has\
       \ disadvantage on ability checks and saving throws tied to one ability score\
       \ of the Vistana's choice. When this curse ends, the Vistana takes 3d6 psychic\
@@ -76,8 +76,8 @@ aliases:
       \ When this curse ends, the Vistana takes 5d6 psychic damage.  \n- The target\
       \ is [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
       \ or both. When this curse ends, the Vistana takes 5d6 psychic damage.  \n\n\
-      The curse lasts until ended with a [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
-      \ spell, a [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
+      The curse lasts until ended with a [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ spell, a [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell, or similar\
       \ magic. It doesn't end when the target dies. If a cursed target is returned\
       \ to life, the curse remains in effect."
     "name": "Curse (Recharges After a Long Rest)"
@@ -91,7 +91,7 @@ aliases:
     "name": "Parry"
 "source":
   - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/vistana-bandit-captain-cos.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/vistana-bandit-captain-cos.webp"
 ```
 ^statblock
 

@@ -17,7 +17,7 @@ tags:
 aliases:
   - Swordbeak
 ---
-# [[5. Mechanics\Bestiary\Beast\Swordbeak (TGS1).md|Swordbeak]]
+# [[5. Mechanics/Bestiary/Beast/Swordbeak (TGS1).md|Swordbeak]]
 *Source: The Griffon's Saddlebag, Book 1 p. 194*
 
 As the name suggests, swordbeaks are huge birds with 10-foot-long razor-sharp beaks. These beaks are capable of punching through stone and steel. Voracious carnivores, they often attack large creatures, and even humanoids, in grasslands, hillsides, coasts, and other open areas.
@@ -57,7 +57,7 @@ Swordbeak nests are usually littered with gold, gems, and other valuables that t
       \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 21\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 21\
       \ (3d10 + 5) slashing damage."
     "name": "Beak"
 "source":

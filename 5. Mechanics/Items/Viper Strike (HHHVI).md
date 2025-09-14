@@ -16,7 +16,7 @@ When you roll a 20 on your attack roll with this weapon, you deal an additional 
 
 **Items in this group:**
 
-- [[5. Mechanics/Items/Viper Strike Rare (HHHVI).md\|Viper Strike (Rare)]]
-- [[5. Mechanics/Items/Viper Strike Very Rare (HHHVI).md\|Viper Strike (Very Rare)]]
+- [[/5. Mechanics/Items/Viper Strike Rare (HHHVI).md\|Viper Strike (Rare)]]
+- [[/5. Mechanics/Items/Viper Strike Very Rare (HHHVI).md\|Viper Strike (Very Rare)]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 144*

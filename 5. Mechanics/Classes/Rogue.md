@@ -53,16 +53,16 @@ aliases:
 
 - **Saving Throws**: Dexterity, Intelligence
 - **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]]
-- **Weapons**: simple weapons, [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbows]], [[5. Mechanics/Items/Longsword.md\|longswords]], [[5. Mechanics/Items/Rapier.md\|rapiers]], [[5. Mechanics/Items/Shortsword.md\|shortswords]]
-- **Tools**: [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]
+- **Weapons**: simple weapons, [[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbows]], [[/5. Mechanics/Items/Longsword.md\|longswords]], [[/5. Mechanics/Items/Rapier.md\|rapiers]], [[/5. Mechanics/Items/Shortsword.md\|shortswords]]
+- **Tools**: [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]
 - **Skills**: choose 4 from [[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]], [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]], [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]], [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]], [[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]], and [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [[5. Mechanics/Items/Rapier.md\|rapier]] or (b) a [[5. Mechanics/Items/Shortsword.md\|shortsword]]
-- (a) a [[5. Mechanics/Items/Shortbow.md\|shortbow]] and [[5. Mechanics/Items/Quiver.md\|quiver]] of [[5. Mechanics/Items/Arrows 20.md\|20 arrows]] or (b) a [[5. Mechanics/Items/Shortsword.md\|shortsword]]
-- (a) a [[5. Mechanics/Items/Burglars Pack.md\|burglar's pack]], (b) a [[5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]], or (c) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
-- [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], two [[5. Mechanics/Items/Dagger.md\|daggers]], and [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]
+- (a) a [[/5. Mechanics/Items/Rapier.md\|rapier]] or (b) a [[/5. Mechanics/Items/Shortsword.md\|shortsword]]
+- (a) a [[/5. Mechanics/Items/Shortbow.md\|shortbow]] and [[/5. Mechanics/Items/Quiver.md\|quiver]] of [[/5. Mechanics/Items/Arrows 20.md\|20 arrows]] or (b) a [[/5. Mechanics/Items/Shortsword.md\|shortsword]]
+- (a) a [[/5. Mechanics/Items/Burglars Pack.md\|burglar's pack]], (b) a [[/5. Mechanics/Items/Dungeoneers Pack.md\|dungeoneer's pack]], or (c) an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
+- [[/5. Mechanics/Items/Leather Armor.md\|Leather armor]], two [[/5. Mechanics/Items/Dagger.md\|daggers]], and [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]
 
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
@@ -73,7 +73,7 @@ Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
 - **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]]
-- **Tools**: [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]
+- **Tools**: [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]
 - **Skills**: choose 1 from [[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]], [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Deception\|Deception]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Intimidation\|Intimidation]], [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]], [[/5. Mechanics/Rules/Skills.md#Performance\|Performance]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]], [[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]], and [[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]
 
 ## Rogue
@@ -106,7 +106,7 @@ What was the trigger that led you away from your previous life? Did a great con 
 
 #### Quick Build
 
-You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the [[5. Mechanics/Backgrounds/Charlatan.md\|charlatan]] background.
+You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the [[/5. Mechanics/Backgrounds/Charlatan.md\|charlatan]] background.
 
 > [!quote] A quote from Barnabas Bladecutter  
 > 
@@ -195,13 +195,13 @@ If your character's backstory doesn't already include a personage of this sort, 
 
 ### Expertise (Level 1)
 
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
-At 6th level, you can choose two more of your proficiencies (in skills or with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]) to gain this benefit.
+At 6th level, you can choose two more of your proficiencies (in skills or with [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]) to gain this benefit.
 
 ### Sneak Attack (Level 1)
 
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `dice:1d6|noform|noparens|avg` (`d6`) damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]], and you don't have disadvantage on the attack roll.
 
@@ -240,11 +240,11 @@ Starting at 5th level, when an attacker that you can see hits you with an attack
 
 ### Expertise (Level 6)
 
-At 6th level, you can choose two more of your proficiencies (in skills or with [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]) to gain the benefit of Expertise.
+At 6th level, you can choose two more of your proficiencies (in skills or with [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]) to gain the benefit of Expertise.
 
 ### Evasion (Level 7)
 
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [[5. Mechanics/Spells/Ice Storm.md\|ice storm]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Ability Score Improvement (Level 8)
 

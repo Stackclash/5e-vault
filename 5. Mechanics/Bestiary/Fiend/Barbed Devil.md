@@ -13,7 +13,7 @@ tags:
 aliases:
   - Barbed Devil
 ---
-# [[5. Mechanics\Bestiary\Fiend\Barbed Devil.md|Barbed Devil]]
+# [[5. Mechanics/Bestiary/Fiend/Barbed Devil.md|Barbed Devil]]
 *Source: Monster Manual p. 70, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Creatures of unbridled greed and desire, barbed devils act as guards to the more powerful denizens of the Nine Hells and their vaults. Resembling a tall humanoid covered in sharp barbs, spines, and hooks, a barbed devil has gleaming eyes that are ever watchful for objects and creatures it might claim for itself. These fiends welcome any chance to fight when victory promises reward.
@@ -132,10 +132,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > - A barbed devil has a 30 percent chance of summoning one barbed devil.  
 > - A bearded devil has a 30 percent chance of summoning one bearded devil.  
 > - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`d6`) bearded devils, or one erinyes.  
+> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`1d6`) bearded devils, or one erinyes.  
 > - A horned devil has a 30 percent chance of summoning one horned devil.  
 > - An ice devil has a 60 percent chance of summoning one ice devil.  
-> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -160,10 +160,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - !!int "14"
 "speed": "30 ft."
 "saves":
-  - "strength": "+6"
-  - "constitution": "+7"
-  - "wisdom": "+5"
-  - "charisma": "+5"
+  - "strength": !!int "6"
+  - "constitution": !!int "7"
+  - "wisdom": !!int "5"
+  - "charisma": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+5"
@@ -175,11 +175,12 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 18"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 18"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "5"
 "traits":
-  - "desc": "At the start of each of its turns, the barbed devil deals 5 (d10) piercing\
+  - "desc": "At the start of each of its turns, the barbed devil deals 5 (1d10) piercing\
       \ damage to any creature grappling it."
     "name": "Barbed Hide"
   - "desc": "Magical darkness doesn't impede the devil's darkvision."
@@ -191,13 +192,13 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - "desc": "The devil makes three melee attacks: one with its tail and two with its\
       \ claws. Alternatively, it can use Hurl Flame twice."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage."
     "name": "Claw"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) piercing damage."
     "name": "Tail"
-  - "desc": "Ranged Spell Attack: +5 to hit, range 150 ft., one target. Hit: 10\
+  - "desc": "*Ranged Spell Attack:* +5 to hit, range 150 ft., one target. *Hit:* 10\
       \ (3d6) fire damage. If the target is a flammable object that isn't being worn\
       \ or carried, it also catches fire."
     "name": "Hurl Flame"
@@ -205,7 +206,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - "MM"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fiend/token/barbed-devil.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/barbed-devil.webp"
 ```
 ^statblock
 

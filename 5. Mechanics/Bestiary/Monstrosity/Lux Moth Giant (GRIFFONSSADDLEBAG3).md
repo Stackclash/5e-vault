@@ -13,7 +13,7 @@ tags:
 aliases:
   - 'Lux Moth, Giant'
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Lux Moth Giant (GRIFFONSSADDLEBAG3).md|Lux Moth, Giant]]
+# [[5. Mechanics/Bestiary/Monstrosity/Lux Moth Giant (GRIFFONSSADDLEBAG3).md|Lux Moth, Giant]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 This mighty insect is the amalgamation of bioluminescence, hypnotic illusions, and mesmerizing spores and pheromones. Most sightings are from afar given the protective nature of the other lux moths near their queen, but by all accounts this large specimen has adapted marvelously in proximity to mirrorlight. They primarily use their abilities for defense from would-be predators, but have also been observed protecting mirrorlight deposits.
@@ -38,7 +38,8 @@ This mighty insect is the amalgamation of bioluminescence, hypnotic illusions, a
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+0"
-"senses": "blindsight 10 ft., darkvision 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 10"
 "languages": ""
 "cr": "1"
 "traits":
@@ -59,7 +60,7 @@ This mighty insect is the amalgamation of bioluminescence, hypnotic illusions, a
 "actions":
   - "desc": "The moth makes two attacks with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) slashing damage."
     "name": "Claws"
   - "desc": "The moth bristles its wings, causing the vibrating patterns to fog the\

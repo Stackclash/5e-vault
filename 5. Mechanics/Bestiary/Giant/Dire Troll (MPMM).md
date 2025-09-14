@@ -18,7 +18,7 @@ tags:
 aliases:
   - Dire Troll
 ---
-# [[5. Mechanics\Bestiary\Giant\Dire Troll (MPMM).md|Dire Troll]]
+# [[5. Mechanics/Bestiary/Giant/Dire Troll (MPMM).md|Dire Troll]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246, Mordenkainen's Tome of Foes p. 243*
 
 Trolls kill and eat almost anything—including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.
@@ -54,15 +54,16 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   - !!int "5"
 "speed": "40 ft."
 "saves":
-  - "wisdom": "+5"
-  - "charisma": "+2"
+  - "wisdom": !!int "5"
+  - "charisma": !!int "2"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": "Giant"
 "cr": "13"
 "traits":
@@ -72,12 +73,12 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
       \ more acid or fire damage while the troll has 0 hit points."
     "name": "Regeneration"
 "actions":
-  - "desc": " The troll makes one Bite attack and four Claw attacks."
+  - "desc": "The troll makes one Bite attack and four Claw attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 10\
-      \ (1d8 + 6) piercing damage plus 5 (d10) poison damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 10\
+      \ (1d8 + 6) piercing damage plus 5 (1d10) poison damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 16\
       \ (3d6 + 6) slashing damage."
     "name": "Claws"
   - "desc": "Each creature within 10 feet of the troll must make a DC 19 Dexterity\
@@ -87,7 +88,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Giant/token/dire-troll-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Giant/token/dire-troll-mpmm.webp"
 ```
 ^statblock
 

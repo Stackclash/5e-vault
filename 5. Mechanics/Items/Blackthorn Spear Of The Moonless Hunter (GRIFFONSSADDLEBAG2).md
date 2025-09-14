@@ -12,11 +12,11 @@ aliases:
   - Blackthorn Spear of the Moonless Hunter
 one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
-range: 20\60
+range: 20/60
 weight: 3
 ---
 # Blackthorn Spear of the Moonless Hunter
-*Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Blackthorn-Spear-of-the-Moonless-Hunter.webp#right)  
 
 - **Damage**:

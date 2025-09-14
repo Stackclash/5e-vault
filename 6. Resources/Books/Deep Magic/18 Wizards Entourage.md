@@ -145,10 +145,10 @@ Golems and similar constructs are common features in a wizard's home. The most p
 
 Described below are several unique magic constructs, each with its own history and personality. Some of them are presented along with ready-made adventure scenarios.
 
-- [[5. Mechanics/Bestiary/Construct/Bzeldruins Hundred (KPDM).md\|Bzeldruin's Hundred]]  
-- [[5. Mechanics/Bestiary/Construct/Leothars Bust (KPDM).md\|Leothar's Bust]]  
-- [[5. Mechanics/Bestiary/Construct/Nisruels Coachfly (KPDM).md\|Nisruel's Coachfly]]  
-- [[5. Mechanics/Bestiary/Construct/Sivvars Writing Desk (KPDM).md\|Sivvar's Writing Desk]]  
+- [[/5. Mechanics/Bestiary/Construct/Bzeldruins Hundred (KPDM).md\|Bzeldruin's Hundred]]  
+- [[/5. Mechanics/Bestiary/Construct/Leothars Bust (KPDM).md\|Leothar's Bust]]  
+- [[/5. Mechanics/Bestiary/Construct/Nisruels Coachfly (KPDM).md\|Nisruel's Coachfly]]  
+- [[/5. Mechanics/Bestiary/Construct/Sivvars Writing Desk (KPDM).md\|Sivvar's Writing Desk]]  
 
 ## Oddities for Every Occasion
 
@@ -157,7 +157,7 @@ From wands that shoot out darts of force and potions that allow you to breathe u
 While characters explore a wizard's tower or stronghold, an adventurer might come across a variety of strange magic items, some of which are more helpful than others. To determine what a character finds while searching, roll on the table below or choose one or more items at your discretion.
 
 > [!embed-table]- Oddities for Every Occasion
-> ![[5. Mechanics/Tables/Oddities For Every Occasion (KPDM).md\|Oddities for Every Occasion]]
+> ![[/5. Mechanics/Tables/Oddities For Every Occasion (KPDM).md\|Oddities for Every Occasion]]
 
 ## Familiar Territory
 
@@ -165,24 +165,24 @@ Although the list of available familiars in the standard rules is sufficient for
 
 To determine what familiar an NPC spellcaster might have, the GM can roll on one of the tables in this section or select a creature. Players can also use these tables to choose familiars for their characters, with the GM's approval. (Of course, any creature that can be a familiar must also exist in the world on its own.)
 
-The familiars presented here are of two basic kinds: standard familiars, which function the same as other beasts that serve the caster of the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell, and variant familiars, each of which is an intelligent creature that offers a special benefit to its master.
+The familiars presented here are of two basic kinds: standard familiars, which function the same as other beasts that serve the caster of the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell, and variant familiars, each of which is an intelligent creature that offers a special benefit to its master.
 
 ### Common Traits
 
-As stated in the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell, each of these creatures gains the celestial, fey, or fiend type (spellcaster's choice) when it becomes a familiar. Also, as noted in the spell, a familiar can't attack (though it can deliver a touch spell on behalf of its master). The stat blocks in this section include information on attacks, because it might come into play if any of these creatures are encountered as monsters in their own right, or perhaps as allies of the player characters.
+As stated in the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell, each of these creatures gains the celestial, fey, or fiend type (spellcaster's choice) when it becomes a familiar. Also, as noted in the spell, a familiar can't attack (though it can deliver a touch spell on behalf of its master). The stat blocks in this section include information on attacks, because it might come into play if any of these creatures are encountered as monsters in their own right, or perhaps as allies of the player characters.
 
 ### Standard Familiars
 
-With the GM's consent, any of the beasts described in this section can be chosen by a character who casts the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell. These creatures might also be encountered as the familiars of NPC spellcasters.
+With the GM's consent, any of the beasts described in this section can be chosen by a character who casts the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell. These creatures might also be encountered as the familiars of NPC spellcasters.
 
 > [!embed-table]- Standard Familiars
-> ![[5. Mechanics/Tables/Standard Familiars (KPDM).md\|Standard Familiars]]
+> ![[/5. Mechanics/Tables/Standard Familiars (KPDM).md\|Standard Familiars]]
 
 ### Variant Familiars
 
-This section expands the roster of potential  amiliars to include several intelligent creatures with supernatural abilities. The relationship between the familiar and its master, and the benefits the master receives, resembles how the [[5. Mechanics/Bestiary/Fiend/Imp.md\|imp]], the [[5. Mechanics/Bestiary/Fiend/Quasit.md\|quasit]], and the [[5. Mechanics/Bestiary/Dragon/Pseudodragon.md\|pseudodragon]] are presented as variant familiars in the standard rules.
+This section expands the roster of potential  amiliars to include several intelligent creatures with supernatural abilities. The relationship between the familiar and its master, and the benefits the master receives, resembles how the [[/5. Mechanics/Bestiary/Fiend/Imp.md\|imp]], the [[/5. Mechanics/Bestiary/Fiend/Quasit.md\|quasit]], and the [[/5. Mechanics/Bestiary/Dragon/Pseudodragon.md\|pseudodragon]] are presented as variant familiars in the standard rules.
 
-If the GM allows the use of any of these variant familiars by player characters, it might or might not be necessary for the would-be master to start the process by casting [[5. Mechanics/Spells/Find Familiar.md\|find familiar]]. Either way, a variant familiar is an actual creature (not a spirit) that serves at its own discretion, obeying its master's commands only when doing so does not immediately bring it harm, and it will not hesitate to end the link with its master as a matter of self-preservation. Unlike standard familiars, a variant familiar does not disappear if it drops to 0 hit points; it simply dies or falls unconscious (GM's choice).
+If the GM allows the use of any of these variant familiars by player characters, it might or might not be necessary for the would-be master to start the process by casting [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]]. Either way, a variant familiar is an actual creature (not a spirit) that serves at its own discretion, obeying its master's commands only when doing so does not immediately bring it harm, and it will not hesitate to end the link with its master as a matter of self-preservation. Unlike standard familiars, a variant familiar does not disappear if it drops to 0 hit points; it simply dies or falls unconscious (GM's choice).
 
 > [!embed-table]- Variant Familiars
-> ![[5. Mechanics/Tables/Variant Familiars (KPDM).md\|Variant Familiars]]
+> ![[/5. Mechanics/Tables/Variant Familiars (KPDM).md\|Variant Familiars]]

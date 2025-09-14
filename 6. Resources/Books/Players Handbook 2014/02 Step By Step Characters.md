@@ -13,7 +13,7 @@ Your first step in playing an adventurer in the Dungeons & Dragons game is to im
 
 Before you dive into step 1 below, think about the kind of adventurer you want to play. You might be a courageous fighter, a skulking rogue, a fervent cleric, or a flamboyant wizard. Or you might be more interested in an unconventional character, such as a brave rogue who likes hand-to-hand combat, or a sharpshooter who picks off enemies from afar. Do you like fantasy fiction featuring dwarves or elves? Try building a character of one of those races. Do you want your character to be the toughest adventurer at the table? Consider a class like barbarian or paladin. If you don't know where else to begin, take a look at the illustrations in this book to see what catches your interest.
 
-![[6. Resources/Books/Players Handbook 2014/img/ch1.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/ch1.webp#center]]
 
 Once you have a character in mind, roll on these steps in order, making decisions that reflect the character you want. Your conception of your character might evolve with each choice you make. What's important is that you come to the table with a character you're excited to play.
 
@@ -45,7 +45,7 @@ Your character receives a number of benefits from your choice of class. Many of 
 
 On your character sheet, record all the features that your class gives you at 1st level.
 
-![[6. Resources/Books/Players Handbook 2014/img/01-001-bruenor.webp#center\|Bruenor]]
+![[/6. Resources/Books/Players Handbook 2014/img/01-001-bruenor.webp#center\|Bruenor]]
 
 ### Level
 
@@ -163,9 +163,9 @@ You have 27 points to spend on your ability scores. The cost of each score is sh
 
 This method of determining ability scores enables you to create a set of three high numbers and three low ones (15, 15, 15, 8, 8, 8), a set of numbers that are above average and nearly equal (13, 13, 13, 12, 12, 12), or any set of numbers between those extremes.
 
-![[5. Mechanics/Tables/Variant Customizing Ability Scores Ability Score Point Cost (PHB).md\|Variant: Customizing Ability Scores; Ability Score Point Cost]]
+![[/5. Mechanics/Tables/Variant Customizing Ability Scores Ability Score Point Cost (PHB).md\|Variant: Customizing Ability Scores; Ability Score Point Cost]]
 
-![[5. Mechanics/Tables/Ability Scores And Modifiers (PHB).md\|Ability Scores and Modifiers]]
+![[/5. Mechanics/Tables/Ability Scores And Modifiers (PHB).md\|Ability Scores and Modifiers]]
 
 ## 4. Describe Your Character
 
@@ -235,8 +235,8 @@ For each weapon your character wields, calculate the modifier you use when you a
 
 When you make an attack with a weapon, you roll a d20 and add your proficiency bonus (but only if you are proficient with the weapon) and the appropriate ability modifier.
 
-- For attacks with **melee weapons**, use your Strength modifier for attack and damage rolls. A weapon that has the finesse property, such as a [[5. Mechanics/Items/Rapier.md\|rapier]], can use your Dexterity modifier instead.  
-- For attacks with **ranged weapons**, use your Dexterity modifier for attack and damage rolls. A melee weapon that has the thrown property, such as a [[5. Mechanics/Items/Handaxe.md\|handaxe]], can use your Strength modifier instead.  
+- For attacks with **melee weapons**, use your Strength modifier for attack and damage rolls. A weapon that has the finesse property, such as a [[/5. Mechanics/Items/Rapier.md\|rapier]], can use your Dexterity modifier instead.  
+- For attacks with **ranged weapons**, use your Dexterity modifier for attack and damage rolls. A melee weapon that has the thrown property, such as a [[/5. Mechanics/Items/Handaxe.md\|handaxe]], can use your Strength modifier instead.  
 
 ### Building Bruenor, Step 5
 
@@ -250,7 +250,7 @@ The battleaxe deals 1d8 slashing damage, and Bruenor adds his Strength modifier 
 
 Most D&D characters don't work alone. Each character plays a role within a **party,** a group of adventurers working together for a common purpose. Teamwork and cooperation greatly improve your party's chances to survive the many perils in the worlds of Dungeons & Dragons. Talk to your fellow players and your DM to decide whether your characters know one another, how they met, and what sorts of quests the group might undertake.
 
-![[6. Resources/Books/Players Handbook 2014/img/c0-03.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/c0-03.webp#center]]
 
 ## Beyond 1st Level
 
@@ -270,10 +270,10 @@ The shading in the Character Advancement table shows the four tiers of play. The
 
 **In the first tier (levels 1-4),** characters are effectively apprentice adventurers. They are learning the features that define them as members of particular classes, including the major choices that flavor their class features as they advance (such as a wizard's Arcane Tradition or a fighter's Martial Archetype). The threats they face are relatively minor, usually posing a danger to local farmsteads or villages.
 
-**In the second tier (levels 5-10),** characters come into their own. Many spellcasters gain access to 3rd-level spells at the start of this tier, crossing a new threshold of magical power with spells such as [[5. Mechanics/Spells/Fireball.md\|fireball]] and [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]]. At this tier, many weapon-using classes gain the ability to make multiple attacks in one round. These characters have become important, facing dangers that threaten cities and kingdoms.
+**In the second tier (levels 5-10),** characters come into their own. Many spellcasters gain access to 3rd-level spells at the start of this tier, crossing a new threshold of magical power with spells such as [[/5. Mechanics/Spells/Fireball.md\|fireball]] and [[/5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]]. At this tier, many weapon-using classes gain the ability to make multiple attacks in one round. These characters have become important, facing dangers that threaten cities and kingdoms.
 
 **In the third tier (levels 11-16),** characters have reached a level of power that sets them high above the ordinary populace and makes them special even among adventurers. At 11th level, many spellcasters gain access to 6th-level spells, some of which create effects previously impossible for player characters to achieve. Other characters gain features that allow them to make more attacks or do more impressive things with those attacks. These mighty adventurers often confront threats to whole regions and continents.
 
 **At the fourth tier (levels 17-20),** characters achieve the pinnacle of their class features, becoming heroic (or villainous) archetypes in their own right. The fate of the world or even the fundamental order of the multiverse might hang in the balance during their adventures.
 
-![[5. Mechanics/Tables/Beyond 1st Level Character Advancement (PHB).md\|Beyond 1st Level; Character Advancement]]
+![[/5. Mechanics/Tables/Beyond 1st Level Character Advancement (PHB).md\|Beyond 1st Level; Character Advancement]]

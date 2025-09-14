@@ -22,11 +22,11 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Weapon-of-Verdict.webp#right)  
 
 
-These polished wooden weapons are traditionally used by the clerics and paladins of a righteous order to punish evildoers and aid the needy. Each of these magic weapons is blessed by a powerful priest or celestial. A weapon of verdict has 3 charges and regains `dice:1d3|noform|noparens|avg` (`d3`) charges daily at dawn. You can use these charges to create the following effects:
+These polished wooden weapons are traditionally used by the clerics and paladins of a righteous order to punish evildoers and aid the needy. Each of these magic weapons is blessed by a powerful priest or celestial. A weapon of verdict has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) charges daily at dawn. You can use these charges to create the following effects:
 
 ## Condemn
 
-When you hit a creature with this weapon, you can expend 1 charge to deal an extra  `dice:1d8|noform|noparens|avg` (`d8`) fire damage to the target.
+When you hit a creature with this weapon, you can expend 1 charge to deal an extra  `dice:1d8|noform|noparens|avg` (`1d8`) fire damage to the target.
 
 ## Commend
 

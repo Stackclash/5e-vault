@@ -20,7 +20,7 @@ This golden talisman is made of five twisting hydra heads and hung from a simple
 - You can make an opportunity attack, even if you've already used your reaction.  
 - When you are forced to make a saving throw against being [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]], or knocked [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]], you can use your reaction to make the saving throw with advantage.  
 - When you take more than 25 damage from a single attack or effect, you can use your reaction to regain 10 hit points. If this damage would reduce you to 0 hit points but not kill you outright, you drop to 1 hit point instead and do not regain 10 hit points.  
-- When your head would be cut off by an effect, such as by a [[5. Mechanics/Items/Vorpal Sword.md\|vorpal sword]], you can use your reaction to negate the effect.  
+- When your head would be cut off by an effect, such as by a [[/5. Mechanics/Items/Vorpal Sword.md\|vorpal sword]], you can use your reaction to negate the effect.  
 
 Once a benefit of the talisman has been used, that benefit can't be used again until you finish a long rest.
 

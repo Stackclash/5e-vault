@@ -14,7 +14,7 @@ tags:
 aliases:
   - Behir
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Behir.md|Behir]]
+# [[5. Mechanics/Bestiary/Monstrosity/Behir.md|Behir]]
 *Source: Monster Manual p. 25, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The serpentine behir crawls along floors and clambers up walls to reach its prey. Its lightning breath can incinerate most creatures, even as more powerful foes are constricted in its coils and eaten alive.
@@ -62,17 +62,18 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+7"
 "damage_immunities": "lightning"
-"senses": "darkvision 90 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 90 ft., passive Perception\
+  \ 16"
 "languages": "Draconic"
 "cr": "11"
 "actions":
   - "desc": "The behir makes two attacks: one with its bite and one to constrict."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 22\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 22\
       \ (3d10 + 6) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one Large or smaller\
-      \ creature. Hit: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one Large or smaller\
+      \ creature. *Hit:* 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing\
       \ damage. The target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 16) if the behir isn't already constricting a creature, and the\
       \ target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] until this\
@@ -100,7 +101,7 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
 "source":
   - "MM"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/behir.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/behir.webp"
 ```
 ^statblock
 

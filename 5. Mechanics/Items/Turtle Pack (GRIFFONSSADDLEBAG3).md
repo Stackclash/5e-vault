@@ -15,7 +15,7 @@ weight: 20
 
 - **Weight**: 20.0 lbs.
 
-This backpack is armored with the shell of a mighty turtle. Wearing or removing the backpack requires an action. It functions as a [[5. Mechanics/Items/Hewards Handy Haversack.md\|Heward's Handy Haversack]] with the following changes and additional benefits:
+This backpack is armored with the shell of a mighty turtle. Wearing or removing the backpack requires an action. It functions as a [[/5. Mechanics/Items/Hewards Handy Haversack.md\|Heward's Handy Haversack]] with the following changes and additional benefits:
 
 The backpack has only the central pouch of the haversack.
 

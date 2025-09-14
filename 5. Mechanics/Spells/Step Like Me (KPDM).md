@@ -18,16 +18,19 @@ classes:
   - Wizard
 school: Transmutation
 level: 1
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
+range: 60 feet
+somatic: true
+verbal: true
+material: 'blood, hair, or a personal item of target'
 aliases:
   - Step Like Me
-material: 'blood, hair, or a personal item of target'
 ---
 # Step Like Me
 *1st-level, Transmutation*  
@@ -39,6 +42,6 @@ material: 'blood, hair, or a personal item of target'
 
 Choose a creature within one size category of yourself that you can see within range. The target must succeed on a Constitution saving throw or you steal its footsteps. For the duration of the spell, you leave the tracks of the target, while it leaves tracks as if it were you. In addition, those capable of identifying creatures through tremorsense mistake you for a creature of the target's kind.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 109*

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Behitaur
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Behitaur (GRIFFONSSADDLEBAG3).md|Behitaur]]
+# [[5. Mechanics/Bestiary/Monstrosity/Behitaur (GRIFFONSSADDLEBAG3).md|Behitaur]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Behitaurs are many-legged half-human, half-behir monstrosities in much the same way that a centaur is half human and half horse. The Lesser Reflectore Anillos are magically cursed and transformed into behitaurs as a result of their destiny-defying heressy and consumption.
@@ -43,7 +43,8 @@ Behitaurs are many-legged half-human, half-behir monstrosities in much the same 
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "lightning"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Draconic plus one other language (usually Common or Elvish)"
 "cr": "2"
 "traits":
@@ -55,15 +56,15 @@ Behitaurs are many-legged half-human, half-behir monstrosities in much the same 
   - "desc": "The behitaur makes two ranged attacks or two melee attacks, but can constrict\
       \ only once."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 14). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
       \ and the behitaur can't constrict another target."
     "name": "Constrict"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 9\
       \ (1d10 + 4) piercing damage."
     "name": "Pike"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:*\
       \ 7 (1d8 + 3) piercing damage."
     "name": "Longbow"
   - "desc": "The behitaur exhales a line of lightning that is 15 feet long and 5 feet\

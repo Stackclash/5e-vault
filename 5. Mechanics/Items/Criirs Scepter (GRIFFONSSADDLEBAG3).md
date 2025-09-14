@@ -31,11 +31,11 @@ Criir's Scepter can also be used as a magic morningstar that grants a +2 bonus t
 
 ## Charges
 
-The scepter has 10 charges for the following properties. The scepter regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On an 11 or higher, the scepter regains `dice:1d4|noform|noparens|avg` (`d4`) charges. On a 10 or lower, the scepter returns to its demiplane and can't be summoned again until the next dawn.
+The scepter has 10 charges for the following properties. The scepter regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On an 11 or higher, the scepter regains `dice:1d4|noform|noparens|avg` (`1d4`) charges. On a 10 or lower, the scepter returns to its demiplane and can't be summoned again until the next dawn.
 
 ## Spells
 
-While holding the scepter, you can use an action to cast one of the following spells from it, using your spell save DC and spell attack bonus: [[5. Mechanics/Spells/Flame Strike.md\|flame strike]] (4 charges), [[5. Mechanics/Spells/Identify.md\|identify]] (1 charge, or no charges to cast it over the course of 1 minute), [[5. Mechanics/Spells/Levitate.md\|levitate]] (1 charge), [[5. Mechanics/Spells/Meteor Swarm.md\|meteor swarm]] (8 charges), [[5. Mechanics/Spells/Reverse Gravity.md\|reverse gravity]] (6 charges), [[5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] (1 charge), or [[5. Mechanics/Spells/Sunburst.md\|sunburst]] (7 charges). If a spell cast in this way would deal fire damage, you can choose for the damage to be radiant instead.
+While holding the scepter, you can use an action to cast one of the following spells from it, using your spell save DC and spell attack bonus: [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]] (4 charges), [[/5. Mechanics/Spells/Identify.md\|identify]] (1 charge, or no charges to cast it over the course of 1 minute), [[/5. Mechanics/Spells/Levitate.md\|levitate]] (1 charge), [[/5. Mechanics/Spells/Meteor Swarm.md\|meteor swarm]] (8 charges), [[/5. Mechanics/Spells/Reverse Gravity.md\|reverse gravity]] (6 charges), [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] (1 charge), or [[/5. Mechanics/Spells/Sunburst.md\|sunburst]] (7 charges). If a spell cast in this way would deal fire damage, you can choose for the damage to be radiant instead.
 
 ## Star Collapse
 

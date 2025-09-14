@@ -10,6 +10,6 @@ aliases:
 # Otherworldly Leap
 *Source: Player's Handbook p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-***Prerequisites*** 9th
+***Prerequisites*** Level 9
 
-You can cast [[5. Mechanics/Spells/Jump.md\|jump]] on yourself at will, without expending a spell slot or material components.
+You can cast [[/5. Mechanics/Spells/Jump.md\|jump]] on yourself at will, without expending a spell slot or material components.

@@ -30,15 +30,21 @@ classes:
   - Wizard
 school: Conjuration
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 2
+  types: []
 ritual: true
 time: 1 minute
 duration: Special
-components:
-  - S
-  - M
+range: 10 feet
+somatic: true
+verbal: false
+material: a sharp knife and a pair of gloves
 aliases:
   - Hamund's Harvesting Hands
-material: a sharp knife and a pair of gloves
 ---
 # Hamund's Harvesting Hands
 *1st-level, Conjuration (ritual)*  
@@ -52,6 +58,6 @@ Target a dead creature within range that has a CR of 3 or less. This spell conju
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the CR of the creature harvestable increases by 3 for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Paladin (Oath of Legacy)](compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Warlock (The Apex Predator)](compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Harvester Domain)](compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Harvester Domain)](/compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Apex Predator)](/compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 69*

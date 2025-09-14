@@ -14,15 +14,25 @@ classes:
   - Wizard
 school: Conjuration
 level: 9
+damage:
+  base: 20d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - cold
+    - force
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 15
 aliases:
   - Black Hole
-concentration: true
 ---
 # Black Hole
 *9th-level, Conjuration*  
@@ -36,6 +46,6 @@ You create a tiny black hole at a point you can see within range. The black hole
 
 A creature that's within 5 feet of the black hole at the start of its turn must make a successful Strength saving throw or take `dice:8d6|noform|noparens|avg` (`8d6`) force damage and have its speed reduced to 0 until the start of its next turn. A creature that's within 40 feet of the black hole (but not within 5 feet of it) at the end of its turn takes `dice:2d6|noform|noparens|avg` (`2d6`) cold damage. A creature reduced to 0 hit points while within 5 feet of the black hole dies immediately.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 309*

@@ -23,6 +23,6 @@ You may focus on this item for 1 minute while holding it in order to transform i
 While in half-dragon form, your personality changes to align with that of your dragon colour. Your half-dragon form lasts for 1 hour or until you either spend 1 minute focusing on the dragon stone again to transform back, you die, or you break your attunement to the dragon stone. Once used, this transformation cannot be used again until the next dawn.
 
 > [!embed-table]- Dragon Types
-> ![[5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
+> ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*

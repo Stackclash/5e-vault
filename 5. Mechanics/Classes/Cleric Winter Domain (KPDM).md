@@ -56,11 +56,11 @@ Good-aligned clerics appeal to winter deities such as Boreas to spare their peop
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Breathtaking Wind (KPDM).md\|breathtaking wind]], [[5. Mechanics/Spells/Icicle Daggers (KPDM).md\|icicle daggers]] |
-| 3rd | [[5. Mechanics/Spells/Creeping Ice (KPDM).md\|creeping ice]], [[5. Mechanics/Spells/Sheen Of Ice (KPDM).md\|sheen of ice]] |
-| 5th | [[5. Mechanics/Spells/Sleet Storm.md\|sleet storm]], [[5. Mechanics/Spells/Steal Warmth (KPDM).md\|steal warmth]] |
-| 7th | [[5. Mechanics/Spells/Fusillade Of Ice (KPDM).md\|fusillade of ice]], [[5. Mechanics/Spells/Ice Storm.md\|ice storm]] |
-| 9th | [[5. Mechanics/Spells/Clash Of Glaciers (KPDM).md\|clash of glaciers]], [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
+| 1st | [[/5. Mechanics/Spells/Breathtaking Wind (KPDM).md\|breathtaking wind]], [[/5. Mechanics/Spells/Icicle Daggers (KPDM).md\|icicle daggers]] |
+| 3rd | [[/5. Mechanics/Spells/Creeping Ice (KPDM).md\|creeping ice]], [[/5. Mechanics/Spells/Sheen Of Ice (KPDM).md\|sheen of ice]] |
+| 5th | [[/5. Mechanics/Spells/Sleet Storm.md\|sleet storm]], [[/5. Mechanics/Spells/Steal Warmth (KPDM).md\|steal warmth]] |
+| 7th | [[/5. Mechanics/Spells/Fusillade Of Ice (KPDM).md\|fusillade of ice]], [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]] |
+| 9th | [[/5. Mechanics/Spells/Clash Of Glaciers (KPDM).md\|clash of glaciers]], [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
 ^winter-domain-spells
 
 ### A Cold Wind (Level 1)
@@ -79,7 +79,7 @@ Beginning at 6th level, when you deal cold damage to a creature, it must make a 
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) cold damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) cold damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Bringer of Winter's Wrath (Level 17)
 

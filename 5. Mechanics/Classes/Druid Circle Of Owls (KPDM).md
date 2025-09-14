@@ -53,7 +53,7 @@ These druids maintain closer relationships with the shadow fey than most. They f
 
 ### Circle Spells (Level 2)
 
-The ever present eyes and ears of the natural world impart magical knowledge to you. At 2nd level, you learn the [[5. Mechanics/Spells/Message.md\|message]] cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Owls Spells table.
+The ever present eyes and ears of the natural world impart magical knowledge to you. At 2nd level, you learn the [[/5. Mechanics/Spells/Message.md\|message]] cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Owls Spells table.
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
@@ -61,11 +61,11 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 | Druid Level | Spells |
 |-------------|--------|
-| 2nd | [[5. Mechanics/Spells/Message.md\|message]] |
-| 3rd | [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]] |
-| 5th | [[5. Mechanics/Spells/Nondetection.md\|nondetection]], [[5. Mechanics/Spells/Sending.md\|sending]] |
-| 7th | [[5. Mechanics/Spells/Arcane Eye.md\|arcane eye]], [[5. Mechanics/Spells/Mordenkainens Private Sanctum.md\|private sanctum]] |
-| 9th | [[5. Mechanics/Spells/Modify Memory.md\|modify memory]], [[5. Mechanics/Spells/Scrying.md\|scrying]] |
+| 2nd | [[/5. Mechanics/Spells/Message.md\|message]] |
+| 3rd | [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[/5. Mechanics/Spells/Invisibility.md\|invisibility]] |
+| 5th | [[/5. Mechanics/Spells/Nondetection.md\|nondetection]], [[/5. Mechanics/Spells/Sending.md\|sending]] |
+| 7th | [[/5. Mechanics/Spells/Arcane Eye.md\|arcane eye]], [[/5. Mechanics/Spells/Mordenkainens Private Sanctum.md\|private sanctum]] |
+| 9th | [[/5. Mechanics/Spells/Modify Memory.md\|modify memory]], [[/5. Mechanics/Spells/Scrying.md\|scrying]] |
 ^circle-of-owls-spells
 
 ### Bonus Proficiency (Level 2)
@@ -80,13 +80,13 @@ You can use this feature a number of times equal to your Wisdom modifier (a mini
 
 ### Owl's Eyes (Level 6)
 
-At 6th level, you can cast [[5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] once. When you cast the spell in this way, you don't require components, and the casting time is 1 action. You can choose for the invisible sensor to instead be visible as an owl.
+At 6th level, you can cast [[/5. Mechanics/Spells/Clairvoyance.md\|clairvoyance]] once. When you cast the spell in this way, you don't require components, and the casting time is 1 action. You can choose for the invisible sensor to instead be visible as an owl.
 
 Once you use this feature you can't use it again until you finish a long rest.
 
 ### Shadow Flight (Level 10)
 
-At 10th level, you can slip partially into shadow for a short time. As an action, you can cast the [[5. Mechanics/Spells/Etherealness.md\|etherealness]] spell. When you cast the spell in this way, its duration is concentration, up to 1 minute.
+At 10th level, you can slip partially into shadow for a short time. As an action, you can cast the [[/5. Mechanics/Spells/Etherealness.md\|etherealness]] spell. When you cast the spell in this way, its duration is concentration, up to 1 minute.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 

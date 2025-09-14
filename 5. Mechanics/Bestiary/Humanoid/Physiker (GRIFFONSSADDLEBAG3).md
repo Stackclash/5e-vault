@@ -13,7 +13,7 @@ tags:
 aliases:
   - Physiker
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Physiker (GRIFFONSSADDLEBAG3).md|Physiker]]
+# [[5. Mechanics/Bestiary/Humanoid/Physiker (GRIFFONSSADDLEBAG3).md|Physiker]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Although primarily found in the Medica Meridia, anyone can become a physiker with the proper training—typically through years of apprenticeship. These skilled martial artists utilize their abundant knowledge of the body's "fresh" and "saltwater" energy meridians to heal with acupuncture and tattoos, but also to precisely debilitate their foes. In Ilridun, any ship or group with a physiker, especially one sponsored by the Medica Meridia, is afforded additional respect and deference by Ilridun's citizens. Given the city's position as a bustling naval hub, physikers can often be found on land and sea across the world, carried by the tides of fate towards their inevitable destinies.
@@ -37,8 +37,8 @@ Although primarily found in the Medica Meridia, anyone can become a physiker wit
   - !!int "10"
 "speed": "50 ft."
 "saves":
-  - "strength": "+4"
-  - "dexterity": "+7"
+  - "strength": !!int "4"
+  - "dexterity": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+7"
@@ -59,9 +59,9 @@ Although primarily found in the Medica Meridia, anyone can become a physiker wit
   - "desc": "The physiker's weapon attacks are magical."
     "name": "Magic Weapons"
   - "desc": "When the physiker hits a creature with a blowgun needle or unarmed strike,\
-      \ it can choose one of the following options:\n\n- Disable. The next attack\
+      \ it can choose one of the following options:\n\n- **Disable.** The next attack\
       \ roll the target makes before the end of the physiker's next turn is made with\
-      \ disadvantage.  \n- Expose. The next attack roll made against the target\
+      \ disadvantage.  \n- **Expose.** The next attack roll made against the target\
       \ before the end of the physiker's next turn is made with advantage.  "
     "name": "Pointed Strikes (1/Turn)"
   - "desc": "When the physiker hits a creature with a melee attack, it can force the\
@@ -76,13 +76,13 @@ Although primarily found in the Medica Meridia, anyone can become a physiker wit
   - "desc": "The physiker makes three attacks. It can use its Restoring Touch in place\
       \ of one attack."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 7 (1d6 + 4) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 7 (1d6 + 4) piercing damage."
     "name": "Blowgun Needle"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) bludgeoning damage."
     "name": "Unarmed Strike"
-  - "desc": "The physiker casts the [[5. Mechanics/Spells/Enhance Ability.md|enhance ability]]\
+  - "desc": "The physiker casts the [[/5. Mechanics/Spells/Enhance Ability.md|enhance ability]]\
       \ spell. When cast in this way, the spell has a range of 20 feet."
     "name": "Embolden (Recharges after a Short or Long Rest)"
   - "desc": "The physiker touches a creature or harmlessly launches a blowgun needle\

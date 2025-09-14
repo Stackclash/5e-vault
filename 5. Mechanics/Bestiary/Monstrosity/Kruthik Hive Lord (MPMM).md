@@ -16,7 +16,7 @@ tags:
 aliases:
   - Kruthik Hive Lord
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Kruthik Hive Lord (MPMM).md|Kruthik Hive Lord]]
+# [[5. Mechanics/Bestiary/Monstrosity/Kruthik Hive Lord (MPMM).md|Kruthik Hive Lord]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*
 
 A hive lord rules each kruthik hive. When the hive lord dies, the surviving members of the hive abandon their lair and search for a new one. When a suitable location is found, the largest kruthik in the hive undergoes a metamorphosis, forming a cocoon around itself and emerging several weeks later as a hive lord—a bigger and smarter kruthik with the ability to spray digestive acid from its maw. The hive lord claims the largest chamber of the lair and keeps several adult kruthiks nearby as bodyguards.
@@ -62,7 +62,8 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+8"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 18"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., tremorsense\
+  \ 60 ft., passive Perception 18"
 "languages": "Kruthik"
 "cr": "5"
 "traits":
@@ -76,10 +77,10 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "actions":
   - "desc": "The kruthik makes two Stab or Spike attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 9\
       \ (1d10 + 4) piercing damage."
     "name": "Stab"
-  - "desc": "Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +6 to hit, range 30/120 ft., one target. *Hit:*\
       \ 7 (1d6 + 4) piercing damage."
     "name": "Spike"
   - "desc": "The kruthik sprays acid in a 15-foot cone. Each creature in that area\
@@ -89,7 +90,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/kruthik-hive-lord-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/kruthik-hive-lord-mpmm.webp"
 ```
 ^statblock
 

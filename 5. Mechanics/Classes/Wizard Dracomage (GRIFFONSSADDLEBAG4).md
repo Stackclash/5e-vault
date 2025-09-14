@@ -53,7 +53,7 @@ Wizards that devote their studies to the ancient and formidable power of dragons
 
 Beginning at 2nd level, you can speak, read, and write Draconic—a testament to your time spent researching dragon lore; if you already know Draconic, you instead learn another language of your choice. In addition, you have advantage on any Intelligence check you make to recall draconic lore or comprehend magic from dragons, as well as any Constitution saving throw you make to maintain concentration on a spell that has either "Draconic" or "Dragon" in its name.
 
-Furthermore, if you cast the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell, the summoned familiar can take the form of a pseudodragon.
+Furthermore, if you cast the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell, the summoned familiar can take the form of a pseudodragon.
 
 ### Dragon Dice (Level 2)
 

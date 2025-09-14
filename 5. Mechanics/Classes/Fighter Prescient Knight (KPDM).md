@@ -63,7 +63,7 @@ _Source: Deep Magic_
 
 The Prescient Knight Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [[5. Mechanics/Spells/Shield.md\|shield]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[5. Mechanics/Spells/Shield.md\|shield]] using either slot.
+For example, if you know the 1st-level spell [[/5. Mechanics/Spells/Shield.md\|shield]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/5. Mechanics/Spells/Shield.md\|shield]] using either slot.
 
 #### Spells Known of 1st-Level and Higher
 _Source: Deep Magic_
@@ -89,7 +89,7 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 
 ### Reactive Echo (Level 3)
 
-When choosing this archetype, your ability to anticipate the actions of your foes allows you to take a second reaction during a round in which you use your [Action Surge](compendium/classes/fighter.md#Action%20Surge%20(Level%202)).
+When choosing this archetype, your ability to anticipate the actions of your foes allows you to take a second reaction during a round in which you use your [Action Surge](/compendium/classes/fighter.md#Action%20Surge%20(Level%202)).
 
 ### Bonus Proficiency (Level 3)
 
@@ -103,9 +103,9 @@ At 3rd level you can cast spells having a somatic component while you are wieldi
 
 Beginning at 7th level, you have a preternatural awareness of your surroundings in times of duress.
 
-If you are surprised but not [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] at the start of combat, you can use your [Action Surge](compendium/classes/fighter.md#Action%20Surge%20(Level%202)) to negate surprise for yourself and take a normal turn plus one additional action (for the [Action Surge](compendium/classes/fighter.md#Action%20Surge%20(Level%202))) in the first round of combat.
+If you are surprised but not [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] at the start of combat, you can use your [Action Surge](/compendium/classes/fighter.md#Action%20Surge%20(Level%202)) to negate surprise for yourself and take a normal turn plus one additional action (for the [Action Surge](/compendium/classes/fighter.md#Action%20Surge%20(Level%202))) in the first round of combat.
 
-Additionally, using your [Action Surge](compendium/classes/fighter.md#Action%20Surge%20(Level%202)) this way allows you to give sufficient warning to your allies who are within 15 feet of you so they can also start taking reactions after your turn.
+Additionally, using your [Action Surge](/compendium/classes/fighter.md#Action%20Surge%20(Level%202)) this way allows you to give sufficient warning to your allies who are within 15 feet of you so they can also start taking reactions after your turn.
 
 ### Evasion (Level 10)
 
@@ -113,7 +113,7 @@ At 10th level, your foreknowledge of events to come allows you to position yours
 
 ### Anticipatory Strike (Level 15)
 
-At 15th level, your connection to threads of fate strengthens, providing greater insight into the movements and actions of your opponents. When you use an [Action Surge](compendium/classes/fighter.md#Action%20Surge%20(Level%202)), you have advantage on attack rolls and a +2 bonus to your AC until the end of your next turn.
+At 15th level, your connection to threads of fate strengthens, providing greater insight into the movements and actions of your opponents. When you use an [Action Surge](/compendium/classes/fighter.md#Action%20Surge%20(Level%202)), you have advantage on attack rolls and a +2 bonus to your AC until the end of your next turn.
 
 ### Action Free of Thought (Level 18)
 

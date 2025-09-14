@@ -13,7 +13,7 @@ tags:
 aliases:
   - Elemental Acolyte
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Elemental Acolyte (SAF).md|Elemental Acolyte]]
+# [[5. Mechanics/Bestiary/Humanoid/Elemental Acolyte (SAF).md|Elemental Acolyte]]
 *Source: Strongholds and Followers p. 76*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+6"
-  - "dexterity": "+6"
-  - "constitution": "+3"
-  - "intelligence": "+3"
-  - "wisdom": "+3"
-  - "charisma": "+3"
+  - "strength": !!int "6"
+  - "dexterity": !!int "6"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "3"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+5"
@@ -52,19 +52,19 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) bludgeoning damage.\n\nAt 7th level, retainers can take two signature\
       \ attacks per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nIntense winds swirl around the\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nIntense winds swirl around the\
       \ ends of the acolyte's weapon, causing their next two attacks to deal an extra\
       \ 7 (2d6) bludgeoning damage."
     "name": "Wind (3/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe acolyte makes a signature attack\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe acolyte makes a signature attack\
       \ and assumes a stance that lets them dodge all incoming melee attacks until\
       \ the start of their next turn."
     "name": "Water (3/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe acolyte stomps the ground,\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe acolyte stomps the ground,\
       \ dislodging two large pieces of earth, and kicks them toward a target within\
       \ 30 feet. The target must make a Dexterity saving throw or take 27 (6d8) bludgeoning\
       \ damage on a failed save, or half as much damage on a successful one."

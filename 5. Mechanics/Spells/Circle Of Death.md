@@ -16,24 +16,29 @@ classes:
   - Wizard
 school: Necromancy
 level: 6
+damage:
+  base: 8d6
+  scaling:
+    damage: 2d6
+    level: 7
+  types:
+    - necrotic
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 150 feet
+somatic: true
+verbal: true
+material: the powder of a crushed black pearl worth at least 500 gp
+area:
+  shape: sphere
+  size: 60
 aliases:
   - Circle of Death
-range: 150 feet
-material: The powder of a crushed black pearl worth at least 500 gp.
-damageType: Necrotic
-save:
-  type: CON
-  success: half
-area:
-  type: sphere
-  size: 60
 ---
 # Circle of Death
 *6th-level, Necromancy*  
@@ -47,6 +52,6 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by `dice:2d6|noform|noparens|avg|text(2d6)` for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 221. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

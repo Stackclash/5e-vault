@@ -17,7 +17,7 @@ tags:
 aliases:
   - Nightwalker
 ---
-# [[5. Mechanics\Bestiary\Undead\Nightwalker (MPMM).md|Nightwalker]]
+# [[5. Mechanics/Bestiary/Undead/Nightwalker (MPMM).md|Nightwalker]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
@@ -44,7 +44,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
   - !!int "8"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  - "constitution": "+13"
+  - "constitution": !!int "13"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
@@ -53,7 +53,8 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 120 ft., passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 9"
 "languages": ""
 "cr": "20"
 "traits":
@@ -62,7 +63,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
       \ Undead are immune to this aura."
     "name": "Annihilating Aura"
   - "desc": "A creature dies if reduced to 0 hit points by the nightwalker and can't\
-      \ be revived except by a [[5. Mechanics/Spells/Wish.md|wish]] spell."
+      \ be revived except by a [[/5. Mechanics/Spells/Wish.md|wish]] spell."
     "name": "Life Eater"
   - "desc": "The nightwalker doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
@@ -70,7 +71,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
   - "desc": "The nightwalker makes two Enervating Focus attacks, one of which can\
       \ be replaced by Finger of Doom, if available."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 28\
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 28\
       \ (5d8 + 6) necrotic damage. The target must succeed on a DC 21 Constitution\
       \ saving throw or its hit point maximum is reduced by an amount equal to the\
       \ necrotic damage taken. This reduction lasts until the target finishes a long\
@@ -87,7 +88,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/nightwalker-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/nightwalker-mpmm.webp"
 ```
 ^statblock
 

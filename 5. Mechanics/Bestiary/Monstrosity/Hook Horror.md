@@ -14,7 +14,7 @@ tags:
 aliases:
   - Hook Horror
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Hook Horror.md|Hook Horror]]
+# [[5. Mechanics/Bestiary/Monstrosity/Hook Horror.md|Hook Horror]]
 *Source: Monster Manual p. 189*
 
 A fierce predator of the Underdark, the hook horror aggressively defends its hunting grounds. The subterranean caverns where these creatures dwell echo with the constant clacking and scraping of their hooks as they wend their way up cliffs and along cavern walls. The monstrous hook horror has a head resembling a vulture's and the torso of an enormous beetle, with an exoskeleton studded by sharp, bony protuberances. It gains its name from its long, powerfully built arms and legs, which end in wickedly curved hooked claws.
@@ -52,7 +52,8 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 13"
 "languages": "Hook Horror"
 "cr": "3"
 "traits":
@@ -64,12 +65,12 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 "actions":
   - "desc": "The hook horror makes two hook attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11\
       \ (2d6 + 4) piercing damage."
     "name": "Hook"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/hook-horror.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/hook-horror.webp"
 ```
 ^statblock
 

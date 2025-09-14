@@ -12,13 +12,13 @@ armorClass: 14 + Dex modifier (max of +2)
 weight: 20
 ---
 # Time Warden Armor
-*Medium armor ([[5. Mechanics/Items/Breastplate.md\|breastplate]]), very rare (requires attunement)*  
+*Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Time-Warden-Armor.webp#right)  
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.
 
-This silver and brass breastplate is adorned with subtle clock designs. While wearing this armor, you are immune to the [[5. Mechanics/Spells/Slow.md\|slow]] spell and don't suffer the negative effects of haste when it ends on you.
+This silver and brass breastplate is adorned with subtle clock designs. While wearing this armor, you are immune to the [[/5. Mechanics/Spells/Slow.md\|slow]] spell and don't suffer the negative effects of haste when it ends on you.
 
 When you roll initiative while wearing this armor, use the number rolled on the `dice:d20|noform|noparens|avg` (`d20`), before adding any modifiers, to determine which of the following effects occur:
 

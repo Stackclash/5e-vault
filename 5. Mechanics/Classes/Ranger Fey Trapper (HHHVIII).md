@@ -54,7 +54,7 @@ The trappers of the fey courts are legendary to any mortal that shares that prof
 Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Fey Trapper Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
 > [!embed-table]- Fey Trapper Spells
-> ![[5. Mechanics/Tables/Fey Trapper Spells (HHHVIII).md\|Fey Trapper Spells]]
+> ![[/5. Mechanics/Tables/Fey Trapper Spells (HHHVIII).md\|Fey Trapper Spells]]
 
 ### Cornered Prey (Level 3)
 

@@ -47,7 +47,7 @@ aliases:
 
 ### Second Soul (Level 1)
 
-Within your mortal frame lies two souls that have been bound together like twin stars. Inexplicable magic arcs between them, creating a unique power within you that was never there before. This soul is undead by its very nature, as its mere existence defies the normal laws of life. Maybe your birth was marked by a lost twin, or a [[5. Mechanics/Spells/Revivify.md\|revivify]] spell entwined another spirit with yours by mistake. Perhaps a ghosts possession went awry, and now its soul is forever tied to yours.
+Within your mortal frame lies two souls that have been bound together like twin stars. Inexplicable magic arcs between them, creating a unique power within you that was never there before. This soul is undead by its very nature, as its mere existence defies the normal laws of life. Maybe your birth was marked by a lost twin, or a [[/5. Mechanics/Spells/Revivify.md\|revivify]] spell entwined another spirit with yours by mistake. Perhaps a ghosts possession went awry, and now its soul is forever tied to yours.
 
 ### Second Soul Magic (Level 1)
 
@@ -59,11 +59,11 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 1st | [[5. Mechanics/Spells/Command.md\|command]], [[5. Mechanics/Spells/Inflict Wounds.md\|inflict wounds]] |
-| 3rd | [[5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[5. Mechanics/Spells/Ray Of Enfeeblement.md\|ray of enfeeblement]] |
-| 5th | [[5. Mechanics/Spells/Speak With Dead.md\|speak with dead]], [[5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]] |
-| 7th | [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Compulsion.md\|compulsion]] |
-| 9th | [[5. Mechanics/Spells/Antilife Shell.md\|antilife shell]], [[5. Mechanics/Spells/Dominate Person.md\|dominate person]] |
+| 1st | [[/5. Mechanics/Spells/Command.md\|command]], [[/5. Mechanics/Spells/Inflict Wounds.md\|inflict wounds]] |
+| 3rd | [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[/5. Mechanics/Spells/Ray Of Enfeeblement.md\|ray of enfeeblement]] |
+| 5th | [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]], [[/5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]] |
+| 7th | [[/5. Mechanics/Spells/Blight.md\|blight]], [[/5. Mechanics/Spells/Compulsion.md\|compulsion]] |
+| 9th | [[/5. Mechanics/Spells/Antilife Shell.md\|antilife shell]], [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]] |
 ^second-soul-spells
 
 ### Touch of the Departed (Level 1)
@@ -80,7 +80,7 @@ You can choose to ignore the sorcery point cost when you use Twinned Spell with 
 
 ### Soul Split (Level 6)
 
-Also at 6th level, you can cast the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell once, without expending a spell slot or material components. When you do, your second soul is manifested as the familiar, which takes the form of an undead will-o-wisp. Its alignment, personality, and known languages are the same as the souls, and it uses your spell save DC for its Consume Life feature. While the familiar is summoned, you gain 3d6 temporary hit points when either you or the familiar slay a creature.
+Also at 6th level, you can cast the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell once, without expending a spell slot or material components. When you do, your second soul is manifested as the familiar, which takes the form of an undead will-o-wisp. Its alignment, personality, and known languages are the same as the souls, and it uses your spell save DC for its Consume Life feature. While the familiar is summoned, you gain 3d6 temporary hit points when either you or the familiar slay a creature.
 
 If the familiar is reduced to 0 hit points or if you dismiss it, your second soul returns to you until you summon the familiar again. Once you cast find familiar in this way, you can not do so again until you finish a long rest, unless you spend 1 sorcery point to cast it again.
 

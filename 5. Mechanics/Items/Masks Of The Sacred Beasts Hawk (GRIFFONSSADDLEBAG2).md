@@ -16,6 +16,6 @@ aliases:
 
 These dark ceramic and gold masks are fashioned after animals that are sacred in certain cultures. Each mask's appearance and properties are based on the sacred beast it represents. While attuned to a mask, you can end your attunement to it and attune to a different one over the course of 1 minute, instead of over the course of one or more short rests.
 
-While wearing a hawk mask, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on sight, and attacking at long range doesn't impose disadvantage on your ranged attack rolls. In addition, you can cast the [[5. Mechanics/Spells/Feather Fall.md\|feather fall]] spell at will, targeting only yourself.
+While wearing a hawk mask, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on sight, and attacking at long range doesn't impose disadvantage on your ranged attack rolls. In addition, you can cast the [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] spell at will, targeting only yourself.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 120*

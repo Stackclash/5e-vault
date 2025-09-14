@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: underwater
 size: Large
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Giant Sea Horse
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Sea Horse.md|Giant Sea Horse]]
+# [[5. Mechanics/Bestiary/Beast/Giant Sea Horse.md|Giant Sea Horse]]
 *Source: Monster Manual p. 328. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.
@@ -49,12 +49,12 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
   - "desc": "The sea horse can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
       \ + 1) bludgeoning damage."
     "name": "Ram"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-sea-horse.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/giant-sea-horse.webp"
 ```
 ^statblock
 

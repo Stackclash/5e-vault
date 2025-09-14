@@ -14,16 +14,25 @@ classes:
   - Druid (Circle of Oaks)
 school: Conjuration
 level: 4
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 5
+  types: []
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: any seed
 aliases:
   - Quick Time
-material: any seed
 ---
 # Quick Time
 *4th-level, Conjuration*  
@@ -37,6 +46,6 @@ You make one living creature or plant within range move rapidly in time compared
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you increase the target's age by one additional year for each slot level above 4th.
 
-**Classes**: [Druid (Circle of Oaks)](compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of Oaks)](/compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 259*

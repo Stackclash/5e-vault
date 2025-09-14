@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: 'forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark'
 size: Small
 tags:
@@ -22,7 +22,7 @@ tags:
 aliases:
   - Kobold
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kobold.md|Kobold]]
+# [[5. Mechanics/Bestiary/Humanoid/Kobold.md|Kobold]]
 *Source: Monster Manual p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
@@ -57,7 +57,8 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
   - !!int "7"
   - !!int "8"
 "speed": "30 ft."
-"senses": "darkvision 60 ft., passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 8"
 "languages": "Common, Draconic"
 "cr": "1/8"
 "traits":
@@ -70,15 +71,15 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
       \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) piercing damage."
     "name": "Dagger"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 4 (1d4 + 2) bludgeoning damage."
     "name": "Sling"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/kobold.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/kobold.webp"
 ```
 ^statblock
 

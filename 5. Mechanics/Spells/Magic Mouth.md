@@ -22,14 +22,14 @@ level: 2
 ritual: true
 time: 1 minute
 duration: Until dispelled
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: >-
+  a small bit of honeycomb and jade dust worth at least 10 gp, which the spell
+  consumes
 aliases:
   - Magic Mouth
-range: 30 feet
-material: 'A honeycomb and jade dust of at least 10 inches, the spell consumes.'
 ---
 # Magic Mouth
 *2nd-level, Illusion (ritual)*  
@@ -45,6 +45,6 @@ When that circumstance occurs, a magical mouth appears on the object and recites
 
 The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -13,7 +13,7 @@ aliases:
 - **Skill Proficiencies.** [[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]], [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]  
 - **Tool Proficiencies.** One type of musical instrument  
 - **Languages.** One of your choice  
-- **Equipment.** A [[5. Mechanics/Items/Staff.md\|staff]], a [[5. Mechanics/Items/Hunting Trap.md\|hunting trap]], a trophy from an animal you killed, a set of [[5. Mechanics/Items/Travelers Clothes.md\|traveler's clothes]], and a belt [[5. Mechanics/Items/Pouch.md\|pouch]] containing 10 gp  
+- **Equipment.** A [[/5. Mechanics/Items/Staff.md\|staff]], a [[/5. Mechanics/Items/Hunting Trap.md\|hunting trap]], a trophy from an animal you killed, a set of [[/5. Mechanics/Items/Travelers Clothes.md\|traveler's clothes]], and a belt [[/5. Mechanics/Items/Pouch.md\|pouch]] containing 10 gp  
 
 You grew up in the wilds, far from civilization and the comforts of town and technology. You've witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don't know the specific features of the terrain, you know the ways of the wild.
 
@@ -49,7 +49,7 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
-| 1 |  I'm driven by a wanderlust that led me away from home. |
+| 1 | I'm driven by a wanderlust that led me away from home. |
 | 2 | I watch over my friends as if they were a litter of newborn pups. |
 | 3 | I once ran twenty-five miles without stopping to warn to my clan of an approaching orc horde. I'd do it again if I had to. |
 | 4 | I have a lesson for every situation, drawn from observing nature. |
@@ -91,6 +91,6 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 2 | There's no room for caution in a life lived to the fullest. |
 | 3 | I remember every insult I've received and nurse a silent resentment toward anyone who's ever wronged me. |
 | 4 | I am slow to trust members of other races, tribes, and societies. |
-| 5 |  Violence is my answer to almost any challenge. |
-| 6 |  Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish. |
+| 5 | Violence is my answer to almost any challenge. |
+| 6 | Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish. |
 ^flaw

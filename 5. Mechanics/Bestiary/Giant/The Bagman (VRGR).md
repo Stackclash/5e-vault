@@ -13,14 +13,14 @@ tags:
 aliases:
   - The Bagman
 ---
-# [[5. Mechanics\Bestiary\Giant\The Bagman (VRGR).md|The Bagman]]
+# [[5. Mechanics/Bestiary/Giant/The Bagman (VRGR).md|The Bagman]]
 *Source: Van Richten's Guide to Ravenloft p. 225*
 
 ## Beware the Bagman
 
-The Bagman is an urban legend about an adventurer who sought to escape doom by abandoning his party and hiding inside a [[5. Mechanics/Items/Bag Of Holding.md|bag of holding]]. When he tried to leave, though, he became lost amid a constantly increasing number of extradimensional storage spaces. Over time, the strange forces of this magical in-between place transformed the adventurer into a monstrous creature. Now, every night, the Bagman slips out from a random [[5. Mechanics/Items/Bag Of Holding.md|bag of holding]]. If he doesn't find his home, he drags someone back into the bag with him and leaves behind some trinket from his hidden kingdom of lost junk. Some say that if you speak too loudly over an open [[5. Mechanics/Items/Bag Of Holding.md|bag of holding]] or whisper "follow my voice" into a magical storage space three times, the Bagman will come for you.
+The Bagman is an urban legend about an adventurer who sought to escape doom by abandoning his party and hiding inside a [[/5. Mechanics/Items/Bag Of Holding.md|bag of holding]]. When he tried to leave, though, he became lost amid a constantly increasing number of extradimensional storage spaces. Over time, the strange forces of this magical in-between place transformed the adventurer into a monstrous creature. Now, every night, the Bagman slips out from a random [[/5. Mechanics/Items/Bag Of Holding.md|bag of holding]]. If he doesn't find his home, he drags someone back into the bag with him and leaves behind some trinket from his hidden kingdom of lost junk. Some say that if you speak too loudly over an open [[/5. Mechanics/Items/Bag Of Holding.md|bag of holding]] or whisper "follow my voice" into a magical storage space three times, the Bagman will come for you.
 
-Any character might know the story of the Bagman. What the Bagman is and how you use this urban legend is up to you. Is there truly a Bagman, or is he just a story? If an object vanishes overnight or if someone finds something that isn't theirs in a [[5. Mechanics/Items/Bag Of Holding.md|bag of holding]], is the Bagman to blame? Is the Bagman just a monster that preys on adventurers, or is he the Darklord of his own hidden domain? The possibilities for horror adventures are endless, and nowhere—especially not adventurers' gear—is safe.
+Any character might know the story of the Bagman. What the Bagman is and how you use this urban legend is up to you. Is there truly a Bagman, or is he just a story? If an object vanishes overnight or if someone finds something that isn't theirs in a [[/5. Mechanics/Items/Bag Of Holding.md|bag of holding]], is the Bagman to blame? Is the Bagman just a monster that preys on adventurers, or is he the Darklord of his own hidden domain? The possibilities for horror adventures are endless, and nowhere—especially not adventurers' gear—is safe.
 
 ```statblock
 "name": "The Bagman (VRGR)"
@@ -43,7 +43,8 @@ Any character might know the story of the Bagman. What the Bagman is and how you
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "Giant"
 "cr": "5"
 "traits":
@@ -70,15 +71,15 @@ Any character might know the story of the Bagman. What the Bagman is and how you
 "actions":
   - "desc": "The Bagman makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage."
     "name": "Claw"
 "source":
   - "VRGR"
-"image": "5. Mechanics/Bestiary/Giant/token/the-bagman-vrgr.webp"
+"image": "/5. Mechanics/Bestiary/Giant/token/the-bagman-vrgr.webp"
 ```
 ^statblock
 

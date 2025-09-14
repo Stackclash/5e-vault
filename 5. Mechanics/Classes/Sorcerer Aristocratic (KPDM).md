@@ -61,14 +61,14 @@ At 1st level, you have a natural affinity for a particular school of magic, depe
 
 | dice: d8 | School | Spell |
 |----------|--------|-------|
-| 1 | Abjuration | [[5. Mechanics/Spells/Alarm.md\|Alarm]] |
-| 2 | Conjuration | [[5. Mechanics/Spells/Tensers Floating Disk.md\|Floating Disk]] |
-| 3 | Divination | [[5. Mechanics/Spells/Identify.md\|Identify]] |
-| 4 | Enchantment | [[5. Mechanics/Spells/Tashas Hideous Laughter.md\|Hideous Laughter]] |
-| 5 | Evocation | [[5. Mechanics/Spells/Burning Hands.md\|Burning Hands]] |
-| 6 | Illusion | [[5. Mechanics/Spells/Illusory Script.md\|Illusory Script]] |
-| 7 | Necromancy | [[5. Mechanics/Spells/False Life.md\|False Life]] |
-| 8 | Transmutation | [[5. Mechanics/Spells/Feather Fall.md\|Feather Fall]] |
+| 1 | Abjuration | [[/5. Mechanics/Spells/Alarm.md\|Alarm]] |
+| 2 | Conjuration | [[/5. Mechanics/Spells/Tensers Floating Disk.md\|Floating Disk]] |
+| 3 | Divination | [[/5. Mechanics/Spells/Identify.md\|Identify]] |
+| 4 | Enchantment | [[/5. Mechanics/Spells/Tashas Hideous Laughter.md\|Hideous Laughter]] |
+| 5 | Evocation | [[/5. Mechanics/Spells/Burning Hands.md\|Burning Hands]] |
+| 6 | Illusion | [[/5. Mechanics/Spells/Illusory Script.md\|Illusory Script]] |
+| 7 | Necromancy | [[/5. Mechanics/Spells/False Life.md\|False Life]] |
+| 8 | Transmutation | [[/5. Mechanics/Spells/Feather Fall.md\|Feather Fall]] |
 ^aristocratic-bloodline-school
 
 When your Spellcasting feature lets you learn a new Sorcerer cantrip or a new Sorcerer spell of 1st level or higher, you can choose the new spell from the wizard spell list, as long as the spell is from your associated school.

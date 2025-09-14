@@ -20,18 +20,23 @@ classes:
   - Wizard
 school: Abjuration
 level: 4
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 5
+  types: []
 ritual: false
 time: 10 minutes
 duration: 24 hours
-components:
-  - V
-  - S
-  - M
-aliases:
-  - Mordenkainen's Private Sanctum
+range: 120 feet
+somatic: true
+verbal: true
 material: >-
   a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and
   powdered chrysolite
+aliases:
+  - Mordenkainen's Private Sanctum
 ---
 # Mordenkainen's Private Sanctum
 *4th-level, Abjuration*  
@@ -56,6 +61,6 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of Owls)](compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of Owls)](/compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 262. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Private Sanctum")*

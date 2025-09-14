@@ -13,7 +13,7 @@ armorClass: 2
 weight: 6
 ---
 # Starmetal Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Starmetal-Shield.webp#right)  
 
 - **Armor Class**: 2

@@ -17,15 +17,13 @@ school: Evocation
 level: 3
 ritual: true
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Touch
+somatic: true
+verbal: true
+material: 'a vial of holy water, which is consumed'
 aliases:
   - Invested Champion
-concentration: true
-material: 'a vial of holy water, which is consumed'
 ---
 # Invested Champion
 *3rd-level, Evocation (ritual)*  
@@ -41,6 +39,6 @@ If you become the champion of another creature, you gain advantage on all attack
 
 Whichever version of the spell is cast, if the distance between the champion and its designated ally increases to more than 60 feet, the spell ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 86*

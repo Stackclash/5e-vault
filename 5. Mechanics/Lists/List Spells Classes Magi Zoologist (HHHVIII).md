@@ -10,4 +10,4 @@ aliases:
 
 ## 4th Level
 
-- [[5. Mechanics/Spells/Charm Monster (XGE).md \|"XGE"]] at class level 10
+- [[/5. Mechanics/Spells/Charm Monster (XGE).md \|"XGE"]] at class level 10

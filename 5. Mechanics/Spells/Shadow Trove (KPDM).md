@@ -15,16 +15,21 @@ classes:
   - Wizard
 school: Transmutation
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
 ritual: true
 time: 1 minute
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: 5 feet
+somatic: true
+verbal: true
+material: ink made from the blood of a raven
 aliases:
   - Shadow Trove
-material: ink made from the blood of a raven
 ---
 # Shadow Trove
 *3rd-level, Transmutation (ritual)*  
@@ -38,6 +43,6 @@ You paint a small door approximately 2 feet square on a hard surface to create a
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 2 hours for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 252*

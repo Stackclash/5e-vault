@@ -13,7 +13,7 @@ one-hand-damage: 1d8 piercing
 weight: 2
 ---
 # Soothstriker
-*Weapon ([[5. Mechanics/Items/Rapier.md\|rapier]]), very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Soothstriker.webp#right)  
 
 - **Damage**: 1d8 piercing

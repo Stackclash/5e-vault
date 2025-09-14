@@ -72,72 +72,72 @@ Some spells are associated with your focus element. The gold and time you must s
 #### Focus Element: Air
 _Source: Deep Magic_
 
-Cantrips—[[5. Mechanics/Spells/Shocking Grasp.md\|shocking grasp]], [[5. Mechanics/Spells/Wind Lash (KPDM).md\|wind lash]]
+Cantrips—[[/5. Mechanics/Spells/Shocking Grasp.md\|shocking grasp]], [[/5. Mechanics/Spells/Wind Lash (KPDM).md\|wind lash]]
 
-1st level—[[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]], [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]], [[5. Mechanics/Spells/Wind Tunnel (KPDM).md\|wind tunnel]]
+1st level—[[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]], [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]], [[/5. Mechanics/Spells/Wind Tunnel (KPDM).md\|wind tunnel]]
 
-2nd level—[[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]], [[5. Mechanics/Spells/Rolling Thunder (KPDM).md\|rolling thunder]]
+2nd level—[[/5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]], [[/5. Mechanics/Spells/Rolling Thunder (KPDM).md\|rolling thunder]]
 
-3rd level—[[5. Mechanics/Spells/Call Lightning.md\|call lightning]], [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]], [[5. Mechanics/Spells/Wind Wall.md\|wind wall]]
+3rd level—[[/5. Mechanics/Spells/Call Lightning.md\|call lightning]], [[/5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]], [[/5. Mechanics/Spells/Wind Wall.md\|wind wall]]
 
-4th level—[[5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]]
+4th level—[[/5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]]
 
-5th level—[[5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]]
+5th level—[[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]]
 
-6th level—[[5. Mechanics/Spells/Chain Lightning.md\|chain lightning]]
+6th level—[[/5. Mechanics/Spells/Chain Lightning.md\|chain lightning]]
 
-9th level—[[5. Mechanics/Spells/Storm Of Vengeance.md\|storm of vengeance]]
+9th level—[[/5. Mechanics/Spells/Storm Of Vengeance.md\|storm of vengeance]]
 
 #### Elemental Focus: Earth
 _Source: Deep Magic_
 
-Cantrips—[[5. Mechanics/Spells/Acid Splash.md\|acid splash]], [[5. Mechanics/Spells/Pummelstone (KPDM).md\|pummelstone]]
+Cantrips—[[/5. Mechanics/Spells/Acid Splash.md\|acid splash]], [[/5. Mechanics/Spells/Pummelstone (KPDM).md\|pummelstone]]
 
-2nd level—[[5. Mechanics/Spells/Melfs Acid Arrow.md\|acid arrow]]
+2nd level—[[/5. Mechanics/Spells/Melfs Acid Arrow.md\|acid arrow]]
 
-3rd level—[[5. Mechanics/Spells/Jeweled Fissure (KPDM).md\|jeweled fissure]]
+3rd level—[[/5. Mechanics/Spells/Jeweled Fissure (KPDM).md\|jeweled fissure]]
 
-4th level—[[5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[5. Mechanics/Spells/Earthskimmer (KPDM).md\|earthskimmer]], [[5. Mechanics/Spells/Stone Shape.md\|stone shape]]
+4th level—[[/5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[/5. Mechanics/Spells/Earthskimmer (KPDM).md\|earthskimmer]], [[/5. Mechanics/Spells/Stone Shape.md\|stone shape]]
 
-5th level—[[5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]], [[5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]]
+5th level—[[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]], [[/5. Mechanics/Spells/Wall Of Stone.md\|wall of stone]]
 
-6th level—[[5. Mechanics/Spells/Entomb (KPDM).md\|entomb]], [[5. Mechanics/Spells/Move Earth.md\|move earth]]
+6th level—[[/5. Mechanics/Spells/Entomb (KPDM).md\|entomb]], [[/5. Mechanics/Spells/Move Earth.md\|move earth]]
 
-8th level—[[5. Mechanics/Spells/Caustic Torrent (KPDM).md\|caustic torrent]], [[5. Mechanics/Spells/Earthquake.md\|earthquake]]
+8th level—[[/5. Mechanics/Spells/Caustic Torrent (KPDM).md\|caustic torrent]], [[/5. Mechanics/Spells/Earthquake.md\|earthquake]]
 
 #### Elemental Focus: Fire
 _Source: Deep Magic_
 
-Cantrips—[[5. Mechanics/Spells/Fire Bolt.md\|fire bolt]], [[5. Mechanics/Spells/Produce Flame.md\|produce flame]]
+Cantrips—[[/5. Mechanics/Spells/Fire Bolt.md\|fire bolt]], [[/5. Mechanics/Spells/Produce Flame.md\|produce flame]]
 
-2nd level—[[5. Mechanics/Spells/Fire Darts (KPDM).md\|fire darts]], [[5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], [[5. Mechanics/Spells/Scorching Ray.md\|scorching ray]]
+2nd level—[[/5. Mechanics/Spells/Fire Darts (KPDM).md\|fire darts]], [[/5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[/5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]]
 
-3rd level—[[5. Mechanics/Spells/Fireball.md\|fireball]]
+3rd level—[[/5. Mechanics/Spells/Fireball.md\|fireball]]
 
-4th level—[[5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[5. Mechanics/Spells/Fire Shield.md\|fire shield]], [[5. Mechanics/Spells/Flame Wave (KPDM).md\|flame wave]], [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]]
+4th level—[[/5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]], [[/5. Mechanics/Spells/Flame Wave (KPDM).md\|flame wave]], [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]]
 
-5th level—[[5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]]
+5th level—[[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]]
 
-7th level—[[5. Mechanics/Spells/Delayed Blast Fireball.md\|delayed blast fireball]]
+7th level—[[/5. Mechanics/Spells/Delayed Blast Fireball.md\|delayed blast fireball]]
 
-8th level—[[5. Mechanics/Spells/Incendiary Cloud.md\|incendiary cloud]]
+8th level—[[/5. Mechanics/Spells/Incendiary Cloud.md\|incendiary cloud]]
 
-9th level—[[5. Mechanics/Spells/Meteor Swarm.md\|meteor swarm]], [[5. Mechanics/Spells/Pyroclasm (KPDM).md\|pyroclasm]]
+9th level—[[/5. Mechanics/Spells/Meteor Swarm.md\|meteor swarm]], [[/5. Mechanics/Spells/Pyroclasm (KPDM).md\|pyroclasm]]
 
 #### Elemental Focus: Water
 _Source: Deep Magic_
 
-Cantrips—[[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]]
+Cantrips—[[/5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]]
 
-1st level—[[5. Mechanics/Spells/Create Or Destroy Water.md\|create or destroy water]], [[5. Mechanics/Spells/Tidal Barrier (KPDM).md\|tidal barrier]]
+1st level—[[/5. Mechanics/Spells/Create Or Destroy Water.md\|create or destroy water]], [[/5. Mechanics/Spells/Tidal Barrier (KPDM).md\|tidal barrier]]
 
-3rd level—[[5. Mechanics/Spells/Frozen Razors (KPDM).md\|frozen razors]], [[5. Mechanics/Spells/Riptide (KPDM).md\|riptide]], [[5. Mechanics/Spells/Sleet Storm.md\|sleet storm]]
+3rd level—[[/5. Mechanics/Spells/Frozen Razors (KPDM).md\|frozen razors]], [[/5. Mechanics/Spells/Riptide (KPDM).md\|riptide]], [[/5. Mechanics/Spells/Sleet Storm.md\|sleet storm]]
 
-4th level—[[5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[5. Mechanics/Spells/Control Water.md\|control water]]
+4th level—[[/5. Mechanics/Spells/Conjure Minor Elementals.md\|conjure minor elementals]], [[/5. Mechanics/Spells/Control Water.md\|control water]]
 
-5th level—[[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]], [[5. Mechanics/Spells/Frostbite (KPDM).md\|frostbite]]
+5th level—[[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[/5. Mechanics/Spells/Conjure Element(AL).md\|conjure elemental]], [[/5. Mechanics/Spells/Frostbite (KPDM).md\|frostbite]]
 
-6th level—[[5. Mechanics/Spells/Drown (KPDM).md\|drown]], [[5. Mechanics/Spells/Otilukes Freezing Sphere.md\|freezing sphere]], [[5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]]
+6th level—[[/5. Mechanics/Spells/Drown (KPDM).md\|drown]], [[/5. Mechanics/Spells/Otilukes Freezing Sphere.md\|freezing sphere]], [[/5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]]
 
 ### Elemental Mastery (Level 2)
 
@@ -146,7 +146,7 @@ Starting at 2nd level, you learn magical techniques, called masteries, to channe
 #### Masteries
 _Source: Deep Magic_
 
-You learn two [[5. Mechanics/Lists/List Optfeaturetype Mastery.md\|masteries]] of your choice. You learn one additional mastery of your choice at 6th, 10th, and 14th levels. Each time you learn a new mastery, you can also replace one mastery you know with a different one.
+You learn two [[/5. Mechanics/Lists/List Optfeaturetype Mastery.md\|masteries]] of your choice. You learn one additional mastery of your choice at 6th, 10th, and 14th levels. Each time you learn a new mastery, you can also replace one mastery you know with a different one.
 
 ### Substitute Elements (Level 6)
 

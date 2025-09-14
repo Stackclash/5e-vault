@@ -16,7 +16,7 @@ aliases:
 
 This dark silver circlet is embossed with the heads and tails of many rats. While wearing it, ordinary rats, giant rats, and swarms of rats are indifferent toward you and will not attack you unless you threaten or harm them.
 
-In addition, you can comprehend and verbally communicate with rats, as if by the [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] spell.
+In addition, you can comprehend and verbally communicate with rats, as if by the [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] spell.
 
 ## Mark of the Rat King
 

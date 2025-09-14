@@ -20,17 +20,22 @@ classes:
   - Wizard
 school: Conjuration
 level: 4
+saving_throw:
+  skills:
+    - Strength
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 90 feet
+somatic: true
+verbal: true
+material: a droplet of water
+area:
+  shape: sphere
+  size: 5
 aliases:
   - Watery Sphere
-concentration: true
-material: a droplet of water
 ---
 # Watery Sphere
 *4th-level, Conjuration*  
@@ -50,6 +55,6 @@ As an action, you can move the sphere up to 30 feet in a straight line. If it mo
 
 When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the sphere is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] in the space where it falls. The water then vanishes.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 170*

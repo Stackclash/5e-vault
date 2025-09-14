@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: forest
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Ape
 ---
-# [[5. Mechanics\Bestiary\Beast\Ape.md|Ape]]
+# [[5. Mechanics/Bestiary/Beast/Ape.md|Ape]]
 *Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -45,15 +45,15 @@ aliases:
 "actions":
   - "desc": "The ape makes two fist attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) bludgeoning damage."
     "name": "Fist"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 25/50 ft., one target. *Hit:*\
       \ 6 (1d6 + 3) bludgeoning damage."
     "name": "Rock"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/ape.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/ape.webp"
 ```
 ^statblock
 

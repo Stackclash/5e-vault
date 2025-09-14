@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: 'underdark, forest, swamp, urban'
 size: Small
 tags:
@@ -17,7 +17,7 @@ tags:
 aliases:
   - Giant Rat
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Rat.md|Giant Rat]]
+# [[5. Mechanics/Bestiary/Beast/Giant Rat.md|Giant Rat]]
 *Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -37,7 +37,8 @@ aliases:
   - !!int "10"
   - !!int "4"
 "speed": "30 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "1/8"
 "traits":
@@ -49,12 +50,12 @@ aliases:
       \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-rat.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/giant-rat.webp"
 ```
 ^statblock
 

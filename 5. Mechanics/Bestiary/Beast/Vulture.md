@@ -16,7 +16,7 @@ tags:
 aliases:
   - Vulture
 ---
-# [[5. Mechanics\Bestiary\Beast\Vulture.md|Vulture]]
+# [[5. Mechanics/Bestiary/Beast/Vulture.md|Vulture]]
 *Source: Monster Manual p. 339. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -51,12 +51,12 @@ aliases:
       \ ally isn't [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
       \ piercing damage."
     "name": "Beak"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/vulture.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/vulture.webp"
 ```
 ^statblock
 

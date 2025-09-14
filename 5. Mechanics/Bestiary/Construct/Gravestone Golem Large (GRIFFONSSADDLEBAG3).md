@@ -13,7 +13,7 @@ tags:
 aliases:
   - Gravestone Golem (Large)
 ---
-# [[5. Mechanics\Bestiary\Construct\Gravestone Golem Large (GRIFFONSSADDLEBAG3).md|Gravestone Golem (Large)]]
+# [[5. Mechanics/Bestiary/Construct/Gravestone Golem Large (GRIFFONSSADDLEBAG3).md|Gravestone Golem (Large)]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Gravestone golems hide beneath the fertile ground of graveyards. Some of these golems act as protectors of gravesites— typically for noteworthy characters or necromancers— whereas others are naturally formed as a result of lingering magic in the area. When a creature walks too close to their gravestone, which rests atop their otherwise hidden forms, the golem springs up from the ground the grab it and drag it downward to an early grave.
@@ -42,7 +42,8 @@ Gravestone golems hide beneath the fertile ground of graveyards. Some of these g
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 11"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
 "traits":
@@ -65,7 +66,7 @@ Gravestone golems hide beneath the fertile ground of graveyards. Some of these g
 "actions":
   - "desc": "The golem makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 15\
       \ (2d10 + 4) bludgeoning damage."
     "name": "Slam"
   - "desc": "The golem magically animates one Medium or Small humanoid corpse within\

@@ -19,13 +19,12 @@ level: 7
 ritual: false
 time: 10 minutes
 duration: 6 hours
-components:
-  - V
-  - S
-  - M
+range: 20 feet
+somatic: true
+verbal: true
+material: a magic item or a willing creature from the destination world
 aliases:
   - Dream of the Blue Veil
-material: a magic item or a willing creature from the destination world
 ---
 # Dream of the Blue Veil
 *7th-level, Conjuration*  
@@ -41,6 +40,6 @@ To cast this spell, you must have a magic item that originated on the world you 
 
 The spell ends early on a creature if that creature takes any damage, and the creature isn't transported. If you take any damage, the spell ends for you and all the other creatures, with none of you being transported.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Tasha's Cauldron of Everything p. 106*

@@ -14,15 +14,13 @@ school: Transmutation
 level: 4
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: Touch
+somatic: true
+verbal: true
+material: a dragon scale of the appropriate color
 aliases:
   - Scaly Hide
-concentration: true
-material: a dragon scale of the appropriate color
 ---
 # Scaly Hide
 *4th-level, Transmutation*  
@@ -34,6 +32,6 @@ material: a dragon scale of the appropriate color
 
 A creature you touch grows a protective layer of scales that resembles that of a dragon. Until the spell ends, the target's AC can't be lower than 16, regardless of the type of armor it is wearing. Additionally, the target gains resistance to either acid, cold, fire, lightning, or poison damage for the duration of the spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Deep Magic p. 204*

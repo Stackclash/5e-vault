@@ -28,20 +28,21 @@ classes:
   - Wizard
 school: Enchantment
 level: 1
+damage:
+  base: 5d8
+  scaling:
+    damage: 2d8
+    level: 2
+  types: []
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
-  - M
+range: 90 feet
+somatic: true
+verbal: true
+material: 'a pinch of fine sand, rose petals, or a cricket'
 aliases:
   - Sleep
-range: 90 feet
-material: 'A pinch of fine sand, rose petals, or a cricket.'
-area:
-  type: sphere
-  size: 20
 ---
 # Sleep
 *1st-level, Enchantment*  
@@ -59,6 +60,8 @@ Undead and creatures immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, roll an additional `dice:2d8|noform|noparens|avg|text(2d8)` for each slot level above 1st.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Cleric (Twilight Domain)](compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Darkness Domain)](compendium/lists/list-spells-classes-darkness-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]; [Paladin (Oath of Redemption)](compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Darkness Domain)](/compendium/lists/list-spells-classes-darkness-domain-kpdm.md "subclass=KPDM"); [Cleric (Twilight Domain)](/compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Player's Handbook p. 276. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

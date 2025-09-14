@@ -13,8 +13,8 @@ armorClass: 2
 weight: 6
 ---
 # Animated Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/animated-shield.webp#right]]  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
+![[/5. Mechanics/Items/img/animated-shield.webp#right]]  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

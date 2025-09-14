@@ -13,7 +13,7 @@ tags:
 aliases:
   - Cosmos-Kraken
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Cosmos Kraken (GRIFFONSSADDLEBAG3).md|Cosmos-Kraken]]
+# [[5. Mechanics/Bestiary/Monstrosity/Cosmos Kraken (GRIFFONSSADDLEBAG3).md|Cosmos-Kraken]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A space-faring kraken of scarcely-imaginable proportions. Few things have been known to stand, swim, or float in its way throughout known time. Fleets of cosmos-ready ships have crumbled under their might.
@@ -38,11 +38,11 @@ A space-faring kraken of scarcely-imaginable proportions. Few things have been k
   - !!int "21"
 "speed": "20 ft., fly 60 ft. (hover), swim 60 ft."
 "saves":
-  - "dexterity": "+10"
-  - "constitution": "+17"
-  - "intelligence": "+16"
-  - "wisdom": "+13"
-  - "charisma": "+14"
+  - "dexterity": !!int "10"
+  - "constitution": !!int "17"
+  - "intelligence": !!int "16"
+  - "wisdom": !!int "13"
+  - "charisma": !!int "14"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+13"
@@ -55,17 +55,19 @@ A space-faring kraken of scarcely-imaginable proportions. Few things have been k
   \ attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]"
-"senses": "truesight 300 ft., passive Perception 23"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 300 ft., passive Perception\
+  \ 23"
 "languages": "understands all languages but can't speak, telepathy 300 ft."
 "cr": "28"
 "traits":
   - "desc": "The kraken's innate spellcasting ability is Intelligence (spell save\
       \ DC 24). It can innately cast the following spells, requiring no components:\n\
-      \nAt will: [[5. Mechanics/Spells/Command.md|command]], [[5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
-      \ [[5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\n3/day each: [[5. Mechanics/Spells/Hold Person.md|hold\
-      \ person]], [[5. Mechanics/Spells/Nondetection.md|nondetection]],\
-      \ [[5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\n1/day each: [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]],\
-      \ [[5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]], [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
+      \n**At will:** [[/5. Mechanics/Spells/Command.md|command]], [[/5. Mechanics/Spells/Detect Thoughts.md|detect thoughts]],\
+      \ [[/5. Mechanics/Spells/Magic Missile.md|magic missile]]\n\n**3/day each:** [[/5. Mechanics/Spells/Hold Person.md|hold\
+      \ person]], [[/5. Mechanics/Spells/Nondetection.md|nondetection]],\
+      \ [[/5. Mechanics/Spells/Sanctuary.md|sanctuary]]\n\n**1/day each:** [[/5. Mechanics/Spells/Dominate Monster.md|dominate\
+      \ monster]], [[/5. Mechanics/Spells/Mass Suggestion.md|mass suggestion]],\
+      \ [[/5. Mechanics/Spells/Wall Of Force.md|wall of force]]"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "The kraken ignores difficult terrain, and magical effects can't reduce\
       \ its speed or cause it to be [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
@@ -84,7 +86,7 @@ A space-faring kraken of scarcely-imaginable proportions. Few things have been k
   - "desc": "The kraken makes three telekinetic tentacle attacks, each of which it\
       \ can replace with one use of Fling."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +19 to hit, reach 5 ft., one target. Hit: 23\
+  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 5 ft., one target. *Hit:* 23\
       \ (3d8 + 10) piercing damage plus 13 (3d8) psychic damage. If the target is\
       \ a Large or smaller creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ by the kraken, that creature is swallowed, and the grapple ends. While swallowed,\
@@ -99,7 +101,7 @@ A space-faring kraken of scarcely-imaginable proportions. Few things have been k
       \ is no longer [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] by it\
       \ and can escape from the corpse using 15 feet of movement, exiting [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +19 to hit, reach 60 ft., one target. Hit: 20\
+  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 60 ft., one target. *Hit:* 20\
       \ (3d6 + 10) force damage, and the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 17). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]].\
       \ The kraken has an unlimited number of telekinetic tentacles with which it\
@@ -107,7 +109,7 @@ A space-faring kraken of scarcely-imaginable proportions. Few things have been k
     "name": "Telekinetic Tentacle"
   - "desc": "One Large or smaller object held or creature [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ by the kraken is thrown up to 60 feet in a random direction and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-      \ If a thrown target strikes a solid surface, the target takes 3 (d6) bludgeoning\
+      \ If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning\
       \ damage for every 10 feet it was thrown. If the target is thrown at another\
       \ creature, that creature must succeed on a DC 18 Dexterity saving throw or\
       \ take the same damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
@@ -117,6 +119,9 @@ A space-faring kraken of scarcely-imaginable proportions. Few things have been k
       \ A target must make a DC 24 Intelligence saving throw, taking 44 (8d10) psychic\
       \ damage on a failed save, or half as much damage on a successful one."
     "name": "Psychic Storm"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the cosmos-kraken can expend a use to take one of the following actions.\
+  \ The cosmos-kraken regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The kraken casts one of its at will spells."
     "name": "Quick Cast"

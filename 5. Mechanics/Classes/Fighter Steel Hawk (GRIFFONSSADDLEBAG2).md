@@ -57,17 +57,17 @@ You can't use this feature if your speed is 0, and if you leap completely horizo
 
 You can use this feature three times, and you regain all expended uses of it when you finish a short or long rest. Beginning at 7th level, you can use this feature four times between rests, and beginning at 15th level, you can use it five times between rests.
 
-Leaping in this way can also strengthen your strikes by using the force of your momentum. If you make a melee weapon attack immediately after using Launch, you have advantage on the attack roll, and if the attack hits, the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) damage of the weapon's type. At 10th level, this extra damage becomes `dice:1d10|noform|noparens|avg` (`d10`), and at 18th level, it becomes `dice:1d12|noform|noparens|avg` (`d12`). The attack can be made immediately after you land at the end of the leap or during the leap's movement.
+Leaping in this way can also strengthen your strikes by using the force of your momentum. If you make a melee weapon attack immediately after using Launch, you have advantage on the attack roll, and if the attack hits, the target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage of the weapon's type. At 10th level, this extra damage becomes `dice:1d10|noform|noparens|avg` (`1d10`), and at 18th level, it becomes `dice:1d12|noform|noparens|avg` (`1d12`). The attack can be made immediately after you land at the end of the leap or during the leap's movement.
 
 ### Nimble Lancer (Level 3)
 
-Starting at 3rd level, you are remarkably light on your feet and capable of counterbalancing even some of the most awkward of equipment. Lances have the versatile property for you while you're not mounted, dealing `dice:1d8|noform|noparens|avg` (`d8`) piercing damage on a hit when held with one hand and `dice:1d12|noform|noparens|avg` (`d12`) piercing damage when wielded with two. When you use your Launch feature and immediately hit with a melee attack using a lance, it counts as if you're wielding it with two hands.
+Starting at 3rd level, you are remarkably light on your feet and capable of counterbalancing even some of the most awkward of equipment. Lances have the versatile property for you while you're not mounted, dealing `dice:1d8|noform|noparens|avg` (`1d8`) piercing damage on a hit when held with one hand and `dice:1d12|noform|noparens|avg` (`1d12`) piercing damage when wielded with two. When you use your Launch feature and immediately hit with a melee attack using a lance, it counts as if you're wielding it with two hands.
 
 If you hit a creature within 5 feet of you using a lance, you can immediately move up to 5 feet away from it, without provoking an opportunity attack from the target. You must be standing and have movement remaining in order to move in this way.
 
 ### Bird Caller (Level 3)
 
-Also at 3rd level, you learn to identify common birds by their calls, and you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]]) checks when interacting with any beast that has an innate flying speed. In addition, you gain the ability to cast the [[5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] spell, but only as a ritual and only targeting a beast that has an innate flying speed.
+Also at 3rd level, you learn to identify common birds by their calls, and you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]]) checks when interacting with any beast that has an innate flying speed. In addition, you gain the ability to cast the [[/5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] spell, but only as a ritual and only targeting a beast that has an innate flying speed.
 
 ### Steel Grace (Level 7)
 

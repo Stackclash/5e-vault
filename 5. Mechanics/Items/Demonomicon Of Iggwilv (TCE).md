@@ -10,7 +10,7 @@ aliases:
 ---
 # Demonomicon of Iggwilv
 *Wondrous item, artifact (requires attunement)*  
-![[5. Mechanics/Items/img/demonomicon-of-iggwilv.webp#right]]  
+![[/5. Mechanics/Items/img/demonomicon-of-iggwilv.webp#right]]  
 
 
 An expansive treatise documenting the Abyss's infinite layers and inhabitants, the Demonomicon of Iggwilv is the most thorough and blasphemous tome of demonology in the multiverse. The tome recounts both the oldest and most current profanities of the Abyss and demons. Demons have attempted to censor the text, and while sections have been ripped from the book's spine, the general chapters remain, ever revealing demonic secrets. And the book holds more than blasphemies. Caged behind lines of script roils a secret piece of the Abyss itself, which keeps the book up-to-date, no matter how many pages are removed, and it longs to be more than mere reference material.
@@ -19,13 +19,13 @@ An expansive treatise documenting the Abyss's infinite layers and inhabitants, t
 
 The artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [[5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial]] properties  
-- 1 [[5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental]] property  
-- 1 [[5. Mechanics/Tables/Artifact Properties Major Detrimental Properties.md\|major detrimental]] property  
+- 2 [[/5. Mechanics/Tables/Artifact Properties Minor Beneficial Properties.md\|minor beneficial]] properties  
+- 1 [[/5. Mechanics/Tables/Artifact Properties Minor Detrimental Properties.md\|minor detrimental]] property  
+- 1 [[/5. Mechanics/Tables/Artifact Properties Major Detrimental Properties.md\|major detrimental]] property  
 
 ## Spells
 
-The book has 8 charges. It regains `dice:1d8|noform|noparens|avg` (`d8`) expended charges daily at dawn. While holding it, you can use an action to cast [[5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's hideous laughter]] from it or to expend 1 or more of its charges to cast one of the following spells (save DC 20) from it: [[5. Mechanics/Spells/Magic Circle.md\|magic circle]] (1 charge), [[5. Mechanics/Spells/Magic Jar.md\|magic jar]] (3 charges), [[5. Mechanics/Spells/Planar Ally.md\|planar ally]] (3 charges), [[5. Mechanics/Spells/Planar Binding.md\|planar binding]] (2 charges), [[5. Mechanics/Spells/Plane Shift.md\|plane shift]] (to layers of the Abyss only; 3 charges), [[5. Mechanics/Spells/Summon Fiend (TCE).md\|summon fiend]] (3 charges).
+The book has 8 charges. It regains `dice:1d8|noform|noparens|avg` (`1d8`) expended charges daily at dawn. While holding it, you can use an action to cast [[/5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's hideous laughter]] from it or to expend 1 or more of its charges to cast one of the following spells (save DC 20) from it: [[/5. Mechanics/Spells/Magic Circle.md\|magic circle]] (1 charge), [[/5. Mechanics/Spells/Magic Jar.md\|magic jar]] (3 charges), [[/5. Mechanics/Spells/Planar Ally.md\|planar ally]] (3 charges), [[/5. Mechanics/Spells/Planar Binding.md\|planar binding]] (2 charges), [[/5. Mechanics/Spells/Plane Shift.md\|plane shift]] (to layers of the Abyss only; 3 charges), [[/5. Mechanics/Spells/Summon Fiend (TCE).md\|summon fiend]] (3 charges).
 
 ## Abyssal Reference
 
@@ -37,15 +37,15 @@ Your magic causes pain to fiends. While carrying the book, when you make a damag
 
 ## Ensnarement
 
-While carrying the book, whenever you cast the [[5. Mechanics/Spells/Magic Circle.md\|magic circle]] spell naming only fiends, or the [[5. Mechanics/Spells/Planar Binding.md\|planar binding]] spell targeting a fiend, the spell is cast at 9th level, regardless of what level spell slot you used, if any. Additionally, the fiend has disadvantage on its saving throw against the spell.
+While carrying the book, whenever you cast the [[/5. Mechanics/Spells/Magic Circle.md\|magic circle]] spell naming only fiends, or the [[/5. Mechanics/Spells/Planar Binding.md\|planar binding]] spell targeting a fiend, the spell is cast at 9th level, regardless of what level spell slot you used, if any. Additionally, the fiend has disadvantage on its saving throw against the spell.
 
 ## Containment
 
-The first 10 pages of the *Demonomicon* are blank. As an action while holding the book, you can target a fiend that you can see that is trapped within a [[5. Mechanics/Spells/Magic Circle.md\|magic circle]]. The fiend must succeed on a DC 20 Charisma saving throw with disadvantage or become trapped within one of the *Demonomicon's* empty blank pages, which fills with writing detailing the trapped creature's widely known name and depravities. Once used, this action can't be used again until the next dawn.
+The first 10 pages of the *Demonomicon* are blank. As an action while holding the book, you can target a fiend that you can see that is trapped within a [[/5. Mechanics/Spells/Magic Circle.md\|magic circle]]. The fiend must succeed on a DC 20 Charisma saving throw with disadvantage or become trapped within one of the *Demonomicon's* empty blank pages, which fills with writing detailing the trapped creature's widely known name and depravities. Once used, this action can't be used again until the next dawn.
 
 When you finish a long rest, if you and the *Demonomicon* are on the same plane of existence, the trapped creature of the highest challenge rating within the book can attempt to possess you. You must make a DC 20 Charisma saving throw. On a failure, you are possessed by the creature, which controls you like a puppet. The possessing creature can release you as an action, appearing in the closest unoccupied space. On a successful save, the fiend can't try to possess you again for 7 days.
 
-When the tome is discovered, it has `dice:1d4|noform|noparens|avg` (`d4`) fiends occupying its pages, typically an assortment of demons.
+When the tome is discovered, it has `dice:1d4|noform|noparens|avg` (`1d4`) fiends occupying its pages, typically an assortment of demons.
 
 ## Destroying the Demonomicon
 

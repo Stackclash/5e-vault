@@ -10,4 +10,4 @@ aliases:
 
 ## 9th Level
 
-- [[5. Mechanics/Spells/Astral Projection.md \|"PHB"]]
+- [[/5. Mechanics/Spells/Astral Projection.md \|"PHB"]]

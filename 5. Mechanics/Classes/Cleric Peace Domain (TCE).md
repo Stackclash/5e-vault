@@ -61,9 +61,9 @@ Clerics of the Peace Domain preside over the signing of treaties, and they are o
 | Boldrei | Eberron |
 | Cyrrollalee | Halfling |
 | Eldath | Forgotten Realms |
-| [[5. Mechanics/Deities/Gnomish Gaerdal Ironhand (SCAG).md\|Gaerdal Ironhand]] | Gnomish |
-| [[5. Mechanics/Deities/Dragonlance Paladine (PHB).md\|Paladine]] | Dragonlance |
-| [[5. Mechanics/Deities/Greyhawk Rao.md\|Rao]] | Greyhawk |
+| [[/5. Mechanics/Deities/Gnomish Gaerdal Ironhand (SCAG).md\|Gaerdal Ironhand]] | Gnomish |
+| [[/5. Mechanics/Deities/Dragonlance Paladine (PHB).md\|Paladine]] | Dragonlance |
+| [[/5. Mechanics/Deities/Greyhawk Rao.md\|Rao]] | Greyhawk |
 ^peace-deities
 
 #### Domain Spells
@@ -77,11 +77,11 @@ You gain domain spells at the cleric levels listed in the Peace Domain Spells ta
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Heroism.md\|heroism]], [[5. Mechanics/Spells/Sanctuary.md\|sanctuary]] |
-| 3rd | [[5. Mechanics/Spells/Aid.md\|aid]], [[5. Mechanics/Spells/Warding Bond.md\|warding bond]] |
-| 5th | [[5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[5. Mechanics/Spells/Sending.md\|sending]] |
-| 7th | [[5. Mechanics/Spells/Aura Of Purity.md\|aura of purity]], [[5. Mechanics/Spells/Otilukes Resilient Sphere.md\|Otiluke's resilient sphere]] |
-| 9th | [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], [[5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]] |
+| 1st | [[/5. Mechanics/Spells/Heroism.md\|heroism]], [[/5. Mechanics/Spells/Sanctuary.md\|sanctuary]] |
+| 3rd | [[/5. Mechanics/Spells/Aid.md\|aid]], [[/5. Mechanics/Spells/Warding Bond.md\|warding bond]] |
+| 5th | [[/5. Mechanics/Spells/Beacon Of Hope.md\|beacon of hope]], [[/5. Mechanics/Spells/Sending.md\|sending]] |
+| 7th | [[/5. Mechanics/Spells/Aura Of Purity.md\|aura of purity]], [[/5. Mechanics/Spells/Otilukes Resilient Sphere.md\|Otiluke's resilient sphere]] |
+| 9th | [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], [[/5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]] |
 ^peace-domain-spells
 
 ### Implement of Peace (Level 1)
@@ -120,7 +120,7 @@ You add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 *8th-level cleric [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]], which replaces the Potent Spellcasting feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Expansive Bond (Level 17)
 

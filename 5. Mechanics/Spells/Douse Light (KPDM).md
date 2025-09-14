@@ -23,13 +23,13 @@ classes:
   - Warlock
   - Wizard
 school: Transmutation
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Douse Light
 ---
@@ -41,8 +41,10 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-With a simple gesture, you can put out a single small source of light within range. This spell extinguishes a torch, a candle, a lantern, or a [[5. Mechanics/Spells/Light.md\|light]] or [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] cantrip.
+With a simple gesture, you can put out a single small source of light within range. This spell extinguishes a torch, a candle, a lantern, or a [[/5. Mechanics/Spells/Light.md\|light]] or [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] cantrip.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Deep Magic p. 249*

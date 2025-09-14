@@ -102,7 +102,7 @@ While in combat, you can choose to play hole cards as though they were a card fr
 
 ### Royal Flush (Level 6)
 
-Starting at 6th level, you have learned how to draw more magic from your arcane deck and influence those around you. You can use an action to play a jack, queen, or king card from your hand of fate or hole cards to cast the [[5. Mechanics/Spells/Command.md\|command]] spell from it at 1st, 2nd, or 3rd level, respectively, using your bard spell save DC and without expending a spell slot. Once you play a card in this way, you can not do so again with that card from any other suit until you finish a long rest.
+Starting at 6th level, you have learned how to draw more magic from your arcane deck and influence those around you. You can use an action to play a jack, queen, or king card from your hand of fate or hole cards to cast the [[/5. Mechanics/Spells/Command.md\|command]] spell from it at 1st, 2nd, or 3rd level, respectively, using your bard spell save DC and without expending a spell slot. Once you play a card in this way, you can not do so again with that card from any other suit until you finish a long rest.
 
 In addition, the range of your Trick feature increases to 60 feet, instead of 30.
 

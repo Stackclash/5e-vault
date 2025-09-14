@@ -59,11 +59,11 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 | Druid Level | Light Form Spells | Dark Form Spells |
 |-------------|-------------------|------------------|
-| 2nd | [[5. Mechanics/Spells/Bless.md\|bless]] | [[5. Mechanics/Spells/Bane.md\|bane]] |
-| 3rd | [[5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]] | [[5. Mechanics/Spells/Darkness.md\|darkness]] |
-| 5th | [[5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]] | [[5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]] |
-| 7th | [[5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] | [[5. Mechanics/Spells/Dimension Door.md\|dimension door]] |
-| 9th | [[5. Mechanics/Spells/Flame Strike.md\|flame strike]] | [[5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
+| 2nd | [[/5. Mechanics/Spells/Bless.md\|bless]] | [[/5. Mechanics/Spells/Bane.md\|bane]] |
+| 3rd | [[/5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]] | [[/5. Mechanics/Spells/Darkness.md\|darkness]] |
+| 5th | [[/5. Mechanics/Spells/Mass Healing Word.md\|mass healing word]] | [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]] |
+| 7th | [[/5. Mechanics/Spells/Wall Of Fire.md\|wall of fire]] | [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]] |
+| 9th | [[/5. Mechanics/Spells/Flame Strike.md\|flame strike]] | [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]] |
 ^circle-of-the-eclipse-spells
 
 ### Light and Dark Forms (Level 2)

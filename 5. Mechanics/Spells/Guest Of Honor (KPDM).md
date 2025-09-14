@@ -19,15 +19,21 @@ classes:
   - Wizard
 school: Enchantment
 level: 1
+damage:
+  base: 1d4
+  scaling:
+    damage: null
+    level: null
+  types: []
 ritual: true
 time: 10 minutes
 duration: 10 minutes
-components:
-  - V
-  - M
+range: Touch
+somatic: false
+verbal: true
+material: a signet ring worth 25 gp
 aliases:
   - Guest of Honor
-material: a signet ring worth 25 gp
 ---
 # Guest of Honor
 *1st-level, Enchantment (ritual)*  
@@ -40,7 +46,7 @@ material: a signet ring worth 25 gp
 > [!note]
 > This spell can only be cast as a ritual.
 
-You whisper words of encouragement, and a creature that you touch gains confidence along with approval from strangers. For the spell's duration, the target puts its best foot forward and strangers associate the creature with positive feelings. The target adds `dice:1d4|noform|noparens|avg` (`d4`) to all Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks made to influence the attitudes of others.
+You whisper words of encouragement, and a creature that you touch gains confidence along with approval from strangers. For the spell's duration, the target puts its best foot forward and strangers associate the creature with positive feelings. The target adds `dice:1d4|noform|noparens|avg` (`1d4`) to all Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) checks made to influence the attitudes of others.
 
 ## Group Spellcasting
 
@@ -52,6 +58,8 @@ If you expend your ritual focus, the effect lasts for 24 hours.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
 
 *Source: Deep Magic p. 212*

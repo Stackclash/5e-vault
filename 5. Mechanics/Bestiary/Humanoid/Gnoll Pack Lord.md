@@ -17,7 +17,7 @@ tags:
 aliases:
   - Gnoll Pack Lord
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Gnoll Pack Lord.md|Gnoll Pack Lord]]
+# [[5. Mechanics/Bestiary/Humanoid/Gnoll Pack Lord.md|Gnoll Pack Lord]]
 *Source: Monster Manual p. 163*
 
 The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack lord earns the best of a gnoll pack's spoils, food, valuable trinkets, and magic items. It ornaments its body with brutal piercings and grotesque trophies, dyeing its fur with demonic sigils, hoping Yeenoghu will make it invulnerable.
@@ -47,7 +47,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "subtype": "gnoll"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]]"
+"ac_class": "[[/5. Mechanics/Items/Chain Shirt.md|chain shirt]]"
 "hp": !!int "49"
 "hit_dice": "9d8 + 9"
 "modifier": !!int "2"
@@ -59,7 +59,8 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
   - !!int "11"
   - !!int "9"
 "speed": "30 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Gnoll"
 "cr": "2"
 "traits":
@@ -71,13 +72,13 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
   - "desc": "The gnoll makes two attacks, either with its glaive or its longbow, and\
       \ uses its Incite Rampage if it can."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5\
       \ (1d4 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8\
       \ (1d10 + 3) slashing damage."
     "name": "Glaive"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
     "name": "Longbow"
   - "desc": "One creature the gnoll can see within 30 feet of it can use its reaction\
@@ -85,7 +86,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
     "name": "Incite Rampage (Recharge 5-6)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/gnoll-pack-lord.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/gnoll-pack-lord.webp"
 ```
 ^statblock
 

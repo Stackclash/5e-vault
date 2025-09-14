@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'underdark, mountain, grassland, forest, swamp, hill, arctic'
 size: Medium
 tags:
@@ -20,7 +20,7 @@ tags:
 aliases:
   - Orc
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc.md|Orc]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc.md|Orc]]
 *Source: Monster Manual p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -60,7 +60,7 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
+"ac_class": "[[/5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "15"
 "hit_dice": "2d8 + 6"
 "modifier": !!int "1"
@@ -75,7 +75,8 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Common, Orc"
 "cr": "1/2"
 "traits":
@@ -83,15 +84,15 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
       \ creature that it can see."
     "name": "Aggressive"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12\
       \ + 3) slashing damage."
     "name": "Greataxe"
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage."
     "name": "Javelin"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/orc.webp"
 ```
 ^statblock
 

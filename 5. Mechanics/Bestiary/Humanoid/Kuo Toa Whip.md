@@ -14,7 +14,7 @@ tags:
 aliases:
   - Kuo-toa Whip
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Kuo Toa Whip.md|Kuo-toa Whip]]
+# [[5. Mechanics/Bestiary/Humanoid/Kuo Toa Whip.md|Kuo-toa Whip]]
 *Source: Monster Manual p. 200*
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -51,7 +51,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > 
 > **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) piercing damage.
 > 
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) bludgeoning damage + `dice:1d6|noform|noparens|avg|text(3)` (`d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) bludgeoning damage + `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 ^variant-kuo-toa-monitor
 
 > [!quote] A quote from Sabal Mizzrym of Menzoberranzan  
@@ -83,15 +83,16 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+5"
-"senses": "darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 16"
 "languages": "Undercommon"
 "cr": "1"
 "traits":
   - "desc": "The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following\
-      \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
-      \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (3 slots):\
-      \ [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Sacred Flame.md|sacred flame]],\
+      \ [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n**1st level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Bane.md|bane]], [[/5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]"
     "name": "Spellcasting"
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
@@ -110,10 +111,10 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
   - "desc": "The kuo-toa makes two attacks: one with its bite and one with its pincer\
       \ staff."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 5\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 5\
       \ (1d6 + 2) piercing damage. If the target is a Medium or smaller creature,\
       \ it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 14).\
       \ Until this grapple ends, the kuo-toa can't use its pincer staff on another\
@@ -121,7 +122,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
     "name": "Pincer Staff"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/kuo-toa-whip.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/kuo-toa-whip.webp"
 ```
 ^statblock
 

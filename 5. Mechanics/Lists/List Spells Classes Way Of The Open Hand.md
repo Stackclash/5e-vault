@@ -10,4 +10,4 @@ aliases:
 
 ## 1st Level
 
-- [[5. Mechanics/Spells/Sanctuary.md \|"PHB"]] at class level 11
+- [[/5. Mechanics/Spells/Sanctuary.md \|"PHB"]] at class level 11

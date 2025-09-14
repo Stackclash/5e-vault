@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fire Mote
 ---
-# [[5. Mechanics\Bestiary\Elemental\Fire Mote (SAF).md|Fire Mote]]
+# [[5. Mechanics/Bestiary/Elemental/Fire Mote (SAF).md|Fire Mote]]
 *Source: Strongholds and Followers p. 186*
 
 The motes are elemental sprites, tricksters, mischievous imps who enjoy sticking their noses into other people's business, harassing anyone who looks suspicious until the more puissant authorities arrive.
@@ -43,13 +43,14 @@ The fire mote has an instinctive awareness of which enemies on the battlefield r
   - !!int "12"
 "speed": "40 ft."
 "saves":
-  - "dexterity": "+6"
+  - "dexterity": !!int "6"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical weapons"
 "damage_immunities": "fire"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "Common, Ignan"
 "cr": "5"
 "traits":
@@ -63,7 +64,7 @@ The fire mote has an instinctive awareness of which enemies on the battlefield r
 "actions":
   - "desc": "The mote makes three touch attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) fire damage."
     "name": "Touch"
 "source":

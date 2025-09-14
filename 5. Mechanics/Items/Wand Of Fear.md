@@ -13,7 +13,7 @@ weight: 1
 ---
 # Wand of Fear
 *Wand, major, rare (requires attunement)*  
-![[5. Mechanics/Items/img/wand-of-fear.webp#right]]  
+![[/5. Mechanics/Items/img/wand-of-fear.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 
@@ -21,7 +21,7 @@ This wand has 7 charges for the following properties. It regains `dice:1d6+1|nof
 
 ## Command
 
-While holding the wand, you can use an action to expend 1 charge and command another creature to flee or grovel, as with the [[5. Mechanics/Spells/Command.md\|command]] spell (save DC 15).
+While holding the wand, you can use an action to expend 1 charge and command another creature to flee or grovel, as with the [[/5. Mechanics/Spells/Command.md\|command]] spell (save DC 15).
 
 ## Cone of Fear
 

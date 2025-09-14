@@ -12,17 +12,26 @@ classes:
   - Cleric
 school: Enchantment
 level: 5
+damage:
+  base: 6d8
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 90 feet
+somatic: true
+verbal: true
+material: 1 foot of iron chain
 aliases:
   - Chains of the Goddess
-concentration: true
-material: 1 foot of iron chain
 ---
 # Chains of the Goddess
 *5th-level, Enchantment*  
@@ -34,6 +43,6 @@ material: 1 foot of iron chain
 
 Choose a creature you can see within 90 feet. The target must make a successful Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by chains of psychic force and take `dice:6d8|noform|noparens|avg` (`6d8`) bludgeoning damage. A [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save. While [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] in this way, the creature also takes `dice:6d8|noform|noparens|avg` (`6d8`) bludgeoning damage at the start of each of your turns.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 48*

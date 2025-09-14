@@ -14,23 +14,22 @@ classes:
   - Wizard
 school: Abjuration
 level: 9
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 minute
 duration: Until dispelled
-components:
-  - V
-  - S
-  - M
+range: 30 feet
+somatic: true
+verbal: true
+material: >-
+  a vellum depiction or a carved statuette in the likeness of the target, and a
+  special component that varies according to the version of the spell you
+  choose, worth at least 500 gp per Hit Die of the target
 aliases:
   - Imprisonment
-range: 30 feet
-material: >-
-  A vellum depiction or a carved statuette in the likeness of the target, and a
-  special component that varies according to the version of the spell you
-  choose, worth at least 500gp per Hit Die of the target.
-save:
-  type: WIS
-  success: none
 ---
 # Imprisonment
 *9th-level, Abjuration*  
@@ -78,12 +77,12 @@ The special component for this version of the spell consists of rare soporific h
 
 During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the DM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature's name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
 
-A [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell can end the spell only if it is cast as a 9th-level spell, targeting either the prison or the special component used to create it.
+A [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell can end the spell only if it is cast as a 9th-level spell, targeting either the prison or the special component used to create it.
 
 You can use a particular special component to create only one prison at a time. If you cast the spell again using the same component, the target of the first casting is immediately freed from its binding.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 252. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

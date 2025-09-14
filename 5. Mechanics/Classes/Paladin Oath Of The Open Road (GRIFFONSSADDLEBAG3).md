@@ -65,11 +65,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]], [[5. Mechanics/Spells/Longstrider.md\|longstrider]] |
-| 5th | [[5. Mechanics/Spells/Animal Messenger.md\|animal messenger]], [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] |
-| 9th | [[5. Mechanics/Spells/Haste.md\|haste]], [[5. Mechanics/Spells/Water Wa(LK).md\|water walk]] |
-| 13th | [[5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[5. Mechanics/Spells/Hallucinatory Terrain.md\|hallucinatory terrain]] |
-| 17th | [[5. Mechanics/Spells/Passwall.md\|passwall]], teleporation circle |
+| 3rd | [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]], [[/5. Mechanics/Spells/Longstrider.md\|longstrider]] |
+| 5th | [[/5. Mechanics/Spells/Animal Messenger.md\|animal messenger]], [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]] |
+| 9th | [[/5. Mechanics/Spells/Haste.md\|haste]], [[/5. Mechanics/Spells/Water Wa(LK).md\|water walk]] |
+| 13th | [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]], [[/5. Mechanics/Spells/Hallucinatory Terrain.md\|hallucinatory terrain]] |
+| 17th | [[/5. Mechanics/Spells/Passwall.md\|passwall]], teleporation circle |
 ^oath-of-open-road-spells
 
 ### Channel Divinity (Level 3)

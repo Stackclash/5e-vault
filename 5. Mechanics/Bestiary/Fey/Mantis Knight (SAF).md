@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mantis Knight
 ---
-# [[5. Mechanics\Bestiary\Fey\Mantis Knight (SAF).md|Mantis Knight]]
+# [[5. Mechanics/Bestiary/Fey/Mantis Knight (SAF).md|Mantis Knight]]
 *Source: Strongholds and Followers p. 176*
 
 The swashbuckling adventurers of the Arcadians, the Mantis Knights love dueling and drinking and terrible poetry. The greatest of them, like Lady Eweshtleth, keep an air of grave dignity about them, because they have known battle across the Myriad Worlds. But most Mantis Knights just want to show up, do something dashing and acrobatic, spit an enemy upon their sword, and then go carousing with the mortals who summoned them.
@@ -43,9 +43,9 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
   - !!int "12"
 "speed": "30 ft."
 "saves":
-  - "strength": "+6"
-  - "wisdom": "+4"
-  - "charisma": "+4"
+  - "strength": !!int "6"
+  - "wisdom": !!int "4"
+  - "charisma": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+7"
@@ -67,7 +67,7 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
 "traits":
   - "desc": "The knight's innate spellcasting ability is Charisma (spell save DC 12).\
       \ The knight can innately cast the following spells, requiring no material components:\n\
-      \nAt will: [[5. Mechanics/Spells/Heroism.md|heroism]], [[5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]"
+      \n**At will:** [[/5. Mechanics/Spells/Heroism.md|heroism]], [[/5. Mechanics/Spells/Shield Of Faith.md|shield of faith]]"
     "name": "Innate Spellcasting"
   - "desc": "The knight's armor is perpetually slick. Any attempts to grapple the\
       \ knight have disadvantage."
@@ -77,14 +77,14 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
   - "desc": "The knight has advantage on saving throws against magic and other magical\
       \ effects."
     "name": "Magic Resistance"
-  - "desc": "As a member of the Court of Arcadia, the knight can cast [[5. Mechanics/Spells/Dominate Monster.md|dominate monster]]\
+  - "desc": "As a member of the Court of Arcadia, the knight can cast [[/5. Mechanics/Spells/Dominate Monster.md|dominate monster]]\
       \ (DC 12) at will on any fey creature or elf."
     "name": "Command Fey"
 "actions":
   - "desc": "The knight makes four attacks with its rapiers, or makes two attacks\
       \ and casts heroism or shield of faith on an ally."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) piercing damage."
     "name": "Rapier"
 "source":

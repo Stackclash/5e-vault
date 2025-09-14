@@ -16,7 +16,7 @@ tags:
 aliases:
   - Nabassu
 ---
-# [[5. Mechanics\Bestiary\Fiend\Nabassu (MPMM).md|Nabassu]]
+# [[5. Mechanics/Bestiary/Fiend/Nabassu (MPMM).md|Nabassu]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 188, Mordenkainen's Tome of Foes p. 135*
 
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
@@ -45,8 +45,8 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
   - !!int "17"
 "speed": "40 ft., fly 60 ft."
 "saves":
-  - "strength": "+11"
-  - "dexterity": "+7"
+  - "strength": !!int "11"
+  - "dexterity": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+7"
@@ -54,7 +54,8 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
   \ nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 17"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "15"
 "traits":
@@ -67,9 +68,9 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
       \ after which it gains a number of Hit Dice (d8s) equal to half the creature's\
       \ number of Hit Dice. Roll those dice, and increase the nabassu's hit points\
       \ by the numbers rolled. For every 4 Hit Dice the nabassu gains in this way,\
-      \ its attacks deal an extra 3 (d6) damage on a hit. The nabassu retains these\
+      \ its attacks deal an extra 3 (1d6) damage on a hit. The nabassu retains these\
       \ benefits for 6 days. A creature devoured by a nabassu can be restored to life\
-      \ only by a [[5. Mechanics/Spells/Wish.md|wish]] spell."
+      \ only by a [[/5. Mechanics/Spells/Wish.md|wish]] spell."
     "name": "Devour Soul"
   - "desc": "The nabassu has advantage on saving throws against spells and other magical\
       \ effects."
@@ -78,10 +79,10 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
   - "desc": "The nabassu makes one Bite attack and one Claw attack, and it uses Soul-Stealing\
       \ Gaze."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 38\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 38\
       \ (5d12 + 6) necrotic damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 28\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 28\
       \ (4d10 + 6) force damage."
     "name": "Claw"
   - "desc": "The nabassu targets one creature it can see within 30 feet of it. If\
@@ -91,12 +92,12 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
       \ regains hit points equal to half that amount. This reduction lasts until the\
       \ target finishes a short or long rest. The target dies if its hit point maximum\
       \ is reduced to 0, and if the target is a Humanoid, it immediately rises as\
-      \ a [[5. Mechanics/Bestiary/Undead/Ghoul.md|ghoul]] under the nabassu's control."
+      \ a [[/5. Mechanics/Bestiary/Undead/Ghoul.md|ghoul]] under the nabassu's control."
     "name": "Soul-Stealing Gaze"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fiend/token/nabassu-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/nabassu-mpmm.webp"
 ```
 ^statblock
 

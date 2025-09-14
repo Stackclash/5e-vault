@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nisruel's Coachfly
 ---
-# [[5. Mechanics\Bestiary\Construct\Nisruels Coachfly (KPDM).md|Nisruel's Coachfly]]
+# [[5. Mechanics/Bestiary/Construct/Nisruels Coachfly (KPDM).md|Nisruel's Coachfly]]
 *Source: Deep Magic p. 287*
 
 *This long, narrow contraption resembles a clockwork dragonfly that's larger than a horse. It is fashioned from silver and lapis lazuli, with panes of delicate-looking multicolored stained glass for wings. The back of the construct contains a hollow that looks like it could hold one or more occupants.*
@@ -46,7 +46,8 @@ Decades ago, the noble half-elf wizard Nisruel created a beautiful clockwork con
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "darkvision 90 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 90 ft., passive Perception\
+  \ 14"
 "languages": "understands Common and Elvish but can't speak"
 "cr": "2"
 "traits":
@@ -74,7 +75,7 @@ Decades ago, the noble half-elf wizard Nisruel created a beautiful clockwork con
 "actions":
   - "desc": "The coachfly makes two Light Ray attacks."
     "name": "Multiattack"
-  - "desc": "Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 13\
+  - "desc": "*Ranged Spell Attack:* +6 to hit, range 120 ft., one target. *Hit:* 13\
       \ (2d8 + 4) radiant damage. A creature struck by the ray must also make a successful\
       \ DC 14 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
       \ until the end of its next turn."

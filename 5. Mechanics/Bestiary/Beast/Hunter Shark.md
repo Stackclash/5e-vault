@@ -14,7 +14,7 @@ tags:
 aliases:
   - Hunter Shark
 ---
-# [[5. Mechanics\Bestiary\Beast\Hunter Shark.md|Hunter Shark]]
+# [[5. Mechanics/Bestiary/Beast/Hunter Shark.md|Hunter Shark]]
 *Source: Monster Manual p. 330. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
@@ -40,7 +40,8 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
-"senses": "blindsight 30 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., passive Perception\
+  \ 12"
 "languages": ""
 "cr": "2"
 "traits":
@@ -50,12 +51,12 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
   - "desc": "The shark can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/hunter-shark.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/hunter-shark.webp"
 ```
 ^statblock
 

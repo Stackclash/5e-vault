@@ -12,17 +12,26 @@ classes:
   - Wizard
 school: Conjuration
 level: 7
+damage:
+  base: 10d6
+  scaling:
+    damage: null
+    level: 8
+  types:
+    - acid
+saving_throw:
+  skills:
+    - Intelligence
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+material: a vial of acid and a polished silver mirror worth 125 gp
 aliases:
   - Acid Gate
-concentration: true
-material: a vial of acid and a polished silver mirror worth 125 gp
 ---
 # Acid Gate
 *7th-level, Conjuration*  
@@ -38,6 +47,6 @@ Any creature that tries to move through the gate, other than those selected by y
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, you can allow one additional creature to use the gate for each slot level above 7th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 163*

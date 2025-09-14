@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: 'mountain, forest, hill, urban, desert, coastal'
 size: Tiny
 tags:
@@ -19,7 +19,7 @@ tags:
 aliases:
   - Pseudodragon
 ---
-# [[5. Mechanics\Bestiary\Dragon\Pseudodragon.md|Pseudodragon]]
+# [[5. Mechanics/Bestiary/Dragon/Pseudodragon.md|Pseudodragon]]
 *Source: Monster Manual p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The elusive pseudodragon dwells in the quiet places of the world, making its home in the hollows of trees and small caves. With its red-brown scales, horns, and a maw filled with sharp teeth, a pseudodragon resembles a tiny red dragon but its disposition is playful.
@@ -71,7 +71,8 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 13"
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/4"
 "traits":
@@ -86,10 +87,10 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
       \ a language."
     "name": "Limited Telepathy"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4\
       \ (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution\
       \ saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
       \ for 1 hour. If the saving throw fails by 5 or more, the target falls [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]\
@@ -98,7 +99,7 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
     "name": "Sting"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Dragon/token/pseudodragon.webp"
+"image": "/5. Mechanics/Bestiary/Dragon/token/pseudodragon.webp"
 ```
 ^statblock
 

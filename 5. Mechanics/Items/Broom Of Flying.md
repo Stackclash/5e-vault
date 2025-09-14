@@ -11,7 +11,7 @@ weight: 3
 ---
 # Broom of Flying
 *Wondrous item, major, uncommon*  
-![[5. Mechanics/Items/img/broom-of-flying.webp#right]]  
+![[/5. Mechanics/Items/img/broom-of-flying.webp#right]]  
 
 - **Weight**: 3.0 lbs.
 

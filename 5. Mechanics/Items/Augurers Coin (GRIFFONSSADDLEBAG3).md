@@ -15,7 +15,7 @@ aliases:
 
 This triangular coin depicts a fair-faced goddess on one side, representing "weal," and a grim specter on the other, representing "woe." "Weal and Woe" is written in Common along the coin's topmost edge.
 
-You can use an action to flip the coin and hold a question in your mind, allowing the coin to hit the ground when it falls. The coin then duplicates the effect of the [[5. Mechanics/Spells/Augury.md\|augury]] spell. Depending on the outcome of the spell, the coin lands in one of the following orientations:
+You can use an action to flip the coin and hold a question in your mind, allowing the coin to hit the ground when it falls. The coin then duplicates the effect of the [[/5. Mechanics/Spells/Augury.md\|augury]] spell. Depending on the outcome of the spell, the coin lands in one of the following orientations:
 
 - If the coin lands with either the goddess or specter facing you, the answer to your question is "weal" or "woe," depending on the shown face.  
 - If "Weal and Woe" is facing you, the answer to your question is "weal and woe."  

@@ -10,12 +10,12 @@ tags:
 aliases:
   - Dagger of Venom
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 1
 ---
 # Dagger of Venom
-*Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  
-![[5. Mechanics/Items/img/dagger-of-venom.webp#right]]  
+*Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  
+![[/5. Mechanics/Items/img/dagger-of-venom.webp#right]]  
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

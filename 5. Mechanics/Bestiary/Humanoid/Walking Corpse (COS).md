@@ -13,7 +13,7 @@ tags:
 aliases:
   - Walking Corpse
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Walking Corpse (COS).md|Walking Corpse]]
+# [[5. Mechanics/Bestiary/Humanoid/Walking Corpse (COS).md|Walking Corpse]]
 *Source: Curse of Strahd p. 165*
 
 ```statblock
@@ -40,16 +40,16 @@ aliases:
 "cr": "0"
 "traits":
   - "desc": "When a corpse is reduced to 0 hit points, it splits open, disgorging\
-      \ a [[5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md|swarm of poisonous snakes]].\
+      \ a [[/5. Mechanics/Bestiary/Beast/Swarm Of Poisonous Snakes.md|swarm of poisonous snakes]].\
       \ The snakes are hungry and fight until slain."
     "name": "Violent Death"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
       \ bludgeoning damage."
     "name": "Club"
 "source":
   - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/walking-corpse-cos.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/walking-corpse-cos.webp"
 ```
 ^statblock
 

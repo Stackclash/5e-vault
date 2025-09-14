@@ -61,11 +61,11 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 1st | [[5. Mechanics/Spells/Alarm.md\|alarm]], [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
-| 3rd | [[5. Mechanics/Spells/Aid.md\|aid]], [[5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] |
-| 5th | [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
-| 7th | [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[5. Mechanics/Spells/Summon Construct (TCE).md\|summon construct]] |
-| 9th | [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], [[5. Mechanics/Spells/Wall Of Force.md\|wall of force]] |
+| 1st | [[/5. Mechanics/Spells/Alarm.md\|alarm]], [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]] |
+| 3rd | [[/5. Mechanics/Spells/Aid.md\|aid]], [[/5. Mechanics/Spells/Lesser Restoration.md\|lesser restoration]] |
+| 5th | [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] |
+| 7th | [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]], [[/5. Mechanics/Spells/Summon Construct (TCE).md\|summon construct]] |
+| 9th | [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], [[/5. Mechanics/Spells/Wall Of Force.md\|wall of force]] |
 ^clockwork-spells
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your sorcerer spells.

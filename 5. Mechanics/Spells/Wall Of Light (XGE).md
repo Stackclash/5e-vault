@@ -16,17 +16,26 @@ classes:
   - Wizard
 school: Evocation
 level: 5
+damage:
+  base: 4d8
+  scaling:
+    damage: 1d8
+    level: 6
+  types:
+    - radiant
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: 120 feet
+somatic: true
+verbal: true
+material: a hand mirror
 aliases:
   - Wall of Light
-concentration: true
-material: a hand mirror
 ---
 # Wall of Light
 *5th-level, Evocation*  
@@ -44,8 +53,8 @@ A creature that ends its turn in the wall's area takes `dice:4d8|noform|noparens
 
 Until the spell ends, you can use an action to launch a beam of radiance from the wall at one creature you can see within 60 feet of it. Make a ranged spell attack. On a hit, the target takes `dice:4d8|noform|noparens|avg` (`4d8`) radiant damage. Whether you hit or miss, reduce the length of the wall by 10 feet. If the wall's length drops to 0 feet, the spell ends.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 5th.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 5th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 170*

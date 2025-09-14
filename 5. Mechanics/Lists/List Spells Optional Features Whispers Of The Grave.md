@@ -10,4 +10,4 @@ aliases:
 
 ## 3rd Level
 
-- [[5. Mechanics/Spells/Speak With Dead.md \|"PHB"]]
+- [[/5. Mechanics/Spells/Speak With Dead.md \|"PHB"]]

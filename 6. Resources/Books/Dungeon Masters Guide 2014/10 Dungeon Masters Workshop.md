@@ -34,7 +34,7 @@ Whenever a feature, such as the rogue's Expertise, lets a character double his o
 
 This option is intended for player characters and nonplayer characters who have levels, as opposed to monsters who don't.
 
-![[5. Mechanics/Tables/Proficiency Dice.md\|Proficiency Dice]]
+![[/5. Mechanics/Tables/Proficiency Dice.md\|Proficiency Dice]]
 
 ### Skill Variants
 
@@ -46,7 +46,7 @@ You can dispense with skills and use one of the following variants. Choose which
 
 With this variant rule, characters don't have skill proficiencies. Instead, each character has proficiency in two abilities: one tied to the character's class and one tied to the character's background. The Ability Proficiencies by Class table suggests a proficiency for each class, and you choose which ability is tied to a given background. Starting at 1st level, a character adds his or her proficiency bonus to any ability check tied to one or the other of these two abilities.
 
-![[5. Mechanics/Tables/Ability Check Proficiency By Class.md\|Ability Check Proficiency by Class]]
+![[/5. Mechanics/Tables/Ability Check Proficiency By Class.md\|Ability Check Proficiency by Class]]
 
 The Expertise feature works differently than normal under this rule. At 1st level, instead of choosing two skill proficiencies, a character with the Expertise class feature chooses one of the abilities in which he or she has proficiency. Selecting an ability counts as two of the character's Expertise choices. If the character would gain an additional skill proficiency, that character instead selects another ability check in which to gain proficiency.
 
@@ -184,7 +184,7 @@ As an action, a character can use a healing surge and spend up to half his or he
 
 A character who uses a healing surge can't do so again until he or she finishes a short or long rest. Under this optional rule, a character regains all spent Hit Dice at the end of a long rest. With a short rest, a character regains Hit Dice equal to his or her level divided by four (minimum of one dice).
 
-For a more superheroic feel, you can let a character use a healing surge as a bonus action, rather than as an action.
+For a more super-heroic feel, you can let a character use a healing surge as a bonus action, rather than as an action.
 
 #### Slow Natural Healing
 
@@ -250,7 +250,7 @@ Setting fire to a container full of gunpowder can cause it to explode, dealing f
 
 As an action, a creature can light a stick of dynamite and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must make a DC 12 Dexterity saving throw, taking `dice:3d6|noform|noparens|avg` (`3d6`) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-A character can bind sticks of dynamite together so they explode at the same time. Each additional stick increases the damage by `dice:1d6|noform|noparens|avg` (`d6`) (to a maximum of `dice:10d6|noform|noparens|avg` (`10d6`)) and the burst radius by 5 feet (to a maximum of 20 feet).
+A character can bind sticks of dynamite together so they explode at the same time. Each additional stick increases the damage by `dice:1d6|noform|noparens|avg` (`1d6`) (to a maximum of `dice:10d6|noform|noparens|avg` (`10d6`)) and the burst radius by 5 feet (to a maximum of 20 feet).
 
 Dynamite can be rigged with a longer fuse to explode after a set amount of time, usually 1 to 6 rounds. Roll initiative for the dynamite. After the set number of rounds goes by, the dynamite explodes on that initiative.
 
@@ -262,7 +262,7 @@ Each creature within 20 feet of an exploding fragmentation grenade must make a D
 
 One round after a smoke grenade lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
 
-![[5. Mechanics/Tables/Explosives.md\|Explosives]]
+![[/5. Mechanics/Tables/Explosives.md\|Explosives]]
 
 ### Alien Technology
 
@@ -272,7 +272,7 @@ To determine how the technology works, a character must succeed on a number of I
 
 A character who has seen an item used or has operated a similar item has advantage on Intelligence checks made to figure out its use.
 
-![[5. Mechanics/Tables/Figuring Out Alien Technology.md\|Figuring Out Alien Technology]]
+![[/5. Mechanics/Tables/Figuring Out Alien Technology.md\|Figuring Out Alien Technology]]
 
 ### Firearms
 
@@ -281,8 +281,8 @@ A character who has seen an item used or has operated a similar item has advanta
 | Renaissance Item | Cost | Damage | Weight | Properties |
 |------------------|------|--------|--------|------------|
 | *Martial Ranged Weapons* |  |  |  |  |
-| &emsp;Pistol | 250 gp | `dice:1d10\|noform\|noparens\|avg` (`d10`) piercing | 3 lb. | Ammunition (range 30/90), loading |
-| &emsp;Musket | 500 gp | `dice:1d12\|noform\|noparens\|avg` (`d12`) piercing | 10 lb. | Ammunition (range 40/120), loading, two-handed |
+| &emsp;Pistol | 250 gp | `dice:1d10\|noform\|noparens\|avg` (`1d10`) piercing | 3 lb. | Ammunition (range 30/90), loading |
+| &emsp;Musket | 500 gp | `dice:1d12\|noform\|noparens\|avg` (`1d12`) piercing | 10 lb. | Ammunition (range 40/120), loading, two-handed |
 | *Ammunition* |  |  |  |  |
 | &emsp;Bullets (10) | 3 gp | — | 2 lb. | — |
 ^firearms
@@ -377,7 +377,7 @@ Speed factor is an option for initiative that introduces more uncertainty into c
 
 Modifiers might apply to a creature's initiative depending on its size and the action it takes. For example, a creature that fights with a light weapon or casts a simple spell is more likely to act before a creature armed with a heavy or slow weapon. See the Speed Factor Initiative Modifiers table for details. If an action has no modifier listed, the action has no effect on initiative. If more than one modifier applies such as wielding a two-handed, heavy melee weapon, apply them all to the initiative roll.
 
-![[5. Mechanics/Tables/Speed Factor Initiative Modifiers.md\|Speed Factor Initiative Modifiers]]
+![[/5. Mechanics/Tables/Speed Factor Initiative Modifiers.md\|Speed Factor Initiative Modifiers]]
 
 Don't apply the same modifier more than once on a creature's turn. For example, a rogue fighting with two daggers gains the +2 bonus for using a light or finesse weapon only once. In the case of spellcasting, apply only the modifier from the highest-level spell.
 
@@ -432,7 +432,7 @@ It's up to you to decide when to check for a lingering injury. A creature might 
 
 To determine the nature of the injury, roll on the Lingering Injuries table. This table assumes a typical humanoid physiology, but you can adapt the results for creatures with different body types.
 
-![[5. Mechanics/Tables/Lingering Injuries.md\|Lingering Injuries]]
+![[/5. Mechanics/Tables/Lingering Injuries.md\|Lingering Injuries]]
 
 Instead of using the effect described in the table, you can put the responsibility of representing a character's lingering injury in the hands of the player. Roll on the Lingering Injuries table as usual, but instead of suffering the effect described for that result, that character gains a new flaw with the same name. It's up to the player to express the lingering injury during play, just like any other flaw, with the potential to gain inspiration when the injury affects the character in a meaningful way.
 
@@ -442,7 +442,7 @@ This optional rule makes it easier for a creature to be felled by massive damage
 
 When a creature takes damage from a single source equal to or greater than half its hit point maximum, it must succeed on a DC 15 Constitution saving throw or suffer a random effect determined by a roll on the System Shock table. For example, a creature that has a hit point maximum of 30 must make that Constitution save if it takes 15 damage or more from a single source.
 
-![[5. Mechanics/Tables/Massive Damage System Shock.md\|Massive Damage; System Shock]]
+![[/5. Mechanics/Tables/Massive Damage System Shock.md\|Massive Damage; System Shock]]
 
 ### Morale
 
@@ -494,7 +494,7 @@ Another simple way to customize a monster is to add a special trait. You can add
 
 If all you need are simple stats for a monster of a particular challenge rating, follow the steps here. If you want to create something more akin to the monster stat blocks in the Monster Manual, skip ahead to the "Creating a Monster Stat Block" section.
 
-![[5. Mechanics/Tables/Creating Quick Monster Stats Monster Statistics By Challenge Rating.md\|Creating Quick Monster Stats; Monster Statistics by Challenge Rating]]
+![[/5. Mechanics/Tables/Creating Quick Monster Stats Monster Statistics By Challenge Rating.md\|Creating Quick Monster Stats; Monster Statistics by Challenge Rating]]
 
 #### Step 1. Expected Challenge Rating
 
@@ -542,7 +542,7 @@ With the final challenge rating, you can determine the monster's proficiency bon
 
 Creating a monster isn't just a number-crunching exercise. The guidelines in this chapter can help you create monsters, but the only way to know whether a monster is fun is to playtest it. After seeing your monster in action, you might want to adjust the challenge rating up or down based on your experiences.
 
-![[5. Mechanics/Tables/Final Challenge Rating Experience Points By Challenge Rating.md\|Final Challenge Rating; Experience Points by Challenge Rating]]
+![[/5. Mechanics/Tables/Final Challenge Rating Experience Points By Challenge Rating.md\|Final Challenge Rating; Experience Points by Challenge Rating]]
 
 ### Creating a Monster Stat Block
 
@@ -616,7 +616,7 @@ A monster can have as many Hit Dice as you want, but the size of the die used to
 
 A monster typically has average hit points based on its Hit Dice. For example, a creature with `dice:5d8+5|noform|noparens|avg` (`5d8 + 5`) hit points has an average of 27 hit points (5 × 4.5 + 5).
 
-![[5. Mechanics/Tables/Assign Hit Dice Hit Dice By Size.md\|Assign Hit Dice; Hit Dice by Size]]
+![[/5. Mechanics/Tables/Assign Hit Dice Hit Dice By Size.md\|Assign Hit Dice; Hit Dice by Size]]
 
 #### Step 9. Damage Vulnerabilities, Resistances, and Immunities
 
@@ -632,7 +632,7 @@ For example, a monster with an expected challenge rating of 6, 150 hit points, a
 
 Monsters don't normally have vulnerability to more than one or two types of damage. Vulnerabilities don't significantly affect a monster's challenge rating, unless a monster has vulnerabilities to multiple damage types that are prevalent, especially bludgeoning, piercing, and slashing. For such a strange monster, reduce its effective hit points by half. Or even better, eliminate the vulnerabilities and give the brittle monster fewer hit points.
 
-![[5. Mechanics/Tables/Damage Vulnerabilities Resistances And Immunities Effective Hit Points Based On Resistances And Immunities.md\|Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities]]
+![[/5. Mechanics/Tables/Damage Vulnerabilities Resistances And Immunities Effective Hit Points Based On Resistances And Immunities.md\|Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities]]
 
 #### Step 10. Attack Bonuses
 
@@ -674,9 +674,9 @@ Some monsters use natural weapons, such as claws or tail spikes. Others wield ma
 
 If a monster has natural weapons, you decide how much damage it deals with those attacks, as well as the type of damage. See the Monster Manual for examples.
 
-If a monster wields a manufactured weapon, it deals damage appropriate to the weapon. For example, a greataxe in the hands of a Medium monster deals `dice:1d12|noform|noparens|avg` (`d12`) slashing damage plus the monster's Strength modifier, as is normal for that weapon.
+If a monster wields a manufactured weapon, it deals damage appropriate to the weapon. For example, a greataxe in the hands of a Medium monster deals `dice:1d12|noform|noparens|avg` (`1d12`) slashing damage plus the monster's Strength modifier, as is normal for that weapon.
 
-Big monsters typically wield oversized weapons that deal extra dice of damage on a hit. Double the weapon dice if the creature is Large, triple the weapon dice if it's Huge, and quadruple the weapon dice if it's Gargantuan. For example, a Huge giant wielding an appropriately sized greataxe deals `dice:3d12|noform|noparens|avg` (`3d12`) slashing damage (plus its Strength bonus), instead of the normal `dice:1d12|noform|noparens|avg` (`d12`).
+Big monsters typically wield oversized weapons that deal extra dice of damage on a hit. Double the weapon dice if the creature is Large, triple the weapon dice if it's Huge, and quadruple the weapon dice if it's Gargantuan. For example, a Huge giant wielding an appropriately sized greataxe deals `dice:3d12|noform|noparens|avg` (`3d12`) slashing damage (plus its Strength bonus), instead of the normal `dice:1d12|noform|noparens|avg` (`1d12`).
 
 A creature has disadvantage on attack rolls with a weapon that is sized for a larger attacker. You can rule that a weapon sized for an attacker two or more sizes larger is too big for the creature to use at all.
 
@@ -780,7 +780,7 @@ A monster can master as many spoken languages as you want, although few monsters
 
 Whether or not a monster has telepathy has no bearing on its challenge rating. For more information on telepathy, see the Monster Manual.
 
-![[5. Mechanics/Tables/Creating A Monster Stat Block Monster Features.md\|Creating a Monster Stat Block; Monster Features]]
+![[/5. Mechanics/Tables/Creating A Monster Stat Block Monster Features.md\|Creating a Monster Stat Block; Monster Features]]
 
 ### NPC Stat Blocks
 
@@ -801,7 +801,7 @@ The NPC Features table summarizes the ability modifiers and features of various 
 
 If the monster you want to use isn't listed on the table, use the process described below under "Monsters with Classes."
 
-![[5. Mechanics/Tables/Creating Npcs From Scratch Npc Features.md\|Creating NPCs from Scratch; NPC Features]]
+![[/5. Mechanics/Tables/Creating Npcs From Scratch Npc Features.md\|Creating NPCs from Scratch; NPC Features]]
 
 ### Monsters with Classes
 
@@ -830,9 +830,9 @@ When creating a new spell, use existing spells as guidelines. Here are some thin
 
 For any spell that deals damage, use the Spell Damage table to determine approximately how much damage is appropriate given the spell's level. The table assumes the spell deals half damage on a successful saving throw or a missed attack. If your spell doesn't deal damage on a successful save, you can increase the damage by 25 percent.
 
-You can use different damage dice than the ones in the table, provided that the average result is about the same. Doing so can add a little variety to the spell. For example, you could change a cantrip's damage from `dice:1d10|noform|noparens|avg` (`d10`) (average 5.5) to `dice:2d4|noform|noparens|avg` (`2d4`) (average 5), reducing the maximum damage and making an average result more likely.
+You can use different damage dice than the ones in the table, provided that the average result is about the same. Doing so can add a little variety to the spell. For example, you could change a cantrip's damage from `dice:1d10|noform|noparens|avg` (`1d10`) (average 5.5) to `dice:2d4|noform|noparens|avg` (`2d4`) (average 5), reducing the maximum damage and making an average result more likely.
 
-![[5. Mechanics/Tables/Spell Damage.md\|Spell Damage]]
+![[/5. Mechanics/Tables/Spell Damage.md\|Spell Damage]]
 
 ### Healing Spells
 
@@ -866,7 +866,7 @@ If you make an item that lets a character kill whatever he or she hits with it, 
 
 Use the Magic Item Power by Rarity table as a guide to help you determine how powerful an item should be, based on its rarity.
 
-![[5. Mechanics/Tables/Power Level Magic Item Power By Rarity.md\|Power Level; Magic Item Power by Rarity]]
+![[/5. Mechanics/Tables/Power Level Magic Item Power By Rarity.md\|Power Level; Magic Item Power by Rarity]]
 
 ###### Maximum Spell Level
 
@@ -920,7 +920,7 @@ Creatures of magic with strong ties to nature, eladrin live in the twilight real
 
 The elf subraces in the Player's Handbook include an ability score increase, a weapon training feature, and two or three additional traits. Given the story of the eladrin and their magical nature, an increase to an eladrin character's Intelligence is appropriate. There's no need to alter the basic weapon training shared by high elves and wood elves.
 
-An ability that sets the eladrin apart from other elves is their ability to step through the boundary between the planes, disappearing for a moment before reappearing somewhere else. In the game, this is reflected in a limited use of the misty step spell. Since misty step is a 2nd-level spell, this ability is potent enough that the subrace doesn't need additional traits. This leaves us with the following [[5. Mechanics/Races/Elf Eladrin (DMG).md\|features for the eladrin subrace]].
+An ability that sets the eladrin apart from other elves is their ability to step through the boundary between the planes, disappearing for a moment before reappearing somewhere else. In the game, this is reflected in a limited use of the misty step spell. Since misty step is a 2nd-level spell, this ability is potent enough that the subrace doesn't need additional traits. This leaves us with the following [[/5. Mechanics/Races/Elf Eladrin (DMG).md\|features for the eladrin subrace]].
 
 #### Creating a New Race
 
@@ -943,7 +943,7 @@ Like tieflings, aasimar have darkvision. Instead of resistance to fire damage, w
 
 The tiefling's Infernal Legacy trait is a good model for a similar trait to reflect a magical, celestial heritage, replacing the tiefling's spells with spells of similar levels that more closely match the aasimar's celestial ancestry. However, the aasimar's expanded resistance might require limiting this trait to basic utility spells.
 
-Filling in the remaining details, we end up with the following [[5. Mechanics/Races/Aasimar (DMG).md\|racial traits for the aasimar]].
+Filling in the remaining details, we end up with the following [[/5. Mechanics/Races/Aasimar (DMG).md\|racial traits for the aasimar]].
 
 ### Modifying a Class
 
@@ -1010,13 +1010,13 @@ Spells of 6th level and higher are particularly taxing to cast. You can use spel
 
 The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.
 
-The Spell Points by Level table applies to [[5. Mechanics/Classes/Bard.md\|bards]], [[5. Mechanics/Classes/Cleric.md\|clerics]], [[5. Mechanics/Classes/Druid.md\|druids]], [[5. Mechanics/Classes/Sorcerer.md\|sorcerers]], and [[5. Mechanics/Classes/Wizard.md\|wizards]]. For a [[5. Mechanics/Classes/Paladin.md\|paladin]] or [[5. Mechanics/Classes/Ranger.md\|ranger]], halve the character's level in that class and then consult the table. For a [[5. Mechanics/Classes/Fighter.md\|fighter (Eldritch Knight)]] or [[5. Mechanics/Classes/Rogue.md\|rogue (Arcane Trickster)]], divide the character's level in that class by three.
+The Spell Points by Level table applies to [[/5. Mechanics/Classes/Bard.md\|bards]], [[/5. Mechanics/Classes/Cleric.md\|clerics]], [[/5. Mechanics/Classes/Druid.md\|druids]], [[/5. Mechanics/Classes/Sorcerer.md\|sorcerers]], and [[/5. Mechanics/Classes/Wizard.md\|wizards]]. For a [[/5. Mechanics/Classes/Paladin.md\|paladin]] or [[/5. Mechanics/Classes/Ranger.md\|ranger]], halve the character's level in that class and then consult the table. For a [[/5. Mechanics/Classes/Fighter.md\|fighter (Eldritch Knight)]] or [[/5. Mechanics/Classes/Rogue.md\|rogue (Arcane Trickster)]], divide the character's level in that class by three.
 
 This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.
 
-![[5. Mechanics/Tables/Variant Spell Points Spell Point Cost.md\|Variant: Spell Points; Spell Point Cost]]
+![[/5. Mechanics/Tables/Variant Spell Points Spell Point Cost.md\|Variant: Spell Points; Spell Point Cost]]
 
-![[5. Mechanics/Tables/Variant Spell Points Spell Points By Level.md\|Variant: Spell Points; Spell Points by Level]]
+![[/5. Mechanics/Tables/Variant Spell Points Spell Points By Level.md\|Variant: Spell Points; Spell Points by Level]]
 
 ### Creating a Background
 

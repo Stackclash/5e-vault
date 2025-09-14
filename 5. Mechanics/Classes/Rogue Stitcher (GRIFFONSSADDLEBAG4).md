@@ -79,6 +79,6 @@ When you make one of these checks as the second bonus action on your turn (after
 
 ### Time Stop (Level 17)
 
-By 17th level, you can move through time where others cannot. You can use an action to cast the [[5. Mechanics/Spells/Time Stop.md\|time stop]] spell, without expending a spell slot. This version of the spell is special: if the spell ends early as a result of you attacking a creature, and you hit with the attack, that creature takes an extra 10d6 psychic damage as the stress of time suddenly resuming shatters its psyche. The attack roll is always made with advantage.
+By 17th level, you can move through time where others cannot. You can use an action to cast the [[/5. Mechanics/Spells/Time Stop.md\|time stop]] spell, without expending a spell slot. This version of the spell is special: if the spell ends early as a result of you attacking a creature, and you hit with the attack, that creature takes an extra 10d6 psychic damage as the stress of time suddenly resuming shatters its psyche. The attack roll is always made with advantage.
 
 Once you use this feature, you can't do so again until you finish a long rest.

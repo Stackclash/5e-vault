@@ -18,7 +18,7 @@ aliases:
 | 1-2 | A family member or a close friend died. Roll on the Cause of Death supplemental table to find out how. |
 | 3 | A friendship ended bitterly, and the other person is now hostile to you. The cause might have been a misunderstanding or something you or the former friend did. |
 | 4 | You lost all your possessions in a disaster, and you had to rebuild your life. |
-| 5 | You were imprisoned for a crime you didn't commit and spent `dice:1d6\|noform\|noparens\|avg` (`d6`) years at hard labor, in jail, or shackled to an oar in a slave galley. |
+| 5 | You were imprisoned for a crime you didn't commit and spent `dice:1d6\|noform\|noparens\|avg` (`1d6`) years at hard labor, in jail, or shackled to an oar in a slave galley. |
 | 6 | War ravaged your home community, reducing everything to rubble and ruin. In the aftermath, you either helped your town rebuild or moved somewhere else. |
 | 7 | A lover disappeared without a trace. You have been looking for that person ever since. |
 | 8 | A terrible blight in your home community caused crops to fail, and many starved. You lost a sibling or some other family member. |

@@ -9,7 +9,7 @@ aliases:
 ---
 # Vampire
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual_
 
 The region surrounding a vampire's lair is warped by the creature's unnatural presence, creating any of the following effects:

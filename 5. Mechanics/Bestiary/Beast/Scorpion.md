@@ -14,7 +14,7 @@ tags:
 aliases:
   - Scorpion
 ---
-# [[5. Mechanics\Bestiary\Beast\Scorpion.md|Scorpion]]
+# [[5. Mechanics/Bestiary/Beast/Scorpion.md|Scorpion]]
 *Source: Monster Manual p. 337. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -35,18 +35,19 @@ aliases:
   - !!int "8"
   - !!int "2"
 "speed": "10 ft."
-"senses": "blindsight 10 ft., passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., passive Perception\
+  \ 9"
 "languages": ""
 "cr": "0"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 1\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 1\
       \ piercing damage, and the target must make a DC 9 Constitution saving throw,\
-      \ taking 4 (d8) poison damage on a failed save, or half as much damage on a\
+      \ taking 4 (1d8) poison damage on a failed save, or half as much damage on a\
       \ successful one."
     "name": "Sting"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/scorpion.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/scorpion.webp"
 ```
 ^statblock
 

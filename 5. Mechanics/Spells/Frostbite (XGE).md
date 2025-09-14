@@ -34,13 +34,24 @@ classes:
   - Warlock
   - Wizard
 school: Evocation
-level: cantrip
+level: 0
+damage:
+  base: 1d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - cold
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Frostbite
 ---
@@ -52,10 +63,12 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes `dice:1d6|noform|noparens|avg` (`d6`) cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes `dice:1d6|noform|noparens|avg` (`1d6`) cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
 
-The spell's damage increases by `dice:1d6|noform|noparens|avg` (`d6`) when you reach 5th level (`dice:2d6|noform|noparens|avg` (`2d6`)), 11th level (`dice:3d6|noform|noparens|avg` (`3d6`)), and 17th level (`dice:4d6|noform|noparens|avg` (`4d6`)).
+The spell's damage increases by `dice:1d6|noform|noparens|avg` (`1d6`) when you reach 5th level (`dice:2d6|noform|noparens|avg` (`2d6`)), 11th level (`dice:3d6|noform|noparens|avg` (`3d6`)), and 17th level (`dice:4d6|noform|noparens|avg` (`4d6`)).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
 
 *Source: Xanathar's Guide to Everything p. 156*

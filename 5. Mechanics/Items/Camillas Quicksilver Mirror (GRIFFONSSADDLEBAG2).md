@@ -24,7 +24,7 @@ The creature is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of 
 
 ## Store Reflection
 
-The creature's reflection is stored within the mirror. While stored, you can use an action to look into the mirror and cause your own reflection to become the stored one, simultaneously changing the appearance of your physical form as if you had cast the [[5. Mechanics/Spells/Alter Self.md\|alter self]] spell (Change Appearance option). This version of the spell lasts until it's dispelled. You can have up to 3 stored reflections in this way. A stored reflection is lost after it's used to alter your form. An affected creature is aware that its reflection has been stored, but not its or the mirror's purpose.
+The creature's reflection is stored within the mirror. While stored, you can use an action to look into the mirror and cause your own reflection to become the stored one, simultaneously changing the appearance of your physical form as if you had cast the [[/5. Mechanics/Spells/Alter Self.md\|alter self]] spell (Change Appearance option). This version of the spell lasts until it's dispelled. You can have up to 3 stored reflections in this way. A stored reflection is lost after it's used to alter your form. An affected creature is aware that its reflection has been stored, but not its or the mirror's purpose.
 
 These properties can be used a combined total of three times and regain all expended uses daily at dawn. Using a stored reflection to alter your appearance doesn't count against the mirror's total number of uses.
 

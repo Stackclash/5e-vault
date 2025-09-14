@@ -14,7 +14,7 @@ tags:
 aliases:
   - Deathlock
 ---
-# [[5. Mechanics\Bestiary\Undead\Deathlock (MPMM).md|Deathlock]]
+# [[5. Mechanics/Bestiary/Undead/Deathlock (MPMM).md|Deathlock]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86, Mordenkainen's Tome of Foes p. 128*
 
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.
@@ -46,8 +46,8 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - !!int "16"
 "speed": "30 ft."
 "saves":
-  - "intelligence": "+4"
-  - "charisma": "+5"
+  - "intelligence": !!int "4"
+  - "charisma": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+4"
@@ -58,7 +58,8 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "the languages it knew in life"
 "cr": "4"
 "traits":
@@ -70,23 +71,23 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "actions":
   - "desc": "The deathlock makes two Deathly Claw or Grave Bolt attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
       \ + 2) necrotic damage."
     "name": "Deathly Claw"
-  - "desc": "Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 14\
+  - "desc": "*Ranged Spell Attack:* +5 to hit, range 120 ft., one target. *Hit:* 14\
       \ (2d10 + 3) necrotic damage."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\nAt will: [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-      \ [[5. Mechanics/Spells/Disguise Self.md|disguise self]], [[5. Mechanics/Spells/Mage Armor.md|mage armor]],\
-      \ [[5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\n1/day each: [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
-      \ [[5. Mechanics/Spells/Hunger Of Hadar.md|hunger of Hadar]], [[5. Mechanics/Spells/Invisibility.md|invisibility]],\
-      \ [[5. Mechanics/Spells/Spider Climb.md|spider climb]]"
+      \ spellcasting ability (spell save DC 13):\n\n**At will:** [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[/5. Mechanics/Spells/Disguise Self.md|disguise self]], [[/5. Mechanics/Spells/Mage Armor.md|mage armor]],\
+      \ [[/5. Mechanics/Spells/Mage Hand.md|mage hand]]\n\n**1/day each:** [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]],\
+      \ [[/5. Mechanics/Spells/Hunger Of Hadar.md|hunger of Hadar]], [[/5. Mechanics/Spells/Invisibility.md|invisibility]],\
+      \ [[/5. Mechanics/Spells/Spider Climb.md|spider climb]]"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/deathlock-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/deathlock-mpmm.webp"
 ```
 ^statblock
 

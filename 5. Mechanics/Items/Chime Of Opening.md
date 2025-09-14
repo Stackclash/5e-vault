@@ -11,7 +11,7 @@ weight: 1
 ---
 # Chime of Opening
 *Wondrous item, minor, rare*  
-![[5. Mechanics/Items/img/chime-of-opening.webp#right]]  
+![[/5. Mechanics/Items/img/chime-of-opening.webp#right]]  
 
 - **Weight**: 1.0 lbs.
 

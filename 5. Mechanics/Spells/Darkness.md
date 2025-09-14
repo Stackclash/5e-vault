@@ -39,18 +39,16 @@ school: Evocation
 level: 2
 ritual: false
 time: 1 Action
-duration: Up to 10 minutes
-components:
-  - V
-  - M
+duration: 'Concentration, up to 10 minutes'
+range: 60 feet
+somatic: false
+verbal: true
+material: bat fur and a drop of pitch or piece of coal
+area:
+  shape: sphere
+  size: 15
 aliases:
   - Darkness
-range: 60 feet
-material: Bat fur and a drop of pitch or piece of coal.
-area:
-  type: sphere
-  size: 15
-concentration: true
 ---
 # Darkness
 *2nd-level, Evocation*  
@@ -66,6 +64,6 @@ If the point you choose is on an object you are holding or one that isn't being 
 
 If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Cleric (Darkness Domain)](compendium/lists/list-spells-classes-darkness-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Sorcerer (Shadow Magic)](compendium/lists/list-spells-classes-shadow-magic-xge.md "subclass=XGE"); [Druid (Circle of the Eclipse)](compendium/lists/list-spells-classes-circle-of-the-eclipse-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Paladin (Oathbreaker)](compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [[5. Mechanics/Lists/List Spells Classes Way Of Shadow.md\|Monk (Way of Shadow)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Darkness Domain)](/compendium/lists/list-spells-classes-darkness-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of the Eclipse)](/compendium/lists/list-spells-classes-circle-of-the-eclipse-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Way Of Shadow.md\|Monk (Way of Shadow)]]; [Paladin (Oathbreaker)](/compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Shadow Magic)](/compendium/lists/list-spells-classes-shadow-magic-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

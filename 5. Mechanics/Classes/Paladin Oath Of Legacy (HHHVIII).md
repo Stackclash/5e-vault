@@ -77,10 +77,10 @@ There is no shame in failure and respect should be given to those that at least 
 
 ### Oath Spells (Level 3)
 
-You gain oath spells at the paladin levels listed. See the [Sacred Oath](compendium/classes/paladin.md#Sacred%20Oath%20(Level%203)) class feature for how oath spells work.
+You gain oath spells at the paladin levels listed. See the [Sacred Oath](/compendium/classes/paladin.md#Sacred%20Oath%20(Level%203)) class feature for how oath spells work.
 
 > [!embed-table]- Oath of Legacy Spells
-> ![[5. Mechanics/Tables/Oath Of Legacy Spells (HHHVIII).md\|Oath of Legacy Spells]]
+> ![[/5. Mechanics/Tables/Oath Of Legacy Spells (HHHVIII).md\|Oath of Legacy Spells]]
 
 ### Channel Divinity (Level 3)
 
@@ -90,7 +90,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 As an action, you present an item that is either a harvestable material or a possession from a creature you helped kill. The presented item may also include a crafted item that was made out of a material you harvested. Either way, all creatures within 30 feet of you that can see you that are of the same creature type as that of the harvested material or possession must succeed on a Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you for 1 minute or until it takes damage. While [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] in this way, a creature reveres you as a worthy figure to be watched and respected; their speed becomes 0 and they cannot benefit from bonuses to their speed.
 
-At your DM's discretion, objects looted from particularly famous figures may impose disadvantage on the saving throw. For example, [[5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] may have disadvantage on their saving throw if you present an item taken from the [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Vampire Lord Strahd Von Zarovich]].
+At your DM's discretion, objects looted from particularly famous figures may impose disadvantage on the saving throw. For example, [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]] may have disadvantage on their saving throw if you present an item taken from the [[/4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Vampire Lord Strahd Von Zarovich]].
 
 ### Channel Divinity: Pass the Torch (Level 3)
 
@@ -111,7 +111,7 @@ Starting at 15th level, you are able to ensure that even in defeat, you and your
 At 20th level, you can use your action to embody the spirit of a legendary hero, becoming an unstoppable force in the process. For the next minute, you gain the following benefits:
 
 - Whenever you fail an attack roll, saving throw, or ability check, you may use your reaction to succeed instead.  
-- You act as if you are under the [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] spell.  
+- You act as if you are under the [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] spell.  
 - When an allied creature starts its turn within 10 feet of you, they gain a number of temporary hit points equal to your Charisma modifier (minimum of 0)  
 
 Once you use this feature, you can't use it again until you finish a long rest.

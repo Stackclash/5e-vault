@@ -57,16 +57,16 @@ When you join the Greenleaf College at 3rd level, you gain access to an expanded
 
 | Bard Level | Spells |
 |------------|--------|
-| 1st | [[5. Mechanics/Spells/Entangle.md\|entangle]], [[5. Mechanics/Spells/Goodberry.md\|goodberry]] |
-| 2nd | [[5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]], [[5. Mechanics/Spells/Spike Growth.md\|spike growth]] |
-| 3rd | [[5. Mechanics/Spells/Conjure Animals.md\|conjure animals]], [[5. Mechanics/Spells/Daylight.md\|daylight]] |
-| 4th | [[5. Mechanics/Spells/Conjure Woodland Beings.md\|conjure woodland beings]], [[5. Mechanics/Spells/Dominate Beast.md\|dominate beast]] |
-| 5th | [[5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[5. Mechanics/Spells/Tree Stride.md\|tree stride]] |
+| 1st | [[/5. Mechanics/Spells/Entangle.md\|entangle]], [[/5. Mechanics/Spells/Goodberry.md\|goodberry]] |
+| 2nd | [[/5. Mechanics/Spells/Pass Without Trace.md\|pass without trace]], [[/5. Mechanics/Spells/Spike Growth.md\|spike growth]] |
+| 3rd | [[/5. Mechanics/Spells/Conjure Animals.md\|conjure animals]], [[/5. Mechanics/Spells/Daylight.md\|daylight]] |
+| 4th | [[/5. Mechanics/Spells/Conjure Woodland Beings.md\|conjure woodland beings]], [[/5. Mechanics/Spells/Dominate Beast.md\|dominate beast]] |
+| 5th | [[/5. Mechanics/Spells/Commune With Nature.md\|commune with nature]], [[/5. Mechanics/Spells/Tree Stride.md\|tree stride]] |
 ^greenleaf-college-spells
 
 ### Rejuvenating Inspiration (Level 3)
 
-Also at 3rd level, you learn to infuse your [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) with a magical seed of healing energy. When a creature uses a [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die from you to increase one ability check, attack roll, or saving throw, it also gains temporary hit points equal to the number rolled on the [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die plus your Charisma modifier.
+Also at 3rd level, you learn to infuse your [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) with a magical seed of healing energy. When a creature uses a [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die from you to increase one ability check, attack roll, or saving throw, it also gains temporary hit points equal to the number rolled on the [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die plus your Charisma modifier.
 
 ### Land's Stride (Level 6)
 
@@ -76,6 +76,6 @@ In addition, you have advantage on saving throws against plants that are magical
 
 ### Vital Surge (Level 14)
 
-Starting at 14th level, as an action you can expend one use of [Bardic Inspiration](compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) to magically remove one disease or detrimental condition affecting a creature you can see within 60 feet.
+Starting at 14th level, as an action you can expend one use of [Bardic Inspiration](/compendium/classes/bard.md#Bardic%20Inspiration%20(Level%201)) to magically remove one disease or detrimental condition affecting a creature you can see within 60 feet.
 
 The condition can be [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]], or [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]].

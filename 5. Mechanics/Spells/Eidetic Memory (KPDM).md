@@ -21,15 +21,13 @@ school: Transmutation
 level: 5
 ritual: true
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: Self
+somatic: true
+verbal: true
+material: a string tied in a knot
 aliases:
   - Eidetic Memory
-concentration: true
-material: a string tied in a knot
 ---
 # Eidetic Memory
 *5th-level, Transmutation (ritual)*  
@@ -41,6 +39,6 @@ material: a string tied in a knot
 
 When you cast this spell, you can recall any piece of information you've ever read or heard in the past. This ability translates into a +10 bonus on Intelligence checks for the duration of the spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Warlock (The Sibyl)](compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Warlock (The Sibyl)](/compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 66*

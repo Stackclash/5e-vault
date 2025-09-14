@@ -21,6 +21,6 @@ This figure remains active until its command word is spoken again or if it the c
 Use the following statblock for your haunted figure when it is animated:
 
 > [!embed-monster]- Haunted Figure
-> ![[5. Mechanics/Bestiary/Construct/Haunted Figure (HHHVIII).md#^statblock\|Haunted Figure]]
+> ![[/5. Mechanics/Bestiary/Construct/Haunted Figure (HHHVIII).md#^statblock\|Haunted Figure]]
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 89*

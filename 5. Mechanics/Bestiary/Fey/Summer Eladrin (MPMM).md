@@ -15,7 +15,7 @@ tags:
 aliases:
   - Summer Eladrin
 ---
-# [[5. Mechanics\Bestiary\Fey\Summer Eladrin (MPMM).md|Summer Eladrin]]
+# [[5. Mechanics/Bestiary/Fey/Summer Eladrin (MPMM).md|Summer Eladrin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*
 
 When angered, eladrin enter the season of summer, a burning, tempestuous state that transforms them into aggressive warriors eager to vent their wrath. Their magic responds to their fury and amplifies their fighting ability, helping them move with astonishing quickness and strike with terrible force.
@@ -63,7 +63,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+8"
 "damage_resistances": "fire"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 11"
 "languages": "Common, Elvish, Sylvan"
 "cr": "10"
 "traits":
@@ -81,11 +82,11 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "actions":
   - "desc": "The eladrin makes two Longsword or Longbow attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two\
       \ hands, plus 9 (2d8) fire damage."
     "name": "Longsword"
-  - "desc": "Ranged Weapon Attack: +9 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +9 to hit, range 150/600 ft., one target. *Hit:*\
       \ 14 (2d8 + 5) piercing damage plus 9 (2d8) fire damage."
     "name": "Longbow"
 "bonus_actions":
@@ -99,7 +100,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Fey/token/summer-eladrin-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Fey/token/summer-eladrin-mpmm.webp"
 ```
 ^statblock
 

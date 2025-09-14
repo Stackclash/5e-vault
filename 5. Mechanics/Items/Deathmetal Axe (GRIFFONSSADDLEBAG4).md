@@ -13,14 +13,14 @@ one-hand-damage: 1d12 slashing
 weight: 7
 ---
 # Deathmetal Axe
-*Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Deathmetal-Axe.webp#right)  
 
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
 
-This adamantine axe is covered in narrow cracks, which periodically erupt with harmless, magical flame. Along its haft are four strings: plucking a string creates a deep, bone-rattling resonance from the axe. If you're proficient with lutes, you are proficient with the deathmetal axe, and you can play it as if it were a [[5. Mechanics/Items/Lute.md\|lute]].
+This adamantine axe is covered in narrow cracks, which periodically erupt with harmless, magical flame. Along its haft are four strings: plucking a string creates a deep, bone-rattling resonance from the axe. If you're proficient with lutes, you are proficient with the deathmetal axe, and you can play it as if it were a [[/5. Mechanics/Items/Lute.md\|lute]].
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon, as well as on any Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check you make with it. Whenever the axe hits an object, the hit is a critical hit.
 
@@ -30,7 +30,7 @@ The axe has 7 charges for the following properties. It regains `dice:1d6+1|nofor
 
 ## Spells
 
-While holding the axe, you can use an action to expend 2 of its charges to cast either the [[5. Mechanics/Spells/Shatter.md\|shatter]] or [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] (2nd-level version) spell from it (save DC 16).
+While holding the axe, you can use an action to expend 2 of its charges to cast either the [[/5. Mechanics/Spells/Shatter.md\|shatter]] or [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]] (2nd-level version) spell from it (save DC 16).
 
 ## Thunderous Performance
 

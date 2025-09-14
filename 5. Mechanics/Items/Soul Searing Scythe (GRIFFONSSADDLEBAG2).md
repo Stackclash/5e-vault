@@ -14,7 +14,7 @@ one-hand-damage: 1d10 slashing
 weight: 6
 ---
 # Soul-Searing Scythe
-*Weapon ([[5. Mechanics/Items/Halberd.md\|halberd]]), major, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Soul-Searing-Scythe.webp#right)  
 
 - **Damage**: 1d10 slashing
@@ -27,6 +27,6 @@ While the scythe is ablaze, it deals an extra `dice:3d4|noform|noparens|avg` (`3
 
 In addition, when you score a critical hit with this weapon against a creature that is not a construct or undead, the target must make a DC 17 Constitution saving throw. On a failed save, the creature takes `dice:3d4|noform|noparens|avg` (`3d4`) necrotic damage and is [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the start of your next turn. On a successful save, a creature takes half as much necrotic damage and isn't [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]].
 
-When you reduce a creature to 0 hit points with this weapon, its body and soul are immolated and destroyed unless it is a construct or undead. A creature whose body and soul have been destroyed by the soul-searing scythe can be restored to life only by a [[5. Mechanics/Spells/Wish.md\|wish]] spell or divine intervention.
+When you reduce a creature to 0 hit points with this weapon, its body and soul are immolated and destroyed unless it is a construct or undead. A creature whose body and soul have been destroyed by the soul-searing scythe can be restored to life only by a [[/5. Mechanics/Spells/Wish.md\|wish]] spell or divine intervention.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 164*

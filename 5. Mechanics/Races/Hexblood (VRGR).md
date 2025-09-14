@@ -9,7 +9,7 @@ aliases:
 ---
 # Hexblood
 *Source: Van Richten's Guide to Ravenloft p. 18*  
-![[5. Mechanics/Races/img/hexblood.webp#right]]  
+![[/5. Mechanics/Races/img/hexblood.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: fey
@@ -48,7 +48,7 @@ Once you create a token using this feature, you can't do so again until you fini
 
 ### Hex Magic
 
-You can cast the [[5. Mechanics/Spells/Disguise Self.md\|disguise self]] and [[5. Mechanics/Spells/Hex.md\|hex]] spells with this trait. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
+You can cast the [[/5. Mechanics/Spells/Disguise Self.md\|disguise self]] and [[/5. Mechanics/Spells/Hex.md\|hex]] spells with this trait. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose the ability when you gain this lineage).
 

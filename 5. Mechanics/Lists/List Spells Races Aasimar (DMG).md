@@ -10,12 +10,12 @@ aliases:
 
 ## Cantrip
 
-- [[5. Mechanics/Spells/Light.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Light.md \|"PHB"]] at class level 5
 
 ## 2nd Level
 
-- [[5. Mechanics/Spells/Lesser Restoration.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Lesser Restoration.md \|"PHB"]] at class level 5
 
 ## 3rd Level
 
-- [[5. Mechanics/Spells/Daylight.md \|"PHB"]] at class level 5
+- [[/5. Mechanics/Spells/Daylight.md \|"PHB"]] at class level 5

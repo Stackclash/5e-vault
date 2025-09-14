@@ -13,7 +13,7 @@ armorClass: 11 + Dex modifier
 weight: 10
 ---
 # Displacement Leathers
-*Light armor ([[5. Mechanics/Items/Leather Armor.md\|leather armor]]), major, uncommon (requires attunement)*  
+*Light armor ([[/5. Mechanics/Items/Leather Armor.md\|leather armor]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Displacement-Leathers.webp#right)  
 
 - **Armor Class**: 11 + Dex modifier

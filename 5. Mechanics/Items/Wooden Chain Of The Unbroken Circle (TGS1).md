@@ -13,7 +13,7 @@ armorClass: 13 + Dex modifier (max of +2)
 weight: 20
 ---
 # Wooden Chain of the Unbroken Circle
-*Medium armor ([[5. Mechanics/Items/Chain Shirt.md\|chain shirt]]), major, rare (requires attunement by a druid or ranger)*  
+*Medium armor ([[/5. Mechanics/Items/Chain Shirt.md\|chain shirt]]), major, rare (requires attunement by a druid or ranger)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Wooden-Chain-of-the-Unbroken-Circle.webp#right)  
 
 - **Armor Class**: 13 + Dex modifier (max of +2)

@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\060-cos05-11.webp
+  - ../../../../../4. World Almanac/NPCs/img/060-cos05-11.webp
 relationships: []
 aliases:
   - Majesto
@@ -54,7 +54,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 115*
@@ -139,7 +139,8 @@ actions:
   \ not made with silvered weapons"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 11"
 "languages": "Infernal, Common"
 "cr": "1"
 "traits":
@@ -155,7 +156,7 @@ actions:
       \ effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
       \ + 3) piercing damage, and the target must make a DC 11 Constitution saving\
       \ throw, taking 10 (3d6) poison damage on a failed save, or half as much damage\
       \ on a successful one."
@@ -168,7 +169,7 @@ actions:
     "name": "Invisibility"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/majesto-cos.webp"
+"image": "/4. World Almanac/NPCs/token/majesto-cos.webp"
 ```
 ^statblock
 

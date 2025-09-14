@@ -10,11 +10,11 @@ tags:
 aliases:
   - Bullseye Dart
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 0.25
 ---
 # Bullseye Dart
-*Weapon ([[5. Mechanics/Items/Dart.md\|dart]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bullseye-Dart.webp#right)  
 
 - **Damage**: 1d4 piercing

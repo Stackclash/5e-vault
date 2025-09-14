@@ -13,7 +13,7 @@ tags:
 aliases:
   - Animated Object (Large)
 ---
-# [[5. Mechanics\Bestiary\Construct\Animated Object Large.md|Animated Object (Large)]]
+# [[5. Mechanics/Bestiary/Construct/Animated Object Large.md|Animated Object (Large)]]
 *Source: Player's Handbook p. 213*
 
 ```statblock
@@ -33,7 +33,8 @@ aliases:
   - !!int "3"
   - !!int "1"
 "speed": "30 ft."
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 6"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft. (blind beyond\
+  \ this radius), passive Perception 6"
 "languages": ""
 "traits":
   - "desc": "If the object lacks legs or other appendages it can use for locomotion,\
@@ -45,12 +46,12 @@ aliases:
       \ inflicts slashing or piercing damage based on its form."
     "name": "Animated"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d10 + 2) bludgeoning damage."
     "name": "Slam"
 "source":
   - "PHB"
-"image": "5. Mechanics/Bestiary/Construct/token/animated-object-large.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/animated-object-large.webp"
 ```
 ^statblock
 

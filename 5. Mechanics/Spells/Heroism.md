@@ -28,16 +28,20 @@ classes:
   - Warlock (The Valiant)
 school: Enchantment
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 2
+  types: []
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Heroism
-range: Touch
-concentration: true
 ---
 # Heroism
 *1st-level, Enchantment*  
@@ -51,6 +55,8 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [Artificer (Battle Smith)](compendium/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Warlock (The Valiant)](compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Beer Domain)](compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [Paladin (Oath of Glory)](compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Cleric (Peace Domain)](compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Paladin (Oath of Thunder)](compendium/lists/list-spells-classes-oath-of-thunder-kpdm.md "subclass=KPDM"); [Cleric (Order Domain)](compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE")
+**Classes**: [Artificer (Battle Smith)](/compendium/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Beer Domain)](/compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [Cleric (Order Domain)](/compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [Paladin (Oath of Glory)](/compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Paladin (Oath of Thunder)](/compendium/lists/list-spells-classes-oath-of-thunder-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Warlock (The Valiant)](/compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -9,7 +9,7 @@ aliases:
 ---
 # Tabaxi
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 33*  
-![[5. Mechanics/Races/img/tabaxi.webp#right]]  
+![[/5. Mechanics/Races/img/tabaxi.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -27,7 +27,7 @@ Your walking speed is 30 feet, and you have a climbing speed equal to your walki
 
 ### Cat's Claws
 
-You can use your claws to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+You can use your claws to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Cat's Talent
 

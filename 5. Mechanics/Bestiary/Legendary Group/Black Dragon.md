@@ -9,7 +9,7 @@ aliases:
 ---
 # Black Dragon
 
-## Lair actions
+## Lair Actions
 _Source: Monster Manual_
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
@@ -20,13 +20,13 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 ### Additional Lair Actions
 
-At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Black Dragon.md|adult]] or [[5. Mechanics/Bestiary/Dragon/Ancient Black Dragon.md|ancient]]) black dragon can use one or more of the following additional lair actions while in its lair:
+At your discretion, a legendary ([[/5. Mechanics/Bestiary/Dragon/Adult Black Dragon.md|adult]] or [[/5. Mechanics/Bestiary/Dragon/Ancient Black Dragon.md|ancient]]) black dragon can use one or more of the following additional lair actions while in its lair:
 
 - **Filth Burst.** The dragon chooses a point on the ground it can see within 120 feet of it. A 20-foot-radius, 20-foot-high cylinder of watery filth centered on that point erupts from the ground until initiative count 20 on the next round. Each creature in the cylinder when it appears or that ends its turn there must make a DC 15 Constitution saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) poison damage on a failed save, or half as much damage on a successful one. The cylinder is "difficult terrain".  
 - **Grasping Muck.** Tendrils of roiling muck extend from the dragon's lair to grasp up to three creatures of the dragon's choice that it can see within the lair. A targeted creature must succeed on a DC 15 Strength saving throw or be [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] until initiative count 20 on the next round.  
 - **Noxious Gas.** A bubble of swamp gas erupts in a 20-foot-radius sphere centered on a point the dragon can see within its lair. Each creature in the area must succeed on a DC 15 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual_
 
 The region containing a legendary black dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
@@ -35,7 +35,7 @@ The region containing a legendary black dragon's lair is warped by the dragon's 
 - Water sources within 1 mile of the lair are supernaturally fouled. Enemies of the dragon that drink such water regurgitate it within minutes.  
 - Fog lightly obscures the land within 6 miles of the lair.  
 
-If the dragon dies, vegetation remains as it has grown, but other effects fade over `dice:1d10|noform|noparens|avg` (`d10`) days.
+If the dragon dies, vegetation remains as it has grown, but other effects fade over `dice:1d10|noform|noparens|avg` (`1d10`) days.
 
 ### Additional Regional Effects
 

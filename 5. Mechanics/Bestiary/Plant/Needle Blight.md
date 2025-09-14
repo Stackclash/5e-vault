@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: forest
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Needle Blight
 ---
-# [[5. Mechanics\Bestiary\Plant\Needle Blight.md|Needle Blight]]
+# [[5. Mechanics/Bestiary/Plant/Needle Blight.md|Needle Blight]]
 *Source: Monster Manual p. 32, Curse of Strahd*
 
 In the shadows of a forest, needle blights might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
@@ -63,20 +63,21 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
   - !!int "3"
 "speed": "30 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/4"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
       \ + 1) piercing damage."
     "name": "Claws"
-  - "desc": "Ranged Weapon Attack: +3 to hit, range 30/60 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +3 to hit, range 30/60 ft., one target. *Hit:*\
       \ 8 (2d6 + 1) piercing damage."
     "name": "Needles"
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Plant/token/needle-blight.webp"
+"image": "/5. Mechanics/Bestiary/Plant/token/needle-blight.webp"
 ```
 ^statblock
 

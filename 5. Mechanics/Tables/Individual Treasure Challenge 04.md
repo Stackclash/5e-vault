@@ -19,5 +19,5 @@ aliases:
 | 31-60 | — | `dice:4d6\|noform\|noparens\|avg` (`4d6`) (14) | — | — | — |
 | 61-70 | — | — | `dice:3d6\|noform\|noparens\|avg` (`3d6`) (10) | — | — |
 | 71-95 | — | — | — | `dice:3d6\|noform\|noparens\|avg` (`3d6`) (10) | — |
-| 96-00 | — | — | — | — | `dice:1d6\|noform\|noparens\|avg` (`d6`) (3) |
+| 96-00 | — | — | — | — | `dice:1d6\|noform\|noparens\|avg` (`1d6`) (3) |
 ^individual-treasure-challenge-04

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Medusa
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Medusa.md|Medusa]]
+# [[5. Mechanics/Bestiary/Monstrosity/Medusa.md|Medusa]]
 *Source: Monster Manual p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 As deadly as they are ravishing, the serpent-haired medusas suffer an immortal curse brought on by their vanity. They lurk in quiet exile among the tumbled ruins of their former lives, surrounded by the petrified remains of past admirers and would-be heroes.
@@ -56,7 +56,8 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": "Common"
 "cr": "6"
 "traits":
@@ -69,7 +70,7 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
       \ The [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] creature must\
       \ repeat the saving throw at the end of its next turn, becoming [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]\
       \ on a failure or ending the effect on a success. The petrification lasts until\
-      \ the creature is freed by the  [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
+      \ the creature is freed by the  [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]]\
       \ spell or other magic.\n\nUnless [[/5. Mechanics/Rules/Conditions.md#Surprised|surprised]],\
       \ a creature can avert its eyes to avoid the saving throw at the start of its\
       \ turn. If the creature does so, it can't see the medusa until the start of\
@@ -83,18 +84,18 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
   - "desc": "The medusa makes either three melee attacks—one with its snake hair and\
       \ two with its shortsword—or two ranged attacks with its longbow."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 4\
       \ (1d4 + 2) piercing damage plus 14 (4d6) poison damage."
     "name": "Snake Hair"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Shortsword"
-  - "desc": "Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage."
     "name": "Longbow"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/medusa.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/medusa.webp"
 ```
 ^statblock
 

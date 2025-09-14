@@ -14,7 +14,7 @@ tags:
 aliases:
   - Master Thief
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Master Thief (MPMM).md|Master Thief]]
+# [[5. Mechanics/Bestiary/Humanoid/Master Thief (MPMM).md|Master Thief]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216*
 
 Master thieves are known for perpetrating daring heists. They tend to develop a romanticized reputation. A master thief might "retire" from hands-on work to run a thieves' guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
@@ -45,7 +45,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "4"
@@ -58,8 +58,8 @@ When a master thief completes a challenging heist, they often leave behind a cal
   - !!int "12"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+7"
-  - "intelligence": "+3"
+  - "dexterity": !!int "7"
+  - "intelligence": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+7"
@@ -83,11 +83,11 @@ When a master thief completes a challenging heist, they often leave behind a cal
 "actions":
   - "desc": "The thief makes three Shortsword or Shortbow attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
-      \ + 4) piercing damage plus 3 (d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
+      \ + 4) piercing damage plus 3 (1d6) poison damage."
     "name": "Shortsword"
-  - "desc": "Ranged Weapon Attack: +7 to hit, range 80/320 ft., one target. Hit:\
-      \ 7 (1d6 + 4) piercing damage plus 3 (d6) poison damage."
+  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 80/320 ft., one target. *Hit:*\
+      \ 7 (1d6 + 4) piercing damage plus 3 (1d6) poison damage."
     "name": "Shortbow"
 "bonus_actions":
   - "desc": "The thief takes the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]],\
@@ -100,7 +100,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/master-thief-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/master-thief-mpmm.webp"
 ```
 ^statblock
 

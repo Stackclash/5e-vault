@@ -14,18 +14,19 @@ classes:
   - Wizard
 school: Transmutation
 level: 9
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: 30 feet
+somatic: true
+verbal: true
+material: 'a drop of mercury, a dollop of gum arabic, and a wisp of smoke'
 aliases:
   - True Polymorph
-range: 30 feet
-material: 'A drop of mercury, a dollop of gum arabic, and a wisp of smoke.'
-concentration: true
 ---
 # True Polymorph
 *9th-level, Transmutation*  
@@ -61,6 +62,6 @@ If you turn a creature into an object, it transforms along with whatever it is w
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

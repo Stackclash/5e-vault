@@ -32,8 +32,8 @@ The Everglacier shares more in common with deserts than it does ice and snow. It
 - There is an overwhelming eeriness to the Everglacier. Outsiders traveling on it feel at unease. There is something unnatural about the land and the glacier itself.  
 - Plantlife grows on the Everglacier, but it isn't normal plant life. The flora of the Everglacier has learned to survive in the harsh, rocky, cold soil that dusts its top layers. These plants are strong and well-protected.  
 - It's not uncommon to come across a fallen traveler while walking through the Everglacier, frozen solid. In some areas, especially near the Glass Mountains, these corpses act as landmarks for other travelers. The infamous Road of Claws is littered with the dead. It's said among the howling gales, one can hear the weeping of those who passed.  
-- Glacier fog is common. Drawing its power from the innate magic of the glacier, the fog that permeates the Everglacier operates similar to the [[5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell.  
-- Gruesome standards and warnings are everywhere in the Everglacier. Most are created by the [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] tribes who call the glacier their home, but the orcs have just as many planted throughout. These standards are often made of the frozen heads of their fallen enemies. Some are even lit with magical blue fire.  
+- Glacier fog is common. Drawing its power from the innate magic of the glacier, the fog that permeates the Everglacier operates similar to the [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell.  
+- Gruesome standards and warnings are everywhere in the Everglacier. Most are created by the [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] tribes who call the glacier their home, but the orcs have just as many planted throughout. These standards are often made of the frozen heads of their fallen enemies. Some are even lit with magical blue fire.  
 
 > [!note] Optional Rule: Day and Night
 > 
@@ -109,27 +109,27 @@ The Everglacier is home to many dangers. While the characters travel through the
 
 | d12+d10 | Result |
 |---------|--------|
-| 2 | 1 [[5. Mechanics/Bestiary/Dragon/Adult White Dragon.md\|adult white dragon]] |
+| 2 | 1 [[/5. Mechanics/Bestiary/Dragon/Adult White Dragon.md\|adult white dragon]] |
 | 3 | On either side of the path, frozen bodies sit motionless, encased in solid ice. Fortunately, they are very much dead. Eerily, their stiff arms point in the same direction. |
-| 4 | 1 [[5. Mechanics/Bestiary/Monstrosity/Remorhaz.md\|remorhaz]] with `1d4–1` [[5. Mechanics/Bestiary/Monstrosity/Young Remorhaz.md\|young remorhazes]] |
-| 5 | `dice:1d4\|noform\|noparens\|avg` (`d4`) [[5. Mechanics/Bestiary/Undead/Wraith.md\|wraiths]]. The wraiths are immune to cold damage. |
-| 6 | `dice:1d4\|noform\|noparens\|avg` (`d4`) [[5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] looking for food. Desperate, they fight recklessly. All of their attacks are made with advantage, and attacks made against them are made with advantage. |
-| 7 | `dice:1d4\|noform\|noparens\|avg` (`d4`) [[5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elementals]] |
-| 8 | A dense fog gathers (treat it as a fog cloud spell). Within the fog, `dice:3d10\|noform\|noparens\|avg` (`3d10`) [[5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] march mindlessly towards some unknown destination. They will not attack unless they are attacked first. |
-| 9 | `dice:1d2\|noform\|noparens\|avg` (`d2`) [[5. Mechanics/Bestiary/Beast/Mammoth.md\|mammoths]] are being chased by `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|tribal warriors]] |
-| 10 | `dice:1d2\|noform\|noparens\|avg` (`d2`) [[5. Mechanics/Bestiary/Beast/Polar Bear.md\|polar bears]] |
-| 11 | `dice:3d8\|noform\|noparens\|avg` (`3d8`) ice [[5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] (they have resistance to cold damage) have dug a massive pit trap along the path. They hide, waiting for creatures to stumble into their trap. |
-| 12 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|tribal warriors]] lead by 1 berserker are hauling a slain mammoth back to their den. |
-| 13 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] lead by 1 [[5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|orc gladiator]] hunt for fauna on the glacier. They are not above eating the flesh of man, however. |
-| 14 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[5. Mechanics/Bestiary/Humanoid/Bugbear.md\|yetikin]]. Yetkin are bugbears except they have resistance to cold damage. |
+| 4 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Remorhaz.md\|remorhaz]] with `1d4–1` [[/5. Mechanics/Bestiary/Monstrosity/Young Remorhaz.md\|young remorhazes]] |
+| 5 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Undead/Wraith.md\|wraiths]]. The wraiths are immune to cold damage. |
+| 6 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Giant/Troll.md\|trolls]] looking for food. Desperate, they fight recklessly. All of their attacks are made with advantage, and attacks made against them are made with advantage. |
+| 7 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elementals]] |
+| 8 | A dense fog gathers (treat it as a fog cloud spell). Within the fog, `dice:3d10\|noform\|noparens\|avg` (`3d10`) [[/5. Mechanics/Bestiary/Undead/Zombie.md\|zombies]] march mindlessly towards some unknown destination. They will not attack unless they are attacked first. |
+| 9 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Beast/Mammoth.md\|mammoths]] are being chased by `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|tribal warriors]] |
+| 10 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Beast/Polar Bear.md\|polar bears]] |
+| 11 | `dice:3d8\|noform\|noparens\|avg` (`3d8`) ice [[/5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] (they have resistance to cold damage) have dug a massive pit trap along the path. They hide, waiting for creatures to stumble into their trap. |
+| 12 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [[/5. Mechanics/Bestiary/Humanoid/Tribal Warrior.md\|tribal warriors]] lead by 1 berserker are hauling a slain mammoth back to their den. |
+| 13 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] lead by 1 [[/5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|orc gladiator]] hunt for fauna on the glacier. They are not above eating the flesh of man, however. |
+| 14 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Humanoid/Bugbear.md\|yetikin]]. Yetkin are bugbears except they have resistance to cold damage. |
 | 15 | Massive, surreal sculptures made of ice decorate the landscape. Some are 30 feet tall. Judging by their detail and size, it's likely they were created through magical means. |
-| 16 | The torn apart remains of two [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]] litter the trail. There is a 20% chance that whatever killed them is still in the area (roll again on the encounter table to determine what killed the pair). |
-| 17 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] |
-| 18 | `dice:4d4\|noform\|noparens\|avg` (`4d4`) [[5. Mechanics/Bestiary/Elemental/Ice Mephit.md\|ice mephits]] surround a hole in the ice. They have caught an ice kobold who squeals in fear as the elementals taunt it. |
+| 16 | The torn apart remains of two [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]] litter the trail. There is a 20% chance that whatever killed them is still in the area (roll again on the encounter table to determine what killed the pair). |
+| 17 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[/5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] |
+| 18 | `dice:4d4\|noform\|noparens\|avg` (`4d4`) [[/5. Mechanics/Bestiary/Elemental/Ice Mephit.md\|ice mephits]] surround a hole in the ice. They have caught an ice kobold who squeals in fear as the elementals taunt it. |
 | 19 | A spirit of the ice forms on the wall of an icy canyon or on the ground itself. The spirit has no stat block. Instead, it offers the characters assistance on the Everglacier. It can grant the characters a single wish; however, the effects of the wish must be no powerful than the effects of a 5th level or lower spell. Once it grants the wish, the spirit vanishes. |
-| 20 | `dice:1d2\|noform\|noparens\|avg` (`d2`) [[5. Mechanics/Bestiary/Dragon/Young White Dragon.md\|young white dragons]] |
-| 21 | `dice:1d4\|noform\|noparens\|avg` (`d4`) [[5. Mechanics/Bestiary/Undead/Banshee.md\|banshees]] |
-| 22 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]] led by an additional [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] with 200 hit points lumber through the ice, returning to their home. They are indifferent towards the characters but will attack if provoked. |
+| 20 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Dragon/Young White Dragon.md\|young white dragons]] |
+| 21 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [[/5. Mechanics/Bestiary/Undead/Banshee.md\|banshees]] |
+| 22 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]] led by an additional [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] with 200 hit points lumber through the ice, returning to their home. They are indifferent towards the characters but will attack if provoked. |
 ^result
 
 ### Additional Monsters
@@ -137,24 +137,24 @@ The Everglacier is home to many dangers. While the characters travel through the
 For a more custom array of monsters to fill this setting, consider using the following monsters and creature variants.
 
 > [!embed-monster]- Glacier Bulette
-> ![[5. Mechanics/Bestiary/Monstrosity/Glacier Bulette (TGS1).md#^statblock\|Glacier Bulette]]
+> ![[/5. Mechanics/Bestiary/Monstrosity/Glacier Bulette (TGS1).md#^statblock\|Glacier Bulette]]
 
 > [!embed-monster]- Ice Gargoyle
-> ![[5. Mechanics/Bestiary/Elemental/Ice Gargoyle (TGS1).md#^statblock\|Ice Gargoyle]]
+> ![[/5. Mechanics/Bestiary/Elemental/Ice Gargoyle (TGS1).md#^statblock\|Ice Gargoyle]]
 
 > [!embed-monster]- Weremammoth
-> ![[5. Mechanics/Bestiary/Humanoid/Weremammoth (TGS1).md#^statblock\|Weremammoth]]
+> ![[/5. Mechanics/Bestiary/Humanoid/Weremammoth (TGS1).md#^statblock\|Weremammoth]]
 
 > [!embed-monster]- White Wraith
-> ![[5. Mechanics/Bestiary/Undead/White Wraith (TGS1).md#^statblock\|White Wraith]]
+> ![[/5. Mechanics/Bestiary/Undead/White Wraith (TGS1).md#^statblock\|White Wraith]]
 
 ### Ruins & Dungeons
 
-Despite the Everglacier being a mobile continent of solid ice, it is still home to many unusual locales. Both the wild and native inhabitants of the glacier have dug out caves, caverns, and tunnels through the ice. Fortresses built from solid Dagger Ice are also present; the [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]], in particular, use their cold-bending sorcery to build these foreboding structures.
+Despite the Everglacier being a mobile continent of solid ice, it is still home to many unusual locales. Both the wild and native inhabitants of the glacier have dug out caves, caverns, and tunnels through the ice. Fortresses built from solid Dagger Ice are also present; the [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giants]], in particular, use their cold-bending sorcery to build these foreboding structures.
 
-In areas where the glacier breaks apart to reveal the ocean's cold depths, sea creatures such as [[5. Mechanics/Bestiary/Humanoid/Merfo(LK).md\|merfolk]] and [[5. Mechanics/Bestiary/Humanoid/Sahuagin.md\|sahuagin]] (who've grown accustomed to the climate), create elaborate maze-like passages in the submerged ice. While uninviting to creatures who lack the constitution to survive in such environments, those who dare enter often find heaps of treasure, the majority of which the aquatic creatures stripped from vessels destroyed by the Everglacier's walls.
+In areas where the glacier breaks apart to reveal the ocean's cold depths, sea creatures such as [[/5. Mechanics/Bestiary/Humanoid/Merfo(LK).md\|merfolk]] and [[/5. Mechanics/Bestiary/Humanoid/Sahuagin.md\|sahuagin]] (who've grown accustomed to the climate), create elaborate maze-like passages in the submerged ice. While uninviting to creatures who lack the constitution to survive in such environments, those who dare enter often find heaps of treasure, the majority of which the aquatic creatures stripped from vessels destroyed by the Everglacier's walls.
 
-It's not uncommon for settlements to rise up on the Everglacier, then fall to ruin. The Growl, [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] raids, and even aggressive blizzards are all responsible for destroying villages and cities that may have once prospered in this unforgiving environment.
+It's not uncommon for settlements to rise up on the Everglacier, then fall to ruin. The Growl, [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] raids, and even aggressive blizzards are all responsible for destroying villages and cities that may have once prospered in this unforgiving environment.
 
 #### Example Dungeons
 
@@ -164,8 +164,8 @@ If you need help generating ideas for dungeons and points-of-interest on the Eve
 
 | dice: d6 | Example Dungeon |
 |----------|-----------------|
-| 1 | A [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] [[5. Mechanics/Bestiary/Undead/Vampire.md\|vampire]] has built a palace of ice into the cliffs of an ice mountain. In addition to the typical creatures one expects to find within a [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant's]] keep, there are undead horrors that wait in the cold, dark depths. |
-| 2 | An ice field is pocked with dozens of huge holes that emit steam and scalding water. These are tunnels created by [[5. Mechanics/Bestiary/Monstrosity/Remorhaz.md\|remorhazes]], whose warm touch allows them to burrow unhindered through the Everglacier's ice. The bones of carrion decorate their underice labyrinths. |
+| 1 | A [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] [[/5. Mechanics/Bestiary/Undead/Vampire.md\|vampire]] has built a palace of ice into the cliffs of an ice mountain. In addition to the typical creatures one expects to find within a [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant's]] keep, there are undead horrors that wait in the cold, dark depths. |
+| 2 | An ice field is pocked with dozens of huge holes that emit steam and scalding water. These are tunnels created by [[/5. Mechanics/Bestiary/Monstrosity/Remorhaz.md\|remorhazes]], whose warm touch allows them to burrow unhindered through the Everglacier's ice. The bones of carrion decorate their underice labyrinths. |
 | 3 | Once home to quasi-celestial beings, this lost city lies in ruin. Its ancient streets are torn apart by ice daggers sprouting from the ground. Towers and temples sit cracked open like broken eggs, exposed to the environment. During the day, only the wind moves through the streets. But at night, something dark stirs. |
 | 4 | Blades of steel-hard ice rise from the surface of the Everglacier, reaching fifty feet or more into the air. Throughout this unwelcoming razor-sharp canyon, elementals of all kinds rule: from cruel trickster mephits to massive warriors made of solid ice to gargantuan tempests. None of these creatures enjoy the presence of the living. |
 | 5 | A graveyard of frozen pirate ships dominates the bottom of a pit. The ghosts of the sea dogs rise from the busted hulls protecting the loot and other ill-gotten gains they once sailed with. |
@@ -181,22 +181,22 @@ The Everglacier is a difficult place to call home, but not impossible. Solid dag
 
 #### Suggested Inhabitants
 
-Creatures adapted to extreme cold and winter conditions thrive on the Everglacier. [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|Frost giants]] are particularly everpresent, having multiple settlements built from the hard ice of the glacier. At least three major orc tribes call the glacier home: the Windshadow, Bloodice, and Stripjaws. Creatures from the Elemental Plane of Earth such as [[5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elementals]], [[5. Mechanics/Bestiary/Elemental/Gargoyle.md\|gargoyles]], and [[5. Mechanics/Bestiary/Elemental/Dust Mephit.md\|dust mephits]] also live on the glacier. Humanoids live on the glacier, but tend towards nomadic cultures as The Growl frequently destroys permanent settlements.
+Creatures adapted to extreme cold and winter conditions thrive on the Everglacier. [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|Frost giants]] are particularly everpresent, having multiple settlements built from the hard ice of the glacier. At least three major orc tribes call the glacier home: the Windshadow, Bloodice, and Stripjaws. Creatures from the Elemental Plane of Earth such as [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elementals]], [[/5. Mechanics/Bestiary/Elemental/Gargoyle.md\|gargoyles]], and [[/5. Mechanics/Bestiary/Elemental/Dust Mephit.md\|dust mephits]] also live on the glacier. Humanoids live on the glacier, but tend towards nomadic cultures as The Growl frequently destroys permanent settlements.
 
 #### Example Settlements
 
 Consider using these sample ideas as inspiration when building settlements in the Everglacier:
 
-- A massive fortress made of solid ice stands at the top of high, sheer ice-cliff. Living within this compound are thousands of [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]]. The [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] conquered the [[5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] king who created the fortress. Rumor has it that the king still lives, hiding at the heart of the structure.  
+- A massive fortress made of solid ice stands at the top of high, sheer ice-cliff. Living within this compound are thousands of [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]]. The [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] conquered the [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]] king who created the fortress. Rumor has it that the king still lives, hiding at the heart of the structure.  
 - Everglacier nomads—mostly human with some elves and half-orcs—have created a temporary village to last through the coming winter. Their companion animals surround the village, protecting it from the dangers of the ice.  
-- A community of ice [[5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] worships a [[5. Mechanics/Bestiary/Dragon/Young White Dragon.md\|young adult white dragon]] who pretends to be their god. Overall, the [[5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] are friendly—if devious—and willing to trade with outsiders. They live within a series of unusual multi-tier igloos that look like a massive web of ice.  
-- Along the underside of the Everglacier, a kingdom of [[5. Mechanics/Bestiary/Humanoid/Merfo(LK).md\|merfolk]] adapted to the cold thrives. They've placed massive ice daggers facing outward from their kingdom. This protects their kingdom from running aground when the Everglacier bumps against a large landmass. Conveniently, it also helps the [[5. Mechanics/Bestiary/Humanoid/Merfo(LK).md\|merfolk]] capture errant ships, large aquatic animals, and other surprises that helps support the community.  
+- A community of ice [[/5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] worships a [[/5. Mechanics/Bestiary/Dragon/Young White Dragon.md\|young adult white dragon]] who pretends to be their god. Overall, the [[/5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] are friendly—if devious—and willing to trade with outsiders. They live within a series of unusual multi-tier igloos that look like a massive web of ice.  
+- Along the underside of the Everglacier, a kingdom of [[/5. Mechanics/Bestiary/Humanoid/Merfo(LK).md\|merfolk]] adapted to the cold thrives. They've placed massive ice daggers facing outward from their kingdom. This protects their kingdom from running aground when the Everglacier bumps against a large landmass. Conveniently, it also helps the [[/5. Mechanics/Bestiary/Humanoid/Merfo(LK).md\|merfolk]] capture errant ships, large aquatic animals, and other surprises that helps support the community.  
 
 ### Example Treasure
 
-When selecting treasure for the Everglacier, think about the creatures and inhabitants that live there. Items meant to help with or control bitter cold, winds, or ice are all good choices. Other items that are thematic to the creatures that live here, such as the [[5. Mechanics/Items/Mammoth Boots (TGS1).md\|mammoth boots]] or [[5. Mechanics/Items/Warmind Wand (TGS1).md\|warmind wand]] may also be appropriate choices for their relation to the mammoths in the area and tribal orcs that hunt there.
+When selecting treasure for the Everglacier, think about the creatures and inhabitants that live there. Items meant to help with or control bitter cold, winds, or ice are all good choices. Other items that are thematic to the creatures that live here, such as the [[/5. Mechanics/Items/Mammoth Boots (TGS1).md\|mammoth boots]] or [[/5. Mechanics/Items/Warmind Wand (TGS1).md\|warmind wand]] may also be appropriate choices for their relation to the mammoths in the area and tribal orcs that hunt there.
 
-Of course, any item that directly references the Everglacier is a sure fit. These include [[5. Mechanics/Items/Chillspike (TGS1).md\|chillspike]], [[5. Mechanics/Items/Crown Of Deep Winter (TGS1).md\|crown of deep winter]], [[5. Mechanics/Items/Ice Sickle (TGS1).md\|ice sickle]], and [[5. Mechanics/Items/Sheer Cold (TGS1).md\|sheer cold]]. Other related items that aren't directly referenced but are nevertheless thematic could also include the [[5. Mechanics/Items/Container Of Heat And Frost (TGS1).md\|container of heat and frost]], [[5. Mechanics/Items/Everice Box (TGS1).md\|everice box]], and [[5. Mechanics/Items/Frozen Dagger (TGS1).md\|frozen dagger]].
+Of course, any item that directly references the Everglacier is a sure fit. These include [[/5. Mechanics/Items/Chillspike (TGS1).md\|chillspike]], [[/5. Mechanics/Items/Crown Of Deep Winter (TGS1).md\|crown of deep winter]], [[/5. Mechanics/Items/Ice Sickle (TGS1).md\|ice sickle]], and [[/5. Mechanics/Items/Sheer Cold (TGS1).md\|sheer cold]]. Other related items that aren't directly referenced but are nevertheless thematic could also include the [[/5. Mechanics/Items/Container Of Heat And Frost (TGS1).md\|container of heat and frost]], [[/5. Mechanics/Items/Everice Box (TGS1).md\|everice box]], and [[/5. Mechanics/Items/Frozen Dagger (TGS1).md\|frozen dagger]].
 
 ## The Festerwood
 
@@ -238,14 +238,14 @@ The spores that drift from the Lightspore are toxic. Many creatures native to th
 
 When a creature is subjected to enough of these spores, they become a shambling husk of their former self. These husks become relentlessly driven to slowly migrate toward the Lightspore, ignoring calls to sleep or eat until they have reached the foot of the mighty fungus. The details on sporehusks are found at the end of this section.
 
-Once a sporehusk reaches the stalk of the Lightspore, it becomes frozen in place and does not move as it eventually dies. [[5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md\|Risen Sporehusk]] immediately collapse at the base.
+Once a sporehusk reaches the stalk of the Lightspore, it becomes frozen in place and does not move as it eventually dies. [[/5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md\|Risen Sporehusk]] immediately collapse at the base.
 
 > [!note] Transformative Spores
 > 
 > At the end of every 24 hours that a creature spends above ground in the Festerwood, that creature is forced to make a DC 5 Constitution saving throw. On a failure, that creature gains one Spore Counter. Rolling a 1 on this saving throw is always considered a failure, regardless of the roll's total. If a creature reaches 3 Spore Counters, that creature becomes a sporehusk using the template at the end of this section.
 ^transformative-spores
 
-If a creature dies and has at least one Spore Counter, the corpse rises after 24 hours as a [[5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md\|Risen Sporehusk]]. If a hungering creature eats a husk, it automatically gains two Spore Counters.
+If a creature dies and has at least one Spore Counter, the corpse rises after 24 hours as a [[/5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md\|Risen Sporehusk]]. If a hungering creature eats a husk, it automatically gains two Spore Counters.
 
 A creature is immune to these spores if it's immune to disease. One Spore Counter can be removed when a creature becomes the target of a lesser restoration spell or similar magic. If a creature does not gain any Spore Counters over a period of 5 days, any remaining Counters are removed.
 
@@ -328,27 +328,27 @@ The forest is filled with potential, both good and bad. Use this table for to fi
 
 | d12 + d10 | Result |
 |-----------|--------|
-| 2 | 1 [[5. Mechanics/Bestiary/Monstrosity/Purple Worm.md\|purple worm]] |
+| 2 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Purple Worm.md\|purple worm]] |
 | 3 | An odd twisting of the large festerwood tree branches seems to align and spell the word 'resistance' in celestial. Saying the word aloud causes the speaker and up to 4 allies of their choice within 60 feet to become the target of a lesser restoration spell. If a character loses a Spore Counter in this way, the next time that they are forced to roll to see if they gain a spore counter, they must roll a 1 to gain one Spore Counter. |
-| 4 | `dice:1d2\|noform\|noparens\|avg` (`d2`) [[5. Mechanics/Bestiary/Monstrosity/Behir.md\|behir]] |
-| 5 | 1 [[5. Mechanics/Bestiary/Humanoid/Werebear.md\|werebear]] in personal exile who is fighting their curse. Their alignment is neutral evil. |
-| 6 | `dice:1d2\|noform\|noparens\|avg` (`d2`) festerwood [[5. Mechanics/Bestiary/Plant/Treant.md\|treants]]. They offer amber pustules in exchange for the eradication of a nearby hive of 3d6 + 3 festerwood beetles (use statistics of [[5. Mechanics/Bestiary/Beast/Giant Wasp.md\|giant wasps]]), one fist-sized chunk for every 6 beetles slain. |
-| 7 | `dice:1d3\|noform\|noparens\|avg` (`d3`) [[5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mounds]]. Altered by the Festerwood, they have poison immunity and absorption instead of lightning. |
-| 8 | 1 [[5. Mechanics/Bestiary/Monstrosity/Spirit Naga.md\|spirit naga]] |
-| 9 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisps]]. If the party decides to follow them, roll again on the encounter table, ignoring results that are multiples of three. |
-| 10 | `dice:4d8\|noform\|noparens\|avg` (`4d8`) [[5. Mechanics/Bestiary/Beast/Swarm Of Beetles.md\|swarm of beetles]] |
-| 11 | `dice:1d12\|noform\|noparens\|avg` (`d12`) [[5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
-| 12 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[5. Mechanics/Bestiary/Elemental/Xorn.md\|xorn]]. Though well-fed by the ever-present amber pustules, they offer guidance to locations in the wood in exchange for any gems or precious metals the party has. |
-| 13 | `dice:3d10\|noform\|noparens\|avg` (`3d10`) [[5. Mechanics/Bestiary/Plant/Violet Fung(US).md\|violet fungus]] |
-| 14 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[5. Mechanics/Bestiary/Humanoid/Duergar.md\|duergar]] raiding party |
+| 4 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [[/5. Mechanics/Bestiary/Monstrosity/Behir.md\|behir]] |
+| 5 | 1 [[/5. Mechanics/Bestiary/Humanoid/Werebear.md\|werebear]] in personal exile who is fighting their curse. Their alignment is neutral evil. |
+| 6 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) festerwood [[/5. Mechanics/Bestiary/Plant/Treant.md\|treants]]. They offer amber pustules in exchange for the eradication of a nearby hive of 3d6 + 3 festerwood beetles (use statistics of [[/5. Mechanics/Bestiary/Beast/Giant Wasp.md\|giant wasps]]), one fist-sized chunk for every 6 beetles slain. |
+| 7 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [[/5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mounds]]. Altered by the Festerwood, they have poison immunity and absorption instead of lightning. |
+| 8 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Spirit Naga.md\|spirit naga]] |
+| 9 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [[/5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisps]]. If the party decides to follow them, roll again on the encounter table, ignoring results that are multiples of three. |
+| 10 | `dice:4d8\|noform\|noparens\|avg` (`4d8`) [[/5. Mechanics/Bestiary/Beast/Swarm Of Beetles.md\|swarm of beetles]] |
+| 11 | `dice:1d12\|noform\|noparens\|avg` (`1d12`) [[/5. Mechanics/Bestiary/Plant/Twig Blight.md\|twig blights]] |
+| 12 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [[/5. Mechanics/Bestiary/Elemental/Xorn.md\|xorn]]. Though well-fed by the ever-present amber pustules, they offer guidance to locations in the wood in exchange for any gems or precious metals the party has. |
+| 13 | `dice:3d10\|noform\|noparens\|avg` (`3d10`) [[/5. Mechanics/Bestiary/Plant/Violet Fung(US).md\|violet fungus]] |
+| 14 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [[/5. Mechanics/Bestiary/Humanoid/Duergar.md\|duergar]] raiding party |
 | 15 | A copse of trees containing 3d4 easy-to reach amber pustules. |
 | 16 | A strange knotting of roots seems to reveal the entrance to a cave. At the GM's discretion, this may lead to a ruin or dungeon of any size or shape. |
-| 17 | `dice:8d6\|noform\|noparens\|avg` (`8d6`) [[5. Mechanics/Bestiary/Beast/Giant Fire Beetle.md\|giant fire beetles]]. Enhanced by their diet of amber pustules, their bite attacks deal an extra 1d4 fire damage. |
-| 18 | 1 [[5. Mechanics/Bestiary/Monstrosity/Guardian Naga.md\|guardian naga]]. It is protecting the ancient burial site of a legendary hero on behalf of the deity they championed. |
-| 19 | `dice:1d4\|noform\|noparens\|avg` (`d4`) small orange magical mushrooms can be seen at the bottom of a recently opened sinkhole. A creature that eats a mushroom gains the benefits of the detect poison and disease spell for 8 hours. Once picked, a mushroom loses its magic after 24 hours. Mushrooms regrow after 4 days, but if all visible mushrooms are picked, no more will grow in this area. |
-| 20 | `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[5. Mechanics/Bestiary/Ooze/Black Pudding.md\|black puddings]] |
-| 21 | 1 [[5. Mechanics/Bestiary/Giant/Stone Giant.md\|stone giant]]. A craftsman on a journey to master carving festerwood, he trades information about the area for any amber pustules-free festerwood that the party have with them. |
-| 22 | `dice:4d4\|noform\|noparens\|avg` (`4d4`) [[5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblins]] riding [[5. Mechanics/Bestiary/Monstrosity/Worg.md\|worgs]]. They roam the wood searching for food and supplies for their tribe. |
+| 17 | `dice:8d6\|noform\|noparens\|avg` (`8d6`) [[/5. Mechanics/Bestiary/Beast/Giant Fire Beetle.md\|giant fire beetles]]. Enhanced by their diet of amber pustules, their bite attacks deal an extra 1d4 fire damage. |
+| 18 | 1 [[/5. Mechanics/Bestiary/Monstrosity/Guardian Naga.md\|guardian naga]]. It is protecting the ancient burial site of a legendary hero on behalf of the deity they championed. |
+| 19 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) small orange magical mushrooms can be seen at the bottom of a recently opened sinkhole. A creature that eats a mushroom gains the benefits of the detect poison and disease spell for 8 hours. Once picked, a mushroom loses its magic after 24 hours. Mushrooms regrow after 4 days, but if all visible mushrooms are picked, no more will grow in this area. |
+| 20 | `dice:2d8\|noform\|noparens\|avg` (`2d8`) [[/5. Mechanics/Bestiary/Ooze/Black Pudding.md\|black puddings]] |
+| 21 | 1 [[/5. Mechanics/Bestiary/Giant/Stone Giant.md\|stone giant]]. A craftsman on a journey to master carving festerwood, he trades information about the area for any amber pustules-free festerwood that the party have with them. |
+| 22 | `dice:4d4\|noform\|noparens\|avg` (`4d4`) [[/5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblins]] riding [[/5. Mechanics/Bestiary/Monstrosity/Worg.md\|worgs]]. They roam the wood searching for food and supplies for their tribe. |
 ^result
 
 ### Ruins & Dungeons
@@ -366,11 +366,11 @@ The Festerwood has the potential for magical secrets and dungeons to exist withi
 | dice: d6 | Example Dungeon |
 |----------|-----------------|
 | 1 | On top of the Lightspore, a colony of kobolds worship their black dragon overlord. They have carved out a network of caves and tunnels within the Lightspore's cap, and rumors tell of a dark blessing being bestowed upon them. |
-| 2 | Somewhere near the edge of the Lightspore, a cult of necromancers has learned how to control the [[5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md\|Risen Sporehusks]] along with their more typical undead servants. Their arcane knowledge threatens to destroy the natural order by raising and controlling the hundreds of Sporehusks below the Lightspore. |
-| 3 | The goblinoids have continued to thrive in the Festerwood's hazardous environment: a tribe of [[5. Mechanics/Bestiary/Humanoid/Bugbear.md\|bugbears]] and their [[5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblin]] peasantry ravage the forest on their trained [[5. Mechanics/Bestiary/Beast/Wolf.md\|wolf]] mounts, gathering supplies for their nomadic existence. They stand as a looming threat against all travelers and settlers of the wood due to their large numbers and extensive use of amber pustules and fungal toxins in their arsenal. |
-| 4 | While there was once a community of [[5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md\|deep gnomes]] under the Lightspore in decades past, an invasion from slaving [[5. Mechanics/Bestiary/Humanoid/Duergar.md\|Duergar]] has held sway in the Festerwood for years now. With their utilitarian crafting skills and slave labor, they have amassed a stronghold full of festerwood defenses, weaponry, and magics to fuel their expansion. |
-| 5 | Hidden in the depths of the Festerwood, a circle of corrupt [[5. Mechanics/Bestiary/Humanoid/Druid.md\|druids]] seeks to harness the power of the Lightspore. They've come well prepared with large numbers, festerwood armor, and magical weaponry to accompany their frenzied crusade. |
-| 6 | Long exiled from their tribe on the surface and cursed with fleshy deformities, a clan of [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] have eked out a miserable existence in the Festerwood's network of root-supported caves. Recent threats have pushed them to new and dangerous magics, activating a vile sort of symbiosis with the local insects, transforming the starving [[5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] into moving sentient hive horrors with a craving for flesh. |
+| 2 | Somewhere near the edge of the Lightspore, a cult of necromancers has learned how to control the [[/5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md\|Risen Sporehusks]] along with their more typical undead servants. Their arcane knowledge threatens to destroy the natural order by raising and controlling the hundreds of Sporehusks below the Lightspore. |
+| 3 | The goblinoids have continued to thrive in the Festerwood's hazardous environment: a tribe of [[/5. Mechanics/Bestiary/Humanoid/Bugbear.md\|bugbears]] and their [[/5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblin]] peasantry ravage the forest on their trained [[/5. Mechanics/Bestiary/Beast/Wolf.md\|wolf]] mounts, gathering supplies for their nomadic existence. They stand as a looming threat against all travelers and settlers of the wood due to their large numbers and extensive use of amber pustules and fungal toxins in their arsenal. |
+| 4 | While there was once a community of [[/5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md\|deep gnomes]] under the Lightspore in decades past, an invasion from slaving [[/5. Mechanics/Bestiary/Humanoid/Duergar.md\|Duergar]] has held sway in the Festerwood for years now. With their utilitarian crafting skills and slave labor, they have amassed a stronghold full of festerwood defenses, weaponry, and magics to fuel their expansion. |
+| 5 | Hidden in the depths of the Festerwood, a circle of corrupt [[/5. Mechanics/Bestiary/Humanoid/Druid.md\|druids]] seeks to harness the power of the Lightspore. They've come well prepared with large numbers, festerwood armor, and magical weaponry to accompany their frenzied crusade. |
+| 6 | Long exiled from their tribe on the surface and cursed with fleshy deformities, a clan of [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] have eked out a miserable existence in the Festerwood's network of root-supported caves. Recent threats have pushed them to new and dangerous magics, activating a vile sort of symbiosis with the local insects, transforming the starving [[/5. Mechanics/Bestiary/Humanoid/Orc.md\|orcs]] into moving sentient hive horrors with a craving for flesh. |
 ^example-dungeon
 
 ### Settlements
@@ -383,23 +383,23 @@ These settlements would likely prioritize defense against invasive swarms over h
 
 #### Suggested Inhabitants
 
-Classic underground-dwelling creatures may make these settlements their home, with dwarves and [[5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md\|deep gnomes]] being the friendliest options. Other unsavory creatures such as [[5. Mechanics/Bestiary/Humanoid/Drow.md\|drow]], [[5. Mechanics/Bestiary/Humanoid/Duergar.md\|duergar]], [[5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblins]], or [[5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] could create their own settlements here as well.
+Classic underground-dwelling creatures may make these settlements their home, with dwarves and [[/5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md\|deep gnomes]] being the friendliest options. Other unsavory creatures such as [[/5. Mechanics/Bestiary/Humanoid/Drow.md\|drow]], [[/5. Mechanics/Bestiary/Humanoid/Duergar.md\|duergar]], [[/5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblins]], or [[/5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] could create their own settlements here as well.
 
 #### Example Settlements
 
 Consider using these sample ideas as inspiration when building your own settlements within the Festerwood:
 
 - Blocks of worked stone, dragged miles from the forest's stone walls hundreds of years ago, make up a muted community of dwarves beneath the Lightspore who excel at working with the unnaturally dense festerwood.  
-- A tangle of hollowed branches, trunks, and woven plant fibers make a comfortable nest among the trees, giving a settlement of [[5. Mechanics/Bestiary/Humanoid/Drow.md\|drow]] hunters a dim and safe place to reside while satisfying their ancient fey affinity for trees and plant life.  
-- Deep within the thickets and roots of the Dim Marsh, [[5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] gather resources to offer unto the great black dragon that they believe is living atop the Lightspore.  
-- The large shelf fungi of the Eastern Quarter of the Festerwood is a protective barrier for the [[5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md\|deep gnomes]] that call it home. Small, tangled webs of bridges weave their way between the mushrooms to form an elevated highway of foot traffic among the sturdy trees.  
+- A tangle of hollowed branches, trunks, and woven plant fibers make a comfortable nest among the trees, giving a settlement of [[/5. Mechanics/Bestiary/Humanoid/Drow.md\|drow]] hunters a dim and safe place to reside while satisfying their ancient fey affinity for trees and plant life.  
+- Deep within the thickets and roots of the Dim Marsh, [[/5. Mechanics/Bestiary/Humanoid/Kobold.md\|kobolds]] gather resources to offer unto the great black dragon that they believe is living atop the Lightspore.  
+- The large shelf fungi of the Eastern Quarter of the Festerwood is a protective barrier for the [[/5. Mechanics/Bestiary/Humanoid/Deep Gnome Svirfneblin.md\|deep gnomes]] that call it home. Small, tangled webs of bridges weave their way between the mushrooms to form an elevated highway of foot traffic among the sturdy trees.  
 
 > [!gallery]
 > ![TGS1: Festerwood Battlemap](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/tgs1/Book/artwork-the-festerwood-map.webp#gallery)
 
 ### Example Treasure
 
-When determining treasure for the Festerwood, consider the denizens that live there. Items that are suited for creatures who live in darkness or deal with swamps or poison, such as the [[5. Mechanics/Items/Plaguebane Mask (TGS1).md\|plaguebane mask]], [[5. Mechanics/Items/Quagmire Maul (TGS1).md\|quagmire maul]], [[5. Mechanics/Items/Retaliating Bloom Shield (TGS1).md\|retaliating bloom shield]], [[5. Mechanics/Items/Shadowshawl (TGS1).md\|shadowshawl]], or [[5. Mechanics/Items/Snuff (TGS1).md\|snuff]] may all be good fits. Other more woodland-themed items, such as the [[5. Mechanics/Items/Druidic Throwing Club (TGS1).md\|druidic throwing club]], [[5. Mechanics/Items/Timber (TGS1).md\|timber]], or [[5. Mechanics/Items/Trident Of The Dryad (TGS1).md\|trident of the dryad]] may also be good fits depending on the nature of any woodsmen or druids living within the wood. Of course, any item with "Festerwood" in its name is a perfect fit for this environment.
+When determining treasure for the Festerwood, consider the denizens that live there. Items that are suited for creatures who live in darkness or deal with swamps or poison, such as the [[/5. Mechanics/Items/Plaguebane Mask (TGS1).md\|plaguebane mask]], [[/5. Mechanics/Items/Quagmire Maul (TGS1).md\|quagmire maul]], [[/5. Mechanics/Items/Retaliating Bloom Shield (TGS1).md\|retaliating bloom shield]], [[/5. Mechanics/Items/Shadowshawl (TGS1).md\|shadowshawl]], or [[/5. Mechanics/Items/Snuff (TGS1).md\|snuff]] may all be good fits. Other more woodland-themed items, such as the [[/5. Mechanics/Items/Druidic Throwing Club (TGS1).md\|druidic throwing club]], [[/5. Mechanics/Items/Timber (TGS1).md\|timber]], or [[/5. Mechanics/Items/Trident Of The Dryad (TGS1).md\|trident of the dryad]] may also be good fits depending on the nature of any woodsmen or druids living within the wood. Of course, any item with "Festerwood" in its name is a perfect fit for this environment.
 
 ## Welcome to Hearth
 
@@ -442,7 +442,7 @@ Although Hearth has no true government, the Couatl Heralds represent what most H
 
 ##### 4. Huitzilli Plaza
 
-Teocalli isn't just for temples and government buildings. Huitzilli Plaza stands at the southeastern end of the ward. There, Hearthans gather for celebrations and other recreational activities. It's also where one can find The Jolly Toad, the city's largest tavern. The Toad is owned by Chikkoka, a [[5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] bartender who lived in Hearth before its liberation. The Toad offers a comfortable inn stay and meals.
+Teocalli isn't just for temples and government buildings. Huitzilli Plaza stands at the southeastern end of the ward. There, Hearthans gather for celebrations and other recreational activities. It's also where one can find The Jolly Toad, the city's largest tavern. The Toad is owned by Chikkoka, a [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] bartender who lived in Hearth before its liberation. The Toad offers a comfortable inn stay and meals.
 
 ##### 5. Hall of Hearlds
 
@@ -466,11 +466,11 @@ When Hearth's doors reopened to the world, the first batch of opportunists who f
 
 ##### 8. The Oracle Eqia
 
-The Oracle Eqia (lawful neutral female human [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) was once a diviner who spent her youth adventuring. After she died during a combat with [[5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] and was revived by her fellow party members, she returned with a vision of a hill upon which stood three palms. A voice whispered "Hearth." She quit her party and rushed to Hearth to find the three palm hill. So far, she has not discovered its meaning, but continues her research.
+The Oracle Eqia (lawful neutral female human [[/5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) was once a diviner who spent her youth adventuring. After she died during a combat with [[/5. Mechanics/Bestiary/Monstrosity/Manticore.md\|manticores]] and was revived by her fellow party members, she returned with a vision of a hill upon which stood three palms. A voice whispered "Hearth." She quit her party and rushed to Hearth to find the three palm hill. So far, she has not discovered its meaning, but continues her research.
 
 ##### 9. Devona the Mace
 
-Devona (lawful evil female human [[5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|gladiator]]) was a mercenary and [[5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandit]] who was among the first batch of Rushers entering Hearth. Early on, she carved out a niche for herself as a protector and bodyguard. She married her first client, Jacco Nuus, who died shortly after their wedding. Jacco left Devona all his worldly possessions, including his land stakes. Six months later, she married another client, Wyndom Taz. Then Wyndom died, and once again Devona was left all her late husband's possessions and land stakes. In fact, in the five years that Devona has lived in Hearth, she's married six times, and five of those times her husband died. Not-so-coincidently, she is the wealthiest land owner in Hearth.
+Devona (lawful evil female human [[/5. Mechanics/Bestiary/Humanoid/Gladia(TOR).md\|gladiator]]) was a mercenary and [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandit]] who was among the first batch of Rushers entering Hearth. Early on, she carved out a niche for herself as a protector and bodyguard. She married her first client, Jacco Nuus, who died shortly after their wedding. Jacco left Devona all his worldly possessions, including his land stakes. Six months later, she married another client, Wyndom Taz. Then Wyndom died, and once again Devona was left all her late husband's possessions and land stakes. In fact, in the five years that Devona has lived in Hearth, she's married six times, and five of those times her husband died. Not-so-coincidently, she is the wealthiest land owner in Hearth.
 
 #### Ruins of Hearth
 
@@ -542,11 +542,11 @@ You can introduce as many or as few of these side quests as you like. Most of th
 
 #### 1. Find the Grimoire of Massacres
 
-The Keronia Society is looking for an important book believed to be hidden somewhere in the city's northern ruins. They will pay the characters 100 gp if they can retrieve the book. If the characters accept, they must spend a day searching through the ruins (roll for encounters as normal). At the end of the day, the characters must make a group DC 20 Intelligence (Investigation) check. On a success, they locate the book in a rundown temple. The obscure temple is hidden behind dense vines and stone rubble, and is decorated with ornate depictions of [[5. Mechanics/Bestiary/Celestial/Couatl.md\|couatl]] inside. The book is guarded by 1d4 + 2 [[5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|giant constrictor snakes]].
+The Keronia Society is looking for an important book believed to be hidden somewhere in the city's northern ruins. They will pay the characters 100 gp if they can retrieve the book. If the characters accept, they must spend a day searching through the ruins (roll for encounters as normal). At the end of the day, the characters must make a group DC 20 Intelligence (Investigation) check. On a success, they locate the book in a rundown temple. The obscure temple is hidden behind dense vines and stone rubble, and is decorated with ornate depictions of [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatl]] inside. The book is guarded by 1d4 + 2 [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|giant constrictor snakes]].
 
 #### 2. Get the Ocelot's Paw Back
 
-A local gang of thugs called the Bludgeoners cut off the paw of an Ocelot statue near the northernmost gate. Many New Hearthans believe that the absence of the paw will bring bad luck to the city. The Seven Gates, stretched too thin to deal with the issue, task the characters to retrieve the paw, offering 25 gp for its recovery. The Bludgeoners operate in a rundown noble's villa at the north end of the city. The gang consists of eight [[5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] led by a [[5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]].
+A local gang of thugs called the Bludgeoners cut off the paw of an Ocelot statue near the northernmost gate. Many New Hearthans believe that the absence of the paw will bring bad luck to the city. The Seven Gates, stretched too thin to deal with the issue, task the characters to retrieve the paw, offering 25 gp for its recovery. The Bludgeoners operate in a rundown noble's villa at the north end of the city. The gang consists of eight [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] led by a [[/5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]].
 
 #### 3. Learn More About Beltramiso Santin
 
@@ -554,7 +554,7 @@ Beltramo Santin's son, Beltramiso, is often identified as the weakest link in th
 
 #### 4. Save Preska
 
-Preska, the daughter of a Rusher noble, was captured by a [[5. Mechanics/Bestiary/Monstrosity/Greater Winged Wretch (TGS1).md\|greater winged wretch]] (see page 195). The bat-like creature keeps the girl in its lair below the city, in the old sewers. Surprisingly, the [[5. Mechanics/Bestiary/Monstrosity/Greater Winged Wretch (TGS1).md\|greater winged wretch]] hasn't hurt the girl, but it refuses to let her leave its lair and attacks anyone that comes near her. The noble offers the characters whatever they ask for if they can return Preska to him unharmed.
+Preska, the daughter of a Rusher noble, was captured by a [[/5. Mechanics/Bestiary/Monstrosity/Greater Winged Wretch (TGS1).md\|greater winged wretch]] (see page 195). The bat-like creature keeps the girl in its lair below the city, in the old sewers. Surprisingly, the [[/5. Mechanics/Bestiary/Monstrosity/Greater Winged Wretch (TGS1).md\|greater winged wretch]] hasn't hurt the girl, but it refuses to let her leave its lair and attacks anyone that comes near her. The noble offers the characters whatever they ask for if they can return Preska to him unharmed.
 
 #### 5. Find Baf Chedrov
 
@@ -562,7 +562,7 @@ Baf, a self-proclaimed adventurer, disappeared into the mountains near Hearth on
 
 #### 6. Stop the Swordbeak
 
-A large, savage creature called a [[5. Mechanics/Bestiary/Beast/Swordbeak (TGS1).md\|swordbeak]] (see page 194) is terrorizing local ships, making the receipt of imports difficult. House Santin asks the characters to climb the cliffs overlooking the sea and remove the swordbeak from the area. If successful, House Santin offers the characters up to 100 gp or a favor which they can utilize in the future. The nature of that favor is up to you
+A large, savage creature called a [[/5. Mechanics/Bestiary/Beast/Swordbeak (TGS1).md\|swordbeak]] (see page 194) is terrorizing local ships, making the receipt of imports difficult. House Santin asks the characters to climb the cliffs overlooking the sea and remove the swordbeak from the area. If successful, House Santin offers the characters up to 100 gp or a favor which they can utilize in the future. The nature of that favor is up to you
 
 #### 7. The Flash
 
@@ -578,7 +578,7 @@ The Keronia Society asks the characters to locate a series of caverns in the mou
 
 #### 10. Test your Might
 
-The characters get into a scuffle with a group of eight [[5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] at a local tavern. Their leader, a [[5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]] named Davos, offers to settle the dispute with an arm wrestling contest: the loser has to leave the bar and apologize. If the party accepts, the characters must nominate their challenger to face Davos. The challenger and Davos make a series of contested Strength checks. At the end of each contested Strength check, the winner wins 1 point and the loser loses 1 point. The first person to reach a point total of 3 wins (the final score should be +3 to –3). Alternatively, the person with the highest number of positive points at the end of 10 rounds also wins; if both arm wrestlers have 0 points at the end of 10 rounds, it's a tie.
+The characters get into a scuffle with a group of eight [[/5. Mechanics/Bestiary/Humanoid/Bandit.md\|bandits]] at a local tavern. Their leader, a [[/5. Mechanics/Bestiary/Humanoid/Bandit Captain.md\|bandit captain]] named Davos, offers to settle the dispute with an arm wrestling contest: the loser has to leave the bar and apologize. If the party accepts, the characters must nominate their challenger to face Davos. The challenger and Davos make a series of contested Strength checks. At the end of each contested Strength check, the winner wins 1 point and the loser loses 1 point. The first person to reach a point total of 3 wins (the final score should be +3 to –3). Alternatively, the person with the highest number of positive points at the end of 10 rounds also wins; if both arm wrestlers have 0 points at the end of 10 rounds, it's a tie.
 
 ### City Denizens
 
@@ -586,13 +586,13 @@ Hearth is home to many important citizens, the majority of whom immigrated to th
 
 #### Acalan Goldfeather
 
-Acalan Goldfeather (lawful good male human [[5. Mechanics/Bestiary/Humanoid/Veteran.md\|veteran]]) is a descendant of one of the original Couatl Heralds, Brother Riane. He now acts as the leader of the Couatl Heralds faction in New Hearth and is seen by many as the city's de facto leader, even though he refused the title.
+Acalan Goldfeather (lawful good male human [[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|veteran]]) is a descendant of one of the original Couatl Heralds, Brother Riane. He now acts as the leader of the Couatl Heralds faction in New Hearth and is seen by many as the city's de facto leader, even though he refused the title.
 
 Goldfeather spends most of his days speaking with the citizenry and solving issues that the city faces.
 
 #### Amoxtli & Ehecatl
 
-The centuries' old [[5. Mechanics/Bestiary/Celestial/Couatl.md\|couatl]] guardians Amoxtli and Ehecatl survived Hearth's fall and now oversee the return of the city. The pair still live in the Teocalli Couatl where they helped the Last Heralds battle the evil demigod Black Tezcatlipoca. Rarely seen by New Hearthans, the pair sometimes emerge to offer guidance to Acalan and the other Heralds.
+The centuries' old [[/5. Mechanics/Bestiary/Celestial/Couatl.md\|couatl]] guardians Amoxtli and Ehecatl survived Hearth's fall and now oversee the return of the city. The pair still live in the Teocalli Couatl where they helped the Last Heralds battle the evil demigod Black Tezcatlipoca. Rarely seen by New Hearthans, the pair sometimes emerge to offer guidance to Acalan and the other Heralds.
 
 #### Beltramiso Santin
 
@@ -606,25 +606,25 @@ The devil has kept his schemes at a minimum, preferring patience and growth over
 
 #### Grandmaster Zok Tuudro
 
-Zok Tuudro (neutral male half-elf [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) is the leader of the Keronia Society. A lifelong interest in the lost city attracted Zok and his followers to Hearth. Now, Zok spends his days hiring adventuring parties and expeditions to bring him maps, artifacts, and useful information regarding the city and its environs.
+Zok Tuudro (neutral male half-elf [[/5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]]) is the leader of the Keronia Society. A lifelong interest in the lost city attracted Zok and his followers to Hearth. Now, Zok spends his days hiring adventuring parties and expeditions to bring him maps, artifacts, and useful information regarding the city and its environs.
 
-Zok's days are filled with meetings and presentations all directed by his assistant Guto, a native [[5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] who works as Keronia's receptionist. As suspected by some Hearthans, Zok doesn't sleep. Instead, he's trained to enter a trance like elves do, which he can maintain even while he's working.
+Zok's days are filled with meetings and presentations all directed by his assistant Guto, a native [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] who works as Keronia's receptionist. As suspected by some Hearthans, Zok doesn't sleep. Instead, he's trained to enter a trance like elves do, which he can maintain even while he's working.
 
 #### Jadecry
 
-Hearth is home to a myriad of adventuring groups, but none are as well known as the troupe called Jadecry. Led by the emerald-skinned Ana Faust (chaotic good female tiefling [[5. Mechanics/Bestiary/Humanoid/Knight.md\|knight]]), Jadecry keeps busy throughout the year, working for any faction that will pay them. Jadecry's current line-up includes the half-orc [[5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserker]] Bluko, the halfling [[5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] Fafariaf, and a [[5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] named Cracked Fang.
+Hearth is home to a myriad of adventuring groups, but none are as well known as the troupe called Jadecry. Led by the emerald-skinned Ana Faust (chaotic good female tiefling [[/5. Mechanics/Bestiary/Humanoid/Knight.md\|knight]]), Jadecry keeps busy throughout the year, working for any faction that will pay them. Jadecry's current line-up includes the half-orc [[/5. Mechanics/Bestiary/Humanoid/Berserker.md\|berserker]] Bluko, the halfling [[/5. Mechanics/Bestiary/Humanoid/Mage.md\|mage]] Fafariaf, and a [[/5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md\|lizardfolk]] named Cracked Fang.
 
 The four share a guild house in Rusher Ward dubbed The Green House.
 
 #### Krotos Ironshield
 
-Sometimes referred to as "The Jaguar," Krotos Ironshield (lawful neutral male dwarf [[5. Mechanics/Bestiary/Humanoid/Veteran.md\|veteran]]) is the leader of the Seven Gates mercenary collective. Krotos and his soldiers defend Hearth from dangers internal and external. Since many of The Seven Gates mercenaries come from questionable backgrounds, they are known to be harsh in their deliverance of law and order. Many New Hearthans have gone as far as to protest the activities of The Seven Gates, pleas that go unheard by their callous leader. Still, Ironshield is one of the few people in Hearth who is able to wrangle the mercenaries to work as a cohesive unit. In the past, this feature has saved New Hearth from a bevy of threats.
+Sometimes referred to as "The Jaguar," Krotos Ironshield (lawful neutral male dwarf [[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|veteran]]) is the leader of the Seven Gates mercenary collective. Krotos and his soldiers defend Hearth from dangers internal and external. Since many of The Seven Gates mercenaries come from questionable backgrounds, they are known to be harsh in their deliverance of law and order. Many New Hearthans have gone as far as to protest the activities of The Seven Gates, pleas that go unheard by their callous leader. Still, Ironshield is one of the few people in Hearth who is able to wrangle the mercenaries to work as a cohesive unit. In the past, this feature has saved New Hearth from a bevy of threats.
 
 Krotos is in a close relationship with his lieutenant, Makkan. The two share a home within the westernmost tower of the Ocelot Gate.
 
 #### Yolanda Kazul
 
-The Seven Gates is less of a unified faction and more of a confederacy of smaller military groups. Each one maintains their iron grip on one of Hearth's gates and the guards defending it. Yolanda (neutral evil female human [[5. Mechanics/Bestiary/Humanoid/Thug.md\|thug]]) is the leader of aptly named Bloody Coins, the most unruly and mean-spirited gang of mercenaries. Yolanda and the Coins barely follow Ironshield's orders. In the last few months, Yolanda has started a campaign to undermine Krotos, gathering the interest of The Seven Gates' other five leaders.
+The Seven Gates is less of a unified faction and more of a confederacy of smaller military groups. Each one maintains their iron grip on one of Hearth's gates and the guards defending it. Yolanda (neutral evil female human [[/5. Mechanics/Bestiary/Humanoid/Thug.md\|thug]]) is the leader of aptly named Bloody Coins, the most unruly and mean-spirited gang of mercenaries. Yolanda and the Coins barely follow Ironshield's orders. In the last few months, Yolanda has started a campaign to undermine Krotos, gathering the interest of The Seven Gates' other five leaders.
 
 Yolanda has two sons, Yar and Peef, both of whom are members of Bloody Coins. Their father was also a member, but died during a skirmish a few years back.
 
@@ -663,26 +663,26 @@ More so than any other faction in Hearth, the scholarly Keronia Society keeps ad
 The jungles of Elsath surrounding Hearth have been untouched for centuries. As a result, a unique selection of dangerous wildlife calls this place their home, and have become a constant threat to the New Hearthans and adventurers that explore the wilderness in search of its lost riches.
 
 > [!embed-monster]- Invisiboar
-> ![[5. Mechanics/Bestiary/Beast/Invisiboar (TGS1).md#^statblock\|Invisiboar]]
+> ![[/5. Mechanics/Bestiary/Beast/Invisiboar (TGS1).md#^statblock\|Invisiboar]]
 
 > [!embed-monster]- Swordbeak
-> ![[5. Mechanics/Bestiary/Beast/Swordbeak (TGS1).md#^statblock\|Swordbeak]]
+> ![[/5. Mechanics/Bestiary/Beast/Swordbeak (TGS1).md#^statblock\|Swordbeak]]
 
 > [!embed-monster]- Winged Wretch
-> ![[5. Mechanics/Bestiary/Monstrosity/Winged Wretch (TGS1).md#^statblock\|Winged Wretch]]
+> ![[/5. Mechanics/Bestiary/Monstrosity/Winged Wretch (TGS1).md#^statblock\|Winged Wretch]]
 
 > [!embed-monster]- Greater Winged Wretch
-> ![[5. Mechanics/Bestiary/Monstrosity/Greater Winged Wretch (TGS1).md#^statblock\|Greater Winged Wretch]]
+> ![[/5. Mechanics/Bestiary/Monstrosity/Greater Winged Wretch (TGS1).md#^statblock\|Greater Winged Wretch]]
 
 ### Example Treasure
 
-The most iconic treasures you can find in Hearth are ones originally bestowed on ancient Couatl Heralds. These items are aptly named, such as the [[5. Mechanics/Items/Couatl Heralds Fang (TGS1).md\|couatl herald's fang]], the [[5. Mechanics/Items/Couatl Heralds Mantle (TGS1).md\|couatl herald's mantle]], or the [[5. Mechanics/Items/Couatl Heralds Radiance (TGS1).md\|couatl herald's radiance]].
+The most iconic treasures you can find in Hearth are ones originally bestowed on ancient Couatl Heralds. These items are aptly named, such as the [[/5. Mechanics/Items/Couatl Heralds Fang (TGS1).md\|couatl herald's fang]], the [[/5. Mechanics/Items/Couatl Heralds Mantle (TGS1).md\|couatl herald's mantle]], or the [[/5. Mechanics/Items/Couatl Heralds Radiance (TGS1).md\|couatl herald's radiance]].
 
-The jungles of Elsath and the myriad of tunnels below Hearth can also be the home of other magic items. A tarnished sword could be found in the mysterious den of a jealous [[5. Mechanics/Bestiary/Beast/Swordbeak (TGS1).md\|swordbeak]], or a dusty trinket discovered on the skeletal remains of a Rusher or long-dead ancient Hearthan. Any item that fits a jungle or classic adventure setting, such as the [[5. Mechanics/Items/Dryadleaf (TGS1).md\|dryadleaf]], [[5. Mechanics/Items/Locksmiths Bane (TGS1).md\|locksmith's bane]], [[5. Mechanics/Items/Quagmire Maul (TGS1).md\|quagmire maul]], [[5. Mechanics/Items/Spire Seed (TGS1).md\|spire seed]], [[5. Mechanics/Items/Staff Of The Reverent Warrior (TGS1).md\|staff of the reverent warrior]], [[5. Mechanics/Items/Tethervine Quiver (TGS1).md\|tethervine quiver]], [[5. Mechanics/Items/Torchbearers Reach (TGS1).md\|torchbearer's reach]], or [[5. Mechanics/Items/Wisplight Lantern (TGS1).md\|wisplight lantern]], would be a great option to include in your party's various adventures in Hearth.
+The jungles of Elsath and the myriad of tunnels below Hearth can also be the home of other magic items. A tarnished sword could be found in the mysterious den of a jealous [[/5. Mechanics/Bestiary/Beast/Swordbeak (TGS1).md\|swordbeak]], or a dusty trinket discovered on the skeletal remains of a Rusher or long-dead ancient Hearthan. Any item that fits a jungle or classic adventure setting, such as the [[/5. Mechanics/Items/Dryadleaf (TGS1).md\|dryadleaf]], [[/5. Mechanics/Items/Locksmiths Bane (TGS1).md\|locksmith's bane]], [[/5. Mechanics/Items/Quagmire Maul (TGS1).md\|quagmire maul]], [[/5. Mechanics/Items/Spire Seed (TGS1).md\|spire seed]], [[/5. Mechanics/Items/Staff Of The Reverent Warrior (TGS1).md\|staff of the reverent warrior]], [[/5. Mechanics/Items/Tethervine Quiver (TGS1).md\|tethervine quiver]], [[/5. Mechanics/Items/Torchbearers Reach (TGS1).md\|torchbearer's reach]], or [[/5. Mechanics/Items/Wisplight Lantern (TGS1).md\|wisplight lantern]], would be a great option to include in your party's various adventures in Hearth.
 
 ## The Fight Against Dendallen
 
-[[5. Mechanics/Bestiary/Humanoid/Nicrone Dendallen (TGS1).md\|Nicrone Dendallen]] is a human wizard whose passion for self-improvement has become an obsession, focused on removing the inherent limits of his own mortality. His focus on gaining power through sacrifice at any cost attracts dedicated sycophants. Their beliefs make them eager to recklessly endanger their lives for the chance to earn powerful rewards from his hand.
+[[/5. Mechanics/Bestiary/Humanoid/Nicrone Dendallen (TGS1).md\|Nicrone Dendallen]] is a human wizard whose passion for self-improvement has become an obsession, focused on removing the inherent limits of his own mortality. His focus on gaining power through sacrifice at any cost attracts dedicated sycophants. Their beliefs make them eager to recklessly endanger their lives for the chance to earn powerful rewards from his hand.
 
 Dedicated and tenacious followers of Dendallen are given tokens of his appreciation: terrifying items made by Dendallen himself, each enchanted with a grotesque balance of strength and consequence.
 
@@ -706,7 +706,7 @@ To conquer all obstacles in your path is to ensure success.
 
 ### Followers of Dendallen
 
-Use the [[5. Mechanics/Bestiary/Humanoid/Cultist.md\|cultist]] and [[5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md\|cult fanatic]] statistics for followers of Dendallen. Dendallen's more powerful followers can use other humanoid stat blocks that fit your setting and party level. These leaders are groomed to be more formidable than those deemed undeserving, unproven, or mediocre.
+Use the [[/5. Mechanics/Bestiary/Humanoid/Cultist.md\|cultist]] and [[/5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md\|cult fanatic]] statistics for followers of Dendallen. Dendallen's more powerful followers can use other humanoid stat blocks that fit your setting and party level. These leaders are groomed to be more formidable than those deemed undeserving, unproven, or mediocre.
 
 Typically, these trusted followers of Dendallen will have overt visual ailments or symptoms of disease, but will be notably more powerful because of it. Elite followers such as this will occasionally wield a Remnant of Dendallen, bestowed unto them after they complete a dangerous or otherwise notable feat of faith, loyalty and self-sacrifice. Upon defeating such a creature, your party can take the Remnant for themselves. The particular Remnant each follower wields is up to you, but should be scaled relative to the creature's challenge rating.
 
@@ -715,13 +715,13 @@ Typically, these trusted followers of Dendallen will have overt visual ailments 
 Killing Nicrone allows for his spirit to return at a later time (see "Attuning to the Remnants" and "Dendallen's Return" later in this document). His final mortal words should capture his beliefs and foreshadow his return, such as "Giving up your weaknesses grants power beyond compare!"
 
 > [!embed-monster]- Nicrone Dendallen
-> ![[5. Mechanics/Bestiary/Humanoid/Nicrone Dendallen (TGS1).md#^statblock\|Nicrone Dendallen]]
+> ![[/5. Mechanics/Bestiary/Humanoid/Nicrone Dendallen (TGS1).md#^statblock\|Nicrone Dendallen]]
 
 ### Remnants of Dendallen
 
 Items created by Dendallen are called Remnants of Dendallen and double as vessels to store a portion of his spirit. At the time of his death, these Remnants can be scattered around the planes of existence or collected by his remaining devout followers: whatever makes the most sense for your campaign. Any item that bears Dendallen's name in its title is considered to be a Remnant.
 
-Remnants are laced with necromancy magic that forces creatures to sacrifice a part of themselves in order to use them. The sacrifices, while potentially reversible, are more than just skin-or-bone-deep. As curses take hold, they begin to gradually provide strength and vitality to the lingering [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|spirit of Dendallen]] trapped inside them.
+Remnants are laced with necromancy magic that forces creatures to sacrifice a part of themselves in order to use them. The sacrifices, while potentially reversible, are more than just skin-or-bone-deep. As curses take hold, they begin to gradually provide strength and vitality to the lingering [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|spirit of Dendallen]] trapped inside them.
 
 If a creature attuned to at least one Remnant is in the presence of another Remnant that isn't attuned to by someone else, that creature must succeed on a DC 20 Wisdom saving throw or become obsessed with it and do anything within its power to take and attune to that Remnant before another creature is able to. The obsession lasts until the creature is unable to see or touch the Remnant for at least 1 hour or until it's targeted by either a greater restoration or remove curse spell.
 
@@ -729,38 +729,38 @@ If a creature attuned to at least one Remnant is in the presence of another Remn
 
 Attuning to three Remnants of Dendallen is a gift as well as a curse. While a creature is attuned to three of these items, it can freely attune to other Remnants of Dendallen. When it does, its attunement to another Remnant ends, as well as its curse.
 
-If Dendallen is dead, being attuned to these items activates a secondary effect once you reach level 15 (or 14 if there are 5 players in your group, etc.). When this happens, the attuned creature's cursed body becomes strong enough to handle the intensity of channeling the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]]. The event is involuntary, and happens either at the end of a long rest or at your discretion. See the stat block for the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]] on page 200.
+If Dendallen is dead, being attuned to these items activates a secondary effect once you reach level 15 (or 14 if there are 5 players in your group, etc.). When this happens, the attuned creature's cursed body becomes strong enough to handle the intensity of channeling the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]]. The event is involuntary, and happens either at the end of a long rest or at your discretion. See the stat block for the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]] on page 200.
 
 #### Dendallen's Return
 
-When the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]] is channeled by a level 15 creature attuned to 3 of his Remnants, they become momentarily frozen in place. While unmoving, the creature's body begins to overflow in a torrent of green arcane and necrotic energy that spills forth from their back. The energy coalesces above them to form the towering, spectral avatar of Nicrone Dendallen's returned form: the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]]. Its hulking, necromantically-charged form looms over the hosted creature and drips with ooze-like green necrotic ectoplasm.
+When the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]] is channeled by a level 15 creature attuned to 3 of his Remnants, they become momentarily frozen in place. While unmoving, the creature's body begins to overflow in a torrent of green arcane and necrotic energy that spills forth from their back. The energy coalesces above them to form the towering, spectral avatar of Nicrone Dendallen's returned form: the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]]. Its hulking, necromantically-charged form looms over the hosted creature and drips with ooze-like green necrotic ectoplasm.
 
-The scraps of Nicrone Dendallen's spirit that were anchored in his Remnants combine to form the new spirit. These once-weak shards have been empowered as the attuned creature has sacrificed aspects of themselves through the items' various curses. Removing the worn Remnants from the host (even forcefully) fails to destroy or dispel the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]].
+The scraps of Nicrone Dendallen's spirit that were anchored in his Remnants combine to form the new spirit. These once-weak shards have been empowered as the attuned creature has sacrificed aspects of themselves through the items' various curses. Removing the worn Remnants from the host (even forcefully) fails to destroy or dispel the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]].
 
 The spirit's appearance is that of a huge, muscular lich made of spectral miasma. Depending on the Remnants that the hosted creature has attuned to, the spirit's appearance may change to reflect the host's Remnants. Regardless of appearance, the spirit's abilities and power are unchanged.
 
 #### Victory or Defeat
 
-If the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]] is defeated, the host creature gains four levels of exhaustion. In addition, all Remnants of Dendallen on the current plane of existence, even those not attuned to by the host, turn to mush and are destroyed as the magic that anchored Dendallen's spirit is dispelled. All of the Remnants' effects and curses that were affecting the creature end.
+If the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]] is defeated, the host creature gains four levels of exhaustion. In addition, all Remnants of Dendallen on the current plane of existence, even those not attuned to by the host, turn to mush and are destroyed as the magic that anchored Dendallen's spirit is dispelled. All of the Remnants' effects and curses that were affecting the creature end.
 
-If the spirit is victorious in combat and maintains its control over the host, it can spend 1 minute solidifying its ownership and possess the host. Once the creature is fully possessed in this way, the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]] can stay within the creature's body and command it indefinitely. The host creature shows no outward signs of the possessing spirit. While possessed in this way, the host automatically fails all saving throws against the spirit's thrall.
+If the spirit is victorious in combat and maintains its control over the host, it can spend 1 minute solidifying its ownership and possess the host. Once the creature is fully possessed in this way, the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]] can stay within the creature's body and command it indefinitely. The host creature shows no outward signs of the possessing spirit. While possessed in this way, the host automatically fails all saving throws against the spirit's thrall.
 
-While Dendallen is proud of his necromantic achievements, his step into undeath is a shameful setback. He will do whatever it takes to remain within the possessed creature and maintain his sense of life unless absolutely necessary. The spirit can reemerge from the possessed creature as an action. When this happens, the possessed creature can resume attempting saving throws to maintain its free will, but they suffer disadvantage on each of these attempts. Use the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]]'s stat block and the possessed creature's statistics for these saving throws.
+While Dendallen is proud of his necromantic achievements, his step into undeath is a shameful setback. He will do whatever it takes to remain within the possessed creature and maintain his sense of life unless absolutely necessary. The spirit can reemerge from the possessed creature as an action. When this happens, the possessed creature can resume attempting saving throws to maintain its free will, but they suffer disadvantage on each of these attempts. Use the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]]'s stat block and the possessed creature's statistics for these saving throws.
 
 > [!note] Variant: Limited Host Spellcasting
 > 
 > At your discretion, The Spirit of Dendallen's host gains the following trait for as long as they remain under its thrall.
 > 
-> **Adopted Spellcasting.** A creature possessed by the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]] that has spell slots immediately forgets all spells they know and have prepared, which are then replaced by the list of spells that the spirit knows for itself. The spirit's host retains its normal spell slots, but can only use those spell slots to cast spells in their new adopted spell list. If the spirit's host is not a wizard, they can nonetheless cast its spells as if they were spells in the host's class spell list, using its spellcasting ability modifier and spell save DC. If the spirit is destroyed, its host forgets all of the spirit's spells, remembers all of their previous spells, and can (if applicable) spend time preparing spells as normal.
+> **Adopted Spellcasting.** A creature possessed by the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md\|Spirit of Dendallen]] that has spell slots immediately forgets all spells they know and have prepared, which are then replaced by the list of spells that the spirit knows for itself. The spirit's host retains its normal spell slots, but can only use those spell slots to cast spells in their new adopted spell list. If the spirit's host is not a wizard, they can nonetheless cast its spells as if they were spells in the host's class spell list, using its spellcasting ability modifier and spell save DC. If the spirit is destroyed, its host forgets all of the spirit's spells, remembers all of their previous spells, and can (if applicable) spend time preparing spells as normal.
 > 
-> *This option is good for when wizards or other powerful spellcasters become the subject of the spirit's control. Given that player character balance is different than creature balance, some spells are disproportionately good for killing fellow players. If you're concerned about the spellcaster turning on its friends and casting* [[5. Mechanics/Spells/Fireball.md\|fireball]] *with a 6th level spell slot, this option may be right for your game.*
+> *This option is good for when wizards or other powerful spellcasters become the subject of the spirit's control. Given that player character balance is different than creature balance, some spells are disproportionately good for killing fellow players. If you're concerned about the spellcaster turning on its friends and casting* [[/5. Mechanics/Spells/Fireball.md\|fireball]] *with a 6th level spell slot, this option may be right for your game.*
 ^variant-limited-host-spellcasting
 
 > [!embed-monster]- Spirit of Dendallen
-> ![[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md#^statblock\|Spirit of Dendallen]]
+> ![[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md#^statblock\|Spirit of Dendallen]]
 
 > [!embed-monster]- Tendril of Dendallen
-> ![[5. Mechanics/Bestiary/Undead/Tendril Of Dendallen (TGS1).md#^statblock\|Tendril of Dendallen]]
+> ![[/5. Mechanics/Bestiary/Undead/Tendril Of Dendallen (TGS1).md#^statblock\|Tendril of Dendallen]]
 
 > [!gallery]
 > ![TGS1: Dendallen Battlemap](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/tgs1/Book/artwork-fight-against-dendallen-map.webp#gallery)

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'coastal, forest, swamp, underdark, urban'
 size: Medium
 tags:
@@ -18,7 +18,7 @@ tags:
 aliases:
   - Skulk
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Skulk (MPMM).md|Skulk]]
+# [[5. Mechanics/Bestiary/Monstrosity/Skulk (MPMM).md|Skulk]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*
 
 > [!quote] A quote from Mordenkainen  
@@ -49,34 +49,35 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
   - !!int "1"
 "speed": "30 ft."
 "saves":
-  - "constitution": "+2"
+  - "constitution": !!int "2"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+8"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]"
-"senses": "darkvision 120 ft., passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 8"
 "languages": "understands Common but can't speak"
 "cr": "1/2"
 "traits":
   - "desc": "The skulk is [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]].\
-      \ This invisibility can be circumvented by three things:\n\n- Charnel Candles.\
+      \ This invisibility can be circumvented by three things:\n\n- **Charnel Candles.**\
       \ The skulk appears as a dim, translucent form in the light of a candle made\
-      \ of fat rendered from a corpse whose identity is unknown.  \n- Children.\
+      \ of fat rendered from a corpse whose identity is unknown.  \n- **Children.**\
       \ Humanoid children, aged 10 and under, can see through this invisibility. \
-      \ \n- Reflective Surfaces. The skulk appears as a drab, smoothskinned biped\
+      \ \n- **Reflective Surfaces.** The skulk appears as a drab, smooth-skinned biped\
       \ if its reflection can be seen in a mirror or on another surface.  "
     "name": "Fallible Invisibility"
   - "desc": "The skulk leaves no tracks to indicate where it has been or where it's\
       \ headed."
     "name": "Trackless"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4\
-      \ + 4) slashing damage plus 3 (d6) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d4\
+      \ + 4) slashing damage plus 3 (1d6) necrotic damage."
     "name": "Claw"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/skulk-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/skulk-mpmm.webp"
 ```
 ^statblock
 

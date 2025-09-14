@@ -14,7 +14,7 @@ tags:
 aliases:
   - Aboleth
 ---
-# [[5. Mechanics\Bestiary\Aberration\Aboleth.md|Aboleth]]
+# [[5. Mechanics/Bestiary/Aberration/Aboleth.md|Aboleth]]
 *Source: Monster Manual p. 13. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Before the coming of the gods, aboleths lurked in primordial oceans and underground lakes. They reached out with their minds and seized control of the burgeoning life-forms of the mortal realm, making those creatures their slaves. Their dominance made them like gods. Then the true gods appeared, smashing the aboleths' empire and freeing their slaves. Aboleths have never forgotten.
@@ -62,15 +62,16 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
   - !!int "18"
 "speed": "10 ft., swim 40 ft."
 "saves":
-  - "constitution": "+6"
-  - "intelligence": "+8"
-  - "wisdom": "+6"
+  - "constitution": !!int "6"
+  - "intelligence": !!int "8"
+  - "wisdom": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
     "desc": "+12"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+10"
-"senses": "darkvision 120 ft., passive Perception 20"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 20"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "10"
 "traits":
@@ -79,8 +80,8 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
   - "desc": "While underwater, the aboleth is surrounded by transformative mucus.\
       \ A creature that touches the aboleth or that hits it with a melee attack while\
       \ within 5 feet of it must make a DC 14 Constitution saving throw. On a failure,\
-      \ the creature is diseased for d4 hours. The diseased creature can breathe only\
-      \ underwater."
+      \ the creature is diseased for 1d4 hours. The diseased creature can breathe\
+      \ only underwater."
     "name": "Mucous Cloud"
   - "desc": "If a creature communicates telepathically with the aboleth, the aboleth\
       \ learns the creature's greatest desires if the aboleth can see the creature."
@@ -88,18 +89,18 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
 "actions":
   - "desc": "The aboleth makes three tentacle attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 12\
       \ (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 14 Constitution saving throw or become diseased. The disease has no\
       \ effect for 1 minute and can be removed by any magic that cures disease. After\
       \ 1 minute, the diseased creature's skin becomes translucent and slimy, the\
       \ creature can't regain hit points unless it is underwater, and the disease\
-      \ can be removed only by [[5. Mechanics/Spells/He(AL).md|heal]] or another disease-curing\
+      \ can be removed only by [[/5. Mechanics/Spells/He(AL).md|heal]] or another disease-curing\
       \ spell of 6th level or higher. When the creature is outside a body of water,\
-      \ it takes 6 (d12) acid damage every 10 minutes unless moisture is applied to\
-      \ the skin before 10 minutes have passed."
+      \ it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied\
+      \ to the skin before 10 minutes have passed."
     "name": "Tentacle"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 15\
       \ (3d6 + 5) bludgeoning damage."
     "name": "Tail"
   - "desc": "The aboleth targets one creature it can see within 30 feet of it. The\
@@ -113,23 +114,12 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
       \ No more than once every 24 hours, the target can also repeat the saving throw\
       \ when it is at least 1 mile away from the aboleth."
     "name": "Enslave (3/Day)"
-"legendary_actions":
-  - "desc": "The aboleth makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
-      \ check."
-    "name": "Detect"
-  - "desc": "The aboleth makes one tail attack."
-    "name": "Tail Swipe"
-  - "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by the\
-      \ aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points\
-      \ equal to the damage the creature takes."
-    "name": "Psychic Drain (Costs 2 Actions)"
 "lair_actions":
   - "desc": "When fighting inside its lair, an aboleth can invoke the ambient magic\
       \ to take lair actions. On initiative count 20 (losing initiative ties), the\
-      \ aboleth takes a lair action to cause one of the following effects:"
-    "name": ""
-  - "desc": "- The aboleth casts [[5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]]\
-      \ (no components required) on any number of creatures it can see within 60 feet\
+      \ aboleth takes a lair action to cause one of the following effects:\n\n- The\
+      \ aboleth casts [[/5. Mechanics/Spells/Phantasmal Force.md|phantasmal force]] (no\
+      \ components required) on any number of creatures it can see within 60 feet\
       \ of it. While maintaining [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]]\
       \ on this effect, the aboleth can't take other lair actions. If a target succeeds\
       \ on the saving throw or if the effect ends for it, the target is immune to\
@@ -147,28 +137,38 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
     "name": ""
 "regional_effects":
   - "desc": "The region containing an aboleth's lair is warped by the creature's presence,\
-      \ which creates one or more of the following effects:"
-    "name": ""
-  - "desc": "- Underground surfaces within 1 mile of the aboleth's lair are slimy\
-      \ and wet and are difficult terrain.  \n- Water sources within 1 mile of the\
-      \ lair are supernaturally fouled. Enemies of the aboleth that drink such water\
-      \ vomit it within minutes.  \n- As an action, the aboleth can create an illusory\
-      \ image of itself within 1 mile of the lair. The copy can appear at any location\
-      \ the aboleth has seen before or in any location a creature [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
-      \ by the aboleth can currently see. Once created, the image lasts for as long\
-      \ as the aboleth maintains [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]],\
+      \ which creates one or more of the following effects:\n\n- Underground surfaces\
+      \ within 1 mile of the aboleth's lair are slimy and wet and are difficult terrain.\
+      \  \n- Water sources within 1 mile of the lair are supernaturally fouled. Enemies\
+      \ of the aboleth that drink such water vomit it within minutes.  \n- As an action,\
+      \ the aboleth can create an illusory image of itself within 1 mile of the lair.\
+      \ The copy can appear at any location the aboleth has seen before or in any\
+      \ location a creature [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by\
+      \ the aboleth can currently see. Once created, the image lasts for as long as\
+      \ the aboleth maintains [[/5. Mechanics/Rules/Conditions.md#Concentration|concentration]],\
       \ as if [[/5. Mechanics/Rules/Conditions.md#Concentration|concentrating]] on a\
       \ spell. Although the image is intangible, it looks, sounds, and can move like\
       \ the aboleth. The aboleth can sense, speak, and use telepathy from the image's\
       \ position as if present at that position. If the image takes any damage, it\
-      \ disappears.  "
+      \ disappears.  \n\nIf the aboleth dies, the first two effects fade over the\
+      \ course of 3d10 days."
     "name": ""
-  - "desc": "If the aboleth dies, the first two effects fade over the course of 3d10\
-      \ days."
-    "name": ""
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the aboleth can expend a use to take one of the following actions. The aboleth\
+  \ regains all expended uses at the start of each of its turns."
+"legendary_actions":
+  - "desc": "The aboleth makes a Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]])\
+      \ check."
+    "name": "Detect"
+  - "desc": "The aboleth makes one tail attack."
+    "name": "Tail Swipe"
+  - "desc": "One creature [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by the\
+      \ aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points\
+      \ equal to the damage the creature takes."
+    "name": "Psychic Drain (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Aberration/token/aboleth.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/aboleth.webp"
 ```
 ^statblock
 

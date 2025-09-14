@@ -32,13 +32,13 @@ The first creature you hit with an attack with this staff on each of your turns 
 
 ## Slow
 
-While holding the staff, you can use an action to cast the [[5. Mechanics/Spells/Slow.md\|slow]] spell from it, using your spell save DC. This property can't be used again until the next dawn.
+While holding the staff, you can use an action to cast the [[/5. Mechanics/Spells/Slow.md\|slow]] spell from it, using your spell save DC. This property can't be used again until the next dawn.
 
 ## Curse
 
-This staff is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the staff, keeping it within reach at all times. While cursed, your walking speed is reduced by 5 feet, and you can feel a sense of sadness from the magically embedded snail in the staff. An [[5. Mechanics/Spells/Identify.md\|identify]] spell reveals the staff has a spirit bound to it, but not the fact that it's cursed.
+This staff is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the staff, keeping it within reach at all times. While cursed, your walking speed is reduced by 5 feet, and you can feel a sense of sadness from the magically embedded snail in the staff. An [[/5. Mechanics/Spells/Identify.md\|identify]] spell reveals the staff has a spirit bound to it, but not the fact that it's cursed.
 
-You remain cursed until targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or until either a banishment or [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell of 5th-level or higher is cast on the staff. If the staff is banished or dispelled, you can feel a great sense of relief wash over the staff as its trapped spirit is allowed to depart at last. When this happens, the staff becomes a rare magic item that isn't cursed with the alternate properties below.
+You remain cursed until targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or until either a banishment or [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell of 5th-level or higher is cast on the staff. If the staff is banished or dispelled, you can feel a great sense of relief wash over the staff as its trapped spirit is allowed to depart at last. When this happens, the staff becomes a rare magic item that isn't cursed with the alternate properties below.
 
 ## Charges
 
@@ -50,6 +50,6 @@ The first creature you hit with an attack with this staff on each of your turns 
 
 ## Spells
 
-While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: [[5. Mechanics/Spells/Antilife Shell.md\|antilife shell]] (5 charges), [[5. Mechanics/Spells/Polymorph.md\|polymorph]] (4 charges; the form of a Tiny snail), resilient sphere (4 charges), or [[5. Mechanics/Spells/Slow.md\|slow]] (3 charges).
+While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: [[/5. Mechanics/Spells/Antilife Shell.md\|antilife shell]] (5 charges), [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] (4 charges; the form of a Tiny snail), resilient sphere (4 charges), or [[/5. Mechanics/Spells/Slow.md\|slow]] (3 charges).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

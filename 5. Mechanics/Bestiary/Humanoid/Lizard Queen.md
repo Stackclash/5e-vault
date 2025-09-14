@@ -15,7 +15,7 @@ tags:
 aliases:
   - Lizard Queen
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Lizard Queen.md|Lizard Queen]]
+# [[5. Mechanics/Bestiary/Humanoid/Lizard Queen.md|Lizard Queen]]
 *Source: Monster Manual p. 205*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -75,8 +75,8 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   - !!int "15"
 "speed": "30 ft., swim 30 ft."
 "saves":
-  - "constitution": "+4"
-  - "wisdom": "+2"
+  - "constitution": !!int "4"
+  - "wisdom": !!int "2"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
@@ -85,7 +85,8 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+4"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 14"
 "languages": "Abyssal, Draconic"
 "cr": "4"
 "traits":
@@ -99,19 +100,19 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   - "desc": "The lizardfolk makes two attacks: one with its bite and one with its\
       \ claws or trident or two melee attacks with its trident."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
       \ + 3) slashing damage."
     "name": "Claws"
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing\
       \ damage if used with two hands to make a melee attack."
     "name": "Trident"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/lizard-queen.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/lizard-queen.webp"
 ```
 ^statblock
 

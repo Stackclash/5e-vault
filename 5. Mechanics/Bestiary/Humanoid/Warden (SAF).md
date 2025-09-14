@@ -13,7 +13,7 @@ tags:
 aliases:
   - Warden
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Warden (SAF).md|Warden]]
+# [[5. Mechanics/Bestiary/Humanoid/Warden (SAF).md|Warden]]
 *Source: Strongholds and Followers p. 74*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "14"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+3"
-  - "dexterity": "+3"
-  - "constitution": "+3"
-  - "intelligence": "+3"
-  - "wisdom": "+6"
-  - "charisma": "+3"
+  - "strength": !!int "3"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "3"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
     "desc": "+5"
@@ -52,17 +52,17 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "The Warden casts the [[5. Mechanics/Spells/Poison Spray.md|poison spray]]\
+  - "desc": "The Warden casts the [[/5. Mechanics/Spells/Poison Spray.md|poison spray]]\
       \ cantrip (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level).\n\
       \nAt 7th level, retainers can take two signature attacks per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nThe Warden casts the [[5. Mechanics/Spells/Spike Growth.md|spike growth]]\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nThe Warden casts the [[/5. Mechanics/Spells/Spike Growth.md|spike growth]]\
       \ spell (spell save DC 13 at 3rd level, 14 at 5th level, and 15 at 7th level)."
     "name": "Spike Growth (3/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe Warden casts the [[5. Mechanics/Spells/Wind Wall.md|wind wall]]\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe Warden casts the [[/5. Mechanics/Spells/Wind Wall.md|wind wall]]\
       \ spell (spell save DC 14 at 5th level, and 15 at 7th level)."
     "name": "Wind Wall (1/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe Warden casts the [[5. Mechanics/Spells/Dominate Beast.md|dominate\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe Warden casts the [[/5. Mechanics/Spells/Dominate Beast.md|dominate\
       \ beast]] spell (spell save DC 15)."
     "name": "Dominate Beast (1/Day)"
 "source":

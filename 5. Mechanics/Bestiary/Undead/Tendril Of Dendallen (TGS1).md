@@ -13,7 +13,7 @@ tags:
 aliases:
   - Tendril of Dendallen
 ---
-# [[5. Mechanics\Bestiary\Undead\Tendril Of Dendallen (TGS1).md|Tendril of Dendallen]]
+# [[5. Mechanics/Bestiary/Undead/Tendril Of Dendallen (TGS1).md|Tendril of Dendallen]]
 *Source: The Griffon's Saddlebag, Book 1 p. 201*
 
 ```statblock
@@ -47,7 +47,8 @@ aliases:
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft. (blind beyond\
+  \ this radius), passive Perception 8"
 "languages": ""
 "cr": "3"
 "traits":
@@ -57,13 +58,13 @@ aliases:
   - "desc": "The tendril isn't affected by forced movement, and it doesn't need to\
       \ make a check to cling to difficult surfaces like walls or ceilings."
     "name": "Planted"
-  - "desc": "The tendril shares a psychic link with [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|the spirit]]\
+  - "desc": "The tendril shares a psychic link with [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|the spirit]]\
       \ as well as the host while it's controlled by the spirit. The tendril doesn't\
       \ provide cover to hostile creatures against attacks made through the tendril's\
       \ space by the spirit of Dendallen or its enthralled host."
     "name": "Will of Dendallen"
 "actions":
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 17\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 17\
       \ (2d10 + 6) force damage plus 9 (2d8) acid damage, and if the target is a creature,\
       \ it is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape DC 16)\
       \ and must succeed on a DC 16 Strength saving throw or be pulled up to 5 feet\
@@ -72,7 +73,7 @@ aliases:
     "name": "Grasp"
   - "desc": "One Medium or smaller object or creature grappled by the tendril is thrown\
       \ up to 20 feet in a direction of the tendril's choice and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\
-      \ If a thrown target strikes a solid surface, the target takes 3 (d6) bludgeoning\
+      \ If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning\
       \ damage for every 10 feet it was thrown. If the target is thrown at another\
       \ creature, that creature must succeed on a DC 16 Dexterity saving throw or\
       \ take the same damage and be knocked prone."

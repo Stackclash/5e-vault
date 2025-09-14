@@ -26,7 +26,7 @@ weight: 4
 
 While holding this staff, you understand the literal meaning of any spoken language that you hear.
 
-The staff has 5 charges. While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: [[5. Mechanics/Spells/Darkvision.md\|darkvision]] (2 charges), [[5. Mechanics/Spells/Enhance Ability.md\|enhance ability]] (2 charges; "owl's wisdom" only), or [[5. Mechanics/Spells/Vicious Mockery.md\|vicious mockery]] (no charges, or 1 charge to cast at 5th level).
+The staff has 5 charges. While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: [[/5. Mechanics/Spells/Darkvision.md\|darkvision]] (2 charges), [[/5. Mechanics/Spells/Enhance Ability.md\|enhance ability]] (2 charges; "owl's wisdom" only), or [[/5. Mechanics/Spells/Vicious Mockery.md\|vicious mockery]] (no charges, or 1 charge to cast at 5th level).
 
 The staff regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn. If you expend the staff's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff vanishes in a puff of downy feathers and is destroyed.
 

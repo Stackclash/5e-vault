@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Spider Rat
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Spider Rat (GRIFFONSSADDLEBAG2).md|Giant Spider Rat]]
+# [[5. Mechanics/Bestiary/Beast/Giant Spider Rat (GRIFFONSSADDLEBAG2).md|Giant Spider Rat]]
 *Source: The Griffon's Saddlebag, Book 2 p. 338*
 
 When Antronec's sewer network was first dug out, the Mercantile Guild made sure that enough space was provided for the city's anticipated growth. The unanticipated consequences of such an elaborate and cavernous network of sewage-filled tunnels, however, were the giant spider rats. Considered by some to be the unofficial mascot of Antronec, this vicious little beast is every bit as dangerous as a giant rat, but with the extra arachnoid horror of additional limbs, poison, and other spider bits. There was one occasion where a merchant tried to market and sell a soft children's toy designed like this creature, but the merchandise was found burnt to miniscule ashes, and the merchant's body was never found.
@@ -39,7 +39,8 @@ When Antronec's sewer network was first dug out, the Mercantile Guild made sure 
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+7"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -54,9 +55,9 @@ When Antronec's sewer network was first dug out, the Mercantile Guild made sure 
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage, and the target must make a DC 11 Constitution saving\
-      \ throw, taking 3 (d6) poison damage on a failed save, or half as much damage\
+      \ throw, taking 3 (1d6) poison damage on a failed save, or half as much damage\
       \ on a successful one. If the poison damage reduces the target to 0 hit points,\
       \ the target is stable but [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]\
       \ for 1 hour, even after regaining hit points, and is [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\

@@ -12,7 +12,7 @@ armorClass: 14 + Dex modifier (max of +2)
 weight: 20
 ---
 # Breastplate of the Boundary
-*Medium armor ([[5. Mechanics/Items/Breastplate.md\|breastplate]]), cursed item, very rare (requires attunement)*  
+*Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), cursed item, very rare (requires attunement)*  
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
@@ -22,6 +22,6 @@ While wearing and attuned to this breastplate, you constantly teeter on the boun
 
 ## Curse:
 
-Attuning to this armor curses you until you are targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic which ends your attunement; removing the armor fails to end the curse. While cursed, the amount of death saving throw failures required to kill you is reduced by 1. In addition, if you die while wearing this armor, your soul is consumed by the breastplate and is instantly transported to [[4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] to do with as he wishes. Your corpse is transformed into a [[5. Mechanics/Bestiary/Undead/Devourer (MPMM).md\|devourer]] on full hit points which is hostile to any creature around it. Resurrection magic automatically fails when cast on you, unless your soul is first removed from [[4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus']] possession, after which a [[5. Mechanics/Spells/Resurrection.md\|resurrection]] spell may be cast on your [[5. Mechanics/Bestiary/Undead/Devourer (MPMM).md\|devourer]] corpse which will transform back into your original body.
+Attuning to this armor curses you until you are targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic which ends your attunement; removing the armor fails to end the curse. While cursed, the amount of death saving throw failures required to kill you is reduced by 1. In addition, if you die while wearing this armor, your soul is consumed by the breastplate and is instantly transported to [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] to do with as he wishes. Your corpse is transformed into a [[/5. Mechanics/Bestiary/Undead/Devourer (MPMM).md\|devourer]] on full hit points which is hostile to any creature around it. Resurrection magic automatically fails when cast on you, unless your soul is first removed from [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus']] possession, after which a [[/5. Mechanics/Spells/Resurrection.md\|resurrection]] spell may be cast on your [[/5. Mechanics/Bestiary/Undead/Devourer (MPMM).md\|devourer]] corpse which will transform back into your original body.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 55*

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Tiger
 ---
-# [[5. Mechanics\Bestiary\Beast\Tiger.md|Tiger]]
+# [[5. Mechanics/Bestiary/Beast/Tiger.md|Tiger]]
 *Source: Monster Manual p. 339. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -40,7 +40,8 @@ aliases:
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+6"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": ""
 "cr": "1"
 "traits":
@@ -54,15 +55,15 @@ aliases:
       \ can make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
       \ + 3) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) slashing damage."
     "name": "Claw"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/tiger.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/tiger.webp"
 ```
 ^statblock
 

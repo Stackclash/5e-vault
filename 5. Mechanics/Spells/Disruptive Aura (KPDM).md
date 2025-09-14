@@ -18,15 +18,27 @@ classes:
   - Wizard
 school: Evocation
 level: 8
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: null
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 150 feet
+somatic: true
+verbal: true
+area:
+  shape: cube
+  size: 10
 aliases:
   - Disruptive Aura
-concentration: true
 ---
 # Disruptive Aura
 *8th-level, Evocation*  
@@ -40,6 +52,6 @@ A warping, prismatic aura surrounds and outlines each creature inside a 10-foot 
 
 **At Higher Levels.** When you cast this spell using a 9th-level spell slot, the cube is 20 feet on a side.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 60*

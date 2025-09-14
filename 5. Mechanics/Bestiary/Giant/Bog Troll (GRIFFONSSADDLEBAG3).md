@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bog Troll
 ---
-# [[5. Mechanics\Bestiary\Giant\Bog Troll (GRIFFONSSADDLEBAG3).md|Bog Troll]]
+# [[5. Mechanics/Bestiary/Giant/Bog Troll (GRIFFONSSADDLEBAG3).md|Bog Troll]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 ```statblock
@@ -41,7 +41,8 @@ aliases:
     "desc": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "Giant"
 "cr": "6"
 "traits":
@@ -65,11 +66,11 @@ aliases:
 "actions":
   - "desc": "The troll makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
-      \ (2d6 + 4) slashing damage plus 4 (d8) poison damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
+      \ (2d6 + 4) slashing damage plus 4 (1d8) poison damage."
     "name": "Fetid Claw"
 "source":
   - "GriffonsSaddlebag3"

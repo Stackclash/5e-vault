@@ -16,7 +16,7 @@ tags:
 aliases:
   - Corpse Flower
 ---
-# [[5. Mechanics\Bestiary\Plant\Corpse Flower (MPMM).md|Corpse Flower]]
+# [[5. Mechanics/Bestiary/Plant/Corpse Flower (MPMM).md|Corpse Flower]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 82, Mordenkainen's Tome of Foes p. 127*
 
 A corpse flower can sprout atop the grave of an evil necromancer or the remains of powerful Undead creatures. Unless it is uprooted and burned while it is still a seedling, the corpse flower grows to enormous size over several weeks, then tears itself free of the earth and begins scavenging Humanoid corpses from battlefields and graveyards. Using its fibrous tentacles, it stuffs the remains into its body to sustain and repair itself. The plant has a malevolent bent and despises the living.
@@ -42,7 +42,8 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 "speed": "20 ft., climb 20 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft. (blind beyond\
+  \ this radius), passive Perception 12"
 "languages": ""
 "cr": "8"
 "traits":
@@ -65,7 +66,7 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 "actions":
   - "desc": "The corpse flower makes three Tentacle attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 9\
       \ (2d6 + 2) bludgeoning damage plus 10 (3d6) poison damage."
     "name": "Tentacle"
   - "desc": "The corpse flower swallows one unsecured Humanoid corpse within 10 feet\
@@ -77,16 +78,16 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
       \ on the corpse is expelled from the corpse flower in its space."
     "name": "Digest"
   - "desc": "The corpse flower animates one corpse in its body, turning it into a\
-      \ [[5. Mechanics/Bestiary/Undead/Zombie.md|zombie]]. The zombie appears in an unoccupied\
-      \ space within 5 feet of the corpse flower and acts immediately after it in\
-      \ the initiative order. The zombie acts as an ally of the corpse flower but\
-      \ isn't under its control, and the flower's stench clings to it (see Stench\
+      \ [[/5. Mechanics/Bestiary/Undead/Zombie.md|zombie]]. The zombie appears in an\
+      \ unoccupied space within 5 feet of the corpse flower and acts immediately after\
+      \ it in the initiative order. The zombie acts as an ally of the corpse flower\
+      \ but isn't under its control, and the flower's stench clings to it (see Stench\
       \ of Death)."
     "name": "Reanimate"
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Plant/token/corpse-flower-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Plant/token/corpse-flower-mpmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
   - Dart
 cost: 5
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 0.25
 ---
 # Dart

@@ -76,7 +76,7 @@ Like all harvested items, the value and weight listed refers to 1 unit of the re
 ### Allip
 
 > [!embed-table]- Allip
-> ![[5. Mechanics/Tables/Allip (HHHVIII).md\|Allip]]
+> ![[/5. Mechanics/Tables/Allip (HHHVIII).md\|Allip]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Allip.webp#center)
 
@@ -87,21 +87,21 @@ Like all harvested items, the value and weight listed refers to 1 unit of the re
 > I was once compared to an astral dreadnought by a rather bitter critic. I believe the implication was that, like the dreadnought, I was a rampaging disaster that devoured and took everything that I laid my eyes on. The joke is on them however, since I actually find that comparison to be not just accurate, but also quite flattering.
 
 > [!embed-table]- Astral Dreadnought
-> ![[5. Mechanics/Tables/Astral Dreadnought (HHHVIII).md\|Astral Dreadnought]]
+> ![[/5. Mechanics/Tables/Astral Dreadnought (HHHVIII).md\|Astral Dreadnought]]
 
 ## Harvest Table: B
 
 ### Balhannoth
 
 > [!embed-table]- Balhannoth
-> ![[5. Mechanics/Tables/Balhannoth (HHHVIII).md\|Balhannoth]]
+> ![[/5. Mechanics/Tables/Balhannoth (HHHVIII).md\|Balhannoth]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Balhannoth.webp#center)
 
 ### Berbalang
 
 > [!embed-table]- Berbalang
-> ![[5. Mechanics/Tables/Berbalang (HHHVIII).md\|Berbalang]]
+> ![[/5. Mechanics/Tables/Berbalang (HHHVIII).md\|Berbalang]]
 
 ### Boneclaw
 
@@ -110,7 +110,7 @@ Like all harvested items, the value and weight listed refers to 1 unit of the re
 > For most of society, it is a blessed day when a necromancer fails their phylactery ritual. That is because in these cases, instead of creating an all-powerful lich, a much more benign boneclaw is created instead. For me however, the stroke of luck comes in the fact that it creates a corporeal creature that is able to be harvested.
 
 > [!embed-table]- Boneclaw
-> ![[5. Mechanics/Tables/Boneclaw (HHHVIII).md\|Boneclaw]]
+> ![[/5. Mechanics/Tables/Boneclaw (HHHVIII).md\|Boneclaw]]
 
 ## Harvest Table: C
 
@@ -121,12 +121,12 @@ Like all harvested items, the value and weight listed refers to 1 unit of the re
 > In my younger and more experimental days, I once tried to capture and reprogram a cadaver collector to be my assistant. It seemed sensible at the time; we did both share the same penchant for reusing the bodies of what we hunt. However, while I was mildly successful in making it become my travelling companion, I had to dismiss it from my service due to its habit of spearing all my hunts on its back, thus ruining perfectly good pelts and organs. Oh well, I still got some use out of it; I took it apart and used the findings to make this entry!
 
 > [!embed-table]- Cadaver Collector
-> ![[5. Mechanics/Tables/Cadaver Collector (HHHVIII).md\|Cadaver Collector]]
+> ![[/5. Mechanics/Tables/Cadaver Collector (HHHVIII).md\|Cadaver Collector]]
 
 ### Choker
 
 > [!embed-table]- Choker
-> ![[5. Mechanics/Tables/Choker (HHHVIII).md\|Choker]]
+> ![[/5. Mechanics/Tables/Choker (HHHVIII).md\|Choker]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Choker.webp#center)
 
@@ -136,21 +136,21 @@ Like all harvested items, the value and weight listed refers to 1 unit of the re
 > 
 > The infamous gnomish clockwork constructs have an interesting role in the great taxonomy of harvestable creatures (if you can even call them that). Because the methods of their creation are relatively well known, relatively intact specimens can be salvaged by any knowledgeable tinker into a working state. Not saying that you have to, but maybe keep it in mind before you go about melting their insides and whatnot.
 
-Instead of harvesting the individual pieces of a clockwork, you may instead attempt to salvage the entirety of the creature to be fixed up by a well-supplied [[5. Mechanics/Optional Features/Tinker (HHHVI).md\|tinker]]. If you wish to do this, roll a `dice:d20|noform|noparens|avg` (`d20`). On a result of 18 or higher, the clockwork is in a good enough state to be repaired. You may still harvest a clockwork even if it is found to not be in a state of potential repair. Your DM may also decide that a clockwork that died under exceptional circumstances cannot be salvaged whatsoever (such as if it was completely melted into slag).
+Instead of harvesting the individual pieces of a clockwork, you may instead attempt to salvage the entirety of the creature to be fixed up by a well-supplied [[/5. Mechanics/Optional Features/Tinker (HHHVI).md\|tinker]]. If you wish to do this, roll a `dice:d20|noform|noparens|avg` (`d20`). On a result of 18 or higher, the clockwork is in a good enough state to be repaired. You may still harvest a clockwork even if it is found to not be in a state of potential repair. Your DM may also decide that a clockwork that died under exceptional circumstances cannot be salvaged whatsoever (such as if it was completely melted into slag).
 
-A repairable clockwork may be brought to any [[5. Mechanics/Optional Features/Tinker (HHHVI).md\|tinker]] and fixed at a fee of 300 gp, and 1 week per hit die (this fee only covers material expenses; labour fees may vary from [[5. Mechanics/Optional Features/Tinker (HHHVI).md\|tinker]] to [[5. Mechanics/Optional Features/Tinker (HHHVI).md\|tinker]]). Once created, a clockwork will gain loyalty to the first creature it sees and will follow their directions to the best of their ability until it is reduced to 0 hit points again, at which point it becomes permanently unsalvageable and un-harvestable.
+A repairable clockwork may be brought to any [[/5. Mechanics/Optional Features/Tinker (HHHVI).md\|tinker]] and fixed at a fee of 300 gp, and 1 week per hit die (this fee only covers material expenses; labour fees may vary from [[/5. Mechanics/Optional Features/Tinker (HHHVI).md\|tinker]] to [[/5. Mechanics/Optional Features/Tinker (HHHVI).md\|tinker]]). Once created, a clockwork will gain loyalty to the first creature it sees and will follow their directions to the best of their ability until it is reduced to 0 hit points again, at which point it becomes permanently unsalvageable and un-harvestable.
 
 > [!embed-table]- Bronze Scout
-> ![[5. Mechanics/Tables/Bronze Scout (HHHVIII).md\|Bronze Scout]]
+> ![[/5. Mechanics/Tables/Bronze Scout (HHHVIII).md\|Bronze Scout]]
 
 > [!embed-table]- Iron Cobra
-> ![[5. Mechanics/Tables/Iron Cobra (HHHVIII).md\|Iron Cobra]]
+> ![[/5. Mechanics/Tables/Iron Cobra (HHHVIII).md\|Iron Cobra]]
 
 > [!embed-table]- Oaken Bolter
-> ![[5. Mechanics/Tables/Oaken Bolter (HHHVIII).md\|Oaken Bolter]]
+> ![[/5. Mechanics/Tables/Oaken Bolter (HHHVIII).md\|Oaken Bolter]]
 
 > [!embed-table]- Stone Defender
-> ![[5. Mechanics/Tables/Stone Defender (HHHVIII).md\|Stone Defender]]
+> ![[/5. Mechanics/Tables/Stone Defender (HHHVIII).md\|Stone Defender]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/StoneDefender.webp#center)
 
@@ -161,20 +161,20 @@ A repairable clockwork may be brought to any [[5. Mechanics/Optional Features/Ti
 > I once had a nasty run in with a corpse flower. I had been hunting down a rather wicked derro that had murdered one of my travelling companions, and I had finally managed to corner to villain and avenge my friend. Before I managed to extract a trophy however, a corpse flower appeared, grabbed the corpse, then dissolved it before my very eyes! Well, the last laugh was mine, as I killed that corpse flower and took one of its leaves as a proxy prize.
 
 > [!embed-table]- Corpse Flower
-> ![[5. Mechanics/Tables/Corpse Flower (HHHVIII).md\|Corpse Flower]]
+> ![[/5. Mechanics/Tables/Corpse Flower (HHHVIII).md\|Corpse Flower]]
 
 ## Harvest Table: D
 
 ### Deathlocks
 
 > [!embed-table]- Deathlock
-> ![[5. Mechanics/Tables/Deathlock (HHHVIII).md\|Deathlock]]
+> ![[/5. Mechanics/Tables/Deathlock (HHHVIII).md\|Deathlock]]
 
 > [!embed-table]- Deathlock Mastermind
-> ![[5. Mechanics/Tables/Deathlock Mastermind (HHHVIII).md\|Deathlock Mastermind]]
+> ![[/5. Mechanics/Tables/Deathlock Mastermind (HHHVIII).md\|Deathlock Mastermind]]
 
 > [!embed-table]- Deathlock Wight
-> ![[5. Mechanics/Tables/Deathlock Wight (HHHVIII).md\|Deathlock Wight]]
+> ![[/5. Mechanics/Tables/Deathlock Wight (HHHVIII).md\|Deathlock Wight]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/DeathlockWight.webp#center)
 
@@ -186,71 +186,71 @@ A repairable clockwork may be brought to any [[5. Mechanics/Optional Features/Ti
 
 Due to their abyssal nature, demons slain on the Material Plane cannot be harvested, as their carcass dissolves into a foul ichor instead. This ichor serves no purpose and is effectively useless. In order to properly harvest a demon, they must be killed in the Abyss.
 
-Furthermore, using parts harvested from a demon comes with certain risks, as their corrupting influence remains even after their death. When a player consumes or attunes to an item made from a demon part, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 10 or less, that player contracts a curse from using that item. The curse persists even after the normal effects of that item have finished and is only removed when the player is targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. If a character is cured of a curse caused by an attunement item, they are not allowed to attempt to attune to that item again. The DM may pick the curse themselves, or roll for it on the table below:
+Furthermore, using parts harvested from a demon comes with certain risks, as their corrupting influence remains even after their death. When a player consumes or attunes to an item made from a demon part, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 10 or less, that player contracts a curse from using that item. The curse persists even after the normal effects of that item have finished and is only removed when the player is targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. If a character is cured of a curse caused by an attunement item, they are not allowed to attempt to attune to that item again. The DM may pick the curse themselves, or roll for it on the table below:
 
 If the curse came from a non-consumable item, there is an additional aspect of the curse that reads: "You have a constant need to be within reach of the cursed item and are unwilling to part from it. You feel a need to have it equipped whenever feasibly possible."
 
 > [!embed-table]- Fiendish Curse (Demon)
-> ![[5. Mechanics/Tables/Fiendish Curse Demon (HHHVI).md\|Fiendish Curse (Demon)]]
+> ![[/5. Mechanics/Tables/Fiendish Curse Demon (HHHVI).md\|Fiendish Curse (Demon)]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Demons.webp#center)
 
 #### Alkilith
 
 > [!embed-table]- Alkilith
-> ![[5. Mechanics/Tables/Alkilith (HHHVIII).md\|Alkilith]]
+> ![[/5. Mechanics/Tables/Alkilith (HHHVIII).md\|Alkilith]]
 
 #### Armanite
 
 > [!embed-table]- Armanite
-> ![[5. Mechanics/Tables/Armanite (HHHVIII).md\|Armanite]]
+> ![[/5. Mechanics/Tables/Armanite (HHHVIII).md\|Armanite]]
 
 #### Bulezau
 
 > [!embed-table]- Bulezau
-> ![[5. Mechanics/Tables/Bulezau (HHHVIII).md\|Bulezau]]
+> ![[/5. Mechanics/Tables/Bulezau (HHHVIII).md\|Bulezau]]
 
 #### Dybbuk
 
 > [!embed-table]- Dybbuk
-> ![[5. Mechanics/Tables/Dybbuk (HHHVIII).md\|Dybbuk]]
+> ![[/5. Mechanics/Tables/Dybbuk (HHHVIII).md\|Dybbuk]]
 
 #### Maurezhi
 
 > [!embed-table]- Maurezhi
-> ![[5. Mechanics/Tables/Maurezhi (HHHVIII).md\|Maurezhi]]
+> ![[/5. Mechanics/Tables/Maurezhi (HHHVIII).md\|Maurezhi]]
 
 #### Molydeus
 
 > [!embed-table]- Molydeus
-> ![[5. Mechanics/Tables/Molydeus (HHHVIII).md\|Molydeus]]
+> ![[/5. Mechanics/Tables/Molydeus (HHHVIII).md\|Molydeus]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Molydeus.webp#center)
 
 #### Nabassu
 
 > [!embed-table]- Nabassu
-> ![[5. Mechanics/Tables/Nabassu (HHHVIII).md\|Nabassu]]
+> ![[/5. Mechanics/Tables/Nabassu (HHHVIII).md\|Nabassu]]
 
 #### Rutterkin
 
 > [!embed-table]- Rutterkin
-> ![[5. Mechanics/Tables/Rutterkin (HHHVIII).md\|Rutterkin]]
+> ![[/5. Mechanics/Tables/Rutterkin (HHHVIII).md\|Rutterkin]]
 
 #### Abyssal Wretch
 
 > [!embed-table]- Abyssal Wretch
-> ![[5. Mechanics/Tables/Abyssal Wretch (HHHVIII).md\|Abyssal Wretch]]
+> ![[/5. Mechanics/Tables/Abyssal Wretch (HHHVIII).md\|Abyssal Wretch]]
 
 #### Sibriex
 
 > [!embed-table]- Sibriex
-> ![[5. Mechanics/Tables/Sibriex (HHHVIII).md\|Sibriex]]
+> ![[/5. Mechanics/Tables/Sibriex (HHHVIII).md\|Sibriex]]
 
 #### Wastrilith
 
 > [!embed-table]- Wastrilith
-> ![[5. Mechanics/Tables/Wastrilith (HHHVIII).md\|Wastrilith]]
+> ![[/5. Mechanics/Tables/Wastrilith (HHHVIII).md\|Wastrilith]]
 
 ### Demon Lords
 
@@ -266,60 +266,60 @@ In addition, the regular curses that are normally associated with attuning to an
 
 #### Baphomet
 
-As part of harvesting Baphomet, you may also loot his weapon, [[5. Mechanics/Items/Heartcleaver (HHHVIII).md\|Heartcleaver]].
+As part of harvesting Baphomet, you may also loot his weapon, [[/5. Mechanics/Items/Heartcleaver (HHHVIII).md\|Heartcleaver]].
 
 > [!embed-table]- Baphomet
-> ![[5. Mechanics/Tables/Baphomet (HHHVIII).md\|Baphomet]]
+> ![[/5. Mechanics/Tables/Baphomet (HHHVIII).md\|Baphomet]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Baphomet.webp#center)
 
 > [!embed-item]- Heartcleaver
-> ![[5. Mechanics/Items/Heartcleaver (HHHVIII).md\|Heartcleaver]]
+> ![[/5. Mechanics/Items/Heartcleaver (HHHVIII).md\|Heartcleaver]]
 
 #### Demogorgon
 
 > [!embed-table]- Demogorgon
-> ![[5. Mechanics/Tables/Demogorgon (HHHVIII).md\|Demogorgon]]
+> ![[/5. Mechanics/Tables/Demogorgon (HHHVIII).md\|Demogorgon]]
 
 #### Fraz-Urb'luu
 
 > [!embed-table]- Fraz-Urb'luu
-> ![[5. Mechanics/Tables/Fraz Urbluu (HHHVIII).md\|Fraz-Urb'luu]]
+> ![[/5. Mechanics/Tables/Fraz Urbluu (HHHVIII).md\|Fraz-Urb'luu]]
 
 #### Graz'zt
 
-As part of harvesting Graz'zt, you may also loot his weapon, [[5. Mechanics/Items/Angdrelve Wave Of Sorrow (HHHVIII).md\|Angdrelve (Wave of Sorrow)]].
+As part of harvesting Graz'zt, you may also loot his weapon, [[/5. Mechanics/Items/Angdrelve Wave Of Sorrow (HHHVIII).md\|Angdrelve (Wave of Sorrow)]].
 
 > [!embed-table]- Graz'zt
-> ![[5. Mechanics/Tables/Grazzt (HHHVIII).md\|Graz'zt]]
+> ![[/5. Mechanics/Tables/Grazzt (HHHVIII).md\|Graz'zt]]
 
 > [!embed-item]- Angdrelve (Wave of Sorrow)
-> ![[5. Mechanics/Items/Angdrelve Wave Of Sorrow (HHHVIII).md\|Angdrelve (Wave of Sorrow)]]
+> ![[/5. Mechanics/Items/Angdrelve Wave Of Sorrow (HHHVIII).md\|Angdrelve (Wave of Sorrow)]]
 
 #### Juiblex
 
 > [!embed-table]- Juiblex
-> ![[5. Mechanics/Tables/Juiblex (HHHVIII).md\|Juiblex]]
+> ![[/5. Mechanics/Tables/Juiblex (HHHVIII).md\|Juiblex]]
 
 #### Orcus
 
 > [!embed-table]- Orcus
-> ![[5. Mechanics/Tables/Orcus (HHHVIII).md\|Orcus]]
+> ![[/5. Mechanics/Tables/Orcus (HHHVIII).md\|Orcus]]
 
 #### Yeenoghu
 
-As part of harvesting Yeenoghu, you may also loot his weapon, The [[5. Mechanics/Items/Butcher (HHHVIII).md\|Butcher]].
+As part of harvesting Yeenoghu, you may also loot his weapon, The [[/5. Mechanics/Items/Butcher (HHHVIII).md\|Butcher]].
 
 > [!embed-table]- Yeenoghu
-> ![[5. Mechanics/Tables/Yeenoghu (HHHVIII).md\|Yeenoghu]]
+> ![[/5. Mechanics/Tables/Yeenoghu (HHHVIII).md\|Yeenoghu]]
 
 > [!embed-item]- Butcher
-> ![[5. Mechanics/Items/Butcher (HHHVIII).md\|Butcher]]
+> ![[/5. Mechanics/Items/Butcher (HHHVIII).md\|Butcher]]
 
 #### Zuggtmoy
 
 > [!embed-table]- Zuggtmoy
-> ![[5. Mechanics/Tables/Zuggtmoy (HHHVIII).md\|Zuggtmoy]]
+> ![[/5. Mechanics/Tables/Zuggtmoy (HHHVIII).md\|Zuggtmoy]]
 
 ### Derro
 
@@ -328,13 +328,13 @@ As part of harvesting Yeenoghu, you may also loot his weapon, The [[5. Mechanics
 > There are many academics that claim that the derro are related to the dwarves. I actually have a list of each academic that has said this, because I have personally tracked each one of them down and challenged them to fisticuffs for making such derogatory claims. Needless to say, I am not welcome on the campuses of several universities anymore.
 
 > [!embed-table]- Derro Trinket Table
-> ![[5. Mechanics/Tables/Derro Trinket Table (HHHVIII).md\|Derro Trinket Table]]
+> ![[/5. Mechanics/Tables/Derro Trinket Table (HHHVIII).md\|Derro Trinket Table]]
 
 > [!embed-table]- Derro
-> ![[5. Mechanics/Tables/Derro (HHHVIII).md\|Derro]]
+> ![[/5. Mechanics/Tables/Derro (HHHVIII).md\|Derro]]
 
 > [!embed-table]- Derro Savant
-> ![[5. Mechanics/Tables/Derro Savant (HHHVIII).md\|Derro Savant]]
+> ![[/5. Mechanics/Tables/Derro Savant (HHHVIII).md\|Derro Savant]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Derro.webp#center)
 
@@ -346,69 +346,69 @@ As part of harvesting Yeenoghu, you may also loot his weapon, The [[5. Mechanics
 
 Due to their fiendish nature, devils slain on the Material Plane cannot be harvested, as their carcass dissolves into a foul ichor or disappears into smoke instead. These serve no purpose and are effectively useless. In order to properly harvest a devil, they must be killed in the Nine Hells.
 
-Furthermore, using parts harvested from a devil comes with certain risks, as their corrupting influence remains even after their death. When a player consumes or attunes to an item made from a devil part, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 10 or less, that player contracts a curse from using that item. The curse persists even after the normal effects of that item have finished and is only removed when the player is targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. If a character is cured of a curse caused by an attunement item, they are not allowed to attempt to attune to that item again. The DM may pick the curse themselves, or roll for it on the table below:
+Furthermore, using parts harvested from a devil comes with certain risks, as their corrupting influence remains even after their death. When a player consumes or attunes to an item made from a devil part, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 10 or less, that player contracts a curse from using that item. The curse persists even after the normal effects of that item have finished and is only removed when the player is targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. If a character is cured of a curse caused by an attunement item, they are not allowed to attempt to attune to that item again. The DM may pick the curse themselves, or roll for it on the table below:
 
 If the curse came from a non-consumable item, there is an additional aspect of the curse that reads: "you have a constant need to be within reach of the cursed item and are unwilling to part from it. You feel a need to have it equipped whenever feasibly possible."
 
 > [!embed-table]- Fiendish Curse (Devil)
-> ![[5. Mechanics/Tables/Fiendish Curse Devil (HHHVI).md\|Fiendish Curse (Devil)]]
+> ![[/5. Mechanics/Tables/Fiendish Curse Devil (HHHVI).md\|Fiendish Curse (Devil)]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Devils.webp#center)
 
 #### Black Abishai
 
 > [!embed-table]- Black Abishai
-> ![[5. Mechanics/Tables/Black Abishai (HHHVIII).md\|Black Abishai]]
+> ![[/5. Mechanics/Tables/Black Abishai (HHHVIII).md\|Black Abishai]]
 
 #### Blue Abishai
 
 > [!embed-table]- Blue Abishai
-> ![[5. Mechanics/Tables/Blue Abishai (HHHVIII).md\|Blue Abishai]]
+> ![[/5. Mechanics/Tables/Blue Abishai (HHHVIII).md\|Blue Abishai]]
 
 #### Green Abishai
 
 > [!embed-table]- Green Abishai
-> ![[5. Mechanics/Tables/Green Abishai (HHHVIII).md\|Green Abishai]]
+> ![[/5. Mechanics/Tables/Green Abishai (HHHVIII).md\|Green Abishai]]
 
 #### Red Abishai
 
 > [!embed-table]- Red Abishai
-> ![[5. Mechanics/Tables/Red Abishai (HHHVIII).md\|Red Abishai]]
+> ![[/5. Mechanics/Tables/Red Abishai (HHHVIII).md\|Red Abishai]]
 
 #### White Abishai
 
 > [!embed-table]- White Abishai
-> ![[5. Mechanics/Tables/White Abishai (HHHVIII).md\|White Abishai]]
+> ![[/5. Mechanics/Tables/White Abishai (HHHVIII).md\|White Abishai]]
 
 #### Amnizu
 
 > [!embed-table]- Amnizu
-> ![[5. Mechanics/Tables/Amnizu (HHHVIII).md\|Amnizu]]
+> ![[/5. Mechanics/Tables/Amnizu (HHHVIII).md\|Amnizu]]
 
 #### Hellfire Engine
 
 > [!embed-table]- Hellfire Engine
-> ![[5. Mechanics/Tables/Hellfire Engine (HHHVIII).md\|Hellfire Engine]]
+> ![[/5. Mechanics/Tables/Hellfire Engine (HHHVIII).md\|Hellfire Engine]]
 
 #### Merregon
 
 > [!embed-table]- Merregon
-> ![[5. Mechanics/Tables/Merregon (HHHVIII).md\|Merregon]]
+> ![[/5. Mechanics/Tables/Merregon (HHHVIII).md\|Merregon]]
 
 #### Narzugon
 
 > [!embed-table]- Narzugon
-> ![[5. Mechanics/Tables/Narzugon (HHHVIII).md\|Narzugon]]
+> ![[/5. Mechanics/Tables/Narzugon (HHHVIII).md\|Narzugon]]
 
 #### Nupperibo
 
 > [!embed-table]- Nupperibo
-> ![[5. Mechanics/Tables/Nupperibo (HHHVIII).md\|Nupperibo]]
+> ![[/5. Mechanics/Tables/Nupperibo (HHHVIII).md\|Nupperibo]]
 
 #### Orthon
 
 > [!embed-table]- Orthon
-> ![[5. Mechanics/Tables/Orthon (HHHVIII).md\|Orthon]]
+> ![[/5. Mechanics/Tables/Orthon (HHHVIII).md\|Orthon]]
 
 ### Archdevils
 
@@ -423,32 +423,32 @@ Due to the unique and legendary nature of some archdevils, there is no associate
 #### Bael
 
 > [!embed-table]- Bael
-> ![[5. Mechanics/Tables/Bael (HHHVIII).md\|Bael]]
+> ![[/5. Mechanics/Tables/Bael (HHHVIII).md\|Bael]]
 
 #### Geryon
 
 > [!embed-table]- Geryon
-> ![[5. Mechanics/Tables/Geryon (HHHVIII).md\|Geryon]]
+> ![[/5. Mechanics/Tables/Geryon (HHHVIII).md\|Geryon]]
 
 #### Hutijin
 
 > [!embed-table]- Hutijin
-> ![[5. Mechanics/Tables/Hutijin (HHHVIII).md\|Hutijin]]
+> ![[/5. Mechanics/Tables/Hutijin (HHHVIII).md\|Hutijin]]
 
 #### Moloch
 
 > [!embed-table]- Moloch
-> ![[5. Mechanics/Tables/Moloch (HHHVIII).md\|Moloch]]
+> ![[/5. Mechanics/Tables/Moloch (HHHVIII).md\|Moloch]]
 
 #### Titivilus
 
 > [!embed-table]- Titivilus
-> ![[5. Mechanics/Tables/Titivilus (HHHVIII).md\|Titivilus]]
+> ![[/5. Mechanics/Tables/Titivilus (HHHVIII).md\|Titivilus]]
 
 #### Zariel
 
 > [!embed-table]- Zariel
-> ![[5. Mechanics/Tables/Zariel (HHHVIII).md\|Zariel]]
+> ![[/5. Mechanics/Tables/Zariel (HHHVIII).md\|Zariel]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Zariel.webp#center)
 
@@ -461,37 +461,37 @@ Due to the unique and legendary nature of some archdevils, there is no associate
 #### Drow Trinket Table
 
 > [!embed-table]- Drow Trinket Table
-> ![[5. Mechanics/Tables/Drow Trinket Table (HHHVIII).md\|Drow Trinket Table]]
+> ![[/5. Mechanics/Tables/Drow Trinket Table (HHHVIII).md\|Drow Trinket Table]]
 
 #### Drow Arachnomancer
 
 > [!embed-table]- Drow Arachnomancer
-> ![[5. Mechanics/Tables/Drow Arachnomancer (HHHVIII).md\|Drow Arachnomancer]]
+> ![[/5. Mechanics/Tables/Drow Arachnomancer (HHHVIII).md\|Drow Arachnomancer]]
 
 #### Drow Favoured Consort
 
 > [!embed-table]- Drow Favoured Consort
-> ![[5. Mechanics/Tables/Drow Favoured Consort (HHHVIII).md\|Drow Favoured Consort]]
+> ![[/5. Mechanics/Tables/Drow Favoured Consort (HHHVIII).md\|Drow Favoured Consort]]
 
 #### Drow House Captain
 
 > [!embed-table]- Drow House Captain
-> ![[5. Mechanics/Tables/Drow House Captain (HHHVIII).md\|Drow House Captain]]
+> ![[/5. Mechanics/Tables/Drow House Captain (HHHVIII).md\|Drow House Captain]]
 
 #### Drow Inquisitor
 
 > [!embed-table]- Drow Inquisitor
-> ![[5. Mechanics/Tables/Drow Inquisitor (HHHVIII).md\|Drow Inquisitor]]
+> ![[/5. Mechanics/Tables/Drow Inquisitor (HHHVIII).md\|Drow Inquisitor]]
 
 #### Drow Matron Mother
 
 > [!embed-table]- Drow Matron Mother
-> ![[5. Mechanics/Tables/Drow Matron Mother (HHHVIII).md\|Drow Matron Mother]]
+> ![[/5. Mechanics/Tables/Drow Matron Mother (HHHVIII).md\|Drow Matron Mother]]
 
 #### Drow Shadowblade
 
 > [!embed-table]- Drow Shadowblade
-> ![[5. Mechanics/Tables/Drow Shadowblade (HHHVIII).md\|Drow Shadowblade]]
+> ![[/5. Mechanics/Tables/Drow Shadowblade (HHHVIII).md\|Drow Shadowblade]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/DrowShadowblade.webp#center)
 
@@ -506,47 +506,47 @@ Due to the unique and legendary nature of some archdevils, there is no associate
 #### Duergar Trinket Table
 
 > [!embed-table]- Duergar Trinket Table
-> ![[5. Mechanics/Tables/Duergar Trinket Table (HHHVIII).md\|Duergar Trinket Table]]
+> ![[/5. Mechanics/Tables/Duergar Trinket Table (HHHVIII).md\|Duergar Trinket Table]]
 
 #### Duergar Despot
 
 > [!embed-table]- Duergar Despot
-> ![[5. Mechanics/Tables/Duergar Despot (HHHVIII).md\|Duergar Despot]]
+> ![[/5. Mechanics/Tables/Duergar Despot (HHHVIII).md\|Duergar Despot]]
 
 #### Duergar Hammerer
 
 > [!embed-table]- Duergar Hammerer
-> ![[5. Mechanics/Tables/Duergar Hammerer (HHHVIII).md\|Duergar Hammerer]]
+> ![[/5. Mechanics/Tables/Duergar Hammerer (HHHVIII).md\|Duergar Hammerer]]
 
 #### Duergar Kavalrachni
 
 > [!embed-table]- Duergar Kavalrachni
-> ![[5. Mechanics/Tables/Duergar Kavalrachni (HHHVIII).md\|Duergar Kavalrachni]]
+> ![[/5. Mechanics/Tables/Duergar Kavalrachni (HHHVIII).md\|Duergar Kavalrachni]]
 
 #### Duergar Mind Master
 
 > [!embed-table]- Duergar Mind Master
-> ![[5. Mechanics/Tables/Duergar Mind Master (HHHVIII).md\|Duergar Mind Master]]
+> ![[/5. Mechanics/Tables/Duergar Mind Master (HHHVIII).md\|Duergar Mind Master]]
 
 #### Duergar Screamer
 
 > [!embed-table]- Duergar Screamer
-> ![[5. Mechanics/Tables/Duergar Screamer (HHHVIII).md\|Duergar Screamer]]
+> ![[/5. Mechanics/Tables/Duergar Screamer (HHHVIII).md\|Duergar Screamer]]
 
 #### Duergar Soulblade
 
 > [!embed-table]- Duergar Soulblade
-> ![[5. Mechanics/Tables/Duergar Soulblade (HHHVIII).md\|Duergar Soulblade]]
+> ![[/5. Mechanics/Tables/Duergar Soulblade (HHHVIII).md\|Duergar Soulblade]]
 
 #### Duergar Warlord
 
 > [!embed-table]- Duergar Warlord
-> ![[5. Mechanics/Tables/Duergar Warlord (HHHVIII).md\|Duergar Warlord]]
+> ![[/5. Mechanics/Tables/Duergar Warlord (HHHVIII).md\|Duergar Warlord]]
 
 #### Duergar Xarrorn
 
 > [!embed-table]- Duergar Xarrorn
-> ![[5. Mechanics/Tables/Duergar Xarrorn (HHHVIII).md\|Duergar Xarrorn]]
+> ![[/5. Mechanics/Tables/Duergar Xarrorn (HHHVIII).md\|Duergar Xarrorn]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Duergar2.webp#center)
 
@@ -555,7 +555,7 @@ Due to the unique and legendary nature of some archdevils, there is no associate
 ### Eidolon
 
 > [!embed-table]- Eidolon
-> ![[5. Mechanics/Tables/Eidolon (HHHVIII).md\|Eidolon]]
+> ![[/5. Mechanics/Tables/Eidolon (HHHVIII).md\|Eidolon]]
 
 ### Eladrins
 
@@ -566,22 +566,22 @@ Due to the unique and legendary nature of some archdevils, there is no associate
 #### Autumn Eladrin
 
 > [!embed-table]- Autumn Eladrin
-> ![[5. Mechanics/Tables/Autumn Eladrin (HHHVIII).md\|Autumn Eladrin]]
+> ![[/5. Mechanics/Tables/Autumn Eladrin (HHHVIII).md\|Autumn Eladrin]]
 
 #### Spring Eladrin
 
 > [!embed-table]- Spring Eladrin
-> ![[5. Mechanics/Tables/Spring Eladrin (HHHVIII).md\|Spring Eladrin]]
+> ![[/5. Mechanics/Tables/Spring Eladrin (HHHVIII).md\|Spring Eladrin]]
 
 #### Summer Eladrin
 
 > [!embed-table]- Summer Eladrin
-> ![[5. Mechanics/Tables/Summer Eladrin (HHHVIII).md\|Summer Eladrin]]
+> ![[/5. Mechanics/Tables/Summer Eladrin (HHHVIII).md\|Summer Eladrin]]
 
 #### Winter Eladrin
 
 > [!embed-table]- Winter Eladrin
-> ![[5. Mechanics/Tables/Winter Eladrin (HHHVIII).md\|Winter Eladrin]]
+> ![[/5. Mechanics/Tables/Winter Eladrin (HHHVIII).md\|Winter Eladrin]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Eladrin.webp#center)
 
@@ -594,46 +594,46 @@ Due to the unique and legendary nature of some archdevils, there is no associate
 #### Leviathan
 
 > [!embed-table]- Leviathan
-> ![[5. Mechanics/Tables/Leviathan (HHHVIII).md\|Leviathan]]
+> ![[/5. Mechanics/Tables/Leviathan (HHHVIII).md\|Leviathan]]
 
 #### Phoenix
 
 Due to the fiery death and rebirth trait, the Phoenix does not leave behind a usable corpse upon its death. Instead, it leaves ashes which may be harvested, while its entropy shard is blasted up to 150 feet away. In order to harvest a Phoenix's entropy shard, a harvester must first make a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check to figure out where it landed.
 
 > [!embed-table]- Phoenix
-> ![[5. Mechanics/Tables/Phoenix (HHHVIII).md\|Phoenix]]
+> ![[/5. Mechanics/Tables/Phoenix (HHHVIII).md\|Phoenix]]
 
 #### Elder Tempest
 
 > [!embed-table]- Elder Tempest
-> ![[5. Mechanics/Tables/Elder Tempest (HHHVIII).md\|Elder Tempest]]
+> ![[/5. Mechanics/Tables/Elder Tempest (HHHVIII).md\|Elder Tempest]]
 
 #### Zaratan
 
 > [!embed-table]- Zaratan
-> ![[5. Mechanics/Tables/Zaratan (HHHVIII).md\|Zaratan]]
+> ![[/5. Mechanics/Tables/Zaratan (HHHVIII).md\|Zaratan]]
 
 ### Elemental Myrmidons
 
 #### Air Elemental Myrmidon
 
 > [!embed-table]- Air Elemental Myrmidon
-> ![[5. Mechanics/Tables/Air Elemental Myrmidon (HHHVIII).md\|Air Elemental Myrmidon]]
+> ![[/5. Mechanics/Tables/Air Elemental Myrmidon (HHHVIII).md\|Air Elemental Myrmidon]]
 
 #### Earth Elemental Myrmidon
 
 > [!embed-table]- Earth Elemental Myrmidon
-> ![[5. Mechanics/Tables/Earth Elemental Myrmidon (HHHVIII).md\|Earth Elemental Myrmidon]]
+> ![[/5. Mechanics/Tables/Earth Elemental Myrmidon (HHHVIII).md\|Earth Elemental Myrmidon]]
 
 #### Fire Elemental Myrmidon
 
 > [!embed-table]- Fire Elemental Myrmidon
-> ![[5. Mechanics/Tables/Fire Elemental Myrmidon (HHHVIII).md\|Fire Elemental Myrmidon]]
+> ![[/5. Mechanics/Tables/Fire Elemental Myrmidon (HHHVIII).md\|Fire Elemental Myrmidon]]
 
 #### Water Elemental Myrmidon
 
 > [!embed-table]- Water Elemental Myrmidon
-> ![[5. Mechanics/Tables/Water Elemental Myrmidon (HHHVIII).md\|Water Elemental Myrmidon]]
+> ![[/5. Mechanics/Tables/Water Elemental Myrmidon (HHHVIII).md\|Water Elemental Myrmidon]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Myrmidons.webp#center)
 
@@ -646,10 +646,10 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > Of all the races I have met on my travels, the giff are easily my favourite. There's just something about their general demeanour that really speaks to me. In fact, I liked them so much that it was almost impossible to bring myself around to autopsying one after they fell in battle next to me. But I did it anyway since I think that in the end, contributing to this book is one of the highest honours I can bestow upon a creature.
 
 > [!embed-table]- Giff Trinket Table
-> ![[5. Mechanics/Tables/Giff Trinket Table (HHHVIII).md\|Giff Trinket Table]]
+> ![[/5. Mechanics/Tables/Giff Trinket Table (HHHVIII).md\|Giff Trinket Table]]
 
 > [!embed-table]- Giff
-> ![[5. Mechanics/Tables/Giff (HHHVIII).md\|Giff]]
+> ![[/5. Mechanics/Tables/Giff (HHHVIII).md\|Giff]]
 
 ### Gith
 
@@ -658,49 +658,49 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > The similarities and differences of the subspecies of gith yield volumes of information on their history and divergent evolution. Scholars could study for years on the intricate ways in which their bodies have developed in response to their differing environments and as such, it is my duty to continue harvesting samples of them to continue this worthy academic endeavour.
 
 > [!embed-table]- Githyanki Trinket Table
-> ![[5. Mechanics/Tables/Githyanki Trinket Table (HHHVIII).md\|Githyanki Trinket Table]]
+> ![[/5. Mechanics/Tables/Githyanki Trinket Table (HHHVIII).md\|Githyanki Trinket Table]]
 
 > [!embed-table]- Githzerai Trinket Table
-> ![[5. Mechanics/Tables/Githzerai Trinket Table (HHHVIII).md\|Githzerai Trinket Table]]
+> ![[/5. Mechanics/Tables/Githzerai Trinket Table (HHHVIII).md\|Githzerai Trinket Table]]
 
 #### Githyanki Gish
 
 > [!embed-table]- Githyanki Gish
-> ![[5. Mechanics/Tables/Githyanki Gish (HHHVIII).md\|Githyanki Gish]]
+> ![[/5. Mechanics/Tables/Githyanki Gish (HHHVIII).md\|Githyanki Gish]]
 
 #### Githyanki Kith'rak
 
 > [!embed-table]- Githyanki Kith'rak
-> ![[5. Mechanics/Tables/Githyanki Kithrak (HHHVIII).md\|Githyanki Kith'rak]]
+> ![[/5. Mechanics/Tables/Githyanki Kithrak (HHHVIII).md\|Githyanki Kith'rak]]
 
 #### Githyanki Supreme Commander
 
 > [!embed-table]- Githyanki Supreme Commander
-> ![[5. Mechanics/Tables/Githyanki Supreme Commander (HHHVIII).md\|Githyanki Supreme Commander]]
+> ![[/5. Mechanics/Tables/Githyanki Supreme Commander (HHHVIII).md\|Githyanki Supreme Commander]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Gith.webp#center)
 
 #### Githzerai Anarch
 
 > [!embed-table]- Githzerai Anarch
-> ![[5. Mechanics/Tables/Githzerai Anarch (HHHVIII).md\|Githzerai Anarch]]
+> ![[/5. Mechanics/Tables/Githzerai Anarch (HHHVIII).md\|Githzerai Anarch]]
 
 #### Githzerai Enlightened
 
 > [!embed-table]- Githzerai Enlightened
-> ![[5. Mechanics/Tables/Githzerai Enlightened (HHHVIII).md\|Githzerai Enlightened]]
+> ![[/5. Mechanics/Tables/Githzerai Enlightened (HHHVIII).md\|Githzerai Enlightened]]
 
 ### Gray Render
 
 > [!embed-table]- Gray Render
-> ![[5. Mechanics/Tables/Gray Render (HHHVIII).md\|Gray Render]]
+> ![[/5. Mechanics/Tables/Gray Render (HHHVIII).md\|Gray Render]]
 
 ## Harvest Table: H
 
 ### Howler
 
 > [!embed-table]- Howler
-> ![[5. Mechanics/Tables/Howler (HHHVIII).md\|Howler]]
+> ![[/5. Mechanics/Tables/Howler (HHHVIII).md\|Howler]]
 
 ## Harvest Table: K
 
@@ -709,24 +709,24 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 #### Young Kruthik
 
 > [!embed-table]- Young Kruthik
-> ![[5. Mechanics/Tables/Young Kruthik (HHHVIII).md\|Young Kruthik]]
+> ![[/5. Mechanics/Tables/Young Kruthik (HHHVIII).md\|Young Kruthik]]
 
 #### Adult Kruthik
 
 > [!embed-table]- Adult Kruthik
-> ![[5. Mechanics/Tables/Adult Kruthik (HHHVIII).md\|Adult Kruthik]]
+> ![[/5. Mechanics/Tables/Adult Kruthik (HHHVIII).md\|Adult Kruthik]]
 
 #### Kruthik Hive Lord
 
 > [!embed-table]- Kruthik Hive Lord
-> ![[5. Mechanics/Tables/Kruthik Hive Lord (HHHVIII).md\|Kruthik Hive Lord]]
+> ![[/5. Mechanics/Tables/Kruthik Hive Lord (HHHVIII).md\|Kruthik Hive Lord]]
 
 ## Harvest Table: M
 
 ### Marut
 
 > [!embed-table]- Marut
-> ![[5. Mechanics/Tables/Marut (HHHVIII).md\|Marut]]
+> ![[/5. Mechanics/Tables/Marut (HHHVIII).md\|Marut]]
 
 ### Meazel
 
@@ -735,10 +735,10 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > There's really nothing more depressing than someone that has been taken by the Shadowfell and transformed into a meazel. Not because of their dreadful situation, but because their corpses were almost certainly more valuable in their original forms; meazel corpses simply don't have that much to offer in terms of utility. Truly the Shadowfell knows how to rob even someone like me of their simple pleasures.
 
 > [!embed-table]- Meazel
-> ![[5. Mechanics/Tables/Meazel (HHHVIII).md\|Meazel]]
+> ![[/5. Mechanics/Tables/Meazel (HHHVIII).md\|Meazel]]
 
 > [!embed-table]- Meazel Trinket Table
-> ![[5. Mechanics/Tables/Meazel Trinket Table (HHHVIII).md\|Meazel Trinket Table]]
+> ![[/5. Mechanics/Tables/Meazel Trinket Table (HHHVIII).md\|Meazel Trinket Table]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Meazel.webp#center)
 
@@ -747,10 +747,10 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 ### Nagpa
 
 > [!embed-table]- Nagpa
-> ![[5. Mechanics/Tables/Nagpa (HHHVIII).md\|Nagpa]]
+> ![[/5. Mechanics/Tables/Nagpa (HHHVIII).md\|Nagpa]]
 
 > [!embed-table]- Nagpa Trinket Table
-> ![[5. Mechanics/Tables/Nagpa Trinket Table (HHHVIII).md\|Nagpa Trinket Table]]
+> ![[/5. Mechanics/Tables/Nagpa Trinket Table (HHHVIII).md\|Nagpa Trinket Table]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Nagpa.webp#center)
 
@@ -761,7 +761,7 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > I must clear my name and state that I had nothing to do with the death of the nightwalker that I harvested to make this entry. I have no idea which pour soul ended up trapped in the Negative Plane due to this creature's death, but I hope that wherever they are, they are happy to know the nightwalker also killed its assailants during their fight, thus exacting some revenge on those responsible for their eternal captivity
 
 > [!embed-table]- Nightwalker
-> ![[5. Mechanics/Tables/Nightwalker (HHHVIII).md\|Nightwalker]]
+> ![[/5. Mechanics/Tables/Nightwalker (HHHVIII).md\|Nightwalker]]
 
 ## Harvest Table: O
 
@@ -770,17 +770,17 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 #### Oblex Spawn
 
 > [!embed-table]- Oblex Spawn
-> ![[5. Mechanics/Tables/Oblex Spawn (HHHVIII).md\|Oblex Spawn]]
+> ![[/5. Mechanics/Tables/Oblex Spawn (HHHVIII).md\|Oblex Spawn]]
 
 #### Adult Oblex
 
 > [!embed-table]- Adult Oblex
-> ![[5. Mechanics/Tables/Adult Oblex (HHHVIII).md\|Adult Oblex]]
+> ![[/5. Mechanics/Tables/Adult Oblex (HHHVIII).md\|Adult Oblex]]
 
 #### Elder Oblex
 
 > [!embed-table]- Elder Oblex
-> ![[5. Mechanics/Tables/Elder Oblex (HHHVIII).md\|Elder Oblex]]
+> ![[/5. Mechanics/Tables/Elder Oblex (HHHVIII).md\|Elder Oblex]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Oblex.webp#center)
 
@@ -793,22 +793,22 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 #### Ogre Battering Ram
 
 > [!embed-table]- Ogre Battering Ram
-> ![[5. Mechanics/Tables/Ogre Battering Ram (HHHVIII).md\|Ogre Battering Ram]]
+> ![[/5. Mechanics/Tables/Ogre Battering Ram (HHHVIII).md\|Ogre Battering Ram]]
 
 #### Ogre Bolt Launcher
 
 > [!embed-table]- Ogre Bolt Launcher
-> ![[5. Mechanics/Tables/Ogre Bolt Launcher (HHHVIII).md\|Ogre Bolt Launcher]]
+> ![[/5. Mechanics/Tables/Ogre Bolt Launcher (HHHVIII).md\|Ogre Bolt Launcher]]
 
 #### Ogre Chain Brute
 
 > [!embed-table]- Ogre Chain Brute
-> ![[5. Mechanics/Tables/Ogre Chain Brute (HHHVIII).md\|Ogre Chain Brute]]
+> ![[/5. Mechanics/Tables/Ogre Chain Brute (HHHVIII).md\|Ogre Chain Brute]]
 
 #### Ogre Howdah
 
 > [!embed-table]- Ogre Howdah
-> ![[5. Mechanics/Tables/Ogre Howdah (HHHVIII).md\|Ogre Howdah]]
+> ![[/5. Mechanics/Tables/Ogre Howdah (HHHVIII).md\|Ogre Howdah]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Ogre.webp#center)
 
@@ -817,7 +817,7 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 ### Retriever
 
 > [!embed-table]- Retriever
-> ![[5. Mechanics/Tables/Retriever (HHHVIII).md\|Retriever]]
+> ![[/5. Mechanics/Tables/Retriever (HHHVIII).md\|Retriever]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Retriever.webp#center)
 
@@ -830,7 +830,7 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 > I must confess that I actually encountered frost salamanders before I met their fiery cousins. This led me to believe that the frost salamander was actually the default variety, and I ended up referring to the fire-based variety as "fire salamanders" for quite some time. The uncles at the Hamund clan hall still joke about it whenever I go back for family reunions.
 
 > [!embed-table]- Frost Salamander
-> ![[5. Mechanics/Tables/Frost Salamander (HHHVIII).md\|Frost Salamander]]
+> ![[/5. Mechanics/Tables/Frost Salamander (HHHVIII).md\|Frost Salamander]]
 
 ### Shadar-Kai
 
@@ -843,32 +843,32 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 #### Shadar-Kai Trinket Table
 
 > [!embed-table]- Shadar-Kai Trinket Table
-> ![[5. Mechanics/Tables/Shadar Kai Trinket Table (HHHVIII).md\|Shadar-Kai Trinket Table]]
+> ![[/5. Mechanics/Tables/Shadar Kai Trinket Table (HHHVIII).md\|Shadar-Kai Trinket Table]]
 
 #### Gloom Weaver
 
 > [!embed-table]- Gloom Weaver
-> ![[5. Mechanics/Tables/Gloom Weaver (HHHVIII).md\|Gloom Weaver]]
+> ![[/5. Mechanics/Tables/Gloom Weaver (HHHVIII).md\|Gloom Weaver]]
 
 #### Shadow Dancer
 
 > [!embed-table]- Shadow Dancer
-> ![[5. Mechanics/Tables/Shadow Dancer (HHHVIII).md\|Shadow Dancer]]
+> ![[/5. Mechanics/Tables/Shadow Dancer (HHHVIII).md\|Shadow Dancer]]
 
 #### Soul Monger
 
 > [!embed-table]- Soul Monger
-> ![[5. Mechanics/Tables/Soul Monger (HHHVIII).md\|Soul Monger]]
+> ![[/5. Mechanics/Tables/Soul Monger (HHHVIII).md\|Soul Monger]]
 
 ### Skulk
 
 > [!embed-table]- Skulk
-> ![[5. Mechanics/Tables/Skulk (HHHVIII).md\|Skulk]]
+> ![[/5. Mechanics/Tables/Skulk (HHHVIII).md\|Skulk]]
 
 ### Skull Lord
 
 > [!embed-table]- Skull Lord
-> ![[5. Mechanics/Tables/Skull Lord (HHHVIII).md\|Skull Lord]]
+> ![[/5. Mechanics/Tables/Skull Lord (HHHVIII).md\|Skull Lord]]
 
 ### Sorrowsworn
 
@@ -879,39 +879,39 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 #### The Angry
 
 > [!embed-table]- The Angry
-> ![[5. Mechanics/Tables/The Angry (HHHVIII).md\|The Angry]]
+> ![[/5. Mechanics/Tables/The Angry (HHHVIII).md\|The Angry]]
 
 #### The Hungry
 
 > [!embed-table]- The Hungry
-> ![[5. Mechanics/Tables/The Hungry (HHHVIII).md\|The Hungry]]
+> ![[/5. Mechanics/Tables/The Hungry (HHHVIII).md\|The Hungry]]
 
 #### The Lonely
 
 > [!embed-table]- The Lonely
-> ![[5. Mechanics/Tables/The Lonely (HHHVIII).md\|The Lonely]]
+> ![[/5. Mechanics/Tables/The Lonely (HHHVIII).md\|The Lonely]]
 
 #### The Lost
 
 > [!embed-table]- The Lost
-> ![[5. Mechanics/Tables/The Lost (HHHVIII).md\|The Lost]]
+> ![[/5. Mechanics/Tables/The Lost (HHHVIII).md\|The Lost]]
 
 #### The Wretched
 
 > [!embed-table]- The Wretched
-> ![[5. Mechanics/Tables/The Wretched (HHHVIII).md\|The Wretched]]
+> ![[/5. Mechanics/Tables/The Wretched (HHHVIII).md\|The Wretched]]
 
 ### Star Spawn
 
 #### Star Spawn Grue
 
 > [!embed-table]- Star Spawn Grue
-> ![[5. Mechanics/Tables/Star Spawn Grue (HHHVIII).md\|Star Spawn Grue]]
+> ![[/5. Mechanics/Tables/Star Spawn Grue (HHHVIII).md\|Star Spawn Grue]]
 
 #### Star Spawn Hulk
 
 > [!embed-table]- Star Spawn Hulk
-> ![[5. Mechanics/Tables/Star Spawn Hulk (HHHVIII).md\|Star Spawn Hulk]]
+> ![[/5. Mechanics/Tables/Star Spawn Hulk (HHHVIII).md\|Star Spawn Hulk]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/StarSpawn.webp#center)
 
@@ -924,43 +924,43 @@ Due to the fiery death and rebirth trait, the Phoenix does not leave behind a us
 In order to harvest the star spawn larva mage, you must first kill the swarm of insects that is formed when it uses its return to worms trait. The bulk of this swarm is treated as the larva mage's corpse for the purpose of harvesting.
 
 > [!embed-table]- Star Spawn Larva Mage
-> ![[5. Mechanics/Tables/Star Spawn Larva Mage (HHHVIII).md\|Star Spawn Larva Mage]]
+> ![[/5. Mechanics/Tables/Star Spawn Larva Mage (HHHVIII).md\|Star Spawn Larva Mage]]
 
 #### Star Spawn Mangler
 
 > [!embed-table]- Star Spawn Mangler
-> ![[5. Mechanics/Tables/Star Spawn Mangler (HHHVIII).md\|Star Spawn Mangler]]
+> ![[/5. Mechanics/Tables/Star Spawn Mangler (HHHVIII).md\|Star Spawn Mangler]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Mangler.webp#center)
 
 #### Star Spawn Seer
 
 > [!embed-table]- Star Spawn Seer
-> ![[5. Mechanics/Tables/Star Spawn Seer (HHHVIII).md\|Star Spawn Seer]]
+> ![[/5. Mechanics/Tables/Star Spawn Seer (HHHVIII).md\|Star Spawn Seer]]
 
 ### Steeder
 
 #### Female Steeder
 
 > [!embed-table]- Female Steeder
-> ![[5. Mechanics/Tables/Female Steeder (HHHVIII).md\|Female Steeder]]
+> ![[/5. Mechanics/Tables/Female Steeder (HHHVIII).md\|Female Steeder]]
 
 #### Male Steeder
 
 > [!embed-table]- Male Steeder
-> ![[5. Mechanics/Tables/Male Steeder (HHHVIII).md\|Male Steeder]]
+> ![[/5. Mechanics/Tables/Male Steeder (HHHVIII).md\|Male Steeder]]
 
 ### Steel Predator
 
 > [!embed-table]- Steel Predator
-> ![[5. Mechanics/Tables/Steel Predator (HHHVIII).md\|Steel Predator]]
+> ![[/5. Mechanics/Tables/Steel Predator (HHHVIII).md\|Steel Predator]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/SteelPredator.webp#center)
 
 ### Stone Cursed
 
 > [!embed-table]- Stone Cursed
-> ![[5. Mechanics/Tables/Stone Cursed (HHHVIII).md\|Stone Cursed]]
+> ![[/5. Mechanics/Tables/Stone Cursed (HHHVIII).md\|Stone Cursed]]
 
 ### Sword Wraith
 
@@ -971,12 +971,12 @@ In order to harvest the star spawn larva mage, you must first kill the swarm of 
 #### Sword Wraith Commander
 
 > [!embed-table]- Sword Wraith Commander
-> ![[5. Mechanics/Tables/Sword Wraith Commander (HHHVIII).md\|Sword Wraith Commander]]
+> ![[/5. Mechanics/Tables/Sword Wraith Commander (HHHVIII).md\|Sword Wraith Commander]]
 
 #### Sword Wraith Warrior
 
 > [!embed-table]- Sword Wraith Warrior
-> ![[5. Mechanics/Tables/Sword Wraith Warrior (HHHVIII).md\|Sword Wraith Warrior]]
+> ![[/5. Mechanics/Tables/Sword Wraith Warrior (HHHVIII).md\|Sword Wraith Warrior]]
 
 ## Harvest Table: T
 
@@ -989,17 +989,17 @@ In order to harvest the star spawn larva mage, you must first kill the swarm of 
 #### Tortle Trinket Table
 
 > [!embed-table]- Tortle Trinket Table
-> ![[5. Mechanics/Tables/Tortle Trinket Table (HHHVIII).md\|Tortle Trinket Table]]
+> ![[/5. Mechanics/Tables/Tortle Trinket Table (HHHVIII).md\|Tortle Trinket Table]]
 
 #### Tortle
 
 > [!embed-table]- Tortle
-> ![[5. Mechanics/Tables/Tortle (HHHVIII).md\|Tortle]]
+> ![[/5. Mechanics/Tables/Tortle (HHHVIII).md\|Tortle]]
 
 #### Tortle Druid
 
 > [!embed-table]- Tortle Druid
-> ![[5. Mechanics/Tables/Tortle Druid (HHHVIII).md\|Tortle Druid]]
+> ![[/5. Mechanics/Tables/Tortle Druid (HHHVIII).md\|Tortle Druid]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/Tortles.webp#center)
 
@@ -1012,29 +1012,29 @@ In order to harvest the star spawn larva mage, you must first kill the swarm of 
 #### Dire Troll
 
 > [!embed-table]- Dire Troll
-> ![[5. Mechanics/Tables/Dire Troll (HHHVIII).md\|Dire Troll]]
+> ![[/5. Mechanics/Tables/Dire Troll (HHHVIII).md\|Dire Troll]]
 
 #### Rot Troll
 
 > [!embed-table]- Rot Troll
-> ![[5. Mechanics/Tables/Rot Troll (HHHVIII).md\|Rot Troll]]
+> ![[/5. Mechanics/Tables/Rot Troll (HHHVIII).md\|Rot Troll]]
 
 #### Spirit Troll
 
 > [!embed-table]- Spirit Troll
-> ![[5. Mechanics/Tables/Spirit Troll (HHHVIII).md\|Spirit Troll]]
+> ![[/5. Mechanics/Tables/Spirit Troll (HHHVIII).md\|Spirit Troll]]
 
 #### Venom Troll
 
 > [!embed-table]- Venom Troll
-> ![[5. Mechanics/Tables/Venom Troll (HHHVIII).md\|Venom Troll]]
+> ![[/5. Mechanics/Tables/Venom Troll (HHHVIII).md\|Venom Troll]]
 
 ## Harvest Table: V
 
 ### Vampiric Mist
 
 > [!embed-table]- Vampiric Mist
-> ![[5. Mechanics/Tables/Vampiric Mist (HHHVIII).md\|Vampiric Mist]]
+> ![[/5. Mechanics/Tables/Vampiric Mist (HHHVIII).md\|Vampiric Mist]]
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/VampiricMist.webp#center)
 
@@ -1055,29 +1055,29 @@ Either way, a yugoloth slain outside of Gehenna cannot be harvested for anything
 #### Canoloth
 
 > [!embed-table]- Canoloth
-> ![[5. Mechanics/Tables/Canoloth (HHHVIII).md\|Canoloth]]
+> ![[/5. Mechanics/Tables/Canoloth (HHHVIII).md\|Canoloth]]
 
 #### Dhergoloth
 
 > [!embed-table]- Dhergoloth
-> ![[5. Mechanics/Tables/Dhergoloth (HHHVIII).md\|Dhergoloth]]
+> ![[/5. Mechanics/Tables/Dhergoloth (HHHVIII).md\|Dhergoloth]]
 
 #### Hydroloth
 
 > [!embed-table]- Hydroloth
-> ![[5. Mechanics/Tables/Hydroloth (HHHVIII).md\|Hydroloth]]
+> ![[/5. Mechanics/Tables/Hydroloth (HHHVIII).md\|Hydroloth]]
 
 #### Merrenoloth
 
 > [!embed-table]- Merrenoloth
-> ![[5. Mechanics/Tables/Merrenoloth (HHHVIII).md\|Merrenoloth]]
+> ![[/5. Mechanics/Tables/Merrenoloth (HHHVIII).md\|Merrenoloth]]
 
 #### Oinoloth
 
 > [!embed-table]- Oinoloth
-> ![[5. Mechanics/Tables/Oinoloth (HHHVIII).md\|Oinoloth]]
+> ![[/5. Mechanics/Tables/Oinoloth (HHHVIII).md\|Oinoloth]]
 
 #### Yagnoloth
 
 > [!embed-table]- Yagnoloth
-> ![[5. Mechanics/Tables/Yagnoloth (HHHVIII).md\|Yagnoloth]]
+> ![[/5. Mechanics/Tables/Yagnoloth (HHHVIII).md\|Yagnoloth]]

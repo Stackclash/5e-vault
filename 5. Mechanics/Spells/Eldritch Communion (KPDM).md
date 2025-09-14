@@ -14,13 +14,12 @@ level: 5
 ritual: true
 time: 1 minute
 duration: 1 minute
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: 'corvid entrails, a dried opium poppy, and a glass dagger'
 aliases:
   - Eldritch Communion
-material: 'corvid entrails, a dried opium poppy, and a glass dagger'
 ---
 # Eldritch Communion
 *5th-level, Divination (ritual)*  
@@ -38,6 +37,6 @@ This also reveals the presence of all aberrations within 300 feet of you. There 
 
 If you cast this spell two or more times before taking a long rest, there is a cumulative 25 percent chance for each casting after the first that you receive no answer and become afflicted with short-term madness.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
 
 *Source: Deep Magic p. 338*

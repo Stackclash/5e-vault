@@ -13,7 +13,7 @@ armorClass: 14 + Dex modifier (max of +2)
 weight: 45
 ---
 # Elder Sequoia Scale Mail
-*Medium armor ([[5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, rare (requires attunement by a druid)*  
+*Medium armor ([[/5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, rare (requires attunement by a druid)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Elder-Sequoia-Scale-Mail.webp#right)  
 
 - **Armor Class**: 14 + Dex modifier (max of +2)

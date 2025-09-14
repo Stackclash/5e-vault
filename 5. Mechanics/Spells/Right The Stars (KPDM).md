@@ -15,13 +15,12 @@ level: 7
 ritual: false
 time: 10 minutes
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: Self
+somatic: true
+verbal: true
+material: seven black candles and a circle of powdered charred bone or basalt
 aliases:
   - Right the Stars
-material: seven black candles and a circle of powdered charred bone or basalt
 ---
 # Right the Stars
 *7th-level, Divination*  
@@ -33,6 +32,6 @@ material: seven black candles and a circle of powdered charred bone or basalt
 
 You subtly warp the flow of space and time to enhance your conjurations with cosmic potency. Until the spell ends, the maximum duration of any conjuration spell you cast that requires concentration is doubled, any creature that you summon or create with a conjuration spell has 30 temporary hit points, and you have advantage on Charisma checks and Charisma saving throws.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 260*

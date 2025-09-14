@@ -15,7 +15,7 @@ tags:
 aliases:
   - Archer
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Archer (MPMM).md|Archer]]
+# [[5. Mechanics/Bestiary/Humanoid/Archer (MPMM).md|Archer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210*
 
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
@@ -48,7 +48,7 @@ Some renowned archers and groups of archers are known for the special fletching 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "modifier": !!int "4"
@@ -71,10 +71,10 @@ Some renowned archers and groups of archers are known for the special fletching 
 "actions":
   - "desc": "The archer makes two Shortsword or Longbow attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
       \ + 4) piercing damage."
     "name": "Shortsword"
-  - "desc": "Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:*\
       \ 8 (1d8 + 4) piercing damage."
     "name": "Longbow"
 "bonus_actions":
@@ -84,7 +84,7 @@ Some renowned archers and groups of archers are known for the special fletching 
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/archer-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/archer-mpmm.webp"
 ```
 ^statblock
 

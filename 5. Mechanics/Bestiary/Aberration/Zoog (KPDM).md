@@ -13,7 +13,7 @@ tags:
 aliases:
   - Zoog
 ---
-# [[5. Mechanics\Bestiary\Aberration\Zoog (KPDM).md|Zoog]]
+# [[5. Mechanics/Bestiary/Aberration/Zoog (KPDM).md|Zoog]]
 *Source: Deep Magic p. 300*
 
 Alien-looking creatures, zoogs are intelligent and will serve an evil-aligned spellcaster as a familiar with the correct sort of inducement (normally the sacrifice of a cat or other feline creature).
@@ -44,11 +44,12 @@ If a zoog agrees to serve another creature as a familiar, it forms a telepathic 
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "Deep Speech, Void Speech"
 "cr": "0"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
       \ damage."
     "name": "Bite"
 "source":

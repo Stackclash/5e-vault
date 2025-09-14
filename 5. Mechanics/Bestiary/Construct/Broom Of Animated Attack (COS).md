@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\4
+cr: 1/4
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Broom of Animated Attack
 ---
-# [[5. Mechanics\Bestiary\Construct\Broom Of Animated Attack (COS).md|Broom of Animated Attack]]
+# [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md|Broom of Animated Attack]]
 *Source: Curse of Strahd p. 226*
 
 A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
@@ -46,7 +46,8 @@ Some brooms of animated attack allow their creators to ride them, in which case 
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 7"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft. (blind beyond\
+  \ this radius), passive Perception 7"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -56,8 +57,8 @@ Some brooms of animated attack allow their creators to ride them, in which case 
       \ too damaged to be of much use or value to anyone."
     "name": "Constructed Nature"
   - "desc": "The broom is [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]\
-      \ while in the area of an [[5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
-      \ If targeted by [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the broom\
+      \ while in the area of an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]].\
+      \ If targeted by [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], the broom\
       \ must succeed on a Constitution saving throw against the caster's spell save\
       \ DC or fall [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]] for\
       \ 1 minute."
@@ -68,7 +69,7 @@ Some brooms of animated attack allow their creators to ride them, in which case 
 "actions":
   - "desc": "The broom makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
       \ + 3) bludgeoning damage."
     "name": "Broomstick"
 "reactions":
@@ -79,7 +80,7 @@ Some brooms of animated attack allow their creators to ride them, in which case 
     "name": "Animated Attack"
 "source":
   - "CoS"
-"image": "5. Mechanics/Bestiary/Construct/token/broom-of-animated-attack-cos.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/broom-of-animated-attack-cos.webp"
 ```
 ^statblock
 

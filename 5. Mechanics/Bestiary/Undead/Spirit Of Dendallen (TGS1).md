@@ -13,29 +13,29 @@ tags:
 aliases:
   - Spirit of Dendallen
 ---
-# [[5. Mechanics\Bestiary\Undead\Spirit Of Dendallen (TGS1).md|Spirit of Dendallen]]
+# [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|Spirit of Dendallen]]
 *Source: The Griffon's Saddlebag, Book 1 p. 200*
 
 ## Attuning to the Remnants
 
 Attuning to three Remnants of Dendallen is a gift as well as a curse. While a creature is attuned to three of these items, it can freely attune to other Remnants of Dendallen. When it does, its attunement to another Remnant ends, as well as its curse.
 
-If Dendallen is dead, being attuned to these items activates a secondary effect once you reach level 15 (or 14 if there are 5 players in your group, etc.). When this happens, the attuned creature's cursed body becomes strong enough to handle the intensity of channeling the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|spirit of Dendallen]]. The event is involuntary, and happens either at the end of a long rest or at your discretion.
+If Dendallen is dead, being attuned to these items activates a secondary effect once you reach level 15 (or 14 if there are 5 players in your group, etc.). When this happens, the attuned creature's cursed body becomes strong enough to handle the intensity of channeling the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|spirit of Dendallen]]. The event is involuntary, and happens either at the end of a long rest or at your discretion.
 
 > [!note] The Remnants of Dendallen
 > 
-> Items created by [[5. Mechanics/Bestiary/Humanoid/Nicrone Dendallen (TGS1).md|Dendallen]] are called Remnants of Dendallen and double as vessels to store a portion of his spirit. At the time of his death, these Remnants can be scattered around the planes of existence or collected by his remaining devout followers: whatever makes the most sense for your campaign. Any item that bears Dendallen's name in its title is considered to be a Remnant.
+> Items created by [[/5. Mechanics/Bestiary/Humanoid/Nicrone Dendallen (TGS1).md|Dendallen]] are called Remnants of Dendallen and double as vessels to store a portion of his spirit. At the time of his death, these Remnants can be scattered around the planes of existence or collected by his remaining devout followers: whatever makes the most sense for your campaign. Any item that bears Dendallen's name in its title is considered to be a Remnant.
 > 
 > Remnants are laced with necromancy magic that forces creatures to sacrifice a part of themselves in order to use them. The sacrifices, while potentially reversible, are more than just skin-or-bone-deep. As curses take hold, they begin to gradually provide strength and vitality to the lingering spirit of Dendallen trapped inside them.
 > 
-> If a creature attuned to at least one Remnant is in the presence of another Remnant that isn't attuned to by someone else, that creature must succeed on a DC 20 Wisdom saving throw or become obsessed with it and do anything within its power to take and attune to that Remnant before another creature is able to. The obsession lasts until the creature is unable to see or touch the Remnant for at least 1 hour or until it's targeted by either a [[5. Mechanics/Spells/Greater Restoration.md|greater restoration]] or [[5. Mechanics/Spells/Remove Curse.md|remove curse]] spell.
+> If a creature attuned to at least one Remnant is in the presence of another Remnant that isn't attuned to by someone else, that creature must succeed on a DC 20 Wisdom saving throw or become obsessed with it and do anything within its power to take and attune to that Remnant before another creature is able to. The obsession lasts until the creature is unable to see or touch the Remnant for at least 1 hour or until it's targeted by either a [[/5. Mechanics/Spells/Greater Restoration.md|greater restoration]] or [[/5. Mechanics/Spells/Remove Curse.md|remove curse]] spell.
 ^the-remnants-of-dendallen
 
 ## Dendallen's Return
 
-When the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|spirit of Dendallen]] is channeled by a level 15 creature attuned to 3 of his Remnants, they become momentarily frozen in place. While unmoving, the creature's body begins to overflow in a torrent of green arcane and necrotic energy that spills forth from their back. The energy coalesces above them to form the towering, spectral avatar of Nicrone Dendallen's returned form: the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|spirit of Dendallen]]. Its hulking, necromantically-charged form looms over the hosted creature and drips with ooze-like green necrotic ectoplasm.
+When the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|spirit of Dendallen]] is channeled by a level 15 creature attuned to 3 of his Remnants, they become momentarily frozen in place. While unmoving, the creature's body begins to overflow in a torrent of green arcane and necrotic energy that spills forth from their back. The energy coalesces above them to form the towering, spectral avatar of Nicrone Dendallen's returned form: the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|spirit of Dendallen]]. Its hulking, necromantically-charged form looms over the hosted creature and drips with ooze-like green necrotic ectoplasm.
 
-The scraps of Nicrone Dendallen's spirit that were anchored in his Remnants combine to form the new spirit. These once-weak shards have been empowered as the attuned creature has sacrificed aspects of themselves through the items' various curses. Removing the worn Remnants from the host (even forcefully) fails to destroy or dispel the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|spirit of Dendallen]].
+The scraps of Nicrone Dendallen's spirit that were anchored in his Remnants combine to form the new spirit. These once-weak shards have been empowered as the attuned creature has sacrificed aspects of themselves through the items' various curses. Removing the worn Remnants from the host (even forcefully) fails to destroy or dispel the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|spirit of Dendallen]].
 
 The spirit's appearance is that of a huge, muscular lich made of spectral miasma. Depending on the Remnants that the hosted creature has attuned to, the spirit's appearance may change to reflect the host's Remnants. Regardless of appearance, the spirit's abilities and power are unchanged.
 
@@ -43,7 +43,7 @@ Dendallen was an egotistical and jealous wizard in life, and death has not chang
 
 ### Resilient Thrall
 
-Once a creature attunes to three Remnants of Dendallen, nothing short of a [[5. Mechanics/Spells/Wish.md|wish]] spell can break their attunement to the items. However, once the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|spirit of Dendallen]] has been summoned, targeting the host with greater restoration, remove curse, the *break enchantment* effect of [[5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]] or other applicable spells of 5th level or greater grants the host advantage on their next saving throw to resist Dendallen's thrall. Likewise, any game effects that end possession or the [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] condition don't end the spirit's thrall over its host, but do grant the host advantage on their next saving throw against the spirit's control.
+Once a creature attunes to three Remnants of Dendallen, nothing short of a [[/5. Mechanics/Spells/Wish.md|wish]] spell can break their attunement to the items. However, once the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|spirit of Dendallen]] has been summoned, targeting the host with greater restoration, remove curse, the *break enchantment* effect of [[/5. Mechanics/Spells/Dispel Evil And Good.md|dispel evil and good]] or other applicable spells of 5th level or greater grants the host advantage on their next saving throw to resist Dendallen's thrall. Likewise, any game effects that end possession or the [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] condition don't end the spirit's thrall over its host, but do grant the host advantage on their next saving throw against the spirit's control.
 
 ### Personal Connections
 
@@ -51,7 +51,7 @@ Characters who share a meaningful personal connection with Dendallen's host can 
 
 ### Psychic Roots
 
-After 1 minute of the initial emergence of the [[5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|spirit of Dendallen]], the hosted creature suffers disadvantage on all saving throws it makes to resist the spirit's Attuned Thrall ability. Once an additional minute has passed, the host becomes possessed by Dendallen, as described in the *Victory or Defeat* section below.
+After 1 minute of the initial emergence of the [[/5. Mechanics/Bestiary/Undead/Spirit Of Dendallen (TGS1).md|spirit of Dendallen]], the hosted creature suffers disadvantage on all saving throws it makes to resist the spirit's Attuned Thrall ability. Once an additional minute has passed, the host becomes possessed by Dendallen, as described in the *Victory or Defeat* section below.
 
 ### Undead Nature
 
@@ -86,11 +86,11 @@ While Dendallen is proud of his necromantic achievements, his step into undeath 
   - !!int "22"
   - !!int "19"
   - !!int "17"
-"speed": "60 ft. (see attuned thrall trait)"
+"speed": "60 ft. (see *attuned thrall* trait)"
 "saves":
-  - "dexterity": "+10"
-  - "intelligence": "+13"
-  - "charisma": "+10"
+  - "dexterity": !!int "10"
+  - "intelligence": !!int "13"
+  - "charisma": !!int "10"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+13"
@@ -108,31 +108,32 @@ While Dendallen is proud of his necromantic achievements, his step into undeath 
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "truesight 15 ft., darkvision 120 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 15 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 14"
 "languages": "Common, telepathy 120 ft."
 "cr": "21"
 "traits":
   - "desc": "The spirit is a 19th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 12, +13 to hit with spell attacks). It has the following wizard\
-      \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Chill Touch.md|chill touch]],\
-      \ [[5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[5. Mechanics/Spells/Mage Hand.md|mage hand]],\
-      \ [[5. Mechanics/Spells/Poison Spray.md|poison spray]], [[5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
-      \n1st level (4 slots): [[5. Mechanics/Spells/False Life.md|false life]], [[5. Mechanics/Spells/Inflict Wounds.md|inflict\
-      \ wounds]], [[5. Mechanics/Spells/Magic Missile.md|magic missile]],\
-      \ [[5. Mechanics/Spells/Shield.md|shield]]\n\n2nd level (3 slots): [[5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]],\
-      \ [[5. Mechanics/Spells/Darkness.md|darkness]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-      \ [[5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]]\n\n3rd level\
-      \ (3 slots): [[5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[5. Mechanics/Spells/Counterspell.md|counterspell]],\
-      \ [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[5. Mechanics/Spells/Haste.md|haste]],\
-      \ [[5. Mechanics/Spells/Slow.md|slow]]\n\n4th level (3 slots): [[5. Mechanics/Spells/Blight.md|blight]],\
-      \ [[5. Mechanics/Spells/Confusion.md|confusion]], [[5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]]\n\
-      \n5th level (3 slots): [[5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[5. Mechanics/Spells/Telekinesis.md|telekinesis]],\
-      \ [[5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\n6th level (2 slots):\
-      \ [[5. Mechanics/Spells/Circle Of Death.md|circle of death]], [[5. Mechanics/Spells/Disintegrate.md|disintegrate]]\n\
-      \n7th level (1 slots): [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
-      \ [[5. Mechanics/Spells/Prismatic Spray.md|prismatic spray]]\n\n8th level (1\
-      \ slots): [[5. Mechanics/Spells/Feeblemind.md|feeblemind]]\n\n9th level (1\
-      \ slots): [[5. Mechanics/Spells/Weird.md|weird]]"
+      \ spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Chill Touch.md|chill touch]],\
+      \ [[/5. Mechanics/Spells/Dancing Lights.md|dancing lights]], [[/5. Mechanics/Spells/Mage Hand.md|mage hand]],\
+      \ [[/5. Mechanics/Spells/Poison Spray.md|poison spray]], [[/5. Mechanics/Spells/Ray Of Frost.md|ray of frost]]\n\
+      \n**1st level (4 slots):** [[/5. Mechanics/Spells/False Life.md|false life]], [[/5. Mechanics/Spells/Inflict Wounds.md|inflict\
+      \ wounds]], [[/5. Mechanics/Spells/Magic Missile.md|magic missile]],\
+      \ [[/5. Mechanics/Spells/Shield.md|shield]]\n\n**2nd level (3 slots):** [[/5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]],\
+      \ [[/5. Mechanics/Spells/Darkness.md|darkness]], [[/5. Mechanics/Spells/Hold Person.md|hold person]],\
+      \ [[/5. Mechanics/Spells/Ray Of Enfeeblement.md|ray of enfeeblement]]\n\n**3rd\
+      \ level (3 slots):** [[/5. Mechanics/Spells/Bestow Curse.md|bestow curse]], [[/5. Mechanics/Spells/Counterspell.md|counterspell]],\
+      \ [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]], [[/5. Mechanics/Spells/Haste.md|haste]],\
+      \ [[/5. Mechanics/Spells/Slow.md|slow]]\n\n**4th level (3 slots):** [[/5. Mechanics/Spells/Blight.md|blight]],\
+      \ [[/5. Mechanics/Spells/Confusion.md|confusion]], [[/5. Mechanics/Spells/Phantasmal Killer.md|phantasmal killer]]\n\
+      \n**5th level (3 slots):** [[/5. Mechanics/Spells/Cloudkill.md|cloudkill]], [[/5. Mechanics/Spells/Telekinesis.md|telekinesis]],\
+      \ [[/5. Mechanics/Spells/Wall Of Force.md|wall of force]]\n\n**6th level (2 slots):**\
+      \ [[/5. Mechanics/Spells/Circle Of Death.md|circle of death]], [[/5. Mechanics/Spells/Disintegrate.md|disintegrate]]\n\
+      \n**7th level (1 slots):** [[/5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
+      \ [[/5. Mechanics/Spells/Prismatic Spray.md|prismatic spray]]\n\n**8th level (1\
+      \ slots):** [[/5. Mechanics/Spells/Feeblemind.md|feeblemind]]\n\n**9th level (1\
+      \ slots):** [[/5. Mechanics/Spells/Weird.md|weird]]"
     "name": "Spellcasting"
   - "desc": "The creature that attuned to three Remnants of Dendallen becomes the\
       \ host to the spirit of Dendallen, and a conduit through which it can exist\
@@ -169,28 +170,32 @@ While Dendallen is proud of his necromantic achievements, his step into undeath 
   - "desc": "The spirit is immune to effects that turn undead."
     "name": "Turn Immunity"
   - "desc": "If the spirit doesn't have any tendrils conjured, it can use a bonus\
-      \ action to conjure 1 [[5. Mechanics/Bestiary/Undead/Tendril Of Dendallen (TGS1).md|tendril of Dendallen]]\
+      \ action to conjure 1 [[/5. Mechanics/Bestiary/Undead/Tendril Of Dendallen (TGS1).md|tendril of Dendallen]]\
       \ at any point on a surface within 120 feet."
     "name": "Create Tendril"
 "actions":
   - "desc": "The spirit makes three slam attacks or two decaying ray attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 18\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 18\
       \ (2d12 + 5) force damage plus 27 (6d8) acid damage."
     "name": "Slam"
-  - "desc": "Ranged Spell Attack: +12 to hit, range 60 ft., one creature. Hit:\
+  - "desc": "*Ranged Spell Attack:* +12 to hit, range 60 ft., one creature. *Hit:*\
       \ 17 (3d8 + 3) necrotic damage, and the target must succeed on a DC 20 Constitution\
       \ saving throw or gain one cumulative level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]]\
       \ that lasts for 1 minute. A creature exhausted by this attack repeats the saving\
-      \ throw at the end of each of its turns, taking an additional 3 (d6) necrotic\
+      \ throw at the end of each of its turns, taking an additional 3 (1d6) necrotic\
       \ damage for each level of exhaustion it has on a failed save, or removing all\
       \ exhaustion on a successful one."
     "name": "Bolt"
-  - "desc": "The spirit conjures 1d4 + 1 [[5. Mechanics/Bestiary/Undead/Tendril Of Dendallen (TGS1).md|tendrils of Dendallen]]\
+  - "desc": "The spirit conjures 1d4 + 1 [[/5. Mechanics/Bestiary/Undead/Tendril Of Dendallen (TGS1).md|tendrils of Dendallen]]\
       \ at points of its choice on surfaces within 120 feet of it, up to a maximum\
       \ of six of them at once. Roll initiative for the tendrils, which have their\
       \ own turns."
     "name": "Conjure Tendrils (Recharge 5-6)"
+"legendary_description": "Legendary Action Uses: 4. Immediately after another creature's\
+  \ turn, the spirit of dendallen can expend a use to take one of the following actions.\
+  \ The spirit of dendallen regains all expended uses at the start of each of its\
+  \ turns."
 "legendary_actions":
   - "desc": "The spirit makes a single slam or decaying ray attack."
     "name": "Quick Attack"

@@ -18,17 +18,21 @@ classes:
   - Wizard
 school: Conjuration
 level: 5
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 7
+  types: []
 ritual: false
 time: 1 Action
-duration: up to 1 hour
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+somatic: true
+verbal: true
+material: a wooden or metal whistle
 aliases:
   - Conjure Fey Hound
-concentration: true
-material: a wooden or metal whistle
 ---
 # Conjure Fey Hound
 *5th-level, Conjuration*  
@@ -44,6 +48,6 @@ The summoned hound is friendly to you and your companions. Roll initiative for t
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you summon two hounds. When you cast this spell using a 9th-level spell slot, you summon three hounds.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 52*

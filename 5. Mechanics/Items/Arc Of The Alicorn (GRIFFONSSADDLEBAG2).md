@@ -11,11 +11,11 @@ tags:
 aliases:
   - Arc of the Alicorn
 one-hand-damage: 1d10 piercing
-range: 150\600
+range: 150/600
 weight: 2
 ---
 # Arc of the Alicorn
-*Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Arc-of-the-Alicorn.webp#right)  
 
 - **Damage**: 1d10 piercing

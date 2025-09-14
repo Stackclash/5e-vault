@@ -14,16 +14,29 @@ classes:
   - Warlock
 school: Necromancy
 level: 4
+damage:
+  base: 6d6
+  scaling:
+    damage: 1d6
+    level: 5
+  types:
+    - necrotic
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self (15-foot Cone)
+somatic: true
+verbal: true
+material: a ringed lock of hair from an undead creature
+area:
+  shape: cone
+  size: 15
 aliases:
   - Keening Wail
-material: a ringed lock of hair from an undead creature
 ---
 # Keening Wail
 *4th-level, Necromancy*  
@@ -35,8 +48,8 @@ material: a ringed lock of hair from an undead creature
 
 You emit an unholy shriek from beyond the grave. Each creature in a 15-foot cone must make a Constitution saving throw. A creature takes `dice:6d6|noform|noparens|avg` (`6d6`) necrotic damage on a failed save, or half as much damage on a successful one. If a creature with 50 hit points or fewer fails the saving throw by 5 or more, it is instead reduced to 0 hit points. This wail has no effect on constructs and undead.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 4th.
+**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 4th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 87*

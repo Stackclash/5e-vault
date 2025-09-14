@@ -20,16 +20,23 @@ classes:
   - Wizard
 school: Transmutation
 level: 5
+damage:
+  base: 1d20+8
+  scaling:
+    damage: null
+    level: 6
+  types:
+    - bludgeoning
+    - piercing
+    - slashing
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+somatic: true
+verbal: true
 aliases:
   - Animate Objects
-range: 120 feet
-concentration: true
 ---
 # Animate Objects
 *5th-level, Transmutation*  
@@ -47,11 +54,11 @@ As a bonus action, you can mentally command any creature you made with this spel
 
 | Size | HP | AC | Attack | Str | Dex |
 |------|----|----|--------|-----|-----|
-| [[5. Mechanics/Bestiary/Construct/Animated Object Tiny.md\|Tiny]] | 20 | 18 | `dice:1d20+8\|noform\|noparens\|text(+8)` to hit, `dice:1d4+4\|noform\|noparens\|avg` (`1d4 + 4`) damage | `dice:1d20-3\|noform\|noparens\|avg\|text(4)` (` - 3`) | `dice:1d20+4\|noform\|noparens\|avg\|text(18)` (` + 4`) |
-| [[5. Mechanics/Bestiary/Construct/Animated Object Small.md\|Small]] | 25 | 16 | `dice:1d20+6\|noform\|noparens\|text(+6)` to hit, `dice:1d8+2\|noform\|noparens\|avg` (`1d8 + 2`) damage | `dice:1d20-2\|noform\|noparens\|avg\|text(6)` (` - 2`) | `dice:1d20+2\|noform\|noparens\|avg\|text(14)` (` + 2`) |
-| [[5. Mechanics/Bestiary/Construct/Animated Object Medium.md\|Medium]] | 40 | 13 | `dice:1d20+5\|noform\|noparens\|text(+5)` to hit, `dice:2d6+1\|noform\|noparens\|avg` (`2d6 + 1`) damage | `dice:1d20\|noform\|noparens\|avg\|text(d20)` | `dice:1d20+1\|noform\|noparens\|avg\|text(12)` (` + 1`) |
-| [[5. Mechanics/Bestiary/Construct/Animated Object Large.md\|Large]] | 50 | 10 | `dice:1d20+6\|noform\|noparens\|text(+6)` to hit, `dice:2d10+2\|noform\|noparens\|avg` (`2d10 + 2`) damage | `dice:1d20+2\|noform\|noparens\|avg\|text(14)` (` + 2`) | `dice:1d20\|noform\|noparens\|avg\|text(d20)` |
-| [[5. Mechanics/Bestiary/Construct/Animated Object Huge.md\|Huge]] | 80 | 10 | `dice:1d20+8\|noform\|noparens\|text(+8)` to hit, `dice:2d12+4\|noform\|noparens\|avg` (`2d12 + 4`) damage | `dice:1d20+4\|noform\|noparens\|avg\|text(18)` (` + 4`) | `dice:1d20-3\|noform\|noparens\|avg\|text(6)` (` - 3`) |
+| [[/5. Mechanics/Bestiary/Construct/Animated Object Tiny.md\|Tiny]] | 20 | 18 | `dice:1d20+8\|noform\|noparens\|text(+8)` to hit, `dice:1d4+4\|noform\|noparens\|avg` (`1d4 + 4`) damage | `dice:1d20-3\|noform\|noparens\|avg\|text(4)` (` - 3`) | `dice:1d20+4\|noform\|noparens\|avg\|text(18)` (` + 4`) |
+| [[/5. Mechanics/Bestiary/Construct/Animated Object Small.md\|Small]] | 25 | 16 | `dice:1d20+6\|noform\|noparens\|text(+6)` to hit, `dice:1d8+2\|noform\|noparens\|avg` (`1d8 + 2`) damage | `dice:1d20-2\|noform\|noparens\|avg\|text(6)` (` - 2`) | `dice:1d20+2\|noform\|noparens\|avg\|text(14)` (` + 2`) |
+| [[/5. Mechanics/Bestiary/Construct/Animated Object Medium.md\|Medium]] | 40 | 13 | `dice:1d20+5\|noform\|noparens\|text(+5)` to hit, `dice:2d6+1\|noform\|noparens\|avg` (`2d6 + 1`) damage | `dice:1d20\|noform\|noparens\|avg\|text(1d20)` | `dice:1d20+1\|noform\|noparens\|avg\|text(12)` (` + 1`) |
+| [[/5. Mechanics/Bestiary/Construct/Animated Object Large.md\|Large]] | 50 | 10 | `dice:1d20+6\|noform\|noparens\|text(+6)` to hit, `dice:2d10+2\|noform\|noparens\|avg` (`2d10 + 2`) damage | `dice:1d20+2\|noform\|noparens\|avg\|text(14)` (` + 2`) | `dice:1d20\|noform\|noparens\|avg\|text(1d20)` |
+| [[/5. Mechanics/Bestiary/Construct/Animated Object Huge.md\|Huge]] | 80 | 10 | `dice:1d20+8\|noform\|noparens\|text(+8)` to hit, `dice:2d12+4\|noform\|noparens\|avg` (`2d12 + 4`) damage | `dice:1d20+4\|noform\|noparens\|avg\|text(18)` (` + 4`) | `dice:1d20-3\|noform\|noparens\|avg\|text(6)` (` - 3`) |
 ^animated-object-statistics
 
 An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.
@@ -60,6 +67,6 @@ If you command an object to attack, it can make a single melee attack against a 
 
 **At Higher Levels.** If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Warlock (The Lithic)](compendium/lists/list-spells-classes-the-lithic-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Forge Domain)](compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Forge Domain)](/compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Lithic)](/compendium/lists/list-spells-classes-the-lithic-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

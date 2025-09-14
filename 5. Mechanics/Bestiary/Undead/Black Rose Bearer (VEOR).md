@@ -13,7 +13,7 @@ tags:
 aliases:
   - Black Rose Bearer
 ---
-# [[5. Mechanics\Bestiary\Undead\Black Rose Bearer (VEOR).md|Black Rose Bearer]]
+# [[5. Mechanics/Bestiary/Undead/Black Rose Bearer (VEOR).md|Black Rose Bearer]]
 *Source: Vecna: Eve of Ruin p. 208*
 
 > [!quote] A quote from Common saying among the Knights of Solamnia  
@@ -47,7 +47,8 @@ A bearer's black rose is an homage to the tyrannical Lord Soth, the most powerfu
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "6"
 "traits":
@@ -68,12 +69,12 @@ A bearer's black rose is an homage to the tyrannical Lord Soth, the most powerfu
 "actions":
   - "desc": "The bearer makes two Slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d8 + 3) bludgeoning damage plus 11 (2d10) necrotic damage."
     "name": "Slam"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Undead/token/black-rose-bearer-veor.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/black-rose-bearer-veor.webp"
 ```
 ^statblock
 

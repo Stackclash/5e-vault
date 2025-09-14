@@ -13,7 +13,7 @@ tags:
 aliases:
   - Ice Soldier
 ---
-# [[5. Mechanics\Bestiary\Construct\Ice Soldier (KPDM).md|Ice Soldier]]
+# [[5. Mechanics/Bestiary/Construct/Ice Soldier (KPDM).md|Ice Soldier]]
 *Source: Deep Magic p. 82*
 
 ```statblock
@@ -51,7 +51,7 @@ aliases:
 "actions":
   - "desc": "The ice soldier makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) cold damage."
     "name": "Slam"
 "source":

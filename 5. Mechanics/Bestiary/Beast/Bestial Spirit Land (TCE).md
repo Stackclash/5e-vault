@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bestial Spirit (Land)
 ---
-# [[5. Mechanics\Bestiary\Beast\Bestial Spirit Land (TCE).md|Bestial Spirit (Land)]]
+# [[5. Mechanics/Bestiary/Beast/Bestial Spirit Land (TCE).md|Bestial Spirit (Land)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
@@ -31,7 +31,8 @@ aliases:
   - !!int "14"
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "The beast has advantage on an attack roll against a creature if at least\
@@ -42,8 +43,8 @@ aliases:
   - "desc": "The beast makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d8 + 4 + the spell's level piercing damage."
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d8 + 4 + the spell's level piercing damage."
     "name": "Maul"
 "source":
   - "TCE"

@@ -10,4 +10,4 @@ aliases:
 
 ## 9th Level
 
-- [[5. Mechanics/Spells/Shapechange.md \|"PHB"]] at class level 14
+- [[/5. Mechanics/Spells/Shapechange.md \|"PHB"]] at class level 14

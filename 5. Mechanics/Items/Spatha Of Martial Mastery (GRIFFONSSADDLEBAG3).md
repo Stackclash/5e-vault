@@ -14,7 +14,7 @@ one-hand-damage: 1d6 piercing
 weight: 2
 ---
 # Spatha of Martial Mastery
-*Weapon ([[5. Mechanics/Items/Shortsword.md\|shortsword]]), major, rare (requires attunement by a barbarian, fighter, monk, or rogue)*  
+*Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, rare (requires attunement by a barbarian, fighter, monk, or rogue)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Spatha-of-Martial-Mastery.webp#right)  
 
 - **Damage**: 1d6 piercing
@@ -29,7 +29,7 @@ If you have 5 or more levels in the rogue class, you can use your Cunning Action
 
 ## Freed Hand
 
-If you have 5 or more levels in the barbarian class, any target you hit with this weapon while raging takes an extra `dice:1d6|noform|noparens|avg` (`d6`) piercing damage from it, as you master both brutal blows and the free exercise of your strength. You don't gain this benefit if you're holding a weapon or shield in your other hand.
+If you have 5 or more levels in the barbarian class, any target you hit with this weapon while raging takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage from it, as you master both brutal blows and the free exercise of your strength. You don't gain this benefit if you're holding a weapon or shield in your other hand.
 
 ## Ki Channeling
 

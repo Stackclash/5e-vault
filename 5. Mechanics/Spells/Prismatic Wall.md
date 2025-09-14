@@ -12,18 +12,32 @@ classes:
   - Wizard
 school: Abjuration
 level: 9
+damage:
+  base: 10d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - acid
+    - cold
+    - fire
+    - force
+    - lightning
+    - poison
+saving_throw:
+  skills:
+    - Constitution
+    - Dexterity
+    - Wisdom
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: 10 minutes
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Prismatic Wall
-range: 60 feet
-area:
-  type: line
-  size: 90
 ---
 # Prismatic Wall
 *9th-level, Abjuration*  
@@ -39,7 +53,7 @@ The wall sheds bright light out to a range of 100 feet and dim light for an addi
 
 The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall's layers. As it passes or reaches through each layer, the creature must make a Dexterity saving throw or be affected by that layer's properties as described below.
 
-The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. An [[5. Mechanics/Spells/Antimagic Field.md\|antimagic field]] has no effect on a prismatic wall.
+The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. An [[/5. Mechanics/Spells/Antimagic Field.md\|antimagic field]] has no effect on a prismatic wall.
 
 ## Red
 
@@ -55,7 +69,7 @@ The creature takes `dice:10d6|noform|noparens|avg` (`10d6`) lightning damage on 
 
 ## Green
 
-The creature takes `dice:10d6|noform|noparens|avg` (`10d6`) poison damage on a failed save, or half as much damage on a successful one. A [[5. Mechanics/Spells/Passwall.md\|passwall]] spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
+The creature takes `dice:10d6|noform|noparens|avg` (`10d6`) poison damage on a failed save, or half as much damage on a successful one. A [[/5. Mechanics/Spells/Passwall.md\|passwall]] spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
 
 ## Blue
 
@@ -65,14 +79,14 @@ The creature takes `dice:10d6|noform|noparens|avg` (`10d6`) cold damage on a fai
 
 On a failed save, the creature is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.
 
-While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a [[5. Mechanics/Spells/Daylight.md\|daylight]] spell or a similar spell of equal or higher level.
+While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a [[/5. Mechanics/Spells/Daylight.md\|daylight]] spell or a similar spell of equal or higher level.
 
 ## Violet
 
-On a failed save, the creature is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]]. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]]. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a [[5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell or a similar spell of equal or higher level that can end spells and magical effects.
+On a failed save, the creature is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]]. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]]. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell or a similar spell of equal or higher level that can end spells and magical effects.
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

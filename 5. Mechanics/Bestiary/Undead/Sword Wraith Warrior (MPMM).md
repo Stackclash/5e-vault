@@ -15,7 +15,7 @@ tags:
 aliases:
   - Sword Wraith Warrior
 ---
-# [[5. Mechanics\Bestiary\Undead\Sword Wraith Warrior (MPMM).md|Sword Wraith Warrior]]
+# [[5. Mechanics/Bestiary/Undead/Sword Wraith Warrior (MPMM).md|Sword Wraith Warrior]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
@@ -30,7 +30,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[[5. Mechanics/Items/Chain Shirt.md|chain shirt]], [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "[[/5. Mechanics/Items/Chain Shirt.md|chain shirt]], [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "1"
@@ -47,17 +47,18 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 9"
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
   - "desc": "The warrior doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
       \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
     "name": "Battleaxe"
-  - "desc": "Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit:\
+  - "desc": "*Ranged Weapon Attack:* +3 to hit, range 150/600 ft., one target. *Hit:*\
       \ 5 (1d8 + 1) piercing damage."
     "name": "Longbow"
 "bonus_actions":
@@ -67,7 +68,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Undead/token/sword-wraith-warrior-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Undead/token/sword-wraith-warrior-mpmm.webp"
 ```
 ^statblock
 

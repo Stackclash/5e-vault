@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dream Fungus
 ---
-# [[5. Mechanics\Bestiary\Plant\Dream Fungus (GRIFFONSSADDLEBAG3).md|Dream Fungus]]
+# [[5. Mechanics/Bestiary/Plant/Dream Fungus (GRIFFONSSADDLEBAG3).md|Dream Fungus]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 A dream fungus is a towering mushroom that spreads brain-altering spores which allow it to lure and poison the minds of passersby. Its spores are known to create violent hallucinations resulting in berserking fits and unspeakable fear.
@@ -39,7 +39,8 @@ A dream fungus is a towering mushroom that spreads brain-altering spores which a
 "damage_resistances": "psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft. (blind beyond\
+  \ this radius), passive Perception 11"
 "languages": ""
 "cr": "1"
 "traits":
@@ -51,7 +52,7 @@ A dream fungus is a towering mushroom that spreads brain-altering spores which a
       \ a language."
     "name": "Limited Telepathy"
   - "desc": "A creature that touches the fungus or hits it with a melee attack while\
-      \ within 10 feet of it takes 4 (d8) poison damage and is subjected to the fungus's\
+      \ within 10 feet of it takes 4 (1d8) poison damage and is subjected to the fungus's\
       \ Frenzying"
     "name": "Noxious Body"
   - "desc": ""
@@ -75,7 +76,7 @@ A dream fungus is a towering mushroom that spreads brain-altering spores which a
       \ creature's turns, it must succeed on a DC 10 Wisdom saving throw or take 11\
       \ (2d10) psychic damage. If a creature's saving throw is successful or the effect\
       \ ends for it, the creature has advantage on saving throws against the fungus's\
-      \ Terror Spores for the next d4 hours."
+      \ Terror Spores for the next 1d4 hours."
     "name": "Terrorizing Spores"
 "source":
   - "GriffonsSaddlebag3"

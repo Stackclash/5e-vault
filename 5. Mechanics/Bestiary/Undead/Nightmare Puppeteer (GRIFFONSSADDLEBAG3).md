@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nightmare Puppeteer
 ---
-# [[5. Mechanics\Bestiary\Undead\Nightmare Puppeteer (GRIFFONSSADDLEBAG3).md|Nightmare Puppeteer]]
+# [[5. Mechanics/Bestiary/Undead/Nightmare Puppeteer (GRIFFONSSADDLEBAG3).md|Nightmare Puppeteer]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The Dream Shaper's will is carried out by the puppeteers: massive, disembodied hands that silently traverse The Grephearon. The puppeteers are largely harmless until threatened or actively engaged. They use body-snatching strings made of the Deep Ethereal's protomatter to bind and control dissidents within The Grephearon. Dream dragons are their sworn enemy and will immediately engage with any they encounter.
@@ -37,9 +37,9 @@ The Dream Shaper's will is carried out by the puppeteers: massive, disembodied h
   - !!int "11"
 "speed": "40 ft., climb 40 ft., fly 40 ft. (hover)"
 "saves":
-  - "dexterity": "+8"
-  - "constitution": "+11"
-  - "charisma": "+6"
+  - "dexterity": !!int "8"
+  - "constitution": !!int "11"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+12"
@@ -54,18 +54,19 @@ The Dream Shaper's will is carried out by the puppeteers: massive, disembodied h
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "blindsight 120 ft., passive Perception 19"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft., passive Perception\
+  \ 19"
 "languages": "understands all"
 "cr": "18"
 "traits":
   - "desc": "The puppeteer's spellcasting ability is Intelligence (spell save DC 19,\
       \ +11 to hit with spell attacks).\n\nThe puppeteer can innately cast the following\
-      \ spells, requiring only somatic components:\n\nAt will: [[5. Mechanics/Spells/Burning Hands.md|burning hands]],\
-      \ [[5. Mechanics/Spells/Scrying.md|scrying]], [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\
-      \ (4d8)\n\n3/day each: [[5. Mechanics/Spells/Color Spray.md|color spray]] (as\
-      \ a 5th-level spell), [[5. Mechanics/Spells/Scorching Ray.md|scorching ray]] (as\
-      \ a 4th-level spell)\n\n1/day each: [[5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
-      \ [[5. Mechanics/Spells/Prismatic Spray.md|prismatic spray]]"
+      \ spells, requiring only somatic components:\n\n**At will:** [[/5. Mechanics/Spells/Burning Hands.md|burning hands]],\
+      \ [[/5. Mechanics/Spells/Scrying.md|scrying]], [[/5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]]\
+      \ (4d8)\n\n**3/day each:** [[/5. Mechanics/Spells/Color Spray.md|color spray]]\
+      \ (as a 5th-level spell), [[/5. Mechanics/Spells/Scorching Ray.md|scorching ray]]\
+      \ (as a 4th-level spell)\n\n**1/day each:** [[/5. Mechanics/Spells/Finger Of Death.md|finger of death]],\
+      \ [[/5. Mechanics/Spells/Prismatic Spray.md|prismatic spray]]"
     "name": "Innate Spellcasting"
   - "desc": "If the puppeteer moves at least 20 feet straight toward a target and\
       \ then hits it with a slam attack on the same turn, the target takes an extra\
@@ -92,16 +93,17 @@ The Dream Shaper's will is carried out by the puppeteers: massive, disembodied h
   - "desc": "The puppeteer makes two slam attacks. It can use its Fling in place of\
       \ one attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 20\
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 20\
       \ (3d8 + 7) bludgeoning damage."
     "name": "Slam"
   - "desc": "The puppeteer attempts to flick or throw one creature within 5 feet of\
       \ it. The target must make a DC 21 Dexterity saving throw. On a failed save,\
       \ the target is flung up to 60 feet away from the puppeteer and knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]],\
       \ and any strings that were attached to it detach. If the target strikes a solid\
-      \ surface, the target takes 3 (d6) bludgeoning damage for every 10 feet it was\
-      \ thrown. If the target is thrown at another creature, that creature must succeed\
-      \ on a DC 15 Dexterity saving throw or take the same damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
+      \ surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it\
+      \ was thrown. If the target is thrown at another creature, that creature must\
+      \ succeed on a DC 15 Dexterity saving throw or take the same damage and be knocked\
+      \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Fling"
   - "desc": "The puppeteer launches a string from each of its fingertips at one creature\
       \ it can see within 15 feet of it. The target must make a DC 19 Dexterity saving\
@@ -110,7 +112,7 @@ The Dream Shaper's will is carried out by the puppeteers: massive, disembodied h
       \ [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]] in this way, the\
       \ target is moved with the puppeteer as it moves, always staying within 15 feet\
       \ of the puppeteer.\n\nThe target can use an action to make a DC 15 Strength\
-      \ (Athletics) check, breaking free from up to d4 attached strings on a success.\
+      \ (Athletics) check, breaking free from up to 1d4 attached strings on a success.\
       \ Each string can also be attacked and destroyed individually (AC 10; hp 5;\
       \ vulnerability to fire damage; immunity to bludgeoning, poison, and psychic\
       \ damage). The puppeteer can only have strings attached to one creature at a\
@@ -131,6 +133,10 @@ The Dream Shaper's will is carried out by the puppeteers: massive, disembodied h
       \ reaction as well. Each time the creature takes damage, it can repeat the saving\
       \ throw, ending the effect on itself on a success."
     "name": "Puppet (Recharge 6)"
+"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
+  \ turn, the nightmare puppeteer can expend a use to take one of the following actions.\
+  \ The nightmare puppeteer regains all expended uses at the start of each of its\
+  \ turns."
 "legendary_actions":
   - "desc": "The puppeteer moves up to its speed."
     "name": "Move"

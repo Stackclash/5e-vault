@@ -10,11 +10,11 @@ tags:
 aliases:
   - Axe Beak Tomahawk
 one-hand-damage: 1d6 slashing
-range: 20\60
+range: 20/60
 weight: 2
 ---
 # Axe Beak Tomahawk
-*Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Axe-Beak-Tomahawk.webp#right)  
 
 - **Damage**: 1d6 slashing

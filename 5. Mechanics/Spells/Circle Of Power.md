@@ -16,12 +16,15 @@ school: Abjuration
 level: 5
 ritual: false
 time: 1 Action
-duration: up to 10 minutes
-components:
-  - V
+duration: 'Concentration, up to 10 minutes'
+range: Self (30-foot Radius)
+somatic: false
+verbal: true
+area:
+  shape: radius
+  size: 30
 aliases:
   - Circle of Power
-concentration: true
 ---
 # Circle of Power
 *5th-level, Abjuration*  
@@ -33,6 +36,6 @@ concentration: true
 
 Divine energy radiates from you, distorting and diffusing magical energy within 30 feet of you. Until the spell ends, the sphere moves with you, centered on you. For the duration, each friendly creature in the area (including you) has advantage on saving throws against spells and other magical effects. Additionally, when an affected creature succeeds on a saving throw made against a spell or magical effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Cleric (Twilight Domain)](compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Twilight Domain)](/compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Player's Handbook p. 221*

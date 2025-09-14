@@ -13,7 +13,7 @@ tags:
 aliases:
   - Phisarazu Spyder-Fiend
 ---
-# [[5. Mechanics\Bestiary\Fiend\Phisarazu Spyder Fiend (VEOR).md|Phisarazu Spyder-Fiend]]
+# [[5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend (VEOR).md|Phisarazu Spyder-Fiend]]
 *Source: Vecna: Eve of Ruin p. 235*
 
 Phisarazu spyder-fiends have a pair of muscular arms sprouting beneath their wolf heads. They are resentful and suspicious of all other creatures, which makes them useful for corralling kakkuus or standing guard.
@@ -48,9 +48,9 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
   - !!int "13"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  - "dexterity": "+7"
-  - "constitution": "+8"
-  - "wisdom": "+7"
+  - "dexterity": !!int "7"
+  - "constitution": !!int "8"
+  - "wisdom": !!int "7"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+7"
@@ -60,7 +60,8 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
   \ nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 120 ft., passive Perception 17"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
+  \ 17"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "13"
 "traits":
@@ -79,12 +80,12 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
   - "desc": "The phisarazu makes one Bite attack and two Claw attacks. It can replace\
       \ one of these attacks with Scintillating Spray if available."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 15\
       \ (2d10 + 4) piercing damage plus 9 (2d8) poison damage, and the target has\
       \ the [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] condition until the\
       \ start of the phisarazu's next turn."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 22\
       \ (4d8 + 4) slashing damage."
     "name": "Claw"
   - "desc": "The phisarazu expels shimmering webs in a 60-foot cone. Creatures and\
@@ -103,7 +104,7 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
     "name": "Change Shape"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Fiend/token/phisarazu-spyder-fiend-veor.webp"
+"image": "/5. Mechanics/Bestiary/Fiend/token/phisarazu-spyder-fiend-veor.webp"
 ```
 ^statblock
 

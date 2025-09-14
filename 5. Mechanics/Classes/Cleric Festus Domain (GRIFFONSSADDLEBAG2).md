@@ -58,20 +58,20 @@ You gain domain spells at the cleric levels listed in the Festus Domain Spells t
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Goodberry.md\|goodberry]], [[5. Mechanics/Spells/Purify Food And Drink.md\|purify food and drink]] |
-| 3rd | [[5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], [[5. Mechanics/Spells/Protection From Poison.md\|protection from poison]] |
-| 5th | [[5. Mechanics/Spells/Create Food And Water.md\|create food and water]], [[5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
-| 7th | [[5. Mechanics/Spells/Blight.md\|blight]], [[5. Mechanics/Spells/Control Water.md\|control water]] |
-| 9th | [[5. Mechanics/Spells/Cloudkill.md\|cloudkill]], [[5. Mechanics/Spells/Contagion.md\|contagion]] |
+| 1st | [[/5. Mechanics/Spells/Goodberry.md\|goodberry]], [[/5. Mechanics/Spells/Purify Food And Drink.md\|purify food and drink]] |
+| 3rd | [[/5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], [[/5. Mechanics/Spells/Protection From Poison.md\|protection from poison]] |
+| 5th | [[/5. Mechanics/Spells/Create Food And Water.md\|create food and water]], [[/5. Mechanics/Spells/Stinking Cloud.md\|stinking cloud]] |
+| 7th | [[/5. Mechanics/Spells/Blight.md\|blight]], [[/5. Mechanics/Spells/Control Water.md\|control water]] |
+| 9th | [[/5. Mechanics/Spells/Cloudkill.md\|cloudkill]], [[/5. Mechanics/Spells/Contagion.md\|contagion]] |
 ^cleric-level-spells
 
 ### Bonus Proficiencies (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor, martial weapons, [[5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]], and [[5. Mechanics/Items/Cooks Utensils.md\|cook's utensils]].
+When you choose this domain at 1st level, you gain proficiency with heavy armor, martial weapons, [[/5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]], and [[/5. Mechanics/Items/Cooks Utensils.md\|cook's utensils]].
 
 ### Table-Turner (Level 1)
 
-At 1st level, you can cause an attacker's own body to turn against itself. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Constitution saving throw against your cleric spell save DC. On a failed save, the creature takes `dice:1d12|noform|noparens|avg` (`d12`) poison damage and is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of its next turn. On a successful one, it takes half as much poison damage and isn't [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]].
+At 1st level, you can cause an attacker's own body to turn against itself. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Constitution saving throw against your cleric spell save DC. On a failed save, the creature takes `dice:1d12|noform|noparens|avg` (`1d12`) poison damage and is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the end of its next turn. On a successful one, it takes half as much poison damage and isn't [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]].
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
@@ -83,13 +83,13 @@ Starting at 2nd level, you can use your Channel Divinity as an action to create 
 
 Starting at 6th level, your divinity and magically enhanced constitution have strengthened your natural defenses. You have advantage on saving throws against poison, and you have resistance to acid and poison damage.
 
-In addition, whenever you cast the [[5. Mechanics/Spells/Create Food And Water.md\|create food and water]] spell, the food tastes delicious, and you can choose to replace up to 5 gallons of the water created by the spell with ale or wine. You choose what the food and ale or wine look and taste like.
+In addition, whenever you cast the [[/5. Mechanics/Spells/Create Food And Water.md\|create food and water]] spell, the food tastes delicious, and you can choose to replace up to 5 gallons of the water created by the spell with ale or wine. You choose what the food and ale or wine look and taste like.
 
 Finally, if you're drunk or [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]], you can use an action to magically suppress the effect for 1 minute. Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) acid or poison damage (your choice) to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) acid or poison damage (your choice) to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Invigorating Feast (Level 17)
 

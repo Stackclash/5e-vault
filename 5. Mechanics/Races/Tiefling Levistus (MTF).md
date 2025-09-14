@@ -9,9 +9,9 @@ aliases:
 ---
 # Tiefling (Levistus)
 *Source: Mordenkainen's Tome of Foes p. 22*  
-![[5. Mechanics/Races/img/tiefling.webp#right]]  
+![[/5. Mechanics/Races/img/tiefling.webp#right]]  
 
-- **Ability Scores**: Charisma +2; Constitution +1
+- **Ability Scores**: cha +2 con +1
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma
@@ -36,7 +36,7 @@ You have resistance to fire damage.
 
 ### Legacy of Stygia
 
-You know the [[5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]] cantrip. When you reach 3rd level, you can cast the [[5. Mechanics/Spells/Armor Of Agathys.md\|armor of Agathys]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[5. Mechanics/Spells/Darkness.md\|darkness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [[/5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]] cantrip. When you reach 3rd level, you can cast the [[/5. Mechanics/Spells/Armor Of Agathys.md\|armor of Agathys]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[/5. Mechanics/Spells/Darkness.md\|darkness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

@@ -10,6 +10,6 @@ aliases:
 # Resistant Armor
 *Source: Tasha's Cauldron of Everything p. 23*  
 
-***Prerequisites*** 6th
+***Prerequisites*** Level 6
 
 While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.

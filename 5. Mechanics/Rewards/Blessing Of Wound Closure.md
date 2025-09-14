@@ -9,6 +9,6 @@ aliases:
 ---
 # Blessing of Wound Closure
 
-This blessing grants you the benefits of a [[5. Mechanics/Items/Periapt Of Wound Closure.md\|periapt of wound closure]].
+This blessing grants you the benefits of a [[/5. Mechanics/Items/Periapt Of Wound Closure.md\|periapt of wound closure]].
 
 *Source: Dungeon Master's Guide p. 228*

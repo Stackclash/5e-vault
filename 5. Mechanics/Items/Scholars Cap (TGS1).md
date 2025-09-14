@@ -17,8 +17,8 @@ aliases:
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Scholars Cap 1 (TGS1).md\|Scholar's Cap +1]]  
-- [[5. Mechanics/Items/Scholars Cap 2 (TGS1).md\|Scholar's Cap +2]]  
-- [[5. Mechanics/Items/Scholars Cap 3 (TGS1).md\|Scholar's Cap +3]]  
+- [[/5. Mechanics/Items/Scholars Cap 1 (TGS1).md\|Scholar's Cap +1]]  
+- [[/5. Mechanics/Items/Scholars Cap 2 (TGS1).md\|Scholar's Cap +2]]  
+- [[/5. Mechanics/Items/Scholars Cap 3 (TGS1).md\|Scholar's Cap +3]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 109*

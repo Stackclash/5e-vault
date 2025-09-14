@@ -13,7 +13,7 @@ tags:
 aliases:
   - Stone Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Stone Golem.md|Stone Golem]]
+# [[5. Mechanics/Bestiary/Construct/Stone Golem.md|Stone Golem]]
 *Source: Monster Manual p. 170, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Stone golems display great variety in shape and form, cut and chiseled from stone to appear as tall, impressive statues. Though most bear humanoid features, stone golems can be carved in any form the sculptor can imagine. Ancient stone golems found in sealed tombs or flanking the gates of lost cities sometimes take the forms of giant beasts.
@@ -24,7 +24,7 @@ Like other golems, stone golems are nearly impervious to spells and ordinary wea
 
 Golems are made from humble materials-clay, flesh and bones, iron, or stone-but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [[5. Mechanics/Items/Manual Of Golems.md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a [[/5. Mechanics/Items/Manual Of Golems.md|manual of golems]]. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 ### Elemental Spirit in Material Form
 
@@ -71,7 +71,8 @@ A golem doesn't require air, food, drink, or sleep.
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
@@ -85,7 +86,7 @@ A golem doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The golem makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19\
       \ (3d8 + 6) bludgeoning damage."
     "name": "Slam"
   - "desc": "The golem targets one or more creatures it can see within 10 feet of\
@@ -100,7 +101,7 @@ A golem doesn't require air, food, drink, or sleep.
   - "MM"
   - "CoS"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Construct/token/stone-golem.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/stone-golem.webp"
 ```
 ^statblock
 

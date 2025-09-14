@@ -13,7 +13,7 @@ tags:
 aliases:
   - Star Angler
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Star Angler (VEOR).md|Star Angler]]
+# [[5. Mechanics/Bestiary/Monstrosity/Star Angler (VEOR).md|Star Angler]]
 *Source: Vecna: Eve of Ruin p. 237*
 
 Distantly related to scavvers, star anglers are astral predators that resemble hulking, golden anglerfish with iridescent fins and tails. A star angler lacks eyes, and its hide is dotted with bioluminescent specks, allowing it to easily blend into the vast expanse of the Astral Plane. A star angler's signature lure emits an enchanting glow that has pulled many Wildspace explorers to their demises.
@@ -41,7 +41,8 @@ Distantly related to scavvers, star anglers are astral predators that resemble h
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+8"
-"senses": "blindsight 120 ft. (can't see beyond this radius), passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 120 ft. (can't see\
+  \ beyond this radius), passive Perception 15"
 "languages": ""
 "cr": "8"
 "traits":
@@ -55,7 +56,7 @@ Distantly related to scavvers, star anglers are astral predators that resemble h
 "actions":
   - "desc": "The star angler makes three Bite attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16\
       \ (2d10 + 5) piercing damage."
     "name": "Bite"
 "bonus_actions":
@@ -72,7 +73,7 @@ Distantly related to scavvers, star anglers are astral predators that resemble h
     "name": "Lure Charm"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/star-angler-veor.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/star-angler-veor.webp"
 ```
 ^statblock
 

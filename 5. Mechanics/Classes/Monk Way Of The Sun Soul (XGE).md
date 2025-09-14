@@ -63,9 +63,9 @@ When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on yo
 
 ### Searing Arc Strike (Level 6)
 
-At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn, you can spend 2 ki points to cast the [[5. Mechanics/Spells/Burning Hands.md\|burning hands]] spell as a bonus action.
+At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action on your turn, you can spend 2 ki points to cast the [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]] spell as a bonus action.
 
-You can spend additional ki points to cast [[5. Mechanics/Spells/Burning Hands.md\|burning hands]] as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.
+You can spend additional ki points to cast [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]] as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.
 
 ### Searing Sunburst (Level 11)
 

@@ -13,7 +13,7 @@ two-hand-damage: 1d8 bludgeoning
 weight: 4
 ---
 # Staff of the Dream Shepherd
-*Staff, weapon ([[5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon*  
+*Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Staff-of-the-Dream-Shepherd.webp#right)  
 
 - **Damage**:

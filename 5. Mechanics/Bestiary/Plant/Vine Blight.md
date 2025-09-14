@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: forest
 size: Medium
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Vine Blight
 ---
-# [[5. Mechanics\Bestiary\Plant\Vine Blight.md|Vine Blight]]
+# [[5. Mechanics/Bestiary/Plant/Vine Blight.md|Vine Blight]]
 *Source: Monster Manual p. 32, Curse of Strahd*
 
 Appearing as masses of slithering creepers, vine blights hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking. Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
@@ -64,7 +64,8 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+1"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 10"
 "languages": "Common"
 "cr": "1/2"
 "traits":
@@ -72,7 +73,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
       \ of vines."
     "name": "False Appearance"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 9\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 9\
       \ (2d6 + 2) bludgeoning damage, and a Large or smaller target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ (escape DC 12). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
       \ and the blight can't constrict another target."
@@ -88,7 +89,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Plant/token/vine-blight.webp"
+"image": "/5. Mechanics/Bestiary/Plant/token/vine-blight.webp"
 ```
 ^statblock
 

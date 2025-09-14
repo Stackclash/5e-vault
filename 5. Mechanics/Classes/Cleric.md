@@ -52,18 +52,18 @@ aliases:
 ## Starting Cleric
 
 - **Saving Throws**: Charisma, Wisdom
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Items/Shield.md\|shields]]
 - **Weapons**: simple weapons
 - **Tools**: none
 - **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#History\|History]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]], [[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]], and [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]]
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [[5. Mechanics/Items/Mace.md\|mace]] or (b) a [[5. Mechanics/Items/Warhammer.md\|warhammer]] (if proficient)
-- (a) [[5. Mechanics/Items/Scale Mail.md\|scale mail]], (b) [[5. Mechanics/Items/Leather Armor.md\|leather armor]], or (c) [[5. Mechanics/Items/Chain Mail.md\|chain mail]] (if proficient)
-- (a) a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon
-- (a) a [[5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
-- A [[5. Mechanics/Items/Shield.md\|shield]] and a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]]
+- (a) a [[/5. Mechanics/Items/Mace.md\|mace]] or (b) a [[/5. Mechanics/Items/Warhammer.md\|warhammer]] (if proficient)
+- (a) [[/5. Mechanics/Items/Scale Mail.md\|scale mail]], (b) [[/5. Mechanics/Items/Leather Armor.md\|leather armor]], or (c) [[/5. Mechanics/Items/Chain Mail.md\|chain mail]] (if proficient)
+- (a) a [[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]] and [[/5. Mechanics/Items/Crossbow Bolts 20.md\|20 bolts]] or (b) any simple weapon
+- (a) a [[/5. Mechanics/Items/Priests Pack.md\|priest's pack]] or (b) an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]]
+- A [[/5. Mechanics/Items/Shield.md\|shield]] and a [[/5. Mechanics/Items/Holy Symbol.md\|holy symbol]]
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
@@ -73,7 +73,7 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]]
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Items/Shield.md\|shields]]
 
 ## Cleric
 
@@ -109,7 +109,7 @@ Once you've chosen a deity, consider your cleric's relationship to that god. Did
 
 #### Quick Build
 
-You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the [[5. Mechanics/Backgrounds/Acolyte.md\|acolyte]] background.
+You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the [[/5. Mechanics/Backgrounds/Acolyte.md\|acolyte]] background.
 
 > [!quote] A quote from Riggby the patriarch  
 > 
@@ -213,7 +213,7 @@ The Cleric table shows how many spell slots you have to cast your cleric spells 
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -231,7 +231,7 @@ You can cast a cleric spell as a ritual if that spell has the ritual tag and you
 
 #### Spellcasting Focus
 
-You can use a [[5. Mechanics/Items/Holy Symbol.md\|holy symbol]] as a spellcasting focus for your cleric spells.
+You can use a [[/5. Mechanics/Items/Holy Symbol.md\|holy symbol]] as a spellcasting focus for your cleric spells.
 
 ### Divine Domain (Level 1)
 

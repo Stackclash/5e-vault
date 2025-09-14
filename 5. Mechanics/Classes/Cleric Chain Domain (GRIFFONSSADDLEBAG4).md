@@ -58,11 +58,11 @@ You gain domain spells at the cleric levels listed in the Chain Domain Spells ta
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [[5. Mechanics/Spells/Command.md\|command]], [[5. Mechanics/Spells/Grease.md\|grease]] |
-| 3rd | [[5. Mechanics/Spells/Branding Smite.md\|branding smite]], [[5. Mechanics/Spells/Hold Person.md\|hold person]] |
-| 5th | [[5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[5. Mechanics/Spells/Slow.md\|slow]] |
-| 7th | [[5. Mechanics/Spells/Evards Black Tentacles.md\|evard's black tentacles]] (the tentacles appear as thrashing chains), [[5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] |
-| 9th | [[5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
+| 1st | [[/5. Mechanics/Spells/Command.md\|command]], [[/5. Mechanics/Spells/Grease.md\|grease]] |
+| 3rd | [[/5. Mechanics/Spells/Branding Smite.md\|branding smite]], [[/5. Mechanics/Spells/Hold Person.md\|hold person]] |
+| 5th | [[/5. Mechanics/Spells/Bestow Curse.md\|bestow curse]], [[/5. Mechanics/Spells/Slow.md\|slow]] |
+| 7th | [[/5. Mechanics/Spells/Evards Black Tentacles.md\|evard's black tentacles]] (the tentacles appear as thrashing chains), [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] |
+| 9th | [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]] |
 ^chain-domain-spells
 
 ### Bonus Proficiencies (Level 1)

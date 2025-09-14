@@ -14,7 +14,7 @@ one-hand-damage: 1d8 piercing
 weight: 2
 ---
 # Festerwood's Light
-*Weapon ([[5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Festerwoods-Light.webp#right)  
 
 - **Damage**: 1d8 piercing
@@ -29,10 +29,10 @@ The rapier has 5 charges for the following properties. The weapon regains `dice:
 
 ## Spore Cleansing
 
-As an action, you can touch a willing creature with the rapier and expend 1 of its charges to remove 1 Spore Counter from that creature. (See [[5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md\|risen sporehusk]])
+As an action, you can touch a willing creature with the rapier and expend 1 of its charges to remove 1 Spore Counter from that creature. (See [[/5. Mechanics/Bestiary/Undead/Risen Sporehusk (TGS1).md\|risen sporehusk]])
 
 ## Spells
 
-While holding this rapier, you can use an action to expend 1 of its charges to cast one of the following spells from it (save DC 17, spell attack bonus +9): [[5. Mechanics/Spells/Charm Person.md\|charm person]] (4th-level version), [[5. Mechanics/Spells/Compulsion.md\|compulsion]], [[5. Mechanics/Spells/Confusion.md\|confusion]], [[5. Mechanics/Spells/Contagion.md\|contagion]], [[5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], or [[5. Mechanics/Spells/Moonbeam.md\|moonbeam]] (4th-level version). In addition, you can use an action to cast the [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] spell at will while holding the rapier.
+While holding this rapier, you can use an action to expend 1 of its charges to cast one of the following spells from it (save DC 17, spell attack bonus +9): [[/5. Mechanics/Spells/Charm Person.md\|charm person]] (4th-level version), [[/5. Mechanics/Spells/Compulsion.md\|compulsion]], [[/5. Mechanics/Spells/Confusion.md\|confusion]], [[/5. Mechanics/Spells/Contagion.md\|contagion]], [[/5. Mechanics/Spells/Faerie Fire.md\|faerie fire]], [[/5. Mechanics/Spells/Locate Animals Or Plants.md\|locate animals or plants]], or [[/5. Mechanics/Spells/Moonbeam.md\|moonbeam]] (4th-level version). In addition, you can use an action to cast the [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] spell at will while holding the rapier.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 63*

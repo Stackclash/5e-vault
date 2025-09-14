@@ -16,12 +16,22 @@ classes:
   - Wizard
 school: Evocation
 level: 7
+damage:
+  base: 4d12
+  scaling:
+    damage: null
+    level: 8
+  types:
+    - radiant
 ritual: false
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
+range: Self
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 30
 aliases:
   - Crown of Stars
 ---
@@ -39,6 +49,6 @@ If you have four or more motes remaining, they shed bright light in a 30-foot ra
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the number of motes created increases by two for each slot level above 7th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 152*

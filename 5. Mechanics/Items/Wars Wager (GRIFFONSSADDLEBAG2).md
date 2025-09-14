@@ -14,7 +14,7 @@ one-hand-damage: 1d12 slashing
 weight: 7
 ---
 # War's Wager
-*Weapon ([[5. Mechanics/Items/Greataxe.md\|greataxe]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wars-Wager.webp#right)  
 
 - **Damage**: 1d12 slashing

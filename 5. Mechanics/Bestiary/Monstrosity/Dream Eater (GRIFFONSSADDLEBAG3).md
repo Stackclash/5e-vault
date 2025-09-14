@@ -13,7 +13,7 @@ tags:
 aliases:
   - Dream Eater
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Dream Eater (GRIFFONSSADDLEBAG3).md|Dream Eater]]
+# [[5. Mechanics/Bestiary/Monstrosity/Dream Eater (GRIFFONSSADDLEBAG3).md|Dream Eater]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Dream eaters are headless, lumbering giantfolk with taut mouths stretched across their midsections. They patrol the hallways of the Dream Gallery in search of ne'er-do-well dreamwalkers. Dream eaters can smell the magical residue of the dreamwalk spell (as described on page 7, hunting down the source of the spell over time. Once found, the dream eaters either attack the caster or consume the painting the caster is currently inside. The dream then collapses and shunts the caster out into the dream eater's stomach.
@@ -37,10 +37,11 @@ Dream eaters are headless, lumbering giantfolk with taut mouths stretched across
   - !!int "7"
 "speed": "40 ft."
 "saves":
-  - "constitution": "+6"
+  - "constitution": !!int "6"
 "damage_resistances": "poison, psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 9"
 "languages": "Giant"
 "cr": "4"
 "traits":
@@ -53,12 +54,12 @@ Dream eaters are headless, lumbering giantfolk with taut mouths stretched across
   - "desc": "The dream eater makes two greatclub attacks.\n\nIt can attempt to grapple\
       \ a creature in place of one attack."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit (with advantage if the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
+  - "desc": "*Melee Weapon Attack:* +6 to hit (with advantage if the target is [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]]\
       \ by the dream eater or [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]),\
-      \ reach 5 ft., one target. Hit: 18 (4d6 + 4) piercing damage plus 9 (2d8)\
+      \ reach 5 ft., one target. *Hit:* 18 (4d6 + 4) piercing damage plus 9 (2d8)\
       \ psychic damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage."
     "name": "Greatclub"
   - "desc": "Each creature the dream eater chooses within 30 feet of it must make\

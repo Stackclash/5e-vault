@@ -28,11 +28,11 @@ This roughly hewn wooden staff cradles a wooden birdhouse at its top. A soft coo
 
 ## Animal Messenger
 
-You can use an action to expend 2 charges from the staff to cast the [[5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] spell. When cast in this way, instead of targeting a creature within range, you can cause a spectral courier pigeon to step from the staff's birdhouse to carry out the message. The pigeon disappears in a small cloud of feathers once the message has been delivered or if the magic is lost.
+You can use an action to expend 2 charges from the staff to cast the [[/5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] spell. When cast in this way, instead of targeting a creature within range, you can cause a spectral courier pigeon to step from the staff's birdhouse to carry out the message. The pigeon disappears in a small cloud of feathers once the message has been delivered or if the magic is lost.
 
 ## Manifest Greater Pigeon
 
-You can choose to expend 1 or more additional charges from the staff as part of the action to cast [[5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] on the spectral courier pigeon. When you do, the spectral pigeon physically manifests, becoming material and visibly stronger.
+You can choose to expend 1 or more additional charges from the staff as part of the action to cast [[/5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] on the spectral courier pigeon. When you do, the spectral pigeon physically manifests, becoming material and visibly stronger.
 
 For 1 extra charge, the pigeon becomes a Small creature. It covers twice as many miles within 24 hours, and it can deliver a small scrap of parchment or similarly sized item of negligible weight.
 

@@ -11,11 +11,11 @@ tags:
 aliases:
   - Direstone Dwarven Key
 one-hand-damage: 1d6 slashing
-range: 20\60
+range: 20/60
 weight: 2
 ---
 # Direstone Dwarven Key
-*Weapon ([[5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon (requires attunement by a dwarf)*  
+*Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon (requires attunement by a dwarf)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Direstone-Dwarven-Key.webp#right)  
 
 - **Damage**: 1d6 slashing
@@ -25,6 +25,6 @@ weight: 2
 
 This dwarven handaxe is specially issued to guards of the Direstone mines, treasury, and prisons. You gain a +1 bonus to attack and damage rolls made with this magic weapon. If it hits a stone object, the hit is automatically a critical hit.
 
-In addition, you can use an action to speak the handaxe's command word and strike a fixed stone surface with it, such as a wall or ceiling. If the surface is no more than 2 feet thick, it magically pulls apart to form a temporary doorway. The doorway is no more than 5 feet across in any dimension and closes at the end of your next turn, leaving no trace of it behind. The passage creates no instability in a structure surrounding it. When the opening disappears, any creatures or objects still in the doorway created by the handaxe are ejected to an unoccupied space on a random side of the stone surface and take `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning damage. Once this property has been used, it can't be used again until 12 hours have passed.
+In addition, you can use an action to speak the handaxe's command word and strike a fixed stone surface with it, such as a wall or ceiling. If the surface is no more than 2 feet thick, it magically pulls apart to form a temporary doorway. The doorway is no more than 5 feet across in any dimension and closes at the end of your next turn, leaving no trace of it behind. The passage creates no instability in a structure surrounding it. When the opening disappears, any creatures or objects still in the doorway created by the handaxe are ejected to an unoccupied space on a random side of the stone surface and take `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage. Once this property has been used, it can't be used again until 12 hours have passed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 70*

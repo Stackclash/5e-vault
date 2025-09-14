@@ -10,7 +10,7 @@ aliases:
 weight: 0.05
 ---
 # Deathbomb Arrow
-*Ammunition ([[5. Mechanics/Items/Arrow.md\|arrow]]), very rare*  
+*Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Deathbomb-Arrow.webp#right)  
 
 - **Weight**: 0.05 lbs.

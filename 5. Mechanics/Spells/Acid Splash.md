@@ -25,20 +25,26 @@ classes:
   - Sorcerer
   - Wizard
 school: Conjuration
-level: cantrip
+level: 0
+damage:
+  base: 1d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - acid
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Acid Splash
-range: 60 feet
-damageType: Acid
-save:
-  type: DEX
-  success: none
 ---
 # Acid Splash
 *cantrip, Conjuration*  
@@ -48,10 +54,12 @@ save:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take `dice:1d6|noform|noparens|avg` (`d6`) acid damage.
+You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take `dice:1d6|noform|noparens|avg` (`1d6`) acid damage.
 
-This spell's damage increases by `dice:1d6|noform|noparens|avg` (`d6`) when you reach 5th level (`dice:2d6|noform|noparens|avg` (`2d6`)), 11th level (`dice:3d6|noform|noparens|avg` (`3d6`)), and 17th level (`dice:4d6|noform|noparens|avg` (`4d6`)).
+This spell's damage increases by `dice:1d6|noform|noparens|avg` (`1d6`) when you reach 5th level (`dice:2d6|noform|noparens|avg` (`2d6`)), 11th level (`dice:3d6|noform|noparens|avg` (`3d6`)), and 17th level (`dice:4d6|noform|noparens|avg` (`4d6`)).
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
 
 *Source: Player's Handbook p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

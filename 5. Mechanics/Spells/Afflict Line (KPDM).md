@@ -15,16 +15,19 @@ classes:
   - Wizard
 school: Necromancy
 level: 9
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: true
 time: 1 hour
 duration: Until dispelled
-components:
-  - V
-  - S
-  - M
+range: 1 miles
+somatic: true
+verbal: true
+material: 'a statuette carved in the likeness of the victim worth 1,250 gp'
 aliases:
   - Afflict Line
-material: 'a statuette carved in the likeness of the victim worth 1,250 gp'
 ---
 # Afflict Line
 *9th-level, Necromancy (ritual)*  
@@ -45,6 +48,6 @@ If you expend your ritual focus, the curse becomes hereditary, passing from firs
 
 ## Summary
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 210*

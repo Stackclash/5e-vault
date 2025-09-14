@@ -16,15 +16,21 @@ classes:
   - Wizard
 school: Conjuration
 level: 9
+damage:
+  base: 4d12
+  scaling:
+    damage: null
+    level: null
+  types:
+    - force
 ritual: false
 time: 1 Bonus Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Blade of Disaster
-concentration: true
 ---
 # Blade of Disaster
 *9th-level, Conjuration*  
@@ -38,8 +44,8 @@ You create a blade-shaped planar rift about 3 feet long in an unoccupied space y
 
 As a bonus action on your turn, you can move the blade up to 30 feet to an unoccupied space you can see and then make up to two melee spell attacks with it again.
 
-The blade can harmlessly pass through any barrier, including a [[5. Mechanics/Spells/Wall Of Force.md\|wall of force]].
+The blade can harmlessly pass through any barrier, including a [[/5. Mechanics/Spells/Wall Of Force.md\|wall of force]].
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Tasha's Cauldron of Everything p. 106*

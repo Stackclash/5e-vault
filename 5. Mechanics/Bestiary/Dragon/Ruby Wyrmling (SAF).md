@@ -13,7 +13,7 @@ tags:
 aliases:
   - Ruby Wyrmling
 ---
-# [[5. Mechanics\Bestiary\Dragon\Ruby Wyrmling (SAF).md|Ruby Wyrmling]]
+# [[5. Mechanics/Bestiary/Dragon/Ruby Wyrmling (SAF).md|Ruby Wyrmling]]
 *Source: Strongholds and Followers p. 205*
 
 The rubies protect the knowledge of reality, which they call realitas, the essential thing that separates real things from illusion.
@@ -41,28 +41,29 @@ They are measured and formal, slow to give trust. They like seeing things done p
   - !!int "14"
 "speed": "30 ft., fly 60 ft. (hover)"
 "saves":
-  - "dexterity": "+4"
-  - "intelligence": "+4"
-  - "wisdom": "+4"
-  - "charisma": "+4"
+  - "dexterity": !!int "4"
+  - "intelligence": !!int "4"
+  - "wisdom": !!int "4"
+  - "charisma": !!int "4"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
 "damage_vulnerabilities": "psychic"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 16"
 "languages": "Common, Draconic"
 "cr": "3"
 "traits":
-  - "desc": "[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].\
-      \ Charges: 9 • Recharge: d4 • Fracture: 8"
+  - "desc": "**[[/5. Mechanics/Rules/Variant Rules/Gemstone Dragon Psionics (SAF).md|Psionics]].**\
+      \ **Charges:** 9 **• Recharge:** 1d4 **• Fracture:** 8"
     "name": ""
   - "desc": "Allies' spells cast within 30 feet have their saving throw DC increased\
       \ by 1."
     "name": "Amplification Aura"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
       \ + 2) piercing damage."
     "name": "Bite"
 "source":

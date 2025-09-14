@@ -15,7 +15,7 @@ tags:
 aliases:
   - Sahuagin Priestess
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Sahuagin Priestess.md|Sahuagin Priestess]]
+# [[5. Mechanics/Bestiary/Humanoid/Sahuagin Priestess.md|Sahuagin Priestess]]
 *Source: Monster Manual p. 264*
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
@@ -36,7 +36,7 @@ Sahuagin are driven into a frenzy by the smell of fresh blood. As worshipers of 
 
 The sahuagin might control the oceans if not for the presence of their mortal enemies, the aquatic elves. Wars between the two races have raged for centuries across the coasts and seas of the world, disrupting maritime trade and drawing other races into the bloody conflict.
 
-So intense is sahuagin hatred for the aquatic elves that the sea devils have adapted to combat their ancient foes. A sahuagin born near enough to an aquatic elf community can enter the world as a malenti-a sahuagin that physically resembles an aquatic elf in every way. Sahuagin are prone to mutation, but whether this rare phenomenon is a result of the wars between the sahuagin and the aquatic elves-or whether it preceded or even began the conflict-none can say.
+So intense is sahuagin hatred for the aquatic elves that the sea devils have adapted to combat their ancient foes. A sahuagin born near enough to an aquatic elf community can enter the world as a malenti—a sahuagin that physically resembles an aquatic elf in every way. Sahuagin are prone to mutation, but whether this rare phenomenon is a result of the wars between the sahuagin and the aquatic elves-or whether it preceded or even began the conflict-none can say.
 
 The sahuagin put the malenti to good use as spies and assassins in aquatic elf cities and the societies of other creatures that pose a threat to sahuagin. The mere shadow of the malenti threat incites paranoia and suspicion among aquatic elves, whose resilience is weakened as the prelude to an actual sahuagin invasion.
 
@@ -69,19 +69,20 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+3"
-"senses": "darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 16"
 "languages": "Sahuagin"
 "cr": "2"
 "traits":
   - "desc": "The sahuagin is a 6th-level spellcaster. Her spellcasting ability is\
       \ Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following\
-      \ cleric spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]],\
-      \ [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n1st level (4 slots):\
-      \ [[5. Mechanics/Spells/Bless.md|bless]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-      \ [[5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]]\n\n2nd level (3 slots):\
-      \ [[5. Mechanics/Spells/Hold Person.md|hold person]], [[5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\
-      \ (trident)\n\n3rd level (3 slots): [[5. Mechanics/Spells/Mass Healing Word.md|mass healing word]],\
-      \ [[5. Mechanics/Spells/Tongues.md|tongues]]"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Guidance.md|guidance]],\
+      \ [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\n**1st level (4 slots):**\
+      \ [[/5. Mechanics/Spells/Bless.md|bless]], [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[/5. Mechanics/Spells/Guiding Bolt.md|guiding bolt]]\n\n**2nd level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Hold Person.md|hold person]], [[/5. Mechanics/Spells/Spiritual Weapon.md|spiritual weapon]]\
+      \ (trident)\n\n**3rd level (3 slots):** [[/5. Mechanics/Spells/Mass Healing Word.md|mass healing word]],\
+      \ [[/5. Mechanics/Spells/Tongues.md|tongues]]"
     "name": "Spellcasting"
   - "desc": "The sahuagin has advantage on melee attack rolls against any creature\
       \ that doesn't have all its hit points."
@@ -96,15 +97,15 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
   - "desc": "The sahuagin makes two melee attacks: one with her bite and one with\
       \ her claws."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) slashing damage."
     "name": "Claws"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/sahuagin-priestess.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/sahuagin-priestess.webp"
 ```
 ^statblock
 

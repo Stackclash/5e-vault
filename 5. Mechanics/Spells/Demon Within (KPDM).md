@@ -18,17 +18,26 @@ classes:
   - Wizard
 school: Conjuration
 level: 3
+damage:
+  base: 4d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - force
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+somatic: true
+verbal: true
+material: a vial of blood from a humanoid killed within the previous 24 hours
 aliases:
   - Demon Within
-concentration: true
-material: a vial of blood from a humanoid killed within the previous 24 hours
 ---
 # Demon Within
 *3rd-level, Conjuration*  
@@ -42,6 +51,6 @@ One humanoid of your choice within range becomes a gateway for a demon to enter 
 
 If the target drops to 0 hit points while affected by this spell, the demon tears through the body and appears in the same space as its now [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or dead victim. You do not control this demon; it is free to either attack or leave the area as it chooses. The demon disappears after 24 hours or when it drops to 0 hit points.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 326*

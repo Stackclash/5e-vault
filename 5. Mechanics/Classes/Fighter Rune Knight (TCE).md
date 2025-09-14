@@ -53,7 +53,7 @@ Rune Knights enhance their martial prowess using the supernatural power of runes
 
 *3rd-level Rune Knight feature*
 
-You gain proficiency with [[5. Mechanics/Items/Smiths Tools.md\|smith's tools]], and you learn to speak, read, and write Giant.
+You gain proficiency with [[/5. Mechanics/Items/Smiths Tools.md\|smith's tools]], and you learn to speak, read, and write Giant.
 
 ### Rune Carver (Level 3)
 
@@ -83,7 +83,7 @@ You have learned how to imbue yourself with the might of giants. As a bonus acti
 
 - If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.  
 - You have advantage on Strength checks and Strength saving throws.  
-- Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra `dice:1d6|noform|noparens|avg` (`d6`) damage to a target on a hit.  
+- Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage to a target on a hit.  
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 
@@ -107,7 +107,7 @@ You learn an additional Rune.
 
 The magic of your runes permanently alters you. When you gain this feature, roll `dice:3d4|noform|noparens|avg` (`3d4`). You grow a number of inches in height equal to the roll.
 
-Moreover, the extra damage you deal with your Giant's Might feature increases to `dice:1d8|noform|noparens|avg` (`d8`).
+Moreover, the extra damage you deal with your Giant's Might feature increases to `dice:1d8|noform|noparens|avg` (`1d8`).
 
 ### Additional Rune Known (Level 10)
 
@@ -131,10 +131,10 @@ You learn an additional Rune.
 
 *18th-level Rune Knight feature*
 
-You learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant's Might feature increases to `dice:1d10|noform|noparens|avg` (`d10`). Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.
+You learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant's Might feature increases to `dice:1d10|noform|noparens|avg` (`1d10`). Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.
 
 ## Optional Features
 
 > [!example]- Optional Features: Rune Knight Rune
-> ![[5. Mechanics/Lists/List Optfeaturetype Rn.md#Rune%20Knight%20Rune\|Rune Knight Rune]]
+> ![[/5. Mechanics/Lists/List Optfeaturetype Rn.md#Rune%20Knight%20Rune\|Rune Knight Rune]]
 ^list-optfeature-rn

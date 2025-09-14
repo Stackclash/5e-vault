@@ -29,7 +29,7 @@ The wealthy family that built the house practiced the dark arts. Through seducti
 
 The cult tried to summon malevolent extraplanar entities with no success. The cultists also preyed on visitors, sacrificed them in bizarre rituals, and hosted morbid banquets to feast on their corpses. When nothing came of these ritualized murders, the cultists' activities became thinly disguised excuses to indulge their lurid fantasies. The ranks of the cult thinned as members began to lose interest in the debacle.
 
-Then [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] arrived.
+Then [[/4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]] arrived.
 
 The cultists regarded Strahd as a messiah sent to them by the Dark Powers. Drawn to Strahd like moths to a flame, they pledged their devotion for a promise of immortality, but Strahd turned them away, deeming the cult and its leaders unworthy of his attention. The cultists withdrew to Death House in despair.
 
@@ -55,7 +55,7 @@ If the characters approach the children or call out to them, add the following:
 > After shushing the boy, the girl turns to you and says, "There's a monster in our house!" She then points to a tall brick row house that has seen better days. Its windows are dark. It has a gated portico on the ground floor, and the rusty gate is slightly ajar. The houses on either side are abandoned, their windows and doors boarded up.
 ^6d3
 
-![Thornboldt &quot;Thorn&quot; Durst a...](compendium/adventures/curse-of-strahd/img/133-cos17-01.webp#center "Thornboldt &quot;Thorn&quot; Durst and Rosavalda &quot;Rose&quot; Durst")
+![Thornboldt &quot;Thorn&quot; Durst a...](/compendium/adventures/curse-of-strahd/img/133-cos17-01.webp#center "Thornboldt &quot;Thorn&quot; Durst and Rosavalda &quot;Rose&quot; Durst")
 
 Characters who question the children learn the following information:
 
@@ -83,7 +83,7 @@ Characters who remain outside the house can see the mists close in around them, 
 > 
 > None of the rooms in the house are lit when the characters arrive, although most areas contain working oil lamps or fireplaces.
 > 
-> Characters can burn the house to the ground if they want, but any destruction to the house is temporary. After `dice:1d10|noform|noparens|avg` (`d10`) days, the house begins to repair itself. Ashes sweep together to form blackened timbers, which then turn back into a sturdy wooden frame around which walls begin to materialize. Destroyed furnishings are likewise repaired. It takes `dice:2d6|noform|noparens|avg` (`2d6`) hours for the house to complete its resurrection. Items taken from the house aren't replaced, nor are undead that are destroyed. The dungeon level isn't considered part of the house and can't repair itself in this fashion.
+> Characters can burn the house to the ground if they want, but any destruction to the house is temporary. After `dice:1d10|noform|noparens|avg` (`1d10`) days, the house begins to repair itself. Ashes sweep together to form blackened timbers, which then turn back into a sturdy wooden frame around which walls begin to materialize. Destroyed furnishings are likewise repaired. It takes `dice:2d6|noform|noparens|avg` (`2d6`) hours for the house to complete its resurrection. Items taken from the house aren't replaced, nor are undead that are destroyed. The dungeon level isn't considered part of the house and can't repair itself in this fashion.
 ^death-houses-features
 
 ## Areas of the House
@@ -91,8 +91,8 @@ Characters who remain outside the house can see the mists close in around them, 
 The following areas correspond to labels on the map of the house below.
 
 > [!gallery]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/134-deathhousedm.webp#gallery\|Map B.1: Death House]]
-> ![[6. Resources/5e Modules/Curse Of Strahd/img/135-deathhouseplayer.webp#gallery\|Player Version]]
+> ![[/6. Resources/5e Modules/Curse Of Strahd/img/134-deathhousedm.webp#gallery\|Map B.1: Death House]]
+> ![[/6. Resources/5e Modules/Curse Of Strahd/img/135-deathhouseplayer.webp#gallery\|Player Version]]
 
 ### 1. Entrance
 
@@ -102,7 +102,7 @@ Hanging on the south wall of the foyer is a shield emblazoned with a coat-of-arm
 
 ### 2. Main Hall
 
-A wide hall (area 2A) runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. Mounted on the wall above the fireplace is a [[5. Mechanics/Items/Longsword.md\|longsword]] (nonmagical) with a windmill cameo worked into the hilt. The wood-paneled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, see serpents and skulls inconspicuously woven into the wall designs. The decorative paneling follows the staircase as it circles upward to the second floor.
+A wide hall (area 2A) runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. Mounted on the wall above the fireplace is a [[/5. Mechanics/Items/Longsword.md\|longsword]] (nonmagical) with a windmill cameo worked into the hilt. The wood-paneled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, see serpents and skulls inconspicuously woven into the wall designs. The decorative paneling follows the staircase as it circles upward to the second floor.
 
 A cloakroom (area 2B) has several black cloaks hanging from hooks on the walls. A top hat sits on a high shelf.
 
@@ -112,7 +112,7 @@ This oak-paneled room looks like a hunter's den. Mounted above the fireplace is 
 
 Two padded chairs draped in animal furs face the hearth, with an oak table between them supporting a cask of wine, two carved wooden goblets, a pipe rack, and a candelabrum. A chandelier hangs above a cloth-covered table surrounded by four chairs.
 
-Two cabinets stand against the walls. The east cabinet sports a lock that can be picked with thieves' tools and a successful DC 15 Dexterity check. It holds a [[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]], a [[5. Mechanics/Items/Light Crossbow.md\|light crossbow]], a [[5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]], and 20 [[5. Mechanics/Items/Crossbow Bolts 20.md\|bolts]] for each weapon. The north cabinet is unlocked and holds a small box containing a [[5. Mechanics/Items/Playing Card Set.md\|deck of playing cards]] and an assortment of wine glasses.
+Two cabinets stand against the walls. The east cabinet sports a lock that can be picked with thieves' tools and a successful DC 15 Dexterity check. It holds a [[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]], a [[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]], a [[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]], and 20 [[/5. Mechanics/Items/Crossbow Bolts 20.md\|bolts]] for each weapon. The north cabinet is unlocked and holds a small box containing a [[/5. Mechanics/Items/Playing Card Set.md\|deck of playing cards]] and an assortment of wine glasses.
 
 #### Trapdoor
 
@@ -177,7 +177,7 @@ This secret room contains bookshelves packed with tomes describing fiend-summoni
 
 A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest is a skeleton in leather armor. Close inspection reveals that the skeleton belongs to a human who triggered a poisoned dart trap. Three darts are stuck in the dead adventurer's armor and ribcage. The dart-firing mechanism inside the chest no longer functions.
 
-Clutched in the skeleton's left hand is a letter bearing the seal of [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]], which the adventurer tried to remove from the chest. Written in flowing script, the letter reads as follows:
+Clutched in the skeleton's left hand is a letter bearing the seal of [[/4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]], which the adventurer tried to remove from the chest. Written in flowing script, the letter reads as follows:
 
 > [!note] 
 > 
@@ -189,12 +189,12 @@ Clutched in the skeleton's left hand is a letter bearing the seal of [[4. World 
 > 
 > Your dread lord and master,
 > 
-> [[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]
+> [[/4. World Almanac/NPCs/Strahd Von Zarovich (COS).md\|Strahd von Zarovich]]
 ^6e5
 
 #### Treasure
 
-The chest contains three blank books with black leather covers (worth 25 gp each), three [[5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[5. Mechanics/Spells/Bless.md\|bless]], [[5. Mechanics/Spells/Protection From Poison.md\|protection from poison]], and [[5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]), the deed to the house, the deed to a windmill, and a signed will. The windmill referred to in the second deed is situated in the mountains east of Vallaki (see chapter 6, "Old Bonegrinder"). The will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents' deaths. The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.
+The chest contains three blank books with black leather covers (worth 25 gp each), three [[/5. Mechanics/Items/Spell Scroll.md\|spell scrolls]] ([[/5. Mechanics/Spells/Bless.md\|bless]], [[/5. Mechanics/Spells/Protection From Poison.md\|protection from poison]], and [[/5. Mechanics/Spells/Spiritual Weapon.md\|spiritual weapon]]), the deed to the house, the deed to a windmill, and a signed will. The windmill referred to in the second deed is situated in the mountains east of Vallaki (see chapter 6, "Old Bonegrinder"). The will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents' deaths. The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.
 
 ### 10. Conservatory
 
@@ -204,7 +204,7 @@ A harpsichord with a bench rests in the northwest corner. Near the fireplace is 
 
 ### 11. Balcony
 
-Characters who climb the red marble staircase to its full height come to a dusty balcony with a suit of black plate armor standing against one wall, draped in cobwebs. This suit of [[5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]] attacks as soon as it takes damage or a character approaches within 5 feet of it. It fights until destroyed.
+Characters who climb the red marble staircase to its full height come to a dusty balcony with a suit of black plate armor standing against one wall, draped in cobwebs. This suit of [[/5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armor]] attacks as soon as it takes damage or a character approaches within 5 feet of it. It fights until destroyed.
 
 Oil lamps are mounted on the oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny critters. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, notice tiny corpses hanging from the trees and worms bursting up from the ground.
 
@@ -234,13 +234,13 @@ This dark room contains a wooden tub with clawed feet, a small iron stove with a
 
 ### 14. Storage Room
 
-Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered [[5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md\|broom of animated attack]] (see appendix D) leans against the far wall; it attacks any creature approaching within 5 feet of it.
+Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered [[/5. Mechanics/Bestiary/Construct/Broom Of Animated Attack (COS).md\|broom of animated attack]] (see appendix D) leans against the far wall; it attacks any creature approaching within 5 feet of it.
 
 ### 15. Nursemaid's Suite
 
 Dust and cobwebs shroud an elegantly appointed bedroom (area 15A) and an adjoining nursery (area 15B). Double doors set with panes of stained glass pull open to reveal a balcony (area 15C) overlooking the front of the house.
 
-The bedroom once belonged to the family's nursemaid. The master of the house and the nursemaid had an affair, which led to the birth of a stillborn baby named Walter. The cult slew the nursemaid shortly thereafter. Unless the characters already defeated it in area 18, the nursemaid's spirit haunts the bedroom as a [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]]. The specter manifests and attacks when a character opens the door to the nursery. The specter resembles a terrified, skeletally thin young woman; it can't speak or be reasoned with.
+The bedroom once belonged to the family's nursemaid. The master of the house and the nursemaid had an affair, which led to the birth of a stillborn baby named Walter. The cult slew the nursemaid shortly thereafter. Unless the characters already defeated it in area 18, the nursemaid's spirit haunts the bedroom as a [[/5. Mechanics/Bestiary/Undead/Specter.md\|specter]]. The specter manifests and attacks when a character opens the door to the nursery. The specter resembles a terrified, skeletally thin young woman; it can't speak or be reasoned with.
 
 The bedroom contains a large bed, two end tables, and an empty wardrobe. Mounted on the wall next to the wardrobe is a full-length mirror with an ornate wooden frame carved to look like ivy and berries. Characters who search the wall for secret doors or otherwise inspect the mirror can, with a successful DC 12 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check, notice eyeballs among the berries. The wall behind the mirror has a secret door in it (see "Secret Door" below).
 
@@ -266,7 +266,7 @@ This dust-choked room contains a slender bed, a nightstand, a small iron stove, 
 
 This dusty chamber is packed with old furniture (chairs, coat racks, standing mirrors, dress mannequins, and the like), all draped in dusty white sheets. Near an iron stove, underneath one of the sheets, is an unlocked wooden trunk containing the skeletal remains of the family's nursemaid, wrapped in a tattered bedsheet stained with dry blood. A character inspecting the remains and succeeding on a DC 14 Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check can verify that the woman was stabbed to death by multiple knife wounds.
 
-If the characters disturb the remains, the nursemaid's [[5. Mechanics/Bestiary/Undead/Specter.md\|specter]] appears and attacks unless it was previously defeated in area 15.
+If the characters disturb the remains, the nursemaid's [[/5. Mechanics/Bestiary/Undead/Specter.md\|specter]] appears and attacks unless it was previously defeated in area 15.
 
 #### Secret Door
 
@@ -285,13 +285,13 @@ The door to this room is locked from the outside (see area 16 for details).
 > This room contains a bricked-up window flanked by two dusty, wood-framed beds sized for children. Closer to the door is a toy chest with windmills painted on its sides and a dollhouse that's a perfect replica of the dreary edifice in which you stand. These furnishings are draped in cobwebs. Lying in the middle of the floor are two small skeletons wearing tattered but familiar clothing. The smaller of the two cradles a stuffed doll that you also recognize.
 ^6f9
 
-The Durst children, [[4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose]] and [[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn]], were neglected by their parents and locked in this room until they starved to death. Their small skeletons lie in the middle of the floor, plain as day, wearing tattered clothing that the characters recognize as belonging to the children. Thorn's skeleton cradles the boy's stuffed doll.
+The Durst children, [[/4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose]] and [[/4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn]], were neglected by their parents and locked in this room until they starved to death. Their small skeletons lie in the middle of the floor, plain as day, wearing tattered clothing that the characters recognize as belonging to the children. Thorn's skeleton cradles the boy's stuffed doll.
 
 The toy chest contains an assortment of stuffed animals and toys. Characters who search the dollhouse and succeed on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check find all of the house's secret doors, including one in the attic that leads to a spiral staircase (a miniature replica of area 21).
 
 #### Rose and Thorn
 
-If either the dollhouse or the chest is disturbed, the ghosts of [[4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose]] and [[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn]] appear in the middle of the room. Use the [[5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] statistics in the "Monster Manual", with the following modifications:
+If either the dollhouse or the chest is disturbed, the ghosts of [[/4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose]] and [[/4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn]] appear in the middle of the room. Use the [[/5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]] statistics in the "Monster Manual", with the following modifications:
 
 - The ghosts are Small and lawful good.  
 - They have `dice:10d6|noform|noparens|avg|text(35)` (`10d6`) hit points each.  
@@ -357,19 +357,19 @@ The stone slab is etched with the name Gustav Durst. The chamber beyond contains
 
 #### 23D. Elisabeth's Crypt
 
-The stone slab is etched with the name Elisabeth Durst. The crypt contains a stone bier with an empty coffin atop it. A [[5. Mechanics/Bestiary/Beast/Swarm Of Centipedes.md\|swarm of insects (centipedes)]] boils out of the back wall and attacks if the coffin is disturbed.
+The stone slab is etched with the name Elisabeth Durst. The crypt contains a stone bier with an empty coffin atop it. A [[/5. Mechanics/Bestiary/Beast/Swarm Of Centipedes.md\|swarm of insects (centipedes)]] boils out of the back wall and attacks if the coffin is disturbed.
 
 #### 23E. Rose's Crypt
 
 The stone slab is etched with the name Rosavalda Durst. The chamber beyond contains an empty coffin on a stone bier.
 
-If Rose's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
+If Rose's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[/4. World Almanac/NPCs/Rosavalda Rose Durst (COS).md\|Rose's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
 
 #### 23F. Thorn's Crypt
 
 The stone slab is etched with the name Thornboldt Durst. The chamber beyond contains an empty coffin on a stone bier.
 
-If Thorn's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
+If Thorn's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by [[/4. World Almanac/NPCs/Thornboldt Thorn Durst (COS).md\|Thorn's ghost]] when this occurs is no longer possessed (see also the "Development" section in area 20).
 
 ### 24. Cult Initiates' Quarters
 
@@ -391,11 +391,11 @@ This room's chest contains 11 gp and 60 sp in a pouch made of human skin.
 
 ##### 25B
 
-This room's chest contains three [[5. Mechanics/Items/Moss Agate.md\|moss agates]] (worth 10 gp each) in a folded piece of black cloth.
+This room's chest contains three [[/5. Mechanics/Items/Moss Agate.md\|moss agates]] (worth 10 gp each) in a folded piece of black cloth.
 
 ##### 25C
 
-This room's chest contains a black leather eyepatch with a [[5. Mechanics/Items/Carnelian.md\|carnelian]] (worth 50 gp) sewn into it.
+This room's chest contains a black leather eyepatch with a [[/5. Mechanics/Items/Carnelian.md\|carnelian]] (worth 50 gp) sewn into it.
 
 ##### 25D
 
@@ -403,11 +403,11 @@ This room's chest contains an ivory hairbrush with silver bristles (worth 25 gp)
 
 ##### 25E
 
-This room's chest contains a silvered [[5. Mechanics/Items/Shortsword.md\|shortsword]] (worth 110 gp).
+This room's chest contains a silvered [[/5. Mechanics/Items/Shortsword.md\|shortsword]] (worth 110 gp).
 
 ### 26. Hidden Spiked Pit
 
-The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check reveals an absence of footprints. Characters searching the floor for traps find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and taking `dice:1d6|noform|noparens|avg|text(3)` (`d6`) bludgeoning damage from the fall plus `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) piercing damage from the spikes.
+The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) check reveals an absence of footprints. Characters searching the floor for traps find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and taking `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) bludgeoning damage from the fall plus `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) piercing damage from the spikes.
 
 ### 27. Dining Hall
 
@@ -417,11 +417,11 @@ In the middle of the south wall is a darkened alcove (area 28). Characters who a
 
 ### 28. Larder
 
-This alcove contains a [[5. Mechanics/Bestiary/Monstrosity/Grick.md\|grick]] that slithers out to attack the first character it sees within 5 feet of it. Any character with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score under 12 is [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]] by it. The alcove is otherwise empty.
+This alcove contains a [[/5. Mechanics/Bestiary/Monstrosity/Grick.md\|grick]] that slithers out to attack the first character it sees within 5 feet of it. Any character with a passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score under 12 is [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]] by it. The alcove is otherwise empty.
 
 ### 29. Ghoulish Encounter
 
-The ghostly chanting heard throughout the dungeon is noticeably louder to the north. When one or more characters reach the midpoint of the four-way tunnel intersection, four [[5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] (former cultists) rise up out of the ground in the spaces marked X on the map and attack. The ghouls fight until destroyed.
+The ghostly chanting heard throughout the dungeon is noticeably louder to the north. When one or more characters reach the midpoint of the four-way tunnel intersection, four [[/5. Mechanics/Bestiary/Undead/Ghoul.md\|ghouls]] (former cultists) rise up out of the ground in the spaces marked X on the map and attack. The ghouls fight until destroyed.
 
 ### 30. Stairs Down
 
@@ -436,7 +436,7 @@ It's obvious to any character standing at the top of this 20-foot-long staircase
 > The room has exits in the west and north walls. Chanting can be heard coming from the west.
 ^717
 
-The statue depicts Strahd, to whom the cultists made sacrifices in the vain hope that he might reveal his darkest secrets to them. If the characters touch the statue or take the crystal orb from Strahd's hand, five [[5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] form around the statue and attack them. The shadows (the spirits of former cultists) pursue those who flee beyond the room's confines.
+The statue depicts Strahd, to whom the cultists made sacrifices in the vain hope that he might reveal his darkest secrets to them. If the characters touch the statue or take the crystal orb from Strahd's hand, five [[/5. Mechanics/Bestiary/Undead/Shadow.md\|shadows]] form around the statue and attack them. The shadows (the spirits of former cultists) pursue those who flee beyond the room's confines.
 
 The skeletons on the wall are harmless decor.
 
@@ -446,7 +446,7 @@ Characters searching the room for secret doors find a concealed door in the midd
 
 #### Treasure
 
-The [[5. Mechanics/Items/Orb.md\|crystal orb]] is worth 25 gp. It can be used as an arcane focus but is not magical.
+The [[/5. Mechanics/Items/Orb.md\|crystal orb]] is worth 25 gp. It can be used as an arcane focus but is not magical.
 
 ### 32. Hidden Trapdoor
 
@@ -458,7 +458,7 @@ Once the trapdoor has been found and opened, it remains available to characters 
 
 ### 33. Cult Leaders' Den
 
-The door in the southwest corner is a [[5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] in disguise. Any creature that touches the door becomes adhered to the creature, whereupon the mimic attacks. The mimic also attacks if its takes any damage.
+The door in the southwest corner is a [[/5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimic]] in disguise. Any creature that touches the door becomes adhered to the creature, whereupon the mimic attacks. The mimic also attacks if its takes any damage.
 
 A chandelier is suspended above a table in the middle of the room. Two high-backed chairs flank the table, which has an empty clay jug and two clay flagons atop it. Iron candlesticks stand in two corners, their candles long since melted away.
 
@@ -466,15 +466,15 @@ A chandelier is suspended above a table in the middle of the room. Two high-back
 
 This room contains a large wood-framed bed with a rotted feather mattress, a wardrobe containing several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. At the foot of the bed is an unlocked wooden footlocker containing some gear and magic items (see "Treasure" below).
 
-Two [[5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] (Gustav and Elisabeth Durst) are hidden in cavities behind the earthen walls, marked X on the map; they burst forth and attack if someone removes one or more items from the footlocker. The ghasts wear tattered black robes.
+Two [[/5. Mechanics/Bestiary/Undead/Ghast.md\|ghasts]] (Gustav and Elisabeth Durst) are hidden in cavities behind the earthen walls, marked X on the map; they burst forth and attack if someone removes one or more items from the footlocker. The ghasts wear tattered black robes.
 
 #### Treasure
 
-Characters searching the footlocker find a folded [[5. Mechanics/Items/Cloak Of Protection.md\|cloak of protection]], a small wooden coffer (unlocked) containing four [[5. Mechanics/Items/Potion Of Healing.md\|potions of healing]], a [[5. Mechanics/Items/Chain Shirt.md\|chain shirt]], a [[5. Mechanics/Items/Mess Kit.md\|mess kit]], a [[5. Mechanics/Items/Alchemists Fire Flask.md\|flask of alchemist's fire]], a [[5. Mechanics/Items/Bullseye Lantern.md\|bullseye lantern]], a [[5. Mechanics/Items/Thieves Tools.md\|set of thieves' tools]], and a [[5. Mechanics/Items/Spellbook.md\|spellbook]] with a yellow leather cover containing the following wizard spells:
+Characters searching the footlocker find a folded [[/5. Mechanics/Items/Cloak Of Protection.md\|cloak of protection]], a small wooden coffer (unlocked) containing four [[/5. Mechanics/Items/Potion Of Healing.md\|potions of healing]], a [[/5. Mechanics/Items/Chain Shirt.md\|chain shirt]], a [[/5. Mechanics/Items/Mess Kit.md\|mess kit]], a [[/5. Mechanics/Items/Alchemists Fire Flask.md\|flask of alchemist's fire]], a [[/5. Mechanics/Items/Bullseye Lantern.md\|bullseye lantern]], a [[/5. Mechanics/Items/Thieves Tools.md\|set of thieves' tools]], and a [[/5. Mechanics/Items/Spellbook.md\|spellbook]] with a yellow leather cover containing the following wizard spells:
 
-1st level: [[5. Mechanics/Spells/Disguise Self.md\|disguise self]], [[5. Mechanics/Spells/Identify.md\|identify]], [[5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[5. Mechanics/Spells/Magic Missile.md\|magic missile]], [[5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]]
+1st level: [[/5. Mechanics/Spells/Disguise Self.md\|disguise self]], [[/5. Mechanics/Spells/Identify.md\|identify]], [[/5. Mechanics/Spells/Mage Armor.md\|mage armor]], [[/5. Mechanics/Spells/Magic Missile.md\|magic missile]], [[/5. Mechanics/Spells/Protection From Evil And Good.md\|protection from evil and good]]
 
-2nd level: [[5. Mechanics/Spells/Darkvision.md\|darkvision]], [[5. Mechanics/Spells/Hold Person.md\|hold person]], [[5. Mechanics/Spells/Invisibility.md\|invisibility]], [[5. Mechanics/Spells/Magic Weapon.md\|magic weapon]]
+2nd level: [[/5. Mechanics/Spells/Darkvision.md\|darkvision]], [[/5. Mechanics/Spells/Hold Person.md\|hold person]], [[/5. Mechanics/Spells/Invisibility.md\|invisibility]], [[/5. Mechanics/Spells/Magic Weapon.md\|magic weapon]]
 
 These items were taken from adventurers who were drawn into Barovia, captured, and killed by the cult.
 
@@ -490,7 +490,7 @@ The cult amassed several "relics" that it used in its rituals. These worthless i
 - An 8-inch-diameter varnished orb made from a nothic's eye  
 - An aspergillum carved from bone  
 - A folded cloak made from stitched ghoul skin  
-- A desiccated frog lashed to a stick (could be mistaken for a [[5. Mechanics/Items/Wand Of Polymorph.md\|wand of polymorph]])  
+- A desiccated frog lashed to a stick (could be mistaken for a [[/5. Mechanics/Items/Wand Of Polymorph.md\|wand of polymorph]])  
 - A bag full of bat guano  
 - A hag's severed finger  
 - A 6-inch-tall wooden figurine of a mummy, its arms crossed over its chest  
@@ -529,7 +529,7 @@ The water is 2 feet deep. The ledges and central dais are 5 feet high (3 feet hi
 
 Half embedded in the east wall is a wooden wheel connected to hidden chains and mechanisms. A character can use an action to turn the wheel, raising or lowering the nearby portcullis (see area 37).
 
-The hole in the west wall leads to a naturally formed alcove. The half-submerged pile of refuse that fills it is a [[5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mound]], which the cultists dubbed Lorghoth the Decayer. It is asleep but awakens if attacked or if the characters summon the cultists but refuse to complete their ritual (see "One Must Die!" below). A character standing next to the mound can discern its true nature with a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) check.
+The hole in the west wall leads to a naturally formed alcove. The half-submerged pile of refuse that fills it is a [[/5. Mechanics/Bestiary/Plant/Shambling Mound.md\|shambling mound]], which the cultists dubbed Lorghoth the Decayer. It is asleep but awakens if attacked or if the characters summon the cultists but refuse to complete their ritual (see "One Must Die!" below). A character standing next to the mound can discern its true nature with a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Nature\|Nature]]) check.
 
 #### "One Must Die!"
 
@@ -564,7 +564,7 @@ If the characters deny the cult its sacrifice and either destroy the shambling m
 
 - All the windows are bricked up; the bricked-up windows and the outer walls are impervious to the party's weapon attacks and damage-dealing spells.  
 - All the doors are gone, replaced by slashing scythe-blades. A character must succeed on a DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check to pass through a blade-trapped doorway unscathed. A character who spends 1 minute studying the blades in a particular doorway can try to take advantage of a momentary gap in their repeating movements and make a DC 15 Intelligence check instead. Failing either check, a character takes `dice:2d10|noform|noparens|avg` (`2d10`) slashing damage but manages to pass through the doorway. Any creature pushed through a doorway must succeed on a DC 15 Dexterity saving throw or take the damage. The blades can't be disarmed.  
-- Every room that contains a fireplace, an oven, or a stove is filled with poisonous black smoke. The room is heavily obscured, and any creature that starts its turn in the smoke must succeed on a DC 10 Constitution saving throw or take `dice:1d10|noform|noparens|avg` (`d10`) poison damage.  
-- The interior walls become rotted and brittle. Each 5-foot-section has AC 5 and 5 hit points, and can also be destroyed with a successful DC 10 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. Each 5-foot section of wall that's destroyed causes a [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarm of rats]] to pour out and attack. The swarm won't leave the house.  
+- Every room that contains a fireplace, an oven, or a stove is filled with poisonous black smoke. The room is heavily obscured, and any creature that starts its turn in the smoke must succeed on a DC 10 Constitution saving throw or take `dice:1d10|noform|noparens|avg` (`1d10`) poison damage.  
+- The interior walls become rotted and brittle. Each 5-foot-section has AC 5 and 5 hit points, and can also be destroyed with a successful DC 10 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. Each 5-foot section of wall that's destroyed causes a [[/5. Mechanics/Bestiary/Beast/Swarm Of Rats.md\|swarm of rats]] to pour out and attack. The swarm won't leave the house.  
 
 Keep track of initiative as the characters make their way through the house. Once they escape, they advance to 3rd level, and the house does no more to harm them.

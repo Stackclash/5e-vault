@@ -13,7 +13,7 @@ one-hand-damage: 1d6 bludgeoning
 weight: 4
 ---
 # Camper's Crutch
-*Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), minor, common*  
+*Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Campers-Crutch.webp#right)  
 
 - **Damage**: 1d6 bludgeoning

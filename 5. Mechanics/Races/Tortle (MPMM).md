@@ -9,7 +9,7 @@ aliases:
 ---
 # Tortle
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 34*  
-![[5. Mechanics/Races/img/tortle.webp#right]]  
+![[/5. Mechanics/Races/img/tortle.webp#right]]  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -23,7 +23,7 @@ You are Medium or Small. You choose the size when you select this race.
 
 ### Claws
 
-You have claws that you can use to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have claws that you can use to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Hold Breath
 

@@ -12,7 +12,7 @@ one-hand-damage: 1d8 bludgeoning
 weight: 2
 ---
 # Prisoner's Flail
-*Weapon ([[5. Mechanics/Items/Flail.md\|flail]]), uncommon*  
+*Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Prisoners-Flail.webp#right)  
 
 - **Damage**: 1d8 bludgeoning

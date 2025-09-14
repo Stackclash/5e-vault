@@ -23,7 +23,7 @@ The best-known worlds in the multiverse are the ones that have been published as
 
 Each of these worlds boasts its own cast of heroic adventurers and scheming villains, its own ancient ruins and forgotten artifacts, its own dungeons and its own dragons. But if your campaign takes place on one of these worlds, it belongs to your DM—you might imagine it as one of thousands of parallel versions of the world, which might diverge wildly from the published version.
 
-![[6. Resources/Books/Players Handbook 2014/img/planes-1.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/planes-1.webp#center]]
 
 ### Material Echoes
 
@@ -52,7 +52,7 @@ Travel to the planes beyond the Material Plane can be accomplished in two ways: 
 
 #### Spells
 
-A number of spells allow direct or indirect access to other planes of existence. [[5. Mechanics/Spells/Plane Shift.md\|Plane shift]] and [[5. Mechanics/Spells/Gate.md\|gate]] can transport adventurers directly to any other plane of existence, with different degrees of precision. Etherealness allows adventurers to enter the Ethereal Plane and travel from there to any of the planes it touches—the Shadowfell, the Feywild, or the Elemental Planes. And the [[5. Mechanics/Spells/Astral Projection.md\|astral projection]] spell lets adventurers project themselves into the Astral Plane and travel to the Outer Planes.
+A number of spells allow direct or indirect access to other planes of existence. [[/5. Mechanics/Spells/Plane Shift.md\|Plane shift]] and [[/5. Mechanics/Spells/Gate.md\|gate]] can transport adventurers directly to any other plane of existence, with different degrees of precision. Etherealness allows adventurers to enter the Ethereal Plane and travel from there to any of the planes it touches—the Shadowfell, the Feywild, or the Elemental Planes. And the [[/5. Mechanics/Spells/Astral Projection.md\|astral projection]] spell lets adventurers project themselves into the Astral Plane and travel to the Outer Planes.
 
 #### Portals
 
@@ -62,7 +62,7 @@ A portal is a general term for a stationary interplanar connection that links a 
 
 The Ethereal Plane and the Astral Plane are called the Transitive Planes. They are mostly featureless realms that serve primarily as ways to travel from one plane to another. Spells such as etherealness and astral projection allow characters to enter these planes and traverse them to reach the planes beyond.
 
-The Ethereal Plane is a misty, fog-bound dimension that is sometimes described as a great ocean. Its shores, called the Border Ethereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Ethereal Plane. Certain creatures can see into the Border Ethereal, and the [[5. Mechanics/Spells/See Invisibility.md\|see invisibility]] and [[5. Mechanics/Spells/True Seeing.md\|true seeing]] spell grant that ability. Some magical effects also extend from the Material Plane into the Border Ethereal, particularly effects that use force energy such as forcecage and wall of force. The depths of the plane, the Deep Ethereal, are a region of swirling mists and colorful fogs.
+The Ethereal Plane is a misty, fog-bound dimension that is sometimes described as a great ocean. Its shores, called the Border Ethereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Ethereal Plane. Certain creatures can see into the Border Ethereal, and the [[/5. Mechanics/Spells/See Invisibility.md\|see invisibility]] and [[/5. Mechanics/Spells/True Seeing.md\|true seeing]] spell grant that ability. Some magical effects also extend from the Material Plane into the Border Ethereal, particularly effects that use force energy such as forcecage and wall of force. The depths of the plane, the Deep Ethereal, are a region of swirling mists and colorful fogs.
 
 The **Astral Plane** is the realm of thought and dream, where visitors travel as disembodied souls to reach the planes of the divine and demonic. It is a great, silvery sea, the same above and below, with swirling wisps of white and gray streaking among motes of light resembling distant stars. Erratic whirlpools of color flicker in midair like spinning coins. Occasional bits of solid matter can be found here, but most of the Astral Plane is an endless, open domain.
 
@@ -86,7 +86,7 @@ Distance is a virtually meaningless concept on the Outer Planes. The perceptible
 
 The most well-known Outer Planes are a group of sixteen planes that correspond to the eight alignments (excluding neutrality) and the shades of distinction between them.
 
-![[5. Mechanics/Tables/Outer Planes (PHB).md\|Outer Planes]]
+![[/5. Mechanics/Tables/Outer Planes (PHB).md\|Outer Planes]]
 
 The planes with some element of good in their nature are called the **Upper Planes.** Celestial creatures such as angels and pegasi dwell in the Upper Planes. Planes with some element of evil are the **Lower Planes.** Fiends such as demons, devils, and yugoloths dwell in the Lower Planes. A plane's alignment is its essence, and a character whose alignment doesn't match the plane's experiences a profound sense of dissonance there. When a good creature visits Elysium, for example, it feels in tune with the plane, but an evil creature feels out of tune and more than a little uncomfortable.
 
@@ -120,4 +120,4 @@ The entities that abide in the Far Realm are too alien for a normal mind to acce
 
 There are no known portals to the Far Realm, or at least none that are still viable. Ancient elves once pierced the boundary of eons with a vast portal to the Far Realm within a mountain called Firestorm Peak, but their civilization imploded in bloody terror and the portal's location—even its home world—is long forgotten. Other portals might still exist, marked by the alien forces leaking through to corrupt the Material Plane around them.
 
-![[6. Resources/Books/Players Handbook 2014/img/planes-2.webp#center]]
+![[/6. Resources/Books/Players Handbook 2014/img/planes-2.webp#center]]

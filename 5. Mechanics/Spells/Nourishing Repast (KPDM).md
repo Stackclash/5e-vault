@@ -17,9 +17,9 @@ level: 1
 ritual: true
 time: 1 minute
 duration: 24 hours
-components:
-  - V
-  - S
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Nourishing Repast
 ---
@@ -35,6 +35,6 @@ You touch a supply of food and turn it into a magical substance that promotes he
 
 If the food is eaten during a short rest, it provides a +1 bonus to each Hit Die spent to regain hit points. If the food is eaten as part of a long rest instead, then each creature partaking in the meal gains advantage on saving throws against disease or poison for the next 8 hours.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 97*

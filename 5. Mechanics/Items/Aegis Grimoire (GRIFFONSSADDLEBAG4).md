@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Aegis Grimoire
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), very rare (requires attunement by a wizard)*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), very rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Aegis-Grimoire.webp#right)  
 
 - **Armor Class**: 2
@@ -22,7 +22,7 @@ This leather shield looks like a leather-bound book with brass fixtures. You're 
 
 ## Spells
 
-While holding this shield, you can use a bonus action to expend 1 or more of its charges to cast one of the following spells from it: [[5. Mechanics/Spells/Antilife Shell.md\|antilife shell]] (4 charges), [[5. Mechanics/Spells/Mage Armor.md\|mage armor]] (1 charge), or [[5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (2 charges). When you cast this version of mage armor on yourself, it also reduces the damage you take from spells by half.
+While holding this shield, you can use a bonus action to expend 1 or more of its charges to cast one of the following spells from it: [[/5. Mechanics/Spells/Antilife Shell.md\|antilife shell]] (4 charges), [[/5. Mechanics/Spells/Mage Armor.md\|mage armor]] (1 charge), or [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (2 charges). When you cast this version of mage armor on yourself, it also reduces the damage you take from spells by half.
 
 ## Spell Absorb
 

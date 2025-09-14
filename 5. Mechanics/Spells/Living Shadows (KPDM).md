@@ -14,12 +14,20 @@ classes:
   - Wizard
 school: Enchantment
 level: 5
+saving_throw:
+  skills:
+    - Strength
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
+range: 120 feet
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 15
 aliases:
   - Living Shadows
 ---
@@ -35,6 +43,6 @@ You whisper sibilant words of Void Speech that cause shadows to writhe with unho
 
 A [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [Cleric (Void Domain)](compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Void Domain)](/compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 332*

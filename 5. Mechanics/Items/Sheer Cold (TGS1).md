@@ -14,7 +14,7 @@ two-hand-damage: 1d10 cold
 weight: 2
 ---
 # Sheer Cold
-*Weapon ([[5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Sheer-Cold.webp#right)  
 
 - **Damage**:

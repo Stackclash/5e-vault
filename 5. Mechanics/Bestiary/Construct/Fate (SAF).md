@@ -13,7 +13,7 @@ tags:
 aliases:
   - Fate
 ---
-# [[5. Mechanics\Bestiary\Construct\Fate (SAF).md|Fate]]
+# [[5. Mechanics/Bestiary/Construct/Fate (SAF).md|Fate]]
 *Source: Strongholds and Followers p. 230*
 
 The Law of Fate forces events to have predetermined outcomes whether you like it or not. There is no chance when Fate is present. All things proceed as the universe intends, and neither good nor bad luck is possible.
@@ -51,7 +51,8 @@ Because Fate does not use dice (see The Law of Fate, below) there may be enemies
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
+  \ 15"
 "languages": "all those of the creature who summoned it"
 "cr": "8"
 "traits":
@@ -68,7 +69,7 @@ Because Fate does not use dice (see The Law of Fate, below) there may be enemies
 "actions":
   - "desc": "Fate makes three slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d8 + 3) bludgeoning damage."
     "name": "Slam"
   - "desc": "Fate fires a beam of Destiny Light at a target it can see within 60 feet.\

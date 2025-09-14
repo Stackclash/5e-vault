@@ -14,7 +14,7 @@ one-hand-damage: 1d4 slashing
 weight: 2
 ---
 # Sickle of Cunning
-*Weapon ([[5. Mechanics/Items/Sickle.md\|sickle]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Sickle-of-Cunning.webp#right)  
 
 - **Damage**: 1d4 slashing

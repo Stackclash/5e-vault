@@ -10,11 +10,11 @@ tags:
 aliases:
   - Compass Blowgun
 one-hand-damage: 1 piercing
-range: 25\100
+range: 25/100
 weight: 1
 ---
 # Compass Blowgun
-*Weapon ([[5. Mechanics/Items/Blowgun.md\|blowgun]]), uncommon (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Compass-Blowgun.webp#right)  
 
 - **Damage**: 1 piercing

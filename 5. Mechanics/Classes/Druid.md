@@ -52,16 +52,16 @@ aliases:
 ## Starting Druid
 
 - **Saving Throws**: Intelligence, Wisdom
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]] (druids will not wear armor or use shields made of metal)
-- **Weapons**: [[5. Mechanics/Items/Club.md\|clubs]], [[5. Mechanics/Items/Dagger.md\|daggers]], [[5. Mechanics/Items/Dart.md\|darts]], [[5. Mechanics/Items/Javelin.md\|javelins]], [[5. Mechanics/Items/Mace.md\|maces]], [[5. Mechanics/Items/Quarterstaff.md\|quarterstaffs]], [[5. Mechanics/Items/Scimitar.md\|scimitars]], [[5. Mechanics/Items/Sickle.md\|sickles]], [[5. Mechanics/Items/Sling.md\|slings]], [[5. Mechanics/Items/Spear.md\|spears]]
-- **Tools**: [[5. Mechanics/Items/Herbalism Kit.md\|Herbalism kit]]
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Items/Shield.md\|shields]] (druids will not wear armor or use shields made of metal)
+- **Weapons**: [[/5. Mechanics/Items/Club.md\|clubs]], [[/5. Mechanics/Items/Dagger.md\|daggers]], [[/5. Mechanics/Items/Dart.md\|darts]], [[/5. Mechanics/Items/Javelin.md\|javelins]], [[/5. Mechanics/Items/Mace.md\|maces]], [[/5. Mechanics/Items/Quarterstaff.md\|quarterstaffs]], [[/5. Mechanics/Items/Scimitar.md\|scimitars]], [[/5. Mechanics/Items/Sickle.md\|sickles]], [[/5. Mechanics/Items/Sling.md\|slings]], [[/5. Mechanics/Items/Spear.md\|spears]]
+- **Tools**: [[/5. Mechanics/Items/Herbalism Kit.md\|Herbalism kit]]
 - **Skills**: choose 2 from [[/5. Mechanics/Rules/Skills.md#Animal%20Handling\|Animal Handling]], [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], [[/5. Mechanics/Rules/Skills.md#Insight\|Insight]], [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]], [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]], [[/5. Mechanics/Rules/Skills.md#Perception\|Perception]], [[/5. Mechanics/Rules/Skills.md#Religion\|Religion]], and [[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a wooden [[5. Mechanics/Items/Shield.md\|shield]] or (b) any simple weapon
-- (a) a [[5. Mechanics/Items/Scimitar.md\|scimitar]] or (b) any simple melee weapon
-- [[5. Mechanics/Items/Leather Armor.md\|Leather armor]], an [[5. Mechanics/Items/Explorers Pack.md\|explorer's pack]], and a [[5. Mechanics/Items/Druidic Foc(US).md\|druidic focus]]
+- (a) a wooden [[/5. Mechanics/Items/Shield.md\|shield]] or (b) any simple weapon
+- (a) a [[/5. Mechanics/Items/Scimitar.md\|scimitar]] or (b) any simple melee weapon
+- [[/5. Mechanics/Items/Leather Armor.md\|Leather armor]], an [[/5. Mechanics/Items/Explorers Pack.md\|explorer's pack]], and a [[/5. Mechanics/Items/Druidic Foc(US).md\|druidic focus]]
 
 Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
@@ -71,7 +71,7 @@ Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[5. Mechanics/Items/Shield.md\|shields]] (druids will not wear armor or use shields made of metal)
+- **Armor**: [[/5. Mechanics/Rules/Item Types.md#Light%20Armor\|light armor]], [[/5. Mechanics/Rules/Item Types.md#Medium%20Armor\|medium armor]], [[/5. Mechanics/Items/Shield.md\|shields]] (druids will not wear armor or use shields made of metal)
 
 ## Druid
 
@@ -105,7 +105,7 @@ Have you always been an adventurer as part of your druidic calling, or did you f
 
 #### Quick Build
 
-You can make a druid quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. Second, choose the [[5. Mechanics/Backgrounds/Hermit.md\|hermit]] background.
+You can make a druid quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. Second, choose the [[/5. Mechanics/Backgrounds/Hermit.md\|hermit]] background.
 
 > [!note] Sacred Plants and Wood
 > 
@@ -220,244 +220,244 @@ _Source: Xanathar's Guide to Everything_
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [[5. Mechanics/Bestiary/Beast/Owl.md\|Owl]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Owl.md\|Giant owl]] | Fly |
-| 1 | [[5. Mechanics/Bestiary/Beast/Brown Bear.md\|Brown bear]] | — |
-| 2 | [[5. Mechanics/Bestiary/Beast/Polar Bear.md\|Polar bear]] | Swim |
-| 2 | [[5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md\|Saber-toothed tiger]] | — |
-| 6 | [[5. Mechanics/Bestiary/Beast/Mammoth.md\|Mammoth]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Owl.md\|Owl]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Owl.md\|Giant owl]] | Fly |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Brown Bear.md\|Brown bear]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Polar Bear.md\|Polar bear]] | Swim |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md\|Saber-toothed tiger]] | — |
+| 6 | [[/5. Mechanics/Bestiary/Beast/Mammoth.md\|Mammoth]] | — |
 ^arctic
 
 **Coast**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [[5. Mechanics/Bestiary/Beast/Crab.md\|Crab]] | Swim |
-| 0 | [[5. Mechanics/Bestiary/Beast/Eagle.md\|Eagle]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Giant Crab.md\|Giant crab]] | Swim |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|Poisonous snake]] | Swim |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Lizard.md\|Giant lizard]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|Giant wolf spider]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Pteranodon.md\|Pteranodon]] | Fly |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Eagle.md\|Giant eagle]] | Fly |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] | Swim |
-| 2 | [[5. Mechanics/Bestiary/Beast/Plesiosaur(US).md\|Plesiosaurus]] | Swim |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Crab.md\|Crab]] | Swim |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Eagle.md\|Eagle]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Giant Crab.md\|Giant crab]] | Swim |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|Poisonous snake]] | Swim |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Lizard.md\|Giant lizard]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|Giant wolf spider]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Pteranodon.md\|Pteranodon]] | Fly |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Eagle.md\|Giant eagle]] | Fly |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] | Swim |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Plesiosaur(US).md\|Plesiosaurus]] | Swim |
 ^coast
 
 **Desert**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [[5. Mechanics/Bestiary/Beast/Cat.md\|Cat]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Hyena.md\|Hyena]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Jack(AL).md\|Jackal]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Scorpion.md\|Scorpion]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Vulture.md\|Vulture]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Camel.md\|Camel]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Flying Snake.md\|Flying snake]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Mule.md\|Mule]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|Poisonous snake]] | Swim |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Constrictor Snake.md\|Constrictor snake]] | Swim |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Lizard.md\|Giant lizard]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|Giant poisonous snake]] | Swim |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|Giant wolf spider]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Hyena.md\|Giant hyena]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|Giant spider]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] | Swim |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Vulture.md\|Giant vulture]] | Fly |
-| 1 | [[5. Mechanics/Bestiary/Beast/Lion.md\|Lion]] | — |
-| 2 | [[5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant constrictor snake]] | Swim |
-| 3 | [[5. Mechanics/Bestiary/Beast/Giant Scorpion.md\|Giant scorpion]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Cat.md\|Cat]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Hyena.md\|Hyena]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Jack(AL).md\|Jackal]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Scorpion.md\|Scorpion]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Vulture.md\|Vulture]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Camel.md\|Camel]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Flying Snake.md\|Flying snake]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Mule.md\|Mule]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|Poisonous snake]] | Swim |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Constrictor Snake.md\|Constrictor snake]] | Swim |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Lizard.md\|Giant lizard]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|Giant poisonous snake]] | Swim |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|Giant wolf spider]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Hyena.md\|Giant hyena]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Spider.md\|Giant spider]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] | Swim |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Vulture.md\|Giant vulture]] | Fly |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Lion.md\|Lion]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant constrictor snake]] | Swim |
+| 3 | [[/5. Mechanics/Bestiary/Beast/Giant Scorpion.md\|Giant scorpion]] | — |
 ^desert
 
 **Forest**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [[5. Mechanics/Bestiary/Beast/Baboon.md\|Baboon]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Badger.md\|Badger]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Cat.md\|Cat]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Deer.md\|Deer]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Hyena.md\|Hyena]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Owl.md\|Owl]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Flying Snake.md\|Flying snake]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Giant Rat.md\|Giant rat]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Giant Weasel.md\|Giant weasel]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|Poisonous snake]] | Swim |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Mastiff.md\|Mastiff]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Boar.md\|Boar]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Constrictor Snake.md\|Constrictor snake]] | Swim |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/E(LK).md\|Elk]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Badger.md\|Giant badger]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Bat.md\|Giant bat]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Frog.md\|Giant frog]] | Swim |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Lizard.md\|Giant lizard]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Owl.md\|Giant owl]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|Giant poisonous snake]] | Swim |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|Giant wolf spider]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Panther.md\|Panther]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Wolf.md\|Wolf]] | — |
-| 1/2 | [[5. Mechanics/Bestiary/Beast/Ape.md\|Ape]] | — |
-| 1/2 | [[5. Mechanics/Bestiary/Beast/Black Bear.md\|Black bear]] | — |
-| 1/2 | [[5. Mechanics/Bestiary/Beast/Giant Wasp.md\|Giant wasp]] | Fly |
-| 1 | [[5. Mechanics/Bestiary/Beast/Brown Bear.md\|Brown bear]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|Dire wolf]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Hyena.md\|Giant hyena]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|Giant spider]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] | Swim |
-| 1 | [[5. Mechanics/Bestiary/Beast/Tiger.md\|Tiger]] | — |
-| 2 | [[5. Mechanics/Bestiary/Beast/Giant Boar.md\|Giant boar]] | — |
-| 2 | [[5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant constrictor snake]] | Swim |
-| 2 | [[5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Baboon.md\|Baboon]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Badger.md\|Badger]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Cat.md\|Cat]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Deer.md\|Deer]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Hyena.md\|Hyena]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Owl.md\|Owl]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Flying Snake.md\|Flying snake]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Giant Rat.md\|Giant rat]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Giant Weasel.md\|Giant weasel]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|Poisonous snake]] | Swim |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Mastiff.md\|Mastiff]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Boar.md\|Boar]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Constrictor Snake.md\|Constrictor snake]] | Swim |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/E(LK).md\|Elk]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Badger.md\|Giant badger]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Bat.md\|Giant bat]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Frog.md\|Giant frog]] | Swim |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Lizard.md\|Giant lizard]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Owl.md\|Giant owl]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|Giant poisonous snake]] | Swim |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|Giant wolf spider]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Panther.md\|Panther]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Wolf.md\|Wolf]] | — |
+| 1/2 | [[/5. Mechanics/Bestiary/Beast/Ape.md\|Ape]] | — |
+| 1/2 | [[/5. Mechanics/Bestiary/Beast/Black Bear.md\|Black bear]] | — |
+| 1/2 | [[/5. Mechanics/Bestiary/Beast/Giant Wasp.md\|Giant wasp]] | Fly |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Brown Bear.md\|Brown bear]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|Dire wolf]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Hyena.md\|Giant hyena]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Spider.md\|Giant spider]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] | Swim |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Tiger.md\|Tiger]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|Giant boar]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant constrictor snake]] | Swim |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] | — |
 ^forest
 
 **Grassland**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [[5. Mechanics/Bestiary/Beast/Cat.md\|Cat]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Deer.md\|Deer]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Eagle.md\|Eagle]] | Fly |
-| 0 | [[5. Mechanics/Bestiary/Beast/Goat.md\|Goat]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Hyena.md\|Hyena]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Jack(AL).md\|Jackal]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Vulture.md\|Vulture]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Flying Snake.md\|Flying snake]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Giant Weasel.md\|Giant weasel]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|Poisonous snake]] | Swim |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Axe Beak.md\|Axe beak]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Boar.md\|Boar]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/E(LK).md\|Elk]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|Giant poisonous snake]] | Swim |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|Giant wolf spider]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Panther.md\|Panther]] (leopard) | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Pteranodon.md\|Pteranodon]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Riding Horse.md\|Riding horse]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Wolf.md\|Wolf]] | — |
-| 1/2 | [[5. Mechanics/Bestiary/Beast/Giant Goat.md\|Giant goat]] | — |
-| 1/2 | [[5. Mechanics/Bestiary/Beast/Giant Wasp.md\|Giant wasp]] | Fly |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Eagle.md\|Giant eagle]] | Fly |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Hyena.md\|Giant hyena]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Vulture.md\|Giant vulture]] | Fly |
-| 1 | [[5. Mechanics/Bestiary/Beast/Lion.md\|Lion]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Tiger.md\|Tiger]] | — |
-| 2 | [[5. Mechanics/Bestiary/Beast/Allosaur(US).md\|Allosaurus]] | — |
-| 2 | [[5. Mechanics/Bestiary/Beast/Giant Boar.md\|Giant boar]] | — |
-| 2 | [[5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] | — |
-| 2 | [[5. Mechanics/Bestiary/Beast/Rhinoceros.md\|Rhinoceros]] | — |
-| 3 | [[5. Mechanics/Bestiary/Beast/Ankylosaur(US).md\|Ankylosaurus]] | — |
-| 4 | [[5. Mechanics/Bestiary/Beast/Elephant.md\|Elephant]] | — |
-| 5 | [[5. Mechanics/Bestiary/Beast/Triceratops.md\|Triceratops]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Cat.md\|Cat]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Deer.md\|Deer]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Eagle.md\|Eagle]] | Fly |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Goat.md\|Goat]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Hyena.md\|Hyena]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Jack(AL).md\|Jackal]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Vulture.md\|Vulture]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Flying Snake.md\|Flying snake]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Giant Weasel.md\|Giant weasel]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|Poisonous snake]] | Swim |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Axe Beak.md\|Axe beak]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Boar.md\|Boar]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/E(LK).md\|Elk]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|Giant poisonous snake]] | Swim |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|Giant wolf spider]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Panther.md\|Panther]] (leopard) | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Pteranodon.md\|Pteranodon]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Riding Horse.md\|Riding horse]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Wolf.md\|Wolf]] | — |
+| 1/2 | [[/5. Mechanics/Bestiary/Beast/Giant Goat.md\|Giant goat]] | — |
+| 1/2 | [[/5. Mechanics/Bestiary/Beast/Giant Wasp.md\|Giant wasp]] | Fly |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Eagle.md\|Giant eagle]] | Fly |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Hyena.md\|Giant hyena]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Vulture.md\|Giant vulture]] | Fly |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Lion.md\|Lion]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Tiger.md\|Tiger]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Allosaur(US).md\|Allosaurus]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|Giant boar]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Rhinoceros.md\|Rhinoceros]] | — |
+| 3 | [[/5. Mechanics/Bestiary/Beast/Ankylosaur(US).md\|Ankylosaurus]] | — |
+| 4 | [[/5. Mechanics/Bestiary/Beast/Elephant.md\|Elephant]] | — |
+| 5 | [[/5. Mechanics/Bestiary/Beast/Triceratops.md\|Triceratops]] | — |
 ^grassland
 
 **Hill**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [[5. Mechanics/Bestiary/Beast/Baboon.md\|Baboon]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Eagle.md\|Eagle]] | Fly |
-| 0 | [[5. Mechanics/Bestiary/Beast/Goat.md\|Goat]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Hyena.md\|Hyena]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Raven.md\|Raven]] | Fly |
-| 0 | [[5. Mechanics/Bestiary/Beast/Vulture.md\|Vulture]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Giant Weasel.md\|Giant weasel]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Mastiff.md\|Mastiff]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Mule.md\|Mule]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|Poisonous snake]] | Swim |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Axe Beak.md\|Axe beak]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Boar.md\|Boar]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/E(LK).md\|Elk]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Owl.md\|Giant owl]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|Giant wolf spider]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Panther.md\|Panther]] (cougar) | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Wolf.md\|Wolf]] | — |
-| 1/2 | [[5. Mechanics/Bestiary/Beast/Giant Goat.md\|Giant goat]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Brown Bear.md\|Brown bear]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Dire Wolf.md\|Dire wolf]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Eagle.md\|Giant eagle]] | Fly |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Hyena.md\|Giant hyena]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Lion.md\|Lion]] | — |
-| 2 | [[5. Mechanics/Bestiary/Beast/Giant Boar.md\|Giant boar]] | — |
-| 2 | [[5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Baboon.md\|Baboon]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Eagle.md\|Eagle]] | Fly |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Goat.md\|Goat]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Hyena.md\|Hyena]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Raven.md\|Raven]] | Fly |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Vulture.md\|Vulture]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Giant Weasel.md\|Giant weasel]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Mastiff.md\|Mastiff]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Mule.md\|Mule]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|Poisonous snake]] | Swim |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Axe Beak.md\|Axe beak]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Boar.md\|Boar]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/E(LK).md\|Elk]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Owl.md\|Giant owl]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Wolf Spider.md\|Giant wolf spider]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Panther.md\|Panther]] (cougar) | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Wolf.md\|Wolf]] | — |
+| 1/2 | [[/5. Mechanics/Bestiary/Beast/Giant Goat.md\|Giant goat]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Brown Bear.md\|Brown bear]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Dire Wolf.md\|Dire wolf]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Eagle.md\|Giant eagle]] | Fly |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Hyena.md\|Giant hyena]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Lion.md\|Lion]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant Boar.md\|Giant boar]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] | — |
 ^hill
 
 **Mountain**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [[5. Mechanics/Bestiary/Beast/Eagle.md\|Eagle]] | Fly |
-| 0 | [[5. Mechanics/Bestiary/Beast/Goat.md\|Goat]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Pteranodon.md\|Pteranodon]] | Fly |
-| 1/2 | [[5. Mechanics/Bestiary/Beast/Giant Goat.md\|Giant goat]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Eagle.md\|Giant eagle]] | Fly |
-| 1 | [[5. Mechanics/Bestiary/Beast/Lion.md\|Lion]] | — |
-| 2 | [[5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] | — |
-| 2 | [[5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md\|Saber-toothed tiger]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Eagle.md\|Eagle]] | Fly |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Goat.md\|Goat]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Blood Hawk.md\|Blood hawk]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Pteranodon.md\|Pteranodon]] | Fly |
+| 1/2 | [[/5. Mechanics/Bestiary/Beast/Giant Goat.md\|Giant goat]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Eagle.md\|Giant eagle]] | Fly |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Lion.md\|Lion]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant E(LK).md\|Giant elk]] | — |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md\|Saber-toothed tiger]] | — |
 ^mountain
 
 **Swamp**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [[5. Mechanics/Bestiary/Beast/Rat.md\|Rat]] | — |
-| 0 | [[5. Mechanics/Bestiary/Beast/Raven.md\|Raven]] | Fly |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Giant Rat.md\|Giant rat]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|Poisonous snake]] | Swim |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Constrictor Snake.md\|Constrictor snake]] | Swim |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Frog.md\|Giant frog]] | Swim |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Lizard.md\|Giant lizard]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|Giant poisonous snake]] | Swim |
-| 1/2 | [[5. Mechanics/Bestiary/Beast/Crocodile.md\|Crocodile]] | Swim |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|Giant spider]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] | Swim |
-| 2 | [[5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant constrictor snake]] | Swim |
-| 5 | [[5. Mechanics/Bestiary/Beast/Giant Crocodile.md\|Giant crocodile]] | Swim |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Rat.md\|Rat]] | — |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Raven.md\|Raven]] | Fly |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Giant Rat.md\|Giant rat]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Poisonous Snake.md\|Poisonous snake]] | Swim |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Constrictor Snake.md\|Constrictor snake]] | Swim |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Frog.md\|Giant frog]] | Swim |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Lizard.md\|Giant lizard]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|Giant poisonous snake]] | Swim |
+| 1/2 | [[/5. Mechanics/Bestiary/Beast/Crocodile.md\|Crocodile]] | Swim |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Spider.md\|Giant spider]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] | Swim |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant constrictor snake]] | Swim |
+| 5 | [[/5. Mechanics/Bestiary/Beast/Giant Crocodile.md\|Giant crocodile]] | Swim |
 ^swamp
 
 **Underdark**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [[5. Mechanics/Bestiary/Beast/Giant Fire Beetle.md\|Giant fire beetle]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Giant Rat.md\|Giant rat]] | — |
-| 1/8 | [[5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Bat.md\|Giant bat]] | Fly |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Centipede.md\|Giant centipede]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Lizard.md\|Giant lizard]] | — |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|Giant poisonous snake]] | Swim |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Spider.md\|Giant spider]] | — |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] | Swim |
-| 2 | [[5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant constrictor snake]] | Swim |
-| 2 | [[5. Mechanics/Bestiary/Beast/Polar Bear.md\|Polar bear]] (cave bear) | Swim |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Giant Fire Beetle.md\|Giant fire beetle]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Giant Rat.md\|Giant rat]] | — |
+| 1/8 | [[/5. Mechanics/Bestiary/Beast/Stirge.md\|Stirge]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Bat.md\|Giant bat]] | Fly |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Centipede.md\|Giant centipede]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Lizard.md\|Giant lizard]] | — |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Giant Poisonous Snake.md\|Giant poisonous snake]] | Swim |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Spider.md\|Giant spider]] | — |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Toad.md\|Giant toad]] | Swim |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant constrictor snake]] | Swim |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Polar Bear.md\|Polar bear]] (cave bear) | Swim |
 ^underdark
 
 **Underwater**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [[5. Mechanics/Bestiary/Beast/Quipper.md\|Quipper]] | Swim |
-| 1/4 | [[5. Mechanics/Bestiary/Beast/Constrictor Snake.md\|Constrictor snake]] | Swim |
-| 1/2 | [[5. Mechanics/Bestiary/Beast/Giant Sea Horse.md\|Giant sea horse]] | Swim |
-| 1/2 | [[5. Mechanics/Bestiary/Beast/Reef Shark.md\|Reef shark]] | Swim |
-| 1 | [[5. Mechanics/Bestiary/Beast/Giant Octop(US).md\|Giant octopus]] | Swim |
-| 2 | [[5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant constrictor snake]] | Swim |
-| 2 | [[5. Mechanics/Bestiary/Beast/Hunter Shark.md\|Hunter shark]] | Swim |
-| 2 | [[5. Mechanics/Bestiary/Beast/Plesiosaur(US).md\|Plesiosaurus]] | Swim |
-| 3 | [[5. Mechanics/Bestiary/Beast/Killer Whale.md\|Killer whale]] | Swim |
-| 5 | [[5. Mechanics/Bestiary/Beast/Giant Shark.md\|Giant shark]] | Swim |
+| 0 | [[/5. Mechanics/Bestiary/Beast/Quipper.md\|Quipper]] | Swim |
+| 1/4 | [[/5. Mechanics/Bestiary/Beast/Constrictor Snake.md\|Constrictor snake]] | Swim |
+| 1/2 | [[/5. Mechanics/Bestiary/Beast/Giant Sea Horse.md\|Giant sea horse]] | Swim |
+| 1/2 | [[/5. Mechanics/Bestiary/Beast/Reef Shark.md\|Reef shark]] | Swim |
+| 1 | [[/5. Mechanics/Bestiary/Beast/Giant Octop(US).md\|Giant octopus]] | Swim |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Giant Constrictor Snake.md\|Giant constrictor snake]] | Swim |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Hunter Shark.md\|Hunter shark]] | Swim |
+| 2 | [[/5. Mechanics/Bestiary/Beast/Plesiosaur(US).md\|Plesiosaurus]] | Swim |
+| 3 | [[/5. Mechanics/Bestiary/Beast/Killer Whale.md\|Killer whale]] | Swim |
+| 5 | [[/5. Mechanics/Bestiary/Beast/Giant Shark.md\|Giant shark]] | Swim |
 ^underwater
 
 ## Class Features
@@ -480,7 +480,7 @@ The Druid table shows how many spell slots you have to cast your druid spells of
 
 You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -498,7 +498,7 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 #### Spellcasting Focus
 
-You can use a [[5. Mechanics/Items/Druidic Foc(US).md\|druidic focus]] as a spellcasting focus for your druid spells.
+You can use a [[/5. Mechanics/Items/Druidic Foc(US).md\|druidic focus]] as a spellcasting focus for your druid spells.
 
 ### Wild Shape (Level 2)
 
@@ -521,7 +521,7 @@ While you are transformed, the following rules apply:
 
 - Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.  
 - When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]].  
-- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as [[5. Mechanics/Spells/Call Lightning.md\|call lightning]], that you've already cast.  
+- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as [[/5. Mechanics/Spells/Call Lightning.md\|call lightning]], that you've already cast.  
 - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]], unless your new form also has that sense.  
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.  
 
@@ -530,7 +530,7 @@ _Source: Tasha's Cauldron of Everything p. 35_
 
 *2nd-level druid [[/5. Mechanics/Rules/Variant Rules/Optional Class Features (TCE).md\|optional feature]]*
 
-You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell, without material components.
+You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell, without material components.
 
 When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.
 

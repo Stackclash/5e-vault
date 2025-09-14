@@ -20,17 +20,27 @@ classes:
   - Wizard
 school: Conjuration
 level: 3
+damage:
+  base: 2d8
+  scaling:
+    damage: 1d8
+    level: 4
+  types:
+    - bludgeoning
+    - psychic
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
+material: a few links of iron chain
 aliases:
   - Chains of Perdition
-concentration: true
-material: a few links of iron chain
 ---
 # Chains of Perdition
 *3rd-level, Conjuration*  
@@ -44,8 +54,8 @@ Lengths of iron chain appear near a creature you choose within range, possibly e
 
 The chains remain until the spell ends. If they are not restraining a creature, you can use a bonus action to direct the chains to target the same creature or another one, moving the chains up to 20 feet (within the range of the spell) if necessary to do so. If the chains move beyond the maximum range, the spell ends. The chains can be destroyed; treat them as an object with AC 18, 15 hit points, resistance to piercing damage, and immunity to poison damage and psychic damage.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the spell deals an extra `dice:1d8|noform|noparens|avg|text(d8)` bludgeoning damage and `dice:1d8|noform|noparens|avg|text(d8)` psychic damage for every two slot levels above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the spell deals an extra `dice:1d8|noform|noparens|avg|text(1d8)` bludgeoning damage and `dice:1d8|noform|noparens|avg|text(1d8)` psychic damage for every two slot levels above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 325*

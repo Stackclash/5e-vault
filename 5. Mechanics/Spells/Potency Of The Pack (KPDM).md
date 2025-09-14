@@ -16,16 +16,21 @@ classes:
   - Warlock
 school: Transmutation
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
-  - M
+range: 25 feet
+somatic: true
+verbal: true
+material: a few hairs from a wolf
 aliases:
   - Potency of the Pack
-material: a few hairs from a wolf
 ---
 # Potency of the Pack
 *3rd-level, Transmutation*  
@@ -43,6 +48,6 @@ You bestow lupine traits on a group of living creatures that you designate withi
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 minute for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 99*

@@ -10,11 +10,11 @@ tags:
 aliases:
   - Dagger of First Light
 one-hand-damage: 1d4 piercing
-range: 20\60
+range: 20/60
 weight: 1
 ---
 # Dagger of First Light
-*Weapon ([[5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon*  
+*Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Dagger-of-First-Light.webp#right)  
 
 - **Damage**: 1d4 piercing

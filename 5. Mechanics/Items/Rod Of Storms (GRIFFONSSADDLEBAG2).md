@@ -19,8 +19,8 @@ This silver rod crackles with energy and can redirect or release powerful electr
 
 ## Spells
 
-The rod has 3 charges and regains all expended charges daily at dawn. While holding the rod, you can use an action to expend 1 of its charges to cast the [[5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] spell (save DC 15) from it.
+The rod has 3 charges and regains all expended charges daily at dawn. While holding the rod, you can use an action to expend 1 of its charges to cast the [[/5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]] spell (save DC 15) from it.
 
-In addition, you can use an action to expend 1 of the rod's charges to cast the [[5. Mechanics/Spells/Call Lightning.md\|call lightning]] spell (save DC 15) from it if the spell is on your spell list. If you take lightning damage from a bolt of lightning you call down in this way, the rod regains 1 expended charge.
+In addition, you can use an action to expend 1 of the rod's charges to cast the [[/5. Mechanics/Spells/Call Lightning.md\|call lightning]] spell (save DC 15) from it if the spell is on your spell list. If you take lightning damage from a bolt of lightning you call down in this way, the rod regains 1 expended charge.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 150*

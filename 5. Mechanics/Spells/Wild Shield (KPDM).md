@@ -14,12 +14,18 @@ classes:
   - Wizard
 school: Abjuration
 level: 4
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 5
+  types: []
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Wild Shield
 ---
@@ -31,12 +37,12 @@ aliases:
 - **Components:** V, S
 - **Duration:** 1 minute
 
-You surround yourself with the forces of chaos. Wild lights and strange sounds engulf you, making stealth impossible. While this spell is active, you can use a reaction to repel a spell of 4th level or lower that targets you or whose area you are within. A repelled spell has no effect on you, but doing this causes the chance of a [[5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]] as if you had cast a spell, with you considered the caster for any effect of the surge.
+You surround yourself with the forces of chaos. Wild lights and strange sounds engulf you, making stealth impossible. While this spell is active, you can use a reaction to repel a spell of 4th level or lower that targets you or whose area you are within. A repelled spell has no effect on you, but doing this causes the chance of a [[/5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]] as if you had cast a spell, with you considered the caster for any effect of the surge.
 
-This spell ends when the duration expires or when it absorbs 4 levels of spells. If you try to repel a spell whose level exceeds the number of levels remaining, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level–the number of levels this spell can still repel. If the check succeeds, the spell is repelled; if the check fails, the spell has its full effect. The chance of a [[5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]] exists regardless of whether the spell is repelled.
+This spell ends when the duration expires or when it absorbs 4 levels of spells. If you try to repel a spell whose level exceeds the number of levels remaining, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level–the number of levels this spell can still repel. If the check succeeds, the spell is repelled; if the check fails, the spell has its full effect. The chance of a [[/5. Mechanics/Tables/Chaos Magic Surge (KPDM).md\|chaos magic surge]] exists regardless of whether the spell is repelled.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can repel one additional spell level for each slot level above 4th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 189*

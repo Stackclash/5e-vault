@@ -9,7 +9,7 @@ aliases:
 ---
 # Gold Dragon
 
-## Lair actions
+## Lair Actions
 _Source: Monster Manual_
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
@@ -19,11 +19,11 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 ### Additional Lair Action
 
-At your discretion, a legendary ([[5. Mechanics/Bestiary/Dragon/Adult Gold Dragon.md|adult]] or [[5. Mechanics/Bestiary/Dragon/Ancient Gold Dragon.md|ancient]]) gold dragon can use the following additional lair action while in its lair:
+At your discretion, a legendary ([[/5. Mechanics/Bestiary/Dragon/Adult Gold Dragon.md|adult]] or [[/5. Mechanics/Bestiary/Dragon/Ancient Gold Dragon.md|ancient]]) gold dragon can use the following additional lair action while in its lair:
 
 - **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on the dragon; each creature in that area must succeed on a DC 15 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]] by the dragon until initiative count 20 on the next round.  
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual_
 
 The region containing a legendary gold dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:

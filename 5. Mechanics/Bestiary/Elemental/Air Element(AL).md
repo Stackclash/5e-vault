@@ -15,7 +15,7 @@ tags:
 aliases:
   - Air Elemental
 ---
-# [[5. Mechanics\Bestiary\Elemental\Air Element(AL).md|Air Elemental]]
+# [[5. Mechanics/Bestiary/Elemental/Air Element(AL).md|Air Elemental]]
 *Source: Monster Manual p. 124, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
@@ -67,7 +67,8 @@ An elemental doesn't require air, food, drink, or sleep.
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Auran"
 "cr": "5"
 "traits":
@@ -77,14 +78,14 @@ An elemental doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The elemental makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (2d8 + 5) bludgeoning damage."
     "name": "Slam"
   - "desc": "Each creature in the elemental's space must make a DC 13 Strength saving\
       \ throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is\
       \ flung up 20 feet away from the elemental in a random direction and knocked\
       \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]. If a thrown target strikes\
-      \ an object, such as a wall or floor, the target takes 3 (d6) bludgeoning damage\
+      \ an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage\
       \ for every 10 feet it was thrown. If the target is thrown at another creature,\
       \ that creature must succeed on a DC 13 Dexterity saving throw or take the same\
       \ damage and be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]].\n\n\
@@ -95,7 +96,7 @@ An elemental doesn't require air, food, drink, or sleep.
   - "MM"
   - "TCE"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Elemental/token/air-elemental.webp"
+"image": "/5. Mechanics/Bestiary/Elemental/token/air-elemental.webp"
 ```
 ^statblock
 

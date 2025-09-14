@@ -59,7 +59,7 @@ An Arcane Archer studies a unique elven method of archery that weaves magic into
 
 ### Arcane Archer Lore (Level 3)
 
-At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] or the [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]] skill, and you choose to learn either the [[5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] or the [[5. Mechanics/Spells/Druidcraft.md\|druidcraft]] cantrip.
+At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]] or the [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]] skill, and you choose to learn either the [[/5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] or the [[/5. Mechanics/Spells/Druidcraft.md\|druidcraft]] cantrip.
 
 ### Arcane Shot (Level 3)
 
@@ -108,5 +108,5 @@ You gain an additional Arcane Shot option of your choice when you reach 18th lev
 ## Optional Features
 
 > [!example]- Optional Features: Arcane Shot
-> ![[5. Mechanics/Lists/List Optfeaturetype As.md#Arcane%20Shot\|Arcane Shot]]
+> ![[/5. Mechanics/Lists/List Optfeaturetype As.md#Arcane%20Shot\|Arcane Shot]]
 ^list-optfeature-as

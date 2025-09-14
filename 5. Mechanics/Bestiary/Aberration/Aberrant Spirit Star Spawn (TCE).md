@@ -13,7 +13,7 @@ tags:
 aliases:
   - Aberrant Spirit (Star Spawn)
 ---
-# [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit Star Spawn (TCE).md|Aberrant Spirit (Star Spawn)]]
+# [[5. Mechanics/Bestiary/Aberration/Aberrant Spirit Star Spawn (TCE).md|Aberrant Spirit (Star Spawn)]]
 *Source: Tasha's Cauldron of Everything p. 109*
 
 ```statblock
@@ -32,7 +32,8 @@ aliases:
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "psychic"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Deep Speech, understands the languages you speak"
 "traits":
   - "desc": "At the start of each of the aberration's turns, each creature within\
@@ -44,8 +45,8 @@ aliases:
   - "desc": "The aberration makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Melee Spell Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one creature. Hit: 1d8 + 3 + the spell's level psychic damage."
+  - "desc": "*Melee Spell Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one creature. *Hit:* 1d8 + 3 + the spell's level psychic damage."
     "name": "Psychic Slam"
 "source":
   - "TCE"

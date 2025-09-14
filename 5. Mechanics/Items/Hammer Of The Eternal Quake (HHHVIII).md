@@ -14,7 +14,7 @@ two-hand-damage: 1d10x>9 bludgeoning
 weight: 2
 ---
 # Hammer of the Eternal Quake
-*Weapon ([[5. Mechanics/Items/Warhammer.md\|warhammer]]), legendary (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), legendary (requires attunement)*  
 
 - **Damage**:
   - One-handed: 1d8x>7 bludgeoning

@@ -14,8 +14,8 @@ aliases:
 | Renaissance Item | Cost | Damage | Weight | Properties |
 |------------------|------|--------|--------|------------|
 | *Martial Ranged Weapons* |  |  |  |  |
-| &emsp;Pistol | 250 gp | `dice:1d10\|noform\|noparens\|avg` (`d10`) piercing | 3 lb. | Ammunition (range 30/90), loading |
-| &emsp;Musket | 500 gp | `dice:1d12\|noform\|noparens\|avg` (`d12`) piercing | 10 lb. | Ammunition (range 40/120), loading, two-handed |
+| &emsp;Pistol | 250 gp | `dice:1d10\|noform\|noparens\|avg` (`1d10`) piercing | 3 lb. | Ammunition (range 30/90), loading |
+| &emsp;Musket | 500 gp | `dice:1d12\|noform\|noparens\|avg` (`1d12`) piercing | 10 lb. | Ammunition (range 40/120), loading, two-handed |
 | *Ammunition* |  |  |  |  |
 | &emsp;Bullets (10) | 3 gp | — | 2 lb. | — |
 ^firearms

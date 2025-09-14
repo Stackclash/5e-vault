@@ -9,11 +9,11 @@ tags:
 aliases:
   - Demon Cannon
 one-hand-damage: 1d10 piercing
-range: 100\400
+range: 100/400
 weight: 18
 ---
 # Demon Cannon
-*Weapon ([[5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), very rare*  
+*Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), very rare*  
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400

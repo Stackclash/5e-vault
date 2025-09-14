@@ -13,7 +13,7 @@ tags:
 aliases:
   - White Tusk Orc
 ---
-# [[5. Mechanics\Bestiary\Humanoid\White Tusk Orc (SAF).md|White Tusk Orc]]
+# [[5. Mechanics/Bestiary/Humanoid/White Tusk Orc (SAF).md|White Tusk Orc]]
 *Source: Strongholds and Followers p. 137*
 
 The rank and file of the White Tusk clan pride themselves on being larger and, thanks to Bonebreaker Dorokor's leadership since the investiture of Castle Rend, more devastating in combat than normal orcs.
@@ -27,7 +27,7 @@ They are a chaotic evil tribe who care only for strength and the subjugation of 
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[[5. Mechanics/Items/Studded Leather Armor.md|studded leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather armor]]"
 "hp": !!int "30"
 "hit_dice": "4d8 + 12"
 "modifier": !!int "1"
@@ -40,11 +40,12 @@ They are a chaotic evil tribe who care only for strength and the subjugation of 
   - !!int "10"
 "speed": "30 ft."
 "saves":
-  - "dexterity": "+2"
+  - "dexterity": !!int "2"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "Orc"
 "cr": "1"
 "traits":
@@ -56,12 +57,12 @@ They are a chaotic evil tribe who care only for strength and the subjugation of 
       \ roll of 18-20."
     "name": "Minion: Savage Horde"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two\
       \ hands."
     "name": "Battleaxe"
-  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. Hit: 10 (2d6 + 3) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. *Hit:* 10 (2d6 + 3) piercing damage."
     "name": "Javelin"
 "source":
   - "SaF"

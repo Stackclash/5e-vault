@@ -19,6 +19,6 @@ This patchwork gray cloak has three bone clasps at its neck. Whenever you cast a
 
 ## Curse
 
-Once you don this cursed cloak, you are unwilling to remove it unless you are targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. While wearing the cloak, you are considered to be undead whenever you are in dim light or darkness. In addition, if you can normally cast the [[5. Mechanics/Spells/Light.md\|light]] or [[5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] cantrips, you are unable to cast them while wearing the cloak.
+Once you don this cursed cloak, you are unwilling to remove it unless you are targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic. While wearing the cloak, you are considered to be undead whenever you are in dim light or darkness. In addition, if you can normally cast the [[/5. Mechanics/Spells/Light.md\|light]] or [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] cantrips, you are unable to cast them while wearing the cloak.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 158*

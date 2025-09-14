@@ -13,7 +13,7 @@ tags:
 aliases:
   - Preserver Drone
 ---
-# [[5. Mechanics\Bestiary\Construct\Preserver Drone (GRIFFONSSADDLEBAG3).md|Preserver Drone]]
+# [[5. Mechanics/Bestiary/Construct/Preserver Drone (GRIFFONSSADDLEBAG3).md|Preserver Drone]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Preserver drones are smaller than their other constructed counterparts. These automotons fly through the air, suspended by something between magic and technology, and emit guiding beams of light that assist their larger construct brethren.
@@ -47,7 +47,8 @@ Preserver drones are smaller than their other constructed counterparts. These au
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1"
 "traits":
@@ -62,10 +63,10 @@ Preserver drones are smaller than their other constructed counterparts. These au
 "actions":
   - "desc": "The drone makes two attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
       \ + 1) bludgeoning damage."
     "name": "Slam"
-  - "desc": "Ranged Weapon Attack: +4 to hit, range 60 ft., one target. Hit: 5\
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 60 ft., one target. *Hit:* 5\
       \ (1d6 + 2) force damage."
     "name": "Laser"
 "source":

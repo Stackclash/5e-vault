@@ -14,7 +14,7 @@ one-hand-damage: 1d10 piercing
 weight: 18
 ---
 # Solacesteel Requiem
-*Weapon ([[5. Mechanics/Items/Pike.md\|pike]]), major, rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Solacesteel-Requiem.webp#right)  
 
 - **Damage**: 1d10 piercing

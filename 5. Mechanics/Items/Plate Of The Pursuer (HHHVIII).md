@@ -12,7 +12,7 @@ armorClass: 18
 weight: 65
 ---
 # Plate of the Pursuer
-*Heavy armor ([[5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
+*Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  
 
 - **Armor Class**: 18
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]

@@ -55,21 +55,21 @@ Starting when you choose this origin at 1st level, your spellcasting can unleash
 
 If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], it doesn't require [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] in this case; the spell lasts for its full duration.
 
-![[5. Mechanics/Tables/Wild Magic Surge (PHB).md\|Wild Magic Surge]]
+![[/5. Mechanics/Tables/Wild Magic Surge (PHB).md\|Wild Magic Surge]]
 
 ### Tides of Chaos (Level 1)
 
 Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.
 
-Any time before you regain the use of this feature, the DM can have you roll on the [[5. Mechanics/Tables/Wild Magic Surge (PHB).md\|Wild Magic Surge]] table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature.
+Any time before you regain the use of this feature, the DM can have you roll on the [[/5. Mechanics/Tables/Wild Magic Surge (PHB).md\|Wild Magic Surge]] table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature.
 
 ### Bend Luck (Level 6)
 
-Starting at 6th level, you have the ability to twist fate using your wild magic. When another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll `dice:1d4|noform|noparens|avg` (`d4`) and apply the number rolled as a bonus or penalty (your choice) to the creature's roll. You can do so after the creature rolls but before any effects of the roll occur.
+Starting at 6th level, you have the ability to twist fate using your wild magic. When another creature you can see makes an attack roll, an ability check, or a saving throw, you can use your reaction and spend 2 sorcery points to roll `dice:1d4|noform|noparens|avg` (`1d4`) and apply the number rolled as a bonus or penalty (your choice) to the creature's roll. You can do so after the creature rolls but before any effects of the roll occur.
 
 ### Controlled Chaos (Level 14)
 
-At 14th level, you gain a modicum of control over the surges of your wild magic. Whenever you roll on the [[5. Mechanics/Tables/Wild Magic Surge (PHB).md\|Wild Magic Surge]] table, you can roll twice and use either number.
+At 14th level, you gain a modicum of control over the surges of your wild magic. Whenever you roll on the [[/5. Mechanics/Tables/Wild Magic Surge (PHB).md\|Wild Magic Surge]] table, you can roll twice and use either number.
 
 ### Spell Bombardment (Level 18)
 

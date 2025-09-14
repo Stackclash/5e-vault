@@ -22,16 +22,29 @@ classes:
   - Wizard
 school: Evocation
 level: 4
+damage:
+  base: 4d10
+  scaling:
+    damage: null
+    level: null
+  types:
+    - necrotic
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self (30-foot Cone)
+somatic: true
+verbal: true
+material: a clump of dried clay
+area:
+  shape: cone
+  size: 30
 aliases:
   - Desiccating Breath
-material: a clump of dried clay
 ---
 # Desiccating Breath
 *4th-level, Evocation*  
@@ -43,6 +56,6 @@ material: a clump of dried clay
 
 You spew forth a cloud of black dust that draws all moisture from a 30-foot cone. Each animal in the cone takes `dice:4d10|noform|noparens|avg` (`4d10`) necrotic damage, or half as much damage if it makes a successful Constitution saving throw. The damage is `dice:6d10|noform|noparens|avg` (`6d10`) for plants and plant creatures, also halved on a successful Constitution saving throw.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 60*

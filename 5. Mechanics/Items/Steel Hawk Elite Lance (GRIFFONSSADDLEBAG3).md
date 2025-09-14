@@ -13,7 +13,7 @@ one-hand-damage: 1d12 piercing
 weight: 6
 ---
 # Steel Hawk Elite Lance
-*Weapon ([[5. Mechanics/Items/Lance.md\|lance]]), major, rare*  
+*Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Steel-Hawk-Elite-Lance.webp#right)  
 
 - **Damage**: 1d12 piercing

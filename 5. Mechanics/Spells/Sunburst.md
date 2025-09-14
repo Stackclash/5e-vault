@@ -20,24 +20,29 @@ classes:
   - Wizard
 school: Evocation
 level: 8
+damage:
+  base: 12d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - radiant
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 150 feet
+somatic: true
+verbal: true
+material: fire and a piece of sunstone
+area:
+  shape: sphere
+  size: 60
 aliases:
   - Sunburst
-range: 150 feet
-material: Fire and a piece of sunstone.
-damageType: Radiant
-save:
-  type: CON
-  success: half
-area:
-  type: cylinder
-  size: 60
 ---
 # Sunburst
 *8th-level, Evocation*  
@@ -53,6 +58,6 @@ A creature [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] by this spell 
 
 This spell dispels any darkness in its area that was created by a spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

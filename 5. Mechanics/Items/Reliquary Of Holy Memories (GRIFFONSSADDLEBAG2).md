@@ -13,16 +13,16 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 ---
 # Reliquary of Holy Memories
-*Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), rod, major (requires attunement by a cleric or paladin)*  
+*Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), rod, major (requires attunement by a cleric or paladin)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Reliquary-of-Holy-Memories.webp#right)  
 
 - **Damage**: 1d6 bludgeoning
 
 Multiple variations of this item exist, as listed below:
 
-- [[5. Mechanics/Items/Reliquary Of Holy Memories Uncommon (GRIFFONSSADDLEBAG2).md\|Reliquary of Holy Memories (Uncommon)]]  
-- [[5. Mechanics/Items/Reliquary Of Holy Memories Rare (GRIFFONSSADDLEBAG2).md\|Reliquary of Holy Memories (Rare)]]  
-- [[5. Mechanics/Items/Reliquary Of Holy Memories Very Rare (GRIFFONSSADDLEBAG2).md\|Reliquary of Holy Memories (Very Rare)]]  
-- [[5. Mechanics/Items/Reliquary Of Holy Memories Legendary (GRIFFONSSADDLEBAG2).md\|Reliquary of Holy Memories (Legendary)]]  
+- [[/5. Mechanics/Items/Reliquary Of Holy Memories Uncommon (GRIFFONSSADDLEBAG2).md\|Reliquary of Holy Memories (Uncommon)]]  
+- [[/5. Mechanics/Items/Reliquary Of Holy Memories Rare (GRIFFONSSADDLEBAG2).md\|Reliquary of Holy Memories (Rare)]]  
+- [[/5. Mechanics/Items/Reliquary Of Holy Memories Very Rare (GRIFFONSSADDLEBAG2).md\|Reliquary of Holy Memories (Very Rare)]]  
+- [[/5. Mechanics/Items/Reliquary Of Holy Memories Legendary (GRIFFONSSADDLEBAG2).md\|Reliquary of Holy Memories (Legendary)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*

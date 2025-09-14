@@ -18,7 +18,7 @@ tags:
 aliases:
   - Orc Hand of Yurtrus
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Orc Hand Of Yurtrus (VGM).md|Orc Hand of Yurtrus]]
+# [[5. Mechanics/Bestiary/Humanoid/Orc Hand Of Yurtrus (VGM).md|Orc Hand of Yurtrus]]
 *Source: Volo's Guide to Monsters p. 184*
 
 Yurtrus is the orc god of death and disease. He is a horrifying abomination covered in rot and infection, except for his perfect, smooth white hands.
@@ -47,7 +47,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
-"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
+"ac_class": "[[/5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "30"
 "hit_dice": "4d8 + 12"
 "modifier": !!int "0"
@@ -68,31 +68,32 @@ In addition, orcs have special relationships with two creatures that are sometim
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "understands Common and Orc but can't speak"
 "cr": "2"
 "traits":
   - "desc": "The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). It requires no verbal components\
       \ to cast its spells. The orc has the following cleric spells prepared:\n\n\
-      Cantrips (at will): [[5. Mechanics/Spells/Guidance.md|guidance]], [[5. Mechanics/Spells/Mending.md|mending]],\
-      \ [[5. Mechanics/Spells/Resistance.md|resistance]], [[5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
-      \n1st level (4 slots): [[5. Mechanics/Spells/Bane.md|bane]], [[5. Mechanics/Spells/Detect Magic.md|detect magic]],\
-      \ [[5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]], [[5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil\
-      \ and good]]\n\n2nd level\
-      \ (3 slots): [[5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]],\
-      \ [[5. Mechanics/Spells/Silence.md|silence]]"
+      **Cantrips (at will):** [[/5. Mechanics/Spells/Guidance.md|guidance]], [[/5. Mechanics/Spells/Mending.md|mending]],\
+      \ [[/5. Mechanics/Spells/Resistance.md|resistance]], [[/5. Mechanics/Spells/Thaumaturgy.md|thaumaturgy]]\n\
+      \n**1st level (4 slots):** [[/5. Mechanics/Spells/Bane.md|bane]], [[/5. Mechanics/Spells/Detect Magic.md|detect magic]],\
+      \ [[/5. Mechanics/Spells/Inflict Wounds.md|inflict wounds]], [[/5. Mechanics/Spells/Protection From Evil And Good.md|protection from evil\
+      \ and good]]\n\n**2nd level\
+      \ (3 slots):** [[/5. Mechanics/Spells/Blindness Deafness.md|blindness/deafness]],\
+      \ [[/5. Mechanics/Spells/Silence.md|silence]]"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the orc can move up to its speed toward a hostile\
       \ creature that it can see."
     "name": "Aggressive"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 9 (2d8)\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 9 (2d8)\
       \ necrotic damage."
     "name": "Touch of the White Hand"
 "source":
   - "VGM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/orc-hand-of-yurtrus-vgm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/orc-hand-of-yurtrus-vgm.webp"
 ```
 ^statblock
 

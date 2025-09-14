@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Fly
 ---
-# [[5. Mechanics\Bestiary\Beast\Giant Fly (DMG).md|Giant Fly]]
+# [[5. Mechanics/Bestiary/Beast/Giant Fly (DMG).md|Giant Fly]]
 *Source: Dungeon Master's Guide p. 169*
 
 ```statblock
@@ -33,11 +33,12 @@ aliases:
   - !!int "10"
   - !!int "3"
 "speed": "30 ft., fly 60 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": ""
 "source":
   - "DMG"
-"image": "5. Mechanics/Bestiary/Beast/token/giant-fly-dmg.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/giant-fly-dmg.webp"
 ```
 ^statblock
 

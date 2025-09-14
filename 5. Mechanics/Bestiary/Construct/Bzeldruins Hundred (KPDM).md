@@ -13,7 +13,7 @@ tags:
 aliases:
   - Bzeldruin's Hundred
 ---
-# [[5. Mechanics\Bestiary\Construct\Bzeldruins Hundred (KPDM).md|Bzeldruin's Hundred]]
+# [[5. Mechanics/Bestiary/Construct/Bzeldruins Hundred (KPDM).md|Bzeldruin's Hundred]]
 *Source: Deep Magic p. 286*
 
 *Spread out across the ground before you is an impressive collection of close to a hundred wooden miniatures. Each figure resembles an adult male, an adult female, or a child. Most seem to be human, but you can see elves, dwarves, halflings, and even a few centaurs and other creatures scattered among them. As soon as you notice them, the figures begin to mimic your every movement.*
@@ -45,7 +45,8 @@ Bzeldruin's Hundred is a group of one hundred wooden miniature figures created b
   \ [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands all languages but can't speak"
 "cr": "7"
 "traits":
@@ -70,11 +71,11 @@ Bzeldruin's Hundred is a group of one hundred wooden miniature figures created b
   - "desc": "If Bzeldruin's Hundred is reduced to 0 hit points, it collapses and disintegrates\
       \ into dust, then re-forms 24 hours later in the same location with its full\
       \ hit points. There is no way to stop this rejuvenation from happening, short\
-      \ of a carefully worded [[5. Mechanics/Spells/Wish.md|wish]] spell or divine intervention."
+      \ of a carefully worded [[/5. Mechanics/Spells/Wish.md|wish]] spell or divine intervention."
     "name": "Rejuvenation"
 "actions":
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 0 ft., one target in the swarm's\
-      \ space. Hit: 33 (8d6 + 5) bludgeoning damage. If the swarm is reduced to\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 0 ft., one target in the swarm's\
+      \ space. *Hit:* 33 (8d6 + 5) bludgeoning damage. If the swarm is reduced to\
       \ half its hit points or fewer, the bludgeoning damage from its slam attack\
       \ is 19 (4d6 + 5)."
     "name": "Slam"

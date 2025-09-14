@@ -14,16 +14,29 @@ classes:
   - Wizard
 school: Evocation
 level: 6
+damage:
+  base: 10d6
+  scaling:
+    damage: 1d6
+    level: 7
+  types:
+    - cold
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: 300 feet
+somatic: true
+verbal: true
+material: a small crystal sphere
+area:
+  shape: sphere
+  size: 60
 aliases:
   - Otiluke's Freezing Sphere
-material: a small crystal sphere
 ---
 # Otiluke's Freezing Sphere
 *6th-level, Evocation*  
@@ -39,8 +52,8 @@ If the globe strikes a body of water or a liquid that is principally water (not 
 
 You can refrain from firing the globe after completing the spell, if you wish. A small globe about the size of a sling stone, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as the normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 6th.
+**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 6th.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Freezing Sphere")*

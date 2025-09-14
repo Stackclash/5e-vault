@@ -13,8 +13,8 @@ armorClass: 16
 weight: 55
 ---
 # Efreeti Chain
-*Heavy armor ([[5. Mechanics/Items/Chain Mail.md\|chain mail]]), major, legendary (requires attunement)*  
-![[5. Mechanics/Items/img/efreeti-chain.webp#right]]  
+*Heavy armor ([[/5. Mechanics/Items/Chain Mail.md\|chain mail]]), major, legendary (requires attunement)*  
+![[/5. Mechanics/Items/img/efreeti-chain.webp#right]]  
 
 - **Armor Class**: 16
 - **Strength**: Requires 13 STR.

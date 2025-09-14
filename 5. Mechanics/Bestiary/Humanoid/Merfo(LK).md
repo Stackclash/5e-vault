@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 1/8
 environments: 'underwater, coastal'
 size: Medium
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Merfolk
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Merfo(LK).md|Merfolk]]
+# [[5. Mechanics/Bestiary/Humanoid/Merfo(LK).md|Merfolk]]
 *Source: Monster Manual p. 218. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Aquatic humanoids with the upper body of a human and the lower body of a fish, merfolk adorn their skin and scales with shell decorations.
@@ -58,13 +58,13 @@ Merfolk defend their communities with spears crafted from whatever materials the
   - "desc": "The merfolk can breathe air and water."
     "name": "Amphibious"
 "actions":
-  - "desc": "Melee  or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. Hit: 3 (d6) piercing damage, or 4 (d8) piercing damage\
+  - "desc": "*Melee  or Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 3 (1d6) piercing damage, or 4 (1d8) piercing damage\
       \ if used with two hands to make a melee attack."
     "name": "Spear"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Humanoid/token/merfolk.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/merfolk.webp"
 ```
 ^statblock
 

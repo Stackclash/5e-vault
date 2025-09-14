@@ -13,7 +13,7 @@ tags:
 aliases:
   - Citadel Spider
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Citadel Spider (VEOR).md|Citadel Spider]]
+# [[5. Mechanics/Bestiary/Monstrosity/Citadel Spider (VEOR).md|Citadel Spider]]
 *Source: Vecna: Eve of Ruin p. 214*
 
 > [!quote] A quote from Camlash, Balor General of Lolth  
@@ -42,7 +42,8 @@ Lolth's followers breed spiders of all types and sizes, infusing the creatures w
 "speed": "50 ft., climb 50 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
+  \ 120 ft., passive Perception 11"
 "languages": ""
 "cr": "18"
 "traits":
@@ -57,11 +58,11 @@ Lolth's followers breed spiders of all types and sizes, infusing the creatures w
   - "desc": "The spider makes two Bite attacks. It can replace one of these attacks\
       \ with a use of Web Bomb."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 19\
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 19\
       \ (2d10 + 8) piercing damage plus 7 (2d6) poison damage."
     "name": "Bite"
-  - "desc": "Ranged Weapon Attack: +14 to hit, range 300 ft./600 ft., one target.\
-      \ Hit: 24 (3d10 + 8) bludgeoning damage, and the target and all creatures\
+  - "desc": "*Ranged Weapon Attack:* +14 to hit, range 300 ft./600 ft., one target.\
+      \ *Hit:* 24 (3d10 + 8) bludgeoning damage, and the target and all creatures\
       \ within 10 feet of it must succeed on a DC 19 Dexterity saving throw or take\
       \ 10 (3d6) acid damage and have the [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
       \ condition until the start of the spider's next turn."
@@ -72,7 +73,7 @@ Lolth's followers breed spiders of all types and sizes, infusing the creatures w
     "name": "Absorb Blow"
 "source":
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/citadel-spider-veor.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/citadel-spider-veor.webp"
 ```
 ^statblock
 

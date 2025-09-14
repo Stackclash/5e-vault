@@ -14,7 +14,7 @@ tags:
 aliases:
   - Black Pudding
 ---
-# [[5. Mechanics\Bestiary\Ooze\Black Pudding.md|Black Pudding]]
+# [[5. Mechanics/Bestiary/Ooze/Black Pudding.md|Black Pudding]]
 *Source: Monster Manual p. 241, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A black pudding resembles a heaving mound of sticky black sludge. In dim passageways, the pudding appears to be little more than a blot of shadow.
@@ -68,7 +68,8 @@ An ooze doesn't require sleep.
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 8"
 "languages": ""
 "cr": "4"
 "traits":
@@ -76,18 +77,18 @@ An ooze doesn't require sleep.
       \ squeezing."
     "name": "Amorphous"
   - "desc": "A creature that touches the pudding or hits it with a melee attack while\
-      \ within 5 feet of it takes 4 (d8) acid damage. Any nonmagical weapon made of\
-      \ metal or wood that hits the pudding corrodes. After dealing damage, the weapon\
-      \ takes a permanent and cumulative −1 penalty to damage rolls. If its penalty\
-      \ drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal\
-      \ or wood that hits the pudding is destroyed after dealing damage. The pudding\
-      \ can eat through 2-inch-thick, nonmagical wood or metal in 1 round."
+      \ within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made\
+      \ of metal or wood that hits the pudding corrodes. After dealing damage, the\
+      \ weapon takes a permanent and cumulative −1 penalty to damage rolls. If its\
+      \ penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of\
+      \ metal or wood that hits the pudding is destroyed after dealing damage. The\
+      \ pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round."
     "name": "Corrosive Form"
   - "desc": "The pudding can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical\
       \ armor worn by the target is partly dissolved and takes a permanent and cumulative\
       \ −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces\
@@ -102,7 +103,7 @@ An ooze doesn't require sleep.
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Ooze/token/black-pudding.webp"
+"image": "/5. Mechanics/Bestiary/Ooze/token/black-pudding.webp"
 ```
 ^statblock
 

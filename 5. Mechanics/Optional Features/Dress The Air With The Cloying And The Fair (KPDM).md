@@ -18,6 +18,6 @@ This symbol represents sweet scents, perfumes, Allure, and pleasant feelings. It
 
 **Power (3rd level)** If you use an action to trace this hieroglyph on the ground with dust or ink made from the petals of flowers, every creature within 10 feet of you must make a successful Charisma saving throw or be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you for 1 minute.
 
-**Power (5th level)** You use an action to contemplate flower petals as they drift in the breeze, enabling you to cast a [[5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] spell.
+**Power (5th level)** You use an action to contemplate flower petals as they drift in the breeze, enabling you to cast a [[/5. Mechanics/Spells/Gust Of Wind.md\|gust of wind]] spell.
 
 **Mastery Power:** When you use an action to anoint yourself with Perfume, for the next 10 minutes you have advantage on Charisma checks to Influence people within 50 feet of you.

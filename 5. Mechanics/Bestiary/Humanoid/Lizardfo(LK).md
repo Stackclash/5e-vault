@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: 'forest, swamp'
 size: Medium
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Lizardfolk
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Lizardfo(LK).md|Lizardfolk]]
+# [[5. Mechanics/Bestiary/Humanoid/Lizardfo(LK).md|Lizardfolk]]
 *Source: Monster Manual p. 204, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -62,7 +62,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 "subtype": "lizardfolk"
 "alignment": "Neutral"
 "ac": !!int "15"
-"ac_class": "natural armor, [[5. Mechanics/Items/Shield.md|shield]]"
+"ac_class": "natural armor, [[/5. Mechanics/Items/Shield.md|shield]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "0"
@@ -90,22 +90,22 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 "actions":
   - "desc": "The lizardfolk makes two melee attacks, each one with a different weapon."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) bludgeoning damage."
     "name": "Heavy Club"
-  - "desc": "Melee  or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage."
     "name": "Javelin"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
     "name": "Spiked Shield"
 "source":
   - "MM"
   - "TCE"
-"image": "5. Mechanics/Bestiary/Humanoid/token/lizardfolk.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/lizardfolk.webp"
 ```
 ^statblock
 

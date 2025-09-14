@@ -13,8 +13,8 @@ armorClass: 2
 weight: 6
 ---
 # Spellguard Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/spellguard-shield.webp#right]]  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  
+![[/5. Mechanics/Items/img/spellguard-shield.webp#right]]  
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

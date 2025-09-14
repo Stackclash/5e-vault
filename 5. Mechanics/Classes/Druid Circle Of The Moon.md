@@ -55,7 +55,7 @@ Changeable as the moon, a druid of this circle might prowl as a great cat one ni
 
 You gain the ability to use Wild Shape on your turn as a bonus action, rather than as an action.
 
-Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to regain `dice:1d8|noform|noparens|avg` (`d8`) hit points per level of the spell slot expended.
+Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to regain `dice:1d8|noform|noparens|avg` (`1d8`) hit points per level of the spell slot expended.
 
 ### Circle Forms (Level 2)
 
@@ -83,8 +83,8 @@ Starting at 6th level, your attacks in beast form count as magical for the purpo
 
 ### Elemental Wild Shape (Level 10)
 
-At 10th level, you can expend two uses of Wild Shape at the same time to transform into an [[5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elemental]], an [[5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elemental]], a [[5. Mechanics/Bestiary/Elemental/Fire Element(AL).md\|fire elemental]], or a [[5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]].
+At 10th level, you can expend two uses of Wild Shape at the same time to transform into an [[/5. Mechanics/Bestiary/Elemental/Air Element(AL).md\|air elemental]], an [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elemental]], a [[/5. Mechanics/Bestiary/Elemental/Fire Element(AL).md\|fire elemental]], or a [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]].
 
 ### Thousand Forms (Level 14)
 
-By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [[5. Mechanics/Spells/Alter Self.md\|alter self]] spell at will.
+By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [[/5. Mechanics/Spells/Alter Self.md\|alter self]] spell at will.

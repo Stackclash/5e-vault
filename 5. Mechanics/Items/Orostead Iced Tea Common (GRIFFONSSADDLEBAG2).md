@@ -14,7 +14,7 @@ aliases:
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Orostead-Iced-Tea.webp#right)  
 
 
-The typical [[5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|Orostead iced tea]], a common potion, is a specialty alcoholic beverage that creates harmless sensory effects with each sip. When made, a tea has enough for `dice:6+1d4|noform|noparens|avg` (`6 + 1d4`) sips before it's used up, instead of a single use. You can take a sip as an action. When you drink this potion, roll on the table below to determine which one of the following effects occur:
+The typical [[/5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|Orostead iced tea]], a common potion, is a specialty alcoholic beverage that creates harmless sensory effects with each sip. When made, a tea has enough for `dice:6+1d4|noform|noparens|avg` (`6 + 1d4`) sips before it's used up, instead of a single use. You can take a sip as an action. When you drink this potion, roll on the table below to determine which one of the following effects occur:
 
 `dice: [[Orostead Iced Tea Common (GRIFFONSSADDLEBAG2).md#^common-effect]]`
 
@@ -23,7 +23,7 @@ The typical [[5. Mechanics/Items/Orostead Iced Tea (GRIFFONSSADDLEBAG2).md\|Oros
 | 1 | You suddenly become drenched with illusory salt water. After 1 minute, it dries. |
 | 2 | You're suddenly overwhelmingly warm (50%) or cold (50%) for 1 minute. |
 | 3 | You remain frozen in place for 1 second, as if briefly removed from time. |
-| 4 | You gain the effect of the [[5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] spell for 1 minute. |
+| 4 | You gain the effect of the [[/5. Mechanics/Spells/Speak With Animals.md\|speak with animals]] spell for 1 minute. |
 | 5 | You suddenly teleport 5 feet into an unoccupied space next to you. |
 | 6 | Any clothing you wear becomes various shades of gray for 1 minute. |
 | 7 | Static charge builds up on you. Touching or being touched by anything for the next minute causes a sharp shock of electricity to leap between you. |

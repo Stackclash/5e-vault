@@ -13,7 +13,7 @@ tags:
 aliases:
   - Eye Monger
 ---
-# [[5. Mechanics\Bestiary\Aberration\Eye Monger (BAM).md|Eye Monger]]
+# [[5. Mechanics/Bestiary/Aberration/Eye Monger (BAM).md|Eye Monger]]
 *Source: Boo's Astral Menagerie p. 21, Vecna: Eve of Ruin*
 
 When its large eye and mouth are closed, an eye monger looks like nothing more than a 12-foot-diameter asteroid. When it senses vibrations in the space around it, the eye monger opens its eye and reveals its true, menacing nature.
@@ -40,8 +40,8 @@ Although an eye monger doesn't project an antimagic cone from its eye as a behol
   - !!int "13"
   - !!int "7"
 "speed": "0 ft., fly 20 ft. (hover)"
-"senses": "darkvision 120 ft., blindsight 120 ft. while the eye monger's eye is closed,\
-  \ passive Perception 11"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., [[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]]\
+  \ 120 ft. while the eye monger's eye is closed, passive Perception 11"
 "languages": "Deep Speech"
 "cr": "10"
 "traits":
@@ -63,7 +63,7 @@ Although an eye monger doesn't project an antimagic cone from its eye as a behol
   - "desc": "The eye monger doesn't require air."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) piercing damage, and if the target is a Medium or smaller creature,\
       \ it must succeed on a DC 18 Dexterity saving throw or be swallowed by the eye\
       \ monger and deposited in the eye monger's gullet (see Antimagic Gullet). The\
@@ -81,7 +81,7 @@ Although an eye monger doesn't project an antimagic cone from its eye as a behol
 "source":
   - "BAM"
   - "VEoR"
-"image": "5. Mechanics/Bestiary/Aberration/token/eye-monger-bam.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/eye-monger-bam.webp"
 ```
 ^statblock
 

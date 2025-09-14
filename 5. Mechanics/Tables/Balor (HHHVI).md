@@ -11,5 +11,5 @@ aliases:
 
 | DC | Item | Description | Value | Weight | Crafting |
 |----|------|-------------|-------|--------|----------|
-| 15 | Balor Ash (3 small pouches) | The ashes of a balor after it has self destructed. Smelling strongly of brimstone, this ash may be used as either a component for summoning lesser demons, or when creating particularly explosive bombs. | 500 gp | 3 lb | [[5. Mechanics/Items/Demon Bomb (HHHVI).md\|Demon Bomb]] |
+| 15 | Balor Ash (3 small pouches) | The ashes of a balor after it has self destructed. Smelling strongly of brimstone, this ash may be used as either a component for summoning lesser demons, or when creating particularly explosive bombs. | 500 gp | 3 lb | [[/5. Mechanics/Items/Demon Bomb (HHHVI).md\|Demon Bomb]] |
 ^dc-item-description-value-weight-crafting

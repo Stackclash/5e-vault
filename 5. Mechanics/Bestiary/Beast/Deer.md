@@ -15,7 +15,7 @@ tags:
 aliases:
   - Deer
 ---
-# [[5. Mechanics\Bestiary\Beast\Deer.md|Deer]]
+# [[5. Mechanics/Bestiary/Beast/Deer.md|Deer]]
 *Source: Monster Manual p. 321. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -39,12 +39,12 @@ aliases:
 "languages": ""
 "cr": "0"
 "actions":
-  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
       \ piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/deer.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/deer.webp"
 ```
 ^statblock
 

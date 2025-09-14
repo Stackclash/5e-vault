@@ -17,7 +17,7 @@ If you play in Midgard, or if you want to add clockwork magic to your game, this
 
 ## Clockwork Familiars
 
-A wizard who embraces clockwork magic can use the [[5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell in a special way. A small clockwork device in the form of an animal (worth 10 gp) is substituted for the spell's usual material component. The device must resemble one of the allowable animals listed in the spell. When the casting is complete, the clockwork animates. It has the statistics of the chosen animal form, but is a construct, rather than a beast.
+A wizard who embraces clockwork magic can use the [[/5. Mechanics/Spells/Find Familiar.md\|find familiar]] spell in a special way. A small clockwork device in the form of an animal (worth 10 gp) is substituted for the spell's usual material component. The device must resemble one of the allowable animals listed in the spell. When the casting is complete, the clockwork animates. It has the statistics of the chosen animal form, but is a construct, rather than a beast.
 
 A clockwork familiar's form can be changed by rebuilding the clockwork device into a new form of animal and casting the spell again. If the familiar is destroyed, it can be rebuilt (in the same form or a new one) with the same components, if they are recovered; otherwise, 10 gp must be spent on replacement parts.
 

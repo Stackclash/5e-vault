@@ -14,7 +14,7 @@ tags:
 aliases:
   - Spectator
 ---
-# [[5. Mechanics\Bestiary\Aberration\Specta(TOR).md|Spectator]]
+# [[5. Mechanics/Bestiary/Aberration/Specta(TOR).md|Spectator]]
 *Source: Monster Manual p. 30. Available in the Basic Rules (2014)*
 
 A spectator is a lesser beholder that is summoned from another plane of existence by a magical ritual, the components of which include four beholder eyestalks that are consumed by the ritual's magic. Appropriately, a spectator has four eyestalks, two on each side of the wide eye at the center of its four-foot diameter body.
@@ -55,28 +55,29 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "darkvision 120 ft., passive Perception 16"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 16"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "3"
 "actions":
-  - "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6\
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6\
       \ - 1) piercing damage."
     "name": "Bite"
   - "desc": "The spectator shoots up to two of the following magical eye rays at one\
       \ or two creatures it can see within 90 feet of it. It can use each ray only\
-      \ once on a turn.\n\n- 1. Confusion Ray. The target must succeed on a DC\
+      \ once on a turn.\n\n- **1. Confusion Ray.** The target must succeed on a DC\
       \ 13 Wisdom saving throw, or it can't take reactions until the end of its next\
       \ turn. On its turn, the target can't move, and it uses its action to make a\
       \ melee or ranged attack against a randomly determined creature within range.\
-      \ If the target can't attack, it does nothing on its turn.  \n- 2. Paralyzing\
-      \ Ray. The target must succeed on a DC 13 Constitution saving throw or be\
+      \ If the target can't attack, it does nothing on its turn.  \n- **2. Paralyzing\
+      \ Ray.** The target must succeed on a DC 13 Constitution saving throw or be\
       \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]] for 1 minute. The target\
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success.  \n- 3. Fear Ray. The target must succeed on a\
+      \ on itself on a success.  \n- **3. Fear Ray.** The target must succeed on a\
       \ DC 13 Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, with disadvantage if the spectator is visible to the target, ending\
-      \ the effect on itself on a success.  \n- 4. Wounding Ray. The target must\
+      \ the effect on itself on a success.  \n- **4. Wounding Ray.** The target must\
       \ make a DC 13 Constitution saving throw, taking 16 (3d10) necrotic damage on\
       \ a failed save, or half as much damage on a successful one.  "
     "name": "Eye Rays"
@@ -93,7 +94,7 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
     "name": "Spell Reflection"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Aberration/token/spectator.webp"
+"image": "/5. Mechanics/Bestiary/Aberration/token/spectator.webp"
 ```
 ^statblock
 

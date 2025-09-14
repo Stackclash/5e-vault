@@ -20,23 +20,28 @@ classes:
   - Wizard
 school: Illusion
 level: 5
+damage:
+  base: 3d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - psychic
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 minute
 duration: 8 hours
-components:
-  - V
-  - S
-  - M
+range: Special
+somatic: true
+verbal: true
+material: >-
+  a handful of sand, a dab of ink, and a writing quill plucked from a sleeping
+  bird
 aliases:
   - Dream
-range: Special
-material: >-
-  A handful of sand, a dab of ink, and a writing quill plucked from a sleeping
-  bird.
-damageType: Psychic
-save:
-  type: WIS
-  success: none
 ---
 # Dream
 *5th-level, Illusion*  
@@ -54,6 +59,6 @@ You can make the messenger appear monstrous and terrifying to the target. If you
 
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [Cleric (Beer Domain)](compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Moon Domain)](compendium/lists/list-spells-classes-moon-domain-kpdm.md "subclass=KPDM")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Beer Domain)](/compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [Cleric (Moon Domain)](/compendium/lists/list-spells-classes-moon-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

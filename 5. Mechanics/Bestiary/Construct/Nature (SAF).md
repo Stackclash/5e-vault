@@ -13,7 +13,7 @@ tags:
 aliases:
   - Nature
 ---
-# [[5. Mechanics\Bestiary\Construct\Nature (SAF).md|Nature]]
+# [[5. Mechanics/Bestiary/Construct/Nature (SAF).md|Nature]]
 *Source: Strongholds and Followers p. 232*
 
 Chief amongst the Knights of Axiom is Nature. The Law of Nature states that all actions must proceed according to the fundamental axioms of the universe.. Magic is a tool used by those who would bypass those laws and act on the world using their will alone. This cannot be permitted. Nature can reflexively attempt to counter a spell as it's being cast, pointing at the caster and bellowing, "OBEY!" or "CONFORM!"
@@ -43,21 +43,22 @@ Nature's counterspell reaction has a range of 60 feet, so Nature can pummel easy
   - !!int "20"
 "speed": "40 ft."
 "saves":
-  - "strength": "+9"
-  - "dexterity": "+4"
-  - "constitution": "+8"
-  - "wisdom": "+8"
-  - "charisma": "+9"
+  - "strength": !!int "9"
+  - "dexterity": !!int "4"
+  - "constitution": !!int "8"
+  - "wisdom": !!int "8"
+  - "charisma": !!int "9"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "truesight 60 ft., passive Perception 14"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
+  \ 14"
 "languages": "all those of the creature who summoned it"
 "cr": "10"
 "traits":
   - "desc": "Nature's innate spellcasting ability is Charisma (spell save DC 17).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n3/day: [[5. Mechanics/Spells/Banishment.md|banishment]], [[5. Mechanics/Spells/Counterspell.md|counterspell]]"
+      \n**3/day:** [[/5. Mechanics/Spells/Banishment.md|banishment]], [[/5. Mechanics/Spells/Counterspell.md|counterspell]]"
     "name": "Innate Spellcasting"
   - "desc": "Allies within 20 feet have advantage on all saving throws."
     "name": "The Law of Nature"
@@ -70,7 +71,7 @@ Nature's counterspell reaction has a range of 60 feet, so Nature can pummel easy
 "actions":
   - "desc": "Nature makes two slam attacks or makes one slam attack and casts banishment."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 12\
       \ (2d6 + 5) bludgeoning damage plus 18 (4d8) force damage."
     "name": "Slam"
 "source":

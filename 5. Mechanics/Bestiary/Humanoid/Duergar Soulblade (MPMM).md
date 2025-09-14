@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Soulblade
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Duergar Soulblade (MPMM).md|Duergar Soulblade]]
+# [[5. Mechanics/Bestiary/Humanoid/Duergar Soulblade (MPMM).md|Duergar Soulblade]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 109, Mordenkainen's Tome of Foes p. 190*
 
 Soulblades are duergar combatants whose mastery of psionics allows them to manifest blades of psychic energy to slice apart their foes.
@@ -47,7 +47,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[[5. Mechanics/Items/Leather Armor.md|leather armor]]"
+"ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]]"
 "hp": !!int "27"
 "hit_dice": "6d8"
 "modifier": !!int "3"
@@ -60,7 +60,8 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "12"
 "speed": "25 ft."
 "damage_resistances": "poison"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "1"
 "traits":
@@ -73,7 +74,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6\
+  - "desc": "*Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6\
       \ + 3) force damage, or 13 (3d6 + 3) force damage while under the effect of\
       \ Enlarge."
     "name": "Soulblade"
@@ -95,7 +96,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Humanoid/token/duergar-soulblade-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/duergar-soulblade-mpmm.webp"
 ```
 ^statblock
 

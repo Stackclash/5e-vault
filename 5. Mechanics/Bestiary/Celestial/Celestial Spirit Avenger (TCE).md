@@ -13,7 +13,7 @@ tags:
 aliases:
   - Celestial Spirit (Avenger)
 ---
-# [[5. Mechanics\Bestiary\Celestial\Celestial Spirit Avenger (TCE).md|Celestial Spirit (Avenger)]]
+# [[5. Mechanics/Bestiary/Celestial/Celestial Spirit Avenger (TCE).md|Celestial Spirit (Avenger)]]
 *Source: Tasha's Cauldron of Everything p. 110*
 
 ```statblock
@@ -33,14 +33,15 @@ aliases:
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "radiant"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 12"
 "languages": "Celestial, understands the languages you speak"
 "actions":
   - "desc": "The celestial makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Ranged Weapon Attack: your spell attack modifier to hit, range 150/600\
-      \ ft., one target. Hit: 2d6 + 2 + the spell's level radiant damage."
+  - "desc": "*Ranged Weapon Attack:* your spell attack modifier to hit, range 150/600\
+      \ ft., one target. *Hit:* 2d6 + 2 + the spell's level radiant damage."
     "name": "Radiant Bow"
   - "desc": "The celestial touches another creature. The target magically regains\
       \ hit points equal to 2d8 + the spell's level."

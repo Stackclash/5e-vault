@@ -14,7 +14,7 @@ tags:
 aliases:
   - Knight
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Knight.md|Knight]]
+# [[5. Mechanics/Bestiary/Humanoid/Knight.md|Knight]]
 *Source: Monster Manual p. 347, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
@@ -26,7 +26,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[[5. Mechanics/Items/Plate Armor.md|plate armor]]"
+"ac_class": "[[/5. Mechanics/Items/Plate Armor.md|plate armor]]"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "0"
@@ -39,8 +39,8 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
   - !!int "15"
 "speed": "30 ft."
 "saves":
-  - "constitution": "+4"
-  - "wisdom": "+2"
+  - "constitution": !!int "4"
+  - "wisdom": !!int "2"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"
@@ -50,11 +50,11 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 "actions":
   - "desc": "The knight makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage."
     "name": "Greatsword"
-  - "desc": "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit:\
-      \ 5 (d10) piercing damage."
+  - "desc": "*Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:*\
+      \ 5 (1d10) piercing damage."
     "name": "Heavy Crossbow"
   - "desc": "For 1 minute, the knight can utter a special command or warning whenever\
       \ a nonhostile creature that it can see within 30 feet of it makes an attack\
@@ -69,7 +69,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Humanoid/token/knight.webp"
+"image": "/5. Mechanics/Bestiary/Humanoid/token/knight.webp"
 ```
 ^statblock
 

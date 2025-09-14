@@ -11,11 +11,11 @@ tags:
 aliases:
   - Slaying Longbow
 one-hand-damage: 1d8 piercing
-range: 150\600
+range: 150/600
 weight: 2
 ---
 # Slaying Longbow
-*Weapon ([[5. Mechanics/Items/Longbow.md\|longbow]]), major, legendary (requires attunement by a good-aligned creature)*  
+*Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, legendary (requires attunement by a good-aligned creature)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Slaying-Longbow.webp#right)  
 
 - **Damage**: 1d8 piercing

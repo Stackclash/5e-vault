@@ -12,11 +12,11 @@ aliases:
   - Ether Spear
 one-hand-damage: 1d6 force
 two-hand-damage: 1d8 force
-range: 20\60
+range: 20/60
 weight: 3
 ---
 # Ether Spear
-*Weapon ([[5. Mechanics/Items/Spear.md\|spear]]), major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Ether-Spear.webp#right)  
 
 - **Damage**:

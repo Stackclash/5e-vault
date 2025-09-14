@@ -14,22 +14,29 @@ classes:
   - Wizard
 school: Evocation
 level: 9
+damage:
+  base: 20d6
+  scaling:
+    damage: null
+    level: null
+  types:
+    - bludgeoning
+    - fire
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: half damage
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
+range: 1 miles
+somatic: true
+verbal: true
+area:
+  shape: sphere
+  size: 40
 aliases:
   - Meteor Swarm
-range: 1 mile
-damageType: Fire
-save:
-  type: DEX
-  success: half
-area:
-  type: sphere
-  size: 40
 ---
 # Meteor Swarm
 *9th-level, Evocation*  
@@ -43,6 +50,6 @@ Blazing orbs of fire plummet to the ground at four different points you can see 
 
 The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 259. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

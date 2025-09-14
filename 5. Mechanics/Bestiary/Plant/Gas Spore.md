@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: underdark
 size: Large
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Gas Spore
 ---
-# [[5. Mechanics\Bestiary\Plant\Gas Spore.md|Gas Spore]]
+# [[5. Mechanics/Bestiary/Plant/Gas Spore.md|Gas Spore]]
 *Source: Monster Manual p. 138*
 
 The first gas spores are thought to have been spawned from dead beholders, whose moldering corpses fed a parasitic fungus with aberrant magic. Having long since adapted into a unique plant creature, a gas spore grows quickly and purposefully out of any corpse, creating a malevolent-looking mockery of the most feared denizen of the Underdark.
@@ -60,7 +60,8 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 5"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft. (blind beyond\
+  \ this radius), passive Perception 5"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -69,7 +70,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
       \ (3d6) poison damage and become infected with a disease on a failed save. Creatures\
       \ immune to the [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] condition\
       \ are immune to this disease.\n\nSpores invade an infected creature's system,\
-      \ killing the creature in a number of hours equal to d12 + the creature's Constitution\
+      \ killing the creature in a number of hours equal to 1d12 + the creature's Constitution\
       \ score, unless the disease is removed. In half that time, the creature becomes\
       \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]] for the rest of the duration.\
       \ After the creature dies, it sprouts 2d4 Tiny gas spores that grow to full\
@@ -80,13 +81,13 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
       \ check."
     "name": "Eerie Resemblance"
 "actions":
-  - "desc": "Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1\
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature. *Hit:* 1\
       \ poison damage, and the creature must succeed on a DC 10 Constitution saving\
       \ throw or become infected with the disease described in the Death Burst trait."
     "name": "Touch"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Plant/token/gas-spore.webp"
+"image": "/5. Mechanics/Bestiary/Plant/token/gas-spore.webp"
 ```
 ^statblock
 

@@ -14,7 +14,7 @@ tags:
 aliases:
   - Gelatinous Cube
 ---
-# [[5. Mechanics\Bestiary\Ooze\Gelatinous Cube.md|Gelatinous Cube]]
+# [[5. Mechanics/Bestiary/Ooze/Gelatinous Cube.md|Gelatinous Cube]]
 *Source: Monster Manual p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Gelatinous cubes scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved.
@@ -46,7 +46,8 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]], [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Deafened|deafened]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
+  \ this radius), passive Perception 8"
 "languages": ""
 "cr": "2"
 "traits":
@@ -66,7 +67,7 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
       \ by the cube."
     "name": "Transparent"
 "actions":
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10\
       \ (3d6) acid damage."
     "name": "Pseudopod"
   - "desc": "The cube moves up to its speed. While doing so, it can enter Large or\
@@ -85,7 +86,7 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
     "name": "Engulf"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Ooze/token/gelatinous-cube.webp"
+"image": "/5. Mechanics/Bestiary/Ooze/token/gelatinous-cube.webp"
 ```
 ^statblock
 

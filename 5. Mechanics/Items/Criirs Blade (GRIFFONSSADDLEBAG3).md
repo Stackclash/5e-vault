@@ -14,7 +14,7 @@ one-hand-damage: 1d8 slashing
 two-hand-damage: 1d10 slashing
 ---
 # Criir's Blade
-*Weapon ([[5. Mechanics/Items/Longsword.md\|longsword]]), major, artifact (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Criirs-Blade.webp#right)  
 
 - **Damage**:
@@ -28,7 +28,7 @@ While attuned to the sword, you can use a bonus action to summon it to your empt
 
 ## Magic Weapon
 
-Criir's Blade is a magic weapon that grants a +2 bonus to attack and damage rolls made with it. It also functions as a [[5. Mechanics/Items/Dancing Sword.md\|dancing sword]].
+Criir's Blade is a magic weapon that grants a +2 bonus to attack and damage rolls made with it. It also functions as a [[/5. Mechanics/Items/Dancing Sword.md\|dancing sword]].
 
 ## Charges
 
@@ -36,7 +36,7 @@ The sword has 5 charges for the following properties. It regains all expended ch
 
 ## Spells
 
-While holding the sword, you can use an action to expend 1 of its charges to cast either the [[5. Mechanics/Spells/Creation.md\|creation]] or [[5. Mechanics/Spells/Fabricate.md\|fabricate]] spell from it.
+While holding the sword, you can use an action to expend 1 of its charges to cast either the [[/5. Mechanics/Spells/Creation.md\|creation]] or [[/5. Mechanics/Spells/Fabricate.md\|fabricate]] spell from it.
 
 ## Starlight Crash
 

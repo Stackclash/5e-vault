@@ -17,13 +17,12 @@ level: 6
 ritual: false
 time: 1 Action
 duration: Until dispelled
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: '500 gp worth of diamond dust, which the spell consumes'
 aliases:
   - Enchant Ring
-material: '500 gp worth of diamond dust, which the spell consumes'
 ---
 # Enchant Ring
 *6th-level, Enchantment*  
@@ -37,6 +36,6 @@ You enchant a ring you touch that isn't being worn or carried. The next creature
 
 The [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature regards you as a friend. When the spell ends, it doesn't know it was [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you, but it does realize that its attitude toward you has changed (possibly greatly) in a short time. How the creature reacts to you and regards you in the future is up to the GM.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 232*

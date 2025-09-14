@@ -22,15 +22,16 @@ school: Evocation
 level: 1
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
-  - M
+duration: 'Concentration, up to 1 minute'
+range: Self (60-foot Line)
+somatic: true
+verbal: true
+material: a paper straw
+area:
+  shape: line
+  size: 60
 aliases:
   - Wind Tunnel
-concentration: true
-material: a paper straw
 ---
 # Wind Tunnel
 *1st-level, Evocation*  
@@ -44,6 +45,6 @@ You create a swirling tunnel of strong wind extending from yourself in a directi
 
 The wind tunnel immediately disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the line. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance of extinguishing them.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 121*

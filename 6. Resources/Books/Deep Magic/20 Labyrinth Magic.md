@@ -13,7 +13,7 @@ The minotaurs created what they call "labyrinth magic" long ago, a result of the
 
 ## Labyrinth Magic Spell Lists
 
-All spellcasting characters except [[5. Mechanics/Classes/Paladin.md\|paladins]] have access to a selection of labyrinth spells, as given below.
+All spellcasting characters except [[/5. Mechanics/Classes/Paladin.md\|paladins]] have access to a selection of labyrinth spells, as given below.
 
 > [!note]
 > See the spells page to browse and sort each class' spell list.

@@ -14,7 +14,7 @@ one-hand-damage: 1d6 bludgeoning
 weight: 4
 ---
 # Mace of the Fish Tyrant
-*Weapon ([[5. Mechanics/Items/Mace.md\|mace]]), cursed item, major, very rare (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), cursed item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mace-of-the-Fish-Tyrant.webp#right)  
 
 - **Damage**: 1d6 bludgeoning
@@ -27,8 +27,8 @@ When found, the mace is a very rare magic item with the following properties:
 
 - You have resistance to psychic damage.  
 - You gain a +1 bonus to attack and damage rolls made with it.  
-- Targets hit with the mace take an extra `dice:1d4|noform|noparens|avg` (`d4`) psychic damage.  
-- If you make an attack with the mace while not attuned to it, you take `dice:1d4|noform|noparens|avg` (`d4`) psychic damage as the fish magically exerts its frustration upon you.  
+- Targets hit with the mace take an extra `dice:1d4|noform|noparens|avg` (`1d4`) psychic damage.  
+- If you make an attack with the mace while not attuned to it, you take `dice:1d4|noform|noparens|avg` (`1d4`) psychic damage as the fish magically exerts its frustration upon you.  
 
 ## Sentience
 
@@ -44,6 +44,6 @@ While the fish doesn't need to eat, it hungers to be near the minds of intellige
 
 This mace is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the mace, keeping it within reach at all times.
 
-You remain cursed until targeted by the [[5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or until a [[5. Mechanics/Spells/Banishment.md\|banishment]] spell of 5th level or higher is cast on the mace. When banished in this way, the mace remains, but the fish is returned to its home plane. You can feel a great sense of relief from the fish as it leaves the mace. When this happens, the weapon becomes a regular +1 mace. However, you are granted a permanent boon by the fish as it departs: you gain resistance to psychic damage.
+You remain cursed until targeted by the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or until a [[/5. Mechanics/Spells/Banishment.md\|banishment]] spell of 5th level or higher is cast on the mace. When banished in this way, the mace remains, but the fish is returned to its home plane. You can feel a great sense of relief from the fish as it leaves the mace. When this happens, the weapon becomes a regular +1 mace. However, you are granted a permanent boon by the fish as it departs: you gain resistance to psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*

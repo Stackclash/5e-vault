@@ -24,19 +24,18 @@ classes:
   - Wizard
 school: Necromancy
 level: 2
+saving_throw:
+  skills:
+    - Constitution
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+somatic: true
+verbal: true
 aliases:
   - Ray of Enfeeblement
-range: 60 feet
-save:
-  type: CON
-  success: none
-concentration: true
 ---
 # Ray of Enfeeblement
 *2nd-level, Necromancy*  
@@ -50,6 +49,6 @@ A black beam of enervating energy springs from your finger toward a creature wit
 
 At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-**Classes**: [Sorcerer (Second Soul)](compendium/lists/list-spells-classes-second-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Death Domain)](compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Cleric (Grave Domain)](compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Grave Domain)](/compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Second Soul)](/compendium/lists/list-spells-classes-second-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

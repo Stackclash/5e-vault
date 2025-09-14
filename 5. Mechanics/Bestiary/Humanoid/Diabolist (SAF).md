@@ -13,7 +13,7 @@ tags:
 aliases:
   - Diabolist
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Diabolist (SAF).md|Diabolist]]
+# [[5. Mechanics/Bestiary/Humanoid/Diabolist (SAF).md|Diabolist]]
 *Source: Strongholds and Followers p. 80*
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "18"
 "speed": "30 ft. (dependant on ancestry)"
 "saves":
-  - "strength": "+3"
-  - "dexterity": "+3"
-  - "constitution": "+3"
-  - "intelligence": "+3"
-  - "wisdom": "+6"
-  - "charisma": "+6"
+  - "strength": !!int "3"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "3"
+  - "intelligence": !!int "3"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "6"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+5"
@@ -52,18 +52,18 @@ aliases:
   - "desc": "This creature is a Retainer, as described in \"Strongholds and Followers\""
     "name": "Retainer"
 "actions":
-  - "desc": "The diabolist casts the [[5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]]\
+  - "desc": "The diabolist casts the [[/5. Mechanics/Spells/Eldritch Blast.md|eldritch blast]]\
       \ cantrip (+6 to hit).\n\nAt 7th level, retainers can take two signature attacks\
       \ per round."
     "name": "Signature Attack"
-  - "desc": "Prerequisite: 3rd-level retainer\n\nThe diabolist casts the [[5. Mechanics/Spells/Burning Hands.md|burning\
+  - "desc": "*Prerequisite: 3rd-level retainer*\n\nThe diabolist casts the [[/5. Mechanics/Spells/Burning Hands.md|burning\
       \ hands]] spell (spell save DC 13 at 3rd\
       \ level, 14 at 5th level, and 15 at 7th level)."
     "name": "Burning Hands (3/Day)"
-  - "desc": "Prerequisite: 5th-level retainer\n\nThe diabolist casts the [[5. Mechanics/Spells/Fireball.md|fireball]]\
+  - "desc": "*Prerequisite: 5th-level retainer*\n\nThe diabolist casts the [[/5. Mechanics/Spells/Fireball.md|fireball]]\
       \ spell (spell save DC 14 at 5th level, and 15 at 7th level)."
     "name": "Fireball (3/Day)"
-  - "desc": "Prerequisite: 7th-level retainer\n\nThe diabolist casts the [[5. Mechanics/Spells/Flame Strike.md|flame\
+  - "desc": "*Prerequisite: 7th-level retainer*\n\nThe diabolist casts the [[/5. Mechanics/Spells/Flame Strike.md|flame\
       \ strike]] spell (spell save DC 15)."
     "name": "Flame Strike (3/Day)"
 "source":

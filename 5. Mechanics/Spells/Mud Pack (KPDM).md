@@ -22,16 +22,21 @@ classes:
   - Wizard
 school: Conjuration
 level: 1
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 3
+  types: []
 ritual: true
 time: 1 Action
 duration: 1 hour
-components:
-  - V
-  - S
-  - M
+range: Touch
+somatic: true
+verbal: true
+material: a clump of mud
 aliases:
   - Mud Pack
-material: a clump of mud
 ---
 # Mud Pack
 *1st-level, Conjuration (ritual)*  
@@ -47,6 +52,6 @@ If the target is subject to heavy precipitation for 1 minute, the precipitation 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the duration is 8 hours and you can target up to ten willing creatures within 30 feet of you.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 95*

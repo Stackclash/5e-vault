@@ -10,7 +10,7 @@ aliases:
 weight: 0.05
 ---
 # +2 Dragon Bolt
-*Ammunition ([[5. Mechanics/Items/Crossbow Bolt.md\|crossbow bolt]]), rare*  
+*Ammunition ([[/5. Mechanics/Items/Crossbow Bolt.md\|crossbow bolt]]), rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 0.05 lbs.
@@ -20,6 +20,6 @@ You have a +2 bonus to your attack and damage rolls made with this bolt correspo
 When used in a successful attack, there is a 30 percent chance that this bolt loses all magical properties and becomes a normal bolt.
 
 > [!embed-table]- Dragon Types
-> ![[5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
+> ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*

@@ -9,16 +9,16 @@ aliases:
 ---
 # Elder Brain
 
-## Lair actions
+## Lair Actions
 _Source: Volo's Guide to Monsters_
 
 When fighting inside its lair, an elder brain can use lair actions. On initiative count 20 (losing initiative ties), an elder brain can take one lair action to cause one of the following effects; the elder brain can't use the same lair action two rounds in a row:
 
-- The elder brain casts [[5. Mechanics/Spells/Wall Of Force.md|wall of force]].  
+- The elder brain casts [[/5. Mechanics/Spells/Wall Of Force.md|wall of force]].  
 - The elder brain targets one friendly creature it can sense within 120 feet of it. The target has a flash of inspiration and gains advantage on one attack roll, ability check, or saving throw it makes before the end of its next turn. If the target doesn't or can't use this benefit in that time, the inspiration is lost.  
 - The elder brain targets one creature it can sense within 120 feet of it and anchors it by sheer force of will. The target must succeed on a DC 18 Charisma saving throw or be unable to leave its current space. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
-## Regional effects
+## Regional Effects
 _Source: Volo's Guide to Monsters_
 
 The territory within 5 miles of an elder brain is altered by the creature's psionic presence, which creates one or more of the following effects:

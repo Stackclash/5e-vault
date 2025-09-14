@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\2
+cr: 1/2
 environments: underdark
 size: Small
 tags:
@@ -14,7 +14,7 @@ tags:
 aliases:
   - Darkmantle
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Darkmantle.md|Darkmantle]]
+# [[5. Mechanics/Bestiary/Monstrosity/Darkmantle.md|Darkmantle]]
 *Source: Monster Manual p. 46. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A darkmantle clings to cavern ceilings, remaining perfectly still as it waits for creatures to pass beneath it. From a distance, it can pass itself off as a stalactite or a lump of stone. Then it drops from the ceiling and unfurls, surrounding itself with magical darkness as it engulfs and crushes its prey.
@@ -46,7 +46,8 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
-"senses": "blindsight 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -56,7 +57,7 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
       \ a cave formation such as a stalactite or stalagmite."
     "name": "False Appearance"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 6\
       \ (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If\
       \ the target is Medium or smaller and the darkmantle has advantage on the attack\
       \ roll, it attaches by engulfing the target's head, and the target is also [[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]\
@@ -78,7 +79,7 @@ Darkmantles are found throughout the Underdark, but they are equally common on t
     "name": "Darkness Aura (1/Day)"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/darkmantle.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/darkmantle.webp"
 ```
 ^statblock
 

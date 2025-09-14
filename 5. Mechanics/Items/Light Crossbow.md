@@ -10,7 +10,7 @@ aliases:
   - Light Crossbow
 cost: 2500
 one-hand-damage: 1d8 piercing
-range: 80\320
+range: 80/320
 weight: 5
 ---
 # Light Crossbow

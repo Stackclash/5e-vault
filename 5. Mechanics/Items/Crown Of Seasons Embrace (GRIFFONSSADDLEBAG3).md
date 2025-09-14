@@ -20,7 +20,7 @@ The crown has 10 charges for the following properties. It regains `dice:1d8+2|no
 
 ## Spells
 
-While wearing the crown, you can use an action to expend 4 of its charges to cast the [[5. Mechanics/Spells/Dimension Door.md\|dimension door]] spell; alternatively, you can use a bonus action to expend 2 charges to cast the [[5. Mechanics/Spells/Misty Step.md\|misty step]] spell from it.
+While wearing the crown, you can use an action to expend 4 of its charges to cast the [[/5. Mechanics/Spells/Dimension Door.md\|dimension door]] spell; alternatively, you can use a bonus action to expend 2 charges to cast the [[/5. Mechanics/Spells/Misty Step.md\|misty step]] spell from it.
 
 ## Season Change
 

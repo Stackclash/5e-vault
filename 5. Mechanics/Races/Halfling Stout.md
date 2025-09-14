@@ -9,9 +9,9 @@ aliases:
 ---
 # Halfling (Stout)
 *Source: Player's Handbook p. 28. Available in the Basic Rules (2014)*  
-![[5. Mechanics/Races/img/halfling.webp#right]]  
+![[/5. Mechanics/Races/img/halfling.webp#right]]  
 
-- **Ability Scores**: Constitution +1
+- **Ability Scores**: con +1
 - **Size**: Small
 - **Speed**: 25 ft.
 

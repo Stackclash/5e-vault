@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - 4. World Almanac\NPCs\img\sir-godfrey-gwilym.webp
+  - ../../../../../4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp
 relationships: []
 aliases:
   - Sir Godfrey Gwilym
@@ -64,7 +64,7 @@ partyRelationships: {}
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Stranger)','option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 139*
@@ -137,27 +137,28 @@ actions:
   - !!int "18"
 "speed": "30 ft."
 "saves":
-  - "strength": "+7"
-  - "constitution": "+7"
-  - "wisdom": "+6"
-  - "charisma": "+7"
+  - "strength": !!int "7"
+  - "constitution": !!int "7"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 13"
 "languages": "the languages it knew in life"
 "cr": "6"
 "traits":
   - "desc": "Sir Godfrey is a 16th-level spellcaster. His spellcasting ability is\
       \ Wisdom (spell save DC 14, +6 to hit with spell attacks). He has the following\
-      \ paladin spells prepared:\n\n1st level (4 slots): [[5. Mechanics/Spells/Command.md|command]],\
-      \ [[5. Mechanics/Spells/Divine Favor.md|divine favor]], [[5. Mechanics/Spells/Thunderous Smite.md|thunderous smite]]\n\
-      \n2nd level (3 slots): [[5. Mechanics/Spells/Branding Smite.md|branding smite]],\
-      \ [[5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n3rd level (3 slots):\
-      \ [[5. Mechanics/Spells/Blinding Smite.md|blinding smite]], [[5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\
-      \n4th level (2 slots): [[5. Mechanics/Spells/Staggering Smite.md|staggering smite]]"
+      \ paladin spells prepared:\n\n**1st level (4 slots):** [[/5. Mechanics/Spells/Command.md|command]],\
+      \ [[/5. Mechanics/Spells/Divine Favor.md|divine favor]], [[/5. Mechanics/Spells/Thunderous Smite.md|thunderous smite]]\n\
+      \n**2nd level (3 slots):** [[/5. Mechanics/Spells/Branding Smite.md|branding smite]],\
+      \ [[/5. Mechanics/Spells/Magic Weapon.md|magic weapon]]\n\n**3rd level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Blinding Smite.md|blinding smite]], [[/5. Mechanics/Spells/Dispel Magic.md|dispel magic]]\n\
+      \n**4th level (2 slots):** [[/5. Mechanics/Spells/Staggering Smite.md|staggering smite]]"
     "name": "Spellcasting"
   - "desc": "The knight regains 10 hit points at the start of its turn. If the knight\
       \ takes fire or radiant damage, this trait doesn't function at the start of\
@@ -166,7 +167,7 @@ actions:
     "name": "Regeneration"
   - "desc": "When the knight's body is destroyed, its soul lingers. After 24 hours,\
       \ the soul inhabits and animates another humanoid corpse on the same plane of\
-      \ existence and regains all its hit points. While the soul is bodiless, a [[5. Mechanics/Spells/Wish.md|wish]]\
+      \ existence and regains all its hit points. While the soul is bodiless, a [[/5. Mechanics/Spells/Wish.md|wish]]\
       \ spell can be used to force the soul to go to the afterlife and not return."
     "name": "Rejuvenation"
   - "desc": "The knight is immune to effects that turn undead."
@@ -179,11 +180,11 @@ actions:
 "actions":
   - "desc": "The knight makes two longsword attacks or two fist attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 15\
       \ (2d10 + 4) slashing damage. If the target is a creature against which the\
       \ knight has sworn vengeance, the target takes an extra 14 (4d6) slashing damage."
     "name": "Longsword"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage. If the target is a creature against which the\
       \ knight has sworn vengeance, the target takes an extra 14 (4d6) bludgeoning\
       \ damage. Instead of dealing damage, the knight can grapple the target (escape\
@@ -201,7 +202,7 @@ actions:
     "name": "Vengeful Glare"
 "source":
   - "CoS"
-"image": "4. World Almanac/NPCs/token/sir-godfrey-gwilym-cos.webp"
+"image": "/4. World Almanac/NPCs/token/sir-godfrey-gwilym-cos.webp"
 ```
 ^statblock
 

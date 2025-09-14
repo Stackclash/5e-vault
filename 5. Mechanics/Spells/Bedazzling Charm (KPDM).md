@@ -19,9 +19,9 @@ level: 2
 ritual: false
 time: 1 Action
 duration: 1 minute
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Bedazzling Charm
 ---
@@ -37,6 +37,6 @@ You attempt to charm a humanoid you can see within range. It makes a Wisdom savi
 
 The spell ends after 1 minute, when you or any of your companions do anything harmful to either of the spell's targets, or when the third humanoid disappears from the [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature's sight. The [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature regards the third creature as a friendly acquaintance and will follow it to keep it within sight. When the spell ends, the creature knows it was bedazzled by you to regard the third creature favorably.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 349*

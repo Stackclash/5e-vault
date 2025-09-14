@@ -15,7 +15,7 @@ tags:
 aliases:
   - Dire Wolf
 ---
-# [[5. Mechanics\Bestiary\Beast\Dire Wolf.md|Dire Wolf]]
+# [[5. Mechanics/Bestiary/Beast/Dire Wolf.md|Dire Wolf]]
 *Source: Monster Manual p. 321, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -53,14 +53,14 @@ aliases:
       \ [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
       \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Bite"
 "source":
   - "MM"
   - "CoS"
-"image": "5. Mechanics/Bestiary/Beast/token/dire-wolf.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/dire-wolf.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Sentry Golem
 ---
-# [[5. Mechanics\Bestiary\Construct\Sentry Golem (GRIFFONSSADDLEBAG3).md|Sentry Golem]]
+# [[5. Mechanics/Bestiary/Construct/Sentry Golem (GRIFFONSSADDLEBAG3).md|Sentry Golem]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 The sentry golems of Polaris are smaller and more easily produced than their larger constructed brethren, such as the iron golem or shield guardian. These city defenders and riot-controlling arcane machines are capable of limited flight, and can launch a salvo of flames or sleeping gas from its arm-mounted canister attachment.
@@ -47,7 +47,8 @@ The sentry golems of Polaris are smaller and more easily produced than their lar
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 120 ft., passive Perception 18"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
+  \ 18"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "6"
 "traits":
@@ -65,7 +66,7 @@ The sentry golems of Polaris are smaller and more easily produced than their lar
 "actions":
   - "desc": "The golem makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (1d10 + 5) bludgeoning damage."
     "name": "Slam"
   - "desc": "The golem releases a burst of flames in a 30-foot cone. Each creature\

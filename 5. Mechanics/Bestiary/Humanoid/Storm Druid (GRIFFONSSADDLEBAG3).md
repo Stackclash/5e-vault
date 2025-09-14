@@ -13,7 +13,7 @@ tags:
 aliases:
   - Storm Druid
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Storm Druid (GRIFFONSSADDLEBAG3).md|Storm Druid]]
+# [[5. Mechanics/Bestiary/Humanoid/Storm Druid (GRIFFONSSADDLEBAG3).md|Storm Druid]]
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
 
 Members of a circle of druids that revere the might of the world's tempests, storm druids sometimes find passage on ships around as navigators themselves. Druids of this circle can transform their bodies into streaking bolts of lightning, allowing them to reach far-flung locations in a single (dangerous) bound.
@@ -25,7 +25,7 @@ Members of a circle of druids that revere the might of the world's tempests, sto
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[[5. Mechanics/Items/Hide Armor.md|hide armor]]"
+"ac_class": "[[/5. Mechanics/Items/Hide Armor.md|hide armor]]"
 "hp": !!int "71"
 "hit_dice": "11d8 + 22"
 "modifier": !!int "3"
@@ -49,25 +49,25 @@ Members of a circle of druids that revere the might of the world's tempests, sto
 "traits":
   - "desc": "The druid is a 10th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 15, +7 to hit with spell attacks). It has the following druid\
-      \ spells prepared:\n\nCantrips (at will): [[5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
-      \ [[5. Mechanics/Spells/Guidance.md|guidance]], [[5. Mechanics/Spells/Shillelagh.md|shillelagh]],\
-      \ [[5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]] (range of 30 feet)\n\
-      \n1st level (4 slots): [[5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[5. Mechanics/Spells/Jump.md|jump]],\
-      \ [[5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\n2nd level (3 slots):\
-      \ [[5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[5. Mechanics/Spells/Hold Person.md|hold person]],\
-      \ [[5. Mechanics/Spells/Shatter.md|shatter]]\n\n3rd level (3 slots): [[5. Mechanics/Spells/Call Lightning.md|call\
-      \ lightning]], [[5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
-      \ [[5. Mechanics/Spells/Sleet Storm.md|sleet storm]], [[5. Mechanics/Spells/Wind Wall.md|wind wall]]\n\
-      \n4th level (3 slots): [[5. Mechanics/Spells/Control Water.md|control water]],\
-      \ [[5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n5th level (2 slots): [[5. Mechanics/Spells/Commune With Nature.md|commune\
-      \ with nature]], [[5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]"
+      \ spells prepared:\n\n**Cantrips (at will):** [[/5. Mechanics/Spells/Druidcraft.md|druidcraft]],\
+      \ [[/5. Mechanics/Spells/Guidance.md|guidance]], [[/5. Mechanics/Spells/Shillelagh.md|shillelagh]],\
+      \ [[/5. Mechanics/Spells/Shocking Grasp.md|shocking grasp]] (range of 30 feet)\n\
+      \n**1st level (4 slots):** [[/5. Mechanics/Spells/Fog Cloud.md|fog cloud]], [[/5. Mechanics/Spells/Jump.md|jump]],\
+      \ [[/5. Mechanics/Spells/Thunderwave.md|thunderwave]]\n\n**2nd level (3 slots):**\
+      \ [[/5. Mechanics/Spells/Gust Of Wind.md|gust of wind]], [[/5. Mechanics/Spells/Hold Person.md|hold person]],\
+      \ [[/5. Mechanics/Spells/Shatter.md|shatter]]\n\n**3rd level (3 slots):** [[/5. Mechanics/Spells/Call Lightning.md|call\
+      \ lightning]], [[/5. Mechanics/Spells/Lightning Bolt.md|lightning bolt]],\
+      \ [[/5. Mechanics/Spells/Sleet Storm.md|sleet storm]], [[/5. Mechanics/Spells/Wind Wall.md|wind wall]]\n\
+      \n**4th level (3 slots):** [[/5. Mechanics/Spells/Control Water.md|control water]],\
+      \ [[/5. Mechanics/Spells/Ice Storm.md|ice storm]]\n\n**5th level (2 slots):** [[/5. Mechanics/Spells/Commune With Nature.md|commune\
+      \ with nature]], [[/5. Mechanics/Spells/Conjure Element(AL).md|conjure elemental]]"
     "name": "Spellcasting"
   - "desc": "If the druid is hit by a melee attack while it has temporary hit points\
-      \ from its Lightning Leap action, the attacker takes 5 (d10) lightning damage."
+      \ from its Lightning Leap action, the attacker takes 5 (1d10) lightning damage."
     "name": "Lightning Body"
 "actions":
-  - "desc": "Melee Weapon Attack: +3 to hit (+7 to hit with shillelagh), reach 5\
-      \ ft., one target. Hit: 4 (d8) bludgeoning damage, or 8 (1d8 + 4) bludgeoning\
+  - "desc": "*Melee Weapon Attack:* +3 to hit (+7 to hit with shillelagh), reach 5\
+      \ ft., one target. *Hit:* 4 (1d8) bludgeoning damage, or 8 (1d8 + 4) bludgeoning\
       \ damage with shillelagh."
     "name": "Quarterstaff"
   - "desc": "The druid transforms into a streaking bolt of lightning, which surges\

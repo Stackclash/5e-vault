@@ -20,15 +20,21 @@ classes:
   - Wizard
 school: Transmutation
 level: 7
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 8
+  types:
+    - force
 ritual: false
 time: 1 Action
 duration: 8 hours
-components:
-  - V
-  - S
+range: Self
+somatic: true
+verbal: true
 aliases:
   - Etherealness
-range: Self
 ---
 # Etherealness
 *7th-level, Transmutation*  
@@ -50,6 +56,6 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 238. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

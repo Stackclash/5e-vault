@@ -31,17 +31,15 @@ classes:
   - Druid (Circle of the Land)
   - Sorcerer (Divine Soul)
 school: Divination
-level: cantrip
+level: 0
 ritual: false
 time: 1 Action
-duration: Up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Touch
+somatic: true
+verbal: true
 aliases:
   - Guidance
-range: Touch
-concentration: true
 ---
 # Guidance
 *cantrip, Divination*  
@@ -53,6 +51,8 @@ concentration: true
 
 You touch one willing creature. Once before the spell ends, the target can roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Druid (Circle of Stars)](compendium/lists/list-spells-classes-circle-of-stars-tce.md "subclass=TCE"); [[5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Bard (College of Spirits)](compendium/lists/list-spells-classes-college-of-spirits-vrgr.md "subclass=VRGR"); [Sorcerer (Divine Soul)](compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [Bard (College of Spirits)](/compendium/lists/list-spells-classes-college-of-spirits-vrgr.md "subclass=VRGR"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Stars)](/compendium/lists/list-spells-classes-circle-of-stars-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
 
 *Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

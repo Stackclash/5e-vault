@@ -47,7 +47,7 @@ aliases:
 
 ### Soulknife (Level 3)
 
-Most assassins strike with physical weapons, and many burglars and spies use [[5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.
+Most assassins strike with physical weapons, and many burglars and spies use [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.
 
 Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe.
 
@@ -67,7 +67,7 @@ The powers below use your Psionic Energy dice.
 
 - **Psi-Bolstered Knack**  
 
-    When your nonpsionic training fails you, your psionic power can help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy die and add the number rolled to the check, potentially turning failure into success. You expend the die only if the roll succeeds.  
+    When your non-psionic training fails you, your psionic power can help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy die and add the number rolled to the check, potentially turning failure into success. You expend the die only if the roll succeeds.  
 
 - **Psychic Whispers**  
 
@@ -79,9 +79,9 @@ The powers below use your Psionic Energy dice.
 
 *3rd-level Soulknife feature*
 
-You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to `dice:1d6|noform|noparens|avg` (`d6`) plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
+You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to `dice:1d6|noform|noparens|avg` (`1d6`) plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
 
-After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is `dice:1d4|noform|noparens|avg` (`d4`), instead of `dice:1d6|noform|noparens|avg` (`d6`).
+After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is `dice:1d4|noform|noparens|avg` (`1d4`), instead of `dice:1d6|noform|noparens|avg` (`1d6`).
 
 ### Soul Blades (Level 9)
 

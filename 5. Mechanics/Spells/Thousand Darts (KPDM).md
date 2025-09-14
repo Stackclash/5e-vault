@@ -20,16 +20,29 @@ classes:
   - Wizard
 school: Evocation
 level: 3
+damage:
+  base: 6d6
+  scaling:
+    damage: 1d6
+    level: 4
+  types:
+    - piercing
+saving_throw:
+  skills:
+    - Dexterity
+  succeeds: see spell description
 ritual: false
 time: 1 Action
 duration: Instantaneous
-components:
-  - V
-  - S
-  - M
+range: Self (120-foot Line)
+somatic: true
+verbal: true
+material: a set of mithral darts worth 25 gp
+area:
+  shape: line
+  size: 120
 aliases:
   - Thousand Darts
-material: a set of mithral darts worth 25 gp
 ---
 # Thousand Darts
 *3rd-level, Evocation*  
@@ -41,8 +54,8 @@ material: a set of mithral darts worth 25 gp
 
 You launch thousands of needlelike darts in a 5-foot-wide line that is 120 feet long. Each creature in the line takes `dice:6d6|noform|noparens|avg` (`6d6`) piercing damage, or half as much damage if it makes a successful Dexterity saving throw. The first creature struck by the darts makes the saving throw with disadvantage.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 3rd.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 3rd.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 114*

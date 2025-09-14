@@ -9,4 +9,4 @@ aliases:
 # Appendix C: Infernal Ally
 *Source: Devil's Advocate: A Guide to Infernal Contracts, p. 22* 
 
-- [[5. Mechanics/Optional Features/Infernal Ally Da Gic.md\|Infernal Ally]]
+- [[/5. Mechanics/Optional Features/Infernal Ally Da Gic.md\|Infernal Ally]]

@@ -15,7 +15,7 @@ tags:
 aliases:
   - Duergar Screamer
 ---
-# [[5. Mechanics\Bestiary\Construct\Duergar Screamer (MPMM).md|Duergar Screamer]]
+# [[5. Mechanics/Bestiary/Construct/Duergar Screamer (MPMM).md|Duergar Screamer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 190*
 
 A duergar screamer uses sonic energy to grind rock into dust and to hurl invaders to the ground.
@@ -49,13 +49,14 @@ These machines are deployed to assist with construction projects and war. Some d
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 7"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 7"
 "languages": "understands Dwarvish but can't speak"
 "cr": "3"
 "actions":
   - "desc": "The screamer makes one Drill attack, and it uses Sonic Scream."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (1d12 + 4) piercing damage."
     "name": "Drill"
   - "desc": "The screamer emits destructive energy in a 15-foot cube. Each creature\
@@ -69,7 +70,7 @@ These machines are deployed to assist with construction projects and war. Some d
 "source":
   - "MPMM"
   - "MTF"
-"image": "5. Mechanics/Bestiary/Construct/token/duergar-screamer-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Construct/token/duergar-screamer-mpmm.webp"
 ```
 ^statblock
 

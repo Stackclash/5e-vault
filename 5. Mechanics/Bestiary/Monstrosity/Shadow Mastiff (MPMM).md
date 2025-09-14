@@ -16,7 +16,7 @@ tags:
 aliases:
   - Shadow Mastiff
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Shadow Mastiff (MPMM).md|Shadow Mastiff]]
+# [[5. Mechanics/Bestiary/Monstrosity/Shadow Mastiff (MPMM).md|Shadow Mastiff]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*
 
 Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.
@@ -49,7 +49,8 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
     "desc": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks while\
   \ in dim light or darkness"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": ""
 "cr": "2"
 "traits":
@@ -59,7 +60,7 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
       \ on attack rolls, ability checks, and saving throws."
     "name": "Sunlight Weakness"
 "actions":
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
       \ a DC 13 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Bite"
@@ -72,7 +73,7 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/shadow-mastiff-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/shadow-mastiff-mpmm.webp"
 ```
 ^statblock
 

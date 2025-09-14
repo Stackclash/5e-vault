@@ -14,7 +14,7 @@ tags:
 aliases:
   - Rhinoceros
 ---
-# [[5. Mechanics\Bestiary\Beast\Rhinoceros.md|Rhinoceros]]
+# [[5. Mechanics/Bestiary/Beast/Rhinoceros.md|Rhinoceros]]
 *Source: Monster Manual p. 336. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
@@ -45,12 +45,12 @@ aliases:
       \ a DC 15 Strength saving throw or be knocked [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]."
     "name": "Charge"
 "actions":
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (2d8 + 5) bludgeoning damage."
     "name": "Gore"
 "source":
   - "MM"
-"image": "5. Mechanics/Bestiary/Beast/token/rhinoceros.webp"
+"image": "/5. Mechanics/Bestiary/Beast/token/rhinoceros.webp"
 ```
 ^statblock
 

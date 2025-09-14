@@ -13,7 +13,7 @@ tags:
 aliases:
   - Undead Spirit (Putrid)
 ---
-# [[5. Mechanics\Bestiary\Undead\Undead Spirit Putrid (TCE).md|Undead Spirit (Putrid)]]
+# [[5. Mechanics/Bestiary/Undead/Undead Spirit Putrid (TCE).md|Undead Spirit (Putrid)]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock
@@ -35,7 +35,8 @@ aliases:
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 10"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "Any creature, other than you, that starts its turn within 5 feet of the\
@@ -47,8 +48,8 @@ aliases:
   - "desc": "The spirit makes a number of attacks equal to half this spell's level\
       \ (rounded down)."
     "name": "Multiattack"
-  - "desc": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. Hit: 1d6 + 3 + the spell's level slashing damage. If the target\
+  - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one target. *Hit:* 1d6 + 3 + the spell's level slashing damage. If the target\
       \ is [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], it must succeed on\
       \ a Constitution saving throw against your spell save DC or be [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]]\
       \ until the end of its next turn."

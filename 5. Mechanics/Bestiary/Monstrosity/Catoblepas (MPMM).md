@@ -14,7 +14,7 @@ tags:
 aliases:
   - Catoblepas
 ---
-# [[5. Mechanics\Bestiary\Monstrosity\Catoblepas (MPMM).md|Catoblepas]]
+# [[5. Mechanics/Bestiary/Monstrosity/Catoblepas (MPMM).md|Catoblepas]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 70, Volo's Guide to Monsters p. 129*
 
 The catoblepas is as loathsome as the vile swamplands in which it lives, a conglomeration of bloated buffalo, dinosaur, warthog, and hippopotamus parts. Despite its ungainly physiology, a catoblepas resembles a natural animal in its behavior, ambling through its marshy home, munching choice vegetation, eating the occasional bit of carrion, and wallowing in mire. A catoblepas might be found with the one mate it chooses for life and, on occasion, with a calf. A catoblepas attacks anyone that moves too close, especially if guarding its young.
@@ -52,7 +52,8 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
+  \ 15"
 "languages": ""
 "cr": "5"
 "traits":
@@ -63,7 +64,7 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
       \ to the Stench of any catoblepas for 1 hour."
     "name": "Stench"
 "actions":
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 21\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 21\
       \ (5d6 + 4) bludgeoning damage, and the target must succeed on a DC 16 Constitution\
       \ saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]] until\
       \ the start of the catoblepas's next turn."
@@ -77,7 +78,7 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 "source":
   - "MPMM"
   - "VGM"
-"image": "5. Mechanics/Bestiary/Monstrosity/token/catoblepas-mpmm.webp"
+"image": "/5. Mechanics/Bestiary/Monstrosity/token/catoblepas-mpmm.webp"
 ```
 ^statblock
 

@@ -16,15 +16,27 @@ classes:
   - Wizard
 school: Enchantment
 level: 3
+damage:
+  base: null
+  scaling:
+    damage: null
+    level: 4
+  types: []
+saving_throw:
+  skills:
+    - Wisdom
+  succeeds: see spell description
 ritual: false
 time: 1 Action
-duration: up to 1 minute
-components:
-  - V
-  - S
+duration: 'Concentration, up to 1 minute'
+range: Self (30-foot Radius)
+somatic: true
+verbal: true
+area:
+  shape: radius
+  size: 30
 aliases:
   - Draconic Majesty
-concentration: true
 ---
 # Draconic Majesty
 *3rd-level, Enchantment*  
@@ -38,6 +50,6 @@ You exude the powerful presence of a dragon, frightening your enemies. For the d
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the radius increases by 30 feet for each slot level above 3rd, to a maximum of 120 feet for a slot of 6th level or higher.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 200*

@@ -14,7 +14,7 @@ one-hand-damage: 1d6 piercing
 weight: 2
 ---
 # Dagger of the Ogre Mage
-*Weapon ([[5. Mechanics/Items/Shortsword.md\|shortsword]]), major, uncommon (requires attunement)*  
+*Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Dagger-of-the-Ogre-Mage.webp#right)  
 
 - **Damage**: 1d6 piercing

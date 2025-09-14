@@ -20,10 +20,10 @@ aliases:
 ---
 # Frost Brand
 *Major, very rare (requires attunement)*  
-![[5. Mechanics/Items/img/frost-brand.webp#right]]  
+![[/5. Mechanics/Items/img/frost-brand.webp#right]]  
 
 
-When you hit with an attack using this magic sword, the target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) cold damage. In addition, while you hold the sword, you have resistance to fire damage.
+When you hit with an attack using this magic sword, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) cold damage. In addition, while you hold the sword, you have resistance to fire damage.
 
 In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 

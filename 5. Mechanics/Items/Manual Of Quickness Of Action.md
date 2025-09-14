@@ -11,7 +11,7 @@ weight: 5
 ---
 # Manual of Quickness of Action
 *Wondrous item, major, very rare*  
-![[5. Mechanics/Items/img/manual-of-quickness-of-action.webp#right]]  
+![[/5. Mechanics/Items/img/manual-of-quickness-of-action.webp#right]]  
 
 - **Weight**: 5.0 lbs.
 

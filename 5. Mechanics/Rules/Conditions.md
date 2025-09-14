@@ -69,7 +69,7 @@ Certain creatures have a tolerance to alcohol that's either natural or practiced
 
 When a conscious creature starts its turn with level 6 drunkenness, it must make a DC 10 Constitution saving throw. On a failed save, the creature falls [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]. On a success, the creature spends its action that turn retching and reeling. When it does, the creature loses 1 level of drunkenness. The DC for this saving throw increases by 5 each time the creature repeats the save before it loses all of its levels of drunkenness.
 
-For every hour the creature doesn't drink any alcohol, it loses one level of drunkenness, provided it's either [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] or has also ingested some food or water. Finishing a long rest removes any levels of drunkenness unless the creature fell [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] for the duration of the rest as a result of suffering level 6 drunkenness. In that case, the creature loses `dice:1d4|noform|noparens|avg` (`d4`) + 2 levels of drunkenness instead and doesn't regain Hit Dice as a result of finishing a long rest.
+For every hour the creature doesn't drink any alcohol, it loses one level of drunkenness, provided it's either [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] or has also ingested some food or water. Finishing a long rest removes any levels of drunkenness unless the creature fell [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]] for the duration of the rest as a result of suffering level 6 drunkenness. In that case, the creature loses `dice:1d4|noform|noparens|avg` (`1d4`) + 2 levels of drunkenness instead and doesn't regain Hit Dice as a result of finishing a long rest.
 
 ## Exhaustion
 _Source: Player's Handbook p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -105,7 +105,7 @@ _Source: Player's Handbook p. 290. Available in the <span title='Systems Referen
 
 - A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.  
 - The condition ends if the grappler is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].  
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [[5. Mechanics/Spells/Thunderwave.md\|thunderwave]] spell.  
+- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]] spell.  
 
 ## Incapacitated
 _Source: Player's Handbook p. 290. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -165,7 +165,7 @@ _Source: Player's Handbook p. 292. Available in the <span title='Systems Referen
 ## Surprised
 _Source: Player's Handbook p. 189. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
-A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A [[5. Mechanics/Bestiary/Ooze/Gelatinous Cube.md\|gelatinous cube]] glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
+A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A [[/5. Mechanics/Bestiary/Ooze/Gelatinous Cube.md\|gelatinous cube]] glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
 
 The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks of anyone hiding with the passive Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is [[/5. Mechanics/Rules/Conditions.md#Surprised\|surprised]] at the start of the encounter.
 
@@ -202,12 +202,12 @@ On a successful save, the creature might be shaken or upset by the experience, b
 | is exposed to the Void itself | 20 |
 ^void-exposure
 
-On a failed save, the creature gains 1 point of Void taint. A creature can accumulate an amount of Void taint equal to its proficiency bonus + its Charisma modifier (minimum of 2 points) without harm. When a creature's Void taint exceeds that number, it is afflicted with a form of indefinite madness and its Void taint total resets to 0. To determine which type of madness emerges, refer to the [[5. Mechanics/Tables/Indefinite Madness (KPDM).md\|Indefinite Madness]] table.
+On a failed save, the creature gains 1 point of Void taint. A creature can accumulate an amount of Void taint equal to its proficiency bonus + its Charisma modifier (minimum of 2 points) without harm. When a creature's Void taint exceeds that number, it is afflicted with a form of indefinite madness and its Void taint total resets to 0. To determine which type of madness emerges, refer to the [[/5. Mechanics/Tables/Indefinite Madness (KPDM).md\|Indefinite Madness]] table.
 
-Instead of bearing this scar on its psyche, a creature can choose to channel the Void's influence into a physical change, known as a flesh warp. The Void can produce an infinite variety of these effects, ranging from subtle to terrifying; the [[5. Mechanics/Tables/Flesh Warps (KPDM).md\|Flesh Warps]] table offers a number of possibilities. A creature that has any flesh warp has disadvantage on Charisma checks involving a creature not of the Void for any purpose other than intimidation.
+Instead of bearing this scar on its psyche, a creature can choose to channel the Void's influence into a physical change, known as a flesh warp. The Void can produce an infinite variety of these effects, ranging from subtle to terrifying; the [[/5. Mechanics/Tables/Flesh Warps (KPDM).md\|Flesh Warps]] table offers a number of possibilities. A creature that has any flesh warp has disadvantage on Charisma checks involving a creature not of the Void for any purpose other than intimidation.
 
-On either the [[5. Mechanics/Tables/Indefinite Madness (KPDM).md\|Indefinite Madness]] table or the [[5. Mechanics/Tables/Flesh Warps (KPDM).md\|Flesh Warps]] table, a die roll dictates the outcome unless the GM decides otherwise. Under no circumstances should a player be allowed to choose a desired result.
+On either the [[/5. Mechanics/Tables/Indefinite Madness (KPDM).md\|Indefinite Madness]] table or the [[/5. Mechanics/Tables/Flesh Warps (KPDM).md\|Flesh Warps]] table, a die roll dictates the outcome unless the GM decides otherwise. Under no circumstances should a player be allowed to choose a desired result.
 
-**Curing Flesh Warps and Void Taint.** A [[5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell removes 1 point of Void taint from the target, in addition to curing the target's indefinite madness, if the creature succeeds on a DC 15 Charisma saving throw.
+**Curing Flesh Warps and Void Taint.** A [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell removes 1 point of Void taint from the target, in addition to curing the target's indefinite madness, if the creature succeeds on a DC 15 Charisma saving throw.
 
-Flesh warps are permanent manifestations of the Void within the body of a tainted creature and are incredibly difficult to remove. A [[5. Mechanics/Spells/Regenerate.md\|regenerate]] spell or more powerful magic is required to rid a creature of a flesh warp.
+Flesh warps are permanent manifestations of the Void within the body of a tainted creature and are incredibly difficult to remove. A [[/5. Mechanics/Spells/Regenerate.md\|regenerate]] spell or more powerful magic is required to rid a creature of a flesh warp.

@@ -13,12 +13,16 @@ classes:
   - Wizard
 school: Abjuration
 level: 5
+saving_throw:
+  skills:
+    - Charisma
+  succeeds: see spell description
 ritual: true
 time: 1 Action
 duration: '1 minute, Until dispelled'
-components:
-  - V
-  - S
+range: 30 feet
+somatic: true
+verbal: true
 aliases:
   - Mass Surge Dampener
 ---
@@ -32,6 +36,6 @@ aliases:
 
 Using your strength of will, you protect up to three creatures other than yourself from the effect of a chaos magic surge. A protected creature can make a DC 13 Charisma saving throw to negate the effect of a chaos magic surge that does not normally allow a saving throw, or it gains advantage on a saving throw that is normally allowed. Once a protected creature makes a successful saving throw affected by this spell, the spell's effect ends for that creature.
 
-**Classes**: [[5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]; [[5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 184*

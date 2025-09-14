@@ -14,7 +14,7 @@ one-hand-damage: 1d6 piercing
 weight: 2
 ---
 # Gladius of the Everfighter
-*Weapon ([[5. Mechanics/Items/Shortsword.md\|shortsword]]), major, legendary (requires attunement by a fighter)*  
+*Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, legendary (requires attunement by a fighter)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gladius-of-the-Everfighter.webp#right)  
 
 - **Damage**: 1d6 piercing

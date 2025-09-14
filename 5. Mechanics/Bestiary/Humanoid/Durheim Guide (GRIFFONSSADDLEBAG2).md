@@ -13,7 +13,7 @@ tags:
 aliases:
   - Durheim Guide
 ---
-# [[5. Mechanics\Bestiary\Humanoid\Durheim Guide (GRIFFONSSADDLEBAG2).md|Durheim Guide]]
+# [[5. Mechanics/Bestiary/Humanoid/Durheim Guide (GRIFFONSSADDLEBAG2).md|Durheim Guide]]
 *Source: The Griffon's Saddlebag, Book 2 p. 353*
 
 When Durheim monks have honed their soul to the point where the Walking the Liminal Path is the next stage of their destiny, they begin their journey as Guides. Along the Path, they travel across the land and dutifully seek out struggling spirits. When they feel the time is right, they return to record their experiences. As the main body of the Monastery's membership, Guides are often someone's first introduction to the Order.
@@ -37,8 +37,8 @@ When Durheim monks have honed their soul to the point where the Walking the Limi
   - !!int "13"
 "speed": "50 ft."
 "saves":
-  - "strength": "+3"
-  - "dexterity": "+5"
+  - "strength": !!int "3"
+  - "dexterity": !!int "5"
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Acrobatics|Acrobatics]]"
     "desc": "+5"
@@ -58,7 +58,7 @@ When Durheim monks have honed their soul to the point where the Walking the Limi
       \ saving throw to take only half damage, the guide instead takes no damage if\
       \ it succeeds on the saving throw, and only half damage if it fails."
     "name": "Evasion"
-  - "desc": "The guide can cast [[5. Mechanics/Spells/Mage Hand.md|mage hand]] at will,\
+  - "desc": "The guide can cast [[/5. Mechanics/Spells/Mage Hand.md|mage hand]] at will,\
       \ requiring no verbal or somatic components. The guide can cast this spell and\
       \ control the hand as a bonus action, and when the guide casts the spell, it\
       \ can make the hand [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]]."
@@ -77,10 +77,10 @@ When Durheim monks have honed their soul to the point where the Walking the Limi
 "actions":
   - "desc": "The guide makes three attacks."
     "name": "Multiattack"
-  - "desc": "Melee Spell Attack: +5 to hit, reach 30 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Spell Attack:* +5 to hit, reach 30 ft., one target. *Hit:* 6 (1d6\
       \ + 3) force damage."
     "name": "Spirit Strike"
-  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) bludgeoning damage."
     "name": "Unarmed Strike"
 "reactions":

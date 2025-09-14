@@ -12,7 +12,7 @@ armorClass: 2
 weight: 6
 ---
 # Sun and Moon Shield
-*Armor ([[5. Mechanics/Items/Shield.md\|shield]]), minor, common*  
+*Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Sun-and-Moon-Shield.webp#right)  
 
 - **Armor Class**: 2
