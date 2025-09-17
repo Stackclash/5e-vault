@@ -134,31 +134,30 @@ actions:
   - "name": "[History](/compendium/rules/skills.md#History)"
     "desc": "+6"
 "damage_resistances": "fire"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "darkvision 60 ft., passive Perception 11"
 "languages": "any four languages, Infernal"
 "cr": "6"
 "traits":
-  - "desc": "Figaro\n\n**At will:** [thaumaturgy](/compendium/spells/thaumaturgy.md)\n\
-      \n**1/day each:** [darkness](/compendium/spells/darkness.md), [hellish rebuke](/compendium/spells/hellish-rebuke.md)"
+  - "desc": "Figaro\n\nAt will: [thaumaturgy](/compendium/spells/thaumaturgy.md)\n\
+      \n1/day each: [darkness](/compendium/spells/darkness.md), [hellish rebuke](/compendium/spells/hellish-rebuke.md)"
     "name": "Innate Spellcasting"
   - "desc": "Figaro is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks). Figaro has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](/compendium/spells/fire-bolt.md),\
+      \ wizard spells prepared:\n\nCantrips (at will): [fire bolt](/compendium/spells/fire-bolt.md),\
       \ [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md),\
-      \ [prestidigitation](/compendium/spells/prestidigitation.md)\n\n**1st level\
-      \ (4 slots):** [detect magic](/compendium/spells/detect-magic.md), [mage armor](/compendium/spells/mage-armor.md),\
+      \ [prestidigitation](/compendium/spells/prestidigitation.md)\n\n1st level\
+      \ (4 slots): [detect magic](/compendium/spells/detect-magic.md), [mage armor](/compendium/spells/mage-armor.md),\
       \ [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md)\n\
-      \n**2nd level (3 slots):** [misty step](/compendium/spells/misty-step.md), [suggestion](/compendium/spells/suggestion.md)\n\
-      \n**3rd level (3 slots):** [counterspell](/compendium/spells/counterspell.md),\
+      \n2nd level (3 slots): [misty step](/compendium/spells/misty-step.md), [suggestion](/compendium/spells/suggestion.md)\n\
+      \n3rd level (3 slots): [counterspell](/compendium/spells/counterspell.md),\
       \ [fireball](/compendium/spells/fireball.md), [fly](/compendium/spells/fly.md)\n\
-      \n**4th level (3 slots):** [greater invisibility](/compendium/spells/greater-invisibility.md),\
-      \ [ice storm](/compendium/spells/ice-storm.md)\n\n**5th level (1 slots):** [cone\
+      \n4th level (3 slots): [greater invisibility](/compendium/spells/greater-invisibility.md),\
+      \ [ice storm](/compendium/spells/ice-storm.md)\n\n5th level (1 slots): [cone\
       \ of cold](/compendium/spells/cone-of-cold.md)"
     "name": "Spellcasting"
 "actions":
-  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
+  - "desc": "Melee  or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."
     "name": "Dagger"
 "source":
   - "VEoR"

@@ -147,12 +147,12 @@ actions:
   - "desc": "Sir Pelliton has gained the power to cast dark magic. All spells he casts\
       \ with this feature are cast as if using a 5th-level spell slot, and he casts\
       \ cantrips as if he were an 11th-level warlock. His spellcasting ability is\
-      \ Wisdom (DC 16, +8 to hit with spell attacks).\n\n**At will:** [acid splash](/compendium/spells/acid-splash.md),\
+      \ Wisdom (DC 16, +8 to hit with spell attacks).\n\nAt will: [acid splash](/compendium/spells/acid-splash.md),\
       \ [eldritch blast](/compendium/spells/eldritch-blast.md) (3 beams), [minor illusion](/compendium/spells/minor-illusion.md),\
-      \ [hellish rebuke](/compendium/spells/hellish-rebuke.md)\n\n**5/day:** [branding\
+      \ [hellish rebuke](/compendium/spells/hellish-rebuke.md)\n\n5/day: [branding\
       \ smite](/compendium/spells/branding-smite.md), [black tentacles](/compendium/spells/evards-black-tentacles.md),\
       \ [counterspell](/compendium/spells/counterspell.md), [dimension door](/compendium/spells/dimension-door.md),\
-      \ [hold person](/compendium/spells/hold-person.md)\n\n**1/day each:** [cone\
+      \ [hold person](/compendium/spells/hold-person.md)\n\n1/day each: [cone\
       \ of cold](/compendium/spells/cone-of-cold.md), [eyebite](/compendium/spells/eyebite.md),\
       \ [mass suggestion](/compendium/spells/mass-suggestion.md)"
     "name": "Innate Spellcasting"
@@ -168,10 +168,10 @@ actions:
   - "desc": "Sir Pelliton makes three melee attacks or makes two melee attacks and\
       \ casts eldritch blast."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage plus 3 (1d6) cold damage."
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8\
+      \ + 4) slashing damage plus 3 (d6) cold damage."
     "name": "Frost Brand Longsword"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 10\
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10\
       \ (1d12 + 4) piercing damage."
     "name": "Lance"
 "reactions":

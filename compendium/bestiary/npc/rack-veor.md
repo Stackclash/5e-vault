@@ -150,10 +150,10 @@ actions:
   - "desc": "Crunch makes three Armblade or Bolt Launcher attacks. It can replace\
       \ one of the attacks with a use of Snare Trap."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
       \ (2d6 + 5) slashing damage."
     "name": "Armblade"
-  - "desc": "*Ranged Weapon Attack:* +8 to hit, range 80/320 ft., one target. *Hit:*\
+  - "desc": "Ranged Weapon Attack: +8 to hit, range 80/320 ft., one target. Hit:\
       \ 9 (1d8 + 5) piercing damage."
     "name": "Bolt Launcher"
   - "desc": "Crunch deploys a Tiny mechanical trap on a solid surface within 5 feet\

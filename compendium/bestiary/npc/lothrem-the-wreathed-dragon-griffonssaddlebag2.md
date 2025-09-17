@@ -148,8 +148,7 @@ actions:
     "desc": "+15"
   - "name": "[Stealth](/compendium/rules/skills.md#Stealth)"
     "desc": "+11"
-"senses": "[blindsight](/compendium/rules/senses.md#Blindsight) 60 ft., [darkvision](/compendium/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 24"
+"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 24"
 "languages": "Common, Draconic, Druidic"
 "cr": "25"
 "traits":
@@ -163,13 +162,13 @@ actions:
   - "desc": "Lothrem can use their Frightful Presence. They then make three attacks:\
       \ one with their bite and two with their claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 19\
-      \ (2d10 + 8) piercing damage, plus 5 (1d10) lightning damage."
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 19\
+      \ (2d10 + 8) piercing damage, plus 5 (d10) lightning damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 15\
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 15\
       \ (2d6 + 8) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 17\
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 17\
       \ (2d8 + 8) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of Lothrem's choice that is within 120 feet of Lothrem\
@@ -203,35 +202,12 @@ actions:
       \ are otherwise replaced by those of the new form, except and class features\
       \ or legendary actions of that form."
     "name": "Change Shape"
-"lair_actions":
-  - "desc": "On initiative count 20 (losing initiative ties), Lothrem takes a lair\
-      \ action to cause one of the following effects:\n\n- Each creature of Lothrem's\
-      \ choice within 60 feet of them gains the effect of the [sanctuary](/compendium/spells/sanctuary.md)\
-      \ spell. This effect lasts until initiative count 20 on the next round.  \n\
-      - Lothrem casts [wind wall](/compendium/spells/wind-wall.md), without material\
-      \ components.  \n- Lothrem chooses a point on the ground that they can see within\
-      \ 120 feet of them, causing grasping weeds and vines to sprout from the ground\
-      \ in a 30-foot radius centered on that point. For 1 minute, the area is under\
-      \ the effects of the [entangle](/compendium/spells/entangle.md) spell. This\
-      \ effect ends early if Lothrem uses this lair action again or if they die.  "
-    "name": ""
-"regional_effects":
-  - "desc": "The region containing Lothrem's lair is warped by their draconic magic,\
-      \ which creates one or more of the following effects:\n\n- Each creature that\
-      \ has the ability to cast at least one spell can cast the [druidcraft](/compendium/spells/druidcraft.md)\
-      \ cantrip at will while within 6 miles of Lothrem's lair.  \n- The weather within\
-      \ 6 miles of the lair is substantially affected by Lothrem's current state of\
-      \ mind (see [Lothrem's Mood & Weather](/compendium/tables/crest-city-weather-patterns-griffonssaddlebag2.md)\
-      \ table).  \n\nIvy and other vines are prevalent on stone structures and protecting\
-      \ them against the elements. In addition, while Lothrem is within their lair,\
-      \ grass and flowers continuously grow beneath them, as if under the effects\
-      \ of the [druidcraft](/compendium/spells/druidcraft.md) spell."
-    "name": ""
-"legendary_description": "The dragon can take 3 legendary actions, choosing from the\
-  \ options below. Only one legendary action can be used at a time and only at the\
-  \ end of another creature's turn. Lothrem regains spent legendary actions at the\
-  \ start of their turn."
 "legendary_actions":
+  - "desc": "The dragon can take 3 legendary actions, choosing from the options below.\
+      \ Only one legendary action can be used at a time and only at the end of another\
+      \ creature's turn. Lothrem regains spent legendary actions at the start of their\
+      \ turn."
+    "name": ""
   - "desc": "Lothrem makes a Wisdom ([Perception](/compendium/rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
@@ -242,6 +218,36 @@ actions:
       \ damage and be knocked [prone](/compendium/rules/conditions.md#Prone). Lothrem\
       \ can then fly up to half their flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
+"lair_actions":
+  - "desc": "On initiative count 20 (losing initiative ties), Lothrem takes a lair\
+      \ action to cause one of the following effects:"
+    "name": ""
+  - "desc": "- Each creature of Lothrem's choice within 60 feet of them gains the\
+      \ effect of the [sanctuary](/compendium/spells/sanctuary.md) spell. This effect\
+      \ lasts until initiative count 20 on the next round.  \n- Lothrem casts [wind\
+      \ wall](/compendium/spells/wind-wall.md), without material components.  \n-\
+      \ Lothrem chooses a point on the ground that they can see within 120 feet of\
+      \ them, causing grasping weeds and vines to sprout from the ground in a 30-foot\
+      \ radius centered on that point. For 1 minute, the area is under the effects\
+      \ of the [entangle](/compendium/spells/entangle.md) spell. This effect ends\
+      \ early if Lothrem uses this lair action again or if they die.  "
+    "name": ""
+"regional_effects":
+  - "desc": "The region containing Lothrem's lair is warped by their draconic magic,\
+      \ which creates one or more of the following effects:"
+    "name": ""
+  - "desc": "- Each creature that has the ability to cast at least one spell can cast\
+      \ the [druidcraft](/compendium/spells/druidcraft.md) cantrip at will while within\
+      \ 6 miles of Lothrem's lair.  \n- The weather within 6 miles of the lair is\
+      \ substantially affected by Lothrem's current state of mind (see [Lothrem's\
+      \ Mood & Weather](/compendium/tables/crest-city-weather-patterns-griffonssaddlebag2.md)\
+      \ table).  "
+    "name": ""
+  - "desc": "Ivy and other vines are prevalent on stone structures and protecting\
+      \ them against the elements. In addition, while Lothrem is within their lair,\
+      \ grass and flowers continuously grow beneath them, as if under the effects\
+      \ of the [druidcraft](/compendium/spells/druidcraft.md) spell."
+    "name": ""
 "source":
   - "GriffonsSaddlebag2"
 ```

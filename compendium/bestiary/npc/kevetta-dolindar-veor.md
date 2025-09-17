@@ -125,8 +125,7 @@ actions:
   - !!int "6"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "9"
 "traits":
@@ -140,7 +139,7 @@ actions:
 "actions":
   - "desc": "Kevetta makes one Harpoon Arm attack, and it uses Sorrowful Embrace."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 60 ft., one target. *Hit:* 21\
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 60 ft., one target. Hit: 21\
       \ (4d8 + 3) piercing damage, and the target is [grappled](/compendium/rules/conditions.md#Grappled)\
       \ (escape DC 15) if it is a Large or smaller creature. Kevetta has two harpoon\
       \ arms and can grapple up to two creatures at once."

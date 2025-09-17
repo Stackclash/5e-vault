@@ -151,8 +151,7 @@ actions:
     "desc": "+14"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [frightened](/compendium/rules/conditions.md#Frightened)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 21"
+"senses": "darkvision 60 ft., passive Perception 21"
 "languages": "Common, Draconic, Infernal"
 "cr": "23"
 "traits":
@@ -170,7 +169,7 @@ actions:
 "actions":
   - "desc": "Windfall makes two Chromatic Rapier attacks and uses Dragon's Fury once."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 11\
+  - "desc": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 11\
       \ (1d8 + 7) piercing damage plus 21 (6d6) acid, cold, fire, lightning, or poison\
       \ damage (Windfall's choice)."
     "name": "Chromatic Rapier"
@@ -182,12 +181,12 @@ actions:
       \ half as much damage only."
     "name": "Dragon's Fury"
   - "desc": "Windfall casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 23):\n\n**At\
-      \ will:** [Detect Magic](/compendium/spells/detect-magic.md), [Light](/compendium/spells/light.md),\
-      \ [Thaumaturgy](/compendium/spells/thaumaturgy.md)\n\n**3/day each:** [Shatter](/compendium/spells/shatter.md),\
-      \ [Unseen Servant](/compendium/spells/unseen-servant.md)\n\n**2/day each:**\
+      \ and using Charisma as the spellcasting ability (spell save DC 23):\n\nAt\
+      \ will: [Detect Magic](/compendium/spells/detect-magic.md), [Light](/compendium/spells/light.md),\
+      \ [Thaumaturgy](/compendium/spells/thaumaturgy.md)\n\n3/day each: [Shatter](/compendium/spells/shatter.md),\
+      \ [Unseen Servant](/compendium/spells/unseen-servant.md)\n\n2/day each:\
       \ [Hypnotic Pattern](/compendium/spells/hypnotic-pattern.md), [Sending](/compendium/spells/sending.md)\n\
-      \n**1/day:** [Hold Monster](/compendium/spells/hold-monster.md)"
+      \n1/day: [Hold Monster](/compendium/spells/hold-monster.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Windfall emits an overwhelming array of colors from her coat. Each creature\
@@ -195,9 +194,6 @@ actions:
       \ saving throw or have the [stunned](/compendium/rules/conditions.md#Stunned)\
       \ condition until the start of Windfall's next turn."
     "name": "Stunning Scintillation (Recharge 5-6)"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Windfall can expend a use to take one of the following actions. Windfall\
-  \ regains all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Windfall moves up to her speed without provoking opportunity attacks."
     "name": "Deft Dance"

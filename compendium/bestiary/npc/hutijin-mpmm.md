@@ -146,8 +146,7 @@ actions:
 "damage_immunities": "fire, poison"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 21"
+"senses": "truesight 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "21"
 "traits":
@@ -167,7 +166,7 @@ actions:
   - "desc": "Hutijin makes one Bite attack, one Claw attack, one Mace attack, and\
       \ one Tail attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 15\
+  - "desc": "Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15\
       \ (2d6 + 8) fire damage. The target must succeed on a DC 22 Constitution saving\
       \ throw or become [poisoned](/compendium/rules/conditions.md#Poisoned). While\
       \ [poisoned](/compendium/rules/conditions.md#Poisoned) in this way, the target\
@@ -176,25 +175,25 @@ actions:
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 17\
+  - "desc": "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17\
       \ (2d8 + 8) cold damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 15\
+  - "desc": "Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15\
       \ (2d6 + 8) force damage."
     "name": "Mace"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 19\
+  - "desc": "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 19\
       \ (2d10 + 8) thunder damage."
     "name": "Tail"
   - "desc": "Hutijin teleports, along with any equipment he is wearing and carrying,\
       \ up to 120 feet to an unoccupied space he can see."
     "name": "Teleport"
   - "desc": "Hutijin casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 22):\n\n**At\
-      \ will:** [alter self](/compendium/spells/alter-self.md) (can become Medium\
+      \ and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt\
+      \ will: [alter self](/compendium/spells/alter-self.md) (can become Medium\
       \ when changing his appearance), [detect magic](/compendium/spells/detect-magic.md),\
       \ [hold monster](/compendium/spells/hold-monster.md), [invisibility](/compendium/spells/invisibility.md)\
       \ (self only), [lightning bolt](/compendium/spells/lightning-bolt.md), [suggestion](/compendium/spells/suggestion.md),\
-      \ [wall of fire](/compendium/spells/wall-of-fire.md)\n\n**3/day:** [dispel magic](/compendium/spells/dispel-magic.md)"
+      \ [wall of fire](/compendium/spells/wall-of-fire.md)\n\n3/day: [dispel magic](/compendium/spells/dispel-magic.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "In response to taking damage, Hutijin utters a dreadful word of power.\
@@ -204,9 +203,6 @@ actions:
       \ each of its turns, ending the effect on itself on a success. A creature that\
       \ saves against this effect is immune to his Fearful Voice for 24 hours."
     "name": "Fearful Voice (Recharge 5-6)"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Hutijin can expend a use to take one of the following actions. Hutijin regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Hutijin makes one Claw, Mace, or Tail attack."
     "name": "Attack"

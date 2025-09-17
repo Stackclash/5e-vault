@@ -140,17 +140,16 @@ actions:
 "damage_immunities": "poison"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 19"
+"senses": "darkvision 120 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "10"
 "traits":
   - "desc": "Malfuriel's spellcasting ability is Charisma (spell save DC 17). Malfuriel\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect evil and good](/compendium/spells/detect-evil-and-good.md),\
-      \ [invisibility](/compendium/spells/invisibility.md) (self only)\n\n**3/day\
-      \ each:** [dispel evil and good](/compendium/spells/dispel-evil-and-good.md)\n\
-      \n**1/day each:** [blight](/compendium/spells/blight.md), [wall of fire](/compendium/spells/wall-of-fire.md)"
+      \nAt will: [detect evil and good](/compendium/spells/detect-evil-and-good.md),\
+      \ [invisibility](/compendium/spells/invisibility.md) (self only)\n\n3/day\
+      \ each: [dispel evil and good](/compendium/spells/dispel-evil-and-good.md)\n\
+      \n1/day each: [blight](/compendium/spells/blight.md), [wall of fire](/compendium/spells/wall-of-fire.md)"
     "name": "Innate Spellcasting"
   - "desc": "Malfuriel is immune to the diseases described in the [Bloodmire Diseases](/compendium/tables/bloodmire-diseases-griffonssaddlebag2.md)\
       \ table."
@@ -165,14 +164,14 @@ actions:
       \ effects."
     "name": "Magic Resistance"
   - "desc": "Malfuriel's weapon attacks are magical. When Malfuriel hits with any\
-      \ weapon, the weapon deals an extra 3 (1d6) necrotic damage (included in the\
+      \ weapon, the weapon deals an extra 3 (d6) necrotic damage (included in the\
       \ attack)."
     "name": "Forsaken Weapons"
 "actions":
   - "desc": "Malfuriel makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 15\
-      \ (3d6 + 5) slashing damage, plus 3 (1d6) necrotic damage."
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15\
+      \ (3d6 + 5) slashing damage, plus 3 (d6) necrotic damage."
     "name": "Greatsword"
   - "desc": "Malfuriel touches a creature, and that creature must succeed on a DC\
       \ 17 Wisdom saving throw or be magically [charmed](/compendium/rules/conditions.md#Charmed)\
@@ -183,27 +182,12 @@ actions:
       \ saves against the effect, or if the effect ends for it, the target is immune\
       \ to Malfuriel's Corrupting Touch for the next 24 hours."
     "name": "Corrupting Touch (2/Day)"
-"lair_actions":
-  - "desc": "On initiative count 20 (losing all ties), Malfuriel can take a lair action\
-      \ to cause one of the following effects:\n\n- A stream of blood opens up on\
-      \ the ground originating at a point Malfuriel chooses within 60 feet of him.\
-      \ The stream is 30 feet long, 5 feet wide, and 5 feet deep. Each creature in\
-      \ the area must make a DC 15 Dexterity saving throw. On a successful save, a\
-      \ creature moves to the nearest unoccupied space of its choice outside the stream.\
-      \ On a failed save, the creature falls into the stream and takes 7 (2d6) necrotic\
-      \ damage. A creature that starts its turn in the stream must succeed on a DC\
-      \ 13 Constitution saving throw or become diseased (see the [Bloodmire Diseases](/compendium/tables/bloodmire-diseases-griffonssaddlebag2.md)\
-      \ table).  \n- A pillar of unholy flame bursts from the ground. Each creature\
-      \ in a 5-foot-radius, 60-foot-high cylinder centered on a point Malfuriel chooses\
-      \ within 60 feet of him must make a DC 15 Dexterity saving throw, taking 7 (2d6)\
-      \ fire damage and 7 (2d6) necrotic damage on a failed save or half as much damage\
-      \ on a successful one.  "
-    "name": ""
-"legendary_description": "Malfuriel can take 3 legendary actions, choosing from the\
-  \ options below. Only one legendary action can be used at a time and only at the\
-  \ end of another creature's turn. Malfuriel regains spent legendary actions at the\
-  \ start of his turn."
 "legendary_actions":
+  - "desc": "Malfuriel can take 3 legendary actions, choosing from the options below.\
+      \ Only one legendary action can be used at a time and only at the end of another\
+      \ creature's turn. Malfuriel regains spent legendary actions at the start of\
+      \ his turn."
+    "name": ""
   - "desc": "Malfuriel moves up to half his speed."
     "name": "Move"
   - "desc": "Malfuriel makes one greatsword attack."
@@ -215,6 +199,24 @@ actions:
       \ a failed save or half as much damage on a successful one. Malfuriel regains\
       \ hit points equal to the amount of necrotic damage dealt."
     "name": "Accursed Step (3 Actions)"
+"lair_actions":
+  - "desc": "On initiative count 20 (losing all ties), Malfuriel can take a lair action\
+      \ to cause one of the following effects:"
+    "name": ""
+  - "desc": "- A stream of blood opens up on the ground originating at a point Malfuriel\
+      \ chooses within 60 feet of him. The stream is 30 feet long, 5 feet wide, and\
+      \ 5 feet deep. Each creature in the area must make a DC 15 Dexterity saving\
+      \ throw. On a successful save, a creature moves to the nearest unoccupied space\
+      \ of its choice outside the stream. On a failed save, the creature falls into\
+      \ the stream and takes 7 (2d6) necrotic damage. A creature that starts its turn\
+      \ in the stream must succeed on a DC 13 Constitution saving throw or become\
+      \ diseased (see the [Bloodmire Diseases](/compendium/tables/bloodmire-diseases-griffonssaddlebag2.md)\
+      \ table).  \n- A pillar of unholy flame bursts from the ground. Each creature\
+      \ in a 5-foot-radius, 60-foot-high cylinder centered on a point Malfuriel chooses\
+      \ within 60 feet of him must make a DC 15 Dexterity saving throw, taking 7 (2d6)\
+      \ fire damage and 7 (2d6) necrotic damage on a failed save or half as much damage\
+      \ on a successful one.  "
+    "name": ""
 "source":
   - "GriffonsSaddlebag2"
 ```

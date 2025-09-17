@@ -155,8 +155,7 @@ actions:
   \ [poisoned](/compendium/rules/conditions.md#Poisoned), [prone](/compendium/rules/conditions.md#Prone),\
   \ [restrained](/compendium/rules/conditions.md#Restrained), [stunned](/compendium/rules/conditions.md#Stunned),\
   \ [unconscious](/compendium/rules/conditions.md#Unconscious)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 22"
+"senses": "truesight 120 ft., passive Perception 22"
 "languages": "all, telepathy 120 ft."
 "cr": "23"
 "traits":
@@ -179,8 +178,8 @@ actions:
 "actions":
   - "desc": "Juiblex makes three Acid Lash attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +14 to hit, reach 10 ft. or range 60/120\
-      \ ft., one target. *Hit:* 21 (4d6 + 7) acid damage. Any creature killed by this\
+  - "desc": "Melee  or Ranged Weapon Attack: +14 to hit, reach 10 ft. or range 60/120\
+      \ ft., one target. Hit: 21 (4d6 + 7) acid damage. Any creature killed by this\
       \ attack is drawn into Juiblex's body, where the corpse is dissolved after 1\
       \ minute."
     "name": "Acid Lash"
@@ -195,17 +194,28 @@ actions:
       \ [mending](/compendium/spells/mending.md) spell."
     "name": "Eject Slime (Recharge 5-6)"
   - "desc": "Juiblex casts one of the following spells, requiring no material components\
-      \ and using Wisdom as the spellcasting ability (spell save DC 20):\n\n**At will:**\
-      \ [detect magic](/compendium/spells/detect-magic.md)\n\n**3/day each:** [contagion](/compendium/spells/contagion.md),\
+      \ and using Wisdom as the spellcasting ability (spell save DC 20):\n\nAt will:\
+      \ [detect magic](/compendium/spells/detect-magic.md)\n\n3/day each: [contagion](/compendium/spells/contagion.md),\
       \ [gaseous form](/compendium/spells/gaseous-form.md)"
     "name": "Spellcasting"
+"legendary_actions":
+  - "desc": "Juiblex makes one Acid Lash attack."
+    "name": "Attack"
+  - "desc": "Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. Hit:\
+      \ 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped\
+      \ off with an action, the target is [poisoned](/compendium/rules/conditions.md#Poisoned),\
+      \ and any creature, other than an Ooze, is [poisoned](/compendium/rules/conditions.md#Poisoned)\
+      \ while within 10 feet of the target."
+    "name": "Corrupting Touch (Costs 2 Actions)"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Juiblex can take one\
       \ of the following lair actions; it can't take the same lair action two rounds\
-      \ in a row:\n\n- **Green Slime.** A [green slime](/compendium/traps-hazards/green-slime.md)\
+      \ in a row:"
+    "name": ""
+  - "desc": "- Green Slime. A [green slime](/compendium/traps-hazards/green-slime.md)\
       \ (see the \"Dungeon Master's Guide\") appears on a spot on the ceiling that\
       \ Juiblex chooses within the lair. The slime disintegrates after 1 hour.  \n\
-      - **Slippery Slime.** Juiblex slimes a square area of ground it can see within\
+      - Slippery Slime. Juiblex slimes a square area of ground it can see within\
       \ the lair. The area can be up to 10 feet on a side. When the slime appears,\
       \ each creature on it must succeed on a DC 21 Dexterity saving throw or fall\
       \ [prone](/compendium/rules/conditions.md#Prone) and slide 10 feet in a random\
@@ -214,7 +224,7 @@ actions:
       \ save.  \n\n    The slime lasts for 1 hour or until it is burned away with\
       \ fire. If the slime is set on fire, it burns away after 1 round. Any creature\
       \ that starts its turn in the burning slime takes 22 (4d10) fire damage.  \n\
-      - **Sticky Slime.** Juiblex slimes a square area of ground it can see within\
+      - Sticky Slime. Juiblex slimes a square area of ground it can see within\
       \ the lair. The area can be up to 10 feet on a side. When the slime appears,\
       \ each creature in that area must succeed on a DC 21 Strength saving throw or\
       \ become [restrained](/compendium/rules/conditions.md#Restrained). When a creature\
@@ -230,28 +240,18 @@ actions:
     "name": ""
 "regional_effects":
   - "desc": "The region containing Juiblex's lair is warped by its magic, creating\
-      \ one or more of the following effects:\n\n- **Acidic Water.** Small bodies\
-      \ of water, such as ponds or wells, within 1 mile of the lair turn highly acidic,\
-      \ corroding any object that touches them.  \n- **Corrupted Nature.** Within\
-      \ 6 miles of the lair, all Wisdom ([Medicine](/compendium/rules/skills.md#Medicine))\
-      \ and Wisdom ([Survival](/compendium/rules/skills.md#Survival)) checks have\
-      \ disadvantage.  \n- **Slime.** Surfaces within 6 miles of the lair are frequently\
-      \ covered by a thin film of slime, which is slick and sticks to anything that\
-      \ touches it.  \n\nIf Juiblex dies, these effects fade over the course of 1d10\
-      \ days."
+      \ one or more of the following effects:"
     "name": ""
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Juiblex can expend a use to take one of the following actions. Juiblex regains\
-  \ all expended uses at the start of each of their turns."
-"legendary_actions":
-  - "desc": "Juiblex makes one Acid Lash attack."
-    "name": "Attack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one creature. *Hit:*\
-      \ 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped\
-      \ off with an action, the target is [poisoned](/compendium/rules/conditions.md#Poisoned),\
-      \ and any creature, other than an Ooze, is [poisoned](/compendium/rules/conditions.md#Poisoned)\
-      \ while within 10 feet of the target."
-    "name": "Corrupting Touch (Costs 2 Actions)"
+  - "desc": "- Acidic Water. Small bodies of water, such as ponds or wells, within\
+      \ 1 mile of the lair turn highly acidic, corroding any object that touches them.\
+      \  \n- Corrupted Nature. Within 6 miles of the lair, all Wisdom ([Medicine](/compendium/rules/skills.md#Medicine))\
+      \ and Wisdom ([Survival](/compendium/rules/skills.md#Survival)) checks have\
+      \ disadvantage.  \n- Slime. Surfaces within 6 miles of the lair are frequently\
+      \ covered by a thin film of slime, which is slick and sticks to anything that\
+      \ touches it.  "
+    "name": ""
+  - "desc": "If Juiblex dies, these effects fade over the course of d10 days."
+    "name": ""
 "source":
   - "MPMM"
   - "MTF"

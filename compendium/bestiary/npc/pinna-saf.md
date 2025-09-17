@@ -139,16 +139,16 @@ actions:
 "traits":
   - "desc": "Pinna is a 3rd-level spellcaster. Her spellcasting ability is Intelligence\
       \ (spell save DC 13, +5 to hit with spell attacks). Pinna has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [minor illusion](/compendium/spells/minor-illusion.md),\
+      \ wizard spells prepared:\n\nCantrips (at will): [minor illusion](/compendium/spells/minor-illusion.md),\
       \ [mage hand](/compendium/spells/mage-hand.md), [dancing lights](/compendium/spells/dancing-lights.md),\
-      \ [fire bolt](/compendium/spells/fire-bolt.md)\n\n**1st level (4 slots):** [color\
+      \ [fire bolt](/compendium/spells/fire-bolt.md)\n\n1st level (4 slots): [color\
       \ spray](/compendium/spells/color-spray.md), [silent image](/compendium/spells/silent-image.md),\
       \ [identify](/compendium/spells/identify.md), [magic missile](/compendium/spells/magic-missile.md)\n\
-      \n**2nd level (2 slots):** [blur](/compendium/spells/blur.md), [web](/compendium/spells/web.md)"
+      \n2nd level (2 slots): [blur](/compendium/spells/blur.md), [web](/compendium/spells/web.md)"
     "name": "Spellcasting"
 "actions":
-  - "desc": "*Melee  or Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 2 (1d4 + 0) piercing damage."
+  - "desc": "Melee  or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 2 (1d4 + 0) piercing damage."
     "name": "Dagger"
 "source":
   - "SaF"

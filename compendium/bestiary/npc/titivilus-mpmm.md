@@ -153,8 +153,7 @@ actions:
 "damage_immunities": "fire, poison"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"senses": "darkvision 120 ft., passive Perception 16"
 "languages": "all, telepathy 120 ft."
 "cr": "16"
 "traits":
@@ -174,7 +173,7 @@ actions:
 "actions":
   - "desc": "Titivilus makes one Silver Sword attack, and he uses Frightful Word."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8\
       \ + 4) force damage, or 9 (1d10 + 4) force damage if used with two hands, plus\
       \ 16 (3d10) necrotic damage. If the target is a creature, its hit point maximum\
       \ is reduced by an amount equal to half the necrotic damage taken."
@@ -200,15 +199,12 @@ actions:
       \ Words for 24 hours."
     "name": "Twisting Words"
   - "desc": "Titivilus casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [alter self](/compendium/spells/alter-self.md), [major image](/compendium/spells/major-image.md),\
+      \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt\
+      \ will: [alter self](/compendium/spells/alter-self.md), [major image](/compendium/spells/major-image.md),\
       \ [nondetection](/compendium/spells/nondetection.md), [sending](/compendium/spells/sending.md),\
-      \ [suggestion](/compendium/spells/suggestion.md)\n\n**3/day each:** [mislead](/compendium/spells/mislead.md),\
+      \ [suggestion](/compendium/spells/suggestion.md)\n\n3/day each: [mislead](/compendium/spells/mislead.md),\
       \ [modify memory](/compendium/spells/modify-memory.md)"
     "name": "Spellcasting"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Titivilus can expend a use to take one of the following actions. Titivilus\
-  \ regains all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Titivilus uses Twisting Words. Alternatively, he targets one creature\
       \ [charmed](/compendium/rules/conditions.md#Charmed) by him that is within 60\

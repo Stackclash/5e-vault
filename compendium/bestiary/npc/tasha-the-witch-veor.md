@@ -157,8 +157,8 @@ actions:
 "actions":
   - "desc": "Tasha makes two Caustic Blast attacks and uses Psychic Whip once."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* +14 to hit, reach 5 ft. or range 120\
-      \ ft., one target. *Hit:* 21 (6d4 + 6) acid damage."
+  - "desc": "Melee  or Ranged Spell Attack: +14 to hit, reach 5 ft. or range 120\
+      \ ft., one target. Hit: 21 (6d4 + 6) acid damage."
     "name": "Caustic Blast"
   - "desc": "Tasha psychically lashes out at one creature she can see within 90 feet\
       \ of herself. The target must make a DC 20 Intelligence saving throw. On a failed\
@@ -167,13 +167,13 @@ actions:
       \ target takes half as much damage only."
     "name": "Psychic Whip"
   - "desc": "Tasha casts one of the following spells, using Intelligence as the spellcasting\
-      \ ability (spell save DC 22, +14 to hit with spell attacks):\n\n**At will:**\
+      \ ability (spell save DC 22, +14 to hit with spell attacks):\n\nAt will:\
       \ [Detect Magic](/compendium/spells/detect-magic.md), [Disguise Self](/compendium/spells/disguise-self.md),\
       \ [Dispel Magic](/compendium/spells/dispel-magic.md), [Light](/compendium/spells/light.md),\
       \ [Mage Hand](/compendium/spells/mage-hand.md), [Message](/compendium/spells/message.md),\
       \ [Prestidigitation](/compendium/spells/prestidigitation.md), [Tasha's Hideous\
-      \ Laughter](/compendium/spells/tashas-hideous-laughter.md)\n\n**2/day:** [Polymorph](/compendium/spells/polymorph.md)\n\
-      \n**1/day each:** [Maze](/compendium/spells/maze.md), [Telekinesis](/compendium/spells/telekinesis.md)"
+      \ Laughter](/compendium/spells/tashas-hideous-laughter.md)\n\n2/day: [Polymorph](/compendium/spells/polymorph.md)\n\
+      \n1/day each: [Maze](/compendium/spells/maze.md), [Telekinesis](/compendium/spells/telekinesis.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "For 1 minute, Tasha gains a flying speed of 30 feet, is immune to poison\

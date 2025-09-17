@@ -153,8 +153,7 @@ actions:
     "desc": "+4"
 "damage_resistances": "psychic"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [petrified](/compendium/rules/conditions.md#Petrified)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Deep Speech, Primordial"
 "cr": "6"
 "traits":
@@ -173,10 +172,10 @@ actions:
 "actions":
   - "desc": "Vastikan makes four longbow attacks."
     "name": "Multiattack"
-  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:*\
+  - "desc": "Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit:\
       \ 8 (1d8 + 4) piercing damage."
     "name": "Longbow"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
       \ + 4) piercing damage."
     "name": "Shortsword"
 "source":

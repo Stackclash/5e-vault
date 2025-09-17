@@ -165,8 +165,7 @@ actions:
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [paralyzed](/compendium/rules/conditions.md#Paralyzed),\
   \ [poisoned](/compendium/rules/conditions.md#Poisoned), [stunned](/compendium/rules/conditions.md#Stunned)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 25"
+"senses": "truesight 120 ft., passive Perception 25"
 "languages": "Common, Draconic, Elvish, Infernal"
 "cr": "26"
 "traits":
@@ -176,7 +175,7 @@ actions:
       \ other than Vecna, Afterthought is a [+2 Dagger](/compendium/items/2-weapon.md)."
     "name": "Special Equipment"
   - "desc": "If Vecna is slain, his soul refuses to accept its fate and lives on as\
-      \ a disembodied spirit that fashions a new body for itself after 1d100 years.\
+      \ a disembodied spirit that fashions a new body for itself after d100 years.\
       \ Vecna's new body appears within 100 miles of where he was slain. When the\
       \ new body is complete, Vecna regains all his hit points and becomes active\
       \ again."
@@ -185,7 +184,7 @@ actions:
   - "desc": "Vecna uses Flight of the Damned (if available), Rotten Fate, or Spellcasting.\
       \ He then makes two attacks with Afterthought."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 7\
+  - "desc": "Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 7\
       \ (1d4 + 5) piercing damage plus 9 (2d8) necrotic damage. If the target is a\
       \ creature, it is afflicted by entropic magic, taking 9 (2d8) necrotic damage\
       \ at the start of each of its turns. Immediately after taking this damage on\
@@ -211,12 +210,12 @@ actions:
     "name": "Rotten Fate"
   - "desc": "Vecna casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 22):\n\n\
-      **At will:** [Animate Dead](/compendium/spells/animate-dead.md) (as an action),\
+      At will: [Animate Dead](/compendium/spells/animate-dead.md) (as an action),\
       \ [Detect Magic](/compendium/spells/detect-magic.md), [Dispel Magic](/compendium/spells/dispel-magic.md),\
       \ [Fly](/compendium/spells/fly.md), [Lightning Bolt](/compendium/spells/lightning-bolt.md),\
       \ [Mage Hand](/compendium/spells/mage-hand.md), [Prestidigitation](/compendium/spells/prestidigitation.md)\n\
-      \n**2/day each:** [Dimension Door](/compendium/spells/dimension-door.md), [Invisibility](/compendium/spells/invisibility.md),\
-      \ [Scrying](/compendium/spells/scrying.md) (as an action)\n\n**1/day each:**\
+      \n2/day each: [Dimension Door](/compendium/spells/dimension-door.md), [Invisibility](/compendium/spells/invisibility.md),\
+      \ [Scrying](/compendium/spells/scrying.md) (as an action)\n\n1/day each:\
       \ [Dominate Monster](/compendium/spells/dominate-monster.md), [Globe of Invulnerability](/compendium/spells/globe-of-invulnerability.md),\
       \ [Plane Shift](/compendium/spells/plane-shift.md) (self only)"
     "name": "Spellcasting"
@@ -227,6 +226,8 @@ actions:
       \ damage. If at least one creature takes this damage, Vecna regains 80 hit points."
     "name": "Vile Teleport"
 "reactions":
+  - "desc": "Vecna can take up to three reactions per round but only one per turn."
+    "name": ""
   - "desc": "Vecna utters a dread word to interrupt a creature he can see that is\
       \ casting a spell. If the spell is 4th level or lower, it fails and has no effect.\
       \ If the spell is 5th level or higher, Vecna makes an Intelligence check (DC\

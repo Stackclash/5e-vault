@@ -155,11 +155,11 @@ actions:
 "actions":
   - "desc": "Glaive makes two Spiked Glaive attacks and two Serrated Bolt attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 10\
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10\
       \ (1d10 + 5) piercing or slashing damage, or 14 (1d10 + 9) piercing or slashing\
       \ damage if Glaive is in overdrive."
     "name": "Spiked Glaive"
-  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 60 ft., one target. *Hit:* 13\
+  - "desc": "Ranged Weapon Attack: +7 to hit, range 60 ft., one target. Hit: 13\
       \ (3d6 + 3) piercing damage. If Glaive has advantage on the attack roll, the\
       \ serrated bolt lodges in the target, and the target's speed is reduced by 10\
       \ feet until the serrated bolt is removed. A target's speed can be reduced by\

@@ -146,8 +146,7 @@ actions:
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 21"
+"senses": "truesight 120 ft., passive Perception 21"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "24"
 "traits":
@@ -170,7 +169,7 @@ actions:
 "actions":
   - "desc": "Miska makes one Lupine Bite attack and two Trident of Chaos attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 17\
+  - "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 17\
       \ (2d10 + 6) piercing damage plus 27 (6d8) poison damage. If the target is a\
       \ creature, it must succeed on a DC 21 Constitution saving throw or have the\
       \ [poisoned](/compendium/rules/conditions.md#Poisoned) condition for 1 minute.\
@@ -180,14 +179,14 @@ actions:
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Lupine Bite"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 13\
+  - "desc": "Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 13\
       \ (2d6 + 6) piercing damage plus 9 (2d8) force damage."
     "name": "Trident of Chaos"
   - "desc": "Miska casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [Disguise Self](/compendium/spells/disguise-self.md), [Invisibility](/compendium/spells/invisibility.md),\
+      \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt\
+      \ will: [Disguise Self](/compendium/spells/disguise-self.md), [Invisibility](/compendium/spells/invisibility.md),\
       \ [Mage Hand](/compendium/spells/mage-hand.md), [Minor Illusion](/compendium/spells/minor-illusion.md),\
-      \ [Web](/compendium/spells/web.md)\n\n**2/day each:** [Dominate Monster](/compendium/spells/dominate-monster.md),\
+      \ [Web](/compendium/spells/web.md)\n\n2/day each: [Dominate Monster](/compendium/spells/dominate-monster.md),\
       \ [Mass Suggestion](/compendium/spells/mass-suggestion.md), [Mirror Image](/compendium/spells/mirror-image.md),\
       \ [Telekinesis](/compendium/spells/telekinesis.md), [Teleport](/compendium/spells/teleport.md)"
     "name": "Spellcasting"
@@ -196,9 +195,6 @@ actions:
       \ and [frightened](/compendium/rules/conditions.md#Frightened) conditions on\
       \ himself and on any of his allies within 120 feet of himself."
     "name": "Demand Loyalty"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Miska can expend a use to take one of the following actions. Miska regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Miska utters a bloodthirsty howl at one creature within 120 feet of himself\
       \ that isn't a Fiend. The target must succeed on a DC 20 Wisdom saving throw\

@@ -139,15 +139,15 @@ actions:
 "actions":
   - "desc": "Jerot makes three Arcane Burst attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* +7 to hit, reach 5 ft. or range 120\
-      \ ft., one target. *Hit:* 25 (4d10 + 3) necrotic damage."
+  - "desc": "Melee  or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 120\
+      \ ft., one target. Hit: 25 (4d10 + 3) necrotic damage."
     "name": "Arcane Burst"
   - "desc": "Jerot casts one of the following spells, using Intelligence as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** [dancing lights](/compendium/spells/dancing-lights.md),\
+      \ ability (spell save DC 15):\n\nAt will: [dancing lights](/compendium/spells/dancing-lights.md),\
       \ [mage hand](/compendium/spells/mage-hand.md), [prestidigitation](/compendium/spells/prestidigitation.md)\n\
-      \n**2/day each:** [bestow curse](/compendium/spells/bestow-curse.md), [dimension\
+      \n2/day each: [bestow curse](/compendium/spells/bestow-curse.md), [dimension\
       \ door](/compendium/spells/dimension-door.md), [mage armor](/compendium/spells/mage-armor.md),\
-      \ [web](/compendium/spells/web.md)\n\n**1/day each:** [circle of death](/compendium/spells/circle-of-death.md)"
+      \ [web](/compendium/spells/web.md)\n\n1/day each: [circle of death](/compendium/spells/circle-of-death.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Jerot magically summons five [skeletons](/compendium/bestiary/undead/skeleton.md)\

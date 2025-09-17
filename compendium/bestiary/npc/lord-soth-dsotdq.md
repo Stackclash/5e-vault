@@ -135,8 +135,7 @@ actions:
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 13"
+"senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Common, Infernal, Solamnic"
 "cr": "19"
 "traits":
@@ -154,7 +153,7 @@ actions:
 "actions":
   - "desc": "Soth makes three Forsaken Brand attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 10\
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 10\
       \ (1d8 + 6) bludgeoning damage plus 18 (4d8) necrotic damage, and if the target\
       \ is a creature, it can't regain hit points until the start of Soth's next turn."
     "name": "Forsaken Brand"
@@ -175,15 +174,12 @@ actions:
       \ one. If this damage reduces the target to 0 hit points, the target dies."
     "name": "Word of Death (1/Day)"
   - "desc": "Soth casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 19):\n\n**At\
-      \ will:** [command](/compendium/spells/command.md) (cast at 3rd level)\n\n**2/day\
-      \ each:** [dispel magic](/compendium/spells/dispel-magic.md), [hold person](/compendium/spells/hold-person.md)\
-      \ (cast at 3rd level)\n\n**1/day:** [banishment](/compendium/spells/banishment.md)\
+      \ and using Charisma as the spellcasting ability (spell save DC 19):\n\nAt\
+      \ will: [command](/compendium/spells/command.md) (cast at 3rd level)\n\n2/day\
+      \ each: [dispel magic](/compendium/spells/dispel-magic.md), [hold person](/compendium/spells/hold-person.md)\
+      \ (cast at 3rd level)\n\n1/day: [banishment](/compendium/spells/banishment.md)\
       \ (cast at 6th level)"
     "name": "Spellcasting"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Lord can expend a use to take one of the following actions. Lord regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Soth moves up to his speed or commands a mount he is riding to move up\
       \ to its speed. The movement from this action doesn't provoke opportunity attacks.\

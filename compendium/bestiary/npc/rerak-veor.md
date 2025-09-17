@@ -134,8 +134,7 @@ actions:
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [paralyzed](/compendium/rules/conditions.md#Paralyzed),\
   \ [poisoned](/compendium/rules/conditions.md#Poisoned), [stunned](/compendium/rules/conditions.md#Stunned)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 60 ft., passive Perception\
-  \ 14"
+"senses": "truesight 60 ft., passive Perception 14"
 "languages": "Abyssal, Common, Draconic, Dwarvish, Elvish, Giant, Infernal, Primordial,\
   \ Undercommon"
 "cr": "21"
@@ -147,7 +146,7 @@ actions:
 "actions":
   - "desc": "Rerak makes two Death Rend attacks and uses Bloodcurdling Lament if available."
     "name": "Multiattack"
-  - "desc": "*Melee Spell Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 23\
+  - "desc": "Melee Spell Attack: +14 to hit, reach 5 ft., one target. Hit: 23\
       \ (3d10 + 7) necrotic damage."
     "name": "Death Rend"
   - "desc": "Rerak emits a hideous shriek charged with malignant energy. Each creature\
@@ -160,10 +159,10 @@ actions:
     "name": "Bloodcurdling Lament (Recharge 5-6)"
   - "desc": "Rerak casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 22):\n\n\
-      **At will:** [Detect Magic](/compendium/spells/detect-magic.md), [Fly](/compendium/spells/fly.md),\
+      At will: [Detect Magic](/compendium/spells/detect-magic.md), [Fly](/compendium/spells/fly.md),\
       \ [Mage Hand](/compendium/spells/mage-hand.md), [Prestidigitation](/compendium/spells/prestidigitation.md)\n\
-      \n**3/day each:** [Dispel Magic](/compendium/spells/dispel-magic.md), [Invisibility](/compendium/spells/invisibility.md)\
-      \ (self only)\n\n**1/day each:** [Globe of Invulnerability](/compendium/spells/globe-of-invulnerability.md),\
+      \n3/day each: [Dispel Magic](/compendium/spells/dispel-magic.md), [Invisibility](/compendium/spells/invisibility.md)\
+      \ (self only)\n\n1/day each: [Globe of Invulnerability](/compendium/spells/globe-of-invulnerability.md),\
       \ [Hold Monster](/compendium/spells/hold-monster.md)"
     "name": "Spellcasting"
 "bonus_actions":
@@ -180,9 +179,6 @@ actions:
       \ at which point the soul's body re-forms in an unoccupied space nearest to\
       \ the gem and in the same state as it was when its soul was trapped."
     "name": "Soul Siphon"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Rerak can expend a use to take one of the following actions. Rerak regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Rerak, along with anything it is wearing or carrying, teleports to an\
       \ unoccupied space it can see within 60 feet of itself. It then makes one Death\

@@ -141,8 +141,7 @@ actions:
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "15"
 "traits":
@@ -155,7 +154,7 @@ actions:
   - "desc": "Rezran makes two Fiendish Claw attacks, or it makes one Fiendish Claw\
       \ attack and uses Spellcasting."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
       \ (2d8 + 3) force damage. If the target is a creature, it must succeed on a\
       \ DC 16 Constitution saving throw or take 16 (3d10) poison damage and become\
       \ [poisoned](/compendium/rules/conditions.md#Poisoned) for 1 minute. The [poisoned](/compendium/rules/conditions.md#Poisoned)\
@@ -163,11 +162,11 @@ actions:
       \ the effect on itself on a success."
     "name": "Fiendish Claw"
   - "desc": "Rezran casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 17):\n\n**At\
-      \ will:** [alter self](/compendium/spells/alter-self.md), [major image](/compendium/spells/major-image.md)\n\
-      \n**3/day each:** [charm person](/compendium/spells/charm-person.md), [detect\
+      \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt\
+      \ will: [alter self](/compendium/spells/alter-self.md), [major image](/compendium/spells/major-image.md)\n\
+      \n3/day each: [charm person](/compendium/spells/charm-person.md), [detect\
       \ thoughts](/compendium/spells/detect-thoughts.md), [fear](/compendium/spells/fear.md)\n\
-      \n**1/day each:** [confusion](/compendium/spells/confusion.md), [dominate person](/compendium/spells/dominate-person.md),\
+      \n1/day each: [confusion](/compendium/spells/confusion.md), [dominate person](/compendium/spells/dominate-person.md),\
       \ [mass suggestion](/compendium/spells/mass-suggestion.md)"
     "name": "Spellcasting"
 "source":

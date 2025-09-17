@@ -135,15 +135,14 @@ actions:
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 19"
+"senses": "darkvision 120 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "10"
 "traits":
   - "desc": "Inda's spellcasting ability is Charisma (spell save DC 17). Inda can\
       \ innately cast the following spells, requiring only verbal components:\n\n\
-      **At will:** [detect evil and good](/compendium/spells/detect-evil-and-good.md)\n\
-      \n**1/day each:** [commune](/compendium/spells/commune.md), [raise dead](/compendium/spells/raise-dead.md)"
+      At will: [detect evil and good](/compendium/spells/detect-evil-and-good.md)\n\
+      \n1/day each: [commune](/compendium/spells/commune.md), [raise dead](/compendium/spells/raise-dead.md)"
     "name": "Innate Spellcasting"
   - "desc": "Inda's weapon attacks are magical. When Inda hits with any weapon, the\
       \ weapon deals an extra 4d8 radiant damage (included in the attack)."
@@ -154,7 +153,7 @@ actions:
 "actions":
   - "desc": "Inda makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6\
       \ + 4) bludgeoning damage plus 18 (4d8) radiant damage."
     "name": "Mace"
   - "desc": "Inda touches another creature. The target magically regains 20 (4d8 +\

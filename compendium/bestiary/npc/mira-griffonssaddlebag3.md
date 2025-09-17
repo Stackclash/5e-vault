@@ -135,8 +135,7 @@ actions:
   - "name": "[Perception](/compendium/rules/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "poison"
-"senses": "[blindsight](/compendium/rules/senses.md#Blindsight) 10 ft. (blind beyond\
-  \ this radius), passive Perception 14"
+"senses": "blindsight 10 ft. (blind beyond this radius), passive Perception 14"
 "languages": "Common, Undercommon"
 "cr": "6"
 "traits":
@@ -148,10 +147,10 @@ actions:
   - "desc": "Mira makes three melee attacks: two with her pike and one with her snake\
       \ hair."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d10\
       \ + 3) piercing damage."
     "name": "Pike"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 4\
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 4\
       \ (1d4 + 2) piercing damage plus 14 (4d6) poison damage."
     "name": "Snake Hair"
 "reactions":

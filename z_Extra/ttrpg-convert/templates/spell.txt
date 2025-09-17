@@ -13,39 +13,10 @@ classes: {#if resource.tags.isEmpty()}[]{/if}
 {/if}
 school: {resource.school}
 level: {#if resource.level.startsWith('cantrip')}0{#else}{resource.level.replaceAll('[^0-9]', '')}{/if}
-{#if resource.damage}
-damage:
-  base: {resource.damage.baseDamage}
-  scaling:
-    damage: {resource.damage.scalingDamage}
-    level: {resource.damage.scalingLevel}
-  types: {#if resource.damageType.isEmpty()}[]{/if}
-  {#for type in resource.damageType}
-  - {type}
-  {/for}
-{/if}
-{#if resource.savingThrows.size > 0}
-saving_throw:
-  skills:
-  {#for save in resource.savingThrows}
-  - {save}
-  {/for}
-  succeeds: {resource.savingThrowSucceeds}
-{/if}
 ritual: {resource.ritual}
 time: {resource.time}
 duration: {resource.duration}
 range: {resource.range}
-somatic: {resource.somatic}
-verbal: {resource.verbal}
-{#if resource.material}
-material: {resource.material}
-{/if}
-{#if resource.areaOfEffect}
-area:
-  shape: {resource.areaOfEffect.shape}
-  size: {resource.areaOfEffect.size}
-{/if}
 aliases: 
 - {resource.name}
 ---
@@ -73,9 +44,6 @@ aliases:
 
 {/if}{#if resource.classes }
 **Classes**: {resource.classes}
-
-{/if}{#if resource.feats}
-**Feats**: {resource.feats}
 
 {/if}
 *Source: {resource.source}*

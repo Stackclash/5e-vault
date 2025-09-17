@@ -143,17 +143,16 @@ actions:
 "damage_immunities": "force, radiant"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [prone](/compendium/rules/conditions.md#Prone)"
-"senses": "[blindsight](/compendium/rules/senses.md#Blindsight) 120 ft., [darkvision](/compendium/rules/senses.md#Darkvision)\
-  \ 300 ft., passive Perception 29"
+"senses": "blindsight 120 ft., darkvision 300 ft., passive Perception 29"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "25"
 "traits":
   - "desc": "Iemranten's innate spellcasting ability is Charisma (spell save DC 22,\
       \ +14 to hit with spell attacks). She can innately cast the following spells,\
-      \ requiring no components:\n\n**At will:** [blur](/compendium/spells/blur.md),\
-      \ [dimension door](/compendium/spells/dimension-door.md)\n\n**3/day each:**\
+      \ requiring no components:\n\nAt will: [blur](/compendium/spells/blur.md),\
+      \ [dimension door](/compendium/spells/dimension-door.md)\n\n3/day each:\
       \ [banishment](/compendium/spells/banishment.md) (as a 5th-level spell), [hold\
-      \ monster](/compendium/spells/hold-monster.md)\n\n**1/day each:** [teleport](/compendium/spells/teleport.md),\
+      \ monster](/compendium/spells/hold-monster.md)\n\n1/day each: [teleport](/compendium/spells/teleport.md),\
       \ [plane shift](/compendium/spells/plane-shift.md)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "When Iemranten fails a saving throw, she can choose to succeed instead."
@@ -167,13 +166,13 @@ actions:
   - "desc": "Iemranten can use her Frightful Presence. She then makes three attacks:\
       \ one with her bite and two with her claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 19\
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 19\
       \ (2d10 + 8) piercing damage plus 18 (4d8) force damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 15\
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 15\
       \ (2d6 + 8) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 17\
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 17\
       \ (2d8 + 8) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the Iemranten's choice that is within 120 feet of her\
@@ -194,9 +193,6 @@ actions:
       \ On a successful save, the creature takes half as much damage and suffers no\
       \ other effects."
     "name": "Cosmic Breath (Recharge 5-6)"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Iemranten can expend a use to take one of the following actions. Iemranten\
-  \ regains all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Iemranten makes a tail attack."
     "name": "Tail Attack"

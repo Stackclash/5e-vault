@@ -142,8 +142,7 @@ actions:
     "desc": "+10"
   - "name": "[Stealth](/compendium/rules/skills.md#Stealth)"
     "desc": "+10"
-"senses": "[blindsight](/compendium/rules/senses.md#Blindsight) 10 ft., passive Perception\
-  \ 15"
+"senses": "blindsight 10 ft., passive Perception 15"
 "languages": "Common, Thieves' cant"
 "cr": "7"
 "traits":
@@ -177,10 +176,10 @@ actions:
 "actions":
   - "desc": "Kaybella makes two attacks with her [pick and pocket](/compendium/items/pick-and-pocket-griffonssaddlebag2.md)."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +8 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 7 (1d4+ 5) piercing damage."
+  - "desc": "Melee  or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 7 (1d4+ 5) piercing damage."
     "name": "Pick and Pocket"
-  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 80/320 ft., one target. *Hit:*\
+  - "desc": "Ranged Weapon Attack: +7 to hit, range 80/320 ft., one target. Hit:\
       \ 8 (1d8 + 4) piercing damage."
     "name": "Light Crossbow"
 "reactions":

@@ -141,10 +141,10 @@ actions:
 "actions":
   - "desc": "Faldric makes two attacks."
     "name": "Multiattack"
-  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:*\
+  - "desc": "Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit:\
       \ 7 (1d8 + 3) piercing damage."
     "name": "Longbow"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
       \ + 3) piercing damage."
     "name": "Shortsword"
 "reactions":

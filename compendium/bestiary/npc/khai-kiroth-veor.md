@@ -139,8 +139,7 @@ actions:
 "damage_immunities": "fire, poison"
 "condition_immunities": "[frightened](/compendium/rules/conditions.md#Frightened),\
   \ [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 18"
+"senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "19"
 "traits":
@@ -153,10 +152,10 @@ actions:
   - "desc": "Khai makes one Bite attack and one Claw attack, and it can use Frightful\
       \ Presence or Incite Fanaticism."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 22\
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 22\
       \ (3d10 + 6) piercing damage plus 38 (7d10) fire damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 17\
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 17\
       \ (2d10 + 6) force damage plus 11 (2d10) fire damage."
     "name": "Claw"
   - "desc": "Each creature of Khai's choice that is within 120 feet and aware of Khai\

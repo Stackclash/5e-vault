@@ -136,26 +136,25 @@ actions:
 "damage_vulnerabilities": "psychic"
 "damage_resistances": "fire"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Celestial, Common, Infernal"
 "cr": "15"
 "traits":
   - "desc": "The Red Queen is a 7th-level spellcaster. Her spellcasting ability is\
       \ Intelligence (spell save DC 17, +9 to hit with spell attacks). She has the\
-      \ following wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](/compendium/spells/fire-bolt.md),\
+      \ following wizard spells prepared:\n\nCantrips (at will): [fire bolt](/compendium/spells/fire-bolt.md),\
       \ [message](/compendium/spells/message.md), [prestidigitation](/compendium/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [burning hands](/compendium/spells/burning-hands.md),\
+      \n1st level (4 slots): [burning hands](/compendium/spells/burning-hands.md),\
       \ [magic missile](/compendium/spells/magic-missile.md), [shield](/compendium/spells/shield.md),\
-      \ [thunderwave](/compendium/spells/thunderwave.md)\n\n**2nd level (3 slots):**\
+      \ [thunderwave](/compendium/spells/thunderwave.md)\n\n2nd level (3 slots):\
       \ [hold person](/compendium/spells/hold-person.md), [misty step](/compendium/spells/misty-step.md),\
-      \ [shatter](/compendium/spells/shatter.md)\n\n**3rd level (3 slots):** [counterspell](/compendium/spells/counterspell.md),\
-      \ [fireball](/compendium/spells/fireball.md)\n\n**4th level (1 slots):** [fire\
+      \ [shatter](/compendium/spells/shatter.md)\n\n3rd level (3 slots): [counterspell](/compendium/spells/counterspell.md),\
+      \ [fireball](/compendium/spells/fireball.md)\n\n4th level (1 slots): [fire\
       \ shield](/compendium/spells/fire-shield.md)"
     "name": "Spellcasting"
   - "desc": "The Red Queen's innate spellcasting ability is Charisma. She can innately\
       \ cast the following spells (spell save DC 16), requiring no material components:\n\
-      \n**At will:** [thaumaturgy](/compendium/spells/thaumaturgy.md)\n\n**1/day each:**\
+      \nAt will: [thaumaturgy](/compendium/spells/thaumaturgy.md)\n\n1/day each:\
       \ [hellish rebuke](/compendium/spells/hellish-rebuke.md) (as a 2nd-level spell),\
       \ [darkness](/compendium/spells/darkness.md)"
     "name": "Innate Spellcasting"
@@ -179,8 +178,8 @@ actions:
   - "desc": "The Red Queen can use her Pillar of Defense if she hasn't moved yet this\
       \ turn. She then makes four glaive attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (1d10 + 6) slashing damage plus 3 (1d6) fire damage."
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 11\
+      \ (1d10 + 6) slashing damage plus 3 (d6) fire damage."
     "name": "Red Queen's Burden (Glaive)"
   - "desc": "The Red Queen's speed becomes 0 until the start of her next turn. For\
       \ the duration, she gains the following benefits: y She gains a +2 bonus to\

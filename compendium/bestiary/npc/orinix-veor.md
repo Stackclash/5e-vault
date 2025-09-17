@@ -133,8 +133,7 @@ actions:
   - "name": "[Stealth](/compendium/rules/skills.md#Stealth)"
     "desc": "+11"
 "damage_immunities": "cold"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 240 ft., passive Perception\
-  \ 21"
+"senses": "darkvision 240 ft., passive Perception 21"
 "languages": "Draconic"
 "cr": "13"
 "traits":
@@ -148,13 +147,13 @@ actions:
 "actions":
   - "desc": "Orinix makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) piercing damage plus 3 (1d6) cold damage."
+  - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 13\
+      \ (2d6 + 6) piercing damage plus 3 (d6) cold damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13\
+  - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13\
       \ (2d6 + 6) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 13\
+  - "desc": "Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 13\
       \ (2d6 + 6) bludgeoning damage."
     "name": "Tail"
   - "desc": "Orinix exhales a blast of frost in a 60-foot cone. Each creature in the\
@@ -169,9 +168,6 @@ actions:
       \ on a spell). While partially incorporeal, Orinix has resistance to bludgeoning,\
       \ piercing, and slashing damage."
     "name": "Phase (3/Day)"
-"legendary_description": "Legendary Action Uses: 2. Immediately after another creature's\
-  \ turn, Orinix can expend a use to take one of the following actions. Orinix regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Orinix makes one Tail attack."
     "name": "Tail Attack"

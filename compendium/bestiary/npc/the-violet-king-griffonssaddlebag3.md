@@ -137,30 +137,29 @@ actions:
   - "name": "[Performance](/compendium/rules/skills.md#Performance)"
     "desc": "+10"
 "damage_resistances": "fire"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Draconic, Infernal"
 "cr": "12"
 "traits":
   - "desc": "The Violet King is an 11th-level spellcaster. His spellcasting ability\
-      \ is Charisma (spell save DC 18). He knows the following bard spells:\n\n**Cantrips\
-      \ (at will):** [light](/compendium/spells/light.md), [message](/compendium/spells/message.md),\
+      \ is Charisma (spell save DC 18). He knows the following bard spells:\n\nCantrips\
+      \ (at will): [light](/compendium/spells/light.md), [message](/compendium/spells/message.md),\
       \ [prestidigitation](/compendium/spells/prestidigitation.md), [vicious mockery](/compendium/spells/vicious-mockery.md)\n\
-      \n**1st level (4 slots):** [healing word](/compendium/spells/healing-word.md),\
+      \n1st level (4 slots): [healing word](/compendium/spells/healing-word.md),\
       \ [heroism](/compendium/spells/heroism.md), [silent image](/compendium/spells/silent-image.md),\
-      \ [unseen servant](/compendium/spells/unseen-servant.md)\n\n**2nd level (3 slots):**\
+      \ [unseen servant](/compendium/spells/unseen-servant.md)\n\n2nd level (3 slots):\
       \ [heat metal](/compendium/spells/heat-metal.md), [lesser restoration](/compendium/spells/lesser-restoration.md),\
-      \ [spiritual weapon](/compendium/spells/spiritual-weapon.md)\n\n**3rd level\
-      \ (3 slots):** [hypnotic pattern](/compendium/spells/hypnotic-pattern.md), [lightning\
+      \ [spiritual weapon](/compendium/spells/spiritual-weapon.md)\n\n3rd level\
+      \ (3 slots): [hypnotic pattern](/compendium/spells/hypnotic-pattern.md), [lightning\
       \ bolt](/compendium/spells/lightning-bolt.md), [tongues](/compendium/spells/tongues.md)\n\
-      \n**4th level (3 slots):** [dimension door](/compendium/spells/dimension-door.md),\
-      \ [polymorph](/compendium/spells/polymorph.md)\n\n**5th level (2 slots):** [scrying](/compendium/spells/scrying.md),\
-      \ [wall of force](/compendium/spells/wall-of-force.md)\n\n**6th level (1 slots):**\
+      \n4th level (3 slots): [dimension door](/compendium/spells/dimension-door.md),\
+      \ [polymorph](/compendium/spells/polymorph.md)\n\n5th level (2 slots): [scrying](/compendium/spells/scrying.md),\
+      \ [wall of force](/compendium/spells/wall-of-force.md)\n\n6th level (1 slots):\
       \ [disintegrate](/compendium/spells/disintegrate.md)"
     "name": "Spellcasting"
   - "desc": "The Violet King's innate spellcasting ability is Charisma. He can innately\
       \ cast the following spells (spell save DC 18), requiring no material components:\n\
-      \n**At will:** [thaumaturgy](/compendium/spells/thaumaturgy.md)\n\n**1/day each:**\
+      \nAt will: [thaumaturgy](/compendium/spells/thaumaturgy.md)\n\n1/day each:\
       \ [hellish rebuke](/compendium/spells/hellish-rebuke.md) (as a 2nd-level spell),\
       \ [darkness](/compendium/spells/darkness.md)"
     "name": "Innate Spellcasting"
@@ -168,7 +167,7 @@ actions:
     "name": "Battle Decree (5/Day)"
   - "desc": "When the Violet King casts a spell of 1st level or higher that restores\
       \ hit points to a single creature, he can use his reaction to cause a different\
-      \ creature within 10 feet of the original target to regain 4 (1d8) hit points\
+      \ creature within 10 feet of the original target to regain 4 (d8) hit points\
       \ per spell level. When he does so, each creature has advantage on the next\
       \ ability check or saving throw it makes before the end of its next turn."
     "name": "Clemency"
@@ -190,8 +189,8 @@ actions:
 "actions":
   - "desc": "The Violet King makes two rapier attacks and casts a cantrip."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 9\
-      \ (1d8 + 5) piercing damage plus 4 (1d8) fire damage."
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9\
+      \ (1d8 + 5) piercing damage plus 4 (d8) fire damage."
     "name": "Violet King's Promise (Rapier)"
 "reactions":
   - "desc": "When the Violet King or a creature within 5 feet of him would be hit\

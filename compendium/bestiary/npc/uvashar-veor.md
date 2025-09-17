@@ -131,8 +131,7 @@ actions:
     "desc": "+8"
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Infernal"
 "cr": "13"
 "traits":
@@ -143,7 +142,7 @@ actions:
 "actions":
   - "desc": "Uvashar makes two claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d6\
       \ + 2) slashing damage, and the target is cursed if it is a creature. The magical\
       \ curse takes effect whenever the target takes a short or long rest, filling\
       \ the target's thoughts with horrible images and dreams. The cursed target gains\

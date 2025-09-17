@@ -152,12 +152,11 @@ actions:
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [paralyzed](/compendium/rules/conditions.md#Paralyzed),\
   \ [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 21"
+"senses": "darkvision 120 ft., passive Perception 21"
 "languages": "Abyssal, Common, Draconic, Infernal"
 "cr": "23"
 "traits":
-  - "desc": "Kas adds 1d10 to his initiative rolls. He has advantage on attack rolls\
+  - "desc": "Kas adds d10 to his initiative rolls. He has advantage on attack rolls\
       \ against any creature that has the [frightened](/compendium/rules/conditions.md#Frightened)\
       \ condition."
     "name": "Eager Betrayer"
@@ -174,7 +173,7 @@ actions:
       \ without needing to make an ability check."
     "name": "Spider Climb"
   - "desc": "Kas doesn't require a coffin, and he drinks blood to sow terror rather\
-      \ than for sustenance. If destroyed, Kas revives in 1d100 nights in an unoccupied\
+      \ than for sustenance. If destroyed, Kas revives in d100 nights in an unoccupied\
       \ space in Tovag, his Domain of Dread. He can be permanently destroyed only\
       \ by having a stake driven through his heart and then being beheaded. The stake\
       \ must be cut from a tree growing in soil from Oerth, Kas's home world."
@@ -187,11 +186,11 @@ actions:
   - "desc": "Kas makes three Vengeful Sword attacks. He can replace one of these attacks\
       \ with a Bite attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 20\
+  - "desc": "Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 20\
       \ (2d8 + 11) slashing damage. The sword scores a critical hit on a roll of 19\
       \ or 20."
     "name": "Vengeful Sword"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one creature. *Hit:*\
+  - "desc": "Melee Weapon Attack: +15 to hit, reach 5 ft., one creature. Hit:\
       \ 11 (1d6 + 8) piercing damage plus 10 (3d6) necrotic damage. The target's hit\
       \ point maximum is reduced by an amount equal to the necrotic damage taken,\
       \ and Kas regains a number of hit points equal to that amount. The reduction\
@@ -218,9 +217,6 @@ actions:
       \ He then makes one Vengeful Sword attack against the attacker if it is within\
       \ his reach. On a hit, the target takes an additional 9 (2d8) slashing damage."
     "name": "Parrying Riposte"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Kas can expend a use to take one of the following actions. Kas regains all\
-  \ expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Kas moves up to his speed without provoking opportunity attacks."
     "name": "Move"

@@ -148,8 +148,7 @@ actions:
   - "charisma": !!int "6"
 "damage_resistances": "psychic"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [petrified](/compendium/rules/conditions.md#Petrified)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 16"
+"senses": "darkvision 60 ft., passive Perception 16"
 "languages": "Deep Speech, Primordial"
 "cr": "9"
 "traits":
@@ -172,10 +171,10 @@ actions:
 "actions":
   - "desc": "Uursovk makes three attacks with bite or three attacks with bone spine."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 10\
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 10\
       \ (1d10 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "*Ranged Weapon Attack:* +6 to hit, range 60/180 ft., one target. *Hit:*\
+  - "desc": "Ranged Weapon Attack: +6 to hit, range 60/180 ft., one target. Hit:\
       \ 11 (2d8 + 2) piercing damage."
     "name": "Bone Spine"
   - "desc": "Uursovk targets two adjacent creatures, who must each make a DC 16 Constitution\

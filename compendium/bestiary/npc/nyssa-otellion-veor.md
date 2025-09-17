@@ -136,8 +136,7 @@ actions:
   \ that aren't silvered"
 "damage_immunities": "fire, lightning, poison"
 "condition_immunities": "[poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "17"
 "traits":
@@ -149,16 +148,16 @@ actions:
 "actions":
   - "desc": "Nyssa makes three Bite or Lightning Strike attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13\
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13\
       \ (2d10 + 2) piercing damage plus 14 (4d6) lightning damage."
     "name": "Bite"
-  - "desc": "*Ranged Spell Attack:* +12 to hit, range 120 ft., one target. *Hit:*\
+  - "desc": "Ranged Spell Attack: +12 to hit, range 120 ft., one target. Hit:\
       \ 36 (8d8) lightning damage."
     "name": "Lightning Strike"
   - "desc": "Nyssa casts one of the following spells, using Intelligence as the spellcasting\
-      \ ability (spell save DC 20):\n\n**At will:** [disguise self](/compendium/spells/disguise-self.md),\
+      \ ability (spell save DC 20):\n\nAt will: [disguise self](/compendium/spells/disguise-self.md),\
       \ [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md)\n\
-      \n**2/day each:** [charm person](/compendium/spells/charm-person.md), [dispel\
+      \n2/day each: [charm person](/compendium/spells/charm-person.md), [dispel\
       \ magic](/compendium/spells/dispel-magic.md), [greater invisibility](/compendium/spells/greater-invisibility.md),\
       \ [wall of force](/compendium/spells/wall-of-force.md)"
     "name": "Spellcasting"

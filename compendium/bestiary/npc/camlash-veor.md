@@ -137,8 +137,7 @@ actions:
   \ attacks"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 13"
+"senses": "truesight 120 ft., passive Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "19"
 "traits":
@@ -161,11 +160,11 @@ actions:
   - "desc": "Camlash makes one Flaming Whip attack and one Lightning Blade attack.\
       \ Camlash can replace one of these attacks with Teleport."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 30 ft., one target. *Hit:* 25\
+  - "desc": "Melee Weapon Attack: +15 to hit, reach 30 ft., one target. Hit: 25\
       \ (5d6 + 8) fire damage, and if the target is a creature, it must succeed on\
       \ a DC 21 Strength saving throw or be pulled up to 25 feet toward Camlash."
     "name": "Flaming Whip"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 21\
+  - "desc": "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 21\
       \ (3d8 + 8) slashing damage plus 13 (3d8) lightning damage."
     "name": "Lightning Blade"
   - "desc": "Camlash magically teleports, along with any equipment she is wearing\

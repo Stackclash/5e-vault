@@ -138,22 +138,22 @@ actions:
 "traits":
   - "desc": "Eldon is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 13, +5 to hit with spell attacks). Eldon has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](/compendium/spells/light.md),\
+      \ cleric spells prepared:\n\nCantrips (at will): [light](/compendium/spells/light.md),\
       \ [sacred flame](/compendium/spells/sacred-flame.md), [thaumaturgy](/compendium/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [cure wounds](/compendium/spells/cure-wounds.md),\
+      \n1st level (4 slots): [cure wounds](/compendium/spells/cure-wounds.md),\
       \ [guiding bolt](/compendium/spells/guiding-bolt.md), [sanctuary](/compendium/spells/sanctuary.md)\n\
-      \n**2nd level (3 slots):** [lesser restoration](/compendium/spells/lesser-restoration.md),\
-      \ [spiritual weapon](/compendium/spells/spiritual-weapon.md)\n\n**3rd level\
-      \ (2 slots):** [dispel magic](/compendium/spells/dispel-magic.md), [spirit guardians](/compendium/spells/spirit-guardians.md)"
+      \n2nd level (3 slots): [lesser restoration](/compendium/spells/lesser-restoration.md),\
+      \ [spiritual weapon](/compendium/spells/spiritual-weapon.md)\n\n3rd level\
+      \ (2 slots): [dispel magic](/compendium/spells/dispel-magic.md), [spirit guardians](/compendium/spells/spirit-guardians.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, Eldon can expend a spell slot to cause its melee weapon\
       \ attacks to magically deal an extra 10 (3d6) radiant damage to a target on\
       \ a hit. This benefit lasts until the end of the turn. If Eldon expends a spell\
-      \ slot of 2nd level or higher, the extra damage increases by 1d6 for each level\
+      \ slot of 2nd level or higher, the extra damage increases by d6 for each level\
       \ above 1st."
     "name": "Divine Eminence"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
+  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (d6)\
       \ bludgeoning damage."
     "name": "Mace"
 "source":

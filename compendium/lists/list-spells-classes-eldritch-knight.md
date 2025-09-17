@@ -1,0 +1,497 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+- spell/list/subclass/eldritch-knight
+aliases: 
+- Spells for Eldritch Knight
+---
+# Spells for Eldritch Knight
+
+## Cantrip
+
+- [Acid Splash](/compendium/spells/acid-splash.md "PHB") at class level 19
+- [Acumen](/compendium/spells/acumen-kpdm.md "KPDM") at class level 19
+- [Ale-dritch Blast](/compendium/spells/ale-dritch-blast-kpdm.md "KPDM") at class level 19
+- [Allure](/compendium/spells/allure-kpdm.md "KPDM") at class level 19
+- [Bewilderment](/compendium/spells/bewilderment-kpdm.md "KPDM") at class level 19
+- [Biting Arrow](/compendium/spells/biting-arrow-kpdm.md "KPDM") at class level 19
+- [Blade Ward](/compendium/spells/blade-ward.md "PHB") at class level 19
+- [Blood Tide](/compendium/spells/blood-tide-kpdm.md "KPDM") at class level 19
+- [Booming Blade](/compendium/spells/booming-blade-tce.md "TCE") at class level 19
+- [Brawn Boost](/compendium/spells/brawn-boost-kpdm.md "KPDM") at class level 19
+- [Brimstone Infusion](/compendium/spells/brimstone-infusion-kpdm.md "KPDM") at class level 19
+- [Caustic Touch](/compendium/spells/caustic-touch-kpdm.md "KPDM") at class level 19
+- [Chill Touch](/compendium/spells/chill-touch.md "PHB") at class level 19
+- [Claws of Darkness](/compendium/spells/claws-of-darkness-kpdm.md "KPDM") at class level 19
+- [Clockwork Bolt](/compendium/spells/clockwork-bolt-kpdm.md "KPDM") at class level 19
+- [Control Flames](/compendium/spells/control-flames-xge.md "XGE") at class level 19
+- [Create Bonfire](/compendium/spells/create-bonfire-xge.md "XGE") at class level 19
+- [Crushing Curse](/compendium/spells/crushing-curse-kpdm.md "KPDM") at class level 19
+- [Dancing Lights](/compendium/spells/dancing-lights.md "PHB") at class level 19
+- [Dark Maw](/compendium/spells/dark-maw-kpdm.md "KPDM") at class level 19
+- [Decay](/compendium/spells/decay-kpdm.md "KPDM") at class level 19
+- [Douse Light](/compendium/spells/douse-light-kpdm.md "KPDM") at class level 19
+- [Dragon Roar](/compendium/spells/dragon-roar-kpdm.md "KPDM") at class level 19
+- [Encrypt / Decrypt](/compendium/spells/encrypt-decrypt-kpdm.md "KPDM") at class level 19
+- [Enumerate](/compendium/spells/enumerate-kpdm.md "KPDM") at class level 19
+- [Exceptional Wit](/compendium/spells/exceptional-wit-kpdm.md "KPDM") at class level 19
+- [Fire Bolt](/compendium/spells/fire-bolt.md "PHB") at class level 19
+- [Fortitude](/compendium/spells/fortitude-kpdm.md "KPDM") at class level 19
+- [Frailty](/compendium/spells/frailty-kpdm.md "KPDM") at class level 19
+- [Friends](/compendium/spells/friends.md "PHB") at class level 19
+- [Frostbite](/compendium/spells/frostbite-xge.md "XGE") at class level 19
+- [Green-Flame Blade](/compendium/spells/green-flame-blade-tce.md "TCE") at class level 19
+- [Gust](/compendium/spells/gust-xge.md "XGE") at class level 19
+- [Hamstring](/compendium/spells/hamstring-kpdm.md "KPDM") at class level 19
+- [Hand of Doom](/compendium/spells/hand-of-doom-kpdm.md "KPDM") at class level 19
+- [Hoarfrost](/compendium/spells/hoarfrost-kpdm.md "KPDM") at class level 19
+- [Hobble](/compendium/spells/hobble-kpdm.md "KPDM") at class level 19
+- [Impotence](/compendium/spells/impotence-kpdm.md "KPDM") at class level 19
+- [Infestation](/compendium/spells/infestation-xge.md "XGE") at class level 19
+- [Light](/compendium/spells/light.md "PHB") at class level 19
+- [Lightning Lure](/compendium/spells/lightning-lure-tce.md "TCE") at class level 19
+- [Mage Hand](/compendium/spells/mage-hand.md "PHB") at class level 19
+- [Mending](/compendium/spells/mending.md "PHB") at class level 19
+- [Message](/compendium/spells/message.md "PHB") at class level 19
+- [Mind Sliver](/compendium/spells/mind-sliver-tce.md "TCE") at class level 19
+- [Minor Illusion](/compendium/spells/minor-illusion.md "PHB") at class level 19
+- [Misstep](/compendium/spells/misstep-kpdm.md "KPDM") at class level 19
+- [Mold Earth](/compendium/spells/mold-earth-xge.md "XGE") at class level 19
+- [Nimbleness](/compendium/spells/nimbleness-kpdm.md "KPDM") at class level 19
+- [Obtuse](/compendium/spells/obtuse-kpdm.md "KPDM") at class level 19
+- [Poison Spray](/compendium/spells/poison-spray.md "PHB") at class level 19
+- [Prestidigitation](/compendium/spells/prestidigitation.md "PHB") at class level 19
+- [Pummelstone](/compendium/spells/pummelstone-kpdm.md "KPDM") at class level 19
+- [Ray of Frost](/compendium/spells/ray-of-frost.md "PHB") at class level 19
+- [Scribe](/compendium/spells/scribe-kpdm.md "KPDM") at class level 19
+- [Shadow Bite](/compendium/spells/shadow-bite-kpdm.md "KPDM") at class level 19
+- [Shadow Blindness](/compendium/spells/shadow-blindness-kpdm.md "KPDM") at class level 19
+- [Shape Water](/compendium/spells/shape-water-xge.md "XGE") at class level 19
+- [Shiver](/compendium/spells/shiver-kpdm.md "KPDM") at class level 19
+- [Shocking Grasp](/compendium/spells/shocking-grasp.md "PHB") at class level 19
+- [Sword Burst](/compendium/spells/sword-burst-tce.md "TCE") at class level 19
+- [Thunderclap](/compendium/spells/thunderclap-xge.md "XGE") at class level 19
+- [Toll the Dead](/compendium/spells/toll-the-dead-xge.md "XGE") at class level 19
+- [True Strike](/compendium/spells/true-strike.md "PHB") at class level 19
+- [Uncanny Avoidance](/compendium/spells/uncanny-avoidance-kpdm.md "KPDM") at class level 19
+- [Wind Lash](/compendium/spells/wind-lash-kpdm.md "KPDM") at class level 19
+- [Word of Misfortune](/compendium/spells/word-of-misfortune-kpdm.md "KPDM") at class level 19
+
+## 1st Level
+
+- [Absorb Elements](/compendium/spells/absorb-elements-xge.md "XGE") at class level 19
+- [Adjust Position](/compendium/spells/adjust-position-kpdm.md "KPDM") at class level 19
+- [Agonizing Mark](/compendium/spells/agonizing-mark-kpdm.md "KPDM") at class level 19
+- [Alarm](/compendium/spells/alarm.md "PHB") at class level 19
+- [Alter Arrow's Fortune](/compendium/spells/alter-arrows-fortune-kpdm.md "KPDM") at class level 19
+- [Analyze Device](/compendium/spells/analyze-device-kpdm.md "KPDM") at class level 19
+- [Angelic Guardian](/compendium/spells/angelic-guardian-kpdm.md "KPDM") at class level 19
+- [Anticipate Weakness](/compendium/spells/anticipate-weakness-kpdm.md "KPDM") at class level 19
+- [Auspicious Warning](/compendium/spells/auspicious-warning-kpdm.md "KPDM") at class level 19
+- [Avoid Grievous Injury](/compendium/spells/avoid-grievous-injury-kpdm.md "KPDM") at class level 19
+- [Black Ribbons](/compendium/spells/black-ribbons-kpdm.md "KPDM") at class level 19
+- [Bloodhound](/compendium/spells/bloodhound-kpdm.md "KPDM") at class level 19
+- [Bloody Hands](/compendium/spells/bloody-hands-kpdm.md "KPDM") at class level 19
+- [Bolster Undead](/compendium/spells/bolster-undead-kpdm.md "KPDM") at class level 19
+- [Brimstone](/compendium/spells/brimstone-kpdm.md "KPDM") at class level 19
+- [Broken Charge](/compendium/spells/broken-charge-kpdm.md "KPDM") at class level 19
+- [Burning Hands](/compendium/spells/burning-hands.md "PHB") at class level 19
+- [Candle's Insight](/compendium/spells/candles-insight-kpdm.md "KPDM") at class level 19
+- [Catapult](/compendium/spells/catapult-xge.md "XGE") at class level 19
+- [Cause Fear](/compendium/spells/cause-fear-xge.md "XGE") at class level 19
+- [Charm Person](/compendium/spells/charm-person.md "PHB") at class level 19
+- [Charm of Long Standing](/compendium/spells/charm-of-long-standing-kpdm.md "KPDM") at class level 19
+- [Chromatic Orb](/compendium/spells/chromatic-orb.md "PHB") at class level 19
+- [Circle of Wind](/compendium/spells/circle-of-wind-kpdm.md "KPDM") at class level 19
+- [Cloak of Shadow](/compendium/spells/cloak-of-shadow-kpdm.md "KPDM") at class level 19
+- [Color Spray](/compendium/spells/color-spray.md "PHB") at class level 19
+- [Comprehend Languages](/compendium/spells/comprehend-languages.md "PHB") at class level 19
+- [Converse with Dragon](/compendium/spells/converse-with-dragon-kpdm.md "KPDM") at class level 19
+- [Deep Breath](/compendium/spells/deep-breath-kpdm.md "KPDM") at class level 19
+- [Detect Magic](/compendium/spells/detect-magic.md "PHB") at class level 19
+- [Disguise Self](/compendium/spells/disguise-self.md "PHB") at class level 19
+- [Earth Tremor](/compendium/spells/earth-tremor-xge.md "XGE") at class level 19
+- [Expeditious Retreat](/compendium/spells/expeditious-retreat.md "PHB") at class level 19
+- [Extract Essence](/compendium/spells/extract-essence-kpdm.md "KPDM") at class level 19
+- [False Life](/compendium/spells/false-life.md "PHB") at class level 19
+- [Feather Fall](/compendium/spells/feather-fall.md "PHB") at class level 19
+- [Find Familiar](/compendium/spells/find-familiar.md "PHB") at class level 19
+- [Fog Cloud](/compendium/spells/fog-cloud.md "PHB") at class level 19
+- [Forest Affinity](/compendium/spells/forest-affinity-kpdm.md "KPDM") at class level 19
+- [Foretell Distraction](/compendium/spells/foretell-distraction-kpdm.md "KPDM") at class level 19
+- [Freeze Potion](/compendium/spells/freeze-potion-kpdm.md "KPDM") at class level 19
+- [Gordolay's Pleasant Aroma](/compendium/spells/gordolays-pleasant-aroma-kpdm.md "KPDM") at class level 19
+- [Grease](/compendium/spells/grease.md "PHB") at class level 19
+- [Guest of Honor](/compendium/spells/guest-of-honor-kpdm.md "KPDM") at class level 19
+- [Guiding Star](/compendium/spells/guiding-star-kpdm.md "KPDM") at class level 19
+- [Hamund's Harvesting Hands](/compendium/spells/hamunds-harvesting-hands-hhhvii.md "HHHVII") at class level 19
+- [Hard Heart](/compendium/spells/hard-heart-kpdm.md "KPDM") at class level 19
+- [Heart to Heart](/compendium/spells/heart-to-heart-kpdm.md "KPDM") at class level 19
+- [Hobble Mount](/compendium/spells/hobble-mount-kpdm.md "KPDM") at class level 19
+- [Ice Knife](/compendium/spells/ice-knife-xge.md "XGE") at class level 19
+- [Icicle Daggers](/compendium/spells/icicle-daggers-kpdm.md "KPDM") at class level 19
+- [Identify](/compendium/spells/identify.md "PHB") at class level 19
+- [Identify Vitals](/compendium/spells/identify-vitals-hhhvii.md "HHHVII") at class level 19
+- [Ill-fated Word](/compendium/spells/ill-fated-word-kpdm.md "KPDM") at class level 19
+- [Illusory Script](/compendium/spells/illusory-script.md "PHB") at class level 19
+- [Insightful Maneuver](/compendium/spells/insightful-maneuver-kpdm.md "KPDM") at class level 19
+- [Jump](/compendium/spells/jump.md "PHB") at class level 19
+- [Kobold's Fury](/compendium/spells/kobolds-fury-kpdm.md "KPDM") at class level 19
+- [Longstrider](/compendium/spells/longstrider.md "PHB") at class level 19
+- [Mage Armor](/compendium/spells/mage-armor.md "PHB") at class level 19
+- [Magic Missile](/compendium/spells/magic-missile.md "PHB") at class level 19
+- [Pendulum](/compendium/spells/pendulum-kpdm.md "KPDM") at class level 19
+- [Protection from Evil and Good](/compendium/spells/protection-from-evil-and-good.md "PHB") at class level 19
+- [Ray of Sickness](/compendium/spells/ray-of-sickness.md "PHB") at class level 19
+- [Ring Strike](/compendium/spells/ring-strike-kpdm.md "KPDM") at class level 19
+- [Roaming Pain](/compendium/spells/roaming-pain-kpdm.md "KPDM") at class level 19
+- [Scentless](/compendium/spells/scentless-kpdm.md "KPDM") at class level 19
+- [Screaming Ray](/compendium/spells/screaming-ray-kpdm.md "KPDM") at class level 19
+- [Seer's Reaction](/compendium/spells/seers-reaction-kpdm.md "KPDM") at class level 19
+- [Shadow Armor](/compendium/spells/shadow-armor-kpdm.md "KPDM") at class level 19
+- [Shield](/compendium/spells/shield.md "PHB") at class level 19
+- [Silent Image](/compendium/spells/silent-image.md "PHB") at class level 19
+- [Sleep](/compendium/spells/sleep.md "PHB") at class level 19
+- [Slippery Fingers](/compendium/spells/slippery-fingers-kpdm.md "KPDM") at class level 19
+- [Snare](/compendium/spells/snare-xge.md "XGE") at class level 19
+- [Speak with Inanimate Object](/compendium/spells/speak-with-inanimate-object-kpdm.md "KPDM") at class level 19
+- [Stanch](/compendium/spells/stanch-kpdm.md "KPDM") at class level 19
+- [Tasha's Caustic Brew](/compendium/spells/tashas-caustic-brew-tce.md "TCE") at class level 19
+- [Tasha's Hideous Laughter](/compendium/spells/tashas-hideous-laughter.md "PHB") at class level 19
+- [Tenser's Floating Disk](/compendium/spells/tensers-floating-disk.md "PHB") at class level 19
+- [Thin the Ice](/compendium/spells/thin-the-ice-kpdm.md "KPDM") at class level 19
+- [Thunderous Charge](/compendium/spells/thunderous-charge-kpdm.md "KPDM") at class level 19
+- [Thunderwave](/compendium/spells/thunderwave.md "PHB") at class level 19
+- [Tireless](/compendium/spells/tireless-kpdm.md "KPDM") at class level 19
+- [Twist the Skein](/compendium/spells/twist-the-skein-kpdm.md "KPDM") at class level 19
+- [Unluck on That](/compendium/spells/unluck-on-that-kpdm.md "KPDM") at class level 19
+- [Unseen Servant](/compendium/spells/unseen-servant.md "PHB") at class level 19
+- [Weapon of Blood](/compendium/spells/weapon-of-blood-kpdm.md "KPDM") at class level 19
+- [Wind Tunnel](/compendium/spells/wind-tunnel-kpdm.md "KPDM") at class level 19
+- [Witch Bolt](/compendium/spells/witch-bolt.md "PHB") at class level 19
+- [Withered Sight](/compendium/spells/withered-sight-kpdm.md "KPDM") at class level 19
+- [Writhing Arms](/compendium/spells/writhing-arms-kpdm.md "KPDM") at class level 19
+
+## 2nd Level
+
+- [Aganazzar's Scorcher](/compendium/spells/aganazzars-scorcher-xge.md "XGE") at class level 19
+- [Alter Self](/compendium/spells/alter-self.md "PHB") at class level 19
+- [Althea's Travel Tent](/compendium/spells/altheas-travel-tent-kpdm.md "KPDM") at class level 19
+- [Animate Ghoul](/compendium/spells/animate-ghoul-kpdm.md "KPDM") at class level 19
+- [Arcane Lock](/compendium/spells/arcane-lock.md "PHB") at class level 19
+- [As You Were](/compendium/spells/as-you-were-kpdm.md "KPDM") at class level 19
+- [Augury](/compendium/spells/augury.md "PHB") at class level 19
+- [Bad Timing](/compendium/spells/bad-timing-kpdm.md "KPDM") at class level 19
+- [Bitter Chains](/compendium/spells/bitter-chains-kpdm.md "KPDM") at class level 19
+- [Bleating Call](/compendium/spells/bleating-call-kpdm.md "KPDM") at class level 19
+- [Blessed Halo](/compendium/spells/blessed-halo-kpdm.md "KPDM") at class level 19
+- [Blindness/Deafness](/compendium/spells/blindness-deafness.md "PHB") at class level 19
+- [Blood Lure](/compendium/spells/blood-lure-kpdm.md "KPDM") at class level 19
+- [Bloodshot](/compendium/spells/bloodshot-kpdm.md "KPDM") at class level 19
+- [Blur](/compendium/spells/blur.md "PHB") at class level 19
+- [Boiling Oil](/compendium/spells/boiling-oil-kpdm.md "KPDM") at class level 19
+- [Boreas's Breath](/compendium/spells/boreass-breath-kpdm.md "KPDM") at class level 19
+- [By the Light of the Moon](/compendium/spells/by-the-light-of-the-moon-kpdm.md "KPDM") at class level 19
+- [Caustic Blood](/compendium/spells/caustic-blood-kpdm.md "KPDM") at class level 19
+- [Chaotic Vitality](/compendium/spells/chaotic-vitality-kpdm.md "KPDM") at class level 19
+- [Charm of Great Fondness](/compendium/spells/charm-of-great-fondness-kpdm.md "KPDM") at class level 19
+- [Cloak of Fiendish Menace](/compendium/spells/cloak-of-fiendish-menace-kpdm.md "KPDM") at class level 19
+- [Cloud of Daggers](/compendium/spells/cloud-of-daggers.md "PHB") at class level 19
+- [Continual Flame](/compendium/spells/continual-flame.md "PHB") at class level 19
+- [Creeping Ice](/compendium/spells/creeping-ice-kpdm.md "KPDM") at class level 19
+- [Crown of Madness](/compendium/spells/crown-of-madness.md "PHB") at class level 19
+- [Daggerhawk](/compendium/spells/daggerhawk-kpdm.md "KPDM") at class level 19
+- [Darkness](/compendium/spells/darkness.md "PHB") at class level 19
+- [Darkvision](/compendium/spells/darkvision.md "PHB") at class level 19
+- [Dead Walking](/compendium/spells/dead-walking-kpdm.md "KPDM") at class level 19
+- [Delay Potion](/compendium/spells/delay-potion-kpdm.md "KPDM") at class level 19
+- [Destructive Resonance](/compendium/spells/destructive-resonance-kpdm.md "KPDM") at class level 19
+- [Detect Dragons](/compendium/spells/detect-dragons-kpdm.md "KPDM") at class level 19
+- [Detect Thoughts](/compendium/spells/detect-thoughts.md "PHB") at class level 19
+- [Discern Weakness](/compendium/spells/discern-weakness-kpdm.md "KPDM") at class level 19
+- [Doom of Consuming Fire](/compendium/spells/doom-of-consuming-fire-kpdm.md "KPDM") at class level 19
+- [Dragon's Breath](/compendium/spells/dragons-breath-xge.md "XGE") at class level 19
+- [Dust Devil](/compendium/spells/dust-devil-xge.md "XGE") at class level 19
+- [Earthbind](/compendium/spells/earthbind-xge.md "XGE") at class level 19
+- [Elemental Horns](/compendium/spells/elemental-horns-kpdm.md "KPDM") at class level 19
+- [Enhance Ability](/compendium/spells/enhance-ability.md "PHB") at class level 19
+- [Enhance Greed](/compendium/spells/enhance-greed-kpdm.md "KPDM") at class level 19
+- [Enlarge/Reduce](/compendium/spells/enlarge-reduce.md "PHB") at class level 19
+- [Entomb in Ice](/compendium/spells/entomb-in-ice-kpdm.md "KPDM") at class level 19
+- [Feather Travel](/compendium/spells/feather-travel-kpdm.md "KPDM") at class level 19
+- [Fire Darts](/compendium/spells/fire-darts-kpdm.md "KPDM") at class level 19
+- [Flaming Sphere](/compendium/spells/flaming-sphere.md "PHB") at class level 19
+- [Gentle Repose](/compendium/spells/gentle-repose.md "PHB") at class level 19
+- [Gift of Resilience](/compendium/spells/gift-of-resilience-kpdm.md "KPDM") at class level 19
+- [Glyph of Shifting](/compendium/spells/glyph-of-shifting-kpdm.md "KPDM") at class level 19
+- [Greater Analyze Device](/compendium/spells/greater-analyze-device-kpdm.md "KPDM") at class level 19
+- [Gust of Wind](/compendium/spells/gust-of-wind.md "PHB") at class level 19
+- [Hamund's Herbal Hypodermic](/compendium/spells/hamunds-herbal-hypodermic-hhbh.md "HHbH") at class level 19
+- [Heartache](/compendium/spells/heartache-kpdm.md "KPDM") at class level 19
+- [Heartstop](/compendium/spells/heartstop-kpdm.md "KPDM") at class level 19
+- [Hold Person](/compendium/spells/hold-person.md "PHB") at class level 19
+- [Holy Warding](/compendium/spells/holy-warding-kpdm.md "KPDM") at class level 19
+- [Hypnotic Missive](/compendium/spells/hypnotic-missive-kpdm.md "KPDM") at class level 19
+- [Indecision](/compendium/spells/indecision-kpdm.md "KPDM") at class level 19
+- [Invisibility](/compendium/spells/invisibility.md "PHB") at class level 19
+- [Jerilyn's Cadaverous Uprising](/compendium/spells/jerilyns-cadaverous-uprising-kpdm.md "KPDM") at class level 19
+- [Kavelin's Instant Aerosol](/compendium/spells/kavelins-instant-aerosol-kpdm.md "KPDM") at class level 19
+- [Knock](/compendium/spells/knock.md "PHB") at class level 19
+- [Lacerate](/compendium/spells/lacerate-kpdm.md "KPDM") at class level 19
+- [Lair Sense](/compendium/spells/lair-sense-kpdm.md "KPDM") at class level 19
+- [Levitate](/compendium/spells/levitate.md "PHB") at class level 19
+- [Locate Object](/compendium/spells/locate-object.md "PHB") at class level 19
+- [Magic Mouth](/compendium/spells/magic-mouth.md "PHB") at class level 19
+- [Magic Weapon](/compendium/spells/magic-weapon.md "PHB") at class level 19
+- [Maximilian's Earthen Grasp](/compendium/spells/maximilians-earthen-grasp-xge.md "XGE") at class level 19
+- [Melf's Acid Arrow](/compendium/spells/melfs-acid-arrow.md "PHB") at class level 19
+- [Mephitic Croak](/compendium/spells/mephitic-croak-kpdm.md "KPDM") at class level 19
+- [Mind Spike](/compendium/spells/mind-spike-xge.md "XGE") at class level 19
+- [Mirror Image](/compendium/spells/mirror-image.md "PHB") at class level 19
+- [Mist of Wonders](/compendium/spells/mist-of-wonders-kpdm.md "KPDM") at class level 19
+- [Misty Step](/compendium/spells/misty-step.md "PHB") at class level 19
+- [Negative Image](/compendium/spells/negative-image-kpdm.md "KPDM") at class level 19
+- [Nystul's Magic Aura](/compendium/spells/nystuls-magic-aura.md "PHB") at class level 19
+- [Orb of Light](/compendium/spells/orb-of-light-kpdm.md "KPDM") at class level 19
+- [Phantasmal Force](/compendium/spells/phantasmal-force.md "PHB") at class level 19
+- [Plaguebearer](/compendium/spells/plaguebearer-kpdm.md "KPDM") at class level 19
+- [Power Word Kneel](/compendium/spells/power-word-kneel-kpdm.md "KPDM") at class level 19
+- [Pyrotechnics](/compendium/spells/pyrotechnics-xge.md "XGE") at class level 19
+- [Ray of Enfeeblement](/compendium/spells/ray-of-enfeeblement.md "PHB") at class level 19
+- [Reverberate](/compendium/spells/reverberate-kpdm.md "KPDM") at class level 19
+- [Rolling Thunder](/compendium/spells/rolling-thunder-kpdm.md "KPDM") at class level 19
+- [Rope Trick](/compendium/spells/rope-trick.md "PHB") at class level 19
+- [Scorching Ray](/compendium/spells/scorching-ray.md "PHB") at class level 19
+- [Sculpt Snow](/compendium/spells/sculpt-snow-kpdm.md "KPDM") at class level 19
+- [See Invisibility](/compendium/spells/see-invisibility.md "PHB") at class level 19
+- [Shadow Blade](/compendium/spells/shadow-blade-xge.md "XGE") at class level 19
+- [Shadow Puppets](/compendium/spells/shadow-puppets-kpdm.md "KPDM") at class level 19
+- [Shatter](/compendium/spells/shatter.md "PHB") at class level 19
+- [Sheen of Ice](/compendium/spells/sheen-of-ice-kpdm.md "KPDM") at class level 19
+- [Shifting the Odds](/compendium/spells/shifting-the-odds-kpdm.md "KPDM") at class level 19
+- [Skywrite](/compendium/spells/skywrite-xge.md "XGE") at class level 19
+- [Slither](/compendium/spells/slither-kpdm.md "KPDM") at class level 19
+- [Snilloc's Snowball Swarm](/compendium/spells/snillocs-snowball-swarm-xge.md "XGE") at class level 19
+- [Snow Fort](/compendium/spells/snow-fort-kpdm.md "KPDM") at class level 19
+- [Solitary Fireball](/compendium/spells/solitary-fireball-kpdm.md "KPDM") at class level 19
+- [Spider Climb](/compendium/spells/spider-climb.md "PHB") at class level 19
+- [Spin](/compendium/spells/spin-kpdm.md "KPDM") at class level 19
+- [Spy My Shadow](/compendium/spells/spy-my-shadow-kpdm.md "KPDM") at class level 19
+- [Suggestion](/compendium/spells/suggestion.md "PHB") at class level 19
+- [Tasha's Mind Whip](/compendium/spells/tashas-mind-whip-tce.md "TCE") at class level 19
+- [Thunderous Stampede](/compendium/spells/thunderous-stampede-kpdm.md "KPDM") at class level 19
+- [Timely Distraction](/compendium/spells/timely-distraction-kpdm.md "KPDM") at class level 19
+- [Transfusion](/compendium/spells/transfusion-hhhvii.md "HHHVII") at class level 19
+- [Trench](/compendium/spells/trench-kpdm.md "KPDM") at class level 19
+- [Vine Trestle](/compendium/spells/vine-trestle-kpdm.md "KPDM") at class level 19
+- [Vomit Tentacles](/compendium/spells/vomit-tentacles-kpdm.md "KPDM") at class level 19
+- [Warding Wind](/compendium/spells/warding-wind-xge.md "XGE") at class level 19
+- [Warning Shout](/compendium/spells/warning-shout-kpdm.md "KPDM") at class level 19
+- [Web](/compendium/spells/web.md "PHB") at class level 19
+- [Weiler's Ward](/compendium/spells/weilers-ward-kpdm.md "KPDM") at class level 19
+
+## 3rd Level
+
+- [Alone](/compendium/spells/alone-kpdm.md "KPDM") at class level 19
+- [Animate Dead](/compendium/spells/animate-dead.md "PHB") at class level 19
+- [Anticipate Arcana](/compendium/spells/anticipate-arcana-kpdm.md "KPDM") at class level 19
+- [Aspect of the Serpent](/compendium/spells/aspect-of-the-serpent-kpdm.md "KPDM") at class level 19
+- [Bestow Curse](/compendium/spells/bestow-curse.md "PHB") at class level 19
+- [Blink](/compendium/spells/blink.md "PHB") at class level 19
+- [Blood Offering](/compendium/spells/blood-offering-kpdm.md "KPDM") at class level 19
+- [Breeze Compass](/compendium/spells/breeze-compass-kpdm.md "KPDM") at class level 19
+- [Calm of the Storm](/compendium/spells/calm-of-the-storm-kpdm.md "KPDM") at class level 19
+- [Catch the Breath](/compendium/spells/catch-the-breath-kpdm.md "KPDM") at class level 19
+- [Catnap](/compendium/spells/catnap-xge.md "XGE") at class level 19
+- [Chains of Perdition](/compendium/spells/chains-of-perdition-kpdm.md "KPDM") at class level 19
+- [Chilling Words](/compendium/spells/chilling-words-kpdm.md "KPDM") at class level 19
+- [Clairvoyance](/compendium/spells/clairvoyance.md "PHB") at class level 19
+- [Closing In](/compendium/spells/closing-in-kpdm.md "KPDM") at class level 19
+- [Compelled Movement](/compendium/spells/compelled-movement-kpdm.md "KPDM") at class level 19
+- [Compelling Fate](/compendium/spells/compelling-fate-kpdm.md "KPDM") at class level 19
+- [Confound Senses](/compendium/spells/confound-senses-kpdm.md "KPDM") at class level 19
+- [Counterspell](/compendium/spells/counterspell.md "PHB") at class level 19
+- [Curse of Hostility](/compendium/spells/curse-of-hostility-kpdm.md "KPDM") at class level 19
+- [Curse of Incompetence](/compendium/spells/curse-of-incompetence-kpdm.md "KPDM") at class level 19
+- [Deep Focus](/compendium/spells/deep-focus-kpdm.md "KPDM") at class level 19
+- [Demon Within](/compendium/spells/demon-within-kpdm.md "KPDM") at class level 19
+- [Dispel Magic](/compendium/spells/dispel-magic.md "PHB") at class level 19
+- [Doom of Dancing Blades](/compendium/spells/doom-of-dancing-blades-kpdm.md "KPDM") at class level 19
+- [Doom of Disenchantment](/compendium/spells/doom-of-disenchantment-kpdm.md "KPDM") at class level 19
+- [Dragon's Pride](/compendium/spells/dragons-pride-kpdm.md "KPDM") at class level 19
+- [Drown](/compendium/spells/drown-kpdm.md "KPDM") at class level 19
+- [Enemies Abound](/compendium/spells/enemies-abound-xge.md "XGE") at class level 19
+- [Entropic Damage Field](/compendium/spells/entropic-damage-field-kpdm.md "KPDM") at class level 19
+- [Erupting Earth](/compendium/spells/erupting-earth-xge.md "XGE") at class level 19
+- [Fear](/compendium/spells/fear.md "PHB") at class level 19
+- [Feign Death](/compendium/spells/feign-death.md "PHB") at class level 19
+- [Fireball](/compendium/spells/fireball.md "PHB") at class level 19
+- [Flame Arrows](/compendium/spells/flame-arrows-xge.md "XGE") at class level 19
+- [Fly](/compendium/spells/fly.md "PHB") at class level 19
+- [Freeze Blood](/compendium/spells/freeze-blood-kpdm.md "KPDM") at class level 19
+- [Gaseous Form](/compendium/spells/gaseous-form.md "PHB") at class level 19
+- [Glimpse the End](/compendium/spells/glimpse-the-end-kpdm.md "KPDM") at class level 19
+- [Gloomwrought Barrier](/compendium/spells/gloomwrought-barrier-kpdm.md "KPDM") at class level 19
+- [Gluey Globule](/compendium/spells/gluey-globule-kpdm.md "KPDM") at class level 19
+- [Glyph of Warding](/compendium/spells/glyph-of-warding.md "PHB") at class level 19
+- [Going in Circles](/compendium/spells/going-in-circles-kpdm.md "KPDM") at class level 19
+- [Haste](/compendium/spells/haste.md "PHB") at class level 19
+- [Hedren's Birds of Clay](/compendium/spells/hedrens-birds-of-clay-kpdm.md "KPDM") at class level 19
+- [Hematomancy](/compendium/spells/hematomancy-kpdm.md "KPDM") at class level 19
+- [Herbal Infusion](/compendium/spells/herbal-infusion-hhbh.md "HHbH") at class level 19
+- [Hypnotic Pattern](/compendium/spells/hypnotic-pattern.md "PHB") at class level 19
+- [Ice Burn](/compendium/spells/ice-burn-kpdm.md "KPDM") at class level 19
+- [Impending Ally](/compendium/spells/impending-ally-kpdm.md "KPDM") at class level 19
+- [Innocuous Aspect](/compendium/spells/innocuous-aspect-kpdm.md "KPDM") at class level 19
+- [Intellect Fortress](/compendium/spells/intellect-fortress-tce.md "TCE") at class level 19
+- [Jeweled Fissure](/compendium/spells/jeweled-fissure-kpdm.md "KPDM") at class level 19
+- [Legion](/compendium/spells/legion-kpdm.md "KPDM") at class level 19
+- [Leomund's Tiny Hut](/compendium/spells/leomunds-tiny-hut.md "PHB") at class level 19
+- [Lesser Maze](/compendium/spells/lesser-maze-kpdm.md "KPDM") at class level 19
+- [Life Transference](/compendium/spells/life-transference-xge.md "XGE") at class level 19
+- [Lightning Bolt](/compendium/spells/lightning-bolt.md "PHB") at class level 19
+- [Magic Circle](/compendium/spells/magic-circle.md "PHB") at class level 19
+- [Major Image](/compendium/spells/major-image.md "PHB") at class level 19
+- [Mass Hobble Mount](/compendium/spells/mass-hobble-mount-kpdm.md "KPDM") at class level 19
+- [Melf's Minute Meteors](/compendium/spells/melfs-minute-meteors-xge.md "XGE") at class level 19
+- [Mire](/compendium/spells/mire-kpdm.md "KPDM") at class level 19
+- [Nest of Infernal Vipers](/compendium/spells/nest-of-infernal-vipers-kpdm.md "KPDM") at class level 19
+- [Nondetection](/compendium/spells/nondetection.md "PHB") at class level 19
+- [Opportunistic Foresight](/compendium/spells/opportunistic-foresight-kpdm.md "KPDM") at class level 19
+- [Outflanking Boon](/compendium/spells/outflanking-boon-kpdm.md "KPDM") at class level 19
+- [Phantom Dragon](/compendium/spells/phantom-dragon-kpdm.md "KPDM") at class level 19
+- [Phantom Steed](/compendium/spells/phantom-steed.md "PHB") at class level 19
+- [Phase Bolt](/compendium/spells/phase-bolt-kpdm.md "KPDM") at class level 19
+- [Portal Jaunt](/compendium/spells/portal-jaunt-kpdm.md "KPDM") at class level 19
+- [Protection from Energy](/compendium/spells/protection-from-energy.md "PHB") at class level 19
+- [Protective Nimbus](/compendium/spells/protective-nimbus-kpdm.md "KPDM") at class level 19
+- [Recomposition](/compendium/spells/recomposition-hhhvii.md "HHHVII") at class level 19
+- [Remove Curse](/compendium/spells/remove-curse.md "PHB") at class level 19
+- [Riptide](/compendium/spells/riptide-kpdm.md "KPDM") at class level 19
+- [Rune of Imprisonment](/compendium/spells/rune-of-imprisonment-kpdm.md "KPDM") at class level 19
+- [Salt Lash](/compendium/spells/salt-lash-kpdm.md "KPDM") at class level 19
+- [Sending](/compendium/spells/sending.md "PHB") at class level 19
+- [Shadow Tendrils](/compendium/spells/shadow-tendrils-kpdm.md "KPDM") at class level 19
+- [Shield of Starlight](/compendium/spells/shield-of-starlight-kpdm.md "KPDM") at class level 19
+- [Sidestep Arrow](/compendium/spells/sidestep-arrow-kpdm.md "KPDM") at class level 19
+- [Sir Mittinz's Move Curse](/compendium/spells/sir-mittinzs-move-curse-kpdm.md "KPDM") at class level 19
+- [Sleet Storm](/compendium/spells/sleet-storm.md "PHB") at class level 19
+- [Slow](/compendium/spells/slow.md "PHB") at class level 19
+- [Speak with Dead](/compendium/spells/speak-with-dead.md "PHB") at class level 19
+- [Spirit Shroud](/compendium/spells/spirit-shroud-tce.md "TCE") at class level 19
+- [Spiteful Weapon](/compendium/spells/spiteful-weapon-kpdm.md "KPDM") at class level 19
+- [Steal Warmth](/compendium/spells/steal-warmth-kpdm.md "KPDM") at class level 19
+- [Stinking Cloud](/compendium/spells/stinking-cloud.md "PHB") at class level 19
+- [Summon Fey](/compendium/spells/summon-fey-tce.md "TCE") at class level 19
+- [Summon Lesser Demons](/compendium/spells/summon-lesser-demons-xge.md "XGE") at class level 19
+- [Summon Shadowspawn](/compendium/spells/summon-shadowspawn-tce.md "TCE") at class level 19
+- [Summon Undead](/compendium/spells/summon-undead-tce.md "TCE") at class level 19
+- [Surge Dampener](/compendium/spells/surge-dampener-kpdm.md "KPDM") at class level 19
+- [Thousand Darts](/compendium/spells/thousand-darts-kpdm.md "KPDM") at class level 19
+- [Throes of Ecstasy](/compendium/spells/throes-of-ecstasy-kpdm.md "KPDM") at class level 19
+- [Thunder Step](/compendium/spells/thunder-step-xge.md "XGE") at class level 19
+- [Thunderous Wave](/compendium/spells/thunderous-wave-kpdm.md "KPDM") at class level 19
+- [Tidal Wave](/compendium/spells/tidal-wave-xge.md "XGE") at class level 19
+- [Tiny Servant](/compendium/spells/tiny-servant-xge.md "XGE") at class level 19
+- [Tongue of Sand](/compendium/spells/tongue-of-sand-kpdm.md "KPDM") at class level 19
+- [Tongues](/compendium/spells/tongues.md "PHB") at class level 19
+- [Touch of the Unliving](/compendium/spells/touch-of-the-unliving-kpdm.md "KPDM") at class level 19
+- [Tracking Beacon](/compendium/spells/tracking-beacon-kpdm.md "KPDM") at class level 19
+- [Vampiric Touch](/compendium/spells/vampiric-touch.md "PHB") at class level 19
+- [Void Strike](/compendium/spells/void-strike-kpdm.md "KPDM") at class level 19
+- [Wall of Sand](/compendium/spells/wall-of-sand-xge.md "XGE") at class level 19
+- [Wall of Water](/compendium/spells/wall-of-water-xge.md "XGE") at class level 19
+- [Water Breathing](/compendium/spells/water-breathing.md "PHB") at class level 19
+- [Wave of Corruption](/compendium/spells/wave-of-corruption-kpdm.md "KPDM") at class level 19
+
+## 4th Level
+
+- [Abhorrent Apparition](/compendium/spells/abhorrent-apparition-kpdm.md "KPDM") at class level 19
+- [Arcane Eye](/compendium/spells/arcane-eye.md "PHB") at class level 19
+- [Banishment](/compendium/spells/banishment.md "PHB") at class level 19
+- [Black Hand](/compendium/spells/black-hand-kpdm.md "KPDM") at class level 19
+- [Blight](/compendium/spells/blight.md "PHB") at class level 19
+- [Blood Puppet](/compendium/spells/blood-puppet-kpdm.md "KPDM") at class level 19
+- [Blood and Steel](/compendium/spells/blood-and-steel-kpdm.md "KPDM") at class level 19
+- [Boiling Blood](/compendium/spells/boiling-blood-kpdm.md "KPDM") at class level 19
+- [Brittling](/compendium/spells/brittling-kpdm.md "KPDM") at class level 19
+- [By the Light of the Watchful Moon](/compendium/spells/by-the-light-of-the-watchful-moon-kpdm.md "KPDM") at class level 19
+- [Caustic Waste](/compendium/spells/caustic-waste-kpdm.md "KPDM") at class level 19
+- [Chaotic Form](/compendium/spells/chaotic-form-kpdm.md "KPDM") at class level 19
+- [Charm Monster](/compendium/spells/charm-monster-xge.md "XGE") at class level 19
+- [Cold Storage](/compendium/spells/cold-storage-hhhvii.md "HHHVII") at class level 19
+- [Confusion](/compendium/spells/confusion.md "PHB") at class level 19
+- [Conjure Fiends](/compendium/spells/conjure-fiends-kpdm.md "KPDM") at class level 19
+- [Conjure Minor Elementals](/compendium/spells/conjure-minor-elementals.md "PHB") at class level 19
+- [Control Water](/compendium/spells/control-water.md "PHB") at class level 19
+- [Cursed Gift](/compendium/spells/cursed-gift-kpdm.md "KPDM") at class level 19
+- [Deep Freeze](/compendium/spells/deep-freeze-kpdm.md "KPDM") at class level 19
+- [Desiccating Breath](/compendium/spells/desiccating-breath-kpdm.md "KPDM") at class level 19
+- [Deva's Wings](/compendium/spells/devas-wings-kpdm.md "KPDM") at class level 19
+- [Dimension Door](/compendium/spells/dimension-door.md "PHB") at class level 19
+- [Distressing Resonance](/compendium/spells/distressing-resonance-kpdm.md "KPDM") at class level 19
+- [Divination](/compendium/spells/divination.md "PHB") at class level 19
+- [Dread Wings](/compendium/spells/dread-wings-kpdm.md "KPDM") at class level 19
+- [Earthskimmer](/compendium/spells/earthskimmer-kpdm.md "KPDM") at class level 19
+- [Elemental Bane](/compendium/spells/elemental-bane-xge.md "XGE") at class level 19
+- [Energy Foreknowledge](/compendium/spells/energy-foreknowledge-kpdm.md "KPDM") at class level 19
+- [Evard's Black Tentacles](/compendium/spells/evards-black-tentacles.md "PHB") at class level 19
+- [Evercold](/compendium/spells/evercold-kpdm.md "KPDM") at class level 19
+- [Fabricate](/compendium/spells/fabricate.md "PHB") at class level 19
+- [Fire Shield](/compendium/spells/fire-shield.md "PHB") at class level 19
+- [Flame Wave](/compendium/spells/flame-wave-kpdm.md "KPDM") at class level 19
+- [Fluctuating Alignment](/compendium/spells/fluctuating-alignment-kpdm.md "KPDM") at class level 19
+- [Fog of War](/compendium/spells/fog-of-war-kpdm.md "KPDM") at class level 19
+- [Fusillade of Ice](/compendium/spells/fusillade-of-ice-kpdm.md "KPDM") at class level 19
+- [Giant's Jest](/compendium/spells/giants-jest-kpdm.md "KPDM") at class level 19
+- [Greater Invisibility](/compendium/spells/greater-invisibility.md "PHB") at class level 19
+- [Hallucinatory Terrain](/compendium/spells/hallucinatory-terrain.md "PHB") at class level 19
+- [Harry](/compendium/spells/harry-kpdm.md "KPDM") at class level 19
+- [Ice Storm](/compendium/spells/ice-storm.md "PHB") at class level 19
+- [Instant Siege Weapon](/compendium/spells/instant-siege-weapon-kpdm.md "KPDM") at class level 19
+- [Lava Stone](/compendium/spells/lava-stone-kpdm.md "KPDM") at class level 19
+- [Leomund's Secret Chest](/compendium/spells/leomunds-secret-chest.md "PHB") at class level 19
+- [Locate Creature](/compendium/spells/locate-creature.md "PHB") at class level 19
+- [Looping Trail](/compendium/spells/looping-trail-kpdm.md "KPDM") at class level 19
+- [Mordenkainen's Faithful Hound](/compendium/spells/mordenkainens-faithful-hound.md "PHB") at class level 19
+- [Mordenkainen's Private Sanctum](/compendium/spells/mordenkainens-private-sanctum.md "PHB") at class level 19
+- [Nether Weapon](/compendium/spells/nether-weapon-kpdm.md "KPDM") at class level 19
+- [Not Dead Yet](/compendium/spells/not-dead-yet-kpdm.md "KPDM") at class level 19
+- [Otiluke's Resilient Sphere](/compendium/spells/otilukes-resilient-sphere.md "PHB") at class level 19
+- [Overwhelming Greed](/compendium/spells/overwhelming-greed-kpdm.md "KPDM") at class level 19
+- [Phantasmal Killer](/compendium/spells/phantasmal-killer.md "PHB") at class level 19
+- [Polymorph](/compendium/spells/polymorph.md "PHB") at class level 19
+- [Power Word Pain](/compendium/spells/power-word-pain-kpdm.md "KPDM") at class level 19
+- [Quicksilver Mantle](/compendium/spells/quicksilver-mantle-kpdm.md "KPDM") at class level 19
+- [Ray of Alchemical Negation](/compendium/spells/ray-of-alchemical-negation-kpdm.md "KPDM") at class level 19
+- [Ray of Life Suppression](/compendium/spells/ray-of-life-suppression-kpdm.md "KPDM") at class level 19
+- [Reposition](/compendium/spells/reposition-kpdm.md "KPDM") at class level 19
+- [Reset](/compendium/spells/reset-kpdm.md "KPDM") at class level 19
+- [Sacrificial Healing](/compendium/spells/sacrificial-healing-kpdm.md "KPDM") at class level 19
+- [Sand Ship](/compendium/spells/sand-ship-kpdm.md "KPDM") at class level 19
+- [Scale Rot](/compendium/spells/scale-rot-kpdm.md "KPDM") at class level 19
+- [Scry Ambush](/compendium/spells/scry-ambush-kpdm.md "KPDM") at class level 19
+- [Searing Sun](/compendium/spells/searing-sun-kpdm.md "KPDM") at class level 19
+- [Shadow Monsters](/compendium/spells/shadow-monsters-kpdm.md "KPDM") at class level 19
+- [Shadow Step](/compendium/spells/shadow-step-kpdm.md "KPDM") at class level 19
+- [Shocking Shroud](/compendium/spells/shocking-shroud-kpdm.md "KPDM") at class level 19
+- [Shroud of Death](/compendium/spells/shroud-of-death-kpdm.md "KPDM") at class level 19
+- [Sickening Radiance](/compendium/spells/sickening-radiance-xge.md "XGE") at class level 19
+- [Spinning Axes](/compendium/spells/spinning-axes-kpdm.md "KPDM") at class level 19
+- [Staff of Violet Fire](/compendium/spells/staff-of-violet-fire-kpdm.md "KPDM") at class level 19
+- [Steam Blast](/compendium/spells/steam-blast-kpdm.md "KPDM") at class level 19
+- [Stone Shape](/compendium/spells/stone-shape.md "PHB") at class level 19
+- [Stoneskin](/compendium/spells/stoneskin.md "PHB") at class level 19
+- [Storm Sphere](/compendium/spells/storm-sphere-xge.md "XGE") at class level 19
+- [Summon Aberration](/compendium/spells/summon-aberration-tce.md "TCE") at class level 19
+- [Summon Construct](/compendium/spells/summon-construct-tce.md "TCE") at class level 19
+- [Summon Elemental](/compendium/spells/summon-elemental-tce.md "TCE") at class level 19
+- [Summon Greater Demon](/compendium/spells/summon-greater-demon-xge.md "XGE") at class level 19
+- [Time Vortex](/compendium/spells/time-vortex-kpdm.md "KPDM") at class level 19
+- [Visage of Madness](/compendium/spells/visage-of-madness-kpdm.md "KPDM") at class level 19
+- [Visage of the Dead](/compendium/spells/visage-of-the-dead-kpdm.md "KPDM") at class level 19
+- [Vitriolic Sphere](/compendium/spells/vitriolic-sphere-xge.md "XGE") at class level 19
+- [Wall of Fire](/compendium/spells/wall-of-fire.md "PHB") at class level 19
+- [Watery Sphere](/compendium/spells/watery-sphere-xge.md "XGE") at class level 19
+- [Wintry Glide](/compendium/spells/wintry-glide-kpdm.md "KPDM") at class level 19

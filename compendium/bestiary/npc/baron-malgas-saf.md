@@ -147,8 +147,7 @@ actions:
     "desc": "+5"
 "damage_resistances": "psychic"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [petrified](/compendium/rules/conditions.md#Petrified)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Deep Speech, Primordial"
 "cr": "5"
 "traits":
@@ -162,11 +161,11 @@ actions:
   - "desc": "Baron Malgas makes three attacks with his flail. He can use Melt Flesh\
       \ in place of one flail attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, range 5 ft., one target. *Hit:* 7 (1d8\
+  - "desc": "Melee Weapon Attack: +6 to hit, range 5 ft., one target. Hit: 7 (1d8\
       \ + 3) bludgeoning damage."
     "name": "Flail"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. *Hit:* 12 (2d8 + 3) piercing damage."
+  - "desc": "Melee  or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120\
+      \ ft., one target. Hit: 12 (2d8 + 3) piercing damage."
     "name": "Javelin"
   - "desc": "Baron Malgas chooses a target he can see within 30 feet. The target must\
       \ succeed on a DC 13 Wisdom saving throw or watch as their dominant hand melts\

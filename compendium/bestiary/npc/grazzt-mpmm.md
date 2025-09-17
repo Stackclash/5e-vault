@@ -158,8 +158,7 @@ actions:
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 22"
+"senses": "truesight 120 ft., passive Perception 22"
 "languages": "all, telepathy 120 ft."
 "cr": "24"
 "traits":
@@ -172,18 +171,18 @@ actions:
   - "desc": "Graz'zt makes two Wave of Sorrow attacks. He can replace one attack with\
       \ a use of Spellcasting."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 20\
+  - "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20\
       \ (4d6 + 6) force damage plus 14 (4d6) acid damage."
     "name": "Wave of Sorrow (Greatsword)"
   - "desc": "Graz'zt teleports, along with any equipment he is wearing or carrying,\
       \ up to 120 feet to an unoccupied space he can see."
     "name": "Teleport"
   - "desc": "Graz'zt casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 23):\n\n**At\
-      \ will:** [charm person](/compendium/spells/charm-person.md), [detect magic](/compendium/spells/detect-magic.md),\
-      \ [dispel magic](/compendium/spells/dispel-magic.md)\n\n**3/day each:** [darkness](/compendium/spells/darkness.md),\
+      \ and using Charisma as the spellcasting ability (spell save DC 23):\n\nAt\
+      \ will: [charm person](/compendium/spells/charm-person.md), [detect magic](/compendium/spells/detect-magic.md),\
+      \ [dispel magic](/compendium/spells/dispel-magic.md)\n\n3/day each: [darkness](/compendium/spells/darkness.md),\
       \ [dominate person](/compendium/spells/dominate-person.md), [telekinesis](/compendium/spells/telekinesis.md),\
-      \ [teleport](/compendium/spells/teleport.md)\n\n**1/day each:** [dominate monster](/compendium/spells/dominate-monster.md),\
+      \ [teleport](/compendium/spells/teleport.md)\n\n1/day each: [dominate monster](/compendium/spells/dominate-monster.md),\
       \ [greater invisibility](/compendium/spells/greater-invisibility.md)"
     "name": "Spellcasting"
 "bonus_actions":
@@ -198,33 +197,6 @@ actions:
       \ against a DC of 10 + the spell's level. On a success, the spell fails and\
       \ has no effect."
     "name": "Negate Spell (Recharge 5-6)"
-"lair_actions":
-  - "desc": "On initiative count 20 (losing initiative ties), Graz'zt can take one\
-      \ of the following lair actions; he can't take the same lair action two rounds\
-      \ in a row:\n\n- **Command.** Graz'zt casts the command spell on every creature\
-      \ of his choice in the lair. He needn't see each one, but he must be aware that\
-      \ an individual is in the lair to target that creature. He issues the same command\
-      \ to all the targets.  \n- **Conjure Mirrors.** Smooth surfaces within the lair\
-      \ become as reflective as a polished mirror. Until a different lair action is\
-      \ used, creatures within the lair have disadvantage on Dexterity ([Stealth](/compendium/rules/skills.md#Stealth))\
-      \ checks made to hide.  "
-    "name": ""
-"regional_effects":
-  - "desc": "The region containing Graz'zt's lair is warped by his magic, creating\
-      \ one or more of the following effects:\n\n- **Agitated Beasts.** Wild beasts\
-      \ within 6 miles of the lair break into frequent conflicts and coupling, mirroring\
-      \ the behavior that occurs during their mating seasons.  \n- **Beguiling Realm.**\
-      \ Within 6 miles of the lair, all Wisdom ([Insight](/compendium/rules/skills.md#Insight))\
-      \ checks have disadvantage, and all Charisma ([Deception](/compendium/rules/skills.md#Deception))\
-      \ and Charisma ([Persuasion](/compendium/rules/skills.md#Persuasion)) checks\
-      \ have advantage.  \n- **Mirrors Everywhere.** Flat surfaces within 1 mile of\
-      \ the lair that are made of stone or metal become highly reflective, as though\
-      \ polished to a shine. These surfaces become supernaturally mirrorlike.  \n\n\
-      If Graz'zt dies, these effects fade over the course of 1d10 days."
-    "name": ""
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Graz'zt can expend a use to take one of the following actions. Graz'zt regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Graz'zt uses Spellcasting or Teleport."
     "name": "Abyssal Magic"
@@ -234,6 +206,35 @@ actions:
       \ that Graz'zt can see must use its reaction to move up to its speed as Graz'zt\
       \ directs."
     "name": "Dance, My Puppet!"
+"lair_actions":
+  - "desc": "On initiative count 20 (losing initiative ties), Graz'zt can take one\
+      \ of the following lair actions; he can't take the same lair action two rounds\
+      \ in a row:"
+    "name": ""
+  - "desc": "- Command. Graz'zt casts the command spell on every creature of his\
+      \ choice in the lair. He needn't see each one, but he must be aware that an\
+      \ individual is in the lair to target that creature. He issues the same command\
+      \ to all the targets.  \n- Conjure Mirrors. Smooth surfaces within the lair\
+      \ become as reflective as a polished mirror. Until a different lair action is\
+      \ used, creatures within the lair have disadvantage on Dexterity ([Stealth](/compendium/rules/skills.md#Stealth))\
+      \ checks made to hide.  "
+    "name": ""
+"regional_effects":
+  - "desc": "The region containing Graz'zt's lair is warped by his magic, creating\
+      \ one or more of the following effects:"
+    "name": ""
+  - "desc": "- Agitated Beasts. Wild beasts within 6 miles of the lair break into\
+      \ frequent conflicts and coupling, mirroring the behavior that occurs during\
+      \ their mating seasons.  \n- Beguiling Realm. Within 6 miles of the lair,\
+      \ all Wisdom ([Insight](/compendium/rules/skills.md#Insight)) checks have disadvantage,\
+      \ and all Charisma ([Deception](/compendium/rules/skills.md#Deception)) and\
+      \ Charisma ([Persuasion](/compendium/rules/skills.md#Persuasion)) checks have\
+      \ advantage.  \n- Mirrors Everywhere. Flat surfaces within 1 mile of the\
+      \ lair that are made of stone or metal become highly reflective, as though polished\
+      \ to a shine. These surfaces become supernaturally mirrorlike.  "
+    "name": ""
+  - "desc": "If Graz'zt dies, these effects fade over the course of d10 days."
+    "name": ""
 "source":
   - "MPMM"
   - "MTF"

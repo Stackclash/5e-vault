@@ -147,15 +147,14 @@ actions:
   - "name": "[Stealth](/compendium/rules/skills.md#Stealth)"
     "desc": "+14"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 22"
+"senses": "darkvision 120 ft., passive Perception 22"
 "languages": "Abyssal, Common, Draconic, Elvish, Giant, Infernal"
 "cr": "15"
 "traits":
   - "desc": "If Strahd fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
   - "desc": "When Strahd is reduced to 0 hit points, he dissolves into mist and immediately\
-      \ teleports to his lair in Castle Ravenloft. After 1d4 hours, Strahd re-forms\
+      \ teleports to his lair in Castle Ravenloft. After d4 hours, Strahd re-forms\
       \ in a random unoccupied space within his lair, regaining all his hit points."
     "name": "Master of the House"
   - "desc": "Strahd regains 20 hit points at the start of his turn if he has at least\
@@ -165,9 +164,9 @@ actions:
   - "desc": "Strahd can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
     "name": "Spider Climb"
-  - "desc": "Strahd has the following flaws:\n\n- **Harmed by Running Water.** While\
+  - "desc": "Strahd has the following flaws:\n\n- Harmed by Running Water. While\
       \ in running water, Strahd takes 20 acid damage if he ends his turn there, and\
-      \ he can't use his Change Shape.  \n- **Sunlight Hypersensitivity.** While in\
+      \ he can't use his Change Shape.  \n- Sunlight Hypersensitivity. While in\
       \ sunlight, Strahd takes 20 radiant damage at the start of his turn, has disadvantage\
       \ on attack rolls and ability checks, and can't use his Change Shape bonus action.\
       \  "
@@ -176,7 +175,7 @@ actions:
   - "desc": "Strahd makes two Death Strike attacks. He can replace one of these attacks\
       \ with Blighted Fire if available."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8\
       \ + 4) slashing damage plus 14 (4d6) necrotic damage. If the target is a creature,\
       \ Strahd can forgo dealing slashing damage; the target then has the [grappled](/compendium/rules/conditions.md#Grappled)\
       \ condition (escape DC 18) instead. Strahd can grapple only one creature at\
@@ -200,18 +199,18 @@ actions:
       \ end the effect."
     "name": "Charm"
   - "desc": "Strahd casts one of the following spells, using Intelligence as the spellcasting\
-      \ ability (spell save DC 18):\n\n**At will:** [Detect Thoughts](/compendium/spells/detect-thoughts.md),\
+      \ ability (spell save DC 18):\n\nAt will: [Detect Thoughts](/compendium/spells/detect-thoughts.md),\
       \ [Fog Cloud](/compendium/spells/fog-cloud.md), [Mage Hand](/compendium/spells/mage-hand.md)\n\
-      \n**2/day each:** [Animate Dead](/compendium/spells/animate-dead.md) (as an\
+      \n2/day each: [Animate Dead](/compendium/spells/animate-dead.md) (as an\
       \ action), [Gust of Wind](/compendium/spells/gust-of-wind.md), [Mirror Image](/compendium/spells/mirror-image.md),\
-      \ [Nondetection](/compendium/spells/nondetection.md)\n\n**1/day each:** [Greater\
+      \ [Nondetection](/compendium/spells/nondetection.md)\n\n1/day each: [Greater\
       \ Invisibility](/compendium/spells/greater-invisibility.md), [Polymorph](/compendium/spells/polymorph.md),\
       \ [Scrying](/compendium/spells/scrying.md) (as an action)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature that has\
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one creature that has\
       \ the [charmed](/compendium/rules/conditions.md#Charmed) or [grappled](/compendium/rules/conditions.md#Grappled)\
-      \ condition. *Hit:* 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage.\
+      \ condition. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage.\
       \ The target's hit point maximum is reduced by an amount equal to the necrotic\
       \ damage taken, and Strahd regains a number of hit points equal to that amount.\
       \ The reduction lasts until the target finishes a long rest. The target dies\
@@ -236,9 +235,6 @@ actions:
       \ he takes as part of his Vampire Weaknesses trait. While in mist form, Strahd\
       \ can't take any actions, speak, or manipulate objects."
     "name": "Mist Form"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Strahd can expend a use to take one of the following actions. Strahd regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Strahd moves up to his speed without provoking opportunity attacks."
     "name": "Cunning Escape"

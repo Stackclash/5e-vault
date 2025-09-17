@@ -135,16 +135,16 @@ actions:
 "traits":
   - "desc": "Lysan's innate spellcasting ability is Intelligence (spell save DC 13,\
       \ +5 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no components:\n\n**At will:** [mage hand](/compendium/spells/mage-hand.md)\
-      \ (the hand is invisible)\n\n**3/day each:** [jump](/compendium/spells/jump.md),\
+      \ requiring no components:\n\nAt will: [mage hand](/compendium/spells/mage-hand.md)\
+      \ (the hand is invisible)\n\n3/day each: [jump](/compendium/spells/jump.md),\
       \ [misty step](/compendium/spells/misty-step.md), [nondetection](/compendium/spells/nondetection.md)\
-      \ (self only), [tongues](/compendium/spells/tongues.md)\n\n**1/day each:** [plane\
+      \ (self only), [tongues](/compendium/spells/tongues.md)\n\n1/day each: [plane\
       \ shift](/compendium/spells/plane-shift.md), [telekinesis](/compendium/spells/telekinesis.md)"
     "name": "Innate Spellcasting (Psionics)"
 "actions":
   - "desc": "Lysan makes two silver greatsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 13\
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13\
       \ (2d6 + 6) slashing damage plus 10 (3d6) psychic damage. This is a magic weapon\
       \ attack. On a critical hit against a target in an astral body (as with the\
       \ [astral projection](/compendium/spells/astral-projection.md) spell), Lysan\

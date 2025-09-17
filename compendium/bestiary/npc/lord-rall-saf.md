@@ -150,22 +150,21 @@ actions:
     "desc": "+5"
 "damage_resistances": "psychic"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [petrified](/compendium/rules/conditions.md#Petrified)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Common, Deep Speech, Primordial"
 "cr": "8"
 "traits":
   - "desc": "Lord Rall is a 10th-level spellcaster. His spellcasting ability is Intelligence\
       \ (spell save DC 16, +8 to hit with spell attacks). He has the following wizard\
-      \ spells prepared:\n\n**Cantrips (at will):** [mage hand](/compendium/spells/mage-hand.md),\
+      \ spells prepared:\n\nCantrips (at will): [mage hand](/compendium/spells/mage-hand.md),\
       \ [minor illusion](/compendium/spells/minor-illusion.md), [ray of frost](/compendium/spells/ray-of-frost.md)\n\
-      \n**1st level (4 slots):** [mage armor](/compendium/spells/mage-armor.md), [magic\
+      \n1st level (4 slots): [mage armor](/compendium/spells/mage-armor.md), [magic\
       \ missile](/compendium/spells/magic-missile.md), [sleep](/compendium/spells/sleep.md)\n\
-      \n**2nd level (3 slots):** [ray of enfeeblement](/compendium/spells/ray-of-enfeeblement.md),\
-      \ [mirror image](/compendium/spells/mirror-image.md)\n\n**3rd level (3 slots):**\
+      \n2nd level (3 slots): [ray of enfeeblement](/compendium/spells/ray-of-enfeeblement.md),\
+      \ [mirror image](/compendium/spells/mirror-image.md)\n\n3rd level (3 slots):\
       \ [lightning bolt](/compendium/spells/lightning-bolt.md), [haste](/compendium/spells/haste.md)\n\
-      \n**4th level (3 slots):** [black tentacles](/compendium/spells/evards-black-tentacles.md),\
-      \ [blight](/compendium/spells/blight.md)\n\n**5th level (2 slots):** [cloudkill](/compendium/spells/cloudkill.md)"
+      \n4th level (3 slots): [black tentacles](/compendium/spells/evards-black-tentacles.md),\
+      \ [blight](/compendium/spells/blight.md)\n\n5th level (2 slots): [cloudkill](/compendium/spells/cloudkill.md)"
     "name": "Spellcasting"
   - "desc": "The Court of All Flesh are beings of pure chaos. Because their minds\
       \ are pure disorder, they cannot be driven mad or [charmed](/compendium/rules/conditions.md#Charmed)\
@@ -186,7 +185,7 @@ actions:
       \ a DC of 16. Lord Rall does not need to concentrate on this spell to maintain\
       \ it."
     "name": "The Staff of Changing (Recharge 5-6)"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 8 (2d6\
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (2d6\
       \ + 1) bludgeoning damage, or 10 (2d8 + 1) bludgeoning damage if wielded with\
       \ two hands."
     "name": "Greatstaff"

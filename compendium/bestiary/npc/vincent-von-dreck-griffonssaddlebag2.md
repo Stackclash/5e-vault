@@ -142,28 +142,27 @@ actions:
     "desc": "+8"
   - "name": "[Persuasion](/compendium/rules/skills.md#Persuasion)"
     "desc": "+7"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft. (dragon form\
-  \ only), passive Perception 18"
+"senses": "darkvision 60 ft. (dragon form only), passive Perception 18"
 "languages": "Common, Draconic, Druidic"
 "cr": "9"
 "traits":
   - "desc": "Vincent is a 12th-level spellcaster. His spellcasting ability is Wisdom\
       \ (spell save DC 16), and he can't cast spells that require material components\
-      \ while in dragon form. He has the following druid spells prepared:\n\n**Cantrips\
-      \ (at will):** [druidcraft](/compendium/spells/druidcraft.md), [poison spray](/compendium/spells/poison-spray.md),\
-      \ [produce flame](/compendium/spells/produce-flame.md), [shillelagh](/compendium/spells/shillelagh.md)*\
-      \ (can cast on sickles)\n\n**1st level (4 slots):** [cure wounds](/compendium/spells/cure-wounds.md),\
+      \ while in dragon form. He has the following druid spells prepared:\n\nCantrips\
+      \ (at will): [druidcraft](/compendium/spells/druidcraft.md), [poison spray](/compendium/spells/poison-spray.md),\
+      \ [produce flame](/compendium/spells/produce-flame.md), [shillelagh](/compendium/spells/shillelagh.md)\
+      \ (can cast on sickles)\n\n1st level (4 slots): [cure wounds](/compendium/spells/cure-wounds.md),\
       \ [entangle](/compendium/spells/entangle.md), [healing word](/compendium/spells/healing-word.md)\n\
-      \n**2nd level (3 slots):** [enhance ability](/compendium/spells/enhance-ability.md)*,\
-      \ [locate object](/compendium/spells/locate-object.md)*, [spike growth](/compendium/spells/spike-growth.md)*\n\
-      \n**3rd level (3 slots):** [plant growth](/compendium/spells/plant-growth.md),\
+      \n2nd level (3 slots): [enhance ability](/compendium/spells/enhance-ability.md),\
+      \ [locate object](/compendium/spells/locate-object.md), [spike growth](/compendium/spells/spike-growth.md)\n\
+      \n3rd level (3 slots): [plant growth](/compendium/spells/plant-growth.md),\
       \ [protection from energy](/compendium/spells/protection-from-energy.md), [wind\
-      \ wall](/compendium/spells/wind-wall.md)*\n\n**4th level (3 slots):** [dominate\
-      \ beast](/compendium/spells/dominate-beast.md), [freedom of movement](/compendium/spells/freedom-of-movement.md)*,\
-      \ [polymorph](/compendium/spells/polymorph.md)*\n\n**5th level (2 slots):**\
+      \ wall](/compendium/spells/wind-wall.md)\n\n4th level (3 slots): [dominate\
+      \ beast](/compendium/spells/dominate-beast.md), [freedom of movement](/compendium/spells/freedom-of-movement.md),\
+      \ [polymorph](/compendium/spells/polymorph.md)\n\n5th level (2 slots):\
       \ [commune with nature](/compendium/spells/commune-with-nature.md), [tree stride](/compendium/spells/tree-stride.md)\n\
-      \n**6th level (1 slots):** [transport via plants](/compendium/spells/transport-via-plants.md),\
-      \ [wall of thorns](/compendium/spells/wall-of-thorns.md)*\n\n*This spell requires\
+      \n6th level (1 slots): [transport via plants](/compendium/spells/transport-via-plants.md),\
+      \ [wall of thorns](/compendium/spells/wall-of-thorns.md)\n\nThis spell requires\
       \ material components."
     "name": "Spellcasting (Humanoid Form Only)"
   - "desc": "While in dragon form, Vincent's attacks count as magical for the purpose\
@@ -173,14 +172,14 @@ actions:
   - "desc": "In dragon form, Vincent makes two attacks: one with his bite and one\
       \ with his claws. In humanoid form, he makes two sickle attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit (+8 to hit with [shillelagh](/compendium/spells/shillelagh.md)),\
-      \ reach 5 ft., one target. *Hit:* 2 (1d4) slashing damage, or 8 (1d8 + 4) slashing\
+  - "desc": "Melee Weapon Attack: +4 to hit (+8 to hit with [shillelagh](/compendium/spells/shillelagh.md)),\
+      \ reach 5 ft., one target. Hit: 2 (d4) slashing damage, or 8 (1d8 + 4) slashing\
       \ damage with [shillelagh](/compendium/spells/shillelagh.md)."
     "name": "Sickle (Humanoid Form Only)"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10\
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10\
       \ (1d12 + 4) piercing damage."
     "name": "Bite (Dragon Form Only)"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 11\
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit:* 11\
       \ (2d6 + 4) piercing damage."
     "name": "Claw (Dragon Form Only)"
   - "desc": "Vincent exhales a plume of energy in a 25-foot cone. Each creature in\

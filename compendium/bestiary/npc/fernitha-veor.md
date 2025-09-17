@@ -134,8 +134,7 @@ actions:
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 12"
+"senses": "truesight 120 ft., passive Perception 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "12"
 "traits":
@@ -148,11 +147,11 @@ actions:
 "actions":
   - "desc": "Fernitha makes three attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8\
       \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands,\
       \ plus 13 (3d8) poison damage."
     "name": "Longsword"
-  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:*\
+  - "desc": "Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit:\
       \ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must\
       \ succeed on a DC 14 Constitution saving throw or be [poisoned](/compendium/rules/conditions.md#Poisoned).\
       \ The poison lasts until it is removed by the [lesser restoration](/compendium/spells/lesser-restoration.md)\

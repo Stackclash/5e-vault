@@ -178,10 +178,10 @@ actions:
   - "desc": "Alustriel makes three Staff of Silverymoon attacks or two Reproving Ray\
       \ attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14\
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14\
       \ (2d8 + 5) bludgeoning damage plus 38 (7d10) radiant damage."
     "name": "Staff of Silverymoon"
-  - "desc": "*Ranged Spell Attack:* +14 to hit, range 120 ft., one target. *Hit:*\
+  - "desc": "Ranged Spell Attack: +14 to hit, range 120 ft., one target. Hit:\
       \ 65 (9d12 + 7) force damage, and if the target is a creature, it must make\
       \ a DC 22 Charisma saving throw. On a failed save, the target has the [incapacitated](/compendium/rules/conditions.md#Incapacitated)\
       \ condition until the start of Alustriel's next turn. On a successful save,\
@@ -195,11 +195,11 @@ actions:
       \ 10 (3d6) hit points."
     "name": "Argent Blaze (Requires Silver Fire)"
   - "desc": "Alustriel casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 22):\n\n**At will:** [Dancing Lights](/compendium/spells/dancing-lights.md),\
+      \ spellcasting ability (spell save DC 22):\n\nAt will: [Dancing Lights](/compendium/spells/dancing-lights.md),\
       \ [Detect Magic](/compendium/spells/detect-magic.md), [Mage Armor](/compendium/spells/mage-armor.md)\
-      \ (self only), [Mage Hand](/compendium/spells/mage-hand.md)\n\n**2/day each:**\
+      \ (self only), [Mage Hand](/compendium/spells/mage-hand.md)\n\n2/day each:\
       \ [Detect Thoughts](/compendium/spells/detect-thoughts.md), [Dispel Magic](/compendium/spells/dispel-magic.md),\
-      \ [Tongues](/compendium/spells/tongues.md)\n\n**1/day each:** [Telepathy](/compendium/spells/telepathy.md),\
+      \ [Tongues](/compendium/spells/tongues.md)\n\n1/day each: [Telepathy](/compendium/spells/telepathy.md),\
       \ [Teleport](/compendium/spells/teleport.md), [Time Stop](/compendium/spells/time-stop.md)"
     "name": "Spellcasting"
 "bonus_actions":

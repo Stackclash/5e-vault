@@ -157,8 +157,7 @@ actions:
 "damage_immunities": "fire, poison"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 21"
+"senses": "darkvision 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "21"
 "traits":
@@ -175,13 +174,13 @@ actions:
   - "desc": "Moloch makes one Bite attack, one Claw attack, and one Many-Tailed Whip\
       \ attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 26\
+  - "desc": "Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 26\
       \ (4d8 + 8) fire damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 17\
+  - "desc": "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17\
       \ (2d8 + 8) force damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 30 ft., one target. *Hit:* 13\
+  - "desc": "Melee Weapon Attack: +15 to hit, reach 30 ft., one target. Hit: 13\
       \ (2d4 + 8) lightning damage plus 11 (2d10) thunder damage. If the target is\
       \ a creature, it must succeed on a DC 24 Strength saving throw or be pulled\
       \ up to 30 feet in a straight line toward Moloch."
@@ -201,16 +200,13 @@ actions:
       \ up to 120 feet to an unoccupied space he can see."
     "name": "Teleport"
   - "desc": "Moloch casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [alter self](/compendium/spells/alter-self.md) (can become Medium\
+      \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt\
+      \ will: [alter self](/compendium/spells/alter-self.md) (can become Medium\
       \ when changing his appearance), [confusion](/compendium/spells/confusion.md),\
       \ [detect magic](/compendium/spells/detect-magic.md), [fly](/compendium/spells/fly.md),\
       \ [major image](/compendium/spells/major-image.md), [stinking cloud](/compendium/spells/stinking-cloud.md),\
       \ [suggestion](/compendium/spells/suggestion.md), [wall of fire](/compendium/spells/wall-of-fire.md)"
     "name": "Spellcasting"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Moloch can expend a use to take one of the following actions. Moloch regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Moloch makes one Bite, Claw, or Many-Tailed Whip attack."
     "name": "Attack"

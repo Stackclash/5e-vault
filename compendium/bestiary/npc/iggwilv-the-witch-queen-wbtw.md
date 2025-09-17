@@ -138,8 +138,7 @@ actions:
   - "name": "[Nature](/compendium/rules/skills.md#Nature)"
     "desc": "+14"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [frightened](/compendium/rules/conditions.md#Frightened)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 60 ft., passive Perception\
-  \ 11"
+"senses": "truesight 60 ft., passive Perception 11"
 "languages": "Abyssal, Celestial, Common, Draconic, Elvish, Infernal, Sylvan"
 "cr": "20"
 "traits":
@@ -157,8 +156,8 @@ actions:
 "actions":
   - "desc": "Iggwilv makes two Bewitching Bolt attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* +16 to hit, reach 5 ft. or range 120\
-      \ ft., one target. *Hit:* 25 (5d6 + 8) lightning damage, and if the target is\
+  - "desc": "Melee  or Ranged Spell Attack: +16 to hit, reach 5 ft. or range 120\
+      \ ft., one target. Hit: 25 (5d6 + 8) lightning damage, and if the target is\
       \ a creature, it must succeed on a DC 22 Wisdom saving throw or be [charmed](/compendium/rules/conditions.md#Charmed)\
       \ by Iggwilv until the start of her next turn."
     "name": "Bewitching Bolt"
@@ -173,13 +172,13 @@ actions:
     "name": "Abyssal Rift (Recharge 5-6)"
   - "desc": "Iggwilv casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 24, +16\
-      \ to hit with spell attacks):\n\n**At will:** [detect magic](/compendium/spells/detect-magic.md),\
+      \ to hit with spell attacks):\n\nAt will: [detect magic](/compendium/spells/detect-magic.md),\
       \ [disguise self](/compendium/spells/disguise-self.md), [invisibility](/compendium/spells/invisibility.md),\
       \ [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md),\
       \ [message](/compendium/spells/message.md), [prestidigitation](/compendium/spells/prestidigitation.md),\
       \ [Tasha's hideous laughter](/compendium/spells/tashas-hideous-laughter.md)\n\
-      \n**3/day each:** [dispel magic](/compendium/spells/dispel-magic.md), [fly](/compendium/spells/fly.md),\
-      \ [polymorph](/compendium/spells/polymorph.md)\n\n**1/day each:** [maze](/compendium/spells/maze.md),\
+      \n3/day each: [dispel magic](/compendium/spells/dispel-magic.md), [fly](/compendium/spells/fly.md),\
+      \ [polymorph](/compendium/spells/polymorph.md)\n\n1/day each: [maze](/compendium/spells/maze.md),\
       \ [telekinesis](/compendium/spells/telekinesis.md), [teleport](/compendium/spells/teleport.md),\
       \ [wish](/compendium/spells/wish.md)"
     "name": "Spellcasting"
@@ -194,9 +193,6 @@ actions:
       \ a 9th-level spell, it must succeed on a DC 22 Intelligence saving throw, or\
       \ the spells fails and has no effect."
     "name": "Negate Spell (2/Day)"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Iggwilv can expend a use to take one of the following actions. Iggwilv regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Iggwilv uses Spellcasting or Fey Step."
     "name": "Witchcraft"

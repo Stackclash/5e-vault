@@ -135,8 +135,7 @@ actions:
   - "name": "[Stealth](/compendium/rules/skills.md#Stealth)"
     "desc": "+9"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 17"
+"senses": "darkvision 120 ft., passive Perception 17"
 "languages": "the languages it knew in life"
 "cr": "13"
 "traits":
@@ -173,27 +172,27 @@ actions:
   - "desc": "Sangora can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
     "name": "Spider Climb"
-  - "desc": "Sangora has the following flaws:\n\n- **Forbiddance.** Sangora can't\
-      \ enter a residence without an invitation from one of the occupants.  \n- **Harmed\
-      \ by Running Water.** Sangora takes 20 acid damage if it ends its turn in running\
-      \ water.  \n- **Stake to the Heart.** If a piercing weapon made of wood is driven\
+  - "desc": "Sangora has the following flaws:\n\n- Forbiddance. Sangora can't\
+      \ enter a residence without an invitation from one of the occupants.  \n- Harmed\
+      \ by Running Water. Sangora takes 20 acid damage if it ends its turn in running\
+      \ water.  \n- Stake to the Heart. If a piercing weapon made of wood is driven\
       \ into Sangora's heart while Sangora is [incapacitated](/compendium/rules/conditions.md#Incapacitated)\
       \ in its resting place, Sangora is [paralyzed](/compendium/rules/conditions.md#Paralyzed)\
-      \ until the stake is removed.  \n- **Sunlight Hypersensitivity.** Sangora takes\
+      \ until the stake is removed.  \n- Sunlight Hypersensitivity. Sangora takes\
       \ 20 radiant damage when it starts its turn in sunlight. While in sunlight,\
       \ it has disadvantage on attack rolls and ability checks.  "
     "name": "Vampire Weaknesses"
 "actions":
   - "desc": "Sangora makes two attacks, only one of which can be a bite attack."
     "name": "Multiattack (Vampire Form Only)"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 8\
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 8\
       \ (1d8 + 4) bludgeoning damage. Instead of dealing damage, Sangora can grapple\
       \ the target (escape DC 18)."
     "name": "Unarmed Strike (Vampire Form Only)"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one willing creature,\
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one willing creature,\
       \ or a creature that is [grappled](/compendium/rules/conditions.md#Grappled)\
       \ by Sangora, [incapacitated](/compendium/rules/conditions.md#Incapacitated),\
-      \ or [restrained](/compendium/rules/conditions.md#Restrained). *Hit:* 7 (1d6\
+      \ or [restrained](/compendium/rules/conditions.md#Restrained). Hit: 7 (1d6\
       \ + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point\
       \ maximum is reduced by an amount equal to the necrotic damage taken, and Sangora\
       \ regains hit points equal to that amount. The reduction lasts until the target\
@@ -218,13 +217,10 @@ actions:
   - "desc": "Sangora magically calls 2d4 swarms of [bats](/compendium/bestiary/beast/swarm-of-bats.md)\
       \ or [rats](/compendium/bestiary/beast/swarm-of-rats.md), provided that the\
       \ sun isn't up. While outdoors, Sangora can call 3d6 [wolves](/compendium/bestiary/beast/wolf.md)\
-      \ instead. The called creatures arrive in 1d4 rounds, acting as allies of Sangora\
+      \ instead. The called creatures arrive in d4 rounds, acting as allies of Sangora\
       \ and obeying its spoken commands. The beasts remain for 1 hour, until Sangora\
       \ dies, or until Sangora dismisses them as a bonus action."
     "name": "Children of the Night (1/Day)"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Sangora can expend a use to take one of the following actions. Sangora regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Sangora moves up to its speed without provoking opportunity attacks."
     "name": "Move"

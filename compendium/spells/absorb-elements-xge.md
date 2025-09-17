@@ -1,0 +1,50 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags: 
+- compendium/src/5e/xge
+- spell/class/artificer
+- spell/class/bard
+- spell/class/druid
+- spell/class/ranger
+- spell/class/sorcerer
+- spell/class/wizard
+- spell/feat/artificer-initiate
+- spell/feat/magic-initiate
+- spell/level/1st-level
+- spell/school/abjuration
+- spell/subclass/arcane-trickster
+- spell/subclass/eldritch-knight
+classes: 
+- Artificer
+- Bard
+- Druid
+- Fighter (Eldritch Knight)
+- Ranger
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Wizard
+school: Abjuration
+level: 1
+ritual: false
+time: 1 Reaction
+duration: 1 round
+range: Self
+aliases: 
+- Absorb Elements
+---
+# Absorb Elements
+*1st-level, Abjuration*  
+
+- **Casting time:** 1 Reaction
+- **Range:** Self
+- **Components:** S
+- **Duration:** 1 round
+
+The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) damage of the triggering type, and the spell ends.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 1st.
+
+**Classes**: [Druid](/compendium/lists/list-spells-classes-druid.md); [Sorcerer](/compendium/lists/list-spells-classes-sorcerer.md); [Rogue (Arcane Trickster)](/compendium/lists/list-spells-classes-arcane-trickster.md); [Fighter (Eldritch Knight)](/compendium/lists/list-spells-classes-eldritch-knight.md); [Wizard](/compendium/lists/list-spells-classes-wizard.md); [Ranger](/compendium/lists/list-spells-classes-ranger.md); [Bard](/compendium/lists/list-spells-classes-bard.md); [Artificer](/compendium/lists/list-spells-classes-artificer.md)
+
+*Source: Xanathar's Guide to Everything p. 150*

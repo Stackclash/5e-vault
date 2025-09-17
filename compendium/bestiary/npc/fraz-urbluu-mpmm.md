@@ -159,8 +159,7 @@ actions:
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 24"
+"senses": "truesight 120 ft., passive Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "23"
 "traits":
@@ -176,10 +175,10 @@ actions:
   - "desc": "Fraz-Urb'luu makes one Bite attack and two Fist attacks, and he uses\
       \ Phantasmal Terror."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 19\
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 19\
       \ (3d6 + 9) force damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 22\
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 22\
       \ (3d8 + 9) force damage."
     "name": "Fist"
   - "desc": "Fraz-Urb'luu targets one creature he can see within 120 feet of him.\
@@ -189,46 +188,15 @@ actions:
     "name": "Phantasmal Terror"
   - "desc": "Fraz-Urb'luu casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 23):\n\
-      \n**At will:** [alter self](/compendium/spells/alter-self.md) (can become Medium\
+      \nAt will: [alter self](/compendium/spells/alter-self.md) (can become Medium\
       \ when changing his appearance), [detect magic](/compendium/spells/detect-magic.md),\
       \ [dispel magic](/compendium/spells/dispel-magic.md), [phantasmal force](/compendium/spells/phantasmal-force.md)\n\
-      \n**3/day each:** [mislead](/compendium/spells/mislead.md), [programmed illusion](/compendium/spells/programmed-illusion.md),\
-      \ [seeming](/compendium/spells/seeming.md)\n\n**1/day each:** [modify memory](/compendium/spells/modify-memory.md),\
+      \n3/day each: [mislead](/compendium/spells/mislead.md), [programmed illusion](/compendium/spells/programmed-illusion.md),\
+      \ [seeming](/compendium/spells/seeming.md)\n\n1/day each: [modify memory](/compendium/spells/modify-memory.md),\
       \ [project image](/compendium/spells/project-image.md)"
     "name": "Spellcasting"
-"lair_actions":
-  - "desc": "On initiative count 20 (losing initiative ties), Fraz-Urb'luu can take\
-      \ one of the following lair actions when in his lair; he can't take the same\
-      \ lair action two rounds in a row:\n\n- **Conjure Walls and Doors.** Fraz-Urb'luu\
-      \ causes up to five doors within the lair to become walls and an equal number\
-      \ of doors to appear on walls where there previously were none.  \n- **Psychic\
-      \ Anguish.** Fraz-Urb'luu creates a wave of anguish. Each creature he can see\
-      \ within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (6d10)\
-      \ psychic damage.  \n- **Simulacrum.** Fraz-Urb'luu chooses one Humanoid within\
-      \ the lair and instantly creates a simulacrum of that creature (as if created\
-      \ with the [simulacrum](/compendium/spells/simulacrum.md) spell). This simulacrum\
-      \ obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count\
-      \ 20.  "
-    "name": ""
-"regional_effects":
-  - "desc": "The region containing Fraz-Urb'luu's lair is warped by his magic, creating\
-      \ one or more of the following effects:\n\n- **Beguiling Realm.** Within 6 miles\
-      \ of the lair, all Charisma ([Persuasion](/compendium/rules/skills.md#Persuasion))\
-      \ and Wisdom ([Insight](/compendium/rules/skills.md#Insight)) checks have disadvantage,\
-      \ and all Charisma ([Deception](/compendium/rules/skills.md#Deception)) and\
-      \ Charisma ([Performance](/compendium/rules/skills.md#Performance)) checks have\
-      \ advantage.  \n- **Nostalgic Pangs.** Sapient creatures within 1 mile of the\
-      \ lair frequently see hallucinations of long-dead friends and comrades that\
-      \ vanish after only a brief glimpse.  \n- **Twisted Paths.** Roads and paths\
-      \ within 6 miles of the lair twist and turn back on themselves, making navigation\
-      \ in the area exceedingly difficult.  \n\nIf Fraz-Urb'luu dies, these effects\
-      \ fade over the course of 1d10 days."
-    "name": ""
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Fraz-Urb'luu can expend a use to take one of the following actions. Fraz-Urb'luu\
-  \ regains all expended uses at the start of each of their turns."
 "legendary_actions":
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20\
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 20\
       \ (2d10 + 9) force damage. If the target is a Large or smaller creature, it\
       \ is also [grappled](/compendium/rules/conditions.md#Grappled) (escape DC 24),\
       \ and it is [restrained](/compendium/rules/conditions.md#Restrained) until the\
@@ -237,6 +205,37 @@ actions:
     "name": "Tail"
   - "desc": "Fraz-Urb'luu uses Phantasmal Terror."
     "name": "Terror (Costs 2 Actions)"
+"lair_actions":
+  - "desc": "On initiative count 20 (losing initiative ties), Fraz-Urb'luu can take\
+      \ one of the following lair actions when in his lair; he can't take the same\
+      \ lair action two rounds in a row:"
+    "name": ""
+  - "desc": "- Conjure Walls and Doors. Fraz-Urb'luu causes up to five doors within\
+      \ the lair to become walls and an equal number of doors to appear on walls where\
+      \ there previously were none.  \n- Psychic Anguish. Fraz-Urb'luu creates\
+      \ a wave of anguish. Each creature he can see within the lair must succeed on\
+      \ a DC 23 Wisdom saving throw or take 33 (6d10) psychic damage.  \n- Simulacrum.\
+      \ Fraz-Urb'luu chooses one Humanoid within the lair and instantly creates a\
+      \ simulacrum of that creature (as if created with the [simulacrum](/compendium/spells/simulacrum.md)\
+      \ spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on\
+      \ the next initiative count 20.  "
+    "name": ""
+"regional_effects":
+  - "desc": "The region containing Fraz-Urb'luu's lair is warped by his magic, creating\
+      \ one or more of the following effects:"
+    "name": ""
+  - "desc": "- Beguiling Realm. Within 6 miles of the lair, all Charisma ([Persuasion](/compendium/rules/skills.md#Persuasion))\
+      \ and Wisdom ([Insight](/compendium/rules/skills.md#Insight)) checks have disadvantage,\
+      \ and all Charisma ([Deception](/compendium/rules/skills.md#Deception)) and\
+      \ Charisma ([Performance](/compendium/rules/skills.md#Performance)) checks have\
+      \ advantage.  \n- Nostalgic Pangs. Sapient creatures within 1 mile of the\
+      \ lair frequently see hallucinations of long-dead friends and comrades that\
+      \ vanish after only a brief glimpse.  \n- Twisted Paths. Roads and paths\
+      \ within 6 miles of the lair twist and turn back on themselves, making navigation\
+      \ in the area exceedingly difficult.  "
+    "name": ""
+  - "desc": "If Fraz-Urb'luu dies, these effects fade over the course of d10 days."
+    "name": ""
 "source":
   - "MPMM"
   - "MTF"

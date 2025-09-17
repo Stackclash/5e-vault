@@ -138,14 +138,13 @@ actions:
     "desc": "+9"
   - "name": "[Stealth](/compendium/rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Infernal, Thieves' cant"
 "cr": "5"
 "traits":
   - "desc": "Raikya's innate spellcasting ability is Charisma. She can innately cast\
       \ the following spells (spell save DC 14), requiring no material components:\n\
-      \n**At will:** [thaumaturgy](/compendium/spells/thaumaturgy.md)\n\n**1/day each:**\
+      \nAt will: [thaumaturgy](/compendium/spells/thaumaturgy.md)\n\n1/day each:\
       \ [darkness](/compendium/spells/darkness.md), [hellish rebuke](/compendium/spells/hellish-rebuke.md)\
       \ (as a 2nd-level spell)"
     "name": "Innate Spellcasting"
@@ -161,10 +160,10 @@ actions:
 "actions":
   - "desc": "Raikya makes two attacks with her dagger or rapier."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage."
+  - "desc": "Melee  or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 5 (1d4 + 3) piercing damage."
     "name": "Dagger"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
+  - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8\
       \ + 3) piercing damage."
     "name": "Rapier"
 "reactions":

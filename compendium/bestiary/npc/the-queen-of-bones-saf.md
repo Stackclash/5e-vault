@@ -154,28 +154,27 @@ actions:
     "desc": "+4"
 "damage_resistances": "psychic"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [petrified](/compendium/rules/conditions.md#Petrified)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 18"
+"senses": "darkvision 60 ft., passive Perception 18"
 "languages": "Common, Deep Speech, Primordial"
 "cr": "7"
 "traits":
   - "desc": "The Queen is a 9th-level spellcaster. Her spellcasting ability is Wisdom\
       \ (spell save DC 16, +8 to hit with spell attacks). She has the following cleric\
-      \ spells prepared:\n\n**Cantrips (at will):** [guidance](/compendium/spells/guidance.md),\
+      \ spells prepared:\n\nCantrips (at will): [guidance](/compendium/spells/guidance.md),\
       \ [mending](/compendium/spells/mending.md), [sacred flame](/compendium/spells/sacred-flame.md),\
-      \ [spare the dying](/compendium/spells/spare-the-dying.md)\n\n**1st level (4\
-      \ slots):** [bane](/compendium/spells/bane.md), [inflict wounds](/compendium/spells/inflict-wounds.md),\
+      \ [spare the dying](/compendium/spells/spare-the-dying.md)\n\n1st level (4\
+      \ slots): [bane](/compendium/spells/bane.md), [inflict wounds](/compendium/spells/inflict-wounds.md),\
       \ [healing word](/compendium/spells/healing-word.md), [shield of faith](/compendium/spells/shield-of-faith.md)\n\
-      \n**2nd level (3 slots):** [hold person](/compendium/spells/hold-person.md),\
+      \n2nd level (3 slots): [hold person](/compendium/spells/hold-person.md),\
       \ [lesser restoration](/compendium/spells/lesser-restoration.md), [magic weapon](/compendium/spells/magic-weapon.md),\
       \ [silence](/compendium/spells/silence.md), [spiritual weapon](/compendium/spells/spiritual-weapon.md)\n\
-      \n**3rd level (3 slots):** [animate dead](/compendium/spells/animate-dead.md),\
+      \n3rd level (3 slots): [animate dead](/compendium/spells/animate-dead.md),\
       \ [bestow curse](/compendium/spells/bestow-curse.md), [dispel magic](/compendium/spells/dispel-magic.md),\
       \ [protection from energy](/compendium/spells/protection-from-energy.md), [revivify](/compendium/spells/revivify.md),\
-      \ [water walk](/compendium/spells/water-walk.md)\n\n**4th level (3 slots):**\
+      \ [water walk](/compendium/spells/water-walk.md)\n\n4th level (3 slots):\
       \ [banishment](/compendium/spells/banishment.md), [death ward](/compendium/spells/death-ward.md),\
       \ [freedom of movement](/compendium/spells/freedom-of-movement.md), [stoneskin](/compendium/spells/stoneskin.md)\n\
-      \n**5th level (1 slots):** [contagion](/compendium/spells/contagion.md), [flame\
+      \n5th level (1 slots): [contagion](/compendium/spells/contagion.md), [flame\
       \ strike](/compendium/spells/flame-strike.md), [insect plague](/compendium/spells/insect-plague.md)\n\
       \ndispel magic, protection from energy, revivify, water walk"
     "name": "Spellcasting"
@@ -188,7 +187,7 @@ actions:
 "actions":
   - "desc": "The Queen makes two attacks with her Bone Bow."
     "name": "Multiattack"
-  - "desc": "*Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:*\
+  - "desc": "Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit:\
       \ 11 (2d8 + 2) damage."
     "name": "Bone Bow"
   - "desc": "The Queen targets one creature she can see within 30 feet of her and\

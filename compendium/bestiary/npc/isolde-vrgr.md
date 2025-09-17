@@ -148,15 +148,14 @@ actions:
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; poison; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Common, Infernal"
 "cr": "5"
 "traits":
   - "desc": "Isolde's spellcasting ability is Charisma (spell save DC 14). Isolde\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**3/day each:** [alter self](/compendium/spells/alter-self.md), [command](/compendium/spells/command.md),\
-      \ [detect magic](/compendium/spells/detect-magic.md)\n\n**1/day:** [plane shift](/compendium/spells/plane-shift.md)\
+      \n3/day each: [alter self](/compendium/spells/alter-self.md), [command](/compendium/spells/command.md),\
+      \ [detect magic](/compendium/spells/detect-magic.md)\n\n1/day: [plane shift](/compendium/spells/plane-shift.md)\
       \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "The AC of Isolde includes her Charisma bonus."
@@ -169,12 +168,12 @@ actions:
 "actions":
   - "desc": "Isolde makes two melee attacks or uses its Fire Ray twice."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft.., one target. *Hit:* 11\
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft.., one target. Hit: 11\
       \ (1d8 + 7) slashing damage, or 12 (1d10 + 7) slashing damage if used with two\
       \ hands to make a melee attack. If the target is a fiend or an undead, it takes\
       \ an extra 11 (2d10) radiant damage."
     "name": "Nepenthe"
-  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 10\
+  - "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 10\
       \ (3d6) fire damage."
     "name": "Fire Ray"
   - "desc": "One humanoid Isolde can see within 30 feet of it must succeed on a DC\

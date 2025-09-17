@@ -152,8 +152,7 @@ actions:
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 21"
+"senses": "truesight 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "23"
 "traits":
@@ -165,15 +164,15 @@ actions:
 "actions":
   - "desc": "Zuggtmoy makes three Pseudopod attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 15\
+  - "desc": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 15\
       \ (2d8 + 6) force damage plus 9 (2d8) poison damage."
     "name": "Pseudopod"
   - "desc": "Zuggtmoy casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 22):\n\n**At\
-      \ will:** [detect magic](/compendium/spells/detect-magic.md), [locate animals\
-      \ or plants](/compendium/spells/locate-animals-or-plants.md)\n\n**3/day each:**\
+      \ and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt\
+      \ will: [detect magic](/compendium/spells/detect-magic.md), [locate animals\
+      \ or plants](/compendium/spells/locate-animals-or-plants.md)\n\n3/day each:\
       \ [dispel magic](/compendium/spells/dispel-magic.md), [entangle](/compendium/spells/entangle.md),\
-      \ [plant growth](/compendium/spells/plant-growth.md)\n\n**1/day each:** [etherealness](/compendium/spells/etherealness.md),\
+      \ [plant growth](/compendium/spells/plant-growth.md)\n\n1/day each: [etherealness](/compendium/spells/etherealness.md),\
       \ [teleport](/compendium/spells/teleport.md)"
     "name": "Spellcasting"
 "bonus_actions":
@@ -204,33 +203,6 @@ actions:
       \ her that is [charmed](/compendium/rules/conditions.md#Charmed) by her is hit\
       \ by the attack instead."
     "name": "Protective Thrall"
-"lair_actions":
-  - "desc": "On Initiative count 20 (losing initiative ties), Zuggtmoy can take a\
-      \ lair action to cause one of the following effects; she can't use the same\
-      \ effect two rounds in a row:\n\n- **Rally Plants.** Up to four plant creatures\
-      \ that are friendly to Zuggtmoy and that Zuggtmoy can see can use their reactions\
-      \ to move up to their speed and make one weapon attack.  \n- **Summon Fungi.**\
-      \ Zuggtmoy causes four [gas spores](/compendium/bestiary/plant/gas-spore.md)\
-      \ or [violet fungi](/compendium/bestiary/plant/violet-fungus.md) to appear in\
-      \ unoccupied spaces that she chooses within the lair. They vanish after 1 hour.\
-      \  \n- **Unleash Spores.** Zuggtmoy uses either her Infestation Spores or her\
-      \ Mind Control Spores, centered on a mushroom or other fungus within her lair,\
-      \ instead of on herself.  "
-    "name": ""
-"regional_effects":
-  - "desc": "The region containing Zuggtmoy's lair is warped by his magic, creating\
-      \ one or more of the following effects:\n\n- **Corrupted Nature.** Within 6\
-      \ miles of the lair, all Wisdom ([Medicine](/compendium/rules/skills.md#Medicine))\
-      \ and Wisdom ([Survival](/compendium/rules/skills.md#Survival)) checks have\
-      \ disadvantage.  \n- **Fungal Infestation.** Molds and fungi grow on surfaces\
-      \ within 6 miles of the lair, even where they would normally find no purchase.\
-      \  \n- **Mutating Vegetation.** Vegetation within 1 mile of the lair becomes\
-      \ infested with parasitic fungi, slowly mutating as it is overwhelmed.  \n-\
-      \ If Zuggtmoy dies, these effects fade over the course of 1d10 days.  "
-    "name": ""
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Zuggtmoy can expend a use to take one of the following actions. Zuggtmoy\
-  \ regains all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Zuggtmoy makes one Pseudopod attack."
     "name": "Attack"
@@ -239,6 +211,32 @@ actions:
       \ speed as she directs or to make one weapon attack against a target that she\
       \ designates."
     "name": "Exert Will"
+"lair_actions":
+  - "desc": "On Initiative count 20 (losing initiative ties), Zuggtmoy can take a\
+      \ lair action to cause one of the following effects; she can't use the same\
+      \ effect two rounds in a row:"
+    "name": ""
+  - "desc": "- Rally Plants. Up to four plant creatures that are friendly to Zuggtmoy\
+      \ and that Zuggtmoy can see can use their reactions to move up to their speed\
+      \ and make one weapon attack.  \n- Summon Fungi. Zuggtmoy causes four [gas\
+      \ spores](/compendium/bestiary/plant/gas-spore.md) or [violet fungi](/compendium/bestiary/plant/violet-fungus.md)\
+      \ to appear in unoccupied spaces that she chooses within the lair. They vanish\
+      \ after 1 hour.  \n- Unleash Spores. Zuggtmoy uses either her Infestation\
+      \ Spores or her Mind Control Spores, centered on a mushroom or other fungus\
+      \ within her lair, instead of on herself.  "
+    "name": ""
+"regional_effects":
+  - "desc": "The region containing Zuggtmoy's lair is warped by his magic, creating\
+      \ one or more of the following effects:"
+    "name": ""
+  - "desc": "- Corrupted Nature. Within 6 miles of the lair, all Wisdom ([Medicine](/compendium/rules/skills.md#Medicine))\
+      \ and Wisdom ([Survival](/compendium/rules/skills.md#Survival)) checks have\
+      \ disadvantage.  \n- Fungal Infestation. Molds and fungi grow on surfaces\
+      \ within 6 miles of the lair, even where they would normally find no purchase.\
+      \  \n- Mutating Vegetation. Vegetation within 1 mile of the lair becomes\
+      \ infested with parasitic fungi, slowly mutating as it is overwhelmed.  \n-\
+      \ If Zuggtmoy dies, these effects fade over the course of d10 days.  "
+    "name": ""
 "source":
   - "MPMM"
   - "MTF"

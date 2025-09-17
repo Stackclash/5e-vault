@@ -142,8 +142,7 @@ actions:
   \ [paralyzed](/compendium/rules/conditions.md#Paralyzed), [petrified](/compendium/rules/conditions.md#Petrified),\
   \ [poisoned](/compendium/rules/conditions.md#Poisoned), [prone](/compendium/rules/conditions.md#Prone),\
   \ [restrained](/compendium/rules/conditions.md#Restrained)"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 18"
+"senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Common, Elvish, Sylvan"
 "cr": "8"
 "traits":
@@ -154,7 +153,7 @@ actions:
   - "desc": "The Wild Hunt can occupy another creature's space and vice versa. The\
       \ Wild Hunt can also move through any opening large enough for a Medium creature,\
       \ and they can move through other creatures and objects as if they were difficult\
-      \ terrain. The Wild Hunt take 5 (1d10) force damage if they end their turn inside\
+      \ terrain. The Wild Hunt take 5 (d10) force damage if they end their turn inside\
       \ an object."
     "name": "Incorporeal Swarm"
   - "desc": "The Wild Hunt have advantage on saving throws against spells and other\
@@ -164,7 +163,7 @@ actions:
   - "desc": "The Wild Hunt make two mauling rend attacks. They can use their Volley\
       \ in place of one attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
       \ (2d6 + 4) piercing damage, plus 9 (2d4 + 4) slashing damage, or 7 (1d6 + 4)\
       \ piercing damage plus 6 (1d4 + 4) slashing damage if The Wild Hunt have half\
       \ their hit points or fewer."
@@ -177,17 +176,18 @@ actions:
       \ target instead takes 7 (2d6) piercing damage on a failed save, or no damage\
       \ on a successful one."
     "name": "Volley"
-"legendary_description": "The Wild Hunt can take 2 legendary actions, choosing from\
-  \ the options below. Only one legendary action can be used at a time and only at\
-  \ the end of another creature's turn. The Wild Hunt regain spent legendary actions\
-  \ at the start of their turn."
 "legendary_actions":
+  - "desc": "The Wild Hunt can take 2 legendary actions, choosing from the options\
+      \ below. Only one legendary action can be used at a time and only at the end\
+      \ of another creature's turn. The Wild Hunt regain spent legendary actions at\
+      \ the start of their turn."
+    "name": ""
   - "desc": "The Wild Hunt moves up to its speed."
     "name": "Move"
   - "desc": "The Wild Hunt gain 13 (2d12) temporary hit points."
     "name": "Rallying Horn (Below Half Hit Points Only)"
   - "desc": "Whenever a target takes damage from The Wild Hunt before the end of their\
-      \ next turn, the target takes an extra 4 (1d8) force damage."
+      \ next turn, the target takes an extra 4 (d8) force damage."
     "name": "War Horn (Costs 2 Actions)"
 "source":
   - "GriffonsSaddlebag2"

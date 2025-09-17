@@ -140,16 +140,15 @@ actions:
   - "name": "[Stealth](/compendium/rules/skills.md#Stealth)"
     "desc": "+18"
 "damage_immunities": "cold"
-"senses": "[blindsight](/compendium/rules/senses.md#Blindsight) 60 ft., [darkvision](/compendium/rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 26"
+"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 26"
 "languages": "Common, Draconic, Thieves' cant"
 "cr": "24"
 "traits":
   - "desc": "Duvra's innate spellcasting ability is Charisma (spell save DC 21). Duvra\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md)\n\
-      \n**3/day each:** [mirror image](/compendium/spells/mirror-image.md), [suggestion](/compendium/spells/suggestion.md)\n\
-      \n**1/day each:** [hypnotic pattern](/compendium/spells/hypnotic-pattern.md),\
+      \nAt will: [mage hand](/compendium/spells/mage-hand.md), [minor illusion](/compendium/spells/minor-illusion.md)\n\
+      \n3/day each: [mirror image](/compendium/spells/mirror-image.md), [suggestion](/compendium/spells/suggestion.md)\n\
+      \n1/day each: [hypnotic pattern](/compendium/spells/hypnotic-pattern.md),\
       \ [mislead](/compendium/spells/mislead.md)"
     "name": "Innate Spellcasting"
   - "desc": "If Duvra fails a saving throw, he can choose to succeed instead."
@@ -173,17 +172,17 @@ actions:
       \ makes three attacks: one with his bite and two with his claws, if able. In\
       \ humanoid form, he instead makes two attacks with his daggers."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft. (or 15 ft. if Gargantuan),\
-      \ one target. *Hit:* 20 (2d10 + 9) piercing damage."
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft. (or 15 ft. if Gargantuan),\
+      \ one target. Hit: 20 (2d10 + 9) piercing damage."
     "name": "Bite (Beast or Dragon Form Only)"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 5 ft. (or 10 ft. if Gargantuan),\
-      \ one target. *Hit:* 16 (2d6 + 9) slashing damage."
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 5 ft. (or 10 ft. if Gargantuan),\
+      \ one target. Hit: 16 (2d6 + 9) slashing damage."
     "name": "Claw (Beast or Dragon Form Only)"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft. (or 20 ft. if Gargantuan),\
-      \ one target. *Hit:* 18 (2d8 + 9) bludgeoning damage."
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft. (or 20 ft. if Gargantuan),\
+      \ one target. Hit: 18 (2d8 + 9) bludgeoning damage."
     "name": "Tail (Beast or Dragon Form Only)"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +16 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 11 (1d4 + 9) piercing damage."
+  - "desc": "Melee  or Ranged Weapon Attack: +16 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. Hit: 11 (1d4 + 9) piercing damage."
     "name": "Dagger (Humanoid Form Only)"
   - "desc": "Each creature of Duvra's choice that is within 120 feet of him and aware\
       \ of him must succeed on a DC 21 Wisdom saving throw or become [frightened](/compendium/rules/conditions.md#Frightened)\
@@ -220,9 +219,6 @@ actions:
       \ hands or speech. The target's gear melds into the new form. The target can't\
       \ activate, use, wield, or otherwise benefit from any of its equipment."
     "name": "Polymorphing Breath"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Duvra can expend a use to take one of the following actions. Duvra regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Duvra makes a Dexterity ([Stealth](/compendium/rules/skills.md#Stealth))\
       \ check or a Wisdom ([Perception](/compendium/rules/skills.md#Perception)) check."

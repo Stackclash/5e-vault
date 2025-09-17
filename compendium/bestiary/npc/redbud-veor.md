@@ -138,10 +138,10 @@ actions:
 "actions":
   - "desc": "Redbud makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16\
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16\
       \ (3d6 + 6) bludgeoning damage."
     "name": "Slam"
-  - "desc": "*Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:*\
+  - "desc": "Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target. Hit:\
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
   - "desc": "Redbud magically animates one or two trees it can see within 60 feet\

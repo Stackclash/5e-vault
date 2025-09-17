@@ -138,19 +138,18 @@ actions:
     "desc": "+5"
   - "name": "[Athletics](/compendium/rules/skills.md#Athletics)"
     "desc": "+5"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Orc, Common"
 "cr": "5"
 "traits":
   - "desc": "Oregg Steeltwister is a 5th-level\n\nspellcaster. His spellcasting ability\
       \ modifier is\n\nCharisma (spell save DC 15, +7 to hit with spell\n\nattacks).\
-      \ He has the following sorcerer spells prepared:\n\n**Cantrips (at will):**\
+      \ He has the following sorcerer spells prepared:\n\nCantrips (at will):\
       \ [fire bolt](/compendium/spells/fire-bolt.md), [message](/compendium/spells/message.md),\
       \ [poison spray](/compendium/spells/poison-spray.md), [true strike](/compendium/spells/true-strike.md)\n\
-      \n**1st level (4 slots):** [magic missile](/compendium/spells/magic-missile.md),\
-      \ [shield](/compendium/spells/shield.md)\n\n**2nd level (3 slots):** [heat metal](/compendium/spells/heat-metal.md)\n\
-      \n**3rd level (2 slots):** [fly](/compendium/spells/fly.md), [fireball](/compendium/spells/fireball.md)"
+      \n1st level (4 slots): [magic missile](/compendium/spells/magic-missile.md),\
+      \ [shield](/compendium/spells/shield.md)\n\n2nd level (3 slots): [heat metal](/compendium/spells/heat-metal.md)\n\
+      \n3rd level (2 slots): [fly](/compendium/spells/fly.md), [fireball](/compendium/spells/fireball.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the orc can move up to its speed toward a hostile\
       \ creature it can see."
@@ -161,10 +160,10 @@ actions:
 "actions":
   - "desc": "Oregg makes two longsword attacks and can cast a cantrip as a bonus action."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d10\
       \ + 2) slashing damage."
     "name": "Longsword"
-  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 11\
+  - "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 11\
       \ (2d10) fire damage."
     "name": "Firebolt"
   - "desc": "One creature within 10 feet of Oregg must make a successful DC 15 Constitution\

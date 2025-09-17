@@ -138,19 +138,18 @@ actions:
   - "name": "[Religion](/compendium/rules/skills.md#Religion)"
     "desc": "+10"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [frightened](/compendium/rules/conditions.md#Frightened)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 30 ft., passive Perception\
-  \ 13"
+"senses": "truesight 30 ft., passive Perception 13"
 "languages": "Celestial, Common, Draconic, Elvish, any four languages, telepathy 120\
   \ ft."
 "cr": "8"
 "actions":
   - "desc": "Sarusanda attacks twice."
     "name": "Multiattack"
-  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 22\
+  - "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 22\
       \ (4d8 + 4) force damage, and if the target is a Large or smaller creature,\
       \ Sarusanda can push it up to 10 feet away."
     "name": "Force Bolt"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8\
       \ + 4) slashing damage, or 9 (1d10 + 4) if used with two hands, plus 18 (4d8)\
       \ force damage."
     "name": "Silver Longsword"
@@ -163,10 +162,10 @@ actions:
     "name": "Implode (Recharge 4-6)"
   - "desc": "Sarusanda casts one of the following spells, requiring no components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
-      **At will:** [detect magic](/compendium/spells/detect-magic.md), [dispel magic](/compendium/spells/dispel-magic.md),\
+      At will: [detect magic](/compendium/spells/detect-magic.md), [dispel magic](/compendium/spells/dispel-magic.md),\
       \ [levitate](/compendium/spells/levitate.md), [mage armor](/compendium/spells/mage-armor.md),\
       \ [mage hand](/compendium/spells/mage-hand.md), [sending](/compendium/spells/sending.md),\
-      \ [speak with dead](/compendium/spells/speak-with-dead.md)\n\n**1/day each:**\
+      \ [speak with dead](/compendium/spells/speak-with-dead.md)\n\n1/day each:\
       \ [Otiluke's resilient sphere](/compendium/spells/otilukes-resilient-sphere.md),\
       \ [telekinesis](/compendium/spells/telekinesis.md)"
     "name": "Innate Spellcasting (Psionics)"

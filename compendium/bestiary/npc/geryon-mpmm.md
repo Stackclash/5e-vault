@@ -154,8 +154,7 @@ actions:
 "damage_immunities": "cold, fire, poison"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 20"
+"senses": "truesight 120 ft., passive Perception 20"
 "languages": "all, telepathy 120 ft."
 "cr": "22"
 "traits":
@@ -171,14 +170,14 @@ actions:
 "actions":
   - "desc": "Geryon makes one Claw attack and one Stinger attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 23\
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 15 ft., one target. Hit: 23\
       \ (4d6 + 9) cold damage. If the target is Large or smaller, it is [grappled](/compendium/rules/conditions.md#Grappled)\
       \ (DC 24), and it is [restrained](/compendium/rules/conditions.md#Restrained)\
       \ until the grapple ends. Geryon can grapple one creature at a time. If the\
       \ target is already [grappled](/compendium/rules/conditions.md#Grappled) by\
       \ Geryon, the target takes an extra 27 (6d8) cold damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 20 ft., one creature. *Hit:*\
+  - "desc": "Melee Weapon Attack: +16 to hit, reach 20 ft., one creature. Hit:\
       \ 14 (2d4 + 9) force damage, and the target must succeed on a DC 21 Constitution\
       \ saving throw or take 13 (2d12) poison damage and become [poisoned](/compendium/rules/conditions.md#Poisoned)\
       \ until it finishes a short or long rest. The target's hit point maximum is\
@@ -190,41 +189,13 @@ actions:
       \ up to 120 feet to an unoccupied space he can see."
     "name": "Teleport"
   - "desc": "Geryon casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [alter self](/compendium/spells/alter-self.md) (can become Medium\
+      \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt\
+      \ will: [alter self](/compendium/spells/alter-self.md) (can become Medium\
       \ when changing his appearance), [detect magic](/compendium/spells/detect-magic.md),\
       \ [ice storm](/compendium/spells/ice-storm.md), [invisibility](/compendium/spells/invisibility.md)\
       \ (self only), [locate object](/compendium/spells/locate-object.md), [suggestion](/compendium/spells/suggestion.md),\
-      \ [wall of ice](/compendium/spells/wall-of-ice.md)\n\n**1/day:** [banishment](/compendium/spells/banishment.md)"
+      \ [wall of ice](/compendium/spells/wall-of-ice.md)\n\n1/day: [banishment](/compendium/spells/banishment.md)"
     "name": "Spellcasting"
-"lair_actions":
-  - "desc": "On initiative count 20 (losing initiative ties), Geryon can take one\
-      \ of the following lair actions; he can't take the same lair action two rounds\
-      \ in a row:\n\n- **Banish.** Geryon casts the banishment spell.  \n- **Chill\
-      \ Blast.** Geryon causes a blast of cold to burst from the ground at a point\
-      \ he can see within 120 feet of him. The cold fills a cube, 10 feet on each\
-      \ side, centered on that point. Each creature in that area must succeed on a\
-      \ DC 21 Constitution saving throw or take 28 (8d6) cold damage.  \n- **Hateful\
-      \ Restraints.** Geryon targets one creature he can see within 60 feet of him.\
-      \ The target must succeed on a DC 21 Wisdom saving throw or become [restrained](/compendium/rules/conditions.md#Restrained)\
-      \ for 1 minute. The target can end the effect on itself if it deals any damage\
-      \ to one or more of its allies.  "
-    "name": ""
-"regional_effects":
-  - "desc": "The region containing Geryon's lair is warped by his magic, creating\
-      \ one or more of the following effects:\n\n- **Chilling Wind.** Freezing strong\
-      \ winds howl around the area within 1 mile of the lair.  \n- **Enervating Screams.**\
-      \ Howls and screams fill the air within 1 mile of the lair. Any creature that\
-      \ finishes a short or long rest in this area must succeed on a DC 21 Wisdom\
-      \ saving throw or derive no benefit from the rest.  \n- **Hellish Doorways.**\
-      \ Sapient creatures within 1 mile of the lair frequently see shimmering portals\
-      \ leading to places they consider safe. Passing through a portal always deposits\
-      \ a traveler somewhere in Stygia.  \n\nIf Geryon dies, these effects fade over\
-      \ the course of 1d10 days."
-    "name": ""
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Geryon can expend a use to take one of the following actions. Geryon regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Geryon targets one creature he can see within 60 feet of him. The target\
       \ must succeed on a DC 23 Wisdom saving throw or become [frightened](/compendium/rules/conditions.md#Frightened)\
@@ -234,6 +205,36 @@ actions:
     "name": "Teleport"
   - "desc": "Geryon makes one Stinger attack."
     "name": "Swift Sting (Costs 2 Actions)"
+"lair_actions":
+  - "desc": "On initiative count 20 (losing initiative ties), Geryon can take one\
+      \ of the following lair actions; he can't take the same lair action two rounds\
+      \ in a row:"
+    "name": ""
+  - "desc": "- Banish. Geryon casts the banishment spell.  \n- Chill Blast.\
+      \ Geryon causes a blast of cold to burst from the ground at a point he can see\
+      \ within 120 feet of him. The cold fills a cube, 10 feet on each side, centered\
+      \ on that point. Each creature in that area must succeed on a DC 21 Constitution\
+      \ saving throw or take 28 (8d6) cold damage.  \n- Hateful Restraints. Geryon\
+      \ targets one creature he can see within 60 feet of him. The target must succeed\
+      \ on a DC 21 Wisdom saving throw or become [restrained](/compendium/rules/conditions.md#Restrained)\
+      \ for 1 minute. The target can end the effect on itself if it deals any damage\
+      \ to one or more of its allies.  "
+    "name": ""
+"regional_effects":
+  - "desc": "The region containing Geryon's lair is warped by his magic, creating\
+      \ one or more of the following effects:"
+    "name": ""
+  - "desc": "- Chilling Wind. Freezing strong winds howl around the area within\
+      \ 1 mile of the lair.  \n- Enervating Screams. Howls and screams fill the\
+      \ air within 1 mile of the lair. Any creature that finishes a short or long\
+      \ rest in this area must succeed on a DC 21 Wisdom saving throw or derive no\
+      \ benefit from the rest.  \n- Hellish Doorways. Sapient creatures within\
+      \ 1 mile of the lair frequently see shimmering portals leading to places they\
+      \ consider safe. Passing through a portal always deposits a traveler somewhere\
+      \ in Stygia.  "
+    "name": ""
+  - "desc": "If Geryon dies, these effects fade over the course of d10 days."
+    "name": ""
 "source":
   - "MPMM"
   - "MTF"

@@ -133,8 +133,7 @@ actions:
   - "name": "[Perception](/compendium/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_resistances": "poison, psychic"
-"senses": "[darkvision](/compendium/rules/senses.md#Darkvision) 90 ft., passive Perception\
-  \ 16"
+"senses": "darkvision 90 ft., passive Perception 16"
 "languages": "Abyssal, Draconic, Undercommon"
 "cr": "11"
 "traits":
@@ -149,10 +148,10 @@ actions:
 "actions":
   - "desc": "Ker-arach makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 10\
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10\
       \ (1d10 + 5) piercing damage plus 13 (2d12) poison damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12\
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12\
       \ (2d6 + 5) slashing damage."
     "name": "Claw"
   - "desc": "Ker-arach exhales venomous spiderlings in a 30-foot cone. Each creature\

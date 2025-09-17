@@ -142,20 +142,19 @@ actions:
     "desc": "+9"
   - "name": "[Stealth](/compendium/rules/skills.md#Stealth)"
     "desc": "+13"
-"senses": "[blindsight](/compendium/rules/senses.md#Blindsight) 10 ft., passive Perception\
-  \ 13"
+"senses": "blindsight 10 ft., passive Perception 13"
 "languages": "Common, Elvish, Thieves' cant"
 "cr": "9"
 "traits":
   - "desc": "Alistair is a 6th-level spellcaster. His spellcasting ability is Intelligence\
-      \ (spell save DC 16). He has the following wizard spells prepared:\n\n**Cantrips\
-      \ (at will):** [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md),\
+      \ (spell save DC 16). He has the following wizard spells prepared:\n\nCantrips\
+      \ (at will): [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md),\
       \ [minor illusion](/compendium/spells/minor-illusion.md), [prestidigitation](/compendium/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [charm person](/compendium/spells/charm-person.md),\
+      \n1st level (4 slots): [charm person](/compendium/spells/charm-person.md),\
       \ [detect magic](/compendium/spells/detect-magic.md), [disguise self](/compendium/spells/disguise-self.md),\
-      \ [silent image](/compendium/spells/silent-image.md)\n\n**2nd level (3 slots):**\
+      \ [silent image](/compendium/spells/silent-image.md)\n\n2nd level (3 slots):\
       \ [invisibility](/compendium/spells/invisibility.md), [misty step](/compendium/spells/misty-step.md),\
-      \ [suggestion](/compendium/spells/suggestion.md)\n\n**3rd level (3 slots):**\
+      \ [suggestion](/compendium/spells/suggestion.md)\n\n3rd level (3 slots):\
       \ [haste](/compendium/spells/haste.md), [major image](/compendium/spells/major-image.md),\
       \ [nondetection](/compendium/spells/nondetection.md)"
     "name": "Spellcasting"
@@ -171,12 +170,12 @@ actions:
 "actions":
   - "desc": "Alistair makes two attacks with his shortsword or hand crossbow."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 6 (1d6\
       \ + 3) piercing damage, and the target must make a DC 15 Constitution saving\
       \ throw, taking 14 (4d6) poison damage on a failed save, or half as much damage\
       \ on a successful one."
     "name": "Shortsword"
-  - "desc": "*Ranged Weapon Attack:* +9 to hit, range 30/120 ft., one target. *Hit:*\
+  - "desc": "Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. Hit:\
       \ 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution\
       \ saving throw, taking 14 (4d6) poison damage on a failed save, or half as much\
       \ damage on a successful one."

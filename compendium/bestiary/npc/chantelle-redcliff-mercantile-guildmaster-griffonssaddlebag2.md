@@ -142,21 +142,21 @@ actions:
 "cr": "4"
 "traits":
   - "desc": "Chantelle is a 14th-level spellcaster. Her spellcasting ability is Charisma\
-      \ (spell save DC 15). She knows the following bard spells:\n\n**Cantrips (at\
-      \ will):** [mage hand](/compendium/spells/mage-hand.md), [mending](/compendium/spells/mending.md),\
+      \ (spell save DC 15). She knows the following bard spells:\n\nCantrips (at\
+      \ will): [mage hand](/compendium/spells/mage-hand.md), [mending](/compendium/spells/mending.md),\
       \ [message](/compendium/spells/message.md), [prestidigitation](/compendium/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [comprehend languages](/compendium/spells/comprehend-languages.md),\
+      \n1st level (4 slots): [comprehend languages](/compendium/spells/comprehend-languages.md),\
       \ [detect magic](/compendium/spells/detect-magic.md), [identify](/compendium/spells/identify.md),\
-      \ [unseen servant](/compendium/spells/unseen-servant.md)\n\n**2nd level (3 slots):**\
+      \ [unseen servant](/compendium/spells/unseen-servant.md)\n\n2nd level (3 slots):\
       \ [detect thoughts](/compendium/spells/detect-thoughts.md), [knock](/compendium/spells/knock.md),\
       \ [locate object](/compendium/spells/locate-object.md), [suggestion](/compendium/spells/suggestion.md)\n\
-      \n**3rd level (3 slots):** [clairvoyance](/compendium/spells/clairvoyance.md),\
+      \n3rd level (3 slots): [clairvoyance](/compendium/spells/clairvoyance.md),\
       \ [glyph of warding](/compendium/spells/glyph-of-warding.md), [sending](/compendium/spells/sending.md)\n\
-      \n**4th level (3 slots):** [fabricate](/compendium/spells/fabricate.md), [phantasmal\
+      \n4th level (3 slots): [fabricate](/compendium/spells/fabricate.md), [phantasmal\
       \ killer](/compendium/spells/phantasmal-killer.md), [secret chest](/compendium/spells/leomunds-secret-chest.md)\n\
-      \n**5th level (2 slots):** [geas](/compendium/spells/geas.md), [legend lore](/compendium/spells/legend-lore.md)\n\
-      \n**6th level (1 slots):** [instant summons](/compendium/spells/drawmijs-instant-summons.md)\n\
-      \n**7th level (1 slots):** [arcane sword](/compendium/spells/mordenkainens-sword.md)"
+      \n5th level (2 slots): [geas](/compendium/spells/geas.md), [legend lore](/compendium/spells/legend-lore.md)\n\
+      \n6th level (1 slots): [instant summons](/compendium/spells/drawmijs-instant-summons.md)\n\
+      \n7th level (1 slots): [arcane sword](/compendium/spells/mordenkainens-sword.md)"
     "name": "Spellcasting"
   - "desc": "Chantelle wears a [dress of many pockets](/compendium/items/dress-of-many-pockets-griffonssaddlebag2.md)\
       \ and has a [book of instant copying](/compendium/items/book-of-instant-copying-griffonssaddlebag2.md)\
@@ -173,10 +173,10 @@ actions:
       \ or [hypnotic pattern](/compendium/spells/hypnotic-pattern.md)."
     "name": "Wand of Gilding"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8\
       \ + 3) piercing damage."
     "name": "Rapier"
-  - "desc": "*Ranged Spell Attack:* +6 to hit, range 60 ft., one target. *Hit:* 1\
+  - "desc": "Ranged Spell Attack: +6 to hit, range 60 ft., one target. Hit: 1\
       \ bludgeoning damage plus 19 (3d12) thunder damage."
     "name": "Magic Coin"
   - "desc": "Chantelle enchants a coin in her hand with divination magic, which lasts\

@@ -144,21 +144,21 @@ actions:
 "traits":
   - "desc": "Giogroth is an 11th-level spellcaster. His spellcasting ability is Intelligence\
       \ (spell save DC 16, +8 to hit with spell attacks). Giogroth has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](/compendium/spells/fire-bolt.md),\
+      \ wizard spells prepared:\n\nCantrips (at will): [fire bolt](/compendium/spells/fire-bolt.md),\
       \ [light](/compendium/spells/light.md), [mage hand](/compendium/spells/mage-hand.md),\
       \ [mending](/compendium/spells/mending.md), [prestidigitation](/compendium/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [burning hands](/compendium/spells/burning-hands.md),\
-      \ [find familiar](/compendium/spells/find-familiar.md) *, [grease](/compendium/spells/grease.md),\
-      \ [mage armor](/compendium/spells/mage-armor.md) *, [shield](/compendium/spells/shield.md)\n\
-      \n**2nd level (3 slots):** [flaming sphere](/compendium/spells/flaming-sphere.md),\
+      \n1st level (4 slots): [burning hands](/compendium/spells/burning-hands.md),\
+      \ [find familiar](/compendium/spells/find-familiar.md) , [grease](/compendium/spells/grease.md),\
+      \ [mage armor](/compendium/spells/mage-armor.md) , [shield](/compendium/spells/shield.md)\n\
+      \n2nd level (3 slots): [flaming sphere](/compendium/spells/flaming-sphere.md),\
       \ [hold person](/compendium/spells/hold-person.md), [mirror image](/compendium/spells/mirror-image.md)\n\
-      \n**3rd level (3 slots):** [counterspell](/compendium/spells/counterspell.md),\
+      \n3rd level (3 slots): [counterspell](/compendium/spells/counterspell.md),\
       \ [fireball](/compendium/spells/fireball.md), [haste](/compendium/spells/haste.md)\n\
-      \n**4th level (3 slots):** [Evard's black tentacles](/compendium/spells/evards-black-tentacles.md),\
-      \ [fire shield](/compendium/spells/fire-shield.md)\n\n**5th level (2 slots):**\
+      \n4th level (3 slots): [Evard's black tentacles](/compendium/spells/evards-black-tentacles.md),\
+      \ [fire shield](/compendium/spells/fire-shield.md)\n\n5th level (2 slots):\
       \ [dominate person](/compendium/spells/dominate-person.md), [telekinesis](/compendium/spells/telekinesis.md)\n\
-      \n**6th level (1 slots):** [contingency](/compendium/spells/contingency.md)\
-      \ *\n\n*Giogroth casts these spells before combat."
+      \n6th level (1 slots): [contingency](/compendium/spells/contingency.md)\
+      \ \n\nGiogroth casts these spells before combat."
     "name": "Spellcasting"
   - "desc": "When Giogroth casts [find familiar](/compendium/spells/find-familiar.md),\
       \ he can choose for it to take the form of a flying sword. It uses the normal\
@@ -175,14 +175,14 @@ actions:
       \ Blade or Breath Weapon, or he can cast one of his prepared spells that has\
       \ a casting time of 1 action."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target within reach\
-      \ of Giogroth's flying sword. *Hit:* 8 (1d8 + 4) slashing damage plus 9 (2d8)\
+  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target within reach\
+      \ of Giogroth's flying sword. Hit: 8 (1d8 + 4) slashing damage plus 9 (2d8)\
       \ cold damage."
     "name": "Flying Sword (Familiar)"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8\
       \ + 5) slashing damage."
     "name": "Longsword"
-  - "desc": "*Ranged Spell Attack:* +9 to hit, range 60 ft., one target. *Hit:* 18\
+  - "desc": "Ranged Spell Attack: +9 to hit, range 60 ft., one target. Hit: 18\
       \ (3d8 + 5) force damage."
     "name": "Faraway Blade"
   - "desc": "Giogroth exhales an icy blast of hail in a 15-foot cone. Each creature\

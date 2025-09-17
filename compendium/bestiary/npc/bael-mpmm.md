@@ -151,8 +151,7 @@ actions:
 "damage_immunities": "fire, poison"
 "condition_immunities": "[charmed](/compendium/rules/conditions.md#Charmed), [exhaustion](/compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](/compendium/rules/conditions.md#Frightened), [poisoned](/compendium/rules/conditions.md#Poisoned)"
-"senses": "[truesight](/compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
-  \ 23"
+"senses": "truesight 120 ft., passive Perception 23"
 "languages": "all, telepathy 120 ft."
 "cr": "19"
 "traits":
@@ -173,7 +172,7 @@ actions:
 "actions":
   - "desc": "Bael makes two Hellish Morningstar attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 20 ft., one target. *Hit:* 16\
+  - "desc": "Melee Weapon Attack: +13 to hit, reach 20 ft., one target. Hit: 16\
       \ (2d8 + 7) force damage plus 9 (2d8) necrotic damage."
     "name": "Hellish Morningstar"
   - "desc": "Each of Bael's allies within 60 feet of him can't be [charmed](/compendium/rules/conditions.md#Charmed)\
@@ -184,17 +183,14 @@ actions:
       \ to 120 feet to an unoccupied space he can see."
     "name": "Teleport"
   - "desc": "Bael casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [alter self](/compendium/spells/alter-self.md) (can become Medium),\
+      \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt\
+      \ will: [alter self](/compendium/spells/alter-self.md) (can become Medium),\
       \ [charm person](/compendium/spells/charm-person.md), [detect magic](/compendium/spells/detect-magic.md),\
       \ [invisibility](/compendium/spells/invisibility.md), [major image](/compendium/spells/major-image.md)\n\
-      \n**3/day each:** [dispel magic](/compendium/spells/dispel-magic.md), [fly](/compendium/spells/fly.md),\
+      \n3/day each: [dispel magic](/compendium/spells/dispel-magic.md), [fly](/compendium/spells/fly.md),\
       \ [suggestion](/compendium/spells/suggestion.md), [wall of fire](/compendium/spells/wall-of-fire.md)\n\
-      \n**1/day:** [dominate monster](/compendium/spells/dominate-monster.md)"
+      \n1/day: [dominate monster](/compendium/spells/dominate-monster.md)"
     "name": "Spellcasting"
-"legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
-  \ turn, Bael can expend a use to take one of the following actions. Bael regains\
-  \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Bael uses Spellcasting or Teleport."
     "name": "Fiendish Magic"
