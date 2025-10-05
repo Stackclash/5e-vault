@@ -5,6 +5,11 @@
 } */
 
 /* Metabind classes to use */
+.mb-toggle {
+  position: relative;
+  top: -45px 
+}
+
 .mb-35 {
   display: inline-block;
   width: 35%;
