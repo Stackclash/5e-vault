@@ -9,6 +9,6 @@ steps:
 ```dataviewjs
 const currentPage = dv.current()
 currentPage.steps.forEach((step, index) => {
-  dv.paragraph(`\`INPUT[toggle:${currentPage.file.name}#steps[${index}].completed]\` \`INPUT[text:${currentPage.file.name}#steps[${index}].text]\``)
+  dv.span(`\`INPUT[toggle:${currentPage.file.name}#steps[${index}].completed]\` \`INPUT[textArea:${currentPage.file.name}#steps[${index}].text]\``)
 })
 ```
