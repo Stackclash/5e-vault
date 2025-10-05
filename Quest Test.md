@@ -2,6 +2,6 @@
 steps:
   - completed: false
     text: This is a test step
-  - completed: false
+  - completed: true
     text: This is another test step
 ---
