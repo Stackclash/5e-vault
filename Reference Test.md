@@ -7,3 +7,10 @@ quests.forEach((quest) => {
 })
 ```
 
+```datacorejsx
+return function View() {
+  const quests = dc.useQuery("@page and #quest")
+
+  return <dc.List rows={quests} renderer={quest => quest.$link} />
+}
+```
