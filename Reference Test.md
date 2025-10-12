@@ -11,6 +11,12 @@ quests.forEach((quest) => {
 return function View() {
   const quests = dc.useQuery("@page and #quest")
 
-  return <dc.List rows={quests} renderer={quest => quest.$link} />
+  return (
+    <div>
+      {quests.map(q => {
+        return (<h3>{q.$name}</h3>)
+      })}
+    </div>
+  )
 }
 ```
