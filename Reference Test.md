@@ -20,9 +20,9 @@ return function View() {
           {q.$frontmatter.steps && q.$frontmatter.steps.value.map(s => {
             console.log(s)
             return (
-              <>
+              <div>
               <input type="checkbox" value={s.completed}/><span>{s.text}</span>
-              </>
+              </div>
             )
           })}
           </>
