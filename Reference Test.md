@@ -17,9 +17,12 @@ return function View() {
         return (
           <>
           <h3>{q.$name}</h3>
-          {q.$frontmatter.steps && q.$frontmatter.steps.map(s => {
+          {q.$frontmatter.steps && q.$frontmatter.steps.value.map(s => {
+            console.log(s)
             return (
-              <span>s.text</span>
+              <>
+              <input type="checkbox" value={s.completed}/><span>{s.text}</span>
+              </>
             )
           })}
           </>
