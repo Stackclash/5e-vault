@@ -15,7 +15,14 @@ return function View() {
     <div>
       {quests.map(q => {
         return (
+          <>
           <h3>{q.$name}</h3>
+          {q.$frontmatter.steps && q.$frontmatter.steps.map(s => {
+            return (
+              <span>s.text</span>
+            )
+          })}
+          </>
         )
       })}
     </div>
