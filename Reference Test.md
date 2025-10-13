@@ -14,7 +14,9 @@ return function View() {
   return (
     <div>
       {quests.map(q => {
-        return (<h3>{q.$name}</h3>)
+        return (
+          <h3>{q.$name}</h3>
+        )
       })}
     </div>
   )
