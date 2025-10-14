@@ -30,7 +30,7 @@ return function View() {
     {
       id: 'Complete',
       width: 'minimum',
-      render: (value) => <input type="checkbox" value={value}/>
+      render: (value) => <input type="checkbox" checked={value}/>,
       value: (row) => row.completed
     },
     {
