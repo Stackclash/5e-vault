@@ -1,7 +1,5 @@
 ---
 steps:
-  - completed: false
-    text: This is a test step
   - completed: true
     text: This is another test step
 tags:
@@ -30,15 +28,18 @@ return function View() {
     {
       id: 'Complete',
       width: 'minimum',
-      render: (value) => <input type="checkbox" checked={value}/>,
-      value: (row) => row.completed
+      value: ({i}) => `\`INPUT[toggle:steps[${row.i}].completed]\``
     },
     {
       id: 'Description',
-      value: (row) => row.text
+      value: ({i}) => `\`INPUT[textArea(class(mb-45)):steps[${i}].text]\``
+    },
+    {
+      id: 'Delete',
+      value: ({i}) => `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: steps\n      index: ${i}\n\`\`\``
     }
   ]
 
-  return <dc.Table rows={currentPage.value('steps')} columns={columns}/>
+  return <dc.Table rows={currentPage.value('steps').map((s,i) => ({...s, i}))} columns={columns}/>
 }
 ```
