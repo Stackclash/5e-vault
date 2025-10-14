@@ -80,7 +80,7 @@ tags:
 - 
 
 ## Related NPCs
-
+`INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):npcs]`
 
 ## Quest Steps
 ```meta-bind-button

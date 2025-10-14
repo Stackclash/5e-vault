@@ -6,9 +6,14 @@ steps:
     text: Hello
 tags:
   - quest
+npcs:
+  - "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov (COS)]]"
 ---
 
+## Related NPCs
+`INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):npcs]`
 
+## Quest Steps
 ```meta-bind-button
 label: Add Step
 id: add-step
