@@ -87,7 +87,9 @@ TBD
 
 ```datacorejsx
 return function View() {
-  const data = dc.useQuery('@page and #quest and linkedto(this.$link)')
+  const currentPage = dc.useCurrentFile()
+  console.log(`@page and #quest and linkedto(${currentPage.$link})`)
+  const data = dc.useQuery(`@page and #quest and linkedfrom(${currentPage.$link})`)
   console.log(data)
 }
 ```
