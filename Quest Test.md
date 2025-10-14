@@ -8,7 +8,7 @@ steps:
 tags:
   - quest
 npcs:
-  - {}
+  - name: "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
 ---
 
 ## Related NPCs
@@ -28,6 +28,7 @@ return function View() {
   const columns = [
     {
       id: 'NPC',
+      width: '15%',
       value: ({i}) => `\`INPUT[suggester(optionQuery(#npc)):npcs[${i}].name]\``
     },
     {
