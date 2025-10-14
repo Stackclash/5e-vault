@@ -4,10 +4,13 @@ steps:
     text: This is another test step
   - completed: true
     text: Hello
+  - {}
 tags:
   - quest
 npcs:
   - "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov (COS)]]"
+  - "[[4. World Almanac/NPCs/Beucephalus (COS).md|Beucephalus (COS)]]"
+  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
 ---
 
 ## Related NPCs
