@@ -97,10 +97,11 @@ return function View() {
     },
     {
       id: 'Description',
-      value: (row) => 'hello'
+      value: (row) => row.$frontmatter.description.raw
     },
     {
-      id: 'Involvement'
+      id: 'Involvement',
+      value: (row) => console.log(row.$frontmatter.npcs.raw.find(n => n.name.includes(currentPage.$name)))
     }
   ]
   

@@ -1,4 +1,5 @@
 ---
+description: 'DO THE THING'
 steps:
   - completed: true
     description: This is another test step
