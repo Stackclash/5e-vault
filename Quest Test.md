@@ -29,6 +29,8 @@ return function View() {
   const columns = [
     {
       id: 'Complete',
+      width: 'minimum',
+      render: (value) => <input type="checkbox" value={value}/>
       value: (row) => row.completed
     },
     {
