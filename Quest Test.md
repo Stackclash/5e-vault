@@ -2,8 +2,8 @@
 steps:
   - completed: true
     text: This is another test step
-  - completed: false
-    text: ""
+  - completed: true
+    text: Hello
 tags:
   - quest
 ---
@@ -14,15 +14,10 @@ label: Add Step
 id: add-step
 style: primary
 actions:
-  - type: inlineJS
-    code: |-
-      app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-        if (!Array.isArray(fm.steps)) {
-          fm.steps = [{name: '', length}]
-        } else {
-          fm.steps = [...fm.steps, {completed: false, text: ''}]
-        }
-      })
+  - type: js
+    file: z_Scripts/Meta Bind/addItem.js
+    args:
+      field: steps
 ```
 ```datacorejsx
 return function View() {

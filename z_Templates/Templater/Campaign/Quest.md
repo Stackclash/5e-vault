@@ -89,7 +89,7 @@ id: add-step
 style: primary
 actions:
   - type: js
-    file: z_Scripts/Meta Bind/removeItem.js
+    file: z_Scripts/Meta Bind/addItem.js
     args:
       field: steps
 ```
