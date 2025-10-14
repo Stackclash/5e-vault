@@ -93,7 +93,14 @@ return function View() {
   const columns = [
     {
       id: 'Quest',
+      value: (row) => row.$name
+    },
+    {
+      id: 'Description',
       value: (row) => 'hello'
+    },
+    {
+      id: 'Involvement'
     }
   ]
   
