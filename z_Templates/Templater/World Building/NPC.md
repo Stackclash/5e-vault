@@ -113,6 +113,11 @@ actions:
 ```
 ^statblock
 
+## Quests
+```datacorejsx
+
+```
+
 ## History
 TBD
 
