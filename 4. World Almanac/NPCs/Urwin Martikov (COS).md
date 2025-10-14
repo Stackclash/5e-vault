@@ -85,6 +85,13 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
+```datacorejsx
+return function View() {
+  const data = dc.useQuery('this')
+  console.log(data)
+}
+```
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button
