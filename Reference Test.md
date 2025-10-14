@@ -10,7 +10,7 @@ quests.forEach((quest) => {
 ```datacorejsx
 return function View() {
   const quests = dc.useQuery("@page and #quest")
-  console.log(app)
+  console.log(quests[2].field('steps'))
 
   return (
     <div>
