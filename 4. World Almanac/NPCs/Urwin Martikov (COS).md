@@ -85,30 +85,6 @@ TBD
 > [!column|dataview] Goals
 >> `INPUT[textArea:goals]`
 
-```datacorejsx
-return function View() {
-  const currentPage = dc.useCurrentFile()
-  const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-  console.log(quests)
-  const columns = [
-    {
-      id: 'Quest',
-      value: (row) => row.$name
-    },
-    {
-      id: 'Description',
-      value: (row) => row.$frontmatter.description.raw
-    },
-    {
-      id: 'Involvement',
-      value: (row) => console.log(row.$frontmatter.npcs.raw.find(n => n.name.includes(currentPage.$name)))
-    }
-  ]
-  
-  return <dc.Table rows={quests} columns={columns}/>
-}
-```
-
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button
