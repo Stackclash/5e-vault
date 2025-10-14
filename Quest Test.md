@@ -28,11 +28,11 @@ return function View() {
     {
       id: 'Complete',
       width: 'minimum',
-      value: ({i}) => `\`INPUT[toggle:steps[${row.i}].completed]\``
+      value: ({i}) => `\`INPUT[toggle:steps[${i}].completed]\``
     },
     {
       id: 'Description',
-      value: ({i}) => `\`INPUT[textArea(class(mb-45)):steps[${i}].text]\``
+      value: ({i}) => `\`INPUT[textArea:steps[${i}].text]\``
     },
     {
       id: 'Delete',
