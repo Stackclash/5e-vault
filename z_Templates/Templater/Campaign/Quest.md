@@ -19,7 +19,7 @@ try {
   
   const config = dataview.api.page('Configuration')
   
-  if (!config || !config.locations || !config.locations.quests || !config.locations.campaigns) {
+  if (!config || !config.locations || !config.locations.quests || !config.locations.worlds) {
     throw new Error('Configuration for file locations is not set up correctly')
   }
 
@@ -36,13 +36,13 @@ try {
         }
       },
       {
-        name: 'campaign',
-        label: 'Campaign',
-        description: 'What campaign is this Quest for?',
+        name: 'world',
+        label: 'World',
+        description: 'What World is this Quest for?',
         isRequired: true,
         "input": {
           "type": "dataview",
-          "query": "dv.pages('\"" + config.locations.campaigns + "\"').file.name"
+          "query": "dv.pages('\"" + config.locations.worlds + "\"').file.name"
         }
       }
     ]
@@ -52,9 +52,9 @@ try {
     throw new Error('Modal was Cancelled')
   }
 
-  const { name: title, campaign: selectedCampaign } = result.getData()
+  const { name: title, world: selectedWorld } = result.getData()
 
-  await tp.file.move(path.posix.join(config.locations.journals, selectedCampaign.file.name, title), tp.file.find_tfile(tp.file.title))
+  await tp.file.move(path.posix.join(config.locations.quests, title), tp.file.find_tfile(tp.file.title))
 
 } catch (e) {
   templateError = e.message
@@ -65,9 +65,10 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-campaign: "<% selectedCampaign.file.link %>"
+campaign: "<% selectedWorld.file.link %>"
 description: ""
 steps: []
+npcs: []
 tags:
   - quest
 ---
