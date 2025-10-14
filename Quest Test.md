@@ -15,9 +15,10 @@ dv.table([
   'Complete',
   'Description',
   'Delete'
-], currentPage.steps.map((step) => [
-  `\`INPUT[toggle(class(mb-toggle)):steps[${index}].completed]\``,
-  `\`INPUT[textArea(class(mb-45)):steps[${index}].text]\``
+], currentPage.steps.map((step, i) => [
+  `\`INPUT[toggle(class(mb-toggle)):steps[${i}].completed]\``,
+  `\`INPUT[textArea(class(mb-45)):steps[${i}].text]\``,
+  `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: steps\n      index: ${i}\n\`\`\``
 ]))
 currentPage.steps.forEach((step, index) => {
   dv.paragraph( )
