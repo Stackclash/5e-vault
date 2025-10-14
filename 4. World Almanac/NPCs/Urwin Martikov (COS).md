@@ -87,7 +87,7 @@ TBD
 
 ```datacorejsx
 return function View() {
-  const data = dc.useQuery('this')
+  const data = dc.useQuery('@page and #quest and linkedto(this.$link)')
   console.log(data)
 }
 ```
