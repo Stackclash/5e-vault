@@ -1,20 +1,49 @@
 ---
 steps:
   - completed: true
-    text: This is another test step
+    description: This is another test step
   - completed: true
-    text: Hello
+    description: Hello
   - {}
 tags:
   - quest
 npcs:
-  - "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov (COS)]]"
-  - "[[4. World Almanac/NPCs/Beucephalus (COS).md|Beucephalus (COS)]]"
-  - "[[4. World Almanac/NPCs/Strahd Von Zarovich (COS).md|Strahd Von Zarovich (COS)]]"
+  - {}
 ---
 
 ## Related NPCs
-`INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):npcs]`
+```meta-bind-button
+label: Add NPC
+id: add-npc
+style: primary
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/addItem.js
+    args:
+      field: npcs
+```
+```datacorejsx
+return function View() {
+  const currentPage = dc.useCurrentFile()
+  const columns = [
+    {
+      id: 'NPC',
+      value: ({i}) => `\`INPUT[suggester(optionQuery(#npc)):npcs[${i}].name]\``
+    },
+    {
+      id: 'Description/Quest Hook',
+      value: ({i}) => `\`INPUT[textArea:npcs[${i}].description]\``
+    },
+    {
+      id: 'Delete',
+      width: 'minimum',
+      value: ({i}) => `\`\`\`meta-bind-button\nicon: x\ntooltip: Delete?\nid: remove-item\nlabel: ""\nstyle: destructive\nactions:\n  - type: js\n    file: z_Scripts/Meta Bind/removeItem.js\n    args:\n      field: npcs\n      index: ${i}\n\`\`\``
+    }
+  ]
+
+  return <dc.Table rows={currentPage.value('npcs').map((s,i) => ({...s, i}))} columns={columns}/>
+}
+```
 
 ## Quest Steps
 ```meta-bind-button
@@ -38,7 +67,7 @@ return function View() {
     },
     {
       id: 'Description',
-      value: ({i}) => `\`INPUT[textArea:steps[${i}].text]\``
+      value: ({i}) => `\`INPUT[textArea:steps[${i}].description]\``
     },
     {
       id: 'Delete',

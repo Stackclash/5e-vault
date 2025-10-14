@@ -56,7 +56,7 @@ tags:
 > ###### Politics
 >  |
 > ---|---|
-> **Ruler(s):** | `INPUT[inlineListSuggester(optionQuery("4. World Almanac/NPCs")):rulers]` |
+> **Ruler(s):** | `INPUT[inlineListSuggester(optionQuery("#npc")):rulers]` |
 > **Govt Type:** | `INPUT[text:government]` |
 > **Army:** | `INPUT[text:army]` |
 > **Religions:** | `INPUT[inlineList:religions]` |
