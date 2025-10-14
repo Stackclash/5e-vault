@@ -10,6 +10,7 @@ quests.forEach((quest) => {
 ```datacorejsx
 return function View() {
   const quests = dc.useQuery("@page and #quest")
+  console.log(app)
 
   return (
     <div>
@@ -18,7 +19,6 @@ return function View() {
           <>
           <h3>{q.$name}</h3>
           {q.$frontmatter.steps && q.$frontmatter.steps.value.map(s => {
-            console.log(s)
             return (
               <div>
               <input type="checkbox" value={s.completed}/><span>{s.text}</span>
