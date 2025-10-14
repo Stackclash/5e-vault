@@ -10,7 +10,16 @@ tags:
 
 ```dataviewjs
 const currentPage = dv.current()
+
+dv.table([
+  'Complete',
+  'Description',
+  'Delete'
+], currentPage.steps.map((step) => [
+  `\`INPUT[toggle(class(mb-toggle)):steps[${index}].completed]\``,
+  `\`INPUT[textArea(class(mb-45)):steps[${index}].text]\``
+]))
 currentPage.steps.forEach((step, index) => {
-  dv.paragraph(`\`INPUT[toggle(class(mb-toggle)):${currentPage.file.name}#steps[${index}].completed]\` \`INPUT[textArea(class(mb-45)):${currentPage.file.name}#steps[${index}].text]\``)
+  dv.paragraph( )
 })
 ```
