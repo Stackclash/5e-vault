@@ -88,9 +88,16 @@ TBD
 ```datacorejsx
 return function View() {
   const currentPage = dc.useCurrentFile()
-  console.log(`@page and #quest and linkedto(${currentPage.$link})`)
-  const data = dc.useQuery(`@page and #quest and linkedfrom(${currentPage.$link})`)
-  console.log(data)
+  const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
+  console.log(quests)
+  const columns = [
+    {
+      id: 'Quest',
+      value: (row) => 'hello'
+    }
+  ]
+  
+  return <dc.Table rows={quests} columns={columns}/>
 }
 ```
 
