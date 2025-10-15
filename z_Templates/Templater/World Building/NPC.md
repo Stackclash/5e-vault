@@ -142,9 +142,6 @@ return function View() {
 TBD
 
 ## DM Notes
-### Plot Hooks
-
-
 ### Hidden Details
 
 
