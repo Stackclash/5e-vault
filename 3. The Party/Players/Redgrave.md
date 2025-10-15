@@ -327,8 +327,8 @@ classFeatures:
     description: You can channel divine energy to fuel magical effects a number of times per short rest
   - name: Destroy Undead
     description: When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level.
-feats: 
-raceSpells: 
+feats:
+raceSpells:
 classSpells:
   - name: Cleric
     cantripsKnown: 4
@@ -639,7 +639,7 @@ inventory:
     armorClass: ""
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 condition: healthy
-location: "[[4. World Almanac/Places of Interest/Tsolenka Pass.md|Tsolenka Pass]]"
+location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 tags:
   - player
 ---

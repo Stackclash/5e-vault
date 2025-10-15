@@ -594,8 +594,8 @@ inventory:
     damageType: ""
     armorClass: ""
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-condition: injured
-location: "[[4. World Almanac/Places of Interest/Tsolenka Pass.md|Tsolenka Pass]]"
+condition: healthy
+location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 tags:
   - player
 ---

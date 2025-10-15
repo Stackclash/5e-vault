@@ -509,7 +509,7 @@ party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 condition: healthy
 tags:
   - player
-location: "[[4. World Almanac/Places of Interest/Tsolenka Pass.md|Tsolenka Pass]]"
+location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 ---
 `$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
