@@ -14,6 +14,10 @@ classes: {#if resource.tags.isEmpty()}[]{/if}
 school: {resource.school}
 level: {#if resource.level.startsWith('cantrip')}0{#else}{resource.level.replaceAll('[^0-9]', '')}{/if}
 ritual: {resource.ritual}
+components: {resource.components}
+verbal: {#if resource.components.startsWith('V') || resource.components.contains(', V')}true{#else}false{/if}
+somatic: {#if resource.components.startsWith('S') || resource.components.contains(', S')}true{#else}false{/if}
+material: {#if resource.components.contains('M (')}true{#else}false{/if}
 time: {resource.time}
 duration: {resource.duration}
 range: {resource.range}
