@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 class: sorcerer
-level: 3
+level: ""
 school: conjuration
 ---
 Class: `INPUT[inlineSelect(option('','Any'),option('wizard','Wizard'),option('sorcerer','Sorcerer'),option('cleric','Cleric'),option('druid','Druid'),option('warlock','Warlock'),option('fighter','Fighter'),option('rogue','Rogue'),option('artificer','Artificer'),option('bard','Bard'),option('paladin','Paladin'),option('ranger','Ranger'),option('monk','Monk'),option('barbarian','Barbarian')):class]`
