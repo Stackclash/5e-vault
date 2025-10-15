@@ -3,31 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/level/1st-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
 school: Transmutation
 level: 1
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: Self
+aliases:
+  - Wolfsong
 damage:
   base: null
   scaling:
     damage: null
     level: 2
   types: []
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self
-somatic: true
-verbal: true
-aliases:
-  - Wolfsong
 ---
 # Wolfsong
 *1st-level, Transmutation*  
@@ -45,6 +48,6 @@ A creature that understands the message is not compelled to act in a particular 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can name another specific recipient for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 122*

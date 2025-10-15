@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/3rd-level
@@ -11,7 +11,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -19,11 +19,14 @@ classes:
 school: Enchantment
 level: 3
 ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 Action
 duration: 'Concentration, up to 1 hour'
 range: Self
-somatic: true
-verbal: true
 aliases:
   - Dragon's Pride
 ---
@@ -37,6 +40,6 @@ aliases:
 
 Your sense of self grows to draconic proportions. Until the spell ends, you gain advantage on all Charisma checks and on all saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] or [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 201*

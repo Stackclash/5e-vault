@@ -3,31 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/level/1st-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
 school: Evocation
 level: 1
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 5 minutes
+range: 30 feet
+aliases:
+  - Anchoring Rope
 damage:
   base: null
   scaling:
     damage: null
     level: 3
   types: []
-ritual: false
-time: 1 Action
-duration: 5 minutes
-range: 30 feet
-somatic: true
-verbal: true
-aliases:
-  - Anchoring Rope
 ---
 # Anchoring Rope
 *1st-level, Evocation*  
@@ -41,6 +44,6 @@ You create a spectral lanyard. One end is tied around your waist, and the other 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can create one additional rope for every two slot levels above 1st. Each rope must be attached to a different creature.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 36*

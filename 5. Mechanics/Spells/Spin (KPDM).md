@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -20,18 +20,21 @@ classes:
   - Wizard
 school: Enchantment
 level: 2
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 1 minute
+range: 60 feet
+aliases:
+  - Spin
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: 60 feet
-somatic: true
-verbal: true
-aliases:
-  - Spin
 ---
 # Spin
 *2nd-level, Enchantment*  
@@ -43,6 +46,6 @@ aliases:
 
 You designate a creature you can see within range and tell it to spin. The creature can resist this command with a successful Wisdom saving throw. On a failed save, the creature spins in place for the duration of the spell. A spinning creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that has spun for 1 round or longer becomes dizzy and has disadvantage on attack rolls and ability checks until 1 round after it stops spinning.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 108*

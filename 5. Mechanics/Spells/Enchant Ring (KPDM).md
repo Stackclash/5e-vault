@@ -3,24 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Enchantment
 level: 6
 ritual: false
+components: 'V, S, M (500 gp worth of diamond dust, which the spell consumes)'
+verbal: true
+somatic: true
+material: true
+material_desc: '500 gp worth of diamond dust, which the spell consumes'
 time: 1 Action
 duration: Until dispelled
 range: Touch
-somatic: true
-verbal: true
-material: '500 gp worth of diamond dust, which the spell consumes'
 aliases:
   - Enchant Ring
 ---
@@ -36,6 +38,6 @@ You enchant a ring you touch that isn't being worn or carried. The next creature
 
 The [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature regards you as a friend. When the spell ends, it doesn't know it was [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you, but it does realize that its attitude toward you has changed (possibly greatly) in a short time. How the creature reacts to you and regards you in the future is up to the GM.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 232*

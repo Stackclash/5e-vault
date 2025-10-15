@@ -3,32 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
   - Wizard
 school: Conjuration
 level: 5
+ritual: false
+components: 'V, S, M (brimstone and a torch)'
+verbal: true
+somatic: true
+material: true
+material_desc: brimstone and a torch
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+aliases:
+  - Conjure Nightmare
 damage:
   base: null
   scaling:
     damage: null
     level: 6
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: 60 feet
-somatic: true
-verbal: true
-material: brimstone and a torch
-aliases:
-  - Conjure Nightmare
 ---
 # Conjure Nightmare
 *5th-level, Conjuration*  
@@ -42,6 +44,6 @@ You call forth a [[/5. Mechanics/Bestiary/Fiend/Nightmare.md\|nightmare]] to ser
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the duration increases by 1 hour for each slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 326*

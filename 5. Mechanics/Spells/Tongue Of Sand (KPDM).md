@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/wizard
@@ -13,7 +13,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Fighter (Eldritch Knight)
@@ -22,11 +22,14 @@ classes:
 school: Illusion
 level: 3
 ritual: true
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 minute
 duration: Until dispelled
 range: 30 feet
-somatic: true
-verbal: true
 aliases:
   - Tongue of Sand
 ---
@@ -42,6 +45,6 @@ aliases:
 
 Additionally, *tongue of sand* has the ability to interact in a simple, brief manner with creatures who hear its message. For up to 10 minutes after the message is triggered, questions addressed to the sand will be answered as you would answer them. Each answer can be no more than ten words long, and the spell ends after a second question is answered.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 115*

@@ -3,34 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/tce
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/level/5th-level
   - spell/school/conjuration
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Conjuration
 level: 5
+ritual: false
+components: 'V, S, M (a golden reliquary worth at least 500 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: a golden reliquary worth at least 500 gp
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: 90 feet
+aliases:
+  - Summon Celestial
 damage:
   base: null
   scaling:
     damage: null
     level: 6
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: 90 feet
-somatic: true
-verbal: true
-material: a golden reliquary worth at least 500 gp
-aliases:
-  - Summon Celestial
 ---
 # Summon Celestial
 *5th-level, Conjuration*  
@@ -47,6 +49,6 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Tasha's Cauldron of Everything p. 110*

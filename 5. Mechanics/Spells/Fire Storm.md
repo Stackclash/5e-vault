@@ -3,21 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/sorcerer
   - spell/level/7th-level
   - spell/school/evocation
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Sorcerer
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Evocation
 level: 7
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: 150 feet
+aliases:
+  - Fire Storm
 damage:
   base: 7d10
   scaling:
@@ -29,17 +40,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 150 feet
-somatic: true
-verbal: true
 area:
   shape: cube
   size: 10
-aliases:
-  - Fire Storm
 ---
 # Fire Storm
 *7th-level, Evocation*  
@@ -53,6 +56,6 @@ A storm made up of sheets of roaring flame appears in a location you choose with
 
 The fire damages objects in the area and ignites flammable objects that aren't being worn or carried. If you choose, plant life in the area is unaffected by this spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

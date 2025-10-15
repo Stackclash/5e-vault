@@ -3,24 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/level/4th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
 school: Transmutation
 level: 4
 ritual: false
+components: 'V, S, M (melee weapon owned by a dead ally of the target)'
+verbal: true
+somatic: true
+material: true
+material_desc: melee weapon owned by a dead ally of the target
 time: 1 Action
 duration: 'Concentration, up to 4 rounds'
 range: Touch
-somatic: true
-verbal: true
-material: melee weapon owned by a dead ally of the target
 aliases:
   - Blade of My Brother
 ---
@@ -36,6 +38,6 @@ You touch a melee weapon that was used by an ally who is now dead, and it leaps 
 
 The weapon acts on your turn by making an attack if a target presents itself. Its attack modifier equals your spellcasting level + the weapon's inherent magical bonus, if any; it receives only its own inherent magical bonus to damage. The weapon fights for up to 4 rounds or until your concentration is broken, after which the spell ends and it falls to the ground.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 43*

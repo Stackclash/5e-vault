@@ -3,30 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/4th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Necromancy
 level: 4
+ritual: false
+components: >-
+  V, S, M (an ounce of blood, and powdered onyx worth at least 50 gp, both of
+  which the spell consumes)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  an ounce of blood, and powdered onyx worth at least 50 gp, both of which the
+  spell consumes
+time: 10 minutes
+duration: Until dispelled or triggered
+range: Touch
+aliases:
+  - Tome Curse
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 10 minutes
-duration: Until dispelled or triggered
-range: Touch
-somatic: true
-verbal: true
-material: >-
-  an ounce of blood, and powdered onyx worth at least 50 gp, both of which the
-  spell consumes
-aliases:
-  - Tome Curse
 ---
 # Tome Curse
 *4th-level, Necromancy*  
@@ -45,6 +49,6 @@ You protect a book by writing a curse in it with ink made from the material comp
 
 A [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell ends this effect. You can also stipulate other actions taken by the target that would nullify the curse (returning the book after it is stolen, for example).
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 327*

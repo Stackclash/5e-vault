@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -20,6 +20,17 @@ classes:
   - Wizard
 school: Transmutation
 level: 1
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 10 feet
+aliases:
+  - Writhing Arms
 damage:
   base: 1d10
   scaling:
@@ -27,14 +38,6 @@ damage:
     level: 2
   types:
     - necrotic
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 10 feet
-somatic: true
-verbal: true
-aliases:
-  - Writhing Arms
 ---
 # Writhing Arms
 *1st-level, Transmutation*  
@@ -50,6 +53,6 @@ Although you control the tentacles, they make it difficult to manipulate items. 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage you deal with your tentacle attack increases by `dice:1d10|noform|noparens|avg|text(1d10)` for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 122*

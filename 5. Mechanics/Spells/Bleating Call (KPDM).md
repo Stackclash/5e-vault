@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/ranger
   - spell/class/sorcerer
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Ranger
   - Rogue (Arcane Trickster)
@@ -20,19 +20,21 @@ classes:
   - Wizard
 school: Enchantment
 level: 2
+ritual: false
+components: 'S, M (a bit of fur or hair from a young beast or humanoid)'
+verbal: false
+somatic: true
+material: true
+material_desc: a bit of fur or hair from a young beast or humanoid
+time: 1 Action
+duration: 1 minute
+range: 90 feet
+aliases:
+  - Bleating Call
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: 90 feet
-somatic: true
-verbal: false
-material: a bit of fur or hair from a young beast or humanoid
-aliases:
-  - Bleating Call
 ---
 # Bleating Call
 *2nd-level, Enchantment*  
@@ -48,6 +50,6 @@ Each creature that starts its turn within 30 feet of the sound and can hear it m
 
 Creatures that can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] are immune to this spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 43*

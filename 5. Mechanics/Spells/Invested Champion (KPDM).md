@@ -3,25 +3,27 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/level/3rd-level
   - spell/ritual
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
 school: Evocation
 level: 3
 ritual: true
+components: 'V, S, M (a vial of holy water, which is consumed)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a vial of holy water, which is consumed'
 time: 1 Action
 duration: 'Concentration, up to 1 hour'
 range: Touch
-somatic: true
-verbal: true
-material: 'a vial of holy water, which is consumed'
 aliases:
   - Invested Champion
 ---
@@ -39,6 +41,6 @@ If you become the champion of another creature, you gain advantage on all attack
 
 Whichever version of the spell is cast, if the distance between the champion and its designated ally increases to more than 60 feet, the spell ends.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 86*

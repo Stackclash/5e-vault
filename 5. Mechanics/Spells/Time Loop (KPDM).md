@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/sorcerer
@@ -12,7 +12,7 @@ tags:
   - spell/level/6th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Sorcerer
@@ -20,19 +20,21 @@ classes:
   - Wizard
 school: Transmutation
 level: 6
+ritual: false
+components: 'V, S, M (a metal loop)'
+verbal: true
+somatic: true
+material: true
+material_desc: a metal loop
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+aliases:
+  - Time Loop
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 30 feet
-somatic: true
-verbal: true
-material: a metal loop
-aliases:
-  - Time Loop
 ---
 # Time Loop
 *6th-level, Transmutation*  
@@ -46,6 +48,6 @@ You capture a creature within range in a loop of time. The target is teleported 
 
 An affected target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. For as long as the spell lasts, the target teleports back to its starting point at the start of each of its turns, and it must repeat the same sequence of moves and actions.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 261*

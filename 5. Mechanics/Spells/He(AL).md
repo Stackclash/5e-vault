@@ -3,33 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/level/6th-level
   - spell/school/evocation
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Evocation
 level: 6
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: 60 feet
+aliases:
+  - Heal
 damage:
   base: null
   scaling:
     damage: null
     level: 7
   types: []
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 60 feet
-somatic: true
-verbal: true
-aliases:
-  - Heal
 ---
 # Heal
 *6th-level, Evocation*  
@@ -43,6 +46,6 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

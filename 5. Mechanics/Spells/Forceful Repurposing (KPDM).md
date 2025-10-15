@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -11,7 +11,7 @@ tags:
   - spell/school/abjuration
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Warlock
@@ -19,11 +19,14 @@ classes:
 school: Abjuration
 level: 3
 ritual: false
+components: S
+verbal: false
+somatic: true
+material: false
+material_desc: ''
 time: 1 Reaction
 duration: Instantaneous
 range: 60 feet
-somatic: true
-verbal: false
 aliases:
   - Forceful Repurposing
 ---
@@ -39,6 +42,6 @@ You attempt to hijack a spell being cast and redirect it to serve your purpose. 
 
 Your targets must be valid targets for the spell based on the caster's ability and the range of the spell, but using your distinctions for friendly and hostile creatures.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 310*

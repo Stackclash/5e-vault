@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/wizard
@@ -11,35 +11,39 @@ tags:
   - spell/ritual
   - spell/school/divination
   - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-land
+  - spell/subclass/circle-of-the-land/forest
   - spell/subclass/circle-of-the-spirits
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/eldritch-knight
   - spell/subclass/oath-of-legacy
   - spell/subclass/the-sibyl
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
-  - Druid (Circle of the Land)
+  - 'Druid (Circle of the Land, Forest)'
   - Druid (Circle of the Spirits)
   - Fighter (Eldritch Knight)
   - Paladin (Oath of Legacy)
   - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock (The Sibyl)
   - Wizard
 school: Divination
 level: 4
 ritual: true
+components: >-
+  V, S, M (incense and a sacrificial offering appropriate to your religion,
+  together worth at least 25 gp, which the spell consumes)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  incense and a sacrificial offering appropriate to your religion, together
+  worth at least 25 gp, which the spell consumes
 time: 1 Action
 duration: Instantaneous
 range: Self
-somatic: true
-verbal: true
-material: >-
-  incense and a sacrificial offering appropriate to your religion, together
-  worth at least 25 gp, which the spell consumes
 aliases:
   - Divination
 ---
@@ -57,6 +61,6 @@ The spell doesn't take into account any possible circumstances that might change
 
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative  chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [Druid (Circle of the Spirits)](/compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Sibyl)](/compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Forest)]]; [Druid (Circle of the Spirits)](/compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Sibyl)](/compendium/lists/list-spells-classes-the-sibyl-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

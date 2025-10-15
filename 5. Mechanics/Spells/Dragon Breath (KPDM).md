@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Evocation
 level: 5
+ritual: false
+components: 'V, S, M (a piece of a dragon''s tooth)'
+verbal: true
+somatic: true
+material: true
+material_desc: a piece of a dragon's tooth
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Special
+aliases:
+  - Dragon Breath
 damage:
   base: 6d6
   scaling:
@@ -27,18 +38,9 @@ damage:
     - fire
     - lightning
     - poison
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Special
-somatic: true
-verbal: true
-material: a piece of a dragon's tooth
 area:
   shape: cone
   size: 15
-aliases:
-  - Dragon Breath
 ---
 # Dragon Breath
 *5th-level, Evocation*  
@@ -65,6 +67,6 @@ When you cast the spell, choose one of the dragon types listed below. Your choic
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:2d6|noform|noparens|avg|text(2d6)` for each slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 200*

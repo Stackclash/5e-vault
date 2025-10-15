@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/ranger
   - spell/class/sorcerer
@@ -12,20 +12,31 @@ tags:
   - spell/level/3rd-level
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Fighter (Eldritch Knight)
   - Ranger
   - Rogue (Arcane Trickster)
   - Sorcerer
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock
   - Wizard
 school: Necromancy
 level: 3
+ritual: false
+components: 'V, S, M (a melee weapon that has been used to injure the target)'
+verbal: true
+somatic: true
+material: true
+material_desc: a melee weapon that has been used to injure the target
+time: 1 Action
+duration: 'Concentration, up to 5 rounds'
+range: 25 feet
+aliases:
+  - Spiteful Weapon
 damage:
   base: null
   scaling:
@@ -36,15 +47,6 @@ saving_throw:
   skills:
     - Charisma
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 5 rounds'
-range: 25 feet
-somatic: true
-verbal: true
-material: a melee weapon that has been used to injure the target
-aliases:
-  - Spiteful Weapon
 ---
 # Spiteful Weapon
 *3rd-level, Necromancy*  
@@ -62,6 +64,6 @@ Once the connection is established, it lasts for the duration of the spell regar
 
 **At Higher Levels.** The target has disadvantage on its Charisma saving throws if spiteful weapon is cast using a spell slot of 5th level or higher.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 108*

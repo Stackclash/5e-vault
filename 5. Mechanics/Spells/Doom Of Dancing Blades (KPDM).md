@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
@@ -20,6 +20,17 @@ classes:
   - Wizard
 school: Illusion
 level: 3
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: Self
+aliases:
+  - Doom of Dancing Blades
 damage:
   base: 1d4
   scaling:
@@ -29,14 +40,6 @@ damage:
     - bludgeoning
     - piercing
     - slashing
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: Self
-somatic: true
-verbal: true
-aliases:
-  - Doom of Dancing Blades
 ---
 # Doom of Dancing Blades
 *3rd-level, Illusion*  
@@ -54,6 +57,6 @@ The spell ends when its duration expires or when all your illusory weapons are d
 
 An attacker must be able to see the illusory weapons to be affected. The spell has no effect if you are [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] or in total darkness or if the attacker is [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 62*

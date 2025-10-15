@@ -3,23 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/level/4th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
 school: Necromancy
 level: 4
 ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 10 minutes
 duration: Special
 range: 30 feet
-somatic: true
-verbal: true
 aliases:
   - Binding Oath
 ---
@@ -35,6 +38,6 @@ You seal an agreement between two or more willing creatures with an oath in the 
 
 The curse effect of binding oath can't be dismissed by [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]], but it can be removed with [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]], [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]], or [[/5. Mechanics/Spells/Wish.md\|wish]]. [[/5. Mechanics/Spells/Remove Curse.md\|Remove curse]] functions only if the spell slot used to cast it is equal to or higher than the spell slot used to cast binding oath. Depending on the nature of the oath, one creature's breaking it may or may not invalidate the oath for the other targets. If the oath is completely broken, the spell ends for every affected creature, but curse effects already bestowed remain until dispelled.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 42*

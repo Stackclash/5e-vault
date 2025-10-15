@@ -3,22 +3,24 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/level/7th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
 school: Transmutation
 level: 7
 ritual: false
+components: 'V, S, M (a dragon scale)'
+verbal: true
+somatic: true
+material: true
+material_desc: a dragon scale
 time: 1 Action
 duration: 'Concentration, up to 1 minute'
 range: Self
-somatic: true
-verbal: true
-material: a dragon scale
 aliases:
   - Aspect of the Dragon
 ---
@@ -38,6 +40,6 @@ You retain the benefits of any features from your class, race, or other source a
 
 When you transform, you choose whether your equipment falls to the ground, merges into the new form, or is worn by it. Worn equipment functions normally, but equipment doesn't change shape or size to match the new form. Any equipment that the new form can't wear must either fall to the ground or merge into the new form. The GM has final say on whether the new form can wear or use a particular piece of equipment. Equipment that merges has no effect in that state.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Deep Magic p. 198*

@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 7
+ritual: false
+components: 'V, S, M (100 miniature axes)'
+verbal: true
+somatic: true
+material: true
+material_desc: 100 miniature axes
+time: 1 Action
+duration: 'Concentration, up to 10 minutes'
+range: 30 feet
+aliases:
+  - Walking Wall
 damage:
   base: 4d6
   scaling:
@@ -21,15 +32,6 @@ damage:
     level: null
   types:
     - slashing
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 10 minutes'
-range: 30 feet
-somatic: true
-verbal: true
-material: 100 miniature axes
-aliases:
-  - Walking Wall
 ---
 # Walking Wall
 *7th-level, Transmutation*  
@@ -43,6 +45,6 @@ This spell creates a wall of swinging axes from the pile of miniature axes you p
 
 The wall has AC 12 and 200 hit points, and is immune to necrotic, poison, psychic, and piercing damage. If it is reduced to 0 hit points or when the spell's duration ends, the wall disappears and the miniature axes fall to the ground in a tidy heap.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 119*

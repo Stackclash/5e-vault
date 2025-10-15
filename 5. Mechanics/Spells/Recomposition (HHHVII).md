@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/hhhvii
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/paladin
@@ -12,13 +12,13 @@ tags:
   - spell/ritual
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/eldritch-knight
   - spell/subclass/harvester-domain
   - spell/subclass/oath-of-legacy
   - spell/subclass/the-apex-predator
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Harvester Domain)
   - Druid
@@ -26,18 +26,20 @@ classes:
   - Paladin
   - Paladin (Oath of Legacy)
   - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock (The Apex Predator)
   - Wizard
 school: Necromancy
 level: 3
 ritual: true
+components: 'V, S, M (A silver needle and thread, and a stick of incense)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'A silver needle and thread, and a stick of incense'
 time: 1 minute
 duration: Instantaneous
 range: Touch
-somatic: true
-verbal: true
-material: 'A silver needle and thread, and a stick of incense'
 aliases:
   - Recomposition
 ---
@@ -53,6 +55,6 @@ At the end of the casting time of this spell, you touch a dead creature. That cr
 
 If this spell has been cast on a dead creature that has been subjected to a failed "harvesting check", any unharvested materials become available again and may be subjected to another "harvesting check". A dead creature may only be subjected to this spell once; any subsequent attempts automatically fail.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Harvester Domain)](/compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Apex Predator)](/compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Harvester Domain)](/compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Apex Predator)](/compendium/lists/list-spells-classes-the-apex-predator-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 69*

@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Transmutation
 level: 7
+ritual: false
+components: 'V, S, M (a quarterstaff)'
+verbal: true
+somatic: true
+material: true
+material_desc: a quarterstaff
+time: 10 minutes
+duration: Instantaneous
+range: Touch
+aliases:
+  - Create Thunderstaff
 damage:
   base: 1d8
   scaling:
@@ -19,15 +30,6 @@ damage:
     level: null
   types:
     - thunder
-ritual: false
-time: 10 minutes
-duration: Instantaneous
-range: Touch
-somatic: true
-verbal: true
-material: a quarterstaff
-aliases:
-  - Create Thunderstaff
 ---
 # Create Thunderstaff
 *7th-level, Transmutation*  
@@ -43,6 +45,6 @@ After 60 days, the staff is fully charged and can't absorb any more sound. At th
 
 If the final charge is not expended within 60 days, the staff becomes nonmagical again.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 55*

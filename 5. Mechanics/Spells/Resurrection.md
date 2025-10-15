@@ -3,24 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/level/7th-level
   - spell/school/necromancy
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Necromancy
 level: 7
 ritual: false
+components: 'V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a diamond worth at least 1,000 gp, which the spell consumes'
 time: 1 hour
 duration: Instantaneous
 range: Touch
-somatic: true
-verbal: true
-material: 'a diamond worth at least 1,000 gp, which the spell consumes'
 aliases:
   - Resurrection
 ---
@@ -42,6 +44,6 @@ Coming back from the dead is an ordeal. The target takes a −4 penalty to all a
 
 Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

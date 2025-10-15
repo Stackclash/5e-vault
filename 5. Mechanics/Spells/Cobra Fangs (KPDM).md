@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/ranger
   - spell/level/1st-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Ranger
 school: Transmutation
 level: 1
+ritual: false
+components: 'V, S, M (a drop of snake venom or a patch of snakeskin)'
+verbal: true
+somatic: true
+material: true
+material_desc: a drop of snake venom or a patch of snakeskin
+time: 1 Action
+duration: 1 minute
+range: Touch
+aliases:
+  - Cobra Fangs
 damage:
   base: 3d6
   scaling:
@@ -24,15 +35,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: Touch
-somatic: true
-verbal: true
-material: a drop of snake venom or a patch of snakeskin
-aliases:
-  - Cobra Fangs
 ---
 # Cobra Fangs
 *1st-level, Transmutation*  
@@ -50,6 +52,6 @@ When the target hits a creature with its bite attack, the creature must make a C
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the target's bite counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 51*

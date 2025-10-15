@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Evocation
 level: 5
+ritual: false
+components: 'V, S, M (a lodestone)'
+verbal: true
+somatic: true
+material: true
+material_desc: a lodestone
+time: 1 Action
+duration: 'Concentration, up to 10 minutes'
+range: Touch
+aliases:
+  - Magnetize
 damage:
   base: 2d10
   scaling:
@@ -27,15 +38,6 @@ saving_throw:
   skills:
     - Strength
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 10 minutes'
-range: Touch
-somatic: true
-verbal: true
-material: a lodestone
-aliases:
-  - Magnetize
 ---
 # Magnetize
 *5th-level, Evocation*  
@@ -51,6 +53,6 @@ Objects held by or in the possession of a creature are also attracted. The creat
 
 Creatures garbed in mostly metal armor, or made of metal, are also attracted to the magnet, and have disadvantage on their saving throws to avoid being pulled toward it. If such a creature succeeds on its saving throw, it can move away from the magnet on its turn, but the area within 50 feet of the magnet is considered difficult terrain. If the creature is still in this area at the start of its next turn, it must make another successful saving throw to avoid being drawn toward the magnet. A creature that comes into contact with the magnet is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. It can negate this condition by using an action and succeeding on a Strength check against your spell save DC to remove itself from the magnet.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 92*

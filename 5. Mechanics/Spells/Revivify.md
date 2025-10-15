@@ -4,7 +4,7 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/paladin
@@ -12,13 +12,13 @@ tags:
   - spell/level/3rd-level
   - spell/school/necromancy
   - spell/subclass/circle-of-wildfire
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/grave-domain
   - spell/subclass/life-domain
   - spell/subclass/the-celestial
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Grave Domain)
   - Cleric (Life Domain)
@@ -26,17 +26,19 @@ classes:
   - Druid (Circle of Wildfire)
   - Paladin
   - Ranger
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock (The Celestial)
 school: Necromancy
 level: 3
 ritual: false
+components: 'V, S, M (diamonds worth 300 gp, which the spell consumes)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'diamonds worth 300 gp, which the spell consumes'
 time: 1 Action
 duration: Instantaneous
 range: Touch
-somatic: true
-verbal: true
-material: 'diamonds worth 300 gp, which the spell consumes'
 aliases:
   - Revivify
 ---
@@ -50,6 +52,6 @@ aliases:
 
 You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Grave Domain)](/compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Wildfire)](/compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Grave Domain)](/compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Life Domain.md\|Cleric (Life Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Wildfire)](/compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

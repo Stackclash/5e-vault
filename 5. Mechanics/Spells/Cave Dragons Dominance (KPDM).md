@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 6
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Cave Dragon's Dominance
 damage:
   base: 1d6
   scaling:
@@ -22,17 +33,9 @@ damage:
   types:
     - poison
     - slashing
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: true
-verbal: true
 area:
   shape: cone
   size: 20
-aliases:
-  - Cave Dragon's Dominance
 ---
 # Cave Dragon's Dominance
 *6th-level, Transmutation*  
@@ -46,6 +49,6 @@ You take on some of the physical characteristics and abilities of a cave dragon 
 
 Up to three times while the spell is active, as an action, you can breathe a 20-foot cone of poison gas, dealing `dice:6d8|noform|noparens|avg` (`6d8`) poison damage to each creature in the cone and making it [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until it finishes a short rest. A creature that succeeds on a Constitution saving throw takes half as much damage from your breath weapon and is not [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 198*

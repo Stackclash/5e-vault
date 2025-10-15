@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/ranger
@@ -11,17 +11,28 @@ tags:
   - spell/class/warlock
   - spell/level/2nd-level
   - spell/school/necromancy
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Ranger
   - Sorcerer
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock
 school: Necromancy
 level: 2
+ritual: false
+components: 'V, S, M (a live maggot)'
+verbal: true
+somatic: true
+material: true
+material_desc: a live maggot
+time: 1 Action
+duration: 1 hour
+range: 30 feet
+aliases:
+  - Stench of Rot
 damage:
   base: null
   scaling:
@@ -32,15 +43,6 @@ saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 hour
-range: 30 feet
-somatic: true
-verbal: true
-material: a live maggot
-aliases:
-  - Stench of Rot
 ---
 # Stench of Rot
 *2nd-level, Necromancy*  
@@ -58,6 +60,6 @@ A [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell or similar magic 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the duration increases by 1 hour for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 109*

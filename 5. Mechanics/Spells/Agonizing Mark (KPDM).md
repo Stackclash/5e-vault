@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/ranger
@@ -15,7 +15,7 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/moon-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Moon Domain)
   - Druid
@@ -26,18 +26,21 @@ classes:
   - Wizard
 school: Evocation
 level: 1
+ritual: false
+components: S
+verbal: false
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 90 feet
+aliases:
+  - Agonizing Mark
 saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 90 feet
-somatic: true
-verbal: false
-aliases:
-  - Agonizing Mark
 ---
 # Agonizing Mark
 *1st-level, Evocation*  
@@ -49,6 +52,6 @@ aliases:
 
 You choose a creature you can see within range to mark as your prey, and a ray of black energy issues forth from you. Until the spell ends, each time you deal damage to the target it must make a Charisma saving throw. On a failed save, it falls [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] as its body is filled with torturous agony.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Moon Domain)](/compendium/lists/list-spells-classes-moon-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Moon Domain)](/compendium/lists/list-spells-classes-moon-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 34*

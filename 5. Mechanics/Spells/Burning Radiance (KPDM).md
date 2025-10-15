@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Sorcerer
   - Wizard
 school: Evocation
 level: 6
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: Self (60-foot Line)
+aliases:
+  - Burning Radiance
 damage:
   base: 10d8
   scaling:
@@ -28,17 +39,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self (60-foot Line)
-somatic: true
-verbal: true
 area:
   shape: line
   size: 60
-aliases:
-  - Burning Radiance
 ---
 # Burning Radiance
 *6th-level, Evocation*  
@@ -52,6 +55,6 @@ A line of light 60 feet long and 5 feet wide emanates from you in a direction of
 
 The spell ignites flammable objects in the area that aren't being worn or carried.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 224*

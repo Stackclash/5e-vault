@@ -3,30 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/wizard
   - spell/level/2nd-level
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Wizard
 school: Necromancy
 level: 2
 ritual: false
+components: 'V, S, M (a piece of flesh from a creature of the target''s race)'
+verbal: true
+somatic: true
+material: true
+material_desc: a piece of flesh from a creature of the target's race
 time: 1 minute
 duration: Instantaneous
 range: Touch
-somatic: true
-verbal: true
-material: a piece of flesh from a creature of the target's race
 aliases:
   - As You Were
 ---
@@ -52,6 +54,6 @@ The effect lasts for a number of hours equal to your caster level. You can use a
 
 If this spell is cast on an undead creature that isn't your ally or under your control, it makes a Charisma saving throw to resist the effect.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 38*

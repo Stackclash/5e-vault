@@ -3,29 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Conjuration
 level: 5
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 minute
+duration: 'Concentration, up to 1 hour'
+range: 90 feet
+aliases:
+  - Conjure Minor Voidborn
 damage:
   base: 1d6
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 minute
-duration: 'Concentration, up to 1 hour'
-range: 90 feet
-somatic: true
-verbal: true
-aliases:
-  - Conjure Minor Voidborn
 ---
 # Conjure Minor Voidborn
 *5th-level, Conjuration*  
@@ -48,6 +51,6 @@ If your concentration is broken, the spell ends but the creatures don't disappea
 
 **At Higher Levels.** When you cast this spell using a 7th- or 9th-level spell slot, you choose one of the summoning options above, and more creatures appear—twice as many with a 7th-level spell slot and three times as many with a 9th-level spell slot.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 330*

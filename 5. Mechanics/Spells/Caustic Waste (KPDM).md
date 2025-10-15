@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/warlock
@@ -14,7 +14,7 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/oath-of-the-annihilator
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Fighter (Eldritch Knight)
@@ -24,6 +24,17 @@ classes:
   - Wizard
 school: Evocation
 level: 4
+ritual: false
+components: 'V, S, M (a vial of poison, acid, or other caustic substance)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a vial of poison, acid, or other caustic substance'
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+aliases:
+  - Caustic Waste
 damage:
   base: 4d10
   scaling:
@@ -35,15 +46,6 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 120 feet
-somatic: true
-verbal: true
-material: 'a vial of poison, acid, or other caustic substance'
-aliases:
-  - Caustic Waste
 ---
 # Caustic Waste
 *4th-level, Evocation*  
@@ -57,6 +59,6 @@ You create either a rectangular pool of acid 50 feet long, 10 feet wide, and 5 f
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by `dice:1d10|noform|noparens|avg|text(1d10)` for each slot level above 4th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 309*

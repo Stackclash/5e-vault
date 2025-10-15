@@ -3,28 +3,31 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 7
 ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 Action
 duration: 'Concentration, up to 1 minute'
 range: 100 feet
-somatic: true
-verbal: true
+aliases:
+  - Wild Trajectory
 area:
   shape: cube
   size: 30
-aliases:
-  - Wild Trajectory
 ---
 # Wild Trajectory
 *7th-level, Transmutation*  
@@ -38,6 +41,6 @@ You create a 30-foot cube of magical instability that causes spell effects passi
 
 A spell that affects anything in its path, such as [[/5. Mechanics/Spells/Lightning Bolt.md\|lightning bolt]], will continue to do so along its new trajectory up to the limit of its range. A spell such as [[/5. Mechanics/Spells/Fireball.md\|fireball]] will travel in the new direction up to the limit of its range before detonating. A targeted spell will strike the first viable target it encounters along its new trajectory.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 189*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -24,7 +24,7 @@ tags:
   - spell/subclass/speed-domain
   - spell/subclass/war-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Chain Domain)
   - Cleric (Harvester Domain)
   - Cleric (Hunting Domain)
@@ -43,6 +43,17 @@ classes:
   - Wizard
 school: Enchantment
 level: 5
+ritual: false
+components: 'V, S, M (a small, straight piece of iron)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a small, straight piece of iron'
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 90 feet
+aliases:
+  - Hold Monster
 damage:
   base: null
   scaling:
@@ -53,15 +64,6 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 90 feet
-somatic: true
-verbal: true
-material: 'a small, straight piece of iron'
-aliases:
-  - Hold Monster
 ---
 # Hold Monster
 *5th-level, Enchantment*  
@@ -75,6 +77,6 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Chain Domain)](/compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Cleric (Harvester Domain)](/compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [Cleric (Hunting Domain)](/compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [Cleric (Justice Domain)](/compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [Cleric (Moon Domain)](/compendium/lists/list-spells-classes-moon-domain-kpdm.md "subclass=KPDM"); [Cleric (Speed Domain)](/compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes War Domain.md\|Cleric (War Domain)]]; [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Paladin (Oath of the Watchers)](/compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [Ranger (Angler)](/compendium/lists/list-spells-classes-angler-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Ranger (Fey Trapper)](/compendium/lists/list-spells-classes-fey-trapper-hhhviii.md "subclass=HHHVIII"); [Ranger (Monster Slayer)](/compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Chain Domain)](/compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Cleric (Harvester Domain)](/compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [Cleric (Hunting Domain)](/compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [Cleric (Justice Domain)](/compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [Cleric (Moon Domain)](/compendium/lists/list-spells-classes-moon-domain-kpdm.md "subclass=KPDM"); [Cleric (Speed Domain)](/compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes War Domain.md\|Cleric (War Domain)]]; [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Paladin (Oath of the Watchers)](/compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [Ranger (Angler)](/compendium/lists/list-spells-classes-angler-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Ranger (Fey Trapper)](/compendium/lists/list-spells-classes-fey-trapper-hhhviii.md "subclass=HHHVIII"); [Ranger (Monster Slayer)](/compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 251. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

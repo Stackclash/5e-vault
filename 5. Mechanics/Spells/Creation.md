@@ -4,42 +4,46 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/illusion
   - spell/subclass/forge-domain
-  - spell/subclass/the-genie
   - spell/subclass/the-genie-lord
+  - spell/subclass/the-genie/dao
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Forge Domain)
   - Sorcerer
   - Warlock (The Genie Lord)
-  - Warlock (The Genie)
+  - 'Warlock (The Genie, Dao)'
   - Wizard
 school: Illusion
 level: 5
+ritual: false
+components: >-
+  V, S, M (a tiny piece of matter of the same type of the item you plan to
+  create)
+verbal: true
+somatic: true
+material: true
+material_desc: a tiny piece of matter of the same type of the item you plan to create
+time: 1 minute
+duration: Special
+range: 30 feet
+aliases:
+  - Creation
 damage:
   base: null
   scaling:
     damage: null
     level: 6
   types: []
-ritual: false
-time: 1 minute
-duration: Special
-range: 30 feet
-somatic: true
-verbal: true
-material: a tiny piece of matter of the same type of the item you plan to create
 area:
   shape: cube
   size: 5
-aliases:
-  - Creation
 ---
 # Creation
 *5th-level, Illusion*  
@@ -68,6 +72,6 @@ Using any material created by this spell as another spell's material component c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Forge Domain)](/compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Genie Lord)](/compendium/lists/list-spells-classes-the-genie-lord-kpdm.md "subclass=KPDM"); [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Forge Domain)](/compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Genie Lord)](/compendium/lists/list-spells-classes-the-genie-lord-kpdm.md "subclass=KPDM"); [Warlock (The Genie, Dao)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

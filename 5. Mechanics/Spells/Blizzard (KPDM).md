@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Conjuration
 level: 7
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 100 feet
+aliases:
+  - Blizzard
 damage:
   base: 8d8
   scaling:
@@ -27,14 +38,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 100 feet
-somatic: true
-verbal: true
-aliases:
-  - Blizzard
 ---
 # Blizzard
 *7th-level, Conjuration*  
@@ -46,6 +49,6 @@ aliases:
 
 A howling storm of thick snow and ice crystals appears in a cylinder 40 feet high and 40 feet in diameter within range. The area is heavily obscured by the swirling snow. When the storm appears, each creature in the area takes `dice:8d8|noform|noparens|avg` (`8d8`) cold damage, or half as much damage with a successful Constitution saving throw. A creature also makes this saving throw and takes damage when it enters the area for the first time on a turn or ends its turn there. In addition, a creature that takes cold damage from this spell has disadvantage on Constitution saving throws to maintain concentration until the start of its next turn.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 268*

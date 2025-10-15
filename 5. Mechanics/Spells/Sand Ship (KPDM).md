@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/4th-level
   - spell/ritual
@@ -11,19 +11,21 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Transmutation
 level: 4
 ritual: true
+components: 'V, S, M (a boat or ship of 10,000 gp value or less)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a boat or ship of 10,000 gp value or less'
 time: 1 minute
 duration: 24 hours
 range: 30 feet
-somatic: true
-verbal: true
-material: 'a boat or ship of 10,000 gp value or less'
 aliases:
   - Sand Ship
 ---
@@ -37,6 +39,6 @@ aliases:
 
 Casting this spell on a water vessel up to the size of a small sailing ship transforms it into a vessel capable of sailing on sand as easily as water. The vessel still needs a trained crew and relies on wind or oars for propulsion, but it moves at its normal speed across sand instead of water for the duration of the spell. It can sail only over sand, not soil or solid rock. For the duration of the spell, the vessel doesn't float; it must be beached or resting on the bottom of a body of water (partially drawn up onto a beach, for example) when the spell is cast, or it sinks into the water.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 104*

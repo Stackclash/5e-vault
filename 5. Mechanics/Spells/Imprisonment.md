@@ -3,33 +3,38 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
   - Wizard
 school: Abjuration
 level: 9
+ritual: false
+components: >-
+  V, S, M (a vellum depiction or a carved statuette in the likeness of the
+  target, and a special component that varies according to the version of the
+  spell you choose, worth at least 500 gp per Hit Die of the target)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  a vellum depiction or a carved statuette in the likeness of the target, and a
+  special component that varies according to the version of the spell you
+  choose, worth at least 500 gp per Hit Die of the target
+time: 1 minute
+duration: Until dispelled
+range: 30 feet
+aliases:
+  - Imprisonment
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 minute
-duration: Until dispelled
-range: 30 feet
-somatic: true
-verbal: true
-material: >-
-  a vellum depiction or a carved statuette in the likeness of the target, and a
-  special component that varies according to the version of the spell you
-  choose, worth at least 500 gp per Hit Die of the target
-aliases:
-  - Imprisonment
 ---
 # Imprisonment
 *9th-level, Abjuration*  
@@ -83,6 +88,6 @@ You can use a particular special component to create only one prison at a time. 
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 252. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

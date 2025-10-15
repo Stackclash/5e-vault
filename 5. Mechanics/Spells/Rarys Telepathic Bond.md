@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/5th-level
   - spell/ritual
@@ -13,7 +13,7 @@ tags:
   - spell/subclass/peace-domain
   - spell/subclass/the-many
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Peace Domain)
   - Ranger (Griffon Scout)
   - Sorcerer (Aberrant Mind)
@@ -22,12 +22,14 @@ classes:
 school: Divination
 level: 5
 ritual: true
+components: 'V, S, M (pieces of eggshell from two different kinds of creatures)'
+verbal: true
+somatic: true
+material: true
+material_desc: pieces of eggshell from two different kinds of creatures
 time: 1 Action
 duration: 1 hour
 range: 30 feet
-somatic: true
-verbal: true
-material: pieces of eggshell from two different kinds of creatures
 aliases:
   - Rary's Telepathic Bond
 ---
@@ -43,6 +45,6 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [Ranger (Griffon Scout)](/compendium/lists/list-spells-classes-griffon-scout-kpdm.md "subclass=KPDM"); [Sorcerer (Aberrant Mind)](/compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Warlock (The Many)](/compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [Ranger (Griffon Scout)](/compendium/lists/list-spells-classes-griffon-scout-kpdm.md "subclass=KPDM"); [Sorcerer (Aberrant Mind)](/compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Warlock (The Many)](/compendium/lists/list-spells-classes-the-many-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Telepathic Bond")*

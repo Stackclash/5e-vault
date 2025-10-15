@@ -3,23 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/8th-level
   - spell/school/transmutation
   - spell/subclass/hedge-mage
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Wizard (Hedge Mage)
 school: Transmutation
 level: 8
 ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 Action
 duration: 'Concentration, up to 24 hours'
 range: 30 feet
-somatic: true
-verbal: true
 aliases:
   - Animal Shapes
 ---
@@ -37,6 +40,6 @@ The transformation lasts for the duration for each target, or until the target d
 
 The target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

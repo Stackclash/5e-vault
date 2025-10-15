@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/level/2nd-level
@@ -11,11 +11,22 @@ tags:
   - spell/subrace/genasi-fire
   - spell/subrace/tiefling-mephistopheles
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Sorcerer
 school: Evocation
 level: 2
+ritual: false
+components: 'V, S, M (leaf of sumac)'
+verbal: true
+somatic: true
+material: true
+material_desc: leaf of sumac
+time: 1 Bonus Action
+duration: 'Concentration, up to 10 minutes'
+range: Self
+aliases:
+  - Flame Blade
 damage:
   base: 3d6
   scaling:
@@ -23,18 +34,9 @@ damage:
     level: 4
   types:
     - fire
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 10 minutes'
-range: Self
-somatic: true
-verbal: true
-material: leaf of sumac
 area:
   shape: sphere
   size: 10
-aliases:
-  - Flame Blade
 ---
 # Flame Blade
 *2nd-level, Evocation*  
@@ -52,6 +54,6 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for every two slot levels above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

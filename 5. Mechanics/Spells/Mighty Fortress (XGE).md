@@ -3,22 +3,24 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Conjuration
 level: 8
 ritual: false
+components: 'V, S, M (a diamond worth at least 500 gp, which the spell consumes)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a diamond worth at least 500 gp, which the spell consumes'
 time: 1 minute
 duration: Instantaneous
 range: 1 miles
-somatic: true
-verbal: true
-material: 'a diamond worth at least 500 gp, which the spell consumes'
 aliases:
   - Mighty Fortress
 ---
@@ -45,6 +47,6 @@ After 7 days or when you cast this spell somewhere else, the fortress harmlessly
 
 Casting this spell on the same spot once every 7 days for a year makes the fortress permanent.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 161*

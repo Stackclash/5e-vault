@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/sorcerer
@@ -13,7 +13,7 @@ tags:
   - spell/school/necromancy
   - spell/subclass/apocalypse-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Apocalypse Domain)
   - Druid
@@ -21,6 +21,17 @@ classes:
   - Warlock
 school: Necromancy
 level: 1
+ritual: false
+components: 'V, M (the skull of a Tiny mammal or bird)'
+verbal: true
+somatic: false
+material: true
+material_desc: the skull of a Tiny mammal or bird
+time: 1 Action
+duration: Instantaneous
+range: 30 feet
+aliases:
+  - Grim Siphon
 damage:
   base: 1d4
   scaling:
@@ -32,15 +43,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 30 feet
-somatic: false
-verbal: true
-material: the skull of a Tiny mammal or bird
-aliases:
-  - Grim Siphon
 ---
 # Grim Siphon
 *1st-level, Necromancy*  
@@ -54,8 +56,6 @@ You twist the forces of entropy around two creatures, bringing distress to one w
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the poison damage increases by `dice:1d4|noform|noparens|avg|text(1d4)` for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Apocalypse Domain)](/compendium/lists/list-spells-classes-apocalypse-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Shadow Touched (TCE).md\|Shadow Touched]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Apocalypse Domain)](/compendium/lists/list-spells-classes-apocalypse-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 311*

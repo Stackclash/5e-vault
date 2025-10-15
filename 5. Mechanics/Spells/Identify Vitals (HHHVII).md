@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/hhhvii
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/paladin
@@ -11,19 +11,19 @@ tags:
   - spell/class/warlock
   - spell/class/wizard
   - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/feat/ritual-caster
+  - spell/feat/magic-initiate/wizard-spells
+  - spell/feat/ritual-caster/wizard-spells
   - spell/level/1st-level
   - spell/optfeature/book-of-ancient-secrets
   - spell/ritual
   - spell/school/enchantment
   - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/eldritch-knight
   - spell/subclass/harvester-domain
   - spell/subclass/oath-of-legacy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Harvester Domain)
   - Druid
@@ -32,26 +32,28 @@ classes:
   - Paladin (Oath of Legacy)
   - Ranger
   - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock
   - Wizard
 school: Enchantment
 level: 1
+ritual: true
+components: 'V, M (a small crystal lens set in a gold frame worth at least 50 gp)'
+verbal: true
+somatic: false
+material: true
+material_desc: a small crystal lens set in a gold frame worth at least 50 gp
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+aliases:
+  - Identify Vitals
 damage:
   base: null
   scaling:
     damage: null
     level: 2
   types: []
-ritual: true
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 60 feet
-somatic: false
-verbal: true
-material: a small crystal lens set in a gold frame worth at least 50 gp
-aliases:
-  - Identify Vitals
 ---
 # Identify Vitals
 *1st-level, Enchantment (ritual)*  
@@ -67,8 +69,6 @@ If you target a dead creature with this spell, you also gain the benefits of a s
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 60 feet of each other when you target them.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Harvester Domain)](/compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Ritual Caster.md\|Ritual Caster]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Harvester Domain)](/compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 69*

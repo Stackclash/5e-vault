@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Evocation
 level: 5
+ritual: false
+components: 'V, S, M (a strip of dried flesh that has been frozen at least once)'
+verbal: true
+somatic: true
+material: true
+material_desc: a strip of dried flesh that has been frozen at least once
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 90 feet
+aliases:
+  - Frostbite
 damage:
   base: 4d8
   scaling:
@@ -27,15 +38,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 90 feet
-somatic: true
-verbal: true
-material: a strip of dried flesh that has been frozen at least once
-aliases:
-  - Frostbite
 ---
 # Frostbite
 *5th-level, Evocation*  
@@ -53,6 +55,6 @@ Creatures that are immune to cold damage are unaffected by this spell.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can target two additional creatures for each slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 272*

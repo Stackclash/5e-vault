@@ -4,41 +4,43 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/class/ranger
   - spell/level/2nd-level
   - spell/school/abjuration
   - spell/subclass/clockwork-soul
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/peace-domain
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Peace Domain)
   - Paladin
   - Ranger
   - Sorcerer (Clockwork Soul)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Abjuration
 level: 2
+ritual: false
+components: 'V, S, M (a tiny strip of white cloth)'
+verbal: true
+somatic: true
+material: true
+material_desc: a tiny strip of white cloth
+time: 1 Action
+duration: 8 hours
+range: 30 feet
+aliases:
+  - Aid
 damage:
   base: null
   scaling:
     damage: null
     level: 3
   types: []
-ritual: false
-time: 1 Action
-duration: 8 hours
-range: 30 feet
-somatic: true
-verbal: true
-material: a tiny strip of white cloth
-aliases:
-  - Aid
 ---
 # Aid
 *2nd-level, Abjuration*  
@@ -52,6 +54,6 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Clockwork Soul)](/compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Clockwork Soul)](/compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

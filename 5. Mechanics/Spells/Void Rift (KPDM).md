@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Evocation
 level: 9
+ritual: false
+components: 'V, S, M (a black opal worth 500 gp, carved with a Void glyph)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a black opal worth 500 gp, carved with a Void glyph'
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 300 feet
+aliases:
+  - Void Rift
 damage:
   base: 8d10
   scaling:
@@ -23,18 +34,9 @@ saving_throw:
   skills:
     - Strength
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 300 feet
-somatic: true
-verbal: true
-material: 'a black opal worth 500 gp, carved with a Void glyph'
 area:
   shape: sphere
   size: 10
-aliases:
-  - Void Rift
 ---
 # Void Rift
 *9th-level, Evocation*  
@@ -50,6 +52,6 @@ Unattended objects within 40 feet of the rift are drawn 15 feet toward it at the
 
 While concentrating on the spell, you take `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage at the end of each of your turns.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 332*

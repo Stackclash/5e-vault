@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/level/5th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
 school: Conjuration
 level: 5
+ritual: false
+components: 'V, S, M (a thread of black silk)'
+verbal: true
+somatic: true
+material: true
+material_desc: a thread of black silk
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: Self (30-foot Cube)
+aliases:
+  - Dark Web of the Spider Monarch
 damage:
   base: 3d6
   scaling:
@@ -23,18 +34,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: Self (30-foot Cube)
-somatic: true
-verbal: true
-material: a thread of black silk
 area:
   shape: cube
   size: 30
-aliases:
-  - Dark Web of the Spider Monarch
 ---
 # Dark Web of the Spider Monarch
 *5th-level, Conjuration*  
@@ -56,6 +58,6 @@ A creature [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the w
 
 The webs are not flammable, but are susceptible to radiant damage. Any 5-foot cube of webs exposed to radiant damage dissipates to nothing in 1 round.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 58*

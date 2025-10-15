@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
@@ -21,11 +21,14 @@ classes:
 school: Divination
 level: 2
 ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 Action
 duration: 'Concentration, up to 10 minutes'
 range: Self
-somatic: true
-verbal: true
 aliases:
   - Detect Dragons
 ---
@@ -39,6 +42,6 @@ aliases:
 
 You can detect the presence of dragons and other draconic creatures within your line of sight and 120 feet, regardless of disguises, illusions, and alteration magic such as polymorph. The information you uncover depends on the number of consecutive rounds you spend an action studying a subject or area. On the first round of examination, you detect whether any draconic creatures are present, but not their number, location, identity, or type. On the second round, you learn the number of such creatures as well as the general condition of the most powerful one. On the third and subsequent rounds, you make a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check; if it succeeds, you learn the age, type, and location of one draconic creature within range. Note that the spell provides no information on the turn in which it is cast, unless you have the means to take a second action that turn.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 199*

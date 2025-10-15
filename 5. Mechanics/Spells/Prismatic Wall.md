@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Abjuration
 level: 9
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 10 minutes
+range: 60 feet
+aliases:
+  - Prismatic Wall
 damage:
   base: 10d6
   scaling:
@@ -30,14 +41,6 @@ saving_throw:
     - Dexterity
     - Wisdom
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: 10 minutes
-range: 60 feet
-somatic: true
-verbal: true
-aliases:
-  - Prismatic Wall
 ---
 # Prismatic Wall
 *9th-level, Abjuration*  
@@ -87,6 +90,6 @@ On a failed save, the creature is [[/5. Mechanics/Rules/Conditions.md#Blinded\|b
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

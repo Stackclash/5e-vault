@@ -3,25 +3,25 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/paladin
   - spell/class/warlock
   - spell/class/wizard
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/wizard-spells
   - spell/level/1st-level
   - spell/school/abjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/clockwork-soul
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/neutrality
   - spell/subclass/eldritch-knight
   - spell/subclass/horizon-walker
   - spell/subclass/monster-slayer
   - spell/subclass/oath-of-devotion
   - spell/subclass/oath-of-radiance
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Fighter (Eldritch Knight)
@@ -32,18 +32,20 @@ classes:
   - Ranger (Monster Slayer)
   - Rogue (Arcane Trickster)
   - Sorcerer (Clockwork Soul)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Neutrality)'
   - Warlock
   - Wizard
 school: Abjuration
 level: 1
 ritual: false
+components: 'V, S, M (holy water or powdered silver and iron, which the spell consumes)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'holy water or powdered silver and iron, which the spell consumes'
 time: 1 Action
 duration: 'Concentration, up to 10 minutes'
 range: Touch
-somatic: true
-verbal: true
-material: 'holy water or powdered silver and iron, which the spell consumes'
 aliases:
   - Protection from Evil and Good
 ---
@@ -59,8 +61,6 @@ Until the spell ends, one willing creature you touch is protected against certai
 
 The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], or possessed by them. If the target is already [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [Paladin (Oath of Radiance)](/compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Ranger (Horizon Walker)](/compendium/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE"); [Ranger (Monster Slayer)](/compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Clockwork Soul)](/compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [Paladin (Oath of Radiance)](/compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Ranger (Horizon Walker)](/compendium/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE"); [Ranger (Monster Slayer)](/compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Clockwork Soul)](/compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Sorcerer (Divine Soul, Neutrality)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

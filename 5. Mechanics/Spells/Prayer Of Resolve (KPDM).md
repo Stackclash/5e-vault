@@ -3,33 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/level/2nd-level
   - spell/school/evocation
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Evocation
 level: 2
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 minute
+duration: 1 hour
+range: 30 feet
+aliases:
+  - Prayer of Resolve
 damage:
   base: 1d10
   scaling:
     damage: 1d10
     level: 3
   types: []
-ritual: false
-time: 1 minute
-duration: 1 hour
-range: 30 feet
-somatic: false
-verbal: true
-aliases:
-  - Prayer of Resolve
 ---
 # Prayer of Resolve
 *2nd-level, Evocation*  
@@ -43,6 +46,6 @@ You remind your allies of the perseverance that will be required of them. Each o
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the temporary hit points gained by each creature increase by `dice:1d10|noform|noparens|avg|text(1d10)` for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 312*

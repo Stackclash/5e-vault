@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Fighter (Eldritch Knight)
   - Ranger
@@ -20,20 +20,23 @@ classes:
   - Wizard
 school: Conjuration
 level: 4
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Wintry Glide
 damage:
   base: 4d6
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: true
-verbal: true
-aliases:
-  - Wintry Glide
 ---
 # Wintry Glide
 *4th-level, Conjuration*  
@@ -47,6 +50,6 @@ Upon casting this spell, you can travel via ice or snow without crossing the int
 
 If the mass of ice or snow is destroyed while you are transiting it, you must make a successful Constitution saving throw against your spell save DC to avoid taking `dice:4d6|noform|noparens|avg` (`4d6`) bludgeoning damage and falling [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] at the midpoint of a line between your entrance point and your intended exit point.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 277*

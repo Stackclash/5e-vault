@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/ranger
@@ -11,13 +11,24 @@ tags:
   - spell/level/2nd-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Ranger
   - Sorcerer
 school: Transmutation
 level: 2
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 1 round
+range: Self
+aliases:
+  - Crushing Trample
 damage:
   base: 4d6
   scaling:
@@ -29,14 +40,6 @@ saving_throw:
   skills:
     - Strength
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 round
-range: Self
-somatic: true
-verbal: true
-aliases:
-  - Crushing Trample
 ---
 # Crushing Trample
 *2nd-level, Transmutation*  
@@ -50,6 +53,6 @@ Upon casting this spell, you are filled with a desire to overrun your foes. You 
 
 You move through the spaces of foes whether or not they succeed on their Strength saving throws. You do not provoke [[/5. Mechanics/Rules/Actions.md#Opportunity%20Attack\|opportunity attacks]] while moving under the effect of this spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Deep Magic p. 55*

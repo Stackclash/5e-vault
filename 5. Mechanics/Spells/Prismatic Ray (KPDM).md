@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Evocation
 level: 5
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: 100 feet
+aliases:
+  - Prismatic Ray
 damage:
   base: 8d10
   scaling:
@@ -29,14 +40,6 @@ saving_throw:
     - Constitution
     - Wisdom
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 100 feet
-somatic: true
-verbal: true
-aliases:
-  - Prismatic Ray
 ---
 # Prismatic Ray
 *5th-level, Evocation*  
@@ -66,6 +69,6 @@ A ray of shifting color springs from your hand. Make a ranged spell attack again
 
 A target takes half as much damage on a successful Dexterity saving throw. A successful Constitution or Wisdom saving throw negates the effect of a ray that inflicts a condition on the target; on a failed save, the target is affected for 5 rounds or until the effect is negated. If the result of your attack roll is a critical hit, you can choose the color of the beam that hits the target, but the attack does not deal additional damage.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 100*

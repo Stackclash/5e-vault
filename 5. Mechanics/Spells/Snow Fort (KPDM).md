@@ -3,25 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/2nd-level
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Wizard
 school: Conjuration
 level: 2
+ritual: false
+components: 'V, S, M (a ring carved from chalk or white stone)'
+verbal: true
+somatic: true
+material: true
+material_desc: a ring carved from chalk or white stone
+time: 1 Action
+duration: Instantaneous
+range: 120 feet
+aliases:
+  - Snow Fort
 damage:
   base: 1d4
   scaling:
@@ -30,15 +41,6 @@ damage:
   types:
     - bludgeoning
     - cold
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 120 feet
-somatic: true
-verbal: true
-material: a ring carved from chalk or white stone
-aliases:
-  - Snow Fort
 ---
 # Snow Fort
 *2nd-level, Conjuration*  
@@ -52,6 +54,6 @@ This spell creates a simple "fort" from packed snow. The snow fort springs from 
 
 The spell also creates a dozen snowballs that can be thrown (range 20/60) and that deal `dice:1d4|noform|noparens|avg` (`1d4`) bludgeoning damage plus `dice:1d4|noform|noparens|avg` (`1d4`) cold damage on a hit.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 275*

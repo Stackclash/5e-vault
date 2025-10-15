@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/2nd-level
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Conjuration
 level: 2
+ritual: false
+components: 'V, S, M (a dead toad and a dram of arsenic worth 10 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: a dead toad and a dram of arsenic worth 10 gp
+time: 1 Action
+duration: Instantaneous
+range: Self (15-foot Cone)
+aliases:
+  - Mephitic Croak
 damage:
   base: 2d6
   scaling:
@@ -28,18 +39,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self (15-foot Cone)
-somatic: true
-verbal: true
-material: a dead toad and a dram of arsenic worth 10 gp
 area:
   shape: cone
   size: 15
-aliases:
-  - Mephitic Croak
 ---
 # Mephitic Croak
 *2nd-level, Conjuration*  
@@ -53,6 +55,6 @@ You release an intensely loud burp of acidic gas in a 15-foot cone. Creatures in
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, both acid and thunder damage increase by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 166*

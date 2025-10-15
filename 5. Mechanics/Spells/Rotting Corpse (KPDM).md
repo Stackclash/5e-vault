@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/warlock
   - spell/class/wizard
@@ -11,28 +11,30 @@ tags:
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Rogue (Arcane Trickster)
   - Warlock
   - Wizard
 school: Necromancy
 level: 2
+ritual: false
+components: 'V, M (a rotting piece of flesh from an undead creature)'
+verbal: true
+somatic: false
+material: true
+material_desc: a rotting piece of flesh from an undead creature
+time: 10 minutes
+duration: 3 days
+range: Touch
+aliases:
+  - Rotting Corpse
 damage:
   base: null
   scaling:
     damage: null
     level: 3
   types: []
-ritual: false
-time: 10 minutes
-duration: 3 days
-range: Touch
-somatic: false
-verbal: true
-material: a rotting piece of flesh from an undead creature
-aliases:
-  - Rotting Corpse
 ---
 # Rotting Corpse
 *2nd-level, Necromancy*  
@@ -48,6 +50,6 @@ You cast this spell by touching a creature that died within the last 24 hours. T
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can affect one additional corpse for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 103*

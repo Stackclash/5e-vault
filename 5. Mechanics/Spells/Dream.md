@@ -3,23 +3,38 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/illusion
   - spell/subclass/beer-domain
-  - spell/subclass/circle-of-the-land
+  - spell/subclass/circle-of-the-land/grassland
   - spell/subclass/moon-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Beer Domain)
   - Cleric (Moon Domain)
-  - Druid (Circle of the Land)
+  - 'Druid (Circle of the Land, Grassland)'
   - Warlock
   - Wizard
 school: Illusion
 level: 5
+ritual: false
+components: >-
+  V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a
+  sleeping bird)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  a handful of sand, a dab of ink, and a writing quill plucked from a sleeping
+  bird
+time: 1 minute
+duration: 8 hours
+range: Special
+aliases:
+  - Dream
 damage:
   base: 3d6
   scaling:
@@ -31,17 +46,6 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 minute
-duration: 8 hours
-range: Special
-somatic: true
-verbal: true
-material: >-
-  a handful of sand, a dab of ink, and a writing quill plucked from a sleeping
-  bird
-aliases:
-  - Dream
 ---
 # Dream
 *5th-level, Illusion*  
@@ -59,6 +63,6 @@ You can make the messenger appear monstrous and terrifying to the target. If you
 
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Beer Domain)](/compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [Cleric (Moon Domain)](/compendium/lists/list-spells-classes-moon-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Beer Domain)](/compendium/lists/list-spells-classes-beer-domain-kpdm.md "subclass=KPDM"); [Cleric (Moon Domain)](/compendium/lists/list-spells-classes-moon-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Grassland)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

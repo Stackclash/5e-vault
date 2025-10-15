@@ -3,23 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/level/2nd-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
 school: Evocation
 level: 2
 ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 minute
 duration: 1 hour
 range: 60 feet
-somatic: true
-verbal: true
 aliases:
   - Shared Sacrifice
 ---
@@ -33,6 +36,6 @@ aliases:
 
 You and up to five of your allies within range contribute part of your life force to create a pool that can be used for healing. Each target takes 5 necrotic damage (which can't be reduced but can be healed normally), and those donated hit points are channeled into a reservoir of life essence. As an action, any creature who contributed to the pool of hit points can heal another creature by touching it and drawing hit points from the pool into the injured creature. The injured creature heals a number of hit points equal to your spellcasting ability modifier, and the hit points in the pool decrease by the same amount. This process can be repeated until the pool is exhausted or the spell's duration expires.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 105*

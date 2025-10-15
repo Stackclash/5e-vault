@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/cantrip
@@ -14,7 +14,7 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subrace/elf-high
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Death Domain)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
@@ -23,11 +23,14 @@ classes:
 school: Necromancy
 level: 0
 ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
 time: 1 Action
 duration: 4 rounds
 range: 25 feet
-somatic: false
-verbal: true
 aliases:
   - Blood Tide
 ---
@@ -45,6 +48,6 @@ A bleeding creature might attract the attention of creatures such as [[/5. Mecha
 
 The spell's duration increases to 2 minutes when you reach 5th level, to 10 minutes when you reach 11th level, and to 1 hour when you reach 17th level.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 319*

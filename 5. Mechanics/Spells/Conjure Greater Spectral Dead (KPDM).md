@@ -3,36 +3,40 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Warlock
   - Wizard
 school: Conjuration
 level: 7
+ritual: false
+components: >-
+  V, S, M (a handful of bone dust, a crystal prism worth at least 100 gp, and a
+  platinum coin)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  a handful of bone dust, a crystal prism worth at least 100 gp, and a platinum
+  coin
+time: 1 minute
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+aliases:
+  - Conjure Greater Spectral Dead
 damage:
   base: 1d6
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 minute
-duration: 'Concentration, up to 1 hour'
-range: 60 feet
-somatic: true
-verbal: true
-material: >-
-  a handful of bone dust, a crystal prism worth at least 100 gp, and a platinum
-  coin
-aliases:
-  - Conjure Greater Spectral Dead
 ---
 # Conjure Greater Spectral Dead
 *7th-level, Conjuration*  
@@ -54,6 +58,6 @@ The summoned creature doesn't attack you or your companions for the duration. Ro
 
 **At Higher Levels.** When you cast this spell using a 9th-level spell slot, you summon a deathwisp or two [[/5. Mechanics/Bestiary/Undead/Ghost.md\|ghosts]] instead.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 53*

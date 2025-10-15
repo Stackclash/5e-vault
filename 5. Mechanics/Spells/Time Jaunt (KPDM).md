@@ -3,21 +3,24 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/level/7th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
 school: Transmutation
 level: 7
 ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
 time: 1 Action
 duration: 1 round
 range: Self
-somatic: false
-verbal: true
 aliases:
   - Time Jaunt
 ---
@@ -65,6 +68,6 @@ Cleric pops back into view, occupying the space where *time jaunt* was cast, the
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 260*

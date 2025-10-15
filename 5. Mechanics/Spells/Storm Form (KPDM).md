@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/6th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
 school: Transmutation
 level: 6
+ritual: false
+components: 'V, S, M (a piece of wetwood)'
+verbal: true
+somatic: true
+material: true
+material_desc: a piece of wetwood
+time: 1 Action
+duration: 'Concentration, up to 10 minutes'
+range: Self
+aliases:
+  - Storm Form
 damage:
   base: 3d8
   scaling:
@@ -24,18 +35,9 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 10 minutes'
-range: Self
-somatic: true
-verbal: true
-material: a piece of wetwood
 area:
   shape: sphere
   size: 20
-aliases:
-  - Storm Form
 ---
 # Storm Form
 *6th-level, Transmutation*  
@@ -53,6 +55,6 @@ As an action, you can attack an opponent up to 30 feet away, dealing `dice:3d8|n
 
 Finally, you can use an action to expand your form to encompass a 20-foot-radius area, unleashing the storm's full fury in a burst of rain, wind, lightning, and thunder. Each creature in the area is drenched with rain, takes `dice:3d8|noform|noparens|avg` (`3d8`) lightning and `dice:3d8|noform|noparens|avg` (`3d8`) thunder damage, is [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] for `dice:1d4|noform|noparens|avg` (`1d4`) rounds, and is knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. A successful Constitution saving throw halves the damage and negates the [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] and [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] conditions. Taking this action uses up any remaining duration of the spell, and you resume your normal form at the end of your turn.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 110*

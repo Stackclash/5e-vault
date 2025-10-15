@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/warlock
   - spell/class/wizard
@@ -11,12 +11,25 @@ tags:
   - spell/ritual
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Warlock
   - Wizard
 school: Conjuration
 level: 9
+ritual: true
+components: >-
+  V, S, M (11 gilded human skulls worth 150 gp each, which are consumed by the
+  spell)
+verbal: true
+somatic: true
+material: true
+material_desc: '11 gilded human skulls worth 150 gp each, which are consumed by the spell'
+time: 1 hour
+duration: 'Concentration, up to 1 minute'
+range: 500 feet
+aliases:
+  - Mammon's Due
 damage:
   base: 10d6
   scaling:
@@ -29,15 +42,6 @@ saving_throw:
     - Strength
     - Dexterity
   succeeds: see spell description
-ritual: true
-time: 1 hour
-duration: 'Concentration, up to 1 minute'
-range: 500 feet
-somatic: true
-verbal: true
-material: '11 gilded human skulls worth 150 gp each, which are consumed by the spell'
-aliases:
-  - Mammon's Due
 ---
 # Mammon's Due
 *9th-level, Conjuration (ritual)*  
@@ -53,6 +57,6 @@ A creature that's [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] b
 
 The diameter of the ash pit increases by 10 feet at the start of each of your turns for the duration of the spell. The ash pit remains after the spell ends, but the grasping arms disappear and [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creatures are freed automatically. As the ash slowly cools, it deals `dice:1d6|noform|noparens|avg` (`1d6`) less fire damage for each hour that passes after the spell ends.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 93*

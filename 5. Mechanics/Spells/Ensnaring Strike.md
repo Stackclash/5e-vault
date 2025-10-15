@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/ranger
   - spell/level/1st-level
   - spell/school/conjuration
   - spell/subclass/oath-of-the-ancients
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Paladin (Oath of the Ancients)
   - Ranger
 school: Conjuration
 level: 1
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Bonus Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Ensnaring Strike
 damage:
   base: 1d6
   scaling:
@@ -25,14 +36,6 @@ saving_throw:
   skills:
     - Strength
   succeeds: see spell description
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: false
-verbal: true
-aliases:
-  - Ensnaring Strike
 ---
 # Ensnaring Strike
 *1st-level, Conjuration*  
@@ -48,6 +51,6 @@ While [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by this spell
 
 **At Higher Levels.** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Player's Handbook p. 237*

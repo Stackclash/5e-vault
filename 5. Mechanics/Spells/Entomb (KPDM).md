@@ -3,35 +3,37 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Transmutation
 level: 6
+ritual: false
+components: 'V, S, M (a chip of granite)'
+verbal: true
+somatic: true
+material: true
+material_desc: a chip of granite
+time: 1 Action
+duration: 8 hours
+range: 90 feet
+aliases:
+  - Entomb
 saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 8 hours
-range: 90 feet
-somatic: true
-verbal: true
-material: a chip of granite
 area:
   shape: cube
   size: 10
-aliases:
-  - Entomb
 ---
 # Entomb
 *6th-level, Transmutation*  
@@ -45,6 +47,6 @@ You cause slabs of rock to burst out of the ground or other stone surface to for
 
 The tomb has AC 18 and 50 hit points. It is resistant to fire, cold, lightning, bludgeoning, and slashing damage, is immune to poison and psychic damage, and is vulnerable to thunder damage. When reduced to 0 hit points, the tomb crumbles into harmless powder.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 67*

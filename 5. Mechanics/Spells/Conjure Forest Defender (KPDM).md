@@ -3,32 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/6th-level
   - spell/school/conjuration
   - spell/subclass/circle-of-oaks
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Druid (Circle of Oaks)
 school: Conjuration
 level: 6
+ritual: false
+components: 'V, S, M (one humanoid body, which the spell consumes)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'one humanoid body, which the spell consumes'
+time: 1 hour
+duration: Until dispelled
+range: 30 feet
+aliases:
+  - Conjure Forest Defender
 damage:
   base: null
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 hour
-duration: Until dispelled
-range: 30 feet
-somatic: true
-verbal: true
-material: 'one humanoid body, which the spell consumes'
-aliases:
-  - Conjure Forest Defender
 ---
 # Conjure Forest Defender
 *6th-level, Conjuration*  
@@ -42,6 +44,6 @@ When you cast this spell in a forest, you fasten sticks and twigs around a body.
 
 **At Higher Levels.** When you cast this spell using a 9th-level spell slot, you summon two forest defenders instead of one, and you can control up to two forest defenders at a time.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of Oaks)](/compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Druid (Circle of Oaks)](/compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 52*

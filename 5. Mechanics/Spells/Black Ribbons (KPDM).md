@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -20,22 +20,24 @@ classes:
   - Wizard
 school: Conjuration
 level: 1
+ritual: false
+components: 'V, S, M (a piece of ribbon)'
+verbal: true
+somatic: true
+material: true
+material_desc: a piece of ribbon
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 40 feet
+aliases:
+  - Black Ribbons
 saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 40 feet
-somatic: true
-verbal: true
-material: a piece of ribbon
 area:
   shape: cube
   size: 20
-aliases:
-  - Black Ribbons
 ---
 # Black Ribbons
 *1st-level, Conjuration*  
@@ -49,6 +51,6 @@ You pull pieces of the plane of shadow into your own reality, causing a 20-foot 
 
 Once a creature succeeds on this saving throw, it can't be [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] again by the ribbons, but it's still affected by the difficult terrain.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 246*

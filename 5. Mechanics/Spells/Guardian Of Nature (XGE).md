@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/level/4th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
 school: Transmutation
 level: 4
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Bonus Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Guardian of Nature
 damage:
   base: 1d6
   scaling:
@@ -21,14 +32,6 @@ damage:
     level: null
   types:
     - force
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: false
-verbal: true
-aliases:
-  - Guardian of Nature
 ---
 # Guardian of Nature
 *4th-level, Transmutation*  
@@ -60,6 +63,6 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Xanathar's Guide to Everything p. 157*

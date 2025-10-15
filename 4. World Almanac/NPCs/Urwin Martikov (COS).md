@@ -8,30 +8,29 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images: []
 relationships: []
 aliases:
   - Urwin Martikov
-pronounced:
-race:
-gender:
-age:
+pronounced: null
+race: null
+gender: null
+age: null
 alignment: Lawful Good
-occupation:
+occupation: null
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
-partyRelationships:
-  Curse of Strahd: Ally
-image:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
+partyRelationships: {}
+image: null
 ---
 
 > [!infobox]
@@ -108,6 +107,31 @@ actions:
 ```
 > [!div | no-t clean txt-c]
 > `$=await dv.view("npcRelationships", { current: dv.current() })`
+
+## Quests
+```datacorejsx
+return function View() {
+  const currentPage = dc.useCurrentFile()
+  const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
+  console.log(quests)
+  const columns = [
+    {
+      id: 'Quest',
+      value: (row) => row.$link
+    },
+    {
+      id: 'Description',
+      value: (row) => row.$frontmatter.description.raw || ''
+    },
+    {
+      id: 'Involvement',
+      value: (row) => row.$frontmatter.npcs.raw.find(n => n.name.includes(currentPage.$name)).description || ''
+    }
+  ]
+  
+  return <dc.Table rows={quests} columns={columns}/>
+}
+```
 
 ## Stats
 ```statblock

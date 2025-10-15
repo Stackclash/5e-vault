@@ -3,28 +3,31 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/paladin
   - spell/feat/fey-touched
   - spell/level/1st-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Paladin
 school: Enchantment
 level: 1
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Bonus Action
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+aliases:
+  - Compelled Duel
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 1 minute'
-range: 30 feet
-somatic: false
-verbal: true
-aliases:
-  - Compelled Duel
 ---
 # Compelled Duel
 *1st-level, Enchantment*  
@@ -38,8 +41,6 @@ You attempt to compel a creature into a duel. One creature that you can see with
 
 The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Player's Handbook p. 224*

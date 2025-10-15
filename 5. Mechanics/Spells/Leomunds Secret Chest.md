@@ -4,7 +4,7 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/4th-level
   - spell/school/conjuration
@@ -13,7 +13,7 @@ tags:
   - spell/subclass/wealth-domain
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Wealth Domain)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
@@ -21,15 +21,20 @@ classes:
 school: Conjuration
 level: 4
 ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Touch
-somatic: true
+components: >-
+  V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare
+  materials worth at least 5,000 gp, and a Tiny replica made from the same
+  materials worth at least 50 gp)
 verbal: true
-material: >-
+somatic: true
+material: true
+material_desc: >-
   an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare
   materials worth at least 5,000 gp, and a Tiny replica made from the same
   materials worth at least 50 gp
+time: 1 Action
+duration: Instantaneous
+range: Touch
 aliases:
   - Leomund's Secret Chest
 ---
@@ -47,6 +52,6 @@ While the chest remains on the Ethereal Plane, you can use an action and touch t
 
 After 60 days, there is a cumulative  chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Wealth Domain)](/compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Wealth Domain)](/compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Secret Chest")*

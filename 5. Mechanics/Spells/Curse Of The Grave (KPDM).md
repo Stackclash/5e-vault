@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/warlock
@@ -11,26 +11,28 @@ tags:
   - spell/level/7th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Sorcerer
   - Warlock
   - Wizard
 school: Necromancy
 level: 7
+ritual: false
+components: 'V, S, M (a pinch of dirt from a freshly dug grave)'
+verbal: true
+somatic: true
+material: true
+material_desc: a pinch of dirt from a freshly dug grave
+time: 1 Action
+duration: Until dispelled
+range: 120 feet
+aliases:
+  - Curse of the Grave
 saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Until dispelled
-range: 120 feet
-somatic: true
-verbal: true
-material: a pinch of dirt from a freshly dug grave
-aliases:
-  - Curse of the Grave
 ---
 # Curse of the Grave
 *7th-level, Necromancy*  
@@ -48,6 +50,6 @@ Choose one humanoid you can see within range. The target must succeed on a Const
 - If the target dies while cursed, it rises 1 round later as a vampire spawn under your control and is no longer cursed.  
 - The target, as a vampire spawn, seeks you out in an attempt to serve its new master. You can have only one vampire spawn under your control at a time through this spell. If you create another, the existing one turns to dust. If you or your companions do anything harmful to the target, it can make a Wisdom saving throw. On a success, it is no longer under your control.  
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 56*

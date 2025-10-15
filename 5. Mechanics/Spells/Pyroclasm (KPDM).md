@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Evocation
 level: 9
+ritual: false
+components: 'V, S, M (a shard of obsidian)'
+verbal: true
+somatic: true
+material: true
+material_desc: a shard of obsidian
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 500 feet
+aliases:
+  - Pyroclasm
 damage:
   base: 10d8
   scaling:
@@ -27,15 +38,6 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 500 feet
-somatic: true
-verbal: true
-material: a shard of obsidian
-aliases:
-  - Pyroclasm
 ---
 # Pyroclasm
 *9th-level, Evocation*  
@@ -53,6 +55,6 @@ When a creature leaves the pool of lava, its speed is reduced by half and it has
 
 If you maintain concentration on this spell for a full minute, the lava geyser and pool harden into permanent, nonmagical stone. A creature in either area when the stone hardens is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until the stone is broken away.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 101*

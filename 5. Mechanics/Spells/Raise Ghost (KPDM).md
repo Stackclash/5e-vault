@@ -3,34 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/class/warlock
   - spell/level/3rd-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
   - Warlock
 school: Necromancy
 level: 3
+ritual: false
+components: 'V, S, M (a diamond worth at least 500 gp, which the spell consumes)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a diamond worth at least 500 gp, which the spell consumes'
+time: 1 hour
+duration: Instantaneous
+range: Touch
+aliases:
+  - Raise Ghost
 damage:
   base: 1d10
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 hour
-duration: Instantaneous
-range: Touch
-somatic: true
-verbal: true
-material: 'a diamond worth at least 500 gp, which the spell consumes'
-aliases:
-  - Raise Ghost
 ---
 # Raise Ghost
 *3rd-level, Necromancy*  
@@ -52,6 +54,6 @@ Coming back from the dead is an ordeal. The target has a −4 penalty to saving 
 
 A creature affected by *raise ghost* is restored to normal, physical life by [[/5. Mechanics/Spells/Raise Dead.md\|raise dead]] or comparable magic. *Raise ghost* has no effect if cast on an undead creature.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 350*

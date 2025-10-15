@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/wizard
@@ -11,26 +11,28 @@ tags:
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 3
+ritual: false
+components: 'V, S, M (a blue crystal)'
+verbal: true
+somatic: true
+material: true
+material_desc: a blue crystal
+time: 1 Action
+duration: 'Concentration, up to 3 rounds'
+range: Self
+aliases:
+  - Doom of Blue Crystal
 saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 3 rounds'
-range: Self
-somatic: true
-verbal: true
-material: a blue crystal
-aliases:
-  - Doom of Blue Crystal
 ---
 # Doom of Blue Crystal
 *3rd-level, Transmutation*  
@@ -48,6 +50,6 @@ Creatures turned to crystal can see, hear, and smell normally, but they don't ne
 
 Creatures transformed into blue crystal can be restored with dispel magic, greater restoration, or comparable magic.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 61*

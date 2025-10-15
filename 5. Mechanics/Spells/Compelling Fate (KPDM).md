@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/3rd-level
   - spell/school/divination
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Divination
 level: 3
+ritual: false
+components: 'V, M (a sprinkling of silver dust worth 20 gp)'
+verbal: true
+somatic: false
+material: true
+material_desc: a sprinkling of silver dust worth 20 gp
+time: 1 Action
+duration: 1 round
+range: 50 feet
+aliases:
+  - Compelling Fate
 damage:
   base: null
   scaling:
@@ -26,15 +37,6 @@ saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 round
-range: 50 feet
-somatic: false
-verbal: true
-material: a sprinkling of silver dust worth 20 gp
-aliases:
-  - Compelling Fate
 ---
 # Compelling Fate
 *3rd-level, Divination*  
@@ -52,6 +54,6 @@ You view the actions of a single creature you can see through the influence of t
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the duration is extended by 1 round for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 51*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
@@ -18,7 +18,7 @@ tags:
   - spell/subclass/the-celestial
 classes:
   - Artificer (Alchemist)
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Light Domain)
   - Druid
   - Druid (Circle of Wildfire)
@@ -30,6 +30,19 @@ classes:
   - Wizard
 school: Conjuration
 level: 2
+ritual: false
+components: >-
+  V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered
+  iron)
+verbal: true
+somatic: true
+material: true
+material_desc: 'a bit of tallow, a pinch of brimstone, and a dusting of powdered iron'
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+aliases:
+  - Flaming Sphere
 damage:
   base: 2d6
   scaling:
@@ -41,18 +54,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 60 feet
-somatic: true
-verbal: true
-material: 'a bit of tallow, a pinch of brimstone, and a dusting of powdered iron'
 area:
   shape: sphere
   size: 20
-aliases:
-  - Flaming Sphere
 ---
 # Flaming Sphere
 *2nd-level, Conjuration*  
@@ -70,6 +74,6 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 2nd.
 
-**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [Druid (Circle of Wildfire)](/compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [Druid (Circle of the Eclipse)](/compendium/lists/list-spells-classes-circle-of-the-eclipse-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [Druid (Circle of Wildfire)](/compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [Druid (Circle of the Eclipse)](/compendium/lists/list-spells-classes-circle-of-the-eclipse-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

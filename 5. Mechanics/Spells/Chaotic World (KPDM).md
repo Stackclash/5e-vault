@@ -3,33 +3,35 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/illusion
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Illusion
 level: 6
+ritual: false
+components: 'V, S, M (seven irregular pieces of colored cloth that you throw into the air)'
+verbal: true
+somatic: true
+material: true
+material_desc: seven irregular pieces of colored cloth that you throw into the air
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+aliases:
+  - Chaotic World
 saving_throw:
   skills:
     - Intelligence
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 60 feet
-somatic: true
-verbal: true
-material: seven irregular pieces of colored cloth that you throw into the air
 area:
   shape: cube
   size: 30
-aliases:
-  - Chaotic World
 ---
 # Chaotic World
 *6th-level, Illusion*  
@@ -41,6 +43,6 @@ aliases:
 
 You throw a handful of colored cloth into the air while screaming a litany of disjointed phrases. A moment later, a 30-foot cube centered on a point within range fills with multicolored light, cacophonous sound, overpowering scents, and other confusing sensory information. The effect is dizzying and overwhelming. Each enemy within the cube must make a successful Intelligence saving throw or become [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] and [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]], and fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. An affected enemy cannot stand up or recover from the blindness or deafness while within the area, but all three conditions end immediately for a creature that leaves the spell's area.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 183*

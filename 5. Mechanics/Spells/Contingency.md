@@ -3,24 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Evocation
 level: 6
 ritual: false
+components: >-
+  V, S, M (a statuette of yourself carved from ivory and decorated with gems
+  worth at least 1,500 gp)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  a statuette of yourself carved from ivory and decorated with gems worth at
+  least 1,500 gp
 time: 10 minutes
 duration: 10 days
 range: Self
-somatic: true
-verbal: true
-material: >-
-  a statuette of yourself carved from ivory and decorated with gems worth at
-  least 1,500 gp
 aliases:
   - Contingency
 ---
@@ -38,6 +42,6 @@ The contingent spell takes effect immediately after the circumstance is met for 
 
 The contingent spell takes effect only on you, even if it can normally target others. You can use only one contingency spell at a time. If you cast this spell again, the effect of another contingency spell on you ends. Also, contingency ends on you if its material component is ever not on your person.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 227. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -3,32 +3,35 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Wizard
 school: Transmutation
 level: 8
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Self (120-foot Radius)
+aliases:
+  - Quintessence
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Self (120-foot Radius)
-somatic: true
-verbal: true
 area:
   shape: radius
   size: 120
-aliases:
-  - Quintessence
 ---
 # Quintessence
 *8th-level, Transmutation*  
@@ -42,6 +45,6 @@ By calling upon an archangel, you become infused with celestial essence and take
 
 In addition, each hostile creature that starts its turn within 120 feet of you or enters that area for the first time on a turn must succeed on a Wisdom saving throw or be [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] for 1 minute. A creature [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] in this way is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. A [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or if the effect ends for it, the creature is immune to the frightening effect of the spell until you cast *quintessence* again.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 177*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/wizard
@@ -11,19 +11,21 @@ tags:
   - spell/ritual
   - spell/school/illusion
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Sorcerer
   - Wizard
 school: Illusion
 level: 6
 ritual: true
+components: 'V, S, M (a drop of blood smeared on a silver rod worth 100 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: a drop of blood smeared on a silver rod worth 100 gp
 time: 1 hour
 duration: 12 hours
 range: 150 feet
-somatic: true
-verbal: true
-material: a drop of blood smeared on a silver rod worth 100 gp
 aliases:
   - Encroaching Shadows
 ---
@@ -52,6 +54,6 @@ If you expend your ritual focus, the spell's duration increases by 12 hours, and
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 212*

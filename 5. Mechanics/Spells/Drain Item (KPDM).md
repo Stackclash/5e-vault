@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -11,27 +11,30 @@ tags:
   - spell/school/evocation
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Warlock
   - Wizard
 school: Evocation
 level: 4
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: Touch
+aliases:
+  - Drain Item
 damage:
   base: 1d3
   scaling:
     damage: 1d4
     level: 5
   types: []
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Touch
-somatic: true
-verbal: true
-aliases:
-  - Drain Item
 ---
 # Drain Item
 *4th-level, Evocation*  
@@ -45,6 +48,6 @@ You touch a magic item and cause its magical energies to drain away. If the item
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can drain more charges from an item: `dice:1d4|noform|noparens|avg` (`1d4`) for a 5th-level slot, `dice:1d6|noform|noparens|avg` (`1d6`) for a 6th-level slot, `dice:1d8|noform|noparens|avg` (`1d8`) for a 7th-level slot, or `dice:2d6|noform|noparens|avg` (`2d6`) for an 8th- or 9th-level slot.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 64*

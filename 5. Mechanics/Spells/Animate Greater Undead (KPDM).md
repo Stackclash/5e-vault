@@ -3,34 +3,38 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Wizard
 school: Necromancy
 level: 6
+ritual: false
+components: >-
+  V, S, M (a pint of blood, a pound of flesh, and an ounce of bone dust, all of
+  which the spell consumes)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  a pint of blood, a pound of flesh, and an ounce of bone dust, all of which the
+  spell consumes
+time: 1 hour
+duration: Instantaneous
+range: 15 feet
+aliases:
+  - Animate Greater Undead
 damage:
   base: null
   scaling:
     damage: null
     level: 7
   types: []
-ritual: false
-time: 1 hour
-duration: Instantaneous
-range: 15 feet
-somatic: true
-verbal: true
-material: >-
-  a pint of blood, a pound of flesh, and an ounce of bone dust, all of which the
-  spell consumes
-aliases:
-  - Animate Greater Undead
 ---
 # Animate Greater Undead
 *6th-level, Necromancy*  
@@ -46,6 +50,6 @@ The creature is under your control for 24 hours, after which it stops obeying yo
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can reanimate one additional creature for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 37*

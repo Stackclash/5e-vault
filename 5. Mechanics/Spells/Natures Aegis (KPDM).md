@@ -3,24 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/level/1st-level
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
 school: Abjuration
 level: 1
 ritual: false
+components: 'V, S, M (an area of natural vegetation)'
+verbal: true
+somatic: true
+material: true
+material_desc: an area of natural vegetation
 time: 1 Action
 duration: 1 hour
 range: Self
-somatic: true
-verbal: true
-material: an area of natural vegetation
 aliases:
   - Nature's Aegis
 ---
@@ -34,6 +36,6 @@ aliases:
 
 Grass, vines, branches, and other vegetation weave themselves over your body into a temporary suit of armor. The armor weighs 8 pounds, gives you an Armor Class of 14 + your Dexterity modifier, and provides you with advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide in the terrain from which you used the vegetation. You can use an action to dismiss this spell, which causes the armor to degrade back into its former natural vegetation.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 96*

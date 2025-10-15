@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/warlock
@@ -11,46 +11,50 @@ tags:
   - spell/level/5th-level
   - spell/school/divination
   - spell/subclass/circle-of-owls
-  - spell/subclass/circle-of-the-land
+  - spell/subclass/circle-of-the-land/coast
   - spell/subclass/circle-of-the-spirits
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/knowledge-domain
   - spell/subclass/light-domain
   - spell/subclass/oath-of-the-spelldrinker
   - spell/subclass/oath-of-the-watchers
   - spell/subclass/oath-of-vengeance
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Knowledge Domain)
   - Cleric (Light Domain)
   - Druid
   - Druid (Circle of Owls)
-  - Druid (Circle of the Land)
+  - 'Druid (Circle of the Land, Coast)'
   - Druid (Circle of the Spirits)
   - Paladin (Oath of Vengeance)
   - Paladin (Oath of the Spelldrinker)
   - Paladin (Oath of the Watchers)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock
   - Wizard
 school: Divination
 level: 5
+ritual: false
+components: >-
+  V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver
+  mirror, or a font filled with holy water)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a
+  font filled with holy water
+time: 10 minutes
+duration: 'Concentration, up to 10 minutes'
+range: Self
+aliases:
+  - Scrying
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 10 minutes
-duration: 'Concentration, up to 10 minutes'
-range: Self
-somatic: true
-verbal: true
-material: >-
-  a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a
-  font filled with holy water
-aliases:
-  - Scrying
 ---
 # Scrying
 *5th-level, Divination*  
@@ -86,6 +90,6 @@ On a failed save, the spell creates an invisible sensor within 10 feet of the ta
 
 Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Owls)](/compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [Druid (Circle of the Spirits)](/compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Paladin (Oath of the Spelldrinker)](/compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Paladin (Oath of the Watchers)](/compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Knowledge Domain.md\|Cleric (Knowledge Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Owls)](/compendium/lists/list-spells-classes-circle-of-owls-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Coast)]]; [Druid (Circle of the Spirits)](/compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Vengeance.md\|Paladin (Oath of Vengeance)]]; [Paladin (Oath of the Spelldrinker)](/compendium/lists/list-spells-classes-oath-of-the-spelldrinker-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Paladin (Oath of the Watchers)](/compendium/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

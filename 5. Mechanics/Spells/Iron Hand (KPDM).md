@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/feat/wood-elf-magic
@@ -12,24 +12,27 @@ tags:
   - spell/optfeature/druidic-warrior
   - spell/optfeature/pact-of-the-tome
   - spell/school/abjuration
-  - spell/subclass/circle-of-the-land
-  - spell/subclass/divine-soul
+  - spell/subclass/circle-of-the-land/arctic
+  - spell/subclass/divine-soul/good
   - spell/subclass/nature-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Nature Domain)
   - Druid
-  - Druid (Circle of the Land)
-  - Sorcerer (Divine Soul)
+  - 'Druid (Circle of the Land, Arctic)'
+  - 'Sorcerer (Divine Soul, Good)'
 school: Abjuration
 level: 0
 ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 Bonus Action
 duration: 'Concentration, up to 1 hour'
 range: Self
-somatic: true
-verbal: true
 aliases:
   - Iron Hand
 ---
@@ -43,8 +46,6 @@ aliases:
 
 This spell is common among metalsmiths and other crafters who work with heat. When you use this spell, one of your arms becomes immune to fire damage, allowing you to grasp red-hot metal, scoop up molten glass with your fingers, or reach deep into a roaring fire to pick up an object. In addition, if you take the [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action while you're protected by iron hand, you have resistance to fire damage until the start of your next turn.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Arctic)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 86*

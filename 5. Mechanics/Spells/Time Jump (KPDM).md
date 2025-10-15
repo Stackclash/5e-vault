@@ -14,6 +14,17 @@ classes:
   - Wizard
 school: Transmutation
 level: 8
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: Touch
+aliases:
+  - Time Jump
 damage:
   base: 1d4+1
   scaling:
@@ -24,14 +35,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Touch
-somatic: true
-verbal: true
-aliases:
-  - Time Jump
 ---
 # Time Jump
 *8th-level, Transmutation*  

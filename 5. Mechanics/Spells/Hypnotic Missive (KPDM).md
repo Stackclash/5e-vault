@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/2nd-level
   - spell/ritual
@@ -11,25 +11,27 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Enchantment
 level: 2
+ritual: true
+components: 'V, S, M (ink made with powdered amber, worth at least 50 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'ink made with powdered amber, worth at least 50 gp'
+time: 1 minute
+duration: 14 days
+range: Touch
+aliases:
+  - Hypnotic Missive
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: true
-time: 1 minute
-duration: 14 days
-range: Touch
-somatic: true
-verbal: true
-material: 'ink made with powdered amber, worth at least 50 gp'
-aliases:
-  - Hypnotic Missive
 ---
 # Hypnotic Missive
 *2nd-level, Enchantment (ritual)*  
@@ -45,6 +47,6 @@ During combat, a creature so enthralled it can take no actions or reactions on i
 
 Once a creature has made a successful save, it recognizes the magical compulsion that has affected it. This does not provide immunity from the spell, however, and if the creature reads the words again, it must make another save or fall under the spell's effects once more.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 82*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -20,6 +20,17 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+ritual: false
+components: 'V, S, M (a spiked metal ring)'
+verbal: true
+somatic: true
+material: true
+material_desc: a spiked metal ring
+time: 1 Action
+duration: 1 minute
+range: Touch
+aliases:
+  - Bitter Chains
 damage:
   base: 3d6
   scaling:
@@ -27,15 +38,6 @@ damage:
     level: null
   types:
     - piercing
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: Touch
-somatic: true
-verbal: true
-material: a spiked metal ring
-aliases:
-  - Bitter Chains
 ---
 # Bitter Chains
 *2nd-level, Transmutation*  
@@ -49,6 +51,6 @@ The spiked ring in your hand expands into a long, barbed chain to ensnare a crea
 
 The creature can escape from the chains by using an action and making a successful Strength or Dexterity check against your spell save DC, or if the chains are destroyed. The chains have AC 18 and 20 hit points.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 231*

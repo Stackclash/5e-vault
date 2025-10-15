@@ -3,31 +3,33 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/level/5th-level
   - spell/ritual
   - spell/school/divination
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/oath-of-devotion
   - spell/subclass/oath-of-glory
   - spell/subclass/order-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Order Domain)
   - Paladin (Oath of Devotion)
   - Paladin (Oath of Glory)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Divination
 level: 5
 ritual: true
+components: 'V, S, M (incense and a vial of holy or unholy water)'
+verbal: true
+somatic: true
+material: true
+material_desc: incense and a vial of holy or unholy water
 time: 1 minute
 duration: 1 minute
 range: Self
-somatic: true
-verbal: true
-material: incense and a vial of holy or unholy water
 aliases:
   - Commune
 ---
@@ -45,6 +47,6 @@ Divine beings aren't necessarily omniscient, so you might receive "unclear" as a
 
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative  chance for each casting after the first that you get no answer. The DM makes this roll in secret.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Order Domain)](/compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [Paladin (Oath of Glory)](/compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Order Domain)](/compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [Paladin (Oath of Glory)](/compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

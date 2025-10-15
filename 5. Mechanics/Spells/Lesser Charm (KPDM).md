@@ -20,11 +20,14 @@ classes:
 school: Enchantment
 level: 0
 ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 Action
 duration: 1 minute
 range: 30 feet
-somatic: true
-verbal: true
 aliases:
   - Lesser Charm
 ---

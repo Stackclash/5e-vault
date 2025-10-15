@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/level/3rd-level
   - spell/school/necromancy
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Necromancy
 level: 3
+ritual: false
+components: 'V, S, M (a polished vampire''s fang)'
+verbal: true
+somatic: true
+material: true
+material_desc: a polished vampire's fang
+time: 1 Action
+duration: 1 minute
+range: Touch
+aliases:
+  - Soul Borrowing
 damage:
   base: null
   scaling:
@@ -26,15 +37,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: Touch
-somatic: true
-verbal: true
-material: a polished vampire's fang
-aliases:
-  - Soul Borrowing
 ---
 # Soul Borrowing
 *3rd-level, Necromancy*  
@@ -48,6 +50,6 @@ By touching a creature, you gain one sense, movement mode and speed, feat, langu
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, its duration increases to 1 hour and the target loses the stolen power for the duration of the spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 107*

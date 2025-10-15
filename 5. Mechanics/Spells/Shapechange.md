@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/wizard
   - spell/level/9th-level
@@ -11,7 +11,7 @@ tags:
   - spell/subclass/circle-of-the-cycle
   - spell/subclass/skin-wearer
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Druid (Circle of the Cycle)
   - Sorcerer (Skin Wearer)
@@ -19,14 +19,18 @@ classes:
 school: Transmutation
 level: 9
 ritual: false
+components: >-
+  V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your
+  head before you cast the spell)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  a jade circlet worth at least 1,500 gp, which you must place on your head
+  before you cast the spell
 time: 1 Action
 duration: 'Concentration, up to 1 hour'
 range: Self
-somatic: true
-verbal: true
-material: >-
-  a jade circlet worth at least 1,500 gp, which you must place on your head
-  before you cast the spell
 aliases:
   - Shapechange
 ---
@@ -50,6 +54,6 @@ When you transform, you choose whether your equipment falls to the ground, merge
 
 During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of the Cycle)](/compendium/lists/list-spells-classes-circle-of-the-cycle-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Skin Wearer)](/compendium/lists/list-spells-classes-skin-wearer-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Druid (Circle of the Cycle)](/compendium/lists/list-spells-classes-circle-of-the-cycle-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Skin Wearer)](/compendium/lists/list-spells-classes-skin-wearer-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

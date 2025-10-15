@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/warlock
@@ -15,26 +15,37 @@ tags:
   - spell/optfeature/pact-of-the-tome
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-land
+  - spell/subclass/circle-of-the-land/arctic
   - spell/subclass/death-domain
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/eldritch-knight
   - spell/subclass/nature-domain
   - spell/subrace/elf-high
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Death Domain)
   - Cleric (Nature Domain)
   - Druid
-  - Druid (Circle of the Land)
+  - 'Druid (Circle of the Land, Arctic)'
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock
   - Wizard
 school: Necromancy
 level: 0
+ritual: false
+components: 'V, S, M (a handful of ash)'
+verbal: true
+somatic: true
+material: true
+material_desc: a handful of ash
+time: 1 Action
+duration: Instantaneous
+range: Touch
+aliases:
+  - Decay
 damage:
   base: 1d10
   scaling:
@@ -42,15 +53,6 @@ damage:
     level: null
   types:
     - necrotic
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Touch
-somatic: true
-verbal: true
-material: a handful of ash
-aliases:
-  - Decay
 ---
 # Decay
 *cantrip, Necromancy*  
@@ -64,8 +66,6 @@ Make a melee spell attack against a creature you touch. On a hit, the target tak
 
 This spell's damage increases by `dice:1d10|noform|noparens|avg` (`1d10`) when you reach 5th level (`dice:2d10|noform|noparens|avg` (`2d10`)), 11th level (`dice:3d10|noform|noparens|avg` (`3d10`)), and 17th level (`dice:4d10|noform|noparens|avg` (`4d10`)).
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Arctic)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 59*

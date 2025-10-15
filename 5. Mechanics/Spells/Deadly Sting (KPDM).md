@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 8
+ritual: false
+components: 'V, S, M (a thorn)'
+verbal: true
+somatic: true
+material: true
+material_desc: a thorn
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Deadly Sting
 damage:
   base: 1d4
   scaling:
@@ -26,15 +37,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: true
-verbal: true
-material: a thorn
-aliases:
-  - Deadly Sting
 ---
 # Deadly Sting
 *8th-level, Transmutation*  
@@ -46,6 +48,6 @@ aliases:
 
 You grow a 10-foot-long tail as supple as a whip, tipped with a horrible stinger. As part of the casting of this spell and as an action on each of your subsequent turns, you can use the stinger to make a melee spell attack with a reach of 10 feet. On a hit, the target takes `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage plus `dice:4d10|noform|noparens|avg` (`4d10`) poison damage, and a creature must make a successful Constitution saving throw or become vulnerable to poison damage for the duration of the spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 199*

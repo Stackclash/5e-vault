@@ -10,7 +10,7 @@ aliases:
 # Repulsion Shield
 *Source: Tasha's Cauldron of Everything p. 23*  
 
-***Prerequisites*** Level 6
+***Prerequisites*** Level 6, A shield (requires attunement)
 
 A creature gains a +1 bonus to Armor Class while wielding this shield.
 

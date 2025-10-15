@@ -3,34 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Transmutation
 level: 5
+ritual: false
+components: 'V, S, M (an amulet inscribed with a demonic or diabolic symbol)'
+verbal: true
+somatic: true
+material: true
+material_desc: an amulet inscribed with a demonic or diabolic symbol
+time: 1 Action
+duration: 10 minutes
+range: Self
+aliases:
+  - Channel Fiendish Power
 damage:
   base: 1d8
   scaling:
     damage: null
     level: 6
   types: []
-ritual: false
-time: 1 Action
-duration: 10 minutes
-range: Self
-somatic: true
-verbal: true
-material: an amulet inscribed with a demonic or diabolic symbol
-aliases:
-  - Channel Fiendish Power
 ---
 # Channel Fiendish Power
 *5th-level, Transmutation*  
@@ -54,6 +56,6 @@ You infuse yourself with dark power from the Lower Planes, which grants you magi
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can choose one additional benefit to be granted by the spell for each slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 325*

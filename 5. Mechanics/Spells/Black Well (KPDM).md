@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Necromancy
 level: 6
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 300 feet
+aliases:
+  - Black Well
 damage:
   base: 6d8
   scaling:
@@ -24,14 +35,6 @@ saving_throw:
     - Strength
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 300 feet
-somatic: true
-verbal: true
-aliases:
-  - Black Well
 ---
 # Black Well
 *6th-level, Necromancy*  
@@ -49,6 +52,6 @@ A total of nine Medium creatures, three Large creatures, or one Huge creature ca
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage dealt by the well increases by `dice:1d8|noform|noparens|avg|text(1d8)`—and the well pulls creatures an additional 5 feet—for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 247*

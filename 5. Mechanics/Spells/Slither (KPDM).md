@@ -3,36 +3,40 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/2nd-level
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Transmutation
 level: 2
+ritual: false
+components: >-
+  V, M (ashes from a wooden statue of you, made into ink and used to draw your
+  portrait, worth 50 gp)
+verbal: true
+somatic: false
+material: true
+material_desc: >-
+  ashes from a wooden statue of you, made into ink and used to draw your
+  portrait, worth 50 gp
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Slither
 damage:
   base: 4d6
   scaling:
     damage: null
     level: 3
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: false
-verbal: true
-material: >-
-  ashes from a wooden statue of you, made into ink and used to draw your
-  portrait, worth 50 gp
-aliases:
-  - Slither
 ---
 # Slither
 *2nd-level, Transmutation*  
@@ -48,6 +52,6 @@ If you return to your normal form while in a space too small for you (such as a 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target an additional willing creature that you touch for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 252*

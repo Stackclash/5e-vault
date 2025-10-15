@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/feat/wood-elf-magic
   - spell/level/2nd-level
   - spell/school/abjuration
   - spell/subclass/cat-domain
-  - spell/subclass/circle-of-the-land
+  - spell/subclass/circle-of-the-land/grassland
   - spell/subclass/greenleaf-college
   - spell/subclass/hunting-domain
   - spell/subclass/labyrinth-domain
@@ -20,27 +20,29 @@ tags:
   - spell/subclass/way-of-shadow
   - spell/subrace/genasi-earth
 classes:
-  - Bard
   - Bard (Greenleaf College)
+  - Bard (Magical Secrets)
   - Cleric (Cat Domain)
   - Cleric (Hunting Domain)
   - Cleric (Labyrinth Domain)
   - Cleric (Travel Domain)
   - Cleric (Trickery Domain)
   - Druid
-  - Druid (Circle of the Land)
+  - 'Druid (Circle of the Land, Grassland)'
   - Monk (Way of Shadow)
   - Paladin (Oath of the Open Road)
   - Ranger
 school: Abjuration
 level: 2
 ritual: false
+components: 'V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)'
+verbal: true
+somatic: true
+material: true
+material_desc: ashes from a burned leaf of mistletoe and a sprig of spruce
 time: 1 Action
 duration: 'Concentration, up to 1 hour'
 range: Self
-somatic: true
-verbal: true
-material: ashes from a burned leaf of mistletoe and a sprig of spruce
 aliases:
   - Pass without Trace
 ---
@@ -54,8 +56,6 @@ aliases:
 
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
-**Classes**: [Bard (Greenleaf College)](/compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [Cleric (Hunting Domain)](/compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [Cleric (Labyrinth Domain)](/compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [Cleric (Travel Domain)](/compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Way Of Shadow.md\|Monk (Way of Shadow)]]; [Paladin (Oath of the Open Road)](/compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
+**Classes**: [Bard (Greenleaf College)](/compendium/lists/list-spells-classes-greenleaf-college-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [Cleric (Hunting Domain)](/compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [Cleric (Labyrinth Domain)](/compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [Cleric (Travel Domain)](/compendium/lists/list-spells-classes-travel-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Trickery Domain.md\|Cleric (Trickery Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Grassland)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Way Of Shadow.md\|Monk (Way of Shadow)]]; [Paladin (Oath of the Open Road)](/compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Player's Handbook p. 264. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

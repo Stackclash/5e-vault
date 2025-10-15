@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Transmutation
 level: 9
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: 60 feet
+aliases:
+  - Blood to Acid
 damage:
   base: 10d12
   scaling:
@@ -23,14 +34,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 60 feet
-somatic: true
-verbal: true
-aliases:
-  - Blood to Acid
 ---
 # Blood to Acid
 *9th-level, Transmutation*  
@@ -44,6 +47,6 @@ When you cast this spell, you designate a creature within range and convert its 
 
 Creatures without blood, such as constructs and plants, are not affected by this spell. If blood to acid is cast on a creature composed mainly of blood, such as a blood elemental or a blood zombie, the creature is slain by the spell if its saving throw fails.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 164*

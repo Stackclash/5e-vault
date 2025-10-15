@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/ranger
   - spell/class/sorcerer
   - spell/class/warlock
@@ -12,7 +12,7 @@ tags:
   - spell/school/divination
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Ranger
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -21,12 +21,14 @@ classes:
 school: Divination
 level: 4
 ritual: false
+components: 'V, S, M (a piece of blank parchment)'
+verbal: true
+somatic: true
+material: true
+material_desc: a piece of blank parchment
 time: 1 Action
 duration: 'Concentration, up to 1 hour'
 range: Self
-somatic: true
-verbal: true
-material: a piece of blank parchment
 aliases:
   - Labyrinth Mastery
 ---
@@ -46,6 +48,6 @@ You gain a perfect memory of all portions of the structure you move through duri
 
 Also, while under the effect of this spell, you can exit any [[/5. Mechanics/Spells/Maze.md\|maze]] spell (and its [[/5. Mechanics/Spells/Lesser Maze (KPDM).md\|lesser]] varieties) and [[/5. Mechanics/Spells/Greater Maze (KPDM).md\|greater]] varieties) as an action without needing to make an Intelligence check.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 88*

@@ -3,34 +3,37 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Enchantment
 level: 5
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 10 minutes'
+range: Self (30-foot Radius)
+aliases:
+  - Dark Lord's Mantle
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 10 minutes'
-range: Self (30-foot Radius)
-somatic: true
-verbal: true
 area:
   shape: radius
   size: 30
-aliases:
-  - Dark Lord's Mantle
 ---
 # Dark Lord's Mantle
 *5th-level, Enchantment*  
@@ -44,6 +47,6 @@ You infuse yourself with fiendish power, which inspires your allies and intimida
 
 An enemy that starts its turn within 30 feet of you, or that moves within 30 feet of you on its turn, must succeed on a Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you. If a creature moves out of the spell's radius, it remains [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] until the start of its next turn, and then the spell ends for that creature. While [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] in this way, the creature repeats the saving throw at the end of each of its turns. On a success, the creature is no longer [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]], and it cannot be affected again by your casting of this spell for 24 hours.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 326*

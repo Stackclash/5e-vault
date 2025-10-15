@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Sorcerer
   - Wizard
 school: Necromancy
 level: 5
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: Self
+aliases:
+  - Maim
 damage:
   base: 4d6
   scaling:
@@ -23,14 +34,6 @@ damage:
     level: null
   types:
     - necrotic
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self
-somatic: true
-verbal: true
-aliases:
-  - Maim
 ---
 # Maim
 *5th-level, Necromancy*  
@@ -48,6 +51,6 @@ Your hands become black claws bathed in necrotic energy. Make a melee spell atta
 
 **Body**. Choose one damage type: bludgeoning, piercing, or slashing. The target loses its resistance to that damage type. If the target doesn't have resistance to the chosen damage type, it is vulnerable to that damage type instead. The effect is permanent until removed by [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]], [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], or similar magic.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 93*

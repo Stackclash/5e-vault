@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/3rd-level
   - spell/school/evocation
@@ -11,13 +11,24 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/void-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Void Domain)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Evocation
 level: 3
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 90 feet
+aliases:
+  - Void Strike
 damage:
   base: 5d8
   scaling:
@@ -25,14 +36,6 @@ damage:
     level: 4
   types:
     - necrotic
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 90 feet
-somatic: true
-verbal: true
-aliases:
-  - Void Strike
 ---
 # Void Strike
 *3rd-level, Evocation*  
@@ -46,6 +49,6 @@ With a short phrase of Void Speech, you gather writhing darkness around your han
 
 **At Higher Levels.** When you cast the spell using a spell slot of 4th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Void Domain)](/compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Void Domain)](/compendium/lists/list-spells-classes-void-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 333*

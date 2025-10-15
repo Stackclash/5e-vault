@@ -3,36 +3,38 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/level/7th-level
   - spell/school/transmutation
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/hedge-mage
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Wizard (Hedge Mage)
 school: Transmutation
 level: 7
+ritual: false
+components: 'V, S, M (a prayer wheel and holy water)'
+verbal: true
+somatic: true
+material: true
+material_desc: a prayer wheel and holy water
+time: 1 minute
+duration: 1 hour
+range: Touch
+aliases:
+  - Regenerate
 damage:
   base: 4d8+15
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 minute
-duration: 1 hour
-range: Touch
-somatic: true
-verbal: true
-material: a prayer wheel and holy water
-aliases:
-  - Regenerate
 ---
 # Regenerate
 *7th-level, Transmutation*  
@@ -46,6 +48,6 @@ You touch a creature and stimulate its natural healing ability. The target regai
 
 The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

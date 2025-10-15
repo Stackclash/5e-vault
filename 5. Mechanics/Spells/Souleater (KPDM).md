@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/warlock
   - spell/class/wizard
@@ -11,13 +11,24 @@ tags:
   - spell/school/evocation
   - spell/subclass/apocalypse-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Apocalypse Domain)
   - Warlock
   - Wizard
 school: Evocation
 level: 5
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Bonus Action
+duration: 'Concentration, up to 1 hour'
+range: Touch
+aliases:
+  - Souleater
 damage:
   base: 2d8
   scaling:
@@ -25,17 +36,9 @@ damage:
     level: null
   types:
     - necrotic
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 1 hour'
-range: Touch
-somatic: true
-verbal: true
 area:
   shape: sphere
   size: 30
-aliases:
-  - Souleater
 ---
 # Souleater
 *5th-level, Evocation*  
@@ -49,6 +52,6 @@ You instill a hunger for the life force of others into a weapon you touch. Until
 
 As a bonus action, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of you must make a Constitution saving throw. On a failed save, the creature takes `dice:2d8|noform|noparens|avg` (`2d8`) necrotic damage and you heal half that many hit points. On a successful save, the creature takes half as much damage and you do not heal.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Apocalypse Domain)](/compendium/lists/list-spells-classes-apocalypse-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Apocalypse Domain)](/compendium/lists/list-spells-classes-apocalypse-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 313*

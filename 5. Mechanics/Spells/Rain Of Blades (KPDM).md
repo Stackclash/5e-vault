@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/level/5th-level
   - spell/school/conjuration
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Conjuration
 level: 5
+ritual: false
+components: 'V, S, M (shard of metal from a weapon)'
+verbal: true
+somatic: true
+material: true
+material_desc: shard of metal from a weapon
+time: 1 Action
+duration: 4 rounds
+range: 25 feet
+aliases:
+  - Rain of Blades
 damage:
   base: 6d6
   scaling:
@@ -27,15 +38,6 @@ saving_throw:
   skills:
     - Charisma
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: 4 rounds
-range: 25 feet
-somatic: true
-verbal: true
-material: shard of metal from a weapon
-aliases:
-  - Rain of Blades
 ---
 # Rain of Blades
 *5th-level, Conjuration*  
@@ -51,6 +53,6 @@ An intelligent undead injured by the blades is [[/5. Mechanics/Rules/Conditions.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, an unbroken blade can be picked up and used as a magical [[/5. Mechanics/Items/1 Weapon.md\|+1 weapon]] until it disappears.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 101*

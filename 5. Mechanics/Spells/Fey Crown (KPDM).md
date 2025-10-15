@@ -3,34 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/class/warlock
   - spell/level/5th-level
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
   - Warlock
 school: Abjuration
 level: 5
+ritual: false
+components: 'V, S, M (five flowers of different colors)'
+verbal: true
+somatic: true
+material: true
+material_desc: five flowers of different colors
+time: 1 Action
+duration: 1 hour
+range: Self
+aliases:
+  - Fey Crown
 damage:
   base: null
   scaling:
     damage: null
     level: 6
   types: []
-ritual: false
-time: 1 Action
-duration: 1 hour
-range: Self
-somatic: true
-verbal: true
-material: five flowers of different colors
-aliases:
-  - Fey Crown
 ---
 # Fey Crown
 *5th-level, Abjuration*  
@@ -44,6 +46,6 @@ By channeling the ancient wards of the Seelie Court, you create a crown of five 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the crown can have one additional flower for each slot level above 5th. One additional flower is required as a material component for each additional flower in the crown.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 69*

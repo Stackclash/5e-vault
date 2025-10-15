@@ -3,21 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/necromancy
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Sorcerer
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Wizard
 school: Necromancy
 level: 5
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 5 minutes'
+range: 100 feet
+aliases:
+  - Exsanguinating Cloud
 damage:
   base: 6d6
   scaling:
@@ -29,17 +40,9 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 5 minutes'
-range: 100 feet
-somatic: true
-verbal: true
 area:
   shape: sphere
   size: 20
-aliases:
-  - Exsanguinating Cloud
 ---
 # Exsanguinating Cloud
 *5th-level, Necromancy*  
@@ -53,6 +56,6 @@ When you cast this spell, a rose-colored mist billows up in a 20-foot radius, ce
 
 This cloud leaches the blood or similar fluid from creatures in the area. It doesn't affect undead or constructs. Any creature in the cloud when it's created or at the start of your turn takes `dice:6d6|noform|noparens|avg` (`6d6`) necrotic damage and gains one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]; a successful Constitution saving throw halves the damage and prevents the [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 320*

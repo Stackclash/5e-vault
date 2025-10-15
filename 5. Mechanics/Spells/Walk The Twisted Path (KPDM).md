@@ -3,35 +3,37 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Conjuration
 level: 6
+ritual: false
+components: 'V, S, M (a map)'
+verbal: true
+somatic: true
+material: true
+material_desc: a map
+time: 1 Action
+duration: Special
+range: Self (20-foot Radius)
+aliases:
+  - Walk the Twisted Path
 damage:
   base: 4d6
   scaling:
     damage: null
     level: 7
   types: []
-ritual: false
-time: 1 Action
-duration: Special
-range: Self (20-foot Radius)
-somatic: true
-verbal: true
-material: a map
 area:
   shape: radius
   size: 20
-aliases:
-  - Walk the Twisted Path
 ---
 # Walk the Twisted Path
 *6th-level, Conjuration*  
@@ -49,6 +51,6 @@ When the spell ends, you and those traveling with you appear in a safe location 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can bring along two additional creatures or travel an additional 100 miles for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 120*

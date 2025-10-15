@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/5th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
 school: Transmutation
 level: 5
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 8 hours'
+range: Self (15-foot Radius)
+aliases:
+  - Earth Wave
 damage:
   base: 6d6
   scaling:
@@ -23,17 +34,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 8 hours'
-range: Self (15-foot Radius)
-somatic: true
-verbal: true
 area:
   shape: radius
   size: 15
-aliases:
-  - Earth Wave
 ---
 # Earth Wave
 *5th-level, Transmutation*  
@@ -53,6 +56,6 @@ Creatures of Large size or smaller in the path of the wave take `dice:6d6|noform
 
 You can cast *earth wave* only when standing on natural earth or stone. The spell can be cast underground, but not inside buildings unless they have no floor.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 65*

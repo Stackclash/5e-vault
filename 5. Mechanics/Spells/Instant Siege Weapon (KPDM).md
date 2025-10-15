@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/4th-level
   - spell/ritual
@@ -11,29 +11,33 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Transmutation
 level: 4
+ritual: true
+components: >-
+  V, S, M (raw materials with a value in gp equal to the hit points of the siege
+  weapon to be created)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  raw materials with a value in gp equal to the hit points of the siege weapon
+  to be created
+time: 1 Action
+duration: Until dispelled
+range: 60 feet
+aliases:
+  - Instant Siege Weapon
 damage:
   base: null
   scaling:
     damage: null
     level: null
   types: []
-ritual: true
-time: 1 Action
-duration: Until dispelled
-range: 60 feet
-somatic: true
-verbal: true
-material: >-
-  raw materials with a value in gp equal to the hit points of the siege weapon
-  to be created
-aliases:
-  - Instant Siege Weapon
 ---
 # Instant Siege Weapon
 *4th-level, Transmutation (ritual)*  
@@ -49,6 +53,6 @@ For example, a [[/5. Mechanics/Objects/Mangonel.md\|mangonel]] has 100 hit point
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level, a Huge siege engine can be made; at 8th level, a Gargantuan siege engine can be made. In addition, for each slot level above 4th, the spell creates another ten shots' worth of ammunition.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 85*

@@ -3,33 +3,35 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/7th-level
   - spell/ritual
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 7
+ritual: true
+components: 'V, S, M (the bill of a platypus)'
+verbal: true
+somatic: true
+material: true
+material_desc: the bill of a platypus
+time: 1 Action
+duration: 1 hour
+range: Self
+aliases:
+  - Uncontrollable Transformation
 damage:
   base: 1d10
   scaling:
     damage: null
     level: 8
   types: []
-ritual: true
-time: 1 Action
-duration: 1 hour
-range: Self
-somatic: true
-verbal: true
-material: the bill of a platypus
-aliases:
-  - Uncontrollable Transformation
 ---
 # Uncontrollable Transformation
 *7th-level, Transmutation (ritual)*  
@@ -61,6 +63,6 @@ You infuse your body with raw chaos and will it to adopt a helpful mutation. Rol
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, you gain an additional mutation for each slot level above 7th. You gain one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] for each mutation you try to control the outcome of.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 187*

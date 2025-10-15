@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/wizard
@@ -11,7 +11,7 @@ tags:
   - spell/school/abjuration
   - spell/subclass/time-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Time Domain)
   - Sorcerer
@@ -19,12 +19,14 @@ classes:
 school: Abjuration
 level: 5
 ritual: false
+components: 'V, S, M (an hourglass)'
+verbal: true
+somatic: true
+material: true
+material_desc: an hourglass
 time: 1 Action
 duration: 'Concentration, up to 1 minute'
 range: 120 feet
-somatic: true
-verbal: true
-material: an hourglass
 aliases:
   - Wall of Time
 ---
@@ -40,6 +42,6 @@ You create a wall of shimmering, transparent blocks on a solid surface within ra
 
 Ranged spell attacks and ranged weapon attacks made with magic weapons that pass through the wall are made with disadvantage. A creature that intentionally enters or passes through the wall is affected as if it had just failed its initial saving throw against a [[/5. Mechanics/Spells/Slow.md\|slow]] spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Time Domain)](/compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Time Domain)](/compendium/lists/list-spells-classes-time-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 262*

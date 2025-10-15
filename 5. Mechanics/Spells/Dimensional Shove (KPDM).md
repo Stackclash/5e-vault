@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/3rd-level
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Rogue (Arcane Trickster)
   - Warlock
   - Wizard
 school: Conjuration
 level: 3
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: Touch
+aliases:
+  - Dimensional Shove
 damage:
   base: null
   scaling:
@@ -26,14 +37,6 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Touch
-somatic: true
-verbal: true
-aliases:
-  - Dimensional Shove
 ---
 # Dimensional Shove
 *3rd-level, Conjuration*  
@@ -47,6 +50,6 @@ This spell pushes a creature you touch through a dimensional portal, causing it 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the target is shoved an additional 30 feet for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 60*

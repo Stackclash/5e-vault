@@ -3,32 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Transmutation
 level: 6
+ritual: false
+components: >-
+  V, S, M (clay, ash, and mandrake root, all of which the spell consumes, and a
+  jewel-encrusted dagger worth at least 1,000 gp)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  clay, ash, and mandrake root, all of which the spell consumes, and a
+  jewel-encrusted dagger worth at least 1,000 gp
+time: 1 hour
+duration: Instantaneous
+range: Touch
+aliases:
+  - Create Homunculus
 damage:
   base: 2d4
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 hour
-duration: Instantaneous
-range: Touch
-somatic: true
-verbal: true
-material: >-
-  clay, ash, and mandrake root, all of which the spell consumes, and a
-  jewel-encrusted dagger worth at least 1,000 gp
-aliases:
-  - Create Homunculus
 ---
 # Create Homunculus
 *6th-level, Transmutation*  
@@ -44,6 +48,6 @@ The statistics of the [[/5. Mechanics/Bestiary/Construct/Homuncul(US).md\|homunc
 
 You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 152*

@@ -4,21 +4,21 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/2nd-level
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
-  - spell/subclass/circle-of-the-land
+  - spell/subclass/circle-of-the-land/underdark
   - spell/subclass/eldritch-knight
   - spell/subclass/speed-domain
   - spell/subclass/swarmkeeper
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Speed Domain)
-  - Druid (Circle of the Land)
+  - 'Druid (Circle of the Land, Underdark)'
   - Fighter (Eldritch Knight)
   - Ranger (Swarmkeeper)
   - Rogue (Arcane Trickster)
@@ -26,6 +26,17 @@ classes:
   - Wizard
 school: Conjuration
 level: 2
+ritual: false
+components: 'V, S, M (a bit of spiderweb)'
+verbal: true
+somatic: true
+material: true
+material_desc: a bit of spiderweb
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+aliases:
+  - Web
 damage:
   base: 2d4
   scaling:
@@ -37,18 +48,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: 60 feet
-somatic: true
-verbal: true
-material: a bit of spiderweb
 area:
   shape: cube
   size: 20
-aliases:
-  - Web
 ---
 # Web
 *2nd-level, Conjuration*  
@@ -69,6 +71,6 @@ A creature [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by the w
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing `dice:2d4|noform|noparens|avg` (`2d4`) fire damage to any creature that starts its turn in the fire.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Speed Domain)](/compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Swarmkeeper)](/compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Speed Domain)](/compendium/lists/list-spells-classes-speed-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Underdark)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Swarmkeeper)](/compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/wizard
@@ -12,27 +12,30 @@ tags:
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 3
+ritual: true
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 10 minutes
+duration: 24 hours
+range: Touch
+aliases:
+  - Vital Mark
 damage:
   base: null
   scaling:
     damage: null
     level: 4
   types: []
-ritual: true
-time: 10 minutes
-duration: 24 hours
-range: Touch
-somatic: true
-verbal: true
-aliases:
-  - Vital Mark
 ---
 # Vital Mark
 *3rd-level, Transmutation (ritual)*  
@@ -46,6 +49,6 @@ You mark an unattended magic item (including weapons and armor) with a clearly v
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher on the same item for 28 consecutive days, the effect becomes permanent until dispelled.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 321*

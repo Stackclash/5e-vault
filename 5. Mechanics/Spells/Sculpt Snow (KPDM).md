@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
@@ -20,6 +20,17 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: 60 feet
+aliases:
+  - Sculpt Snow
 damage:
   base: 2d6+1
   scaling:
@@ -27,14 +38,6 @@ damage:
     level: 3
   types:
     - cold
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 60 feet
-somatic: true
-verbal: true
-aliases:
-  - Sculpt Snow
 ---
 # Sculpt Snow
 *2nd-level, Transmutation*  
@@ -50,6 +53,6 @@ Sculptures created by this spell can be animated with [[/5. Mechanics/Spells/Ani
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can sculpt one additional Large object for each slot level above 2nd. Two Large objects can be replaced with one Huge object.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 274*

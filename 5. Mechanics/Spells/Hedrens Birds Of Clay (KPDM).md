@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Fighter (Eldritch Knight)
   - Ranger
@@ -20,21 +20,23 @@ classes:
   - Wizard
 school: Conjuration
 level: 3
+ritual: false
+components: 'V, M (a clay figurine shaped like a bird)'
+verbal: true
+somatic: false
+material: true
+material_desc: a clay figurine shaped like a bird
+time: 1 Action
+duration: 'Concentration, up to 5 minutes'
+range: Self
+aliases:
+  - Hedren's Birds of Clay
 damage:
   base: 1d4
   scaling:
     damage: null
     level: 4
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 5 minutes'
-range: Self
-somatic: false
-verbal: true
-material: a clay figurine shaped like a bird
-aliases:
-  - Hedren's Birds of Clay
 ---
 # Hedren's Birds of Clay
 *3rd-level, Conjuration*  
@@ -48,6 +50,6 @@ You create a number of clay pigeons equal to `dice:1d4|noform|noparens|avg` (`1d
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, add 1 to your to your roll for each slot level above 3rd when determining if an attack misses or when making a check to intercept the attack.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 80*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -20,24 +20,26 @@ classes:
   - Wizard
 school: Illusion
 level: 3
+ritual: false
+components: 'V, S, M (a bit of fleece)'
+verbal: true
+somatic: true
+material: true
+material_desc: a bit of fleece
+time: 1 Action
+duration: 'Concentration, up to 10 minutes'
+range: 120 feet
+aliases:
+  - Major Image
 damage:
   base: null
   scaling:
     damage: null
     level: 6
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 10 minutes'
-range: 120 feet
-somatic: true
-verbal: true
-material: a bit of fleece
 area:
   shape: cube
   size: 20
-aliases:
-  - Major Image
 ---
 # Major Image
 *3rd-level, Illusion*  
@@ -55,6 +57,6 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

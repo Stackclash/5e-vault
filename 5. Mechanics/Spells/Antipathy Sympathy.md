@@ -3,35 +3,39 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Wizard
 school: Enchantment
 level: 8
+ritual: false
+components: >-
+  V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a
+  drop of honey for the sympathy effect)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  either a lump of alum soaked in vinegar for the antipathy effect or a drop of
+  honey for the sympathy effect
+time: 1 hour
+duration: 10 days
+range: 60 feet
+aliases:
+  - Antipathy/Sympathy
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 hour
-duration: 10 days
-range: 60 feet
-somatic: true
-verbal: true
-material: >-
-  either a lump of alum soaked in vinegar for the antipathy effect or a drop of
-  honey for the sympathy effect
 area:
   shape: cube
   size: 200
-aliases:
-  - Antipathy/Sympathy
 ---
 # Antipathy/Sympathy
 *8th-level, Enchantment*  
@@ -61,6 +65,6 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

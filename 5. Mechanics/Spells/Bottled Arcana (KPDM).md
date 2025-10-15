@@ -3,30 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Transmutation
 level: 5
+ritual: false
+components: 'V, S, M (an empty glass container)'
+verbal: true
+somatic: true
+material: true
+material_desc: an empty glass container
+time: 1 Action
+duration: 24 hours
+range: Touch
+aliases:
+  - Bottled Arcana
 damage:
   base: null
   scaling:
     damage: null
     level: 6
   types: []
-ritual: false
-time: 1 Action
-duration: 24 hours
-range: Touch
-somatic: true
-verbal: true
-material: an empty glass container
-aliases:
-  - Bottled Arcana
 ---
 # Bottled Arcana
 *5th-level, Transmutation*  
@@ -44,6 +46,6 @@ Until the spell in the container is released, its caster can't regain the spell 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the level of the spell the container can hold increases by one for every slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 165*

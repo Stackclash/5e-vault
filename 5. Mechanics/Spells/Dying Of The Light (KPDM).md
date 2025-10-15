@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Evocation
 level: 7
+ritual: false
+components: 'V, S, M (a black pearl worth 250 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: a black pearl worth 250 gp
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Self (120-foot Sphere)
+aliases:
+  - Dying of the Light
 damage:
   base: 4d8
   scaling:
@@ -23,18 +34,9 @@ damage:
     level: null
   types:
     - necrotic
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Self (120-foot Sphere)
-somatic: true
-verbal: true
-material: a black pearl worth 250 gp
 area:
   shape: sphere
   size: 120
-aliases:
-  - Dying of the Light
 ---
 # Dying of the Light
 *7th-level, Evocation*  
@@ -50,6 +52,6 @@ Nonmagical light sources removed from the area can be reignited. Magic items reg
 
 Each creature you choose to be affected that ends its turn in the darkness takes `dice:4d8|noform|noparens|avg` (`4d8`) necrotic damage and gains one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]]. A successful Constitution saving throw halves the damage and negates the [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 249*

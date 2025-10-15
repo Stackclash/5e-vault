@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/3rd-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Evocation
 level: 3
+ritual: false
+components: 'V, S, M (water from a melted icicle)'
+verbal: true
+somatic: true
+material: true
+material_desc: water from a melted icicle
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 90 feet
+aliases:
+  - Frozen Razors
 damage:
   base: 2d6
   scaling:
@@ -28,18 +39,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 90 feet
-somatic: true
-verbal: true
-material: water from a melted icicle
 area:
   shape: cube
   size: 20
-aliases:
-  - Frozen Razors
 ---
 # Frozen Razors
 *3rd-level, Evocation*  
@@ -55,6 +57,6 @@ A creature that takes cold damage from frozen razors is reduced to half speed un
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the slashing or cold damage (your choice) increases by `dice:1d6|noform|noparens|avg` (`1d6`) for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 73*

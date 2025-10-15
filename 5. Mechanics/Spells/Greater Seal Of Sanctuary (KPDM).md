@@ -3,20 +3,31 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/wizard
   - spell/level/9th-level
   - spell/ritual
   - spell/school/abjuration
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Wizard
 school: Abjuration
 level: 9
+ritual: true
+components: 'V, S, M (incense and special inks worth 500 gp, which the spell consumes)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'incense and special inks worth 500 gp, which the spell consumes'
+time: 1 minute
+duration: 24 hours
+range: Touch
+aliases:
+  - Greater Seal of Sanctuary
 damage:
   base: 15d8
   scaling:
@@ -28,15 +39,6 @@ saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: true
-time: 1 minute
-duration: 24 hours
-range: Touch
-somatic: true
-verbal: true
-material: 'incense and special inks worth 500 gp, which the spell consumes'
-aliases:
-  - Greater Seal of Sanctuary
 ---
 # Greater Seal of Sanctuary
 *9th-level, Abjuration (ritual)*  
@@ -54,6 +56,6 @@ Creatures other than aberrations, elementals, fey, fiends, and undead can't be [
 
 The seal has AC 18, 75 hit points, resistance to bludgeoning, piercing, and slashing damage, and immunity to psychic and poison damage. Ranged attacks against the seal are made with disadvantage. If it is scribed on the surface of an object that is later destroyed (such as a wooden door), the seal is not damaged and remains in place, perhaps suspended in midair. The spell ends only if the seal itself is reduced to 0 hit points.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 176*

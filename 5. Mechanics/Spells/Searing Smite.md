@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/paladin
   - spell/class/ranger
   - spell/level/1st-level
@@ -11,12 +11,23 @@ tags:
   - spell/subclass/forge-domain
   - spell/subrace/tiefling-zariel
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Forge Domain)
   - Paladin
   - Ranger
 school: Evocation
 level: 1
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Bonus Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Searing Smite
 damage:
   base: 1d6
   scaling:
@@ -28,14 +39,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: false
-verbal: true
-aliases:
-  - Searing Smite
 ---
 # Searing Smite
 *1st-level, Evocation*  
@@ -49,6 +52,6 @@ The next time you hit a creature with a melee weapon attack during the spell's d
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the initial extra damage dealt by the attack increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Forge Domain)](/compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Forge Domain)](/compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Player's Handbook p. 274*

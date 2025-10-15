@@ -3,18 +3,29 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/feat/fey-touched
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/warlock-spells
   - spell/level/1st-level
   - spell/race/hexblood
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
 school: Enchantment
 level: 1
+ritual: false
+components: 'V, S, M (the petrified eye of a newt)'
+verbal: true
+somatic: true
+material: true
+material_desc: the petrified eye of a newt
+time: 1 Bonus Action
+duration: 'Concentration, up to 1 hour'
+range: 90 feet
+aliases:
+  - Hex
 damage:
   base: 1d6
   scaling:
@@ -22,15 +33,6 @@ damage:
     level: 5
   types:
     - necrotic
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 1 hour'
-range: 90 feet
-somatic: true
-verbal: true
-material: the petrified eye of a newt
-aliases:
-  - Hex
 ---
 # Hex
 *1st-level, Enchantment*  
@@ -48,8 +50,6 @@ A [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] cast on the target ends
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] on the spell for up to 24 hours.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Player's Handbook p. 251*

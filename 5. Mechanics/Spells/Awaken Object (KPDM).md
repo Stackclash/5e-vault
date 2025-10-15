@@ -3,30 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/8th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
 school: Transmutation
 level: 8
+ritual: false
+components: 'V, S, M (a ruby worth at least 1,000 gp, which the spell consumes)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a ruby worth at least 1,000 gp, which the spell consumes'
+time: 8 hours
+duration: Until dispelled
+range: Touch
+aliases:
+  - Awaken Object
 damage:
   base: 1d20+8
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 8 hours
-duration: Until dispelled
-range: Touch
-somatic: true
-verbal: true
-material: 'a ruby worth at least 1,000 gp, which the spell consumes'
-aliases:
-  - Awaken Object
 ---
 # Awaken Object
 *8th-level, Transmutation*  
@@ -52,6 +54,6 @@ An awakened object needs no air, food, water, or sleep. Damage to an awakened ob
 | L | 50 | 10 | `dice:1d20+6\|noform\|noparens\|text(+6)` to hit, `dice:2d10+2\|noform\|noparens\|avg` (`2d10 + 2`) damage | 14 | 10 | 10 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) | `dice:3d6\|noform\|noparens\|avg` (`3d6`) | `dice:2d6+2\|noform\|noparens\|avg` (`2d6 + 2`) |
 ^awakened-creature-statistics
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 41*

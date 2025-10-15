@@ -3,26 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/ranger
   - spell/class/wizard
   - spell/level/4th-level
   - spell/school/abjuration
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Ranger
   - Rogue (Arcane Trickster)
   - Wizard
 school: Abjuration
 level: 4
 ritual: false
+components: 'V, S, M (a piece of the dragon whose lair you are raiding)'
+verbal: true
+somatic: true
+material: true
+material_desc: a piece of the dragon whose lair you are raiding
 time: 10 minutes
 duration: 'Concentration, up to 1 hour'
 range: Self
-somatic: true
-verbal: true
-material: a piece of the dragon whose lair you are raiding
 aliases:
   - Raid the Lair
 ---
@@ -42,6 +44,6 @@ You create an [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] circle 
 
 The caster has advantage on Constitution saving throws to maintain concentration on this spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 203*

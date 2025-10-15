@@ -3,21 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/conjuration
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Wizard
 school: Conjuration
 level: 5
+ritual: false
+components: 'V, S, M (a small golden wheel worth 250 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: a small golden wheel worth 250 gp
+time: 1 Action
+duration: 1 hour
+range: 30 feet
+aliases:
+  - Blazing Chariot
 damage:
   base: 3d6
   scaling:
@@ -30,15 +41,6 @@ saving_throw:
   skills:
     - Strength
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 hour
-range: 30 feet
-somatic: true
-verbal: true
-material: a small golden wheel worth 250 gp
-aliases:
-  - Blazing Chariot
 ---
 # Blazing Chariot
 *5th-level, Conjuration*  
@@ -52,6 +54,6 @@ Calling upon the might of the angels, you conjure a flaming chariot made of gold
 
 On your turn, you can guide the chariot in place of your own movement. You can use a bonus action to direct it to take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]], [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]], or [[/5. Mechanics/Rules/Actions.md#Dodge\|Dodge]] action. As an action, you can use the chariot to overrun creatures in its path. On this turn, the chariot can enter a hostile creature's space. The creature takes damage as if it had touched the chariot, is shunted to the nearest unoccupied space that it can occupy, and must make a successful Strength saving throw or fall [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] in that space.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 175*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/sorcerer
@@ -11,17 +11,32 @@ tags:
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/transmutation
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Sorcerer
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock
   - Wizard
 school: Transmutation
 level: 7
+ritual: false
+components: >-
+  V, S, M (a bit of flesh from a fiend, or a feather from a celestial, each item
+  worth at least 50 gp)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  a bit of flesh from a fiend, or a feather from a celestial, each item worth at
+  least 50 gp
+time: 1 Action
+duration: 'Concentration, up to 10 minutes'
+range: Self
+aliases:
+  - Transmogrification
 damage:
   base: 8d6
   scaling:
@@ -43,20 +58,9 @@ saving_throw:
   skills:
     - Strength
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 10 minutes'
-range: Self
-somatic: true
-verbal: true
-material: >-
-  a bit of flesh from a fiend, or a feather from a celestial, each item worth at
-  least 50 gp
 area:
   shape: line
   size: 15
-aliases:
-  - Transmogrification
 ---
 # Transmogrification
 *7th-level, Transmutation*  
@@ -82,6 +86,6 @@ You elevate your body to a higher form. When you cast the spell, choose three of
 
 **Frightening Presence.** As an action, choose any number of creatures within 30 feet of you that can see you. Each of them must succeed on a Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you for 1 minute. A creature [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to your frightening presence for the next 24 hours. You can use this ability up to three times, and it expires after the third use.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 313*

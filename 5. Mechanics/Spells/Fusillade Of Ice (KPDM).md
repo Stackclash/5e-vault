@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/class/sorcerer
@@ -15,7 +15,7 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/winter-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Winter Domain)
   - Druid
   - Fighter (Eldritch Knight)
@@ -26,6 +26,17 @@ classes:
   - Wizard
 school: Evocation
 level: 4
+ritual: false
+components: 'V, S, M (a dagger shaped like an icicle)'
+verbal: true
+somatic: true
+material: true
+material_desc: a dagger shaped like an icicle
+time: 1 Action
+duration: Instantaneous
+range: Self (30-foot Cone)
+aliases:
+  - Fusillade of Ice
 damage:
   base: 4d6
   scaling:
@@ -38,18 +49,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self (30-foot Cone)
-somatic: true
-verbal: true
-material: a dagger shaped like an icicle
 area:
   shape: cone
   size: 30
-aliases:
-  - Fusillade of Ice
 ---
 # Fusillade of Ice
 *4th-level, Evocation*  
@@ -63,6 +65,6 @@ You unleash a spray of razor-sharp ice shards. Each creature in the 30-foot cone
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by your choice of `dice:1d6|noform|noparens|avg|text(1d6)` cold damage or `dice:1d6|noform|noparens|avg|text(1d6)` piercing damage for each slot level above 4th. You can make a different choice (cold damage or piercing damage) for each slot level above 4th. Casting this spell with a spell slot of 6th level or higher increases the range to a 60-foot cone.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Winter Domain)](/compendium/lists/list-spells-classes-winter-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Winter Domain)](/compendium/lists/list-spells-classes-winter-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 272*

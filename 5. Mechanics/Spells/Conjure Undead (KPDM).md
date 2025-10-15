@@ -3,34 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/ranger
   - spell/level/3rd-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Ranger
 school: Conjuration
 level: 3
+ritual: false
+components: 'V, S, M (a humanoid skull)'
+verbal: true
+somatic: true
+material: true
+material_desc: a humanoid skull
+time: 1 minute
+duration: 'Concentration, up to 1 hour'
+range: 30 feet
+aliases:
+  - Conjure Undead
 damage:
   base: null
   scaling:
     damage: null
     level: 5
   types: []
-ritual: false
-time: 1 minute
-duration: 'Concentration, up to 1 hour'
-range: 30 feet
-somatic: true
-verbal: true
-material: a humanoid skull
-aliases:
-  - Conjure Undead
 ---
 # Conjure Undead
 *3rd-level, Conjuration*  
@@ -44,6 +46,6 @@ You summon a [[/5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]] to do your bidd
 
 **At Higher Levels.** When you cast this spell using a 4th-level spell slot, you can choose to summon a [[/5. Mechanics/Bestiary/Undead/Wight.md\|wight]] or a [[/5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]]. When you cast this spell with a spell slot of 5th level or higher, you can choose to summon a [[/5. Mechanics/Bestiary/Undead/Ghost.md\|ghost]], a [[/5. Mechanics/Bestiary/Undead/Shadow.md\|shadow]], or a [[/5. Mechanics/Bestiary/Undead/Wight.md\|wight]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 54*

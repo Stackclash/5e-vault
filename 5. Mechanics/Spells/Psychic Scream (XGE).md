@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Enchantment
 level: 9
+ritual: false
+components: S
+verbal: false
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: 90 feet
+aliases:
+  - Psychic Scream
 damage:
   base: 14d6
   scaling:
@@ -27,14 +38,6 @@ saving_throw:
   skills:
     - Intelligence
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 90 feet
-somatic: true
-verbal: false
-aliases:
-  - Psychic Scream
 ---
 # Psychic Scream
 *9th-level, Enchantment*  
@@ -50,6 +53,6 @@ Each target must make an Intelligence saving throw. On a failed save, a target t
 
 A [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] target can make an Intelligence saving throw at the end of each of its turns. On a successful save, the stunning effect ends.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 163*

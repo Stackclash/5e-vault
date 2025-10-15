@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/warlock
@@ -13,7 +13,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/labyrinth-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Labyrinth Domain)
   - Druid
@@ -22,19 +22,21 @@ classes:
   - Wizard
 school: Abjuration
 level: 4
+ritual: false
+components: 'V, S, M (powdered silver worth 250 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: powdered silver worth 250 gp
+time: 1 hour
+duration: 8 hours
+range: Self
+aliases:
+  - Moon Trap
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 hour
-duration: 8 hours
-range: Self
-somatic: true
-verbal: true
-material: powdered silver worth 250 gp
-aliases:
-  - Moon Trap
 ---
 # Moon Trap
 *4th-level, Abjuration*  
@@ -50,6 +52,6 @@ Any creature that touches the glyph, except those you designate during the casti
 
 The glyph lasts until the next sunrise, at which time it flares with bright light, and any creature trapped inside returns to the space it last occupied, unharmed. If that space has become occupied or dangerous, the creature appears in the nearest safe unoccupied space.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Labyrinth Domain)](/compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Labyrinth Domain)](/compendium/lists/list-spells-classes-labyrinth-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 95*

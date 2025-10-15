@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/3rd-level
   - spell/school/enchantment
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Wizard
 school: Enchantment
 level: 3
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Self (30-foot Radius)
+aliases:
+  - Draconic Majesty
 damage:
   base: null
   scaling:
@@ -26,17 +37,9 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Self (30-foot Radius)
-somatic: true
-verbal: true
 area:
   shape: radius
   size: 30
-aliases:
-  - Draconic Majesty
 ---
 # Draconic Majesty
 *3rd-level, Enchantment*  
@@ -50,6 +53,6 @@ You exude the powerful presence of a dragon, frightening your enemies. For the d
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the radius increases by 30 feet for each slot level above 3rd, to a maximum of 120 feet for a slot of 6th level or higher.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 200*

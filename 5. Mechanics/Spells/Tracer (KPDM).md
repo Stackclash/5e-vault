@@ -3,26 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/level/3rd-level
   - spell/school/divination
   - spell/subclass/hunting-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Hunting Domain)
   - Druid
   - Ranger
 school: Divination
 level: 3
 ritual: false
+components: 'V, S, M (a drop of bright paint)'
+verbal: true
+somatic: true
+material: true
+material_desc: a drop of bright paint
 time: 1 Bonus Action
 duration: 8 hours
 range: Self
-somatic: true
-verbal: true
-material: a drop of bright paint
 aliases:
   - Tracer
 ---
@@ -38,6 +40,6 @@ When you cast this spell and as a bonus action on each of your turns until the s
 
 A creature must succeed on an Intelligence ([[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]]) check against your spell save DC to notice the magical beacon.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Hunting Domain)](/compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Hunting Domain)](/compendium/lists/list-spells-classes-hunting-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 115*

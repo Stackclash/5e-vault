@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/level/3rd-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
 school: Transmutation
 level: 3
+ritual: false
+components: 'V, S, M (a cloth soaked in water)'
+verbal: true
+somatic: true
+material: true
+material_desc: a cloth soaked in water
+time: 1 Action
+duration: Instantaneous
+range: 120 feet
+aliases:
+  - Quench
 damage:
   base: 8d6
   scaling:
@@ -25,18 +36,9 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 120 feet
-somatic: true
-verbal: true
-material: a cloth soaked in water
 area:
   shape: sphere
   size: 30
-aliases:
-  - Quench
 ---
 # Quench
 *3rd-level, Transmutation*  
@@ -52,6 +54,6 @@ Fire elementals in the area take `dice:8d6|noform|noparens|avg` (`8d6`) cold dam
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the radius of the area increases by 10 feet, and the damage against fire elementals increases by `dice:1d6|noform|noparens|avg|text(1d6)`, for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 101*

@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
-  - spell/feat/magic-initiate
+  - spell/class/bard/magical-secrets
+  - spell/feat/magic-initiate/bard-spells
   - spell/level/cantrip
   - spell/optfeature/pact-of-the-tome
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Enchantment
 level: 0
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: 60 feet
+aliases:
+  - Vicious Mockery
 damage:
   base: 1d4
   scaling:
@@ -23,14 +34,6 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 60 feet
-somatic: false
-verbal: true
-aliases:
-  - Vicious Mockery
 ---
 # Vicious Mockery
 *cantrip, Enchantment*  
@@ -44,8 +47,6 @@ You unleash a string of insults laced with subtle enchantments at a creature you
 
 This spell's damage increases by `dice:1d4|noform|noparens|avg` (`1d4`) when you reach 5th level (`dice:2d4|noform|noparens|avg` (`2d4`)), 11th level (`dice:3d4|noform|noparens|avg` (`3d4`)), and 17th level (`dice:4d4|noform|noparens|avg` (`4d4`)).
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Player's Handbook p. 285. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

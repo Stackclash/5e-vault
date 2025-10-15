@@ -10,7 +10,7 @@ aliases:
 # Arcane Propulsion Armor
 *Source: Tasha's Cauldron of Everything p. 20*  
 
-***Prerequisites*** Level 14
+***Prerequisites*** Level 14, A suit of armor (requires attunement)
 
 The wearer of this armor gains these benefits:
 

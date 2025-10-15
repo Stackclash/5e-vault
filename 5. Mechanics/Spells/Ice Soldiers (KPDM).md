@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/sorcerer
@@ -11,27 +11,30 @@ tags:
   - spell/level/7th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Sorcerer
   - Wizard
 school: Conjuration
 level: 7
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Action
+duration: 1 minute
+range: 30 feet
+aliases:
+  - Ice Soldiers
 damage:
   base: null
   scaling:
     damage: null
     level: 8
   types: []
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: 30 feet
-somatic: false
-verbal: true
-aliases:
-  - Ice Soldiers
 ---
 # Ice Soldiers
 *7th-level, Conjuration*  
@@ -45,6 +48,6 @@ You pour water from the vial and cause two [[/5. Mechanics/Bestiary/Construct/Ic
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, you create one additional [[/5. Mechanics/Bestiary/Construct/Ice Soldier (KPDM).md\|ice soldier]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 82*

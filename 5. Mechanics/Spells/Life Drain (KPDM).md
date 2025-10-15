@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Evocation
 level: 6
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: 90 feet
+aliases:
+  - Life Drain
 damage:
   base: 10d6
   scaling:
@@ -23,14 +34,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 90 feet
-somatic: true
-verbal: true
-aliases:
-  - Life Drain
 ---
 # Life Drain
 *6th-level, Evocation*  
@@ -44,6 +47,6 @@ With a snarled word of Void Speech, you create a swirling vortex of purple energ
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the vortex's damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 332*

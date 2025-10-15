@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/conjuration
   - spell/subclass/alchemist
   - spell/subclass/circle-of-spores
-  - spell/subclass/circle-of-the-land
+  - spell/subclass/circle-of-the-land/underdark
   - spell/subclass/death-domain
   - spell/subclass/festus-domain
   - spell/subclass/hunger-domain
@@ -19,12 +19,12 @@ tags:
   - spell/subclass/the-undead
 classes:
   - Artificer (Alchemist)
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Death Domain)
   - Cleric (Festus Domain)
   - Cleric (Hunger Domain)
   - Druid (Circle of Spores)
-  - Druid (Circle of the Land)
+  - 'Druid (Circle of the Land, Underdark)'
   - Paladin (Oath of Conquest)
   - Ranger (Marshwarden)
   - Sorcerer
@@ -32,6 +32,17 @@ classes:
   - Wizard
 school: Conjuration
 level: 5
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 10 minutes'
+range: 120 feet
+aliases:
+  - Cloudkill
 damage:
   base: 5d8
   scaling:
@@ -43,17 +54,9 @@ saving_throw:
   skills:
     - Constitution
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 10 minutes'
-range: 120 feet
-somatic: true
-verbal: true
 area:
   shape: sphere
   size: 20
-aliases:
-  - Cloudkill
 ---
 # Cloudkill
 *5th-level, Conjuration*  
@@ -72,6 +75,6 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 5th.
 
-**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Festus Domain)](/compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Cleric (Hunger Domain)](/compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of Spores)](/compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Ranger (Marshwarden)](/compendium/lists/list-spells-classes-marshwarden-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Undead)](/compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Death Domain)](/compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Festus Domain)](/compendium/lists/list-spells-classes-festus-domain-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [Cleric (Hunger Domain)](/compendium/lists/list-spells-classes-hunger-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of Spores)](/compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Underdark)]]; [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Ranger (Marshwarden)](/compendium/lists/list-spells-classes-marshwarden-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Undead)](/compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 222. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

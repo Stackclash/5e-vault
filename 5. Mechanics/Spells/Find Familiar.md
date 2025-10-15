@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
-  - spell/feat/magic-initiate
-  - spell/feat/ritual-caster
+  - spell/feat/magic-initiate/wizard-spells
+  - spell/feat/ritual-caster/wizard-spells
   - spell/level/1st-level
   - spell/optfeature/book-of-ancient-secrets
   - spell/optfeature/pact-of-the-chain
@@ -18,7 +18,7 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/fey-soul
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Cat Domain)
   - Druid (Circle of the Spirits)
   - Fighter (Eldritch Knight)
@@ -28,14 +28,18 @@ classes:
 school: Conjuration
 level: 1
 ritual: true
+components: >-
+  V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by
+  fire in a brass brazier)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a
+  brass brazier
 time: 1 hour
 duration: Instantaneous
 range: 10 feet
-somatic: true
-verbal: true
-material: >-
-  10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a
-  brass brazier
 aliases:
   - Find Familiar
 ---
@@ -62,8 +66,6 @@ You can't have more than one familiar at a time. If you cast this spell while yo
 
 Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of the Spirits)](/compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Fey Soul)](/compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Ritual Caster.md\|Ritual Caster]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [Druid (Circle of the Spirits)](/compendium/lists/list-spells-classes-circle-of-the-spirits-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Fey Soul)](/compendium/lists/list-spells-classes-fey-soul-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 240. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

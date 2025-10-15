@@ -3,18 +3,29 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/druid-spells
   - spell/level/1st-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
 school: Transmutation
 level: 1
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Bonus Action
+duration: 1 minute
+range: Self
+aliases:
+  - Maw of Needles
 damage:
   base: 2d6
   scaling:
@@ -22,14 +33,6 @@ damage:
     level: 3
   types:
     - piercing
-ritual: false
-time: 1 Bonus Action
-duration: 1 minute
-range: Self
-somatic: true
-verbal: true
-aliases:
-  - Maw of Needles
 ---
 # Maw of Needles
 *1st-level, Transmutation*  
@@ -45,8 +48,6 @@ If you hit a target that has your spines stuck in it, your attack deals extra da
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage of the spiny bite and the spines increases by `dice:1d6|noform|noparens|avg|text(1d6)` for every two slot levels above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 94*

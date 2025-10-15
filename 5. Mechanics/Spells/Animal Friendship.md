@@ -3,24 +3,35 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/feat/fey-touched
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/druid-spells
   - spell/level/1st-level
   - spell/race/yuan-ti
   - spell/school/enchantment
   - spell/subclass/hedge-mage
   - spell/subclass/nature-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Nature Domain)
   - Druid
   - Ranger
   - Wizard (Hedge Mage)
 school: Enchantment
 level: 1
+ritual: false
+components: 'V, S, M (a morsel of food)'
+verbal: true
+somatic: true
+material: true
+material_desc: a morsel of food
+time: 1 Action
+duration: 24 hours
+range: 30 feet
+aliases:
+  - Animal Friendship
 damage:
   base: null
   scaling:
@@ -31,15 +42,6 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 24 hours
-range: 30 feet
-somatic: true
-verbal: true
-material: a morsel of food
-aliases:
-  - Animal Friendship
 ---
 # Animal Friendship
 *1st-level, Enchantment*  
@@ -53,8 +55,6 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

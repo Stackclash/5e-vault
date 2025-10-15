@@ -4,37 +4,39 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/ranger
   - spell/level/5th-level
   - spell/school/abjuration
   - spell/subclass/clockwork-soul
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/oath-of-radiance
   - spell/subclass/peace-domain
   - spell/subclass/the-celestial
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Peace Domain)
   - Druid
   - Paladin (Oath of Radiance)
   - Ranger
   - Sorcerer (Clockwork Soul)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock (The Celestial)
 school: Abjuration
 level: 5
 ritual: false
+components: 'V, S, M (diamond dust worth at least 100 gp, which the spell consumes)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'diamond dust worth at least 100 gp, which the spell consumes'
 time: 1 Action
 duration: Instantaneous
 range: Touch
-somatic: true
-verbal: true
-material: 'diamond dust worth at least 100 gp, which the spell consumes'
 aliases:
   - Greater Restoration
 ---
@@ -53,6 +55,6 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 - Any reduction to one of the target's ability scores  
 - One effect reducing the target's hit point maximum  
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of Radiance)](/compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Clockwork Soul)](/compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of Radiance)](/compendium/lists/list-spells-classes-oath-of-radiance-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Sorcerer (Clockwork Soul)](/compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -3,23 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/wizard
   - spell/level/4th-level
   - spell/school/evocation
   - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Wizard
 school: Evocation
 level: 4
+ritual: false
+components: 'V, S, M (mummy dust)'
+verbal: true
+somatic: true
+material: true
+material_desc: mummy dust
+time: 1 Bonus Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Staff of Violet Fire
 damage:
   base: 5d10
   scaling:
@@ -27,15 +38,6 @@ damage:
     level: 6
   types:
     - necrotic
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: true
-verbal: true
-material: mummy dust
-aliases:
-  - Staff of Violet Fire
 ---
 # Staff of Violet Fire
 *4th-level, Evocation*  
@@ -56,6 +58,6 @@ The staff disappears and the spell ends when all the staff's charges have been e
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the melee damage increases by `dice:1d10|noform|noparens|avg|text(1d10)` for every two slot levels above 4th, or you add one additional ranged bolt for every two slot levels above 4th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 108*

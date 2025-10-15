@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/3rd-level
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Conjuration
 level: 3
+ritual: false
+components: 'V, S, M (a shard of jasper)'
+verbal: true
+somatic: true
+material: true
+material_desc: a shard of jasper
+time: 1 Action
+duration: Instantaneous
+range: 100 feet
+aliases:
+  - Jeweled Fissure
 damage:
   base: 2d8
   scaling:
@@ -28,18 +39,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 100 feet
-somatic: true
-verbal: true
-material: a shard of jasper
 area:
   shape: line
   size: 30
-aliases:
-  - Jeweled Fissure
 ---
 # Jeweled Fissure
 *3rd-level, Conjuration*  
@@ -53,6 +55,6 @@ With a sweeping gesture, you cause jagged crystals to burst from the ground and 
 
 On a failed save, a creature is impaled by a chunk of crystal that halves the creature's speed, prevents it from flying, and causes it to fall to the ground if it was flying. To remove a crystal, the creature or an ally within 5 feet of it must use an action and make a DC 13 Strength check. On a successful check, the impaled creature takes `dice:1d8|noform|noparens|avg` (`1d8`) piercing damage and its speed and flying ability are restored to normal.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 87*

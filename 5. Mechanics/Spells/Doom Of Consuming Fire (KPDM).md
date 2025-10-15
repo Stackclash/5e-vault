@@ -3,25 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/2nd-level
   - spell/school/evocation
   - spell/subclass/arcane-trickster
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Wizard
 school: Evocation
 level: 2
+ritual: false
+components: 'V, S, M (a dead coal or a fistful of ashes)'
+verbal: true
+somatic: true
+material: true
+material_desc: a dead coal or a fistful of ashes
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Doom of Consuming Fire
 damage:
   base: 1d6
   scaling:
@@ -29,15 +40,6 @@ damage:
     level: 5
   types:
     - cold
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: true
-verbal: true
-material: a dead coal or a fistful of ashes
-aliases:
-  - Doom of Consuming Fire
 ---
 # Doom of Consuming Fire
 *2nd-level, Evocation*  
@@ -55,6 +57,6 @@ When you cast this spell using a 4th-level slot, the fire extends 15 feet from y
 
 When you cast this spell using a slot of 5th level or higher, the fire extends to 20 feet, you take `dice:1d12|noform|noparens|avg` (`1d12`) cold damage, and other creatures take `dice:1d20|noform|noparens|avg` (`1d20`) cold damage.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 62*

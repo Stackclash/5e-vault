@@ -4,7 +4,7 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/3rd-level
@@ -13,28 +13,30 @@ tags:
   - spell/subclass/eldritch-knight
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Wizard
 school: Enchantment
 level: 3
+ritual: false
+components: 'S, M (a pinch of sand)'
+verbal: false
+somatic: true
+material: true
+material_desc: a pinch of sand
+time: 1 Action
+duration: 10 minutes
+range: 30 feet
+aliases:
+  - Catnap
 damage:
   base: null
   scaling:
     damage: null
     level: 4
   types: []
-ritual: false
-time: 1 Action
-duration: 10 minutes
-range: 30 feet
-somatic: true
-verbal: false
-material: a pinch of sand
-aliases:
-  - Catnap
 ---
 # Catnap
 *3rd-level, Enchantment*  
@@ -48,6 +50,6 @@ You make a calming gesture, and up to three willing creatures of your choice tha
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional willing creature for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 151*

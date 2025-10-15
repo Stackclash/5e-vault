@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/ranger
   - spell/level/2nd-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Ranger
 school: Transmutation
 level: 2
+ritual: false
+components: 'V, S, M (four or more arrows or bolts)'
+verbal: true
+somatic: true
+material: true
+material_desc: four or more arrows or bolts
+time: 1 Action
+duration: 8 hours
+range: 5 feet
+aliases:
+  - Cordon of Arrows
 damage:
   base: 1d6
   scaling:
@@ -23,15 +34,6 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 8 hours
-range: 5 feet
-somatic: true
-verbal: true
-material: four or more arrows or bolts
-aliases:
-  - Cordon of Arrows
 ---
 # Cordon of Arrows
 *2nd-level, Transmutation*  
@@ -47,6 +49,6 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the amount of ammunition that can be affected increases by two for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Player's Handbook p. 228*

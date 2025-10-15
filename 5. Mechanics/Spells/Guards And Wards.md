@@ -3,24 +3,29 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Abjuration
 level: 6
 ritual: false
+components: >-
+  V, S, M (burning incense, a small measure of brimstone and oil, a knotted
+  string, a small amount of umber hulk blood, and a small silver rod worth at
+  least 10 gp)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  burning incense, a small measure of brimstone and oil, a knotted string, a
+  small amount of umber hulk blood, and a small silver rod worth at least 10 gp
 time: 10 minutes
 duration: 24 hours
 range: Touch
-somatic: true
-verbal: true
-material: >-
-  burning incense, a small measure of brimstone and oil, a knotted string, a
-  small amount of umber hulk blood, and a small silver rod worth at least 10 gp
 aliases:
   - Guards and Wards
 ---
@@ -66,6 +71,6 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

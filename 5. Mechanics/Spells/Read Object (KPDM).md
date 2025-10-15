@@ -16,11 +16,14 @@ classes:
 school: Divination
 level: 2
 ritual: true
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 minute
 duration: 'Concentration, up to 1 minute'
 range: Touch
-somatic: true
-verbal: true
 aliases:
   - Read Object
 ---

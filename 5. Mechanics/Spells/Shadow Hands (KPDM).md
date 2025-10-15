@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/1st-level
   - spell/school/evocation
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Rogue (Arcane Trickster)
   - Warlock
   - Wizard
 school: Evocation
 level: 1
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: Self (10-foot Cone)
+aliases:
+  - Shadow Hands
 damage:
   base: 2d4
   scaling:
@@ -27,17 +38,9 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self (10-foot Cone)
-somatic: true
-verbal: true
 area:
   shape: cone
   size: 10
-aliases:
-  - Shadow Hands
 ---
 # Shadow Hands
 *1st-level, Evocation*  
@@ -51,6 +54,6 @@ A freezing blast of shadow explodes out from you in a 10-foot cone. Any creature
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage dealt by the attack increases by `dice:2d4|noform|noparens|avg|text(2d4)` for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 251*

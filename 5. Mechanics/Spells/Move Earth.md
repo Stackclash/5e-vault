@@ -3,28 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 6
 ritual: false
+components: >-
+  V, S, M (an iron blade and a small bag containing a mixture of soils—clay,
+  loam, and sand)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  an iron blade and a small bag containing a mixture of soils—clay, loam, and
+  sand
 time: 1 Action
 duration: 'Concentration, up to 2 hours'
 range: 120 feet
-somatic: true
-verbal: true
-material: >-
-  an iron blade and a small bag containing a mixture of soils—clay, loam, and
-  sand
 aliases:
   - Move Earth
 ---
@@ -46,6 +50,6 @@ This spell can't manipulate natural stone or stone construction. Rocks and struc
 
 Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

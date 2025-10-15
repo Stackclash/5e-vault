@@ -3,22 +3,24 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Necromancy
 level: 8
 ritual: false
+components: 'V, S, M (a ruby worth 500 gp, which is consumed during the casting)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a ruby worth 500 gp, which is consumed during the casting'
 time: 1 Action
 duration: 1 hour
 range: 30 feet
-somatic: true
-verbal: true
-material: 'a ruby worth 500 gp, which is consumed during the casting'
 aliases:
   - Life Hack
 ---
@@ -34,6 +36,6 @@ Choose up to five creatures that you can see within range. Each of the creatures
 
 A creature can't draw temporary hit points from the pool while it has temporary hit points from any source, including a previous casting of this spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 166*

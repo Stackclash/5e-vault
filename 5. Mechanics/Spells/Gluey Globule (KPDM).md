@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/3rd-level
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Conjuration
 level: 3
+ritual: false
+components: 'V, S, M (a drop of glue)'
+verbal: true
+somatic: true
+material: true
+material_desc: a drop of glue
+time: 1 Action
+duration: '1 minute, up to 1 hour'
+range: 120 feet
+aliases:
+  - Gluey Globule
 damage:
   base: 2d6
   scaling:
@@ -28,15 +39,6 @@ saving_throw:
   skills:
     - Strength
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: '1 minute, up to 1 hour'
-range: 120 feet
-somatic: true
-verbal: true
-material: a drop of glue
-aliases:
-  - Gluey Globule
 ---
 # Gluey Globule
 *3rd-level, Conjuration*  
@@ -50,6 +52,6 @@ You make a ranged spell attack to hurl a large globule of sticky, magical glue a
 
 Alternatively, this spell can also be used to glue an object to a solid surface or to another object. In this case, the spell works like a single application of [[/5. Mechanics/Items/Sovereign Glue.md\|sovereign glue]] and lasts for 1 hour.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 166*

@@ -3,34 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/5th-level
   - spell/ritual
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Transmutation
 level: 5
+ritual: true
+components: 'V, S, M (a statuette of a keep worth 250 gp, which is consumed in the casting)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a statuette of a keep worth 250 gp, which is consumed in the casting'
+time: 1 Action
+duration: Until dispelled
+range: 60 feet
+aliases:
+  - Instant Fortification
 damage:
   base: null
   scaling:
     damage: null
     level: 6
   types: []
-ritual: true
-time: 1 Action
-duration: Until dispelled
-range: 60 feet
-somatic: true
-verbal: true
-material: 'a statuette of a keep worth 250 gp, which is consumed in the casting'
 area:
   shape: cube
   size: 10
-aliases:
-  - Instant Fortification
 ---
 # Instant Fortification
 *5th-level, Transmutation (ritual)*  
@@ -46,6 +48,6 @@ Each wall has two arrow slits. One wall also includes a metal door with an [[/5.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can increase the length or width of the fortification by 5 feet for each slot level above 5th. You can make a different choice (width or length) for each slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 85*

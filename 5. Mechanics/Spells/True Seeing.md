@@ -3,32 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/divination
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Sorcerer
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock
   - Wizard
 school: Divination
 level: 6
 ritual: false
+components: >-
+  V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom
+  powder, saffron, and fat; and is consumed by the spell)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  an ointment for the eyes that costs 25 gp; is made from mushroom powder,
+  saffron, and fat; and is consumed by the spell
 time: 1 Action
 duration: 1 hour
 range: Touch
-somatic: true
-verbal: true
-material: >-
-  an ointment for the eyes that costs 25 gp; is made from mushroom powder,
-  saffron, and fat; and is consumed by the spell
 aliases:
   - True Seeing
 ---
@@ -42,6 +46,6 @@ aliases:
 
 This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has [[/5. Mechanics/Rules/Senses.md#Truesight\|truesight]], notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

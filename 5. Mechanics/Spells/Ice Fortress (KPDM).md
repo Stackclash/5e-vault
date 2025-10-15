@@ -3,41 +3,45 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/conjuration
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/the-frozen-one
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Sorcerer
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock (The Frozen One)
   - Wizard
 school: Conjuration
 level: 5
+ritual: false
+components: >-
+  V, S, M (a miniature keep carved from ice or glass that is consumed in the
+  casting)
+verbal: true
+somatic: true
+material: true
+material_desc: a miniature keep carved from ice or glass that is consumed in the casting
+time: 1 minute
+duration: Until dispelled
+range: 60 feet
+aliases:
+  - Ice Fortress
 damage:
   base: null
   scaling:
     damage: null
     level: 6
   types: []
-ritual: false
-time: 1 minute
-duration: Until dispelled
-range: 60 feet
-somatic: true
-verbal: true
-material: a miniature keep carved from ice or glass that is consumed in the casting
 area:
   shape: cube
   size: 10
-aliases:
-  - Ice Fortress
 ---
 # Ice Fortress
 *5th-level, Conjuration*  
@@ -55,6 +59,6 @@ The fortress catches and reflects light, so that creatures outside the fortress 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can increase the length or width of the fortification by 5 feet for every slot level above 5th. You can make a different choice (width or length) for each slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Frozen One)](/compendium/lists/list-spells-classes-the-frozen-one-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Frozen One)](/compendium/lists/list-spells-classes-the-frozen-one-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 273*

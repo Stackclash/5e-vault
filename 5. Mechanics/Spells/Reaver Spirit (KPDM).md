@@ -3,33 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/ranger
   - spell/level/3rd-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Ranger
 school: Enchantment
 level: 3
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+aliases:
+  - Reaver Spirit
 damage:
   base: 1d4
   scaling:
     damage: null
     level: 4
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 30 feet
-somatic: true
-verbal: true
-aliases:
-  - Reaver Spirit
 ---
 # Reaver Spirit
 *3rd-level, Enchantment*  
@@ -45,6 +48,6 @@ When the spell ends, each affected creature must succeed on a Constitution savin
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the bonus to damage increases by 1 for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 102*

@@ -3,21 +3,24 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/level/3rd-level
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
 school: Abjuration
 level: 3
 ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
 time: 1 Action
 duration: 'Concentration, up to 1 minute'
 range: Self
-somatic: false
-verbal: true
 aliases:
   - Soothing Chant
 ---
@@ -35,6 +38,6 @@ On your turn, you can use a bonus action to designate up to six other creatures 
 
 The effects last for the duration or until you (or any other designated creatures) engage in hostile action against a [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature or in its presence. Any creature that you attack or target with a harmful spell, or that sees you attack or cast a harmful spell against another [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature, is no longer affected by this spell and can act normally against you (or against any creature you designated).
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]
 
 *Source: Deep Magic p. 107*

@@ -4,7 +4,7 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
@@ -17,7 +17,7 @@ tags:
   - spell/subclass/eldritch-knight
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Druid (Circle of the Grove)
   - Fighter (Eldritch Knight)
@@ -26,6 +26,17 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+ritual: false
+components: 'V, S, M (a pinch of powdered iron)'
+verbal: true
+somatic: true
+material: true
+material_desc: a pinch of powdered iron
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+aliases:
+  - Enlarge/Reduce
 damage:
   base: 1d4
   scaling:
@@ -36,15 +47,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 30 feet
-somatic: true
-verbal: true
-material: a pinch of powdered iron
-aliases:
-  - Enlarge/Reduce
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  
@@ -68,6 +70,6 @@ The target's size is halved in all dimensions, and its weight is reduced to one-
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of the Grove)](/compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Druid (Circle of the Grove)](/compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

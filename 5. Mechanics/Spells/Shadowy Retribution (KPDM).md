@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/warlock
@@ -12,28 +12,30 @@ tags:
   - spell/ritual
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Sorcerer
   - Warlock
   - Wizard
 school: Necromancy
 level: 4
+ritual: true
+components: 'V, S, M (a small silver cup filled with the caster''s blood)'
+verbal: true
+somatic: true
+material: true
+material_desc: a small silver cup filled with the caster's blood
+time: 10 minutes
+duration: 12 hours
+range: Self
+aliases:
+  - Shadowy Retribution
 damage:
   base: 1d4
   scaling:
     damage: null
     level: null
   types: []
-ritual: true
-time: 10 minutes
-duration: 12 hours
-range: Self
-somatic: true
-verbal: true
-material: a small silver cup filled with the caster's blood
-aliases:
-  - Shadowy Retribution
 ---
 # Shadowy Retribution
 *4th-level, Necromancy (ritual)*  
@@ -60,6 +62,6 @@ If you expend your ritual focus, the spell summons a [[/5. Mechanics/Bestiary/Un
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 213*

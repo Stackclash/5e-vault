@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/warlock
   - spell/class/wizard
@@ -13,7 +13,7 @@ tags:
   - spell/subclass/dragon-domain
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Dragon Domain)
   - Fighter (Eldritch Knight)
@@ -22,6 +22,17 @@ classes:
   - Wizard
 school: Transmutation
 level: 3
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Reaction
+duration: Instantaneous
+range: Self
+aliases:
+  - Catch the Breath
 damage:
   base: 3d10
   scaling:
@@ -29,14 +40,6 @@ damage:
     level: 4
   types:
     - force
-ritual: false
-time: 1 Reaction
-duration: Instantaneous
-range: Self
-somatic: false
-verbal: true
-aliases:
-  - Catch the Breath
 ---
 # Catch the Breath
 *3rd-level, Transmutation*  
@@ -52,6 +55,6 @@ Whether your saving throw succeeded or failed, you absorb and store energy from 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage done by your attack increases by `dice:1d10|noform|noparens|avg|text(1d10)` for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Dragon Domain)](/compendium/lists/list-spells-classes-dragon-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Dragon Domain)](/compendium/lists/list-spells-classes-dragon-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 198*

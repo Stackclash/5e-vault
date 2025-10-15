@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/ranger
   - spell/level/1st-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Ranger
 school: Conjuration
 level: 1
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Bonus Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Hail of Thorns
 damage:
   base: 1d10
   scaling:
@@ -23,14 +34,6 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: half damage
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: false
-verbal: true
-aliases:
-  - Hail of Thorns
 ---
 # Hail of Thorns
 *1st-level, Conjuration*  
@@ -44,6 +47,6 @@ The next time you hit a creature with a ranged weapon attack before the spell en
 
 **At Higher Levels.** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d10|noform|noparens|avg|text(1d10)` for each slot level above 1st (to a maximum of `dice:6d10|noform|noparens|avg` (`6d10`)).
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Player's Handbook p. 249*

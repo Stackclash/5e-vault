@@ -4,7 +4,7 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/paladin
   - spell/class/ranger
@@ -15,7 +15,7 @@ tags:
   - spell/subclass/the-hexblade
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Forge Domain)
   - Druid
   - Paladin
@@ -24,6 +24,17 @@ classes:
   - Warlock (The Hexblade)
 school: Transmutation
 level: 3
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: Touch
+aliases:
+  - Elemental Weapon
 damage:
   base: 1d4
   scaling:
@@ -35,14 +46,6 @@ damage:
     - fire
     - lightning
     - thunder
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: Touch
-somatic: true
-verbal: true
-aliases:
-  - Elemental Weapon
 ---
 # Elemental Weapon
 *3rd-level, Transmutation*  
@@ -56,6 +59,6 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to `dice:2d4|noform|noparens|avg|text(2d4)`. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to `dice:3d4|noform|noparens|avg|text(3d4)`.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Forge Domain)](/compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of Thunder)](/compendium/lists/list-spells-classes-oath-of-thunder-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Warlock (The Hexblade)](/compendium/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Forge Domain)](/compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of Thunder)](/compendium/lists/list-spells-classes-oath-of-thunder-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Warlock (The Hexblade)](/compendium/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 237*

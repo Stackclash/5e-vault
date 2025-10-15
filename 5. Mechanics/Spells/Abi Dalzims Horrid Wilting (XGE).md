@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Necromancy
 level: 8
+ritual: false
+components: 'V, S, M (a bit of sponge)'
+verbal: true
+somatic: true
+material: true
+material_desc: a bit of sponge
+time: 1 Action
+duration: Instantaneous
+range: 150 feet
+aliases:
+  - Abi-Dalzim's Horrid Wilting
 damage:
   base: 12d8
   scaling:
@@ -25,18 +36,9 @@ saving_throw:
   skills:
     - Constitution
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 150 feet
-somatic: true
-verbal: true
-material: a bit of sponge
 area:
   shape: cube
   size: 30
-aliases:
-  - Abi-Dalzim's Horrid Wilting
 ---
 # Abi-Dalzim's Horrid Wilting
 *8th-level, Necromancy*  
@@ -50,6 +52,6 @@ You draw the moisture from every creature in a 30-foot cube centered on a point 
 
 Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 150*

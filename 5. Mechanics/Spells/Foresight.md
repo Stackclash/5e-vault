@@ -3,26 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/divination
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Warlock
   - Wizard
 school: Divination
 level: 9
 ritual: false
+components: 'V, S, M (a hummingbird feather)'
+verbal: true
+somatic: true
+material: true
+material_desc: a hummingbird feather
 time: 1 minute
 duration: 8 hours
 range: Touch
-somatic: true
-verbal: true
-material: a hummingbird feather
 aliases:
   - Foresight
 ---
@@ -38,6 +40,6 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 This spell immediately ends if you cast it again before its duration ends.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 244. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

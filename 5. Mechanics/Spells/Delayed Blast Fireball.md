@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Evocation
 level: 7
+ritual: false
+components: 'V, S, M (a tiny ball of bat guano and sulfur)'
+verbal: true
+somatic: true
+material: true
+material_desc: a tiny ball of bat guano and sulfur
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 150 feet
+aliases:
+  - Delayed Blast Fireball
 damage:
   base: 12d6
   scaling:
@@ -25,18 +36,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 150 feet
-somatic: true
-verbal: true
-material: a tiny ball of bat guano and sulfur
 area:
   shape: sphere
   size: 20
-aliases:
-  - Delayed Blast Fireball
 ---
 # Delayed Blast Fireball
 *7th-level, Evocation*  
@@ -56,6 +58,6 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the base damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 7th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

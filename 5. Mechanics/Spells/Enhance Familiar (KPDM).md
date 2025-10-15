@@ -3,33 +3,35 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/2nd-level
   - spell/ritual
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Transmutation
 level: 2
+ritual: true
+components: 'V, S, M (a pinch of powdered iron)'
+verbal: true
+somatic: true
+material: true
+material_desc: a pinch of powdered iron
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: 30 feet
+aliases:
+  - Enhance Familiar
 damage:
   base: null
   scaling:
     damage: null
     level: 4
   types: []
-ritual: true
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: 30 feet
-somatic: true
-verbal: true
-material: a pinch of powdered iron
-aliases:
-  - Enhance Familiar
 ---
 # Enhance Familiar
 *2nd-level, Transmutation (ritual)*  
@@ -45,6 +47,6 @@ If your familiar drops to 0 hit points and disappears, or you dismiss your famil
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, its duration is 1 hour and does not require concentration. When you cast this spell using a spell slot of 6th level or higher, the duration increases to 24 hours.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 67*

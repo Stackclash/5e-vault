@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/sorcerer
@@ -16,7 +16,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Fighter (Eldritch Knight)
@@ -25,6 +25,17 @@ classes:
   - Wizard
 school: Evocation
 level: 0
+ritual: false
+components: 'V, S, M (a humanoid tooth)'
+verbal: true
+somatic: true
+material: true
+material_desc: a humanoid tooth
+time: 1 Action
+duration: 1 round
+range: 30 feet
+aliases:
+  - Shiver
 damage:
   base: 5d8
   scaling:
@@ -35,15 +46,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 round
-range: 30 feet
-somatic: true
-verbal: true
-material: a humanoid tooth
-aliases:
-  - Shiver
 ---
 # Shiver
 *cantrip, Evocation*  
@@ -57,6 +59,6 @@ You fill a humanoid creature with such cold that its teeth begin to chatter and 
 
 The maximum hit points you can affect increases by `dice:4d8|noform|noparens|avg` (`4d8`) when you reach 5th level (`dice:9d8|noform|noparens|avg` (`9d8`)), 11th level (`dice:13d8|noform|noparens|avg` (`13d8`)), and 17th level (`dice:17d8|noform|noparens|avg` (`17d8`)).
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 275*

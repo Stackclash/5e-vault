@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/level/3rd-level
   - spell/school/abjuration
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Abjuration
 level: 3
+ritual: false
+components: 'V, S, M (a seed encased in ice or glass)'
+verbal: true
+somatic: true
+material: true
+material_desc: a seed encased in ice or glass
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: Touch
+aliases:
+  - Protective Ice
 damage:
   base: 1d6
   scaling:
@@ -21,15 +32,6 @@ damage:
     level: 4
   types:
     - cold
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: Touch
-somatic: true
-verbal: true
-material: a seed encased in ice or glass
-aliases:
-  - Protective Ice
 ---
 # Protective Ice
 *3rd-level, Abjuration*  
@@ -47,6 +49,6 @@ If the armor's wearer takes fire damage, an equal amount of damage is done to th
 
 **At Higher Levels.** When you cast this spell using a 4th-level spell slot, it creates [[/5. Mechanics/Items/Splint Armor.md\|splint armor]] (AC 17, 40 hit points). If you cast this spell using a 5th-level spell slot, it creates [[/5. Mechanics/Items/Plate Armor.md\|plate armor]] (AC 18, 50 hit points). The armor's hit points increase by 10 for each spell slot above 5th, but the AC remains 18. Additionally, if you cast this spell using a spell slot of 4th level or higher, the armor deals an extra +2 cold damage for each spell slot above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Deep Magic p. 274*

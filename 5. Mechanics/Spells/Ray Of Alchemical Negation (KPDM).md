@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/4th-level
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Transmutation
 level: 4
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: 60 feet
+aliases:
+  - Ray of Alchemical Negation
 damage:
   base: 6d6
   scaling:
@@ -27,14 +38,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 60 feet
-somatic: true
-verbal: true
-aliases:
-  - Ray of Alchemical Negation
 ---
 # Ray of Alchemical Negation
 *4th-level, Transmutation*  
@@ -48,6 +51,6 @@ You launch a ray of blazing, polychromatic energy from your fingertips. Make a r
 
 This spell can also be used against a creature within range that is wholly or partially composed of acidic, poisonous, or alchemical components, such as an alchemical golem or an [[/5. Mechanics/Bestiary/Ooze/Ochre Jelly.md\|ochre jelly]]. In that case, a hit deals `dice:6d6|noform|noparens|avg` (`6d6`) force damage, and the target must make a successful Constitution saving throw or it deals only half as much damage with its acidic, poisonous, or alchemical attacks for 1 minute. A creature whose damage is halved can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 167*

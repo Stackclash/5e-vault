@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/warlock
@@ -11,28 +11,30 @@ tags:
   - spell/level/5th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Sorcerer
   - Warlock
   - Wizard
 school: Necromancy
 level: 5
+ritual: false
+components: 'V, S, M (a tupilak idol)'
+verbal: true
+somatic: true
+material: true
+material_desc: a tupilak idol
+time: 1 Action
+duration: 1 hour
+range: Self
+aliases:
+  - Grasp of the Tupilak
 damage:
   base: 2d4
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 Action
-duration: 1 hour
-range: Self
-somatic: true
-verbal: true
-material: a tupilak idol
-aliases:
-  - Grasp of the Tupilak
 ---
 # Grasp of the Tupilak
 *5th-level, Necromancy*  
@@ -50,6 +52,6 @@ If the target has no available spell slots of an appropriate level—for example
 
 Unused stolen spell slots disappear, returning whence they came, when you take a long rest or when the creature you stole them from receives the benefit of [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]], [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], or comparable magic.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 76*

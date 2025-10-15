@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -11,13 +11,24 @@ tags:
   - spell/school/evocation
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Warlock
   - Wizard
 school: Evocation
 level: 2
+ritual: false
+components: 'V, S, M (a feather from a black swan)'
+verbal: true
+somatic: true
+material: true
+material_desc: a feather from a black swan
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+aliases:
+  - Black Swan Storm
 damage:
   base: 2d8
   scaling:
@@ -29,18 +40,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 30 feet
-somatic: true
-verbal: true
-material: a feather from a black swan
 area:
   shape: cube
   size: 5
-aliases:
-  - Black Swan Storm
 ---
 # Black Swan Storm
 *2nd-level, Evocation*  
@@ -54,6 +56,6 @@ You call forth a whirlwind of black feathers that fills a 5-foot cube within ran
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the feathers deal an extra `dice:1d8|noform|noparens|avg|text(1d8)` force damage for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 43*

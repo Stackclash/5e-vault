@@ -3,33 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Sorcerer
   - Wizard
 school: Conjuration
 level: 5
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+aliases:
+  - Clockwork Bodyguard
 damage:
   base: null
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: 60 feet
-somatic: true
-verbal: true
-aliases:
-  - Clockwork Bodyguard
 ---
 # Clockwork Bodyguard
 *5th-level, Conjuration*  
@@ -49,6 +52,6 @@ The clockwork creatures are friendly to you and your companions for the duration
 
 **At Higher Levels.** When you cast this spell using certain higher-level spell slots, more creatures of your choice appear: twice as many with a 6th-level slot, three times as many with a 7th-level slot, and four times as many with an 8th-level slot.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 50*

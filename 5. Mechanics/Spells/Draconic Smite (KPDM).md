@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/paladin
   - spell/level/1st-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Paladin
 school: Evocation
 level: 1
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Bonus Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Draconic Smite
 damage:
   base: 1d6
   scaling:
@@ -21,14 +32,6 @@ damage:
     level: 2
   types:
     - cold
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: false
-verbal: true
-aliases:
-  - Draconic Smite
 ---
 # Draconic Smite
 *1st-level, Evocation*  
@@ -42,6 +45,6 @@ The next time you hit a creature with a melee weapon attack during the spell's d
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the extra cold damage and the cold damage dealt to the secondary creatures increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 200*

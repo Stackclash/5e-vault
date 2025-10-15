@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/level/2nd-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
 school: Transmutation
 level: 2
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 10 minutes'
+range: Self
+aliases:
+  - Aspect of the Ram
 damage:
   base: 1d6
   scaling:
@@ -25,14 +36,6 @@ saving_throw:
   skills:
     - Strength
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 10 minutes'
-range: Self
-somatic: true
-verbal: true
-aliases:
-  - Aspect of the Ram
 ---
 # Aspect of the Ram
 *2nd-level, Transmutation*  
@@ -48,6 +51,6 @@ If you move at least 20 feet straight toward a target and hit with a ram attack 
 
 You ignore difficult terrain caused by rubble, ice sheets, scree, or steep slopes. You also gain advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) checks made while climbing or jumping, and Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) checks made for balance or to stay on your feet.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 39*

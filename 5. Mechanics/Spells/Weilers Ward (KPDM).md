@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
@@ -20,6 +20,17 @@ classes:
   - Wizard
 school: Conjuration
 level: 2
+ritual: false
+components: 'V, S, M (a lock of hair from a fey creature)'
+verbal: true
+somatic: true
+material: true
+material_desc: a lock of hair from a fey creature
+time: 1 Bonus Action
+duration: 'Concentration, up to 1 hour'
+range: Self
+aliases:
+  - Weiler's Ward
 damage:
   base: 1d6
   scaling:
@@ -31,15 +42,6 @@ saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 1 hour'
-range: Self
-somatic: true
-verbal: true
-material: a lock of hair from a fey creature
-aliases:
-  - Weiler's Ward
 ---
 # Weiler's Ward
 *2nd-level, Conjuration*  
@@ -53,6 +55,6 @@ You create four small orbs of faerie magic that float around your head and give 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the number of orbs increases by one for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 120*

@@ -3,18 +3,33 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/level/6th-level
   - spell/ritual
   - spell/school/abjuration
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Abjuration
 level: 6
+ritual: true
+components: >-
+  V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at
+  least 1,000 gp)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  a sprinkling of holy water, rare incense, and powdered ruby worth at least
+  1,000 gp
+time: 10 minutes
+duration: 1 day
+range: Touch
+aliases:
+  - Forbiddance
 damage:
   base: 5d10
   scaling:
@@ -23,17 +38,6 @@ damage:
   types:
     - necrotic
     - radiant
-ritual: true
-time: 10 minutes
-duration: 1 day
-range: Touch
-somatic: true
-verbal: true
-material: >-
-  a sprinkling of holy water, rare incense, and powdered ruby worth at least
-  1,000 gp
-aliases:
-  - Forbiddance
 ---
 # Forbiddance
 *6th-level, Abjuration (ritual)*  
@@ -51,6 +55,6 @@ When you cast this spell, you can designate a password. A creature that speaks t
 
 The spell's area can't overlap with the area of another forbiddance spell. If you cast forbiddance every day for 30 days in the same location, the spell lasts until it is dispelled, and the material components are consumed on the last casting.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

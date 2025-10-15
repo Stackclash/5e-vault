@@ -3,31 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/level/2nd-level
   - spell/school/divination
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
 school: Divination
 level: 2
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Bonus Action
+duration: 'Concentration, up to 1 hour'
+range: 120 feet
+aliases:
+  - Mark Prey
 damage:
   base: null
   scaling:
     damage: null
     level: 5
   types: []
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 1 hour'
-range: 120 feet
-somatic: false
-verbal: true
-aliases:
-  - Mark Prey
 ---
 # Mark Prey
 *2nd-level, Divination*  
@@ -41,6 +44,6 @@ You choose a creature you can see within range as your prey. Until the spell end
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 93*

@@ -3,41 +3,43 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/transmutation
   - spell/subclass/circle-of-oaks
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Druid (Circle of Oaks)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Wizard
 school: Transmutation
 level: 8
+ritual: false
+components: 'V, S, M (burning incense and bits of earth and wood mixed in water)'
+verbal: true
+somatic: true
+material: true
+material_desc: burning incense and bits of earth and wood mixed in water
+time: 10 minutes
+duration: 'Concentration, up to 8 hours'
+range: Self (5-mile Radius)
+aliases:
+  - Control Weather
 damage:
   base: 1d4
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 10 minutes
-duration: 'Concentration, up to 8 hours'
-range: Self (5-mile Radius)
-somatic: true
-verbal: true
-material: burning incense and bits of earth and wood mixed in water
 area:
   shape: radius
   size: 5
-aliases:
-  - Control Weather
 ---
 # Control Weather
 *8th-level, Transmutation*  
@@ -87,6 +89,6 @@ When you change the weather conditions, find a current condition on the followin
 | 5 | Storm |
 ^wind
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Oaks)](/compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Druid (Circle of Oaks)](/compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 228. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

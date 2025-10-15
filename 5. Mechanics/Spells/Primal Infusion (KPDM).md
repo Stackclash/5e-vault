@@ -3,30 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/ranger
   - spell/level/5th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Ranger
 school: Transmutation
 level: 5
+ritual: false
+components: 'V, S, M (a bit of fur from a carnivorous animal)'
+verbal: true
+somatic: true
+material: true
+material_desc: a bit of fur from a carnivorous animal
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Primal Infusion
 damage:
   base: 1d10
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: true
-verbal: true
-material: a bit of fur from a carnivorous animal
-aliases:
-  - Primal Infusion
 ---
 # Primal Infusion
 *5th-level, Transmutation*  
@@ -44,6 +46,6 @@ You channel the fury of nature, drawing on its power. Until the spell ends, you 
 - You gain a +2 bonus to AC.  
 - You have proficiency on Constitution saving throws.  
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 100*

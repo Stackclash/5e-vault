@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Evocation
 level: 9
+ritual: false
+components: 'V, S, M (a metal ring)'
+verbal: true
+somatic: true
+material: true
+material_desc: a metal ring
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 1 miles
+aliases:
+  - Circle of Devastation
 damage:
   base: 6d6
   scaling:
@@ -31,18 +42,9 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 1 miles
-somatic: true
-verbal: true
-material: a metal ring
 area:
   shape: sphere
   size: 20
-aliases:
-  - Circle of Devastation
 ---
 # Circle of Devastation
 *9th-level, Evocation*  
@@ -56,6 +58,6 @@ You create a 10-foot-tall, 20-foot-radius cylinder of destructive energy around 
 
 The cylinder's radius expands by 20 feet at the start of each of your turns after the spell is cast. Any creatures or objects enveloped in the enlarged area are subject to its effects immediately.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 231*

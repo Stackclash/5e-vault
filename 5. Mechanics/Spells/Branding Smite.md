@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/paladin
   - spell/level/2nd-level
   - spell/school/evocation
@@ -13,12 +13,23 @@ tags:
   - spell/subrace/tiefling-zariel
 classes:
   - Artificer (Battle Smith)
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Chain Domain)
   - Paladin
   - Warlock (The Hexblade)
 school: Evocation
 level: 2
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Bonus Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Branding Smite
 damage:
   base: 2d6
   scaling:
@@ -26,17 +37,9 @@ damage:
     level: 3
   types:
     - radiant
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: false
-verbal: true
 area:
   shape: sphere
   size: 5
-aliases:
-  - Branding Smite
 ---
 # Branding Smite
 *2nd-level, Evocation*  
@@ -50,6 +53,6 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 2nd.
 
-**Classes**: [Artificer (Battle Smith)](/compendium/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Chain Domain)](/compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Warlock (The Hexblade)](/compendium/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE")
+**Classes**: [Artificer (Battle Smith)](/compendium/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Chain Domain)](/compendium/lists/list-spells-classes-chain-domain-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [Warlock (The Hexblade)](/compendium/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 219. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

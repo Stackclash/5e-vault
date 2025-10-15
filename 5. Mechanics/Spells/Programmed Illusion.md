@@ -3,27 +3,29 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/illusion
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Illusion
 level: 6
 ritual: false
+components: 'V, S, M (a bit of fleece and jade dust worth at least 25 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: a bit of fleece and jade dust worth at least 25 gp
 time: 1 Action
 duration: Until dispelled
 range: 120 feet
-somatic: true
-verbal: true
-material: a bit of fleece and jade dust worth at least 25 gp
+aliases:
+  - Programmed Illusion
 area:
   shape: cube
   size: 30
-aliases:
-  - Programmed Illusion
 ---
 # Programmed Illusion
 *6th-level, Illusion*  
@@ -41,6 +43,6 @@ The triggering condition can be as general or as detailed as you like, though it
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

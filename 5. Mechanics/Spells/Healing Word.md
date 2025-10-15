@@ -3,38 +3,41 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/druid-spells
   - spell/level/1st-level
   - spell/school/evocation
   - spell/subclass/alchemist
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/the-valiant
 classes:
   - Artificer (Alchemist)
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock (The Valiant)
 school: Evocation
 level: 1
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Bonus Action
+duration: Instantaneous
+range: 60 feet
+aliases:
+  - Healing Word
 damage:
   base: 1d4
   scaling:
     damage: 1d4
     level: 2
   types: []
-ritual: false
-time: 1 Bonus Action
-duration: Instantaneous
-range: 60 feet
-somatic: false
-verbal: true
-aliases:
-  - Healing Word
 ---
 # Healing Word
 *1st-level, Evocation*  
@@ -48,8 +51,6 @@ A creature of your choice that you can see within range regains hit points equal
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by `dice:1d4|noform|noparens|avg|text(1d4)` for each slot level above 1st.
 
-**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Valiant)](/compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [Artificer (Alchemist)](/compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Valiant)](/compendium/lists/list-spells-classes-the-valiant-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

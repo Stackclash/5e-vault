@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -11,19 +11,21 @@ tags:
   - spell/ritual
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Conjuration
 level: 5
 ritual: true
+components: 'V, S, M (a piece of black chalk)'
+verbal: true
+somatic: true
+material: true
+material_desc: a piece of black chalk
 time: 10 minutes
 duration: 'Concentration, up to 1 minute'
 range: 30 feet
-somatic: true
-verbal: true
-material: a piece of black chalk
 aliases:
   - Shadow Gateway
 ---
@@ -37,6 +39,6 @@ aliases:
 
 By drawing a circle of black chalk up to 15 feet in diameter and chanting for one minute during the casting time, you open a portal directly into the Plane of Shadow. The portal fills the chalk circle and appears as a vortex of inky blackness; nothing can be seen through it. Any object or creature that passes through the portal instantly arrives safely at the destination. The portal remains open for 1 minute or until you stop concentrating on the spell, and it can be used to travel between the Plane of Shadow and the chalk circle, in both directions, as many times as desired during the spell's duration.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 250*

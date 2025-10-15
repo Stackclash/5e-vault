@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/level/4th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
 school: Transmutation
 level: 4
+ritual: false
+components: 'V, S, M (a handful of snow)'
+verbal: true
+somatic: true
+material: true
+material_desc: a handful of snow
+time: 1 Action
+duration: 'Concentration, up to 4 rounds'
+range: 90 feet
+aliases:
+  - Snow Boulder
 damage:
   base: 1d6
   scaling:
@@ -25,15 +36,6 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 4 rounds'
-range: 90 feet
-somatic: true
-verbal: true
-material: a handful of snow
-aliases:
-  - Snow Boulder
 ---
 # Snow Boulder
 *4th-level, Transmutation*  
@@ -53,6 +55,6 @@ A ball of snow forms 5 feet away from you and rolls in the direction you point a
 | 4 | Huge | `dice:6d6\|noform\|noparens\|avg` (`6d6`) bludgeoning |
 ^round-size-damage
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 275*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/class/sorcerer
@@ -14,7 +14,7 @@ tags:
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
   - Rogue (Arcane Trickster)
@@ -22,21 +22,23 @@ classes:
   - Wizard
 school: Conjuration
 level: 1
+ritual: true
+components: 'V, S, M (a clump of mud)'
+verbal: true
+somatic: true
+material: true
+material_desc: a clump of mud
+time: 1 Action
+duration: 1 hour
+range: Touch
+aliases:
+  - Mud Pack
 damage:
   base: null
   scaling:
     damage: null
     level: 3
   types: []
-ritual: true
-time: 1 Action
-duration: 1 hour
-range: Touch
-somatic: true
-verbal: true
-material: a clump of mud
-aliases:
-  - Mud Pack
 ---
 # Mud Pack
 *1st-level, Conjuration (ritual)*  
@@ -52,6 +54,6 @@ If the target is subject to heavy precipitation for 1 minute, the precipitation 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the duration is 8 hours and you can target up to ten willing creatures within 30 feet of you.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 95*

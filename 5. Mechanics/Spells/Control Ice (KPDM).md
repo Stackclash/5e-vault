@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 5
+ritual: false
+components: 'V, S, M (a cube of white wax)'
+verbal: true
+somatic: true
+material: true
+material_desc: a cube of white wax
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 300 feet
+aliases:
+  - Control Ice
 damage:
   base: 4d10
   scaling:
@@ -27,18 +38,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 300 feet
-somatic: true
-verbal: true
-material: a cube of white wax
 area:
   shape: cube
   size: 20
-aliases:
-  - Control Ice
 ---
 # Control Ice
 *5th-level, Transmutation*  
@@ -56,6 +58,6 @@ Until the spell ends, you control any ice inside an area you choose within range
 
 **Thicken/Thin.** You cause existing ice to increase or decrease in thickness, up to 1 inch per round over some or all of the total area, either making the surface stronger or creating thin ice that is hazardous to walk on.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 269*

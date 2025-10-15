@@ -3,38 +3,42 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/level/5th-level
   - spell/school/evocation
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/gravetender
   - spell/subclass/oath-of-the-annihilator
   - spell/subclass/oath-of-the-watchtower
   - spell/subclass/the-fiend
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin (Oath of the Annihilator)
   - Paladin (Oath of the Watchtower)
   - Ranger (Gravetender)
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock (The Fiend)
 school: Evocation
 level: 5
+ritual: false
+components: >-
+  V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell
+  consumes)
+verbal: true
+somatic: true
+material: true
+material_desc: 'herbs, oils, and incense worth at least 1,000 gp, which the spell consumes'
+time: 24 hours
+duration: Until dispelled
+range: Touch
+aliases:
+  - Hallow
 saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: false
-time: 24 hours
-duration: Until dispelled
-range: Touch
-somatic: true
-verbal: true
-material: 'herbs, oils, and incense worth at least 1,000 gp, which the spell consumes'
-aliases:
-  - Hallow
 ---
 # Hallow
 *5th-level, Evocation*  
@@ -92,6 +96,6 @@ Affected creatures can communicate with any other creature in the area, even if 
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Ranger (Gravetender)](/compendium/lists/list-spells-classes-gravetender-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Paladin (Oath of the Annihilator)](/compendium/lists/list-spells-classes-oath-of-the-annihilator-kpdm.md "subclass=KPDM"); [Paladin (Oath of the Watchtower)](/compendium/lists/list-spells-classes-oath-of-the-watchtower-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Ranger (Gravetender)](/compendium/lists/list-spells-classes-gravetender-griffonssaddlebag4.md "subclass=GriffonsSaddlebag4"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]
 
 *Source: Player's Handbook p. 249. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

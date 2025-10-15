@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/paladin
   - spell/level/2nd-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Paladin
 school: Conjuration
 level: 2
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Bonus Action
+duration: 'Concentration, up to 10 minutes'
+range: Self
+aliases:
+  - Champion's Weapon
 damage:
   base: null
   scaling:
@@ -19,17 +30,9 @@ damage:
     level: 3
   types:
     - force
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 10 minutes'
-range: Self
-somatic: true
-verbal: true
 area:
   shape: sphere
   size: 10
-aliases:
-  - Champion's Weapon
 ---
 # Champion's Weapon
 *2nd-level, Conjuration*  
@@ -43,6 +46,6 @@ A spectral version of a melee weapon of your choice materializes in your hand. I
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the weapon deals an extra `dice:1d8|noform|noparens|avg|text(1d8)` force damage for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 48*

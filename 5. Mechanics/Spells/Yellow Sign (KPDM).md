@@ -3,13 +3,24 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/level/4th-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Enchantment
 level: 4
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Special
+range: 30 feet
+aliases:
+  - Yellow Sign
 damage:
   base: 1d10
   scaling:
@@ -20,14 +31,6 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Special
-range: 30 feet
-somatic: true
-verbal: true
-aliases:
-  - Yellow Sign
 ---
 # Yellow Sign
 *4th-level, Enchantment*  
@@ -41,6 +44,6 @@ You attempt to afflict a humanoid you can see within range with memories of dist
 
 A successful [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell ends both effects.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Deep Magic p. 342*

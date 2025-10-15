@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/justice-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Justice Domain)
   - Paladin
@@ -20,6 +20,17 @@ classes:
   - Wizard
 school: Evocation
 level: 3
+ritual: false
+components: 'V, S, M (a rebuke of evil, written in Celestial)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a rebuke of evil, written in Celestial'
+time: 1 Bonus Action
+duration: 'Concentration, up to 10 minutes'
+range: Self
+aliases:
+  - Blade of Wrath
 damage:
   base: 2d8
   scaling:
@@ -32,18 +43,9 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Bonus Action
-duration: 'Concentration, up to 10 minutes'
-range: Self
-somatic: true
-verbal: true
-material: 'a rebuke of evil, written in Celestial'
 area:
   shape: sphere
   size: 20
-aliases:
-  - Blade of Wrath
 ---
 # Blade of Wrath
 *3rd-level, Evocation*  
@@ -61,6 +63,6 @@ The blade sheds bright light in a 20-foot radius and dim light for an additional
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, either the fire damage or the radiant damage (your choice) increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Justice Domain)](/compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Justice Domain)](/compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 175*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
@@ -20,6 +20,17 @@ classes:
   - Wizard
 school: Illusion
 level: 3
+ritual: false
+components: 'V, S, M (a piece of dragon egg shell)'
+verbal: true
+somatic: true
+material: true
+material_desc: a piece of dragon egg shell
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: Touch
+aliases:
+  - Phantom Dragon
 damage:
   base: null
   scaling:
@@ -30,15 +41,6 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: Touch
-somatic: true
-verbal: true
-material: a piece of dragon egg shell
-aliases:
-  - Phantom Dragon
 ---
 # Phantom Dragon
 *3rd-level, Illusion*  
@@ -52,6 +54,6 @@ You tap your dragon magic to make an ally appear as a draconic beast. The target
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, increase the number of targets the illusion can affect by one for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 203*

@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Warlock
   - Wizard
 school: Enchantment
 level: 8
+ritual: false
+components: 'V, S, M (a handful of clay, crystal, glass, or mineral spheres)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a handful of clay, crystal, glass, or mineral spheres'
+time: 1 Action
+duration: Instantaneous
+range: 150 feet
+aliases:
+  - Feeblemind
 damage:
   base: 4d6
   scaling:
@@ -27,15 +38,6 @@ saving_throw:
   skills:
     - Intelligence
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 150 feet
-somatic: true
-verbal: true
-material: 'a handful of clay, crystal, glass, or mineral spheres'
-aliases:
-  - Feeblemind
 ---
 # Feeblemind
 *8th-level, Enchantment*  
@@ -53,6 +55,6 @@ At the end of every 30 days, the creature can repeat its saving throw against th
 
 The spell can also be ended by [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], [[/5. Mechanics/Spells/He(AL).md\|heal]], or [[/5. Mechanics/Spells/Wish.md\|wish]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 239. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

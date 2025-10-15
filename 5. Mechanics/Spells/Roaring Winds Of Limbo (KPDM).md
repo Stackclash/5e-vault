@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Conjuration
 level: 8
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 150 feet
+aliases:
+  - Roaring Winds of Limbo
 damage:
   base: 2d10
   scaling:
@@ -28,17 +39,9 @@ saving_throw:
     - Strength
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 150 feet
-somatic: true
-verbal: true
 area:
   shape: cube
   size: 10
-aliases:
-  - Roaring Winds of Limbo
 ---
 # Roaring Winds of Limbo
 *8th-level, Conjuration*  
@@ -54,6 +57,6 @@ Each creature in the area must make a Strength saving throw at the start of its 
 
 As a bonus action on each of your turns, you can bombard up to twelve creatures in the area with flying debris, dealing `dice:2d10|noform|noparens|avg` (`2d10`) bludgeoning, `dice:2d10|noform|noparens|avg` (`2d10`) piercing, and `dice:2d10|noform|noparens|avg` (`2d10`) slashing damage. A creature that makes a successful Dexterity saving throw takes half the damage.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 186*

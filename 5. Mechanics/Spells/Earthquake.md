@@ -3,21 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/sorcerer
   - spell/level/8th-level
   - spell/school/evocation
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Sorcerer
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Evocation
 level: 8
+ritual: false
+components: 'V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a pinch of dirt, a piece of rock, and a lump of clay'
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 500 feet
+aliases:
+  - Earthquake
 damage:
   base: 1d6
   scaling:
@@ -30,18 +41,9 @@ saving_throw:
     - Constitution
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 500 feet
-somatic: true
-verbal: true
-material: 'a pinch of dirt, a piece of rock, and a lump of clay'
 area:
   shape: sphere
   size: 100
-aliases:
-  - Earthquake
 ---
 # Earthquake
 *8th-level, Evocation*  
@@ -71,6 +73,6 @@ The tremor deals 50 bludgeoning damage to any structure in contact with the grou
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

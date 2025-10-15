@@ -3,29 +3,31 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/9th-level
   - spell/school/abjuration
   - spell/subclass/circle-of-oaks
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Druid (Circle of Oaks)
 school: Abjuration
 level: 9
 ritual: false
+components: 'V, S, M (a bowl of fresh rainwater and a tree branch)'
+verbal: true
+somatic: true
+material: true
+material_desc: a bowl of fresh rainwater and a tree branch
 time: 1 minute
 duration: 24 hours
 range: 300 feet
-somatic: true
-verbal: true
-material: a bowl of fresh rainwater and a tree branch
+aliases:
+  - Forest Sanctuary
 area:
   shape: cube
   size: 200
-aliases:
-  - Forest Sanctuary
 ---
 # Forest Sanctuary
 *9th-level, Abjuration*  
@@ -39,6 +41,6 @@ While in a forest, you create a protective, 200-foot cube centered on a point yo
 
 You can create a permanently protected area by casting this spell at the same location every day for one year.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of Oaks)](/compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Druid (Circle of Oaks)](/compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 72*

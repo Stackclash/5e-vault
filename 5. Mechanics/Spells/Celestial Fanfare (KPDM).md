@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Wizard
 school: Evocation
 level: 6
+ritual: false
+components: 'V, S, M (a miniature trumpet worth 100 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: a miniature trumpet worth 100 gp
+time: 1 Action
+duration: Instantaneous
+range: 100 feet
+aliases:
+  - Celestial Fanfare
 damage:
   base: 4d6
   scaling:
@@ -26,18 +37,9 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 100 feet
-somatic: true
-verbal: true
-material: a miniature trumpet worth 100 gp
 area:
   shape: sphere
   size: 30
-aliases:
-  - Celestial Fanfare
 ---
 # Celestial Fanfare
 *6th-level, Evocation*  
@@ -53,6 +55,6 @@ Neutral or unaligned creatures within the area take half as much damage and are 
 
 Good-aligned creatures are not harmed by this spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 176*

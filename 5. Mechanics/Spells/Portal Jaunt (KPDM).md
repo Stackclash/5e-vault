@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/3rd-level
@@ -12,28 +12,30 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Wizard
 school: Conjuration
 level: 3
+ritual: true
+components: 'V, S, M (a small brass key)'
+verbal: true
+somatic: true
+material: true
+material_desc: a small brass key
+time: 1 Action
+duration: 1 round
+range: 300 feet
+aliases:
+  - Portal Jaunt
 damage:
   base: null
   scaling:
     damage: null
     level: 4
   types: []
-ritual: true
-time: 1 Action
-duration: 1 round
-range: 300 feet
-somatic: true
-verbal: true
-material: a small brass key
-aliases:
-  - Portal Jaunt
 ---
 # Portal Jaunt
 *3rd-level, Conjuration (ritual)*  
@@ -51,6 +53,6 @@ For the purpose of this spell, any locks, bars, or magical effects such as [[/5.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the range increases by 100 feet and the duration increases by 1 round for each slot level above 3rd. Each round added to the duration allows one additional creature to move through the portal before the spell ends.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 99*

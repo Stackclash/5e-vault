@@ -3,26 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/illusion
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Illusion
 level: 7
 ritual: false
-time: 12 hours
-duration: Until dispelled
-range: Touch
-somatic: true
+components: >-
+  V, S, M (snow or ice in quantities sufficient to make a life-size copy of the
+  duplicated creature; some hair, fingernail clippings, or other piece of that
+  creature's body placed inside the snow or ice; and powdered ruby worth 1,500
+  gp, sprinkled over the duplicate and consumed by the spell)
 verbal: true
-material: >-
+somatic: true
+material: true
+material_desc: >-
   snow or ice in quantities sufficient to make a life-size copy of the
   duplicated creature; some hair, fingernail clippings, or other piece of that
   creature's body placed inside the snow or ice; and powdered ruby worth 1,500
   gp, sprinkled over the duplicate and consumed by the spell
+time: 12 hours
+duration: Until dispelled
+range: Touch
 aliases:
   - Simulacrum
 ---
@@ -42,6 +48,6 @@ If the simulacrum is damaged, you can repair it in an alchemical laboratory, usi
 
 If you cast this spell again, any currently active duplicates you created with this spell are instantly destroyed.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 276. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

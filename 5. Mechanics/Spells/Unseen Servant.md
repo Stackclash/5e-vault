@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
-  - spell/feat/magic-initiate
-  - spell/feat/ritual-caster
+  - spell/feat/magic-initiate/wizard-spells
+  - spell/feat/ritual-caster/wizard-spells
   - spell/level/1st-level
   - spell/optfeature/book-of-ancient-secrets
   - spell/ritual
@@ -16,7 +16,7 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/wealth-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Wealth Domain)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
@@ -25,12 +25,14 @@ classes:
 school: Conjuration
 level: 1
 ritual: true
+components: 'V, S, M (a piece of string and a bit of wood)'
+verbal: true
+somatic: true
+material: true
+material_desc: a piece of string and a bit of wood
 time: 1 Action
 duration: 1 hour
 range: 60 feet
-somatic: true
-verbal: true
-material: a piece of string and a bit of wood
 aliases:
   - Unseen Servant
 ---
@@ -48,8 +50,6 @@ Once on each of your turns as a bonus action, you can mentally command the serva
 
 If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Wealth Domain)](/compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Ritual Caster.md\|Ritual Caster]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Wealth Domain)](/compendium/lists/list-spells-classes-wealth-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

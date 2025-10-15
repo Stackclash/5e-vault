@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/hhhvii
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/5th-level
@@ -11,7 +11,7 @@ tags:
   - spell/subclass/harvester-domain
   - spell/subclass/oath-of-legacy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Harvester Domain)
   - Paladin (Oath of Legacy)
   - Warlock
@@ -19,12 +19,16 @@ classes:
 school: Conjuration
 level: 5
 ritual: false
+components: >-
+  V, S, M (the intact heart of the creature you wish to conjure, which the spell
+  consumes)
+verbal: true
+somatic: true
+material: true
+material_desc: 'the intact heart of the creature you wish to conjure, which the spell consumes'
 time: 1 Action
 duration: Instantaneous
 range: 30 feet
-somatic: true
-verbal: true
-material: 'the intact heart of the creature you wish to conjure, which the spell consumes'
 aliases:
   - Conjure Creature
 ---
@@ -42,6 +46,6 @@ The conjured creature immediately performs one action of your choice from its st
 
 A creature's heart may be harvested with a DC 10 "harvesting check" unless otherwise stated in its harvesting table.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Harvester Domain)](/compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Harvester Domain)](/compendium/lists/list-spells-classes-harvester-domain-hhhviii.md "subclass=HHHVIII"); [Paladin (Oath of Legacy)](/compendium/lists/list-spells-classes-oath-of-legacy-hhhviii.md "subclass=HHHVIII"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 69*

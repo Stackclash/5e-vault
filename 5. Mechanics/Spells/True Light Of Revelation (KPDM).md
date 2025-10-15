@@ -3,30 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/level/4th-level
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
 school: Abjuration
 level: 4
+ritual: false
+components: 'V, S, M (a small piece of phosphorous)'
+verbal: true
+somatic: true
+material: true
+material_desc: a small piece of phosphorous
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 30 feet
+aliases:
+  - True Light of Revelation
 saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 30 feet
-somatic: true
-verbal: true
-material: a small piece of phosphorous
-aliases:
-  - True Light of Revelation
 ---
 # True Light of Revelation
 *4th-level, Abjuration*  
@@ -40,6 +42,6 @@ A golden radiance spreads out from you, providing bright light up to 30 feet awa
 
 When a creature that has taken a different form—through spells such as [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] or [[/5. Mechanics/Spells/Shapechange.md\|shapechange]], or from inborn abilities, such as a druid's [wild shape](/compendium/classes/druid.md#Wild%20Shape%20(Level%202)) feature—enters the bright light, it must succeed on a Constitution saving throw or be forced to return to its original form. Likewise, a creature attempting to change shape within the bright light must succeed on a Constitution saving throw in order to do so.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 117*

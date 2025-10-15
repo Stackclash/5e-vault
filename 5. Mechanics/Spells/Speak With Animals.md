@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/feat/fey-touched
-  - spell/feat/magic-initiate
-  - spell/feat/ritual-caster
+  - spell/feat/magic-initiate/druid-spells
+  - spell/feat/ritual-caster/druid-spells
   - spell/level/1st-level
   - spell/optfeature/beast-speech
   - spell/optfeature/book-of-ancient-secrets
@@ -22,7 +22,7 @@ tags:
   - spell/subclass/path-of-the-totem-warrior
 classes:
   - Barbarian (Path of the Totem Warrior)
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Cat Domain)
   - Cleric (Nature Domain)
   - Cleric (Ocean Domain)
@@ -33,11 +33,14 @@ classes:
 school: Divination
 level: 1
 ritual: true
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 Action
 duration: 10 minutes
 range: Self
-somatic: true
-verbal: true
 aliases:
   - Speak with Animals
 ---
@@ -51,8 +54,6 @@ aliases:
 
 You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Path Of The Totem Warrior.md\|Barbarian (Path of the Totem Warrior)]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [Cleric (Ocean Domain)](/compendium/lists/list-spells-classes-ocean-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Ritual Caster.md\|Ritual Caster]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Path Of The Totem Warrior.md\|Barbarian (Path of the Totem Warrior)]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Cat Domain)](/compendium/lists/list-spells-classes-cat-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [Cleric (Ocean Domain)](/compendium/lists/list-spells-classes-ocean-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of The Ancients.md\|Paladin (Oath of the Ancients)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -3,29 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Conjuration
 level: 7
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: 90 feet
+aliases:
+  - Conjure Voidborn
 damage:
   base: 2d6
   scaling:
     damage: null
     level: 8
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: 90 feet
-somatic: true
-verbal: true
-aliases:
-  - Conjure Voidborn
 ---
 # Conjure Voidborn
 *7th-level, Conjuration*  
@@ -43,6 +46,6 @@ If your concentration is broken, the spell ends but the creature doesn't disappe
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the challenge rating increases by 1 for each slot level above 7th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 331*

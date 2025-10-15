@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
@@ -11,26 +11,28 @@ tags:
   - spell/school/enchantment
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Wizard
 school: Enchantment
 level: 2
+ritual: false
+components: 'V, S, M (a used leash or similar object)'
+verbal: true
+somatic: true
+material: true
+material_desc: a used leash or similar object
+time: 1 Action
+duration: Instantaneous
+range: 30 feet
+aliases:
+  - Snap the Leash
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 30 feet
-somatic: true
-verbal: true
-material: a used leash or similar object
-aliases:
-  - Snap the Leash
 ---
 # Snap the Leash
 *2nd-level, Enchantment*  
@@ -44,6 +46,6 @@ Choose a beast that you can see within range. If the beast's Intelligence is 4 o
 
 This spell is only partly effective against animal companions, familiars, and paladin mounts. Although the spell removes any tricks such creatures know, the bond between creature and master is otherwise unaffected.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 107*

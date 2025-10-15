@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/3rd-level
   - spell/school/illusion
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Wizard
 school: Illusion
 level: 3
+ritual: false
+components: 'V, S, M (a needle and a mirror)'
+verbal: true
+somatic: true
+material: true
+material_desc: a needle and a mirror
+time: 1 Action
+duration: 24 hours
+range: Touch
+aliases:
+  - Illusory Trap
 damage:
   base: 1d10
   scaling:
@@ -27,15 +38,6 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 24 hours
-range: Touch
-somatic: true
-verbal: true
-material: a needle and a mirror
-aliases:
-  - Illusory Trap
 ---
 # Illusory Trap
 *3rd-level, Illusion*  
@@ -49,6 +51,6 @@ You create the illusion of a trap upon an object you touch, such as a door, a ch
 
 On a failed save, the creature believes the object contains a trap. If the creature then tries to disarm or otherwise interact with the trap in order to set it off, it must make a Dexterity check against your spell save DC. On a successful check, the creature takes `dice:1d10|noform|noparens|avg` (`1d10`) psychic damage and realizes the trap is not real. On a failed check, the creature takes `dice:5d10|noform|noparens|avg` (`5d10`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] for 1 round, believing that it accidentally set off the trap and was injured by it.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 84*

@@ -3,31 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/ranger
   - spell/class/warlock
   - spell/level/2nd-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Ranger
   - Warlock
 school: Evocation
 level: 2
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 1 round
+range: 100 feet
+aliases:
+  - Grudge Match
 damage:
   base: null
   scaling:
     damage: null
     level: 3
   types: []
-ritual: false
-time: 1 Action
-duration: 1 round
-range: 100 feet
-somatic: true
-verbal: true
-aliases:
-  - Grudge Match
 ---
 # Grudge Match
 *2nd-level, Evocation*  
@@ -41,6 +44,6 @@ This spell affects any creatures you designate within range, as long as the grou
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the duration increases by 1 round for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 77*

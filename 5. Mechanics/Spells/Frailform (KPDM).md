@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Warlock
   - Wizard
 school: Enchantment
 level: 8
+ritual: false
+components: 'V, S, M (a mummified heart encased in amber, worth at least 1,500 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a mummified heart encased in amber, worth at least 1,500 gp'
+time: 1 Action
+duration: Instantaneous
+range: 120 feet
+aliases:
+  - Frailform
 damage:
   base: 4d6
   scaling:
@@ -27,15 +38,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 120 feet
-somatic: true
-verbal: true
-material: 'a mummified heart encased in amber, worth at least 1,500 gp'
-aliases:
-  - Frailform
 ---
 # Frailform
 *8th-level, Enchantment*  
@@ -49,6 +51,6 @@ You blast a creature within range with a beam of pure, entropic energy that ages
 
 An affected creature can repeat the saving throw after it finishes a long rest, ending the effect on a success. The effect can also be ended by [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]], [[/5. Mechanics/Spells/Wish.md\|wish]], or comparable magic.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 310*

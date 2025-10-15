@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/warlock
   - spell/level/4th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Warlock
 school: Necromancy
 level: 4
+ritual: false
+components: 'V, S, M (a ringed lock of hair from an undead creature)'
+verbal: true
+somatic: true
+material: true
+material_desc: a ringed lock of hair from an undead creature
+time: 1 Action
+duration: Instantaneous
+range: Self (15-foot Cone)
+aliases:
+  - Keening Wail
 damage:
   base: 6d6
   scaling:
@@ -25,18 +36,9 @@ saving_throw:
   skills:
     - Constitution
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self (15-foot Cone)
-somatic: true
-verbal: true
-material: a ringed lock of hair from an undead creature
 area:
   shape: cone
   size: 15
-aliases:
-  - Keening Wail
 ---
 # Keening Wail
 *4th-level, Necromancy*  
@@ -50,6 +52,6 @@ You emit an unholy shriek from beyond the grave. Each creature in a 15-foot cone
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 4th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 87*

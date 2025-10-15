@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/level/6th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Sorcerer
 school: Transmutation
 level: 6
+ritual: false
+components: 'V, S, M (a lit candle and the tail feather of a bird)'
+verbal: true
+somatic: true
+material: true
+material_desc: a lit candle and the tail feather of a bird
+time: 1 Action
+duration: 'Concentration, up to 8 hours'
+range: Self
+aliases:
+  - Aspect of the Firebird
 damage:
   base: 6d6
   scaling:
@@ -25,15 +36,6 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 8 hours'
-range: Self
-somatic: true
-verbal: true
-material: a lit candle and the tail feather of a bird
-aliases:
-  - Aspect of the Firebird
 ---
 # Aspect of the Firebird
 *6th-level, Transmutation*  
@@ -47,6 +49,6 @@ You take on the aspect of a firebird (Tome of Beasts, p. 201), including some ph
 
 As an action, you can emit a blast of light 5 feet wide and 50 feet long. All creatures in its path take `dice:6d6|noform|noparens|avg` (`6d6`) fire damage and are [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] for `dice:1d4|noform|noparens|avg` (`1d4`) rounds. A successful Dexterity saving throw reduces the damage by half and negates the blindness. Each time you use this feature of the spell, its duration is reduced by 1 hour. When you expend the last hour of the duration, the spell ends at the start of your next turn.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Deep Magic p. 39*

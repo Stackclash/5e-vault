@@ -3,21 +3,23 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/level/5th-level
   - spell/ritual
   - spell/school/divination
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Divination
 level: 5
 ritual: true
+components: 'V, S, M (corvid entrails, a dried opium poppy, and a glass dagger)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'corvid entrails, a dried opium poppy, and a glass dagger'
 time: 1 minute
 duration: 1 minute
 range: Self
-somatic: true
-verbal: true
-material: 'corvid entrails, a dried opium poppy, and a glass dagger'
 aliases:
   - Eldritch Communion
 ---
@@ -37,6 +39,6 @@ This also reveals the presence of all aberrations within 300 feet of you. There 
 
 If you cast this spell two or more times before taking a long rest, there is a cumulative 25 percent chance for each casting after the first that you receive no answer and become afflicted with short-term madness.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Deep Magic p. 338*

@@ -3,32 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
   - Wizard
 school: Conjuration
 level: 5
+ritual: false
+components: 'V, S, M (a ruby worth at least 999 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: a ruby worth at least 999 gp
+time: 1 minute
+duration: 'Concentration, up to 1 hour'
+range: 90 feet
+aliases:
+  - Infernal Calling
 damage:
   base: 3d6
   scaling:
     damage: null
     level: 6
   types: []
-ritual: false
-time: 1 minute
-duration: 'Concentration, up to 1 hour'
-range: 90 feet
-somatic: true
-verbal: true
-material: a ruby worth at least 999 gp
-aliases:
-  - Infernal Calling
 ---
 # Infernal Calling
 *5th-level, Conjuration*  
@@ -51,6 +53,6 @@ If you possess an individual devil's talisman, you can summon that devil if it i
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 158*

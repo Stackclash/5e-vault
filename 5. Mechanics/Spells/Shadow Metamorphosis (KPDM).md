@@ -3,29 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
   - Wizard
 school: Transmutation
 level: 6
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Touch
+aliases:
+  - Shadow Metamorphosis
 saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Touch
-somatic: true
-verbal: true
-aliases:
-  - Shadow Metamorphosis
 ---
 # Shadow Metamorphosis
 *6th-level, Transmutation*  
@@ -39,6 +42,6 @@ You touch a creature of Huge size or smaller, or a single object no more than 20
 
 An unwilling creature can make a Constitution saving throw, avoiding the effect on a success. A creature under the effect of the spell is amorphous and can move through a space as narrow as 1 inch wide without squeezing. In dim light or darkness, the creature has advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks. A creature under the effect of this spell cannot make attacks or cast spells and has vulnerability to radiant damage.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 251*

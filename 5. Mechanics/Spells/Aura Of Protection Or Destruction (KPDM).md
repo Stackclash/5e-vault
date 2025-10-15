@@ -3,34 +3,37 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/level/3rd-level
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
 school: Abjuration
 level: 3
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: Self (30-foot Radius)
+aliases:
+  - Aura of Protection or Destruction
 damage:
   base: null
   scaling:
     damage: null
     level: 4
   types: []
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self (30-foot Radius)
-somatic: true
-verbal: true
 area:
   shape: radius
   size: 30
-aliases:
-  - Aura of Protection or Destruction
 ---
 # Aura of Protection or Destruction
 *3rd-level, Abjuration*  
@@ -44,6 +47,6 @@ When you cast this spell, you radiate an otherworldly energy that warps the fate
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can extend the duration by 1 round for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 40*

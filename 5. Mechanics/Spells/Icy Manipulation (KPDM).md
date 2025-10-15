@@ -3,30 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 6
+ritual: false
+components: 'V, S, M (a piece of ice preserved from the plane of elemental ice)'
+verbal: true
+somatic: true
+material: true
+material_desc: a piece of ice preserved from the plane of elemental ice
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 60 feet
+aliases:
+  - Icy Manipulation
 saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 60 feet
-somatic: true
-verbal: true
-material: a piece of ice preserved from the plane of elemental ice
-aliases:
-  - Icy Manipulation
 ---
 # Icy Manipulation
 *6th-level, Transmutation*  
@@ -42,6 +44,6 @@ The petrification also becomes permanent if you maintain concentration on this s
 
 If the frozen creature is damaged or broken before it recovers from being [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]], the injury carries over to its normal state.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 83*

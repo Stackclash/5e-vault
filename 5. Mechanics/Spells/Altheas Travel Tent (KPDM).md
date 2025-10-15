@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/2nd-level
@@ -12,28 +12,30 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Wizard
 school: Conjuration
 level: 2
+ritual: true
+components: 'V, S, M (a canvas tent)'
+verbal: true
+somatic: true
+material: true
+material_desc: a canvas tent
+time: 5 minutes
+duration: 8 hours
+range: Touch
+aliases:
+  - Althea's Travel Tent
 damage:
   base: null
   scaling:
     damage: null
     level: 7
   types: []
-ritual: true
-time: 5 minutes
-duration: 8 hours
-range: Touch
-somatic: true
-verbal: true
-material: a canvas tent
-aliases:
-  - Althea's Travel Tent
 ---
 # Althea's Travel Tent
 *2nd-level, Conjuration (ritual)*  
@@ -55,6 +57,6 @@ With a 6th-level slot, a third room is added that has three two-person beds.
 
 With a slot of 7th level or higher, the dining area and second sleeping area can each accommodate eight persons.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 35*

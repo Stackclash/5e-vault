@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/warlock
@@ -12,7 +12,7 @@ tags:
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -20,6 +20,17 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+ritual: false
+components: 'V, S, M (a pinch of sulfur or a piece of brimstone)'
+verbal: true
+somatic: true
+material: true
+material_desc: a pinch of sulfur or a piece of brimstone
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 40 feet
+aliases:
+  - Magma Spray
 damage:
   base: 3d8
   scaling:
@@ -27,15 +38,6 @@ damage:
     level: 3
   types:
     - fire
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 40 feet
-somatic: true
-verbal: true
-material: a pinch of sulfur or a piece of brimstone
-aliases:
-  - Magma Spray
 ---
 # Magma Spray
 *2nd-level, Transmutation*  
@@ -51,6 +53,6 @@ A creature whose hit points are reduced to 0 by this damage is killed immediatel
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 312*

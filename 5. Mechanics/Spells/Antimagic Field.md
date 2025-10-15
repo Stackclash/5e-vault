@@ -3,31 +3,33 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/abjuration
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Wizard
 school: Abjuration
 level: 8
 ritual: false
+components: 'V, S, M (a pinch of powdered iron or iron filings)'
+verbal: true
+somatic: true
+material: true
+material_desc: a pinch of powdered iron or iron filings
 time: 1 Action
 duration: 'Concentration, up to 1 hour'
 range: Self (10-foot Sphere)
-somatic: true
-verbal: true
-material: a pinch of powdered iron or iron filings
+aliases:
+  - Antimagic Field
 area:
   shape: sphere
   size: 10
-aliases:
-  - Antimagic Field
 ---
 # Antimagic Field
 *8th-level, Abjuration*  
@@ -73,6 +75,6 @@ Spells and magical effects such as [[/5. Mechanics/Spells/Dispel Magic.md\|dispe
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -3,24 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Transmutation
 level: 7
 ritual: false
+components: >-
+  V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth
+  at least 5,000 gp, which the spell consumes)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  a powder composed of diamond, emerald, ruby, and sapphire dust worth at least
+  5,000 gp, which the spell consumes
 time: 1 Action
 duration: Until dispelled
 range: Touch
-somatic: true
-verbal: true
-material: >-
-  a powder composed of diamond, emerald, ruby, and sapphire dust worth at least
-  5,000 gp, which the spell consumes
 aliases:
   - Sequester
 ---
@@ -38,6 +42,6 @@ If the target is a creature, it falls into a state of suspended animation. Time 
 
 You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include "after 1,000 years" or "when the [[/5. Mechanics/Bestiary/Monstrosity/Tarrasque.md\|tarrasque]] awakens." This spell also ends if the target takes any damage.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

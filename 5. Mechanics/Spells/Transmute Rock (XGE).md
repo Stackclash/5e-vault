@@ -4,18 +4,29 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/transmutation
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Wizard
 school: Transmutation
 level: 5
+ritual: false
+components: 'V, S, M (clay and water)'
+verbal: true
+somatic: true
+material: true
+material_desc: clay and water
+time: 1 Action
+duration: Until dispelled
+range: 120 feet
+aliases:
+  - Transmute Rock
 damage:
   base: 4d8
   scaling:
@@ -28,18 +39,9 @@ saving_throw:
     - Strength
     - Dexterity
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: Until dispelled
-range: 120 feet
-somatic: true
-verbal: true
-material: clay and water
 area:
   shape: cube
   size: 40
-aliases:
-  - Transmute Rock
 ---
 # Transmute Rock
 *5th-level, Transmutation*  
@@ -65,6 +67,6 @@ Nonmagical mud or quicksand in the area no more than 10 feet deep transforms int
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 169*

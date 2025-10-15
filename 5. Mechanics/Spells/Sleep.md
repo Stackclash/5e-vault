@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/feat/fey-touched
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/wizard-spells
   - spell/level/1st-level
   - spell/school/enchantment
   - spell/subclass/arcane-trickster
@@ -17,7 +17,7 @@ tags:
   - spell/subclass/the-archfey
   - spell/subclass/twilight-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Darkness Domain)
   - Cleric (Twilight Domain)
   - Fighter (Eldritch Knight)
@@ -28,21 +28,23 @@ classes:
   - Wizard
 school: Enchantment
 level: 1
+ritual: false
+components: 'V, S, M (a pinch of fine sand, rose petals, or a cricket)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a pinch of fine sand, rose petals, or a cricket'
+time: 1 Action
+duration: 1 minute
+range: 90 feet
+aliases:
+  - Sleep
 damage:
   base: 5d8
   scaling:
     damage: 2d8
     level: 2
   types: []
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: 90 feet
-somatic: true
-verbal: true
-material: 'a pinch of fine sand, rose petals, or a cricket'
-aliases:
-  - Sleep
 ---
 # Sleep
 *1st-level, Enchantment*  
@@ -60,8 +62,6 @@ Undead and creatures immune to being [[/5. Mechanics/Rules/Conditions.md#Charmed
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, roll an additional `dice:2d8|noform|noparens|avg|text(2d8)` for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Darkness Domain)](/compendium/lists/list-spells-classes-darkness-domain-kpdm.md "subclass=KPDM"); [Cleric (Twilight Domain)](/compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Darkness Domain)](/compendium/lists/list-spells-classes-darkness-domain-kpdm.md "subclass=KPDM"); [Cleric (Twilight Domain)](/compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Archfey.md\|Warlock (The Archfey)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 276. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

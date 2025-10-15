@@ -3,26 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock
   - Wizard
 school: Abjuration
 level: 8
 ritual: false
+components: 'V, S, M (a profane object that has been bathed in blood)'
+verbal: true
+somatic: true
+material: true
+material_desc: a profane object that has been bathed in blood
 time: 1 Action
 duration: 'Concentration, up to 1 minute'
 range: Self
-somatic: true
-verbal: true
-material: a profane object that has been bathed in blood
 aliases:
   - Malevolent Waves
 ---
@@ -36,6 +38,6 @@ aliases:
 
 You create an [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] miasma that fills the area within 30 feet of you. All your allies have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks they make within 30 feet of you, and all your enemies are [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] while within that radius.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 93*

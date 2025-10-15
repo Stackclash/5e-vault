@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/4th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
   - Wizard
 school: Conjuration
 level: 4
+ritual: false
+components: 'V, S, M (an iron chain link dipped in blood)'
+verbal: true
+somatic: true
+material: true
+material_desc: an iron chain link dipped in blood
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Chains of Torment
 damage:
   base: 4d6
   scaling:
@@ -26,18 +37,9 @@ saving_throw:
     - Dexterity
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: true
-verbal: true
-material: an iron chain link dipped in blood
 area:
   shape: sphere
   size: 10
-aliases:
-  - Chains of Torment
 ---
 # Chains of Torment
 *4th-level, Conjuration*  
@@ -53,6 +55,6 @@ As an action, you can scan the mind of the creature that's [[/5. Mechanics/Rules
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the psychic damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 4th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 48*

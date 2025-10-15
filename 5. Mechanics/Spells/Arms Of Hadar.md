@@ -3,18 +3,29 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/warlock-spells
   - spell/level/1st-level
   - spell/school/conjuration
   - spell/subclass/aberrant-mind
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer (Aberrant Mind)
   - Warlock
 school: Conjuration
 level: 1
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: Self (10-foot Radius)
+aliases:
+  - Arms of Hadar
 damage:
   base: 2d6
   scaling:
@@ -26,17 +37,9 @@ saving_throw:
   skills:
     - Strength
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self (10-foot Radius)
-somatic: true
-verbal: true
 area:
   shape: radius
   size: 10
-aliases:
-  - Arms of Hadar
 ---
 # Arms of Hadar
 *1st-level, Conjuration*  
@@ -50,8 +53,6 @@ You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt fr
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Sorcerer (Aberrant Mind)](/compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Sorcerer (Aberrant Mind)](/compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Player's Handbook p. 215*

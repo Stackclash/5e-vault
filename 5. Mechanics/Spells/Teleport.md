@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Conjuration
 level: 7
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: 10 feet
+aliases:
+  - Teleport
 damage:
   base: 1d10
   scaling:
@@ -21,17 +32,9 @@ damage:
     level: null
   types:
     - force
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 10 feet
-somatic: false
-verbal: true
 area:
   shape: cube
   size: 10
-aliases:
-  - Teleport
 ---
 # Teleport
 *7th-level, Conjuration*  
@@ -84,6 +87,6 @@ The spell's unpredictable magic results in a difficult journey. Each teleporting
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 281. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

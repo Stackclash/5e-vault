@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/level/4th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
 school: Evocation
 level: 4
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 10 minutes'
+range: Self
+aliases:
+  - Cherub's Burning Blade
 damage:
   base: 2d6
   scaling:
@@ -22,17 +33,9 @@ damage:
   types:
     - fire
     - radiant
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 10 minutes'
-range: Self
-somatic: true
-verbal: true
 area:
   shape: sphere
   size: 10
-aliases:
-  - Cherub's Burning Blade
 ---
 # Cherub's Burning Blade
 *4th-level, Evocation*  
@@ -48,6 +51,6 @@ You can use your action to make a melee attack with the burning blade. On a hit,
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, both the fire damage and radiant damage increase by `dice:1d6|noform|noparens|avg|text(1d6)` for every two slot levels above 4th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 49*

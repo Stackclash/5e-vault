@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 9
+ritual: false
+components: 'V, S, M (an ioun stone)'
+verbal: true
+somatic: true
+material: true
+material_desc: an ioun stone
+time: 1 Action
+duration: 1 minute
+range: 50 feet
+aliases:
+  - Star's Heart
 damage:
   base: 8d6
   scaling:
@@ -25,18 +36,9 @@ saving_throw:
   skills:
     - Strength
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: 50 feet
-somatic: true
-verbal: true
-material: an ioun stone
 area:
   shape: sphere
   size: 50
-aliases:
-  - Star's Heart
 ---
 # Star's Heart
 *9th-level, Transmutation*  
@@ -50,6 +52,6 @@ This spell increases gravity tenfold in a 50-foot radius centered on you. Each c
 
 All ranged weapon attacks inside the area have a normal range of 5 feet and a maximum range of 10 feet. The same applies to spells that create missiles that have mass, such as [[/5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]]. A creature under the influence of a [[/5. Mechanics/Spells/Freedom Of Movement.md\|freedom of movement]] spell or comparable magic has advantage on the Strength saving throws required by this spell, and its speed isn't reduced once it recovers from being [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 226*

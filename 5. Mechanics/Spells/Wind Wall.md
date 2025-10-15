@@ -3,23 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/level/3rd-level
   - spell/school/evocation
   - spell/subclass/artillerist
   - spell/subclass/nature-domain
-  - spell/subclass/the-genie
+  - spell/subclass/the-genie/djinni
 classes:
   - Artificer (Artillerist)
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Nature Domain)
   - Druid
   - Ranger
-  - Warlock (The Genie)
+  - 'Warlock (The Genie, Djinni)'
 school: Evocation
 level: 3
+ritual: false
+components: 'V, S, M (a tiny fan and a feather of exotic origin)'
+verbal: true
+somatic: true
+material: true
+material_desc: a tiny fan and a feather of exotic origin
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+aliases:
+  - Wind Wall
 damage:
   base: 3d8
   scaling:
@@ -31,15 +42,6 @@ saving_throw:
   skills:
     - Strength
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 120 feet
-somatic: true
-verbal: true
-material: a tiny fan and a feather of exotic origin
-aliases:
-  - Wind Wall
 ---
 # Wind Wall
 *3rd-level, Evocation*  
@@ -55,6 +57,6 @@ When the wall appears, each creature within its area must make a Strength saving
 
 The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in [[/5. Mechanics/Spells/Gaseous Form.md\|gaseous form]] can't pass through it.
 
-**Classes**: [Artificer (Artillerist)](/compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
+**Classes**: [Artificer (Artillerist)](/compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Warlock (The Genie, Djinni)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
 
 *Source: Player's Handbook p. 288. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

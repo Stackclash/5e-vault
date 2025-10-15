@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/warlock
@@ -12,7 +12,7 @@ tags:
   - spell/school/illusion
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -21,17 +21,19 @@ classes:
 school: Illusion
 level: 2
 ritual: false
+components: 'V, S, M (a small sketch of a candle)'
+verbal: true
+somatic: true
+material: true
+material_desc: a small sketch of a candle
 time: 1 Action
 duration: 1 hour
 range: Touch
-somatic: true
-verbal: true
-material: a small sketch of a candle
+aliases:
+  - Phantom Light
 area:
   shape: sphere
   size: 20
-aliases:
-  - Phantom Light
 ---
 # Phantom Light
 *2nd-level, Illusion*  
@@ -45,6 +47,6 @@ You touch one object that measures less than 10 feet in every dimension. Until t
 
 The object can be covered with something opaque to block the light. You can use an action to dismiss this spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 225*

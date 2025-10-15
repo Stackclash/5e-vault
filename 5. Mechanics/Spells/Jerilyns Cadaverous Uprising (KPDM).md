@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/wizard
   - spell/level/2nd-level
@@ -11,28 +11,30 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Necromancy
 level: 2
+ritual: false
+components: 'V, S, M (the severed hand of a humanoid creature)'
+verbal: true
+somatic: true
+material: true
+material_desc: the severed hand of a humanoid creature
+time: 1 Action
+duration: 1 hour
+range: 30 feet
+aliases:
+  - Jerilyn's Cadaverous Uprising
 damage:
   base: null
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 Action
-duration: 1 hour
-range: 30 feet
-somatic: true
-verbal: true
-material: the severed hand of a humanoid creature
-aliases:
-  - Jerilyn's Cadaverous Uprising
 ---
 # Jerilyn's Cadaverous Uprising
 *2nd-level, Necromancy*  
@@ -50,6 +52,6 @@ The creature remains under your control for 1 hour, after which it crumbles to d
 
 **At Higher Levels.** The number of undead you summon increases when you cast this spell with a higher-level spell slot: two when cast with a 5th-level slot, three with a 7th-level slot, and four with a 9th-level slot.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 311*

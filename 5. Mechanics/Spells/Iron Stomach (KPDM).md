@@ -3,29 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/2nd-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
 school: Transmutation
 level: 2
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 24 hours
+range: Touch
+aliases:
+  - Iron Stomach
 damage:
   base: null
   scaling:
     damage: null
     level: 3
   types: []
-ritual: false
-time: 1 Action
-duration: 24 hours
-range: Touch
-somatic: true
-verbal: true
-aliases:
-  - Iron Stomach
 ---
 # Iron Stomach
 *2nd-level, Transmutation*  
@@ -39,6 +42,6 @@ You subtly alter the digestive system of the creature you touch, allowing it to 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can affect one additional creature for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 87*

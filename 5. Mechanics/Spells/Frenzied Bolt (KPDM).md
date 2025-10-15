@@ -14,6 +14,17 @@ classes:
   - Wizard
 school: Evocation
 level: 2
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: 120 feet
+aliases:
+  - Frenzied Bolt
 damage:
   base: 3d8
   scaling:
@@ -30,14 +41,6 @@ damage:
     - psychic
     - radiant
     - thunder
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 120 feet
-somatic: true
-verbal: true
-aliases:
-  - Frenzied Bolt
 ---
 # Frenzied Bolt
 *2nd-level, Evocation*  

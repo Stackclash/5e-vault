@@ -3,30 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/level/7th-level
   - spell/school/conjuration
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
 school: Conjuration
 level: 7
+ritual: false
+components: 'V, S, M (a holy symbol worth at least 5 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: a holy symbol worth at least 5 gp
+time: 1 hour
+duration: 24 hours
+range: 120 feet
+aliases:
+  - Temple of the Gods
 saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: false
-time: 1 hour
-duration: 24 hours
-range: 120 feet
-somatic: true
-verbal: true
-material: a holy symbol worth at least 5 gp
-aliases:
-  - Temple of the Gods
 ---
 # Temple of the Gods
 *7th-level, Conjuration*  
@@ -52,6 +54,6 @@ The temple is made from opaque magical force that extends into the Ethereal Plan
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Xanathar's Guide to Everything p. 167*

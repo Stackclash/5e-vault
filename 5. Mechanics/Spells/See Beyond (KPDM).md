@@ -3,26 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/divination
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
   - Wizard
 school: Divination
 level: 5
 ritual: false
+components: 'V, S, M (a transparent crystal)'
+verbal: true
+somatic: true
+material: true
+material_desc: a transparent crystal
 time: 1 Action
 duration: 'Concentration, up to 1 hour'
 range: Touch
-somatic: true
-verbal: true
-material: a transparent crystal
 aliases:
   - See Beyond
 ---
@@ -38,6 +40,6 @@ This spell enables a willing creature you touch to see through any obstructions 
 
 Although the creature can see any target within 30 feet of itself, all other requirements must still be satisfied before casting a spell or making an attack against that target. For example, the creature can see an enemy that has total cover but can't shoot that enemy with an arrow because the cover physically prevents it. That enemy could be targeted by a [[/5. Mechanics/Spells/Geas.md\|geas]] spell, however, because geas needs only a visible target.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 105*

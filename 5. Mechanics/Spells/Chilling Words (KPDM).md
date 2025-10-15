@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -20,6 +20,17 @@ classes:
   - Wizard
 school: Enchantment
 level: 3
+ritual: false
+components: 'V, S, M (a strip of paper with writing on it)'
+verbal: true
+somatic: true
+material: true
+material_desc: a strip of paper with writing on it
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: 30 feet
+aliases:
+  - Chilling Words
 damage:
   base: 1d6
   scaling:
@@ -31,15 +42,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: 30 feet
-somatic: true
-verbal: true
-material: a strip of paper with writing on it
-aliases:
-  - Chilling Words
 ---
 # Chilling Words
 *3rd-level, Enchantment*  
@@ -57,6 +59,6 @@ When the target hears the phrase, it must make a successful Constitution saving 
 
 You can end the spell early by making a final utterance of the phrase (even if you've used the phrase on this target previously). On hearing this final utterance, the target takes `dice:4d6|noform|noparens|avg` (`4d6`) psychic damage and is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] for 1 minute or, with a successful Constitution saving throw, it takes half the damage and is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] for 1 round.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 49*

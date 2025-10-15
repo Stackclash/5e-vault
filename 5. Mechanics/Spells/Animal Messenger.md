@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/level/2nd-level
@@ -12,28 +12,30 @@ tags:
   - spell/subclass/hedge-mage
   - spell/subclass/oath-of-the-open-road
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Paladin (Oath of the Open Road)
   - Ranger
   - Wizard (Hedge Mage)
 school: Enchantment
 level: 2
+ritual: true
+components: 'V, S, M (a morsel of food)'
+verbal: true
+somatic: true
+material: true
+material_desc: a morsel of food
+time: 1 Action
+duration: 24 hours
+range: 30 feet
+aliases:
+  - Animal Messenger
 damage:
   base: null
   scaling:
     damage: null
     level: 3
   types: []
-ritual: true
-time: 1 Action
-duration: 24 hours
-range: 30 feet
-somatic: true
-verbal: true
-material: a morsel of food
-aliases:
-  - Animal Messenger
 ---
 # Animal Messenger
 *2nd-level, Enchantment (ritual)*  
@@ -49,6 +51,6 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 **At Higher Levels.** If you cast this spell using a spell slot of 3rd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of the Open Road)](/compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of the Open Road)](/compendium/lists/list-spells-classes-oath-of-the-open-road-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

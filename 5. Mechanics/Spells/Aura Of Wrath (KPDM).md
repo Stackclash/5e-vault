@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
   - Wizard
 school: Enchantment
 level: 6
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Self (20-foot Radius)
+aliases:
+  - Aura of Wrath
 damage:
   base: 4d8
   scaling:
@@ -25,17 +36,9 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Self (20-foot Radius)
-somatic: true
-verbal: true
 area:
   shape: radius
   size: 20
-aliases:
-  - Aura of Wrath
 ---
 # Aura of Wrath
 *6th-level, Enchantment*  
@@ -53,6 +56,6 @@ If a creature affected by your aura hits you with an attack that targets you, th
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, creatures that leave the aura remain under the effect of the spell for 1 additional round for each slot level above 6th. Also, the damage an affected creature takes from striking you increases by `dice:2d8|noform|noparens|avg|text(2d8)` for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 324*

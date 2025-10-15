@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/9th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
 school: Conjuration
 level: 9
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Sight
+aliases:
+  - Storm of Vengeance
 damage:
   base: 2d6
   scaling:
@@ -28,14 +39,6 @@ saving_throw:
     - Constitution
     - Dexterity
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Sight
-somatic: true
-verbal: true
-aliases:
-  - Storm of Vengeance
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  
@@ -67,6 +70,6 @@ Gusts and freezing rain assail the area under the cloud. The area becomes diffic
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Player's Handbook p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

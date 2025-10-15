@@ -3,27 +3,29 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/level/3rd-level
   - spell/ritual
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Transmutation
 level: 3
+ritual: true
+components: 'V, S, M (a prism and a silver coin)'
+verbal: true
+somatic: true
+material: true
+material_desc: a prism and a silver coin
+time: 1 minute
+duration: 'Concentration, up to 8 hours'
+range: 60 feet
+aliases:
+  - Mind Exchange
 saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: true
-time: 1 minute
-duration: 'Concentration, up to 8 hours'
-range: 60 feet
-somatic: true
-verbal: true
-material: a prism and a silver coin
-aliases:
-  - Mind Exchange
 ---
 # Mind Exchange
 *3rd-level, Transmutation (ritual)*  
@@ -39,6 +41,6 @@ The exchange lasts until either of the the two bodies drops to 0 hit points, unt
 
 The effects of the exchange can be made permanent with a [[/5. Mechanics/Spells/Wish.md\|wish]] spell or comparable magic.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Deep Magic p. 339*

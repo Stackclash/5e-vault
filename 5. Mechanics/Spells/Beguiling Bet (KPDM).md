@@ -3,13 +3,24 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/level/2nd-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Enchantment
 level: 2
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 1 minute
+range: 30 feet
+aliases:
+  - Beguiling Bet
 damage:
   base: null
   scaling:
@@ -20,14 +31,6 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: 30 feet
-somatic: true
-verbal: true
-aliases:
-  - Beguiling Bet
 ---
 # Beguiling Bet
 *2nd-level, Enchantment*  
@@ -43,6 +46,6 @@ The [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature must use its
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for every two slot levels above 2nd. Each creature must be within 30 feet of another creature when you cast the spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Deep Magic p. 42*

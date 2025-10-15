@@ -3,16 +3,27 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/sorcerer-spells
   - spell/level/1st-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
 school: Evocation
 level: 1
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: 120 feet
+aliases:
+  - Chaos Bolt
 damage:
   base: 2d8
   scaling:
@@ -27,14 +38,6 @@ damage:
     - poison
     - psychic
     - thunder
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 120 feet
-somatic: true
-verbal: true
-aliases:
-  - Chaos Bolt
 ---
 # Chaos Bolt
 *1st-level, Evocation*  
@@ -68,8 +71,6 @@ A creature can be targeted only once by each casting of this spell.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, each target takes `dice:1d6|noform|noparens|avg|text(1d6)` extra damage of the type rolled for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Xanathar's Guide to Everything p. 151*

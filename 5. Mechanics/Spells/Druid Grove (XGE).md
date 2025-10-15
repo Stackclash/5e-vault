@@ -3,29 +3,33 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/6th-level
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
 school: Abjuration
 level: 6
 ritual: false
+components: >-
+  V, S, M (mistletoe, which the spell consumes, that was harvested with a golden
+  sickle under the light of a full moon)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  mistletoe, which the spell consumes, that was harvested with a golden sickle
+  under the light of a full moon
 time: 10 minutes
 duration: 24 hours
 range: Touch
-somatic: true
-verbal: true
-material: >-
-  mistletoe, which the spell consumes, that was harvested with a golden sickle
-  under the light of a full moon
+aliases:
+  - Druid Grove
 area:
   shape: cube
   size: 30
-aliases:
-  - Druid Grove
 ---
 # Druid Grove
 *6th-level, Abjuration*  
@@ -65,6 +69,6 @@ To a creature immune to this effect, the winds are a fragrant, gentle breeze, an
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Xanathar's Guide to Everything p. 154*

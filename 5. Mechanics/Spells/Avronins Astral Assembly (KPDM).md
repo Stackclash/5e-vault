@@ -3,25 +3,29 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/6th-level
   - spell/ritual
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
   - Wizard
 school: Necromancy
 level: 6
 ritual: true
+components: >-
+  V, M (a spool of fine copper wire and a gem worth at least 100 gp for each
+  target)
+verbal: true
+somatic: false
+material: true
+material_desc: a spool of fine copper wire and a gem worth at least 100 gp for each target
 time: 10 minutes
 duration: 'Concentration, up to 1 hour'
 range: Unlimited
-somatic: false
-verbal: true
-material: a spool of fine copper wire and a gem worth at least 100 gp for each target
 aliases:
   - Avronin's Astral Assembly
 ---
@@ -39,6 +43,6 @@ When a creature accepts, its spirit is projected into one of the gems used in ca
 
 A creature can end the spell's effect on itself voluntarily at any time, as can you. When the effect ends or the duration expires, a creature's spirit returns to its body and it regains consciousness. A creature that withdraws voluntarily from the assembly can't rejoin it even if the spell is still active. If a gem is broken while occupied by a creature's astral self, the spirit in the gem returns to its body and the creature suffers two levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 40*

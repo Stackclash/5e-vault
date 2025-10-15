@@ -3,14 +3,27 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/level/8th-level
   - spell/ritual
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Enchantment
 level: 8
+ritual: true
+components: >-
+  V, S, M (five teeth from a still-living humanoid and a vial of the caster's
+  blood)
+verbal: true
+somatic: true
+material: true
+material_desc: five teeth from a still-living humanoid and a vial of the caster's blood
+time: 1 Action
+duration: 1 hour
+range: 60 feet
+aliases:
+  - Seed of Destruction
 damage:
   base: 1d3+1
   scaling:
@@ -18,15 +31,6 @@ damage:
     level: null
   types:
     - slashing
-ritual: true
-time: 1 Action
-duration: 1 hour
-range: 60 feet
-somatic: true
-verbal: true
-material: five teeth from a still-living humanoid and a vial of the caster's blood
-aliases:
-  - Seed of Destruction
 ---
 # Seed of Destruction
 *8th-level, Enchantment (ritual)*  
@@ -46,6 +50,6 @@ At the end of each of the hydra's turns, you must make a DC 15 Charisma saving t
 
 The hydra disappears at the end of the spell's duration, or its existence can be cut short with a [[/5. Mechanics/Spells/Wish.md\|wish]] spell or comparable magic, but nothing less. The embryo can be destroyed before it reaches maturity by using a [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell under the normal rules for dispelling high-level magic.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Deep Magic p. 339*

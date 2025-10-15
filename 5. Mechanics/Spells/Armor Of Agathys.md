@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/warlock-spells
   - spell/level/1st-level
   - spell/school/abjuration
   - spell/subclass/oath-of-conquest
   - spell/subrace/tiefling-levistus
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Paladin (Oath of Conquest)
   - Warlock
 school: Abjuration
 level: 1
+ritual: false
+components: 'V, S, M (a cup of water)'
+verbal: true
+somatic: true
+material: true
+material_desc: a cup of water
+time: 1 Action
+duration: 1 hour
+range: Self
+aliases:
+  - Armor of Agathys
 damage:
   base: null
   scaling:
@@ -23,15 +34,6 @@ damage:
     level: 2
   types:
     - cold
-ritual: false
-time: 1 Action
-duration: 1 hour
-range: Self
-somatic: true
-verbal: true
-material: a cup of water
-aliases:
-  - Armor of Agathys
 ---
 # Armor of Agathys
 *1st-level, Abjuration*  
@@ -45,8 +47,6 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Paladin (Oath of Conquest)](/compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Player's Handbook p. 215*

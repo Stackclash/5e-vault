@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/warlock
   - spell/level/7th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Warlock
 school: Necromancy
 level: 7
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Reaction
+duration: Instantaneous
+range: 60 feet
+aliases:
+  - Defile Healing
 damage:
   base: null
   scaling:
@@ -21,14 +32,6 @@ damage:
     level: null
   types:
     - necrotic
-ritual: false
-time: 1 Reaction
-duration: Instantaneous
-range: 60 feet
-somatic: true
-verbal: true
-aliases:
-  - Defile Healing
 ---
 # Defile Healing
 *7th-level, Necromancy*  
@@ -42,6 +45,6 @@ You attempt to reverse the energy of a healing spell so that it deals damage ins
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level, it can reverse a healing spell being cast using a spell slot of 6th level or lower. If you use a 9th-level spell slot, it can reverse a healing spell being cast using a spell slot of 7th level or lower.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 59*

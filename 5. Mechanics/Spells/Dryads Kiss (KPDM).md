@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/3rd-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
 school: Conjuration
 level: 3
+ritual: false
+components: 'V, M (a flower petal or a drop of blood)'
+verbal: true
+somatic: false
+material: true
+material_desc: a flower petal or a drop of blood
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+aliases:
+  - Dryad's Kiss
 damage:
   base: 3d8
   scaling:
@@ -23,15 +34,6 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 120 feet
-somatic: false
-verbal: true
-material: a flower petal or a drop of blood
-aliases:
-  - Dryad's Kiss
 ---
 # Dryad's Kiss
 *3rd-level, Conjuration*  
@@ -47,6 +49,6 @@ If a creature affected by this spell dies, sweet-smelling blossoms quickly cover
 
 **At Higher Levels.** If this spell is cast using a spell slot of 5th level or higher, the number of targets increases by one for every two slot levels above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 65*

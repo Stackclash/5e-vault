@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -20,6 +20,17 @@ classes:
   - Wizard
 school: Transmutation
 level: 2
+ritual: false
+components: 'V, S, M (a piece of a tentacle)'
+verbal: true
+somatic: true
+material: true
+material_desc: a piece of a tentacle
+time: 1 Action
+duration: 5 rounds
+range: Self
+aliases:
+  - Vomit Tentacles
 damage:
   base: 2d6
   scaling:
@@ -27,15 +38,6 @@ damage:
     level: null
   types:
     - bludgeoning
-ritual: false
-time: 1 Action
-duration: 5 rounds
-range: Self
-somatic: true
-verbal: true
-material: a piece of a tentacle
-aliases:
-  - Vomit Tentacles
 ---
 # Vomit Tentacles
 *2nd-level, Transmutation*  
@@ -51,6 +53,6 @@ The Armor Class of the tentacles is equal to yours. If they take slashing damage
 
 While the spell is in effect, you are incapable of speech and can't cast spells that have verbal components.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 119*

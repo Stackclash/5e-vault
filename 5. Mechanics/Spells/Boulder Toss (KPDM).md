@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/2nd-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
 school: Transmutation
 level: 2
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: Self
+aliases:
+  - Boulder Toss
 damage:
   base: 2d10
   scaling:
@@ -19,14 +30,6 @@ damage:
     level: 6
   types:
     - bludgeoning
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: Self
-somatic: true
-verbal: true
-aliases:
-  - Boulder Toss
 ---
 # Boulder Toss
 *2nd-level, Transmutation*  
@@ -42,6 +45,6 @@ Your hurled rock has a range of 60/240 feet and deals `dice:2d10|noform|noparens
 
 **At Higher Levels.** If you cast this spell using a spell slot of 4th or 5th level, your Strength is considered to be 21, and the bludgeoning damage increases to `dice:3d10|noform|noparens|avg` (`3d10`). If you cast this spell using a spell slot of 6th level or higher, your Strength is considered to be 23, and the bludgeoning damage increases to `dice:4d10|noform|noparens|avg` (`4d10`).
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 46*

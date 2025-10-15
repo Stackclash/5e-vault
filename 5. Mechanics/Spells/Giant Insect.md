@@ -3,25 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/4th-level
   - spell/school/transmutation
   - spell/subclass/circle-of-the-grove
   - spell/subclass/hedge-mage
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Druid (Circle of the Grove)
   - Wizard (Hedge Mage)
 school: Transmutation
 level: 4
 ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 Action
 duration: 'Concentration, up to 10 minutes'
 range: 30 feet
-somatic: true
-verbal: true
 aliases:
   - Giant Insect
 ---
@@ -41,6 +44,6 @@ A creature remains in its giant size for the duration, until it drops to 0 hit p
 
 The DM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a [[/5. Mechanics/Bestiary/Beast/Giant Wasp.md\|giant wasp]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of the Grove)](/compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Druid (Circle of the Grove)](/compendium/lists/list-spells-classes-circle-of-the-grove-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 245. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -3,41 +3,43 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/wizard-spells
   - spell/feat/shadow-touched
   - spell/level/1st-level
   - spell/school/illusion
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Wizard
 school: Illusion
 level: 1
+ritual: false
+components: 'V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a pinch of powder or sand that is colored red, yellow, and blue'
+time: 1 Action
+duration: 1 round
+range: Self (15-foot Cone)
+aliases:
+  - Color Spray
 damage:
   base: 6d10
   scaling:
     damage: 2d10
     level: 2
   types: []
-ritual: false
-time: 1 Action
-duration: 1 round
-range: Self (15-foot Cone)
-somatic: true
-verbal: true
-material: 'a pinch of powder or sand that is colored red, yellow, and blue'
 area:
   shape: cone
   size: 15
-aliases:
-  - Color Spray
 ---
 # Color Spray
 *1st-level, Illusion*  
@@ -53,8 +55,6 @@ Starting with the creature that has the lowest current hit points, each creature
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, roll an additional `dice:2d10|noform|noparens|avg|text(2d10)` for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Shadow Touched (TCE).md\|Shadow Touched]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 222. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

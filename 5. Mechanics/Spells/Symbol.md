@@ -3,21 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/abjuration
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Wizard
 school: Abjuration
 level: 7
+ritual: false
+components: >-
+  V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value
+  of at least 1,000 gp, which the spell consumes)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  mercury, phosphorus, and powdered diamond and opal with a total value of at
+  least 1,000 gp, which the spell consumes
+time: 1 minute
+duration: Until dispelled or triggered
+range: Touch
+aliases:
+  - Symbol
 damage:
   base: 10d10
   scaling:
@@ -32,20 +47,9 @@ saving_throw:
     - Charisma
     - Intelligence
   succeeds: half damage
-ritual: false
-time: 1 minute
-duration: Until dispelled or triggered
-range: Touch
-somatic: true
-verbal: true
-material: >-
-  mercury, phosphorus, and powdered diamond and opal with a total value of at
-  least 1,000 gp, which the spell consumes
 area:
   shape: sphere
   size: 60
-aliases:
-  - Symbol
 ---
 # Symbol
 *7th-level, Abjuration*  
@@ -99,6 +103,6 @@ Each target must make a Wisdom saving throw and becomes [[/5. Mechanics/Rules/Co
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 280. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

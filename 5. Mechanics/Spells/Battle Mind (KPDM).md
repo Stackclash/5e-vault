@@ -18,12 +18,14 @@ classes:
 school: Divination
 level: 5
 ritual: true
+components: 'V, S, M (a bit of spiderweb or a small crystal orb)'
+verbal: true
+somatic: true
+material: true
+material_desc: a bit of spiderweb or a small crystal orb
 time: 1 Action
 duration: 'Concentration, up to 10 minutes'
 range: Self
-somatic: true
-verbal: true
-material: a bit of spiderweb or a small crystal orb
 aliases:
   - Battle Mind
 ---

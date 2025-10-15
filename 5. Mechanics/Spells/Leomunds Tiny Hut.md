@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/3rd-level
   - spell/ritual
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/twilight-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Twilight Domain)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
@@ -20,17 +20,19 @@ classes:
 school: Evocation
 level: 3
 ritual: true
+components: 'V, S, M (a small crystal bead)'
+verbal: true
+somatic: true
+material: true
+material_desc: a small crystal bead
 time: 1 minute
 duration: 8 hours
 range: Self (10-foot Hemisphere)
-somatic: true
-verbal: true
-material: a small crystal bead
+aliases:
+  - Leomund's Tiny Hut
 area:
   shape: hemisphere
   size: 10
-aliases:
-  - Leomund's Tiny Hut
 ---
 # Leomund's Tiny Hut
 *3rd-level, Evocation (ritual)*  
@@ -46,6 +48,6 @@ Nine creatures of Medium size or smaller can fit inside the dome with you. The s
 
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Twilight Domain)](/compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Twilight Domain)](/compendium/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Tiny Hut")*

@@ -3,29 +3,31 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/level/5th-level
   - spell/ritual
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Conjuration
 level: 5
+ritual: true
+components: 'V, S, M (a vial of the caster''s blood and a silver dagger)'
+verbal: true
+somatic: true
+material: true
+material_desc: a vial of the caster's blood and a silver dagger
+time: 1 minute
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+aliases:
+  - Summon Eldritch Servitor
 damage:
   base: 1d4
   scaling:
     damage: null
     level: null
   types: []
-ritual: true
-time: 1 minute
-duration: 'Concentration, up to 1 hour'
-range: 60 feet
-somatic: true
-verbal: true
-material: a vial of the caster's blood and a silver dagger
-aliases:
-  - Summon Eldritch Servitor
 ---
 # Summon Eldritch Servitor
 *5th-level, Conjuration (ritual)*  
@@ -52,6 +54,6 @@ A summoned creature disappears when it drops to 0 hit points or when the spell e
 
 When you cast it with a 9th-level spell slot, you can summon five ghasts of Leng or a nightgaunt.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Deep Magic p. 341*

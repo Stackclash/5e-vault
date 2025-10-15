@@ -3,34 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/class/warlock
   - spell/level/3rd-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
   - Warlock
 school: Transmutation
 level: 3
+ritual: false
+components: 'V, S, M (a few hairs from a wolf)'
+verbal: true
+somatic: true
+material: true
+material_desc: a few hairs from a wolf
+time: 1 Action
+duration: 1 minute
+range: 25 feet
+aliases:
+  - Potency of the Pack
 damage:
   base: null
   scaling:
     damage: null
     level: 4
   types: []
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: 25 feet
-somatic: true
-verbal: true
-material: a few hairs from a wolf
-aliases:
-  - Potency of the Pack
 ---
 # Potency of the Pack
 *3rd-level, Transmutation*  
@@ -48,6 +50,6 @@ You bestow lupine traits on a group of living creatures that you designate withi
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 minute for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 99*

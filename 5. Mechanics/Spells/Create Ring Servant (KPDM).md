@@ -3,24 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 8
 ritual: false
+components: 'V, S, M (two metal rings)'
+verbal: true
+somatic: true
+material: true
+material_desc: two metal rings
 time: 1 Action
 duration: 'Concentration, up to 1 hour'
 range: Touch
-somatic: true
-verbal: true
-material: two metal rings
 aliases:
   - Create Ring Servant
 ---
@@ -36,6 +38,6 @@ You touch two metal rings and infuse them with life, creating a short-lived but 
 
 The ring servant is friendly to you and your companions for the duration. Roll initiative for the ring servant, which acts on its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the ring servant, it defends itself and you from hostile creatures but otherwise takes no actions.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 231*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
   - Rogue (Arcane Trickster)
@@ -20,12 +20,14 @@ classes:
 school: Transmutation
 level: 3
 ritual: true
+components: 'V, S, M (a dried leaf, crumpled and released)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a dried leaf, crumpled and released'
 time: 10 minutes
 duration: 'Concentration, up to 10 minutes'
 range: Self
-somatic: true
-verbal: true
-material: 'a dried leaf, crumpled and released'
 aliases:
   - Song of the Forest
 ---
@@ -50,6 +52,6 @@ If you expend your ritual focus, the spell also gives you [[/5. Mechanics/Rules/
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 213*

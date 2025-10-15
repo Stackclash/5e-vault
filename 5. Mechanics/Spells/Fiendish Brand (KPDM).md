@@ -3,21 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/necromancy
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock
   - Wizard
 school: Necromancy
 level: 5
+ritual: false
+components: 'V, S, M (a branding iron)'
+verbal: true
+somatic: true
+material: true
+material_desc: a branding iron
+time: 1 Action
+duration: 7 days
+range: Touch
+aliases:
+  - Fiendish Brand
 damage:
   base: 2d8
   scaling:
@@ -25,15 +36,6 @@ damage:
     level: null
   types:
     - cold
-ritual: false
-time: 1 Action
-duration: 7 days
-range: Touch
-somatic: true
-verbal: true
-material: a branding iron
-aliases:
-  - Fiendish Brand
 ---
 # Fiendish Brand
 *5th-level, Necromancy*  
@@ -47,6 +49,6 @@ You infuse a branding iron (typically one bearing the mark of a demon lord or a 
 
 While the creature wears the brand, it has disadvantage on any saving throws it makes against spells you cast on it. If you try to locate the creature with a [[/5. Mechanics/Spells/Scrying.md\|scrying]] spell, it takes the–10 penalty to its saving throw as if you possessed a lock of its hair or other body part.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 327*

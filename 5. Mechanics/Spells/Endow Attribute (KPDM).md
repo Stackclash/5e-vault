@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -11,13 +11,24 @@ tags:
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Warlock
   - Wizard
 school: Transmutation
 level: 4
+ritual: false
+components: 'V, S, M (a ring worth at least 200 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: a ring worth at least 200 gp
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: Touch
+aliases:
+  - Endow Attribute
 damage:
   base: null
   scaling:
@@ -28,15 +39,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: Touch
-somatic: true
-verbal: true
-material: a ring worth at least 200 gp
-aliases:
-  - Endow Attribute
 ---
 # Endow Attribute
 *4th-level, Transmutation*  
@@ -54,6 +56,6 @@ The spell ends if you lose concentration before the transfer takes place, if eit
 
 **At Higher Levels.** If you cast this spell using a spell slot of 7th or 8th level, the duration is 8 hours. If you use a 9th-level spell slot, the duration is 24 hours.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 67*

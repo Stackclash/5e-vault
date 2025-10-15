@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Transmutation
 level: 6
+ritual: false
+components: 'V, S, M (a vial of acid, poison, or alchemist''s fire)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a vial of acid, poison, or alchemist''s fire'
+time: 1 Action
+duration: 1 minute
+range: Self
+aliases:
+  - Alchemical Form
 damage:
   base: 4d6
   scaling:
@@ -20,15 +31,6 @@ damage:
   types:
     - acid
     - poison
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: Self
-somatic: true
-verbal: true
-material: 'a vial of acid, poison, or alchemist''s fire'
-aliases:
-  - Alchemical Form
 ---
 # Alchemical Form
 *6th-level, Transmutation*  
@@ -49,6 +51,6 @@ You transform into an amoebic form composed of highly acidic and poisonous alche
 - your size doesn't change, but you can move through and between obstructions as if you were two size categories smaller; and  
 - you gain the following action: *Melee Weapon Attack:* spellcasting ability modifier + proficiency bonus to hit, range 5 ft., one target; *Hit:* `dice:4d6|noform|noparens|avg` (`4d6`) acid or poison damage (your choice), and the target must make a successful Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the start of your next turn.  
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 164*

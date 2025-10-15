@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/ranger
   - spell/level/5th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Ranger
 school: Transmutation
 level: 5
+ritual: false
+components: 'V, S, M (a game animal, which must be sacrificed as part of casting the spell)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a game animal, which must be sacrificed as part of casting the spell'
+time: 10 minutes
+duration: 24 hours
+range: 300 feet
+aliases:
+  - Killing Fields
 damage:
   base: 1d6
   scaling:
@@ -22,18 +33,9 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 10 minutes
-duration: 24 hours
-range: 300 feet
-somatic: true
-verbal: true
-material: 'a game animal, which must be sacrificed as part of casting the spell'
 area:
   shape: cube
   size: 100
-aliases:
-  - Killing Fields
 ---
 # Killing Fields
 *5th-level, Transmutation*  
@@ -59,6 +61,6 @@ This spell creates the following effects within the area:
 
 You can create a permanent *killing field* by casting this spell in the same location every day for one year. Structures built in the area after the killing field is permanent don't end the spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 88*

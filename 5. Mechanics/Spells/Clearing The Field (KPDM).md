@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/class/wizard
@@ -12,25 +12,28 @@ tags:
   - spell/school/transmutation
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
   - Rogue (Arcane Trickster)
   - Wizard
 school: Transmutation
 level: 2
+ritual: true
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 10 minutes
+duration: 1 hour
+range: 40 feet
+aliases:
+  - Clearing the Field
 saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: true
-time: 10 minutes
-duration: 1 hour
-range: 40 feet
-somatic: true
-verbal: true
-aliases:
-  - Clearing the Field
 ---
 # Clearing the Field
 *2nd-level, Transmutation (ritual)*  
@@ -55,6 +58,6 @@ If you expend your ritual focus, plant creatures in the area must make a success
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 211*

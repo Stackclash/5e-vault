@@ -4,19 +4,19 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/class/wizard
   - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/wizard-spells
   - spell/level/1st-level
   - spell/school/abjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Fighter (Eldritch Knight)
   - Ranger
@@ -24,22 +24,24 @@ classes:
   - Wizard
 school: Abjuration
 level: 1
+ritual: false
+components: 'S, M (25 feet of rope, which the spell consumes)'
+verbal: false
+somatic: true
+material: true
+material_desc: '25 feet of rope, which the spell consumes'
+time: 1 minute
+duration: 8 hours
+range: Touch
+aliases:
+  - Snare
 saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 minute
-duration: 8 hours
-range: Touch
-somatic: true
-verbal: false
-material: '25 feet of rope, which the spell consumes'
 area:
   shape: sphere
   size: 5
-aliases:
-  - Snare
 ---
 # Snare
 *1st-level, Abjuration*  
@@ -59,8 +61,6 @@ A [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] creature can make
 
 After the trap is triggered, the spell ends when no creature is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] by it.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 165*

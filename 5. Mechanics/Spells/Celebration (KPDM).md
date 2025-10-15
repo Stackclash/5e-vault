@@ -3,34 +3,36 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/7th-level
   - spell/ritual
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Enchantment
 level: 7
+ritual: true
+components: 'V, S, M (a small party favor)'
+verbal: true
+somatic: true
+material: true
+material_desc: a small party favor
+time: 10 minutes
+duration: 1 hour
+range: 90 feet
+aliases:
+  - Celebration
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: true
-time: 10 minutes
-duration: 1 hour
-range: 90 feet
-somatic: true
-verbal: true
-material: a small party favor
 area:
   shape: sphere
   size: 30
-aliases:
-  - Celebration
 ---
 # Celebration
 *7th-level, Enchantment (ritual)*  
@@ -57,6 +59,6 @@ If you expend your ritual focus, an unaffected intelligent creature must make a 
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 211*

@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/ranger
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Ranger
   - Warlock
   - Wizard
 school: Transmutation
 level: 6
+ritual: false
+components: 'V, S, M (a small platinum lever and fulcrum worth 400 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: a small platinum lever and fulcrum worth 400 gp
+time: 1 Action
+duration: Instantaneous
+range: 400 feet
+aliases:
+  - Catapult
 damage:
   base: 6d10
   scaling:
@@ -23,15 +34,6 @@ damage:
     level: 7
   types:
     - bludgeoning
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 400 feet
-somatic: true
-verbal: true
-material: a small platinum lever and fulcrum worth 400 gp
-aliases:
-  - Catapult
 ---
 # Catapult
 *6th-level, Transmutation*  
@@ -45,6 +47,6 @@ You magically hurl an object or creature weighing 500 pounds or less 40 feet thr
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by `dice:1d10|noform|noparens|avg` (`1d10`), the distance thrown increases by 10 feet, and the weight thrown increases by 100 pounds for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 48*

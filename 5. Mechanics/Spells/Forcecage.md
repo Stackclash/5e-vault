@@ -3,30 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
   - Wizard
 school: Evocation
 level: 7
+ritual: false
+components: 'V, S, M (ruby dust worth 1,500 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'ruby dust worth 1,500 gp'
+time: 1 Action
+duration: 1 hour
+range: 100 feet
+aliases:
+  - Forcecage
 saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 hour
-range: 100 feet
-somatic: true
-verbal: true
-material: 'ruby dust worth 1,500 gp'
-aliases:
-  - Forcecage
 ---
 # Forcecage
 *7th-level, Evocation*  
@@ -48,6 +50,6 @@ A creature inside the cage can't leave it by nonmagical means. If the creature t
 
 This spell can't be dispelled by [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]].
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

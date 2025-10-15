@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/tce
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/class/wizard
@@ -13,7 +13,7 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/the-fathomless
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Fighter (Eldritch Knight)
   - Ranger
@@ -22,21 +22,25 @@ classes:
   - Wizard
 school: Conjuration
 level: 4
+ritual: false
+components: >-
+  V, S, M (air, a pebble, ash, and water inside a gold-inlaid vial worth at
+  least 400 gp)
+verbal: true
+somatic: true
+material: true
+material_desc: 'air, a pebble, ash, and water inside a gold-inlaid vial worth at least 400 gp'
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: 90 feet
+aliases:
+  - Summon Elemental
 damage:
   base: null
   scaling:
     damage: null
     level: 5
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: 90 feet
-somatic: true
-verbal: true
-material: 'air, a pebble, ash, and water inside a gold-inlaid vial worth at least 400 gp'
-aliases:
-  - Summon Elemental
 ---
 # Summon Elemental
 *4th-level, Conjuration*  
@@ -52,6 +56,6 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Warlock (The Fathomless)](/compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [Warlock (The Fathomless)](/compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Tasha's Cauldron of Everything p. 111*

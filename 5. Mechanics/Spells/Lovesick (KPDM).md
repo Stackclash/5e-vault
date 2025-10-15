@@ -20,6 +20,17 @@ classes:
   - Wizard
 school: Enchantment
 level: 4
+ritual: false
+components: 'V, S, M (a handful of red rose petals)'
+verbal: true
+somatic: true
+material: true
+material_desc: a handful of red rose petals
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 90 feet
+aliases:
+  - Lovesick
 damage:
   base: null
   scaling:
@@ -30,18 +41,9 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 90 feet
-somatic: true
-verbal: true
-material: a handful of red rose petals
 area:
   shape: sphere
   size: 10
-aliases:
-  - Lovesick
 ---
 # Lovesick
 *4th-level, Enchantment*  

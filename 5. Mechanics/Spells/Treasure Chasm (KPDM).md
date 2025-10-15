@@ -3,28 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/level/2nd-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
 school: Enchantment
 level: 2
+ritual: false
+components: 'V, S, M (a gold coin)'
+verbal: true
+somatic: true
+material: true
+material_desc: a gold coin
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 100 feet
+aliases:
+  - Treasure Chasm
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 100 feet
-somatic: true
-verbal: true
-material: a gold coin
-aliases:
-  - Treasure Chasm
 ---
 # Treasure Chasm
 *2nd-level, Enchantment*  
@@ -40,6 +42,6 @@ An affected creature can repeat the saving throw at the end of each of its turns
 
 Creatures with the dragon type have disadvantage on the initial saving throw but have advantage on saving throws against this spell made after reaching the designated spot.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]
 
 *Source: Deep Magic p. 204*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/class/warlock
@@ -13,7 +13,7 @@ tags:
   - spell/school/divination
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
   - Rogue (Arcane Trickster)
@@ -21,18 +21,21 @@ classes:
   - Wizard
 school: Divination
 level: 2
+ritual: true
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 10 minutes
+duration: Instantaneous
+range: 30 feet
+aliases:
+  - Shadows Brought to Light
 saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: true
-time: 10 minutes
-duration: Instantaneous
-range: 30 feet
-somatic: true
-verbal: true
-aliases:
-  - Shadows Brought to Light
 ---
 # Shadows Brought to Light
 *2nd-level, Divination (ritual)*  
@@ -57,6 +60,6 @@ If you expend your ritual focus, the target has disadvantage on Charisma checks 
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 212*

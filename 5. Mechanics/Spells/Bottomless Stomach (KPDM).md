@@ -3,29 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/1st-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Transmutation
 level: 1
+ritual: false
+components: V
+verbal: true
+somatic: false
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: Self
+aliases:
+  - Bottomless Stomach
 damage:
   base: 1d6
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: Self
-somatic: false
-verbal: true
-aliases:
-  - Bottomless Stomach
 ---
 # Bottomless Stomach
 *1st-level, Transmutation*  
@@ -43,6 +46,6 @@ At any time before you stop concentrating on the spell, you can regurgitate up t
 
 When you stop concentrating on the spell, its duration expires, or it's dispelled, the extradimensional reservoir and the liquid it contains cease to exist.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 165*

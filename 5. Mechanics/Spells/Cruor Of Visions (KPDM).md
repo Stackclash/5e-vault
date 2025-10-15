@@ -3,38 +3,40 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/divination
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Sorcerer
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock
   - Wizard
 school: Divination
 level: 5
+ritual: false
+components: 'V, S, M (a bone needle and a catch basin)'
+verbal: true
+somatic: true
+material: true
+material_desc: a bone needle and a catch basin
+time: 1 minute
+duration: 'Concentration, up to 5 minutes'
+range: Self
+aliases:
+  - Cruor of Visions
 damage:
   base: null
   scaling:
     damage: null
     level: 7
   types: []
-ritual: false
-time: 1 minute
-duration: 'Concentration, up to 5 minutes'
-range: Self
-somatic: true
-verbal: true
-material: a bone needle and a catch basin
-aliases:
-  - Cruor of Visions
 ---
 # Cruor of Visions
 *5th-level, Divination*  
@@ -50,6 +52,6 @@ If you place a drop (or dried flakes) of another creature's blood in the contain
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the pool of blood acts as either a [[/5. Mechanics/Items/Crystal Ball Of Mind Reading.md\|crystal ball of mind reading]] or a [[/5. Mechanics/Items/Crystal Ball Of True Seeing.md\|crystal ball of true seeing]] (your choice when the spell is cast).
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 320*

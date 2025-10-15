@@ -4,7 +4,7 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/4th-level
   - spell/school/conjuration
@@ -14,7 +14,7 @@ tags:
   - spell/subclass/justice-domain
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Carillon Domain)
   - Cleric (Justice Domain)
   - Fighter (Eldritch Knight)
@@ -22,6 +22,17 @@ classes:
   - Wizard
 school: Conjuration
 level: 4
+ritual: false
+components: 'V, S, M (a tiny silver whistle, a piece of bone, and a thread)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a tiny silver whistle, a piece of bone, and a thread'
+time: 1 Action
+duration: 8 hours
+range: 30 feet
+aliases:
+  - Mordenkainen's Faithful Hound
 damage:
   base: 4d8
   scaling:
@@ -29,15 +40,6 @@ damage:
     level: null
   types:
     - piercing
-ritual: false
-time: 1 Action
-duration: 8 hours
-range: 30 feet
-somatic: true
-verbal: true
-material: 'a tiny silver whistle, a piece of bone, and a thread'
-aliases:
-  - Mordenkainen's Faithful Hound
 ---
 # Mordenkainen's Faithful Hound
 *4th-level, Conjuration*  
@@ -53,6 +55,6 @@ The hound is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] to all c
 
 At the start of each of your turns, the hound attempts to bite one creature within 5 feet of it that is hostile to you. The hound's attack bonus is equal to your spellcasting ability modifier + your proficiency bonus. On a hit, it deals `dice:4d8|noform|noparens|avg` (`4d8`) piercing damage.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Carillon Domain)](/compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Justice Domain)](/compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Carillon Domain)](/compendium/lists/list-spells-classes-carillon-domain-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3"); [Cleric (Justice Domain)](/compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Faithful Hound")*

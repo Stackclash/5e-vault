@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/druid-spells
   - spell/feat/wood-elf-magic
   - spell/level/cantrip
   - spell/optfeature/druidic-warrior
@@ -13,29 +13,32 @@ tags:
   - spell/race/fairy
   - spell/school/transmutation
   - spell/subclass/arcane-archer
-  - spell/subclass/circle-of-the-land
+  - spell/subclass/circle-of-the-land/arctic
   - spell/subclass/hedge-mage
   - spell/subclass/nature-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Nature Domain)
   - Druid
-  - Druid (Circle of the Land)
+  - 'Druid (Circle of the Land, Arctic)'
   - Fighter (Arcane Archer)
   - Wizard (Hedge Mage)
 school: Transmutation
 level: 0
 ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 Action
 duration: Instantaneous
 range: 30 feet
-somatic: true
-verbal: true
+aliases:
+  - Druidcraft
 area:
   shape: cube
   size: 5
-aliases:
-  - Druidcraft
 ---
 # Druidcraft
 *cantrip, Transmutation*  
@@ -52,8 +55,6 @@ Whispering to the spirits of nature, you create one of the following effects wit
 - You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.  
 - You instantly light or snuff out a candle, a torch, or a small campfire.  
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Fighter (Arcane Archer)](/compendium/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Wood Elf Magic (XGE).md\|Wood Elf Magic]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Nature Domain.md\|Cleric (Nature Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Arctic)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Fighter (Arcane Archer)](/compendium/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE"); [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

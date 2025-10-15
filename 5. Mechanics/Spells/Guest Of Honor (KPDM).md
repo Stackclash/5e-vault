@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/feat/fey-touched
   - spell/level/1st-level
@@ -13,27 +13,29 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Enchantment
 level: 1
+ritual: true
+components: 'V, M (a signet ring worth 25 gp)'
+verbal: true
+somatic: false
+material: true
+material_desc: a signet ring worth 25 gp
+time: 10 minutes
+duration: 10 minutes
+range: Touch
+aliases:
+  - Guest of Honor
 damage:
   base: 1d4
   scaling:
     damage: null
     level: null
   types: []
-ritual: true
-time: 10 minutes
-duration: 10 minutes
-range: Touch
-somatic: false
-verbal: true
-material: a signet ring worth 25 gp
-aliases:
-  - Guest of Honor
 ---
 # Guest of Honor
 *1st-level, Enchantment (ritual)*  
@@ -58,8 +60,6 @@ If you expend your ritual focus, the effect lasts for 24 hours.
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 212*

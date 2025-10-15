@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 5
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 1 minute
+range: 120 feet
+aliases:
+  - Essence Instability
 damage:
   base: 2d6
   scaling:
@@ -25,14 +36,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: 120 feet
-somatic: true
-verbal: true
-aliases:
-  - Essence Instability
 ---
 # Essence Instability
 *5th-level, Transmutation*  
@@ -50,6 +53,6 @@ The aura does not detect as magical or poison, and is [[/5. Mechanics/Rules/Cond
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the aura lasts 1 minute longer and the poison damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 68*

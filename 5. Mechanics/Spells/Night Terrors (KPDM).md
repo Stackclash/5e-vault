@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -11,26 +11,28 @@ tags:
   - spell/school/illusion
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Warlock
   - Wizard
 school: Illusion
 level: 4
+ritual: false
+components: 'V, S, M (a crow''s eye)'
+verbal: true
+somatic: true
+material: true
+material_desc: a crow's eye
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+aliases:
+  - Night Terrors
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 120 feet
-somatic: true
-verbal: true
-material: a crow's eye
-aliases:
-  - Night Terrors
 ---
 # Night Terrors
 *4th-level, Illusion*  
@@ -42,6 +44,6 @@ aliases:
 
 You amplify the fear that lurks in the heart of all creatures. Select a target point you can see within the spell's range. Every creature within 20 feet of that point becomes [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] until the start of your next turn and must make a successful Wisdom saving throw or become [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]]. A [[/5. Mechanics/Rules/Conditions.md#Paralyzed\|paralyzed]] creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Creatures immune to being [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] are not affected by this spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 96*

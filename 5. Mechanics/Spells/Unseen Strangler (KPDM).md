@@ -3,14 +3,25 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/level/3rd-level
   - spell/ritual
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Conjuration
 level: 3
+ritual: true
+components: 'V, S, M (a pinch of sulfur and a live rodent)'
+verbal: true
+somatic: true
+material: true
+material_desc: a pinch of sulfur and a live rodent
+time: 1 Action
+duration: 8 hours
+range: 30 feet
+aliases:
+  - Unseen Strangler
 damage:
   base: 3d6
   scaling:
@@ -18,15 +29,6 @@ damage:
     level: null
   types:
     - bludgeoning
-ritual: true
-time: 1 Action
-duration: 8 hours
-range: 30 feet
-somatic: true
-verbal: true
-material: a pinch of sulfur and a live rodent
-aliases:
-  - Unseen Strangler
 ---
 # Unseen Strangler
 *3rd-level, Conjuration (ritual)*  
@@ -42,6 +44,6 @@ The strangler is [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] to a
 
 If any creatures hostile to you are within 5 feet of the strangler at the start of your turn, the strangler attacks one of them with a tentacle. It makes a melee weapon attack with a bonus equal to your spellcasting ability modifier + your proficiency bonus. On a hit, it deals `dice:3d6|noform|noparens|avg` (`3d6`) bludgeoning damage, and a Large or smaller creature is [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] (escape DC = your spellcasting ability modifier + your proficiency bonus). Until this grapple ends, the target is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]], and the strangler can't attack another target. If the strangler scores a critical hit, the target begins to suffocate and can't speak until the grapple ends.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Deep Magic p. 342*

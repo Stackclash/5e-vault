@@ -4,7 +4,7 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/5th-level
@@ -12,12 +12,23 @@ tags:
   - spell/subclass/the-fathomless
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Warlock (The Fathomless)
   - Wizard
 school: Evocation
 level: 5
+ritual: false
+components: 'V, S, M (an eggshell and a snakeskin glove)'
+verbal: true
+somatic: true
+material: true
+material_desc: an eggshell and a snakeskin glove
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 120 feet
+aliases:
+  - Bigby's Hand
 damage:
   base: 1d20+8
   scaling:
@@ -26,15 +37,6 @@ damage:
   types:
     - bludgeoning
     - force
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 120 feet
-somatic: true
-verbal: true
-material: an eggshell and a snakeskin glove
-aliases:
-  - Bigby's Hand
 ---
 # Bigby's Hand
 *5th-level, Evocation*  
@@ -72,6 +74,6 @@ When you cast this spell using a spell slot of 6th level or higher, the damage f
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Fathomless)](/compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Fathomless)](/compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 218. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Arcane Hand")*

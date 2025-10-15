@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/feat/fey-touched
   - spell/level/1st-level
@@ -11,27 +11,29 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Enchantment
 level: 1
+ritual: false
+components: 'V, S, M (an iron key)'
+verbal: true
+somatic: true
+material: true
+material_desc: an iron key
+time: 1 Action
+duration: 10 minutes
+range: Touch
+aliases:
+  - Hard Heart
 damage:
   base: null
   scaling:
     damage: null
     level: 5
   types: []
-ritual: false
-time: 1 Action
-duration: 10 minutes
-range: Touch
-somatic: true
-verbal: true
-material: an iron key
-aliases:
-  - Hard Heart
 ---
 # Hard Heart
 *1st-level, Enchantment*  
@@ -45,8 +47,6 @@ You imbue your touch with the power to make a creature aloof, hardhearted, and u
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd or 4th level, the duration increases to 1 hour. If you use a spell slot of 5th level or higher, the duration is 8 hours.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 78*

@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
   - Wizard
 school: Necromancy
 level: 5
+ritual: false
+components: 'V, M (a broken bone and a square of black silk)'
+verbal: true
+somatic: false
+material: true
+material_desc: a broken bone and a square of black silk
+time: 1 Action
+duration: Instantaneous
+range: 60 feet
+aliases:
+  - Negative Energy Flood
 damage:
   base: 5d12
   scaling:
@@ -25,15 +36,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 60 feet
-somatic: false
-verbal: true
-material: a broken bone and a square of black silk
-aliases:
-  - Negative Energy Flood
 ---
 # Negative Energy Flood
 *5th-level, Necromancy*  
@@ -47,6 +49,6 @@ You send ribbons of negative energy at one creature you can see within range. Un
 
 If you target an undead with this spell, the target doesn't make a saving throw. Instead, roll `dice:5d12|noform|noparens|avg` (`5d12`). The target gains half the total as temporary hit points.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 163*

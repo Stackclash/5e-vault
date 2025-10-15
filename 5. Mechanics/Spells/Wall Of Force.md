@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/5th-level
   - spell/school/evocation
@@ -14,19 +14,21 @@ tags:
 classes:
   - Artificer (Armorer)
   - Artificer (Artillerist)
-  - Bard
+  - Bard (Magical Secrets)
   - Paladin (Oath of Redemption)
   - Sorcerer (Clockwork Soul)
   - Wizard
 school: Evocation
 level: 5
 ritual: false
+components: 'V, S, M (a pinch of powder made by crushing a clear gemstone)'
+verbal: true
+somatic: true
+material: true
+material_desc: a pinch of powder made by crushing a clear gemstone
 time: 1 Action
 duration: 'Concentration, up to 10 minutes'
 range: 120 feet
-somatic: true
-verbal: true
-material: a pinch of powder made by crushing a clear gemstone
 aliases:
   - Wall of Force
 ---
@@ -42,6 +44,6 @@ An invisible wall of force springs into existence at a point you choose within r
 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]]. A [[/5. Mechanics/Spells/Disintegrate.md\|disintegrate]] spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
 
-**Classes**: [Artificer (Armorer)](/compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [Artificer (Artillerist)](/compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [Sorcerer (Clockwork Soul)](/compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [Artificer (Armorer)](/compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [Artificer (Artillerist)](/compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [Sorcerer (Clockwork Soul)](/compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 285. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

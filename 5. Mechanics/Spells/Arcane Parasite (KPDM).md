@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
@@ -11,18 +11,21 @@ tags:
   - spell/ritual
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 7
 ritual: true
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 Action
 duration: 2 hours
 range: Self
-somatic: true
-verbal: true
 aliases:
   - Arcane Parasite
 ---
@@ -38,6 +41,6 @@ This spell creates a link between you and a nearby source of arcane power, allow
 
 The more you draw on the link, the harder it is to maintain. Each spell you cast in this manner decreases the duration of this spell's casting by 10 minutes per level of the spell you cast using the link. For example, if you cast a [[/5. Mechanics/Spells/Fireball.md\|fireball]] spell using the link, you would not expend a spell slot in the casting, but the duration of this spell would decrease by 30 minutes. If you cast a spell using the link and your remaining duration is equal to or less than the spell's level × 10 minutes, then this spell ends as soon as that spell is cast.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 38*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/wizard
   - spell/level/cantrip
@@ -14,13 +14,24 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subrace/elf-high
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Evocation
 level: 0
+ritual: false
+components: 'V, S, M (an arrow or crossbow bolt)'
+verbal: true
+somatic: true
+material: true
+material_desc: an arrow or crossbow bolt
+time: 1 Action
+duration: 1 round
+range: 60 feet
+aliases:
+  - Clockwork Bolt
 damage:
   base: 1d8
   scaling:
@@ -28,15 +39,6 @@ damage:
     level: null
   types:
     - slashing
-ritual: false
-time: 1 Action
-duration: 1 round
-range: 60 feet
-somatic: true
-verbal: true
-material: an arrow or crossbow bolt
-aliases:
-  - Clockwork Bolt
 ---
 # Clockwork Bolt
 *cantrip, Evocation*  
@@ -52,6 +54,6 @@ As part of the action used to cast this spell, you make a ranged weapon attack w
 
 This spell deals more damage when you reach higher levels. At 5th level, the ranged attack deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) slashing damage to the target, and the target takes an additional `dice:1d8|noform|noparens|avg` (`1d8`) slashing damage (`dice:2d8|noform|noparens|avg` (`2d8`) total) if the embedded ammunition isn't removed. Both damage amounts increase by `dice:1d8|noform|noparens|avg` (`1d8`) again at 11th level and at 17th level.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 50*

@@ -3,33 +3,38 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/monk
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/necromancy
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Monk
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Warlock
   - Wizard
 school: Necromancy
 level: 9
 ritual: false
-time: 1 hour
-duration: Special
-range: 10 feet
-somatic: true
+components: >-
+  V, S, M (for each creature you affect with this spell, you must provide one
+  jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at
+  least 100 gp, all of which the spell consumes)
 verbal: true
-material: >-
+somatic: true
+material: true
+material_desc: >-
   for each creature you affect with this spell, you must provide one jacinth
   worth at least 1,000 gp and one ornately carved bar of silver worth at least
   100 gp, all of which the spell consumes
+time: 1 hour
+duration: Special
+range: 10 feet
 aliases:
   - Astral Projection
 ---
@@ -53,6 +58,6 @@ The spell might also end early for you or one of your companions. A successful [
 
 If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Monk.md\|Monk]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Monk.md\|Monk]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -3,34 +3,37 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/paladin
   - spell/level/5th-level
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Paladin
 school: Abjuration
 level: 5
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 10 minutes
+range: Touch
+aliases:
+  - Surprise Blessing
 damage:
   base: 2d6
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 Action
-duration: 10 minutes
-range: Touch
-somatic: true
-verbal: true
 area:
   shape: sphere
   size: 10
-aliases:
-  - Surprise Blessing
 ---
 # Surprise Blessing
 *5th-level, Abjuration*  
@@ -58,6 +61,6 @@ the original condition or until the spell ends. If this spell ends before the or
 
 **Stunned**: The target has advantage on Intelligence, Wisdom, and Charisma saving throws.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 111*

@@ -3,13 +3,24 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/level/4th-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Enchantment
 level: 4
+ritual: false
+components: 'V, S, M (a pinch of salt and a drop of the caster''s blood)'
+verbal: true
+somatic: true
+material: true
+material_desc: a pinch of salt and a drop of the caster's blood
+time: 1 Action
+duration: 1 minute
+range: 90 feet
+aliases:
+  - Hunger of Leng
 damage:
   base: 1d4
   scaling:
@@ -20,15 +31,6 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: 90 feet
-somatic: true
-verbal: true
-material: a pinch of salt and a drop of the caster's blood
-aliases:
-  - Hunger of Leng
 ---
 # Hunger of Leng
 *4th-level, Enchantment*  
@@ -46,6 +48,6 @@ If there isn't a viable creature within range for the target to attack, it inste
 
 The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. If the target has two consecutive failures, this spell lasts its full duration with no further saving throws allowed.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Deep Magic p. 339*

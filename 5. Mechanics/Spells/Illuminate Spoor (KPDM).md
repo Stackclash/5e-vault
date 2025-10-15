@@ -3,33 +3,35 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/feat/fey-touched
   - spell/level/1st-level
   - spell/school/divination
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
 school: Divination
 level: 1
+ritual: false
+components: 'V, S, M (a firefly)'
+verbal: true
+somatic: true
+material: true
+material_desc: a firefly
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: Touch
+aliases:
+  - Illuminate Spoor
 damage:
   base: null
   scaling:
     damage: null
     level: 3
   types: []
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: Touch
-somatic: true
-verbal: true
-material: a firefly
-aliases:
-  - Illuminate Spoor
 ---
 # Illuminate Spoor
 *1st-level, Divination*  
@@ -45,8 +47,6 @@ If the creature leaving the tracks changes its tracks, such as by adding or remo
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the duration is concentration, up to 8 hours. When you use a spell slot of 5th level or higher, the duration is concentration, up to 24 hours.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 83*

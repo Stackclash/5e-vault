@@ -3,35 +3,37 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Abjuration
 level: 6
+ritual: false
+components: 'V, S, M (material goods and wealth worth at least 2,000 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'material goods and wealth worth at least 2,000 gp'
+time: 10 minutes
+duration: 24 hours
+range: Touch
+aliases:
+  - Claim Lair
 damage:
   base: 3d6
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 10 minutes
-duration: 24 hours
-range: Touch
-somatic: true
-verbal: true
-material: 'material goods and wealth worth at least 2,000 gp'
 area:
   shape: sphere
   size: 15
-aliases:
-  - Claim Lair
 ---
 # Claim Lair
 *6th-level, Abjuration*  
@@ -49,6 +51,6 @@ By placing your personal wealth within an area and invoking a dragon's territori
 
 Casting this spell on the same area every day for a year makes this effect permanent.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 198*

@@ -3,30 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Necromancy
 level: 6
+ritual: false
+components: >-
+  V, S, M (a gem, crystal, reliquary, or some other ornamental container worth
+  at least 500 gp)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  a gem, crystal, reliquary, or some other ornamental container worth at least
+  500 gp
+time: 1 minute
+duration: Until dispelled
+range: Self
+aliases:
+  - Magic Jar
 saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: false
-time: 1 minute
-duration: Until dispelled
-range: Self
-somatic: true
-verbal: true
-material: >-
-  a gem, crystal, reliquary, or some other ornamental container worth at least
-  500 gp
-aliases:
-  - Magic Jar
 ---
 # Magic Jar
 *6th-level, Necromancy*  
@@ -50,6 +54,6 @@ If the container is destroyed or the spell ends, your soul immediately returns t
 
 When the spell ends, the container is destroyed.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

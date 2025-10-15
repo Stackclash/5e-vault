@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Evocation
 level: 6
+ritual: false
+components: 'V, S, M (a small piece of quartz)'
+verbal: true
+somatic: true
+material: true
+material_desc: a small piece of quartz
+time: 1 Action
+duration: 'Concentration, up to 10 minutes'
+range: 120 feet
+aliases:
+  - Wall of Ice
 damage:
   base: 10d6
   scaling:
@@ -24,15 +35,6 @@ saving_throw:
     - Dexterity
     - Constitution
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 10 minutes'
-range: 120 feet
-somatic: true
-verbal: true
-material: a small piece of quartz
-aliases:
-  - Wall of Ice
 ---
 # Wall of Ice
 *6th-level, Evocation*  
@@ -50,6 +52,6 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by `dice:2d6|noform|noparens|avg|text(2d6)`, and the damage from passing through the sheet of frigid air increases by `dice:1d6|noform|noparens|avg|text(1d6)`, for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 285. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/wizard-spells
   - spell/level/1st-level
   - spell/optfeature/sweeping-cinder-strike
   - spell/reward/boon-of-the-fire-soul
@@ -16,12 +16,12 @@ tags:
   - spell/subclass/eldritch-knight
   - spell/subclass/light-domain
   - spell/subclass/the-fiend
-  - spell/subclass/the-genie
+  - spell/subclass/the-genie/efreeti
   - spell/subclass/way-of-the-sun-soul
   - spell/subrace/genasi-fire
   - spell/subrace/tiefling-mephistopheles
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Light Domain)
   - Druid (Circle of Wildfire)
   - Fighter (Eldritch Knight)
@@ -29,10 +29,21 @@ classes:
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Warlock (The Fiend)
-  - Warlock (The Genie)
+  - 'Warlock (The Genie, Efreeti)'
   - Wizard
 school: Evocation
 level: 1
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: Self (15-foot Cone)
+aliases:
+  - Burning Hands
 damage:
   base: 3d6
   scaling:
@@ -44,17 +55,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self (15-foot Cone)
-somatic: true
-verbal: true
 area:
   shape: cone
   size: 15
-aliases:
-  - Burning Hands
 ---
 # Burning Hands
 *1st-level, Evocation*  
@@ -71,8 +74,6 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 1st.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [Druid (Circle of Wildfire)](/compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Monk (Way of the Sun Soul)](/compendium/lists/list-spells-classes-way-of-the-sun-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]; [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Light Domain.md\|Cleric (Light Domain)]]; [Druid (Circle of Wildfire)](/compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Monk (Way of the Sun Soul)](/compendium/lists/list-spells-classes-way-of-the-sun-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes The Fiend.md\|Warlock (The Fiend)]]; [Warlock (The Genie, Efreeti)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 220. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

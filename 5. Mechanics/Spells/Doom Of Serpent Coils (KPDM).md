@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/sorcerer
@@ -12,7 +12,7 @@ tags:
   - spell/school/necromancy
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Rogue (Arcane Trickster)
@@ -20,6 +20,17 @@ classes:
   - Wizard
 school: Necromancy
 level: 4
+ritual: false
+components: 'V, S, M (a vial of poison)'
+verbal: true
+somatic: true
+material: true
+material_desc: a vial of poison
+time: 1 Action
+duration: Instantaneous
+range: Self (10-foot Radius)
+aliases:
+  - Doom of Serpent Coils
 damage:
   base: 4d6
   scaling:
@@ -31,18 +42,9 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self (10-foot Radius)
-somatic: true
-verbal: true
-material: a vial of poison
 area:
   shape: radius
   size: 10
-aliases:
-  - Doom of Serpent Coils
 ---
 # Doom of Serpent Coils
 *4th-level, Necromancy*  
@@ -56,6 +58,6 @@ You drink a dose of venom or other poison and spread the effect to other living 
 
 Multiple castings of this spell have no additional effect on creatures that are already [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] by it. The effect can be ended by protection from poison or comparable magic.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 62*

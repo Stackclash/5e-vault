@@ -3,24 +3,27 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/feat/fey-touched
   - spell/level/1st-level
   - spell/school/divination
   - spell/subclass/circle-of-oaks
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Druid (Circle of Oaks)
 school: Divination
 level: 1
 ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
 time: 1 Action
 duration: 1 minute
 range: Touch
-somatic: true
-verbal: true
 aliases:
   - Tree Speak
 ---
@@ -36,8 +39,6 @@ You touch a tree and ask one question about anything that might have happened in
 
 If you cast this spell on a tree that contains a creature that can merge with trees, such as a dryad, you can freely communicate with the merged creature for the duration of the spell.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Druid (Circle of Oaks)](/compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Druid (Circle of Oaks)](/compendium/lists/list-spells-classes-circle-of-oaks-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Deep Magic p. 115*

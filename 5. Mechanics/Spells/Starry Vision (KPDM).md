@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/divination
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Wizard
 school: Divination
 level: 7
+ritual: false
+components: 'V, M (a sprinkle of gold dust worth 400 gp)'
+verbal: true
+somatic: false
+material: true
+material_desc: a sprinkle of gold dust worth 400 gp
+time: 1 Reaction
+duration: 'Concentration, up to 1 minute'
+range: 100 feet
+aliases:
+  - Starry Vision
 damage:
   base: null
   scaling:
@@ -22,15 +33,6 @@ saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: false
-time: 1 Reaction
-duration: 'Concentration, up to 1 minute'
-range: 100 feet
-somatic: false
-verbal: true
-material: a sprinkle of gold dust worth 400 gp
-aliases:
-  - Starry Vision
 ---
 # Starry Vision
 *7th-level, Divination*  
@@ -44,6 +46,6 @@ This spell acts as [[/5. Mechanics/Spells/Compelling Fate (KPDM).md\|compelling 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the bonus to AC increases by 1 for each slot level above 7th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 109*

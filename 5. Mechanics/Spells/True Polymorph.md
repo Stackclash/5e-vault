@@ -3,30 +3,32 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/9th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
   - Wizard
 school: Transmutation
 level: 9
+ritual: false
+components: 'V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a drop of mercury, a dollop of gum arabic, and a wisp of smoke'
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: 30 feet
+aliases:
+  - True Polymorph
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: 30 feet
-somatic: true
-verbal: true
-material: 'a drop of mercury, a dollop of gum arabic, and a wisp of smoke'
-aliases:
-  - True Polymorph
 ---
 # True Polymorph
 *9th-level, Transmutation*  
@@ -62,6 +64,6 @@ If you turn a creature into an object, it transforms along with whatever it is w
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

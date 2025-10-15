@@ -3,27 +3,29 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/level/5th-level
   - spell/ritual
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Transmutation
 level: 5
+ritual: true
+components: 'V, S, M (a drop of snake venom)'
+verbal: true
+somatic: true
+material: true
+material_desc: a drop of snake venom
+time: 1 minute
+duration: 'Concentration, up to 10 minutes'
+range: 60 feet
+aliases:
+  - Curse of Yig
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: true
-time: 1 minute
-duration: 'Concentration, up to 10 minutes'
-range: 60 feet
-somatic: true
-verbal: true
-material: a drop of snake venom
-aliases:
-  - Curse of Yig
 ---
 # Curse of Yig
 *5th-level, Transmutation (ritual)*  
@@ -39,6 +41,6 @@ The transformation lasts for the duration or until the target drops to 0 hit poi
 
 When it reverts to its normal form, the creature has the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Deep Magic p. 337*

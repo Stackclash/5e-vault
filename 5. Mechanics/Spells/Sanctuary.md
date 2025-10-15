@@ -4,43 +4,45 @@ cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
   - spell/class/artificer
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/feat/artificer-initiate
-  - spell/feat/magic-initiate
+  - spell/feat/magic-initiate/cleric-spells
   - spell/level/1st-level
   - spell/school/abjuration
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
   - spell/subclass/oath-of-devotion
   - spell/subclass/oath-of-redemption
   - spell/subclass/peace-domain
-  - spell/subclass/the-genie
+  - spell/subclass/the-genie/dao
   - spell/subclass/way-of-the-open-hand
 classes:
   - Artificer
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Cleric (Peace Domain)
   - Monk (Way of the Open Hand)
   - Paladin (Oath of Devotion)
   - Paladin (Oath of Redemption)
-  - Sorcerer (Divine Soul)
-  - Warlock (The Genie)
+  - 'Sorcerer (Divine Soul, Good)'
+  - 'Warlock (The Genie, Dao)'
 school: Abjuration
 level: 1
+ritual: false
+components: 'V, S, M (a small silver mirror)'
+verbal: true
+somatic: true
+material: true
+material_desc: a small silver mirror
+time: 1 Bonus Action
+duration: 1 minute
+range: 30 feet
+aliases:
+  - Sanctuary
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 1 Bonus Action
-duration: 1 minute
-range: 30 feet
-somatic: true
-verbal: true
-material: a small silver mirror
-aliases:
-  - Sanctuary
 ---
 # Sanctuary
 *1st-level, Abjuration*  
@@ -54,8 +56,6 @@ You ward a creature within range against attack. Until the spell ends, any creat
 
 If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Way Of The Open Hand.md\|Monk (Way of the Open Hand)]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Genie)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Artificer Initiate (TCE).md\|Artificer Initiate]]; [[/5. Mechanics/Lists/List Spells Feats Magic Initiate.md\|Magic Initiate]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Artificer.md\|Artificer]]; [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Peace Domain)](/compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Way Of The Open Hand.md\|Monk (Way of the Open Hand)]]; [[/5. Mechanics/Lists/List Spells Classes Oath Of Devotion.md\|Paladin (Oath of Devotion)]]; [Paladin (Oath of Redemption)](/compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Genie, Dao)](/compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
 
 *Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/sorcerer
@@ -11,13 +11,24 @@ tags:
   - spell/level/7th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Sorcerer
   - Wizard
 school: Evocation
 level: 7
+ritual: false
+components: 'V, S, M (crystalline statue of a polar bear worth at least 25 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: crystalline statue of a polar bear worth at least 25 gp
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 100 feet
+aliases:
+  - Glacial Fog
 damage:
   base: 12d6
   scaling:
@@ -29,18 +40,9 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 100 feet
-somatic: true
-verbal: true
-material: crystalline statue of a polar bear worth at least 25 gp
 area:
   shape: sphere
   size: 30
-aliases:
-  - Glacial Fog
 ---
 # Glacial Fog
 *7th-level, Evocation*  
@@ -56,6 +58,6 @@ Stored devices and tools are all frozen by the fog: crossbow mechanisms become s
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 7th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 272*

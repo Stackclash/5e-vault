@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/4th-level
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Wizard
 school: Conjuration
 level: 4
+ritual: false
+components: 'V, S, M (dust from a stone quarry)'
+verbal: true
+somatic: true
+material: true
+material_desc: dust from a stone quarry
+time: 1 Action
+duration: 1 minute
+range: 120 feet
+aliases:
+  - Doom of the Pit
 damage:
   base: 1d6
   scaling:
@@ -28,18 +39,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: 120 feet
-somatic: true
-verbal: true
-material: dust from a stone quarry
 area:
   shape: sphere
   size: 10
-aliases:
-  - Doom of the Pit
 ---
 # Doom of the Pit
 *4th-level, Conjuration*  
@@ -57,6 +59,6 @@ The walls of the pit are slick and slimy, requiring a DC 15 Strength ([[/5. Mech
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can increase the depth of the pit by 10 feet for each slot level above 4th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 63*

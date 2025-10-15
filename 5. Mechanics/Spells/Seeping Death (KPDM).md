@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/warlock
   - spell/level/3rd-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Warlock
 school: Necromancy
 level: 3
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 3 days
+range: Touch
+aliases:
+  - Seeping Death
 damage:
   base: 1d4
   scaling:
@@ -26,14 +37,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 3 days
-range: Touch
-somatic: true
-verbal: true
-aliases:
-  - Seeping Death
 ---
 # Seeping Death
 *3rd-level, Necromancy*  
@@ -49,6 +52,6 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 **Seeping Death**. The creature's flesh is slowly liquefied by a lingering necrotic pestilence. At the end of each long rest, the diseased creature must succeed on a Constitution saving throw or its Dexterity score is reduced by `dice:1d4|noform|noparens|avg` (`1d4`). The reduction lasts until the target finishes a long rest after the disease is cured. If the disease reduces the creature's Dexterity to 0, the creature dies.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 105*

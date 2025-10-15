@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/warlock
   - spell/level/6th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Warlock
 school: Necromancy
 level: 6
+ritual: false
+components: 'V, S, M (a bronze bell)'
+verbal: true
+somatic: true
+material: true
+material_desc: a bronze bell
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 150 feet
+aliases:
+  - Tolling Doom
 damage:
   base: null
   scaling:
@@ -24,15 +35,6 @@ saving_throw:
   skills:
     - Charisma
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 150 feet
-somatic: true
-verbal: true
-material: a bronze bell
-aliases:
-  - Tolling Doom
 ---
 # Tolling Doom
 *6th-level, Necromancy*  
@@ -48,6 +50,6 @@ This spell has no effect on a target that has an Intelligence score lower than 3
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can affect one additional target for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 115*

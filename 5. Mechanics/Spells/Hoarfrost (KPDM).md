@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -13,7 +13,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -21,6 +21,17 @@ classes:
   - Wizard
 school: Evocation
 level: 0
+ritual: false
+components: 'V, S, M (a melee weapon)'
+verbal: true
+somatic: true
+material: true
+material_desc: a melee weapon
+time: 1 Bonus Action
+duration: 1 minute
+range: Touch
+aliases:
+  - Hoarfrost
 damage:
   base: 1d4
   scaling:
@@ -28,15 +39,6 @@ damage:
     level: null
   types:
     - cold
-ritual: false
-time: 1 Bonus Action
-duration: 1 minute
-range: Touch
-somatic: true
-verbal: true
-material: a melee weapon
-aliases:
-  - Hoarfrost
 ---
 # Hoarfrost
 *cantrip, Evocation*  
@@ -52,6 +54,6 @@ The weapon becomes magical and deals an extra `dice:1d4|noform|noparens|avg` (`1
 
 The spell's damage increases by `dice:1d4|noform|noparens|avg` (`1d4`) when you reach 5th level (`dice:2d4|noform|noparens|avg` (`2d4`)), 11th level (`dice:3d4|noform|noparens|avg` (`3d4`)), and 17th level (`dice:4d4|noform|noparens|avg` (`4d4`)).
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 232*

@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Evocation
 level: 6
+ritual: false
+components: 'V, S, M (a small crystal sphere)'
+verbal: true
+somatic: true
+material: true
+material_desc: a small crystal sphere
+time: 1 Action
+duration: Instantaneous
+range: 300 feet
+aliases:
+  - Otiluke's Freezing Sphere
 damage:
   base: 10d6
   scaling:
@@ -25,18 +36,9 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 300 feet
-somatic: true
-verbal: true
-material: a small crystal sphere
 area:
   shape: sphere
   size: 60
-aliases:
-  - Otiluke's Freezing Sphere
 ---
 # Otiluke's Freezing Sphere
 *6th-level, Evocation*  
@@ -54,6 +56,6 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Freezing Sphere")*

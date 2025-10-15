@@ -3,21 +3,21 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/3rd-level
   - spell/school/evocation
   - spell/subclass/arcane-trickster
   - spell/subclass/armorer
-  - spell/subclass/circle-of-the-land
+  - spell/subclass/circle-of-the-land/mountain
   - spell/subclass/eldritch-knight
   - spell/subclass/rocborne
   - spell/subclass/the-fathomless
 classes:
   - Artificer (Armorer)
-  - Bard
-  - Druid (Circle of the Land)
+  - Bard (Magical Secrets)
+  - 'Druid (Circle of the Land, Mountain)'
   - Fighter (Eldritch Knight)
   - Ranger (Rocborne)
   - Rogue (Arcane Trickster)
@@ -26,6 +26,17 @@ classes:
   - Wizard
 school: Evocation
 level: 3
+ritual: false
+components: 'V, S, M (a bit of fur and a rod of amber, crystal, or glass)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a bit of fur and a rod of amber, crystal, or glass'
+time: 1 Action
+duration: Instantaneous
+range: Self (100-foot Line)
+aliases:
+  - Lightning Bolt
 damage:
   base: 8d6
   scaling:
@@ -37,18 +48,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self (100-foot Line)
-somatic: true
-verbal: true
-material: 'a bit of fur and a rod of amber, crystal, or glass'
 area:
   shape: line
   size: 100
-aliases:
-  - Lightning Bolt
 ---
 # Lightning Bolt
 *3rd-level, Evocation*  
@@ -64,6 +66,6 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 3rd.
 
-**Classes**: [Artificer (Armorer)](/compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Rocborne)](/compendium/lists/list-spells-classes-rocborne-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Fathomless)](/compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [Artificer (Armorer)](/compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Mountain)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [Ranger (Rocborne)](/compendium/lists/list-spells-classes-rocborne-griffonssaddlebag2.md "subclass=GriffonsSaddlebag2"); [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [Warlock (The Fathomless)](/compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

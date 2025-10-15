@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/6th-level
   - spell/school/conjuration
   - spell/subclass/hedge-mage
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Wizard (Hedge Mage)
 school: Conjuration
 level: 6
+ritual: false
+components: 'V, S, M (a handful of thorns)'
+verbal: true
+somatic: true
+material: true
+material_desc: a handful of thorns
+time: 1 Action
+duration: 'Concentration, up to 10 minutes'
+range: 120 feet
+aliases:
+  - Wall of Thorns
 damage:
   base: 7d8
   scaling:
@@ -26,15 +37,6 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 10 minutes'
-range: 120 feet
-somatic: true
-verbal: true
-material: a handful of thorns
-aliases:
-  - Wall of Thorns
 ---
 # Wall of Thorns
 *6th-level, Conjuration*  
@@ -52,6 +54,6 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Wizard (Hedge Mage)](/compendium/lists/list-spells-classes-hedge-mage-griffonssaddlebag3.md "subclass=GriffonsSaddlebag3")
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

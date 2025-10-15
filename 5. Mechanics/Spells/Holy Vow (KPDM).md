@@ -3,31 +3,33 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/paladin
   - spell/level/3rd-level
   - spell/ritual
   - spell/school/abjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Paladin
 school: Abjuration
 level: 3
+ritual: true
+components: 'V, S, M (a vial of holy water, which is consumed)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a vial of holy water, which is consumed'
+time: 1 Action
+duration: 24 hours
+range: Self
+aliases:
+  - Holy Vow
 damage:
   base: 4d10
   scaling:
     damage: null
     level: null
   types: []
-ritual: true
-time: 1 Action
-duration: 24 hours
-range: Self
-somatic: true
-verbal: true
-material: 'a vial of holy water, which is consumed'
-aliases:
-  - Holy Vow
 ---
 # Holy Vow
 *3rd-level, Abjuration (ritual)*  
@@ -41,6 +43,6 @@ You willingly take a vow to complete a task or carry out a service. This task or
 
 If you willingly forsake your vow, the spell ends, and you take `dice:4d10|noform|noparens|avg` (`4d10`) psychic damage. At the GM's discretion, you might suffer other penalties and need to atone for your decision. See the "Breaking Your Oath" sidebar in the paladin class description for more details. Failing to complete the task does not incur any penalties as long as you remain true to your vow, nor are you penalized if some form of outside coercion, magical or otherwise, leads you to forsake your vow (being [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]], for instance, or if a villain threatens the lives of innocents if you do not break the vow).
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Paladin.md\|Paladin]]
 
 *Source: Deep Magic p. 81*

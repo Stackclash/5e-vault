@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Evocation
 level: 7
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Instantaneous
+range: Self (60-foot Cone)
+aliases:
+  - Prismatic Spray
 damage:
   base: 10d6
   scaling:
@@ -31,17 +42,9 @@ saving_throw:
     - Constitution
     - Wisdom
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: Self (60-foot Cone)
-somatic: true
-verbal: true
 area:
   shape: cone
   size: 60
-aliases:
-  - Prismatic Spray
 ---
 # Prismatic Spray
 *7th-level, Evocation*  
@@ -88,6 +91,6 @@ The target is struck by two rays. Roll twice more, rerolling any 8.
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

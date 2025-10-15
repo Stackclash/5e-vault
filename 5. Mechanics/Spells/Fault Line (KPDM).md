@@ -3,23 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/evocation
-  - spell/subclass/divine-soul
+  - spell/subclass/divine-soul/good
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Sorcerer
-  - Sorcerer (Divine Soul)
+  - 'Sorcerer (Divine Soul, Good)'
   - Wizard
 school: Evocation
 level: 6
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: Until dispelled
+range: Self (60-foot Line)
+aliases:
+  - Fault Line
 damage:
   base: 8d6
   scaling:
@@ -31,17 +42,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Until dispelled
-range: Self (60-foot Line)
-somatic: true
-verbal: true
 area:
   shape: line
   size: 60
-aliases:
-  - Fault Line
 ---
 # Fault Line
 *6th-level, Evocation*  
@@ -53,6 +56,6 @@ aliases:
 
 The ground thrusts sharply upward along a 5-foot-wide, 60-foot-long line that you designate. All spaces affected by the spell become difficult terrain. In addition, all creatures in the affected area are knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] and take `dice:8d6|noform|noparens|avg` (`8d6`) bludgeoning damage. Creatures that make a successful Dexterity saving throw take half as much damage and are not knocked [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. This spell doesn't damage permanent structures.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Sorcerer (Divine Soul, Good)](/compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 69*

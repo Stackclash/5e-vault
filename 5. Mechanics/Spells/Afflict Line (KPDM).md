@@ -3,31 +3,33 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/wizard
   - spell/level/9th-level
   - spell/ritual
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Wizard
 school: Necromancy
 level: 9
+ritual: true
+components: 'V, S, M (a statuette carved in the likeness of the victim worth 1,250 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a statuette carved in the likeness of the victim worth 1,250 gp'
+time: 1 hour
+duration: Until dispelled
+range: 1 miles
+aliases:
+  - Afflict Line
 saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: true
-time: 1 hour
-duration: Until dispelled
-range: 1 miles
-somatic: true
-verbal: true
-material: 'a statuette carved in the likeness of the victim worth 1,250 gp'
-aliases:
-  - Afflict Line
 ---
 # Afflict Line
 *9th-level, Necromancy (ritual)*  
@@ -48,6 +50,6 @@ If you expend your ritual focus, the curse becomes hereditary, passing from firs
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 210*

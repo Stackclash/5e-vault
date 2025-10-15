@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/cleric
   - spell/class/druid
   - spell/class/sorcerer
@@ -14,7 +14,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric
   - Druid
   - Fighter (Eldritch Knight)
@@ -25,12 +25,14 @@ classes:
 school: Divination
 level: 3
 ritual: false
+components: 'V, M (a pinch of grave dust or a piece from a tombstone)'
+verbal: true
+somatic: false
+material: true
+material_desc: a pinch of grave dust or a piece from a tombstone
 time: 1 Action
 duration: Instantaneous
 range: Touch
-somatic: false
-verbal: true
-material: a pinch of grave dust or a piece from a tombstone
 aliases:
   - Glimpse the End
 ---
@@ -44,6 +46,6 @@ aliases:
 
 You examine the life force in a creature you touch and sense when it will expire. You and the creature share a vision of the most likely way in which the creature will die. You both sense approximately how far into the future the event occurs. The vision is not a prophecy or a definite fate; life can take unexpected twists and turns. It is, however, the most likely outcome at the current time unless the creature alters the course of its life. The vision can seem to last as little as a few moments or as long as 30 minutes to you and the spell's target, but in the objective world, the knowledge is received instantaneously.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Cleric.md\|Cleric]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 310*

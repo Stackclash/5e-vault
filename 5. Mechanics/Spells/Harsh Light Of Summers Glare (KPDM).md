@@ -3,31 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/8th-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Sorcerer
   - Wizard
 school: Enchantment
 level: 8
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 1 round
+range: 90 feet
+aliases:
+  - Harsh Light of Summer's Glare
 saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 round
-range: 90 feet
-somatic: true
-verbal: true
-aliases:
-  - Harsh Light of Summer's Glare
 ---
 # Harsh Light of Summer's Glare
 *8th-level, Enchantment*  
@@ -39,6 +42,6 @@ aliases:
 
 You emit a burst of brilliant light, which bears down oppressively upon all creatures within range that can see you. Creatures with [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] that fail a Constitution saving throw are [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] and [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]]. Creatures without [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] that fail a Constitution saving throw are [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]]. This is not a gaze attack, and it cannot be avoided by averting one's eyes or wearing a blindfold.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 78*

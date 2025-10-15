@@ -14,20 +14,22 @@ classes:
   - Wizard
 school: Conjuration
 level: 2
+ritual: false
+components: 'V, S, M (bacon fat)'
+verbal: true
+somatic: true
+material: true
+material_desc: bacon fat
+time: 1 Action
+duration: 1 minute
+range: 40 feet
+aliases:
+  - Doom of the Slippery Rogue
 saving_throw:
   skills:
     - Strength
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 1 minute
-range: 40 feet
-somatic: true
-verbal: true
-material: bacon fat
-aliases:
-  - Doom of the Slippery Rogue
 ---
 # Doom of the Slippery Rogue
 *2nd-level, Conjuration*  

@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/wizard
   - spell/level/2nd-level
   - spell/school/conjuration
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Wizard
 school: Conjuration
 level: 2
+ritual: false
+components: 'V, S, M (powdered diamond worth at least 50 gp, which the spell consumes)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'powdered diamond worth at least 50 gp, which the spell consumes'
+time: 10 minutes
+duration: 24 hours
+range: Touch
+aliases:
+  - Glyph of Shifting
 damage:
   base: 4d4
   scaling:
@@ -27,15 +38,6 @@ saving_throw:
   skills:
     - Wisdom
   succeeds: see spell description
-ritual: false
-time: 10 minutes
-duration: 24 hours
-range: Touch
-somatic: true
-verbal: true
-material: 'powdered diamond worth at least 50 gp, which the spell consumes'
-aliases:
-  - Glyph of Shifting
 ---
 # Glyph of Shifting
 *2nd-level, Conjuration*  
@@ -53,6 +55,6 @@ The glyph disappears after being triggered or when the spell's duration expires.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, its duration increases by 24 hours and the maximum distance to the destination increases by 5 miles for each slot level above 2nd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 75*

@@ -3,22 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/5th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
 school: Transmutation
 level: 5
 ritual: false
+components: >-
+  V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell
+  consumes)
+verbal: true
+somatic: true
+material: true
+material_desc: 'rare oils and unguents worth at least 1,000 gp, which the spell consumes'
 time: 1 hour
 duration: Instantaneous
 range: Touch
-somatic: true
-verbal: true
-material: 'rare oils and unguents worth at least 1,000 gp, which the spell consumes'
 aliases:
   - Reincarnate
 ---
@@ -58,6 +62,6 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 
 The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Player's Handbook p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

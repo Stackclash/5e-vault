@@ -3,29 +3,31 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/ranger
   - spell/level/3rd-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Ranger
 school: Transmutation
 level: 3
 ritual: false
+components: 'V, S, M (a pinch of charcoal dust or a drop of vinegar)'
+verbal: true
+somatic: true
+material: true
+material_desc: a pinch of charcoal dust or a drop of vinegar
 time: 1 Action
 duration: Instantaneous
 range: 30 feet
-somatic: true
-verbal: true
-material: a pinch of charcoal dust or a drop of vinegar
+aliases:
+  - Remove Scent
 area:
   shape: cube
   size: 40
-aliases:
-  - Remove Scent
 ---
 # Remove Scent
 *3rd-level, Transmutation*  
@@ -39,6 +41,6 @@ You magically remove strong odors from an area, person, or object. Up to a 40-fo
 
 This spell can also be cast on a single creature of up to Large size, except for one that already gives off a strong odor (such as a [[/5. Mechanics/Bestiary/Humanoid/Troglodyte.md\|troglodyte]]). For the next hour, the creature has no scent, and it cannot be detected by Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks relying on scent.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]
 
 *Source: Deep Magic p. 102*

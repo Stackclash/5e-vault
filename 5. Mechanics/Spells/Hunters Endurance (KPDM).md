@@ -3,27 +3,31 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/ranger
   - spell/class/warlock
   - spell/feat/fey-touched
   - spell/level/1st-level
   - spell/school/enchantment
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Ranger
   - Warlock
 school: Enchantment
 level: 1
 ritual: false
+components: >-
+  V, S, M (a fingernail, a lock of hair, bit of fur, or drop of blood from the
+  target, if unfamiliar)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  a fingernail, a lock of hair, bit of fur, or drop of blood from the target, if
+  unfamiliar
 time: 1 minute
 duration: 24 hours
 range: Self
-somatic: true
-verbal: true
-material: >-
-  a fingernail, a lock of hair, bit of fur, or drop of blood from the target, if
-  unfamiliar
 aliases:
   - Hunter's Endurance
 ---
@@ -41,8 +45,6 @@ Until the spell ends, you have advantage on all Wisdom ([[/5. Mechanics/Rules/Sk
 
 The spell ends only after 24 hours, when the target is dead, when the target is on a different plane, or when the target is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] in your line of sight.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
-
-**Feats**: [[/5. Mechanics/Lists/List Spells Feats Fey Touched (TCE).md\|Fey Touched]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Ranger.md\|Ranger]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]
 
 *Source: Deep Magic p. 81*

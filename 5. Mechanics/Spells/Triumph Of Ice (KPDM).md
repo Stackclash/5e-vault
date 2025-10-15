@@ -3,19 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/7th-level
   - spell/school/transmutation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
   - Sorcerer
   - Wizard
 school: Transmutation
 level: 7
+ritual: false
+components: 'V, S, M (a stone extracted from glacial ice)'
+verbal: true
+somatic: true
+material: true
+material_desc: a stone extracted from glacial ice
+time: 1 Action
+duration: 'Concentration, up to 1 minute'
+range: 100 feet
+aliases:
+  - Triumph of Ice
 damage:
   base: 8d6
   scaling:
@@ -28,15 +39,6 @@ saving_throw:
   skills:
     - Constitution
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 1 minute'
-range: 100 feet
-somatic: true
-verbal: true
-material: a stone extracted from glacial ice
-aliases:
-  - Triumph of Ice
 ---
 # Triumph of Ice
 *7th-level, Transmutation*  
@@ -66,6 +68,6 @@ Open water (a pond, lake, or river) freezes to a depth of 4 feet. A creature on 
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 276*

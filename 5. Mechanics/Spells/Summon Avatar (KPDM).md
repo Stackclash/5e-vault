@@ -3,29 +3,33 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/level/9th-level
   - spell/ritual
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Conjuration
 level: 9
+ritual: true
+components: >-
+  V, S, M (a vial of the caster's blood, a dried opium poppy, and a silver
+  dagger)
+verbal: true
+somatic: true
+material: true
+material_desc: 'a vial of the caster''s blood, a dried opium poppy, and a silver dagger'
+time: 1 minute
+duration: 'Concentration, up to 1 hour'
+range: 60 feet
+aliases:
+  - Summon Avatar
 damage:
   base: 1d4+1
   scaling:
     damage: null
     level: null
   types: []
-ritual: true
-time: 1 minute
-duration: 'Concentration, up to 1 hour'
-range: 60 feet
-somatic: true
-verbal: true
-material: 'a vial of the caster''s blood, a dried opium poppy, and a silver dagger'
-aliases:
-  - Summon Avatar
 ---
 # Summon Avatar
 *9th-level, Conjuration (ritual)*  
@@ -50,6 +54,6 @@ Each round when you maintain concentration on the spell, you must make a success
 
 The avatar disappears when it drops to 0 hit points or when the spell ends. If you stop concentrating before 1 hour has elapsed, the avatar becomes uncontrolled and hostile until it disappears `dice:1d6|noform|noparens|avg` (`1d6`) rounds later or until it is killed.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Deep Magic p. 341*

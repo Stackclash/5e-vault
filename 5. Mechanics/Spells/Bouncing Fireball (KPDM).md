@@ -3,17 +3,28 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/evocation
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Sorcerer
   - Wizard
 school: Evocation
 level: 6
+ritual: false
+components: 'V, S, M (a tiny ball of bat guano and sulfur, and three iron pins)'
+verbal: true
+somatic: true
+material: true
+material_desc: 'a tiny ball of bat guano and sulfur, and three iron pins'
+time: 1 Action
+duration: Instantaneous
+range: 150 feet
+aliases:
+  - Bouncing Fireball
 damage:
   base: 7d6
   scaling:
@@ -25,15 +36,6 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: see spell description
-ritual: false
-time: 1 Action
-duration: Instantaneous
-range: 150 feet
-somatic: true
-verbal: true
-material: 'a tiny ball of bat guano and sulfur, and three iron pins'
-aliases:
-  - Bouncing Fireball
 ---
 # Bouncing Fireball
 *6th-level, Evocation*  
@@ -51,6 +53,6 @@ Note that for the second and third bursts, the flame jumps exactly 40 feet—nev
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 6th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 353*

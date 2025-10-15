@@ -3,42 +3,46 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/class/wizard
   - spell/level/5th-level
   - spell/optfeature/minions-of-chaos
   - spell/school/conjuration
-  - spell/subclass/circle-of-the-land
+  - spell/subclass/circle-of-the-land/coast
   - spell/subclass/ocean-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Ocean Domain)
   - Druid
-  - Druid (Circle of the Land)
+  - 'Druid (Circle of the Land, Coast)'
   - Wizard
 school: Conjuration
 level: 5
+ritual: false
+components: >-
+  V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus
+  for fire, or water and sand for water)
+verbal: true
+somatic: true
+material: true
+material_desc: >-
+  burning incense for air, soft clay for earth, sulfur and phosphorus for fire,
+  or water and sand for water
+time: 1 minute
+duration: 'Concentration, up to 1 hour'
+range: 90 feet
+aliases:
+  - Conjure Elemental
 damage:
   base: null
   scaling:
     damage: null
     level: 6
   types: []
-ritual: false
-time: 1 minute
-duration: 'Concentration, up to 1 hour'
-range: 90 feet
-somatic: true
-verbal: true
-material: >-
-  burning incense for air, soft clay for earth, sulfur and phosphorus for fire,
-  or water and sand for water
 area:
   shape: cube
   size: 10
-aliases:
-  - Conjure Elemental
 ---
 # Conjure Elemental
 *5th-level, Conjuration*  
@@ -58,6 +62,6 @@ The DM has the elemental's statistics.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Ocean Domain)](/compendium/lists/list-spells-classes-ocean-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Ocean Domain)](/compendium/lists/list-spells-classes-ocean-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Coast)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Player's Handbook p. 225. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

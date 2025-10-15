@@ -3,14 +3,25 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/level/4th-level
   - spell/ritual
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Necromancy
 level: 4
+ritual: true
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 1 hour'
+range: Touch
+aliases:
+  - Green Decay
 damage:
   base: 1d6
   scaling:
@@ -18,14 +29,6 @@ damage:
     level: null
   types:
     - necrotic
-ritual: true
-time: 1 Action
-duration: 'Concentration, up to 1 hour'
-range: Touch
-somatic: true
-verbal: true
-aliases:
-  - Green Decay
 ---
 # Green Decay
 *4th-level, Necromancy (ritual)*  
@@ -41,6 +44,6 @@ You lose concentration on this spell if you can't see the target at the end of y
 
 **Green Decay.** The flesh of a creature that has this disease is slowly consumed by a virulent extraterrestrial fungus. While the disease persists, the creature has disadvantage on Charisma and Wisdom checks and on Wisdom saving throws, and it has vulnerability to acid, fire, and necrotic damage. An affected creature must make a Constitution saving throw at the end of each of its turns. On a failed save, the creature takes `dice:1d6|noform|noparens|avg` (`1d6`) necrotic damage, and its hit point maximum is reduced by an amount equal to the necrotic damage taken. If the creature gets three successes on these saving throws before it gets three failures, the disease ends immediately (but the damage and the hit point maximum reduction remain in effect). If the creature gets three failures on these saving throws before it gets three successes, the disease lasts for the duration of the spell, and no further saving throws are allowed.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Deep Magic p. 339*

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/wizard
   - spell/level/4th-level
@@ -11,28 +11,30 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
   - Wizard
 school: Abjuration
 level: 4
+ritual: false
+components: 'V, S, M (an object worth at least 75 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: an object worth at least 75 gp
+time: 1 Action
+duration: 24 hours
+range: Touch
+aliases:
+  - Cursed Gift
 damage:
   base: null
   scaling:
     damage: null
     level: 5
   types: []
-ritual: false
-time: 1 Action
-duration: 24 hours
-range: Touch
-somatic: true
-verbal: true
-material: an object worth at least 75 gp
-aliases:
-  - Cursed Gift
 ---
 # Cursed Gift
 *4th-level, Abjuration*  
@@ -48,6 +50,6 @@ Returning the object to you, destroying it, or giving it to someone else has no 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the duration increases by 24 hours for each slot level above 4th.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 56*

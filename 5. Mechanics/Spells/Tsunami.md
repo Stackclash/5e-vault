@@ -3,15 +3,26 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/8th-level
   - spell/school/conjuration
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Druid
 school: Conjuration
 level: 8
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 minute
+duration: 'Concentration, up to 6 rounds'
+range: Sight
+aliases:
+  - Tsunami
 damage:
   base: 6d10
   scaling:
@@ -23,14 +34,6 @@ saving_throw:
   skills:
     - Strength
   succeeds: half damage
-ritual: false
-time: 1 minute
-duration: 'Concentration, up to 6 rounds'
-range: Sight
-somatic: true
-verbal: true
-aliases:
-  - Tsunami
 ---
 # Tsunami
 *8th-level, Conjuration*  
@@ -48,6 +51,6 @@ At the start of each of your turns after the wall appears, the wall, along with 
 
 A creature caught in the wall can move by swimming. Because of the force of the wave, though, the creature must make a successful Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check against your spell save DC in order to move at all. If it fails the check, it can't move. A creature that moves out of the area falls to the ground.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]
 
 *Source: Player's Handbook p. 284*

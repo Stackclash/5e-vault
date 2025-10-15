@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/sorcerer
   - spell/class/warlock
   - spell/class/wizard
@@ -12,7 +12,7 @@ tags:
   - spell/subclass/arcane-trickster
   - spell/subclass/eldritch-knight
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Fighter (Eldritch Knight)
   - Rogue (Arcane Trickster)
   - Sorcerer
@@ -21,17 +21,19 @@ classes:
 school: Evocation
 level: 1
 ritual: false
+components: 'V, S, M (a paper straw)'
+verbal: true
+somatic: true
+material: true
+material_desc: a paper straw
 time: 1 Action
 duration: 'Concentration, up to 1 minute'
 range: Self (60-foot Line)
-somatic: true
-verbal: true
-material: a paper straw
+aliases:
+  - Wind Tunnel
 area:
   shape: line
   size: 60
-aliases:
-  - Wind Tunnel
 ---
 # Wind Tunnel
 *1st-level, Evocation*  
@@ -45,6 +47,6 @@ You create a swirling tunnel of strong wind extending from yourself in a directi
 
 The wind tunnel immediately disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the line. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance of extinguishing them.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Eldritch Knight.md\|Fighter (Eldritch Knight)]]; [[/5. Mechanics/Lists/List Spells Classes Arcane Trickster.md\|Rogue (Arcane Trickster)]]; [[/5. Mechanics/Lists/List Spells Classes Sorcerer.md\|Sorcerer]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Deep Magic p. 121*

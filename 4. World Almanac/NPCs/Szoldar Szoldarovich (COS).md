@@ -107,6 +107,31 @@ actions:
 > [!div | no-t clean txt-c]
 > `$=await dv.view("npcRelationships", { current: dv.current() })`
 
+## Quests
+```datacorejsx
+return function View() {
+  const currentPage = dc.useCurrentFile()
+  const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
+  console.log(quests)
+  const columns = [
+    {
+      id: 'Quest',
+      value: (row) => row.$link
+    },
+    {
+      id: 'Description',
+      value: (row) => row.$frontmatter.description.raw || ''
+    },
+    {
+      id: 'Involvement',
+      value: (row) => row.$frontmatter.npcs.raw.find(n => n.name.includes(currentPage.$name)).description || ''
+    }
+  ]
+  
+  return <dc.Table rows={quests} columns={columns}/>
+}
+```
+
 ## Stats
 ```statblock
 "name": "Szoldar Szoldarovich (COS)"

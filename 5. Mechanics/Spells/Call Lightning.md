@@ -3,23 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/phb
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/druid
   - spell/level/3rd-level
   - spell/school/conjuration
-  - spell/subclass/circle-of-the-land
+  - spell/subclass/circle-of-the-land/forest
   - spell/subclass/justice-domain
   - spell/subclass/oath-of-thunder
   - spell/subclass/tempest-domain
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Cleric (Justice Domain)
   - Cleric (Tempest Domain)
   - Druid
-  - Druid (Circle of the Land)
+  - 'Druid (Circle of the Land, Forest)'
   - Paladin (Oath of Thunder)
 school: Conjuration
 level: 3
+ritual: false
+components: 'V, S'
+verbal: true
+somatic: true
+material: false
+material_desc: ''
+time: 1 Action
+duration: 'Concentration, up to 10 minutes'
+range: 120 feet
+aliases:
+  - Call Lightning
 damage:
   base: 3d10
   scaling:
@@ -31,17 +42,9 @@ saving_throw:
   skills:
     - Dexterity
   succeeds: half damage
-ritual: false
-time: 1 Action
-duration: 'Concentration, up to 10 minutes'
-range: 120 feet
-somatic: true
-verbal: true
 area:
   shape: sphere
   size: 60
-aliases:
-  - Call Lightning
 ---
 # Call Lightning
 *3rd-level, Conjuration*  
@@ -59,6 +62,6 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th or higher level, the damage increases by `dice:1d10|noform|noparens|avg|text(1d10)` for each slot level above 3rd.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [Cleric (Justice Domain)](/compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Tempest Domain.md\|Cleric (Tempest Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of Thunder)](/compendium/lists/list-spells-classes-oath-of-thunder-kpdm.md "subclass=KPDM")
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [Cleric (Justice Domain)](/compendium/lists/list-spells-classes-justice-domain-kpdm.md "subclass=KPDM"); [[/5. Mechanics/Lists/List Spells Classes Tempest Domain.md\|Cleric (Tempest Domain)]]; [[/5. Mechanics/Lists/List Spells Classes Circle Of The Land.md\|Druid (Circle of the Land, Forest)]]; [[/5. Mechanics/Lists/List Spells Classes Druid.md\|Druid]]; [Paladin (Oath of Thunder)](/compendium/lists/list-spells-classes-oath-of-thunder-kpdm.md "subclass=KPDM")
 
 *Source: Player's Handbook p. 220. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

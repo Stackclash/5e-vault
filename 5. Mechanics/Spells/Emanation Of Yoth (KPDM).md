@@ -3,29 +3,31 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/kpdm
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/level/4th-level
   - spell/ritual
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
 school: Necromancy
 level: 4
+ritual: true
+components: 'V, S, M (a fistful of grave earth and a vial of child''s blood)'
+verbal: true
+somatic: true
+material: true
+material_desc: a fistful of grave earth and a vial of child's blood
+time: 1 minute
+duration: 'Concentration, up to 1 hour'
+range: 90 feet
+aliases:
+  - Emanation of Yoth
 damage:
   base: null
   scaling:
     damage: null
     level: null
   types: []
-ritual: true
-time: 1 minute
-duration: 'Concentration, up to 1 hour'
-range: 90 feet
-somatic: true
-verbal: true
-material: a fistful of grave earth and a vial of child's blood
-aliases:
-  - Emanation of Yoth
 ---
 # Emanation of Yoth
 *4th-level, Necromancy (ritual)*  
@@ -43,6 +45,6 @@ You are immune to the ghost's Horrifying Visage action but can willingly become 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th or 7th level, you call forth two [[/5. Mechanics/Bestiary/Undead/Ghost.md\|ghosts]]. If you cast it using a spell slot of 8th or 9th level, you call forth three ghosts.
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]
 
 *Source: Deep Magic p. 338*

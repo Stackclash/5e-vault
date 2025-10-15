@@ -3,32 +3,34 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
   - compendium/src/5e/xge
-  - spell/class/bard
+  - spell/class/bard/magical-secrets
   - spell/class/warlock
   - spell/class/wizard
   - spell/level/6th-level
   - spell/school/necromancy
 classes:
-  - Bard
+  - Bard (Magical Secrets)
   - Warlock
   - Wizard
 school: Necromancy
 level: 6
+ritual: false
+components: 'V, S, M (a tiny silver cage worth 100 gp)'
+verbal: true
+somatic: true
+material: true
+material_desc: a tiny silver cage worth 100 gp
+time: 1 Reaction
+duration: 8 hours
+range: 60 feet
+aliases:
+  - Soul Cage
 damage:
   base: 2d8
   scaling:
     damage: null
     level: null
   types: []
-ritual: false
-time: 1 Reaction
-duration: 8 hours
-range: 60 feet
-somatic: true
-verbal: true
-material: a tiny silver cage worth 100 gp
-aliases:
-  - Soul Cage
 ---
 # Soul Cage
 *6th-level, Necromancy*  
@@ -60,6 +62,6 @@ A creature that can see the sensor (such as one using [[/5. Mechanics/Spells/See
 
 ## Summary
 
-**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
+**Classes**: [[/5. Mechanics/Lists/List Spells Classes Bard.md\|Bard (Magical Secrets)]]; [[/5. Mechanics/Lists/List Spells Classes Warlock.md\|Warlock]]; [[/5. Mechanics/Lists/List Spells Classes Wizard.md\|Wizard]]
 
 *Source: Xanathar's Guide to Everything p. 165*
