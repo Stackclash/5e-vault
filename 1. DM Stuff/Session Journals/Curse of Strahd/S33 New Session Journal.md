@@ -42,6 +42,7 @@ Who Did They Meet?
 ## What Happened
 - The party finds [[Ezmerelda Davenir (COS)]] and [[Emil Toranescu (COS)]]
 	- [[Emil Toranescu (COS)]] agrees that the werewolf den needs to move on and out of [[Barovia]]
+- The party goes to [[Vallaki]] and arrests [[Fiona Wachter]], [[Nikolai Wachter (COS)]], and Karl Wachter
 - 
 
 ## Info
