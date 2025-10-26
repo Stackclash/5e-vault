@@ -7,28 +7,29 @@ tags:
   - monster/cr/1-8
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
+location:
 condition: healthy
 images:
   - ../../../../../4. World Almanac/NPCs/img/ireena-kolyana.webp
-relationships: []
+relationships:
+  - Ismark Kolyanovich (COS)|brother
 aliases:
   - Ireena Kolyana
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced:
+race:
+gender: female
+age:
 alignment: Lawful Good
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 partyRelationships: {}
 ---
 
