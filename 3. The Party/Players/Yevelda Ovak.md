@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 statblock: true
 name: "Yevelda Ovak "
-level: 8
+level: 10
 ac: 15
-hp: 76
+hp: 92
 modifier: 2
-proficiency: 3
+proficiency: 4
 url: https://dndbeyond.com/characters/103814449
 image: https://www.dndbeyond.com/avatars/17/342/636377874944041516.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Human.md|Human]]"
