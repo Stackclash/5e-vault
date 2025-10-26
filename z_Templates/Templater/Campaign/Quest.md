@@ -81,7 +81,7 @@ tags:
 > [!infobox|n-th]
 > | | |
 > |---|---|
-> | **Completed:** | `VIEW[completed]` |
+> | **Completed:** | `$=dv.currentFile().completed` |
 # **`=this.file.name`**
 
 ## Description

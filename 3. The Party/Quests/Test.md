@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-completed: false
+completed: true
 campaign: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 description: ""
 steps: []
@@ -11,7 +11,7 @@ tags:
 > [!infobox|n-th]
 > | | |
 > |---|---|
-> | **Completed:** | `VIEW[toggle:completed]` |
+> | **Completed:** | `=this.file.completed` |
 # **`=this.file.name`**
 
 ## Description
