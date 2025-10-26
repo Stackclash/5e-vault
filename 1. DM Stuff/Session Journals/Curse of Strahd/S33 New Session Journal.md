@@ -37,10 +37,11 @@ Description of any important information that the party learned.
 Who Did They Meet?
 
 ## Items Of Importance
-Description
+- Skull of [[Argynvostholt]]
 
 ## What Happened
-Small description.
+- The party finds [[Ezmerelda Davenir (COS)]] and [[Emil Toranescu (COS)]]
+- 
 
 ## Info
 - 
