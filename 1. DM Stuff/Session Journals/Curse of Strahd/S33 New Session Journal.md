@@ -41,7 +41,7 @@ Who Did They Meet?
 
 ## What Happened
 - The party finds [[Ezmerelda Davenir (COS)]] and [[Emil Toranescu (COS)]]
-- 
+	- [[Emil Toranescu (COS)]] 
 
 ## Info
 - 
