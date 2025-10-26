@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-completed: false
+completed: true
 campaign: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 description: ""
 steps: []
@@ -11,7 +11,7 @@ tags:
 > [!infobox|n-th]
 > | | |
 > |---|---|
-> | **Completed:** | `$=dv.el("input", null, {attr: {type: "checkbox", checked: dv.current().completed, disabled: true}})` |
+> | **Completed:** | `$=dv.el("input", null, {attr: Object.assign({type: "checkbox", disabled: true}, dv.current().completed ? { checked: true } : {})})` |
 # **`=this.file.name`**
 
 ## Description
