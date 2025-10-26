@@ -42,7 +42,7 @@ try {
         isRequired: true,
         "input": {
           "type": "dataview",
-          "query": "dv.pages('\"" + config.locations.worlds + "\"')"
+          "query": "dv.pages('\"" + config.locations.worlds + "\"').file.name"
         }
       }
     ]
@@ -52,8 +52,10 @@ try {
     throw new Error('Modal was Cancelled')
   }
 
-  console.log(result.getData())
-  const { name: title, world: selectedWorld } = result.getData()
+  const data = result.getData()
+
+  const title = data.name
+  const selectedWorld = dataview.api.page(data.world)
 
   await tp.file.move(path.posix.join(config.locations.quests, title), tp.file.find_tfile(tp.file.title))
 

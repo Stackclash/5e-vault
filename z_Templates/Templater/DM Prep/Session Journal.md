@@ -61,7 +61,7 @@ try {
   const data = result.getData()
 
   formattedDate = moment(data.date).format("YYYY-MM-DD")
-  selectedParty = data.party
+  selectedParty = dataview.api.page(data.party)
 
   const journals = dataview.api.pages(`"${path.posix.join(config.locations.journals, selectedParty.file.name)}"`).sort(p => p.date, 'desc')
   let newSessionNumber = 0
