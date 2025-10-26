@@ -7,4 +7,6 @@ app.fileManager.processFrontMatter(context.file, (fm) => {
         fm[field].splice(index, 1)
         fm[field].splice(index - 1, 0, item)
     }
+
+    console.log(fm[field])
 })

@@ -5,6 +5,7 @@ description: ""
 steps:
   - text: Test
     completed: true
+  - {}
 npcs: []
 tags:
   - quest

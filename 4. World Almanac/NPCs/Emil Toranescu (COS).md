@@ -113,7 +113,7 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-  console.log(quests)
+
   const columns = [
     {
       id: 'Quest',
