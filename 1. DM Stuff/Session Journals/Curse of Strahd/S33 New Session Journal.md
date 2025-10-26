@@ -45,9 +45,10 @@ Who Did They Meet?
 - The party goes to [[Vallaki]] and arrests [[Fiona Wachter]], [[Nikolai Wachter (COS)]], and Karl Wachter
 - A council of elders are formed with:
 	- Haran Dista
-	- edom besk
-	- aral mesk
-	- nuzam delu
+	- Dom Besk
+	- Aral Mesk
+	- Nuzam Delu
+- 
 
 ## Info
 - 
