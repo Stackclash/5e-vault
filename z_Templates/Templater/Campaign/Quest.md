@@ -23,7 +23,7 @@ try {
     throw new Error('Configuration for file locations is not set up correctly')
   }
 
-  const result = await modalForm.openForm({
+  const result = await modalForm.api.openForm({
     title: 'Quest Setup',
     fields: [
       {
@@ -42,7 +42,7 @@ try {
         isRequired: true,
         "input": {
           "type": "dataview",
-          "query": "dv.pages('\"" + config.locations.worlds + "\"').file.name"
+          "query": "dv.pages('\"" + config.locations.worlds + "\"')"
         }
       }
     ]
@@ -52,6 +52,7 @@ try {
     throw new Error('Modal was Cancelled')
   }
 
+  console.log(result.getData())
   const { name: title, world: selectedWorld } = result.getData()
 
   await tp.file.move(path.posix.join(config.locations.quests, title), tp.file.find_tfile(tp.file.title))
