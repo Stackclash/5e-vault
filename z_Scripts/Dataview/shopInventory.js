@@ -9,7 +9,6 @@ function costDisplay(cp) {
     sp = Math.floor(cp / 10)
     cp = sp > 0 ? cp % 10 : cp
 
-    console.log(gp, sp, cp)
     if (gp > 0) {
         display.push(`${gp} gp`)
     }

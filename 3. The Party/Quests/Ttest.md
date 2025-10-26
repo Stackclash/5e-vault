@@ -1,78 +1,10 @@
-<%*
-let templateError = false
-let title = null
-let selectedWorld = null
-try {
-  const path = require('path')
-  const dataview = app.plugins.getPlugin("dataview")
-  const modalForm = app.plugins.getPlugin('modalforms')
-  
-  if (tp.config.run_mode !== 0) {
-    throw new Error('This template can only be used to create new files.')
-  }
-
-  if (!modalForm || !modalForm.api) {
-    throw new Error('Modal Forms plugin is not available')
-  }
-
-  if (!dataview || !dataview.api) {
-    throw new Error('Dataview plugin is not available')
-  }
-  
-  const config = dataview.api.page('Configuration')
-  
-  if (!config || !config.locations || !config.locations.quests || !config.locations.worlds) {
-    throw new Error('Configuration for file locations is not set up correctly')
-  }
-
-  const result = await modalForm.api.openForm({
-    title: 'Quest Setup',
-    fields: [
-      {
-        name: 'name',
-        label: 'Quest Name',
-        description: 'What is the name of the Quest?',
-        isRequired: true,
-        input: {
-          type: 'text'
-        }
-      },
-      {
-        name: 'world',
-        label: 'World',
-        description: 'What World is this Quest for?',
-        isRequired: true,
-        "input": {
-          "type": "dataview",
-          "query": "dv.pages('\"" + config.locations.worlds + "\"').file.name"
-        }
-      }
-    ]
-  })
-
-  if (result.status === 'cancelled') {
-    throw new Error('Modal was Cancelled')
-  }
-
-  const data = result.getData()
-
-  title = data.name
-  selectedWorld = dataview.api.page(data.world)
-
-  await tp.file.move(path.posix.join(config.locations.quests, title), tp.file.find_tfile(tp.file.title))
-
-} catch (e) {
-  templateError = e.message
-  console.error(e)
-  new tp.obsidian.Notice(e.message, 5000)
-}
--%>
-<%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-campaign: "<% selectedWorld.file.link %>"
+campaign: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 description: ""
-steps: []
+steps:
+  - text: Test
+    completed: true
 npcs: []
 tags:
   - quest
@@ -164,11 +96,3 @@ return function View() {
   return <dc.Table rows={currentPage.value('steps').map((s,i) => ({...s, i}))} columns={columns}/>
 }
 ```
-<%* } else { -%>
-
-
-> [!Error] Error Executing Template
-> <% templateError %>
-
-
-<%* } -%>
