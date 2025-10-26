@@ -8,28 +8,29 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: null
+location:
 condition: healthy
 images:
   - ../../../../../4. World Almanac/NPCs/img/davian-martikov.webp
-relationships: []
+relationships:
+  - Urwin Martikov (COS)|son
 aliases:
   - Davian Martikov
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced:
+race:
+gender:
+age:
 alignment: Lawful Good
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 partyRelationships: {}
 ---
 

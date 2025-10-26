@@ -8,29 +8,32 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
+location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 condition: healthy
 images: []
-relationships: []
+relationships:
+  - Davian Martikov (COS)|father
+  - Danika Dorakova (COS)|wife
+  - Bray Martikov (COS)|son
 aliases:
   - Urwin Martikov
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced:
+race:
+gender: male
+age:
 alignment: Lawful Good
-occupation: null
+occupation:
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 partyRelationships: {}
-image: null
+image:
 ---
 
 > [!infobox]
