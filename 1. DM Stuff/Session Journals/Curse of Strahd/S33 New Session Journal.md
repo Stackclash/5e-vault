@@ -44,7 +44,7 @@ Who Did They Meet?
 	- [[Emil Toranescu (COS)]] agrees that the werewolf den needs to move on and out of [[Barovia]]
 - The party goes to [[Vallaki]] and arrests [[Fiona Wachter]], [[Nikolai Wachter (COS)]], and Karl Wachter
 - A council of elders are formed with:
-	- haran dista
+	- Haran Dista
 	- edom besk
 	- aral mesk
 	- nuzam delu
