@@ -81,7 +81,7 @@ tags:
 > [!infobox|n-th]
 > | | |
 > |---|---|
-> | **Completed:** | `$=dv.currentFile().completed` |
+> | **Completed:** | `$=dv.el("input", null, {attr: {type: "checkbox", checked: dv.current().completed, disabled: true}})` |
 # **`=this.file.name`**
 
 ## Description
