@@ -19,5 +19,6 @@
   "ITS@@t-d": false,
   "ITS@@notion": false,
   "fancy-a-story@@fas-adaptive-accent": false,
-  "fancy-a-story@@fas-skin-select": "fas-skin-art-deco"
+  "fancy-a-story@@fas-skin-select": "fas-skin-art-deco",
+  "fancy-a-story@@fas-statblocks-custom": true
 }
