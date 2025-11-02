@@ -12,5 +12,10 @@
   "supercharged-links@@a3ec-73d2-before": "🛡️",
   "ITS@@select": "wotc-beyond",
   "ITS@@default-statblock": false,
-  "ITS@@its-d": false
+  "ITS@@its-d": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@s-d": false,
+  "ITS@@t-d": false,
+  "ITS@@notion": false
 }
