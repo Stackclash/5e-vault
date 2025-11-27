@@ -1,6 +1,5 @@
 ```dataviewjs
 const diceRollerPlugin = app.plugins.getPlugin("obsidian-dice-roller").api
-console.log(diceRollerPlugin)
 const typePages = dv.pages('"Story Engine/Story Engine"')
 const data = {}
 for (let page of typePages) {
@@ -11,11 +10,12 @@ for (let page of typePages) {
 	for (let id of blockIds) {
 		if (!data[type]) data[type] = {}
 	
+		console.log(`[[${page.file.path}^${id}|xy]]`)
 		data[type][id.toLowerCase()] = await diceRollerPlugin.getRoller(`[[${page.file.path}^${id}|xy]]`)
 	}
 }
-const roll = data.agents.main.roll()
+console.log (data)
+const roll = await data.agents.main.roll()
 
-console.log(data)
-console.log(roll)
 ```
+`dice: [[Story Engine/Story Engine/Engines.md#^fantasy]]`
