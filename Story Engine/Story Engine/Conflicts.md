@@ -39,6 +39,7 @@ Obstacles, consequences, or dilemmas
 | but they will bear the scars for all to see                         | but they will be hurt in ways no one can see                   |
 | but they will owe something to someone they despise                 | but first they must repair the damage they have done           |
 | but it will turn them into someone they never wanted to be          | but it will take them somewhere they never wanted to go        |
+^main
 
 | Side #1                                                    | Side #2                                                      |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
