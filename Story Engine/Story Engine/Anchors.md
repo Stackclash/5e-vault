@@ -40,3 +40,19 @@ Objects, locations, or events of importance
 | a Piece of Furniture | a Hotel          | a Work of Art       | a Curse         |
 | a Museum             | a Necklace       | an Exhibit          | an Auction Item |
 ^main
+
+| Side #1          | Side #2       | Side #3        | Side #4       |
+| ---------------- | ------------- | -------------- | ------------- |
+| a Cavern         | a Glacier     | a Cloak        | an Axe        |
+| a Crown          | a Breastplate | a Hill         | a Skull       |
+| a Summit         | a Keep        | a Harp         | an Inn        |
+| a Bulwark        | a Mask        | a Carving      | a Smithy      |
+| a Pair of Gloves | a Frigate     | a Torch        | a Jungle      |
+| a Market         | a Coin        | a Potion       | a Ring        |
+| an Empire        | a Throne      | a Port         | a Spear       |
+| an Aerie         | a Club        | an Egg         | an Encampment |
+| a Sanctuary      | a Scroll      | an Orchard     | a Spell       |
+| a Grove          | a Bow         | a Tree         | a Staff       |
+| a Castle         | a Warhammer   | a Siege        | a Farm        |
+| an Amulet        | a Sword       | a Suit of Mail | a Tundra      |
+^fantasy

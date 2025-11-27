@@ -40,3 +40,19 @@ Adjectives that describe other cards
 | cut-rate        | besieged      | surprising     | cherry         |
 | traumatic       | revolutionary | gilded         | misunderstood  |
 ^main
+
+| Side #1       | Side #2      | Side #3       | Side #4     |
+| ------------- | ------------ | ------------- | ----------- |
+| elvish        | thirsty      | infernal      | radiant     |
+| fairy-touched | obsidian     | spined        | dexterous   |
+| undead        | halfing      | ever-burning  | brazen      |
+| courageous    | adamantine   | necrotic      | sundered    |
+| merfolk       | masterwork   | booby-trapped | chaotic     |
+| diabolical    | bilious      | wise          | draconian   |
+| dwarven       | poisoned     | tyrannical    | valiant     |
+| toxic         | half-elven   | burdened      | intelligent |
+| elemental     | true-hearted | gnomish       | strong      |
+| charismatic   | labyrinthine | half-orcish   | lawful      |
+| crystalline   | celetial     | expansive     | tough       |
+| blasphemous   | plucky       | bloodied      | thorny      |
+^fantasy

@@ -55,3 +55,4 @@ Characters who make choices in the story
 | an Archer    | a Scout         | a Military Member | a Fighter   |
 | a Guard      | a Paladin       | a Sorcerer        | a Mimic     |
 | a Warrior    | a Cleric        | an Atlanta        | a Sellsword |
+^fantasy

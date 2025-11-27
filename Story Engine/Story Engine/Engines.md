@@ -40,3 +40,19 @@ Motivations and relationships that drive the story
 | wants to gain fame with/from                  | wants to gain fortune with/from                |
 | wants to enact a secret plan revolving around | wants to unmask the conspiracty of             |
 ^main
+
+| Side #1                                             | Side #2                                                    |
+| --------------------------------------------------- | ---------------------------------------------------------- |
+| wants to drive out a spirit that has possessed      | wants to imprison a dangerous spirit in                    |
+| wants to enchant                                    | wants to create a masterpiece for/involving                |
+| wants to start a war on/with                        | wants to prevent a war from being started by               |
+| wants to claim the hidden artifact of               | wants to foil a scheme of/involving                        |
+| wants to map (or map the history of)                | wants to end an exile with/in/of                           |
+| wants to sabotage an enemy with                     | wants to stop the negotiations for/of                      |
+| wants to navigate a maze at the heart of which sits | wants to solve the puzzle of                               |
+| wants to disarm the trap of                         | wants to find the path home and their only lead is         |
+| wants to pledge their life in service to            | wants to lead a final, desperate charge on/for             |
+| wants to stop an enemy from reaching                | wants to obtain a rare spell component from                |
+| wants to win a duel with/in/atop                    | wants to be healed by                                      |
+| wants to pay an old debt to/with                    | wants to open an ancient door that can only be unlocked by |
+^fantasy

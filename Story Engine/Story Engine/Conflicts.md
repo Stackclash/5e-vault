@@ -39,3 +39,19 @@ Obstacles, consequences, or dilemmas
 | but they will bear the scars for all to see                         | but they will be hurt in ways no one can see                   |
 | but they will owe something to someone they despise                 | but first they must repair the damage they have done           |
 | but it will turn them into someone they never wanted to be          | but it will take them somewhere they never wanted to go        |
+
+| Side #1                                                    | Side #2                                                      |
+| ---------------------------------------------------------- | ------------------------------------------------------------ |
+| but the gods will punish them                              | but an ancient evil will be released                         |
+| but it will open old wounds                                | but it will mean laying down arms forever                    |
+| but it will cause a cataclysm                              | but they will have to act against their religion             |
+| but they must make a sacrifice no one will ever know about | but they must forget the thing that means the world to them  |
+| but they will be exiled forever                            | but one way or another, it will be their last adventure      |
+| but their greatest enemy will return                       | but they will burn out the last of their power               |
+| but they will never find peace again                       | but something sacred will be defiled                         |
+| but their homeland will be put to the torch                | but they will bring darkness to those whose paths they cross |
+| but it will mean a city is destroyed                       | but it will mean giving up an important heirloom             |
+| but they will gain a corrupting power                      | but it will mean shattering an old truce                     |
+| but it will mean the end of wonder in the world            | but they will suffer an injury that does not heal            |
+| but they must forsake that which they worship              | but it will loose a plague on the world                      |
+^fantasy
