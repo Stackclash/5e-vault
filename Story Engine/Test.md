@@ -29,17 +29,18 @@ function parseObsidianTables(md) {
 }
 
 // ---------- COMPONENT ----------
-return function CardCategory({ file, label }) {
-  const [text, setText] = useState(null);
-  const [tables, setTables] = useState({});
-  const [active, setActive] = useState({});
-  const [search, setSearch] = useState("");
-  const [selected, setSelected] = useState(null);
-  const [turnIndex, setTurnIndex] = useState(0);
+function CardCategory({ file, label }) {
+  const [text, setText] = dc.useState(null);
+  const [tables, setTables] = dc.useState({});
+  const [active, setActive] = dc.useState({});
+  const [search, setSearch] = dc.useState("");
+  const [selected, setSelected] = dc.useState(null);
+  const [turnIndex, setTurnIndex] = dc.useState(0);
 
   // Load and parse file
-  useEffect(() => {
+  dc.useEffect(() => {
     dv.io.load(file).then(md => {
+      console.log(dv)
       const parsed = parseObsidianTables(md);
       setTables(parsed);
 
@@ -174,4 +175,8 @@ return function CardCategory({ file, label }) {
     </div>
   );
 };
+
+return function View() {
+  return <CardCategory file="Story Engine/Story Engine/Agents.md" label="Agents"/>
+}
 ```
