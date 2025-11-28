@@ -1,21 +1,54 @@
-```dataviewjs
-const diceRollerPlugin = app.plugins.getPlugin("obsidian-dice-roller").api
-const typePages = dv.pages('"Story Engine/Story Engine"')
-const data = {}
-for (let page of typePages) {
-	const type = page.file.name.toLowerCase()
-	const text = await dv.io.load(page.file.path)
-	const blockIds = [...text.matchAll(/\^([a-z0-9\-\_]+)/gi)].map(m => m[1])
-	
-	for (let id of blockIds) {
-		if (!data[type]) data[type] = {}
-	
-		console.log(`[[${page.file.path}^${id}|xy]]`)
-		data[type][id.toLowerCase()] = await diceRollerPlugin.getRoller(`[[${page.file.path}^${id}|xy]]`)
-	}
-}
-console.log (data)
-const roll = await data.agents.main.roll()
+```datacorejsx
+const dv = app.plugins.getPlugin('dataview')
 
+function parseObsidianTables(md) {
+  const result = {};
+
+  // RegEx to capture: table + following block ID (^something)
+  const tableRegex = /((?:\|.*\n)+?)\s*\^([a-zA-Z0-9\-_]+)/g;
+
+  let match;
+  while ((match = tableRegex.exec(md)) !== null) {
+    const tableText = match[1].trim();
+    const blockId = match[2].trim();
+
+    const lines = tableText.split("\n").map(l => l.trim());
+
+    // Row 0 → header
+    const headerCells = lines[0]
+      .split("|")
+      .map(x => x.trim())
+      .filter(Boolean);
+
+    // Remove header & divider row
+    const dataRows = lines.slice(2);
+
+    const rows = dataRows.map(line => {
+      const cells = line
+        .split("|")
+        .map(x => x.trim())
+        .filter(Boolean);
+
+      const rowObj = {};
+      headerCells.forEach((col, i) => {
+        rowObj[col] = cells[i] ?? "";
+      });
+      return rowObj;
+    });
+
+    result[blockId] = rows;
+  }
+
+  return result;
+}
+
+
+return async function StoryEngineDeck({ filePath }) {
+	const text = await dv.io.load(filePath)
+
+	const data = parseObsidianTables(text)
+
+	console.log(data)
+
+}
 ```
-`dice: [[Story Engine/Story Engine/Engines.md#^fantasy]]`
