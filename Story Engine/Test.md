@@ -43,6 +43,7 @@ function CardCategory({ file, label, onSelect }) {
     dv.io.load(file).then(md => {
       const parsed = parseObsidianTables(md)
       setTables(parsed)
+      console.log(Object.keys(parsed))
 
       setActiveDecks(Object.keys(parsed))
       setText(md)
@@ -75,7 +76,14 @@ function CardCategory({ file, label, onSelect }) {
     setFullValues(result)
   }
 
-  // ---------- SELECT CARD ----------
+  function handleDeckToggle(deck) {
+    if (activeDecks.includes(deck)) {
+      setActiveDecks(activeDecks.filter(d => d !== deck))
+    } else {
+      setActiveDecks([...activeDecks, deck])
+    }
+  }
+
   function selectCard(card) {
     setSelected(card)
     setSideIndex(0)
@@ -121,8 +129,8 @@ function CardCategory({ file, label, onSelect }) {
           <label style={{ display: "block" }}>
             <input
               type="checkbox"
-              checked={!!activeDecks[e]}
-              onInput={() => setActiveDecks({ ...activeDecks, [e]: !activeDecks[e] })}
+              checked={activeDecks.includes(e)}
+              onInput={() => handleDeckToggle(e)}
             />
             {e}
           </label>
@@ -149,7 +157,6 @@ function CardCategory({ file, label, onSelect }) {
             background: "var(--background-modifier-hover)"
           }}>
             {dropdown.map((card, idx) => {
-              const display = columns.map(col => card[col]).join(" | ")
               return (
                 <div
                   key={idx}
@@ -157,7 +164,7 @@ function CardCategory({ file, label, onSelect }) {
                   onClick={() => selectCard(card)}
                   onMouseDown={e => e.preventDefault()} // prevent blur
                 >
-                  {display}
+                  {card.value} <em style={{ color: "var(--text-muted)" }}>({card.deck})</em>
                 </div>
               )
             })}
