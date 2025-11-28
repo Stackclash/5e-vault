@@ -36,7 +36,6 @@ function CardCategory({ file, label, onSelect }) {
   const [searchTerm, setSearchTerm] = dc.useState("")
   const [dropdown, setDropdown] = dc.useState([])
   const [selected, setSelected] = dc.useState(null)
-  const [sideIndex, setSideIndex] = dc.useState(0)
 
   // Load and parse file
   dc.useEffect(() => {
@@ -87,7 +86,6 @@ function CardCategory({ file, label, onSelect }) {
 
   function selectCard(card) {
     setSelected(card)
-    setSideIndex(0)
     setDropdown([])
     setSearchTerm("")
 
@@ -104,8 +102,7 @@ function CardCategory({ file, label, onSelect }) {
 
   function turn() {
     if (!selected) return
-    const newIndex = (sideIndex + 1) % selected.numOfSides
-    setSideIndex(newIndex)
+    const newIndex = (selected.sideIndex + 1) % selected.numOfSides
     const newCardSide = fullValues.find(c => {
       return c.deck === selected.deck && c.cardIndex === selected.cardIndex && c.sideIndex === newIndex
     })
@@ -203,6 +200,6 @@ function CardCategory({ file, label, onSelect }) {
 }
 
 return function View() {
-  return <CardCategory file="Story Engine/Story Engine/Agents.md" label="Agents" onSelect={(selected) => console.log(selected)}/>
+  return <CardCategory file="Story Engine/Story Engine/Anchors.md" label="Anchors" onSelect={(selected) => console.log(selected)}/>
 }
 ```
