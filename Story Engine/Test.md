@@ -200,6 +200,18 @@ function CardCategory({ file, label, onSelect }) {
 }
 
 return function View() {
-  return <CardCategory file="Story Engine/Story Engine/Anchors.md" label="Anchors" onSelect={(selected) => console.log(selected)}/>
+  return (
+    <div style="width: 100%; display: inline-block;">
+      <div style="width: 50%; display: inline-block;">
+        <CardCategory file="Story Engine/Story Engine/Agents.md" label="Agents" onSelect={(selected) => console.log(selected)}/>
+      </div>
+      <div style="width: 50%; display: inline-block;">
+        <CardCategory file="Story Engine/Story Engine/Anchors.md" label="Anchors" onSelect={(selected) => console.log(selected)}/>
+      </div>
+      <div style="width: 50%; display: inline-block;">
+        <CardCategory file="Story Engine/Story Engine/Aspects.md" label="Aspects" onSelect={(selected) => console.log(selected)}/>
+      </div>
+    </div>
+  )
 }
 ```
