@@ -31,7 +31,7 @@ function parseObsidianTables(md) {
 function CardCategory({ file, label, onSelect }) {
   const [text, setText] = dc.useState(null)
   const [tables, setTables] = dc.useState({})
-  const [fullValues, setFullValues] = dc.useState(Object.keys())
+  const [fullValues, setFullValues] = dc.useState([])
   const [activeDecks, setActiveDecks] = dc.useState([])
   const [searchTerm, setSearchTerm] = dc.useState("")
   const [dropdown, setDropdown] = dc.useState([])
@@ -45,10 +45,13 @@ function CardCategory({ file, label, onSelect }) {
       setTables(parsed)
 
       setActiveDecks(Object.keys(parsed))
-      buildFullValues()
       setText(md)
     })
   }, [file])
+
+  dc.useEffect(() => {
+    buildFullValues()
+  }, [activeDecks])
 
   function buildFullValues() {
     const result = activeDecks.flatMap(deck => {
@@ -65,27 +68,14 @@ function CardCategory({ file, label, onSelect }) {
     setFullValues(result)
   }
 
-  // ---------- FILTER TABLES BY ACTIVE ----------
-  const rows = Object.entries(tables)
-    .filter(([blockID]) => {
-      const parts = blockID.split("_")
-      const expansion = parts.length >= 3 ? parts[1] : blockID
-      return activeDecks[expansion]
-    })
-    .flatMap(([_, rows]) => rows)
-
-  const columns = rows.length ? Object.keys(rows[0]) : []
-
   // ---------- SEARCH HANDLING ----------
   dc.useEffect(() => {
     if (!searchTerm) return setDropdown([])
-    const matches = rows.filter(r =>
-      Object.values(r).some(v =>
-        v.toLowerCase().includes(searchTerm.toLowerCase())
-      )
+    const matches = fullValues.filter(r =>
+      r.value.toLowerCase().includes(searchTerm.toLowerCase())
     )
     setDropdown(matches)
-  }, [searchTerm, rows])
+  }, [searchTerm, fullValues])
 
   // ---------- SELECT CARD ----------
   function selectCard(card) {
@@ -96,17 +86,14 @@ function CardCategory({ file, label, onSelect }) {
 
     if (onSelect) {
       onSelect({
-        card,
-        column: columns[0],
-        value: card[columns[0]],
-        turnIndex: 0
+        
       })
     }
   }
 
   function pickRandom() {
-    if (!rows.length) return
-    const choice = rows[Math.floor(Math.random() * rows.length)]
+    if (!fullValues.length) return
+    const choice = fullValues[Math.floor(Math.random() * fullValues.length)]
     selectCard(choice)
   }
 
