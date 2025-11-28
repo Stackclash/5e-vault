@@ -1,5 +1,5 @@
 ```datacorejsx
-const dv = app.plugins.getPlugin('dataview')
+const dv = app.plugins.getPlugin('dataview').api
 
 function parseObsidianTables(md) {
   const result = {};
@@ -43,9 +43,9 @@ function parseObsidianTables(md) {
 }
 
 
-return async function StoryEngineDeck({ filePath }) {
-	const text = await dv.io.load("'Story Engine/Story Engine/Agents'")
-
+return async function View() {
+	const text = await dv.io.load("Story Engine/Story Engine/Agents")
+	console.log(text)
 	const data = parseObsidianTables(text)
 
 	console.log(data)
