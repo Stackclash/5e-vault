@@ -42,9 +42,12 @@ function parseObsidianTables(md) {
   return result
 }
 
+const text = await dv.io.load("Story Engine/Story Engine/Agents.md")
+const data = parseObsidianTables(text)
+console.log(data)
 
 return function View() {
 
-  return <h3>Hello</h3>
+  return <div>{JSON.stringify(data, null, 2)}</div>
 }
 ```
