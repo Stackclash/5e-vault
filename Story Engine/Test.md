@@ -44,7 +44,7 @@ function parseObsidianTables(md) {
 
 
 return async function StoryEngineDeck({ filePath }) {
-	const text = await dv.io.load(filePath)
+	const text = await dv.io.load("'Story Engine/Story Engine/Agents'")
 
 	const data = parseObsidianTables(text)
 
