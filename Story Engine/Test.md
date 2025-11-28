@@ -48,18 +48,16 @@ const tables = parseObsidianTables(text)
 return function CardCategory({ file, label }) {
 
   // UI state
-  const [activeSets, setActiveSets] = useState(() =>
-    Object.fromEntries(expansions.map(e => [e, true]))
-  );
+  const [activeSets, setActiveSets] = dc.useState(Object.keys(tables));
 
-  const [search, setSearch] = useState("");
-  const [selected, setSelected] = useState(null);
-  const [turnIndex, setTurnIndex] = useState(0);
+  const [search, setSearch] = dc.useState("");
+  const [selected, setSelected] = dc.useState(null);
+  const [turnIndex, setTurnIndex] = dc.useState(0);
 
   // filter tables based on active sets
   const filteredTables = Object.entries(tables)
     .filter(([blockID]) => {
-      const match = expansions.find(e => blockID.startsWith(e));
+      const match = Object.keys(tables).find(e => blockID.startsWith(e));
       return match ? activeSets[match] : true;
     })
     .flatMap(([_, rows]) => rows);
@@ -96,7 +94,7 @@ return function CardCategory({ file, label }) {
 
       {/* ACTIVATION TOGGLES */}
       <h3>Active Sets</h3>
-      {expansions.map(e => (
+      {Object.keys(tables).map(e => (
         <label style={{ display: "block" }}>
           <input
             type="checkbox"
