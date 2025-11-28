@@ -43,7 +43,6 @@ function CardCategory({ file, label, onSelect }) {
     dv.io.load(file).then(md => {
       const parsed = parseObsidianTables(md)
       setTables(parsed)
-      console.log(Object.keys(parsed))
 
       setActiveDecks(Object.keys(parsed))
       setText(md)
@@ -64,10 +63,12 @@ function CardCategory({ file, label, onSelect }) {
 
   function buildFullValues() {
     const result = activeDecks.flatMap(deck => {
-      return tables[deck].map(row => {
-        return Object.values(row).map((card, i) => ({
+      return tables[deck].map((row, cardIndex) => {
+        return Object.values(row).map((card, sideIndex) => ({
           deck,
-          sideIndex: i,
+          sideIndex,
+          cardIndex,
+          numOfSides: Object.keys(row).length,
           value: card
         }))
       })
@@ -103,16 +104,15 @@ function CardCategory({ file, label, onSelect }) {
 
   function turn() {
     if (!selected) return
-    const newIndex = (sideIndex + 1) % columns.length
+    const newIndex = (sideIndex + 1) % selected.numOfSides
     setSideIndex(newIndex)
+    const newCardSide = fullValues.find(c => {
+      return c.deck === selected.deck && c.cardIndex === selected.cardIndex && c.sideIndex === newIndex
+    })
+    setSelected(newCardSide)
 
     if (onSelect) {
-      onSelect({
-        card: selected,
-        column: columns[newIndex],
-        value: selected[columns[newIndex]],
-        sideIndex: newIndex
-      })
+      onSelect(newCardSide)
     }
   }
 
@@ -190,17 +190,8 @@ function CardCategory({ file, label, onSelect }) {
           }}>
             <h3>Selected Card</h3>
   
-            <strong>{columns[sideIndex]}</strong>
-  
-            <div style={{
-              marginTop: "6px",
-              background: "var(--background-secondary)",
-              padding: "8px",
-              borderRadius: "4px"
-            }}>
-              {selected[columns[sideIndex]]}
-            </div>
-  
+            <strong>{selected.value}</strong> <em style={{ color: "var(--text-muted)" }}>({selected.deck})</em>
+            <br/>
             <button onClick={turn} style={{ marginTop: "8px" }}>
               ↻ Turn (Next Column)
             </button>
