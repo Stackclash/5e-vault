@@ -43,15 +43,8 @@ function parseObsidianTables(md) {
 }
 
 
-return async function View() {
-	const text = await dv.io.load("Story Engine/Story Engine/Agents.md")
-	const data = parseObsidianTables(text)
+return function View() {
 
-  return (
-    <div>
-      <h3>Loaded {Object.keys(data).length} tables</h3>
-      <pre>{JSON.stringify(data, null, 2)}</pre>
-    </div>
-  )
+  return <h3>Hello</h3>
 }
 ```
