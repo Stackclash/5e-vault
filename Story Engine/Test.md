@@ -35,6 +35,7 @@ function parseObsidianTables(md) {
       });
       return rowObj;
     });
+    console.log(blockId, rows)
 
     result[blockId] = rows;
   }
