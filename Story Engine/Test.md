@@ -43,11 +43,106 @@ function parseObsidianTables(md) {
 }
 
 const text = await dv.io.load("Story Engine/Story Engine/Agents.md")
-const data = parseObsidianTables(text)
-console.log(data)
+const tables = parseObsidianTables(text)
 
-return function View() {
+return function CardCategory({ file, label }) {
 
-  return <div>{JSON.stringify(data, null, 2)}</div>
-}
+  // UI state
+  const [activeSets, setActiveSets] = useState(() =>
+    Object.fromEntries(expansions.map(e => [e, true]))
+  );
+
+  const [search, setSearch] = useState("");
+  const [selected, setSelected] = useState(null);
+  const [turnIndex, setTurnIndex] = useState(0);
+
+  // filter tables based on active sets
+  const filteredTables = Object.entries(tables)
+    .filter(([blockID]) => {
+      const match = expansions.find(e => blockID.startsWith(e));
+      return match ? activeSets[match] : true;
+    })
+    .flatMap(([_, rows]) => rows);
+
+  // columns come from first row (they’re identical across rows)
+  const columns = filteredTables.length > 0 ? Object.keys(filteredTables[0]) : [];
+
+  // search match
+  const visibleRows = search
+    ? filteredTables.filter(r =>
+        Object.values(r).some(v =>
+          v.toLowerCase().includes(search.toLowerCase())
+        )
+      )
+    : filteredTables;
+
+  // random
+  function pickRandom() {
+    if (visibleRows.length === 0) return;
+    const row = visibleRows[Math.floor(Math.random() * visibleRows.length)];
+    setSelected(row);
+    setTurnIndex(0);
+  }
+
+  // next column
+  function turn() {
+    if (!selected) return;
+    setTurnIndex((turnIndex + 1) % columns.length);
+  }
+
+  return (
+    <div style={{ padding: "12px", border: "1px solid var(--background-modifier-border)", borderRadius: "8px" }}>
+      <h2>{label}</h2>
+
+      {/* ACTIVATION TOGGLES */}
+      <h3>Active Sets</h3>
+      {expansions.map(e => (
+        <label style={{ display: "block" }}>
+          <input
+            type="checkbox"
+            checked={activeSets[e]}
+            onChange={() =>
+              setActiveSets({ ...activeSets, [e]: !activeSets[e] })
+            }
+          />
+          {e}
+        </label>
+      ))}
+
+      {/* SEARCH */}
+      <h3>Search</h3>
+      <input
+        type="text"
+        placeholder="Search cards…"
+        value={search}
+        onInput={e => setSearch(e.target.value)}
+        style={{ width: "100%", marginBottom: "10px" }}
+      />
+
+      {/* RANDOM PICK */}
+      <button onClick={pickRandom} disabled={visibleRows.length === 0}>
+        🎲 Pick Random
+      </button>
+
+      {/* SELECTED CARD */}
+      {selected && (
+        <div style={{ padding: "10px", marginTop: "15px", border: "1px solid var(--background-modifier-border)", borderRadius: "6px" }}>
+          <h3>Selected Card</h3>
+
+          <div style={{ fontSize: "1.2em", fontWeight: "bold", marginBottom: "8px" }}>
+            {columns[turnIndex]}
+          </div>
+
+          <div style={{ padding: "6px 8px", background: "var(--background-secondary)", borderRadius: "4px" }}>
+            {selected[columns[turnIndex]]}
+          </div>
+
+          <button onClick={turn} style={{ marginTop: "10px" }}>
+            ↻ Turn (next column)
+          </button>
+        </div>
+      )}
+    </div>
+  );
+};
 ```
