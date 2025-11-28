@@ -43,7 +43,6 @@ function CardCategory({ file, label, onSelect }) {
     dv.io.load(file).then(md => {
       const parsed = parseObsidianTables(md)
       setTables(parsed)
-      console.log(Object.keys(parsed))
 
       setActiveDecks(Object.keys(parsed))
       setText(md)
@@ -122,7 +121,7 @@ function CardCategory({ file, label, onSelect }) {
           <label style={{ display: "block" }}>
             <input
               type="checkbox"
-              checked={activeDecks[e]}
+              checked={!!activeDecks[e]}
               onInput={() => setActiveDecks({ ...activeDecks, [e]: !activeDecks[e] })}
             />
             {e}
