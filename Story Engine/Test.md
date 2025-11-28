@@ -9,42 +9,42 @@ function parseObsidianTables(md) {
 
   let match;
   while ((match = tableRegex.exec(md)) !== null) {
-    const tableText = match[1].trim();
-    const blockId = match[2].trim();
+    const tableText = match[1].trim()
+    const blockId = match[2].trim()
 
-    const lines = tableText.split("\n").map(l => l.trim());
+    const lines = tableText.split("\n").map(l => l.trim())
 
     // Row 0 → header
     const headerCells = lines[0]
       .split("|")
       .map(x => x.trim())
-      .filter(Boolean);
+      .filter(Boolean)
 
     // Remove header & divider row
-    const dataRows = lines.slice(2);
+    const dataRows = lines.slice(2)
 
     const rows = dataRows.map(line => {
       const cells = line
         .split("|")
         .map(x => x.trim())
-        .filter(Boolean);
+        .filter(Boolean)
 
-      const rowObj = {};
+      const rowObj = {}
       headerCells.forEach((col, i) => {
-        rowObj[col] = cells[i] ?? "";
-      });
-      return rowObj;
-    });
-    console.log(blockId, rows)
+        rowObj[col] = cells[i] ?? ""
+      })
+      return rowObj
+    })
 
-    result[blockId] = rows;
+    result[blockId] = rows
   }
 
-  return result;
+  return result
 }
 
 
 return async function View() {
+  console.log(dv.page("Story Engine/Story Engine/Agents"))
 	const text = await dv.io.load("Story Engine/Story Engine/Agents")
 	console.log(text)
 	const data = parseObsidianTables(text)
