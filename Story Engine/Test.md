@@ -12,8 +12,7 @@ function parseObsidianTables(md) {
     const blockID = match[2].trim();
 
     const lines = table.split("\n").map(l => l.trim());
-    const headers = lines[0]
-      .split("|").map(c => c.trim()).filter(Boolean);
+    const headers = lines[0].split("|").map(c => c.trim()).filter(Boolean);
 
     const rows = lines.slice(2).map(line => {
       const cells = line.split("|").map(c => c.trim()).filter(Boolean);
@@ -29,33 +28,28 @@ function parseObsidianTables(md) {
 }
 
 // ---------- COMPONENT ----------
-function CardCategory({ file, label }) {
+function CardCategory({ file, label, onSelect }) {
   const [text, setText] = dc.useState(null);
   const [tables, setTables] = dc.useState({});
   const [active, setActive] = dc.useState({});
   const [search, setSearch] = dc.useState("");
+  const [dropdown, setDropdown] = dc.useState([]);
   const [selected, setSelected] = dc.useState(null);
   const [turnIndex, setTurnIndex] = dc.useState(0);
 
   // Load and parse file
   dc.useEffect(() => {
     dv.io.load(file).then(md => {
-      console.log(dv)
       const parsed = parseObsidianTables(md);
       setTables(parsed);
 
       // auto-build expansion toggles
       const expansions = Object.keys(parsed).map(blockID => {
-        // convention: group_deck-category
-        // deck = middle segment
         const parts = blockID.split("_");
         return parts.length >= 3 ? parts[1] : blockID;
       });
 
-      setActive(
-        Object.fromEntries(expansions.map(e => [e, true]))
-      );
-
+      setActive(Object.fromEntries(expansions.map(e => [e, true])));
       setText(md);
     });
   }, [file]);
@@ -73,27 +67,56 @@ function CardCategory({ file, label }) {
 
   const columns = rows.length ? Object.keys(rows[0]) : [];
 
-  const visible = search
-    ? rows.filter(r =>
-        Object.values(r).some(v =>
-          v.toLowerCase().includes(search.toLowerCase())
-        )
+  // ---------- SEARCH HANDLING ----------
+  dc.useEffect(() => {
+    if (!search) return setDropdown([]);
+    const matches = rows.filter(r =>
+      Object.values(r).some(v =>
+        v.toLowerCase().includes(search.toLowerCase())
       )
-    : rows;
+    );
+    setDropdown(matches);
+  }, [search, rows]);
+
+  // ---------- SELECT CARD ----------
+  function selectCard(card) {
+    setSelected(card);
+    setTurnIndex(0);
+    setDropdown([]);
+    setSearch("");
+
+    if (onSelect) {
+      onSelect({
+        card,
+        column: columns[0],
+        value: card[columns[0]],
+        turnIndex: 0
+      });
+    }
+  }
 
   function pickRandom() {
-    if (!visible.length) return;
-    const choice = visible[Math.floor(Math.random() * visible.length)];
-    setSelected(choice);
-    setTurnIndex(0);
+    if (!rows.length) return;
+    const choice = rows[Math.floor(Math.random() * rows.length)];
+    selectCard(choice);
   }
 
   function turn() {
     if (!selected) return;
-    setTurnIndex((turnIndex + 1) % columns.length);
+    const newIndex = (turnIndex + 1) % columns.length;
+    setTurnIndex(newIndex);
+
+    if (onSelect) {
+      onSelect({
+        card: selected,
+        column: columns[newIndex],
+        value: selected[columns[newIndex]],
+        turnIndex: newIndex
+      });
+    }
   }
 
-  // compute unique expansions for the UI
+  // ---------- EXPANSIONS ----------
   const expansions = [...new Set(
     Object.keys(tables).map(blockID => {
       const parts = blockID.split("_");
@@ -102,23 +125,17 @@ function CardCategory({ file, label }) {
   )];
 
   return (
-    <div style={{
-      padding: "12px",
-      border: "1px solid var(--background-modifier-border)",
-      borderRadius: "8px"
-    }}>
+    <div style={{ padding: "12px", border: "1px solid var(--background-modifier-border)", borderRadius: "8px" }}>
       <h2>{label}</h2>
 
-      {/* EXPANSION TOGGLES */}
+      {/* Active sets */}
       <h3>Active Sets</h3>
       {expansions.map(e => (
         <label style={{ display: "block" }}>
           <input
             type="checkbox"
             checked={active[e]}
-            onInput={() =>
-              setActive({ ...active, [e]: !active[e] })
-            }
+            onInput={() => setActive({ ...active, [e]: !active[e] })}
           />
           {e}
         </label>
@@ -129,15 +146,41 @@ function CardCategory({ file, label }) {
       <input
         type="text"
         value={search}
+        placeholder="Search cards…"
         style={{ width: "100%" }}
-        placeholder="Search…"
         onInput={e => setSearch(e.target.value)}
       />
 
-      {/* RANDOM */}
+      {/* SEARCH DROPDOWN */}
+      {dropdown.length > 0 && (
+        <div style={{
+          border: "1px solid var(--background-modifier-border)",
+          borderRadius: "4px",
+          marginTop: "4px",
+          maxHeight: "200px",
+          overflowY: "auto",
+          background: "var(--background-modifier-hover)"
+        }}>
+          {dropdown.map((card, idx) => {
+            const display = columns.map(col => card[col]).join(" | ");
+            return (
+              <div
+                key={idx}
+                style={{ padding: "6px", cursor: "pointer" }}
+                onClick={() => selectCard(card)}
+                onMouseDown={e => e.preventDefault()} // prevent blur
+              >
+                {display}
+              </div>
+            );
+          })}
+        </div>
+      )}
+
+      {/* RANDOM PICK */}
       <button
         onClick={pickRandom}
-        disabled={!visible.length}
+        disabled={!rows.length}
         style={{ marginTop: "8px" }}
       >
         🎲 Pick Random
@@ -164,10 +207,7 @@ function CardCategory({ file, label }) {
             {selected[columns[turnIndex]]}
           </div>
 
-          <button
-            onClick={turn}
-            style={{ marginTop: "8px" }}
-          >
+          <button onClick={turn} style={{ marginTop: "8px" }}>
             ↻ Turn (Next Column)
           </button>
         </div>
@@ -177,6 +217,6 @@ function CardCategory({ file, label }) {
 };
 
 return function View() {
-  return <CardCategory file="Story Engine/Story Engine/Agents.md" label="Agents"/>
+  return <CardCategory file="Story Engine/Story Engine/Agents.md" label="Agents" onSelect={(selected) => console.log(selected)}/>
 }
 ```
