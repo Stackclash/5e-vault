@@ -36,13 +36,14 @@ function CardCategory({ file, label, onSelect }) {
   const [searchTerm, setSearchTerm] = dc.useState("")
   const [dropdown, setDropdown] = dc.useState([])
   const [selected, setSelected] = dc.useState(null)
-  const [turnIndex, setTurnIndex] = dc.useState(0)
+  const [sideIndex, setSideIndex] = dc.useState(0)
 
   // Load and parse file
   dc.useEffect(() => {
     dv.io.load(file).then(md => {
       const parsed = parseObsidianTables(md)
       setTables(parsed)
+      console.log(Object.keys(parsed))
 
       setActiveDecks(Object.keys(parsed))
       setText(md)
@@ -52,6 +53,14 @@ function CardCategory({ file, label, onSelect }) {
   dc.useEffect(() => {
     buildFullValues()
   }, [activeDecks])
+
+  dc.useEffect(() => {
+    if (!searchTerm) return setDropdown([])
+    const matches = fullValues.filter(r =>
+      r.value.toLowerCase().includes(searchTerm.toLowerCase())
+    )
+    setDropdown(matches)
+  }, [searchTerm, fullValues])
 
   function buildFullValues() {
     const result = activeDecks.flatMap(deck => {
@@ -64,30 +73,18 @@ function CardCategory({ file, label, onSelect }) {
       })
     }).flat()
 
-    console.log(result)
     setFullValues(result)
   }
-
-  // ---------- SEARCH HANDLING ----------
-  dc.useEffect(() => {
-    if (!searchTerm) return setDropdown([])
-    const matches = fullValues.filter(r =>
-      r.value.toLowerCase().includes(searchTerm.toLowerCase())
-    )
-    setDropdown(matches)
-  }, [searchTerm, fullValues])
 
   // ---------- SELECT CARD ----------
   function selectCard(card) {
     setSelected(card)
-    setTurnIndex(0)
+    setSideIndex(0)
     setDropdown([])
     setSearchTerm("")
 
     if (onSelect) {
-      onSelect({
-        
-      })
+      onSelect(card)
     }
   }
 
@@ -99,26 +96,18 @@ function CardCategory({ file, label, onSelect }) {
 
   function turn() {
     if (!selected) return
-    const newIndex = (turnIndex + 1) % columns.length
-    setTurnIndex(newIndex)
+    const newIndex = (sideIndex + 1) % columns.length
+    setSideIndex(newIndex)
 
     if (onSelect) {
       onSelect({
         card: selected,
         column: columns[newIndex],
         value: selected[columns[newIndex]],
-        turnIndex: newIndex
+        sideIndex: newIndex
       })
     }
   }
-
-  // ---------- EXPANSIONS ----------
-  const expansions = [...new Set(
-    Object.keys(tables).map(blockID => {
-      const parts = blockID.split("_")
-      return parts.length >= 3 ? parts[1] : blockID
-    })
-  )]
 
   if (!text) {
     return <div>Loading {label}…</div>
@@ -129,7 +118,7 @@ function CardCategory({ file, label, onSelect }) {
   
         {/* Active sets */}
         <h3>Active Sets</h3>
-        {expansions.map(e => (
+        {Object.keys(tables).map(e => (
           <label style={{ display: "block" }}>
             <input
               type="checkbox"
@@ -179,7 +168,7 @@ function CardCategory({ file, label, onSelect }) {
         {/* RANDOM PICK */}
         <button
           onClick={pickRandom}
-          disabled={!rows.length}
+          disabled={!fullValues.length}
           style={{ marginTop: "8px" }}
         >
           🎲 Pick Random
@@ -195,7 +184,7 @@ function CardCategory({ file, label, onSelect }) {
           }}>
             <h3>Selected Card</h3>
   
-            <strong>{columns[turnIndex]}</strong>
+            <strong>{columns[sideIndex]}</strong>
   
             <div style={{
               marginTop: "6px",
@@ -203,7 +192,7 @@ function CardCategory({ file, label, onSelect }) {
               padding: "8px",
               borderRadius: "4px"
             }}>
-              {selected[columns[turnIndex]]}
+              {selected[columns[sideIndex]]}
             </div>
   
             <button onClick={turn} style={{ marginTop: "8px" }}>
