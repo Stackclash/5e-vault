@@ -23,7 +23,7 @@ function PromptBuilder() {
           max: 1
         },
         {
-          type: 'achor',
+          type: 'anchor',
           role: 'primary',
           min: 1,
           max: 1
@@ -221,36 +221,6 @@ function PromptBuilder() {
             />
           )
         })}
-
-        <CardCategory
-          file="Story Engine/Story Engine/Agents.md"
-          label="Agents"
-          onSelect={setAgent}
-        />
-
-        <CardCategory
-          file="Story Engine/Story Engine/Engines.md"
-          label="Engines"
-          onSelect={setEngine}
-        />
-
-        <CardCategory
-          file="Story Engine/Story Engine/Anchors.md"
-          label="Anchors"
-          onSelect={setAnchor}
-        />
-
-        <CardCategory
-          file="Story Engine/Story Engine/Conflicts.md"
-          label="Conflicts"
-          onSelect={setConflict}
-        />
-
-        <CardCategory
-          file="Story Engine/Story Engine/Aspects.md"
-          label="Aspects"
-          onSelect={handleAspectSelected}
-        />
       </div>
     </div>
   )

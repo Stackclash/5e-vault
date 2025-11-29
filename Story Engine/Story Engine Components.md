@@ -41,6 +41,7 @@ function CardCategory({ file, type, label, onSelect }) {
 
   // Load and parse file
   dc.useEffect(() => {
+    console.log(file)
     dv.io.load(file).then(md => {
       const parsed = parseObsidianTables(md)
       setTables(parsed)
