@@ -8,6 +8,7 @@ function parseObsidianTables(md) {
   const result = {}
   const tableRegex = /((?:\|.*\n)+?)\s*\^([a-zA-Z0-9\-_]+)/g
 
+  // if (md.includes('# Anchors')) console.log(md)
   let match
   while ((match = tableRegex.exec(md)) !== null) {
     const table = match[1].trim()
