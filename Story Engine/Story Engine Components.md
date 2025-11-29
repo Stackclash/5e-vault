@@ -6,7 +6,7 @@ const dv = app.plugins.getPlugin("dataview").api
 // ---------- TABLE PARSER ----------
 function parseObsidianTables(file, md) {
   const result = {}
-  const tableRegex = /((?:\|.*\n)+?)\s*\^([a-zA-Z0-9\-_]+)/ig
+  const tableRegex = /((?:\|.*\n)+?)\s*\^([a-zA-Z0-9\-_]+)/gi
 
   let match
   console.log(file, tableRegex.test(md))
