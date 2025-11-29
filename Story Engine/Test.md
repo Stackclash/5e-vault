@@ -92,7 +92,7 @@ function StoryPromptBuilder() {
         <CardCategory
           file="Story Engine/Story Engine/Agents.md"
           label="Agents"
-          onSelect={setAgent}
+          onSelect={(agent) => console.log(`choosing ${agent.value}`)}
         />
 
         <CardCategory
