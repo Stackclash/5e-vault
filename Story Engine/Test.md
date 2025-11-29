@@ -7,7 +7,6 @@ function StoryPromptBuilder() {
   const [anchor, setAnchor] = dc.useState(null)
   const [conflict, setConflict] = dc.useState(null)
 
-  // NEW — Aspects can apply to Agent or Anchor
   const [agentAspects, setAgentAspects] = dc.useState([])
   const [anchorAspects, setAnchorAspects] = dc.useState([])
 
@@ -23,9 +22,8 @@ function StoryPromptBuilder() {
     setPendingAspect(null)
   }
 
-  // Called when an Aspect is selected by child
+  // Selection handlers
   function handleAspectSelected(card) {
-    // Store until user chooses where to tuck
     setPendingAspect(card)
   }
 
@@ -39,10 +37,39 @@ function StoryPromptBuilder() {
     setPendingAspect(null)
   }
 
-  function renderAspects(aspects) {
+  // Removal handlers
+  function removeAgent() {
+    setAgent(null)
+    setAgentAspects([])
+  }
+
+  function removeEngine() { setEngine(null) }
+
+  function removeAnchor() {
+    setAnchor(null)
+    setAnchorAspects([])
+  }
+
+  function removeConflict() { setConflict(null) }
+
+  function removeAgentAspect(index) {
+    setAgentAspects(agentAspects.filter((_, i) => i !== index))
+  }
+
+  function removeAnchorAspect(index) {
+    setAnchorAspects(anchorAspects.filter((_, i) => i !== index))
+  }
+
+  function renderAspects(aspects, removeFn) {
     return aspects.map((a, i) => (
-      <div key={i} style={{ fontSize: "0.9em", marginLeft: "12px" }}>
+      <div key={i} style={{ display: "flex", alignItems: "center", marginLeft: "12px" }}>
         • <em>{a.value}</em>
+        <button 
+          style={{ marginLeft: "6px", fontSize: "0.8em" }}
+          onClick={() => removeFn(i)}
+        >
+          ✕
+        </button>
       </div>
     ))
   }
@@ -55,7 +82,7 @@ function StoryPromptBuilder() {
         Reset Prompt
       </button>
 
-      {/* CURRENT PROMPT */}
+      {/* PROMPT BLOCK */}
       <div style={{
         padding: "10px",
         border: "1px solid var(--background-modifier-border)",
@@ -64,72 +91,78 @@ function StoryPromptBuilder() {
       }}>
         <h2>Your Story Prompt</h2>
 
-        {/* Agent */}
         {agent && (
           <div style={{ marginBottom: "10px" }}>
             <strong>Agent:</strong> {agent.value}
+            <button style={{ marginLeft: "6px" }} onClick={removeAgent}>✕</button>
+
             {agentAspects.length > 0 && (
-              <div style={{ marginTop: "4px" }}>
-                <strong style={{ fontSize: "0.9em" }}>Aspects:</strong>
-                {renderAspects(agentAspects)}
-              </div>
+              <>
+                <div style={{ marginTop: "4px" }}>
+                  <strong style={{ fontSize: "0.9em" }}>Aspects:</strong>
+                </div>
+                {renderAspects(agentAspects, removeAgentAspect)}
+              </>
             )}
           </div>
         )}
 
-        {/* Engine */}
         {engine && (
           <div style={{ marginBottom: "10px" }}>
             <strong>Engine:</strong> {engine.value}
+            <button style={{ marginLeft: "6px" }} onClick={removeEngine}>✕</button>
           </div>
         )}
 
-        {/* Anchor */}
         {anchor && (
           <div style={{ marginBottom: "10px" }}>
             <strong>Anchor:</strong> {anchor.value}
+            <button style={{ marginLeft: "6px" }} onClick={removeAnchor}>✕</button>
+
             {anchorAspects.length > 0 && (
-              <div style={{ marginTop: "4px" }}>
-                <strong style={{ fontSize: "0.9em" }}>Aspects:</strong>
-                {renderAspects(anchorAspects)}
-              </div>
+              <>
+                <div style={{ marginTop: "4px" }}>
+                  <strong style={{ fontSize: "0.9em" }}>Aspects:</strong>
+                </div>
+                {renderAspects(anchorAspects, removeAnchorAspect)}
+              </>
             )}
           </div>
         )}
 
-        {/* Conflict */}
         {conflict && (
           <div style={{ marginBottom: "10px" }}>
             <strong>Conflict:</strong> {conflict.value}
+            <button style={{ marginLeft: "6px" }} onClick={removeConflict}>✕</button>
           </div>
         )}
 
-        {/* Full prompt output */}
-        {agent && engine && anchor && conflict && (
-          <div style={{
-            background: "var(--background-secondary)",
-            padding: "12px",
-            borderRadius: "6px",
-            marginTop: "12px"
-          }}>
-            <h3>Generated Prompt</h3>
-            <p>
-              <strong>{agent.value}</strong>
-              {agentAspects.length > 0 &&
-                <> ({agentAspects.map(a => a.value).join(", ")})</>}
-              {" "}
-              {engine.value}{" "}
-              <strong>{anchor.value}</strong>
-              {anchorAspects.length > 0 &&
-                <> ({anchorAspects.map(a => a.value).join(", ")})</>}
-              {" "}
-              but {conflict.value}.
-            </p>
-          </div>
-        )}
       </div>
 
-      {/* ASPECT TUCK DECISION UI */}
+      {agent && engine && anchor && conflict && (
+        <div style={{
+          background: "var(--background-secondary)",
+          padding: "12px",
+          borderRadius: "6px",
+          marginTop: "12px"
+        }}>
+          <h3>Generated Prompt</h3>
+          <p>
+            <strong>{agent.value}</strong>
+            {agentAspects.length > 0 &&
+              <> ({agentAspects.map(a => a.value).join(", ")})</>}
+            {" "}
+            {engine.value}{" "}
+            <strong>{anchor.value}</strong>
+            {anchorAspects.length > 0 &&
+              <> ({anchorAspects.map(a => a.value).join(", ")})</>}
+            {" "}
+            but {conflict.value}.
+          </p>
+        </div>
+      )}
+
+      {/* ASPECT DECISION */}
       {pendingAspect && (
         <div style={{
           padding: "10px",
@@ -142,9 +175,17 @@ function StoryPromptBuilder() {
           <button disabled={!agent} onClick={tuckAspectIntoAgent}>
             Attach to Agent
           </button>
+
           {" "}
           <button disabled={!anchor} onClick={tuckAspectIntoAnchor}>
             Attach to Anchor
+          </button>
+
+          <button 
+            onClick={() => setPendingAspect(null)} 
+            style={{ marginLeft: "8px" }}
+          >
+            Cancel
           </button>
         </div>
       )}
