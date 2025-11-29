@@ -5,11 +5,11 @@ const { CardCategory } = await dc.require(dc.headerLink("Story Engine/Story Engi
 function PromptBuilder() {
   const ROOT_DIR = 'Story Engine'
 	const CARD_TYPES = [
-    { type: 'agent', label: 'Agent', path: path.join(ROOT_DIR, 'Story Engine/Agents.md'), deck: 'Story Engine' },
-    { type: 'anchor', label: 'Anchor', path: path.join(ROOT_DIR, 'Story Engine/Anchors.md'), deck: 'Story Engine' },
-    { type: 'aspect', label: 'Aspect', path: path.join(ROOT_DIR, 'Story Engine/Aspects.md'), deck: 'Story Engine' },
-    { type: 'conflict', label: 'Conflict', path: path.join(ROOT_DIR, 'Story Engine/Conflicts.md'), deck: 'Story Engine' },
-    { type: 'engine', label: 'Engine', path: path.join(ROOT_DIR, 'Story Engine/Engines.md'), deck: 'Story Engine' }
+    { type: 'agent', label: 'Agent', path: path.posix.join(ROOT_DIR, 'Story Engine/Agents.md'), deck: 'Story Engine' },
+    { type: 'anchor', label: 'Anchor', path: path.posix.join(ROOT_DIR, 'Story Engine/Anchors.md'), deck: 'Story Engine' },
+    { type: 'aspect', label: 'Aspect', path: path.posix.join(ROOT_DIR, 'Story Engine/Aspects.md'), deck: 'Story Engine' },
+    { type: 'conflict', label: 'Conflict', path: path.posix.join(ROOT_DIR, 'Story Engine/Conflicts.md'), deck: 'Story Engine' },
+    { type: 'engine', label: 'Engine', path: path.posix.join(ROOT_DIR, 'Story Engine/Engines.md'), deck: 'Story Engine' }
   ]
   const PROMPT_TYPES = [
     {
