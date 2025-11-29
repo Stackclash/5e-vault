@@ -110,7 +110,7 @@ function PromptBuilder() {
 
       <label>Prompt Type:</label><br/>
       <select
-        value={promptType}
+        value={promptType.label}
       >
         {PROMPT_TYPES.map(pt => {
           return (

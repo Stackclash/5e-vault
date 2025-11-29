@@ -31,7 +31,6 @@ function parseObsidianTables(md) {
 
 // ---------- COMPONENT ----------
 function CardCategory({ file, type, label, onSelect }) {
-  console.log(file, type, label, onSelect)
   const [text, setText] = dc.useState(null)
   const [tables, setTables] = dc.useState({})
   const [fullValues, setFullValues] = dc.useState([])
@@ -42,10 +41,12 @@ function CardCategory({ file, type, label, onSelect }) {
 
   // Load and parse file
   dc.useEffect(() => {
-    dv.io.load(file).then(md => {
+    console.log(file.trim())
+    dv.io.load(file.trim()).then(md => {
+      console.log(md)
       const parsed = parseObsidianTables(md)
-      setTables(parsed)
 
+      setTables(parsed)
       setActiveDecks(Object.keys(parsed))
       setText(md)
     }).catch(e => console.log(e.message))
