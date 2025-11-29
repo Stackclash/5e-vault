@@ -6,10 +6,11 @@ const dv = app.plugins.getPlugin("dataview").api
 // ---------- TABLE PARSER ----------
 function parseObsidianTables(md) {
   const result = {}
-  const tableRegex = /((?:\|.*\n)+?)\s*\^([a-zA-Z0-9\-_]+)/g
+  const tableRegex = /((?:\|.*\n)+?)\s*\^([a-zA-Z0-9\-_]+)/ig
 
   // if (md.includes('# Anchors')) console.log(md)
   let match
+  if (md.includes('# Anchors')) console.log(tableRegex.test(md))
   while ((match = tableRegex.exec(md)) !== null) {
     const table = match[1].trim()
     const blockID = match[2].trim()
