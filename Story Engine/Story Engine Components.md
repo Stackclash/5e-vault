@@ -185,7 +185,7 @@ function CardCategory({ file, label, onSelect }) {
             <br/>
             {onSelect && 
             <>
-              <button onClick={onSelect(selected)} style={{ marginTop: "8px" }}>
+              <button onClick={() => onSelect(selected)} style={{ marginTop: "8px" }}>
                 Select
               </button>
               <br/>
