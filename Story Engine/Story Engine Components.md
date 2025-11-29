@@ -90,10 +90,6 @@ function CardCategory({ file, label, onSelect }) {
     setSelected(card)
     setDropdown([])
     setSearchTerm("")
-
-    if (onSelect) {
-      onSelect(card)
-    }
   }
 
   function pickRandom() {
@@ -109,10 +105,6 @@ function CardCategory({ file, label, onSelect }) {
       return c.deck === selected.deck && c.cardIndex === selected.cardIndex && c.sideIndex === newIndex
     })
     setSelected(newCardSide)
-
-    if (onSelect) {
-      onSelect(newCardSide)
-    }
   }
 
   if (!text) {
@@ -191,6 +183,13 @@ function CardCategory({ file, label, onSelect }) {
   
             <strong>{selected.value}</strong> <em style={{ color: "var(--text-muted)" }}>({selected.deck})</em>
             <br/>
+            {onSelect && 
+            <>
+              <button onClick={onSelect(selected)} style={{ marginTop: "8px" }}>
+                Select
+              </button>
+              <br/>
+            </>}
             <button onClick={turn} style={{ marginTop: "8px" }}>
               ↻ Turn (Next Column)
             </button>

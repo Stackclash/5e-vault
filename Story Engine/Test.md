@@ -1,5 +1,5 @@
 ```datacorejsx
-const { CardCategory } = await dc.require(dc.headerLink("Story Engine/Story Engine Components", "CardCategory"))
+const { CardCategory } = await dc.require(dc.headerLink("Story Engine/Story Engine Components.md", "CardCategory"))
 
 function StoryPromptBuilder() {
   const [agent, setAgent] = dc.useState(null)
