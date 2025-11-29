@@ -12,7 +12,7 @@ function parseObsidianTables(md) {
   while ((match = tableRegex.exec(md)) !== null) {
     const table = match[1].trim()
     const blockID = match[2].trim()
-    if (md.includes('# Agents')) console.log(blockID, table)
+    if (md.includes('# Anchors')) console.log(table, blockID)
 
     const lines = table.split("\n").map(l => l.trim())
     const headers = lines[0].split("|").map(c => c.trim()).filter(Boolean)
@@ -42,7 +42,7 @@ function CardCategory({ file, type, label, onSelect }) {
 
   // Load and parse file
   dc.useEffect(() => {
-    dv.io.load(file.trim()).then(md => {
+    dv.io.load(file).then(md => {
       const parsed = parseObsidianTables(md)
       setTables(parsed)
       setActiveDecks(Object.keys(parsed))
