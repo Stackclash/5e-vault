@@ -30,7 +30,7 @@ function parseObsidianTables(md) {
 }
 
 // ---------- COMPONENT ----------
-function CardCategory({ file, label, onSelect }) {
+function CardCategory({ file, type, label, onSelect }) {
   const [text, setText] = dc.useState(null)
   const [tables, setTables] = dc.useState({})
   const [fullValues, setFullValues] = dc.useState([])
@@ -69,6 +69,7 @@ function CardCategory({ file, label, onSelect }) {
           deck,
           sideIndex,
           cardIndex,
+          type, 
           numOfSides: Object.keys(row).length,
           value: card
         }))

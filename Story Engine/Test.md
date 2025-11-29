@@ -1,72 +1,102 @@
 ```datacorejsx
+const path = require('path')
 const { CardCategory } = await dc.require(dc.headerLink("Story Engine/Story Engine Components.md", "CardCategory"))
 
-function StoryPromptBuilder() {
-  const [agent, setAgent] = dc.useState(null)
-  const [engine, setEngine] = dc.useState(null)
-  const [anchor, setAnchor] = dc.useState(null)
-  const [conflict, setConflict] = dc.useState(null)
-
-  const [agentAspects, setAgentAspects] = dc.useState([])
-  const [anchorAspects, setAnchorAspects] = dc.useState([])
-
-  const [pendingAspect, setPendingAspect] = dc.useState(null)
+function PromptBuilder() {
+  const ROOT_DIR = 'Story Engine'
+	const CARD_TYPES = [
+    { type: 'agent', label: 'Agent', path: path.join(ROOT_DIR, 'Story Engine/Agents.md'), deck: 'Story Engine' },
+    { type: 'anchor', label: 'Anchor', path: path.join(ROOT_DIR, 'Story Engine/Anchors.md'), deck: 'Story Engine' },
+    { type: 'aspect', label: 'Aspect', path: path.join(ROOT_DIR, 'Story Engine/Aspects.md'), deck: 'Story Engine' },
+    { type: 'conflict', label: 'Conflict', path: path.join(ROOT_DIR, 'Story Engine/Conflicts.md'), deck: 'Story Engine' },
+    { type: 'engine', label: 'Engine', path: path.join(ROOT_DIR, 'Story Engine/Engines.md'), deck: 'Story Engine' }
+  ]
+  const PROMPT_TYPES = [
+    {
+      label: 'Story Seed',
+      description: 'The classic 5-part Story Engine seed.',
+      cards: [
+        {
+          type: 'agent',
+          role: 'primary',
+          min: 1,
+          max: 1
+        },
+        {
+          type: 'achor',
+          role: 'primary',
+          min: 1,
+          max: 1
+        },
+        {
+          type: 'aspect',
+          role: 'modifier',
+          attachesTo: ['agent'],
+          min: 1,
+          max: 1
+        },
+        {
+          type: 'conflict',
+          role: 'primary',
+          min: 1,
+          max: 1
+        },
+        {
+          type: 'engine',
+          role: 'primary',
+          min: 1,
+          max: 1
+        }
+      ]
+    }
+  ]
+  const [cards, setCards] = dc.useState([])
+  const [promptType, setPromptType] = dc.useState(PROMPT_TYPES[0])
+  const [pendingModifier, setPendingModifier] = dc.useState({})
 
   function resetPrompt() {
-    setAgent(null)
-    setEngine(null)
-    setAnchor(null)
-    setConflict(null)
-    setAgentAspects([])
-    setAnchorAspects([])
-    setPendingAspect(null)
+    setCards([])
+  }
+  
+  function addCard(card) {
+    setCards([...cards, card])
   }
 
-  // Selection handlers
-  function handleAspectSelected(card) {
-    setPendingAspect(card)
+  function removeCard(card) {
+    setCards(cards.filter(c => c.value !== card.value))
   }
 
-  function tuckAspectIntoAgent() {
-    setAgentAspects([...agentAspects, pendingAspect])
-    setPendingAspect(null)
+  function addModifier(card, modifier) {
+    const restCards = cards.filter(c => c.value !== card.value)
+    const modifiedCard = {
+      ...card,
+      modifiers: [...card.modifiers, modifier]
+    }
+
+    setCards([...restCards, modifiedCard])
   }
 
-  function tuckAspectIntoAnchor() {
-    setAnchorAspects([...anchorAspects, pendingAspect])
-    setPendingAspect(null)
+  function removeModifier(card, modifier) {
+    const restCards = cards.filter(c => c.value !== card.value)
+    const modifiedCard = {
+      ...card,
+      modifiers: card.modifiers.filter(m => m.value !== modifier.value)
+    }
+
+    setCards([...restCards, modifiedCard])
   }
 
-  // Removal handlers
-  function removeAgent() {
-    setAgent(null)
-    setAgentAspects([])
+  function findCardType(card) {
+    return CARD_TYPES.find(t => t.type === card.type)
   }
 
-  function removeEngine() { setEngine(null) }
-
-  function removeAnchor() {
-    setAnchor(null)
-    setAnchorAspects([])
-  }
-
-  function removeConflict() { setConflict(null) }
-
-  function removeAgentAspect(index) {
-    setAgentAspects(agentAspects.filter((_, i) => i !== index))
-  }
-
-  function removeAnchorAspect(index) {
-    setAnchorAspects(anchorAspects.filter((_, i) => i !== index))
-  }
-
-  function renderAspects(aspects, removeFn) {
-    return aspects.map((a, i) => (
+  function renderModifiers(card) {
+    return card.modifiers.map((m, i) => (
       <div key={i} style={{ display: "flex", alignItems: "center", marginLeft: "12px" }}>
-        • <em>{a.value}</em>
+        • <em>{m.value}</em>
         <button 
           style={{ marginLeft: "6px", fontSize: "0.8em" }}
-          onClick={() => removeFn(i)}
+          onClick={() => removeModifier(card, m)}
         >
           ✕
         </button>
@@ -78,7 +108,17 @@ function StoryPromptBuilder() {
     <div style={{ padding: "20px" }}>
       <h1>Story Seed Prompt Builder</h1>
 
-      <button onClick={resetPrompt} style={{ marginBottom: "12px" }}>
+      <label>Prompt Type:</label><br/>
+      <select
+        value={promptType}
+      >
+        {PROMPT_TYPES.map(pt => {
+          return (
+            <option onClick={() => setPromptType(pt)}>{pt.label}</option>
+          )
+        })}
+      </select>
+      <button onClick={resetPrompt} style={{ marginLeft: '10px', marginBottom: "12px" }}>
         Reset Prompt
       </button>
 
@@ -90,56 +130,30 @@ function StoryPromptBuilder() {
         marginBottom: "16px"
       }}>
         <h2>Your Story Prompt</h2>
+        
+        {cards.map(c => {
+          const cardType = findCardType(c)
 
-        {agent && (
-          <div style={{ marginBottom: "10px" }}>
-            <strong>Agent:</strong> {agent.value}
-            <button style={{ marginLeft: "6px" }} onClick={removeAgent}>✕</button>
+          return (
+            <div style={{ marginBottom: "10px" }}>
+              <strong>{cardType.label}:</strong> {agent.value}
+              <button style={{ marginLeft: "6px" }} onClick={removeAgent}>✕</button>
 
-            {agentAspects.length > 0 && (
-              <>
-                <div style={{ marginTop: "4px" }}>
-                  <strong style={{ fontSize: "0.9em" }}>Aspects:</strong>
-                </div>
-                {renderAspects(agentAspects, removeAgentAspect)}
-              </>
-            )}
-          </div>
-        )}
-
-        {engine && (
-          <div style={{ marginBottom: "10px" }}>
-            <strong>Engine:</strong> {engine.value}
-            <button style={{ marginLeft: "6px" }} onClick={removeEngine}>✕</button>
-          </div>
-        )}
-
-        {anchor && (
-          <div style={{ marginBottom: "10px" }}>
-            <strong>Anchor:</strong> {anchor.value}
-            <button style={{ marginLeft: "6px" }} onClick={removeAnchor}>✕</button>
-
-            {anchorAspects.length > 0 && (
-              <>
-                <div style={{ marginTop: "4px" }}>
-                  <strong style={{ fontSize: "0.9em" }}>Aspects:</strong>
-                </div>
-                {renderAspects(anchorAspects, removeAnchorAspect)}
-              </>
-            )}
-          </div>
-        )}
-
-        {conflict && (
-          <div style={{ marginBottom: "10px" }}>
-            <strong>Conflict:</strong> {conflict.value}
-            <button style={{ marginLeft: "6px" }} onClick={removeConflict}>✕</button>
-          </div>
-        )}
-
+              {c.modifiers.length > 0 && (
+                <>
+                  <div style={{ marginTop: "4px" }}>
+                    <strong style={{ fontSize: "0.9em" }}>Modifiers:</strong>
+                  </div>
+                  {renderModifiers(c)}
+                </>
+              )}
+            </div>
+          )
+        })}
       </div>
 
-      {agent && engine && anchor && conflict && (
+      {/* TODO: Update logic to test if minimum requirements are fulfilled */}
+      {/*agent && engine && anchor && conflict && (
         <div style={{
           background: "var(--background-secondary)",
           padding: "12px",
@@ -160,16 +174,16 @@ function StoryPromptBuilder() {
             but {conflict.value}.
           </p>
         </div>
-      )}
+      )*/}
 
-      {/* ASPECT DECISION */}
-      {pendingAspect && (
+      {/* TODO: Update to allow selecting what card type to attach to */}
+      {/*pendingModifier && (
         <div style={{
           padding: "10px",
           marginBottom: "16px",
           border: "1px dashed var(--background-modifier-border)"
         }}>
-          <h3>Where does this aspect apply?</h3>
+          <h3>Where does this modifier apply?</h3>
           <p><strong>{pendingAspect.value}</strong></p>
 
           <button disabled={!agent} onClick={tuckAspectIntoAgent}>
@@ -188,14 +202,26 @@ function StoryPromptBuilder() {
             Cancel
           </button>
         </div>
-      )}
+      )*/}
 
-      {/* CHILD SELECTORS */}
       <div style={{
         display: "grid",
         gridTemplateColumns: "1fr 1fr",
         gap: "16px"
       }}>
+        {promptType.cards.map(c => {
+          const cardType = findCardType(c)
+
+          return (
+            <CardCategory
+              file={cardType.path}
+              type={cardType.type}
+              label={cardType.label}
+              onSelect={addCard}
+            />
+          )
+        })}
+
         <CardCategory
           file="Story Engine/Story Engine/Agents.md"
           label="Agents"
@@ -230,5 +256,5 @@ function StoryPromptBuilder() {
   )
 }
 
-return StoryPromptBuilder
+return PromptBuilder
 ```
