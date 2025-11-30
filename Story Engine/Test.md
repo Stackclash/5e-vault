@@ -16,12 +16,12 @@ function PromptBuilder() {
       label: 'Story Seed',
       description: 'The classic 5-part Story Engine seed.',
       cards: [
-        {
-          type: 'agent',
-          role: 'primary',
-          min: 1,
-          max: 1
-        },
+        // {
+        //   type: 'agent',
+        //   role: 'primary',
+        //   min: 1,
+        //   max: 1
+        // },
         {
           type: 'anchor',
           role: 'primary',
