@@ -4,31 +4,66 @@
 const dv = app.plugins.getPlugin("dataview").api
 
 // ---------- TABLE PARSER ----------
-function parseObsidianTables(file, md) {
-  const result = {}
-  const tableRegex = /((?:\|.*\n)+?)\s*\^([a-zA-Z0-9\-_]+)/g
+function parseObsidianTables(md) {
+  const lines = md.split(/\r?\n/);
+  const tables = {};
+  let currentTable = [];
+  let collecting = false;
 
-  let match
-  while ((match = tableRegex.exec(md)) !== null) {
-    const table = match[1].trim()
-    const blockID = match[2].trim()
-    if (md.includes('# Anchors')) console.log(table, blockID)
+  function finalizeTable(blockId) {
+    if (!blockId || currentTable.length === 0) return;
 
-    const lines = table.split("\n").map(l => l.trim())
-    const headers = lines[0].split("|").map(c => c.trim()).filter(Boolean)
+    // Parse header
+    const headerCells = currentTable[0]
+      .split("|")
+      .map(c => c.trim())
+      .filter(Boolean);
 
-    const rows = lines.slice(2).map(line => {
-      const cells = line.split("|").map(c => c.trim()).filter(Boolean)
-      const o = {}
-      headers.forEach((h, i) => (o[h] = cells[i] ?? ""))
-      return o
-    })
+    // Data rows start after divider row
+    const dataLines = currentTable.slice(2);
 
-    result[blockID] = rows
+    const rows = dataLines.map(line => {
+      const cells = line.split("|").map(c => c.trim()).filter(Boolean);
+      const rowObj = {};
+      headerCells.forEach((h, i) => {
+        rowObj[h] = cells[i] ?? "";
+      });
+      return rowObj;
+    });
+
+    tables[blockId] = rows;
   }
 
-  return result
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim();
+
+    // Detect table start: a line that begins with '|'
+    if (line.startsWith("|")) {
+      collecting = true;
+      currentTable.push(line);
+      continue;
+    }
+
+    // If we're collecting and encounter a non-table line:
+    if (collecting && !line.startsWith("|")) {
+      // Check if this is a block ID
+      const blockMatch = line.match(/^\^([a-zA-Z0-9\-_]+)$/);
+
+      if (blockMatch) {
+        const blockId = blockMatch[1];
+        finalizeTable(blockId);
+      }
+
+      // Reset for next table
+      currentTable = [];
+      collecting = false;
+    }
+  }
+
+  return tables;
 }
+
+function testRegex(file,)
 
 // ---------- COMPONENT ----------
 function CardCategory({ file, type, label, onSelect }) {
