@@ -9,6 +9,7 @@ function parseObsidianTables(file, md) {
   const tableRegex = /((?:\|.*\n)+?)\^([\w0-9]+)/g
 
   let match
+  if (file.includes('Anchors') || file.includes('Aspects')) console.log(md, /((?:\|.*\n)+?)\^([\w0-9]+)/g.test(md))
   while ((match = tableRegex.exec(md)) !== null) {
     const table = match[1].trim()
     const blockID = match[2].trim()
