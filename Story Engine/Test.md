@@ -104,6 +104,48 @@ function PromptBuilder() {
     ))
   }
 
+  function meetsRequirements() {
+    // Count how many cards of each type the user has added
+    const typeCount = {};
+    cards.forEach(card => {
+      typeCount[card.type] = (typeCount[card.type] || 0) + 1;
+    });
+
+    // Count modifier cards that are actually attached to valid parents
+    function countAttachedModifiers(modType, allowedParents) {
+      let count = 0;
+
+      for (const card of cards) {
+        if (!allowedParents.includes(card.type)) continue;
+
+        for (const mod of card.modifiers) {
+          if (mod.type === modType) count++;
+        }
+      }
+
+      return count;
+    }
+
+    // Validate each rule for the currently selected prompt type
+    for (const rule of promptType.cards) {
+      const { type, role, min = 0, max = Infinity, attachesTo } = rule;
+
+      if (role === "modifier") {
+        // Only modifiers attached to allowed parents count
+        const count = countAttachedModifiers(type, attachesTo || []);
+        if (count < min || count > max) return false;
+      } else {
+        // Count primary or secondary cards by card.type
+        const count = typeCount[type] || 0;
+        if (count < min || count > max) return false;
+      }
+    }
+
+    return true;
+  }
+
+
+
   return (
     <div style={{ padding: "20px" }}>
       <h1>Story Seed Prompt Builder</h1>
@@ -153,7 +195,7 @@ function PromptBuilder() {
       </div>
 
       {/* TODO: Update logic to test if minimum requirements are fulfilled */}
-      {/*agent && engine && anchor && conflict && (
+      {meetsRequirements() && (
         <div style={{
           background: "var(--background-secondary)",
           padding: "12px",
@@ -174,7 +216,7 @@ function PromptBuilder() {
             but {conflict.value}.
           </p>
         </div>
-      )*/}
+      )}
 
       {/* TODO: Update to allow selecting what card type to attach to */}
       {/*pendingModifier && (
