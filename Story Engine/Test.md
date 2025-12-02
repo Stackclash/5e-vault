@@ -62,8 +62,10 @@ function PromptBuilder() {
     setCards([...cards, card])
   }
 
-  function removeCard(card) {
-    setCards(cards.filter(c => c.value !== card.value))
+  function removeCard(index) {
+    cards.splice(index, 1)
+    console.log(cards)
+    setCards(cards)
   }
 
   function addModifier(card, modifier) {
@@ -173,13 +175,13 @@ function PromptBuilder() {
       }}>
         <h2>Your Story Prompt</h2>
         
-        {cards.map(c => {
+        {cards.map((c, i) => {
           const cardType = findCardType(c)
 
           return (
             <div style={{ marginBottom: "10px" }}>
               <strong>{cardType.label}:</strong> {c.value}
-              <button style={{ marginLeft: "6px" }} onClick={() => removeCard(c)}>✕</button>
+              <button style={{ marginLeft: "6px" }} onClick={() => removeCard(i)}>✕</button>
 
               {c.modifiers && c.modifiers.length > 0 && (
                 <>
