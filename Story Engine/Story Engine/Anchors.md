@@ -1,6 +1,3 @@
-# Anchors
-Objects, locations, or events of importance
-
 | Side #1              | Side #2          | Side #3             | Side #4         |
 | -------------------- | ---------------- | ------------------- | --------------- |
 | a Keepsake           | a Letter         | a Basement          | a House         |
