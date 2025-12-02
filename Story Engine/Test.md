@@ -83,13 +83,16 @@ function PromptBuilder() {
   }
 
   function removeModifier(card, modifier) {
-    const restCards = cards.filter(c => c.value !== card.value)
-    const modifiedCard = {
-      ...card,
-      modifiers: card.modifiers.filter(m => m.value !== modifier.value)
-    }
+    const updated = cards.map(c =>
+      c.value === card.value
+        ? {
+          ...c,
+          modifiers: c.modifiers.filter(m => m.value !== modifier.value)
+        }
+      : c
+    )
 
-    setCards([...restCards, modifiedCard])
+    setCards(updated)
   }
 
   function getCardType(card) {
