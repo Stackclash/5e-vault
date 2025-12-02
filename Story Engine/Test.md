@@ -64,7 +64,6 @@ function PromptBuilder() {
 
   function removeCard(index) {
     cards.splice(index, 1)
-    console.log(cards)
     setCards(cards)
   }
 
@@ -178,7 +177,8 @@ function PromptBuilder() {
         {cards.map((c, i) => {
           const cardType = findCardType(c)
 
-          return (
+          console.log(c, cardType)
+          return (c.role === 'primary' &&
             <div style={{ marginBottom: "10px" }}>
               <strong>{cardType.label}:</strong> {c.value}
               <button style={{ marginLeft: "6px" }} onClick={() => removeCard(i)}>✕</button>
@@ -193,7 +193,7 @@ function PromptBuilder() {
               )}
             </div>
           )
-        })}
+        }).filter(Boolean)}
       </div>
 
       {/* TODO: Update logic to test if minimum requirements are fulfilled */}
