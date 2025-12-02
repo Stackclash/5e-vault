@@ -52,13 +52,18 @@ function PromptBuilder() {
   ]
   const [cards, setCards] = dc.useState([])
   const [promptType, setPromptType] = dc.useState(PROMPT_TYPES[0])
-  const [pendingModifier, setPendingModifier] = dc.useState({})
+  const [pendingModifier, setPendingModifier] = dc.useState(null)
 
   function resetPrompt() {
     setCards([])
   }
   
   function addCard(card) {
+    if (getCardPromptDefinition(card).role === 'modifier') {
+      // Set as pending modifier to be attached to a parent card
+      setPendingModifier(card)
+      return
+    }
     setCards([...cards, card])
   }
 
@@ -71,7 +76,7 @@ function PromptBuilder() {
     const restCards = cards.filter(c => c.value !== card.value)
     const modifiedCard = {
       ...card,
-      modifiers: [...card.modifiers, modifier]
+      modifiers: [...card.modifiers || [], modifier]
     }
 
     setCards([...restCards, modifiedCard])
@@ -92,9 +97,15 @@ function PromptBuilder() {
     return cardType || null
   }
 
-  function getCardPromptRole(card) {
-    const promptCard = promptType.cards.find(c => c.type === card.type)
-    return promptCard ? promptCard.role : null
+  function getCardPromptDefinition(card) {
+    const promptCardDefinition = promptType.cards.find(c => c.type === card.type)
+    return promptCardDefinition || null
+  }
+
+  function getAvailableParentCardsForModifier(modifier) {
+    const promptCardDefinition = getCardPromptDefinition(modifier)
+    if (!promptCardDefinition || !promptCardDefinition.attachesTo) return []
+    return cards.filter(c => promptCardDefinition.attachesTo.includes(c.type))
   }
 
   function renderModifiers(card) {
@@ -182,9 +193,9 @@ function PromptBuilder() {
         
         {cards.map((c, i) => {
           const cardType = getCardType(c)
-          const cardRole = getCardPromptRole(c)
+          const cardPromptDefinition = getCardPromptDefinition(c)
 
-          return (cardRole === 'primary' &&
+          return (cardPromptDefinition.role === 'primary' &&
             <div style={{ marginBottom: "10px" }}>
               <strong>{cardType.label}:</strong> {c.value}
               <button style={{ marginLeft: "6px" }} onClick={() => removeCard(i)}>✕</button>
@@ -227,32 +238,33 @@ function PromptBuilder() {
       )}
 
       {/* TODO: Update to allow selecting what card type to attach to */}
-      {/*pendingModifier && (
+      {pendingModifier && (
         <div style={{
           padding: "10px",
           marginBottom: "16px",
           border: "1px dashed var(--background-modifier-border)"
         }}>
           <h3>Where does this modifier apply?</h3>
-          <p><strong>{pendingAspect.value}</strong></p>
+          <p><strong>{pendingModifier.value}</strong></p>
 
-          <button disabled={!agent} onClick={tuckAspectIntoAgent}>
-            Attach to Agent
-          </button>
+          {getAvailableParentCardsForModifier(pendingModifier).map(c => {
+            const cardType = getCardType(c)
 
-          {" "}
-          <button disabled={!anchor} onClick={tuckAspectIntoAnchor}>
-            Attach to Anchor
-          </button>
+            return (
+              <button onClick={() => addModifier(c, pendingModifier)} style={{ marginRight: "6px" }}>
+                Attach to {cardType.label}: {c.value}
+              </button>
+            )
+          })}
 
           <button 
-            onClick={() => setPendingAspect(null)} 
+            onClick={() => setPendingModifier(null)} 
             style={{ marginLeft: "8px" }}
           >
             Cancel
           </button>
         </div>
-      )*/}
+      )}
 
       <div style={{
         display: "grid",
