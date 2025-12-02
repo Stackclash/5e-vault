@@ -87,8 +87,14 @@ function PromptBuilder() {
     setCards([...restCards, modifiedCard])
   }
 
-  function findCardType(card) {
-    return CARD_TYPES.find(t => t.type === card.type)
+  function getCardType(card) {
+    const cardType = CARD_TYPES.find(t => t.type === card.type)
+    return cardType || null
+  }
+
+  function getCardPromptRole(card) {
+    const promptCard = promptType.cards.find(c => c.type === card.type)
+    return promptCard ? promptCard.role : null
   }
 
   function renderModifiers(card) {
@@ -175,10 +181,10 @@ function PromptBuilder() {
         <h2>Your Story Prompt</h2>
         
         {cards.map((c, i) => {
-          const cardType = findCardType(c)
+          const cardType = getCardType(c)
+          const cardRole = getCardPromptRole(c)
 
-          console.log(c, cardType)
-          return (c.role === 'primary' &&
+          return (cardRole === 'primary' &&
             <div style={{ marginBottom: "10px" }}>
               <strong>{cardType.label}:</strong> {c.value}
               <button style={{ marginLeft: "6px" }} onClick={() => removeCard(i)}>✕</button>
@@ -254,7 +260,7 @@ function PromptBuilder() {
         gap: "16px"
       }}>
         {promptType.cards.map(c => {
-          const cardType = findCardType(c)
+          const cardType = getCardType(c)
 
           return (
             <CardCategory
