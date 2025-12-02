@@ -175,13 +175,14 @@ function PromptBuilder() {
         
         {cards.map(c => {
           const cardType = findCardType(c)
+          console.log(c, cardType)
 
           return (
             <div style={{ marginBottom: "10px" }}>
-              <strong>{cardType.label}:</strong> {agent.value}
-              <button style={{ marginLeft: "6px" }} onClick={removeAgent}>✕</button>
+              <strong>{cardType.label}:</strong> {c.value}
+              <button style={{ marginLeft: "6px" }} onClick={removeCard(c)}>✕</button>
 
-              {c.modifiers.length > 0 && (
+              {c.modifiers && c.modifiers.length > 0 && (
                 <>
                   <div style={{ marginTop: "4px" }}>
                     <strong style={{ fontSize: "0.9em" }}>Modifiers:</strong>
