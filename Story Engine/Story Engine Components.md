@@ -31,7 +31,7 @@ function parseObsidianTables(file, md) {
 }
 
 // ---------- COMPONENT ----------
-function CardCategory({ file, type, label, onSelect, error, disabled }) {
+function CardCategory({ file, type, category, label, error, disabled, onSelect }) {
   const [text, setText] = dc.useState(null)
   const [tables, setTables] = dc.useState({})
   const [fullValues, setFullValues] = dc.useState([])
@@ -66,6 +66,7 @@ function CardCategory({ file, type, label, onSelect, error, disabled }) {
     const result = activeDecks.flatMap(deck => {
       return tables[deck].map((row, cardIndex) => {
         return Object.values(row).map((card, sideIndex) => ({
+          category,
           deck,
           sideIndex,
           cardIndex,

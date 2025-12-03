@@ -42,7 +42,7 @@ function PromptBuilder() {
           role: 'modifier',
           attachesTo: ['agent'],
           min: 1,
-          max: Infinity
+          max: 1
         },
         {
           type: 'conflict',
@@ -286,13 +286,19 @@ function PromptBuilder() {
       }}>
         {promptType.cards.map(c => {
           const cardType = getCardType(c)
+          const cardPromptDefinition = getCardPromptDefinition(c)
+          const cardsOfType = cards.filter(card => card.type === c.type)
+          const isDisabled = cardsOfType.length >= (cardPromptDefinition.max || Infinity)
 
           return (
             <CardCategory
               file={cardType.path}
+              category={cardType.deck}
               type={cardType.type}
               label={cardType.label}
               onSelect={addCard}
+              disabled={isDisabled}
+              error={isDisabled ? `Maximum of ${cardPromptDefinition.max} reached` : ''}
             />
           )
         })}
