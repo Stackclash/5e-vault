@@ -42,7 +42,7 @@ function PromptBuilder() {
           role: 'modifier',
           attachesTo: ['agent'],
           min: 1,
-          max: 1
+          max: Infinity
         },
         {
           type: 'conflict',
@@ -287,7 +287,20 @@ function PromptBuilder() {
         {promptType.cards.map(c => {
           const cardType = getCardType(c)
           const cardPromptDefinition = getCardPromptDefinition(c)
-          const cardsOfType = cards.filter(card => card.type === c.type)
+          let cardsOfType = []
+          if (cardPromptDefinition.role === 'modifier') {
+            // Count how many modifier cards are attached to valid parents
+            for (const card of cards) {
+              if (!cardPromptDefinition.attachesTo.includes(card.type) || !card.modifiers) continue;
+
+              for (const mod of card.modifiers) {
+                if (mod.type === c.type) cardsOfType.push(mod);
+              }
+            }
+          } else {
+            cardsOfType = cards.filter(card => card.type === c.type)
+          }
+
           const isDisabled = cardsOfType.length >= (cardPromptDefinition.max || Infinity)
           let message = {}
           if (isDisabled) {
