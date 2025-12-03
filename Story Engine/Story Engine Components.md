@@ -222,7 +222,8 @@ function CardCategory({ file, type, label, onSelect }) {
           {/* RIGHT COLUMN — SELECTED CARD */}
           <div 
             style={{ 
-              width: "120px",
+              flex: "1 1 120px",        // default 120px, but can expand
+              maxWidth: "50%",          // never exceed half the component
               minHeight: "80px",
               border: "1px solid var(--background-modifier-border)",
               borderRadius: "4px",
@@ -230,7 +231,8 @@ function CardCategory({ file, type, label, onSelect }) {
               display: "flex",
               flexDirection: "column",
               justifyContent: "space-between",
-              background: "var(--background-primary)"
+              background: "var(--background-primary)",
+              overflow: "hidden"
             }}
           >
             {!selected ? (
@@ -246,20 +248,33 @@ function CardCategory({ file, type, label, onSelect }) {
               </div>
             ) : (
               <>
-                <div style={{ flex: 1, overflow: "hidden" }}>
-                  <strong style={{ fontSize: "0.9em" }}>{selected.value}</strong>
+                <div 
+                  style={{ 
+                    flex: 1, 
+                    overflow: "hidden",
+                    whiteSpace: "normal",    // allow wrapping
+                    wordBreak: "break-word"  // force break long words
+                  }}
+                >
+                  <strong style={{ fontSize: "0.9em" }}>
+                    {selected.value}
+                  </strong>
                   <div style={{ color: "var(--text-muted)", fontSize: "0.75em" }}>
                     {selected.deck}
                   </div>
                 </div>
 
-                <div style={{ display: "flex", justifyContent: "space-between", marginTop: "6px" }}>
+                <div style={{ 
+                  display: "flex", 
+                  justifyContent: "space-between", 
+                  marginTop: "6px" 
+                }}>
                   {onSelect && (
                     <button 
                       onClick={() => onSelect(selected)} 
                       style={{ 
                         fontSize: "0.7em", 
-                        padding: "2px 4px" 
+                        padding: "2px 4px"
                       }}
                     >
                       Select
