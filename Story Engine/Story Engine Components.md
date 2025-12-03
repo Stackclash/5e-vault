@@ -112,87 +112,117 @@ function CardCategory({ file, type, label, onSelect }) {
     return <div>Loading {label}…</div>
   } else {
     return (
-      <div style={{ padding: "12px", border: "1px solid var(--background-modifier-border)", borderRadius: "8px" }}>
-        <h2>{label}</h2>
-  
-        {/* Active sets */}
-        <h3>Active Sets</h3>
-        {Object.keys(tables).map(e => (
-          <label style={{ display: "block" }}>
+      <div 
+        style={{ 
+          padding: "8px",
+          border: "1px solid var(--background-modifier-border)", 
+          borderRadius: "6px",
+          fontSize: "0.85em",
+          lineHeight: "1.2em"
+        }}
+      >
+        <div style={{ 
+          fontWeight: "600", 
+          fontSize: "1em", 
+          marginBottom: "6px",
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center"
+        }}>
+          {label}
+          <button 
+            onClick={pickRandom} 
+            disabled={!fullValues.length}
+            style={{
+              fontSize: "0.75em",
+              padding: "2px 4px",
+            }}
+          >
+            🎲
+          </button>
+        </div>
+
+        {/* Collapsible advanced settings */}
+        <details style={{ marginBottom: "6px" }}>
+          <summary style={{ cursor: "pointer", fontWeight: 500 }}>Options</summary>
+
+          {/* Active sets */}
+          <div style={{ marginTop: "4px" }}>
+            {Object.keys(tables).map(e => (
+              <label style={{ display: "flex", alignItems: "center", gap: "4px" }}>
+                <input
+                  type="checkbox"
+                  checked={activeDecks.includes(e)}
+                  onInput={() => handleDeckToggle(e)}
+                />
+                <span>{e}</span>
+              </label>
+            ))}
+          </div>
+
+          {/* Search */}
+          <div style={{ marginTop: "6px" }}>
             <input
-              type="checkbox"
-              checked={activeDecks.includes(e)}
-              onInput={() => handleDeckToggle(e)}
+              type="text"
+              value={searchTerm}
+              placeholder="Search…"
+              style={{ width: "100%", fontSize: "0.85em", padding: "2px" }}
+              onInput={e => setSearchTerm(e.target.value)}
             />
-            {e}
-          </label>
-        ))}
-  
-        {/* SEARCH */}
-        <h3>Search</h3>
-        <input
-          type="text"
-          value={searchTerm}
-          placeholder="Search cards…"
-          style={{ width: "100%" }}
-          onInput={e => setSearchTerm(e.target.value)}
-        />
-  
-        {/* SEARCH DROPDOWN */}
-        {dropdown.length > 0 && (
-          <div style={{
-            border: "1px solid var(--background-modifier-border)",
-            borderRadius: "4px",
-            marginTop: "4px",
-            maxHeight: "200px",
-            overflowY: "auto",
-            background: "var(--background-modifier-hover)"
-          }}>
-            {dropdown.map((card, idx) => {
-              return (
+          </div>
+
+          {/* Dropdown */}
+          {dropdown.length > 0 && (
+            <div style={{
+              border: "1px solid var(--background-modifier-border)",
+              borderRadius: "4px",
+              marginTop: "4px",
+              maxHeight: "120px",
+              overflowY: "auto",
+              background: "var(--background-modifier-hover)"
+            }}>
+              {dropdown.map((card, idx) => (
                 <div
                   key={idx}
-                  style={{ padding: "6px", cursor: "pointer" }}
+                  style={{ padding: "4px", cursor: "pointer" }}
                   onClick={() => selectCard(card)}
-                  onMouseDown={e => e.preventDefault()} // prevent blur
+                  onMouseDown={e => e.preventDefault()}
                 >
-                  {card.value} <em style={{ color: "var(--text-muted)" }}>({card.deck})</em>
+                  {card.value}
+                  <em style={{ color: "var(--text-muted)", marginLeft: "4px" }}>
+                    ({card.deck})
+                  </em>
                 </div>
-              )
-            })}
-          </div>
-        )}
-  
-        {/* RANDOM PICK */}
-        <button
-          onClick={pickRandom}
-          disabled={!fullValues.length}
-          style={{ marginTop: "8px" }}
-        >
-          🎲 Pick Random
-        </button>
-  
-        {/* SELECTED CARD */}
+              ))}
+            </div>
+          )}
+        </details>
+
+        {/* Selected card */}
         {selected && (
           <div style={{
-            marginTop: "12px",
-            padding: "10px",
+            padding: "6px",
             border: "1px solid var(--background-modifier-border)",
-            borderRadius: "6px"
+            borderRadius: "4px",
+            fontSize: "0.85em"
           }}>
-            <h3>Selected Card</h3>
-  
-            <strong>{selected.value}</strong> <em style={{ color: "var(--text-muted)" }}>({selected.deck})</em>
-            <br/>
-            {onSelect && 
-            <>
-              <button onClick={() => onSelect(selected)} style={{ marginTop: "8px" }}>
+            <div><strong>{selected.value}</strong></div>
+            <div style={{ color: "var(--text-muted)" }}>({selected.deck})</div>
+
+            {onSelect && (
+              <button
+                onClick={() => onSelect(selected)}
+                style={{ width: "100%", marginTop: "6px", fontSize: "0.75em" }}
+              >
                 Select
               </button>
-              <br/>
-            </>}
-            <button onClick={turn} style={{ marginTop: "8px" }}>
-              ↻ Turn (Next Column)
+            )}
+
+            <button
+              onClick={turn}
+              style={{ width: "100%", marginTop: "4px", fontSize: "0.75em" }}
+            >
+              ↻ Turn
             </button>
           </div>
         )}
