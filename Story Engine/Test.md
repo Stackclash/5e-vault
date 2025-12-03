@@ -20,9 +20,9 @@ function PromptBuilder() {
         const anchor = cards.find(c => c.type === 'anchor')
         const conflict = cards.find(c => c.type === 'conflict')
         const engine = cards.find(c => c.type === 'engine')
-        const agentAspects = cards.filter(c => c.type === 'aspect' && agent && agent.modifiers && agent.modifiers.includes(c))
-        const anchorAspects = cards.filter(c => c.type === 'aspect' && anchor && anchor.modifiers && anchor.modifiers.includes(c))
-        return `A story about ${agent.value}${agentAspects.length > 0 ? ` (${agentAspects.map(a => a.value).join(", ")})` : ''} using the ${engine.value} engine, set in ${anchor.value}${anchorAspects.length > 0 ? ` (${anchorAspects.map(a => a.value).join(", ")})` : ''}, but ${conflict.value}.`
+        const agentAspects = agent.modifiers || []
+        const anchorAspects = anchor.modifiers || []
+        return `A story about ${agent.value}${agentAspects.length > 0 ? ` (${agentAspects.map(a => a.value).join(", ")})` : ''} ${engine.value} ${anchor.value}${anchorAspects.length > 0 ? ` (${anchorAspects.map(a => a.value).join(", ")})` : ''}, but ${conflict.value}.`
       },
       cards: [
         {
@@ -121,8 +121,7 @@ function PromptBuilder() {
   }
 
   function removeCard(index) {
-    cards.splice(index, 1)
-    setCards(cards)
+    setCards(cards.filter((c, i) => i !== index))
   }
 
   function addModifier(modifier, cardIndex) {
