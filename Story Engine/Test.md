@@ -72,17 +72,19 @@ function PromptBuilder() {
     setCards(cards)
   }
 
-  function addModifier(card, modifier) {
-    const restCards = cards.filter(c => c.value !== card.value)
-    const modifiedCard = {
-      ...card,
-      modifiers: [...card.modifiers || [], modifier]
-    }
-
-    setCards([...restCards, modifiedCard])
+  function addModifier(modifier, cardIndex) {
+    setCards(cards.map((c, i) => {
+      if (i === cardIndex) {
+        return {
+          ...c,
+          modifiers: [...c.modifiers || [], modifier]
+        }
+      }
+    }))
+    setPendingModifier(null)
   }
 
-  function removeModifier(card, modifier) {
+  function removeModifier(card, index) {
     const updated = cards.map(c =>
       c.value === card.value
         ? {
@@ -250,11 +252,11 @@ function PromptBuilder() {
           <h3>Where does this modifier apply?</h3>
           <p><strong>{pendingModifier.value}</strong></p>
 
-          {getAvailableParentCardsForModifier(pendingModifier).map(c => {
+          {getAvailableParentCardsForModifier(pendingModifier).map((c, i) => {
             const cardType = getCardType(c)
 
             return (
-              <button onClick={() => addModifier(c, pendingModifier)} style={{ marginRight: "6px" }}>
+              <button onClick={() => addModifier(pendingModifier, i)} style={{ marginRight: "6px" }}>
                 Attach to {cardType.label}: {c.value}
               </button>
             )
