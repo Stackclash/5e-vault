@@ -15,6 +15,15 @@ function PromptBuilder() {
     {
       label: 'Story Seed',
       description: 'The classic 5-part Story Engine seed.',
+      generator: (cards) => {
+        const agent = cards.find(c => c.type === 'agent')
+        const anchor = cards.find(c => c.type === 'anchor')
+        const conflict = cards.find(c => c.type === 'conflict')
+        const engine = cards.find(c => c.type === 'engine')
+        const agentAspects = cards.filter(c => c.type === 'aspect' && agent && agent.modifiers && agent.modifiers.includes(c))
+        const anchorAspects = cards.filter(c => c.type === 'aspect' && anchor && anchor.modifiers && anchor.modifiers.includes(c))
+        return `A story about ${agent.value}${agentAspects.length > 0 ? ` (${agentAspects.map(a => a.value).join(", ")})` : ''} using the ${engine.value} engine, set in ${anchor.value}${anchorAspects.length > 0 ? ` (${anchorAspects.map(a => a.value).join(", ")})` : ''}, but ${conflict.value}.`
+      },
       cards: [
         {
           type: 'agent',
@@ -66,7 +75,7 @@ function PromptBuilder() {
       let count = 0;
 
       for (const card of cards) {
-        if (!allowedParents.includes(card.type)) continue;
+        if (!allowedParents.includes(card.type) || !card.modifiers) continue;
 
         for (const mod of card.modifiers) {
           if (mod.type === modType) count++;
@@ -230,16 +239,7 @@ function PromptBuilder() {
         }}>
           <h3>Generated Prompt</h3>
           <p>
-            <strong>{agent.value}</strong>
-            {agentAspects.length > 0 &&
-              <> ({agentAspects.map(a => a.value).join(", ")})</>}
-            {" "}
-            {engine.value}{" "}
-            <strong>{anchor.value}</strong>
-            {anchorAspects.length > 0 &&
-              <> ({anchorAspects.map(a => a.value).join(", ")})</>}
-            {" "}
-            but {conflict.value}.
+            {promptType.generator(cards)}
           </p>
         </div>
       )}
