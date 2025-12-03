@@ -78,27 +78,31 @@ function PromptBuilder() {
 
   function addModifier(modifier, cardIndex) {
     setCards(cards.map((c, i) => {
+      console.log(c, i, cardIndex)
       if (i === cardIndex) {
         return {
           ...c,
           modifiers: [...c.modifiers || [], modifier]
         }
+      } else {
+        return c
       }
     }))
     setPendingModifier(null)
   }
 
-  function removeModifier(card, index) {
-    const updated = cards.map(c =>
-      c.value === card.value
-        ? {
+  function removeModifier(cardIndex, modifierIndex) {
+    setCards(cards.map((c, i) => {
+      if (i === cardIndex) {
+        const newModifiers = c.modifiers.filter((m, mi) => mi !== modifierIndex)
+        return {
           ...c,
-          modifiers: c.modifiers.filter(m => m.value !== modifier.value)
+          modifiers: newModifiers
         }
-      : c
-    )
-
-    setCards(updated)
+      } else {
+        return c
+      }
+    }))
   }
 
   function getCardType(card) {
@@ -115,20 +119,6 @@ function PromptBuilder() {
     const promptCardDefinition = getCardPromptDefinition(modifier)
     if (!promptCardDefinition || !promptCardDefinition.attachesTo) return []
     return cards.filter(c => promptCardDefinition.attachesTo.includes(c.type))
-  }
-
-  function renderModifiers(card) {
-    return card.modifiers.map((m, i) => (
-      <div key={i} style={{ display: "flex", alignItems: "center", marginLeft: "12px" }}>
-        • <em>{m.value}</em>
-        <button 
-          style={{ marginLeft: "6px", fontSize: "0.8em" }}
-          onClick={() => removeModifier(card, m)}
-        >
-          ✕
-        </button>
-      </div>
-    ))
   }
 
   function meetsRequirements() {
@@ -200,21 +190,31 @@ function PromptBuilder() {
       }}>
         <h2>Your Story Prompt</h2>
         
-        {cards.map((c, i) => {
+        {cards.map((c, cardIndex) => {
           const cardType = getCardType(c)
           const cardPromptDefinition = getCardPromptDefinition(c)
 
           return (cardPromptDefinition.role === 'primary' &&
             <div style={{ marginBottom: "10px" }}>
               <strong>{cardType.label}:</strong> {c.value}
-              <button style={{ marginLeft: "6px" }} onClick={() => removeCard(i)}>✕</button>
+              <button style={{ marginLeft: "6px" }} onClick={() => removeCard(cardIndex)}>✕</button>
 
               {c.modifiers && c.modifiers.length > 0 && (
                 <>
                   <div style={{ marginTop: "4px" }}>
                     <strong style={{ fontSize: "0.9em" }}>Modifiers:</strong>
                   </div>
-                  {renderModifiers(c)}
+                  {c.modifiers.map((m, modifierIndex) => (
+                    <div key={modifierIndex} style={{ display: "flex", alignItems: "center", marginLeft: "12px" }}>
+                      • <em>{m.value}</em>
+                      <button 
+                        style={{ marginLeft: "6px", fontSize: "0.8em" }}
+                        onClick={() => removeModifier(cardIndex, modifierIndex)}
+                      >
+                        ✕
+                      </button>
+                    </div>
+                  ))}
                 </>
               )}
             </div>
