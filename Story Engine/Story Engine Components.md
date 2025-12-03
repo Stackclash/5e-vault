@@ -31,7 +31,7 @@ function parseObsidianTables(file, md) {
 }
 
 // ---------- COMPONENT ----------
-function CardCategory({ file, type, category, label, error, disabled, onSelect }) {
+function CardCategory({ file, type, category, label, message, disabled, onSelect }) {
   const [text, setText] = dc.useState(null)
   const [tables, setTables] = dc.useState({})
   const [fullValues, setFullValues] = dc.useState([])
@@ -297,9 +297,9 @@ function CardCategory({ file, type, category, label, error, disabled, onSelect }
             )}
           </div>
         </div>
-        {error && (
-          <div style={{ color: "red", marginTop: "6px", fontSize: "0.8em" }}>
-            {error}
+        {message && (
+          <div style={{ color: message.severity === 'error' ? 'red' : 'yellow', marginTop: "6px", fontSize: "0.8em" }}>
+            {message.text}
           </div>
         )}
       </div>

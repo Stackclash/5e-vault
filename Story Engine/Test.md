@@ -289,6 +289,12 @@ function PromptBuilder() {
           const cardPromptDefinition = getCardPromptDefinition(c)
           const cardsOfType = cards.filter(card => card.type === c.type)
           const isDisabled = cardsOfType.length >= (cardPromptDefinition.max || Infinity)
+          let message = {}
+          if (isDisabled) {
+            message = { text:`Maximum of ${cardPromptDefinition.max} reached`, severity: 'error' }
+          } else if (cardsOfType.length < (cardPromptDefinition.min || 0)) {
+            message = { text: `Minimum of ${cardPromptDefinition.min} required`, severity: 'info' }
+          }
 
           return (
             <CardCategory
@@ -298,7 +304,7 @@ function PromptBuilder() {
               label={cardType.label}
               onSelect={addCard}
               disabled={isDisabled}
-              error={isDisabled ? `Maximum of ${cardPromptDefinition.max} reached` : ''}
+              message={message}
             />
           )
         })}
