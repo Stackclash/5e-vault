@@ -22,7 +22,7 @@ function PromptBuilder() {
         const engine = cards.find(c => c.type === 'engine')
         const agentAspects = agent.modifiers || []
         const anchorAspects = anchor.modifiers || []
-        return `A story about ${agent.value}${agentAspects.length > 0 ? ` (${agentAspects.map(a => a.value).join(", ")})` : ''} ${engine.value} ${anchor.value}${anchorAspects.length > 0 ? ` (${anchorAspects.map(a => a.value).join(", ")})` : ''}, but ${conflict.value}.`
+        return `A story about ${agent.value}${agentAspects.length > 0 ? ` (${agentAspects.map(a => a.value).join(", ")})` : ''} ${engine.value} ${anchor.value}${anchorAspects.length > 0 ? ` (${anchorAspects.map(a => a.value).join(", ")})` : ''}, ${conflict.value}.`
       },
       cards: [
         {
