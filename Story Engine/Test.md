@@ -191,8 +191,7 @@ function PromptBuilder() {
       <div style={{
         padding: "10px",
         border: "1px solid var(--background-modifier-border)",
-        borderRadius: "8px",
-        marginBottom: "16px"
+        borderRadius: "8px"
       }}>
         <h2>Your Story Prompt</h2>
         
@@ -247,7 +246,7 @@ function PromptBuilder() {
       {pendingModifier && (
         <div style={{
           padding: "10px",
-          marginBottom: "16px",
+          marginTop: "16px",
           border: "1px dashed var(--background-modifier-border)"
         }}>
           <h3>Where does this modifier apply?</h3>
@@ -273,6 +272,7 @@ function PromptBuilder() {
       )}
 
       <div style={{
+        marginTop: "16px",
         display: "grid",
         gridTemplateColumns: "1fr 1fr",
         gap: "16px"
