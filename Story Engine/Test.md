@@ -42,7 +42,7 @@ function PromptBuilder() {
           role: 'modifier',
           attachesTo: ['agent'],
           min: 1,
-          max: 1
+          max: Infinity
         },
         {
           type: 'conflict',
