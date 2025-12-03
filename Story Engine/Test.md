@@ -163,10 +163,10 @@ function PromptBuilder() {
     return promptCardDefinition || null
   }
 
-  function getAvailableParentCardsForModifier(modifier) {
+  function isCardTypeAllowedForModifier(card, modifier) {
     const promptCardDefinition = getCardPromptDefinition(modifier)
-    if (!promptCardDefinition || !promptCardDefinition.attachesTo) return []
-    return cards.filter(c => promptCardDefinition.attachesTo.includes(c.type))
+    if (!promptCardDefinition || !promptCardDefinition.attachesTo) return false
+    return promptCardDefinition.attachesTo.includes(card.type)
   }
 
   return (
@@ -252,15 +252,22 @@ function PromptBuilder() {
           <h3>Where does this modifier apply?</h3>
           <p><strong>{pendingModifier.value}</strong></p>
 
-          {getAvailableParentCardsForModifier(pendingModifier).map((c, i) => {
+          {cards.map((c, i) => {
             const cardType = getCardType(c)
 
-            return (
-              <button onClick={() => addModifier(pendingModifier, i)} style={{ marginRight: "6px" }}>
-                Attach to {cardType.label}: {c.value}
-              </button>
-            )
-          })}
+            if (isCardTypeAllowedForModifier(c, pendingModifier)) {
+              return (
+                <button 
+                  onClick={() => addModifier(pendingModifier, i)} 
+                  style={{ marginRight: "6px" }}
+                >
+                  Attach to {cardType.label}: {c.value}
+                </button>
+              )
+            } else {
+              return null
+            }
+          }).filter(Boolean)}
 
           <button 
             onClick={() => setPendingModifier(null)} 
