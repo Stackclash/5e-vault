@@ -274,7 +274,7 @@ function PromptBuilder() {
       <div style={{
         marginTop: "16px",
         display: "grid",
-        gridTemplateColumns: "1fr 1fr",
+        gridTemplateColumns: "repeat(3, 1fr)",
         gap: "16px"
       }}>
         {promptType.cards.map(c => {
