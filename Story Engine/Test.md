@@ -54,6 +54,10 @@ function PromptBuilder() {
   const [promptType, setPromptType] = dc.useState(PROMPT_TYPES[0])
   const [pendingModifier, setPendingModifier] = dc.useState(null)
 
+  dc.useEffect(() => {
+    console.log("Cards updated:", cards)
+  }, [cards])
+
   function resetPrompt() {
     setCards([])
   }
