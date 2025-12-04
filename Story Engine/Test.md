@@ -24,84 +24,58 @@ function PromptBuilder() {
         const anchorAspects = anchor.modifiers || []
         return `A story about ${agent.value}${agentAspects.length > 0 ? ` (${agentAspects.map(a => a.value).join(", ")})` : ''} ${engine.value} ${anchor.value}${anchorAspects.length > 0 ? ` (${anchorAspects.map(a => a.value).join(", ")})` : ''}, ${conflict.value}.`
       },
-      cards: [
+      slots: [
         {
-          type: 'agent',
-          role: 'primary',
+          id: 'character',
+          label: 'Character',
+          allowedTypes: ['agent'],
           min: 1,
           max: 1
         },
         {
-          type: 'anchor',
-          role: 'primary',
+          id: 'motivation',
+          label: 'Motivation',
+          allowedTypes: ['engine'],
           min: 1,
           max: 1
         },
         {
-          type: 'aspect',
-          role: 'modifier',
-          attachesTo: ['agent'],
+          id: 'desire',
+          label: 'Desire',
+          allowedTypes: ['anchor'],
           min: 1,
+          max: 1
+        },
+        {
+          id: 'conflict',
+          label: 'Conflict',
+          allowedTypes: ['conflict'],
+          min: 1,
+          max: 1
+        },
+        {
+          id: 'aspect',
+          label: 'Aspect',
+          allowedTypes: ['aspect'],
+          attachesTo: ['character', 'desire'],
+          min: 0,
           max: Infinity
-        },
-        {
-          type: 'conflict',
-          role: 'primary',
-          min: 1,
-          max: 1
-        },
-        {
-          type: 'engine',
-          role: 'primary',
-          min: 1,
-          max: 1
         }
       ]
     }
   ]
   const [cards, setCards] = dc.useState([])
   const [promptType, setPromptType] = dc.useState(PROMPT_TYPES[0])
-  const [pendingModifier, setPendingModifier] = dc.useState(null)
+  const [pendingCard, setPendingCard] = dc.useState(null)
 
   const meetsRequirements = dc.useMemo(() => {
-    // Count how many cards of each type the user has added
-    const typeCount = {};
-    cards.forEach(card => {
-      typeCount[card.type] = (typeCount[card.type] || 0) + 1;
-    });
-
-    // Count modifier cards that are actually attached to valid parents
-    function countAttachedModifiers(modType, allowedParents) {
-      let count = 0;
-
-      for (const card of cards) {
-        if (!allowedParents.includes(card.type) || !card.modifiers) continue;
-
-        for (const mod of card.modifiers) {
-          if (mod.type === modType) count++;
-        }
-      }
-
-      return count;
-    }
-
-    // Validate each rule for the currently selected prompt type
-    for (const rule of promptType.cards) {
-      const { type, role, min = 0, max = Infinity, attachesTo } = rule;
-
-      if (role === "modifier") {
-        // Only modifiers attached to allowed parents count
-        const count = countAttachedModifiers(type, attachesTo || []);
-        if (count < min || count > max) return false;
-      } else {
-        // Count primary or secondary cards by card.type
-        const count = typeCount[type] || 0;
-        if (count < min || count > max) return false;
-      }
-    }
-
-    return true;
+    return true
   }, [cards, promptType])
+
+  const allowedTypes = dc.useMemo(() => {
+    const allowedTypes = [...new Set(promptType.slots.flatMap(s => s.allowedTypes))]
+    return CARD_TYPES.filter(ct => allowedTypes.includes(ct.type))
+  }, [promptType])
 
   dc.useEffect(() => {
     console.log("Cards updated:", cards)
@@ -110,14 +84,30 @@ function PromptBuilder() {
   function resetPrompt() {
     setCards([])
   }
+
+  function placeCardInSlot(card, slotId) {
+    setCards([
+      ...cards,
+      {
+        ...card,
+        slot: slotId,
+        modifiers: []
+      }
+    ])
+  } 
   
   function addCard(card) {
-    if (getCardPromptDefinition(card).role === 'modifier') {
-      // Set as pending modifier to be attached to a parent card
-      setPendingModifier(card)
-      return
+    const validSlots = promptType.slots.filter(slot =>
+      slot.allowedTypes.includes(card.type)
+    )
+
+    if (validSlots.length === 1 && validModifiedSlots.length === 0) {
+      // Auto-place
+      placeCardInSlot(card, validSlots[0].id)
+    } else {
+      // Ask user where to place it
+      setPendingCard({ card, validSlots })
     }
-    setCards([...cards, card])
   }
 
   function removeCard(index) {
@@ -126,17 +116,16 @@ function PromptBuilder() {
 
   function addModifier(modifier, cardIndex) {
     setCards(cards.map((c, i) => {
-      console.log(c, i, cardIndex)
       if (i === cardIndex) {
         return {
           ...c,
-          modifiers: [...c.modifiers || [], modifier]
+          modifiers: [...(c.modifiers || []), modifier]
         }
       } else {
         return c
       }
     }))
-    setPendingModifier(null)
+    setPendingCard(null)
   }
 
   function removeModifier(cardIndex, modifierIndex) {
@@ -156,17 +145,6 @@ function PromptBuilder() {
   function getCardType(card) {
     const cardType = CARD_TYPES.find(t => t.type === card.type)
     return cardType || null
-  }
-
-  function getCardPromptDefinition(card) {
-    const promptCardDefinition = promptType.cards.find(c => c.type === card.type)
-    return promptCardDefinition || null
-  }
-
-  function isCardTypeAllowedForModifier(card, modifier) {
-    const promptCardDefinition = getCardPromptDefinition(modifier)
-    if (!promptCardDefinition || !promptCardDefinition.attachesTo) return false
-    return promptCardDefinition.attachesTo.includes(card.type)
   }
 
   return (
@@ -194,37 +172,45 @@ function PromptBuilder() {
         borderRadius: "8px"
       }}>
         <h2>Your Story Prompt</h2>
-        
-        {cards.map((c, cardIndex) => {
-          const cardType = getCardType(c)
-          const cardPromptDefinition = getCardPromptDefinition(c)
 
-          return (cardPromptDefinition.role === 'primary' &&
-            <div style={{ marginBottom: "10px" }}>
-              <strong>{cardType.label}:</strong> {c.value}
-              <button style={{ marginLeft: "6px" }} onClick={() => removeCard(cardIndex)}>✕</button>
-
-              {c.modifiers && c.modifiers.length > 0 && (
-                <>
-                  <div style={{ marginTop: "4px" }}>
-                    <strong style={{ fontSize: "0.9em" }}>Modifiers:</strong>
-                  </div>
-                  {c.modifiers.map((m, modifierIndex) => (
-                    <div key={modifierIndex} style={{ display: "flex", alignItems: "center", marginLeft: "12px" }}>
-                      • <em>{m.value}</em>
-                      <button 
-                        style={{ marginLeft: "6px", fontSize: "0.8em" }}
-                        onClick={() => removeModifier(cardIndex, modifierIndex)}
-                      >
-                        ✕
-                      </button>
-                    </div>
-                  ))}
-                </>
-              )}
-            </div>
-          )
-        }).filter(Boolean)}
+        {
+          promptType.slots.map(slot => {
+            if (slot.attachesTo) return null; // Skip modifier slots here
+            const cardsInSlot = cards.filter(c => c.slot === slot.id)
+            return (
+              <div key={slot.id} style={{ marginBottom: "10px" }}>
+                <strong>{slot.label}:</strong>
+                {cardsInSlot.length === 0 ? ( <span> (none)</span> ) : (
+                  cardsInSlot.map((c, cardIndex) => {
+                    const cardType = getCardType(c)
+                    return (<div key={cardIndex} style={{ marginTop: "4px" }}>
+                      {cardType.label}: {c.value}
+                      <button style={{ marginLeft: "6px" }} onClick={() => removeCard(cardIndex)}>✕</button>
+                      {c.modifiers && c.modifiers.length > 0 && (
+                        <>
+                          <div style={{ marginTop: "4px" }}>
+                            <strong style={{ fontSize: "0.9em" }}>Modifiers:</strong>
+                          </div>
+                          {c.modifiers.map((m, modifierIndex) => (
+                            <div key={modifierIndex} style={{ display: "flex", alignItems: "center", marginLeft: "12px" }}>
+                              • <em>{m.value}</em>
+                              <button 
+                                style={{ marginLeft: "6px", fontSize: "0.8em" }}
+                                onClick={() => removeModifier(cardIndex, modifierIndex)}
+                              >
+                                ✕
+                              </button>
+                            </div>
+                          ))}
+                        </>
+                      )}
+                    </div>)
+                  })
+                )}
+              </div>
+            )
+          })
+        }
       </div>
 
       {/* TODO: Update logic to test if minimum requirements are fulfilled */}
@@ -242,35 +228,62 @@ function PromptBuilder() {
         </div>
       )}
 
-      {/* TODO: Update to allow selecting what card type to attach to */}
-      {pendingModifier && (
+      {pendingCard && (
         <div style={{
           padding: "10px",
           marginTop: "16px",
           border: "1px dashed var(--background-modifier-border)"
         }}>
-          <h3>Where does this modifier apply?</h3>
-          <p><strong>{pendingModifier.value}</strong></p>
+          <h3>What slot should this card go in?</h3>
+          <p><strong>{pendingCard.card.value}</strong></p>
 
-          {cards.map((c, i) => {
-            const cardType = getCardType(c)
-
-            if (isCardTypeAllowedForModifier(c, pendingModifier)) {
-              return (
-                <button 
-                  onClick={() => addModifier(pendingModifier, i)} 
-                  style={{ marginRight: "6px" }}
-                >
-                  Attach to {cardType.label}: {c.value}
-                </button>
-              )
-            } else {
-              return null
-            }
-          }).filter(Boolean)}
+          <div style={{
+            marginTop: "16px",
+            display: "grid",
+            gridTemplateColumns: "repeat(4, 1fr)",
+            gap: "16px"
+          }}> 
+            {pendingCard.validSlots.sort((a, b) => {
+              if (a.attachesTo && !b.attachesTo) return 1
+              if (!a.attachesTo && b.attachesTo) return -1
+              return 0
+            }).map((vs, i) => {
+              if (!vs.attachesTo) {
+                return (
+                  <button 
+                    onClick={() => placeCardInSlot(pendingCard, vs.id)} 
+                    style={{ marginRight: "6px" }}
+                  >
+                    Place in {vs.label} slot
+                  </button>
+                )
+              } else {
+                return (
+                  <>
+                    <h4>{vs.label} Modifier Slot</h4>
+                    {cards.map((c, cardIndex) => {
+                      if (vs.attachesTo.includes(c.slot)) {
+                        return (
+                          <button
+                            key={cardIndex}
+                            onClick={() => addModifier(pendingCard.card, cardIndex)} 
+                            style={{ marginRight: "6px" }}
+                          >
+                            Attach as modifier to {vs.label}: {c.value}
+                          </button>
+                        )
+                      } else {
+                        return null
+                      }
+                    }).filter(Boolean)}
+                  </>
+                )
+              }
+            })}
+          </div>
 
           <button 
-            onClick={() => setPendingModifier(null)} 
+            onClick={() => setPendingCard(null)} 
             style={{ marginLeft: "8px" }}
           >
             Cancel
@@ -284,37 +297,13 @@ function PromptBuilder() {
         gridTemplateColumns: "repeat(3, 1fr)",
         gap: "16px"
       }}>
-        {promptType.cards.map(c => {
-          const cardType = getCardType(c)
-          const cardPromptDefinition = getCardPromptDefinition(c)
-          let cardsOfType = []
-          if (cardPromptDefinition.role === 'modifier') {
-            // Count how many modifier cards are attached to valid parents
-            for (const card of cards) {
-              if (!cardPromptDefinition.attachesTo.includes(card.type) || !card.modifiers) continue;
-
-              for (const mod of card.modifiers) {
-                if (mod.type === c.type) cardsOfType.push(mod);
-              }
-            }
-          } else {
-            cardsOfType = cards.filter(card => card.type === c.type)
-          }
-
-          const isDisabled = cardsOfType.length >= (cardPromptDefinition.max || Infinity)
-          let message = {}
-          if (isDisabled) {
-            message = { text:`Maximum of ${cardPromptDefinition.max} reached`, severity: 'error' }
-          } else if (cardsOfType.length < (cardPromptDefinition.min || 0)) {
-            message = { text: `Minimum of ${cardPromptDefinition.min} required`, severity: 'info' }
-          }
-
+        {allowedTypes.map(t => {
           return (
             <CardCategory
-              file={cardType.path}
-              category={cardType.deck}
-              type={cardType.type}
-              label={cardType.label}
+              file={t.path}
+              category={t.deck}
+              type={t.type}
+              label={t.label}
               onSelect={addCard}
               disabled={isDisabled}
               message={message}
