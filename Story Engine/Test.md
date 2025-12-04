@@ -16,6 +16,7 @@ function PromptBuilder() {
       label: 'Story Seed',
       description: 'The classic 5-part Story Engine seed.',
       generator: (slots) => {
+        console.log(slots)
         return ''
         const {character, motivation, desire, conflict, aspect} = slots
         return `
@@ -69,10 +70,6 @@ function PromptBuilder() {
   const [cards, setCards] = dc.useState([])
   const [promptType, setPromptType] = dc.useState(PROMPT_TYPES[0])
   const [pendingCard, setPendingCard] = dc.useState(null)
-
-  const meetsRequirements = dc.useMemo(() => {
-    return true
-  }, [cards, promptType])
 
   const allowedTypes = dc.useMemo(() => {
     const allowedTypes = [...new Set(promptType.slots.flatMap(s => s.allowedTypes))]
@@ -323,8 +320,7 @@ function PromptBuilder() {
         })}
       </div>
 
-      {/* TODO: Update logic to test if minimum requirements are fulfilled */}
-      {meetsRequirements && (
+      {evaluation.meetsRequirements && (
         <div style={{
           background: "var(--background-secondary)",
           padding: "12px",
@@ -339,66 +335,138 @@ function PromptBuilder() {
       )}
 
       {pendingCard && (
-        <div style={{
-          padding: "10px",
-          marginTop: "16px",
-          border: "1px dashed var(--background-modifier-border)"
-        }}>
-          <h3>What slot should this card go in?</h3>
-          <p><strong>{pendingCard.card.value}</strong></p>
+        <div
+          style={{
+            padding: "12px",
+            marginTop: "12px",
+            border: "1px dashed var(--background-modifier-border)",
+            borderRadius: "8px",
+            background: "var(--background-secondary)"
+          }}
+        >
+          <h3 style={{ marginTop: 0 }}>Place This Card</h3>
 
-          <div style={{
-            marginTop: "16px",
-            display: "grid",
-            gridTemplateColumns: "repeat(4, 1fr)",
-            gap: "16px"
-          }}> 
-            {pendingCard.validSlots.sort((a, b) => {
-              if (a.attachesTo && !b.attachesTo) return 1
-              if (!a.attachesTo && b.attachesTo) return -1
-              return 0
-            }).map((vs, i) => {
-              if (!vs.attachesTo) {
-                return (
-                  <button 
-                    onClick={() => placeCardInSlot(pendingCard, vs.id)} 
-                    style={{ marginRight: "6px" }}
-                  >
-                    Place in {vs.label} slot
-                  </button>
-                )
-              } else {
-                return (
-                  <>
-                    <h4>{vs.label} Modifier Slot</h4>
-                    {cards.map((c, cardIndex) => {
-                      if (vs.attachesTo.includes(c.slot)) {
-                        const slot = promptType.slots.find(s => s.id === c.slot)
-                        return (
-                          <button
-                            key={cardIndex}
-                            onClick={() => addModifier(pendingCard.card, cardIndex)} 
-                            style={{ marginRight: "6px" }}
-                          >
-                            Attach as modifier to {slot.label}: {c.value}
-                          </button>
-                        )
-                      } else {
-                        return null
-                      }
-                    }).filter(Boolean)}
-                  </>
-                )
-              }
-            })}
-          </div>
-
-          <button 
-            onClick={() => setPendingCard(null)} 
-            style={{ marginLeft: "8px" }}
+          <div
+            style={{
+              display: "flex",
+              alignItems: "flex-start",
+              gap: "20px"
+            }}
           >
-            Cancel
-          </button>
+            {/* LEFT: Card being placed */}
+            <div
+              style={{
+                minWidth: "220px",
+                padding: "10px",
+                border: "1px solid var(--background-modifier-border)",
+                borderRadius: "6px",
+                background: "var(--background-primary)"
+              }}
+            >
+              <div style={{ fontSize: "0.8em", opacity: 0.7 }}>
+                {getCardType(pendingCard.card).label}
+              </div>
+              <strong>{pendingCard.card.value}</strong>
+            </div>
+
+            {/* RIGHT: Choices */}
+            <div style={{ flex: 1, display: "flex", flexDirection: "column", gap: "12px" }}>
+
+              {/* Standard slot placement */}
+              <div>
+                <div style={{ fontSize: "0.9em", marginBottom: "4px" }}>
+                  Available Slots:
+                </div>
+
+                <div
+                  style={{
+                    display: "grid",
+                    gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))",
+                    gap: "6px"
+                  }}
+                >
+                  {pendingCard.validSlots.filter(vs => !vs.attachesTo).map(vs => (
+                    <button
+                      key={vs.id}
+                      onClick={() => placeCardInSlot(pendingCard.card, vs.id)}
+                      style={{
+                        padding: "6px 8px",
+                        border: "1px solid var(--background-modifier-border)",
+                        borderRadius: "6px",
+                        textAlign: "left",
+                        fontSize: "0.85em"
+                      }}
+                    >
+                      <strong>{vs.label}</strong>
+                    </button>
+                  ))}
+
+                  {pendingCard.validSlots.filter(vs => !vs.attachesTo).length === 0 && (
+                    <div style={{ fontSize: "0.85em", opacity: 0.6 }}>
+                      (No standard slots)
+                    </div>
+                  )}
+                </div>
+              </div>
+
+              {/* Modifier attachments */}
+              <div>
+                <div style={{ fontSize: "0.9em", marginBottom: "4px" }}>
+                  Attach As Modifier:
+                </div>
+
+                <div
+                  style={{
+                    display: "grid",
+                    gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))",
+                    gap: "6px"
+                  }}
+                >
+                  {pendingCard.validSlots
+                    .filter(vs => vs.attachesTo)
+                    .flatMap(vs =>
+                      promptType.slots
+                        .filter(s => vs.attachesTo.includes(s.id))
+                        .flatMap(targetSlot => {
+                          const targetCards = cards.filter(c => c.slot === targetSlot.id)
+                          if (targetCards.length === 0) return []
+                          return targetCards.map(targetCard => {
+                            const globalIndex = cards.indexOf(targetCard)
+                            return (
+                              <button
+                                key={`${vs.id}-${globalIndex}`}
+                                onClick={() => addModifier(pendingCard.card, globalIndex)}
+                                style={{
+                                  padding: "6px 8px",
+                                  border: "1px solid var(--background-modifier-border)",
+                                  borderRadius: "6px",
+                                  textAlign: "left",
+                                  fontSize: "0.85em"
+                                }}
+                              >
+                                <strong>{targetSlot.label}</strong>: {targetCard.value}
+                              </button>
+                            )
+                          })
+                        })
+                    )}
+
+                  {pendingCard.validSlots.filter(vs => vs.attachesTo).length === 0 && (
+                    <div style={{ fontSize: "0.85em", opacity: 0.6 }}>
+                      (Cannot be used as modifier)
+                    </div>
+                  )}
+                </div>
+              </div>
+
+              <div>
+                <button onClick={() => setPendingCard(null)} style={{ fontSize: "0.85em" }}>
+                  Cancel
+                </button>
+              </div>
+
+            </div>
+          </div>
         </div>
       )}
 
