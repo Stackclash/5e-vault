@@ -15,14 +15,16 @@ function PromptBuilder() {
     {
       label: 'Story Seed',
       description: 'The classic 5-part Story Engine seed.',
-      generator: (cards) => {
-        const agent = cards.find(c => c.type === 'agent')
-        const anchor = cards.find(c => c.type === 'anchor')
-        const conflict = cards.find(c => c.type === 'conflict')
-        const engine = cards.find(c => c.type === 'engine')
-        const agentAspects = agent.modifiers || []
-        const anchorAspects = anchor.modifiers || []
-        return `A story about ${agent.value}${agentAspects.length > 0 ? ` (${agentAspects.map(a => a.value).join(", ")})` : ''} ${engine.value} ${anchor.value}${anchorAspects.length > 0 ? ` (${anchorAspects.map(a => a.value).join(", ")})` : ''}, ${conflict.value}.`
+      generator: (slots) => {
+        return ''
+        const {character, motivation, desire, conflict, aspect} = slots
+        return `
+          A story about ${character.value}
+          ${character.modifiers.length > 0 ? ` (${character.modifiers.map(a => a.value).join(", ")})` : ''} 
+          ${motivation.value} 
+          ${desire.value}${desire.modifiers.length > 0 ? ` (${desire.modifiers.map(a => a.value).join(", ")})` : ''}, 
+          ${conflict.value}.
+        `
       },
       slots: [
         {
@@ -70,6 +72,14 @@ function PromptBuilder() {
 
   const meetsRequirements = dc.useMemo(() => {
     return true
+  }, [cards, promptType])
+
+  const cardsBySlot = dc.useMemo(() => {
+    const map = {}
+    promptType.slots.filter(s => !s.attachesTo).forEach(slot => {
+      map[slot.id] = cards.filter(c => c.slot === slot.id)
+    })
+    return map
   }, [cards, promptType])
 
   const allowedTypes = dc.useMemo(() => {
@@ -223,7 +233,7 @@ function PromptBuilder() {
         }}>
           <h3>Generated Prompt</h3>
           <p>
-            {promptType.generator(cards)}
+            {promptType.generator(cardsBySlot)}
           </p>
         </div>
       )}
@@ -305,8 +315,8 @@ function PromptBuilder() {
               type={t.type}
               label={t.label}
               onSelect={addCard}
-              disabled={isDisabled}
-              message={message}
+              disabled={false}
+              message={''}
             />
           )
         })}
