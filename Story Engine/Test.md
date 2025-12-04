@@ -276,13 +276,15 @@ function PromptBuilder() {
                     <h4>{vs.label} Modifier Slot</h4>
                     {cards.map((c, cardIndex) => {
                       if (vs.attachesTo.includes(c.slot)) {
+                        const slot = promptType.slots.find(s => s.id = c.slot)
+                        console.log(promptType, c, slot)
                         return (
                           <button
                             key={cardIndex}
                             onClick={() => addModifier(pendingCard.card, cardIndex)} 
                             style={{ marginRight: "6px" }}
                           >
-                            Attach as modifier to {vs.label}: {c.value}
+                            Attach as modifier to {slot.label}: {c.value}
                           </button>
                         )
                       } else {
