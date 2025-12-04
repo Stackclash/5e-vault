@@ -329,6 +329,7 @@ function PromptBuilder() {
       label: 'Simple Story Seed',
       description: 'The classic 5-part Story Engine seed.',
       generator: () => {
+        console.log(evaluation.slotsForGenerator)
         const {character, motivation, desire, conflict, aspect} = evaluation.slotsForGenerator
         return `
           A story about ${character.value}
@@ -437,6 +438,7 @@ function PromptBuilder() {
       label: 'Simple Item/Setting-Driven Story',
       description: 'Create an idea for an interesting prop and setting that will be the heart of a story',
       generator: () => {
+        console.log(evaluation.slotsForGenerator)
         const {object, setting, effect, affected, owner, obstacle, aspect} = evaluation.slotsForGenerator
         return `
           A ${object.value}
@@ -647,7 +649,6 @@ function PromptBuilder() {
   dc.useEffect(() => {
     console.log("Cards updated:", cards)
     console.log("Meets Requirements:", evaluation.meetsRequirements)
-    console.log('Slots For Generator:', evaluation.slotsForGenerator)
   }, [cards, promptType])
 
   function resetPrompt() {
