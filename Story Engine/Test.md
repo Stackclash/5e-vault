@@ -87,20 +87,24 @@ function PromptBuilder() {
 
     // Initialize tracking for each slot
     for (const slot of promptType.slots) {
-      slotStates[slot.id] = {
-        cards: []
-      }
+      slotStates[slot.id] = []
     }
 
     // Assign cards to slots
     for (const card of cards) {
       if (!card.slot) continue
-      slotStates[card.slot].cards.push(card)
+      slotStates[card.slot].push(card)
+
+      if (card.modifiers && card.modifiers.length) {
+        for (const modifier of card.modifiers) {
+          slotStates[modifier.slot].push(modifier)
+        }
+      }
     }
 
     // Validate each slot (min/max enforcement)
     for (const slot of promptType.slots) {
-      const assigned = slotStates[slot.id].cards.length
+      const assigned = slotStates[slot.id].length
 
       if (assigned < slot.min) {
         warnings.push({
@@ -182,7 +186,8 @@ function PromptBuilder() {
             ...(c.modifiers || []), 
             {
               ...modifier,
-              slot: slotId
+              slot: slotId,
+              modifies: c.slot
             }
           ]
         }
