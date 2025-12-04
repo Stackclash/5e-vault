@@ -88,8 +88,7 @@ function PromptBuilder() {
     // Initialize tracking for each slot
     for (const slot of promptType.slots) {
       slotStates[slot.id] = {
-        cards: [],
-        modifiers: {}
+        cards: []
       }
     }
 
@@ -97,10 +96,6 @@ function PromptBuilder() {
     for (const card of cards) {
       if (!card.slot) continue
       slotStates[card.slot].cards.push(card)
-
-      if (card.modifiers && card.modifiers.length) {
-        slotStates[card.slot].modifiers = card.modifiers
-      }
     }
 
     // Validate each slot (min/max enforcement)
@@ -127,7 +122,7 @@ function PromptBuilder() {
     }
 
     // Whether all constraints are satisfied
-    const meetsRequirements = errors.length === 0 && warnings.every(w => w.type === "min")
+    const meetsRequirements = errors.length === 0 && warnings.length === 0
 
     return {
       slotStates,
@@ -178,12 +173,18 @@ function PromptBuilder() {
     setCards(cards.filter((c, i) => i !== index))
   }
 
-  function addModifier(modifier, cardIndex) {
+  function addModifier(modifier, cardIndex, slotId) {
     setCards(cards.map((c, i) => {
       if (i === cardIndex) {
         return {
           ...c,
-          modifiers: [...(c.modifiers || []), modifier]
+          modifiers: [
+            ...(c.modifiers || []), 
+            {
+              ...modifier,
+              slot: slotId
+            }
+          ]
         }
       } else {
         return c
@@ -436,7 +437,7 @@ function PromptBuilder() {
                             return (
                               <button
                                 key={`${vs.id}-${globalIndex}`}
-                                onClick={() => addModifier(pendingCard.card, globalIndex)}
+                                onClick={() => addModifier(pendingCard.card, globalIndex, vs.id)}
                                 style={{
                                   padding: "6px 8px",
                                   border: "1px solid var(--background-modifier-border)",
