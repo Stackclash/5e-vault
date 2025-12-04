@@ -17,13 +17,12 @@ function PromptBuilder() {
       description: 'The classic 5-part Story Engine seed.',
       generator: (slots) => {
         console.log(slots)
-        return ''
         const {character, motivation, desire, conflict, aspect} = slots
         return `
           A story about ${character.value}
-          ${character.modifiers.length > 0 ? ` (${character.modifiers.map(a => a.value).join(", ")})` : ''} 
+          ${character.modifiers?.length > 0 ? ` (${character.modifiers.map(a => a.value).join(", ")})` : ''} 
           ${motivation.value} 
-          ${desire.value}${desire.modifiers.length > 0 ? ` (${desire.modifiers.map(a => a.value).join(", ")})` : ''}, 
+          ${desire.value}${desire.modifiers?.length > 0 ? ` (${desire.modifiers.map(a => a.value).join(", ")})` : ''}, 
           ${conflict.value}.
         `
       },
@@ -491,7 +490,7 @@ function PromptBuilder() {
 
           // Count total cards across all compatible slots
           const totalCardsInSlots = slotsForType.reduce((acc, slot) => {
-            return acc + evaluation.slotStates[slot.id].cards.length
+            return acc + evaluation.slotStates[slot.id].length
           }, 0)
 
           const totalMax = Math.max(...slotsForType.map(s => s.max))
