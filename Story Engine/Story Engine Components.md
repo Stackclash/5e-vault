@@ -875,42 +875,62 @@ function PromptBuilder() {
         gap: "16px"
       }}>
         {allowedTypes.map(t => {
-          // Find all slots this card type can be placed into
+          // slots that accept this card type
           const slotsForType = promptType.slots.filter(slot =>
             slot.allowedTypes.includes(t.type)
           )
 
-          // Count total cards across all compatible slots
-          const totalCardsInSlots = slotsForType.reduce((acc, slot) => {
-            return acc + evaluation.slotStates[slot.id].length
-          }, 0)
+          // determine availability per slot
+          const slotAvailability = slotsForType.map(slot => {
+            const assigned = evaluation.slotStates[slot.id]?.length || 0
+            const max = Number.isFinite(slot.max) ? slot.max : Infinity
+            const min = slot.min ?? 0
+            return {
+              slotId: slot.id,
+              label: slot.label,
+              assigned,
+              min,
+              max,
+              hasSpace: assigned < max
+            }
+          })
 
-          const totalMax = Math.max(...slotsForType.map(s => s.max))
-          const totalMin = Math.min(...slotsForType.map(s => s.min))
+          // If ANY accepting slot has space, the card type is enabled.
+          const anySlotHasSpace = slotAvailability.some(s => s.hasSpace)
 
-          const isDisabled = totalCardsInSlots >= totalMax
-
+          // Build a helpful message:
+          // - If disabled: list the slots and their maxs
+          // - If enabled but some slots still need cards (min unmet): show info
           let message = null
-          if (isDisabled) {
+
+          if (!anySlotHasSpace) {
+            // All accepting slots are full
+            const slotList = slotAvailability.map(s => `${s.label} (max ${s.max === Infinity ? '∞' : s.max})`).join(", ")
             message = {
               severity: "error",
-              text: `Maximum of ${totalMax} ${t.label} cards already placed.`
+              text: `All slots that accept ${t.label} are full: ${slotList}.`
             }
-          } else if (totalCardsInSlots < totalMin) {
-            message = {
-              severity: "info",
-              text: `Minimum of ${totalMin} ${t.label} required.`
+          } else {
+            // Check if any slot that accepts this type currently has fewer than its min
+            const slotsNeeding = slotAvailability.filter(s => s.assigned < s.min)
+            if (slotsNeeding.length > 0) {
+              const needsText = slotsNeeding.map(s => `${s.label} needs ${s.min - s.assigned}`).join(", ")
+              message = {
+                severity: "info",
+                text: `Some slots need ${t.label}: ${needsText}.`
+              }
             }
           }
 
           return (
             <CardCategory
+              key={t.type}
               file={t.path}
               category={t.deck}
               type={t.type}
               label={t.label}
               onSelect={addCard}
-              disabled={isDisabled}
+              disabled={!anySlotHasSpace}
               message={message}
             />
           )
