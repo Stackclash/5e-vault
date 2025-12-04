@@ -74,18 +74,71 @@ function PromptBuilder() {
     return true
   }, [cards, promptType])
 
-  const cardsBySlot = dc.useMemo(() => {
-    const map = {}
-    promptType.slots.filter(s => !s.attachesTo).forEach(slot => {
-      map[slot.id] = cards.filter(c => c.slot === slot.id)
-    })
-    return map
-  }, [cards, promptType])
-
   const allowedTypes = dc.useMemo(() => {
     const allowedTypes = [...new Set(promptType.slots.flatMap(s => s.allowedTypes))]
     return CARD_TYPES.filter(ct => allowedTypes.includes(ct.type))
   }, [promptType])
+
+  const evaluation = dc.useMemo(() => {
+    return evaluatePromptState({ cards, promptType })
+  }, [cards, promptType])
+
+  function evaluatePromptState({ cards, promptType }) {
+    const slotStates = {}
+    const errors = []
+    const warnings = []
+
+    // Initialize tracking for each slot
+    for (const slot of promptType.slots) {
+      slotStates[slot.id] = {
+        cards: [],
+        modifiers: {}
+      }
+    }
+
+    // Assign cards to slots
+    for (const card of cards) {
+      if (!card.slot) continue
+      slotStates[card.slot].cards.push(card)
+
+      if (card.modifiers && card.modifiers.length) {
+        slotStates[card.slot].modifiers = card.modifiers
+      }
+    }
+
+    // Validate each slot (min/max enforcement)
+    for (const slot of promptType.slots) {
+      const assigned = slotStates[slot.id].cards.length
+
+      if (assigned < slot.min) {
+        warnings.push({
+          slot: slot.id,
+          type: "min",
+          needed: slot.min,
+          have: assigned
+        })
+      }
+
+      if (assigned > slot.max) {
+        errors.push({
+          slot: slot.id,
+          type: "max",
+          limit: slot.max,
+          have: assigned
+        })
+      }
+    }
+
+    // Whether all constraints are satisfied
+    const meetsRequirements = errors.length === 0 && warnings.every(w => w.type === "min")
+
+    return {
+      slotStates,
+      meetsRequirements,
+      errors,
+      warnings
+    }
+  }
 
   dc.useEffect(() => {
     console.log("Cards updated:", cards)
@@ -236,7 +289,7 @@ function PromptBuilder() {
         }}>
           <h3>Generated Prompt</h3>
           <p>
-            {promptType.generator(cardsBySlot)}
+            {promptType.generator(evaluation.slotStates)}
           </p>
         </div>
       )}
@@ -312,6 +365,34 @@ function PromptBuilder() {
         gap: "16px"
       }}>
         {allowedTypes.map(t => {
+          // Find all slots this card type can be placed into
+          const slotsForType = promptType.slots.filter(slot =>
+            slot.allowedTypes.includes(t.type)
+          )
+
+          // Count total cards across all compatible slots
+          const totalCardsInSlots = slotsForType.reduce((acc, slot) => {
+            return acc + evaluation.slotStates[slot.id].cards.length
+          }, 0)
+
+          const totalMax = Math.max(...slotsForType.map(s => s.max))
+          const totalMin = Math.min(...slotsForType.map(s => s.min))
+
+          const isDisabled = totalCardsInSlots >= totalMax
+
+          let message = null
+          if (isDisabled) {
+            message = {
+              severity: "error",
+              text: `Maximum of ${totalMax} ${t.label} cards already placed.`
+            }
+          } else if (totalCardsInSlots < totalMin) {
+            message = {
+              severity: "info",
+              text: `Minimum of ${totalMin} ${t.label} required.`
+            }
+          }
+
           return (
             <CardCategory
               file={t.path}
@@ -319,8 +400,8 @@ function PromptBuilder() {
               type={t.type}
               label={t.label}
               onSelect={addCard}
-              disabled={false}
-              message={''}
+              disabled={isDisabled}
+              message={message}
             />
           )
         })}
