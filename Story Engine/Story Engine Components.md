@@ -328,14 +328,15 @@ function PromptBuilder() {
     {
       label: 'Simple Story Seed',
       description: 'The classic 5-part Story Engine seed.',
-      generator: (slots) => {
-        const {character, motivation, desire, conflict, aspect} = slots
+      generator: () => {
+        console.log(evaluation.slotsForGenerator)
+        const {character, motivation, desire, conflict, aspect} = evaluation.slotsForGenerator
         return `
-          A story about ${character[0].value}
-          ${character[0].modifiers?.length ? ` (${character[0].modifiers.map(a => a.value).join(", ")})` : ''} 
-          ${motivation[0].value} 
-          ${desire[0].value}${desire[0].modifiers?.length ? ` (${desire[0].modifiers.map(a => a.value).join(", ")})` : ''}, 
-          ${conflict[0].value}.
+          A story about ${character.value}
+          ${character.modifiers?.length ? ` (${character.modifiers.map(a => a.value).join(", ")})` : ''} 
+          ${motivation.value} 
+          ${desire.value}${desire.modifiers?.length ? ` (${desire.modifiers.map(a => a.value).join(", ")})` : ''}, 
+          ${conflict.value}.
         `
       },
       slots: [
@@ -380,8 +381,8 @@ function PromptBuilder() {
     {
       label: 'Simple Item/Setting-Driven Story',
       description: 'Create an idea for an interesting prop and setting that will be the heart of a story',
-      generator: (slots) => {
-        const {object, setting, effect, affected, owner, obstacle, aspect} = slots
+      generator: () => {
+        const {object, setting, effect, affected, owner, obstacle, aspect} = evaluation.slotsForGenerator
         return `
           A ${object[0].value}
           ${object[0].modifiers?.length ? ` (${object[0].modifiers.map(m => m.value).join(', ')})` : ''} 
@@ -507,8 +508,19 @@ function PromptBuilder() {
     // Whether all constraints are satisfied
     const meetsRequirements = errors.length === 0 && warnings.length === 0
 
+    // For use in the Prompt Generator
+    const slotsForGenerator = {}
+    for (const [key, slot] of slotStates) {
+      if (slot.length === 1) {
+        slotsForGenerator[key] = slot[0]
+      } else {
+        slotsForGenerator[key] = slot
+      }
+    }
+
     return {
       slotStates,
+      slotsForGenerator,
       meetsRequirements,
       errors,
       warnings
@@ -790,7 +802,7 @@ function PromptBuilder() {
         }}>
           <h3>Generated Prompt</h3>
           <p>
-            {promptType.generator(evaluation.slotStates)}
+            {promptType.generator()}
           </p>
         </div>
       )}
