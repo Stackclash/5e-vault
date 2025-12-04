@@ -328,8 +328,8 @@ function PromptBuilder() {
     {
       label: 'Simple Story Seed',
       description: 'The classic 5-part Story Engine seed.',
-      generator: () => {
-        const {character, motivation, desire, conflict, aspect} = evaluation.slotsForGenerator
+      generator: (slots) => {
+        const {character, motivation, desire, conflict, aspect} = slots
         return `
           A story about ${character.value}
           ${character.modifiers?.length ? ` (${character.modifiers.map(a => a.value).join(", ")})` : ''} 
@@ -436,8 +436,8 @@ function PromptBuilder() {
     {
       label: 'Simple Item/Setting-Driven Story',
       description: 'Create an idea for an interesting prop and setting that will be the heart of a story',
-      generator: () => {
-        const {object, setting, effect, affected, owner, obstacle, aspect} = evaluation.slotsForGenerator
+      generator: (slots) => {
+        const {object, setting, effect, affected, owner, obstacle, aspect} = slots
         return `
           A ${object.value}
           ${object.modifiers?.length ? ` (${object.modifiers.map(m => m.value).join(', ')})` : ''} 
@@ -571,7 +571,6 @@ function PromptBuilder() {
         slotsForGenerator[key] = slotStates[key]
       }
     }
-    console.log('slots',slotsForGenerator)
 
     return {
       slotStates,
@@ -638,7 +637,7 @@ function PromptBuilder() {
     }
 
     return {
-      availability,         // per-slot info
+      availability,
       anySlotHasSpace,
       allSlotsFull,
       message
@@ -654,17 +653,35 @@ function PromptBuilder() {
     setCards([])
   }
 
-  function placeCardInSlot(card, slotId) {
-    setCards([
-      ...cards,
-      {
-        ...card,
-        slot: slotId,
-        modifiers: []
-      }
-    ])
+  function placeCardInSlot(card, slotId, parentCard = null) {
+    if (!card) return
+
+    if (parentCard) {
+      // This is a modifier card attaching to a specific parent card
+      setCards(prevCards => [
+        ...prevCards,
+        {
+          ...card,
+          slot: slotId,
+          modifies: parentCard.slot,
+          modifiesValue: parentCard.value, // track which parent it modifies
+          modifiers: []
+        }
+      ])
+    } else {
+      // Normal card
+      setCards(prevCards => [
+        ...prevCards,
+        {
+          ...card,
+          slot: slotId,
+          modifiers: []
+        }
+      ])
+    }
+
     setPendingCard(null)
-  } 
+  }
   
   function addCard(card) {
     const validSlots = promptType.slots.filter(slot =>
@@ -687,24 +704,29 @@ function PromptBuilder() {
     setCards(cards.filter((c, i) => i !== index))
   }
 
-  function addModifier(modifier, cardIndex, slotId) {
-    setCards(cards.map((c, i) => {
-      if (i === cardIndex) {
-        return {
-          ...c,
-          modifiers: [
-            ...(c.modifiers || []), 
-            {
-              ...modifier,
-              slot: slotId,
-              modifies: c.slot
-            }
-          ]
-        }
-      } else {
-        return c
+  function addModifier(modifier, parentCard, modifierSlot) {
+    if (!modifier || !parentCard || !modifierSlot) return
+
+    const key = `${modifierSlot.id}::${parentCard.slot}::${parentCard.value}`
+    const assignedCount = evaluation.slotStates[key]?.length ?? 0
+    const max = Number.isFinite(modifierSlot.max) ? modifierSlot.max : Infinity
+
+    if (assignedCount >= max) {
+      console.warn(`Cannot add modifier: ${modifierSlot.label} for ${parentCard.value} is full`)
+      return
+    }
+
+    setCards(prevCards => [
+      ...prevCards,
+      {
+        ...modifier,
+        slot: modifierSlot.id,
+        modifies: parentCard.slot,
+        modifiesValue: parentCard.value,
+        modifiers: []
       }
-    }))
+    ])
+
     setPendingCard(null)
   }
 
@@ -856,7 +878,7 @@ function PromptBuilder() {
         }}>
           <h3>Generated Prompt</h3>
           <p>
-            {promptType.generator()}
+            {promptType.generator(evaluation.slotsForGenerator)}
           </p>
         </div>
       )}
