@@ -653,35 +653,17 @@ function PromptBuilder() {
     setCards([])
   }
 
-  function placeCardInSlot(card, slotId, parentCard = null) {
-    if (!card) return
-
-    if (parentCard) {
-      // This is a modifier card attaching to a specific parent card
-      setCards(prevCards => [
-        ...prevCards,
-        {
-          ...card,
-          slot: slotId,
-          modifies: parentCard.slot,
-          modifiesValue: parentCard.value, // track which parent it modifies
-          modifiers: []
-        }
-      ])
-    } else {
-      // Normal card
-      setCards(prevCards => [
-        ...prevCards,
-        {
-          ...card,
-          slot: slotId,
-          modifiers: []
-        }
-      ])
-    }
-
+  function placeCardInSlot(card, slotId) {
+    setCards([
+      ...cards,
+      {
+        ...card,
+        slot: slotId,
+        modifiers: []
+      }
+    ])
     setPendingCard(null)
-  }
+  } 
   
   function addCard(card) {
     const validSlots = promptType.slots.filter(slot =>
@@ -704,29 +686,24 @@ function PromptBuilder() {
     setCards(cards.filter((c, i) => i !== index))
   }
 
-  function addModifier(modifier, parentCard, modifierSlot) {
-    if (!modifier || !parentCard || !modifierSlot) return
-
-    const key = `${modifierSlot.id}::${parentCard.slot}::${parentCard.value}`
-    const assignedCount = evaluation.slotStates[key]?.length ?? 0
-    const max = Number.isFinite(modifierSlot.max) ? modifierSlot.max : Infinity
-
-    if (assignedCount >= max) {
-      console.warn(`Cannot add modifier: ${modifierSlot.label} for ${parentCard.value} is full`)
-      return
-    }
-
-    setCards(prevCards => [
-      ...prevCards,
-      {
-        ...modifier,
-        slot: modifierSlot.id,
-        modifies: parentCard.slot,
-        modifiesValue: parentCard.value,
-        modifiers: []
+  function addModifier(modifier, cardIndex, slotId) {
+    setCards(cards.map((c, i) => {
+      if (i === cardIndex) {
+        return {
+          ...c,
+          modifiers: [
+            ...(c.modifiers || []), 
+            {
+              ...modifier,
+              slot: slotId,
+              modifies: c.slot
+            }
+          ]
+        }
+      } else {
+        return c
       }
-    ])
-
+    }))
     setPendingCard(null)
   }
 
