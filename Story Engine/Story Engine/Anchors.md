@@ -4,7 +4,7 @@
 | a Trap               | a Prison         | a Cage              | a Forgery       |
 | a Machine            | a Job            | a Factory           | a Button        |
 | a Door               | an Address       | a Portal            | a Key           |
-| a Tool               | a Workshop       | an invention        | a Technique     |
+| a Tool               | a Workshop       | an Invention        | a Technique     |
 | a Fight              | a Blade          | an Arena            | a Shield        |
 | a Ruin               | a Dump           | a Discovery         | an Artifact     |
 | a Hospital           | a Contagion      | a Medicne           | a Death         |

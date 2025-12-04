@@ -518,7 +518,8 @@ function PromptBuilder() {
   dc.useEffect(() => {
     console.log("Cards updated:", cards)
     console.log("Meets Requirements:", evaluation.meetsRequirements)
-  }, [cards])
+    console.log('Prompt Type:', promptType)
+  }, [cards, promptType])
 
   function resetPrompt() {
     setCards([])
@@ -533,6 +534,7 @@ function PromptBuilder() {
         modifiers: []
       }
     ])
+    setPendingCard(null)
   } 
   
   function addCard(card) {
@@ -603,13 +605,23 @@ function PromptBuilder() {
       <label>Prompt Type:</label><br/>
       <select
         value={promptType.label}
+        onChange={(e) => {
+          const newLabel = e.target.value
+          const newType = PROMPT_TYPES.find(pt => pt.label === newLabel)
+          if (newType) {
+            setPromptType(newType)
+            setCards([])         // reset placed cards when switching prompt types
+            setPendingCard(null) // clear any in-progress placement
+          }
+        }}
       >
-        {PROMPT_TYPES.map(pt => {
-          return (
-            <option onClick={() => setPromptType(pt)}>{pt.label}</option>
-          )
-        })}
+        {PROMPT_TYPES.map(pt => (
+          <option key={pt.label} value={pt.label}>
+            {pt.label}
+          </option>
+        ))}
       </select>
+
       <button onClick={resetPrompt} style={{ marginLeft: '10px', marginBottom: "12px" }}>
         Reset Prompt
       </button>
