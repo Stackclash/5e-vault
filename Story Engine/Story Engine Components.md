@@ -515,6 +515,69 @@ function PromptBuilder() {
     }
   }
 
+  function getSlotAvailabilityForCardType(cardType) {
+    // Slots that accept the card type
+    const slotsForType = promptType.slots.filter(slot =>
+      slot.allowedTypes.includes(cardType)
+    )
+
+    // Evaluate per-slot availability
+    const availability = slotsForType.map(slot => {
+      const assigned = evaluation.slotStates[slot.id]?.length ?? 0
+      const max = Number.isFinite(slot.max) ? slot.max : Infinity
+      const min = slot.min ?? 0
+
+      return {
+        slot,        // slot object (id, label, min, max, allowedTypes, etc.)
+        slotId: slot.id,
+        label: slot.label,
+        assigned,
+        max,
+        min,
+        hasSpace: assigned < max
+      }
+    })
+
+    // High-level availability:
+    const anySlotHasSpace = availability.some(a => a.hasSpace)
+    const allSlotsFull = !anySlotHasSpace
+
+    // Build reusable message object
+    let message = null
+
+    if (allSlotsFull) {
+      const slotList = availability
+        .map(a => `${a.label} (max ${a.max === Infinity ? "∞" : a.max})`)
+        .join(", ")
+
+      message = {
+        severity: "error",
+        text: `All slots for ${cardType} are full: ${slotList}.`
+      }
+    } else {
+      // Check if any slot needs more entries (min not satisfied)
+      const needing = availability.filter(a => a.assigned < a.min)
+
+      if (needing.length > 0) {
+        const needsText = needing
+          .map(a => `${a.label} needs ${a.min - a.assigned}`)
+          .join(", ")
+
+        message = {
+          severity: "info",
+          text: `${cardType} still required in: ${needsText}`
+        }
+      }
+    }
+
+    return {
+      availability,         // per-slot info
+      anySlotHasSpace,
+      allSlotsFull,
+      message
+    }
+  }
+
   dc.useEffect(() => {
     console.log("Cards updated:", cards)
     console.log("Meets Requirements:", evaluation.meetsRequirements)
@@ -732,141 +795,143 @@ function PromptBuilder() {
         </div>
       )}
 
-      {pendingCard && (
-        <div
-          style={{
-            padding: "12px",
-            marginTop: "12px",
-            border: "1px dashed var(--background-modifier-border)",
-            borderRadius: "8px",
-            background: "var(--background-secondary)"
-          }}
-        >
-          <h3 style={{ marginTop: 0 }}>Place This Card</h3>
+      {pendingCard && (() => {
+        const slotInfo = getSlotAvailabilityForCardType(
+          pendingCard.card.type
+        )
 
+        const placeableSlots = slotInfo.availability.filter(a => !a.slot.attachesTo)
+        const modifierSlots = slotInfo.availability.filter(a => a.slot.attachesTo)
+
+        return (
           <div
             style={{
-              display: "flex",
-              alignItems: "flex-start",
-              gap: "20px"
+              padding: "12px",
+              marginTop: "12px",
+              border: "1px dashed var(--background-modifier-border)",
+              borderRadius: "8px",
+              background: "var(--background-secondary)"
             }}
           >
-            {/* LEFT: Card being placed */}
-            <div
-              style={{
-                minWidth: "220px",
-                padding: "10px",
-                border: "1px solid var(--background-modifier-border)",
-                borderRadius: "6px",
-                background: "var(--background-primary)"
-              }}
-            >
-              <div style={{ fontSize: "0.8em", opacity: 0.7 }}>
-                {getCardType(pendingCard.card).label}
-              </div>
-              <strong>{pendingCard.card.value}</strong>
-            </div>
+            <h3 style={{ marginTop: 0 }}>Place This Card</h3>
 
-            {/* RIGHT: Choices */}
-            <div style={{ flex: 1, display: "flex", flexDirection: "column", gap: "12px" }}>
-
-              {/* Standard slot placement */}
-              <div>
-                <div style={{ fontSize: "0.9em", marginBottom: "4px" }}>
-                  Available Slots:
+            <div style={{ display: "flex", gap: "20px" }}>
+              {/* LEFT: Card being placed */}
+              <div
+                style={{
+                  minWidth: "220px",
+                  padding: "10px",
+                  border: "1px solid var(--background-modifier-border)",
+                  borderRadius: "6px",
+                  background: "var(--background-primary)"
+                }}
+              >
+                <div style={{ fontSize: "0.8em", opacity: 0.7 }}>
+                  {getCardType(pendingCard.card).label}
                 </div>
-
-                <div
-                  style={{
-                    display: "grid",
-                    gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))",
-                    gap: "6px"
-                  }}
-                >
-                  {pendingCard.validSlots.filter(vs => !vs.attachesTo).map(vs => (
-                    <button
-                      key={vs.id}
-                      onClick={() => placeCardInSlot(pendingCard.card, vs.id)}
-                      style={{
-                        padding: "6px 8px",
-                        border: "1px solid var(--background-modifier-border)",
-                        borderRadius: "6px",
-                        textAlign: "left",
-                        fontSize: "0.85em"
-                      }}
-                    >
-                      <strong>{vs.label}</strong>
-                    </button>
-                  ))}
-
-                  {pendingCard.validSlots.filter(vs => !vs.attachesTo).length === 0 && (
-                    <div style={{ fontSize: "0.85em", opacity: 0.6 }}>
-                      (No standard slots)
-                    </div>
-                  )}
-                </div>
+                <strong>{pendingCard.card.value}</strong>
               </div>
 
-              {/* Modifier attachments */}
-              <div>
-                <div style={{ fontSize: "0.9em", marginBottom: "4px" }}>
-                  Attach As Modifier:
+              {/* RIGHT: Slot choices */}
+              <div style={{ flex: 1, display: "flex", flexDirection: "column", gap: "16px" }}>
+
+                {/* STANDARD SLOT PLACEMENT */}
+                <div>
+                  <div style={{ fontSize: "0.9em", marginBottom: "6px" }}>
+                    Available Slots:
+                  </div>
+                  <div
+                    style={{
+                      display: "grid",
+                      gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))",
+                      gap: "6px"
+                    }}
+                  >
+                    {placeableSlots.map(a => (
+                      <button
+                        key={a.slotId}
+                        disabled={!a.hasSpace}
+                        onClick={() => placeCardInSlot(pendingCard.card, a.slotId)}
+                        style={{
+                          padding: "6px 8px",
+                          border: "1px solid var(--background-modifier-border)",
+                          borderRadius: "6px",
+                          textAlign: "left",
+                          opacity: a.hasSpace ? 1 : 0.5
+                        }}
+                      >
+                        <strong>{a.label}</strong>  
+                        <div style={{ fontSize: "0.75em", opacity: 0.7 }}>
+                          ({a.assigned}/{a.max === Infinity ? "∞" : a.max})
+                        </div>
+                      </button>
+                    ))}
+
+                    {placeableSlots.length === 0 && (
+                      <div style={{ fontSize: "0.85em", opacity: 0.6 }}>
+                        (No standard slots)
+                      </div>
+                    )}
+                  </div>
                 </div>
 
-                <div
-                  style={{
-                    display: "grid",
-                    gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))",
-                    gap: "6px"
-                  }}
-                >
-                  {pendingCard.validSlots
-                    .filter(vs => vs.attachesTo)
-                    .flatMap(vs =>
-                      promptType.slots
-                        .filter(s => vs.attachesTo.includes(s.id))
-                        .flatMap(targetSlot => {
-                          const targetCards = cards.filter(c => c.slot === targetSlot.id)
-                          if (targetCards.length === 0) return []
-                          return targetCards.map(targetCard => {
-                            const globalIndex = cards.indexOf(targetCard)
-                            return (
-                              <button
-                                key={`${vs.id}-${globalIndex}`}
-                                onClick={() => addModifier(pendingCard.card, globalIndex, vs.id)}
-                                style={{
-                                  padding: "6px 8px",
-                                  border: "1px solid var(--background-modifier-border)",
-                                  borderRadius: "6px",
-                                  textAlign: "left",
-                                  fontSize: "0.85em"
-                                }}
-                              >
-                                <strong>{targetSlot.label}</strong>: {targetCard.value}
-                              </button>
-                            )
-                          })
+                {/* MODIFIER OPTIONS */}
+                <div>
+                  <div style={{ fontSize: "0.9em", marginBottom: "6px" }}>
+                    Attach As Modifier:
+                  </div>
+
+                  <div
+                    style={{
+                      display: "grid",
+                      gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))",
+                      gap: "6px"
+                    }}
+                  >
+                    {modifierSlots.flatMap(a =>
+                      a.slot.attachesTo.flatMap(attSlot => {
+                        const parentCards = cards.filter(c => c.slot === attSlot)
+                        if (parentCards.length === 0) return []
+
+                        return parentCards.map(parentCard => {
+                          const globalIndex = cards.indexOf(parentCard)
+
+                          return (
+                            <button
+                              key={`${a.slotId}-${globalIndex}`}
+                              disabled={!a.hasSpace}
+                              onClick={() => addModifier(pendingCard.card, globalIndex, a.slotId)}
+                              style={{
+                                padding: "6px 8px",
+                                border: "1px solid var(--background-modifier-border)",
+                                borderRadius: "6px",
+                                textAlign: "left",
+                                opacity: a.hasSpace ? 1 : 0.5
+                              }}
+                            >
+                              <strong>{a.label}</strong> → {parentCard.value}
+                            </button>
+                          )
                         })
+                      })
                     )}
 
-                  {pendingCard.validSlots.filter(vs => vs.attachesTo).length === 0 && (
-                    <div style={{ fontSize: "0.85em", opacity: 0.6 }}>
-                      (Cannot be used as modifier)
-                    </div>
-                  )}
+                    {modifierSlots.length === 0 && (
+                      <div style={{ fontSize: "0.85em", opacity: 0.6 }}>
+                        (Cannot be used as modifier)
+                      </div>
+                    )}
+                  </div>
+                </div>
+
+                <div>
+                  <button onClick={() => setPendingCard(null)}>Cancel</button>
                 </div>
               </div>
-
-              <div>
-                <button onClick={() => setPendingCard(null)} style={{ fontSize: "0.85em" }}>
-                  Cancel
-                </button>
-              </div>
-
             </div>
           </div>
-        </div>
-      )}
+        )
+      })()}
 
       <div style={{
         marginTop: "16px",
@@ -875,52 +940,7 @@ function PromptBuilder() {
         gap: "16px"
       }}>
         {allowedTypes.map(t => {
-          // slots that accept this card type
-          const slotsForType = promptType.slots.filter(slot =>
-            slot.allowedTypes.includes(t.type)
-          )
-
-          // determine availability per slot
-          const slotAvailability = slotsForType.map(slot => {
-            const assigned = evaluation.slotStates[slot.id]?.length || 0
-            const max = Number.isFinite(slot.max) ? slot.max : Infinity
-            const min = slot.min ?? 0
-            return {
-              slotId: slot.id,
-              label: slot.label,
-              assigned,
-              min,
-              max,
-              hasSpace: assigned < max
-            }
-          })
-
-          // If ANY accepting slot has space, the card type is enabled.
-          const anySlotHasSpace = slotAvailability.some(s => s.hasSpace)
-
-          // Build a helpful message:
-          // - If disabled: list the slots and their maxs
-          // - If enabled but some slots still need cards (min unmet): show info
-          let message = null
-
-          if (!anySlotHasSpace) {
-            // All accepting slots are full
-            const slotList = slotAvailability.map(s => `${s.label} (max ${s.max === Infinity ? '∞' : s.max})`).join(", ")
-            message = {
-              severity: "error",
-              text: `All slots that accept ${t.label} are full: ${slotList}.`
-            }
-          } else {
-            // Check if any slot that accepts this type currently has fewer than its min
-            const slotsNeeding = slotAvailability.filter(s => s.assigned < s.min)
-            if (slotsNeeding.length > 0) {
-              const needsText = slotsNeeding.map(s => `${s.label} needs ${s.min - s.assigned}`).join(", ")
-              message = {
-                severity: "info",
-                text: `Some slots need ${t.label}: ${needsText}.`
-              }
-            }
-          }
+          const result = getSlotAvailabilityForCardType(t.type)
 
           return (
             <CardCategory
@@ -930,8 +950,8 @@ function PromptBuilder() {
               type={t.type}
               label={t.label}
               onSelect={addCard}
-              disabled={!anySlotHasSpace}
-              message={message}
+              disabled={!result.anySlotHasSpace}
+              message={result.message}
             />
           )
         })}
