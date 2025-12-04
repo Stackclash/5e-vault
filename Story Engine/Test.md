@@ -235,48 +235,92 @@ function PromptBuilder() {
       <div style={{
         padding: "10px",
         border: "1px solid var(--background-modifier-border)",
-        borderRadius: "8px"
+        borderRadius: "8px",
+        marginBottom: "16px"
       }}>
         <h2>Your Story Prompt</h2>
 
-        {
-          promptType.slots.map(slot => {
-            if (slot.attachesTo) return null; // Skip modifier slots here
-            const cardsInSlot = cards.filter(c => c.slot === slot.id)
-            return (
-              <div key={slot.id} style={{ marginBottom: "10px" }}>
-                <strong>{slot.label}:</strong>
-                {cardsInSlot.length === 0 ? ( <span> (none)</span> ) : (
-                  cardsInSlot.map((c, cardIndex) => {
-                    const cardType = getCardType(c)
-                    return (<div key={cardIndex} style={{ marginTop: "4px" }}>
-                      {cardType.label}: {c.value}
-                      <button style={{ marginLeft: "6px" }} onClick={() => removeCard(cardIndex)}>✕</button>
-                      {c.modifiers && c.modifiers.length > 0 && (
-                        <>
-                          <div style={{ marginTop: "4px" }}>
-                            <strong style={{ fontSize: "0.9em" }}>Modifiers:</strong>
-                          </div>
-                          {c.modifiers.map((m, modifierIndex) => (
-                            <div key={modifierIndex} style={{ display: "flex", alignItems: "center", marginLeft: "12px" }}>
-                              • <em>{m.value}</em>
-                              <button 
-                                style={{ marginLeft: "6px", fontSize: "0.8em" }}
-                                onClick={() => removeModifier(cardIndex, modifierIndex)}
-                              >
-                                ✕
-                              </button>
-                            </div>
-                          ))}
-                        </>
-                      )}
-                    </div>)
-                  })
-                )}
+        {promptType.slots.map(slot => {
+          if (slot.attachesTo) return null // don't show modifier-only slots
+
+          const slotCards = cards.filter(c => c.slot === slot.id)
+
+          return (
+            <div key={slot.id} style={{ marginBottom: "16px" }}>
+              {/* Slot Header */}
+              <div style={{ marginBottom: "6px" }}>
+                <strong style={{ fontSize: "1.1em" }}>{slot.label}</strong>
+                <span style={{ color: "var(--text-muted)" }}>
+                  {" "}(allowed: {slot.allowedTypes.join(", ")})
+                </span>
               </div>
-            )
-          })
-        }
+
+              {/* Empty State */}
+              {slotCards.length === 0 && (
+                <div style={{ marginLeft: "12px", color: "var(--text-muted)" }}>
+                  (No cards placed)
+                </div>
+              )}
+
+              {/* Cards inside the slot */}
+              {slotCards.map(card => {
+                const globalIndex = cards.indexOf(card)
+                const cardType = CARD_TYPES.find(ct => ct.type === card.type)
+
+                return (
+                  <div 
+                    key={globalIndex}
+                    style={{
+                      marginLeft: "12px",
+                      padding: "6px 8px",
+                      border: "1px solid var(--background-modifier-border)",
+                      borderRadius: "6px",
+                      marginBottom: "8px"
+                    }}
+                  >
+                    {/* Card Title */}
+                    <div>
+                      <strong>{cardType.label}:</strong> {card.value}
+
+                      <button
+                        style={{ marginLeft: "8px", fontSize: "0.8em" }}
+                        onClick={() => removeCard(globalIndex)}
+                      >
+                        ✕
+                      </button>
+                    </div>
+
+                    {/* Modifiers */}
+                    {card.modifiers && card.modifiers.length > 0 && (
+                      <div style={{ marginTop: "4px" }}>
+                        <strong style={{ fontSize: "0.9em" }}>Modifiers:</strong>
+
+                        {card.modifiers.map((mod, i) => (
+                          <div
+                            key={i}
+                            style={{
+                              display: "flex",
+                              alignItems: "center",
+                              marginLeft: "12px"
+                            }}
+                          >
+                            • <em>{mod.value}</em>
+                            <button
+                              style={{ marginLeft: "6px", fontSize: "0.8em" }}
+                              onClick={() => removeModifier(globalIndex, i)}
+                            >
+                              ✕
+                            </button>
+                          </div>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                )
+              })}
+            </div>
+          )
+        })}
       </div>
 
       {/* TODO: Update logic to test if minimum requirements are fulfilled */}
