@@ -329,7 +329,6 @@ function PromptBuilder() {
       label: 'Simple Story Seed',
       description: 'The classic 5-part Story Engine seed.',
       generator: () => {
-        console.log(evaluation.slotsForGenerator)
         const {character, motivation, desire, conflict, aspect} = evaluation.slotsForGenerator
         return `
           A story about ${character.value}
@@ -438,7 +437,6 @@ function PromptBuilder() {
       label: 'Simple Item/Setting-Driven Story',
       description: 'Create an idea for an interesting prop and setting that will be the heart of a story',
       generator: () => {
-        console.log(evaluation.slotsForGenerator)
         const {object, setting, effect, affected, owner, obstacle, aspect} = evaluation.slotsForGenerator
         return `
           A ${object.value}
@@ -573,6 +571,7 @@ function PromptBuilder() {
         slotsForGenerator[key] = slotStates[key]
       }
     }
+    console.log('slots',slotsForGenerator)
 
     return {
       slotStates,
