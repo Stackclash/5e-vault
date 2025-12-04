@@ -326,16 +326,15 @@ function PromptBuilder() {
   ]
   const PROMPT_TYPES = [
     {
-      label: 'Story Seed',
+      label: 'Simple Story Seed',
       description: 'The classic 5-part Story Engine seed.',
       generator: (slots) => {
-        console.log(slots)
         const {character, motivation, desire, conflict, aspect} = slots
         return `
           A story about ${character[0].value}
-          ${character[0].modifiers?.length > 0 ? ` (${character[0].modifiers.map(a => a.value).join(", ")})` : ''} 
+          ${character[0].modifiers?.length ? ` (${character[0].modifiers.map(a => a.value).join(", ")})` : ''} 
           ${motivation[0].value} 
-          ${desire[0].value}${desire[0].modifiers?.length > 0 ? ` (${desire[0].modifiers.map(a => a.value).join(", ")})` : ''}, 
+          ${desire[0].value}${desire[0].modifiers?.length ? ` (${desire[0].modifiers.map(a => a.value).join(", ")})` : ''}, 
           ${conflict[0].value}.
         `
       },
@@ -373,6 +372,74 @@ function PromptBuilder() {
           label: 'Aspect',
           allowedTypes: ['aspect'],
           attachesTo: ['character', 'desire'],
+          min: 0,
+          max: Infinity
+        }
+      ]
+    },
+    {
+      label: 'Simple Item/Setting-Driven Story',
+      description: 'Create an idea for an interesting prop and setting that will be the heart of a story',
+      generator: (slots) => {
+        const {object, setting, effect, affected, owner, obstacle, aspect} = slots
+        return `
+          A ${object[0].value}
+          ${object[0].modifiers?.length ? ` (${object[0].modifiers.map(m => m.value).join(', ')})` : ''} 
+          in ${setting[0].value} owned by ${owner[0].value}
+          ${owner[0].modifiers?.length ? ` (${owner[0].modifiers.map(m => m.value).join(', ')})` : ''} 
+          ${effect[0].value} ${affected[0].value}${affected[0].modifiers?.length ? ` (${affected[0].modifiers.map(m => m.value).join(', ')})` : ''} 
+          ${obstacle[0].value}.
+        `
+      },
+      slots: [
+        {
+          id: 'object',
+          label: 'Object',
+          allowedTypes: ['anchor'],
+          min: 1,
+          max: 1
+        },
+        {
+          id: 'setting',
+          label: 'Setting',
+          allowedTypes: ['anchor'],
+          min: 1,
+          max: 1
+        },
+        {
+          id: 'effect',
+          label: 'Effect',
+          allowedTypes: ['engine'],
+          min: 1,
+          max: 1
+        },
+        {
+          id: 'affected',
+          label: 'Affected',
+          allowedTypes: ['anchor', 'agent'],
+          min: 1,
+          max: 1
+        },
+        {
+          id: 'owner',
+          label: 'Owner',
+          allowedTypes: ['agent'],
+          attachesTo: ['object'],
+          min: 1,
+          max: 1
+        },
+        {
+          id: 'obstacle',
+          label: 'Obstacle/Consequence',
+          allowedTypes: ['conflict'],
+          min: 0,
+          max: 1
+        },
+        {
+          id: 'aspect',
+          label: 'Aspect',
+          allowedTypes: ['aspect'],
+          attachesTo: ['object', 'owner', 'affected'],
           min: 0,
           max: Infinity
         }
