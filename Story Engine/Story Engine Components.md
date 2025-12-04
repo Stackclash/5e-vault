@@ -331,11 +331,11 @@ function PromptBuilder() {
       generator: () => {
         const {character, motivation, desire, conflict, aspect} = evaluation.slotsForGenerator
         return `
-          A story about ${character[0].value}
-          ${character[0].modifiers?.length ? ` (${character[0].modifiers.map(a => a.value).join(", ")})` : ''} 
-          ${motivation[0].value} 
-          ${desire[0].value}${desire[0].modifiers?.length ? ` (${desire[0].modifiers.map(a => a.value).join(", ")})` : ''}, 
-          ${conflict[0].value}.
+          A story about ${character.value}
+          ${character.modifiers?.length ? ` (${character.modifiers.map(a => a.value).join(", ")})` : ''} 
+          ${motivation.value} 
+          ${desire.value}${desire.modifiers?.length ? ` (${desire.modifiers.map(a => a.value).join(", ")})` : ''}, 
+          ${conflict.value}.
         `
       },
       slots: [
@@ -439,12 +439,12 @@ function PromptBuilder() {
       generator: () => {
         const {object, setting, effect, affected, owner, obstacle, aspect} = evaluation.slotsForGenerator
         return `
-          A ${object[0].value}
-          ${object[0].modifiers?.length ? ` (${object[0].modifiers.map(m => m.value).join(', ')})` : ''} 
-          in ${setting[0].value} owned by ${owner[0].value}
-          ${owner[0].modifiers?.length ? ` (${owner[0].modifiers.map(m => m.value).join(', ')})` : ''} 
-          ${effect[0].value} ${affected[0].value}${affected[0].modifiers?.length ? ` (${affected[0].modifiers.map(m => m.value).join(', ')})` : ''} 
-          ${obstacle[0].value}.
+          A ${object.value}
+          ${object.modifiers?.length ? ` (${object.modifiers.map(m => m.value).join(', ')})` : ''} 
+          in ${setting.value} owned by ${owner.value}
+          ${owner.modifiers?.length ? ` (${owner.modifiers.map(m => m.value).join(', ')})` : ''} 
+          ${effect.value} ${affected.value}${affected.modifiers?.length ? ` (${affected.modifiers.map(m => m.value).join(', ')})` : ''} 
+          ${obstacle.value}.
         `
       },
       slots: [
