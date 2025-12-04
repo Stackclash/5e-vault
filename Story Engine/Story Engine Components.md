@@ -378,6 +378,79 @@ function PromptBuilder() {
       ]
     },
     {
+      label: 'Simple Character Concept',
+      description: 'Create an idea for a complex character and a starting point for their character arc',
+      generator: () => {
+        const { character, motivation, desire, obstacle, motivation, aspect } = evaluation.slotsForGenerator
+        const possessionLocation = evaluation.slotsForGenerator[possessionLocation]
+        let characterPossessionLocation = null
+        let desirePossessionLocation = null
+
+        // if (isArray(possessionLocation)) {
+
+        // } else {
+
+        // }
+
+        return `
+          ${character.value}
+          ${character[0].modifiers?.length ? ` (${character[0].modifiers.map(a => a.value).join(", ")})` : ''} 
+          with ${}
+        `
+      },
+      slots: [
+        {
+          id: 'character',
+          label: 'Character',
+          allowedTypes: ['anchor'],
+          min: 1,
+          max: 1
+        },
+        {
+          id: 'motivation',
+          label: 'Motivation',
+          allowedTypes: ['engine'],
+          min: 1,
+          max: 1
+        },
+        {
+          id: 'desire',
+          label: 'Desire',
+          allowedTypes: ['anchor', 'agent'],
+          min: 1,
+          max: 1
+        },
+        {
+          id: 'obstacle',
+          label: 'Obstacle',
+          allowedTypes: ['conflict'],
+          min: 1,
+          max: 1
+        },
+        {
+          id: 'motivation',
+          label: 'Motivation',
+          allowedTypes: ['engine'],
+          min: 1,
+          max: 1
+        },
+        {
+          id: 'possession-location',
+          label: 'Possession/Location',
+          allowedTypes: ['anchor'],
+          attachesTo: ['character', 'desire'],
+          min: 0,
+          max: Infinity
+        },
+        {
+          id: 'aspect',
+          label: 'Aspects',
+          allowedTypes: ['aspect'],
+          attachesTo: ['character', 'desire']
+        }
+      ]
+    },
+    {
       label: 'Simple Item/Setting-Driven Story',
       description: 'Create an idea for an interesting prop and setting that will be the heart of a story',
       generator: () => {
