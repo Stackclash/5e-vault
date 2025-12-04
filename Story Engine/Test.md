@@ -139,6 +139,7 @@ function PromptBuilder() {
 
   dc.useEffect(() => {
     console.log("Cards updated:", cards)
+    console.log("Meets Requirements:", evaluation.meetsRequirements)
   }, [cards])
 
   function resetPrompt() {
