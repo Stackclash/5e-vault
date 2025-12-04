@@ -110,6 +110,9 @@ function PromptBuilder() {
     const validSlots = promptType.slots.filter(slot =>
       slot.allowedTypes.includes(card.type)
     )
+    const validModifiedSlots = promptType.slots.filter(slot => 
+      validSlots.some(vs => vs.attachesTo && vs.attachesTo.includes(slot.id))
+    )
 
     if (validSlots.length === 1 && validModifiedSlots.length === 0) {
       // Auto-place
