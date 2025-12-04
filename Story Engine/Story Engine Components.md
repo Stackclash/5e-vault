@@ -380,24 +380,7 @@ function PromptBuilder() {
     {
       label: 'Simple Character Concept',
       description: 'Create an idea for a complex character and a starting point for their character arc',
-      generator: () => {
-        const { character, motivation, desire, obstacle, motivation, aspect } = evaluation.slotsForGenerator
-        const possessionLocation = evaluation.slotsForGenerator[possessionLocation]
-        let characterPossessionLocation = null
-        let desirePossessionLocation = null
-
-        // if (isArray(possessionLocation)) {
-
-        // } else {
-
-        // }
-
-        return `
-          ${character.value}
-          ${character[0].modifiers?.length ? ` (${character[0].modifiers.map(a => a.value).join(", ")})` : ''} 
-          with ${}
-        `
-      },
+      generator: () => {},
       slots: [
         {
           id: 'character',
