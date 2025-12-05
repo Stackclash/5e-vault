@@ -520,47 +520,91 @@ function PromptBuilder() {
     const errors = []
     const warnings = []
 
-    // Initialize tracking for each slot
+    // Build slot state container
     for (const slot of promptType.slots) {
-      slotStates[slot.id] = []
+      slotStates[slot.id] = {
+        cards: [],
+        modifiers: []
+      }
     }
 
     // Assign cards to slots
     for (const card of cards) {
       if (!card.slot) continue
-      slotStates[card.slot].push(card)
+      slotStates[card.slot].cards.push(card)
 
       if (card.modifiers && card.modifiers.length) {
         for (const modifier of card.modifiers) {
-          slotStates[modifier.slot].push(modifier)
+          slotStates[modifier.slot].modifiers.push({
+            ...modifier,
+            modifies: card.slot,
+            parentCard: card
+          })
         }
       }
     }
 
-    // Validate each slot (min/max enforcement)
+    // Validate slot rules
     for (const slot of promptType.slots) {
-      const assigned = slotStates[slot.id].length
+      // Normal slots (non-modifier)
+      if (!slot.attachesTo) {
+        const count = slotStates[slot.id].cards.length
+        
+        if (count < slot.min) {
+          warnings.push({
+            slot: slot.id,
+            type: "min",
+            needed: slot.min,
+            have: count
+          })
+        }
 
-      if (assigned < slot.min) {
-        warnings.push({
-          slot: slot.id,
-          type: "min",
-          needed: slot.min,
-          have: assigned
-        })
+        if (count > slot.max) {
+          errors.push({
+            slot: slot.id,
+            type: "max",
+            limit: slot.max,
+            have: count
+          })
+        }
+
+        continue
       }
 
-      if (assigned > slot.max) {
-        errors.push({
-          slot: slot.id,
-          type: "max",
-          limit: slot.max,
-          have: assigned
-        })
+      // Modifier slots (evaluate per target slot)
+      for (const targetSlotId of slot.attachesTo) {
+        // Find cards in the target slot
+        const parentCards = slotStates[targetSlotId].cards
+
+        // Count modifiers whose parentCard.slot === targetSlotId
+        const modifiersForTarget = parentCards.flatMap(card =>
+          (card.modifiers || []).filter(mod => mod.slot === slot.id)
+        )
+
+        const count = modifiersForTarget.length
+
+        if (count < slot.min) {
+          warnings.push({
+            slot: slot.id,
+            target: targetSlotId,
+            type: "min",
+            needed: slot.min,
+            have: count
+          })
+        }
+
+        if (count > slot.max) {
+          errors.push({
+            slot: slot.id,
+            target: targetSlotId,
+            type: "max",
+            limit: slot.max,
+            have: count
+          })
+        }
       }
     }
 
-    // Whether all constraints are satisfied
     const meetsRequirements = errors.length === 0 && warnings.length === 0
 
     const slotsForGenerator = {}
@@ -575,9 +619,9 @@ function PromptBuilder() {
     return {
       slotStates,
       slotsForGenerator,
-      meetsRequirements,
       errors,
-      warnings
+      warnings,
+      meetsRequirements
     }
   }
 
