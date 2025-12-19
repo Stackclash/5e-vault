@@ -14,4 +14,3 @@ Geographical sites and points of interest
 | Peak       | Street  |
 | Lookout    | School  |
 | Brook      | Prison  |
-|            |         |
