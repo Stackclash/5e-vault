@@ -429,7 +429,7 @@ function PromptBuilder() {
           id: 'aspect',
           label: 'Aspects',
           allowedTypes: ['aspect'],
-          attachesTo: ['character', 'desire']
+          attachesTo: ['character', 'desire'],
           min: 0,
           max: Infinity
         }
@@ -559,12 +559,12 @@ function PromptBuilder() {
 
         for (const card of cards) {
           if (card.slot === slot.id) {
-            if ()promptState.slots[slot.id].cards.push(card)
+            if (!promptState.slots[slot.id].cards.find(c => c.value === card.value)) promptState.slots[slot.id].cards.push(card)
             promptState.slots[slot.id].isFull = promptState.slots[slot.id].cards.length >= slot.max
           }
 
           if (card.type === type) {
-            promptState.types[type].cards.push(card)
+            if (!promptState.types[type].cards.find(c => c.value === card.value)) promptState.types[type].cards.push(card)
 
           }
         }
