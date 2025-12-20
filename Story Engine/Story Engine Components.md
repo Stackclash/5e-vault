@@ -515,6 +515,17 @@ function PromptBuilder() {
     return evaluatePromptState({ cards, promptType })
   }, [cards, promptType])
 
+  const promptState = dc.useMemo(() => {
+    const promptState = {
+      types: {},
+      slots: {}
+    }
+
+    for (const [key,value] in promptType.slots) {
+      console.log(key)
+    }
+  }, [cards, promptType])
+
   function evaluatePromptState({ cards, promptType }) {
     const slotStates = {}
     const errors = []
