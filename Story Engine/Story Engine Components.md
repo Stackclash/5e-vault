@@ -544,10 +544,13 @@ function PromptBuilder() {
             path: typeDefinition.path,
             deck: typeDefinition.deck,
             min: 0,
-            max: 0
+            max: 0,
+            cards: [],
+            allowedSlots: []
           }
         }
 
+        promptState.types[type].allowedSlots.push(slot.id)
         promptState.types[type].min += slot.min
         promptState.types[type].max += (slot?.attachesTo?.length || 1) * slot.max
 
@@ -555,6 +558,11 @@ function PromptBuilder() {
           if (card.slot === slot.id) {
             promptState.slots[slot.id].cards.push(card)
             promptState.slots[slot.id].isFull = promptState.slots[slot.id].cards.length >= slot.max
+          }
+
+          if (card.type === type) {
+            promptState.types[type].cards.push(card)
+
           }
         }
       }
