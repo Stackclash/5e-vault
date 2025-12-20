@@ -528,10 +528,13 @@ function PromptBuilder() {
         if (!(type in Object.keys(promptState.types))) {
           promptState.types.allowed.push(type)
           promptState.types[type] = {
-            min: (promptState.types[type]?.min || 0) + slot.min,
-            max: (slot?.attachesTo?.length || 1) * ((promptState.types[type]?.max || 0) + slot.max),
+            min: 0,
+            max: 0
           }
         }
+
+        promptState.types[type].min += slot.min
+        promptState.types[type].max += (slot?.attachesTo?.length || 1) * slot.max
       }
     }
 
