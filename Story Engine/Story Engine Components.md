@@ -521,9 +521,13 @@ function PromptBuilder() {
       slots: {}
     }
 
-    for (const [key,value] in promptType.slots) {
-      console.log(key)
+    for (const slot of promptType.slots) {
+      for (const type of slot.allowedTypes) {
+        if (!(type in Object.keys(promptState.types))) promptState.types[type] = {}
+      }
     }
+
+    console.log(promptState)
   }, [cards, promptType])
 
   function evaluatePromptState({ cards, promptType }) {
