@@ -527,7 +527,10 @@ function PromptBuilder() {
       for (const type of slot.allowedTypes) {
         if (!(type in Object.keys(promptState.types))) {
           promptState.types.allowed.push(type)
-          promptState.types[type] = {}
+          promptState.types[type] = {
+            min: (promptState.types[type]?.min || 0) + slot.min,
+            max: (promptState.types[type]?.max || 0) + slot.max,
+          }
         }
       }
     }
