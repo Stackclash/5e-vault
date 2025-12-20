@@ -528,16 +528,21 @@ function PromptBuilder() {
         promptState.slots[slot.id] = {
           min: slot.min,
           max: slot.max,
-          label: slot.label
+          label: slot.label,
           cards: []
         }
+        if (slot.attachesTo) promptState.slots[slot.id].attachesTo = slot.attachesTo
         promptState.slots[slot.id].isFull = promptState.slots[slot.id].cards.length >= slot.max
       }
 
       for (const type of slot.allowedTypes) {
         if (!(type in Object.keys(promptState.types))) {
+          const typeDefinition = CARD_TYPES.find(t => t.type === type)
           promptState.types.allowed.push(type)
           promptState.types[type] = {
+            label: typeDefinition.label,
+            path: typeDefinition.path,
+            deck: typeDefinition.deck,
             min: 0,
             max: 0
           }
