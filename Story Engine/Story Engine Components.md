@@ -524,6 +524,13 @@ function PromptBuilder() {
     }
 
     for (const slot of promptType.slots) {
+      if (!(slot.id in Object.keys(promptState.slots))) {
+        promptState.slots[slot.id] = {
+          min: slot.min,
+          max: slot.max
+        }
+      }
+
       for (const type of slot.allowedTypes) {
         if (!(type in Object.keys(promptState.types))) {
           promptState.types.allowed.push(type)
@@ -535,6 +542,10 @@ function PromptBuilder() {
 
         promptState.types[type].min += slot.min
         promptState.types[type].max += (slot?.attachesTo?.length || 1) * slot.max
+
+        for (const card of cards) {
+
+        }
       }
     }
 
