@@ -198,7 +198,12 @@ function PromptBuilder() {
   }, [promptType])
 
   const promptState = dc.useMemo(() => {
-    return evaluatePromptState({ cards, promptType })
+    const promptState = {
+      types: {},
+      slots: {}
+    }
+
+    for (const [key,value] in )
   }, [cards, promptType])
 
   dc.useEffect(() => {
@@ -403,7 +408,7 @@ function PromptBuilder() {
         })}
       </div>
 
-      {evaluation.meetsRequirements && (
+      {promptState.meetsRequirements && (
         <div style={{
           background: "var(--background-secondary)",
           padding: "12px",
@@ -582,4 +587,4 @@ function PromptBuilder() {
   )
 }
 
-return { PromptBuilder }
+export { PromptBuilder }
