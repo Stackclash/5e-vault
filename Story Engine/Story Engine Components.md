@@ -517,13 +517,18 @@ function PromptBuilder() {
 
   const promptState = dc.useMemo(() => {
     const promptState = {
-      types: {},
+      types: {
+        allowed: []
+      },
       slots: {}
     }
 
     for (const slot of promptType.slots) {
       for (const type of slot.allowedTypes) {
-        if (!(type in Object.keys(promptState.types))) promptState.types[type] = {}
+        if (!(type in Object.keys(promptState.types))) {
+          promptState.types.allowed.push(type)
+          promptState.types[type] = {}
+        }
       }
     }
 
