@@ -373,7 +373,7 @@ function PromptBuilder() {
           allowedTypes: ['aspect'],
           attachesTo: ['character', 'desire'],
           min: 0,
-          max: Infinity
+          max: 1
         }
       ]
     },
@@ -529,7 +529,7 @@ function PromptBuilder() {
           promptState.types.allowed.push(type)
           promptState.types[type] = {
             min: (promptState.types[type]?.min || 0) + slot.min,
-            max: (promptState.types[type]?.max || 0) + slot.max,
+            max: (slot?.attachesTo?.length || 1) * ((promptState.types[type]?.max || 0) + slot.max),
           }
         }
       }
