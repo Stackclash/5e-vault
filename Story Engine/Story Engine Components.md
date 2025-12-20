@@ -530,7 +530,7 @@ function PromptBuilder() {
           max: slot.max,
           cards: []
         }
-        promptState.slots[slot.id].isFull = slot.max === promptState.slots[slot.id].cards.length
+        promptState.slots[slot.id].isFull = promptState.slots[slot.id].cards.length >= slot.max
       }
 
       for (const type of slot.allowedTypes) {
