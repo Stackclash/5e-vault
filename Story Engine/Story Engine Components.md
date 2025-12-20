@@ -520,13 +520,12 @@ function PromptBuilder() {
   const promptState = dc.useMemo(() => {
     const promptState = {
       types: {
-        allowed: []
       },
       slots: {}
     }
 
     for (const slot of promptType.slots) {
-      if (!(slot.id in Object.keys(promptState.slots))) {
+      if (!Object.keys(promptState.slots).includes(slot.id)) {
         promptState.slots[slot.id] = {
           min: slot.min,
           max: slot.max,
@@ -539,10 +538,8 @@ function PromptBuilder() {
       }
 
       for (const type of slot.allowedTypes) {
-        if (type === 'anchor') console.log(slot.id, !(Object.keys(promptState.types).includes(type)), promptState.types[type])
-        if (!(type in Object.keys(promptState.types))) {
+        if (!Object.keys(promptState.types).includes(type)) {
           const typeDefinition = CARD_TYPES.find(t => t.type === type)
-          promptState.types.allowed.push(type)
           promptState.types[type] = {
             label: typeDefinition.label,
             path: typeDefinition.path,
