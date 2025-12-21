@@ -1,0 +1,17 @@
+services:
+  foundry:
+    image: felddy/foundryvtt:13
+    hostname: foundry.local
+    volumes:
+      - type: bind
+        source: D:\Containers\Foundry
+        target: /data
+    environment:
+      - FOUNDRY_PASSWORD=iamMyself5126
+      - FOUNDRY_USERNAME=cox.richard200@gmail.com
+      - FOUNDRY_ADMIN_KEY=iamMyself5126
+      - FOUNDRY_RELEASE_URL=https://r2.foundryvtt.com/releases/13.351/FoundryVTT-13.351-Setup.exe?verify=1766333793-yZu0yW2B6jjXub5P%2FDxlS0hWu7t5%2FcAj6w1Of45Kl7c%3D
+    ports:
+      - target: 30000
+        published: 30000
+        protocol: tcp
