@@ -556,6 +556,7 @@ function PromptBuilder() {
         promptState.types[type].max += (slot?.attachesTo?.length || 1) * slot.max
 
         for (const card of cards) {
+          // need to repeat this logic for card modifiers
           if (card.slot === slot.id) {
             if (!promptState.slots[slot.id].cards.find(c => c.value === card.value)) promptState.slots[slot.id].cards.push(card)
             promptState.slots[slot.id].isFull = promptState.slots[slot.id].cards.length >= slot.max
@@ -563,7 +564,19 @@ function PromptBuilder() {
 
           if (card.type === type) {
             if (!promptState.types[type].cards.find(c => c.value === card.value)) promptState.types[type].cards.push(card)
+          }
 
+          if (card.modifiers) {
+            for (const modifier of card.modifiers) {
+              if (modifier.slot === slot.id) {
+                if (!promptState.slots[slot.id].cards.find(c => c.value === modifier.value)) promptState.slots[slot.id].cards.push(modifier)
+                promptState.slots[slot.id].isFull = promptState.slots[slot.id].cards.length >= slot.max
+              }
+
+              if (modifier.type === type) {
+                if (!promptState.types[type].cards.find(c => c.value === modifier.value)) promptState.types[type].cards.push(modifier)
+              }
+            }
           }
         }
       }
