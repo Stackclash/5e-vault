@@ -564,6 +564,9 @@ function PromptBuilder() {
 
           if (card.type === type) {
             if (!promptState.types[type].cards.find(c => c.value === card.value)) promptState.types[type].cards.push(card)
+            if (!promptState.types[type].message) promptState.types[type].message = promptState.types[type].allowedSlots.map(s => {
+              
+            })
           }
 
           if (card.modifiers) {
