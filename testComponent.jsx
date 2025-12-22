@@ -59,7 +59,7 @@ function PromptBuilder() {
           allowedTypes: ['aspect'],
           attachesTo: ['character', 'desire'],
           min: 0,
-          max: Infinity
+          max: 1
         }
       ]
     },
@@ -115,7 +115,9 @@ function PromptBuilder() {
           id: 'aspect',
           label: 'Aspects',
           allowedTypes: ['aspect'],
-          attachesTo: ['character', 'desire']
+          attachesTo: ['character', 'desire'],
+          min: 0,
+          max: Infinity
         }
       ]
     },
@@ -197,14 +199,231 @@ function PromptBuilder() {
     return CARD_TYPES.filter(ct => allowedTypes.includes(ct.type))
   }, [promptType])
 
+  const evaluation = dc.useMemo(() => {
+    return evaluatePromptState({ cards, promptType })
+  }, [cards, promptType])
+
   const promptState = dc.useMemo(() => {
     const promptState = {
-      types: {},
+      types: {
+      },
       slots: {}
     }
 
-    for (const [key,value] in )
+    for (const slot of promptType.slots) {
+      let currentSlot = promptState.slots[slot.id]
+      if (!Object.keys(promptState.slots).includes(slot.id)) {
+        promptState.slots[slot.id] = {}
+        currentSlot = promptState.slots[slot.id]
+        currentSlot.min = slot.min
+        currentSlot.max = slot.max
+        currentSlot.label = slot.label
+        currentSlot.isFull = false
+        currentSlot.cards = []
+        if (slot.attachesTo) currentSlot.attachesTo = slot.attachesTo
+        // maybe put this logic in an enclosure
+        currentSlot.isFull = currentSlot.cards.length >= slot.max
+      }
+
+      for (const type of slot.allowedTypes) {
+        let currentType = promptState.types[type]
+        if (!Object.keys(promptState.types).includes(type)) {
+          promptState.types[type] = {}
+          currentType = promptState.types[type]
+          const typeDefinition = CARD_TYPES.find(t => t.type === type)
+          currentType.label = typeDefinition.label
+          currentType.path = typeDefinition.path
+          currentType.deck = typeDefinition.deck
+          currentType.min = 0
+          currentType.max = 0
+          currentType.cards = []
+          currentType.allowedSlots = []
+          currentType.isFull = false
+          if (slot.attachesTo) currentType.attachesTo = slot.attachesTo
+        }
+
+        currentType.allowedSlots.push(slot.id)
+        currentType.min += slot.min
+        currentType.max += (slot?.attachesTo?.length || 1) * slot.max
+
+        for (const card of cards) {
+          // need to repeat this logic for card modifiers
+          if (card.slot === slot.id) {
+            if (!currentSlot.cards.find(c => c.value === card.value)) currentSlot.cards.push(card)
+            currentSlot.isFull = currentSlot.cards.length >= currentSlot.max
+          }
+
+          if (card.type === type) {
+            if (!currentType.cards.find(c => c.value === card.value)) currentType.cards.push(card)
+            currentType.isFull = currentType.cards.length >= currentType.max
+          }
+
+          if (card.modifiers) {
+            for (const modifier of card.modifiers) {
+              if (modifier.slot === slot.id) {
+                if (!currentSlot.cards.find(c => c.value === modifier.value)) currentSlot.cards.push(modifier)
+                currentSlot.isFull = currentSlot.cards.length >= slot.max
+              }
+
+              if (modifier.type === type) {
+                if (!currentType.cards.find(c => c.value === modifier.value)) currentType.cards.push(modifier)
+              }
+            }
+          }
+        }
+
+        let messageObject = { message: '', severity: '' }
+        messageObject.severity = currentType.cards.length >= currentType.max ? 'error' : 'warning'
+        let message = currentType.allowedSlots.map(s => {
+          const promptTypeSlot = promptType.slots.find(slot => slot.id === s)
+          const promptStateSlot = promptState.slots[s]
+
+          if (promptStateSlot?.isFull || promptTypeSlot.min === 0) return null
+          return `${promptStateSlot.label} needs ${promptTypeSlot.min}`
+        }).filter(Boolean)
+
+        if (message.length) {
+          messageObject.message = `${type} still required in: ${message.join(', ')}`
+        } else if (messageObject.severity === 'error') {
+          messageObject.message = `All slots for ${type} are full.`
+        } else {
+          messageObject = null
+        }
+        currentType.message = messageObject
+      }
+    }
+
+    return promptState
   }, [cards, promptType])
+
+  function evaluatePromptState({ cards, promptType }) {
+    const slotStates = {}
+    const errors = []
+    const warnings = []
+
+    // Initialize tracking for each slot
+    for (const slot of promptType.slots) {
+      slotStates[slot.id] = []
+    }
+
+    // Assign cards to slots
+    for (const card of cards) {
+      if (!card.slot) continue
+      slotStates[card.slot].push(card)
+
+      if (card.modifiers && card.modifiers.length) {
+        for (const modifier of card.modifiers) {
+          slotStates[modifier.slot].push(modifier)
+        }
+      }
+    }
+
+    // Validate each slot (min/max enforcement)
+    for (const slot of promptType.slots) {
+      const assigned = slotStates[slot.id].length
+
+      if (assigned < slot.min) {
+        warnings.push({
+          slot: slot.id,
+          type: "min",
+          needed: slot.min,
+          have: assigned
+        })
+      }
+
+      if (assigned > slot.max) {
+        errors.push({
+          slot: slot.id,
+          type: "max",
+          limit: slot.max,
+          have: assigned
+        })
+      }
+    }
+
+    // Whether all constraints are satisfied
+    const meetsRequirements = errors.length === 0 && warnings.length === 0
+
+    const slotsForGenerator = {}
+    for (const key in slotStates) {
+      if (slotStates[key].length === 1) {
+        slotsForGenerator[key] = slotStates[key][0]
+      } else {
+        slotsForGenerator[key] = slotStates[key]
+      }
+    }
+
+    return {
+      slotStates,
+      slotsForGenerator,
+      meetsRequirements,
+      errors,
+      warnings
+    }
+  }
+
+  function getSlotAvailabilityForCardType(cardType) {
+    // Slots that accept the card type
+    const slotsForType = promptType.slots.filter(slot =>
+      slot.allowedTypes.includes(cardType)
+    )
+
+    // Evaluate per-slot availability
+    const availability = slotsForType.map(slot => {
+      const assigned = evaluation.slotStates[slot.id]?.length ?? 0
+      const max = Number.isFinite(slot.max) ? slot.max : Infinity
+      const min = slot.min ?? 0
+
+      return {
+        slot,        // slot object (id, label, min, max, allowedTypes, etc.)
+        slotId: slot.id,
+        label: slot.label,
+        assigned,
+        max,
+        min,
+        hasSpace: assigned < max
+      }
+    })
+
+    // High-level availability:
+    const anySlotHasSpace = availability.some(a => a.hasSpace)
+    const allSlotsFull = !anySlotHasSpace
+
+    // Build reusable message object
+    let message = null
+
+    if (allSlotsFull) {
+      const slotList = availability
+        .map(a => `${a.label} (max ${a.max === Infinity ? "∞" : a.max})`)
+        .join(", ")
+
+      message = {
+        severity: "error",
+        text: `All slots for ${cardType} are full: ${slotList}.`
+      }
+    } else {
+      // Check if any slot needs more entries (min not satisfied)
+      const needing = availability.filter(a => a.assigned < a.min)
+
+      if (needing.length > 0) {
+        const needsText = needing
+          .map(a => `${a.label} needs ${a.min - a.assigned}`)
+          .join(", ")
+
+        message = {
+          severity: "info",
+          text: `${cardType} still required in: ${needsText}`
+        }
+      }
+    }
+
+    return {
+      availability,
+      anySlotHasSpace,
+      allSlotsFull,
+      message
+    }
+  }
 
   dc.useEffect(() => {
     console.log("Cards updated:", cards)
@@ -408,7 +627,7 @@ function PromptBuilder() {
         })}
       </div>
 
-      {promptState.meetsRequirements && (
+      {evaluation.meetsRequirements && (
         <div style={{
           background: "var(--background-secondary)",
           padding: "12px",
@@ -587,4 +806,4 @@ function PromptBuilder() {
   )
 }
 
-export { PromptBuilder }
+return { PromptBuilder }
