@@ -552,6 +552,7 @@ function PromptBuilder() {
           currentType.max = 0
           currentType.cards = []
           currentType.allowedSlots = []
+          if (slot.attachesTo) currentType.attachesTo = slot.attachesTo
         }
 
         currentType.allowedSlots.push(slot.id)
