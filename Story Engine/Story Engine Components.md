@@ -525,16 +525,17 @@ function PromptBuilder() {
     }
 
     for (const slot of promptType.slots) {
+      let currentSlot = promptState.slots[slot.id]
       if (!Object.keys(promptState.slots).includes(slot.id)) {
-        promptState.slots[slot.id] = {
+        currentSlot = {
           min: slot.min,
           max: slot.max,
           label: slot.label,
           cards: []
         }
-        if (slot.attachesTo) promptState.slots[slot.id].attachesTo = slot.attachesTo
+        if (slot.attachesTo) currentSlot.attachesTo = slot.attachesTo
         // maybe put this logic in an enclosure
-        promptState.slots[slot.id].isFull = promptState.slots[slot.id].cards.length >= slot.max
+        currentSlot.isFull = currentSlot.cards.length >= slot.max
       }
 
       for (const type of slot.allowedTypes) {
@@ -558,8 +559,8 @@ function PromptBuilder() {
         for (const card of cards) {
           // need to repeat this logic for card modifiers
           if (card.slot === slot.id) {
-            if (!promptState.slots[slot.id].cards.find(c => c.value === card.value)) promptState.slots[slot.id].cards.push(card)
-            promptState.slots[slot.id].isFull = promptState.slots[slot.id].cards.length >= slot.max
+            if (!currentSlot.cards.find(c => c.value === card.value)) currentSlot.cards.push(card)
+            currentSlot.isFull = currentSlot.cards.length >= slot.max
           }
 
           if (card.type === type) {
@@ -572,8 +573,8 @@ function PromptBuilder() {
           if (card.modifiers) {
             for (const modifier of card.modifiers) {
               if (modifier.slot === slot.id) {
-                if (!promptState.slots[slot.id].cards.find(c => c.value === modifier.value)) promptState.slots[slot.id].cards.push(modifier)
-                promptState.slots[slot.id].isFull = promptState.slots[slot.id].cards.length >= slot.max
+                if (!currentSlot.cards.find(c => c.value === modifier.value)) currentSlot.cards.push(modifier)
+                currentSlot.isFull = currentSlot.cards.length >= slot.max
               }
 
               if (modifier.type === type) {
