@@ -553,9 +553,9 @@ function PromptBuilder() {
           currentType.allowedSlots = []
         }
 
-        promptState.types[type].allowedSlots.push(slot.id)
-        promptState.types[type].min += slot.min
-        promptState.types[type].max += (slot?.attachesTo?.length || 1) * slot.max
+        currentType.allowedSlots.push(slot.id)
+        currentType.min += slot.min
+        currentType.max += (slot?.attachesTo?.length || 1) * slot.max
 
         for (const card of cards) {
           // need to repeat this logic for card modifiers
@@ -565,10 +565,7 @@ function PromptBuilder() {
           }
 
           if (card.type === type) {
-            if (!promptState.types[type].cards.find(c => c.value === card.value)) promptState.types[type].cards.push(card)
-            if (!promptState.types[type].message) promptState.types[type].message = promptState.types[type].allowedSlots.map(s => {
-              
-            })
+            if (!currentType.cards.find(c => c.value === card.value)) currentType.cards.push(card)
           }
 
           if (card.modifiers) {
@@ -579,9 +576,19 @@ function PromptBuilder() {
               }
 
               if (modifier.type === type) {
-                if (!promptState.types[type].cards.find(c => c.value === modifier.value)) promptState.types[type].cards.push(modifier)
+                if (!currentType.cards.find(c => c.value === modifier.value)) currentType.cards.push(modifier)
               }
             }
+          }
+
+          let severity = currentType.cards.length >= currentType.max ? 'error' : 'warning'
+          let message = currentType.allowedSlots.map(s => {
+            const typeSlot = promptState[s]
+            return typeSlot.isFull ? `${typeSlot.label} needs ${typeSlot.min}` : ''
+          }).filter(Boolean)
+          currentType.message = {
+            message: message.length ? `${type} still required in: ${message.join(', ')}` : `All slots for ${type} are full.`,
+            severity
           }
         }
       }
