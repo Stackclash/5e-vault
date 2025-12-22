@@ -575,15 +575,9 @@ function PromptBuilder() {
             currentType.isFull = currentType.cards.length >= currentType.max
             currentType.availableSlots = currentType.availableSlots.filter(s => {
               const promptTypeSlot = promptType.slots.find(promptSlot => promptSlot.id === s)
-              const promptStateSlot = promptState[s]
-              console.log(promptTypeSlot, promptStateSlot, (promptStateSlot?.cards?.length || 0) >= (promptTypeSlot.max * (promptTypeSlot?.attachesTo?.length || 1)))
+              const promptStateSlot = promptState.slots[s]
 
-              // may need to take into account attachesTo
-              if ((promptStateSlot?.cards?.length || 0) >= (promptTypeSlot.max * (promptTypeSlot?.attachesTo?.length || 1))) {
-                return false
-              }
-
-              return true
+              return !((promptStateSlot?.cards?.length || 0) >= (promptTypeSlot.max * (promptTypeSlot?.attachesTo?.length || 1)))
             })
           }
 
