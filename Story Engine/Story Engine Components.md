@@ -529,9 +529,9 @@ function PromptBuilder() {
       if (!Object.keys(promptState.slots).includes(slot.id)) {
         promptState.slots[slot.id] = {}
         currentSlot = promptState.slots[slot.id]
-        currentSlot.min = slot.min,
-        currentSlot.max = slot.max,
-        currentSlot.label = slot.label,
+        currentSlot.min = slot.min
+        currentSlot.max = slot.max
+        currentSlot.label = slot.label
         currentSlot.cards = []
         if (slot.attachesTo) currentSlot.attachesTo = slot.attachesTo
         // maybe put this logic in an enclosure
@@ -539,17 +539,18 @@ function PromptBuilder() {
       }
 
       for (const type of slot.allowedTypes) {
+        let currentType = promptState.types[type]
         if (!Object.keys(promptState.types).includes(type)) {
+          promptState.types[type] = {}
+          currentType = promptState.types[type]
           const typeDefinition = CARD_TYPES.find(t => t.type === type)
-          promptState.types[type] = {
-            label: typeDefinition.label,
-            path: typeDefinition.path,
-            deck: typeDefinition.deck,
-            min: 0,
-            max: 0,
-            cards: [],
-            allowedSlots: []
-          }
+          currentType.label = typeDefinition.label
+          currentType.path = typeDefinition.path
+          currentType.deck = typeDefinition.deck
+          currentType.min = 0
+          currentType.max = 0
+          currentType.cards = []
+          currentType.allowedSlots = []
         }
 
         promptState.types[type].allowedSlots.push(slot.id)
