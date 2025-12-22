@@ -553,11 +553,13 @@ function PromptBuilder() {
           currentType.max = 0
           currentType.cards = []
           currentType.allowedSlots = []
+          currentType.availableSlots = []
           currentType.isFull = false
           if (slot.attachesTo) currentType.attachesTo = slot.attachesTo
         }
 
         currentType.allowedSlots.push(slot.id)
+        currentType.availableSlots.push(slot.id)
         currentType.min += slot.min
         currentType.max += (slot?.attachesTo?.length || 1) * slot.max
 
@@ -571,6 +573,18 @@ function PromptBuilder() {
           if (card.type === type) {
             if (!currentType.cards.find(c => c.value === card.value)) currentType.cards.push(card)
             currentType.isFull = currentType.cards.length >= currentType.max
+            currentType.availableSlots = currentType.availableSlots.filter(s => {
+              const promptTypeSlot = promptType.slots.find(promptSlot => promptSlot.id === s)
+              const promptStateSlot = promptState[s]
+              console.log(promptTypeSlot, promptStateSlot, (promptStateSlot?.cards?.length || 0) >= (promptTypeSlot.max * (promptTypeSlot?.attachesTo?.length || 1)))
+
+              // may need to take into account attachesTo
+              if ((promptStateSlot?.cards?.length || 0) >= (promptTypeSlot.max * (promptTypeSlot?.attachesTo?.length || 1))) {
+                return false
+              }
+
+              return true
+            })
           }
 
           if (card.modifiers) {
@@ -590,7 +604,7 @@ function PromptBuilder() {
         let messageObject = { message: '', severity: '' }
         messageObject.severity = currentType.cards.length >= currentType.max ? 'error' : 'warning'
         let message = currentType.allowedSlots.map(s => {
-          const promptTypeSlot = promptType.slots.find(slot => slot.id === s)
+          const promptTypeSlot = promptType.slots.find(promptSlot => promptSlot.id === s)
           const promptStateSlot = promptState.slots[s]
 
           if (promptStateSlot?.isFull || promptTypeSlot.min === 0) return null
