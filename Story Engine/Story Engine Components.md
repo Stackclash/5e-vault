@@ -583,21 +583,27 @@ function PromptBuilder() {
           }
         }
 
-        let severity = currentType.cards.length >= currentType.max ? 'error' : 'warning'
+        let messageObject = { message: '', severity: '' }
+        messageObject.severity = currentType.cards.length >= currentType.max ? 'error' : 'warning'
         let message = currentType.allowedSlots.map(s => {
           const promptTypeSlot = promptType.slots.find(slot => slot.id === s)
           const promptStateSlot = promptState.slots[s]
 
-          if (type === 'aspect') {
-            console.log(promptStateSlot, promptTypeSlot, promptStateSlot?.isFull ? null : `${promptStateSlot.label} needs ${promptTypeSlot.min}`)
-          }
+          // if (type === 'aspect') {
+          //   console.log(promptStateSlot, promptTypeSlot, promptStateSlot?.isFull ? null : `${promptStateSlot.label} needs ${promptTypeSlot.min}`)
+          // }
           if (promptStateSlot?.isFull || promptTypeSlot.min === 0) return null
           return `${promptStateSlot.label} needs ${promptTypeSlot.min}`
         }).filter(Boolean)
-        currentType.message = {
-          message: message.length ? `${type} still required in: ${message.join(', ')}` : `All slots for ${type} are full.`,
-          severity
+
+        if (message.length) {
+          messageObject.message = `${type} still required in: ${message.join(', ')}`
+        } else if (messageObject.severity === 'error') {
+          messageObject.message = `All slots for ${type} are full.`
+        } else {
+          messageObject = null
         }
+        currentType.message = messageObject
       }
     }
 
