@@ -584,13 +584,13 @@ function PromptBuilder() {
 
         let severity = currentType.cards.length >= currentType.max ? 'error' : 'warning'
         let message = currentType.allowedSlots.map(s => {
-          const typeSlot = promptState[s]
+          const promptTypeSlot = promptType.slots.find(slot => slot.id === s)
+          const promptStateSlot = promptState.slots[s]
 
-          if (typeSlot) {
-            return typeSlot?.isFull ? '' : `${typeSlot.label} needs ${typeSlot.min}`
-          } else {
-            return ''
+          if (type === 'anchor') {
+            console.log(promptStateSlot, promptTypeSlot, promptStateSlot?.isFull ? null : `${promptStateSlot.label} needs ${promptTypeSlot.min}`)
           }
+          return promptStateSlot?.isFull ? null : `${promptStateSlot.label} needs ${promptTypeSlot.min}`
         }).filter(Boolean)
         currentType.message = {
           message: message.length ? `${type} still required in: ${message.join(', ')}` : `All slots for ${type} are full.`,
