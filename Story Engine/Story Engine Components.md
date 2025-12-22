@@ -527,12 +527,12 @@ function PromptBuilder() {
     for (const slot of promptType.slots) {
       let currentSlot = promptState.slots[slot.id]
       if (!Object.keys(promptState.slots).includes(slot.id)) {
-        currentSlot = {
-          min: slot.min,
-          max: slot.max,
-          label: slot.label,
-          cards: []
-        }
+        promptState.slots[slot.id] = {}
+        currentSlot = promptState.slots[slot.id]
+        currentSlot.min = slot.min,
+        currentSlot.max = slot.max,
+        currentSlot.label = slot.label,
+        currentSlot.cards = []
         if (slot.attachesTo) currentSlot.attachesTo = slot.attachesTo
         // maybe put this logic in an enclosure
         currentSlot.isFull = currentSlot.cards.length >= slot.max
