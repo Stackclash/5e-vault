@@ -207,7 +207,8 @@ function PromptBuilder() {
     const promptState = {
       types: {
       },
-      slots: {}
+      slots: {},
+      meetsRequirements: true
     }
 
     for (const slot of promptType.slots) {
@@ -291,6 +292,8 @@ function PromptBuilder() {
         }
         currentType.message = messageObject
       }
+
+      promptState.meetsRequirements = promptState.meetsRequirements ? currentSlot.cards.length >= currentSlot.min : false
     }
 
     return promptState
