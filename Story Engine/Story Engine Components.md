@@ -580,16 +580,21 @@ function PromptBuilder() {
               }
             }
           }
+        }
 
-          let severity = currentType.cards.length >= currentType.max ? 'error' : 'warning'
-          let message = currentType.allowedSlots.map(s => {
-            const typeSlot = promptState[s]
-            return typeSlot.isFull ? `${typeSlot.label} needs ${typeSlot.min}` : ''
-          }).filter(Boolean)
-          currentType.message = {
-            message: message.length ? `${type} still required in: ${message.join(', ')}` : `All slots for ${type} are full.`,
-            severity
+        let severity = currentType.cards.length >= currentType.max ? 'error' : 'warning'
+        let message = currentType.allowedSlots.map(s => {
+          const typeSlot = promptState[s]
+
+          if (typeSlot) {
+            return typeSlot?.isFull ? '' : `${typeSlot.label} needs ${typeSlot.min}`
+          } else {
+            return ''
           }
+        }).filter(Boolean)
+        currentType.message = {
+          message: message.length ? `${type} still required in: ${message.join(', ')}` : `All slots for ${type} are full.`,
+          severity
         }
       }
     }
