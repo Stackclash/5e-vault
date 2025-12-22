@@ -532,6 +532,7 @@ function PromptBuilder() {
         currentSlot.min = slot.min
         currentSlot.max = slot.max
         currentSlot.label = slot.label
+        currentSlot.isFull = false
         currentSlot.cards = []
         if (slot.attachesTo) currentSlot.attachesTo = slot.attachesTo
         // maybe put this logic in an enclosure
@@ -587,10 +588,11 @@ function PromptBuilder() {
           const promptTypeSlot = promptType.slots.find(slot => slot.id === s)
           const promptStateSlot = promptState.slots[s]
 
-          if (type === 'anchor') {
+          if (type === 'aspect') {
             console.log(promptStateSlot, promptTypeSlot, promptStateSlot?.isFull ? null : `${promptStateSlot.label} needs ${promptTypeSlot.min}`)
           }
-          return promptStateSlot?.isFull ? null : `${promptStateSlot.label} needs ${promptTypeSlot.min}`
+          if (promptStateSlot?.isFull || promptTypeSlot.min === 0) return null
+          return `${promptStateSlot.label} needs ${promptTypeSlot.min}`
         }).filter(Boolean)
         currentType.message = {
           message: message.length ? `${type} still required in: ${message.join(', ')}` : `All slots for ${type} are full.`,
