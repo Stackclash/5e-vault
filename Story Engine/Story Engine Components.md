@@ -552,6 +552,7 @@ function PromptBuilder() {
           currentType.max = 0
           currentType.cards = []
           currentType.allowedSlots = []
+          currentType.isFull = false
           if (slot.attachesTo) currentType.attachesTo = slot.attachesTo
         }
 
@@ -563,11 +564,12 @@ function PromptBuilder() {
           // need to repeat this logic for card modifiers
           if (card.slot === slot.id) {
             if (!currentSlot.cards.find(c => c.value === card.value)) currentSlot.cards.push(card)
-            currentSlot.isFull = currentSlot.cards.length >= slot.max
+            currentSlot.isFull = currentSlot.cards.length >= currentSlot.max
           }
 
           if (card.type === type) {
             if (!currentType.cards.find(c => c.value === card.value)) currentType.cards.push(card)
+            currentType.isFull = currentType.cards.length >= currentType.max
           }
 
           if (card.modifiers) {
@@ -590,9 +592,6 @@ function PromptBuilder() {
           const promptTypeSlot = promptType.slots.find(slot => slot.id === s)
           const promptStateSlot = promptState.slots[s]
 
-          // if (type === 'aspect') {
-          //   console.log(promptStateSlot, promptTypeSlot, promptStateSlot?.isFull ? null : `${promptStateSlot.label} needs ${promptTypeSlot.min}`)
-          // }
           if (promptStateSlot?.isFull || promptTypeSlot.min === 0) return null
           return `${promptStateSlot.label} needs ${promptTypeSlot.min}`
         }).filter(Boolean)
@@ -608,7 +607,7 @@ function PromptBuilder() {
       }
     }
 
-    console.log(promptState)
+    return promptState
   }, [cards, promptType])
 
   function evaluatePromptState({ cards, promptType }) {
