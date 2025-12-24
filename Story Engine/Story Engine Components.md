@@ -1,5 +1,234 @@
-# CardCategory
+# CardTypes
+```jsx
+const path = require('path')
+const ROOT_DIR = 'Story Engine'
+return [
+  { type: 'agent', label: 'Agent', path: path.posix.join(ROOT_DIR, 'Story Engine/Agents.md'), deck: 'Story Engine' },
+  { type: 'anchor', label: 'Anchor', path: path.posix.join(ROOT_DIR, 'Story Engine/Anchors.md'), deck: 'Story Engine' },
+  { type: 'aspect', label: 'Aspect', path: path.posix.join(ROOT_DIR, 'Story Engine/Aspects.md'), deck: 'Story Engine' },
+  { type: 'conflict', label: 'Conflict', path: path.posix.join(ROOT_DIR, 'Story Engine/Conflicts.md'), deck: 'Story Engine' },
+  { type: 'engine', label: 'Engine', path: path.posix.join(ROOT_DIR, 'Story Engine/Engines.md'), deck: 'Story Engine' }
+]
+```
 
+# PromptTypes
+```jsx
+return [
+  {
+    label: 'Simple Story Seed',
+    description: 'The classic 5-part Story Engine seed.',
+    generator: slots => {
+      const withModifiers = item =>
+        item?.modifiers?.length
+          ? `${item.value} (${item.modifiers.join(', ')})`
+          : item?.value
+      const slot = id => slots[id]?.values?.[0]
+      
+      const character = slot('character')
+      const motivation = slot('motivation')
+      const desire = slot('desire')
+      const conflict = slot('conflict')
+
+      return `
+        A story about ${withModifiers(character)}
+        ${motivation?.value}
+        ${withModifiers(desire)},
+        ${conflict?.value}.
+      `
+    },
+    slots: [
+      {
+        id: 'character',
+        label: 'Character',
+        allowedTypes: ['agent'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'motivation',
+        label: 'Motivation',
+        allowedTypes: ['engine'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'desire',
+        label: 'Desire',
+        allowedTypes: ['anchor'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'conflict',
+        label: 'Conflict',
+        allowedTypes: ['conflict'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'aspect',
+        label: 'Aspect',
+        allowedTypes: ['aspect'],
+        attachesTo: ['character', 'desire'],
+        min: 0,
+        max: 1
+      }
+    ]
+  },
+  {
+    label: 'Simple Character Concept',
+    description: 'Create an idea for a complex character and a starting point for their character arc',
+    generator: slots => {
+      const withModifiers = item =>
+        item?.modifiers?.length
+          ? `${item.value} (${item.modifiers.join(', ')})`
+          : item?.value
+
+      const slot = id => slots[id]?.values?.[0]
+
+      const character = slot('character')
+      const motivation = slot('motivation')
+      const desire = slot('desire')
+      const obstacle = slot('obstacle')
+      const possessionLocation = slot('possessionLocation')
+      const aspect = slots.aspect?.values || []
+
+      const characterAspects = aspect
+        .filter(a => a.attachesTo === 'character')
+        .map(a => a.value)
+
+      const desireAspects = aspect
+        .filter(a => a.attachesTo === 'desire')
+        .map(a => a.value)
+
+      return `
+        ${withModifiers(character)}
+        ${characterAspects.length ? `— ${characterAspects.join(', ')}` : ''}
+
+        ${motivation.value} ${withModifiers(desire)}${desireAspects.length ? ` — ${desireAspects.join(', ')}` : ''} ${possessionLocation ? `which is tied to ${possessionLocation.value}.` : ''},
+        
+        ${obstacle.value}.
+      `.trim()
+    },
+    slots: [
+      {
+        id: 'character',
+        label: 'Character',
+        allowedTypes: ['agent'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'motivation',
+        label: 'Motivation',
+        allowedTypes: ['engine'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'desire',
+        label: 'Desire',
+        allowedTypes: ['anchor', 'agent'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'obstacle',
+        label: 'Obstacle',
+        allowedTypes: ['conflict'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'possessionLocation',
+        label: 'Possession/Location',
+        allowedTypes: ['anchor'],
+        attachesTo: ['character', 'desire'],
+        min: 0,
+        max: 1
+      },
+      {
+        id: 'aspect',
+        label: 'Aspects',
+        allowedTypes: ['aspect'],
+        attachesTo: ['character', 'desire'],
+        min: 0,
+        max: Infinity
+      }
+    ]
+  },
+  {
+    label: 'Simple Item/Setting-Driven Story',
+    description: 'Create an idea for an interesting prop and setting that will be the heart of a story',
+    generator: (slots) => {
+      const {object, setting, effect, affected, owner, obstacle, aspect} = slots
+      return `
+        A ${object.value}
+        ${object.modifiers?.length ? ` (${object.modifiers.map(m => m.value).join(', ')})` : ''} 
+        in ${setting.value} owned by ${owner.value}
+        ${owner.modifiers?.length ? ` (${owner.modifiers.map(m => m.value).join(', ')})` : ''} 
+        ${effect.value} ${affected.value}${affected.modifiers?.length ? ` (${affected.modifiers.map(m => m.value).join(', ')})` : ''} 
+        ${obstacle.value}.
+      `
+    },
+    slots: [
+      {
+        id: 'object',
+        label: 'Object',
+        allowedTypes: ['anchor'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'setting',
+        label: 'Setting',
+        allowedTypes: ['anchor'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'effect',
+        label: 'Effect',
+        allowedTypes: ['engine'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'affected',
+        label: 'Affected',
+        allowedTypes: ['anchor', 'agent'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'owner',
+        label: 'Owner',
+        allowedTypes: ['agent'],
+        attachesTo: ['object'],
+        min: 1,
+        max: 1
+      },
+      {
+        id: 'obstacle',
+        label: 'Obstacle/Consequence',
+        allowedTypes: ['conflict'],
+        min: 0,
+        max: 1
+      },
+      {
+        id: 'aspect',
+        label: 'Aspect',
+        allowedTypes: ['aspect'],
+        attachesTo: ['object', 'owner', 'affected'],
+        min: 0,
+        max: Infinity
+      }
+    ]
+  }
+]
+```
+
+# CardCategory
 ```jsx
 const dv = app.plugins.getPlugin("dataview").api
 
@@ -12,7 +241,6 @@ function parseObsidianTables(file, md) {
   while ((match = tableRegex.exec(md)) !== null) {
     const table = match[1].trim()
     const blockID = match[2].trim()
-    if (md.includes('# Anchors')) console.log(table, blockID)
 
     const lines = table.split("\n").map(l => l.trim())
     const headers = lines[0].split("|").map(c => c.trim()).filter(Boolean)
@@ -312,449 +540,216 @@ return { CardCategory }
 
 # PromptBuilder
 ```jsx
-const path = require('path')
 const { CardCategory } = await dc.require(dc.headerLink("Story Engine/Story Engine Components.md", "CardCategory"))
+const CARD_TYPES = await dc.require(dc.headerLink("Story Engine/Story Engine Components.md", "CardTypes"))
+const PROMPT_TYPES = await dc.require(dc.headerLink("Story Engine/Story Engine Components.md", "PromptTypes"))
 
 function PromptBuilder() {
-  const ROOT_DIR = 'Story Engine'
-	const CARD_TYPES = [
-    { type: 'agent', label: 'Agent', path: path.posix.join(ROOT_DIR, 'Story Engine/Agents.md'), deck: 'Story Engine' },
-    { type: 'anchor', label: 'Anchor', path: path.posix.join(ROOT_DIR, 'Story Engine/Anchors.md'), deck: 'Story Engine' },
-    { type: 'aspect', label: 'Aspect', path: path.posix.join(ROOT_DIR, 'Story Engine/Aspects.md'), deck: 'Story Engine' },
-    { type: 'conflict', label: 'Conflict', path: path.posix.join(ROOT_DIR, 'Story Engine/Conflicts.md'), deck: 'Story Engine' },
-    { type: 'engine', label: 'Engine', path: path.posix.join(ROOT_DIR, 'Story Engine/Engines.md'), deck: 'Story Engine' }
-  ]
-  const PROMPT_TYPES = [
-    {
-      label: 'Simple Story Seed',
-      description: 'The classic 5-part Story Engine seed.',
-      generator: (slots) => {
-        const {character, motivation, desire, conflict, aspect} = slots
-        return `
-          A story about ${character.value}
-          ${character.modifiers?.length ? ` (${character.modifiers.map(a => a.value).join(", ")})` : ''} 
-          ${motivation.value} 
-          ${desire.value}${desire.modifiers?.length ? ` (${desire.modifiers.map(a => a.value).join(", ")})` : ''}, 
-          ${conflict.value}.
-        `
-      },
-      slots: [
-        {
-          id: 'character',
-          label: 'Character',
-          allowedTypes: ['agent'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'motivation',
-          label: 'Motivation',
-          allowedTypes: ['engine'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'desire',
-          label: 'Desire',
-          allowedTypes: ['anchor'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'conflict',
-          label: 'Conflict',
-          allowedTypes: ['conflict'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'aspect',
-          label: 'Aspect',
-          allowedTypes: ['aspect'],
-          attachesTo: ['character', 'desire'],
-          min: 0,
-          max: 1
-        }
-      ]
-    },
-    {
-      label: 'Simple Character Concept',
-      description: 'Create an idea for a complex character and a starting point for their character arc',
-      generator: () => {},
-      slots: [
-        {
-          id: 'character',
-          label: 'Character',
-          allowedTypes: ['anchor'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'motivation',
-          label: 'Motivation',
-          allowedTypes: ['engine'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'desire',
-          label: 'Desire',
-          allowedTypes: ['anchor', 'agent'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'obstacle',
-          label: 'Obstacle',
-          allowedTypes: ['conflict'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'motivation',
-          label: 'Motivation',
-          allowedTypes: ['engine'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'possession-location',
-          label: 'Possession/Location',
-          allowedTypes: ['anchor'],
-          attachesTo: ['character', 'desire'],
-          min: 0,
-          max: Infinity
-        },
-        {
-          id: 'aspect',
-          label: 'Aspects',
-          allowedTypes: ['aspect'],
-          attachesTo: ['character', 'desire'],
-          min: 0,
-          max: Infinity
-        }
-      ]
-    },
-    {
-      label: 'Simple Item/Setting-Driven Story',
-      description: 'Create an idea for an interesting prop and setting that will be the heart of a story',
-      generator: (slots) => {
-        const {object, setting, effect, affected, owner, obstacle, aspect} = slots
-        return `
-          A ${object.value}
-          ${object.modifiers?.length ? ` (${object.modifiers.map(m => m.value).join(', ')})` : ''} 
-          in ${setting.value} owned by ${owner.value}
-          ${owner.modifiers?.length ? ` (${owner.modifiers.map(m => m.value).join(', ')})` : ''} 
-          ${effect.value} ${affected.value}${affected.modifiers?.length ? ` (${affected.modifiers.map(m => m.value).join(', ')})` : ''} 
-          ${obstacle.value}.
-        `
-      },
-      slots: [
-        {
-          id: 'object',
-          label: 'Object',
-          allowedTypes: ['anchor'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'setting',
-          label: 'Setting',
-          allowedTypes: ['anchor'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'effect',
-          label: 'Effect',
-          allowedTypes: ['engine'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'affected',
-          label: 'Affected',
-          allowedTypes: ['anchor', 'agent'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'owner',
-          label: 'Owner',
-          allowedTypes: ['agent'],
-          attachesTo: ['object'],
-          min: 1,
-          max: 1
-        },
-        {
-          id: 'obstacle',
-          label: 'Obstacle/Consequence',
-          allowedTypes: ['conflict'],
-          min: 0,
-          max: 1
-        },
-        {
-          id: 'aspect',
-          label: 'Aspect',
-          allowedTypes: ['aspect'],
-          attachesTo: ['object', 'owner', 'affected'],
-          min: 0,
-          max: Infinity
-        }
-      ]
-    }
-  ]
   const [cards, setCards] = dc.useState([])
   const [promptType, setPromptType] = dc.useState(PROMPT_TYPES[0])
   const [pendingCard, setPendingCard] = dc.useState(null)
 
-  const allowedTypes = dc.useMemo(() => {
-    const allowedTypes = [...new Set(promptType.slots.flatMap(s => s.allowedTypes))]
-    return CARD_TYPES.filter(ct => allowedTypes.includes(ct.type))
-  }, [promptType])
-
-  const evaluation = dc.useMemo(() => {
-    return evaluatePromptState({ cards, promptType })
-  }, [cards, promptType])
-
   const promptState = dc.useMemo(() => {
-    const promptState = {
-      types: {
-      },
+    const state = {
+      types: {},
       slots: {},
       meetsRequirements: true
     }
 
-    for (const slot of promptType.slots) {
-      let currentSlot = promptState.slots[slot.id]
-      if (!Object.keys(promptState.slots).includes(slot.id)) {
-        promptState.slots[slot.id] = {}
-        currentSlot = promptState.slots[slot.id]
-        currentSlot.min = slot.min
-        currentSlot.max = slot.max
-        currentSlot.label = slot.label
-        currentSlot.isFull = false
-        currentSlot.cards = []
-        if (slot.attachesTo) currentSlot.attachesTo = slot.attachesTo
-        // maybe put this logic in an enclosure
-        currentSlot.isFull = currentSlot.cards.length >= slot.max
+    const getSlotCapacity = slot =>
+      slot.max * (slot.attachesTo?.length || 1)
+
+    const ensureSlot = slot => {
+      if (state.slots[slot.id]) return state.slots[slot.id]
+
+      state.slots[slot.id] = {
+        id: slot.id,
+        label: slot.label,
+        min: slot.min,
+        max: slot.max,
+        attachesTo: slot.attachesTo,
+        cards: [],
+        isFull: false
       }
 
+      return state.slots[slot.id]
+    }
+
+    const ensureType = (type, slot) => {
+      if (state.types[type]) return state.types[type]
+
+      const def = CARD_TYPES.find(t => t.type === type)
+
+      state.types[type] = {
+        type,
+        label: def.label,
+        path: def.path,
+        deck: def.deck,
+        min: 0,
+        max: 0,
+        cards: [],
+        allowedSlots: [],
+        availableSlots: [],
+        allowedModifierSlots: [],
+        availableModifierSlots: [],
+        isFull: false,
+        message: null
+      }
+
+      return state.types[type]
+    }
+
+    const addUnique = (arr, item, key = 'value') => {
+      if (!arr.some(i => i[key] === item[key])) arr.push(item)
+    }
+
+    const updateSlotState = (slot, slotState) => {
+      slotState.isFull =
+        slotState.cards.length >= getSlotCapacity(slot)
+    }
+
+    const updateTypeState = typeState => {
+      typeState.isFull = typeState.cards.length >= typeState.max
+    }
+
+    const isModifierSlotAvailable = (modifieeSlotId, modifierSlotDef) => {
+      // Cards that expose this modifier slot
+      const targetCards = cards.filter(card =>
+        modifieeSlotId === card.slot
+      )
+
+      // If no targets exist, modifier slot is unavailable
+      if (!targetCards.length) return false
+
+      // Slot is available if ANY target card has remaining capacity
+      return targetCards.some(card => {
+        const used = (card.modifiers || []).filter(
+          m => m.slot === modifierSlotDef.id
+        ).length
+
+        return used < modifierSlotDef.max
+      })
+    }
+
+    // ---------- BUILD STATE ----------
+    for (const slot of promptType.slots) {
+      const slotState = ensureSlot(slot)
+
       for (const type of slot.allowedTypes) {
-        let currentType = promptState.types[type]
-        if (!Object.keys(promptState.types).includes(type)) {
-          promptState.types[type] = {}
-          currentType = promptState.types[type]
-          const typeDefinition = CARD_TYPES.find(t => t.type === type)
-          currentType.label = typeDefinition.label
-          currentType.path = typeDefinition.path
-          currentType.deck = typeDefinition.deck
-          currentType.min = 0
-          currentType.max = 0
-          currentType.cards = []
-          currentType.allowedSlots = []
-          currentType.availableSlots = []
-          currentType.isFull = false
-          if (slot.attachesTo) currentType.attachesTo = slot.attachesTo
+        const typeState = ensureType(type, slot)
+
+        // Slot ↔ Type relationships
+        typeState.allowedSlots.push(slot.id)
+
+        if (slot.attachesTo) {
+          typeState.allowedModifierSlots.push(...slot.attachesTo)
+        } else {
+          typeState.availableSlots.push(slot.id)
         }
 
-        currentType.allowedSlots.push(slot.id)
-        currentType.availableSlots.push(slot.id)
-        currentType.min += slot.min
-        currentType.max += (slot?.attachesTo?.length || 1) * slot.max
+        typeState.allowedModifierSlots = [...new Set(typeState.allowedModifierSlots)]
+        typeState.availableModifierSlots = [...new Set(typeState.allowedModifierSlots)]
 
+        // Aggregate constraints
+        typeState.min += slot.min
+        typeState.max += getSlotCapacity(slot)
+
+        // ---------- CARD COLLECTION ----------
         for (const card of cards) {
-          // need to repeat this logic for card modifiers
+          // Base card in slot
           if (card.slot === slot.id) {
-            if (!currentSlot.cards.find(c => c.value === card.value)) currentSlot.cards.push(card)
-            currentSlot.isFull = currentSlot.cards.length >= currentSlot.max
+            addUnique(slotState.cards, card)
           }
 
+          // Base card of type
           if (card.type === type) {
-            if (!currentType.cards.find(c => c.value === card.value)) currentType.cards.push(card)
-            currentType.isFull = currentType.cards.length >= currentType.max
-            currentType.availableSlots = currentType.availableSlots.filter(s => {
-              const promptTypeSlot = promptType.slots.find(promptSlot => promptSlot.id === s)
-              const promptStateSlot = promptState.slots[s]
-
-              return !((promptStateSlot?.cards?.length || 0) >= (promptTypeSlot.max * (promptTypeSlot?.attachesTo?.length || 1)))
-            })
+            addUnique(typeState.cards, card)
           }
 
+          // Modifiers
           if (card.modifiers) {
             for (const modifier of card.modifiers) {
               if (modifier.slot === slot.id) {
-                if (!currentSlot.cards.find(c => c.value === modifier.value)) currentSlot.cards.push(modifier)
-                currentSlot.isFull = currentSlot.cards.length >= slot.max
+                addUnique(slotState.cards, modifier)
               }
 
               if (modifier.type === type) {
-                if (!currentType.cards.find(c => c.value === modifier.value)) currentType.cards.push(modifier)
+                addUnique(typeState.cards, modifier)
               }
             }
           }
         }
 
-        let messageObject = { message: '', severity: '' }
-        messageObject.severity = currentType.cards.length >= currentType.max ? 'error' : 'warning'
-        let message = currentType.allowedSlots.map(s => {
-          const promptTypeSlot = promptType.slots.find(promptSlot => promptSlot.id === s)
-          const promptStateSlot = promptState.slots[s]
+        updateSlotState(slot, slotState)
+        updateTypeState(typeState)
 
-          if (promptStateSlot?.isFull || promptTypeSlot.min === 0) return null
-          return `${promptStateSlot.label} needs ${promptTypeSlot.min}`
-        }).filter(Boolean)
+        // ---------- AVAILABLE SLOT FILTERING ----------
+        typeState.availableSlots = typeState.availableSlots.filter(slotId => {
+          const slotDef = promptType.slots.find(s => s.id === slotId)
+          const slotData = state.slots[slotId]
+          return slotData.cards.length < getSlotCapacity(slotDef)
+        })
 
-        if (message.length) {
-          messageObject.message = `${type} still required in: ${message.join(', ')}`
-        } else if (messageObject.severity === 'error') {
-          messageObject.message = `All slots for ${type} are full.`
+        typeState.availableModifierSlots = typeState.allowedModifierSlots.filter(slotId => {
+          return isModifierSlotAvailable(slotId, slotState)
+        })
+
+        // ---------- MESSAGES ----------
+        const missing = typeState.allowedSlots
+          .map(slotId => {
+            const slotDef = promptType.slots.find(s => s.id === slotId)
+            const slotData = state.slots[slotId]
+
+            if (slotDef.min === 0 || slotData.isFull) return null
+            return `${slotData.label} needs ${slotDef.min}`
+          })
+          .filter(Boolean)
+
+        if (missing.length) {
+          typeState.message = {
+            severity: typeState.cards.length >= typeState.max ? 'error' : 'warning',
+            text: `${type} still required in: ${missing.join(', ')}`
+          }
+        } else if (typeState.isFull) {
+          typeState.message = {
+            severity: 'error',
+            text: `All slots for ${type} are full.`
+          }
         } else {
-          messageObject = null
+          typeState.message = null
         }
-        currentType.message = messageObject
       }
 
-      promptState.meetsRequirements = promptState.meetsRequirements ? currentSlot.cards.length >= currentSlot.min : false
+      // ---------- GLOBAL REQUIREMENTS ----------
+      state.meetsRequirements &&=
+        slotState.cards.length >= slotState.min
     }
+    console.log(state)
 
-    console.log(promptState)
-    return promptState
+    return state
   }, [cards, promptType])
-
-  function evaluatePromptState({ cards, promptType }) {
-    const slotStates = {}
-    const errors = []
-    const warnings = []
-
-    // Initialize tracking for each slot
-    for (const slot of promptType.slots) {
-      slotStates[slot.id] = []
-    }
-
-    // Assign cards to slots
-    for (const card of cards) {
-      if (!card.slot) continue
-      slotStates[card.slot].push(card)
-
-      if (card.modifiers && card.modifiers.length) {
-        for (const modifier of card.modifiers) {
-          slotStates[modifier.slot].push(modifier)
-        }
-      }
-    }
-
-    // Validate each slot (min/max enforcement)
-    for (const slot of promptType.slots) {
-      const assigned = slotStates[slot.id].length
-
-      if (assigned < slot.min) {
-        warnings.push({
-          slot: slot.id,
-          type: "min",
-          needed: slot.min,
-          have: assigned
-        })
-      }
-
-      if (assigned > slot.max) {
-        errors.push({
-          slot: slot.id,
-          type: "max",
-          limit: slot.max,
-          have: assigned
-        })
-      }
-    }
-
-    // Whether all constraints are satisfied
-    const meetsRequirements = errors.length === 0 && warnings.length === 0
-
-    const slotsForGenerator = {}
-    for (const key in slotStates) {
-      if (slotStates[key].length === 1) {
-        slotsForGenerator[key] = slotStates[key][0]
-      } else {
-        slotsForGenerator[key] = slotStates[key]
-      }
-    }
-
-    return {
-      slotStates,
-      slotsForGenerator,
-      meetsRequirements,
-      errors,
-      warnings
-    }
-  }
-
-  function getSlotAvailabilityForCardType(cardType) {
-    // Slots that accept the card type
-    const slotsForType = promptType.slots.filter(slot =>
-      slot.allowedTypes.includes(cardType)
-    )
-
-    // Evaluate per-slot availability
-    const availability = slotsForType.map(slot => {
-      const assigned = evaluation.slotStates[slot.id]?.length ?? 0
-      const max = Number.isFinite(slot.max) ? slot.max : Infinity
-      const min = slot.min ?? 0
-
-      return {
-        slot,        // slot object (id, label, min, max, allowedTypes, etc.)
-        slotId: slot.id,
-        label: slot.label,
-        assigned,
-        max,
-        min,
-        hasSpace: assigned < max
-      }
-    })
-
-    // High-level availability:
-    const anySlotHasSpace = availability.some(a => a.hasSpace)
-    const allSlotsFull = !anySlotHasSpace
-
-    // Build reusable message object
-    let message = null
-
-    if (allSlotsFull) {
-      const slotList = availability
-        .map(a => `${a.label} (max ${a.max === Infinity ? "∞" : a.max})`)
-        .join(", ")
-
-      message = {
-        severity: "error",
-        text: `All slots for ${cardType} are full: ${slotList}.`
-      }
-    } else {
-      // Check if any slot needs more entries (min not satisfied)
-      const needing = availability.filter(a => a.assigned < a.min)
-
-      if (needing.length > 0) {
-        const needsText = needing
-          .map(a => `${a.label} needs ${a.min - a.assigned}`)
-          .join(", ")
-
-        message = {
-          severity: "info",
-          text: `${cardType} still required in: ${needsText}`
-        }
-      }
-    }
-
-    return {
-      availability,
-      anySlotHasSpace,
-      allSlotsFull,
-      message
-    }
-  }
 
   dc.useEffect(() => {
     console.log("Cards updated:", cards)
-    console.log("Meets Requirements:", evaluation.meetsRequirements)
   }, [cards, promptType])
+
+  function resolveSlots(promptState) {
+    const resolved = {}
+
+    for (const [slotId, slotState] of Object.entries(promptState.slots)) {
+      if (!slotState.cards.length) continue
+
+      resolved[slotId] = {
+        label: slotState.label,
+        values: slotState.cards.map(card => ({
+          value: card.value,
+          modifiers: card.modifiers?.map(m => m.value) || []
+        }))
+      }
+    }
+
+    return resolved
+  }
 
   function resetPrompt() {
     setCards([])
@@ -953,7 +948,7 @@ function PromptBuilder() {
         })}
       </div>
 
-      {evaluation.meetsRequirements && (
+      {promptState.meetsRequirements && (
         <div style={{
           background: "var(--background-secondary)",
           padding: "12px",
@@ -962,18 +957,20 @@ function PromptBuilder() {
         }}>
           <h3>Generated Prompt</h3>
           <p>
-            {promptType.generator(evaluation.slotsForGenerator)}
+            {promptType.generator(resolveSlots(promptState))}
           </p>
         </div>
       )}
 
       {pendingCard && (() => {
-        const slotInfo = getSlotAvailabilityForCardType(
-          pendingCard.card.type
-        )
+        const typeInfo = promptState.types[pendingCard.card.type]
 
-        const placeableSlots = slotInfo.availability.filter(a => !a.slot.attachesTo)
-        const modifierSlots = slotInfo.availability.filter(a => a.slot.attachesTo)
+        const placeableSlots = typeInfo.availableSlots
+        const modifierSlots = typeInfo.allowedModifierSlots || []
+        const completeSlotList = typeInfo.allowedSlots
+        console.log('placeableSlots', placeableSlots)
+        console.log('modifierSlots', modifierSlots)
+        console.log('completeSlotList', completeSlotList)
 
         return (
           <div
@@ -999,7 +996,7 @@ function PromptBuilder() {
                 }}
               >
                 <div style={{ fontSize: "0.8em", opacity: 0.7 }}>
-                  {getCardType(pendingCard.card).label}
+                  {promptState.types[pendingCard.card.type].label}
                 </div>
                 <strong>{pendingCard.card.value}</strong>
               </div>
@@ -1019,25 +1016,28 @@ function PromptBuilder() {
                       gap: "6px"
                     }}
                   >
-                    {placeableSlots.map(a => (
-                      <button
-                        key={a.slotId}
-                        disabled={!a.hasSpace}
-                        onClick={() => placeCardInSlot(pendingCard.card, a.slotId)}
-                        style={{
-                          padding: "6px 8px",
-                          border: "1px solid var(--background-modifier-border)",
-                          borderRadius: "6px",
-                          textAlign: "left",
-                          opacity: a.hasSpace ? 1 : 0.5
-                        }}
-                      >
-                        <strong>{a.label}</strong>  
-                        <div style={{ fontSize: "0.75em", opacity: 0.7 }}>
-                          ({a.assigned}/{a.max === Infinity ? "∞" : a.max})
-                        </div>
-                      </button>
-                    ))}
+                    {placeableSlots.length > 0 && placeableSlots.map(a => {
+                      const placeableSlotInfo = promptState.slots[a]
+                      return (
+                        <button
+                          key={a}
+                          disabled={placeableSlotInfo.isFull}
+                          onClick={() => placeCardInSlot(pendingCard.card, a)}
+                          style={{
+                            padding: "6px 8px",
+                            border: "1px solid var(--background-modifier-border)",
+                            borderRadius: "6px",
+                            textAlign: "left",
+                            opacity: placeableSlotInfo.isFull ? 0.5 : 1
+                          }}
+                        >
+                          <strong>{placeableSlotInfo.label}</strong>  
+                          <div style={{ fontSize: "0.75em", opacity: 0.7 }}>
+                            ({placeableSlotInfo.cards.length}/{placeableSlotInfo.max === Infinity ? "∞" : placeableSlotInfo.max})
+                          </div>
+                        </button>
+                      )
+                    })}
 
                     {placeableSlots.length === 0 && (
                       <div style={{ fontSize: "0.85em", opacity: 0.6 }}>
@@ -1060,33 +1060,35 @@ function PromptBuilder() {
                       gap: "6px"
                     }}
                   >
-                    {modifierSlots.flatMap(a =>
-                      a.slot.attachesTo.flatMap(attSlot => {
-                        const parentCards = cards.filter(c => c.slot === attSlot)
-                        if (parentCards.length === 0) return []
+                    {modifierSlots.length > 0 && completeSlotList.filter(s=> promptState.slots[s].attachesTo).flatMap(a => {
+                      const modifierSlotInfo = promptState.slots[a]
 
-                        return parentCards.map(parentCard => {
+                      return modifierSlotInfo.attachesTo.map(b => {
+                        const modifieeSlotInfo = promptState.slots[b]
+                        const disabled = !typeInfo.availableModifierSlots.includes(b)
+
+                        return modifieeSlotInfo.cards.map(parentCard => {
                           const globalIndex = cards.indexOf(parentCard)
-
                           return (
                             <button
-                              key={`${a.slotId}-${globalIndex}`}
-                              disabled={!a.hasSpace}
-                              onClick={() => addModifier(pendingCard.card, globalIndex, a.slotId)}
+                              key={`${a}-${globalIndex}`}
+                              disabled={disabled}
+                              onClick={() => addModifier(pendingCard.card, globalIndex, a)}
                               style={{
                                 padding: "6px 8px",
                                 border: "1px solid var(--background-modifier-border)",
                                 borderRadius: "6px",
                                 textAlign: "left",
-                                opacity: a.hasSpace ? 1 : 0.5
+                                opacity: disabled ? 0.5 : 1
                               }}
                             >
-                              <strong>{a.label}</strong> → {parentCard.value}
+                              <strong>{modifierSlotInfo.label}</strong> → {parentCard.value}
                             </button>
                           )
                         })
                       })
-                    )}
+
+                    })}
 
                     {modifierSlots.length === 0 && (
                       <div style={{ fontSize: "0.85em", opacity: 0.6 }}>
@@ -1111,9 +1113,7 @@ function PromptBuilder() {
         gridTemplateColumns: "repeat(3, 1fr)",
         gap: "16px"
       }}>
-        {allowedTypes.map(t => {
-          const result = getSlotAvailabilityForCardType(t.type)
-
+        {Object.values(promptState.types).map(t => {
           return (
             <CardCategory
               key={t.type}
@@ -1122,8 +1122,8 @@ function PromptBuilder() {
               type={t.type}
               label={t.label}
               onSelect={addCard}
-              disabled={!result.anySlotHasSpace}
-              message={result.message}
+              disabled={t.isFull}
+              message={t.message}
             />
           )
         })}

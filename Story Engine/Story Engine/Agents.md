@@ -56,3 +56,51 @@ Characters who make choices in the story
 | a Guard      | a Paladin       | a Sorcerer        | a Mimic     |
 | a Warrior    | a Cleric        | an Atlanta        | a Sellsword |
 ^fantasy
+
+| Side #1           | Side #2            | Side #3         | Side #4         |
+| ----------------- | ------------------ | --------------- | --------------- |
+| a detective       | a debunker         | a historian     | a ghost hunter  |
+| a priest          | a vampire          | an exorcist     | a taxidermist   |
+| a cannibal        | a butcher          | a millionaire   | a surgeon       |
+| a betrothed       | a spirit           | a clone         | a banshee       |
+| a child           | a murderer         | a camp leader   | a hillbilly     |
+| a gravedigger     | a zombie           | a mortician     | a groundskeeper |
+| a cult leader     | a revenant         | a plague victim | a poltergeist   |
+| a medium          | a possessed person | a hoaxer        | an innocent     |
+| a fanatic         | an escapee         | a contortionist | a werewolf      |
+| a serial killer   | a sadist           | an assailant    | a worshipper    |
+| a clown           | a carnival worker  | a bogeyman      | a slasher       |
+| a first responder | a lab assistant    | an arsonist     | a patient zero  |
+^horror
+
+| Side #1               | Side #2              | Side #3          | Side #4                    |
+| --------------------- | -------------------- | ---------------- | -------------------------- |
+| an extra-terrestrial  | a sentient           | an invader       | a telepath                 |
+| a hacker              | a blackmailer        | a heist leader   | a revolutionary            |
+| a navigator           | a technician         | a data scientist | an astrophysicist          |
+| an escaped experiment | a pyrokinetic        | a gene splicer   | a bomb-maker               |
+| a graffiti artist     | a D.J.               | a clubber        | a bartender                |
+| a colonist            | a weapons specialist | a chemist        | a cadet                    |
+| a robot               | a bodyguard          | a supercomputer  | an artificial intelligence |
+| a salvager            | an asteroid miner    | an arms dealer   | an engineer                |
+| a streamer            | a gamer              | an influencer    | a performance artist       |
+| a prisoner            | a programmer         | a telekinetic    | a test subject             |
+| a pilot               | an operative         | a general        | a comms operator           |
+| a chrononaut          | a terrorist          | a C.E.O.         | a translator               |
+^science-fiction
+
+| Side #1          | Side #2                  | Side #3               | Side #4           |
+| ---------------- | ------------------------ | --------------------- | ----------------- |
+| a socialite      | a tycoon                 | an eyewitness         | a polymath        |
+| a mourner        | a thug                   | a swindler            | a street vendor   |
+| a gumshoe        | a safecracker            | a racketeer           | a cop             |
+| a butler         | an attendant             | an ex-con             | a tough           |
+| a fixer          | a female fatale          | a cleaner             | a hustler         |
+| a mystery writer | an antiquities collector | a duke                | a ringleader      |
+| a warden         | a police inspector       | a judge               | a ship's captain  |
+| a bookie         | a juror                  | a convict             | a getaway driver  |
+| a psychic        | a con artist             | a poisoner            | an adbuctor       |
+| a lawyer         | an anthropoligst         | an estate agent       | a crime boss      |
+| a mobster        | a relative               | a cardsharp           | a contract killer |
+| a suspect        | an instigator            | a confidential source | a robber          |
+^mystery

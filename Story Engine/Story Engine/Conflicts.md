@@ -56,3 +56,85 @@ Obstacles, consequences, or dilemmas
 | but it will mean the end of wonder in the world            | but they will suffer an injury that does not heal            |
 | but they must forsake that which they worship              | but it will loose a plague on the world                      |
 ^fantasy
+
+| Side #1                                               | Side #2                                                        |
+| ----------------------------------------------------- | -------------------------------------------------------------- |
+| but they must confront an inner darkness              | but they will have to make a devil's bargain                   |
+| but they will develop a dangerous addiction           | but they must face their greatest fear                         |
+| but their darkest desire will be revealed             | but they must return to the site of an old trauma              |
+| but a killer will escape                              | but someone they could have saved will die                     |
+| but it will drive them to the brink of madness        | but their family will never look at them the same again        |
+| but they will have to invite something evil inside    | but something evil will be unleashed on the world              |
+| but a friend will die and they must choose who        | but something that should have stayed dead will rise again     |
+| but they will be blamed for something they did not do | but they must cross a line they swore they would never cross   |
+| but they will have to draw on a dark power            | but it will shatter a delusion they are dependent on           |
+| but it will lead their enemy straight to them         | but they must confront a ghost of the past                     |
+| but they will forget their entire life piece by piece | but the memory of what they did will haunt them forever        |
+| but only the dead will know of their sacrifice        | but they will not be able to confess their guilt to the living |
+^horror
+
+| Side #1                                                   | Side #2                                                                 |
+| --------------------------------------------------------- | ----------------------------------------------------------------------- |
+| but it will be the only thing they are remembered for     | but it will cost them their last connection to humanity                 |
+| but it will unite their enemies                           | but it will cause a rift amongst their allies                           |
+| but a criminal will go free                               | but an innocent person will be executed                                 |
+| but a widely used technology will become unstable         | but a deadly experiment will be released from containment               |
+| but they will lose the person closest to them             | but it will set a mass extermination in motion                          |
+| but will make them a fugitive                             | but it will mean joining the enemy                                      |
+| but they will be cut off from the network forever         | but they will never be able to travel off-world again                   |
+| but it will mean trusting someone who betrayed them       | but they will have to live the rest of their life doing a job they hate |
+| but they will be blacklisted                              | but the blowback will fall on their closest firend                      |
+| but it will make their timeline dangerously               | but will mean giving up the chance to fix their biggest regret          |
+| but it will start a war                                   | but it would mean giving up a fight                                     |
+| but it will introduce a gangerous technology to the world | but it will mean rioting in the streets                                 |
+^science-fiction
+
+| Side #1                                                       | Side #2                                                              |
+| ------------------------------------------------------------- | -------------------------------------------------------------------- |
+| and now it has made them a target                             | and now they are being consumed by it                                |
+| and now an enemy is learning their secret                     | and now their closest friend is finding out                          |
+| and they just found a lead in their search for answers        | and they just hit a dead end in their search for answers             |
+| and now the wrong people are starting to ask questions        | and now the pain it caused is being exploited                        |
+| and now their family is about to find out                     | and now their family is pretending it never happened                 |
+| and the law is starting to investigate them                   | and a recent death has brought a new perspective                     |
+| and now someone is pressuring them to lie about it            | and now someone is pressuring them to reveal it                      |
+| and now an old enemy is appearing in a new form               | and now a related debt has come due                                  |
+| and now they are discovering it was part of a vast conspiracy | and now they are learning it was a mistake                           |
+| and now someone is trying to erase all traces of it           | and now their mentor is asking questions about it                    |
+| and now the truth of it is starting to wear them down         | and now someone is blackmailing them                                 |
+| and now their romantic partner is about to find out           | and now a family member is out to get them for it                    |
+| and now they want to reveal it to the world                   | and now they are finding out it was based on a lie                   |
+| and now they are starting to feel sicked by the knowledge     | and now it is putting their loved ones at risk                       |
+| and now they are being asked to prove it                      | and now an apparent stranger is punishing them for it                |
+| and now they are finding ulterior motives behind it           | and now it could end up on trail                                     |
+| and now they will have to break a related promise             | and now a figure from the past has reappeared                        |
+| and now the ghost of it is starting to haunt them             | and now they are learning they were not the only one                 |
+| and now they are discovering their memories of it are false   | and now the future depends on them remembering exactly what happened |
+| and now their community wants an explanation                  | and now it is sending them on a long-avoided journey                 |
+| and the only person who knows why is about to die             | and now they are learning it should have happened to someone else    |
+| and now it is getting them inducted into an inner circle      | and now they might be exiled over it                                 |
+| and they just received a mysterious message about it          | and now they have a chance to tell their side of the story           |
+| and they just discovered everyone already knew                | and they are only learning about it now                              |
+| and it is about to throw a wrench in a lifelong plan          | and it is about to make their nightmares come true                   |
+| and they are about to ask for acceptance for it               | and now the cycle could repeat itself                                |
+| and now they are having terrible dreams about it              | and now their god is punishing them for it                           |
+| and now they could lose their position over it                | and now they are being called upon because of it                     |
+| and now they need someone to talk to about it                 | and now they are desperate for a distraction from it                 |
+| and they think a recent crime might be connected to it        | and now it is starting to control their life                         |
+^backstory
+
+| Side #1                                        | Side #2                                                      |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| but it will ruin them finacially               | but their financial promblems will be exposed                |
+| but it will end an important relationship      | but they will have to lie to the person who trusts them most |
+| but their affair will be exposed               | but it will drive someone they love into the arms of another |
+| but a past crime will be exposed               | but they will take the rap for a crime they did not commit   |
+| but they will lose their family                | but they will lose their inheritance                         |
+| but justice will come too late for the living  | but the name of a dead person will be tarnished              |
+| but it will cost them a fortune                | but someone they hate will profit immensely                  |
+| but something they love will be buried         | but something they love will go up in flames                 |
+| but it will mean hiding part of their identity | but it will mean the dissection of something personal        |
+| but they will have to hurt a loved one         | but they will have to let an enemy hurt them                 |
+| but someone innocent will be condemned         | but they will have to forgive someone guilty                 |
+| but they will have to reveal a hiding place    | but they will have to destroy exculpatory evidence           |
+^mystery
