@@ -1,57 +1,57 @@
 | Side #1              | Side #2          | Side #3             | Side #4         |
 | -------------------- | ---------------- | ------------------- | --------------- |
-| a Keepsake           | a Letter         | a Basement          | a House         |
-| a Trap               | a Prison         | a Cage              | a Forgery       |
-| a Machine            | a Job            | a Factory           | a Button        |
-| a Door               | an Address       | a Portal            | a Key           |
-| a Tool               | a Workshop       | an Invention        | a Technique     |
-| a Fight              | a Blade          | an Arena            | a Shield        |
-| a Ruin               | a Dump           | a Discovery         | an Artifact     |
-| a Hospital           | a Contagion      | a Medicne           | a Death         |
-| a Masterpiece        | a School         | an Instrument       | a Song          |
-| a Book               | a Library        | a Word              | a Riddle        |
-| an Archive           | a World          | an Island           | an Atlas        |
-| a Flag               | a Nation         | a Court             | a Decree        |
-| a Cave               | a Pool           | a Mineral           | a Statue        |
-| a Staircase          | a Facility       | a Tattoo            | a Lock          |
-| a Coach              | a Document       | a Suitcase          | a Station       |
-| a Ship               | an Ocean         | a Compass           | a Shore         |
-| a Grave              | a Church         | a Puzzle            | a Flower        |
-| a Cache              | a Camp           | a Bag               | a Disaster      |
-| a Safe               | a Bank           | a Fortune           | a Combination   |
-| a Weapon             | a War            | a Battleground      | a Helmet        |
-| a Forest             | a Plant          | a Paradise          | a Seed          |
-| a Map                | a Ticket         | a Tunnel            | a Path          |
-| a Village            | a Restaurant     | a Boat              | a Holy Symbol   |
-| a Timepiece          | a Pawn Shop      | a Gift              | a Date          |
-| a Tower              | a City           | a Battery           | a Device        |
-| a Shrine             | a Figurine       | a Drug              | a Vision        |
-| a Costume            | a Performance    | a Script            | a Stage         |
-| a Piece of Evidence  | a Hideout        | a Pen               | a Bomb          |
-| a Base               | a Government     | a Code              | a Recording     |
-| a Game               | a Lost and Found | an Ambush           | a Maze          |
-| a Prototype          | a Laboratory     | a Poison            | a Company       |
-| a Construction Site  | a Blueprint      | a Piece of Clothing | an Accident     |
-| a Mountain           | a Flask          | a Sacrifice         | a Pit           |
-| an Election          | a Rebellion      | a Name              | a Manifesto     |
-| a Piece of Furniture | a Hotel          | a Work of Art       | a Curse         |
-| a Museum             | a Necklace       | an Exhibit          | an Auction Item |
+| a keepsake           | a letter         | a basement          | a house         |
+| a trap               | a prison         | a cage              | a forgery       |
+| a machine            | a job            | a factory           | a button        |
+| a door               | an address       | a portal            | a key           |
+| a tool               | a workshop       | an invention        | a technique     |
+| a fight              | a blade          | an arena            | a shield        |
+| a ruin               | a dump           | a discovery         | an artifact     |
+| a hospital           | a contagion      | a medicne           | a death         |
+| a masterpiece        | a school         | an instrument       | a song          |
+| a book               | a library        | a word              | a riddle        |
+| an archive           | a world          | an island           | an atlas        |
+| a flag               | a nation         | a court             | a decree        |
+| a cave               | a pool           | a mineral           | a statue        |
+| a staircase          | a facility       | a tattoo            | a lock          |
+| a coach              | a document       | a suitcase          | a station       |
+| a ship               | an ocean         | a compass           | a shore         |
+| a grave              | a church         | a puzzle            | a flower        |
+| a cache              | a camp           | a bag               | a disaster      |
+| a safe               | a bank           | a fortune           | a combination   |
+| a weapon             | a war            | a battleground      | a helmet        |
+| a forest             | a plant          | a paradise          | a seed          |
+| a map                | a ticket         | a tunnel            | a path          |
+| a village            | a restaurant     | a boat              | a holy Symbol   |
+| a timepiece          | a pawn Shop      | a gift              | a date          |
+| a tower              | a city           | a battery           | a device        |
+| a shrine             | a figurine       | a drug              | a vision        |
+| a costume            | a performance    | a script            | a stage         |
+| a piece of Evidence  | a hideout        | a pen               | a bomb          |
+| a base               | a government     | a code              | a recording     |
+| a game               | a lost and Found | an ambush           | a maze          |
+| a prototype          | a laboratory     | a poison            | a company       |
+| a construction Site  | a blueprint      | a piece of Clothing | an accident     |
+| a mountain           | a flask          | a sacrifice         | a pit           |
+| an election          | a rebellion      | a name              | a manifesto     |
+| a piece of Furniture | a hotel          | a work of Art       | a curse         |
+| a museum             | a necklace       | an exhibit          | an auction Item |
 ^main
 
 | Side #1          | Side #2       | Side #3        | Side #4       |
 | ---------------- | ------------- | -------------- | ------------- |
-| a Cavern         | a Glacier     | a Cloak        | an Axe        |
-| a Crown          | a Breastplate | a Hill         | a Skull       |
-| a Summit         | a Keep        | a Harp         | an Inn        |
-| a Bulwark        | a Mask        | a Carving      | a Smithy      |
-| a Pair of Gloves | a Frigate     | a Torch        | a Jungle      |
-| a Market         | a Coin        | a Potion       | a Ring        |
-| an Empire        | a Throne      | a Port         | a Spear       |
-| an Aerie         | a Club        | an Egg         | an Encampment |
-| a Sanctuary      | a Scroll      | an Orchard     | a Spell       |
-| a Grove          | a Bow         | a Tree         | a Staff       |
-| a Castle         | a Warhammer   | a Siege        | a Farm        |
-| an Amulet        | a Sword       | a Suit of Mail | a Tundra      |
+| a cavern         | a glacier     | a cloak        | an axe        |
+| a crown          | a breastplate | a hill         | a skull       |
+| a summit         | a keep        | a harp         | an inn        |
+| a bulwark        | a mask        | a carving      | a smithy      |
+| a pair of Gloves | a frigate     | a torch        | a jungle      |
+| a market         | a coin        | a potion       | a ring        |
+| an empire        | a throne      | a port         | a spear       |
+| an aerie         | a club        | an egg         | an encampment |
+| a sanctuary      | a scroll      | an orchard     | a spell       |
+| a grove          | a bow         | a tree         | a staff       |
+| a castle         | a warhammer   | a siege        | a farm        |
+| an amulet        | a sword       | a suit of Mail | a tundra      |
 ^fantasy
 
 | Side #1        | Side #2          | Side #3              | Side #4           |

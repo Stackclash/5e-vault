@@ -3,58 +3,58 @@ Characters who make choices in the story
 
 | Side #1         | Side #2               | Side #3         | Side #4               |
 | --------------- | --------------------- | --------------- | --------------------- |
-| an Artist       | a Musician            | a Writer        | a Dancer              |
-| an Explorer     | a Trailblazer         | a Tourist       | a Diplomat            |
-| an Avenger      | a Rival               | a Vigilante     | a Ghost               |
-| an Enforcer     | an Athlete            | a Soldier       | an Assassin           |
-| a Worker        | a Salesperson         | a Courier       | a Master Craftsperson |
-| a Leader        | a Politican           | a Guide         | a Boss                |
-| a Beast         | a Hedonist            | a Shape-shifter | a Pet                 |
-| a Radical       | an Iconoclast         | a Protestor     | a Warmonger           |
-| a Teacher       | a Holy Person         | a Hermit        | a Messiah             |
-| a Student       | an Amateur            | an Apprentice   | a Bookworm            |
-| a Misfit        | a Demon               | a Monster       | a Genius              |
-| an Actor        | a Scam Artist         | an Understudy   | a Performer           |
-| a Guardian      | an Officer            | a Parent        | a Bouncer             |
-| a Fool          | a Fraud               | a Daredevil     | a Comedian            |
-| a Hero          | a Rebel               | a Martyr        | a Mentor              |
-| an Outcast      | a Punk                | a Foreigner     | an Alien              |
-| a Caretaker     | a Curator             | a Gardener      | a Conservationist     |
-| an Idol         | a Model               | a God           | a Superhuman          |
-| a Visionary     | a Painter             | a Prophet       | an Inventor           |
-| a Heretic       | a Dissident           | a Witch         | a Black Sheep         |
-| a Hunter        | a Collector           | a Killer        | a Researcher          |
-| an Automaton    | a Machine             | a Puppet        | a Servant             |
-| a Companion     | a Secret Admirer      | a Roommate      | a Romantic Partner    |
-| a Survivor      | a Veteran             | a Retiree       | a Victim              |
-| a Villain       | a Tyrant              | a Kingpin       | a Scoundrel           |
-| an Expert       | a Virtuoso            | an Academic     | a Child Prodigy       |
-| an Investigator | a Conspiracy Theorist | a Journalist    | a Scientist           |
-| a Healer        | a Doctor              | a Therapist     | a Peacekeeper         |
-| an Aristocrat   | a Celebrity           | a Magnate       | a Philanthropist      |
-| an Addict       | a Patient             | a Drunk         | a Gambler             |
-| a Merchant      | an Investor           | a Grifter       | a Miser               |
-| a Bully         | a Profiteer           | a Criminal      | a Predator            |
-| a Twin          | an Imposter           | a Stand-in      | a Doppelganger        |
-| a Designer      | an Architect          | a Tailor        | an Artisan            |
-| an Archivist    | an Archaeologist      | a Librarian     | a Witness             |
-| an Introvert    | a Dreamer             | a Grump         | a Wanderer            |
+| an artist       | a musician            | a writer        | a dancer              |
+| an explorer     | a trailblazer         | a tourist       | a diplomat            |
+| an avenger      | a rival               | a vigilante     | a ghost               |
+| an enforcer     | an athlete            | a soldier       | an assassin           |
+| a worker        | a salesperson         | a courier       | a master Craftsperson |
+| a leader        | a politican           | a guide         | a boss                |
+| a beast         | a hedonist            | a shape-shifter | a pet                 |
+| a radical       | an iconoclast         | a protestor     | a warmonger           |
+| a teacher       | a holy Person         | a hermit        | a messiah             |
+| a student       | an amateur            | an apprentice   | a bookworm            |
+| a misfit        | a demon               | a monster       | a genius              |
+| an actor        | a scam Artist         | an understudy   | a performer           |
+| a guardian      | an officer            | a parent        | a bouncer             |
+| a fool          | a fraud               | a daredevil     | a comedian            |
+| a hero          | a rebel               | a martyr        | a mentor              |
+| an outcast      | a punk                | a foreigner     | an alien              |
+| a caretaker     | a curator             | a gardener      | a conservationist     |
+| an idol         | a model               | a god           | a superhuman          |
+| a visionary     | a painter             | a prophet       | an inventor           |
+| a heretic       | a dissident           | a witch         | a black Sheep         |
+| a hunter        | a collector           | a killer        | a researcher          |
+| an automaton    | a machine             | a puppet        | a servant             |
+| a companion     | a secret Admirer      | a roommate      | a romantic Partner    |
+| a survivor      | a veteran             | a retiree       | a victim              |
+| a villain       | a tyrant              | a kingpin       | a scoundrel           |
+| an expert       | a virtuoso            | an academic     | a child Prodigy       |
+| an investigator | a conspiracy Theorist | a journalist    | a scientist           |
+| a healer        | a doctor              | a therapist     | a peacekeeper         |
+| an aristocrat   | a celebrity           | a magnate       | a philanthropist      |
+| an addict       | a patient             | a drunk         | a gambler             |
+| a merchant      | an investor           | a grifter       | a miser               |
+| a bully         | a profiteer           | a criminal      | a predator            |
+| a twin          | an imposter           | a stand-in      | a doppelganger        |
+| a designer      | an architect          | a tailor        | an artisan            |
+| an archivist    | an archaeologist      | a librarian     | a witness             |
+| an introvert    | a dreamer             | a grump         | a wanderer            |
 ^main
 
 | Side #1      | Side #2         | Side #3           | Side #4     |
 | ------------ | --------------- | ----------------- | ----------- |
-| a Warlock    | a Conqueror     | a Wizard          | a Ruler     |
-| a Rogue      | a Hired Knife   | a Noble           | an Emissary |
-| a Tactician  | a Dicer         | a Swashbuckler    | a Liege     |
-| a Bandit     | a Kennel Master | a Ranger          | a Beggar    |
-| an Elemental | a Treefolk      | a Ghoul           | a Stalker   |
-| an Invoker   | a Monk          | a Bard            | a Weaver    |
-| a Druid      | a Blacksmith    | a Seer            | a Barbarian |
-| a Mage       | a Trader        | an Heir           | an Ardent   |
-| a Behemoth   | a Dragon        | a Beast Tamer     | a Familiar  |
-| an Archer    | a Scout         | a Military Member | a Fighter   |
-| a Guard      | a Paladin       | a Sorcerer        | a Mimic     |
-| a Warrior    | a Cleric        | an Atlanta        | a Sellsword |
+| a warlock    | a conqueror     | a wizard          | a ruler     |
+| a rogue      | a hired Knife   | a noble           | an emissary |
+| a tactician  | a dicer         | a swashbuckler    | a liege     |
+| a bandit     | a kennel Master | a ranger          | a beggar    |
+| an elemental | a treefolk      | a ghoul           | a stalker   |
+| an invoker   | a monk          | a bard            | a weaver    |
+| a druid      | a blacksmith    | a seer            | a barbarian |
+| a mage       | a trader        | an heir           | an ardent   |
+| a behemoth   | a dragon        | a beast Tamer     | a familiar  |
+| an archer    | a scout         | a military Member | a fighter   |
+| a guard      | a paladin       | a sorcerer        | a mimic     |
+| a warrior    | a cleric        | an atlanta        | a sellsword |
 ^fantasy
 
 | Side #1           | Side #2            | Side #3         | Side #4         |
@@ -79,14 +79,14 @@ Characters who make choices in the story
 | a hacker              | a blackmailer        | a heist leader   | a revolutionary            |
 | a navigator           | a technician         | a data scientist | an astrophysicist          |
 | an escaped experiment | a pyrokinetic        | a gene splicer   | a bomb-maker               |
-| a graffiti artist     | a D.J.               | a clubber        | a bartender                |
+| a graffiti artist     | a d.J.               | a clubber        | a bartender                |
 | a colonist            | a weapons specialist | a chemist        | a cadet                    |
 | a robot               | a bodyguard          | a supercomputer  | an artificial intelligence |
 | a salvager            | an asteroid miner    | an arms dealer   | an engineer                |
 | a streamer            | a gamer              | an influencer    | a performance artist       |
 | a prisoner            | a programmer         | a telekinetic    | a test subject             |
 | a pilot               | an operative         | a general        | a comms operator           |
-| a chrononaut          | a terrorist          | a C.E.O.         | a translator               |
+| a chrononaut          | a terrorist          | a c.E.O.         | a translator               |
 ^science-fiction
 
 | Side #1          | Side #2                  | Side #3               | Side #4           |
