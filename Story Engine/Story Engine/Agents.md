@@ -104,3 +104,31 @@ Characters who make choices in the story
 | a mobster        | a relative               | a cardsharp           | a contract killer |
 | a suspect        | an instigator            | a confidential source | a robber          |
 ^mystery
+
+| Side #1             | Side #2              | Side #3           | Side #4           |
+| ------------------- | -------------------- | ----------------- | ----------------- |
+| a psychopomp        | a countess           | a nurse           | a family head     |
+| a lighthouse keeper | a wraith             | a sailor          | a gargoyle        |
+| an alchemist        | a pseudoscienist     | a scribe          | a grave robber    |
+| a demoniac          | an illegitmate child | a phantasm        | an agoraphobe     |
+| a superhero         | a supervillian       | a chonoshifter    | a biologist       |
+| a champion          | a thrillseeker       | an acrobat        | a billionaire     |
+| a henchperson       | a hostage            | a nerd            | a sidekick        |
+| an arch-nemesis     | an overlord          | a mugger          | a night owl       |
+| a cowpoke           | a horse              | a cattle rustler  | a settler         |
+| a lone ranger       | a desperado          | a jailbird        | a moonshiner      |
+| a rancher           | a poacher            | a railroad worker | a prospector      |
+| a sheriff           | a deputy             | a saloon owner    | a robber baron    |
+| a runaway           | a forest spirit      | a ward            | a stepchild       |
+| a fairy             | a usurper            | a stepparent      | a monarch         |
+| an animal helper    | a sentry             | an exile          | a big bad wolf    |
+| a frog              | a goblin             | a consort         | a royal           |
+| a corsair           | a castaway           | a first mate      | a whaler          |
+| a playboy           | a body snatcher      | a mad scientist   | a nosferatu       |
+| an advernturer      | a folk hero          | a knight          | a rider           |
+| a gunslinger        | a paleontologist     | a jewel thief     | an escape artist  |
+| a grunt             | a war hawk           | a sergeant        | a paratrooper     |
+| a civilian          | a pacifist           | a negotiator      | a liaison         |
+| an extractor        | a tunnel rat         | a sapper          | a ghost operative |
+| a spy               | a lieutenant         | a contractor      | an interpreter    |
+^dreamer-expansion
