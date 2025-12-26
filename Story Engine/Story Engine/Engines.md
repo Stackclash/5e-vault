@@ -138,3 +138,25 @@ Motivations and relationships that drive the story
 | wants to obtain a new identity as/from           | wants to uncover a secret identity of/with     |
 | wants to earn the pride of                       | wants to humiliate (or humiliate someone with) |
 ^mystery
+
+| Side #1                                       | Side #2                                     |
+| --------------------------------------------- | ------------------------------------------- |
+| wants to rescue from oblivion                 | wants to consign to oblivion                |
+| wants to torment (or torment someone with)    | wants to pacify (or pacify someone with)    |
+| wants to remove corruption from               | wants to corrupt                            |
+| wants to possess                              | wants to dispossess                         |
+| wants to save the city with/from              | wants to destroy the city with              |
+| wants to avenge the loss of                   | wants to gain powers from/of                |
+| wants to become the guardian of               | wants to become a nemesis of/with           |
+| wants to make a weapon of                     | wants to vanquish                           |
+| wants to protect their land from/with         | wants to obtain a deed to/from              |
+| wants to hold up                              | wants the reward for turning in             |
+| wants to earn a place in/near                 | wants to gain notoriety for/with/in         |
+| wants to win a wager involving                | wants to put a bullet in                    |
+| wants to reclaim their home from/with         | wants to find someone lost inside           |
+| wants to seal the magic realm in/with         | wants to reach the magic realm through      |
+| wants to find their parents with              | wants to claim a birthright involving       |
+| wants to break a pact with/involving          | wants to make a pact with/involving         |
+| wants to find the lost teachings of           | wants to find the lost treasure of          |
+| wants to expose a secret society dedicated to | wants to join a secret society dedicated to |
+|                                               |                                             |
