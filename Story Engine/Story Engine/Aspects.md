@@ -155,3 +155,31 @@ Adjectives that describe other cards
 | that detects treasure                        | that constantly ripples or shimmers        | that awakens a powerful thirst for knowledge | that screams when used                                |
 | that grants speed                            | that looks damaged beyond repair           | that grants the power to see in the dark     | that stains the user permanently                      |
 ^unique-item
+
+| Side #1       | Side #2     | Side #3        | Side #4          |
+| ------------- | ----------- | -------------- | ---------------- |
+| engraved      | isolated    | sanguine       | morbid           |
+| alabaster     | crumbling   | inevitable     | weeping          |
+| elaborate     | wretched    | uncouth        | pale             |
+| dreary        | desiccated  | grandiose      | detached         |
+| magnetic      | rigged      | avenging       | teleporting      |
+| growing       | shrinking   | masked         | x-ray            |
+| blazing       | freezing    | supepowered    | mind-reading     |
+| mind-altering | volcanic    | fast           | prismatic        |
+| trusty        | highfalutin | rowdy          | good-for-nothin' |
+| quick-handed  | unceded     | yellow-bellied | wanted           |
+| dirty         | frontier    | dapper         | fast-talkin'     |
+| stained       | dry         | hard-drinkin'  | dastardly        |
+| fungal        | idyllic     | bored          | mundane          |
+| spellbound    | overgrown   | capricious     | courteous        |
+| iron          | bewitched   | unsuspecting   | tricksy          |
+| foul          | mossy       | amphibious     | exquisite        |
+| appropriated  | storied     | rancorous      | witty            |
+| riddle-filled | vile        | resourceful    | exuberant        |
+| mechanical    | stellar     | uncanny        | brave            |
+| nebulous      | desolate    | dashing        | cowardly         |
+| tactical      | occupied    | gruff          | grimy            |
+| compact       | war-torn    | covert         | regimented       |
+| burned        | planned     | outraged       | hawkish          |
+| classified    | mined       | diligent       | craven           |
+^dreamer

@@ -138,3 +138,31 @@ Obstacles, consequences, or dilemmas
 | but someone innocent will be condemned         | but they will have to forgive someone guilty                 |
 | but they will have to reveal a hiding place    | but they will have to destroy exculpatory evidence           |
 ^mystery
+
+| Side #1                                                 | Side #2                                                  |
+| ------------------------------------------------------- | -------------------------------------------------------- |
+| but they will have to face death itself                 | but they will never be able to truly die                 |
+| but they will be haunted by silence                     | but they will be haunted by whispers                     |
+| but it will mean the end of their family line           | but a family secret will become known to all             |
+| but something horrifying will be set free               | but they will be trapped in a prison of their own making |
+| but it will turn the city against them                  | but they will lose their greatest power                  |
+| but their sanctum will be destroyed                     | but they will lose their sidekick                        |
+| but their nemesis will escape                           | but bystanders will be hurt                              |
+| but it will leave the city unprotected                  | but it will expose their one weakness                    |
+| but they will never get to ride off into the sunset     | but it will mean leaving town, never to return           |
+| but they will have to hang up their hat                 | but they will have to turn themself in                   |
+| but they will end up dead broke                         | but it will put a price on their head                    |
+| but they will have to take a cheap shot                 | but they will have to take a bullet                      |
+| but they will be unable to return to normal life        | but they will lose their connection to magic and whimsy  |
+| but in a year and a day it will be reversed             | but a temporary change will become permanent             |
+| but their nights will start to pass too slowly          | but their days will start to pass to quickly             |
+| but bad luck will follow them forever                   | but they will owe a boon to an unpredictable entity      |
+| but it will bring war to their homeworld                | but they will never see their homeworld again            |
+| but all the riches they have earned will be lost        | but all the knowledge they have learned will be lost     |
+| but their rival will them to it                         | but if they succeed no one can follow in their footsteps |
+| but they will unleash a monster                         | but they will endanger a rare creature                   |
+| but the enemy leader will escape unscathed              | but civilians will get caught in the crossfire           |
+| but their superior will get away with something heinous | but they will be stripped of their rank                  |
+| but a past atrocity will go unpunished                  | but a past atrocity will come to light                   |
+| but their cover will be blown                           | but a dangerous operation will get greenlit              |
+^dreamer

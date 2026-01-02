@@ -117,3 +117,31 @@
 | a piece of paper | a wand           | a retreat     | an ink            |
 | a loom           | a whip           | a studio      | a net             |
 ^unique-item
+
+| Side #1       | Side #2          | Side #3              | Side #4         |
+| ------------- | ---------------- | -------------------- | --------------- |
+| a spiral      | an attic         | an oubliette         | an urn          |
+| a churchyard  | a veil           | a sepulchre          | a garden        |
+| a fen         | a casket         | a memento            | a tomb          |
+| a manor       | a heath          | a bassinet           | a plaything     |
+| a superweapon | a launch pad     | a crisis             | a showdown      |
+| a lair        | a transformation | a blast of radiation | a transmitter   |
+| a sanctum     | a birth          | a siren              | a dose          |
+| a meltdown    | a power plant    | a scar               | a detonator     |
+| a saloon      | a wager          | a pair of boots      | a saddle        |
+| a bottle      | a ranch          | a stagecoach         | a watering hole |
+| a ghost town  | a canyon         | a betrayal           | a treaty        |
+| a six-shooter | a standoff       | a train              | a lasso         |
+| a woodland    | a rose           | a fruit              | a quest         |
+| a lamp        | a boon           | a pact               | a wonderland    |
+| a circle      | an abdication    | a realm              | a mushroom      |
+| a bell        | a birthmark      | a cottage            | an enchantment  |
+| a lost city   | a gizmo          | a comet              | an invasion     |
+| a treasure    | a beach          | a crystal ball       | a kingdom       |
+| a raft        | an expedition    | a spyglass           | an archipelago  |
+| an ossuary    | a lock of hair   | a labyrinth          | an adventure    |
+| a helicopter  | a drop           | a D.M.Z.             | a parachute     |
+| a refinery    | an asteroid      | a mutiny             | an ore          |
+| a galaxy      | a breach         | a drive              | a terraformer   |
+| a tribunal    | a surrender      | a missle             | a report        |
+^dreamer

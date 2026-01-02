@@ -159,5 +159,10 @@ Motivations and relationships that drive the story
 | wants to break a pact with/involving          | wants to make a pact with/involving         |
 | wants to find the lost teachings of           | wants to find the lost treasure of          |
 | wants to expose a secret society dedicated to | wants to join a secret society dedicated to |
-|                                               |                                             |
+| wants to reclaim (or reclaim something from)  | wants to stop the appropriation of          |
+| wants to be transformed by/into               | wants to reveal the plans of/involving      |
+| wants to extract resources from               | wants to extract information from           |
+| wants to end the occupation of                | wants to occupy                             |
+| wants to install a leader with/of             | wants to topple                             |
+| wants to succeed at a mission focused on      | wants to sabotage a mission focused on      |
 ^dreamer
