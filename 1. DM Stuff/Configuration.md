@@ -247,6 +247,14 @@ return function View() {
 ```
 
 # Fix Notes
+```datacorejsx
+return function View() {
+  const config = dc.useCurrentFile()
+  const activeParty = config.value('active_party')
+  console.log(activeParty.$frontmatter)
+}
+```
+
 > [!column| clean no-th]
 >> ## NPCs
 >> ```datacorejsx
