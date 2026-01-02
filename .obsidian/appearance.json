@@ -1,7 +1,7 @@
 {
   "cssTheme": "Fancy-a-Story",
   "enabledCssSnippets": [
-    "TTRPGCalloutBlocks",
+    "TTRPGCallouts",
     "booksanity",
     "Custom Styles",
     "dnd5e-compendium",
