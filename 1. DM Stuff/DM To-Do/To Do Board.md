@@ -57,7 +57,7 @@ months:
 ## Done
 
 - [ ] Update Player Template to use a function for updating from DnD Beyond
-- [ ] [[Complete Critical Tables]]
+- [ ] [[Critical Tables]]
 - [ ] [[For locations and npcs add image carousel]]
 
 
