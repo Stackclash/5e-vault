@@ -247,7 +247,7 @@ return function View() {
 ```
 
 # Fix Notes
-> [!column| no-t clean]
+> [!column| clean no-th]
 >> ## NPCs
 >> ```datacorejsx
 >> return function View() {
