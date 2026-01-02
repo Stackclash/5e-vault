@@ -250,7 +250,7 @@ return function View() {
 ```datacorejsx
 return function View() {
   const activeParty = dc.useQuery(`@page and #party and connected([[Configuration]])`)[0]
-  const journals = dc.useQuery(`@page and #session-journal and $party = "${activeParty.$path}" and !$summary`)
+  const journals = dc.useQuery(`@page and #session-journal and !$summary`)
   console.log(journals)
 }
 ```
