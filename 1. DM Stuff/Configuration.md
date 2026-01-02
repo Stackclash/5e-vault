@@ -250,8 +250,8 @@ return function View() {
 ```datacorejsx
 return function View() {
   const config = dc.useCurrentFile()
-  const activeParty = config.value('active_party')
-  console.log(activeParty.$frontmatter)
+  const activeParty = dc.useQuery(`@page and #party and connected([[Configuration]])`)
+  console.log(activeParty)
 }
 ```
 
