@@ -1,7 +1,7 @@
 # CardTypes
 ```jsx
 const path = require('path')
-const ROOT_DIR = 'Story Engine'
+const ROOT_DIR = '1. DM Stuff/Tools/Story Engine'
 return [
   { type: 'agent', label: 'Agent', path: path.posix.join(ROOT_DIR, 'Story Engine/Agents.md'), deck: 'Story Engine' },
   { type: 'anchor', label: 'Anchor', path: path.posix.join(ROOT_DIR, 'Story Engine/Anchors.md'), deck: 'Story Engine' },

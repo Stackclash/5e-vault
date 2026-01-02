@@ -1,1 +1,0 @@
-The images will need to be moved to subfolders under `5. Mechanics/Decks` and the references to those images will need to be updated as well. This is to support Solo RPG kit plugin deck feature.
