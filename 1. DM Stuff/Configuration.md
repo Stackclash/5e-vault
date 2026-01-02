@@ -250,8 +250,26 @@ return function View() {
 ```datacorejsx
 return function View() {
   const activeParty = dc.useQuery(`@page and #party and connected([[Configuration]])`)[0]
-  const journals = dc.useQuery(`@page and #session-journal and !$summary`)
-  console.log(journals)
+  const journals = dc.useQuery(`@page and #session-journal`)
+  const journalsNeedFixing = journals.filter(j => console.log(j))
+  const columns = [
+    {
+      id: 'Session',
+      value: (row) => row.$path,
+      render: (value) => dc.fileLink(value)
+    },
+    {
+      id: 'Has Unique Title',
+      value: (row) => row.$name,
+      render: (value) => !value.includes('Session Journal') ? "✅" : "✘"
+    },
+    {
+      id: 'Has Summary',
+      value: (row) => row.value('summary'),
+      render: (value) => (value && value.length) ? "✅" : "✘"
+    }
+  ]
+  return <dc.Table paging={20} rows={journals} columns={columns} />
 }
 ```
 
