@@ -247,32 +247,6 @@ return function View() {
 ```
 
 # Fix Notes
-```datacorejsx
-return function View() {
-  const activeParty = dc.useQuery(`@page and #party and connected([[Configuration]])`)[0]
-  const journals = dc.useQuery(`@page and #session-journal`)
-  const journalsNeedFixing = journals.filter(j => console.log(j))
-  const columns = [
-    {
-      id: 'Session',
-      value: (row) => row.$path,
-      render: (value) => dc.fileLink(value)
-    },
-    {
-      id: 'Has Unique Title',
-      value: (row) => row.$name,
-      render: (value) => !value.includes('Session Journal') ? "✅" : "✘"
-    },
-    {
-      id: 'Has Summary',
-      value: (row) => row.value('summary'),
-      render: (value) => (value && value.length) ? "✅" : "✘"
-    }
-  ]
-  return <dc.Table paging={20} rows={journals} columns={columns} />
-}
-```
-
 > [!column| clean no-th]
 >> ## NPCs
 >> ```datacorejsx
@@ -361,3 +335,29 @@ return function View() {
 >>   return <dc.Table paging={20} rows={locations} columns={columns} />
 >> }
 >> ```
+>
+>>```datacorejsx
+>>return function View() {
+>>  const activeParty = dc.useQuery(`@page and #party and connected([[Configuration]])`)[0]
+>>  const journals = dc.useQuery(`@page and #session-journal`)
+>>  const journalsNeedFixing = journals.filter(j => j.$name.includes('Session Journal') || (!j.value('summary') || !j.value('summary').length))
+>>  const columns = [
+>>    {
+>>      id: 'Session',
+>>      value: (row) => row.$path,
+>>      render: (value) => dc.fileLink(value)
+>>    },
+>>    {
+>>      id: 'Has Unique Title',
+>>      value: (row) => row.$name,
+>>      render: (value) => !value.includes('Session Journal') ? "✅" : "✘"
+>>    },
+>>    {
+>>      id: 'Has Summary',
+>>      value: (row) => row.value('summary'),
+>>      render: (value) => (value && value.length) ? "✅" : "✘"
+>>    }
+>>  ]
+>>  return <dc.Table paging={20} rows={journalsNeedFixing} columns={columns} />
+>>}
+>>```
