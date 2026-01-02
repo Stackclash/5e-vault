@@ -249,9 +249,9 @@ return function View() {
 # Fix Notes
 ```datacorejsx
 return function View() {
-  const config = dc.useCurrentFile()
-  const activeParty = dc.useQuery(`@page and #party and connected([[Configuration]])`)
-  console.log(activeParty)
+  const activeParty = dc.useQuery(`@page and #party and connected([[Configuration]])`)[0]
+  const journals = dc.useQuery(`@page and #session-journal and $party = "${activeParty.$path}" and !$summary`)
+  console.log(journals)
 }
 ```
 
