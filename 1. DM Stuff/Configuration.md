@@ -322,7 +322,10 @@ return function View() {
 >>     },
 >>     {
 >>       id: 'Items',
->>       value: (row) => row.value("items") ? row.value("items").length : null,
+>>       value: (row) => {
+>>          console.log(row.$name, row.value("items"), [undefined, null].includes(row.value("items")))
+>>          return [undefined, null].includes(row.value("items")) ? null : row.value("items").length
+>>        },
 >>       render: (value, row) => value === null ? "✅" : (!!value ? "✅" : "✘")
 >>     },
 >>     {
