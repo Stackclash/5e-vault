@@ -7,29 +7,30 @@ tags:
   - monster/cr/1-8
   - monster/size/medium
   - monster/type/humanoid/human
-location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
+location: "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
 condition: healthy
-images: []
+images:
+  - ../../../../../4. World Almanac/NPCs/img/005-cos02-02.webp
 relationships: []
 aliases:
   - Nikolai Wachter
-pronounced: null
-race: null
+pronounced:
+race:
 gender: male
-age: null
+age:
 alignment: Lawful Neutral
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 partyRelationships: {}
-image: null
+image:
 ---
 
 > [!infobox]
