@@ -289,7 +289,7 @@ return function View() {
 >>     }
 >>   ]
 >> 
->>   return <dc.Table paging={20} rows={npcs} columns={columns} />
+>>   return <dc.Table paging={30} rows={npcs} columns={columns} />
 >> }
 >> ```
 >
@@ -313,11 +313,11 @@ return function View() {
 >>     },
 >>     {
 >>       id: 'Type',
->>       value: (row) => row.$tags.find(t => ['#shop', '#region', '#settlement', '#place-of-interest', '#world'].includes(t)) || '',
+>>       value: (row) => row.$tags.find(t => ['#shop', '#region', '#settlement', '#place-of-interest', '#world'].includes(t)).slice(1) || '',
 >>     },
 >>     {
 >>       id: 'Parent Location',
->>       value: (row) => row.value("location"),
+>>       value: (row) => row.$tags.find(t => t.includes('world')) ? true : row.value("location"),
 >>       render: (value, row) => !!value ? "✅" : "✘"
 >>     },
 >>     {
@@ -327,7 +327,7 @@ return function View() {
 >>     },
 >>     {
 >>       id: 'Image',
->>       value: (row) => !!row.value("image") || row.value("image") !== "z_Assets/PlaceholderImage.png",
+>>       value: (row) => !!row.value("image") || !(row.value("image") !== "z_Assets/PlaceholderImage.png"),
 >>       render: (value, row) => value ? "✅" : "✘"
 >>     }
 >>   ]
