@@ -10,7 +10,6 @@ tags:
 location: "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
 condition: healthy
 images:
-  - ../../../../../4. World Almanac/NPCs/img/005-cos02-02.webp
 relationships: []
 aliases:
   - Nikolai Wachter
