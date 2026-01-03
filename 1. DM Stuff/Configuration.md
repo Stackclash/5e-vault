@@ -322,11 +322,12 @@ return function View() {
 >>     },
 >>     {
 >>       id: 'Items',
->>       value: (row) => {
->>          console.log(row.$name, row.value("items"), [undefined, null].includes(row.value("items")))
->>          return [undefined, null].includes(row.value("items")) ? null : row.value("items").length
->>        },
->>       render: (value, row) => value === null ? "✅" : (!!value ? "✅" : "✘")
+>>       value: (row) => row.value("items") === undefined ? false : row.value("items"),
+>>       render: (value, row) => {
+>>          if (value === false || value === null) return "✘"
+>>          if (Array.isArray(value) && value.length > 0) return "✅"
+>>          return "✘"
+>>       }
 >>     },
 >>     {
 >>       id: 'Image',
