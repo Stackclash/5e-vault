@@ -26,6 +26,7 @@
     "excalidraw-open-md": "checkbox",
     "relationship_mapping": "multitext",
     "excalidraw-embed-md": "checkbox",
-    "": "checkbox"
+    "": "checkbox",
+    "travel": "multitext"
   }
 }
