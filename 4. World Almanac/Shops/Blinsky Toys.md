@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
+location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 owners:
-  - '[[4. World Almanac/NPCs/Gadof Blinsky.md|Gadof Blinsky]]'
-staff: 
+  - "[[4. World Almanac/NPCs/Gadof Blinsky (COS).md|Gadof Blinsky (COS)]]"
+staff:
 cost_modifier: 1
-items: 
+items:
 resources:
-  - '[[07 Chapter-5 The Town Of Vallaki#N7. Blinsky Toys|Blinsky Toys]]'
+  - "[[07 Chapter-5 The Town Of Vallaki#N7. Blinsky Toys|Blinsky Toys]]"
 tags:
   - shop
   - location
@@ -16,8 +16,8 @@ tags:
 > # `=this.file.name`
 > |||
 > |---|---|
-> | **Owner(s)** | `INPUT[inlineListSuggester(optionQuery("#npc")):owners]` |
-> | **Staff** | `INPUT[inlineListSuggester(optionQuery("#npc")):staff]` |
+> | **Owner(s)** | `INPUT[inlineListSuggester(optionQuery(#npc)):owners]` |
+> | **Staff** | `INPUT[inlineListSuggester(optionQuery(#npc)):staff]` |
 > | **Location** | `INPUT[suggester(optionQuery(#location)):location]` |
 > | **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources")):resources]` |
 > ###### Inventory Info

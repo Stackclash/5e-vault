@@ -13,8 +13,8 @@ tags:
 > # `=this.file.name`
 > |||
 > |---|---|
-> | **Owner(s)** | `INPUT[inlineListSuggester(optionQuery("#npc")):owners]` |
-> | **Staff** | `INPUT[inlineListSuggester(optionQuery("#npc")):staff]` |
+> | **Owner(s)** | `INPUT[inlineListSuggester(optionQuery(#npc)):owners]` |
+> | **Staff** | `INPUT[inlineListSuggester(optionQuery(#npc)):staff]` |
 > | **Location** | `INPUT[suggester(optionQuery(#location)):location]` |
 > | **Resource(s):** | `INPUT[inlineListSuggester(optionQuery("6. Resources")):resources]` |
 > ###### Inventory Info
