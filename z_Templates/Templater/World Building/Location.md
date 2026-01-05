@@ -74,15 +74,13 @@ try {
   }
 
   const data = result.getData()
+  console.log(data)
 
   let images = tp.user.get_all_files(app.vault.adapter.getBasePath(), "z_Assets")
   let selectedImage = await tp.system.suggester(images.map(i => i.name), images.map(i => i.path), false, "What image to use?")
   if (!selectedImage) selectedImage = "z_Assets/PlaceholderImage.png"
 
   await tp.file.move(path.posix.join(config.locations[data.location], data.name), tp.file.find_tfile(tp.file.title))
-
-
-
 
 } catch (e) {
   templateError = e.message
@@ -93,7 +91,7 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-location: "[[<% selectedLocation.join('|') %>]]"
+location: "<% dataview.page(data.location).file.link %>"
 image: <% selectedImage %>
 pronounced: 
 resources: []
