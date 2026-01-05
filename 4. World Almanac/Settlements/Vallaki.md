@@ -17,7 +17,9 @@ aliases:
 tags:
   - settlement
   - location
-travel: []
+travel:
+  - - Van Richten's Tower
+    - 12.7
 ---
 > [!infobox | wsmall]
 > # `=this.file.name`
