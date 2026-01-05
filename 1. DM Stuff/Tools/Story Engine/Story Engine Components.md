@@ -540,9 +540,9 @@ return { CardCategory }
 
 # PromptBuilder
 ```jsx
-const { CardCategory } = await dc.require(dc.headerLink("Story Engine/Story Engine Components.md", "CardCategory"))
-const CARD_TYPES = await dc.require(dc.headerLink("Story Engine/Story Engine Components.md", "CardTypes"))
-const PROMPT_TYPES = await dc.require(dc.headerLink("Story Engine/Story Engine Components.md", "PromptTypes"))
+const { CardCategory } = await dc.require(dc.headerLink("1. DM Stuff/Tools/Story Engine/Story Engine Components.md", "CardCategory"))
+const CARD_TYPES = await dc.require(dc.headerLink("1. DM Stuff/Tools/Story Engine/Story Engine Components.md", "CardTypes"))
+const PROMPT_TYPES = await dc.require(dc.headerLink("1. DM Stuff/Tools/Story Engine/Story Engine Components.md", "PromptTypes"))
 
 function PromptBuilder() {
   const [cards, setCards] = dc.useState([])
