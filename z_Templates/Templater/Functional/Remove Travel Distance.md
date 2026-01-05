@@ -1,4 +1,5 @@
 <%*
+const path = require('path')
 const dv = app.plugins.getPlugin("dataview").api
 const modalForm = app.plugins.getPlugin('modalforms').api
 
@@ -15,9 +16,9 @@ const result = await modalForm.openForm({
                 type: 'select',
                 allowUnknownValues: false,
                 hidden: false,
-                options: locations.map(l => ({
-                    label: l.file.name,
-                    value: l.file.name
+                options: currentLocations.map(l => ({
+                    label: path.basename(l[0]),
+                    value: l[0]
                 })),
                 source: 'fixed'
             }

@@ -18,7 +18,8 @@ tags:
   - settlement
   - location
 travel:
-  - [4. World Almanac/Settlements/Krezk.md, 2]
+  - - Old Bonegrinder
+    - 2
 ---
 > [!infobox | wsmall]
 > # `=this.file.name`

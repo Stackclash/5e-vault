@@ -24,7 +24,7 @@ const result = await modalForm.openForm({
         },
         {
             name: 'distance',
-            label: 'Distance'
+            label: 'Distance',
             description: 'How far is the location in miles?',
             isRequired: true,
             input: {
