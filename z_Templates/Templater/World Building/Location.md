@@ -27,6 +27,10 @@ try {
   if (!config || !config.locations || !config.locations.regions || !config.locations.settlements || !config.locations.pois) {
     throw new Error('Configuration for file locations is not set up correctly')
   }
+
+  const parentLocations = dataview.api.pages('#location')
+  console.log(parentLocations)
+
   const result = await modalForm.api.openForm({
     "title": "Location Setup",
     "name": "location-setup",
@@ -57,8 +61,8 @@ try {
         "description": "Where this location is located",
         "isRequired": true,
         "input": {
-          "type": "dataview",
-          "query": "dv.pages('\"" + config.locations.parties + "\"')"
+          "type": "select",
+          "options": parentLocations.map(l => ({label: l.file.name, value: l.file.path}))
         }
       }
     ],

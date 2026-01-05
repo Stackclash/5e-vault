@@ -14,13 +14,6 @@
           "isRequired": true,
           "input": {
             "type": "text",
-            "source": "fixed",
-            "options": [
-              {
-                "value": "Value",
-                "label": "label"
-              }
-            ],
             "hidden": false
           }
         },
@@ -28,15 +21,15 @@
           "name": "Location",
           "label": "",
           "description": "",
+          "isRequired": false,
           "input": {
             "type": "dataview",
-            "allowUnknownValues": false,
-            "hidden": false,
+            "query": "dv.pages('#location').file.name",
+            "filenameTemplate": "",
+            "saveLocation": "",
             "allowedExtensions": [],
-            "folder": "",
-            "query": "dv.pages('#location').file.name"
-          },
-          "isRequired": false
+            "folder": "z_Assets"
+          }
         }
       ],
       "version": "1"
