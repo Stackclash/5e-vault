@@ -12,6 +12,7 @@ location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 condition: healthy
 images:
   - 4. World Almanac/NPCs/token/urwin-martikov-cos.webp
+  - 4. World Almanac/NPCs/token/baphomet-mpmm.webp
 relationships:
   - Davian Martikov (COS)|father
   - Danika Dorakova (COS)|wife
@@ -39,6 +40,9 @@ partyRelationships: {}
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
+> ```carousel
+> images: 4. World Almanac/NPCs/token/urwin-martikov-cos.webp
+> ```
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
@@ -200,9 +204,6 @@ return function View() {
 ^statblock
 
 ## History
-```carousel
-images: 4. World Almanac/NPCs/token/urwin-martikov-cos.webp
-```
 TBD
 
 ## DM Notes
