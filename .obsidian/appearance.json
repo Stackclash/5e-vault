@@ -1,9 +1,7 @@
 {
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
-    "TTRPGCallouts",
     "booksanity",
-    "Custom Styles",
     "dnd5e-compendium",
     "ITS-Theme",
     "metabind-tabs",

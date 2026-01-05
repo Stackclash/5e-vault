@@ -44,7 +44,7 @@ partyRelationships: {}
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
 >```meta-bind
-> INPUT[imageListSuggester(optionQuery("z_Assets")):images]
+> INPUT[imageListSuggester(optionQuery("/")):images]
 > ```
 > ###### Bio
 >  |

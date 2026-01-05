@@ -1,6 +1,5 @@
 ---
 obsidianUIMode: preview
-image: z_Assets/Locations/Maps/Caste Ravenloft Main Floor.webp
 defaultZoom: -1
 minZoom: -2.5
 maxZoom: 1.5
@@ -8,6 +7,7 @@ unit: ft
 unitCount: 10
 zoomDelta: 0.5
 id: CastleRavenloft
+image: z_Assets/Locations/Maps/Amber Temple 2.webp
 ---
 
 > [!infobox|right]
