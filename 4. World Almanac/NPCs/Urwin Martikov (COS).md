@@ -40,9 +40,6 @@ partyRelationships: {}
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
-> ```carousel
-> images: 4. World Almanac/NPCs/token/urwin-martikov-cos.webp
-> ```
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
