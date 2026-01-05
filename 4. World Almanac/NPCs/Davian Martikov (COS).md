@@ -11,7 +11,7 @@ tags:
 location:
 condition: healthy
 images:
-  - ../../../../../4. World Almanac/NPCs/img/davian-martikov.webp
+  - 4. World Almanac/NPCs/img/davian-martikov.webp
 relationships:
   - Urwin Martikov (COS)|son
 aliases:

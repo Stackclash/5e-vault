@@ -10,7 +10,7 @@ tags:
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
-  - ../../../../../4. World Almanac/NPCs/img/baron-vargas-vallakovich.webp
+  - 4. World Almanac/NPCs/img/baron-vargas-vallakovich.webp
 relationships: []
 aliases:
   - Baron Vargas Vallakovich

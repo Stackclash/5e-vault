@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - ../../../../../4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp
+  - 4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp
 relationships: []
 aliases:
   - Sir Godfrey Gwilym

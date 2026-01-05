@@ -10,7 +10,7 @@ tags:
 location: null
 condition: healthy
 images:
-  - ../../../../../4. World Almanac/NPCs/img/izek-strazni.webp
+  - 4. World Almanac/NPCs/img/izek-strazni.webp
 relationships: []
 aliases:
   - Izek Strazni

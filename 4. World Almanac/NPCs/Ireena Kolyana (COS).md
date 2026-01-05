@@ -10,7 +10,7 @@ tags:
 location:
 condition: healthy
 images:
-  - ../../../../../4. World Almanac/NPCs/img/ireena-kolyana.webp
+  - 4. World Almanac/NPCs/img/ireena-kolyana.webp
 relationships:
   - Ismark Kolyanovich (COS)|brother
 aliases:
