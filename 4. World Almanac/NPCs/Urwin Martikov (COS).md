@@ -11,7 +11,7 @@ tags:
 location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 condition: healthy
 images:
-  - token/urwin-martikov-cos.webp
+  - 4. World Almanac/NPCs/token/urwin-martikov-cos.webp
 relationships:
   - Davian Martikov (COS)|father
   - Danika Dorakova (COS)|wife
@@ -201,7 +201,7 @@ return function View() {
 
 ## History
 ```carousel
-images: token/urwin-martikov-cos.webp
+images: 4. World Almanac/NPCs/token/urwin-martikov-cos.webp
 ```
 TBD
 
