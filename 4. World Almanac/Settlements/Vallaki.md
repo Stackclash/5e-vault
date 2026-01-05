@@ -17,9 +17,7 @@ aliases:
 tags:
   - settlement
   - location
-travel:
-  - - Old Bonegrinder
-    - 2
+travel: []
 ---
 > [!infobox | wsmall]
 > # `=this.file.name`
@@ -53,6 +51,9 @@ travel:
 > **Imports:** | `INPUT[inlineList:imports]` |
 > **Exports:** | `INPUT[inlineList:exports]` |
 > ###### Travel Distances
+> ```dataviewjs
+> dv.table(['Location', 'Distance', 'Travel Time'], dv.current().travel.map(t => t ? [dv.page(t[0]).file.link, `${t[1]} mi.`, `\`VIEW[round((${t[1]}* {Travel#TravelCalc}) / 60 / {Travel#HoursPerDay}, 1)]\` days`] : []))
+> ```
 > `BUTTON[addtravel,removetravel]`
 > ```meta-bind-button
 > style: primary
@@ -71,9 +72,6 @@ travel:
 > actions:
 >   - type: runTemplaterFile
 >     templateFile: "z_Templates/Templater/Functional/Remove Travel Distance.md"
-> ```
-> ```dataviewjs
-> dv.table(['Location', 'Distance', 'Travel Time'], dv.current().travel.map(t => t ? [dv.page(t[0]).file.link, `${t[1]} mi.`, `\`VIEW[round((${t[1]}* {Travel#TravelCalc}) / 60 / {Travel#HoursPerDay}, 1)]\` days`] : []))
 > ```
 
 `$= await dv.view("locationBreadcrumbs", {current: dv.current()})`

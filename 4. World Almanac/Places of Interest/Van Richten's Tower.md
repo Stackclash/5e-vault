@@ -50,6 +50,29 @@ tags:
 > ---|---|
 > **Imports:** | `INPUT[inlineList:imports]` |
 > **Exports:** | `INPUT[inlineList:exports]` |
+> ###### Travel Distances
+> ```dataviewjs
+> dv.table(['Location', 'Distance', 'Travel Time'], dv.current().travel.map(t => t ? [dv.page(t[0]).file.link, `${t[1]} mi.`, `\`VIEW[round((${t[1]}* {Travel#TravelCalc}) / 60 / {Travel#HoursPerDay}, 1)]\` days`] : []))
+> ```
+> `BUTTON[addtravel,removetravel]`
+> ```meta-bind-button
+> style: primary
+> id: addtravel
+> label: Add Travel Distance
+> hidden: true
+> actions:
+>   - type: runTemplaterFile
+>     templateFile: "z_Templates/Templater/Functional/Add Travel Distance.md"
+> ```
+> ```meta-bind-button
+> style: primary
+> id: removetravel
+> label: Remove Travel Distance
+> hidden: true
+> actions:
+>   - type: runTemplaterFile
+>     templateFile: "z_Templates/Templater/Functional/Remove Travel Distance.md"
+> ```
 
 `$= await dv.view("locationBreadcrumbs", {current: dv.current()})`
 # **`=this.file.name`**
