@@ -64,6 +64,9 @@ In addition, orcs have special relationships with two creatures that are sometim
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 13"
 "languages": "Common, Orc"

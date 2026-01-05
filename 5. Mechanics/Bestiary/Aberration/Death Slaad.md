@@ -81,6 +81,8 @@ Some slaadi can transform into the humanoid creatures from which they were origi
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+8"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
+"gear":
+  - "[[/5. Mechanics/Items/Greatsword.md|greatsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
   \ 60 ft., passive Perception 18"
 "languages": "Slaad, telepathy 60 ft."

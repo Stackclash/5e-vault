@@ -7,17 +7,18 @@ tags:
   - monster/cr/10
   - monster/size/medium
   - monster/type/humanoid/human
-location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
 condition: healthy
 images: []
 relationships: []
 aliases:
   - Madam Eva
+alignment: Chaotic Neutral
+partyRelationships: {}
+location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
 pronounced: MAD-ame EE-vah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 67
-alignment: Chaotic Neutral
 occupation:
   - Seer
 groups: []
@@ -31,7 +32,6 @@ flaw: >-
 goals: To guide the souls that come to her towards their destiny.
 likes: 'Reading fortunes, the respect of her people, the mystic arts.'
 dislikes: 'Those who disrespect the Vistani, closed-mindedness.'
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -40,7 +40,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -145,7 +145,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -199,6 +198,8 @@ return function View() {
     "desc": "+9"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+7"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "passive Perception 19"
 "languages": "Abyssal, Common, Elvish, Infernal"
 "cr": "10"

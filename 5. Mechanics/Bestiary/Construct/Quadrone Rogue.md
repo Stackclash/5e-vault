@@ -37,6 +37,8 @@ aliases:
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Shortbow.md|shortbow]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
   \ 12"
 "languages": "Modron"

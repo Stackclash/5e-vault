@@ -53,6 +53,8 @@ The training to which a deep scion is subjected rids it of empathy for those the
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Battleaxe.md|battleaxe]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 11"
 "languages": "Aquan, Common, thieves' cant"

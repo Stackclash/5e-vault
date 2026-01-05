@@ -7,17 +7,18 @@ tags:
   - monster/cr/0
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
 condition: healthy
 images: []
 relationships: []
 aliases:
   - Lady Lydia Petrovna
+alignment: Lawful Good
+partyRelationships: {}
+location: null
 pronounced: null
 race: null
 gender: null
 age: null
-alignment: Lawful Good
 occupation: []
 groups: []
 religions: []
@@ -28,7 +29,6 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 image: null
 ---
 
@@ -38,7 +38,7 @@ image: null
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -115,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -154,6 +153,8 @@ return function View() {
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Club.md|club]]"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"

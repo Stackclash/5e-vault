@@ -43,6 +43,8 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/8"

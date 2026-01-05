@@ -45,6 +45,8 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
   - !!int "8"
 "speed": "30 ft."
 "damage_immunities": "fire"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "passive Perception 10"
 "languages": "Draconic, Ignan"
 "cr": "1/2"

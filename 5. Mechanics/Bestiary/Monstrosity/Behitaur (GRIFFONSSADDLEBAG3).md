@@ -43,6 +43,9 @@ Behitaurs are many-legged half-human, half-behir monstrosities in much the same 
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "lightning"
+"gear":
+  - "[[/5. Mechanics/Items/Longbow.md|longbow]]"
+  - "[[/5. Mechanics/Items/Pike.md|pike]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 13"
 "languages": "Draconic plus one other language (usually Common or Elvish)"

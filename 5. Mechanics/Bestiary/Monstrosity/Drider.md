@@ -53,6 +53,9 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+9"
+"gear":
+  - "[[/5. Mechanics/Items/Longbow.md|longbow]]"
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 15"
 "languages": "Elvish, Undercommon"

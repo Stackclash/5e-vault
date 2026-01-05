@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/tce
   - item/attunement/required
+  - item/gear/spellcasting-focus
   - item/rarity/rare
 aliases:
   - Astromancy Archive
 weight: 3
 ---
 # Astromancy Archive
-*Wondrous item, rare (requires attunement by a wizard)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
 

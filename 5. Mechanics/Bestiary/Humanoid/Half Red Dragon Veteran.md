@@ -81,6 +81,10 @@ Here the half-dragon template has been applied to a human [[/5. Mechanics/Bestia
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
 "damage_resistances": "fire"
+"gear":
+  - "[[/5. Mechanics/Items/Heavy Crossbow.md|heavy crossbow]]"
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 10 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
   \ 60 ft., passive Perception 12"
 "languages": "Common, Draconic"

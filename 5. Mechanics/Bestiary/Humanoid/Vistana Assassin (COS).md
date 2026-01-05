@@ -48,6 +48,9 @@ aliases:
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+9"
 "damage_resistances": "poison"
+"gear":
+  - "[[/5. Mechanics/Items/Light Crossbow.md|light crossbow]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "passive Perception 13"
 "languages": "Thieves' cant plus any two languages"
 "cr": "8"

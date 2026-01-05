@@ -70,6 +70,8 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; poison; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
+"gear":
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Abyssal, Common, Infernal"

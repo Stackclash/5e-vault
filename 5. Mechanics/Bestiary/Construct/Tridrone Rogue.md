@@ -34,6 +34,8 @@ aliases:
   - !!int "10"
   - !!int "9"
 "speed": "30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
   \ 10"
 "languages": "Modron"

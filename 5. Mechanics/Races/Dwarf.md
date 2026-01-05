@@ -43,7 +43,7 @@ You have proficiency with the [[/5. Mechanics/Items/Battleaxe.md\|battleaxe]], [
 
 ### Tool Proficiency
 
-You gain proficiency with the artisan's tools of your choice: [[/5. Mechanics/Items/Smiths Tools.md\|Smith's tools]], [[/5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]], or [[/5. Mechanics/Items/Masons Tools.md\|mason's tools]].
+You gain proficiency with the [[/5. Mechanics/Items/Artisans Tools.md\|artisan's tools]] of your choice: [[/5. Mechanics/Items/Smiths Tools.md\|Smith's tools]], [[/5. Mechanics/Items/Brewers Supplies.md\|brewer's supplies]], or [[/5. Mechanics/Items/Masons Tools.md\|mason's tools]].
 
 ### Stonecunning
 

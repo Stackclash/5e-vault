@@ -43,6 +43,8 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]"
+"gear":
+  - "[[/5. Mechanics/Items/Flail.md|flail]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Auran, one language of its creator's choice"

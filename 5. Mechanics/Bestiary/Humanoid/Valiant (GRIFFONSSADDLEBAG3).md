@@ -49,6 +49,8 @@ Valiants are stoic warlocks that form a pact with creatures like Fey Knights, ri
     "desc": "+4"
 "damage_resistances": "see heroic resistance trait"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
+"gear":
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
 "senses": "passive Perception 14"
 "languages": "Common plus one other language"
 "cr": "7"

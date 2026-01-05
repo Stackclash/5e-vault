@@ -101,6 +101,9 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
   - "intelligence": !!int "5"
   - "wisdom": !!int "3"
   - "charisma": !!int "5"
+"gear":
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common, Goblin"

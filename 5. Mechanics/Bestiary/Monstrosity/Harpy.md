@@ -63,6 +63,8 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
   - !!int "10"
   - !!int "13"
 "speed": "20 ft., fly 40 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Club.md|club]]"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1"

@@ -68,6 +68,9 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
     "desc": "+8"
+"gear":
+  - "[[/5. Mechanics/Items/Greatsword.md|greatsword]]"
+  - "[[/5. Mechanics/Items/Shortbow.md|shortbow]]"
 "senses": "passive Perception 15"
 "languages": "any two languages"
 "cr": "12"

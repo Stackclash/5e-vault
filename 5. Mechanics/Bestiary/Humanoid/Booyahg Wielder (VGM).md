@@ -48,6 +48,9 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
+  - "[[/5. Mechanics/Items/Shortbow.md|shortbow]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": "Common, Goblin"

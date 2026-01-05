@@ -46,6 +46,9 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Halberd.md|halberd]]"
+  - "[[/5. Mechanics/Items/Heavy Crossbow.md|heavy crossbow]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "understands Infernal but can't speak, telepathy 120 ft."

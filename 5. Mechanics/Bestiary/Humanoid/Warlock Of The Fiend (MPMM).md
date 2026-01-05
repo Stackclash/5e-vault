@@ -56,6 +56,8 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
     "desc": "+7"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "any two languages (usually Abyssal or Infernal)"

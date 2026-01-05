@@ -81,6 +81,9 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
   - !!int "9"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Battleaxe.md|battleaxe]]"
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": "Common, Giant"

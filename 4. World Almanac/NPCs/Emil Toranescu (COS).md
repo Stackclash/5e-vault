@@ -8,18 +8,19 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: null
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/emil-toranescu.webp
 relationships: []
 aliases:
   - Emil Toranescu
+alignment: Chaotic Evil
+partyRelationships: {}
+location: null
 pronounced: null
 race: null
 gender: null
 age: null
-alignment: Chaotic Evil
 occupation: []
 groups: []
 religions: []
@@ -30,7 +31,6 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -39,7 +39,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -116,7 +116,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -144,7 +143,7 @@ return function View() {
 "subtype": "human, shapechanger"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "12 from natural armor in wolf or hybrid form"
+"ac_class": "12 natural armor in wolf or hybrid form"
 "hp": !!int "72"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -163,6 +162,8 @@ return function View() {
     "desc": "+3"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
+"gear":
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "passive Perception 14"
 "languages": "Common (can't speak in wolf form)"
 "cr": "3"

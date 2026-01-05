@@ -112,6 +112,8 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     "desc": "+7"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+7"
+"gear":
+  - "[[/5. Mechanics/Items/Morningstar.md|morningstar]]"
 "senses": "passive Perception 17"
 "languages": "Common, Giant"
 "cr": "9"

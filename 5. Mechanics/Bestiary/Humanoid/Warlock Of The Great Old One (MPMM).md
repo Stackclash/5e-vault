@@ -54,6 +54,8 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
   - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
     "desc": "+4"
 "damage_resistances": "psychic"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "any two languages, telepathy 30 ft."

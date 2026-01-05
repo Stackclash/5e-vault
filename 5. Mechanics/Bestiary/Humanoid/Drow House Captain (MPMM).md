@@ -53,6 +53,10 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+8"
+"gear":
+  - "[[/5. Mechanics/Items/Hand Crossbow.md|hand crossbow]]"
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
+  - "[[/5. Mechanics/Items/Whip.md|whip]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 16"
 "languages": "Elvish, Undercommon"

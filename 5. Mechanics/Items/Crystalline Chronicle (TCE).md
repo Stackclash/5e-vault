@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/tce
   - item/attunement/required
+  - item/gear/spellcasting-focus
   - item/rarity/very-rare
 aliases:
   - Crystalline Chronicle
 weight: 3
 ---
 # Crystalline Chronicle
-*Wondrous item, very rare (requires attunement by a wizard)*  
+*Wondrous item, spellcasting focus, very rare (requires attunement by a wizard)*  
 ![[/5. Mechanics/Items/img/crystalline-chronicle.webp#right]]  
 
 - **Weight**: 3.0 lbs.

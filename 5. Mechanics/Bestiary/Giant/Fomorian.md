@@ -60,6 +60,8 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
     "desc": "+8"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Greatclub.md|greatclub]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 18"
 "languages": "Giant, Undercommon"

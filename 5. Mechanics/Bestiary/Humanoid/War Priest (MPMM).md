@@ -65,6 +65,8 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Maul.md|maul]]"
 "senses": "passive Perception 13"
 "languages": "any two languages"
 "cr": "9"

@@ -283,9 +283,10 @@ const config = {
               for (let i = 0; i < frontMatter[key].length; i++) {
                 if (regex.test(frontMatter[key][i])) {
                   const extension = path.extname(frontMatter[key][i])
-                  const filePath = await updateFilePath.process({
-                    relativePath: path.parse(path.relative(config.rootVaultPath, frontMatter[key][i])).dir
+                  let filePath = await updateFilePath.process({
+                    relativePath: path.parse(frontMatter[key][i]).dir
                   })
+                  if (filePath.startsWith('/')) filePath = filePath.slice(1)
                   let fileName = path.parse(frontMatter[key][i]).name
 
                   if (!['.jpg', '.jpeg', '.png', '.webp'].includes(extension)) {

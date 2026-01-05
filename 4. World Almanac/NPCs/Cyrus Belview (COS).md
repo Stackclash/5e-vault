@@ -7,20 +7,21 @@ tags:
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/mongrelfolk
-location: >-
-  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
-  Saint Markovia]]
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/cyrus-belview.webp
 relationships: []
 aliases:
   - Cyrus Belview
+alignment: Any alignment
+partyRelationships: {}
+location: >-
+  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
+  Saint Markovia]]
 pronounced: SY-rus BEL-view
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 48
-alignment: Any alignment
 occupation: []
 groups: []
 religions: []
@@ -37,7 +38,6 @@ goals: >-
   acceptance
 likes: 'Simplicity, cleanliness, the rare praise or kindness shown to him'
 dislikes: 'Violence, the harsh judgments of outsiders, the complexities of moral dilemmas'
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -46,7 +46,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -123,7 +123,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -170,6 +169,8 @@ return function View() {
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1/4"

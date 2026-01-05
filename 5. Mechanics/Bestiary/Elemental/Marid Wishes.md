@@ -41,6 +41,8 @@ aliases:
   - "wisdom": !!int "7"
   - "charisma": !!int "8"
 "damage_resistances": "acid, cold, lightning"
+"gear":
+  - "[[/5. Mechanics/Items/Trident.md|trident]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
   \ 120 ft., passive Perception 13"
 "languages": "Aquan"

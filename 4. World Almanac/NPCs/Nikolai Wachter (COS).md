@@ -7,29 +7,29 @@ tags:
   - monster/cr/1-8
   - monster/size/medium
   - monster/type/humanoid/human
-location: "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
 condition: healthy
-images:
+images: []
 relationships: []
 aliases:
   - Nikolai Wachter
-pronounced:
-race:
-gender: male
-age:
 alignment: Lawful Neutral
+partyRelationships: {}
+location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
+pronounced: null
+race: null
+gender: male
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
-partyRelationships: {}
-image:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
+image: null
 ---
 
 > [!infobox]
@@ -38,7 +38,7 @@ image:
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -115,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -162,6 +161,8 @@ return function View() {
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Rapier.md|rapier]]"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"

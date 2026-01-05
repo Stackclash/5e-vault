@@ -7,18 +7,19 @@ tags:
   - monster/cr/5
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/izek-strazni.webp
 relationships: []
 aliases:
   - Izek Strazni
+alignment: Neutral Evil
+partyRelationships: {}
+location: null
 pronounced: null
 race: null
 gender: null
 age: null
-alignment: Neutral Evil
 occupation: []
 groups: []
 religions: []
@@ -31,7 +32,6 @@ flaw: 'I would do anything, kill anything, to find my sister.'
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -40,7 +40,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -151,7 +151,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -196,6 +195,8 @@ return function View() {
     "desc": "+8"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Battleaxe.md|battleaxe]]"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "5"

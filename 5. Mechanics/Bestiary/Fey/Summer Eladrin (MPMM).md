@@ -63,6 +63,9 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+8"
 "damage_resistances": "fire"
+"gear":
+  - "[[/5. Mechanics/Items/Longbow.md|longbow]]"
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "Common, Elvish, Sylvan"

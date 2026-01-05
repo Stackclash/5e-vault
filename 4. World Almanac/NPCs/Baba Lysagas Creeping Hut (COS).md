@@ -7,18 +7,19 @@ tags:
   - monster/cr/11
   - monster/size/gargantuan
   - monster/type/construct
-location: null
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/baba-lysagas-creeping-hut.webp
 relationships: []
 aliases:
   - Baba Lysaga's Creeping Hut
+alignment: Unaligned
+partyRelationships: {}
+location: null
 pronounced: null
 race: null
 gender: null
 age: null
-alignment: Unaligned
 occupation: []
 groups: []
 religions: []
@@ -29,7 +30,6 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -38,7 +38,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -125,7 +125,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',

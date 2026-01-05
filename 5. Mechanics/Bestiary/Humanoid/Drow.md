@@ -95,6 +95,9 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Hand Crossbow.md|hand crossbow]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 12"
 "languages": "Elvish, Undercommon"

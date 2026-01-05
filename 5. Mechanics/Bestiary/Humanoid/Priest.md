@@ -45,6 +45,8 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Mace.md|mace]]"
 "senses": "passive Perception 13"
 "languages": "any two languages"
 "cr": "2"

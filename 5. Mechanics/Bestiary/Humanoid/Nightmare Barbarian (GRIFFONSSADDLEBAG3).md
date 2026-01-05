@@ -42,6 +42,8 @@ Barbarians that are driven by their innermost turmoil as much as they are their 
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Maul.md|maul]]"
 "senses": "passive Perception 10"
 "languages": "Common plus one other language"
 "cr": "4"

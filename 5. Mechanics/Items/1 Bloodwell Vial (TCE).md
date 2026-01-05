@@ -4,12 +4,13 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/tce
   - item/attunement/required
+  - item/gear/spellcasting-focus
   - item/rarity/uncommon
 aliases:
   - +1 Bloodwell Vial
 ---
 # +1 Bloodwell Vial
-*Wondrous item, uncommon (requires attunement by a sorcerer)*  
+*Wondrous item, spellcasting focus, uncommon (requires attunement by a sorcerer)*  
 
 
 To attune to this vial, you must place a few drops of your blood into it. The vial can't be opened while your attunement to it lasts. If your attunement to the vial ends, the contained blood turns to ash. You can use the vial as a spellcasting focus for your spells while wearing or holding it, and you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your sorcerer spells.

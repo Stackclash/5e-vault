@@ -52,6 +52,9 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Hand Crossbow.md|hand crossbow]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "passive Perception 16"
 "languages": "any two languages"
 "cr": "1"

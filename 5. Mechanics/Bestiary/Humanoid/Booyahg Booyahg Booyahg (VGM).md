@@ -53,6 +53,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "any four languages, Goblin"

@@ -74,7 +74,7 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 
 > [!quote] A quote from An account of War Chief Hartusk's brutality in the aftermath of the Battle of the Cold Vale  
 > 
-> He worked his serrated long knife savagely, tearing out the king's throat to the howls of approval from his legions .The ferocious orc didn't stop there, digging and ripping the blade back and forth unrelentingly until he took the head off the dwarf king's shoulders.
+> He worked his serrated long knife savagely, tearing out the king's throat to the howls of approval from his legions. The ferocious orc didn't stop there, digging and ripping the blade back and forth unrelentingly until he took the head off the dwarf king's shoulders.
 
 
 ```statblock
@@ -103,6 +103,9 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Greataxe.md|greataxe]]"
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common, Orc"

@@ -72,7 +72,7 @@ Mist horrors are bodiless spirits of dread, entities given form by the fears of 
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "15"
-"ac_class": "natural armor; 17 from Aberrant Armor Only"
+"ac_class": "natural armor; 17 Aberrant Armor Only"
 "hp": !!int "95"
 "hit_dice": "10d10 + 40"
 "modifier": !!int "1"

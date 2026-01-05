@@ -48,6 +48,8 @@ A spellcaster with twin souls inside it. Sparks of necrotic magic fly between th
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
 "damage_resistances": "necrotic"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "passive Perception 16"
 "languages": "Common plus three other languages"
 "cr": "12"

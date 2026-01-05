@@ -49,6 +49,8 @@ Heretics are tricksters that interface with deities but aren't called to serve a
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/Mace.md|mace]]"
 "senses": "passive Perception 13"
 "languages": "Common, Thieves' cant, plus any one language"
 "cr": "3"

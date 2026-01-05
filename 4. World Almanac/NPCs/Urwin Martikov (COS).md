@@ -8,32 +8,28 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 condition: healthy
-images:
-  - 4. World Almanac/NPCs/token/urwin-martikov-cos.webp
-relationships:
-  - Davian Martikov (COS)|father
-  - Danika Dorakova (COS)|wife
-  - Bray Martikov (COS)|son
+images: []
+relationships: []
 aliases:
   - Urwin Martikov
-pronounced:
-race:
-gender: male
-age:
 alignment: Lawful Good
-occupation:
+partyRelationships: {}
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
+pronounced: null
+race: null
+gender: male
+age: null
+occupation: null
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
-partyRelationships: {}
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -42,10 +38,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
-> INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
-> ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -122,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -166,6 +158,9 @@ return function View() {
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/Hand Crossbow.md|hand crossbow]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "passive Perception 16"
 "languages": "Common (can't speak in raven form)"
 "cr": "2"

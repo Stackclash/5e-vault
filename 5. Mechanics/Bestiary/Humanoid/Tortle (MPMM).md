@@ -48,6 +48,9 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Light Crossbow.md|light crossbow]]"
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "passive Perception 11"
 "languages": "Aquan, Common"
 "cr": "1/4"

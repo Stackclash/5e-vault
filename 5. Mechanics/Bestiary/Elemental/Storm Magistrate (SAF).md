@@ -57,6 +57,8 @@ The Magistrate's deadliest weapon is Storm Strike, which combines chain lightnin
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Morningstar.md|morningstar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 19"
 "languages": "Auran, Common, Ignan"

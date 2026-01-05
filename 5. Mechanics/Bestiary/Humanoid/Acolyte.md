@@ -42,6 +42,8 @@ Acolytes are junior members of a clergy, usually answerable to a priest. They pe
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Club.md|club]]"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/4"

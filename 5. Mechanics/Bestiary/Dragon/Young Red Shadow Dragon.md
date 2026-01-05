@@ -103,8 +103,8 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
   - "desc": "While in dim light or darkness, the dragon has resistance to damage that\
       \ isn't force, psychic, or radiant."
     "name": "Living Shadow"
-  - "desc": "While in dim light or darkness, the dragon can take the Hide action as\
-      \ a bonus action."
+  - "desc": "While in dim light or darkness, the dragon can take the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
+      \ action as a bonus action."
     "name": "Shadow Stealth"
   - "desc": "While in sunlight, the dragon has disadvantage on attack rolls, as well\
       \ as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\

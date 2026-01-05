@@ -7,20 +7,21 @@ tags:
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/mongrelfolk
-location: >-
-  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
-  Saint Markovia]]
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/clovin-belview.webp
 relationships: []
 aliases:
   - Clovin Belview
+alignment: Neutral Evil
+partyRelationships: {}
+location: >-
+  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
+  Saint Markovia]]
 pronounced: CLOH-vin BEL-view
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 54
-alignment: Neutral Evil
 occupation:
   - Caretaker
 groups: []
@@ -42,7 +43,6 @@ likes: >-
 dislikes: >-
   The disdain or fear of outsiders, the cruelty of his existence, the conflict
   within the Abbey
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -51,7 +51,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -128,7 +128,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -175,6 +174,8 @@ return function View() {
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1/4"

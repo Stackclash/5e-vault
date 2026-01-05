@@ -67,6 +67,8 @@ An azer doesn't require food, drink, or sleep.
   - "constitution": !!int "4"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Warhammer.md|warhammer]]"
 "senses": "passive Perception 11"
 "languages": "Ignan"
 "cr": "2"

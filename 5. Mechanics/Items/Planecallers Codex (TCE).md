@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/tce
   - item/attunement/required
+  - item/gear/spellcasting-focus
   - item/rarity/rare
 aliases:
   - Planecaller's Codex
 weight: 3
 ---
 # Planecaller's Codex
-*Wondrous item, rare (requires attunement by a wizard)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
 

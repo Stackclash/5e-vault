@@ -58,6 +58,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+4"
 "damage_resistances": "slashing from nonmagical attacks not made with silvered weapons"
+"gear":
+  - "[[/5. Mechanics/Items/Mace.md|mace]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
   \ 60 ft., passive Perception 11"
 "languages": "any two languages (usually Abyssal or Infernal), Goblin"

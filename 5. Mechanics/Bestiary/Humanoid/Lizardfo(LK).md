@@ -81,6 +81,8 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
 "senses": "passive Perception 13"
 "languages": "Draconic"
 "cr": "1/2"

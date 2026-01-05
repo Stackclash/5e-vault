@@ -86,6 +86,8 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]]"
+"gear":
+  - "[[/5. Mechanics/Items/Maul.md|maul]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 11"
 "languages": "Terran"

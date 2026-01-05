@@ -54,6 +54,8 @@ In the aftermath of Eberron's Last War, a warforged called the Lord of Blades ro
 "damage_resistances": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
 "senses": "passive Perception 16"
 "languages": "Common"
 "cr": "9"

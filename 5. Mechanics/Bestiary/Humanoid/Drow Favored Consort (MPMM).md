@@ -55,6 +55,8 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
     "desc": "+8"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+11"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 18"
 "languages": "Elvish, Undercommon"

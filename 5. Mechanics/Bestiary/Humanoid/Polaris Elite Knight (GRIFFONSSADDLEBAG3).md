@@ -47,6 +47,8 @@ The knights of Polaris are qualified enforcement agents in their own right, but 
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/Glaive.md|glaive]]"
 "senses": "passive Perception 16"
 "languages": "any one language (usually Common)"
 "cr": "3"

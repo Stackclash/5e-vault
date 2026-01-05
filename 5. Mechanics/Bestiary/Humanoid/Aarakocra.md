@@ -57,6 +57,8 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
 "senses": "passive Perception 15"
 "languages": "Auran, Aarakocra"
 "cr": "1/4"

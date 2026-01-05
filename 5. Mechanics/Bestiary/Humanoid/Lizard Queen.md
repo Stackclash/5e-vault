@@ -85,6 +85,8 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+4"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
+"gear":
+  - "[[/5. Mechanics/Items/Trident.md|trident]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Abyssal, Draconic"

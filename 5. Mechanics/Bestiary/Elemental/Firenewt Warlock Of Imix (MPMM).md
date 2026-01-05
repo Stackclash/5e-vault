@@ -43,6 +43,8 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
   - !!int "14"
 "speed": "30 ft."
 "damage_immunities": "fire"
+"gear":
+  - "[[/5. Mechanics/Items/Morningstar.md|morningstar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 10"
 "languages": "Draconic, Ignan"

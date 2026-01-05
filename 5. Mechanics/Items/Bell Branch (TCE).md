@@ -4,12 +4,13 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/tce
   - item/attunement/required
+  - item/gear/spellcasting-focus
   - item/rarity/rare
 aliases:
   - Bell Branch
 ---
 # Bell Branch
-*Wondrous item, rare (requires attunement by a druid or warlock)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a druid or warlock)*  
 
 
 This silver implement is shaped like a tree branch and is strung with small golden bells. The branch is a spellcasting focus for your spells while you hold it.

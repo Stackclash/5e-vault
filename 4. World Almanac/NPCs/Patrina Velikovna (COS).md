@@ -7,18 +7,19 @@ tags:
   - monster/cr/12
   - monster/size/medium
   - monster/type/humanoid/dusk-elf
-location: null
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/patrina-velikovna.webp
 relationships: []
 aliases:
   - Patrina Velikovna
+alignment: Neutral Evil
+partyRelationships: {}
+location: null
 pronounced: null
 race: null
 gender: null
 age: null
-alignment: Neutral Evil
 occupation: []
 groups: []
 religions: []
@@ -29,7 +30,6 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -38,7 +38,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -115,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -165,6 +164,8 @@ return function View() {
     "desc": "+13"
 "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing\
   \ (from stoneskin)"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "passive Perception 12"
 "languages": "any six languages"
 "cr": "12"

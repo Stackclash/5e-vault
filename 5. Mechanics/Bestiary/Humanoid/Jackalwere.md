@@ -61,6 +61,8 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
     "desc": "+4"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "passive Perception 12"
 "languages": "Common (can't speak in jackal form)"
 "cr": "1/2"

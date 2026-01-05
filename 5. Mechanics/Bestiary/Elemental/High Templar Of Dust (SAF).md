@@ -64,6 +64,8 @@ The High Templar of Dust focuses on movement, moving through enemies to use its 
   \ [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Prone|prone]], [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Unconscious|unconscious]]"
+"gear":
+  - "[[/5. Mechanics/Items/Halberd.md|halberd]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 17"
 "languages": "Aquan, Auran, Common, Ignan, Terran"

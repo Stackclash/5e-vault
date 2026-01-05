@@ -27,8 +27,8 @@ These special druids are labeled in ascending order below by their strength and 
 "subtype": "human"
 "alignment": "Lawful Neutral"
 "ac": !!int "13"
-"ac_class": "[[/5. Mechanics/Items/Hide Armor.md|hide armor]]; 16 from natural armor\
-  \ in dragon form"
+"ac_class": "[[/5. Mechanics/Items/Hide Armor.md|hide armor]]; 16 natural armor in dragon\
+  \ form"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "1"
@@ -47,6 +47,8 @@ These special druids are labeled in ascending order below by their strength and 
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Sickle.md|sickle]]"
 "senses": "passive Perception 16"
 "languages": "Common, Draconic, Druidic"
 "cr": "5"

@@ -7,17 +7,18 @@ tags:
   - monster/cr/1
   - monster/size/large
   - monster/type/beast
-location: null
 condition: healthy
 images: []
 relationships: []
 aliases:
   - Sangzor
+alignment: Chaotic Evil
+partyRelationships: {}
+location: null
 pronounced: null
 race: null
 gender: null
 age: null
-alignment: Chaotic Evil
 occupation: []
 groups: []
 religions: []
@@ -28,7 +29,6 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 image: null
 ---
 
@@ -38,7 +38,7 @@ image: null
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -115,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',

@@ -67,7 +67,7 @@ Some individuals see little point in fighting the curse and accept what they are
 "subtype": "human, shapechanger"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "12 from natural armor in wolf or hybrid form"
+"ac_class": "12 natural armor in wolf or hybrid form"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -86,6 +86,8 @@ Some individuals see little point in fighting the curse and accept what they are
     "desc": "+3"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
+"gear":
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "passive Perception 14"
 "languages": "Common (can't speak in wolf form)"
 "cr": "3"

@@ -66,6 +66,8 @@ A zombie doesn't require air, food, drink, or sleep.
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Morningstar.md|morningstar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 8"
 "languages": "understands Common and Giant but can't speak"

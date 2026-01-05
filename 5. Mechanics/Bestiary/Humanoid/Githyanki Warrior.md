@@ -82,6 +82,8 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
   - "constitution": !!int "3"
   - "intelligence": !!int "3"
   - "wisdom": !!int "3"
+"gear":
+  - "[[/5. Mechanics/Items/Greatsword.md|greatsword]]"
 "senses": "passive Perception 11"
 "languages": "Gith"
 "cr": "3"

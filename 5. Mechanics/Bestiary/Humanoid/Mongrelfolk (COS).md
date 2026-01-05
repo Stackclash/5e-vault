@@ -62,6 +62,8 @@ Mongrelfolk can breed with other humanoids, but nearly all children born to such
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1/4"

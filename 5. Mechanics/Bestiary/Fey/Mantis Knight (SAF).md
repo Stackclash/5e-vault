@@ -61,6 +61,8 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
     "desc": "+7"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Rapier.md|rapier]]"
 "senses": "passive Perception 17"
 "languages": "Common, Elvish, Sylvan"
 "cr": "5"

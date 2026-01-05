@@ -7,31 +7,18 @@ tags:
 {#for tag in resource.tags}
 - {tag}
 {/for}
-location: 
 condition: healthy
-{#if resource.fluffImages && resource.fluffImages.size > 0 }{#let first=resource.fluffImages.get(0)}
+{#if resource.fluffImages && resource.fluffImages.size > 0 }
 images: 
-- {first.vaultPath}
-{/let}{#else}
+{#for image in resource.fluffImages}
+- {image.vaultPath}
+{/for}
+{#else}
 images: []
 {/if} 
 relationships: []
 aliases: [{resource.name}]
-pronounced: 
-race: 
-gender: 
-age: 
 alignment: {resource.alignment}
-occupation: 
-groups: []
-religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
 partyRelationships: \{\}
 ---
 
@@ -40,6 +27,9 @@ partyRelationships: \{\}
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```dataviewjs
 > await dv.view('imageCarousel', \{current: dv.current()\})
+> ```
+> ```meta-bind
+> INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
 >  |

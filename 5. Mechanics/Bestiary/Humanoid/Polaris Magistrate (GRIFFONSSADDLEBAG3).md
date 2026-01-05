@@ -50,6 +50,8 @@ Powerful archmages in their own right, the Magistrates of Polaris are long-lived
     "desc": "+7"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Investigation|Investigation]]"
     "desc": "+9"
+"gear":
+  - "[[/5. Mechanics/Items/Quarterstaff.md|quarterstaff]]"
 "senses": "passive Perception 13"
 "languages": "Common plus up to five other languages"
 "cr": "12"

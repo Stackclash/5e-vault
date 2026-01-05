@@ -60,6 +60,8 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "14"
 "speed": "25 ft."
 "damage_resistances": "poison"
+"gear":
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 11"
 "languages": "Dwarvish, Undercommon"

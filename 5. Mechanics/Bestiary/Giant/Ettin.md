@@ -66,6 +66,9 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Battleaxe.md|battleaxe]]"
+  - "[[/5. Mechanics/Items/Morningstar.md|morningstar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Giant, Orc"

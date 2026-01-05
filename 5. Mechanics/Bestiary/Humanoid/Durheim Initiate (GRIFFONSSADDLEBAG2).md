@@ -41,6 +41,8 @@ Those who have only recently begun to follow the teachings of Attiskin are refer
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Insight|Insight]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "passive Perception 12"
 "languages": "Common, plus one other language"
 "cr": "1/2"

@@ -58,6 +58,8 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   \ that aren't silvered"
 "damage_immunities": "acid, fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."

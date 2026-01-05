@@ -54,6 +54,8 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
 "damage_resistances": "fire, poison"
+"gear":
+  - "[[/5. Mechanics/Items/Greatsword.md|greatsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "Abyssal, Common, plus any one language"

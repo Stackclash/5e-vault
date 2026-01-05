@@ -49,6 +49,8 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Dart.md|dart]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "Common, Goblin"

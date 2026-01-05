@@ -69,6 +69,8 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
+"gear":
+  - "[[/5. Mechanics/Items/Mace.md|mace]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 19"
 "languages": "all, telepathy 120 ft."

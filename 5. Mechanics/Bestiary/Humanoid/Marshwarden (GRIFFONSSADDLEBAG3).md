@@ -45,6 +45,9 @@ aliases:
     "desc": "+7"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+8"
+"gear":
+  - "[[/5. Mechanics/Items/Blowgun.md|blowgun]]"
+  - "[[/5. Mechanics/Items/Rapier.md|rapier]]"
 "senses": "passive Perception 17"
 "languages": "Common plus two other languages"
 "cr": "6"

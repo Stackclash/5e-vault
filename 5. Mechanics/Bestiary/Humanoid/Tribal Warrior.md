@@ -46,6 +46,8 @@ Tribal warriors live beyond civilization, most often subsisting on fishing and h
   - !!int "11"
   - !!int "8"
 "speed": "30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "passive Perception 10"
 "languages": "any one language"
 "cr": "1/8"

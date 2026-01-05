@@ -49,6 +49,8 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+9"
+"gear":
+  - "[[/5. Mechanics/Items/Hand Crossbow.md|hand crossbow]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 16"
 "languages": "Elvish, Undercommon"

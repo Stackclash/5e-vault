@@ -67,6 +67,8 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 15"
 "languages": "Sahuagin"

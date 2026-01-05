@@ -7,18 +7,19 @@ tags:
   - monster/cr/10
   - monster/size/medium
   - monster/type/humanoid/elf
-location: null
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/rahadin.webp
 relationships: []
 aliases:
   - Rahadin
+alignment: Lawful Evil
+partyRelationships: {}
+location: null
 pronounced: null
 race: null
 gender: null
 age: null
-alignment: Lawful Evil
 occupation: []
 groups: []
 religions: []
@@ -33,7 +34,6 @@ flaw: >-
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -42,7 +42,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -157,7 +157,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -211,6 +210,8 @@ return function View() {
     "desc": "+11"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+14"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 21"
 "languages": "Common, Elvish"

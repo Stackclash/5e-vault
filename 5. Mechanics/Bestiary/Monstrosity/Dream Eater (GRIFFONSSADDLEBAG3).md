@@ -40,6 +40,8 @@ Dream eaters are headless, lumbering giantfolk with taut mouths stretched across
   - "constitution": !!int "6"
 "damage_resistances": "poison, psychic"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Blinded|blinded]]"
+"gear":
+  - "[[/5. Mechanics/Items/Greatclub.md|greatclub]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 60 ft. (blind beyond\
   \ this radius), passive Perception 9"
 "languages": "Giant"

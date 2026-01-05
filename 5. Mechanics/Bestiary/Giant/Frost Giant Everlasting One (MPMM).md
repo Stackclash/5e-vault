@@ -51,6 +51,8 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
 "damage_immunities": "cold"
+"gear":
+  - "[[/5. Mechanics/Items/Greataxe.md|greataxe]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Giant"

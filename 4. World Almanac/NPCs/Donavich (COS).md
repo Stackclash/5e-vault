@@ -7,18 +7,19 @@ tags:
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/human
-location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/donavich.webp
 relationships: []
 aliases:
   - Donavich
+alignment: Lawful Good
+partyRelationships: {}
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 pronounced: DON-a-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 50
-alignment: Lawful Good
 occupation:
   - Priest
 groups: []
@@ -30,7 +31,6 @@ flaw: His faith wavers in the face of his son's affliction.
 goals: 'To protect his flock, to cure his son'
 likes: 'Dawn, prayer, community gatherings'
 dislikes: 'Darkness, Strahd’s influence, seeing his parishioners suffer'
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -39,7 +39,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -116,7 +116,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -160,6 +159,8 @@ return function View() {
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Club.md|club]]"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/4"

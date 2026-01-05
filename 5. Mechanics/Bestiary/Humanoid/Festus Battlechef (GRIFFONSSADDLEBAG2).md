@@ -43,6 +43,8 @@ A veteran of both cuisine and combat, the battlechef is a devout warrior and an 
   - "name": "[[/5. Mechanics/Rules/Skills.md#Nature|Nature]]"
     "desc": "+3"
 "damage_resistances": "poison"
+"gear":
+  - "[[/5. Mechanics/Items/Handaxe.md|handaxe]]"
 "senses": "passive Perception 13"
 "languages": "Common, plus two other languages"
 "cr": "5"

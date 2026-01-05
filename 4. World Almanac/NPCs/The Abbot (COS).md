@@ -7,17 +7,18 @@ tags:
   - monster/cr/10
   - monster/size/medium
   - monster/type/celestial
-location: null
 condition: healthy
 images: []
 relationships: []
 aliases:
   - The Abbot
+alignment: Lawful Evil
+partyRelationships: {}
+location: null
 pronounced: null
 race: null
 gender: null
 age: null
-alignment: Lawful Evil
 occupation: []
 groups: []
 religions: []
@@ -28,7 +29,6 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 image: null
 ---
 
@@ -38,7 +38,7 @@ image: null
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -115,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -165,6 +164,8 @@ return function View() {
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
+"gear":
+  - "[[/5. Mechanics/Items/Mace.md|mace]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 19"
 "languages": "all, telepathy 120 ft."

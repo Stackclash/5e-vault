@@ -50,6 +50,8 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+1"
 "damage_resistances": "see Dragon's Resistance below"
+"gear":
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "Common, Draconic"

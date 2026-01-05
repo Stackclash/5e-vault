@@ -33,7 +33,7 @@ The characters can learn one secret in this chapter that is applicable to the ru
 
 ### Fourth Rod Piece
 
-The [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|fourth piece]] of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is in area `D38` of Death House. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
+The [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|fourth piece]] of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] is in area D38 of Death House. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
 
 ## Barovia
 
@@ -207,13 +207,13 @@ Sarusanda uses [[/5. Mechanics/Spells/Speak With Dead.md\|Speak with Dead]] to c
 
 ##### Interrogating the Skull
 
-Elya's skull offers its words in hair-raising, singsong whispers. The skull doesn't know anything about the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] or the priests of Osybus. It can, however, give directions to the cultists' ritual chamber (area `D38`) and describe their general motives: "We wish to impress our glorious lord, Strahd von Zarovich!"
+Elya's skull offers its words in hair-raising, singsong whispers. The skull doesn't know anything about the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] or the priests of Osybus. It can, however, give directions to the cultists' ritual chamber (area D38) and describe their general motives: "We wish to impress our glorious lord, Strahd von Zarovich!"
 
 Once Sarusanda is done speaking with the skull, it cackles in grim amusement, then floats into the air. Three [[/5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisps]] emerge from corners of the room and join the skull (use the [[/5. Mechanics/Bestiary/Undead/Flameskull.md\|flameskull]] stat block) in attacking the party and Sarusanda.
 
 #### Crisis of Faith
 
-Run this encounter with Sarusanda after the characters have claimed the rod piece from the cultists (see area `D38`) but before they encounter Strahd.
+Run this encounter with Sarusanda after the characters have claimed the rod piece from the cultists (see area D38) but before they encounter Strahd.
 
 > [!readaloud] 
 > 
@@ -248,7 +248,7 @@ When Strahd enters the house later in this chapter, certain doors marked on the 
 
 #### Lighting
 
-Unless otherwise noted, each room in the house is lit with bright light by oil lamps, a fireplace, or some other light source when the characters arrive. The cultists take oil lamps into the ritual chamber (area `D38`) when they gather there.
+Unless otherwise noted, each room in the house is lit with bright light by oil lamps, a fireplace, or some other light source when the characters arrive. The cultists take oil lamps into the ritual chamber (area D38) when they gather there.
 
 #### The Mists
 
@@ -307,7 +307,7 @@ Roll on the Death House Encounters table the first time a character enters this 
 
 ##### Trapdoor
 
-A character searching the southwest corner of the room finds a trapdoor with a successful DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. The trapdoor is barred from the other side (area `D32`). It is a Medium object with AC 13, 15 hit points, and immunity to poison and psychic damage.
+A character searching the southwest corner of the room finds a trapdoor with a successful DC 20 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. The trapdoor is barred from the other side (area D32). It is a Medium object with AC 13, 15 hit points, and immunity to poison and psychic damage.
 
 #### D4a–D4b: Kitchen and Pantry
 
@@ -344,7 +344,7 @@ The silverware and crystalware here are worth 2,500 gp total.
 > Unlit oil lamps are mounted on the walls of this elegant hall. Hanging above the mantelpiece is a wood-framed portrait of a family: a man and a woman with two smiling children—the same children you saw outside. The marble staircase continues upward.
 ^250
 
-The red marble staircase that started on the first floor continues its upward spiral to area `D11`. A cold draft flows down the steps.
+The red marble staircase that started on the first floor continues its upward spiral to area D11. A cold draft flows down the steps.
 
 #### D7a–D7b: Servants' Room and Closet
 
@@ -421,7 +421,7 @@ A character who examines the west wall and succeeds on a DC 15 Intelligence ([[/
 > Burgundy drapes cover the windows of this large bedroom. The furnishings include a four-poster bed, a matching pair of wardrobes, and a vanity with a jewelry box. A portrait of a man and woman hangs above a fireplace. A parlor in the southwest corner contains a table and two chairs.
 ^262
 
-The couple in the portrait are the same people from the family portrait in the upper hall (area `D6`). A door facing the foot of the bed opens to an empty closet (area D12b). A door in the parlor leads to an outside balcony (area D12c).
+The couple in the portrait are the same people from the family portrait in the upper hall (area D6). A door facing the foot of the bed opens to an empty closet (area D12b). A door in the parlor leads to an outside balcony (area D12c).
 
 ##### Dumbwaiter
 
@@ -471,7 +471,7 @@ A character who examines the mirror and succeeds on a DC 15 Intelligence ([[/5. 
 
 #### D16: Attic Hall
 
-This bare hallway can be accessed by the staircase behind the secret doors in areas `D11` and D15a.
+This bare hallway can be accessed by the staircase behind the secret doors in areas D11 and D15a.
 
 #### D17: Spare Bedroom
 
@@ -491,7 +491,7 @@ This room is otherwise empty.
 
 ##### Secret Door
 
-A character who examines the east wall and succeeds on a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check finds a secret door that opens to reveal a secret stair (area `D21`) to the dungeon (area `D22`).
+A character who examines the east wall and succeeds on a DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check finds a secret door that opens to reveal a secret stair (area D21) to the dungeon (area D22).
 
 #### D19: Spare Bedroom
 
@@ -529,7 +529,7 @@ The wooden spiral staircase from the attic (area `D21`) ends here. A narrow tunn
 
 ##### Chanting
 
-From the moment they arrive in the dungeon, the characters hear an eerie, incessant chant echoing throughout the chambers. It's impossible to determine which direction the sound is coming from until the characters reach areas `D26` or `D29`. They can't discern its words until they reach area `D35`.
+From the moment they arrive in the dungeon, the characters hear an eerie, incessant chant echoing throughout the chambers. It's impossible to determine which direction the sound is coming from until the characters reach areas D26 or D29. They can't discern its words until they reach area D35.
 
 #### D23c–D23f: Family Crypts
 
@@ -599,7 +599,7 @@ The chanting heard throughout the dungeon is noticeably louder to the north of t
 
 #### D30: Stairs Down
 
-Any character standing at the top of this 20-foot-long staircase realizes the chants originate from somewhere below. Characters who descend the stairs and follow the hall beyond arrive in area `D35`.
+Any character standing at the top of this 20-foot-long staircase realizes the chants originate from somewhere below. Characters who descend the stairs and follow the hall beyond arrive in area D35.
 
 #### D31: Darklord's Shrine
 
@@ -620,7 +620,7 @@ Characters searching the room find a secret door in the middle of the east wall 
 
 #### D32: Hidden Trapdoor
 
-The staircase ends at a landing with a 6-foot-high wooden ceiling with a trapdoor set into it. The trapdoor is bolted shut from this side and can be pushed open to reveal the den (area `D3`) above.
+The staircase ends at a landing with a 6-foot-high wooden ceiling with a trapdoor set into it. The trapdoor is bolted shut from this side and can be pushed open to reveal the den (area D3) above.
 
 #### D33: Cult Leaders' Den
 
@@ -662,7 +662,7 @@ Despite the ominous trappings, the alcoves are empty.
 
 ##### Secret Door
 
-Characters searching the area find a secret door in the south wall with a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. It pulls open to reveal area `D38` on the other side.
+Characters searching the area find a secret door in the south wall with a successful DC 15 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check. It pulls open to reveal area D38 on the other side.
 
 #### D37: Tunnel to Portcullis
 
@@ -764,12 +764,12 @@ A character who exits a haunted zone appears somewhere in Death House. Character
 
 | dice: d6 | Location Emerged |
 |----------|------------------|
-| 1 | The characters sit in the dining room (area `D5`), sated and covered with sticky crumbs, though there's no food in sight. |
-| 2 | The characters stand in the storage room (area `D18`), draped in sheets. |
-| 3 | The characters kneel at the side of the cultists' well (area `D25`), desperately parched. |
-| 4 | The characters are slumped over the furniture in the storage room (area `D18`). |
+| 1 | The characters sit in the dining room (area D5), sated and covered with sticky crumbs, though there's no food in sight. |
+| 2 | The characters stand in the storage room (area D18), draped in sheets. |
+| 3 | The characters kneel at the side of the cultists' well (area D25), desperately parched. |
+| 4 | The characters are slumped over the furniture in the storage room (area D18). |
 | 5 | The characters lean against the railing of the nursemaid's balcony (area D15c). |
-| 6 | The characters are shackled to the wall in the prison (area `D36`), each character in a different alcove. The characters can easily break their bonds. |
+| 6 | The characters are shackled to the wall in the prison (area D36), each character in a different alcove. The characters can easily break their bonds. |
 ^emergence-from-a-haunted-zone
 
 Once the characters have encountered all four haunted zones, they don't encounter any more. Long rests function as normal, and the haunted doorways become normal doorways.
@@ -825,7 +825,7 @@ If a character fails to leave the graveyard, that character must eventually make
 > You're seated in an ornate chair on the edge of a dimly lit parlor. Eight ghostly figures sit in identical chairs to either side of you. At the parlor's far end, a pale man at a harpsichord slowly plinks out a haunting elegy. The ghostly figures listen to the song with rapt attention.
 ^2b2
 
-This zone resembles Death House's conservatory (area `D10`), except the room's doors and windows overlook a black, featureless void.
+This zone resembles Death House's conservatory (area D10), except the room's doors and windows overlook a black, featureless void.
 
 If a character makes any noise or otherwise disrupts the performance, the musician—yet another illusion of Strahd—ceases playing, scowls at the character, and disappears. Eight [[/5. Mechanics/Bestiary/Undead/Specter.md\|specters]] fly out of the harpsichord and attack the characters in anger.
 
@@ -870,7 +870,7 @@ If Sarusanda hasn't yet rejoined the characters, run the "Crisis of Faith" encou
 
 After he arrives at Death House, [[/4. World Almanac/NPCs/Strahd Master Of Death House (VEOR).md\|Strahd, Master of Death House]] (see appendix B) waits for the characters in the house's main hall (area D2a). He is accompanied by two [[/5. Mechanics/Bestiary/Undead/Vampire Spawn.md\|vampire spawn]].
 
-If the characters don't intend to return to the main hall, Strahd and his minions wait for the characters in another room of the house, such as the dining room (area `D5`) or the den of wolves (area `D3`).
+If the characters don't intend to return to the main hall, Strahd and his minions wait for the characters in another room of the house, such as the dining room (area D5) or the den of wolves (area D3).
 
 When Strahd encounters the characters, read the following:
 

@@ -47,6 +47,8 @@ Standing simultaneously opposite to and between the fiends and angels, the neutr
     "desc": "+11"
 "damage_resistances": "necrotic; radiant; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
+"gear":
+  - "[[/5. Mechanics/Items/Glaive.md|glaive]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 300 ft., [[/5. Mechanics/Rules/Senses.md#Truesight|truesight]]\
   \ 120 ft., passive Perception 21"
 "languages": "all"

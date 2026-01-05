@@ -53,6 +53,8 @@ Druids dwell in forests and other secluded wilderness locations, where they prot
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Quarterstaff.md|quarterstaff]]"
 "senses": "passive Perception 14"
 "languages": "Druidic plus any two languages"
 "cr": "2"

@@ -46,6 +46,8 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "speed": "30 ft."
 "saves":
   - "dexterity": !!int "4"
+"gear":
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Gnoll"

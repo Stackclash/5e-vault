@@ -7,18 +7,19 @@ tags:
   - monster/cr/1-4
   - monster/size/small
   - monster/type/construct
-location: null
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/pidlwick-ii.webp
 relationships: []
 aliases:
   - Pidlwick II
+alignment: Neutral Evil
+partyRelationships: {}
+location: null
 pronounced: null
 race: null
 gender: null
 age: null
-alignment: Neutral Evil
 occupation: []
 groups: []
 religions: []
@@ -31,7 +32,6 @@ flaw: 'When I''m upset, I do bad things.'
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -40,7 +40,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -149,7 +149,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -194,6 +193,9 @@ return function View() {
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]], [[/5. Mechanics/Rules/Conditions.md#Petrified|petrified]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Club.md|club]]"
+  - "[[/5. Mechanics/Items/Dart.md|dart]]"
 "senses": "passive Perception 11"
 "languages": "understands Common but doesn't speak and can't read or write"
 "cr": "1/4"

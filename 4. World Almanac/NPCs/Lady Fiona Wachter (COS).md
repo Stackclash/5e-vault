@@ -7,17 +7,18 @@ tags:
   - monster/cr/2
   - monster/size/medium
   - monster/type/humanoid/human
-location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 condition: healthy
 images: []
 relationships: []
 aliases:
   - Lady Fiona Wachter
+alignment: Lawful Evil
+partyRelationships: {}
+location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 pronounced: null
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: null
-alignment: Lawful Evil
 occupation: []
 groups: []
 religions: []
@@ -28,7 +29,6 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 image: null
 ---
 
@@ -38,7 +38,7 @@ image: null
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -115,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -161,6 +160,8 @@ return function View() {
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Mace.md|mace]]"
 "senses": "passive Perception 13"
 "languages": "any two languages"
 "cr": "2"

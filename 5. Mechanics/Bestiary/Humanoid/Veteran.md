@@ -50,6 +50,10 @@ Veterans are professional fighters that take up arms for pay or to protect somet
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Heavy Crossbow.md|heavy crossbow]]"
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "3"

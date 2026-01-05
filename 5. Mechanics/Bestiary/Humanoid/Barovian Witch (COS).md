@@ -51,6 +51,8 @@ Barovian witches use the [[/5. Mechanics/Spells/Find Familiar.md|find familiar]]
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "Common"

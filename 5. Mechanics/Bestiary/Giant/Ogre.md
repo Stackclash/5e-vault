@@ -78,6 +78,9 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
   - !!int "7"
   - !!int "7"
 "speed": "40 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Greatclub.md|greatclub]]"
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 8"
 "languages": "Common, Giant"

@@ -45,6 +45,8 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "2"

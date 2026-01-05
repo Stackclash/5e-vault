@@ -41,6 +41,8 @@ Cave trolls, like normal trolls, are tall and lanky giantkin. Cave trolls, in pa
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Morningstar.md|morningstar]]"
 "senses": "tremorsense 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
   \ 120 ft., passive Perception 13"
 "languages": "Giant, Undercommon"

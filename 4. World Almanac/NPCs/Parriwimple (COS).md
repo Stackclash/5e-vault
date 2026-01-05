@@ -7,17 +7,18 @@ tags:
   - monster/cr/5
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
 condition: healthy
 images: []
 relationships: []
 aliases:
   - Parriwimple
+alignment: Lawful Good
+partyRelationships: {}
+location: null
 pronounced: null
 race: null
 gender: null
 age: null
-alignment: Lawful Good
 occupation: []
 groups: []
 religions: []
@@ -28,7 +29,6 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 image: null
 ---
 
@@ -38,7 +38,7 @@ image: null
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -115,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -164,6 +163,8 @@ return function View() {
     "desc": "+10"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "5"

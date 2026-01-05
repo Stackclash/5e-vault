@@ -46,6 +46,8 @@ Goblinoid spellcasters that dabble in the magic surrounding dreams are sometimes
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Common, Goblin, Sylvan"

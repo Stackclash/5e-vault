@@ -52,6 +52,8 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Arcana|Arcana]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Quarterstaff.md|quarterstaff]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "Common, Goblin"

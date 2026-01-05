@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/tce
   - item/attunement/required
+  - item/gear/spellcasting-focus
   - item/rarity/uncommon
 aliases:
   - +1 Arcane Grimoire
 weight: 3
 ---
 # +1 Arcane Grimoire
-*Wondrous item, uncommon (requires attunement by a wizard)*  
+*Wondrous item, spellcasting focus, uncommon (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
 

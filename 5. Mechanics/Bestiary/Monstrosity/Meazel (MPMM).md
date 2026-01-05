@@ -52,6 +52,8 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 13"
 "languages": "Common"

@@ -57,6 +57,9 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
+  - "[[/5. Mechanics/Items/Morningstar.md|morningstar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common, Goblin"

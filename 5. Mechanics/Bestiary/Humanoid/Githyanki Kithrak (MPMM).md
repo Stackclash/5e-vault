@@ -53,6 +53,8 @@ Githyanki descend from an ancient people who were also the progenitors of githze
     "desc": "+7"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/Greatsword.md|greatsword]]"
 "senses": "passive Perception 16"
 "languages": "Gith"
 "cr": "12"

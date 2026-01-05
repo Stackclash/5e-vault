@@ -60,6 +60,8 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
     "desc": "+15"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
+"gear":
+  - "[[/5. Mechanics/Items/Maul.md|maul]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
   \ 16"
 "languages": "all"

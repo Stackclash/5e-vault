@@ -53,6 +53,8 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Longbow.md|longbow]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 15"
 "languages": "Gnoll, Abyssal"

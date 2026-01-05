@@ -4,12 +4,13 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/tce
   - item/attunement/required
+  - item/gear/spellcasting-focus
   - item/rarity/very-rare
 aliases:
   - +3 All-Purpose Tool
 ---
 # +3 All-Purpose Tool
-*Wondrous item, very rare (requires attunement by an artificer)*  
+*Wondrous item, spellcasting focus, very rare (requires attunement by an artificer)*  
 
 
 This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the "Equipment" chapter in the "Player's Handbook" for a list of [[/5. Mechanics/Items/Artisans Tools.md\|artisan's tools]]). Whatever form the tool takes, you are proficient with it.

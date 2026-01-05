@@ -83,6 +83,8 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+1"
+"gear":
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 11"
 "languages": "Common, Orc"

@@ -44,6 +44,8 @@ The lingering cultists of the fallen Raventhia. They seek to revive their leader
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "passive Perception 14"
 "languages": "Common plus one other language"
 "cr": "5"

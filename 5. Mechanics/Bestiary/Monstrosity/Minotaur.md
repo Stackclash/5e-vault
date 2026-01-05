@@ -58,6 +58,8 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+7"
+"gear":
+  - "[[/5. Mechanics/Items/Greataxe.md|greataxe]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 17"
 "languages": "Abyssal"

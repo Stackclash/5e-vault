@@ -7,18 +7,19 @@ tags:
   - monster/cr/8
   - monster/size/medium
   - monster/type/humanoid/human
-location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/arrigal.webp
 relationships: []
 aliases:
   - Arrigal
+alignment: Neutral Evil
+partyRelationships: {}
+location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 pronounced: AH-ri-gal
 race: null
 gender: male
 age: 35
-alignment: Neutral Evil
 occupation:
   - Assassin
 groups: []
@@ -32,7 +33,6 @@ flaw: Greed and self-interest often overshadow his better judgement
 goals: 'To protect and serve his Vistani clan, to amass personal wealth and power'
 likes: 'Wealth, power, the respect of his peers'
 dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -41,7 +41,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -118,7 +118,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -171,6 +170,9 @@ return function View() {
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+9"
 "damage_resistances": "poison"
+"gear":
+  - "[[/5. Mechanics/Items/Light Crossbow.md|light crossbow]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "passive Perception 13"
 "languages": "Thieves' cant plus any two languages"
 "cr": "8"

@@ -26,7 +26,7 @@ aliases:
 "subtype": "any race, shapechanger"
 "alignment": "Neutral"
 "ac": !!int "10"
-"ac_class": "13 from natural armor in mammoth or hybrid form"
+"ac_class": "13 natural armor in mammoth or hybrid form"
 "hp": !!int "114"
 "hit_dice": "12d8 + 60"
 "modifier": !!int "0"
@@ -43,6 +43,9 @@ aliases:
     "desc": "+4"
 "damage_immunities": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
+"gear":
+  - "[[/5. Mechanics/Items/Maul.md|maul]]"
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Common (can't speak in mammoth form)"

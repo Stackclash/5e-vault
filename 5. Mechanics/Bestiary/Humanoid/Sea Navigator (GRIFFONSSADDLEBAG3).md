@@ -42,6 +42,8 @@ Ships need navigators to direct them through dangerous weather conditions. Sea n
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Quarterstaff.md|quarterstaff]]"
 "senses": "passive Perception 15"
 "languages": "Common plus one other language"
 "cr": "1"

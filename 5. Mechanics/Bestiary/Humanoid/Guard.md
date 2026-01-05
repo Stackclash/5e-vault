@@ -47,6 +47,8 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/8"

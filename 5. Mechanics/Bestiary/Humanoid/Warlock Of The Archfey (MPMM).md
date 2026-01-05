@@ -58,6 +58,8 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
     "desc": "+6"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]"
+"gear":
+  - "[[/5. Mechanics/Items/Rapier.md|rapier]]"
 "senses": "passive Perception 11"
 "languages": "any two languages (usually Sylvan)"
 "cr": "4"

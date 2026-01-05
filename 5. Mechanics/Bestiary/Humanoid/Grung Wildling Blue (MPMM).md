@@ -48,6 +48,9 @@ aliases:
     "desc": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
+  - "[[/5. Mechanics/Items/Shortbow.md|shortbow]]"
 "senses": "passive Perception 14"
 "languages": "Grung"
 "cr": "1"

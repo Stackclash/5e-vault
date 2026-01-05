@@ -60,6 +60,9 @@ The Count relies on his Now You See Me... Now You Don't... combo to get in and o
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Longbow.md|longbow]]"
+  - "[[/5. Mechanics/Items/Rapier.md|rapier]]"
 "senses": "passive Perception 16"
 "languages": "Common, Elvish, Sylvan"
 "cr": "6"

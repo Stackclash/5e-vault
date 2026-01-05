@@ -41,6 +41,9 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Heavy Crossbow.md|heavy crossbow]]"
+  - "[[/5. Mechanics/Items/Mace.md|mace]]"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/2"

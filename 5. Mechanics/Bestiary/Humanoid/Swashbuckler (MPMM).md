@@ -63,6 +63,9 @@ Many swashbucklers have a signature flourish with which they embellish their act
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
+  - "[[/5. Mechanics/Items/Rapier.md|rapier]]"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"

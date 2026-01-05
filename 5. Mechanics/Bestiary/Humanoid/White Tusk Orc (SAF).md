@@ -44,6 +44,9 @@ They are a chaotic evil tribe who care only for strength and the subjugation of 
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Battleaxe.md|battleaxe]]"
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Orc"

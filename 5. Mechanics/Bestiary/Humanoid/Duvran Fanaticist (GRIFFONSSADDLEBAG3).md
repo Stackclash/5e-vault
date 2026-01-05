@@ -44,6 +44,8 @@ Covetous cultists devoted to praising Duvra's trickery—and matching it in kind
     "desc": "+7"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "passive Perception 11"
 "languages": "Common, Draconic, Thieves' cant"
 "cr": "1"

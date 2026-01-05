@@ -59,6 +59,8 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]]"
+"gear":
+  - "[[/5. Mechanics/Items/Club.md|club]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Sylvan"

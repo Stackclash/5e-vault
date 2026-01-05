@@ -50,6 +50,8 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
 "damage_resistances": "lightning, piercing"
+"gear":
+  - "[[/5. Mechanics/Items/Sling.md|sling]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "Vegepygmy"

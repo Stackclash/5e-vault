@@ -51,6 +51,8 @@ Merfolk defend their communities with spears crafted from whatever materials the
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "passive Perception 12"
 "languages": "Aquan, Common"
 "cr": "1/8"

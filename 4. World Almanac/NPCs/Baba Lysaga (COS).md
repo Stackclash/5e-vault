@@ -8,18 +8,19 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/baba-lysaga.webp
 relationships: []
 aliases:
   - Baba Lysaga
+alignment: Chaotic Evil
+partyRelationships: {}
+location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
 pronounced: BAH-bah LEE-sah-gah
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 532
-alignment: Chaotic Evil
 occupation: null
 groups: []
 religions: []
@@ -33,7 +34,6 @@ goals:
   - ' To aid Strahd, to destroy his enemies, to gain more arcane power'
 likes: 'Magic, Strahd, her creeping hut'
 dislikes: 'Intruders in Berez, those who oppose Strahd, the light'
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -42,7 +42,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -155,7 +155,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -202,6 +201,8 @@ return function View() {
     "desc": "+13"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+13"
+"gear":
+  - "[[/5. Mechanics/Items/Quarterstaff.md|quarterstaff]]"
 "senses": "passive Perception 13"
 "languages": "Abyssal, Common, Draconic, Dwarvish, Giant"
 "cr": "11"

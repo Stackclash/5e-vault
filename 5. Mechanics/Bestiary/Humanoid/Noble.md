@@ -47,6 +47,8 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Rapier.md|rapier]]"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"

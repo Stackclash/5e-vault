@@ -43,6 +43,8 @@ Members of a circle of druids that revere the might of the world's tempests, sto
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+7"
 "damage_resistances": "lightning"
+"gear":
+  - "[[/5. Mechanics/Items/Quarterstaff.md|quarterstaff]]"
 "senses": "passive Perception 17"
 "languages": "Common, Druidic, and any one language"
 "cr": "6"

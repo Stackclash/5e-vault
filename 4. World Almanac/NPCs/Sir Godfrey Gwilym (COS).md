@@ -7,18 +7,19 @@ tags:
   - monster/cr/6
   - monster/size/medium
   - monster/type/undead
-location: null
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/sir-godfrey-gwilym.webp
 relationships: []
 aliases:
   - Sir Godfrey Gwilym
+alignment: Lawful Evil
+partyRelationships: {}
+location: null
 pronounced: sir GOD-free GWIL-im
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: null
-alignment: Lawful Evil
 occupation: []
 groups: []
 religions: []
@@ -39,7 +40,6 @@ likes: >-
 dislikes: >-
   Cowardice, betrayal, Strahd and his minions, the failure of the Order to
   protect Barovia
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -48,7 +48,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -125,7 +125,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',

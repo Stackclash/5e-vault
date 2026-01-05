@@ -34,6 +34,8 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Club.md|club]]"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"

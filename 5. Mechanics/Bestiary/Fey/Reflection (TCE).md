@@ -53,8 +53,8 @@ aliases:
   - "desc": "The reflection can move through a space as narrow as 1 inch wide without\
       \ squeezing."
     "name": "Amorphous"
-  - "desc": "While in dim light or darkness, the reflection can take the Hide action\
-      \ as a bonus action. Its stealth bonus is also improved to +6."
+  - "desc": "While in dim light or darkness, the reflection can take the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
+      \ action as a bonus action. Its stealth bonus is also improved to +6."
     "name": "Shadow Stealth"
   - "desc": "While in sunlight, the reflection has disadvantage on attack rolls, ability\
       \ checks, and saving throws."

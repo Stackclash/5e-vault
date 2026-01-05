@@ -236,8 +236,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ well as on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception|Perception]]) checks\
       \ that rely on sight."
     "name": "Light Sensitivity"
-  - "desc": "While in dim light or darkness, the demon can take the Hide action as\
-      \ a bonus action."
+  - "desc": "While in dim light or darkness, the demon can take the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
+      \ action as a bonus action."
     "name": "Shadow Stealth"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 10\

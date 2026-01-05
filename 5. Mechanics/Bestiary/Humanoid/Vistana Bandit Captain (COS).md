@@ -44,6 +44,9 @@ aliases:
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Deception|Deception]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "passive Perception 10"
 "languages": "any two languages"
 "cr": "2"

@@ -41,6 +41,9 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 "saves":
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
+"gear":
+  - "[[/5. Mechanics/Items/Greatsword.md|greatsword]]"
+  - "[[/5. Mechanics/Items/Heavy Crossbow.md|heavy crossbow]]"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"

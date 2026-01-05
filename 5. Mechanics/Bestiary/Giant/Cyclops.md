@@ -56,6 +56,8 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
   - !!int "6"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Greatclub.md|greatclub]]"
 "senses": "passive Perception 8"
 "languages": "Giant"
 "cr": "6"

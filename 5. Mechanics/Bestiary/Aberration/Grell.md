@@ -79,7 +79,7 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
       \nThe target is also [[/5. Mechanics/Rules/Conditions.md#Grappled|grappled]] (escape\
       \ DC 15). If the target is Medium or smaller, it is also [[/5. Mechanics/Rules/Conditions.md#Restrained|restrained]]\
       \ until this grapple ends. While grappling the target, the grell has advantage\
-      \ on attack rolls against it and can 't use this attack against other targets.\
+      \ on attack rolls against it and can't use this attack against other targets.\
       \ When the grell moves, any Medium or smaller target it is grappling moves with\
       \ it."
     "name": "Tentacles"

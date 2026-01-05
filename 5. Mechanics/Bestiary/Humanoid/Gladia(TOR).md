@@ -47,6 +47,8 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
     "desc": "+10"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "5"

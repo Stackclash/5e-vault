@@ -35,6 +35,9 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Light Crossbow.md|light crossbow]]"
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/8"

@@ -42,6 +42,8 @@ The fanatical priests of Gavia who worship the toll of the Capilla's twin bells 
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Maul.md|maul]]"
 "senses": "passive Perception 13"
 "languages": "Common plus one other language"
 "cr": "6"

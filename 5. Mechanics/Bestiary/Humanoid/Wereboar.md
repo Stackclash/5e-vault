@@ -64,7 +64,7 @@ Some individuals see little point in fighting the curse and accept what they are
 "subtype": "human, shapechanger"
 "alignment": "Neutral Evil"
 "ac": !!int "10"
-"ac_class": "11 from natural armor in boar or hybrid form"
+"ac_class": "11 natural armor in boar or hybrid form"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "0"
@@ -81,6 +81,8 @@ Some individuals see little point in fighting the curse and accept what they are
     "desc": "+2"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
+"gear":
+  - "[[/5. Mechanics/Items/Maul.md|maul]]"
 "senses": "passive Perception 12"
 "languages": "Common (can't speak in boar form)"
 "cr": "4"

@@ -67,8 +67,8 @@ A shadow doesn't require air, food, drink, or sleep
   - "desc": "The shadow can move through a space as narrow as 1 inch wide without\
       \ squeezing."
     "name": "Amorphous"
-  - "desc": "While in dim light or darkness, the shadow can take the Hide action as\
-      \ a bonus action. Its stealth bonus is also improved to +6."
+  - "desc": "While in dim light or darkness, the shadow can take the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
+      \ action as a bonus action. Its stealth bonus is also improved to +6."
     "name": "Shadow Stealth"
   - "desc": "While in sunlight, the shadow has disadvantage on attack rolls, ability\
       \ checks, and saving throws."

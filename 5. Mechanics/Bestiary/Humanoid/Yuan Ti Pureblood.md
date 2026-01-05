@@ -91,6 +91,9 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
     "desc": "+3"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
+  - "[[/5. Mechanics/Items/Shortbow.md|shortbow]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 13"
 "languages": "Abyssal, Common, Draconic"

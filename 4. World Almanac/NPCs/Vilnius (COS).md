@@ -7,29 +7,29 @@ tags:
   - monster/cr/6
   - monster/size/medium
   - monster/type/humanoid/human
-location:
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/vilnius.webp
 relationships: []
 aliases:
   - Vilnius
-pronounced:
-race:
-gender:
-age:
 alignment: Neutral Evil
+partyRelationships: {}
+location: null
+pronounced: null
+race: null
+gender: null
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
-partyRelationships: {}
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -38,7 +38,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -115,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -163,6 +162,8 @@ return function View() {
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#History|History]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "passive Perception 11"
 "languages": "any four languages"
 "cr": "6"

@@ -55,6 +55,9 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
   - !!int "10"
   - !!int "7"
 "speed": "30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Longbow.md|longbow]]"
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Gnoll"

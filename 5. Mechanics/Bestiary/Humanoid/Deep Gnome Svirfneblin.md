@@ -59,6 +59,8 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/War Pick.md|war pick]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 12"
 "languages": "Gnomish, Terran, Undercommon"

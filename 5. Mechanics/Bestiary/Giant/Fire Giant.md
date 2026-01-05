@@ -114,6 +114,8 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
 "damage_immunities": "fire"
+"gear":
+  - "[[/5. Mechanics/Items/Greatsword.md|greatsword]]"
 "senses": "passive Perception 16"
 "languages": "Giant"
 "cr": "9"

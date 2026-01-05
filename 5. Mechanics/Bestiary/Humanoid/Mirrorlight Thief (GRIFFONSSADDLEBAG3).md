@@ -52,6 +52,9 @@ Mirrorlight thieves are capable rogues that specialize in evasive maneuvers and 
     "desc": "+10"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "passive Perception 10"
 "languages": "Common, Thieves' cant, any 1 other"
 "cr": "5"

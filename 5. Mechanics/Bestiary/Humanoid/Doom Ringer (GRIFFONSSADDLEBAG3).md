@@ -44,6 +44,8 @@ A doom ringer is a feverish acolyte of Los Fieles. They walk the streets of Gavi
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Light Hammer.md|light hammer]]"
 "senses": "passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "1/2"

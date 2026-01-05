@@ -7,18 +7,19 @@ tags:
   - monster/cr/1-4
   - monster/size/medium
   - monster/type/humanoid/mongrelfolk
-location: null
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/otto-belview.webp
 relationships: []
 aliases:
   - Otto Belview
+alignment: Any alignment
+partyRelationships: {}
+location: null
 pronounced: null
 race: null
 gender: null
 age: null
-alignment: Any alignment
 occupation: []
 groups: []
 religions: []
@@ -29,7 +30,6 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -38,7 +38,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -115,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -162,6 +161,8 @@ return function View() {
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1/4"

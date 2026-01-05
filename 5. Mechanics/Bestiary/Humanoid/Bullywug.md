@@ -61,6 +61,8 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "passive Perception 10"
 "languages": "Bullywug"
 "cr": "1/4"

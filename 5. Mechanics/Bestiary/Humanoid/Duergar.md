@@ -59,6 +59,9 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
   - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
+"gear":
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
+  - "[[/5. Mechanics/Items/War Pick.md|war pick]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 10"
 "languages": "Dwarvish, Undercommon"

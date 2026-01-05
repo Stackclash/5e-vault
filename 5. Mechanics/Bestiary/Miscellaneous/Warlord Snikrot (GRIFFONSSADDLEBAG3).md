@@ -48,6 +48,9 @@ A colossal brute of a goblin, Snikrot is the imposing leader of the goblin horde
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
+  - "[[/5. Mechanics/Items/Maul.md|maul]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 15"
 "languages": "Common, Goblin"

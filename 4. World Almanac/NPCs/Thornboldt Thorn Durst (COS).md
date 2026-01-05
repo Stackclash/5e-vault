@@ -7,18 +7,19 @@ tags:
   - monster/cr/3
   - monster/size/small
   - monster/type/undead
-location: null
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/thornboldt-thorn-durst.webp
 relationships: []
 aliases:
   - Thornboldt "Thorn" Durst
+alignment: Lawful Good
+partyRelationships: {}
+location: null
 pronounced: null
 race: null
 gender: null
 age: null
-alignment: Lawful Good
 occupation: []
 groups: []
 religions: []
@@ -29,7 +30,6 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -38,7 +38,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -115,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',

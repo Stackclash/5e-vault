@@ -171,7 +171,7 @@ _Source: Player's Handbook p. 192. Available in the <span title='Systems Referen
 
 - **Duration**: 1 action
 
-When you take the Hide action, you make a Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check in an attempt to hide, following the rules in "chapter 7 " for hiding. If you succeed, you gain certain benefits, as described in the ""Unseen Attackers and Targets"" section in the Player's Handbook.
+When you take the Hide action, you make a Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check in an attempt to hide, following the rules in "chapter 7" for hiding. If you succeed, you gain certain benefits, as described in the ""Unseen Attackers and Targets"" section in the Player's Handbook.
 
 ## Identify a Spell
 _Source: Xanathar's Guide to Everything p. 85_

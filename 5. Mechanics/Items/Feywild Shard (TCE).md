@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/tce
   - item/attunement/required
+  - item/gear/spellcasting-focus
   - item/rarity/uncommon
 aliases:
   - Feywild Shard
 weight: 1
 ---
 # Feywild Shard
-*Wondrous item, uncommon (requires attunement by a sorcerer)*  
+*Wondrous item, spellcasting focus, uncommon (requires attunement by a sorcerer)*  
 ![[/5. Mechanics/Items/img/feywild-shard.webp#right]]  
 
 - **Weight**: 1.0 lbs.

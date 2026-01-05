@@ -51,6 +51,10 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
   - !!int "12"
   - !!int "12"
 "speed": "30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
+  - "[[/5. Mechanics/Items/Musket.md|musket]]"
+  - "[[/5. Mechanics/Items/Pistol.md|pistol]]"
 "senses": "passive Perception 11"
 "languages": "Common"
 "cr": "3"

@@ -68,6 +68,9 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
   - !!int "10"
   - !!int "5"
 "speed": "30 ft., fly 30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
   \ 10"
 "languages": "Modron"

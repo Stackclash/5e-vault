@@ -112,6 +112,8 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     "desc": "+9"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
+"gear":
+  - "[[/5. Mechanics/Items/Greatsword.md|greatsword]]"
 "senses": "passive Perception 19"
 "languages": "Common, Giant"
 "cr": "13"

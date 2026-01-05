@@ -58,7 +58,7 @@ On rare occasions, [[/5. Mechanics/Bestiary/Giant/Frost Giant.md|frost giants]] 
 "languages": "Primordial"
 "cr": "9"
 "traits":
-  - "desc": "When the salamander takes fire damage, its\n\nFreezing Breath automatically\
+  - "desc": "When the salamander takes fire damage, its Freezing Breath automatically\
       \ recharges."
     "name": "Burning Fury"
 "actions":

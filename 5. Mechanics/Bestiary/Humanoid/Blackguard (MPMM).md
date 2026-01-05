@@ -67,6 +67,9 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Glaive.md|glaive]]"
+  - "[[/5. Mechanics/Items/Shortbow.md|shortbow]]"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "8"

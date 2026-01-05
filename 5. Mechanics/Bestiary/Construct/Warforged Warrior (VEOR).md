@@ -45,6 +45,8 @@ Warforged warriors are formed from wood and steel, then magically imbued with li
     "desc": "+4"
 "damage_resistances": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
 "senses": "passive Perception 14"
 "languages": "Common"
 "cr": "1"

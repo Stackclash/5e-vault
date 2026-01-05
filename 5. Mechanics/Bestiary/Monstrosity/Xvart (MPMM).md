@@ -47,6 +47,9 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
+  - "[[/5. Mechanics/Items/Sling.md|sling]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 30 ft., passive Perception\
   \ 8"
 "languages": "Abyssal"

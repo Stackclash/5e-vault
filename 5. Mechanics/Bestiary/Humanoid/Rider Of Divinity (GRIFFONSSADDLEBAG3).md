@@ -47,6 +47,9 @@ Paladins of Val Linsin that are trained in the bow. Often mounted on horseback, 
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
+  - "[[/5. Mechanics/Items/Longbow.md|longbow]]"
 "senses": "passive Perception 16"
 "languages": "Common plus one other language"
 "cr": "3"

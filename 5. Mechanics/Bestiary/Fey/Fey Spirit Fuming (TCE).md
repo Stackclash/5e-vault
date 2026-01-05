@@ -32,6 +32,8 @@ aliases:
   - !!int "16"
 "speed": "40 ft."
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]"
+"gear":
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Sylvan, understands the languages you speak"

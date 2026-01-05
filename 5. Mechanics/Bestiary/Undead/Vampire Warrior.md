@@ -91,6 +91,8 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+9"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
+"gear":
+  - "[[/5. Mechanics/Items/Greatsword.md|greatsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 17"
 "languages": "the languages it knew in life"

@@ -50,6 +50,9 @@ The current Feathered Mask leader, Daisy Z, is a powerful spellcaster and master
     "desc": "+11"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
     "desc": "+11"
+"gear":
+  - "[[/5. Mechanics/Items/Hand Crossbow.md|hand crossbow]]"
+  - "[[/5. Mechanics/Items/Rapier.md|rapier]]"
 "senses": "passive Perception 13"
 "languages": "Common plus two other languages"
 "cr": "8"

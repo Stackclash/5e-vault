@@ -53,6 +53,8 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+7"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 30 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
   \ 120 ft., passive Perception 16"
 "languages": "Elvish, Sylvan"

@@ -43,6 +43,8 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
   - !!int "7"
   - !!int "7"
 "speed": "40 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Mace.md|mace]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 8"
 "languages": "Common, Giant"

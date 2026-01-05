@@ -74,6 +74,9 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/Greatsword.md|greatsword]]"
+  - "[[/5. Mechanics/Items/Shortbow.md|shortbow]]"
 "senses": "passive Perception 16"
 "languages": "any one language (usually Common)"
 "cr": "9"

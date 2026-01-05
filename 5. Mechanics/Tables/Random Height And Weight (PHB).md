@@ -24,5 +24,5 @@ aliases:
 | [[/5. Mechanics/Races/Gnome.md\|Gnome]] | 2' 11" | +`dice:2d4\|noform\|noparens\|avg` (`2d4`) | 35 lb. | × 1 lb. |
 | [[/5. Mechanics/Races/Half Elf.md\|Half-elf]] | 4'9" | +`dice:2d8\|noform\|noparens\|avg` (`2d8`) | 110 lb. | × (`dice:2d4\|noform\|noparens\|avg` (`2d4`)) lb. |
 | [[/5. Mechanics/Races/Half Orc.md\|Half-orc]] | 4'10" | +`dice:2d10\|noform\|noparens\|avg` (`2d10`) | 140 lb. | × (`dice:2d6\|noform\|noparens\|avg` (`2d6`)) lb. |
-| [[/5. Mechanics/Races/Tiefling.md\|Tiefling]] | 4 '9" | +`dice:2d8\|noform\|noparens\|avg` (`2d8`) | 110 lb. | × (`dice:2d4\|noform\|noparens\|avg` (`2d4`)) lb. |
+| [[/5. Mechanics/Races/Tiefling.md\|Tiefling]] | 4'9" | +`dice:2d8\|noform\|noparens\|avg` (`2d8`) | 110 lb. | × (`dice:2d4\|noform\|noparens\|avg` (`2d4`)) lb. |
 ^random-height-and-weight

@@ -7,18 +7,19 @@ tags:
   - monster/cr/5
   - monster/size/medium
   - monster/type/undead
-location: '[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]'
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/anastrasya-karelova.webp
 relationships: []
 aliases:
   - Anastrasya Karelova
+alignment: Neutral Evil
+partyRelationships: {}
+location: '[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]'
 pronounced: ah-nah-STRAH-sya ka-REL-o-va
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 28
-alignment: Neutral Evil
 occupation: []
 groups: []
 religions: []
@@ -29,7 +30,6 @@ flaw: Her overconfidence in her schemes and underestimation of others
 goals: 'To maintain her position of power, to serve Strahd''s interests'
 likes: 'Luxury, power, control over others'
 dislikes: 'Disloyalty, failure, threats to her status'
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -38,7 +38,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -115,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',

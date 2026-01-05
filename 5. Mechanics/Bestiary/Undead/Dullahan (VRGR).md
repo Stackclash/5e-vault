@@ -62,6 +62,8 @@ Dullahans are known for seeking their lost heads, giving rise to regional legend
 "damage_resistances": "cold, lightning, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Battleaxe.md|battleaxe]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
   \ 16"
 "languages": "understands the languages it knew in life but can't speak"

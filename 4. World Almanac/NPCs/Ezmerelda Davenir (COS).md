@@ -7,20 +7,21 @@ tags:
   - monster/cr/8
   - monster/size/medium
   - monster/type/humanoid/human
-location: >-
-  [[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's
-  Tower]]
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/ezmerelda-davenir.webp
 relationships: []
 aliases:
   - Ezmerelda d'Avenir
+alignment: Chaotic Good
+partyRelationships: {}
+location: >-
+  [[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's
+  Tower]]
 pronounced: ez-meh-REL-da dah-veh-NEER
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 33
-alignment: Chaotic Good
 occupation: []
 groups: []
 religions: []
@@ -33,7 +34,6 @@ flaw: I go where angels fear to tread.
 goals: 'To defeat Strahd, to become the greatest monster hunter in the land'
 likes: 'Knowledge about monsters, vanquishing evil, proving her skill and courage'
 dislikes: 'Cowardice, betrayal, the undead, those who underestimate her'
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -42,7 +42,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -159,7 +159,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -222,6 +221,10 @@ return function View() {
     "desc": "+7"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/1 Weapon.md|+1 handaxe]]"
+  - "[[/5. Mechanics/Items/1 Weapon.md|+1 rapier]]"
+  - "[[/5. Mechanics/Items/Silvered Weapon.md|silvered shortsword]]"
 "senses": "passive Perception 16"
 "languages": "Common, Elvish"
 "cr": "8"

@@ -43,6 +43,8 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
   - !!int "11"
   - !!int "9"
 "speed": "30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Greataxe.md|greataxe]]"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "2"

@@ -53,6 +53,8 @@ Korreds have hair all over their bodies, but the hair that grows from their head
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
+"gear":
+  - "[[/5. Mechanics/Items/Greatclub.md|greatclub]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., tremorsense\
   \ 120 ft., passive Perception 15"
 "languages": "Dwarvish, Gnomish, Sylvan, Terran, Undercommon"

@@ -71,6 +71,9 @@ When a master thief completes a challenging heist, they often leave behind a cal
     "desc": "+7"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+7"
+"gear":
+  - "[[/5. Mechanics/Items/Shortbow.md|shortbow]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "passive Perception 13"
 "languages": "any one language (usually Common) plus thieves' cant"
 "cr": "5"

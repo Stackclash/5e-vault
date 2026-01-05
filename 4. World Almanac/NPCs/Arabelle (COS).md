@@ -7,17 +7,18 @@ tags:
   - monster/cr/0
   - monster/size/medium
   - monster/type/humanoid/human
-location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 condition: healthy
 images: []
 relationships: []
 aliases:
   - Arabelle
+alignment: Lawful Neutral
+partyRelationships: {}
+location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 pronounced: null
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 7
-alignment: Lawful Neutral
 occupation: []
 groups: []
 religions: []
@@ -30,7 +31,6 @@ goals: >-
   like her ancestors
 likes: 'Stories, animals, exploring'
 dislikes: 'Being confined or restricted, cruelty'
-partyRelationships: {}
 image: null
 ---
 
@@ -40,7 +40,7 @@ image: null
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -117,7 +117,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -156,6 +155,8 @@ return function View() {
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Club.md|club]]"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"

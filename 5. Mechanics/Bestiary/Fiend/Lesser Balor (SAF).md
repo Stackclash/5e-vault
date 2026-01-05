@@ -44,6 +44,9 @@ aliases:
   \ weapons"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
+  - "[[/5. Mechanics/Items/Whip.md|whip]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 60 ft., passive Perception\
   \ 13"
 "languages": "Abyssal, telepathy 60 ft."

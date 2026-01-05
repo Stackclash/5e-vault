@@ -48,6 +48,8 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]"
     "desc": "+1"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 9"
 "languages": "Common, Draconic"

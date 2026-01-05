@@ -81,6 +81,9 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Net.md|net]]"
+  - "[[/5. Mechanics/Items/Spear.md|spear]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 14"
 "languages": "Undercommon"

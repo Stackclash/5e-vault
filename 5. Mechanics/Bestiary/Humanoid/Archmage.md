@@ -50,6 +50,8 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
     "desc": "+13"
 "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing\
   \ (from stoneskin)"
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
 "senses": "passive Perception 12"
 "languages": "any six languages"
 "cr": "12"

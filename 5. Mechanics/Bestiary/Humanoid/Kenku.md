@@ -66,6 +66,9 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Shortbow.md|shortbow]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "passive Perception 12"
 "languages": "understands Auran and Common but speaks only through the use of its\
   \ Mimicry trait"

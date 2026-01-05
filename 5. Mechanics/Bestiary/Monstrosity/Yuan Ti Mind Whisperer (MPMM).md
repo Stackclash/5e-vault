@@ -52,6 +52,8 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
     "desc": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 12"
 "languages": "Abyssal, Common, Draconic"

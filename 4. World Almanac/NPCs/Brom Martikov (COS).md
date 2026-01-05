@@ -8,18 +8,19 @@ tags:
   - monster/size/small
   - monster/type/humanoid/human
   - monster/type/humanoid/shapechanger
-location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/brom-martikov.webp
 relationships: []
 aliases:
   - Brom Martikov
+alignment: Lawful Good
+partyRelationships: {}
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 pronounced: BROM MAR-ti-kov
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 13
-alignment: Lawful Good
 occupation:
   - Bar Assistant
 groups: []
@@ -32,7 +33,6 @@ goals:
   - 'To explore the world beyond Vallaki, to make a name for himself'
 likes: 'Pranks, stories of faraway places, animals'
 dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -41,7 +41,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -118,7 +118,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -162,6 +161,9 @@ return function View() {
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/Hand Crossbow.md|hand crossbow]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "passive Perception 16"
 "languages": "Common (can't speak in raven form)"
 "cr": "2"

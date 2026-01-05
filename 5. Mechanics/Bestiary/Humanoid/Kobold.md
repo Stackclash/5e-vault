@@ -57,6 +57,9 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
   - !!int "7"
   - !!int "8"
 "speed": "30 ft."
+"gear":
+  - "[[/5. Mechanics/Items/Dagger.md|dagger]]"
+  - "[[/5. Mechanics/Items/Sling.md|sling]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 8"
 "languages": "Common, Draconic"

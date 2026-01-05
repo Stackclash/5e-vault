@@ -62,6 +62,9 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - "name": "[[/5. Mechanics/Rules/Skills.md#Medicine|Medicine]]"
     "desc": "+7"
 "damage_resistances": "psychic"
+"gear":
+  - "[[/5. Mechanics/Items/Longbow.md|longbow]]"
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 13"
 "languages": "Common, Elvish, Sylvan"

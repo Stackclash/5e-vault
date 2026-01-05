@@ -66,7 +66,7 @@ Some individuals see little point in fighting the curse and accept what they are
 "subtype": "human, shapechanger"
 "alignment": "Neutral Good"
 "ac": !!int "10"
-"ac_class": "11 from natural armor in bear or hybrid form"
+"ac_class": "11 natural armor in bear or hybrid form"
 "hp": !!int "135"
 "hit_dice": "18d8 + 54"
 "modifier": !!int "0"
@@ -83,6 +83,8 @@ Some individuals see little point in fighting the curse and accept what they are
     "desc": "+7"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
+"gear":
+  - "[[/5. Mechanics/Items/Greataxe.md|greataxe]]"
 "senses": "passive Perception 17"
 "languages": "Common (can't speak in bear form)"
 "cr": "5"

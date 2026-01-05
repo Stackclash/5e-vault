@@ -61,6 +61,9 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Longbow.md|longbow]]"
+  - "[[/5. Mechanics/Items/Pike.md|pike]]"
 "senses": "passive Perception 13"
 "languages": "Elvish, Sylvan"
 "cr": "2"

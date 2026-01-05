@@ -7,30 +7,29 @@ tags:
   - monster/cr/1-8
   - monster/size/medium
   - monster/type/humanoid/human
-location:
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/ireena-kolyana.webp
-relationships:
-  - Ismark Kolyanovich (COS)|brother
+relationships: []
 aliases:
   - Ireena Kolyana
-pronounced:
-race:
-gender: female
-age:
 alignment: Lawful Good
+partyRelationships: {}
+location: null
+pronounced: null
+race: null
+gender: female
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
-partyRelationships: {}
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -39,7 +38,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -116,7 +115,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -163,6 +161,8 @@ return function View() {
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Rapier.md|rapier]]"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"

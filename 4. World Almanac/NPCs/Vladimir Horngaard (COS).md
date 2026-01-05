@@ -7,29 +7,33 @@ tags:
   - monster/cr/7
   - monster/size/medium
   - monster/type/undead
-location:
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/vladimir-horngaard.webp
 relationships: []
 aliases:
   - Vladimir Horngaard
-pronounced:
-race:
-gender:
-age:
 alignment: Lawful Evil
+partyRelationships: {}
+location: null
+pronounced: null
+race: null
+gender: null
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
+personality: null
 ideal: Vengeance is all I have left.
-bond: I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken though the order may be, my allegiance never dies.
-flaw: Destroying Strahd would end the vampire's torment, and that is something I will never allow.
-goals:
-likes:
-dislikes:
-partyRelationships: {}
+bond: >-
+  I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken
+  though the order may be, my allegiance never dies.
+flaw: >-
+  Destroying Strahd would end the vampire's torment, and that is something I
+  will never allow.
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -38,7 +42,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -172,7 +176,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -221,6 +224,8 @@ return function View() {
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Exhaustion|exhaustion]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Frightened|frightened]], [[/5. Mechanics/Rules/Conditions.md#Paralyzed|paralyzed]],\
   \ [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]], [[/5. Mechanics/Rules/Conditions.md#Stunned|stunned]]"
+"gear":
+  - "[[/5. Mechanics/Items/2 Weapon.md|+2 greatsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 13"
 "languages": "Common, Draconic"

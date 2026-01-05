@@ -77,6 +77,8 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
     "desc": "+8"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+4"
+"gear":
+  - "[[/5. Mechanics/Items/Glaive.md|glaive]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 14"
 "languages": "Common, Giant"

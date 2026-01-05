@@ -42,6 +42,8 @@ Sailors with a penchant for the explosive are demoltionists. On vessels with can
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+3"
+"gear":
+  - "[[/5. Mechanics/Items/Rapier.md|rapier]]"
 "senses": "passive Perception 13"
 "languages": "Common plus one other language"
 "cr": "4"

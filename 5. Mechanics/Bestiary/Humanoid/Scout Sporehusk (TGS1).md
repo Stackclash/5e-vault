@@ -127,6 +127,9 @@ If you reduce a sporehusk to 0 hit points and magically revive it again before i
 "damage_vulnerabilities": "fire, radiant"
 "damage_resistances": "poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]], [[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Longbow.md|longbow]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Blindsight|blindsight]] 15 ft., [[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]]\
   \ 60 ft., passive Perception 10"
 "languages": "understands Common but can't speak"

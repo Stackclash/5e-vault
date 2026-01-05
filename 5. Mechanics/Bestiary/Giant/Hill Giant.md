@@ -108,6 +108,8 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Greatclub.md|greatclub]]"
 "senses": "passive Perception 12"
 "languages": "Giant"
 "cr": "5"

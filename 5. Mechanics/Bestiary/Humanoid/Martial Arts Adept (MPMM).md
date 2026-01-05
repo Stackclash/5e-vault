@@ -62,6 +62,8 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Dart.md|dart]]"
 "senses": "passive Perception 13"
 "languages": "any one language (usually Common)"
 "cr": "3"

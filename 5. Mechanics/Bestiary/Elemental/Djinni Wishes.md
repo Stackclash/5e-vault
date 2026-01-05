@@ -40,6 +40,8 @@ aliases:
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "damage_immunities": "lightning, thunder"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 13"
 "languages": "Auran"

@@ -67,6 +67,9 @@ Each bard is a master of at least one type of performance. You may choose a bard
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Performance|Performance]]"
     "desc": "+6"
+"gear":
+  - "[[/5. Mechanics/Items/Shortbow.md|shortbow]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "passive Perception 15"
 "languages": "any two languages"
 "cr": "2"

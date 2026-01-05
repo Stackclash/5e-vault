@@ -65,6 +65,9 @@ Some renowned archers and groups of archers are known for the special fletching 
     "desc": "+6"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Longbow.md|longbow]]"
+  - "[[/5. Mechanics/Items/Shortsword.md|shortsword]]"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "3"

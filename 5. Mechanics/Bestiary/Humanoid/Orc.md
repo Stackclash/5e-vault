@@ -75,6 +75,9 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 "skillsaves":
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Greataxe.md|greataxe]]"
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common, Orc"

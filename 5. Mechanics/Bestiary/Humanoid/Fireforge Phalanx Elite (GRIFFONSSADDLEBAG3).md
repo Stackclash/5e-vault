@@ -46,6 +46,8 @@ The dwarves of the Fireforge Phalanx are extremely militant and unwaveringly com
   - "name": "[[/5. Mechanics/Rules/Skills.md#Intimidation|Intimidation]]"
     "desc": "+5"
 "damage_resistances": "fire, poison"
+"gear":
+  - "[[/5. Mechanics/Items/Warhammer.md|warhammer]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 12"
 "languages": "Common, Dwarvish"

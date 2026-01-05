@@ -173,6 +173,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[/5. Mechanics/Rules/Conditions.md#Poisoned|poisoned]]"
+"gear":
+  - "[[/5. Mechanics/Items/Mace.md|mace]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Truesight|truesight]] 120 ft., passive Perception\
   \ 14"
 "languages": "Infernal, telepathy 120 ft."

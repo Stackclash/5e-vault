@@ -64,6 +64,8 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
     "desc": "+8"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Religion|Religion]]"
     "desc": "+9"
+"gear":
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
 "senses": "passive Perception 22"
 "languages": "Common, Elvish, Sylvan"
 "cr": "10"

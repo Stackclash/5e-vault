@@ -65,6 +65,9 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
     "desc": "+3"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Stealth|Stealth]]"
     "desc": "+8"
+"gear":
+  - "[[/5. Mechanics/Items/Longsword.md|longsword]]"
+  - "[[/5. Mechanics/Items/Shortbow.md|shortbow]]"
 "senses": "passive Perception 13"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/4"

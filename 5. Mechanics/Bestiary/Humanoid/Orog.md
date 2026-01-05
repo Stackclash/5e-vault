@@ -96,6 +96,9 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
     "desc": "+5"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Survival|Survival]]"
     "desc": "+2"
+"gear":
+  - "[[/5. Mechanics/Items/Greataxe.md|greataxe]]"
+  - "[[/5. Mechanics/Items/Javelin.md|javelin]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 10"
 "languages": "Common, Orc"

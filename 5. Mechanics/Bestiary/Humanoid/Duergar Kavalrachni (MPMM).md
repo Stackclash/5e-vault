@@ -60,6 +60,9 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
+"gear":
+  - "[[/5. Mechanics/Items/Heavy Crossbow.md|heavy crossbow]]"
+  - "[[/5. Mechanics/Items/War Pick.md|war pick]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 10"
 "languages": "Dwarvish, Undercommon"

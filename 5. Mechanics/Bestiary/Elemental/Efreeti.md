@@ -92,6 +92,8 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "damage_immunities": "fire"
+"gear":
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 120 ft., passive Perception\
   \ 12"
 "languages": "Ignan"

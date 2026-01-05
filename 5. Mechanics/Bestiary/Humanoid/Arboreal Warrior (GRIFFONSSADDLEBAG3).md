@@ -47,6 +47,9 @@ Arboreal warriors are fey soldiers of dryad descent that are typically responsib
     "desc": "+2"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Perception|Perception]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Longbow.md|longbow]]"
+  - "[[/5. Mechanics/Items/Scimitar.md|scimitar]]"
 "senses": "[[/5. Mechanics/Rules/Senses.md#Darkvision|darkvision]] 60 ft., passive Perception\
   \ 15"
 "languages": "Common, Elvish, Sylvan"

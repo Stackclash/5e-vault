@@ -4,13 +4,14 @@ cssclasses: json5e-item
 tags:
   - compendium/src/5e/tce
   - item/attunement/required
+  - item/gear/spellcasting-focus
   - item/rarity/rare
 aliases:
   - Far Realm Shard
 weight: 1
 ---
 # Far Realm Shard
-*Wondrous item, rare (requires attunement by a sorcerer)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 ![[/5. Mechanics/Items/img/far-realm-shard.webp#right]]  
 
 - **Weight**: 1.0 lbs.

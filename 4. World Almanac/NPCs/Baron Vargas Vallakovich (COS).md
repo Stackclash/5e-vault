@@ -7,18 +7,19 @@ tags:
   - monster/cr/1-8
   - monster/size/medium
   - monster/type/humanoid/human
-location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 condition: healthy
 images:
   - 4. World Almanac/NPCs/img/baron-vargas-vallakovich.webp
 relationships: []
 aliases:
   - Baron Vargas Vallakovich
+alignment: Neutral Evil
+partyRelationships: {}
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 pronounced: VAR-gas val-lah-KO-vich
 race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 43
-alignment: Neutral Evil
 occupation: []
 groups: []
 religions: []
@@ -33,7 +34,6 @@ flaw: >-
 goals: ' To keep Vallaki free from Strahd''s influence, to maintain order at all costs'
 likes: 'Obedience, festivals, public displays of happiness'
 dislikes: 'Dissent, failure, anything that threatens his control or Vallaki''s ''happiness'''
-partyRelationships: {}
 ---
 
 > [!infobox]
@@ -42,7 +42,7 @@ partyRelationships: {}
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
 > ```
->```meta-bind
+> ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
@@ -119,7 +119,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery(`@page and #quest and connected(${currentPage.$link})`)
-
   const columns = [
     {
       id: 'Quest',
@@ -166,6 +165,8 @@ return function View() {
     "desc": "+4"
   - "name": "[[/5. Mechanics/Rules/Skills.md#Persuasion|Persuasion]]"
     "desc": "+5"
+"gear":
+  - "[[/5. Mechanics/Items/Rapier.md|rapier]]"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"
