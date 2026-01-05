@@ -7,8 +7,7 @@ const relationshipMapping = config['relationship_mapping'] || []
 
 const currentNpcs = tp.frontmatter.relationships && tp.frontmatter.relationships.map(r => r.split('|')[0]),
 
-// UPDATE THE PATH TO YOUR NPCs HERE!!!
-npcs = dv.pages('"4. World Almanac/NPCs"').filter(n => !currentNpcs.includes(n.file.name))
+npcs = dv.pages(`"${config.locations.npcs}"`).filter(n => !currentNpcs.includes(n.file.name))
 
 const result = await modalForm.openForm({
     title: 'Add Relationship',
