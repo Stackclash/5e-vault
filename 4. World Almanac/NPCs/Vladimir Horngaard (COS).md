@@ -7,32 +7,28 @@ tags:
   - monster/cr/7
   - monster/size/medium
   - monster/type/undead
-location: null
+location:
 condition: healthy
 images:
-  - ../../../../../4. World Almanac/NPCs/img/vladimir-horngaard.webp
+  - 4. World Almanac/NPCs/img/vladimir-horngaard.webp
 relationships: []
 aliases:
   - Vladimir Horngaard
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced:
+race:
+gender:
+age:
 alignment: Lawful Evil
 occupation: []
 groups: []
 religions: []
-personality: null
+personality:
 ideal: Vengeance is all I have left.
-bond: >-
-  I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken
-  though the order may be, my allegiance never dies.
-flaw: >-
-  Destroying Strahd would end the vampire's torment, and that is something I
-  will never allow.
-goals: null
-likes: null
-dislikes: null
+bond: I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken though the order may be, my allegiance never dies.
+flaw: Destroying Strahd would end the vampire's torment, and that is something I will never allow.
+goals:
+likes:
+dislikes:
 partyRelationships: {}
 ---
 
@@ -41,6 +37,9 @@ partyRelationships: {}
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
+> ```
+>```meta-bind
+> INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
 >  |

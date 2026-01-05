@@ -7,28 +7,28 @@ tags:
   - monster/cr/6
   - monster/size/medium
   - monster/type/humanoid/human
-location: null
+location:
 condition: healthy
 images:
-  - ../../../../../4. World Almanac/NPCs/img/vilnius.webp
+  - 4. World Almanac/NPCs/img/vilnius.webp
 relationships: []
 aliases:
   - Vilnius
-pronounced: null
-race: null
-gender: null
-age: null
+pronounced:
+race:
+gender:
+age:
 alignment: Neutral Evil
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 partyRelationships: {}
 ---
 
@@ -37,6 +37,9 @@ partyRelationships: {}
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
+> ```
+>```meta-bind
+> INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]
 > ```
 > ###### Bio
 >  |
