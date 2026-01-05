@@ -28,8 +28,7 @@ try {
     throw new Error('Configuration for file locations is not set up correctly')
   }
 
-  const parentLocations = dataview.api.pages('#location')
-  console.log(parentLocations)
+  const parentLocations = dataview.api.pages('#location').array()
 
   const result = await modalForm.api.openForm({
     "title": "Location Setup",
@@ -62,7 +61,8 @@ try {
         "isRequired": true,
         "input": {
           "type": "select",
-          "options": parentLocations.map(l => ({label: l.file.name, value: l.file.path}))
+          "options": parentLocations.map(l => ({label: l.file.name, value: l.file.path})),
+          "source": "fixed"
         }
       }
     ],
