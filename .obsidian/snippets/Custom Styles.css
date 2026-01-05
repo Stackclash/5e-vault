@@ -35,8 +35,14 @@
   width: 100%;
 }
 
-/* Hides File Name in Meta Bind Image Suggester */
+.hide-image .mb-image-card-grid {
+  display: none !important;
+}
 
+/* Hides File Name in Meta Bind Image Suggester */
+.mb-image-suggest-footer-text {
+  display: none !important;
+}
 
 /* Fixes Text Area to be small enough to fit with infobox */
 /* .mb-input-type-textArea > textarea {
