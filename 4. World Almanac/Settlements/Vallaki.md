@@ -52,7 +52,7 @@ travel: []
 > **Exports:** | `INPUT[inlineList:exports]` |
 > ###### Travel Distances
 > ```dataviewjs
-> dv.table(['Location', 'Distance', 'Travel Time'], dv.current().travel.map(t => t ? [dv.page(t[0]).file.link, `${t[1]} mi.`, `\`VIEW[round((${t[1]}* {Travel#TravelCalc}) / 60 / {Travel#HoursPerDay}, 1)]\` days`] : []))
+> dv.view('travelTimes', {current: dv.current()})
 > ```
 > `BUTTON[addtravel,removetravel]`
 > ```meta-bind-button
