@@ -1,23 +1,92 @@
 <%*
-const dv = app.plugins.getPlugin("dataview").api
-typeLocations = ['Regions', 'Settlements', 'Places of Interest']
+let templateError = false
+try {
+  const path = require('path')
+  const dataview = app.plugins.getPlugin("dataview")
+  const modalForm = app.plugins.getPlugin('modalforms')
+  const typeLocations = {
+    Region: 'regions',
+    Settlement: 'settlements',
+    "Place of Interest": 'pois'
+  }
 
-let selectedType = await tp.system.suggester(['Region', 'Settlement', 'Place of Interest'], typeLocations, false, "What type of location is this?")
+  if (tp.config.run_mode !== 0) {
+    throw new Error('This template can only be used to create new files.')
+  }
 
-await tp.file.move(`4. World Almanac/${selectedType}/` + tp.file.title)
-if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the location?")
-    await tp.file.rename(title)
+  if (!modalForm || !modalForm.api) {
+    throw new Error('Modal Forms plugin is not available')
+  }
+
+  if (!dataview || !dataview.api) {
+    throw new Error('Dataview plugin is not available')
+  }
+
+  const config = dataview.api.page('Configuration')
+
+  if (!config || !config.locations || !config.locations.regions || !config.locations.settlements || !config.locations.pois) {
+    throw new Error('Configuration for file locations is not set up correctly')
+  }
+  const result = await modalForm.api.openForm({
+    "title": "Location Setup",
+    "name": "location-setup",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Location Name",
+        "description": "Name of Location",
+        "isRequired": true,
+        "input": {
+          "type": "text",
+        }
+      },
+      {
+        "name": "type",
+        "label": "Location",
+        "description": "Type of Location",
+        "isRequired": true,
+        "input": {
+          "type": "select",
+          "options": Object.entries(typeLocations).map(([key, value]) => ({ label: key, value })),
+          "source": "fixed"
+        }
+      },
+      {
+        "name": "location",
+        "label": "Location",
+        "description": "Where this location is located",
+        "isRequired": true,
+        "input": {
+          "type": "dataview",
+          "query": "dv.pages('\"" + config.locations.parties + "\"')"
+        }
+      }
+    ],
+    "version": "1"
+  })
+
+  if (result.status === 'cancelled') {
+    throw new Error('Modal was Cancelled')
+  }
+
+  const data = result.getData()
+
+  let images = tp.user.get_all_files(app.vault.adapter.getBasePath(), "z_Assets")
+  let selectedImage = await tp.system.suggester(images.map(i => i.name), images.map(i => i.path), false, "What image to use?")
+  if (!selectedImage) selectedImage = "z_Assets/PlaceholderImage.png"
+
+  await tp.file.move(path.posix.join(config.locations[data.location], data.name), tp.file.find_tfile(tp.file.title))
+
+
+
+
+} catch (e) {
+  templateError = e.message
+  console.error(e)
+  new tp.obsidian.Notice(e.message, 5000)
 }
-
-let parentLocations = dv.pages('#location')
-
-let selectedLocation = await tp.system.suggester(parentLocations.map(p => p.file.name), parentLocations.map(p => [p.file.path, p.file.name]), false, "Where is this place located?")
-
-let images = tp.user.get_all_files(app.vault.adapter.getBasePath(), "z_Assets")
-let selectedImage = await tp.system.suggester(images.map(i => i.name), images.map(i => i.path), false, "What image to use?")
-if (!selectedImage) selectedImage = "z_Assets/PlaceholderImage.png"
 -%>
+<%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
 location: "[[<% selectedLocation.join('|') %>]]"
@@ -149,3 +218,11 @@ TBD
 
 
 ### General Notes
+<%* } else { -%>
+
+
+> [!Error] Error Executing Template
+> <% templateError %>
+
+
+<%* } -%>
