@@ -12,7 +12,7 @@ location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 condition: healthy
 images:
   - 4. World Almanac/NPCs/token/urwin-martikov-cos.webp
-  - 4. World Almanac/NPCs/token/baphomet-mpmm.webp
+  - z_Assets/Amber Temple.png
 relationships:
   - Davian Martikov (COS)|father
   - Danika Dorakova (COS)|wife
@@ -42,6 +42,9 @@ partyRelationships: {}
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```dataviewjs
 > await dv.view('imageCarousel', {current: dv.current()})
+> ```
+>```meta-bind
+> INPUT[imageListSuggester(optionQuery("z_Assets")):images]
 > ```
 > ###### Bio
 >  |

@@ -1,7 +1,16 @@
 const images = input.current.images
 const backticks = "```"
 
-dv.paragraph(`${backticks}carousel
+if (images) {
+  if (Array.isArray(images)) {
+    dv.paragraph(`${backticks}carousel
 height: 15rem
 images: ${images.join(',')}
 ${backticks}`)
+  } else if (typeof images === 'string') {
+    dv.paragraph(`${backticks}carousel
+height: 15rem
+images: ${images}
+${backticks}`)
+  }
+}
