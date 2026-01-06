@@ -1,7 +1,7 @@
 {
-  "defaultView": "dice",
+  "defaultView": "deck",
   "customTableRoot": "Tables",
-  "customDeckRoot": "Decks",
+  "customDeckRoot": "5. Mechanics/Decks",
   "disableDefaultWords": false,
   "deckJokers": false,
   "deckFlip": false,
@@ -18,10 +18,10 @@
   "standardOracleEvents": false,
   "oracleLanguage": "en",
   "templatePrefix": "template",
-  "wordTab": "",
-  "oracleTab": "",
+  "wordTab": "Prompts",
+  "oracleTab": "default",
   "deckTab": "Deck of Many Things",
   "mythicFactor": 5,
   "wordQuickValue": "",
-  "wordQuickHeight": 100
+  "wordQuickHeight": 0
 }

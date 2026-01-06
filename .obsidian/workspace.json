@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Configuration"
             }
+          },
+          {
+            "id": "c0730ae2877cd0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,8 +144,19 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "74c90e7bc1db70af",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,27 +222,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DM Stuff/Configuration.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Configuration"
+              "title": "Outline of Untitled"
             }
           },
           {
-            "id": "74c90e7bc1db70af",
+            "id": "1c685262ad4659ee",
             "type": "leaf",
             "state": {
-              "type": "MAIN_VIEW",
+              "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "srt-ribbon",
-              "title": "Solo RPG Toolkit"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -246,23 +271,27 @@
       "remotely-save:Remotely Save": true,
       "obsidian-textgenerator-plugin:Generate Text!": true,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
-      "calendarium:Open Calendarium": true,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false
+      "solo-rpg-toolkit:Solo RPG Toolkit": true,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "c0eeae5e29425a9a",
+  "active": "74c90e7bc1db70af",
   "lastOpenFiles": [
+    "5. Mechanics/Decks/Deck of Many Things/deck-of-many-things-22-jester.webp",
+    "5. Mechanics/Decks/Deck of Many Things/deck-of-many-things-21-fool.webp",
+    "5. Mechanics/Decks/Deck of Many Things/deck-of-many-things-20-balance.webp",
+    "5. Mechanics/Decks/Deck of Many Things/deck-of-many-things-19-rogue.webp",
+    "5. Mechanics/Decks/Deck of Many Things/deck-of-many-things-18-euryale.webp",
+    "5. Mechanics/Decks/Deck of Many Things/deck-of-many-things-17-ruin.webp",
+    "5. Mechanics/Decks/Deck of Many Things/deck-of-many-things-16-donjon.webp",
+    "5. Mechanics/Decks/Deck of Many Things/deck-of-many-things-15-idiot.webp",
+    "5. Mechanics/Decks/Deck of Many Things/deck-of-many-things-14-skull.webp",
+    "5. Mechanics/Decks/Deck of Many Things/deck-of-many-things-13-flames.webp",
+    "5. Mechanics/Decks/Deck of Many Things/deck-of-many-things-12-void.webp",
+    "5. Mechanics/Decks/Deck of Many Things",
+    "1. DM Stuff/Configuration.md",
+    "Untitled.md",
     "5. Mechanics/Decks/Deck Of Illusions.md",
-    "Decks/Tarot/21-TheWorld.png",
-    "Decks/Tarot/20-Judgement.png",
-    "Decks/Tarot/19-TheSun.png",
-    "Decks/Tarot/18-TheMoon.png",
-    "Decks/Tarot/17-TheStar.png",
-    "Decks/Tarot/16-TheTower.png",
-    "Decks/Tarot/15-TheDevil.png",
-    "Decks/Tarot/14-Temperance.png",
-    "Decks/Tarot/13-Death.png",
-    "Decks/Tarot/12-TheHangedMan.png",
     "Decks/Tarot",
     "Decks/Standard",
     "Decks/Deck of Many Things",
@@ -275,7 +304,6 @@
     "4. World Almanac/NPCs/test.md",
     "4. World Almanac/NPCs/Test.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Untitled 11.md",
     "4. World Almanac/Shops/Test.md",
     "Untitled 10.md",
@@ -290,12 +318,10 @@
     "4. World Almanac/Places of Interest/Test.md",
     "4. World Almanac/Settlements/Test.md",
     "4. World Almanac/Settlements/Krezk.md",
-    "4. World Almanac/Shops/Blinsky Toys.md",
     "z_Scripts/Dataview/travelTimes.js",
     "1. DM Stuff/Tools/Story Engine/Story Engine",
     "1. DM Stuff/Tools/Story Engine/Deck of Worlds",
     "1. DM Stuff/Tools/Story Engine",
-    "6. Resources/Resources/Curse of Strahd Companion_ The Complete Edition/1643747-Curse_of_Strahd_Companion_-_Complete_Edition_-_Big_File_Size.pdf",
-    "compose.yml"
+    "6. Resources/Resources/Curse of Strahd Companion_ The Complete Edition/1643747-Curse_of_Strahd_Companion_-_Complete_Edition_-_Big_File_Size.pdf"
   ]
 }
