@@ -39,6 +39,7 @@ return function View() {
   const activeQuests = quests.filter(q => q.value('active') && q.value('active')[currentPage.$name])
   const questsByCompleted = dc.useArray(activeQuests, array => array.groupBy(quest => {
     const completed = quest.value('completed')
+    console.log(completed)
     return (!!completed && completed[currentPage.$name]) ? 'Completed' : 'Active'
   }))
   const columns = [

@@ -11,8 +11,7 @@ npcs:
     description: He has the quest
 tags:
   - quest
-active:
-  Curse of Strahd: true
+active: null
 completed:
   Curse of Strahd: true
 ---
