@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Party/Parties/Curse of Strahd.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Party/Quests/Test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -262,9 +262,10 @@
   },
   "active": "9056a3eec80bfb5e",
   "lastOpenFiles": [
-    "3. The Party/Players/Faerah Duskrane.md",
-    "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Quests/Test.md",
+    "3. The Party/Parties/Curse of Strahd.md",
+    "3. The Party/Players/Faerah Duskrane.md",
+    "3. The Party/Quests/Take Ireena to Vallaki.md",
     "1. DM Stuff/Configuration.md",
     "5. Mechanics/Decks/Deck Of Illusions.md",
     "Untitled.md",
@@ -304,7 +305,6 @@
     "Untitled 4.md",
     "4. World Almanac/Regions/Test.md",
     "4. World Almanac/NPCs/Urwin Martikov (COS).md",
-    "4. World Almanac/Places of Interest/Test.md",
     "z_Scripts/Dataview/travelTimes.js",
     "1. DM Stuff/Tools/Story Engine/Story Engine",
     "1. DM Stuff/Tools/Story Engine/Deck of Worlds"

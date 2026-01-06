@@ -36,16 +36,18 @@ WHERE contains(partyRelationships, this.file.name)
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery("#quest and @page")
-  const questsByCompleted = dc.useArray(quests, array => array.groupBy(quest => {
+  console.log('quests', quests)
+  const activeQuests = quests.filter(q => q.active && q.active[currentPage.$name])
+  console.log('activeQuests', activeQuests)
+  const questsByCompleted = dc.useArray(activeQuests, array => array.groupBy(quest => {
     const completed = quest.value('completed')
-    return !!completed && completed[currentPage.$name]
+    return (!!completed && completed[currentPage.$name]) ? 'Completed' : 'Active'
   }))
   const columns = [
     {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)}
   ]
-  console.log(questsByCompleted)
 
-  return <dc.Table rows={quests} columns={columns}/>
+  return <dc.Table rows={questsByCompleted} columns={columns}/>
 }
 ```
 
