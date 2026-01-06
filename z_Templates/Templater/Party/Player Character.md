@@ -68,6 +68,7 @@ try {
   properties = {
     obsidianUIMode: 'preview',
     statblock: true,
+    active: true,
     name: character.name,
     level: character.level,
     ac: character.armorClass,

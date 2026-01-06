@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
 statblock: true
+active: true
 name: Faerah Duskrane
 level: 9
 ac: 17

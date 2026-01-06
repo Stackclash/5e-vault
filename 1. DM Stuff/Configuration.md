@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
-active_world: "[[Eldoria]]"
-active_party:
+active_world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
+active_party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 locations:
   preps: 1. DM Stuff/Session Prep/
   journals: 1. DM Stuff/Session Journals/
@@ -75,9 +75,9 @@ relationship_mapping:
 > [!infobox|n-th]
 > | | |
 > |---|---|
-> | **Active World:** | `INPUT[suggester(optionQuery("#world")):active_world]` |
-> | **Active Campaign:** | `INPUT[suggester(optionQuery("#campaign")):active_campaign]` |
-> | **Active Party:** | `INPUT[suggester(optionQuery("#party")):active_party]` |
+> | **Active World:** | `INPUT[suggester(optionQuery(#world)):active_world]` |
+> | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
+> | **Active Party:** | `INPUT[suggester(optionQuery(#party)):active_party]` |
 
 # Current Party/World Info
 ```dataviewjs
@@ -88,8 +88,6 @@ dv.paragraph(`Current Party Size: ${players.length}`)
 dv.paragraph(`Current Date: ${currentDate.prettyPrint.month} ${currentDate.original.day}, ${currentDate.original.year} (${currentDate.prettyPrint.day})`)
 ```
 
-```dataview
-LIST FROM #p
 # DM Tools/Calculators
 ```datacorejsx
 return function View() {
