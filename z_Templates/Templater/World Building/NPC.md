@@ -1,21 +1,106 @@
 <%*
-const path = require('path')
-const dv = app.plugins.getPlugin("dataview").api
-const locationConfig = dv.page('Configuration').locations
-await tp.file.move(path.join(locationConfig.npcs, tp.file.title))
-if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the NPC?")
-    await tp.file.rename(title)
+let templateError = false
+let data = {}
+let dataview = null
+try {
+  const path = require('path')
+  const dataview = app.plugins.getPlugin("dataview")
+  const modalForm = app.plugins.getPlugin('modalforms')
+
+  if (tp.config.run_mode !== 0) {
+    throw new Error('This template can only be used to create new files.')
+  }
+
+  if (!modalForm || !modalForm.api) {
+    throw new Error('Modal Forms plugin is not available')
+  }
+
+  if (!dataview || !dataview.api) {
+    throw new Error('Dataview plugin is not available')
+  }
+
+  const config = dataview.api.page('Configuration')
+
+  if (!config || !config.locations || !config.locations.shops) {
+    throw new Error('Configuration for file locations is not set up correctly')
+  }
+
+  const locations = dataview.api.pages('#location').sort(l => l.file.name, 'asc').array()
+
+  const result = await modalForm.api.openForm({
+    title: "Location Setup",
+    name: "location-setup",
+    fields: [
+      {
+        name: "name",
+        label: "Location Name",
+        description: "Name of Location",
+        isRequired: true,
+        input: {
+          type: "text",
+        }
+      },
+      {
+        name: "location",
+        label: "Location",
+        description: "Where this shop is located",
+        isRequired: true,
+        input: {
+          type: "select",
+          options: parentLocations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
+          source: "fixed"
+        }
+      },
+      {
+        name: "owners",
+        label: "Owners",
+        description: "Who owns this shop",
+        isRequired: true,
+        input: {
+          type: "multiselect",
+          source: "fixed",
+          multi_select_options: npcs.map(n => n.file.name)
+        }
+      },
+      {
+        name: "staff",
+        label: "Staff",
+        description: "Who works in this shop",
+        isRequired: true,
+        input: {
+          type: "multiselect",
+          source: "fixed",
+          multi_select_options: npcs.map(n => n.file.name)
+        }
+      }
+    ],
+    version: "1"
+  })
+
+  if (result.status === 'cancelled') {
+    throw new Error('Modal was Cancelled')
+  }
+
+  data = result.getData()
+
+  await tp.file.move(path.posix.join(config.locations.npcs, data.name), tp.file.find_tfile(tp.file.title))
+} catch (e) {
+  templateError = e.message
+  console.error(e)
+  new tp.obsidian.Notice(e.message, 5000)
 }
 -%>
+<%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-image:
+images:
+- z_Assets/PlaceholderImage.png
 relationships: []
-tags: 
+tags:
+- npc
 aliases: [<% title %>]
 pronounced: 
 race: 
@@ -148,3 +233,11 @@ TBD
 
 
 ### General Notes
+<%* } else { -%>
+
+
+> [!Error] Error Executing Template
+> <% templateError %>
+
+
+<%* } -%>
