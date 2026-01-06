@@ -1,5 +1,6 @@
 <%*
 let templateError = false
+let dataview = null
 let data = {}
 try {
   const path = require('path')
@@ -26,7 +27,7 @@ try {
 
   const parentLocations = dataview.api.pages('#location').sort(l => l.file.name, 'asc').array()
   const npcs = dataview.api.pages('#npc').sort(n => n.file.name, 'asc').array()
-  console.log('HERE')
+  console.log(npcs.map(n => n.file.name))
 
   const result = await modalForm.api.openForm({
     title: "Location Setup",
@@ -48,8 +49,30 @@ try {
         isRequired: true,
         input: {
           type: "select",
-          options: parentLocations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
+          multi_select_options: parentLocations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
           source: "fixed"
+        }
+      },
+      {
+        name: "owners",
+        label: "Owners",
+        description: "Who owns this shop",
+        isRequired: true,
+        input: {
+          type: "multiselect",
+          source: "fixed",
+          multi_select_options: npcs.map(n => n.file.name)
+        }
+      },
+      {
+        name: "staff",
+        label: "Staff",
+        description: "Who works in this shop",
+        isRequired: true,
+        input: {
+          type: "multiselect",
+          source: "fixed",
+          multi_select_options: npcs.map(n => n.file.name)
         }
       }
     ],
@@ -77,11 +100,11 @@ location: "<% data.location %>"
 resources: []
 owners: <%* if (data.owners.length == 0) { %>[]<%* } %>
 <%* for (owner of data.owners) { -%>
-  - "<% owner %>"
+  - "<% dataview.api.page(owner).file.link.toString() %>"
 <%* } -%>
 staff: <%* if (data.staff.length == 0) { %>[]<%* } %>
 <%* for (staff of data.staff) { -%>
-  - "<% staff %>"
+  - "<% dataview.api.page(staff).file.link.toString() %>"
 <%* } -%>
 cost_modifier: 1
 items: []

@@ -28,17 +28,18 @@
           }
         },
         {
-          "name": "image",
+          "name": "test",
           "label": "",
           "description": "",
           "input": {
             "type": "multiselect",
             "allowUnknownValues": false,
             "hidden": false,
-            "filenameTemplate": "",
-            "saveLocation": "",
             "query": "",
-            "multi_select_options": [],
+            "multi_select_options": [
+              "1",
+              "2"
+            ],
             "source": "fixed"
           },
           "isRequired": false
