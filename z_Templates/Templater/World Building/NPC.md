@@ -26,7 +26,7 @@ try {
   }
 
   const locations = dataview.api.pages('#location').sort(l => l.file.name, 'asc').array()
-  const races = dataview.api.pages('#races').sort(l => l.file.name, 'asc').array()
+  const races = dataview.api.pages('#race').sort(l => l.file.name, 'asc').array()
 
   const result = await modalForm.api.openForm({
     title: "Location Setup",
@@ -57,7 +57,11 @@ try {
         isRequired: true,
         input: {
           type: "select",
-          options: ['male', 'female']
+          options: [
+            { label: 'male', value: 'male' },
+            { label: 'female', value: 'female' }
+          ],
+          source: "fixed"
         }
       },
       {
@@ -67,7 +71,8 @@ try {
         isRequired: true,
         input: {
           type: "select",
-          options: races.map(r => ({ label: r.file.name, value: r.file.link.toString() }))
+          options: races.map(r => ({ label: r.file.name, value: r.file.link.toString() })),
+          source: "fixed"
         }
       },
       {
@@ -87,7 +92,8 @@ try {
             { label: 'Lawful Evil', value: 'Lawful Evil' },
             { label: 'Neutral Evil', value: 'Neutral Evil' },
             { label: 'Chaotic Evil', value: 'Chaotic Evil' }
-          ]
+          ],
+          source: "fixed"
         }
       },
       {
@@ -198,7 +204,7 @@ aliases:
 pronounced: 
 race: "<% data.race %>"
 gender: "<% data.gender %>"
-age: "<% data.race %>"
+age: <% data.age %>
 alignment: "<% data.alignment %>"
 occupation: 
 groups: []
