@@ -8,34 +8,14 @@
       "name": "example-form",
       "fields": [
         {
-          "name": "name",
-          "label": "Name",
-          "description": "It is named how?",
-          "isRequired": true,
-          "input": {
-            "type": "text",
-            "hidden": false
-          }
-        },
-        {
-          "name": "Location",
-          "label": "",
-          "description": "",
-          "isRequired": false,
-          "input": {
-            "type": "dataview",
-            "query": "dv.pages('#location').file.name"
-          }
-        },
-        {
           "name": "test",
           "label": "",
           "description": "",
-          "isRequired": false,
           "input": {
-            "type": "textarea",
-            "hidden": false
-          }
+            "type": "select",
+            "options": ["Lawful Good","Neutral Good","Chaotic Good","Lawful Neutral","Neutral","Chaotic Neutral","Lawful Evil","Neutral Evil","Chaotic Evil"]
+          },
+          "isRequired": false
         }
       ],
       "version": "1"

@@ -4,7 +4,7 @@ let data = {}
 let dataview = null
 try {
   const path = require('path')
-  const dataview = app.plugins.getPlugin("dataview")
+  dataview = app.plugins.getPlugin("dataview")
   const modalForm = app.plugins.getPlugin('modalforms')
 
   if (tp.config.run_mode !== 0) {
@@ -97,7 +97,7 @@ try {
         description: "Personality of NPC",
         isRequired: false,
         input: {
-          type: "textarea",
+          type: "textarea"
         }
       },
       {
@@ -106,7 +106,7 @@ try {
         description: "Ideal of NPC",
         isRequired: false,
         input: {
-          type: "textarea",
+          type: "textarea"
         }
       },
       {
@@ -115,7 +115,7 @@ try {
         description: "Bond of NPC",
         isRequired: false,
         input: {
-          type: "textarea",
+          type: "textarea"
         }
       },
       {
@@ -124,7 +124,7 @@ try {
         description: "Flaw of NPC",
         isRequired: false,
         input: {
-          type: "textarea",
+          type: "textarea"
         }
       },
       {
@@ -133,7 +133,7 @@ try {
         description: "Goals of NPC",
         isRequired: false,
         input: {
-          type: "textarea",
+          type: "textarea"
         }
       },
       {
@@ -142,7 +142,7 @@ try {
         description: "Likes of NPC",
         isRequired: false,
         input: {
-          type: "textarea",
+          type: "textarea"
         }
       },
       {
@@ -151,7 +151,7 @@ try {
         description: "Dislikes of NPC",
         isRequired: false,
         input: {
-          type: "textarea",
+          type: "textarea"
         }
       },
     ],
@@ -163,6 +163,7 @@ try {
   }
 
   data = result.getData()
+  console.log(data)
 
   await tp.file.move(path.posix.join(config.locations.npcs, data.name), tp.file.find_tfile(tp.file.title))
 } catch (e) {
@@ -182,12 +183,13 @@ images:
 relationships: []
 tags:
 - npc
-aliases: [<% title %>]
+aliases: 
+- "<% data.name %>"
 pronounced: 
-race: 
-gender: 
-age: 
-alignment: 
+race: "<% data.race %>"
+gender: "<% data.gender %>"
+age: "<% data.race %>"
+alignment: "<% data.alignment %>"
 occupation: 
 groups: []
 religions: []
