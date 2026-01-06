@@ -37,6 +37,10 @@ return function View() {
   const currentPage = dc.useCurrentFile()
   console.log(currentPage)
   const quests = dc.useQuery("#quest and @page")
+  const questsByCompleted = dc.useArray(quests, array => array.groupBy(quest => {
+    const completed = quest.value('completed')
+    return completed && completed[currrentPage.$name]
+  }))
   const columns = [
     {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)}
   ]
