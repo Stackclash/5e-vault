@@ -1,10 +1,13 @@
 <%*
 let templateError = false
+let dataview = null
+let data = null
+let typeLocations = {}
 try {
   const path = require('path')
-  const dataview = app.plugins.getPlugin("dataview")
+  dataview = app.plugins.getPlugin("dataview")
   const modalForm = app.plugins.getPlugin('modalforms')
-  const typeLocations = {
+  typeLocations = {
     Region: 'regions',
     Settlement: 'settlements',
     "Place of Interest": 'pois'
@@ -73,9 +76,7 @@ try {
     throw new Error('Modal was Cancelled')
   }
 
-  const data = result.getData()
-
-  console.log(data, config.locations, config.locations[data.type])
+  data = result.getData()
 
   await tp.file.move(path.posix.join(config.locations[data.type], data.name), tp.file.find_tfile(tp.file.title))
 
@@ -88,8 +89,9 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-location: "<% dataview.api.page(data.location).file.link %>"
-image: "z_Assets/PlaceholderImage.png"
+location: "<%* dataview.api.page(data.location).file.link -%>"
+images:
+- z_Assets/PlaceholderImage.png
 pronounced: 
 resources: []
 population: 
