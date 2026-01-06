@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
+                "file": "3. The Party/Quests/Test.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curse of Strahd"
+              "title": "Test"
             }
           }
         ]
@@ -248,6 +248,9 @@
   },
   "active": "377b9604aaf76be3",
   "lastOpenFiles": [
+    "3. The Party/Parties/Curse of Strahd.md",
+    "3. The Party/Quests/Test.md",
+    "3. The Party/Players/Faerah Duskrane.md",
     "1. DM Stuff/Configuration.md",
     "5. Mechanics/Decks/Deck Of Illusions.md",
     "Untitled.md",
@@ -288,8 +291,6 @@
     "4. World Almanac/Regions/Test.md",
     "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "4. World Almanac/Places of Interest/Test.md",
-    "4. World Almanac/Settlements/Test.md",
-    "4. World Almanac/Settlements/Krezk.md",
     "z_Scripts/Dataview/travelTimes.js",
     "1. DM Stuff/Tools/Story Engine/Story Engine",
     "1. DM Stuff/Tools/Story Engine/Deck of Worlds"

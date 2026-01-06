@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
 statblock: true
+active: true
 name: "Yevelda Ovak "
 level: 10
 ac: 15

@@ -1,9 +1,10 @@
 ---
 obsidianUIMode: preview
-completed: true
+completed: false
 campaign: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 description: ""
-steps: []
+steps:
+  - text: Hello this is a step
 npcs: []
 tags:
   - quest

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
 statblock: true
+active: false
 name: Seluvis Felo'melorn
 level: 8
 ac: 23

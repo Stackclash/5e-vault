@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
 statblock: true
+active: true
 name: Redgrave
 level: 9
 ac: 24

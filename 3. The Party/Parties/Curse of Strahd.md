@@ -2,12 +2,6 @@
 obsidianUIMode: preview
 banner_y: 0
 hours_per_day: 8
-party_player:
-  - '[[3. The Party/Players/Faerah Duskrane.md|Faerah Duskrane]]'
-  - '[[3. The Party/Players/Marin.md|Marin]]'
-  - '[[3. The Party/Players/Seluvis Felo''melorn.md|Seluvis Felo''melorn]]'
-  - '[[3. The Party/Players/Redgrave.md|Redgrave]]'
-  - '[[Yevelda Ovak |Yevelda Ovak ]]'
 exhaustion_level: 
 movement: walking
 speed: normal
@@ -24,6 +18,7 @@ tags:
 >	"`INPUT[inlineSelect(option(healthy),option(injured),option(dead)):" + file.path + "#condition]`" AS "Condition",
 >	"`INPUT[suggester(optionQuery(#location)):" + file.path + "#location]`" AS "Location"
 >	FROM #player
+> WHERE party = this.file.link AND active
 > SORT file.name asc
 >```
 
