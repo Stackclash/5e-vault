@@ -47,7 +47,7 @@ try {
         isRequired: true,
         input: {
           type: "select",
-          options: parentLocations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
+          options: locations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
           source: "fixed"
         }
       },
@@ -94,7 +94,7 @@ try {
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location: "<% data.location %>"
 condition: healthy
 images:
 - z_Assets/PlaceholderImage.png
