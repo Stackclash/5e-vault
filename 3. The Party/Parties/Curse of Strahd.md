@@ -31,6 +31,13 @@ FROM #npc
 WHERE contains(partyRelationships, this.file.name)
 ```
 
+## Active Quests
+```dataviewjs
+console.log(this)
+const quests = dv.pages('#quest')
+
+```
+
 ## **Session Log**
 > [!cards|dataview 3]
 >```dataview

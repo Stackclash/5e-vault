@@ -11,7 +11,7 @@ npcs:
 tags:
   - quest
 active:
-  Curse of Strahd: false
+  Curse of Strahd: true
 ---
 > [!infobox|n-th]
 > | | |
