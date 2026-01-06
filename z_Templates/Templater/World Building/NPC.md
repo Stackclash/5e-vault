@@ -51,12 +51,33 @@ try {
         }
       },
       {
+        name: "gender",
+        label: "Gender",
+        description: "Gender of NPC",
+        isRequired: true,
+        input: {
+          type: "select",
+          options: ['male', 'female']
+        }
+      },
+      {
         name: "race",
         label: "Race",
         description: "Race of NPC",
         isRequired: true,
         input: {
           type: "select",
+          options: races.map(r => ({ label: r.file.name, value: r.file.link.toString() }))
+        }
+      },
+      {
+        name: "alignment",
+        label: "Alignment",
+        description: "Alignment of NPC",
+        isRequired: true,
+        input: {
+          type: "select",
+          options: ['Lawful Good','Neutral Good','Chaotic Good','Lawful Neutral','Neutral','Chaotic Neutral','Lawful Evil','Neutral Evil','Chaotic Evil']
         }
       },
       {
