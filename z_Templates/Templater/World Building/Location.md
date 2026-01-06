@@ -74,13 +74,10 @@ try {
   }
 
   const data = result.getData()
-  console.log(data)
 
-  let images = tp.user.get_all_files(app.vault.adapter.getBasePath(), "z_Assets")
-  let selectedImage = await tp.system.suggester(images.map(i => i.name), images.map(i => i.path), false, "What image to use?")
-  if (!selectedImage) selectedImage = "z_Assets/PlaceholderImage.png"
+  console.log(data, config.locations, config.locations[data.type])
 
-  await tp.file.move(path.posix.join(config.locations[data.location], data.name), tp.file.find_tfile(tp.file.title))
+  await tp.file.move(path.posix.join(config.locations[data.type], data.name), tp.file.find_tfile(tp.file.title))
 
 } catch (e) {
   templateError = e.message
@@ -91,8 +88,8 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-location: "<% dataview.page(data.location).file.link %>"
-image: <% selectedImage %>
+location: "<% dataview.api.page(data.location).file.link %>"
+image: "z_Assets/PlaceholderImage.png"
 pronounced: 
 resources: []
 population: 
@@ -106,7 +103,7 @@ exports: []
 aliases: []
 tags:
   - location
-  - <% ['region', 'settlement', 'place-of-interest'][typeLocations.indexOf(selectedType)] %>
+  - <% Object.keys(typeLocations).find(k => typeLocations[k] === data.type) %>
 ---
 > [!infobox]
 > # `=this.file.name`
