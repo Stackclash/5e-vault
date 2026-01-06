@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9371c18c85ef8f1f",
+        "id": "903959596364cdcf",
         "type": "tabs",
         "children": [
           {
-            "id": "84004f5168a9c19f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Decks/Deck Of Illusions.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deck Of Illusions"
-            }
-          },
-          {
-            "id": "c0eeae5e29425a9a",
+            "id": "377b9604aaf76be3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1. DM Stuff/Configuration.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Configuration"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,6 +200,16 @@
               "icon": "lucide-list",
               "title": "Outline of Configuration"
             }
+          },
+          {
+            "id": "ba08d5ae91e53b95",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 3
@@ -251,8 +246,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1631da1cc31732be",
+  "active": "377b9604aaf76be3",
   "lastOpenFiles": [
+    "1. DM Stuff/Configuration.md",
+    "5. Mechanics/Decks/Deck Of Illusions.md",
     "Untitled.md",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
     "5. Mechanics/Decks/Tarot/20-Judgement.png",
@@ -267,8 +264,6 @@
     "5. Mechanics/Decks/Tarot",
     "5. Mechanics/Decks/Standard",
     "5. Mechanics/Decks/Deck of Many Things",
-    "1. DM Stuff/Configuration.md",
-    "5. Mechanics/Decks/Deck Of Illusions.md",
     "Decks/Tarot",
     "Decks/Standard",
     "Decks/Deck of Many Things",

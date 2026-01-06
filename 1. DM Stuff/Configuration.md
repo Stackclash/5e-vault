@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 active_world: "[[Eldoria]]"
-active_party: "[[Curse of Strahd]]"
+active_party:
 locations:
   preps: 1. DM Stuff/Session Prep/
   journals: 1. DM Stuff/Session Journals/
@@ -88,6 +88,8 @@ dv.paragraph(`Current Party Size: ${players.length}`)
 dv.paragraph(`Current Date: ${currentDate.prettyPrint.month} ${currentDate.original.day}, ${currentDate.original.year} (${currentDate.prettyPrint.day})`)
 ```
 
+```dataview
+LIST FROM #p
 # DM Tools/Calculators
 ```datacorejsx
 return function View() {
