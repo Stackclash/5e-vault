@@ -1,9 +1,9 @@
-const fs = require('fs')
-const path = require('path')
-const matter = require('https://esm.sh/gray-matter')
-const readlineSync = require('https://esm.sh/readline-sync')
-const NodeCache = require('https://esm.sh/node-cache')
-const fetch = require('https://esm.sh/sync-fetch')
+import fs from 'fs'
+import path from 'path'
+const matter = await fetch('https://cdn.jsdelivr.net/npm/gray-matter')
+const readlineSync = await fetch('https://cdn.jsdelivr.net/npm/readline-sync')
+const NodeCache = await fetch('https://cdn.jsdelivr.net/npm/node-cache')
+const fetch = await fetch('https://cdn.jsdelivr.net/npm/sync-fetch')
 const ttrpgConvertConfig = require('../../z_Extra/ttrpg-convert/config.json')
 
 // Ignore images for NPCs not imported
