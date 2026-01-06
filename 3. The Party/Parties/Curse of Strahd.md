@@ -31,14 +31,12 @@ FROM #npc
 WHERE contains(partyRelationships, this.file.name)
 ```
 
-## Active Quests
+## Quests
 ```datacorejsx
 return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery("#quest and @page")
-  console.log('quests', quests)
-  const activeQuests = quests.filter(q => q.active && q.active[currentPage.$name])
-  console.log('activeQuests', activeQuests)
+  const activeQuests = quests.filter(q => q.value('active') && q.value('active')[currentPage.$name])
   const questsByCompleted = dc.useArray(activeQuests, array => array.groupBy(quest => {
     const completed = quest.value('completed')
     return (!!completed && completed[currentPage.$name]) ? 'Completed' : 'Active'
@@ -47,7 +45,7 @@ return function View() {
     {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)}
   ]
 
-  return <dc.Table rows={questsByCompleted} columns={columns}/>
+  return <dc.Table rows={questsByCompleted} columns={columns} groupings={(key) => <h3>{key}</h3>} />
 }
 ```
 

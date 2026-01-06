@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "421c4bea87416bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/Quests/Take Ireena to Vallaki.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Take Ireena to Vallaki"
+            }
+          },
+          {
             "id": "377b9604aaf76be3",
             "type": "leaf",
             "state": {
@@ -264,8 +278,8 @@
   "lastOpenFiles": [
     "3. The Party/Quests/Test.md",
     "3. The Party/Parties/Curse of Strahd.md",
-    "3. The Party/Players/Faerah Duskrane.md",
     "3. The Party/Quests/Take Ireena to Vallaki.md",
+    "3. The Party/Players/Faerah Duskrane.md",
     "1. DM Stuff/Configuration.md",
     "5. Mechanics/Decks/Deck Of Illusions.md",
     "Untitled.md",
