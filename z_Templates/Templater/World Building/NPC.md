@@ -77,7 +77,17 @@ try {
         isRequired: true,
         input: {
           type: "select",
-          options: ['Lawful Good','Neutral Good','Chaotic Good','Lawful Neutral','Neutral','Chaotic Neutral','Lawful Evil','Neutral Evil','Chaotic Evil']
+          options: [
+            { label: 'Lawful Good', value: 'Lawful Good' },
+            { label: 'Neutral Good', value: 'Neutral Good' },
+            { label: 'Chaotic Good', value: 'Chaotic Good' },
+            { label: 'Lawful Neutral', value: 'Lawful Neutral' },
+            { label: 'Neutral', value: 'Neutral' },
+            { label: 'Chaotic Neutral', value: 'Chaotic Neutral' },
+            { label: 'Lawful Evil', value: 'Lawful Evil' },
+            { label: 'Neutral Evil', value: 'Neutral Evil' },
+            { label: 'Chaotic Evil', value: 'Chaotic Evil' }
+          ]
         }
       },
       {
