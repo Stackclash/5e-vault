@@ -33,10 +33,15 @@ WHERE contains(partyRelationships, this.file.name)
 
 ## Active Quests
 ```datacorejsx
-const currentPage = dc.useQuery("#quest and @page")
-
 return function View() {
-  return <h1>Hello</h1>
+  const currentPage = dc.useCurrentFile()
+  console.log(currentPage)
+  const quests = dc.useQuery("#quest and @page")
+  const columns = [
+    {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)}
+  ]
+
+  return <dc.Table rows={quests} columns={columns}/>
 }
 ```
 
