@@ -31,13 +31,13 @@ try {
     name: "character-setup",
     fields: [
       {
-        "name": "party",
-        "label": "Party",
-        "description": "What party is this character a part of?",
-        "isRequired": true,
-        "input": {
-          "type": "dataview",
-          "query": "dv.pages('\"" + config.locations.parties + "\"').file.name"
+        name "party",
+        label "Party",
+        description "What party is this character a part of?",
+        isRequired true,
+        input {
+          type "dataview",
+          query "dv.pages('\"" + config.locations.parties + "\"').file.name"
         }
       },
       {

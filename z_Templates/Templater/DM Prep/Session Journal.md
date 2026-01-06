@@ -27,31 +27,31 @@ try {
   }
 
   const result = await modalForm.api.openForm({
-    "title": "Session Journal Setup",
-    "name": "session-setup",
-    "fields": [
+    title "Session Journal Setup",
+    name "session-setup",
+    fields [
       {
-        "name": "party",
-        "label": "Party",
-        "description": "Campaign Party",
-        "isRequired": true,
-        "input": {
-          "type": "dataview",
-          "query": "dv.pages('\"" + config.locations.parties + "\"')"
+        name "party",
+        label "Party",
+        description "Campaign Party",
+        isRequired true,
+        input {
+          type "dataview",
+          query "dv.pages('\"" + config.locations.parties + "\"')"
         }
       },
       {
-        "name": "date",
-        "label": "Date",
-        "description": "Date of Session",
-        "isRequired": false,
-        "input": {
-          "type": "date",
-          "hidden": false
+        name "date",
+        label "Date",
+        description "Date of Session",
+        isRequired false,
+        input {
+          type "date",
+          hidden false
         }
       }
     ],
-    "version": "1"
+    version "1"
   })
 
   if (result.status === 'cancelled') {

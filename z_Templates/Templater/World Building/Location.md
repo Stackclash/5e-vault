@@ -10,7 +10,7 @@ try {
   typeLocations = {
     Region: 'regions',
     Settlement: 'settlements',
-    "Place of Interest": 'pois'
+    Place of Interest 'pois'
   }
 
   if (tp.config.run_mode !== 0) {
@@ -34,42 +34,42 @@ try {
   const parentLocations = dataview.api.pages('#location').sort(l => l.file.name, 'asc').array()
 
   const result = await modalForm.api.openForm({
-    "title": "Location Setup",
-    "name": "location-setup",
-    "fields": [
+    title "Location Setup",
+    name "location-setup",
+    fields [
       {
-        "name": "name",
-        "label": "Location Name",
-        "description": "Name of Location",
-        "isRequired": true,
-        "input": {
-          "type": "text",
+        name "name",
+        label "Location Name",
+        description "Name of Location",
+        isRequired true,
+        input {
+          type "text",
         }
       },
       {
-        "name": "type",
-        "label": "Location",
-        "description": "Type of Location",
-        "isRequired": true,
-        "input": {
-          "type": "select",
-          "options": Object.entries(typeLocations).map(([key, value]) => ({ label: key, value })),
-          "source": "fixed"
+        name "type",
+        label "Location",
+        description "Type of Location",
+        isRequired true,
+        input {
+          type "select",
+          options Object.entries(typeLocations).map(([key, value]) => ({ label: key, value })),
+          source "fixed"
         }
       },
       {
-        "name": "location",
-        "label": "Location",
-        "description": "Where this location is located",
-        "isRequired": true,
-        "input": {
-          "type": "select",
-          "options": parentLocations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
-          "source": "fixed"
+        name "location",
+        label "Location",
+        description "Where this location is located",
+        isRequired true,
+        input {
+          type "select",
+          options parentLocations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
+          source "fixed"
         }
       }
     ],
-    "version": "1"
+    version "1"
   })
 
   if (result.status === 'cancelled') {
