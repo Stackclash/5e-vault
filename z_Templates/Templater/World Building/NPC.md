@@ -34,7 +34,7 @@ try {
     fields: [
       {
         name: "name",
-        label: "Location Name",
+        label: "NPC Name",
         description: "Name of NPC",
         isRequired: true,
         input: {
@@ -206,16 +206,16 @@ race: "<% data.race %>"
 gender: "<% data.gender %>"
 age: <% data.age %>
 alignment: "<% data.alignment %>"
-occupation: 
+occupation: ""
 groups: []
 religions: []
-personality: "<% data.personality %>"
-ideal: "<% data.ideal %>"
-bond: "<% data.bond %>"
-flaw: "<% data.flaw %>"
-goals: "<% data.goals %>"
-likes: "<% data.likes %>"
-dislikes: "<% data.dislikes %>"
+personality: <%* data.personality ? data.personality : '""' %>
+ideal: <% data.ideal ? data.ideal : '""' %>
+bond: <% data.bond ? data.bond : '""' %>
+flaw: <% data.flaw ? data.flaw : '""' %>
+goals: <% data.goals ? data.goals : '""' %>
+likes: <% data.likes ? data.likes : '""' %>
+dislikes: <% data.dislikes ? data.dislikes : '""' %>
 partyRelationships: {}
 ---
 
