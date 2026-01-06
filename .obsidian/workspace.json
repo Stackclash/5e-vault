@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "b6721c4c0baab17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9371c18c85ef8f1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84004f5168a9c19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Mechanics/Decks/Deck Of Illusions.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deck Of Illusions"
+            }
+          },
+          {
+            "id": "c0eeae5e29425a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DM Stuff/Configuration.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuration"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aea3ac446e76c977",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b200f64e9a5fc69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "830f75e4aa18d718",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cefa5f1e6dcf7e01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#item/rarity/rare",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bb6dd3d4e949a3c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "55648dfc3c534cb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1631da1cc31732be",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_6b2b79a86a39",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 21,
+                    "month": 1,
+                    "year": 973
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_cb996bb898b8"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "0835d64891e3a86d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "right": {
+    "id": "24f65bc15fe356db",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c41cf8125d4d864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98043615bf91e174",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "acba0b4f294ef732",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3e8e6e385607f052",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d31c7f4a8034d68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. DM Stuff/Configuration.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Configuration"
+            }
+          },
+          {
+            "id": "74c90e7bc1db70af",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "media-extended:Open external media": true,
+      "bases:Create new base": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian42-brat:BRAT": true,
+      "obsidian-git:Open Git source control": true,
+      "templater-obsidian:Templater": true,
+      "modalforms:Edit forms": true,
+      "obsidian-excalidraw-plugin:New drawing": true,
+      "fantasy-content-generator:Fantasy Generators": true,
+      "obsidian-5e-statblocks:Open Creature pane": true,
+      "initiative-tracker:Initiative Tracker Encounter Builder": true,
+      "obsidian-kanban:Create new board": true,
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
+      "remotely-save:Remotely Save": true,
+      "obsidian-textgenerator-plugin:Generate Text!": true,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+      "calendarium:Open Calendarium": true,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false
+    }
+  },
+  "active": "c0eeae5e29425a9a",
+  "lastOpenFiles": [
+    "5. Mechanics/Decks/Deck Of Illusions.md",
+    "Decks/Tarot/21-TheWorld.png",
+    "Decks/Tarot/20-Judgement.png",
+    "Decks/Tarot/19-TheSun.png",
+    "Decks/Tarot/18-TheMoon.png",
+    "Decks/Tarot/17-TheStar.png",
+    "Decks/Tarot/16-TheTower.png",
+    "Decks/Tarot/15-TheDevil.png",
+    "Decks/Tarot/14-Temperance.png",
+    "Decks/Tarot/13-Death.png",
+    "Decks/Tarot/12-TheHangedMan.png",
+    "Decks/Tarot",
+    "Decks/Standard",
+    "Decks/Deck of Many Things",
+    "Decks",
+    "5. Mechanics/Bestiary/Dragon/Adult Red Dragon.md",
+    "5. Mechanics/Decks/Deck Of Many Things 13 Cards.md",
+    "5. Mechanics/Decks/Deck Of Many Things.md",
+    "5. Mechanics/Decks/Decks.md",
+    "Untitled 2.md",
+    "4. World Almanac/NPCs/test.md",
+    "4. World Almanac/NPCs/Test.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled 11.md",
+    "4. World Almanac/Shops/Test.md",
+    "Untitled 10.md",
+    "Untitled 9.md",
+    "Untitled 8.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "4. World Almanac/Regions/Test.md",
+    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
+    "4. World Almanac/Places of Interest/Test.md",
+    "4. World Almanac/Settlements/Test.md",
+    "4. World Almanac/Settlements/Krezk.md",
+    "4. World Almanac/Shops/Blinsky Toys.md",
+    "z_Scripts/Dataview/travelTimes.js",
+    "1. DM Stuff/Tools/Story Engine/Story Engine",
+    "1. DM Stuff/Tools/Story Engine/Deck of Worlds",
+    "1. DM Stuff/Tools/Story Engine",
+    "6. Resources/Resources/Curse of Strahd Companion_ The Complete Edition/1643747-Curse_of_Strahd_Companion_-_Complete_Edition_-_Big_File_Size.pdf",
+    "compose.yml"
+  ]
+}
