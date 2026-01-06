@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
+  - item
   - compendium/src/5e/veor
   - item/attunement/required
   - item/rarity/artifact

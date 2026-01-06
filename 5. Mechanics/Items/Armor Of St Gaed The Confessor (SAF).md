@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
+  - item
   - compendium/src/5e/saf
   - item/armor/heavy
   - item/rarity/unknown/magic

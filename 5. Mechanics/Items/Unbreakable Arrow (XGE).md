@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
+  - item
   - compendium/src/5e/xge
   - item/gear/ammunition
   - item/rarity/common

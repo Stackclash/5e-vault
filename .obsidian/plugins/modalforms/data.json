@@ -11,14 +11,12 @@
           "name": "test",
           "label": "",
           "description": "",
+          "isRequired": false,
           "input": {
             "type": "select",
-            "allowUnknownValues": false,
-            "hidden": false,
-            "options": [],
-            "source": "fixed"
-          },
-          "isRequired": false
+            "source": "fixed",
+            "options": []
+          }
         }
       ],
       "version": "1"

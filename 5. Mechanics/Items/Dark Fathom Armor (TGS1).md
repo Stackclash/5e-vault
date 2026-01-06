@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
+  - item
   - compendium/src/5e/tgs1
   - item/armor/light
   - item/rarity/very-rare

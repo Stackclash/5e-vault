@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
+  - item
   - compendium/src/5e/hhhvi
   - item/rarity/very-rare
   - item/wondrous/potion

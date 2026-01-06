@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
+  - item
   - compendium/src/5e/tce
   - item/attunement/required
   - item/gear/spellcasting-focus

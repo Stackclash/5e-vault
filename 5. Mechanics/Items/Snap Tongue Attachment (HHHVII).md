@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:
+  - item
   - compendium/src/5e/hhhvii
   - item/rarity/very-rare
   - item/weapon/martial

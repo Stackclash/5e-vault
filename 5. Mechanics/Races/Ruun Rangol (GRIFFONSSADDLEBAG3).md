@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
+  - race
   - compendium/src/5e/griffonssaddlebag3
   - race/ruun/rangol
 aliases:

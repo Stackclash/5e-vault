@@ -10,28 +10,26 @@ tags:
   - monster/type/humanoid/shapechanger
 condition: healthy
 images: []
-relationships:
-  - Brom Martikov (COS)|son
-  - Bray Martikov (COS)|son
+relationships: []
 aliases:
   - Urwin Martikov
 alignment: Lawful Good
 partyRelationships: {}
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
-pronounced:
-race:
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
+pronounced: null
+race: null
 gender: male
-age:
-occupation:
+age: null
+occupation: null
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]

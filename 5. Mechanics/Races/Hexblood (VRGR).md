@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
+  - race
   - compendium/src/5e/vrgr
   - race/hexblood
 aliases:

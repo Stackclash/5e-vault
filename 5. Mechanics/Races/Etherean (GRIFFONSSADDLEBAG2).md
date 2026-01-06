@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:
+  - race
   - compendium/src/5e/griffonssaddlebag2
   - race/etherean
 aliases:

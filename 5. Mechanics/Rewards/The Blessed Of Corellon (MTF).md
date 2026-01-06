@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
+  - reward
   - compendium/src/5e/mtf
   - reward/other
 aliases:
