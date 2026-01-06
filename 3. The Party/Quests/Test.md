@@ -5,7 +5,7 @@ description: ""
 steps:
   - text: Hello this is a step
     completed:
-      Curse of Strahd: false
+      Curse of Strahd: true
 npcs:
   - name: "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov (COS)]]"
     description: He has the quest

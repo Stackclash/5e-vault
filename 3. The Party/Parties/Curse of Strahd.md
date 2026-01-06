@@ -44,7 +44,8 @@ return function View() {
   const columns = [
     {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)},
     {id: 'Active', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('metaBindInput', {type: 'toggle', path:'${value}', field: ['active', dv.page(dv.page('Configuration').active_party).file.name]})\``},
-    {id: 'Complete', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('metaBindInput', {type: 'toggle', path: '${value}', field: ['completed', dv.page(dv.page('Configuration').active_party).file.name]})\``}
+    {id: 'Complete', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('metaBindInput', {type: 'toggle', path: '${value}', field: ['completed', dv.page(dv.page('Configuration').active_party).file.name]})\``},
+    {id: 'Completed Steps', value: (row) => ({completed: row.value('steps').filter(s => !!s.completed && !!s.completed[currentPage.$name]).length, total: row.value('steps').length}), render: (value, row) => `${value.completed}/${value.total}`}
   ]
 
   return <dc.Table rows={questsByCompleted} columns={columns} groupings={(key) => <h3>{key}</h3>} />
