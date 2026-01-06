@@ -32,10 +32,12 @@ WHERE contains(partyRelationships, this.file.name)
 ```
 
 ## Active Quests
-```dataviewjs
-console.log(this)
-const quests = dv.pages('#quest')
+```datacorejsx
+const currentPage = dc.useQuery("#quest and @page")
 
+return function View() {
+  return <h1>Hello</h1>
+}
 ```
 
 ## **Session Log**
