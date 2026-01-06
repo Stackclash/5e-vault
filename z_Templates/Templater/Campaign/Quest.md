@@ -42,9 +42,9 @@ try {
         label: 'World',
         description: 'What World is this Quest for?',
         isRequired: true,
-        input {
-          type "dataview",
-          query "dv.pages('\"" + config.locations.worlds + "\"').file.name"
+        input: {
+          type: "dataview",
+          query: "dv.pages('\"" + config.locations.worlds + "\"').file.name"
         }
       }
     ]

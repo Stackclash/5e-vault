@@ -19,21 +19,21 @@ try {
   }
 
   const result = await modalForm.api.openForm({
-    title "Campaign Setup",
-    name "campaign-setup",
+    title: "Campaign Setup",
+    name: "campaign-setup",
     fields [
       {
-        name "name",
-        label "Name",
-        description "Campaign Name",
-        isRequired true,
-        input {
-          type "text",
-          hidden false,
+        name: "name",
+        label: "Name",
+        description: "Campaign Name",
+        isRequired: true,
+        input: {
+          type: "text",
+          hidden: false,
         }
       }
     ],
-    version "1"
+    version: "1"
   })
 
   if (result.status === 'cancelled') {
