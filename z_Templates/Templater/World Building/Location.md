@@ -31,7 +31,7 @@ try {
     throw new Error('Configuration for file locations is not set up correctly')
   }
 
-  const parentLocations = dataview.api.pages('#location').array()
+  const parentLocations = dataview.api.pages('#location').sort(l => l.file.name, 'asc').array()
 
   const result = await modalForm.api.openForm({
     "title": "Location Setup",
