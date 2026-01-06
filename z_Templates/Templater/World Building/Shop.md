@@ -1,5 +1,6 @@
 <%*
 let templateError = false
+let data = {}
 try {
   const path = require('path')
   dataview = app.plugins.getPlugin("dataview")
@@ -24,7 +25,8 @@ try {
   }
 
   const parentLocations = dataview.api.pages('#location').sort(l => l.file.name, 'asc').array()
-  const npcs = dv.pages('#npc').sort(n => n.file.name, 'asc').array()
+  const npcs = dataview.api.pages('#npc').sort(n => n.file.name, 'asc').array()
+  console.log('HERE')
 
   const result = await modalForm.api.openForm({
     title: "Location Setup",
@@ -49,90 +51,37 @@ try {
           options: parentLocations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
           source: "fixed"
         }
-      },
-      {
-        name: "owners",
-        label: "Owners",
-        description: "Who owns this shop",
-        isRequired: true,
-        input: {
-          type: "multiselect",
-          source: "fixed",
-          options: npcs.map(n => ({label: l.file.name, value: l.file.link.toString()}))
-        }
-      },
-      {
-        name: "staff",
-        label: "Staff",
-        description: "Who works in this shop",
-        isRequired: true,
-        input: {
-          type: "multiselect",
-          source: "fixed",
-          options: npcs.map(n => ({label: l.file.name, value: l.file.link.toString()}))
-        }
       }
     ],
     version: "1"
   })
+
+  if (result.status === 'cancelled') {
+    throw new Error('Modal was Cancelled')
+  }
+
+  data = result.getData()
+
+  await tp.file.move(path.posix.join(config.locations.shops, data.name), tp.file.find_tfile(tp.file.title))
 
 } catch (e) {
   templateError = e.message
   console.error(e)
   new tp.obsidian.Notice(e.message, 5000)
 }
-
-const path = require('path')
-const dv = app.plugins.getPlugin("dataview").api
-const locationConfig = dv.page('Configuration').locations
-
-await tp.file.move(path.join(locationConfig.shops, tp.file.title))
-if (tp.config.run_mode === 0) {
-    let title = await tp.system.prompt("What is the name of the shop?")
-    await tp.file.rename(title)
-}
-
-let selectMoreOwners = true
-let selectedOwners = []
-let owners = dv.pages('#npc')
-
-while (selectMoreOwners) {
-    let choice = await tp.system.suggester(owners.map(o => o.file.name), owners.map(o => [o.file.path, o.file.name]), false, "Who owns the shop?")
-    if (!choice) {
-        selectMoreOwners = false
-    } else {
-        selectedOwners.push(choice)
-    }
-}
-
-let selectMoreStaff = true
-let selectedStaff = []
-let staff = dv.pages('#npc')
-
-while (selectMoreStaff) {
-    let choice = await tp.system.suggester(staff.map(o => o.file.name), staff.map(o => [o.file.path, o.file.name]), false, "Who staffs the shop?")
-    if (!choice) {
-        selectMoreStaff = false
-    } else {
-        selectedStaff.push(choice)
-    }
-}
-
-let parentLocations = dv.pages('#location')
-
-let selectedLocation = await tp.system.suggester(parentLocations.map(p => p.file.name), parentLocations.map(p => [p.file.path, p.file.name]), false, "Where is this shop located?")
 -%>
+<%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-location: "[[<% selectedLocation.join('|') %>]]"
+location: "<% data.location %>"
 resources: []
-owners: <%* if (selectedOwners.length == 0) { %>[]<%* } %>
-<%* for (owner of selectedOwners) { -%>
-  - "[[<% owner.join('|') %>]]"
+owners: <%* if (data.owners.length == 0) { %>[]<%* } %>
+<%* for (owner of data.owners) { -%>
+  - "<% owner %>"
 <%* } -%>
-staff: <%* if (selectedStaff.length == 0) { %>[]<%* } %>
-<%* for (staff of selectedStaff) { -%>
-  - "[[<% staff.join('|') %>]]"
+staff: <%* if (data.staff.length == 0) { %>[]<%* } %>
+<%* for (staff of data.staff) { -%>
+  - "<% staff %>"
 <%* } -%>
 cost_modifier: 1
 items: []
@@ -159,3 +108,11 @@ tags:
 ```dataviewjs
 await dv.view("shopInventory", {current: dv.current()})
 ```
+<%* } else { -%>
+
+
+> [!Error] Error Executing Template
+> <% templateError %>
+
+
+<%* } -%>
