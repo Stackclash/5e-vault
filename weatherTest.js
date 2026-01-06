@@ -1,4 +1,4 @@
-const matter = require('https://esm.sh/gray-matter')
+const matter = require('gray-matter')
 const fs = require('fs')
 const path = require('path')
 

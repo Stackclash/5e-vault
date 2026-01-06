@@ -1,4 +1,6 @@
 {
+  "copyLinkToElemenetAnchorTo100": false,
+  "copyFrameLinkByName": false,
   "disableDoubleClickTextEditing": false,
   "folder": "Excalidraw",
   "cropFolder": "",
@@ -73,6 +75,7 @@
   "focusOnFileTab": true,
   "openInMainWorkspace": true,
   "showLinkBrackets": true,
+  "syncElementLinkWithText": false,
   "allowCtrlClick": true,
   "forceWrap": false,
   "pageTransclusionCharLimit": 200,
@@ -120,7 +123,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "previousRelease": "2.17.2",
+  "previousRelease": "2.19.0",
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
@@ -129,6 +132,7 @@
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],
+  "sidepanelTabs": [],
   "customPens": [
     {
       "type": "default",
