@@ -64,7 +64,7 @@ try {
         "isRequired": true,
         "input": {
           "type": "select",
-          "options": parentLocations.map(l => ({label: l.file.name, value: l.file.link})),
+          "options": parentLocations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
           "source": "fixed"
         }
       }
