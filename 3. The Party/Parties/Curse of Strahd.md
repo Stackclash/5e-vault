@@ -42,7 +42,9 @@ return function View() {
     return (!!completed && completed[currentPage.$name]) ? 'Completed' : 'Active'
   }))
   const columns = [
-    {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)}
+    {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)},
+    {id: 'Active', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('metaBindInput', {type: 'toggle', path:'${value}', field: ['active', dv.page(dv.page('Configuration').active_party).file.name]})\``},
+    {id: 'Complete', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('metaBindInput', {type: 'toggle', path: '${value}', field: ['completed', dv.page(dv.page('Configuration').active_party).file.name]})\``}
   ]
 
   return <dc.Table rows={questsByCompleted} columns={columns} groupings={(key) => <h3>{key}</h3>} />
