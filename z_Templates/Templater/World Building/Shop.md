@@ -24,37 +24,56 @@ try {
   }
 
   const parentLocations = dataview.api.pages('#location').sort(l => l.file.name, 'asc').array()
-  const npcs = dv.pages('#npc')
+  const npcs = dv.pages('#npc').sort(n => n.file.name, 'asc').array()
 
   const result = await modalForm.api.openForm({
-    title "Location Setup",
-    name "location-setup",
-    fields [
+    title: "Location Setup",
+    name: "location-setup",
+    fields: [
       {
-        name "name",
-        label "Location Name",
-        description "Name of Location",
-        isRequired true,
-        input {
-          type "text",
+        name: "name",
+        label: "Location Name",
+        description: "Name of Location",
+        isRequired: true,
+        input: {
+          type: "text",
         }
       },
       {
-        name "location",
-        label "Location",
-        description "Where this shop is located",
-        isRequired true,
-        input {
-          type "select",
-          options parentLocations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
-          source "fixed"
+        name: "location",
+        label: "Location",
+        description: "Where this shop is located",
+        isRequired: true,
+        input: {
+          type: "select",
+          options: parentLocations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
+          source: "fixed"
         }
       },
       {
-
+        name: "owners",
+        label: "Owners",
+        description: "Who owns this shop",
+        isRequired: true,
+        input: {
+          type: "multiselect",
+          source: "fixed",
+          options: npcs.map(n => ({label: l.file.name, value: l.file.link.toString()}))
+        }
+      },
+      {
+        name: "staff",
+        label: "Staff",
+        description: "Who works in this shop",
+        isRequired: true,
+        input: {
+          type: "multiselect",
+          source: "fixed",
+          options: npcs.map(n => ({label: l.file.name, value: l.file.link.toString()}))
+        }
       }
     ],
-    version "1"
+    version: "1"
   })
 
 } catch (e) {

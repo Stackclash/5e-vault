@@ -1,11 +1,10 @@
 <%*
 let templateError = false
-let dataview = null
 let data = null
 let typeLocations = {}
 try {
   const path = require('path')
-  dataview = app.plugins.getPlugin("dataview")
+  const dataview = app.plugins.getPlugin("dataview")
   const modalForm = app.plugins.getPlugin('modalforms')
   typeLocations = {
     Region: 'regions',

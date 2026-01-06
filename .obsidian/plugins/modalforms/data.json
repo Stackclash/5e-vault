@@ -24,12 +24,24 @@
           "isRequired": false,
           "input": {
             "type": "dataview",
-            "query": "dv.pages('#location').file.name",
+            "query": "dv.pages('#location').file.name"
+          }
+        },
+        {
+          "name": "image",
+          "label": "",
+          "description": "",
+          "input": {
+            "type": "multiselect",
+            "allowUnknownValues": false,
+            "hidden": false,
             "filenameTemplate": "",
             "saveLocation": "",
-            "allowedExtensions": [],
-            "folder": "z_Assets"
-          }
+            "query": "",
+            "multi_select_options": [],
+            "source": "fixed"
+          },
+          "isRequired": false
         }
       ],
       "version": "1"
