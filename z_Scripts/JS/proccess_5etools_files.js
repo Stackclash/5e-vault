@@ -1,9 +1,9 @@
 const fs = require('fs')
 const path = require('path')
-const matter = require('gray-matter')
-const readlineSync = require('readline-sync')
-const NodeCache = require('node-cache')
-const fetch = require('sync-fetch')
+const matter = require('https://esm.sh/gray-matter')
+const readlineSync = require('https://esm.sh/readline-sync')
+const NodeCache = require('https://esm.sh/node-cache')
+const fetch = require('https://esm.sh/sync-fetch')
 const ttrpgConvertConfig = require('../../z_Extra/ttrpg-convert/config.json')
 
 // Ignore images for NPCs not imported
