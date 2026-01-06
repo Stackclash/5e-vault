@@ -64,7 +64,7 @@ try {
         "isRequired": true,
         "input": {
           "type": "select",
-          "options": parentLocations.map(l => ({label: l.file.name, value: l.file.path})),
+          "options": parentLocations.map(l => ({label: l.file.name, value: l.file.link})),
           "source": "fixed"
         }
       }
@@ -89,7 +89,7 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-location: "<%* dataview.api.page(data.location).file.link -%>"
+location: "<% data.location %>"
 images:
 - z_Assets/PlaceholderImage.png
 pronounced: 
