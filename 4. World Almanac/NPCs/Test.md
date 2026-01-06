@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Regions/Barovia.md|Barovia]]"
+location: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
 condition: healthy
 images:
 - z_Assets/PlaceholderImage.png
@@ -11,20 +11,20 @@ tags:
 aliases: 
 - "Test"
 pronounced: 
-race: "[[5. Mechanics/Races/Elf.md|Elf]]"
+race: "[[5. Mechanics/Races/Aarakocra (DMG).md|Aarakocra (DMG)]]"
 gender: "male"
-age: "[[5. Mechanics/Races/Elf.md|Elf]]"
-alignment: "Chaotic Good"
+age: 12
+alignment: "Lawful Good"
 occupation: 
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: "undefined"
+ideal: "undefined"
+bond: "undefined"
+flaw: "undefined"
+goals: "undefined"
+likes: "undefined"
+dislikes: "undefined"
 partyRelationships: {}
 ---
 

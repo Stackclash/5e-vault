@@ -209,13 +209,13 @@ alignment: "<% data.alignment %>"
 occupation: 
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality: "<% data.personality %>"
+ideal: "<% data.ideal %>"
+bond: "<% data.bond %>"
+flaw: "<% data.flaw %>"
+goals: "<% data.goals %>"
+likes: "<% data.likes %>"
+dislikes: "<% data.dislikes %>"
 partyRelationships: {}
 ---
 
