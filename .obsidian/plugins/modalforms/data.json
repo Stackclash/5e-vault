@@ -33,14 +33,7 @@
           "description": "",
           "isRequired": false,
           "input": {
-            "type": "number",
-            "source": "fixed",
-            "multi_select_options": [
-              "1",
-              "2"
-            ],
-            "allowUnknownValues": false,
-            "query": "",
+            "type": "textarea",
             "hidden": false
           }
         }

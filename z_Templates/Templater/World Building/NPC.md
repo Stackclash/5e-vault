@@ -26,6 +26,7 @@ try {
   }
 
   const locations = dataview.api.pages('#location').sort(l => l.file.name, 'asc').array()
+  const races = dataview.api.pages('#races').sort(l => l.file.name, 'asc').array()
 
   const result = await modalForm.api.openForm({
     title: "Location Setup",
@@ -34,10 +35,28 @@ try {
       {
         name: "name",
         label: "Location Name",
-        description: "Name of Location",
+        description: "Name of NPC",
         isRequired: true,
         input: {
           type: "text",
+        }
+      },
+      {
+        name: "age",
+        label: "Age",
+        description: "Age of NPC",
+        isRequired: true,
+        input: {
+          type: "number",
+        }
+      },
+      {
+        name: "race",
+        label: "Race",
+        description: "Race of NPC",
+        isRequired: true,
+        input: {
+          type: "select",
         }
       },
       {
@@ -52,27 +71,68 @@ try {
         }
       },
       {
-        name: "owners",
-        label: "Owners",
-        description: "Who owns this shop",
-        isRequired: true,
+        name: "personality",
+        label: "Personality",
+        description: "Personality of NPC",
+        isRequired: false,
         input: {
-          type: "multiselect",
-          source: "fixed",
-          multi_select_options: npcs.map(n => n.file.name)
+          type: "textarea",
         }
       },
       {
-        name: "staff",
-        label: "Staff",
-        description: "Who works in this shop",
-        isRequired: true,
+        name: "ideal",
+        label: "Ideal",
+        description: "Ideal of NPC",
+        isRequired: false,
         input: {
-          type: "multiselect",
-          source: "fixed",
-          multi_select_options: npcs.map(n => n.file.name)
+          type: "textarea",
         }
-      }
+      },
+      {
+        name: "bond",
+        label: "Bond",
+        description: "Bond of NPC",
+        isRequired: false,
+        input: {
+          type: "textarea",
+        }
+      },
+      {
+        name: "flaw",
+        label: "Flaw",
+        description: "Flaw of NPC",
+        isRequired: false,
+        input: {
+          type: "textarea",
+        }
+      },
+      {
+        name: "goals",
+        label: "Goals",
+        description: "Goals of NPC",
+        isRequired: false,
+        input: {
+          type: "textarea",
+        }
+      },
+      {
+        name: "likes",
+        label: "Likes",
+        description: "Likes of NPC",
+        isRequired: false,
+        input: {
+          type: "textarea",
+        }
+      },
+      {
+        name: "dislikes",
+        label: "Dislikes",
+        description: "Dislikes of NPC",
+        isRequired: false,
+        input: {
+          type: "textarea",
+        }
+      },
     ],
     version: "1"
   })
