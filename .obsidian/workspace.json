@@ -141,8 +141,7 @@
               "title": "Solo RPG Toolkit"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,23 +215,14 @@
               "icon": "lucide-list",
               "title": "Outline of Configuration"
             }
-          },
-          {
-            "id": "1c685262ad4659ee",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,10 +247,11 @@
       "remotely-save:Remotely Save": true,
       "obsidian-textgenerator-plugin:Generate Text!": true,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
-      "solo-rpg-toolkit:Solo RPG Toolkit": true
+      "solo-rpg-toolkit:Solo RPG Toolkit": true,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "830f75e4aa18d718",
+  "active": "1631da1cc31732be",
   "lastOpenFiles": [
     "Untitled.md",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
