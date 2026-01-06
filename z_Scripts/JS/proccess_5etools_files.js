@@ -47,8 +47,8 @@ const config = {
             .replace(/-/g, ' ')
             .replace(/\b\w/g, char => char.toUpperCase())
           const separator = newRelativePath.match(/[\/\\]/)[0]
-          
-          newRelativePath = `${newRelativePath}${separator}${deckName}`
+
+          newRelativePath = newRelativePath.replace(/5. Mechanics([\\\/])Decks([\\\/])img/, (oldText, separator) => `5. Mechanics${separator}Decks${separator}${deckName}`)
         }
 
         return newRelativePath
