@@ -35,15 +35,15 @@ WHERE contains(partyRelationships, this.file.name)
 ```datacorejsx
 return function View() {
   const currentPage = dc.useCurrentFile()
-  console.log(currentPage)
   const quests = dc.useQuery("#quest and @page")
   const questsByCompleted = dc.useArray(quests, array => array.groupBy(quest => {
     const completed = quest.value('completed')
-    return completed && completed[currrentPage.$name]
+    return !!completed && completed[currentPage.$name]
   }))
   const columns = [
     {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)}
   ]
+  console.log(questsByCompleted)
 
   return <dc.Table rows={quests} columns={columns}/>
 }
