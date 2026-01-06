@@ -40,6 +40,17 @@ const config = {
           .replace(/compendium/, () => '5. Mechanics')
           .replaceAll(/([\/\\\-])([a-z0-9])(?!mg|oken)/g, (oldText, separator, letter) => separator === '-' ? ' ' + letter.toUpperCase() : separator + letter.toUpperCase())
 
+        if (/5. Mechanics[\\\/]Decks/i.test(newRelativePath) && file.fileExtension !== '.md') {
+          const fileName = file.fileName
+          const deckName = fileName
+            .replace(/-\d+-.+$/, '')
+            .replace(/-/g, ' ')
+            .replace(/\b\w/g, char => char.toUpperCase())
+          const separator = newRelativePath.match(/[\/\\]/)[0]
+          
+          newRelativePath = `${newRelativePath}${separator}${deckName}`
+        }
+
         return newRelativePath
       }
     },
@@ -85,7 +96,9 @@ const config = {
         let fileNameRule = config.rules.find(rule => rule.name === 'Update File Name')
 
         filePath = await filePathRule.process({
-          relativePath: filePath
+          fileName: fileName,
+          relativePath: filePath,
+          fileExtension: path.parse(linkPath).ext
         })
 
         if (!fileNameRule.ignore({ fileExtension: path.parse(linkPath).ext })) {
