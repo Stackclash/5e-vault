@@ -37,10 +37,16 @@ return function View() {
   const currentPage = dc.useCurrentFile()
   const quests = dc.useQuery("#quest and @page")
   const activeQuests = quests.filter(q => q.value('active') && q.value('active')[currentPage.$name])
-  const questsByCompleted = dc.useArray(activeQuests, array => array.groupBy(quest => {
+  const questsGrouped = dc.useArray(quests, array => array.groupBy(quest => {
+    const active = quest.value('active')
     const completed = quest.value('completed')
-    console.log(completed)
-    return (!!completed && completed[currentPage.$name]) ? 'Completed' : 'Active'
+    if ((active && active[currentPage.$name]) && !(!!completed && completed[currentPage.$name])) {
+      return 'Active'
+    } else if (!!completed && completed[currentPage.$name]) {
+      return 'Completed'
+    } else {
+      return 'Inactive'
+    }
   }))
   const columns = [
     {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)},
@@ -49,7 +55,7 @@ return function View() {
     {id: 'Completed Steps', value: (row) => ({completed: row.value('steps').filter(s => !!s.completed && !!s.completed[currentPage.$name]).length, total: row.value('steps').length}), render: (value, row) => `${value.completed}/${value.total}`}
   ]
 
-  return <dc.Table rows={questsByCompleted} columns={columns} groupings={(key) => <h3>{key}</h3>} />
+  return <dc.Table rows={questsGrouped} columns={columns} groupings={(key) => <h3>{key}</h3>} />
 }
 ```
 
