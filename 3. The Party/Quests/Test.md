@@ -5,14 +5,17 @@ campaign: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 description: ""
 steps:
   - text: Hello this is a step
-npcs: []
+    completed: false
+npcs:
+  - name: "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov (COS)]]"
+    description: He has the quest
 tags:
   - quest
 ---
 > [!infobox|n-th]
 > | | |
 > |---|---|
-> | **Completed:** | `$=dv.el("input", null, {attr: Object.assign({type: "checkbox", disabled: true}, dv.current().completed ? { checked: true } : {})})` |
+> | **Completed:** | `INPUT[toggle:completed]` |
 # **`=this.file.name`**
 
 ## Description
