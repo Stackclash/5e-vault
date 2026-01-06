@@ -4,7 +4,8 @@ campaign: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 description: ""
 steps:
   - text: Hello this is a step
-    completed: false
+    completed:
+      Curse of Strahd: false
 npcs:
   - name: "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov (COS)]]"
     description: He has the quest
@@ -81,7 +82,7 @@ return function View() {
     {
       id: 'Complete',
       width: 'minimum',
-      value: ({i}) => `\`$=await dv.view('metaBindInput', {type: 'toggle', field: ['steps', i, 'completed', dv.page(dv.page('Configuration').active_party).file.name]})\`` 
+      value: ({i}) => `\`$=await dv.view('metaBindInput', {type: 'toggle', field: ['steps', ${i}, 'completed', dv.page(dv.page('Configuration').active_party).file.name]})\`` 
     },
     {
       id: 'Description',

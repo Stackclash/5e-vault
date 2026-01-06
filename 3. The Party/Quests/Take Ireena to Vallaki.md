@@ -81,7 +81,7 @@ return function View() {
     {
       id: 'Complete',
       width: 'minimum',
-      value: ({i}) => `\`INPUT[toggle:steps[${i}].completed]\``
+      value: ({i}) => `\`$=await dv.view('metaBindInput', {type: 'toggle', field: ['steps', ${i}, 'completed', dv.page(dv.page('Configuration').active_party).file.name]})\`` 
     },
     {
       id: 'Description',
