@@ -70,7 +70,8 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-completed: false
+active: {}
+completed: {}
 campaign: "<% selectedWorld.file.link %>"
 description: ""
 steps: []
@@ -81,7 +82,8 @@ tags:
 > [!infobox|n-th]
 > | | |
 > |---|---|
-> | **Completed:** | `$=dv.el("input", null, {attr: Object.assign({type: "checkbox", disabled: true}, dv.current().completed ? { checked: true } : {})})` |
+> | **Completed:** | `$=await dv.view('metaBindInput', {type: 'toggle', field: ['completed', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> | **Active** | `$=await dv.view('metaBindInput', {type: 'toggle', field: ['active', dv.page(dv.page('Configuration').active_party).file.name]})` |
 # **`=this.file.name`**
 
 ## Description

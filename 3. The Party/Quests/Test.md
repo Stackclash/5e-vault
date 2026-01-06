@@ -1,6 +1,5 @@
 ---
 obsidianUIMode: preview
-completed: false
 campaign: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 description: ""
 steps:
@@ -11,11 +10,14 @@ npcs:
     description: He has the quest
 tags:
   - quest
+active:
+  Curse of Strahd: false
 ---
 > [!infobox|n-th]
 > | | |
 > |---|---|
-> | **Completed:** | `INPUT[toggle:completed]` |
+> | **Completed:** | `$=await dv.view('metaBindInput', {type: 'toggle', field: ['completed', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> | **Active** | `$=await dv.view('metaBindInput', {type: 'toggle', field: ['active', dv.page(dv.page('Configuration').active_party).file.name]})` |
 # **`=this.file.name`**
 
 ## Description
