@@ -35,7 +35,7 @@ try {
       {
         name: "name",
         label: "Location Name",
-        description: "Name of Location",
+        description: "Name of Shop",
         isRequired: true,
         input: {
           type: "text",

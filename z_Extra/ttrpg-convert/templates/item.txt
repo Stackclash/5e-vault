@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-item
 {#if resource.tags }
 tags:
+- item
 {#for tag in resource.tags}
 - {tag}
 {/for}

@@ -31,18 +31,18 @@
           "name": "test",
           "label": "",
           "description": "",
+          "isRequired": false,
           "input": {
-            "type": "multiselect",
-            "allowUnknownValues": false,
-            "hidden": false,
-            "query": "",
+            "type": "number",
+            "source": "fixed",
             "multi_select_options": [
               "1",
               "2"
             ],
-            "source": "fixed"
-          },
-          "isRequired": false
+            "allowUnknownValues": false,
+            "query": "",
+            "hidden": false
+          }
         }
       ],
       "version": "1"
