@@ -356,7 +356,7 @@ const config = {
       enabled: true,
       name: 'Move File',
       ignore: function(file) {
-        return /4. world almanac[\/\\]npc/i.test(file.path) && file.frontMatter.tags && !file.frontMatter.tags.some(tag => tag === 'compendium/src/5e/cos')
+        return file.fileName === 'back' || (/4. world almanac[\/\\]npc/i.test(file.path) && file.frontMatter.tags && !file.frontMatter.tags.some(tag => tag === 'compendium/src/5e/cos'))
       },
       process: function(file) {
         fs.mkdirSync(path.parse(file.path).dir, {
