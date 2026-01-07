@@ -12,9 +12,9 @@ npcs:
 tags:
   - quest
 active:
-  Curse of Strahd: true
-completed:
   Curse of Strahd: false
+completed:
+  Curse of Strahd: true
 ---
 > [!infobox|n-th]
 > | | |

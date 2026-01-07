@@ -47,7 +47,10 @@ return function View() {
     } else {
       return 'Inactive'
     }
-  }))
+  })).sort((a, b) => {
+    const order = ['Inactive', 'Active', 'Completed']
+    return order.indexOf(a.key) - order.indexOf(b.key)
+  })
   const columns = [
     {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)},
     {id: 'Active', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('metaBindInput', {type: 'toggle', path:'${value}', field: ['active', dv.page(dv.page('Configuration').active_party).file.name]})\``},
