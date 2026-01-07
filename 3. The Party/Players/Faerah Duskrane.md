@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: true
 active: true
 name: Faerah Duskrane
-level: 9
+level: 10
 ac: 17
 hp: 63
 modifier: 7

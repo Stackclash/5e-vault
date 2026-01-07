@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: true
 active: true
 name: Redgrave
-level: 9
+level: 10
 ac: 24
 hp: 48
 modifier: -1
