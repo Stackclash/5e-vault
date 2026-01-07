@@ -11,7 +11,9 @@ travel_multiplier: 1
 travel_speed: 30.001
 encumbered: false
 travel_hours_per_day: 8
-travel_bonus: 3
+travel_bonus: 0
+var_mins: 60
+travel_calc: 19.999333355554814
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -24,6 +26,7 @@ travel_bonus: 3
 > **Encumbered** | `INPUT[toggle:encumbered]` (`VIEW[{encumbered} ? -10: 0]`) |
 > **Travel Hours Per Day** | `INPUT[number(class(mb-35)):travel_hours_per_day]` |
 > **Exhaustion Level** | `INPUT[inlineSelect(class(mb-35), option(0, 0 No exhaustion), option(1, 1 Disadvantage on ability checks), option(2, 2 Speed halved), option(3, 3 Disadvantage on attack rolls and saving throws), option(4, 4 Hit point maximum halved), option(5, 5 Speed reduced to 0), option(6, 6 Death)):exhaustion_level]` |
+> **Travel Calc** | `VIEW[({var_mins}/(({travel_speed} / ({exhaustion_level} > 1 ? 2 : 1) + ({encumbered} ? -10 : 0) + {travel_bonus}) / 10) * {travel_multiplier})][math:travel_calc]`
 ## **Characters**
 > [!cards|dataview 3]
 >```dataview
