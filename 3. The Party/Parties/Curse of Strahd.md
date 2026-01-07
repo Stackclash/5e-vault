@@ -62,6 +62,7 @@ travel_calc: 19.999333355554814
 return function View() {
   const currentPage = dc.useCurrentFile()
   const locations = dc.useQuery('@page and #location')
+  console.log(locations[0].$link.toString())
 
   return (
     <select>
