@@ -57,6 +57,22 @@ travel_calc: 19.999333355554814
 >   ['Powerful Party', typeof powerfulPartyEncounterBenchmark==='string' ? powerfulPartyEncounterBenchmark : Math.floor(powerfulPartyEncounterBenchmark)]
 > ])
 > ```
+
+```datacorejsx
+return function View() {
+  const currentPage = dc.useCurrentFile()
+  const locations = dc.useQuery('@page and #location')
+
+  return (
+    <select>
+    {
+      locations.map(l => <option>{l.$name}</option>)
+    }
+    </select>
+  )
+}
+```
+
 ## **Characters**
 > [!cards|dataview 3]
 >```dataview
