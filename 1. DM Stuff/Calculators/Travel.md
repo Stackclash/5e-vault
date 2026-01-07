@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 obsidianEditingMode: source
-BaseSpeed: 40.003
+BaseSpeed: 30.001
 SpeedMultiplier: 1
 AdditionalBonus: 0
 Encumbered: false
@@ -20,7 +20,7 @@ FamiliarRoute: true
 PartyMembers: 6
 LifestyleCostSP: 10
 IncludeMeals: true
-TravelCalc: 14.998875084368672
+TravelCalc: 19.999333355554814
 ---
 
 # Travel Speed
