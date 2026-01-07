@@ -38,7 +38,7 @@ let powerfulPartyEncounterBenchmark = 'N/A'
 
 if (levelAverage >= 17) {
   powerfulPartyEncounterBenchmark = levelTotal
-} else if (levelAverage >= 10) {
+} else if (levelAverage > 10) {
   powerfulPartyEncounterBenchmark = .75 * levelTotal
 }
 
