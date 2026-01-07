@@ -61,8 +61,11 @@ travel_calc: 19.999333355554814
 ```datacorejsx
 return function View() {
   const currentPage = dc.useCurrentFile()
-  const players = dc.useQuery(`@page and #player and connected(${currentPage.$link}) and active`)
+  const players = dc.useQuery(
+    `@page and #player and connected(${currentPage.$link}) and active`
+  )
   const locations = dc.useQuery('@page and #location')
+
   const [location, updateLocation] = dc.useState(null)
 
   dc.useEffect(() => {
@@ -82,15 +85,34 @@ return function View() {
   }, [players])
 
   dc.useEffect(() => {
-    console.log(location)
+    if (!location) return
+    if (!players.length) return
+
+    players.forEach(player => {
+      const file = player.$file
+      if (!file) return
+
+      app.fileManager.processFrontMatter(file, fm => {
+        console.log(fm)
+        // Prevent unnecessary rewrites (VERY IMPORTANT)
+        if (fm.location === location) return
+
+        fm.location = location
+      })
+    })
   }, [location])
 
   return (
-    <select value={location} onChange={updateLocation}>
+    <select
+      value={location ?? ''}
+      onChange={e => updateLocation(e.target.value || null)}
+    >
       <option value="">Different Locations</option>
-      {
-        locations.map(l => <option value={l.$link.toString()}>{l.$name}</option>)
-      }
+      {locations.map(l => (
+        <option key={l.$link.toString()} value={l.$link.toString()}>
+          {l.$name}
+        </option>
+      ))}
     </select>
   )
 }
