@@ -12,18 +12,17 @@ views:
       - race
       - location
       - formula.strength
-    sort:
-      - property: file.name
-        direction: ASC
-      - property: formula.strength
-        direction: DESC
+    summaries: {}
+    columnSize:
+      note.level: 143
   - type: cards
-    name: View
+    name: Cards
     order:
       - file.name
       - race
       - ac
       - alignment
+      - hp
     cardSize: 260
     image: note.image
     imageFit: contain
