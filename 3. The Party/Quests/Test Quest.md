@@ -14,10 +14,10 @@ tags:
   - quest
 active:
   Curse of Strahd: true
-  Test: true
+  Test Party: true
 completed:
   Curse of Strahd: false
-  Test: true
+  Test Party: true
 ---
 > [!infobox|n-th]
 > | | |
