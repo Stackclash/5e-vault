@@ -15,9 +15,17 @@
   width: 25%;
 }
 
+.mb-25 input {
+  width: 90%;
+}
+
 .mb-35 {
   display: inline-block;
   width: 35%;
+}
+
+.mb-35 input {
+  width: 90%;
 }
 
 .mb-45 {
@@ -25,9 +33,17 @@
   width: 45%;
 }
 
+.mb-45 input {
+  width: 90%;
+}
+
 .mb-55 {
   display: inline-block;
   width: 55%;
+}
+
+.mb-55 input {
+  width: 90%;
 }
 
 .mb-70 {
@@ -35,9 +51,17 @@
   width: 70%;
 }
 
+.mb-70 input {
+  width: 90%;
+}
+
 .mb-100 {
   display: inline-block;
   width: 100%;
+}
+
+.mb-100 input {
+  width: 90%;
 }
 
 .hide-image .mb-image-card-grid {

@@ -11,7 +11,7 @@ travel_multiplier: 1
 travel_speed: 30.001
 encumbered: false
 travel_hours_per_day: 8
-travel_bonus: 0
+travel_bonus: 3
 ---
 > [!infobox]
 > # `=this.file.name`
