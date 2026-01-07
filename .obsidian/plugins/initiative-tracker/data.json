@@ -5,14 +5,54 @@
       "path": "3. The Party/Players/Marin.md",
       "name": "Marin",
       "ac": 19,
-      "hp": 67,
-      "level": 8,
+      "hp": 75,
+      "level": 10,
       "modifier": 3,
+      "player": true
+    },
+    {
+      "note": "Redgrave",
+      "path": "3. The Party/Players/Redgrave.md",
+      "name": "Redgrave",
+      "ac": 24,
+      "hp": 48,
+      "level": 10,
+      "modifier": -1,
+      "player": true
+    },
+    {
+      "note": "Yevelda Ovak",
+      "path": "3. The Party/Players/Yevelda Ovak.md",
+      "name": "Yevelda Ovak ",
+      "ac": 15,
+      "hp": 92,
+      "level": 10,
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "note": "Faerah Duskrane",
+      "path": "3. The Party/Players/Faerah Duskrane.md",
+      "name": "Faerah Duskrane",
+      "ac": 17,
+      "hp": 63,
+      "level": 10,
+      "modifier": 7,
       "player": true
     }
   ],
-  "parties": [],
-  "defaultParty": null,
+  "parties": [
+    {
+      "name": "Curse of Strahd",
+      "players": [
+        "Redgrave",
+        "Marin",
+        "Yevelda Ovak ",
+        "Faerah Duskrane"
+      ]
+    }
+  ],
+  "defaultParty": "Curse of Strahd",
   "statuses": [
     {
       "name": "Blinded",
@@ -105,7 +145,7 @@
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": false,
+  "sync": true,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
@@ -133,7 +173,7 @@
   },
   "hpOverflow": "ignore",
   "additiveTemp": false,
-  "rpgSystem": "dnd5e",
+  "rpgSystem": "dnd5e-lazygm",
   "logging": false,
   "logFolder": "/",
   "resolveTies": "playerFirst",
