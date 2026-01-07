@@ -61,13 +61,14 @@ travel_calc: 19.999333355554814
 ```datacorejsx
 return function View() {
   const currentPage = dc.useCurrentFile()
+  const players = dc.useQuery(`@page and #player and connected(${currentPage.$link}) and active`)
+  console.log(players)
   const locations = dc.useQuery('@page and #location')
-  console.log(locations[0].$link.toString())
 
   return (
     <select>
     {
-      locations.map(l => <option>{l.$name}</option>)
+      locations.map(l => <option value={l.$link.toString()}>{l.$name}</option>)
     }
     </select>
   )
