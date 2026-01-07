@@ -14,3 +14,9 @@ views:
     order:
       - file.name
       - race
+      - ac
+      - alignment
+    cardSize: 260
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 0.55
