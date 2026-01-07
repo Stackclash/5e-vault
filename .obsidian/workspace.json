@@ -11,14 +11,13 @@
             "id": "377b9604aaf76be3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
-                "mode": "preview",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "Curse of Strahd"
+              "icon": "lucide-layout-grid",
+              "title": "Untitled"
             }
           }
         ]
@@ -33,6 +32,7 @@
       {
         "id": "2b200f64e9a5fc69",
         "type": "tabs",
+        "dimension": 65.51059730250482,
         "children": [
           {
             "id": "830f75e4aa18d718",
@@ -79,6 +79,7 @@
       {
         "id": "55648dfc3c534cb0",
         "type": "tabs",
+        "dimension": 34.48940269749518,
         "children": [
           {
             "id": "1631da1cc31732be",
@@ -262,10 +263,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1631da1cc31732be",
+  "active": "377b9604aaf76be3",
   "lastOpenFiles": [
-    "4. World Almanac/Places of Interest/Yester Hill.md",
+    "Untitled.md",
+    "Untitled.base",
+    "5. Mechanics/Races/Warforged.md",
     "3. The Party/Parties/Curse of Strahd.md",
+    "4. World Almanac/Places of Interest/Yester Hill.md",
     "3. The Party/Players/Faerah Duskrane.md",
     "1. DM Stuff/Configuration.md",
     "3. The Party/Parties/Test Party.md",
@@ -279,7 +283,6 @@
     "3. The Party/Quests/Take Ireena to Vallaki.md",
     "1. DM Stuff/Calculators/Travel.md",
     "5. Mechanics/Decks/Deck Of Illusions.md",
-    "Untitled.md",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
     "5. Mechanics/Decks/Tarot/20-Judgement.png",
     "5. Mechanics/Decks/Tarot/19-TheSun.png",
@@ -305,10 +308,7 @@
     "4. World Almanac/NPCs/test.md",
     "4. World Almanac/NPCs/Test.md",
     "Untitled 1.md",
-    "Untitled 11.md",
-    "4. World Almanac/Shops/Test.md",
     "z_Scripts/Dataview/travelTimes.js",
-    "1. DM Stuff/Tools/Story Engine/Story Engine",
-    "1. DM Stuff/Tools/Story Engine/Deck of Worlds"
+    "1. DM Stuff/Tools/Story Engine/Story Engine"
   ]
 }

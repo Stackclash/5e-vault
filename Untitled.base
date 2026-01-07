@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.tags.contains("player")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - level
+      - race
+      - location
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - race
