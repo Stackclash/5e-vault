@@ -1,6 +1,8 @@
 filters:
   and:
     - file.tags.contains("player")
+formulas:
+  strength: abilityScores.strength.value
 views:
   - type: table
     name: Table
@@ -9,6 +11,7 @@ views:
       - level
       - race
       - location
+      - formula.strength
   - type: cards
     name: View
     order:
@@ -20,3 +23,5 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 0.55
+  - type: list
+    name: View 2
