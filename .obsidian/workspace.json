@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "50bf29da8a66d33b",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
             "id": "3a848ea8d1a729d3",
             "type": "leaf",
             "state": {
@@ -49,7 +59,8 @@
               "title": "Configuration"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,17 +275,17 @@
       "calendarium:Open Calendarium": true
     }
   },
-  "active": "377b9604aaf76be3",
+  "active": "50bf29da8a66d33b",
   "lastOpenFiles": [
-    "3. The Party/Parties/Test Party.md",
+    "1. DM Stuff/Configuration.md",
     "3. The Party/Parties/Curse of Strahd.md",
+    "3. The Party/Parties/Test Party.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Marin.md",
     "3. The Party/Players/Faerah Duskrane.md",
     "5. Mechanics/Races/Elf Drow.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
-    "1. DM Stuff/Configuration.md",
     "3. The Party/Quests/Test Quest.md",
     "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "3. The Party/Quests/Take Ireena to Vallaki.md",

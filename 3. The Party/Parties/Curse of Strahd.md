@@ -51,7 +51,7 @@ travel_calc: 19.999333355554814
 >   singleMonsterEncounterBenchmark = levelAverage
 > }
 > 
-> dv.table(['',''], [
+> dv.table([], [
 >   ['Encounter', Math.floor(encounterBenchmark)],
 >   ['Single Monster', Math.floor(singleMonsterEncounterBenchmark)],
 >   ['Powerful Party', typeof powerfulPartyEncounterBenchmark==='string' ? powerfulPartyEncounterBenchmark : Math.floor(powerfulPartyEncounterBenchmark)]
