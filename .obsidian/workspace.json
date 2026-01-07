@@ -200,6 +200,16 @@
               "icon": "lucide-list",
               "title": "Outline of Curse of Strahd"
             }
+          },
+          {
+            "id": "7f9b5f6e609b3210",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 3
@@ -249,7 +259,7 @@
       "obsidian-textgenerator-plugin:Generate Text!": true,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
       "solo-rpg-toolkit:Solo RPG Toolkit": true,
-      "calendarium:Open Calendarium": true
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "1631da1cc31732be",
