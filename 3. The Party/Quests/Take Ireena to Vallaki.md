@@ -13,7 +13,7 @@ tags:
 active:
   Curse of Strahd: false
 completed:
-  Curse of Strahd: true
+  Curse of Strahd: false
 ---
 > [!infobox|n-th]
 > | | |

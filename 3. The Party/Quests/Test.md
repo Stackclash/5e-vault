@@ -3,18 +3,19 @@ obsidianUIMode: preview
 campaign: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 description: ""
 steps:
+  - text: Second Step
   - text: Hello this is a step
     completed:
-      Curse of Strahd: false
+      Curse of Strahd: true
 npcs:
   - name: "[[4. World Almanac/NPCs/Urwin Martikov (COS).md|Urwin Martikov (COS)]]"
     description: He has the quest
 tags:
   - quest
 active:
-  Curse of Strahd: false
-completed:
   Curse of Strahd: true
+completed:
+  Curse of Strahd: false
 ---
 > [!infobox|n-th]
 > | | |
