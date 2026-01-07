@@ -14,9 +14,9 @@
               "type": "bases",
               "state": {
                 "file": "Untitled.base",
-                "viewName": "View 2"
+                "viewName": "Table"
               },
-              "icon": "lucide-list",
+              "icon": "lucide-table",
               "title": "Untitled"
             }
           }

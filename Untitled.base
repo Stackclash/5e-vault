@@ -12,6 +12,11 @@ views:
       - race
       - location
       - formula.strength
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: formula.strength
+        direction: DESC
   - type: cards
     name: View
     order:
