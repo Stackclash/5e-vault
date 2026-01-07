@@ -68,6 +68,12 @@
   display: none !important;
 }
 
+/* Fixes Infobox callout to not be horizontally scrollable */
+.callout[data-callout=infobox] .callout-content {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 /* Hides File Name in Meta Bind Image Suggester */
 .mb-image-suggest-footer-text {
   display: none !important;
