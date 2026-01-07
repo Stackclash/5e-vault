@@ -89,11 +89,9 @@ return function View() {
     if (!players.length) return
 
     players.forEach(player => {
-      const file = player.$file
-      if (!file) return
+      const tfile = app.vault.getAbstractFileByPath(player.$file)
 
-      app.fileManager.processFrontMatter(file, fm => {
-        console.log(fm)
+      app.fileManager.processFrontMatter(tfile, fm => {
         // Prevent unnecessary rewrites (VERY IMPORTANT)
         if (fm.location === location) return
 
