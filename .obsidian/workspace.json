@@ -49,8 +49,7 @@
               "title": "Configuration"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Parties/Test Party.md",
+                "file": "3. The Party/Parties/Curse of Strahd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Party"
+              "title": "Outline of Curse of Strahd"
             }
           }
         ],
@@ -265,10 +264,10 @@
       "calendarium:Open Calendarium": true
     }
   },
-  "active": "830f75e4aa18d718",
+  "active": "377b9604aaf76be3",
   "lastOpenFiles": [
-    "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Parties/Test Party.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Marin.md",
