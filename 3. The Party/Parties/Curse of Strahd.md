@@ -30,8 +30,15 @@ travel_calc: 19.999333355554814
 ```dataviewjs
 const currentPage = dv.current()
 const members = dv.pages('#player').filter(p => p.active && currentPage.file.path === p.party.path)
-const levelAverage = members.level.array().reduce((a, b) => a + b) / members.length
-console.log(levelAverage)
+const levelTotal = members.level.array().reduce((a, b) => a + b)
+const levelAverage = levelTotal / members.length
+let encounterBenchmark = 0
+if (levelAverage > 4) {
+  encounterBenchmark = levelTotal / 2
+} else {
+  encounterBenchmark = levelTotal / 4
+}
+dv.span(encounterBenchmark)
 ```
 ## **Characters**
 > [!cards|dataview 3]
