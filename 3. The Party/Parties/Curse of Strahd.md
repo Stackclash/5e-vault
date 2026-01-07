@@ -33,12 +33,16 @@ const members = dv.pages('#player').filter(p => p.active && currentPage.file.pat
 const levelTotal = members.level.array().reduce((a, b) => a + b)
 const levelAverage = levelTotal / members.length
 let encounterBenchmark = 0
+let singleMonsterEncounterBenchmark = 0
 if (levelAverage > 4) {
   encounterBenchmark = levelTotal / 2
+  singleMonsterEncounterBenchmark = 1.5 * levelAverage
 } else {
   encounterBenchmark = levelTotal / 4
+  singleMonsterEncounterBenchmark = Math.floor(levelAverage)
 }
-dv.span(encounterBenchmark)
+dv.paragraph(`Encounter Benchmark: ${encounterBenchmark}`)
+dv.paragraph(`Single Monster Benchmark: ${singleMonsterEncounterBenchmark}`)
 ```
 ## **Characters**
 > [!cards|dataview 3]
