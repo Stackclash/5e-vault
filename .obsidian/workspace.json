@@ -77,8 +77,7 @@
               "title": "Configuration"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,12 +302,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "47ec0cf1a5e877bc",
+  "active": "377b9604aaf76be3",
   "lastOpenFiles": [
-    "3. The Party/Parties/Curse of Strahd.md",
-    "3. The Party/Quests/Test Quest.md",
     "3. The Party/Parties/Test Party.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Stuff/Configuration.md",
+    "3. The Party/Quests/Test Quest.md",
     "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "3. The Party/Quests/Take Ireena to Vallaki.md",
     "3. The Party/Players/Faerah Duskrane.md",

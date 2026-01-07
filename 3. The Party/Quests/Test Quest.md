@@ -13,10 +13,10 @@ npcs:
 tags:
   - quest
 active:
-  Curse of Strahd: true
+  Curse of Strahd: false
   Test Party: true
 completed:
-  Curse of Strahd: false
+  Curse of Strahd: true
   Test Party: true
 ---
 > [!infobox|n-th]
