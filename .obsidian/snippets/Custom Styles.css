@@ -10,6 +10,11 @@
   top: -45px 
 }
 
+.mb-25 {
+  display: inline-block;
+  width: 25%;
+}
+
 .mb-35 {
   display: inline-block;
   width: 35%;
