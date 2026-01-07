@@ -62,14 +62,19 @@ travel_calc: 19.999333355554814
 return function View() {
   const currentPage = dc.useCurrentFile()
   const players = dc.useQuery(`@page and #player and connected(${currentPage.$link}) and active`)
-  console.log(players)
   const locations = dc.useQuery('@page and #location')
+  const [location, updateLocation] = dc.useState(players.every(p => p.location === players[0].location) ? players[0].location : null)
+
+  dc.useEffect(() => {
+    console.log(location)
+  }, [location])
 
   return (
-    <select>
-    {
-      locations.map(l => <option value={l.$link.toString()}>{l.$name}</option>)
-    }
+    <select value={location} onChange={updateLocation}>
+      <option value={null}>Different Locations</option>
+      {
+        locations.map(l => <option value={l.$link.toString()}>{l.$name}</option>)
+      }
     </select>
   )
 }
