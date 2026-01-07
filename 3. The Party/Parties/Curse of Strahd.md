@@ -63,7 +63,23 @@ return function View() {
   const currentPage = dc.useCurrentFile()
   const players = dc.useQuery(`@page and #player and connected(${currentPage.$link}) and active`)
   const locations = dc.useQuery('@page and #location')
-  const [location, updateLocation] = dc.useState(players.every(p => p.location === players[0].location) ? players[0].location : null)
+  const [location, updateLocation] = dc.useState(null)
+
+  dc.useEffect(() => {
+    if (!players.length) {
+      updateLocation(null)
+      return
+    }
+
+    const first = players[0].value('location')?.path
+    const same = players.every(
+      p => p.value('location')?.path === first
+    )
+
+    updateLocation(
+      same ? players[0].value('location').toString() : null
+    )
+  }, [players])
 
   dc.useEffect(() => {
     console.log(location)
@@ -71,7 +87,7 @@ return function View() {
 
   return (
     <select value={location} onChange={updateLocation}>
-      <option value={null}>Different Locations</option>
+      <option value="">Different Locations</option>
       {
         locations.map(l => <option value={l.$link.toString()}>{l.$name}</option>)
       }
