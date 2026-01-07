@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Stuff/Calculators/Travel.md",
+                "file": "3. The Party/Parties/Curse of Strahd.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Travel"
+              "title": "Curse of Strahd"
             }
           },
           {
@@ -276,6 +276,7 @@
   },
   "active": "9056a3eec80bfb5e",
   "lastOpenFiles": [
+    "1. DM Stuff/Calculators/Travel.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Quests/Take Ireena to Vallaki.md",
     "3. The Party/Quests/Test.md",
@@ -318,7 +319,6 @@
     "Untitled 5.md",
     "Untitled 4.md",
     "4. World Almanac/Regions/Test.md",
-    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "z_Scripts/Dataview/travelTimes.js",
     "1. DM Stuff/Tools/Story Engine/Story Engine",
     "1. DM Stuff/Tools/Story Engine/Deck of Worlds"
