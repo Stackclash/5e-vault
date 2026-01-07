@@ -29,8 +29,9 @@ travel_calc: 19.999333355554814
 > **Travel Calc** | `VIEW[({var_mins}/(({travel_speed} / ({exhaustion_level} > 1 ? 2 : 1) + ({encumbered} ? -10 : 0) + {travel_bonus}) / 10) * {travel_multiplier})][math:travel_calc]` |
 ```dataviewjs
 const currentPage = dv.current()
-const members = dv.pages('#player').filter(p => p.active && currentPage.file.path, p.party.path))
-console.log(members.level)
+const members = dv.pages('#player').filter(p => p.active && currentPage.file.path === p.party.path)
+const levelAverage = members.level.array().reduce((a, b) => a + b) / members.length
+console.log(levelAverage)
 ```
 ## **Characters**
 > [!cards|dataview 3]
