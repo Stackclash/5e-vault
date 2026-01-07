@@ -49,9 +49,17 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
+hours_per_day: 8
+exhaustion_level: 0
 movement: walking
 speed: normal
-hours_per_day: 8
+travel_multiplier: 1
+travel_speed: 30.001
+encumbered: false
+travel_hours_per_day: 8
+travel_bonus: 0
+var_mins: 60
+travel_calc: 19.999333355554814
 tags:
   - party
 ---
@@ -112,8 +120,8 @@ return function View() {
   })
   const columns = [
     {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)},
-    {id: 'Active', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('metaBindInput', {type: 'toggle', path:'${value}', field: ['active', dv.page(dv.page('Configuration').active_party).file.name]})\``},
-    {id: 'Complete', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('metaBindInput', {type: 'toggle', path: '${value}', field: ['completed', dv.page(dv.page('Configuration').active_party).file.name]})\``},
+    {id: 'Active', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('metaBindInput', {type: 'toggle', path:'${value}', field: ['active', '${currentPage.$name}']})\``},
+    {id: 'Complete', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('metaBindInput', {type: 'toggle', path: '${value}', field: ['completed', '${currentPage.$name}']})\``},
     {id: 'Completed Steps', value: (row) => ({completed: row.value('steps').filter(s => !!s.completed && !!s.completed[currentPage.$name]).length, total: row.value('steps').length}), render: (value, row) => `${value.completed}/${value.total}`}
   ]
 
