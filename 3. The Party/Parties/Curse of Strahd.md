@@ -40,10 +40,10 @@ return function View() {
   const questsGrouped = dc.useArray(quests, array => array.groupBy(quest => {
     const active = quest.value('active')
     const completed = quest.value('completed')
-    if ((active && active[currentPage.$name]) && !(!!completed && completed[currentPage.$name])) {
-      return 'Active'
-    } else if (!!completed && completed[currentPage.$name]) {
+    if (!!completed && completed[currentPage.$name]) {
       return 'Completed'
+    } else if ((active && active[currentPage.$name])) {
+      return 'Active'
     } else {
       return 'Inactive'
     }
