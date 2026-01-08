@@ -721,12 +721,12 @@ actions:
 
 ```ability
 abilities:
-  strength: 14
-  dexterity: 16
-  constitution: 13
-  intelligence: 12
-  wisdom: 10
-  charisma: 8
+  strength: '{{ frontmatter.abilityScores.strength.value }}'
+  dexterity: '{{ frontmatter.abilityScores.dexterity.value }}'
+  constitution: '{{ frontmatter.abilityScores.constitution.value }}'
+  intelligence: '{{ frontmatter.abilityScores.intelligence.value }}'
+  wisdom: '{{ frontmatter.abilityScores.wisdom.value }}'
+  charisma: '{{ frontmatter.abilityScores.charisma.value }}'
 
 proficiencies:
   - dexterity
