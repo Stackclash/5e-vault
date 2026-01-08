@@ -208,5 +208,5 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 underwater, coastal
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

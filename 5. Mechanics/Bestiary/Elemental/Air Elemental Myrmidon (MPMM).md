@@ -68,5 +68,5 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

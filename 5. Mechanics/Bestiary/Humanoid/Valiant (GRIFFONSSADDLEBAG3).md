@@ -105,5 +105,5 @@ Valiants are stoic warlocks that form a pact with creatures like Fey Knights, ri
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

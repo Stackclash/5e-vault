@@ -112,5 +112,5 @@ Each bard is a master of at least one type of performance. You may choose a bard
 urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

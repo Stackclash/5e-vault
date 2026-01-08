@@ -94,5 +94,5 @@ Cosmic horrors are among the most powerful creatures spawned by the Far Realm. N
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

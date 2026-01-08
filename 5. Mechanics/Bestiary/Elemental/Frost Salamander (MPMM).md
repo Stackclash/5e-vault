@@ -86,5 +86,5 @@ On rare occasions, [[/5. Mechanics/Bestiary/Giant/Frost Giant.md|frost giants]] 
 arctic
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

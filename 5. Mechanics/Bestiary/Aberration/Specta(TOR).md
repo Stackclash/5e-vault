@@ -103,5 +103,5 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

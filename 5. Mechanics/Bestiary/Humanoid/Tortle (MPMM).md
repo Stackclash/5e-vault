@@ -87,5 +87,5 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 coastal
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

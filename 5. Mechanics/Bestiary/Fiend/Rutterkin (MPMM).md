@@ -83,5 +83,5 @@ Creatures bitten by rutterkins are exposed to a terrible disease that infects th
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

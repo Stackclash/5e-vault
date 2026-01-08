@@ -76,5 +76,5 @@ The Syre Wood was home to numerous great trees and treants, but the swiftness of
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

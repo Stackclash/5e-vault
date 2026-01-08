@@ -208,5 +208,5 @@ The dracolich has advantage on saving throws against spells and other magical ef
 desert
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

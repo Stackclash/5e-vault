@@ -100,5 +100,5 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

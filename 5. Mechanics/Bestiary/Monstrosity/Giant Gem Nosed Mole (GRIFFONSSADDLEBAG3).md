@@ -71,5 +71,5 @@ With claws of diamond-cutting adamantine and a particularly sensitive olfactory 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -119,5 +119,5 @@ Their interest in our world and its relation to others makes them experts on the
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -61,5 +61,5 @@ The hedgehog is a small terrestrial mammal that eats insects and worms. Its body
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

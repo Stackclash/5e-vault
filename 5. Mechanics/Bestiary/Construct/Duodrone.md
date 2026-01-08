@@ -97,5 +97,5 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

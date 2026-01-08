@@ -185,5 +185,5 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -74,5 +74,5 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 grassland
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

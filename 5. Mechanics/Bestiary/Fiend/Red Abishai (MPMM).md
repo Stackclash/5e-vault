@@ -114,5 +114,5 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 mountain, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

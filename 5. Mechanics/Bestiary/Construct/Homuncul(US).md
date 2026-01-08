@@ -68,5 +68,5 @@ A homunculus knows everything its creator knows, including all the languages the
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

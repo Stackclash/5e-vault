@@ -255,5 +255,5 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

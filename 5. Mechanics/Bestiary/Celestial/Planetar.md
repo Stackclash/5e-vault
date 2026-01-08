@@ -110,5 +110,5 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

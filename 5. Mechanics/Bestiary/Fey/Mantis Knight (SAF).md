@@ -96,5 +96,5 @@ Otherwise, they enjoy dancing around the battlefield, laying into enemies with t
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

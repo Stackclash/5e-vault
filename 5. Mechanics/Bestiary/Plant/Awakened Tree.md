@@ -61,5 +61,5 @@ An awakened tree is an ordinary tree given sentience and mobility by the [[/5. M
 forest
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

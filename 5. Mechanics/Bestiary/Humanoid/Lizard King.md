@@ -124,5 +124,5 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 forest, swamp
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -82,5 +82,5 @@ A moonlight guardian's body is infused with magical moonlight that the creature 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

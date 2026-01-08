@@ -103,5 +103,5 @@ A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

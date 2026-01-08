@@ -82,5 +82,5 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 forest, hill, swamp
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

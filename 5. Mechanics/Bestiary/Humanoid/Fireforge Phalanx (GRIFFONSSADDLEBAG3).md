@@ -69,5 +69,5 @@ The dwarves of the Fireforge Phalanx are extremely militant and unwaveringly com
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

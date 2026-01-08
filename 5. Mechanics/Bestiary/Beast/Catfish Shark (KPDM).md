@@ -58,5 +58,5 @@ The catfish shark lives in deep water. Most species are less than 1 foot long an
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -77,5 +77,5 @@ A granite juggernaut is a lumbering Construct that can be found trundling across
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -118,5 +118,5 @@ A false lich often gradually gains a sense of self-identity. While many false li
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

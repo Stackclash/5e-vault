@@ -84,5 +84,5 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 forest
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -76,5 +76,5 @@ A doom ringer is a feverish acolyte of Los Fieles. They walk the streets of Gavi
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

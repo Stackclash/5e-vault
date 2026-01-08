@@ -75,5 +75,5 @@ This mighty insect is the amalgamation of bioluminescence, hypnotic illusions, a
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -117,5 +117,5 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 mountain, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

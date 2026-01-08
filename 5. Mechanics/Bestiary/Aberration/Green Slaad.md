@@ -131,5 +131,5 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

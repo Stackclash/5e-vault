@@ -127,5 +127,5 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 swamp, underdark, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

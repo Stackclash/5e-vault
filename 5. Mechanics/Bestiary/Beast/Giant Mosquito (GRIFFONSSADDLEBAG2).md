@@ -54,5 +54,5 @@ Empowered by the sheer volume of slow-moving blood present in the swampland form
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

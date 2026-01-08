@@ -74,5 +74,5 @@ In cursed wilds grow death's head trees, awakened trees from which `dice:2d6|nof
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

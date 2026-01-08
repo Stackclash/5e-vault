@@ -88,5 +88,5 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 coastal, hill, arctic, urban, forest, desert
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

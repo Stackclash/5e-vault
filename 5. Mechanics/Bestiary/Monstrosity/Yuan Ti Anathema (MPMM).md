@@ -114,5 +114,5 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
 desert, forest, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

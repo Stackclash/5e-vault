@@ -72,5 +72,5 @@ Space is the light infantry of the Inexorables, and pretty easy to use in combat
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

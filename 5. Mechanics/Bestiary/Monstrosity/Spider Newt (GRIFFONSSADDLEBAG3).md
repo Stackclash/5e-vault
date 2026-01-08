@@ -69,5 +69,5 @@ Of the many predators that stalk the wood, the spider-newt is the most renowned.
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

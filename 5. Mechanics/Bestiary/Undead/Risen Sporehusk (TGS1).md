@@ -165,5 +165,5 @@ If you reduce a sporehusk to 0 hit points and magically revive it again before i
 mountain, forest, festerwood
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

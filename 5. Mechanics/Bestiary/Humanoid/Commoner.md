@@ -66,5 +66,5 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 arctic, desert, coastal, grassland, hill, urban, forest
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

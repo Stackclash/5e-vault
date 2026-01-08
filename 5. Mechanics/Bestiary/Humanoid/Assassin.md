@@ -99,5 +99,5 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
 urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -144,5 +144,5 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 underdark, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

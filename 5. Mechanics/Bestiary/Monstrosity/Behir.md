@@ -110,5 +110,5 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

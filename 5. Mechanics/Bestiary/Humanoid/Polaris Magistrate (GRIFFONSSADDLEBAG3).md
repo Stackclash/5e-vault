@@ -93,5 +93,5 @@ Powerful archmages in their own right, the Magistrates of Polaris are long-lived
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -103,5 +103,5 @@ If all goes according to plan, a steel predator slays its target and then volunt
 urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

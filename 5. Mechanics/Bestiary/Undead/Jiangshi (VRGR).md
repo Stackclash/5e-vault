@@ -90,5 +90,5 @@ By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

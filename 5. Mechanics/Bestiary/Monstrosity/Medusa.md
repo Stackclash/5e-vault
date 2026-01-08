@@ -107,5 +107,5 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
 desert
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

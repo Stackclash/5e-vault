@@ -97,5 +97,5 @@ Within the Mercantile Guild, the most powerful, skilled, and experienced members
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

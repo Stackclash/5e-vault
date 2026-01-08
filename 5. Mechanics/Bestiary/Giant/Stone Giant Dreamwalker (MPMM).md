@@ -103,5 +103,5 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 coastal, hill, mountain
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

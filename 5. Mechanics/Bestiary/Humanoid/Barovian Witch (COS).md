@@ -80,5 +80,5 @@ Barovian witches use the [[/5. Mechanics/Spells/Find Familiar.md|find familiar]]
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

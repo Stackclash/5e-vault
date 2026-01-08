@@ -84,5 +84,5 @@ Having absorbed a portion of energy from the region's crystals, these moths exhi
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -69,5 +69,5 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
 coastal, mountain, grassland, hill, urban, forest, desert
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

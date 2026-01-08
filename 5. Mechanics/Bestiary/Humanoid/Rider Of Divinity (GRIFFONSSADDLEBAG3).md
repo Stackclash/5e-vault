@@ -86,5 +86,5 @@ Paladins of Val Linsin that are trained in the bow. Often mounted on horseback, 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -98,5 +98,5 @@ When Durheim monks have honed their soul to the point where the Walking the Limi
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

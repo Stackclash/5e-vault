@@ -106,5 +106,5 @@ A favored and bewitched ally of hags, wicked wagons are animated carts with sick
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -70,5 +70,5 @@ Swordbeak nests are usually littered with gold, gems, and other valuables that t
 coastal, grassland, hill, hearth
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

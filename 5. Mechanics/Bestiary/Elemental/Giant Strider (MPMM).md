@@ -80,5 +80,5 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 hill, mountain, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

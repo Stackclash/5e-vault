@@ -112,5 +112,5 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

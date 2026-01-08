@@ -107,5 +107,5 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
 urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

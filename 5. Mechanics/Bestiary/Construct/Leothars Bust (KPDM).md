@@ -93,5 +93,5 @@ Leothar's bust shares many traits with its creator. It has the same haughty and 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

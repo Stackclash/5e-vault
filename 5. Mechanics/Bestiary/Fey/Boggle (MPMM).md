@@ -108,5 +108,5 @@ A boggle can create magical openings to travel short distances or to pilfer item
 forest, hill, underdark, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

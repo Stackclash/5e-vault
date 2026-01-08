@@ -91,5 +91,5 @@ Bzeldruin's Hundred is a group of one hundred wooden miniature figures created b
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -65,5 +65,5 @@ A mammoth is an elephantine creature with thick fur and long tusks. Stockier and
 arctic
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

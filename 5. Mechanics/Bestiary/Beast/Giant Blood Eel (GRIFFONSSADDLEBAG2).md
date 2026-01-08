@@ -66,5 +66,5 @@ With translucent red skin, the giant blood eels of the Bloodmire are nearly impo
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

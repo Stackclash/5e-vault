@@ -70,5 +70,5 @@ Those who have only recently begun to follow the teachings of Attiskin are refer
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

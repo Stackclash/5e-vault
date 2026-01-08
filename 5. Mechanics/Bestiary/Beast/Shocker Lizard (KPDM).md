@@ -64,5 +64,5 @@ A social beast that dwells in swamps and forests, the shocker lizard can be a su
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

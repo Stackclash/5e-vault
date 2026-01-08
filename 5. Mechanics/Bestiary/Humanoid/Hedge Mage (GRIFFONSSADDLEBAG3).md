@@ -99,5 +99,5 @@ A hedge mage practices a curious mixture of arcana and herbalism to produce pote
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

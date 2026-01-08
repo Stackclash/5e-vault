@@ -85,5 +85,5 @@ Carrionettes might appear as any type of toy or piece of art. While marionettes 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

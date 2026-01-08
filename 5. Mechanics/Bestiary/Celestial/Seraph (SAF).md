@@ -109,5 +109,5 @@ In spite of not having like...a face, or eyes, the Seraph cannot be flanked or s
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -76,5 +76,5 @@ The knights of Polaris are qualified enforcement agents in their own right, but 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

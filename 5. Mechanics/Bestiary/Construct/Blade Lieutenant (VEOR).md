@@ -97,5 +97,5 @@ In the aftermath of Eberron's Last War, a warforged called the Lord of Blades ro
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

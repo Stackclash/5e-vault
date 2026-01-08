@@ -158,5 +158,5 @@ The Dream Shaper's will is carried out by the puppeteers: massive, disembodied h
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

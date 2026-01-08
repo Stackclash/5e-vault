@@ -117,5 +117,5 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
 underdark, hill
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

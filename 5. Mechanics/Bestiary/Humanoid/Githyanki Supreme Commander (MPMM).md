@@ -108,5 +108,5 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 desert, mountain, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

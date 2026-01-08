@@ -70,5 +70,5 @@ Nightmares don't appear naturally in the multiverse. They must be created from p
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

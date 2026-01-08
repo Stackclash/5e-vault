@@ -85,5 +85,5 @@ Some brooms of animated attack allow their creators to ride them, in which case 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

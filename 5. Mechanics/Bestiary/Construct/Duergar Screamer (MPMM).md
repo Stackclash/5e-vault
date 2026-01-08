@@ -79,5 +79,5 @@ These machines are deployed to assist with construction projects and war. Some d
 mountain, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

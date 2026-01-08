@@ -84,5 +84,5 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 hill, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

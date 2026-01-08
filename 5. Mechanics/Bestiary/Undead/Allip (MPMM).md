@@ -99,5 +99,5 @@ An allip might attempt to share its lore to escape its curse and enter the after
 swamp, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

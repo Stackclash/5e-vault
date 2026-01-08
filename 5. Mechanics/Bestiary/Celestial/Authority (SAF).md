@@ -87,5 +87,5 @@ Well, it finds the biggest, most evil thing and bashes the hell out of it (perha
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

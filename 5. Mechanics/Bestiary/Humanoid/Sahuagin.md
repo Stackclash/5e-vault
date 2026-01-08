@@ -108,5 +108,5 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 underwater, coastal
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

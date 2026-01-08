@@ -60,5 +60,5 @@ Ordinary rothé resemble musk oxen and have [[/5. Mechanics/Rules/Senses.md#Dark
 grassland
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

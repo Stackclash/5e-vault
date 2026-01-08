@@ -102,5 +102,5 @@ Pit masters are deeply involved in yuan-ti's long-term plan to take over Humanoi
 desert, forest, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

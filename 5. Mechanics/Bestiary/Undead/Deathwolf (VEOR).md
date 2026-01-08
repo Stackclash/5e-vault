@@ -105,5 +105,5 @@ To create a deathwolf, a necromancer reanimates the body of a powerful werewolf 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

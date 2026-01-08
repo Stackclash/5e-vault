@@ -168,5 +168,5 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -86,5 +86,5 @@ This thing is powerful, but not hard to run. Its Law of Death radiates damage to
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

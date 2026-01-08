@@ -71,5 +71,5 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

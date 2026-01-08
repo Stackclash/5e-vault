@@ -93,5 +93,5 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 mountain, hill
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

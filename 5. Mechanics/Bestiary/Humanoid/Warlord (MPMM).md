@@ -116,5 +116,5 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

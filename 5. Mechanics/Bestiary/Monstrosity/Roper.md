@@ -98,5 +98,5 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -110,5 +110,5 @@ A [[/5. Mechanics/Bestiary/Aberration/Beholder.md|beholder]] usually drives away
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

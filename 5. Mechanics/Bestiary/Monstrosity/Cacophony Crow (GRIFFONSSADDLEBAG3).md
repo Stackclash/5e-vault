@@ -73,5 +73,5 @@ In the wild, the crows use their raucous calls to startle and disarm potential p
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

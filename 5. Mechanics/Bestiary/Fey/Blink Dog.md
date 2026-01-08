@@ -69,5 +69,5 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
 forest
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

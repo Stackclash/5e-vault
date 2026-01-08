@@ -74,5 +74,5 @@ The fire mote has an instinctive awareness of which enemies on the battlefield r
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -59,5 +59,5 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
 grassland
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

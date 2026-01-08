@@ -92,5 +92,5 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
 forest, hill, mountain, underdark, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

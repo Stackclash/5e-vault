@@ -70,5 +70,5 @@ Ships need navigators to direct them through dangerous weather conditions. Sea n
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

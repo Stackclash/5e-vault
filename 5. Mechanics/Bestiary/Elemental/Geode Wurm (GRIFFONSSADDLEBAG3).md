@@ -85,5 +85,5 @@ This curious specimen, while similar in shape to creatures like the purple worm,
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

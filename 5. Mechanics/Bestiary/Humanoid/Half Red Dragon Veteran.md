@@ -113,5 +113,5 @@ Here the half-dragon template has been applied to a human [[/5. Mechanics/Bestia
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

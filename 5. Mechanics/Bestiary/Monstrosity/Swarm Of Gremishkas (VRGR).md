@@ -76,5 +76,5 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -139,5 +139,5 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

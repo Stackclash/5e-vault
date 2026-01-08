@@ -60,5 +60,5 @@ Goldbugs live underground near veins of gold and are common in areas where gold 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

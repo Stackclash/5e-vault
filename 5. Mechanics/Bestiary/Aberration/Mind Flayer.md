@@ -123,5 +123,5 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -69,5 +69,5 @@ Commonly called pilfurrs, these chipmunk-like fey are a frequent nuisance to tra
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

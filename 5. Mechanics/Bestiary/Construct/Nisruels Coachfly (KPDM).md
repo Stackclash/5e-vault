@@ -86,5 +86,5 @@ Decades ago, the noble half-elf wizard Nisruel created a beautiful clockwork con
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

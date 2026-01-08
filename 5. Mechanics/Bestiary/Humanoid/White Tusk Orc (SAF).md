@@ -74,5 +74,5 @@ They are a chaotic evil tribe who care only for strength and the subjugation of 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

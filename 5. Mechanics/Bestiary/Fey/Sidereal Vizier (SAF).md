@@ -114,5 +114,5 @@ If a spell can solve the problem, the Vizier knows it and has it prepared. The l
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

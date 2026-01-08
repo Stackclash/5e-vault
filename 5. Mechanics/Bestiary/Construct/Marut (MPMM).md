@@ -98,5 +98,5 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

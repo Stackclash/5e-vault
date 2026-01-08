@@ -76,5 +76,5 @@ If an abyssal worm agrees to serve another creature as a familiar, it forms a te
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

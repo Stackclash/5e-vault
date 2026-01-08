@@ -89,5 +89,5 @@ Members of a circle of druids that revere the might of the world's tempests, sto
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

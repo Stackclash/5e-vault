@@ -98,5 +98,5 @@ Many swashbucklers have a signature flourish with which they embellish their act
 coastal, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

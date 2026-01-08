@@ -103,5 +103,5 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

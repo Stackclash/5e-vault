@@ -92,5 +92,5 @@ Up to four meenlocks can telepathically torment one [[/5. Mechanics/Rules/Condit
 forest, swamp, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -81,5 +81,5 @@ Degloths are massive, blue, bipedal demons with razor-studded fists. They are co
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

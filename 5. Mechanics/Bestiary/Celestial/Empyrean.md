@@ -116,5 +116,5 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

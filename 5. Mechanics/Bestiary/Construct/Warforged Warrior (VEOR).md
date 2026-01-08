@@ -71,5 +71,5 @@ Warforged warriors are formed from wood and steel, then magically imbued with li
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

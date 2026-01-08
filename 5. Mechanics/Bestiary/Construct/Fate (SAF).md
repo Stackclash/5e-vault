@@ -86,5 +86,5 @@ Because Fate does not use dice (see The Law of Fate, below) there may be enemies
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

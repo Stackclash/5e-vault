@@ -85,5 +85,5 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
 desert, mountain, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

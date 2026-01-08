@@ -85,5 +85,5 @@ Base creatures are among the first to respond to sinister forces at work in a la
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

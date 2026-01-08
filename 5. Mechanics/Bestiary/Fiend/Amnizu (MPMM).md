@@ -104,5 +104,5 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

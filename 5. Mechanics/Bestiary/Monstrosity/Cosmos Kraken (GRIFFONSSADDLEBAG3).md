@@ -143,5 +143,5 @@ A space-faring kraken of scarcely-imaginable proportions. Few things have been k
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

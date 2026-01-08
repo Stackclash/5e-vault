@@ -97,5 +97,5 @@ Vampiric mind flayers are physically and mentally unstable beings. Ghoulish crea
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

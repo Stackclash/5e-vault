@@ -106,5 +106,5 @@ Mirrorlight thieves are capable rogues that specialize in evasive maneuvers and 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

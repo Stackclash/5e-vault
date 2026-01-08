@@ -66,5 +66,5 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
 underwater
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

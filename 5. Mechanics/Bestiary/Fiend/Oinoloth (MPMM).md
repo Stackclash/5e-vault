@@ -117,5 +117,5 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
 desert, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

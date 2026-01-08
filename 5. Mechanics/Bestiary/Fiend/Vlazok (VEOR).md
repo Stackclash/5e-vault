@@ -83,5 +83,5 @@ Vlazoks have keen senses, owing to the eyes positioned all around their hideous 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

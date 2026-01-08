@@ -109,5 +109,5 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 desert, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

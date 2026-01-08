@@ -59,5 +59,5 @@ A prehistoric bird native to warm climates except for mountains and deserts, the
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

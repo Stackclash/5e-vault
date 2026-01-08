@@ -100,5 +100,5 @@ Viewed by most Ilridunians as the reason to respect the bravery of the city's mi
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

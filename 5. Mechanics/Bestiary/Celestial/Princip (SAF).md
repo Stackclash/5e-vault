@@ -112,5 +112,5 @@ Um, what? The endless what now? Well, it tried. It probably means, "You're gonna
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

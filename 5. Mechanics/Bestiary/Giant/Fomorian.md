@@ -96,5 +96,5 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

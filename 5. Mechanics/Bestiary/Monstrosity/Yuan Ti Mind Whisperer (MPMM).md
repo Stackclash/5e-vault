@@ -105,5 +105,5 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
 desert, forest, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

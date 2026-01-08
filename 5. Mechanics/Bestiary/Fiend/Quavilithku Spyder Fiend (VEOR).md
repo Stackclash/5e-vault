@@ -105,5 +105,5 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

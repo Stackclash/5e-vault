@@ -89,5 +89,5 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

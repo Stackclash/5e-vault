@@ -95,5 +95,5 @@ A flail snail shell can also be used to make a [[/5. Mechanics/Items/Robe Of Sci
 forest, swamp, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

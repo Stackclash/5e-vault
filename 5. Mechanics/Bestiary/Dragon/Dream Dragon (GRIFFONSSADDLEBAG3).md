@@ -127,5 +127,5 @@ Dream dragons lord over their lairs in The Grephearon's Dream Gallery, enjoying 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

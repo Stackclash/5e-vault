@@ -96,5 +96,5 @@ Arboreal warriors are fey soldiers of dryad descent that are typically responsib
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

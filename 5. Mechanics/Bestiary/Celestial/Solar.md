@@ -141,5 +141,5 @@ It is said that only twenty-four solars exist. The few solars that are known are
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

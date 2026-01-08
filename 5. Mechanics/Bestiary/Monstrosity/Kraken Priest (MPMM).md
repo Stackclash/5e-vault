@@ -86,5 +86,5 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 coastal, underwater
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

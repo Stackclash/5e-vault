@@ -121,5 +121,5 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

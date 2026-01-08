@@ -142,5 +142,5 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

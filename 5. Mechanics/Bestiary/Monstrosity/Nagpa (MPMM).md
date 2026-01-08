@@ -112,5 +112,5 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 coastal, desert, forest, swamp, underdark, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

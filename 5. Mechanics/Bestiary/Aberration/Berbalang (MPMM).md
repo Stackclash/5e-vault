@@ -97,5 +97,5 @@ The knowledge that berbalangs accumulate makes them great sources of information
 desert
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

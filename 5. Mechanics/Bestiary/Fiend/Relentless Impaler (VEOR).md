@@ -101,5 +101,5 @@ The impaler pursues its creator's agenda coldly and efficiently. It has no conce
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

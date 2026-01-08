@@ -87,5 +87,5 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 mountain, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

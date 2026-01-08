@@ -84,5 +84,5 @@ Sailors with a penchant for the explosive are demoltionists. On vessels with can
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

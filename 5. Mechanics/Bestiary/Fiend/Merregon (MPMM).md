@@ -80,5 +80,5 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

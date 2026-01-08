@@ -103,5 +103,5 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
 grassland, desert
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

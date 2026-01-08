@@ -99,5 +99,5 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

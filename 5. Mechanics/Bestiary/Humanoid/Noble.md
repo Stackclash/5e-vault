@@ -73,5 +73,5 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

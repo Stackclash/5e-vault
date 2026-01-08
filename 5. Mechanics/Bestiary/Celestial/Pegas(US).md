@@ -80,5 +80,5 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
 grassland, forest, hill
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

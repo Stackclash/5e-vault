@@ -88,5 +88,5 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 arctic, forest, grassland, hill
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

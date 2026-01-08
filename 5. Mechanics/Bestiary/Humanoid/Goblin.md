@@ -103,5 +103,5 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 underdark, grassland, forest, hill
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

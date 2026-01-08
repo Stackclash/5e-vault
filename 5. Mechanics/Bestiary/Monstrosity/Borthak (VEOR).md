@@ -96,5 +96,5 @@ Luckily for most wetland dwellers, borthaks rarely congregate. Unluckily, a sing
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

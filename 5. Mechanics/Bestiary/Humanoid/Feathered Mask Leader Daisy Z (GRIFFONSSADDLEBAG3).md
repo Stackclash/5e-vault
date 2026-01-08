@@ -98,5 +98,5 @@ The current Feathered Mask leader, Daisy Z, is a powerful spellcaster and master
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

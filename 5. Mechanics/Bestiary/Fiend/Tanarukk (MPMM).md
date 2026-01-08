@@ -92,5 +92,5 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 hill, mountain, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

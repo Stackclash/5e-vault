@@ -66,5 +66,5 @@ Tiny, doglike creatures with slippery, hairless skin and webbed claws, wharfling
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

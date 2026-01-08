@@ -86,5 +86,5 @@ Hellhounds are excellent trackers, but they're mediocre at sniffing out signees 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

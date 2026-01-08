@@ -77,5 +77,5 @@ A bone roc is a birdlike Undead that can incorporate the bones of multiple flyin
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

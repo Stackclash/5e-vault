@@ -124,5 +124,5 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 forest, grassland, hill, mountain
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

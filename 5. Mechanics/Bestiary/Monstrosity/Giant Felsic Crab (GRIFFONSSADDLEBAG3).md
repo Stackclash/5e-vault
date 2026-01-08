@@ -84,5 +84,5 @@ Unlike many of the deep-dwelling creatures of the world that rely on poison, the
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

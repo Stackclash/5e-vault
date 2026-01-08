@@ -82,5 +82,5 @@ Whether through accident or depraved genius, some villains use one corpse to cre
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

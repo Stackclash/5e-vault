@@ -106,5 +106,5 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
 grassland, desert
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

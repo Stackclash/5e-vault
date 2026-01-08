@@ -162,8 +162,8 @@ return function View() {
   })
   const columns = [
     {id: 'Name', value: (row) => row.$path, render: (value, row) => dc.fileLink(value)},
-    {id: 'Active', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('metaBindInput', {type: 'toggle', path:'${value}', field: ['active', '${currentPage.$name}']})\``},
-    {id: 'Complete', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('metaBindInput', {type: 'toggle', path: '${value}', field: ['completed', '${currentPage.$name}']})\``},
+    {id: 'Active', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('utils/metaBindInput', {type: 'toggle', path:'${value}', field: ['active', '${currentPage.$name}']})\``},
+    {id: 'Complete', value: (row) => row.$path, render: (value, row) => `\`$=await dv.view('utils/metaBindInput', {type: 'toggle', path: '${value}', field: ['completed', '${currentPage.$name}']})\``},
     {id: 'Completed Steps', value: (row) => ({completed: row.value('steps').filter(s => !!s.completed && !!s.completed[currentPage.$name]).length, total: row.value('steps').length}), render: (value, row) => `${value.completed}/${value.total}`}
   ]
 

@@ -118,5 +118,5 @@ When a priest of Osybus drops to 0 hit points, the priest might revive with a be
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

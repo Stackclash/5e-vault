@@ -117,5 +117,5 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 forest, mountain, swamp, underwater
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

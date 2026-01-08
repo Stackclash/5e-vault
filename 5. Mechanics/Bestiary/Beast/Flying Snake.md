@@ -62,5 +62,5 @@ A flying snake is a brightly colored, winged serpent found in remote jungles. Tr
 grassland, forest, urban, desert
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

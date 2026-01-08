@@ -88,5 +88,5 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
 swamp
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

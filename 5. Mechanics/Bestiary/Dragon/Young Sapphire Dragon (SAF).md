@@ -84,5 +84,5 @@ Being oldest, they are also the most reserved, taciturn. Even the young sapphire
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

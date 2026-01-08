@@ -96,5 +96,5 @@ It chooses the most evil enemy creature (by whatever metric you want) and attack
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

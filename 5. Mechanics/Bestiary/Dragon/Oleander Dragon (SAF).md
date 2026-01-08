@@ -106,5 +106,5 @@ Lacking physical attacks, Nerium relies on Implant Nightmare to overwhelm her en
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

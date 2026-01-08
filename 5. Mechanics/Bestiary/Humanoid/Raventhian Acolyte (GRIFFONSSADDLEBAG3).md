@@ -85,5 +85,5 @@ The lingering cultists of the fallen Raventhia. They seek to revive their leader
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

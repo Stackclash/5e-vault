@@ -99,5 +99,5 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

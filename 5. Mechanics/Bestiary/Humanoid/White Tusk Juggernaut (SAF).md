@@ -83,5 +83,5 @@ A juggernaut's immense muscles allow them to wield oversized weapons worthy of t
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

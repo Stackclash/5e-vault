@@ -94,5 +94,5 @@ The fanatical priests of Gavia who worship the toll of the Capilla's twin bells 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

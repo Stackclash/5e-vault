@@ -111,5 +111,5 @@ Dragonchess pieces that have been enchanted by beguiling wizards, artificers, an
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -96,5 +96,5 @@ Nox flowers are not exactly social, as they have no language, but they do tend t
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

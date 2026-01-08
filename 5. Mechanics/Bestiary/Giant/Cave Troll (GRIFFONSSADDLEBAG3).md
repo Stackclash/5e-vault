@@ -74,5 +74,5 @@ Cave trolls, like normal trolls, are tall and lanky giantkin. Cave trolls, in pa
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -88,5 +88,5 @@ The sentry golems of Polaris are smaller and more easily produced than their lar
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

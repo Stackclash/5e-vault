@@ -86,5 +86,5 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
 urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

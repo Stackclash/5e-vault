@@ -92,5 +92,5 @@ An invisible stalker requires no air, food, drink, or sleep.
 urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -100,5 +100,5 @@ The wretched, imp-like thralls of Azgoreoth that infest the Dreamlands in which 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

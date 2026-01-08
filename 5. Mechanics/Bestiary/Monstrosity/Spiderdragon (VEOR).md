@@ -92,5 +92,5 @@ Uninterested in building lairs, spiderdragons weave powerful webs and eat an abu
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -52,5 +52,5 @@ The platypus is a water-dwelling mammal that feeds on worms and other creatures 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

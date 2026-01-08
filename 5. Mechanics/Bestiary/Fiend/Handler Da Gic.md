@@ -75,5 +75,5 @@ While some high-profile collection efforts are led by an ice devil, amnizu, or e
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

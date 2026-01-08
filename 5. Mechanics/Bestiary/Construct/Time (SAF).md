@@ -77,5 +77,5 @@ Time prevents enemies from taking bonus actions or reactions, which is very usef
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

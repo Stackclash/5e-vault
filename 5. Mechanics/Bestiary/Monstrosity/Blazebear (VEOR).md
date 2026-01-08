@@ -81,5 +81,5 @@ On the world of Eberron, many strange, magic-warped monsters have emerged from t
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

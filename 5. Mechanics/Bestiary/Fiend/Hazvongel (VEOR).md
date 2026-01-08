@@ -79,5 +79,5 @@ Hazvongels sometimes soar in the skies of the Abyss, where they originate, but t
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

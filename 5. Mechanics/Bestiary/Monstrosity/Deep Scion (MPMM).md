@@ -100,5 +100,5 @@ The training to which a deep scion is subjected rids it of empathy for those the
 coastal, underwater
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

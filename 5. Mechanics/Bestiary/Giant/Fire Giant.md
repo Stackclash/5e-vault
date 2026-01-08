@@ -139,5 +139,5 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 underdark, mountain
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

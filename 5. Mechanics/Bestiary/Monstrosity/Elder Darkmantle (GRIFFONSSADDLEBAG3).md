@@ -113,5 +113,5 @@ Like their smaller relatives, elder darkmantles thrive in darkness. However, eld
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

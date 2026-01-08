@@ -84,5 +84,5 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

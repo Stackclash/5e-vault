@@ -93,5 +93,5 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
 forest
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -89,5 +89,5 @@ Recently, after years of foiling or dodging enemy attacks, Sivvar suddenly vanis
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

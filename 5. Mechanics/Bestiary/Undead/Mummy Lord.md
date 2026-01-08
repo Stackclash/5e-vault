@@ -221,5 +221,5 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 desert
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -104,5 +104,5 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 coastal, underwater
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

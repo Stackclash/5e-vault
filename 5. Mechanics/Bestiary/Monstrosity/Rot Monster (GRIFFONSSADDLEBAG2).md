@@ -85,5 +85,5 @@ Considered a cousin to rust monsters in behavior if not biology, the rot monster
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

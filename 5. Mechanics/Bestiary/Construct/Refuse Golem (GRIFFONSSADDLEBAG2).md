@@ -84,5 +84,5 @@ Many speak of trash becoming treasure, but trash is lifeblood for the refuse gol
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -189,5 +189,5 @@ The death tyrant can't repeat an effect until all three have been used, and it c
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

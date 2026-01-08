@@ -83,5 +83,5 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

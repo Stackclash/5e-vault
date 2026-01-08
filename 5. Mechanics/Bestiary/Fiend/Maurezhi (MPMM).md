@@ -94,5 +94,5 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
 swamp, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

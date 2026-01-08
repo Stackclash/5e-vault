@@ -81,5 +81,5 @@ Behitaurs are many-legged half-human, half-behir monstrosities in much the same 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

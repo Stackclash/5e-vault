@@ -135,5 +135,5 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

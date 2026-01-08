@@ -138,5 +138,5 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

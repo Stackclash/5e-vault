@@ -80,5 +80,5 @@ The prismatic ooze is particularly in tune with so-called prismatic energies lik
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

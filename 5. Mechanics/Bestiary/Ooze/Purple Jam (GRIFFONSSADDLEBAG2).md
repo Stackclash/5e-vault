@@ -70,5 +70,5 @@ A small and yet pernicious ooze, the purple jam looks like a mushy globule of sm
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

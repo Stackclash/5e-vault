@@ -87,5 +87,5 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 coastal, underwater
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

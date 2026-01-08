@@ -119,5 +119,5 @@ Drow spellcasters who seek to devote themselves wholly to [[/5. Mechanics/Deitie
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

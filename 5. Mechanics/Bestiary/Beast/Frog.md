@@ -58,5 +58,5 @@ A frog has no effective attacks. It feeds on small insects and typically dwells 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -98,5 +98,5 @@ For a few moments after feeding, nosferatu are lucid and capable of considering 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

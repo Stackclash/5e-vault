@@ -102,5 +102,5 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 hill, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

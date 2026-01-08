@@ -72,5 +72,5 @@ Musclemen and women working for illicit seafaring privateers—pirates—can als
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

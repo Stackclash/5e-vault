@@ -97,5 +97,5 @@ Dragon turtles sometimes find their way through sunken planar rifts to the Eleme
 underwater, coastal
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

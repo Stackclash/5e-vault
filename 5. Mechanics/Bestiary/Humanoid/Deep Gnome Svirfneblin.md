@@ -99,5 +99,5 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

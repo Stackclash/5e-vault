@@ -86,5 +86,5 @@ Although an eye monger doesn't project an antimagic cone from its eye as a behol
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

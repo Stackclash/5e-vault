@@ -74,5 +74,5 @@ A space symbiote is a pitch-dark ooze that travels through the Astral Plane and 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

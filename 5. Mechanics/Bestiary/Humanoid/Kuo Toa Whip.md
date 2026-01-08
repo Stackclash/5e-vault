@@ -131,5 +131,5 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

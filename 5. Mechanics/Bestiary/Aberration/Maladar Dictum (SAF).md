@@ -107,5 +107,5 @@ If you really want to see things get out of control very quickly, watch Maladar 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -68,5 +68,5 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
 coastal, hill, mountain
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

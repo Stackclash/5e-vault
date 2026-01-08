@@ -91,5 +91,5 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 desert, grassland, hill, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

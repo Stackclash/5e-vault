@@ -59,5 +59,5 @@ Summoned by the "Skull" card from the [[/5. Mechanics/Items/Deck Of Many Things.
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

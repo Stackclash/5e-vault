@@ -98,5 +98,5 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 mountain
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

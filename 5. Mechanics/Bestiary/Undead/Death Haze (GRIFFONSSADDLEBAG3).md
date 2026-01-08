@@ -112,5 +112,5 @@ In the miasma of nightmares, either in the space of dreams or in the lands that 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

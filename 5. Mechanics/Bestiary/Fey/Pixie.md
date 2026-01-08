@@ -103,5 +103,5 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
 forest
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

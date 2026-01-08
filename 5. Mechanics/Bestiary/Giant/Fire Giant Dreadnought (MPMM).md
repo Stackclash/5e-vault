@@ -93,5 +93,5 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 mountain, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

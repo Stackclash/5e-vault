@@ -78,5 +78,5 @@ Conversely, small statuettes posessed by the same sentience granted by the Eleme
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

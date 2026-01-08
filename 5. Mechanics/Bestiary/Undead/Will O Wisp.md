@@ -105,5 +105,5 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 forest, swamp, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

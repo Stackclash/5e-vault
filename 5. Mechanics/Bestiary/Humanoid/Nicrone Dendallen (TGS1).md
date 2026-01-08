@@ -117,5 +117,5 @@ Killing Nicrone allows for his spirit to return at a later time. His final morta
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

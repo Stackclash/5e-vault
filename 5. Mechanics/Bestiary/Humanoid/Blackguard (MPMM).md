@@ -117,5 +117,5 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 underdark, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

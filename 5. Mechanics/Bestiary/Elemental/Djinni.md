@@ -144,5 +144,5 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 coastal
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

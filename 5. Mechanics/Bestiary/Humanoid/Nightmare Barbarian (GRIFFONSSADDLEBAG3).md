@@ -83,5 +83,5 @@ Barbarians that are driven by their innermost turmoil as much as they are their 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

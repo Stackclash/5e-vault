@@ -100,5 +100,5 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 swamp
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

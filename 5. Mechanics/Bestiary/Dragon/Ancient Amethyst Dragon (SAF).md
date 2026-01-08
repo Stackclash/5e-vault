@@ -122,5 +122,5 @@ When encountered, they are often conciliatory, deferent. They want to put you at
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

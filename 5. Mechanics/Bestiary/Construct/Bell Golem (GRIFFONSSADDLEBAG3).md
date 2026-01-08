@@ -88,5 +88,5 @@ A bell golem is an enormous, four-legged golem in the form of a temple or simila
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

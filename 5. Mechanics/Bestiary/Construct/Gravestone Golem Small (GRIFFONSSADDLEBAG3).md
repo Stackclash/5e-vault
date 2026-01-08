@@ -80,5 +80,5 @@ Gravestone golems hide beneath the fertile ground of graveyards. Some of these g
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -95,5 +95,5 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 forest
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

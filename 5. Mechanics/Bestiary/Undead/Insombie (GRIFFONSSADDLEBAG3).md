@@ -66,5 +66,5 @@ Insombies are the risen undead of those who have died of exhaustion. These wande
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

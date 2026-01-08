@@ -82,5 +82,5 @@ These swirling and frothy, caramel-colored creatures smell of honey and hops. Th
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

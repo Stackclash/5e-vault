@@ -72,5 +72,5 @@ Tribal warriors live beyond civilization, most often subsisting on fishing and h
 coastal, mountain, grassland, hill, arctic, forest, swamp, underdark, desert
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

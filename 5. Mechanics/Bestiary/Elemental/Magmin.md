@@ -76,5 +76,5 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

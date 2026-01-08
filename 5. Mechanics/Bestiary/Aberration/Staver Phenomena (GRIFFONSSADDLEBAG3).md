@@ -72,5 +72,5 @@ These strange, trans-dimensional beings of pure force are from another reality w
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -102,5 +102,5 @@ Deadbark dryads are most often found on Krynn, but occasionally they are found o
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

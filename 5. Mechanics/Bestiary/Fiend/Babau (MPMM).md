@@ -89,5 +89,5 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 underdark, urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

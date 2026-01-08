@@ -61,5 +61,5 @@ The mongoose is a sleek mammal with tiny, sharp teeth that lives in forests and 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

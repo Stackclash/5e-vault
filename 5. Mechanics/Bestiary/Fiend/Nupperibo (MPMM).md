@@ -84,5 +84,5 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

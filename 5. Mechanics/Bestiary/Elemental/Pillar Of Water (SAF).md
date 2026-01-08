@@ -89,5 +89,5 @@ The Pillar can imprison up to four creatures, but it doesn't have to. If there's
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

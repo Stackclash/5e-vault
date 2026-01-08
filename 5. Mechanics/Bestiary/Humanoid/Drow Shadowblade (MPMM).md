@@ -105,5 +105,5 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -92,5 +92,5 @@ Goblinoid spellcasters that dabble in the magic surrounding dreams are sometimes
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

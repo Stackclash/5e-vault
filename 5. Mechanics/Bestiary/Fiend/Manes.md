@@ -229,5 +229,5 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

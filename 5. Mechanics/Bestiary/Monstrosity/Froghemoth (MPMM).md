@@ -105,5 +105,5 @@ If [[/5. Mechanics/Bestiary/Humanoid/Bullywug.md|bullywugs]] come across a frogh
 swamp, underdark
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

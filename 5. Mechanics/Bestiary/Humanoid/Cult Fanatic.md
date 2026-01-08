@@ -83,5 +83,5 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

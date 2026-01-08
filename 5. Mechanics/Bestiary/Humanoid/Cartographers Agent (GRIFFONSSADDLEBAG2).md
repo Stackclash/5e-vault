@@ -93,5 +93,5 @@ Most members of The Cartographer's Guild are simple mapmakers or merchants, but 
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

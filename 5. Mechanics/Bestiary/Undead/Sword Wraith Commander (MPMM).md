@@ -96,5 +96,5 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 grassland, swamp
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

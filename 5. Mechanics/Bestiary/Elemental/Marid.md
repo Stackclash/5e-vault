@@ -121,5 +121,5 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 underwater, coastal
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

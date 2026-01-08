@@ -92,5 +92,5 @@ Found primarily in the Gilded Glade, deathcaps are walking fungal nightmares. Th
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

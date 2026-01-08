@@ -57,7 +57,7 @@ image: null
 > **Group(s)** | `INPUT[inlineList:groups]` |
 > **Religion(s)** | `INPUT[inlineList:religions]` |
 > **Current Location** | `INPUT[suggester(optionQuery(#location)):location]` |
-> **Party Relationship** | `$=await dv.view('metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
+> **Party Relationship** | `$=await dv.view('utils/metaBindInput', {type: 'inlineSelect', options: ['option(Acquaintance)','option(Friendly)','option(Ally)','option(Disgruntled)','option(Enemy)'], field: ['partyRelationships', dv.page(dv.page('Configuration').active_party).file.name]})` |
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 160*
@@ -108,7 +108,7 @@ actions:
     templateFile: "z_Templates/Templater/Functional/Remove Relationship.md"
 ```
 > [!div | no-t clean txt-c]
-> `$=await dv.view("npcRelationships", { current: dv.current() })`
+> `$=await dv.view("views/npcRelationships", { current: dv.current() })`
 
 ## Quests
 ```datacorejsx

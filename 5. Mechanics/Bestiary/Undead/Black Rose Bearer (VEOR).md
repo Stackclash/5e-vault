@@ -79,5 +79,5 @@ A bearer's black rose is an homage to the tyrannical Lord Soth, the most powerfu
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

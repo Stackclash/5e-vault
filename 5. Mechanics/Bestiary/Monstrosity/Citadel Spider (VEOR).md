@@ -78,5 +78,5 @@ Lolth's followers breed spiders of all types and sizes, infusing the creatures w
 ^statblock
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

@@ -103,5 +103,5 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 urban
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

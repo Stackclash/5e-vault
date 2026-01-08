@@ -152,5 +152,5 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 forest
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```

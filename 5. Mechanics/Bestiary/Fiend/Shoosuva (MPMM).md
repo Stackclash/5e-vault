@@ -93,5 +93,5 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
 coastal, forest, grassland, hill
 
 ```dataviewjs
-await dv.view('monsterHarvesterTable', { current: dv.current() })
+await dv.view('views/monsterHarvesterTable', { current: dv.current() })
 ```
