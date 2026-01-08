@@ -1,38 +1,25 @@
 🎲 Campaign Foundation
 
-Purpose
+# Purpose
 
 Generate a compelling Dungeons & Dragons campaign foundation that establishes the core premise, themes, conflicts, and long-term stakes of the story. The result should provide a solid narrative spine that supports player agency, branching storylines, and integration of player character backstories.
 
 This prompt is designed to support iteration, reuse, and downstream generation.
 
-⸻
-
-Prompt
+# Prompt
 
 You are an expert Dungeon Master and fantasy storyteller.
 
 Create the foundation for a Dungeons & Dragons campaign using the information below. Your goal is to produce a campaign concept that is cohesive, evocative, and expandable, while leaving intentional gaps for player choice and emergent storytelling.
 
-⸻
-
 Campaign Inputs (User-Defined)
-	- Genre / Subgenre:
-(e.g., High Fantasy, Dark Fantasy, Sword & Sorcery, Mythic, Grimdark)
-	- Tone & Mood:
-(e.g., hopeful, tragic, ominous, heroic, morally gray)
-	- Intended Campaign Scope:
-(Short arc, long-running epic, open-ended sandbox)
-	- Themes to Explore:
-(e.g., power vs responsibility, corruption, legacy, sacrifice, truth)
-	- Known World Details (Optional):
-(Existing lore, locations, gods, factions, historical events)
-	- Player Character Hooks (Optional):
-(Any known backstories, shared histories, or character motivations)
-	- Hard Constraints (Optional):
-(Things that must or must not exist in the campaign)
-
-⸻
+	- Genre / Subgenre: (e.g., High Fantasy, Dark Fantasy, Sword & Sorcery, Mythic, Grimdark)
+	- Tone & Mood: (e.g., hopeful, tragic, ominous, heroic, morally gray)
+	- Intended Campaign Scope: (Short arc, long-running epic, open-ended sandbox)
+	- Themes to Explore: (e.g., power vs responsibility, corruption, legacy, sacrifice, truth)
+	- Known World Details (Optional): (Existing lore, locations, gods, factions, historical events)
+	- Player Character Hooks (Optional): (Any known backstories, shared histories, or character motivations)
+	- Hard Constraints (Optional): (Things that must or must not exist in the campaign)
 
 Generation Guidelines
 
@@ -43,15 +30,11 @@ When generating the campaign foundation:
 	- Leave room for discovery and DM improvisation
 	- Assume player characters are central but not predestined
 
-⸻
-
 Required Output Sections
 
 1. Core Premise
 
 A concise but evocative summary of the campaign’s central idea and why the world is in motion now.
-
-⸻
 
 2. Central Conflict
 
@@ -60,14 +43,10 @@ Describe the primary tension driving the campaign:
 	- Why the conflict cannot be ignored
 	- Consequences of inaction
 
-⸻
-
 3. Campaign Themes & Moral Axis
 
 Outline the major themes and philosophical questions explored.
 Note any moral ambiguity, tragic necessity, or ideological tension.
-
-⸻
 
 4. The World at a Breaking Point
 
@@ -75,8 +54,6 @@ Describe the destabilizing condition that justifies the rise of adventurers:
 	- A recent or imminent event
 	- A failing system or truth revealed
 	- A rising power or slow collapse
-
-⸻
 
 5. Long-Term Stakes
 
@@ -87,8 +64,6 @@ Define what is ultimately at risk:
 
 Show how these stakes can escalate organically over time.
 
-⸻
-
 6. Player Character Integration
 
 Explain how character backstories might naturally intersect with the campaign:
@@ -98,19 +73,13 @@ Explain how character backstories might naturally intersect with the campaign:
 
 Avoid assuming specific classes, races, or alignments unless provided.
 
-⸻
-
 7. Open Narrative Threads
 
 List 3–5 unresolved questions or mysteries intended for later development.
 
-⸻
-
 8. Campaign Identity Summary
 
 A short tonal paragraph capturing the feel of the campaign for DM reference.
-
-⸻
 
 🔁 Foundation Adjustment & Iteration
 
@@ -121,8 +90,6 @@ Adjustment rules:
 	- Apply changes surgically rather than regenerating the entire foundation
 	- Maintain thematic and tonal consistency
 	- Briefly explain major changes if they significantly alter stakes or themes
-
-⸻
 
 🔒 Canonical Campaign Foundation Summary
 
@@ -135,8 +102,7 @@ Canonical Summary Format
 	- Primary Themes:
 	- Tone & Mood:
 	- World Status Quo Disruption:
-	- Core Stakes:
-(Personal / Local / Greater)
+	- Core Stakes: (Personal / Local / Greater)
 	- Player Character Relevance:
 	- Established Constraints:
 
@@ -145,8 +111,6 @@ Canonical Summary Rules
 	- Prefer clarity over flourish
 	- Do not introduce new information
 	- Treat this as ground truth in later prompts
-
-⸻
 
 Style Requirements
 	- DM-facing tone

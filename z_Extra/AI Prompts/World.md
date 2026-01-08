@@ -1,48 +1,33 @@
 🌍 Campaign World
 
-Purpose
+# Purpose
 
 Generate a campaign world that provides a cohesive, reactive, and expandable setting for a Dungeons & Dragons campaign. The world should feel shaped by history, ideology, and power—and currently under pressure from forces introduced in the campaign foundation.
 
 This prompt defines the macro-canon of the campaign.
 
-⸻
-
-Prompt
+# Prompt
 
 You are an expert Dungeon Master and worldbuilder.
 
 Using the canonical summaries provided, create a campaign world that naturally supports the story, themes, and conflicts of the campaign. The world should feel old, strained, and alive, with room for mystery and growth.
 
-⸻
-
 World Inputs (User-Defined)
-	- Campaign Foundation Canonical Summary:
-(Paste directly)
-	- Campaign Arc Canonical Summary (Optional):
-(Paste directly, if available)
-	- Primary Villain Canonical Summary (Optional):
-(Paste directly, if available)
-	- Intended World Scope:
-(Single continent / Multiple continents / Planar / Cosmic)
-	- Fantasy Level:
-(Low magic / Standard / High magic / Mythic)
-	- Inspirations (Optional):
-(Mythologies, real-world cultures, media touchstones)
-	- Hard Constraints (Optional):
-(What must or must not exist)
+	- Campaign Foundation Canonical Summary: (Paste directly)
+	- Campaign Arc Canonical Summary (Optional): (Paste directly, if available)
+	- Primary Villain Canonical Summary (Optional): (Paste directly, if available)
+	- Intended World Scope: (Single continent / Multiple continents / Planar / Cosmic)
+	- Fantasy Level: (Low magic / Standard / High magic / Mythic)
+	- Inspirations (Optional): (Mythologies, real-world cultures, media touchstones)
+	- Hard Constraints (Optional): (What must or must not exist)
 
 
-⸻
-
-Core World Design Rules (Hard Requirements)
+## Core World Design Rules (Hard Requirements)
 	- The world must pre-exist the players
 	- History leaves visible scars
 	- Power structures are uneven and contested
 	- Villain influence is felt or emerging
 	- Not everything is mapped or explained
-
-⸻
 
 Required Output Sections
 
@@ -50,20 +35,14 @@ Required Output Sections
 
 Name of the world and a brief description of its defining character.
 
-⸻
-
 2. Mythic or Historical Foundations
 
 Creation myths, early ages, fallen empires, and events that still shape the present.
 Do not resolve which myths are objectively true.
 
-⸻
-
 3. Current Age & Status Quo
 
 Who holds power, what systems are failing, and which tensions are near collapse.
-
-⸻
 
 4. Major Regions (High-Level)
 
@@ -72,8 +51,6 @@ Describe 3–6 major regions, each including:
 	- Cultural identity
 	- Dominant power or tension
 	- Why this region matters now
-
-⸻
 
 5. Magic, Gods, & the Supernatural
 
@@ -107,13 +84,9 @@ Clarify whether monsters are myths, seasonal threats, or constant dangers.
 
 This section should clearly establish why adventurers are needed.
 
-⸻
-
 6. The Villain’s Shadow (If Applicable)
 
 How the primary villain exploits or reshapes existing supernatural systems, beliefs, or fears.
-
-⸻
 
 7. Everyday Life & Tone
 
@@ -122,13 +95,9 @@ What daily life feels like for common people, including:
 	- How close danger feels
 	- What adventurers represent
 
-⸻
-
 8. Open Mysteries & Unmapped Truths
 
 List 5–7 unresolved world-level mysteries intended for future development.
-
-⸻
 
 9. DM World Guidance
 
@@ -137,15 +106,11 @@ Advice on:
 	- Letting player action reshape the world
 	- Introducing new lore without contradiction
 
-⸻
-
 🔁 World Adjustment & Iteration
 	- Preserve canon unless explicitly changed
 	- Adjust regions, myths, or systems surgically
 	- Reflect evolving campaign events
 	- Clearly label revised sections
-
-⸻
 
 🔒 Canonical World Summary
 
@@ -167,8 +132,6 @@ Canonical Summary Rules
 	- This summary is authoritative macro-canon
 	- Keep it concise and structured
 	- Do not resolve mysteries unless instructed
-
-⸻
 
 Style Requirements
 	- DM-facing tone
