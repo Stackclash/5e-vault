@@ -54,7 +54,7 @@ travel:
 > **Exports:** | `INPUT[inlineList:exports]` |
 > ###### Travel Distances
 > ```dataviewjs
-> dv.view('travelTimes', {current: dv.current()})
+> dv.view('views/travelTimes', {current: dv.current()})
 > ```
 > `BUTTON[addtravel,removetravel]`
 > ```meta-bind-button
