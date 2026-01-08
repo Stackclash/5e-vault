@@ -1,40 +1,34 @@
 // ------------------------
-// Types
+// Datacore Table Component
 // ------------------------
-interface DataCoreTableProps {
-  query: string; // Datacore query string
-  filterKeys: string[]; // Frontmatter keys to generate filters
-}
+function DataCoreTable({ query, filterKeys }: { query: string; filterKeys: string[] }) {
+  
+  // Fetch notes using Datacore reactive query
+  const notes = dc.query(query); // automatically reactive
 
-type FrontmatterValue = string | number | Array<string | number> | Record<string, any>;
+  // ------------------------
+  // Flatten nested frontmatter for filtering
+  // ------------------------
+  function flattenFrontmatter(obj: Record<string, any>, prefix = "") {
+    const result: Record<string, any> = {};
+    for (const key in obj) {
+      const value = obj[key];
+      const combinedKey = prefix ? `${prefix}.${key}` : key;
 
-// ------------------------
-// Helper Functions
-// ------------------------
-
-// Flatten object keys for nested frontmatter
-function flattenFrontmatter(
-  obj: Record<string, any>,
-  prefix = ""
-): Record<string, any> {
-  const result: Record<string, any> = {};
-  for (const key in obj) {
-    const value = obj[key];
-    const combinedKey = prefix ? `${prefix}.${key}` : key;
-
-    if (value !== null && typeof value === "object" && !Array.isArray(value)) {
-      Object.assign(result, flattenFrontmatter(value, combinedKey));
-    } else {
-      result[combinedKey] = value;
+      if (value && typeof value === "object" && !Array.isArray(value)) {
+        Object.assign(result, flattenFrontmatter(value, combinedKey));
+      } else {
+        result[combinedKey] = value;
+      }
     }
+    return result;
   }
-  return result;
-}
 
-// Extract filters from notes and cache them
-function useExtractedFilters(notes: any[], filterKeys: string[]) {
-  return dc.useMemo(() => {
-    const filters: Record<
+  // ------------------------
+  // Extract Filters with Caching
+  // ------------------------
+  const filters = dc.memo(() => {
+    const f: Record<
       string,
       { type: "multi" | "range" | "single"; options?: Set<any>; min?: number; max?: number }
     > = {};
@@ -43,184 +37,128 @@ function useExtractedFilters(notes: any[], filterKeys: string[]) {
       const values: any[] = [];
 
       for (const note of notes) {
-        const frontmatter = flattenFrontmatter(note.frontmatter || {});
-        if (!(key in frontmatter)) continue;
-
-        const val = frontmatter[key];
-        if (Array.isArray(val)) {
-          values.push(...val);
-        } else if (typeof val === "number") {
-          values.push(val);
-        } else {
-          values.push(val);
-        }
+        const front = flattenFrontmatter(note.frontmatter || {});
+        if (!(key in front)) continue;
+        const val = front[key];
+        if (Array.isArray(val)) values.push(...val);
+        else values.push(val);
       }
 
       if (values.length === 0) continue;
 
       if (values.every(v => typeof v === "number")) {
-        filters[key] = { type: "range", min: Math.min(...values), max: Math.max(...values) };
+        f[key] = { type: "range", min: Math.min(...values), max: Math.max(...values) };
       } else if (values.some(v => Array.isArray(v) || typeof v === "string")) {
-        filters[key] = { type: "multi", options: new Set(values.flat()) };
+        f[key] = { type: "multi", options: new Set(values.flat()) };
       } else {
-        filters[key] = { type: "single", options: new Set(values) };
+        f[key] = { type: "single", options: new Set(values) };
       }
     }
 
-    return filters;
-  }, [notes, filterKeys]);
-}
+    return f;
+  });
 
-// ------------------------
-// Component
-// ------------------------
-function FilterTable({ query, filterKeys }: DataCoreTableProps) {
-  const [notes, setNotes] = dc.useState<any[]>([]);
-  const [activeFilters, setActiveFilters] = dc.useState<Record<string, any>>({});
+  // ------------------------
+  // Reactive Filters
+  // ------------------------
+  const activeFilters = dc.signal<Record<string, any>>({});
 
-  // Fetch notes from Datacore
-  dc.useEffect(() => {
-    const results = window.datacore.query(query); // pseudo-call
-    setNotes(results);
-  }, [query]);
-
-  const filters = useExtractedFilters(notes, filterKeys);
-
-  // Filter notes based on active filters
-  const filteredNotes = dc.useMemo(() => {
+  // ------------------------
+  // Filter Notes
+  // ------------------------
+  const filteredNotes = dc.memo(() => {
     return notes.filter(note => {
       const flatFront = flattenFrontmatter(note.frontmatter || {});
-      return Object.entries(activeFilters).every(([key, value]) => {
-        if (value === null || value === undefined || value === "") return true;
+      return Object.entries(activeFilters.value).every(([key, val]) => {
+        if (val === null || val === undefined || val === "") return true;
 
-        const noteValue = flatFront[key];
-        if (noteValue === undefined) return false;
+        const noteVal = flatFront[key];
+        if (noteVal === undefined) return false;
 
-        if (Array.isArray(noteValue)) {
-          if (Array.isArray(value)) return value.every(v => noteValue.includes(v));
-          return noteValue.includes(value);
+        if (Array.isArray(noteVal)) {
+          if (Array.isArray(val)) return val.every(v => noteVal.includes(v));
+          return noteVal.includes(val);
         }
 
-        if (typeof value === "object" && "min" in value && "max" in value) {
-          return noteValue >= value.min && noteValue <= value.max;
+        if (typeof val === "object" && "min" in val && "max" in val) {
+          return noteVal >= val.min && noteVal <= val.max;
         }
 
-        return noteValue === value;
+        return noteVal === val;
       });
     });
-  }, [notes, activeFilters]);
+  });
 
   // ------------------------
   // Render
   // ------------------------
-  return (
-    <div>
-      {/* Filters */}
-      <div className="filters" style={{ marginBottom: "1em" }}>
-        {Object.entries(filters).map(([key, filter]) => {
+  return dc.html`
+    <div class="datacore-table">
+      <div class="filters" style="margin-bottom:1em;">
+        ${Object.entries(filters.value).map(([key, filter]) => {
           if (filter.type === "multi") {
-            return (
-              <div key={key} style={{ marginBottom: "0.5em" }}>
-                <label>{key}: </label>
-                <select
-                  multiple
-                  onChange={e => {
-                    const selected = Array.from(e.target.selectedOptions).map(opt => opt.value);
-                    setActiveFilters(prev => ({ ...prev, [key]: selected }));
-                  }}
-                >
-                  {Array.from(filter.options!).map(opt => (
-                    <option key={String(opt)} value={opt}>
-                      {String(opt)}
-                    </option>
-                  ))}
+            return dc.html`
+              <div style="margin-bottom:0.5em;">
+                <label>${key}: </label>
+                <select multiple @change=${e => {
+                  const selected = Array.from(e.target.selectedOptions).map(o => o.value);
+                  activeFilters.value = { ...activeFilters.value, [key]: selected };
+                }}>
+                  ${Array.from(filter.options!).map(opt => dc.html`<option value=${opt}>${opt}</option>`)}
                 </select>
               </div>
-            );
+            `;
           }
 
           if (filter.type === "range") {
-            const current = activeFilters[key] || { min: filter.min, max: filter.max };
-            return (
-              <div key={key} style={{ marginBottom: "0.5em" }}>
-                <label>{key}: </label>
-                <input
-                  type="range"
-                  min={filter.min}
-                  max={filter.max}
-                  value={current.min}
-                  onChange={e =>
-                    setActiveFilters(prev => ({
-                      ...prev,
-                      [key]: { ...current, min: Number(e.target.value) }
-                    }))
-                  }
-                />
-                <input
-                  type="range"
-                  min={filter.min}
-                  max={filter.max}
-                  value={current.max}
-                  onChange={e =>
-                    setActiveFilters(prev => ({
-                      ...prev,
-                      [key]: { ...current, max: Number(e.target.value) }
-                    }))
-                  }
-                />
-                <span>
-                  {current.min} - {current.max}
-                </span>
+            const current = activeFilters.value[key] || { min: filter.min, max: filter.max };
+            return dc.html`
+              <div style="margin-bottom:0.5em;">
+                <label>${key}: </label>
+                <input type="range" min=${filter.min} max=${filter.max} value=${current.min} @input=${e => {
+                  activeFilters.value = { ...activeFilters.value, [key]: { ...current, min: Number(e.target.value) } };
+                }}>
+                <input type="range" min=${filter.min} max=${filter.max} value=${current.max} @input=${e => {
+                  activeFilters.value = { ...activeFilters.value, [key]: { ...current, max: Number(e.target.value) } };
+                }}>
+                <span>${current.min} - ${current.max}</span>
               </div>
-            );
+            `;
           }
 
-          // Single-select fallback
-          return (
-            <div key={key} style={{ marginBottom: "0.5em" }}>
-              <label>{key}: </label>
-              <select
-                onChange={e =>
-                  setActiveFilters(prev => ({
-                    ...prev,
-                    [key]: e.target.value || null
-                  }))
-                }
-              >
+          return dc.html`
+            <div style="margin-bottom:0.5em;">
+              <label>${key}: </label>
+              <select @change=${e => {
+                activeFilters.value = { ...activeFilters.value, [key]: e.target.value || null };
+              }}>
                 <option value="">All</option>
-                {Array.from(filter.options!).map(opt => (
-                  <option key={String(opt)} value={opt}>
-                    {String(opt)}
-                  </option>
-                ))}
+                ${Array.from(filter.options!).map(opt => dc.html`<option value=${opt}>${opt}</option>`)}
               </select>
             </div>
-          );
+          `;
         })}
       </div>
 
-      {/* Table */}
-      <table border={1} cellPadding={5}>
+      <table border="1" cellpadding="5">
         <thead>
           <tr>
-            {notes[0] &&
-              Object.keys(flattenFrontmatter(notes[0].frontmatter || {})).map(k => (
-                <th key={k}>{k}</th>
-              ))}
+            ${notes[0] && Object.keys(flattenFrontmatter(notes[0].frontmatter || {})).map(k => dc.html`<th>${k}</th>`)}
           </tr>
         </thead>
         <tbody>
-          {filteredNotes.map(note => (
-            <tr key={note.path}>
-              {Object.values(flattenFrontmatter(note.frontmatter || {})).map((v, i) => (
-                <td key={i}>{Array.isArray(v) ? v.join(", ") : JSON.stringify(v)}</td>
-              ))}
-            </tr>
-          ))}
+          ${filteredNotes.value.map(note => {
+            const flat = flattenFrontmatter(note.frontmatter || {});
+            return dc.html`
+              <tr>
+                ${Object.values(flat).map(v => dc.html`<td>${Array.isArray(v) ? v.join(", ") : JSON.stringify(v)}</td>`)}
+              </tr>
+            `;
+          })}
         </tbody>
       </table>
     </div>
-  );
+  `;
 }
 
-return { FilterTable }
+return { DataCoreTable };

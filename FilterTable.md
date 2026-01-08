@@ -1,5 +1,8 @@
 ```datacoretsx
-const { FilterTable } = await dc.require("z_Scripts/Datacore/FilterTable.tsx")
+const { DataCoreTable } = await dc.require("z_Scripts/Datacore/FilterTable.tsx")
 
-return () => <FilterTable query={'@page and #spell'} filterKeys={['level']} />
+<DataCoreTable 
+  query="notes where tags includes 'monster'" 
+  filterKeys=${['level', 'tags', 'stats.hp']} 
+/>
 ```
