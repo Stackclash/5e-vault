@@ -11,14 +11,13 @@
             "id": "69ff6cafa68fdd73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "z_Extra/AI Prompts/Campaign Foundation.md",
-                "mode": "source",
-                "source": false
+                "file": "Players.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Campaign Foundation"
+              "icon": "lucide-table",
+              "title": "Players"
             }
           }
         ]
@@ -194,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
+                "file": "Players.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Curse of Strahd"
+              "title": "Outline of Players"
             }
           },
           {
@@ -214,28 +213,11 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "fbfaa0bf05557e52",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2c00eb20482fda2c",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,6 +247,7 @@
   },
   "active": "69ff6cafa68fdd73",
   "lastOpenFiles": [
+    "z_Extra/AI Prompts/Campaign Foundation.md",
     "z_Extra/AI Prompts/Campaign Arcs.md",
     "Players.base",
     "3. The Party/Players/Redgrave.md",
@@ -274,7 +257,6 @@
     "z_Extra/AI Prompts/Settlement.md",
     "z_Extra/AI Prompts/Primary Villian.md",
     "z_Extra/AI Prompts/NPC.md",
-    "z_Extra/AI Prompts/Campaign Foundation.md",
     "z_Extra/AI Prompts",
     "1. DM Stuff/Configuration.md",
     "1. DM Stuff/Session Prep/Curse of Strahd/2024-03-30.md",
