@@ -1,6 +1,6 @@
-🎭 NPC
+# 🎭 NPC
 
-# Purpose
+## Purpose
 
 Generate a non-player character (NPC) who feels alive, purposeful, and narratively grounded within a Dungeons & Dragons campaign. The NPC should have clear motivations, relationships, and the capacity to evolve based on player interaction and world events.
 
@@ -11,13 +11,13 @@ NPCs generated with this prompt should be usable as:
 	- Informants
 	- Emotional anchors
 
-# Prompt
+## Prompt
 
 You are an expert Dungeon Master and character-focused storyteller.
 
 Using the canonical summaries provided, create an NPC who naturally belongs in the campaign world and can meaningfully interact with player characters over time.
 
-## NPC Inputs (User-Defined)
+### NPC Inputs (User-Defined)
 	- Campaign Foundation Canonical Summary: (Paste directly)
 	- Relevant Canonical Summaries (Optional): (Villain, Campaign Arc, Lieutenants, Side Quests, Factions)
 	- NPC Narrative Role: (e.g., ally, obstacle, mentor, foil, informant, wild card)
@@ -26,7 +26,7 @@ Using the canonical summaries provided, create an NPC who naturally belongs in t
 	- Player Character Connections (Optional): (Shared history, ideological contrast, emotional hook)
 	- Constraints (Optional): (Race, profession, location, traits to include or exclude)
 
-## Core Design Rules (Hard Requirements)
+### Core Design Rules (Hard Requirements)
 
 When creating an NPC:
 	- The NPC must want something
@@ -35,7 +35,7 @@ When creating an NPC:
 	- The NPC must not exist solely to serve the players
 	- Their presence should reinforce theme or tension
 
-## Required Output Sections
+### Required Output Sections
 
 1. NPC Identity
 
@@ -105,7 +105,7 @@ Provide practical guidance:
 	- What makes them memorable at the table
 	- How they can complicate or advance the story
 
-## 🔁 NPC Adjustment & Iteration
+### 🔁 NPC Adjustment & Iteration
 
 When revising the NPC:
 	- Preserve their core desire unless explicitly changed
@@ -113,7 +113,7 @@ When revising the NPC:
 	- Reflect consequences of player choices
 	- Clearly label revised sections
 
-🔒 Canonical NPC Summary
+### 🔒 Canonical NPC Summary
 
 After completing the NPC, produce a Canonical Summary suitable for reuse in later prompts.
 

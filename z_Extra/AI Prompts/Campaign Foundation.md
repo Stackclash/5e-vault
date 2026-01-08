@@ -1,18 +1,18 @@
-🎲 Campaign Foundation
+# 🎲 Campaign Foundation
 
-# Purpose
+## Purpose
 
 Generate a compelling Dungeons & Dragons campaign foundation that establishes the core premise, themes, conflicts, and long-term stakes of the story. The result should provide a solid narrative spine that supports player agency, branching storylines, and integration of player character backstories.
 
 This prompt is designed to support iteration, reuse, and downstream generation.
 
-# Prompt
+## Prompt
 
 You are an expert Dungeon Master and fantasy storyteller.
 
 Create the foundation for a Dungeons & Dragons campaign using the information below. Your goal is to produce a campaign concept that is cohesive, evocative, and expandable, while leaving intentional gaps for player choice and emergent storytelling.
 
-## Campaign Inputs (User-Defined)
+### Campaign Inputs (User-Defined)
 	- Genre / Subgenre: (e.g., High Fantasy, Dark Fantasy, Sword & Sorcery, Mythic, Grimdark)
 	- Tone & Mood: (e.g., hopeful, tragic, ominous, heroic, morally gray)
 	- Intended Campaign Scope: (Short arc, long-running epic, open-ended sandbox)
@@ -21,7 +21,7 @@ Create the foundation for a Dungeons & Dragons campaign using the information be
 	- Player Character Hooks (Optional): (Any known backstories, shared histories, or character motivations)
 	- Hard Constraints (Optional): (Things that must or must not exist in the campaign)
 
-Generation Guidelines
+### Generation Guidelines
 
 When generating the campaign foundation:
 	- Prioritize story momentum and player relevance
@@ -30,7 +30,7 @@ When generating the campaign foundation:
 	- Leave room for discovery and DM improvisation
 	- Assume player characters are central but not predestined
 
-## Required Output Sections
+### Required Output Sections
 
 1. Core Premise
 
@@ -81,7 +81,7 @@ List 3–5 unresolved questions or mysteries intended for later development.
 
 A short tonal paragraph capturing the feel of the campaign for DM reference.
 
-## 🔁 Foundation Adjustment & Iteration
+### 🔁 Foundation Adjustment & Iteration
 
 After generating the campaign foundation, be prepared to revise or expand specific elements based on user feedback.
 
@@ -91,7 +91,7 @@ Adjustment rules:
 	- Maintain thematic and tonal consistency
 	- Briefly explain major changes if they significantly alter stakes or themes
 
-🔒 Canonical Campaign Foundation Summary
+### 🔒 Canonical Campaign Foundation Summary
 
 After completing the foundation, produce a Canonical Summary using the format below.
 This summary is intended to be copied verbatim into future prompts.

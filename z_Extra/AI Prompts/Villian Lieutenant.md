@@ -1,18 +1,18 @@
-🕷️ Lieutenants & Secondary Antagonists
+# 🕷️ Lieutenants & Secondary Antagonists
 
-# Purpose
+## Purpose
 
 Generate a set of lieutenants or secondary antagonists who act as extensions of the primary villain’s will, ideology, or plan. Each lieutenant should embody a distinct aspect of the villain’s strategy, creating localized conflicts that escalate toward the central confrontation.
 
 These characters are intended to be recurring narrative forces, not one-off encounters.
 
-# Prompt
+## Prompt
 
 You are an expert Dungeon Master and narrative designer.
 
 Using the canonical summaries provided, create a set of lieutenants who actively advance the primary villain’s plan and generate ongoing conflict throughout the campaign.
 
-## Lieutenant Inputs (User-Defined)
+### Lieutenant Inputs (User-Defined)
 	- Campaign Foundation Canonical Summary: (Paste directly)
 	- Primary Villain Canonical Summary: (Paste directly)
 	- Campaign Arc Canonical Summary (If Available): (Paste directly; otherwise infer likely phases)
@@ -21,7 +21,7 @@ Using the canonical summaries provided, create a set of lieutenants who actively
 	- Player Character Connections (Optional): (Known rivalries, shared histories, thematic mirrors)
 	- Constraints (Optional): (Traits, roles, or concepts to include or exclude)
 
-## Core Design Rules (Hard Requirements)
+### Core Design Rules (Hard Requirements)
 
 When creating lieutenants:
 	- Each lieutenant must represent a distinct aspect of the villain’s plan
@@ -30,7 +30,7 @@ When creating lieutenants:
 	- Their actions should advance the villain’s goals even if the villain is absent
 	- Removing a lieutenant should change the campaign, not end it
 
-## Required Output Sections
+### Required Output Sections
 
 For each lieutenant, include the following:
 
@@ -95,7 +95,7 @@ After all lieutenants are defined, describe:
 	- How the villain exploits these dynamics
 	- What happens if one lieutenant falls early
 
-## 🔁 Lieutenant Adjustment & Iteration
+### 🔁 Lieutenant Adjustment & Iteration
 
 When revising lieutenants:
 	- Preserve their core role unless explicitly changed
@@ -103,7 +103,7 @@ When revising lieutenants:
 	- Reflect consequences of player actions
 	- Clearly label revised lieutenants or sections
 
-🔒 Canonical Lieutenant Summary
+### 🔒 Canonical Lieutenant Summary
 
 After completing all lieutenants, produce a Canonical Summary suitable for reuse in later prompts.
 

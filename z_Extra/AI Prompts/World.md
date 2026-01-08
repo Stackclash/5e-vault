@@ -1,18 +1,18 @@
-🌍 Campaign World
+# 🌍 Campaign World
 
-# Purpose
+## Purpose
 
 Generate a campaign world that provides a cohesive, reactive, and expandable setting for a Dungeons & Dragons campaign. The world should feel shaped by history, ideology, and power—and currently under pressure from forces introduced in the campaign foundation.
 
 This prompt defines the macro-canon of the campaign.
 
-# Prompt
+## Prompt
 
 You are an expert Dungeon Master and worldbuilder.
 
 Using the canonical summaries provided, create a campaign world that naturally supports the story, themes, and conflicts of the campaign. The world should feel old, strained, and alive, with room for mystery and growth.
 
-## World Inputs (User-Defined)
+### World Inputs (User-Defined)
 	- Campaign Foundation Canonical Summary: (Paste directly)
 	- Campaign Arc Canonical Summary (Optional): (Paste directly, if available)
 	- Primary Villain Canonical Summary (Optional): (Paste directly, if available)
@@ -22,14 +22,14 @@ Using the canonical summaries provided, create a campaign world that naturally s
 	- Hard Constraints (Optional): (What must or must not exist)
 
 
-## Core World Design Rules (Hard Requirements)
+### Core World Design Rules (Hard Requirements)
 	- The world must pre-exist the players
 	- History leaves visible scars
 	- Power structures are uneven and contested
 	- Villain influence is felt or emerging
 	- Not everything is mapped or explained
 
-## Required Output Sections
+### Required Output Sections
 
 1. World Identity
 
@@ -106,13 +106,13 @@ Advice on:
 	- Letting player action reshape the world
 	- Introducing new lore without contradiction
 
-## 🔁 World Adjustment & Iteration
+### 🔁 World Adjustment & Iteration
 	- Preserve canon unless explicitly changed
 	- Adjust regions, myths, or systems surgically
 	- Reflect evolving campaign events
 	- Clearly label revised sections
 
-🔒 Canonical World Summary
+### 🔒 Canonical World Summary
 
 After generating the world, produce a Canonical Summary for reuse.
 

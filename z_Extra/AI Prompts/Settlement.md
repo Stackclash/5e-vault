@@ -1,18 +1,18 @@
-🏙️ Settlement (City & Town) — AI Generation Prompt (v3)
+# 🏙️ Settlement (City & Town) — AI Generation Prompt (v3)
 
-# Purpose
+## Purpose
 
 Generate a settlement (city, town, or village) that feels lived-in, reactive, and narratively useful within a Dungeons & Dragons campaign. The settlement should reflect the pressures of the wider world, the influence of power structures, belief systems, racial dynamics, and the consequences of magic and monsters.
 
 This prompt creates local canon usable by NPC, faction, side quest, and campaign arc prompts.
 
-# Prompt
+## Prompt
 
 You are an expert Dungeon Master and narrative world designer.
 
 Using the canonical summaries provided, create a settlement that naturally belongs in the campaign world and generates meaningful opportunities for roleplay, conflict, and story.
 
-## Settlement Inputs (User-Defined)
+### Settlement Inputs (User-Defined)
 	- Canonical World Summary: (Paste directly)
 	- Relevant Canonical Summaries (Optional): (Campaign Arc, Villain, Lieutenants, Factions)
 	- Settlement Type & Size: (Village, Town, City, Metropolis, Ruin)
@@ -23,14 +23,14 @@ Using the canonical summaries provided, create a settlement that naturally belon
 	- Player Character Relevance (Optional): (Backstory ties, ideological mirrors, personal stakes)
 	- Constraints (Optional): (Architectural style, magic restrictions)
 
-## Core Design Rules (Hard Requirements)
+### Core Design Rules (Hard Requirements)
 	- The settlement exists because of geography, history, or necessity
 	- It reflects world-level tensions
 	- Power is unevenly distributed
 	- Safety is conditional
 	- Conflict exists without requiring combat
 
-## Required Output Sections
+### Required Output Sections
 
 1. Settlement Identity
 
@@ -142,13 +142,13 @@ Describe how the settlement evolves if:
 	- Ignored
 	- Targeted by the villain or lieutenants
 
-## 🔁 Settlement Adjustment & Iteration
+### 🔁 Settlement Adjustment & Iteration
 	- Preserve core identity
 	- Maintain canon consistency
 	- Reflect player consequences
 	- Clearly label revised sections
 
-🔒 Canonical Settlement Summary
+### 🔒 Canonical Settlement Summary
 
 After completing the settlement, produce a Canonical Summary.
 

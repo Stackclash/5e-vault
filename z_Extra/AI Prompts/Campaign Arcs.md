@@ -1,6 +1,6 @@
-📜 Campaign Arc / Story Structure
+# 📜 Campaign Arc / Story Structure
 
-# Purpose
+## Purpose
 
 Generate a flexible, multi-phase campaign arc that translates the established campaign foundation and primary villain into escalating, causally linked narrative movement.
 
@@ -8,13 +8,13 @@ Each campaign phase must arise from the actions, plans, or agents of the primary
 
 This prompt produces a playable narrative skeleton, not a fixed plot.
 
-# Prompt
+## Prompt
 
 You are an expert Dungeon Master and narrative architect.
 
 Using the canonical summaries provided, create a campaign arc that shows how the villain’s plan unfolds over time and how the world reacts—with or without player interference.
 
-## Arc Inputs (User-Defined)
+### Arc Inputs (User-Defined)
 	- Campaign Foundation Canonical Summary: (Paste directly)
 	- Primary Villain Canonical Summary: (Paste directly)
 	- Intended Campaign Length: (Short / Medium / Long / Epic)
@@ -23,7 +23,7 @@ Using the canonical summaries provided, create a campaign arc that shows how the
 	- Player Character Emphasis (Optional): (Specific arcs, themes, or PCs to highlight)
 	- Hard Constraints (Optional): (Events that must or must not occur)
 
-## Core Arc Design Rules (Hard Requirements)
+### Core Arc Design Rules (Hard Requirements)
 
 When building the campaign arc:
 	- Every phase must be caused by the primary villain
@@ -40,7 +40,7 @@ When building the campaign arc:
 	- Escalate commitment
 	- Suffer setbacks or become more dangerous
 
-## Required Output Sections
+### Required Output Sections
 
 1. Arc Overview
 
@@ -99,7 +99,7 @@ Provide advice on:
 	- Skipping phases without breaking causality
 	- Responding to unexpected player solutions
 
-## 🔁 Arc Adjustment & Iteration
+### 🔁 Arc Adjustment & Iteration
 
 When revising the arc:
 	- Maintain causal links to the villain
@@ -107,7 +107,7 @@ When revising the arc:
 	- Adjust phases surgically
 	- Reflect the villain’s evolving state
 
-🔒 Canonical Campaign Arc Summary
+### 🔒 Canonical Campaign Arc Summary
 
 After completing the arc, produce a Canonical Summary for reuse in future prompts.
 

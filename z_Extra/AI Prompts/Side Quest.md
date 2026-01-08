@@ -1,12 +1,12 @@
-🧭 Side Quest
+# 🧭 Side Quest
 
-# Purpose
+## Purpose
 
 Generate a side quest that enriches a Dungeons & Dragons campaign by deepening themes, advancing consequences, or illuminating aspects of the villain’s influence—without hijacking the main arc.
 
 A side quest should feel like a natural outgrowth of the world, not a distraction from it.
 
-# Prompt
+## Prompt
 
 You are an expert Dungeon Master and narrative designer.
 
@@ -22,7 +22,7 @@ Side Quest Inputs (User-Defined)
 	- Player Character Focus (Optional): (Specific PCs or backstories to highlight)
 	- Constraints (Optional): (Locations, NPCs, themes to include or avoid)
 
-## Core Design Rules (Hard Requirements)
+### Core Design Rules (Hard Requirements)
 
 When creating a side quest:
 	- It must connect to at least one of the following:
@@ -34,7 +34,7 @@ When creating a side quest:
 	- Resolution must change something, even if subtly
 	- It must be easy to scale up or down
 
-## Required Output Sections
+### Required Output Sections
 
 1. Side Quest Hook
 
@@ -107,7 +107,7 @@ Provide guidance on:
 	- Tying this quest back into the main arc
 	- Letting player solutions redefine the situation
 
-## 🔁 Side Quest Adjustment & Iteration
+### 🔁 Side Quest Adjustment & Iteration
 
 When revising the side quest:
 	- Preserve its thematic purpose
@@ -115,7 +115,7 @@ When revising the side quest:
 	- Adjust NPCs, stakes, or scale surgically
 	- Clearly label revised sections
 
-🔒 Canonical Side Quest Summary
+### 🔒 Canonical Side Quest Summary
 
 After generating the side quest, produce a Canonical Summary suitable for reuse.
 
