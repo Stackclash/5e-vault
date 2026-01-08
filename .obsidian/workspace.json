@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Stuff/Configuration.md",
+                "file": "3. The Party/Players/Redgrave.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuration"
+              "title": "Redgrave"
             }
           }
         ]
@@ -266,6 +266,7 @@
   },
   "active": "69ff6cafa68fdd73",
   "lastOpenFiles": [
+    "1. DM Stuff/Configuration.md",
     "1. DM Stuff/Session Prep/Curse of Strahd/2024-03-30.md",
     "z_Scripts/Dataview/views/encounterBenchmark.js",
     "3. The Party/Parties/Curse of Strahd.md",
@@ -285,7 +286,6 @@
     "Untitled.md",
     "5. Mechanics/Races/Warforged.md",
     "4. World Almanac/Places of Interest/Yester Hill.md",
-    "1. DM Stuff/Configuration.md",
     "3. The Party/Parties/Test Party.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Redgrave.md",
