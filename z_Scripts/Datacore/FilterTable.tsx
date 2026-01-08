@@ -15,113 +15,110 @@ const DatacoreTable = ({ query, filterKeys }) => {
         // Execute datacore query
         const result = await dc.query(query);
         
-        // Convert result to array if needed
-        const dataArray = Array.isArray(result) ? result : [result];
-        console.log(dataArray);
-        setData(dataArray);
+        setData(result)
         
-        setLoading(false);
+        setLoading(false)
       } catch (err) {
-        setError(err instanceof Error ? err.message : 'Failed to execute query');
-        setLoading(false);
+        setError(err instanceof Error ? err.message : 'Failed to execute query')
+        setLoading(false)
       }
-    };
+    }
 
-    fetchData();
-  }, [query]);
+    fetchData()
+  }, [query])
 
   // Analyze data structure and build filter configs
   dc.useEffect(() => {
-    if (data.length === 0 || filterKeys.length === 0) return;
+    if (data.length === 0 || filterKeys.length === 0) return
 
     const configs = filterKeys.map(key => {
-      const sampleValue = data.find(item => item[key] !== undefined)?.[key];
+      const sampleValue = data.find(item => item[key] !== undefined)?.[key]
       
       if (Array.isArray(sampleValue)) {
-        return { key, type: 'array' };
+        return { key, type: 'array' }
       } else if (typeof sampleValue === 'object' && sampleValue !== null) {
-        const objectKeys = Object.keys(sampleValue);
-        return { key, type: 'object', objectKeys };
+        const objectKeys = Object.keys(sampleValue)
+        return { key, type: 'object', objectKeys }
       } else if (typeof sampleValue === 'number') {
-        return { key, type: 'number' };
+        return { key, type: 'number' }
       } else if (typeof sampleValue === 'boolean') {
-        return { key, type: 'boolean' };
+        return { key, type: 'boolean' }
       } else {
-        return { key, type: 'string' };
+        return { key, type: 'string' }
       }
-    });
+    })
 
-    setFilterConfigs(configs);
-  }, [data, filterKeys]);
+    setFilterConfigs(configs)
+  }, [data, filterKeys])
 
   // Filter data based on active filters
   const filteredData = dc.useMemo(() => {
     return data.filter(item => {
       return Object.entries(filters).every(([filterKey, filterValue]) => {
         if (!filterValue || (Array.isArray(filterValue) && filterValue.length === 0)) {
-          return true;
+          return true
         }
 
-        const [mainKey, subKey] = filterKey.split('.');
-        const itemValue = subKey ? item[mainKey]?.[subKey] : item[mainKey];
+        const [mainKey, subKey] = filterKey.split('.')
+        const itemValue = subKey ? item[mainKey]?.[subKey] : item[mainKey]
 
-        if (itemValue === undefined) return false;
+        if (itemValue === undefined) return false
 
         // Handle different filter types
         if (Array.isArray(itemValue)) {
           // Array filtering
           if (Array.isArray(filterValue)) {
-            return filterValue.some(fv => itemValue.includes(fv));
+            return filterValue.some(fv => itemValue.includes(fv))
           }
-          return itemValue.includes(filterValue);
+          return itemValue.includes(filterValue)
         } else if (typeof itemValue === 'string') {
-          return itemValue.toLowerCase().includes(filterValue.toLowerCase());
+          return itemValue.toLowerCase().includes(filterValue.toLowerCase())
         } else if (typeof itemValue === 'number') {
-          return itemValue === Number(filterValue);
+          return itemValue === Number(filterValue)
         } else if (typeof itemValue === 'boolean') {
-          return itemValue === filterValue;
+          return itemValue === filterValue
         }
 
-        return true;
-      });
-    });
-  }, [data, filters]);
+        return true
+      })
+    })
+  }, [data, filters])
 
   // Get unique values for array and string filters
   const getUniqueValues = (key, isNested = false) => {
-    const values = new Set();
-    const [mainKey, subKey] = key.split('.');
+    const values = new Set()
+    const [mainKey, subKey] = key.split('.')
 
     data.forEach(item => {
-      const value = isNested ? item[mainKey]?.[subKey] : item[key];
+      const value = isNested ? item[mainKey]?.[subKey] : item[key]
       if (Array.isArray(value)) {
-        value.forEach(v => values.add(v));
+        value.forEach(v => values.add(v))
       } else if (value !== undefined) {
-        values.add(value);
+        values.add(value)
       }
-    });
+    })
 
-    return Array.from(values).sort();
-  };
+    return Array.from(values).sort()
+  }
 
   // Update filter
   const updateFilter = (key, value) => {
     setFilters(prev => {
       if (!value || (Array.isArray(value) && value.length === 0)) {
-        const { [key]: _, ...rest } = prev;
-        return rest;
+        const { [key]: _, ...rest } = prev
+        return rest
       }
-      return { ...prev, [key]: value };
-    });
-  };
+      return { ...prev, [key]: value }
+    })
+  }
 
   // Render filter input based on type
   const renderFilter = (config) => {
-    const { key, type } = config;
+    const { key, type } = config
 
     switch (type) {
       case 'string':
-        const stringOptions = getUniqueValues(key);
+        const stringOptions = getUniqueValues(key)
         return (
           <div key={key} className="filter-item">
             <label className="filter-label">{key}</label>
@@ -138,7 +135,7 @@ const DatacoreTable = ({ query, filterKeys }) => {
               ))}
             </select>
           </div>
-        );
+        )
 
       case 'number':
         return (
@@ -152,7 +149,7 @@ const DatacoreTable = ({ query, filterKeys }) => {
               onChange={(e) => updateFilter(key, e.target.value)}
             />
           </div>
-        );
+        )
 
       case 'boolean':
         return (
@@ -162,8 +159,8 @@ const DatacoreTable = ({ query, filterKeys }) => {
               className="filter-select"
               value={filters[key] === undefined ? '' : String(filters[key])}
               onChange={(e) => {
-                const val = e.target.value === '' ? undefined : e.target.value === 'true';
-                updateFilter(key, val);
+                const val = e.target.value === '' ? undefined : e.target.value === 'true'
+                updateFilter(key, val)
               }}
             >
               <option value="">All</option>
@@ -171,10 +168,10 @@ const DatacoreTable = ({ query, filterKeys }) => {
               <option value="false">False</option>
             </select>
           </div>
-        );
+        )
 
       case 'array':
-        const arrayOptions = getUniqueValues(key);
+        const arrayOptions = getUniqueValues(key)
         return (
           <div key={key} className="filter-item">
             <label className="filter-label">{key}</label>
@@ -183,8 +180,8 @@ const DatacoreTable = ({ query, filterKeys }) => {
               multiple
               value={filters[key] || []}
               onChange={(e) => {
-                const selected = Array.from(e.target.selectedOptions, option => option.value);
-                updateFilter(key, selected);
+                const selected = Array.from(e.target.selectedOptions, option => option.value)
+                updateFilter(key, selected)
               }}
             >
               {arrayOptions.map(option => (
@@ -194,12 +191,12 @@ const DatacoreTable = ({ query, filterKeys }) => {
               ))}
             </select>
           </div>
-        );
+        )
 
       case 'object':
         return config.objectKeys?.map(subKey => {
-          const nestedKey = `${key}.${subKey}`;
-          const nestedOptions = getUniqueValues(nestedKey, true);
+          const nestedKey = `${key}.${subKey}`
+          const nestedOptions = getUniqueValues(nestedKey, true)
           return (
             <div key={nestedKey} className="filter-item">
               <label className="filter-label">{nestedKey}</label>
@@ -216,47 +213,47 @@ const DatacoreTable = ({ query, filterKeys }) => {
                 ))}
               </select>
             </div>
-          );
-        });
+          )
+        })
 
       default:
-        return null;
+        return null
     }
-  };
+  }
 
   // Get all columns from data
   const columns = dc.useMemo(() => {
-    if (data.length === 0) return [];
-    const allKeys = new Set();
+    if (data.length === 0) return []
+    const allKeys = new Set()
     data.forEach(item => {
-      Object.keys(item).forEach(key => allKeys.add(key));
-    });
-    return Array.from(allKeys);
-  }, [data]);
+      Object.keys(item).forEach(key => allKeys.add(key))
+    })
+    return Array.from(allKeys)
+  }, [data])
 
   // Render cell value
   const renderCellValue = (value) => {
     if (value === null || value === undefined) {
-      return '';
+      return ''
     }
     if (Array.isArray(value)) {
-      return value.join(', ');
+      return value.join(', ')
     } else if (typeof value === 'object') {
-      return JSON.stringify(value);
+      return JSON.stringify(value)
     }
-    return String(value);
-  };
+    return String(value)
+  }
 
   if (loading) {
-    return <div className="datacore-loading">Loading data...</div>;
+    return <div className="datacore-loading">Loading data...</div>
   }
 
   if (error) {
-    return <div className="datacore-error">Error: {error}</div>;
+    return <div className="datacore-error">Error: {error}</div>
   }
 
   if (data.length === 0) {
-    return <div className="datacore-empty">No data found for query: {query}</div>;
+    return <div className="datacore-empty">No data found for query: {query}</div>
   }
 
   return (
