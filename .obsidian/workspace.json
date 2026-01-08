@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Extra/AI Prompts/Campaign Arcs.md",
+                "file": "z_Extra/AI Prompts/Campaign Foundation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Arcs"
+              "title": "Campaign Foundation"
             }
           }
         ]
@@ -259,11 +259,13 @@
       "remotely-save:Remotely Save": true,
       "obsidian-textgenerator-plugin:Generate Text!": true,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
-      "solo-rpg-toolkit:Solo RPG Toolkit": true
+      "solo-rpg-toolkit:Solo RPG Toolkit": true,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "69ff6cafa68fdd73",
   "lastOpenFiles": [
+    "z_Extra/AI Prompts/Campaign Arcs.md",
     "z_Scripts/Datacore/FilterTable.tsx",
     "z_Scripts/Datacore",
     "FilterTable.md",
@@ -274,7 +276,6 @@
     "z_Extra/AI Prompts/Settlement.md",
     "z_Extra/AI Prompts/Primary Villian.md",
     "z_Extra/AI Prompts/NPC.md",
-    "z_Extra/AI Prompts/Campaign Arcs.md",
     "z_Extra/AI Prompts/Campaign Foundation.md",
     "z_Extra/AI Prompts",
     "1. DM Stuff/Configuration.md",
@@ -287,7 +288,6 @@
     "z_Scripts/Dataview/views/npcRelationships.js",
     "z_Scripts/Dataview/views/monsterHarvesterTable.js",
     "z_Scripts/Dataview/utils/metaBindInput.js",
-    "z_Scripts/Dataview/views/locations.js",
     "4. World Almanac/NPCs/Arabelle (COS).md",
     "4. World Almanac/NPCs/Arrigal (COS).md",
     "3. The Party/Players/Marin.md",
