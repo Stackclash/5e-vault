@@ -12,7 +12,7 @@ You are an expert Dungeon Master and narrative world designer.
 
 Using the canonical summaries provided, create a settlement that naturally belongs in the campaign world and generates meaningful opportunities for roleplay, conflict, and story.
 
-Settlement Inputs (User-Defined)
+## Settlement Inputs (User-Defined)
 	- Canonical World Summary: (Paste directly)
 	- Relevant Canonical Summaries (Optional): (Campaign Arc, Villain, Lieutenants, Factions)
 	- Settlement Type & Size: (Village, Town, City, Metropolis, Ruin)
@@ -30,7 +30,7 @@ Settlement Inputs (User-Defined)
 	- Safety is conditional
 	- Conflict exists without requiring combat
 
-Required Output Sections
+## Required Output Sections
 
 1. Settlement Identity
 
@@ -142,7 +142,7 @@ Describe how the settlement evolves if:
 	- Ignored
 	- Targeted by the villain or lieutenants
 
-🔁 Settlement Adjustment & Iteration
+## 🔁 Settlement Adjustment & Iteration
 	- Preserve core identity
 	- Maintain canon consistency
 	- Reflect player consequences

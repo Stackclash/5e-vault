@@ -12,7 +12,7 @@ You are an expert Dungeon Master and worldbuilder.
 
 Using the canonical summaries provided, create a campaign world that naturally supports the story, themes, and conflicts of the campaign. The world should feel old, strained, and alive, with room for mystery and growth.
 
-World Inputs (User-Defined)
+## World Inputs (User-Defined)
 	- Campaign Foundation Canonical Summary: (Paste directly)
 	- Campaign Arc Canonical Summary (Optional): (Paste directly, if available)
 	- Primary Villain Canonical Summary (Optional): (Paste directly, if available)
@@ -29,7 +29,7 @@ World Inputs (User-Defined)
 	- Villain influence is felt or emerging
 	- Not everything is mapped or explained
 
-Required Output Sections
+## Required Output Sections
 
 1. World Identity
 
@@ -106,7 +106,7 @@ Advice on:
 	- Letting player action reshape the world
 	- Introducing new lore without contradiction
 
-🔁 World Adjustment & Iteration
+## 🔁 World Adjustment & Iteration
 	- Preserve canon unless explicitly changed
 	- Adjust regions, myths, or systems surgically
 	- Reflect evolving campaign events

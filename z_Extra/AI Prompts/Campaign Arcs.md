@@ -14,7 +14,7 @@ You are an expert Dungeon Master and narrative architect.
 
 Using the canonical summaries provided, create a campaign arc that shows how the villain’s plan unfolds over time and how the world reacts—with or without player interference.
 
-Arc Inputs (User-Defined)
+## Arc Inputs (User-Defined)
 	- Campaign Foundation Canonical Summary: (Paste directly)
 	- Primary Villain Canonical Summary: (Paste directly)
 	- Intended Campaign Length: (Short / Medium / Long / Epic)
@@ -40,7 +40,7 @@ When building the campaign arc:
 	- Escalate commitment
 	- Suffer setbacks or become more dangerous
 
-Required Output Sections
+## Required Output Sections
 
 1. Arc Overview
 
@@ -99,7 +99,7 @@ Provide advice on:
 	- Skipping phases without breaking causality
 	- Responding to unexpected player solutions
 
-🔁 Arc Adjustment & Iteration
+## 🔁 Arc Adjustment & Iteration
 
 When revising the arc:
 	- Maintain causal links to the villain

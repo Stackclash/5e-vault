@@ -34,7 +34,7 @@ When creating a side quest:
 	- Resolution must change something, even if subtly
 	- It must be easy to scale up or down
 
-Required Output Sections
+## Required Output Sections
 
 1. Side Quest Hook
 
@@ -107,7 +107,7 @@ Provide guidance on:
 	- Tying this quest back into the main arc
 	- Letting player solutions redefine the situation
 
-🔁 Side Quest Adjustment & Iteration
+## 🔁 Side Quest Adjustment & Iteration
 
 When revising the side quest:
 	- Preserve its thematic purpose

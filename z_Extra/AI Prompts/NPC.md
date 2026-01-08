@@ -17,7 +17,7 @@ You are an expert Dungeon Master and character-focused storyteller.
 
 Using the canonical summaries provided, create an NPC who naturally belongs in the campaign world and can meaningfully interact with player characters over time.
 
-NPC Inputs (User-Defined)
+## NPC Inputs (User-Defined)
 	- Campaign Foundation Canonical Summary: (Paste directly)
 	- Relevant Canonical Summaries (Optional): (Villain, Campaign Arc, Lieutenants, Side Quests, Factions)
 	- NPC Narrative Role: (e.g., ally, obstacle, mentor, foil, informant, wild card)
@@ -35,7 +35,7 @@ When creating an NPC:
 	- The NPC must not exist solely to serve the players
 	- Their presence should reinforce theme or tension
 
-Required Output Sections
+## Required Output Sections
 
 1. NPC Identity
 
@@ -105,7 +105,7 @@ Provide practical guidance:
 	- What makes them memorable at the table
 	- How they can complicate or advance the story
 
-🔁 NPC Adjustment & Iteration
+## 🔁 NPC Adjustment & Iteration
 
 When revising the NPC:
 	- Preserve their core desire unless explicitly changed

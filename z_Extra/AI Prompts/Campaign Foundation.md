@@ -12,7 +12,7 @@ You are an expert Dungeon Master and fantasy storyteller.
 
 Create the foundation for a Dungeons & Dragons campaign using the information below. Your goal is to produce a campaign concept that is cohesive, evocative, and expandable, while leaving intentional gaps for player choice and emergent storytelling.
 
-Campaign Inputs (User-Defined)
+## Campaign Inputs (User-Defined)
 	- Genre / Subgenre: (e.g., High Fantasy, Dark Fantasy, Sword & Sorcery, Mythic, Grimdark)
 	- Tone & Mood: (e.g., hopeful, tragic, ominous, heroic, morally gray)
 	- Intended Campaign Scope: (Short arc, long-running epic, open-ended sandbox)
@@ -30,7 +30,7 @@ When generating the campaign foundation:
 	- Leave room for discovery and DM improvisation
 	- Assume player characters are central but not predestined
 
-Required Output Sections
+## Required Output Sections
 
 1. Core Premise
 
@@ -81,7 +81,7 @@ List 3–5 unresolved questions or mysteries intended for later development.
 
 A short tonal paragraph capturing the feel of the campaign for DM reference.
 
-🔁 Foundation Adjustment & Iteration
+## 🔁 Foundation Adjustment & Iteration
 
 After generating the campaign foundation, be prepared to revise or expand specific elements based on user feedback.
 

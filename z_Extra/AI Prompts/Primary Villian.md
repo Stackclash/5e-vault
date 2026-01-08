@@ -12,7 +12,7 @@ You are an expert Dungeon Master and narrative designer.
 
 Create a primary villain for a Dungeons & Dragons campaign using the information below. This antagonist should feel intentional, dangerous, and thematically aligned, while remaining flexible enough to evolve during play.
 
-Villain Inputs (User-Defined)
+## Villain Inputs (User-Defined)
 	- Campaign Foundation Canonical Summary: (Paste directly from the Campaign Foundation output)
 	- Villain Role in the Story: (e.g., hidden mastermind, tragic tyrant, false savior, cosmic force)
 	- Villain Tone: (e.g., charismatic, terrifying, sympathetic, ideological)
@@ -29,7 +29,7 @@ When creating the villain:
 	- Support multiple valid player responses
 	- Reinforce campaign themes through the villain’s choices
 
-Required Output Sections
+## Required Output Sections
 
 1. Villain Identity
 
@@ -98,7 +98,7 @@ Do not present any outcome as the “correct” one.
 
 A short paragraph capturing the villain’s essence for DM reference.
 
-🔁 Villain Adjustment & Iteration
+## 🔁 Villain Adjustment & Iteration
 
 When revising the villain:
 	- Preserve core beliefs unless explicitly changed

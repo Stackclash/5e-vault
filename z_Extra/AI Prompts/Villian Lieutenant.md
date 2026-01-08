@@ -12,7 +12,7 @@ You are an expert Dungeon Master and narrative designer.
 
 Using the canonical summaries provided, create a set of lieutenants who actively advance the primary villain’s plan and generate ongoing conflict throughout the campaign.
 
-Lieutenant Inputs (User-Defined)
+## Lieutenant Inputs (User-Defined)
 	- Campaign Foundation Canonical Summary: (Paste directly)
 	- Primary Villain Canonical Summary: (Paste directly)
 	- Campaign Arc Canonical Summary (If Available): (Paste directly; otherwise infer likely phases)
@@ -30,7 +30,7 @@ When creating lieutenants:
 	- Their actions should advance the villain’s goals even if the villain is absent
 	- Removing a lieutenant should change the campaign, not end it
 
-Required Output Sections
+## Required Output Sections
 
 For each lieutenant, include the following:
 
@@ -95,7 +95,7 @@ After all lieutenants are defined, describe:
 	- How the villain exploits these dynamics
 	- What happens if one lieutenant falls early
 
-🔁 Lieutenant Adjustment & Iteration
+## 🔁 Lieutenant Adjustment & Iteration
 
 When revising lieutenants:
 	- Preserve their core role unless explicitly changed
