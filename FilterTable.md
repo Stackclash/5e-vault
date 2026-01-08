@@ -1,12 +1,12 @@
 ```datacoretsx
-const DataCoreTable = await dc.require(dc.headerLink("z_Scripts/Datacore/FilterTable.md", "FilterTable"))
-console.log(DataCoreTable)
+const {DatacoreTable} = await dc.require("z_Scripts/Datacore/FilterTable.tsx")
+
 
 return function View() {
     return (
-        <DataCoreTable 
-            query="notes where tags includes 'monster'" 
-            filterKeys={['level', 'tags', 'stats.hp']} 
+        <DatacoreTable 
+            query="@page and #spell" 
+            filterKeys={['level']} 
         />
     )
 }

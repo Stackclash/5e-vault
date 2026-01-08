@@ -1,5 +1,3 @@
-# FilterTable
-```tsx
 const DatacoreTable = ({ query, filterKeys }) => {
   const [data, setData] = dc.useState([]);
   const [filters, setFilters] = dc.useState({});
@@ -19,6 +17,7 @@ const DatacoreTable = ({ query, filterKeys }) => {
         
         // Convert result to array if needed
         const dataArray = Array.isArray(result) ? result : [result];
+        console.log(dataArray);
         setData(dataArray);
         
         setLoading(false);
@@ -396,4 +395,3 @@ const DatacoreTable = ({ query, filterKeys }) => {
 };
 
 return { DatacoreTable };
-```
