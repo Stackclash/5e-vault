@@ -5,7 +5,7 @@ active: true
 name: Redgrave
 level: 10
 ac: 24
-hp: 48
+hp: 73
 modifier: -1
 proficiency: 4
 url: https://dndbeyond.com/characters/29682199
