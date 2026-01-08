@@ -1,30 +1,11 @@
+# FilterTable
 ```tsx
-// Type definitions
-interface DatacoreItem {
-  [key: string]: any;
-}
-
-interface FilterConfig {
-  key: string;
-  type: 'string' | 'number' | 'array' | 'object' | 'boolean';
-  objectKeys?: string[];
-}
-
-interface FilterState {
-  [key: string]: any;
-}
-
-interface DatacoreTableProps {
-  query: string;
-  filterKeys: string[];
-}
-
-const DatacoreTable = ({ query, filterKeys }: DatacoreTableProps) => {
-  const [data, setData] = dc.useState<DatacoreItem[]>([]);
-  const [filters, setFilters] = dc.useState<FilterState>({});
-  const [filterConfigs, setFilterConfigs] = dc.useState<FilterConfig[]>([]);
-  const [loading, setLoading] = dc.useState<boolean>(true);
-  const [error, setError] = dc.useState<string | null>(null);
+const DatacoreTable = ({ query, filterKeys }) => {
+  const [data, setData] = dc.useState([]);
+  const [filters, setFilters] = dc.useState({});
+  const [filterConfigs, setFilterConfigs] = dc.useState([]);
+  const [loading, setLoading] = dc.useState(true);
+  const [error, setError] = dc.useState(null);
 
   // Fetch data from datacore query
   dc.useEffect(() => {
@@ -54,7 +35,7 @@ const DatacoreTable = ({ query, filterKeys }: DatacoreTableProps) => {
   dc.useEffect(() => {
     if (data.length === 0 || filterKeys.length === 0) return;
 
-    const configs: FilterConfig[] = filterKeys.map(key => {
+    const configs = filterKeys.map(key => {
       const sampleValue = data.find(item => item[key] !== undefined)?.[key];
       
       if (Array.isArray(sampleValue)) {
@@ -108,8 +89,8 @@ const DatacoreTable = ({ query, filterKeys }: DatacoreTableProps) => {
   }, [data, filters]);
 
   // Get unique values for array and string filters
-  const getUniqueValues = (key: string, isNested: boolean = false) => {
-    const values = new Set<any>();
+  const getUniqueValues = (key, isNested = false) => {
+    const values = new Set();
     const [mainKey, subKey] = key.split('.');
 
     data.forEach(item => {
@@ -125,7 +106,7 @@ const DatacoreTable = ({ query, filterKeys }: DatacoreTableProps) => {
   };
 
   // Update filter
-  const updateFilter = (key: string, value: any) => {
+  const updateFilter = (key, value) => {
     setFilters(prev => {
       if (!value || (Array.isArray(value) && value.length === 0)) {
         const { [key]: _, ...rest } = prev;
@@ -136,7 +117,7 @@ const DatacoreTable = ({ query, filterKeys }: DatacoreTableProps) => {
   };
 
   // Render filter input based on type
-  const renderFilter = (config: FilterConfig) => {
+  const renderFilter = (config) => {
     const { key, type } = config;
 
     switch (type) {
@@ -247,7 +228,7 @@ const DatacoreTable = ({ query, filterKeys }: DatacoreTableProps) => {
   // Get all columns from data
   const columns = dc.useMemo(() => {
     if (data.length === 0) return [];
-    const allKeys = new Set<string>();
+    const allKeys = new Set();
     data.forEach(item => {
       Object.keys(item).forEach(key => allKeys.add(key));
     });
@@ -255,7 +236,7 @@ const DatacoreTable = ({ query, filterKeys }: DatacoreTableProps) => {
   }, [data]);
 
   // Render cell value
-  const renderCellValue = (value: any): string => {
+  const renderCellValue = (value) => {
     if (value === null || value === undefined) {
       return '';
     }
@@ -414,5 +395,5 @@ const DatacoreTable = ({ query, filterKeys }: DatacoreTableProps) => {
   );
 };
 
-export default DatacoreTable;
+return { DatacoreTable };
 ```
