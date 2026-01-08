@@ -40,7 +40,7 @@ dislikes: null
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`
 > ```dataviewjs
-> await dv.view('imageCarousel', {current: dv.current()})
+> await dv.view('views/imageCarousel', {current: dv.current()})
 > ```
 > ```meta-bind
 > INPUT[imageListSuggester(optionQuery("/"),class(hide-image)):images]

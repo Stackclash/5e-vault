@@ -266,12 +266,17 @@
   },
   "active": "377b9604aaf76be3",
   "lastOpenFiles": [
+    "z_Scripts/Dataview/utils",
+    "4. World Almanac/NPCs/Arabelle (COS).md",
+    "4. World Almanac/NPCs/Arrigal (COS).md",
+    "3. The Party/Parties/Curse of Strahd.md",
+    "z_Scripts/Dataview/views/imageCarousel.js",
+    "z_Scripts/Dataview/views",
     "Players.base",
     "3. The Party/Players/Marin.md",
     "3. The Party/Players/Faerah Duskrane.md",
     "Untitled.md",
     "5. Mechanics/Races/Warforged.md",
-    "3. The Party/Parties/Curse of Strahd.md",
     "4. World Almanac/Places of Interest/Yester Hill.md",
     "1. DM Stuff/Configuration.md",
     "3. The Party/Parties/Test Party.md",
@@ -306,10 +311,6 @@
     "5. Mechanics/Decks/Deck Of Many Things.md",
     "5. Mechanics/Decks/Decks.md",
     "Untitled 2.md",
-    "4. World Almanac/NPCs/test.md",
-    "4. World Almanac/NPCs/Test.md",
-    "Untitled 1.md",
-    "z_Scripts/Dataview/travelTimes.js",
-    "1. DM Stuff/Tools/Story Engine/Story Engine"
+    "4. World Almanac/NPCs/test.md"
   ]
 }
