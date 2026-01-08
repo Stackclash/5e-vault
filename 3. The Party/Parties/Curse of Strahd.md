@@ -118,7 +118,6 @@ return function View() {
 ```
 
 ## **Characters**
-![[Players.base#Cards]]
 > [!cards|dataview 3]
 >```dataview
 > TABLE WITHOUT ID
