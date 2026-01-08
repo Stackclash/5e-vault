@@ -245,8 +245,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "69ff6cafa68fdd73",
+  "active": "3e8e6e385607f052",
   "lastOpenFiles": [
+    "z_Scripts/Datacore/FilterTable.tsx",
+    "z_Scripts/Datacore",
     "z_Extra/AI Prompts/Campaign Foundation.md",
     "z_Extra/AI Prompts/Campaign Arcs.md",
     "Players.base",
@@ -268,7 +270,6 @@
     "z_Scripts/Dataview/views/npcRelationships.js",
     "z_Scripts/Dataview/views/monsterHarvesterTable.js",
     "z_Scripts/Dataview/utils/metaBindInput.js",
-    "z_Scripts/Dataview/views/locations.js",
     "4. World Almanac/NPCs/Arabelle (COS).md",
     "4. World Almanac/NPCs/Arrigal (COS).md",
     "3. The Party/Players/Marin.md",
