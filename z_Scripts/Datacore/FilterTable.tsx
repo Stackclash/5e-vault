@@ -33,7 +33,7 @@ function flattenFrontmatter(
 
 // Extract filters from notes and cache them
 function useExtractedFilters(notes: any[], filterKeys: string[]) {
-  return useMemo(() => {
+  return dc.useMemo(() => {
     const filters: Record<
       string,
       { type: "multi" | "range" | "single"; options?: Set<any>; min?: number; max?: number }
@@ -74,12 +74,12 @@ function useExtractedFilters(notes: any[], filterKeys: string[]) {
 // ------------------------
 // Component
 // ------------------------
-export function DataCoreTable({ query, filterKeys }: DataCoreTableProps) {
-  const [notes, setNotes] = useState<any[]>([]);
-  const [activeFilters, setActiveFilters] = useState<Record<string, any>>({});
+export function FilterTable({ query, filterKeys }: DataCoreTableProps) {
+  const [notes, setNotes] = dc.useState<any[]>([]);
+  const [activeFilters, setActiveFilters] = dc.useState<Record<string, any>>({});
 
   // Fetch notes from Datacore
-  useEffect(() => {
+  dc.useEffect(() => {
     const results = window.datacore.query(query); // pseudo-call
     setNotes(results);
   }, [query]);
@@ -87,7 +87,7 @@ export function DataCoreTable({ query, filterKeys }: DataCoreTableProps) {
   const filters = useExtractedFilters(notes, filterKeys);
 
   // Filter notes based on active filters
-  const filteredNotes = useMemo(() => {
+  const filteredNotes = dc.useMemo(() => {
     return notes.filter(note => {
       const flatFront = flattenFrontmatter(note.frontmatter || {});
       return Object.entries(activeFilters).every(([key, value]) => {
