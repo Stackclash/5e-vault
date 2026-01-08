@@ -128,7 +128,7 @@ tags:
 # `=this.file.name`
 ## Inventory
 ```dataviewjs
-await dv.view("shopInventory", {current: dv.current()})
+await dv.view("views/shopInventory", {current: dv.current()})
 ```
 <%* } else { -%>
 

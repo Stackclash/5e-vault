@@ -266,6 +266,7 @@
   },
   "active": "377b9604aaf76be3",
   "lastOpenFiles": [
+    "z_Scripts/Dataview/views/npcsInLocation.js",
     "z_Scripts/Dataview/views/npcRelationships.js",
     "z_Scripts/Dataview/views/monsterHarvesterTable.js",
     "z_Scripts/Dataview/utils/metaBindInput.js",
@@ -279,7 +280,6 @@
     "3. The Party/Parties/Curse of Strahd.md",
     "z_Scripts/Dataview/views/imageCarousel.js",
     "z_Scripts/Dataview/views",
-    "Players.base",
     "3. The Party/Players/Marin.md",
     "3. The Party/Players/Faerah Duskrane.md",
     "Untitled.md",
