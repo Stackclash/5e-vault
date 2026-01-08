@@ -11,13 +11,14 @@
             "id": "69ff6cafa68fdd73",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Players.base",
-                "viewName": "Table"
+                "file": "FilterTable.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Players"
+              "icon": "lucide-file",
+              "title": "FilterTable"
             }
           }
         ]
@@ -193,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players.base",
+                "file": "FilterTable.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Players"
+              "title": "Outline of FilterTable"
             }
           },
           {
@@ -245,14 +246,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3e8e6e385607f052",
+  "active": "69ff6cafa68fdd73",
   "lastOpenFiles": [
+    "Players.base",
     "FilterTable.md",
     "z_Scripts/Datacore/FilterTable.tsx",
     "z_Scripts/Datacore",
     "z_Extra/AI Prompts/Campaign Foundation.md",
     "z_Extra/AI Prompts/Campaign Arcs.md",
-    "Players.base",
     "3. The Party/Players/Redgrave.md",
     "z_Extra/AI Prompts/World.md",
     "z_Extra/AI Prompts/Villian Lieutenant.md",
@@ -282,7 +283,6 @@
     "5. Mechanics/Races/Elf Drow.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "3. The Party/Quests/Test Quest.md",
-    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
     "5. Mechanics/Decks/Tarot/20-Judgement.png",
     "5. Mechanics/Decks/Tarot/19-TheSun.png",

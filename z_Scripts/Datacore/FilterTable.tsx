@@ -74,7 +74,7 @@ function useExtractedFilters(notes: any[], filterKeys: string[]) {
 // ------------------------
 // Component
 // ------------------------
-export function FilterTable({ query, filterKeys }: DataCoreTableProps) {
+function FilterTable({ query, filterKeys }: DataCoreTableProps) {
   const [notes, setNotes] = dc.useState<any[]>([]);
   const [activeFilters, setActiveFilters] = dc.useState<Record<string, any>>({});
 
@@ -222,3 +222,5 @@ export function FilterTable({ query, filterKeys }: DataCoreTableProps) {
     </div>
   );
 }
+
+return { FilterTable }
