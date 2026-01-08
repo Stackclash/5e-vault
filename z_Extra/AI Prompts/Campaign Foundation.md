@@ -20,7 +20,6 @@ Create the foundation for a Dungeons & Dragons campaign using the information be
 -  Hard Constraints (Optional): (Things that must or must not exist in the campaign)
 
 ### Generation Guidelines
-
 When generating the campaign foundation:
 -  Prioritize story momentum and player relevance
 -  Present conflicts, not solutions
@@ -29,7 +28,6 @@ When generating the campaign foundation:
 -  Assume player characters are central but not predestined
 
 ### Required Output Sections
-
 1. Core Premise
 
 A concise but evocative summary of the campaign’s central idea and why the world is in motion now.

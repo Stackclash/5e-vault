@@ -21,7 +21,6 @@ Side Quest Inputs (User-Defined)
 -  Constraints (Optional): (Locations, NPCs, themes to include or avoid)
 
 ### Core Design Rules (Hard Requirements)
-
 When creating a side quest:
 -  It must connect to at least one of the following:
 -  The villain’s plan or its consequences
@@ -33,7 +32,6 @@ When creating a side quest:
 -  It must be easy to scale up or down
 
 ### Required Output Sections
-
 1. Side Quest Hook
 
 Describe how the quest enters play:

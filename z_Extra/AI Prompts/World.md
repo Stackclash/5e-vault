@@ -26,9 +26,7 @@ Using the canonical summaries provided, create a campaign world that naturally s
 -  Power structures are uneven and contested
 -  Villain influence is felt or emerging
 -  Not everything is mapped or explained
-
 ### Required Output Sections
-
 1. World Identity
 
 Name of the world and a brief description of its defining character.

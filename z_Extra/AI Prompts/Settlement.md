@@ -29,7 +29,6 @@ Using the canonical summaries provided, create a settlement that naturally belon
 -  Conflict exists without requiring combat
 
 ### Required Output Sections
-
 1. Settlement Identity
 
 Name, size, and a brief description capturing the settlement’s character.

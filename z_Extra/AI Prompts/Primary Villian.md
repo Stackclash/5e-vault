@@ -28,7 +28,6 @@ When creating the villain:
 -  Reinforce campaign themes through the villain’s choices
 
 ### Required Output Sections
-
 1. Villain Identity
 
 Name, title, and public perception.

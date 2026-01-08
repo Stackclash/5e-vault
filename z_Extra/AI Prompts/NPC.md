@@ -25,7 +25,6 @@ Using the canonical summaries provided, create an NPC who naturally belongs in t
 -  Constraints (Optional): (Race, profession, location, traits to include or exclude)
 
 ### Core Design Rules (Hard Requirements)
-
 When creating an NPC:
 -  The NPC must want something
 -  The NPC must be affected by campaign-level forces
@@ -34,7 +33,6 @@ When creating an NPC:
 -  Their presence should reinforce theme or tension
 
 ### Required Output Sections
-
 1. NPC Identity
 
 Name, title or role, and how they are commonly perceived.

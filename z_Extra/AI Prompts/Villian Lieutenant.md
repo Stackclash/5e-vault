@@ -20,7 +20,6 @@ Using the canonical summaries provided, create a set of lieutenants who actively
 -  Constraints (Optional): (Traits, roles, or concepts to include or exclude)
 
 ### Core Design Rules (Hard Requirements)
-
 When creating lieutenants:
 -  Each lieutenant must represent a distinct aspect of the villain’s plan
 -  No two lieutenants should fill the same narrative role
@@ -29,7 +28,6 @@ When creating lieutenants:
 -  Removing a lieutenant should change the campaign, not end it
 
 ### Required Output Sections
-
 For each lieutenant, include the following:
 
 Lieutenant X: Name & Title
