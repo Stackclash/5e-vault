@@ -30,5 +30,5 @@ image: z_Assets/Locations/Maps/Amber Temple 2.webp
 > `INPUT[number:unitCount]`
 
 ```dataviewjs
-await dv.view('leafletConfig', {current:dv.current()})
+await dv.view('utils/leafletConfig', {current:dv.current()})
 ```

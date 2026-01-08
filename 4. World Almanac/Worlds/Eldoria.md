@@ -8,4 +8,4 @@ tags:
 ---
 
 `INPUT[number(title("Economic Scale")):economic_scale]`
-`$=await dv.view("locations", {current: dv.current()})`
+`$=await dv.view("views/locations", {current: dv.current()})`

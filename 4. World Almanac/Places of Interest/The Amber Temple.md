@@ -77,7 +77,7 @@ tags:
 >     templateFile: "z_Templates/Templater/Functional/Remove Travel Distance.md"
 > ```
 
-`$= await dv.view("locationBreadcrumbs", {current: dv.current()})`
+`$= await dv.view("views/locationBreadcrumbs", {current: dv.current()})`
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
 TBD
@@ -122,7 +122,7 @@ TBD
 > darkMode: false
 > ```
 
-`$=await dv.view("locations", {current: dv.current()})`
+`$=await dv.view("views/locations", {current: dv.current()})`
 
 `$=await dv.view("npcsInLocation", {current: dv.current()})`
 
