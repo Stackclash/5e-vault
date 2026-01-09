@@ -12,31 +12,36 @@
         "rule": "1. DM Stuff/Calculators",
         "icon": "FasCalculator",
         "for": "everything",
-        "order": 0
+        "order": 0,
+        "useFilePath": true
       },
       {
         "rule": "1. DM Stuff/Session Journals",
         "icon": "RaBook",
         "for": "everything",
-        "order": 0
+        "order": 1,
+        "useFilePath": true
       },
       {
         "rule": "1. DM Stuff/Session Prep",
         "icon": "LiRoute",
         "for": "everything",
-        "order": 2
+        "order": 2,
+        "useFilePath": true
       },
       {
         "rule": "1. DM Stuff/Tools",
         "icon": "FasWrench",
         "for": "everything",
-        "order": 3
+        "order": 3,
+        "useFilePath": true
       },
       {
         "rule": "1. DM Stuff/DM Screen",
         "icon": "RaDeathSkull",
         "for": "everything",
-        "order": 4
+        "order": 4,
+        "useFilePath": true
       },
       {
         "rule": "1. DM Stuff",
@@ -56,7 +61,8 @@
         "rule": "3. The Party/Players",
         "icon": "RaPlayer",
         "for": "everything",
-        "order": 7
+        "order": 7,
+        "useFilePath": true
       },
       {
         "rule": "3. The Party",
@@ -76,25 +82,29 @@
         "rule": "4. World Almanac/Places of Interest",
         "icon": "FasMapPin",
         "for": "everything",
-        "order": 10
+        "order": 10,
+        "useFilePath": true
       },
       {
         "rule": "4. World Almanac/Regions",
         "icon": "🗺",
         "for": "everything",
-        "order": 11
+        "order": 11,
+        "useFilePath": true
       },
       {
         "rule": "4. World Almanac/Settlements",
         "icon": "FasHouse",
         "for": "everything",
-        "order": 12
+        "order": 12,
+        "useFilePath": true
       },
       {
         "rule": "4. World Almanac/Shops",
         "icon": "FasShop",
         "for": "everything",
-        "order": 13
+        "order": 13,
+        "useFilePath": true
       },
       {
         "rule": "4. World Almanac",
