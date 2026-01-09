@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Party/Parties/Curse of Strahd.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -280,9 +280,10 @@
   },
   "active": "b10ca0dbdf01d5a7",
   "lastOpenFiles": [
+    "1. DM Stuff/Configuration.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "z_Scripts/Dataview/views/partyLocation.js",
     "z_Scripts/Dataview/views/partyLocation",
-    "1. DM Stuff/Configuration.md",
     "FilterTable.md",
     "z_Scripts/Datacore/PartyLocation.tsx",
     "z_Extra/AI Prompts/Campaign Foundation.md",
@@ -299,11 +300,9 @@
     "z_Extra/AI Prompts",
     "1. DM Stuff/Session Prep/Curse of Strahd/2024-03-30.md",
     "z_Scripts/Dataview/views/encounterBenchmark.js",
-    "3. The Party/Parties/Curse of Strahd.md",
     "z_Scripts/Dataview/views/travelTimes.js",
     "z_Scripts/Dataview/views/shopInventory.js",
     "z_Scripts/Dataview/views/npcsInLocation.js",
-    "z_Scripts/Dataview/views/npcRelationships.js",
     "4. World Almanac/NPCs/Arabelle (COS).md",
     "4. World Almanac/NPCs/Arrigal (COS).md",
     "3. The Party/Players/Marin.md",
