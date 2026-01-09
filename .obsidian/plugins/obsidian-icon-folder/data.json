@@ -14,7 +14,7 @@
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
-        "rule": "4\\. World Almanac\\NPCs\\.*",
+        "rule": "z_Extra/.",
         "icon": "FasPerson",
         "for": "everything",
         "order": 0,
