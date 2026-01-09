@@ -1,4 +1,4 @@
-return function View() {
+return function PartyLocation() {
   const currentPage = dc.useCurrentFile()
   const players = dc.useQuery(
     `@page and #player and connected(${currentPage.$link}) and active`
