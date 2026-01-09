@@ -11,11 +11,11 @@
   "enableSuggestor": true,
   "selectors": [
     {
-      "type": "tag",
+      "type": "path",
       "name": "",
-      "value": "npc",
+      "value": "4. World Almanac/NPCs",
       "matchCaseSensitive": false,
-      "match": "exact",
+      "match": "contains",
       "uid": "0869-2643",
       "selectText": false,
       "selectAppend": false,
