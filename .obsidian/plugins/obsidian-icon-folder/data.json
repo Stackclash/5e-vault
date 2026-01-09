@@ -101,7 +101,8 @@
         "rule": "4\\. World Almanac\\/NPCs.*",
         "icon": "FasPerson",
         "for": "everything",
-        "order": 12
+        "order": 12,
+        "useFilePath": true
       }
     ],
     "extraMargin": {
