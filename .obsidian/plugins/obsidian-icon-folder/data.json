@@ -9,142 +9,148 @@
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
+        "rule": "1. DM Stuff/Calculators",
+        "icon": "FasCalculator",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "1. DM Stuff/Session Journals",
+        "icon": "RaBook",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "1. DM Stuff/Session Prep",
+        "icon": "LiRoute",
+        "for": "everything",
+        "order": 2
+      },
+      {
+        "rule": "1. DM Stuff/Tools",
+        "icon": "FasWrench",
+        "for": "everything",
+        "order": 3
+      },
+      {
+        "rule": "1. DM Stuff/DM Screen",
+        "icon": "RaDeathSkull",
+        "for": "everything",
+        "order": 4
+      },
+      {
         "rule": "1. DM Stuff",
         "icon": "RaCrystalBall",
         "for": "everything",
-        "order": 0,
+        "order": 5,
         "useFilePath": true
       },
       {
         "rule": "2. Scratch Notes",
         "icon": "FasNoteSticky",
         "for": "everything",
-        "order": 1,
+        "order": 6,
         "useFilePath": true
+      },
+      {
+        "rule": "3. The Party/Players",
+        "icon": "RaPlayer",
+        "for": "everything",
+        "order": 7
       },
       {
         "rule": "3. The Party",
         "icon": "FasPeopleGroup",
         "for": "everything",
-        "order": 2,
+        "order": 8,
         "useFilePath": true
       },
       {
         "rule": "4. World Almanac/NPCs",
         "icon": "FasPerson",
         "for": "everything",
-        "order": 3,
+        "order": 9,
         "useFilePath": true
+      },
+      {
+        "rule": "4. World Almanac/Places of Interest",
+        "icon": "FasMapPin",
+        "for": "everything",
+        "order": 10
+      },
+      {
+        "rule": "4. World Almanac/Regions",
+        "icon": "🗺",
+        "for": "everything",
+        "order": 11
+      },
+      {
+        "rule": "4. World Almanac/Settlements",
+        "icon": "FasHouse",
+        "for": "everything",
+        "order": 12
+      },
+      {
+        "rule": "4. World Almanac/Shops",
+        "icon": "FasShop",
+        "for": "everything",
+        "order": 13
       },
       {
         "rule": "4. World Almanac",
         "icon": "FasGlobe",
         "for": "everything",
-        "order": 4,
+        "order": 14,
         "useFilePath": true
       },
       {
         "rule": "5. Mechanics",
         "icon": "FasScrewdriverWrench",
         "for": "everything",
-        "order": 5,
+        "order": 15,
         "useFilePath": true
       },
       {
         "rule": "6. Resources",
         "icon": "FasFileImport",
         "for": "everything",
-        "order": 6,
+        "order": 16,
         "useFilePath": true
       },
       {
         "rule": "z_Assets/Music",
         "icon": "FasFileAudio",
         "for": "everything",
-        "order": 7,
+        "order": 17,
         "useFilePath": true
       },
       {
         "rule": "z_Assets",
         "icon": "FasImages",
         "for": "everything",
-        "order": 8,
-        "useFilePath": true
-      },
-      {
-        "rule": "z_Scripts",
-        "icon": "FasCode",
-        "for": "everything",
-        "order": 9,
-        "useFilePath": true
-      },
-      {
-        "rule": "z_Templates",
-        "icon": "FasFileLines",
-        "for": "everything",
-        "order": 10,
+        "order": 18,
         "useFilePath": true
       },
       {
         "rule": "z_Extra",
         "icon": "FasBomb",
         "for": "everything",
-        "order": 11,
+        "order": 19,
         "useFilePath": true
       },
       {
-        "rule": "1. DM Stuff/Calculators",
-        "icon": "FasCalculator",
+        "rule": "z_Scripts",
+        "icon": "FasCode",
         "for": "everything",
-        "order": 12
+        "order": 20,
+        "useFilePath": true
       },
       {
-        "rule": "1. DM Stuff/Tools",
-        "icon": "FasWrench",
+        "rule": "z_Templates",
+        "icon": "FasFileLines",
         "for": "everything",
-        "order": 13
-      },
-      {
-        "rule": "1. DM Stuff/Session Prep",
-        "icon": "LiRoute",
-        "for": "everything",
-        "order": 14
-      },
-      {
-        "rule": "1. DM Stuff/Session Journals",
-        "icon": "RaBook",
-        "for": "everything",
-        "order": 15
-      },
-      {
-        "rule": "1. DM Stuff/DM Screen",
-        "icon": "RaDeathSkull",
-        "for": "everything",
-        "order": 16
-      },
-      {
-        "rule": "3. The Party/Players",
-        "icon": "RaPlayer",
-        "for": "everything",
-        "order": 17
-      },
-      {
-        "rule": "4. World Almanac/Places of Interest",
-        "icon": "FasMapPin",
-        "for": "everything",
-        "order": 18
-      },
-      {
-        "rule": "4. World Almanac/Regions",
-        "icon": "🗺",
-        "for": "everything",
-        "order": 19
-      },
-      {
-        "rule": "4. World Almanac/Settlements",
-        "icon": "FasHouse",
-        "for": "everything",
-        "order": 20
+        "order": 21,
+        "useFilePath": true
       }
     ],
     "extraMargin": {
