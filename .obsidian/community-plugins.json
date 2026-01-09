@@ -20,7 +20,6 @@
   "obsidian-admonition",
   "obsidian-5e-statblocks",
   "obsidian-image-toolkit",
-  "obsidian-icon-folder",
   "initiative-tracker",
   "js-engine",
   "obsidian-import-json",
@@ -33,5 +32,6 @@
   "various-complements",
   "datacore",
   "dnd-ui-toolkit",
-  "solo-rpg-toolkit"
+  "solo-rpg-toolkit",
+  "supercharged-links-obsidian"
 ]

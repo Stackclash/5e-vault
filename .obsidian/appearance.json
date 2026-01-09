@@ -1,7 +1,6 @@
 {
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
-    "booksanity",
     "dnd5e-compendium",
     "ITS-Theme",
     "metabind-tabs",
@@ -12,6 +11,7 @@
     "supercharged-links-gen",
     "TabsInObsidian",
     "zatannamisdirection",
-    "Custom Styles"
+    "Custom Styles",
+    "booksanity"
   ]
 }
