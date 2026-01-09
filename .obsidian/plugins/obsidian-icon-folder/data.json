@@ -203,6 +203,12 @@
         "icon": "FasList",
         "for": "everything",
         "order": 28
+      },
+      {
+        "rule": "5. Mechanics/Races",
+        "icon": "RaElf",
+        "for": "everything",
+        "order": 29
       }
     ],
     "extraMargin": {
