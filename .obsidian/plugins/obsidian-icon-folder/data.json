@@ -9,6 +9,20 @@
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
+        "rule": "4. World Almanac/Shops",
+        "icon": "FasShop",
+        "for": "everything",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "rule": "4. World Almanac",
+        "icon": "FasGlobe",
+        "for": "everything",
+        "order": 2,
+        "useFilePath": true
+      },
+      {
         "rule": "4\\. World Almanac/NPCs",
         "icon": "FasPerson",
         "for": "everything",
@@ -16,17 +30,10 @@
         "useFilePath": true
       },
       {
-        "rule": "4. World Almanac",
-        "icon": "FasGlobe",
-        "for": "everything",
-        "order": 0,
-        "useFilePath": true
-      },
-      {
         "rule": "5. Mechanics",
         "icon": "FasGear",
         "for": "everything",
-        "order": 2
+        "order": 3
       }
     ],
     "extraMargin": {
@@ -38,7 +45,7 @@
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
-    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterEnabled": true,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
