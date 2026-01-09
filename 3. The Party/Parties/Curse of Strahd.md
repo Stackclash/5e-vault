@@ -33,8 +33,6 @@ travel_calc: 19.999333355554814
 > await dv.view('views/encounterBenchmark', { current: dv.current() })
 > ```
 
-`$= await dv.view('partyLocation', { current: dv.current() })`
-
 ## **Characters**
 > [!cards|dataview 3]
 >```dataview

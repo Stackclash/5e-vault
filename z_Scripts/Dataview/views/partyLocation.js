@@ -3,36 +3,49 @@ const players = dv.pages('#player').filter(p => p.party.path === currentPage.fil
 const locations = dv.pages('#location').sort(l => l.file.name)
 
 const getCurrentLocation = () => {
-    const locationLinks = players.map(p => p.location).filter(l => l != null)
-    const firstLocation = locationLinks.length > 0 ? locationLinks[0] : null
-    console.log('Location links:', locationLinks)
-    const same = players.every(p => p.location && p.location.path === firstLocation.path)
-    return same ? firstLocation.toString() : null
+    if (players.length === 0) return null
+
+    const locationLinks = players
+        .map(p => p.location)
+        .filter(l => l && l.path)
+
+    if (locationLinks.length === 0) return null
+
+    const first = locationLinks[0]
+    const same = locationLinks.every(l => l.path === first.path)
+
+    return same ? first.toString() : null
 }
 
-const currentLocation = getCurrentLocation() || ''
+const currentLocation = getCurrentLocation()
 
-const select = document.createElement('select')
+const select = document.createElement('select');
+
+const defaultOption = document.createElement('option');
+defaultOption.value = '';
+defaultOption.text = 'Various Locations';
+defaultOption.selected = currentLocation === null || currentLocation === '';
+select.appendChild(defaultOption);
+
 locations.forEach(l => {
-    const option = document.createElement('option')
-    option.value = l.file.link.toString()
-    option.text = l.file.name
-    select.appendChild(option)
-})
+    const option = document.createElement('option');
+    option.value = l.file.link.toString();
+    option.text = l.file.name;
+    option.selected = currentLocation && option.value === currentLocation.toString();
+    select.appendChild(option);
+});
 
-select.addEventListener('change', (e) => {
-    const newLocationPath = e.target.value
+select.addEventListener('change', e => {
+    const newLocation = e.target.value;
+
     players.forEach(p => {
-        const tfile = app.vault.getAbstractFileByPath(p.file.path)
-        if (tfile instanceof obsidian.TFile) {
-            app.fileManager.processFrontMatter(tfile, fm => {
-                fm.location = newLocationPath
-            })
+        const file = app.vault.getAbstractFileByPath(p.file.path);
+        if (file instanceof obsidian.TFile) {
+            app.fileManager.processFrontMatter(file, fm => {
+                fm.location = newLocation;
+            });
         }
-    })
-})
-const div = document.createElement('div')
-div.textContent = `Current Location: ${currentLocation || 'Various Locations'}`
-dv.container.appendChild(div)
-console.log(dv.container)
-dv.container.appendChild(select)
+    });
+});
+
+dv.container.appendChild(select);
