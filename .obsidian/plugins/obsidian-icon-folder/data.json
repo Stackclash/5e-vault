@@ -7,7 +7,28 @@
     "iconColor": null,
     "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": "4\\. World Almanac/NPCs",
+        "icon": "FasPerson",
+        "for": "everything",
+        "order": 1,
+        "useFilePath": true
+      },
+      {
+        "rule": "4. World Almanac",
+        "icon": "FasGlobe",
+        "for": "everything",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics",
+        "icon": "FasGear",
+        "for": "everything",
+        "order": 2
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
