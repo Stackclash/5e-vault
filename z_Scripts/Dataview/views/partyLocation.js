@@ -31,6 +31,8 @@ select.addEventListener('change', (e) => {
         }
     })
 })
-console.log(document)
-
-document.appendChild(select)
+const div = document.createElement('div')
+div.textContent = `Current Location: ${currentLocation || 'Various Locations'}`
+dv.container.appendChild(div)
+console.log(dv.container)
+dv.container.appendChild(select)
