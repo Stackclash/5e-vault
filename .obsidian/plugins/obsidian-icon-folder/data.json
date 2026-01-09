@@ -87,7 +87,7 @@
       },
       {
         "rule": "4. World Almanac/Regions",
-        "icon": "🗺",
+        "icon": "LiLandPlot",
         "for": "everything",
         "order": 11,
         "useFilePath": true
@@ -161,6 +161,24 @@
         "for": "everything",
         "order": 21,
         "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Backgrounds",
+        "icon": "LiSwords",
+        "for": "everything",
+        "order": 22
+      },
+      {
+        "rule": "5. Mechanics/Bestiary",
+        "icon": "FasScroll",
+        "for": "everything",
+        "order": 23
+      },
+      {
+        "rule": "5. Mechanics/Decks",
+        "icon": "RaSpadesCard",
+        "for": "everything",
+        "order": 24
       }
     ],
     "extraMargin": {
