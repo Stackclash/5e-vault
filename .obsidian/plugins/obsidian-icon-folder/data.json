@@ -179,6 +179,30 @@
         "icon": "RaSpadesCard",
         "for": "everything",
         "order": 24
+      },
+      {
+        "rule": "5. Mechanics/Deities",
+        "icon": "RaIncense",
+        "for": "everything",
+        "order": 25
+      },
+      {
+        "rule": "5. Mechanics/Feats",
+        "icon": "RaDragon",
+        "for": "everything",
+        "order": 26
+      },
+      {
+        "rule": "5. Mechanics/Items",
+        "icon": "RaKettlebell",
+        "for": "everything",
+        "order": 27
+      },
+      {
+        "rule": "5. Mechanics/Lists",
+        "icon": "RaMonsterSkull",
+        "for": "everything",
+        "order": 28
       }
     ],
     "extraMargin": {
