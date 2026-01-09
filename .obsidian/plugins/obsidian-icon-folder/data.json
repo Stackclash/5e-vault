@@ -209,6 +209,42 @@
         "icon": "RaElf",
         "for": "everything",
         "order": 29
+      },
+      {
+        "rule": "5. Mechanics/Rewards",
+        "icon": "RaTrophy",
+        "for": "everything",
+        "order": 30
+      },
+      {
+        "rule": "5. Mechanics/Rules",
+        "icon": "FasCheck",
+        "for": "everything",
+        "order": 31
+      },
+      {
+        "rule": "5. Mechanics/Spells",
+        "icon": "RaLightningBolt",
+        "for": "everything",
+        "order": 32
+      },
+      {
+        "rule": "5. Mechanics/Tables",
+        "icon": "FasTableList",
+        "for": "everything",
+        "order": 33
+      },
+      {
+        "rule": "5. Mechanics/Traps Hazards",
+        "icon": "RaBearTrap",
+        "for": "everything",
+        "order": 34
+      },
+      {
+        "rule": "5. Mechanics/Vehicles",
+        "icon": "RaHorseshoe",
+        "for": "everything",
+        "order": 35
       }
     ],
     "extraMargin": {
