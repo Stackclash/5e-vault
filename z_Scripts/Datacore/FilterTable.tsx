@@ -32,7 +32,7 @@ const DatacoreTable = ({ query, filterKeys }) => {
     if (data.length === 0 || filterKeys.length === 0) return
 
     const configs = filterKeys.map(key => {
-      const sampleValue = data.find(item => item.$frontmatter[key].value !== undefined)?.$frontmatter[key].value
+      const sampleValue = data.find(item => item.$frontmatter[key]?.value !== undefined)?.$frontmatter[key]?.value
       
       if (Array.isArray(sampleValue)) {
         return { key, type: 'array' }
