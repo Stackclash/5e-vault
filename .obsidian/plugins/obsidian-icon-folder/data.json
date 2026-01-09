@@ -103,6 +103,36 @@
         "icon": "FasWrench",
         "for": "everything",
         "order": 13
+      },
+      {
+        "rule": "1. DM Stuff/Session Prep",
+        "icon": "LiRoute",
+        "for": "everything",
+        "order": 14
+      },
+      {
+        "rule": "1. DM Stuff/Session Journals",
+        "icon": "RaBook",
+        "for": "everything",
+        "order": 15
+      },
+      {
+        "rule": "1. DM Stuff/DM Screen",
+        "icon": "RaDeathSkull",
+        "for": "everything",
+        "order": 16
+      },
+      {
+        "rule": "3. The Party/Players",
+        "icon": "RaPlayer",
+        "for": "everything",
+        "order": 17
+      },
+      {
+        "rule": "4. World Almanac/Places of Interest",
+        "icon": "FasMapPin",
+        "for": "everything",
+        "order": 18
       }
     ],
     "extraMargin": {
