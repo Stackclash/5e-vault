@@ -11,14 +11,13 @@
             "id": "0b1da3c7f957b405",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "1. DM Stuff/Configuration.md",
-                "mode": "preview",
-                "source": false
+                "file": "Players.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Configuration"
+              "icon": "lucide-table",
+              "title": "Players"
             }
           }
         ]
@@ -265,11 +264,13 @@
   },
   "active": "0b1da3c7f957b405",
   "lastOpenFiles": [
-    "3. The Party/Parties/Curse of Strahd.md",
+    "FilterTable.md",
+    "Players.base",
+    "4. World Almanac/Places of Interest/Argynvostholt.md",
     "1. DM Stuff/Configuration.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "z_Scripts/Dataview/views/partyLocation.js",
     "z_Scripts/Dataview/views/partyLocation",
-    "FilterTable.md",
     "z_Scripts/Datacore/PartyLocation.tsx",
     "z_Extra/AI Prompts/Campaign Foundation.md",
     "z_Extra/AI Prompts/Campaign Arcs.md",
@@ -287,7 +288,6 @@
     "z_Scripts/Dataview/views/encounterBenchmark.js",
     "z_Scripts/Dataview/views/travelTimes.js",
     "z_Scripts/Dataview/views/shopInventory.js",
-    "z_Scripts/Dataview/views/npcsInLocation.js",
     "4. World Almanac/NPCs/Arabelle (COS).md",
     "4. World Almanac/NPCs/Arrigal (COS).md",
     "3. The Party/Players/Marin.md",
@@ -299,7 +299,6 @@
     "3. The Party/Players/Yevelda Ovak.md",
     "5. Mechanics/Races/Elf Drow.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
-    "3. The Party/Quests/Test Quest.md",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
     "5. Mechanics/Decks/Tarot/20-Judgement.png",
     "5. Mechanics/Decks/Tarot/19-TheSun.png",
