@@ -122,7 +122,7 @@
       },
       {
         "rule": "5. Mechanics/Bestiary",
-        "icon": "FasScroll",
+        "icon": "RaMonsterSkull",
         "for": "everything",
         "order": 16,
         "useFilePath": true
@@ -278,7 +278,7 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": false,
+    "debugMode": true,
     "useInternalPlugins": false
   }
 }
