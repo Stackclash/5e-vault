@@ -98,6 +98,7 @@ return function View() {
 ```
 
 # Templates
+
 | World Building            | Party                             |
 | ------------------------- | --------------------------------- |
 | `BUTTON[create-npc]`      | `BUTTON[create-player-character]` |
