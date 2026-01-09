@@ -91,6 +91,18 @@
         "for": "everything",
         "order": 11,
         "useFilePath": true
+      },
+      {
+        "rule": "1. DM Stuff/Calculators",
+        "icon": "FasCalculator",
+        "for": "everything",
+        "order": 12
+      },
+      {
+        "rule": "1. DM Stuff/Tools",
+        "icon": "FasWrench",
+        "for": "everything",
+        "order": 13
       }
     ],
     "extraMargin": {
