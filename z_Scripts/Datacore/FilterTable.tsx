@@ -32,7 +32,7 @@ const DatacoreTable = ({ query, filterKeys }) => {
     if (data.length === 0 || filterKeys.length === 0) return
 
     const configs = filterKeys.map(key => {
-      const sampleValue = data.find(item => item.$frontmatter[key] !== undefined)?.$frontmatter[key]
+      const sampleValue = data.find(item => item.$frontmatter[key].value !== undefined)?.$frontmatter[key].value
       
       if (Array.isArray(sampleValue)) {
         return { key, type: 'array' }
@@ -60,7 +60,7 @@ const DatacoreTable = ({ query, filterKeys }) => {
         }
 
         const [mainKey, subKey] = filterKey.split('.')
-        const itemValue = subKey ? item.$frontmatter[mainKey]?.[subKey] : item.$frontmatter[mainKey]
+        const itemValue = subKey ? item.$frontmatter[mainKey]?.value?.[subKey] : item.$frontmatter[mainKey]?.value
 
         if (itemValue === undefined) return false
 
@@ -90,7 +90,7 @@ const DatacoreTable = ({ query, filterKeys }) => {
     const [mainKey, subKey] = key.split('.')
 
     data.forEach(item => {
-      const value = isNested ? item.$frontmatter[mainKey]?.[subKey] : item.$frontmatter[key]
+      const value = isNested ? item.$frontmatter[mainKey]?.value?.[subKey] : item.$frontmatter[key]?.value
       if (Array.isArray(value)) {
         value.forEach(v => values.add(v))
       } else if (value !== undefined) {
@@ -380,7 +380,7 @@ const DatacoreTable = ({ query, filterKeys }) => {
             {filteredData.map((item, idx) => (
               <tr key={idx}>
                 {columns.map(col => (
-                  <td key={col}>{renderCellValue(item.$frontmatter[col])}</td>
+                  <td key={col}>{renderCellValue(item.$frontmatter[col]?.value)}</td>
                 ))}
               </tr>
             ))}
