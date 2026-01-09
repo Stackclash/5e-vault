@@ -19,33 +19,32 @@ const getCurrentLocation = () => {
 
 const currentLocation = getCurrentLocation()
 
-const select = document.createElement('select');
+const select = document.createElement('select')
 
-const defaultOption = document.createElement('option');
-defaultOption.value = '';
-defaultOption.text = 'Various Locations';
-defaultOption.selected = currentLocation === null || currentLocation === '';
-select.appendChild(defaultOption);
+const defaultOption = document.createElement('option')
+defaultOption.value = ''
+defaultOption.text = 'Various Locations'
+defaultOption.selected = currentLocation === null || currentLocation === ''
+select.appendChild(defaultOption)
 
 locations.forEach(l => {
-    const option = document.createElement('option');
-    option.value = l.file.link.toString();
-    option.text = l.file.name;
-    option.selected = currentLocation && option.value === currentLocation.toString();
-    select.appendChild(option);
-});
+    const option = document.createElement('option')
+    option.value = l.file.link.toString()
+    option.text = l.file.name
+    option.selected = currentLocation && option.value === currentLocation.toString()
+    select.appendChild(option)
+})
 
 select.addEventListener('change', e => {
-    const newLocation = e.target.value;
+    console.log('Location changed', e.target.value)
+    const newLocation = e.target.value
 
     players.forEach(p => {
-        const file = app.vault.getAbstractFileByPath(p.file.path);
-        if (file instanceof obsidian.TFile) {
-            app.fileManager.processFrontMatter(file, fm => {
-                fm.location = newLocation;
-            });
-        }
-    });
-});
+        const file = app.vault.getAbstractFileByPath(p.file.path)
+        app.fileManager.processFrontMatter(file, fm => {
+            fm.location = newLocation
+        })
+    })
+})
 
-dv.container.appendChild(select);
+dv.container.appendChild(select)
