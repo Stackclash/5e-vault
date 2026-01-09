@@ -133,6 +133,18 @@
         "icon": "FasMapPin",
         "for": "everything",
         "order": 18
+      },
+      {
+        "rule": "4. World Almanac/Regions",
+        "icon": "🗺",
+        "for": "everything",
+        "order": 19
+      },
+      {
+        "rule": "4. World Almanac/Settlements",
+        "icon": "FasHouse",
+        "for": "everything",
+        "order": 20
       }
     ],
     "extraMargin": {
