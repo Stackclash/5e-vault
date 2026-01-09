@@ -114,137 +114,151 @@
         "useFilePath": true
       },
       {
+        "rule": "5. Mechanics/Backgrounds",
+        "icon": "LiSwords",
+        "for": "everything",
+        "order": 15,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Bestiary",
+        "icon": "FasScroll",
+        "for": "everything",
+        "order": 16,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Decks",
+        "icon": "RaSpadesCard",
+        "for": "everything",
+        "order": 17,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Deities",
+        "icon": "RaIncense",
+        "for": "everything",
+        "order": 18,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Feats",
+        "icon": "RaDragon",
+        "for": "everything",
+        "order": 19,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Items",
+        "icon": "RaKettlebell",
+        "for": "everything",
+        "order": 20,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Lists",
+        "icon": "FasList",
+        "for": "everything",
+        "order": 21,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Races",
+        "icon": "RaElf",
+        "for": "everything",
+        "order": 22,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Rewards",
+        "icon": "RaTrophy",
+        "for": "everything",
+        "order": 23,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Rules",
+        "icon": "FasCheck",
+        "for": "everything",
+        "order": 24,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Spells",
+        "icon": "RaLightningBolt",
+        "for": "everything",
+        "order": 25,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Tables",
+        "icon": "FasTableList",
+        "for": "everything",
+        "order": 26,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Traps Hazards",
+        "icon": "RaBearTrap",
+        "for": "everything",
+        "order": 27,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Mechanics/Vehicles",
+        "icon": "RaHorseshoe",
+        "for": "everything",
+        "order": 28,
+        "useFilePath": true
+      },
+      {
         "rule": "5. Mechanics",
         "icon": "FasScrewdriverWrench",
         "for": "everything",
-        "order": 15,
+        "order": 29,
         "useFilePath": true
       },
       {
         "rule": "6. Resources",
         "icon": "FasFileImport",
         "for": "everything",
-        "order": 16,
+        "order": 30,
         "useFilePath": true
       },
       {
         "rule": "z_Assets/Music",
         "icon": "FasFileAudio",
         "for": "everything",
-        "order": 17,
+        "order": 31,
         "useFilePath": true
       },
       {
         "rule": "z_Assets",
         "icon": "FasImages",
         "for": "everything",
-        "order": 18,
+        "order": 32,
         "useFilePath": true
       },
       {
         "rule": "z_Extra",
         "icon": "FasBomb",
         "for": "everything",
-        "order": 19,
+        "order": 33,
         "useFilePath": true
       },
       {
         "rule": "z_Scripts",
         "icon": "FasCode",
         "for": "everything",
-        "order": 20,
+        "order": 34,
         "useFilePath": true
       },
       {
         "rule": "z_Templates",
         "icon": "FasFileLines",
         "for": "everything",
-        "order": 21,
+        "order": 35,
         "useFilePath": true
-      },
-      {
-        "rule": "5. Mechanics/Backgrounds",
-        "icon": "LiSwords",
-        "for": "everything",
-        "order": 22
-      },
-      {
-        "rule": "5. Mechanics/Bestiary",
-        "icon": "FasScroll",
-        "for": "everything",
-        "order": 23
-      },
-      {
-        "rule": "5. Mechanics/Decks",
-        "icon": "RaSpadesCard",
-        "for": "everything",
-        "order": 24
-      },
-      {
-        "rule": "5. Mechanics/Deities",
-        "icon": "RaIncense",
-        "for": "everything",
-        "order": 25
-      },
-      {
-        "rule": "5. Mechanics/Feats",
-        "icon": "RaDragon",
-        "for": "everything",
-        "order": 26
-      },
-      {
-        "rule": "5. Mechanics/Items",
-        "icon": "RaKettlebell",
-        "for": "everything",
-        "order": 27
-      },
-      {
-        "rule": "5. Mechanics/Lists",
-        "icon": "FasList",
-        "for": "everything",
-        "order": 28
-      },
-      {
-        "rule": "5. Mechanics/Races",
-        "icon": "RaElf",
-        "for": "everything",
-        "order": 29
-      },
-      {
-        "rule": "5. Mechanics/Rewards",
-        "icon": "RaTrophy",
-        "for": "everything",
-        "order": 30
-      },
-      {
-        "rule": "5. Mechanics/Rules",
-        "icon": "FasCheck",
-        "for": "everything",
-        "order": 31
-      },
-      {
-        "rule": "5. Mechanics/Spells",
-        "icon": "RaLightningBolt",
-        "for": "everything",
-        "order": 32
-      },
-      {
-        "rule": "5. Mechanics/Tables",
-        "icon": "FasTableList",
-        "for": "everything",
-        "order": 33
-      },
-      {
-        "rule": "5. Mechanics/Traps Hazards",
-        "icon": "RaBearTrap",
-        "for": "everything",
-        "order": 34
-      },
-      {
-        "rule": "5. Mechanics/Vehicles",
-        "icon": "RaHorseshoe",
-        "for": "everything",
-        "order": 35
       }
     ],
     "extraMargin": {
