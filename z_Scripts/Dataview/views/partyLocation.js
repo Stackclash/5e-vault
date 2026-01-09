@@ -9,3 +9,5 @@ const getCurrentLocation = () => {
     const same = players.every(p => p.location && p.location.path === firstLocation.path)
     return same ? firstLocation : null
 }
+
+const currentLocation = getCurrentLocation()
