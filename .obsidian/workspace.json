@@ -35,8 +35,7 @@
               "title": "Eamon Morcant"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,10 +277,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "80bdba0e97211144",
+  "active": "0b1da3c7f957b405",
   "lastOpenFiles": [
-    "1. DM Stuff/Configuration.md",
     "4. World Almanac/NPCs/Eamon Morcant.md",
+    "1. DM Stuff/Configuration.md",
     "3. The Party/Quests/The Ones Who Were Forgotten.md",
     "4. World Almanac/Settlements/Thornmere.md",
     "3. The Party/Quests",

@@ -1,3 +1,4 @@
+// TODO: There should be a place for a description
 <%*
 let templateError = false
 let data = {}
@@ -179,7 +180,6 @@ try {
   }
 
   data = result.getData()
-  console.log(data)
 
   await tp.file.move(path.posix.join(config.locations.npcs, data.name), tp.file.find_tfile(tp.file.title))
 } catch (e) {

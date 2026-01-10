@@ -4,8 +4,11 @@ active: {}
 completed: {}
 campaign: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 description: ""
-steps: []
-npcs: []
+steps:
+  - text: The party enters the village and meets Eamon.
+npcs:
+  - name: "[[4. World Almanac/NPCs/Eamon Morcant.md|Eamon Morcant]]"
+    description: Greets the party as they enter the village and recognizes them by name. No one else in the village knows who he is.
 tags:
   - quest
 ---
