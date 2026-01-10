@@ -1,94 +1,6 @@
-<%*
-let templateError = false
-let data = null
-let typeLocations = {}
-try {
-  const path = require('path')
-  const dataview = app.plugins.getPlugin("dataview")
-  const modalForm = app.plugins.getPlugin('modalforms')
-  typeLocations = {
-    Region: 'regions',
-    Settlement: 'settlements',
-    "Place of Interest": 'pois'
-  }
-
-  if (tp.config.run_mode !== 0) {
-    throw new Error('This template can only be used to create new files.')
-  }
-
-  if (!modalForm || !modalForm.api) {
-    throw new Error('Modal Forms plugin is not available')
-  }
-
-  if (!dataview || !dataview.api) {
-    throw new Error('Dataview plugin is not available')
-  }
-
-  const config = dataview.api.page('Configuration')
-
-  if (!config || !config.locations || !config.locations.regions || !config.locations.settlements || !config.locations.pois) {
-    throw new Error('Configuration for file locations is not set up correctly')
-  }
-
-  const parentLocations = dataview.api.pages('#location').sort(l => l.file.name, 'asc').array()
-
-  const result = await modalForm.api.openForm({
-    title: "Location Setup",
-    name: "location-setup",
-    fields: [
-      {
-        name: "name",
-        label: "Location Name",
-        description: "Name of Location",
-        isRequired: true,
-        input: {
-          type: "text",
-        }
-      },
-      {
-        name: "type",
-        label: "Location",
-        description: "Type of Location",
-        isRequired: true,
-        input: {
-          type: "select",
-          options: Object.entries(typeLocations).map(([key, value]) => ({ label: key, value })),
-          source: "fixed"
-        }
-      },
-      {
-        name: "location",
-        label: "Location",
-        description: "Where this location is located",
-        isRequired: true,
-        input: {
-          type: "select",
-          options: parentLocations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
-          source: "fixed"
-        }
-      }
-    ],
-    version: "1"
-  })
-
-  if (result.status === 'cancelled') {
-    throw new Error('Modal was Cancelled')
-  }
-
-  data = result.getData()
-
-  await tp.file.move(path.posix.join(config.locations[data.type], data.name), tp.file.find_tfile(tp.file.title))
-
-} catch (e) {
-  templateError = e.message
-  console.error(e)
-  new tp.obsidian.Notice(e.message, 5000)
-}
--%>
-<%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-location: "<% data.location %>"
+location: "[[4. World Almanac/Regions/Greenfall.md|Greenfall]]"
 images:
 - z_Assets/PlaceholderImage.png
 pronounced: 
@@ -104,7 +16,7 @@ exports: []
 aliases: []
 tags:
   - location
-  - <% Object.keys(typeLocations).find(k => typeLocations[k] === data.type).toLowerCase() %>
+  - settlement
 ---
 > [!infobox]
 > # `=this.file.name`
@@ -164,7 +76,7 @@ tags:
 `$= await dv.view("views/locationBreadcrumbs", {current: dv.current()})`
 # **`=this.file.name`**
 > [!info|bg-c-purple]- Overview
-TBD
+> Thornmere is a low-lying farming village pressed between open grasslands and the dark treeline of the Barovian forest. Its fields are orderly, its people quiet, and its boundaries carefully respected. Life here is intentionally small. The villagers survive by avoiding what lies beyond the tree line—and by pretending that history is stable if left unexamined.
 
 ## Map
 > [!div | no-t clean]
@@ -208,7 +120,11 @@ TBD
 `$=await dv.view("npcsInLocation", {current: dv.current()})`
 
 ## History
-TBD
+Thornmere was founded generations ago as a frontier farming outpost meant to supply grain and livestock to passing caravans skirting the forest road. Early settlers learned quickly that the forest was not merely dangerous but _attentive_. Entire families vanished during the first decade.
+
+Rather than abandon the land, the survivors adapted. Thornmere shifted inward—fewer roads, no expansion toward the woods, and strict communal rules about travel and nightfall. Old records suggest a shrine once stood near the forest edge, but its stones were dismantled after a calamity now remembered only as _the Long Harvest Night_.
+
+No one in Thornmere can fully recount what happened that year. They only know that remembering too closely brings unease.
 
 ## DM Notes
 ### Plot Hooks
@@ -218,11 +134,3 @@ TBD
 
 
 ### General Notes
-<%* } else { -%>
-
-
-> [!Error] Error Executing Template
-> <% templateError %>
-
-
-<%* } -%>
