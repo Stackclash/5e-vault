@@ -1,3 +1,5 @@
+//TODO: Add information about deities. How do they interact with the world. How common are miracles, etc.
+
 # 🎲 Campaign Foundation
 
 ## Purpose
