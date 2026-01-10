@@ -3,7 +3,12 @@ obsidianUIMode: preview
 active: {}
 completed: {}
 campaign: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-description: ""
+description: |-
+  A quiet, superstitious village lies in the shadow of a land long feared as cursed. Its fields are infertile, its children whisper secrets they should not know, and an elderly villager greets the party as if they have always been expected—yet no one else remembers this person.
+
+  Rumors of disappearances haunt the villagers: decades ago, a handful of people vanished into the dark land. No one remembers exactly what happened—or even that their names were ever erased. But now, fragments of memory are returning, surfacing in children, the land, and an outsider who was never supposed to exist.
+
+  The village trembles as old secrets resurface. Crops fail where graves were long forgotten. Children begin naming the dead. Parents begin to question their own memories. The party must decide how to respond: uncover and preserve the truth, protect the villagers from it, or navigate a delicate balance between both. Every choice carries consequences, and every action will shape how the village—and perhaps the wider world—remembers what truly happened.
 steps:
   - text: The party enters the village and meets Eamon.
 npcs:
