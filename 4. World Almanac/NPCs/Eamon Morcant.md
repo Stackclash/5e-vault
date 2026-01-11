@@ -15,7 +15,7 @@ race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 65
 alignment: Neutral Good
-occupation: ""
+occupation: []
 groups: []
 religions: []
 personality: calm, takes things in stride
@@ -25,7 +25,8 @@ flaw: Gets easily annoyed
 goals: To live my final years in peace
 likes: A relaxing day with a beautiful sunset.
 dislikes: Drama
-partyRelationships: {}
+partyRelationships:
+  Curse of Strahd: Acquaintance
 ---
 
 > [!infobox]
