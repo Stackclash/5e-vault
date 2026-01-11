@@ -37,7 +37,7 @@ try {
         isRequired: true,
         input: {
           type: "dataview",
-          query: "dv.pages('\"" + config.locations.parties + "\"')"
+          query: "dv.pages('\"" + config.locations.parties + "\"').file.name"
         }
       },
       {
