@@ -63,7 +63,8 @@
               "title": "Greenfall"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -331,10 +332,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "69ff6cafa68fdd73",
+  "active": "027742be2301f03e",
   "lastOpenFiles": [
-    "4. World Almanac/Regions/Greenfall.md",
+    "5. Mechanics/Items/Aegis Grimoire (GRIFFONSSADDLEBAG4).md",
     "4. World Almanac/Shops/The Scarecrow.md",
+    "5. Mechanics/Items/1 Ammunition.md",
+    "4. World Almanac/Settlements/Thornmere.md",
+    "4. World Almanac/Regions/Greenfall.md",
     "1. DM Stuff/Session Prep/Curse of Strahd/2023-09-17.md",
     "1. DM Stuff/Session Prep/Curse of Strahd/2023-11-04.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S35 New Session Journal.md",
@@ -343,7 +347,6 @@
     "1. DM Stuff/Session Prep/Curse of Strahd/2026-01-11.md",
     "5. Mechanics/Spells/Modify Memory.md",
     "1. DM Stuff/Configuration.md",
-    "4. World Almanac/Settlements/Thornmere.md",
     "1. DM Stuff/Tools/Leaflet Bounds Calculator.md",
     "z_Assets/Locations/Maps/thornmere.png",
     "5. Mechanics/Lists/List Spells Classes Cleric.md",
@@ -361,8 +364,6 @@
     "z_Scripts/Datacore/FilterTable.tsx",
     "z_Scripts/Datacore",
     "FilterTable.md",
-    "3. The Party/Players/Redgrave.md",
-    "z_Extra/AI Prompts/World.md",
     "z_Extra/AI Prompts",
     "z_Scripts/Dataview/views/encounterBenchmark.js",
     "z_Scripts/Dataview/views/travelTimes.js",

@@ -4,8 +4,9 @@ location: "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
 resources: []
 owners: []
 staff: []
-cost_modifier: 1
-items: []
+cost_modifier:
+items:
+  - "[[5. Mechanics/Items/Amethyst.md|Amethyst]]"
 tags:
   - shop
 ---
