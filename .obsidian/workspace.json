@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DM Stuff/Session Journals/Curse of Strahd/S35 New Session Journal.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -346,7 +346,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1631da1cc31732be",
+  "active": "44dd4689363c90ec",
   "lastOpenFiles": [
     "4. World Almanac/Regions/Greenfall.md",
     "4. World Almanac/Settlements/Thornmere.md",
