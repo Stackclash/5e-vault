@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Greenfall.md|Greenfall]]"
 images:
-- z_Assets/PlaceholderImage.png
-pronounced: 
+  - z_Assets/Locations/Maps/thornmere.png
+pronounced:
 resources: []
-population: 
-terrain: 
+population:
+terrain:
 rulers: []
-government: 
-army: 
+government:
+army:
 religions: []
 imports: []
 exports: []

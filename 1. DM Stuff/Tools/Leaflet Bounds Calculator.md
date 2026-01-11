@@ -7,7 +7,7 @@ unit: ft
 unitCount: 10
 zoomDelta: 0.5
 id: CastleRavenloft
-image: z_Assets/Locations/Maps/Amber Temple 2.webp
+image: z_Assets/Locations/Maps/thornmere.png
 ---
 
 > [!infobox|right]
