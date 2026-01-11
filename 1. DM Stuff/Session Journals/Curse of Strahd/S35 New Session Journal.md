@@ -3,13 +3,13 @@ obsidianUIMode: preview
 date: 2026-01-11
 summary:
 fc-date: 973-2-24
-fc-end: 
-timelines: 
+fc-end:
+timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-prep-notes: "[[Session Prep.md|Session Prep]]"
+prep-notes: "[[1. DM Stuff/Session Prep/Curse of Strahd/2026-01-11.md|2026-01-11]]"
 tags:
   - session-journal
 ---
@@ -34,6 +34,7 @@ tags:
 
 ## Key Learnings
 - [[Bruokdon]] is a couple days travel NE of [[Thornmere]]
+- Phillip (an enchanted child) 
 
 ## Items Of Importance
 Description
