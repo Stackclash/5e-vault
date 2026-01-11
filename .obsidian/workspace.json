@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Spells/Augury.md",
+                "file": "5. Mechanics/Spells/Commune.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Augury"
+              "title": "Commune"
             }
           }
         ],
@@ -308,6 +308,9 @@
   },
   "active": "203b8561d3e78af5",
   "lastOpenFiles": [
+    "5. Mechanics/Lists/List Spells Classes Cleric.md",
+    "5. Mechanics/Spells/Commune.md",
+    "5. Mechanics/Spells/Augury.md",
     "1. DM Stuff/Configuration.md",
     "4. World Almanac/Settlements/Thornmere.md",
     "4. World Almanac/Shops/The Scarecrow.md",
@@ -334,10 +337,7 @@
     "z_Extra/AI Prompts/Side Quest.md",
     "z_Extra/AI Prompts/Settlement.md",
     "z_Extra/AI Prompts/Primary Villian.md",
-    "z_Extra/AI Prompts/NPC.md",
-    "z_Extra/AI Prompts/Campaign Foundation.md",
     "z_Extra/AI Prompts",
-    "1. DM Stuff/Session Prep/Curse of Strahd/2024-03-30.md",
     "z_Scripts/Dataview/views/encounterBenchmark.js",
     "z_Scripts/Dataview/views/travelTimes.js",
     "z_Scripts/Dataview/views/shopInventory.js",
