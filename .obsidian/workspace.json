@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DM Stuff/Session Journals/Curse of Strahd/S35 New Session Journal.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -77,7 +77,8 @@
               "title": "Greenfall"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,6 +147,11 @@
               "state": {
                 "calendar": "ID_6b2b79a86a39",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 24,
+                    "month": 1,
+                    "year": 973
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 21,
@@ -158,7 +164,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_cb996bb898b8"
+                "id": "ID_cb996bb898b8",
+                "child": "ID_fa0aead9693a"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -287,6 +294,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "fee07338da74c23d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18040be7b9128910",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_6b2b79a86a39",
+                "id": "ID_fa0aead9693a",
+                "parent": "ID_cb996bb898b8"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -319,13 +346,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "69ff6cafa68fdd73",
+  "active": "1631da1cc31732be",
   "lastOpenFiles": [
+    "4. World Almanac/Regions/Greenfall.md",
     "4. World Almanac/Settlements/Thornmere.md",
     "5. Mechanics/Spells/Commune.md",
     "4. World Almanac/Shops/The Scarecrow.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S35 New Session Journal.md",
-    "4. World Almanac/Regions/Greenfall.md",
     "1. DM Stuff/Tools/Leaflet Bounds Calculator.md",
     "1. DM Stuff/Configuration.md",
     "z_Assets/Locations/Maps/thornmere.png",

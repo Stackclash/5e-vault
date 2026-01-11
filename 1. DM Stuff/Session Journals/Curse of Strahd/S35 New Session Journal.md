@@ -33,8 +33,7 @@ tags:
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- [[Bruokdon]] is a couple days travel NE of [[Thornmere]]
 
 ## Items Of Importance
 Description
