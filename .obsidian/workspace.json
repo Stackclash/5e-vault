@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Thornmere.md",
+                "file": "4. World Almanac/Regions/Greenfall.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thornmere"
+              "title": "Greenfall"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Commune"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -306,18 +305,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "203b8561d3e78af5",
+  "active": "69ff6cafa68fdd73",
   "lastOpenFiles": [
-    "5. Mechanics/Lists/List Spells Classes Cleric.md",
     "5. Mechanics/Spells/Commune.md",
+    "4. World Almanac/Regions/Greenfall.md",
+    "4. World Almanac/Settlements/Thornmere.md",
+    "1. DM Stuff/Session Journals/Curse of Strahd/S35 New Session Journal.md",
+    "4. World Almanac/Shops/The Scarecrow.md",
+    "5. Mechanics/Lists/List Spells Classes Cleric.md",
     "5. Mechanics/Spells/Augury.md",
     "1. DM Stuff/Configuration.md",
-    "4. World Almanac/Settlements/Thornmere.md",
-    "4. World Almanac/Shops/The Scarecrow.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S35 New Session Journal.md",
     "1. DM Stuff/Session Prep/Curse of Strahd/2026-01-11.md",
     "Untitled.md",
-    "4. World Almanac/Regions/Greenfall.md",
     "4. World Almanac/Settlements/Bruokdon.md",
     "4. World Almanac/NPCs/Eamon Morcant.md",
     "1. DM Stuff/Spells.md",
