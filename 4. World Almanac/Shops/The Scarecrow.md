@@ -5,8 +5,7 @@ resources: []
 owners: []
 staff: []
 cost_modifier:
-items:
-  - "[[5. Mechanics/Items/Amethyst.md|Amethyst]]"
+items: []
 tags:
   - shop
 ---
