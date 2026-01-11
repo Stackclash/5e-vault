@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Extra/AI Prompts/Campaign Arcs.md",
+                "file": "1. DM Stuff/Session Prep/Curse of Strahd/2026-01-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Arcs"
+              "title": "2026-01-11"
+            }
+          },
+          {
+            "id": "44dd4689363c90ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/Settlements/Thornmere.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thornmere"
             }
           }
         ]
@@ -132,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 317.5
   },
   "right": {
     "id": "24f65bc15fe356db",
@@ -265,8 +279,16 @@
   },
   "active": "69ff6cafa68fdd73",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "z_Extra/AI Prompts/Campaign Arcs.md",
+    "1. DM Stuff/Session Prep/Curse of Strahd/2026-01-11.md",
+    "4. World Almanac/Settlements/Thornmere.md",
+    "conflict-files-obsidian-git.md",
+    "1. DM Stuff/Configuration.md",
+    "1. DM Stuff/Session Prep/Curse of Strahd/2026-01-11.md",
+    "1. DM Stuff/Session Journals/Curse of Strahd/S15 The Seige of the Werewolves.md",
+    "4. World Almanac/Regions/Greenfall.md",
+    "4. World Almanac/NPCs/Eamon Morcant.md",
+    "3. The Party/Quests/The Ones Who Were Forgotten.md",
     "z_Scripts/Dataview/views/partyLocation.js",
     "z_Scripts/Datacore/FilterTable.tsx",
     "z_Scripts/Datacore",
@@ -293,7 +315,6 @@
     "3. The Party/Players/Marin.md",
     "3. The Party/Players/Faerah Duskrane.md",
     "5. Mechanics/Races/Warforged.md",
-    "4. World Almanac/Places of Interest/Yester Hill.md",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
     "5. Mechanics/Decks/Tarot/20-Judgement.png",
     "5. Mechanics/Decks/Tarot/19-TheSun.png",
