@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Spells/Modify Memory.md",
+                "file": "5. Mechanics/Spells/Hallow.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modify Memory"
+              "title": "Hallow"
             }
           }
         ],
@@ -362,8 +362,8 @@
   },
   "active": "824ad408e96f209c",
   "lastOpenFiles": [
-    "5. Mechanics/Spells/Dispel Magic.md",
     "5. Mechanics/Spells/Modify Memory.md",
+    "5. Mechanics/Spells/Dispel Magic.md",
     "1. DM Stuff/Configuration.md",
     "4. World Almanac/Settlements/Thornmere.md",
     "4. World Almanac/Regions/Greenfall.md",
