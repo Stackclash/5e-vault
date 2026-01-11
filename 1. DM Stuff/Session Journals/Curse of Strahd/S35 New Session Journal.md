@@ -34,7 +34,8 @@ tags:
 
 ## Key Learnings
 - [[Bruokdon]] is a couple days travel NE of [[Thornmere]]
-- Phillip (an enchanted child) 
+- Phillip (an enchanted child) reveals that he knows about a lot about the party
+	- Mom is Sarah
 
 ## Items Of Importance
 Description
