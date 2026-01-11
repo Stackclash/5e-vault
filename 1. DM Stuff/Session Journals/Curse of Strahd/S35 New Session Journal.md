@@ -36,6 +36,7 @@ tags:
 - [[Bruokdon]] is a couple days travel NE of [[Thornmere]]
 - Phillip (an enchanted child) reveals that he knows about a lot about the party
 	- Mom is Sarah
+- [[Eamon Morcant]]
 
 ## Items Of Importance
 Description
