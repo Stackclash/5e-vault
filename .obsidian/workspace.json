@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd961f5c87e9c2f",
+        "id": "7bb5ac37c3873a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "69ff6cafa68fdd73",
+            "id": "80bdba0e97211144",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Thornmere.md",
+                "file": "1. DM Stuff/Session Journals/Curse of Strahd/S33 New Session Journal.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thornmere"
-            }
-          },
-          {
-            "id": "027742be2301f03e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Shops/The Scarecrow.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Scarecrow"
-            }
-          },
-          {
-            "id": "203b8561d3e78af5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/NPCs/Eamon Morcant.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eamon Morcant"
-            }
-          },
-          {
-            "id": "0f583bdfd5ab762b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Regions/Greenfall.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Greenfall"
-            }
-          },
-          {
-            "id": "99fdf8bbb0e8bd7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Spells/Dispel Magic.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dispel Magic"
-            }
-          },
-          {
-            "id": "824ad408e96f209c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Spells/Hallow.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hallow"
+              "title": "S33 New Session Journal"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,11 +90,6 @@
               "state": {
                 "calendar": "ID_6b2b79a86a39",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 24,
-                    "month": 1,
-                    "year": 973
-                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 21,
@@ -178,8 +102,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_cb996bb898b8",
-                "child": "ID_fa0aead9693a"
+                "id": "ID_cb996bb898b8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -209,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 400.5
   },
   "right": {
     "id": "24f65bc15fe356db",
@@ -308,26 +231,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "fee07338da74c23d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "18040be7b9128910",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_6b2b79a86a39",
-                "id": "ID_fa0aead9693a",
-                "parent": "ID_cb996bb898b8"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -360,45 +263,45 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "824ad408e96f209c",
+  "active": "80bdba0e97211144",
   "lastOpenFiles": [
-    "5. Mechanics/Spells/Modify Memory.md",
-    "5. Mechanics/Spells/Dispel Magic.md",
+    "1. DM Stuff/Session Journals/Curse of Strahd/S34 New Session Journal.md",
+    "4. World Almanac/NPCs/Eamon Morcant.md",
+    "1. DM Stuff/Tools/NPC Generator.md",
+    "z_Assets/Locations/Maps/thornmere.png",
+    "1. DM Stuff/Tools/Weather Generation.md",
+    "1. DM Stuff/Tools/Vistani Lore.md",
+    "1. DM Stuff/Tools/Leaflet Bounds Calculator.md",
+    "1. DM Stuff/Tools/Herbs.md",
+    "3. The Party/Quests/The Ones Who Were Forgotten.md",
     "1. DM Stuff/Configuration.md",
     "4. World Almanac/Settlements/Thornmere.md",
+    "3. The Party/Quests",
     "4. World Almanac/Regions/Greenfall.md",
-    "4. World Almanac/NPCs/Eamon Morcant.md",
-    "4. World Almanac/Shops/The Scarecrow.md",
-    "5. Mechanics/Items/Aegis Grimoire (GRIFFONSSADDLEBAG4).md",
-    "5. Mechanics/Items/1 Ammunition.md",
-    "1. DM Stuff/Session Prep/Curse of Strahd/2023-09-17.md",
-    "1. DM Stuff/Session Prep/Curse of Strahd/2023-11-04.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S35 New Session Journal.md",
-    "5. Mechanics/Spells/Commune.md",
-    "1. DM Stuff/Session Prep/Curse of Strahd/2026-01-11.md",
-    "1. DM Stuff/Tools/Leaflet Bounds Calculator.md",
-    "z_Assets/Locations/Maps/thornmere.png",
-    "5. Mechanics/Lists/List Spells Classes Cleric.md",
-    "5. Mechanics/Spells/Augury.md",
-    "Untitled.md",
-    "4. World Almanac/Settlements/Bruokdon.md",
-    "1. DM Stuff/Spells.md",
-    "4. World Almanac/Places of Interest/The Scarecrow.md",
-    "Session Prep.md",
-    "z_Extra/AI Prompts/Campaign Arcs.md",
-    "conflict-files-obsidian-git.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S15 The Seige of the Werewolves.md",
-    "3. The Party/Quests/The Ones Who Were Forgotten.md",
+    "1. DM Stuff/Tools/Story Engine/Test.md",
+    "Players.base",
+    "FilterTable.md",
+    "4. World Almanac/Places of Interest/Argynvostholt.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "z_Scripts/Dataview/views/partyLocation.js",
+    "z_Scripts/Dataview/views/partyLocation",
+    "z_Scripts/Datacore/PartyLocation.tsx",
+    "z_Extra/AI Prompts/Campaign Foundation.md",
+    "z_Extra/AI Prompts/Campaign Arcs.md",
     "z_Scripts/Datacore/FilterTable.tsx",
     "z_Scripts/Datacore",
+    "3. The Party/Players/Redgrave.md",
+    "z_Extra/AI Prompts/World.md",
+    "z_Extra/AI Prompts/Villian Lieutenant.md",
+    "z_Extra/AI Prompts/Side Quest.md",
+    "z_Extra/AI Prompts/Settlement.md",
+    "z_Extra/AI Prompts/Primary Villian.md",
+    "z_Extra/AI Prompts/NPC.md",
     "z_Extra/AI Prompts",
+    "1. DM Stuff/Session Prep/Curse of Strahd/2024-03-30.md",
     "z_Scripts/Dataview/views/encounterBenchmark.js",
     "z_Scripts/Dataview/views/travelTimes.js",
-    "z_Scripts/Dataview/views/shopInventory.js",
-    "z_Scripts/Dataview/views/npcsInLocation.js",
-    "z_Scripts/Dataview/views/npcRelationships.js",
-    "z_Scripts/Dataview/views/monsterHarvesterTable.js",
+    "4. World Almanac/NPCs/Arabelle (COS).md",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
     "5. Mechanics/Decks/Tarot/20-Judgement.png",
     "5. Mechanics/Decks/Tarot/19-TheSun.png",
