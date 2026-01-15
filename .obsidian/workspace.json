@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "S33 New Session Journal"
             }
+          },
+          {
+            "id": "bd6f41b5353199f9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,11 +272,10 @@
       "remotely-save:Remotely Save": true,
       "obsidian-textgenerator-plugin:Generate Text!": true,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
-      "solo-rpg-toolkit:Solo RPG Toolkit": true,
-      "calendarium:Open Calendarium": false
+      "solo-rpg-toolkit:Solo RPG Toolkit": true
     }
   },
-  "active": "80bdba0e97211144",
+  "active": "bd6f41b5353199f9",
   "lastOpenFiles": [
     "1. DM Stuff/Session Journals/Curse of Strahd/S34 New Session Journal.md",
     "4. World Almanac/NPCs/Eamon Morcant.md",
