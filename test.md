@@ -1,7 +1,7 @@
 ---
-test1: hello this is a string
+test: This is a string
 ---
 
 ```dataviewjs
-await dv.view('views/test')
+await dv.view('views/editingView', { current: dv.current() })
 ```
