@@ -11,18 +11,18 @@ proficiency: 4
 url: https://dndbeyond.com/characters/103814449
 image: https://www.dndbeyond.com/avatars/17/342/636377874944041516.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Human.md|Human]]"
-alignment: Chaotic Neutral
+alignment: '"Chaotic Neutral"'
 description:
   gender: FEMALE
-  age: ""
-  hair: ""
-  eyes: ""
-  skin: ""
+  age:
+  hair:
+  eyes:
+  skin:
   height: 6’4
   weight: 275
   size: ""
 passives:
-  perception: 14
+  perception: 15
   investigation: 10
   insight: 11
 proficiencies:
@@ -47,19 +47,19 @@ background:
   background:
     name: Outlander
     description: <p>You grew up in the wilds, far from the comforts of town and technology. You’ve witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don’t know the specific features of the terrain, you know the ways of the wild.</p>
-  backstory: ""
-  organizations: ""
-  allies: ""
-  enemies: ""
-  notes: ""
+  backstory:
+  organizations:
+  allies:
+  enemies:
+  notes:
 classes:
   - name: "[[5. Mechanics/Classes/Barbarian.md|Barbarian]]"
     subClass: "[[5. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md|Barbarian Path Of The Totem Warrior]]"
-    level: 7
+    level: 10
 abilityScores:
   strength:
-    value: 18
-    modifier: 4
+    value: 20
+    modifier: 5
   dexterity:
     value: 14
     modifier: 2
@@ -77,15 +77,15 @@ abilityScores:
     modifier: 1
 savingThrows:
   strength:
-    value: 7
-    baseValue: 4
+    value: 9
+    baseValue: 5
     proficiency: true
   dexterity:
     value: 2
     baseValue: 2
     proficiency: false
   constitution:
-    value: 6
+    value: 7
     baseValue: 3
     proficiency: true
   intelligence:
@@ -103,7 +103,7 @@ savingThrows:
   notes: []
 skills:
   acrobatics:
-    value: 5
+    value: 6
     baseValue: 2
     proficiency: true
     expertise: false
@@ -124,8 +124,8 @@ skills:
     disadvantage: false
     advantage: false
   athletics:
-    value: 7
-    baseValue: 4
+    value: 9
+    baseValue: 5
     proficiency: true
     expertise: false
     disadvantage: false
@@ -152,7 +152,7 @@ skills:
     disadvantage: false
     advantage: false
   intimidation:
-    value: 4
+    value: 5
     baseValue: 1
     proficiency: true
     expertise: false
@@ -180,7 +180,7 @@ skills:
     disadvantage: false
     advantage: false
   perception:
-    value: 4
+    value: 5
     baseValue: 1
     proficiency: true
     expertise: false
@@ -215,14 +215,14 @@ skills:
     disadvantage: false
     advantage: false
   stealth:
-    value: 5
+    value: 6
     baseValue: 2
     proficiency: true
     expertise: false
     disadvantage: false
     advantage: false
   survival:
-    value: 4
+    value: 5
     baseValue: 1
     proficiency: true
     expertise: false
@@ -231,6 +231,8 @@ skills:
 racialTraits:
   - name: Languages
     description: You can speak, read, and write Common and one extra language.
+  - name: Ability Score Increase
+    description: Your ability scores each increase by 1.
 classFeatures:
   - name: Spirit Seeker
     description: You can cast beast sense and speak with animals as rituals.
@@ -238,6 +240,8 @@ classFeatures:
     description: You have adopted a totem spirit.
   - name: Aspect of the Beast
     description: You gain a magical benefit based on the totem animal of your choice.
+  - name: Spirit Walker
+    description: You can cast the commune with nature spell as a ritual.
   - name: Rage
     description: As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), {{scalevalue#signed}} melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.
   - name: Unarmored Defense
@@ -252,6 +256,8 @@ classFeatures:
     description: Your speed increases by 10 ft. while you aren't wearing heavy armor.
   - name: Feral Instinct
     description: You have advantage on initiative rolls. Also, if you are surprised at the beginning of combat but not incapacitated, you can act normally on your first turn if you enter a rage before doing anything else.
+  - name: Brutal Critical
+    description: You can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 feats:
   - name: Tavern Brawler
     description: Increase your STR or CON score by 1. You are proficient with improvised weapons. Your unarmed strike uses a d4 for damage. When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
@@ -260,7 +266,7 @@ classSpells: []
 currencies:
   cp: 70
   sp: 7
-  gp: 46
+  gp: 47
   ep: 0
   pp: 0
 inventory:

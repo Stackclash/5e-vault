@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "3. The Party/Players/Yevelda Ovak.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redgrave"
+              "title": "Yevelda Ovak"
             }
           }
         ]
@@ -265,6 +265,7 @@
   },
   "active": "9a4851f4fa8a50c7",
   "lastOpenFiles": [
+    "3. The Party/Players/Redgrave.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "Players.base",
@@ -299,7 +300,6 @@
     "z_Extra/AI Prompts/Campaign Arcs.md",
     "z_Scripts/Datacore/FilterTable.tsx",
     "z_Scripts/Datacore",
-    "3. The Party/Players/Redgrave.md",
     "z_Extra/AI Prompts/World.md",
     "z_Extra/AI Prompts",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
