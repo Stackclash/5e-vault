@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-statblock: true
+statblock: "true"
 active: false
 name: Seluvis Felo'melorn
 level: 10
@@ -715,7 +715,7 @@ actions:
 > |:---:|:---:|
 > | **Perception** | `$=dv.current().passives.perception` |
 > | **Investigation** | `$=dv.current().passives.investigation` |
->  **Insight** | `$=dv.current().passives.insight` |
+> | **Insight** | `$=dv.current().passives.insight` |
 
 > [!infobox|center n-th wm-tl]
 > ## Description
