@@ -33,6 +33,7 @@ travel_calc: 14.998875084368672
 > await dv.view('views/encounterBenchmark', { current: dv.current() })
 > ```
 
+`$= await dv.view('editingView', {current: dv.current(), })`
 ## **Characters**
 > [!cards|dataview 3]
 >```dataview
