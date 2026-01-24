@@ -662,9 +662,9 @@ actions:
       const frontmatter = await character.generateFrontMatter()
       console.log(frontmatter)
 
-      app.fileManager.processFrontMatter(activeFile, (fm) => {
-        console.log('updating')
+      app.fileManager.processFrontMatter(activeFile, async (fm) => {
         fm = frontmatter
+        console.log(fm.classes)
       })
 ```
 
