@@ -11,7 +11,10 @@ console.log("Editing View Mode:", mode)
 console.log("Input:", input)
 
 if (mode === "source") {
-    dv.span(generateMetaBindInput({type, path, field, options}))
+    const metaBindInput = generateMetaBindInput({type, path, field, options})
+    dv.span(metaBindInput)
+    console.log("Generated Meta Bind Input:", metaBindInput)
 } else if (mode === "preview") {
+    console.log("Displaying Current Page Test Field...")
     dv.span(currentPage.test)
 }

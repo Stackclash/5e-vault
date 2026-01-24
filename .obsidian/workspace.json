@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
-                "mode": "source",
+                "file": "3. The Party/Players/Seluvis Felo'melorn.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curse of Strahd"
+              "title": "Seluvis Felo'melorn"
             }
           }
         ]
@@ -265,6 +265,7 @@
   },
   "active": "9a4851f4fa8a50c7",
   "lastOpenFiles": [
+    "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "z_Scripts/Dataview/utils/generateMetaBindInput.js",
     "z_Scripts/Dataview/utils/editingView.js",
@@ -272,7 +273,6 @@
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Redgrave.md",
     "Players.base",
-    "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Stuff/Calculators/Travel.md",
     "1. DM Stuff/Calculators/Currency.md",
     "FilterTable.md",
