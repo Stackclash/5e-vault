@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Seluvis Felo'melorn.md",
+                "file": "3. The Party/Parties/Curse of Strahd.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seluvis Felo'melorn"
+              "title": "Curse of Strahd"
             }
           }
         ]
@@ -265,8 +265,8 @@
   },
   "active": "9a4851f4fa8a50c7",
   "lastOpenFiles": [
-    "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
+    "3. The Party/Parties/Curse of Strahd.md",
     "z_Scripts/Dataview/utils/generateMetaBindInput.js",
     "z_Scripts/Dataview/utils/editingView.js",
     "3. The Party/Players/Marin.md",

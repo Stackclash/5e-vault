@@ -7,14 +7,11 @@ const options = input.options || []
 
 const mode = app.workspace.getActiveFileView().currentMode.type
 
-console.log("Editing View Mode:", mode)
-console.log("Input:", input)
-
 if (mode === "source") {
     const metaBindInput = generateMetaBindInput({type, path, field, options})
     dv.span(metaBindInput)
     console.log("Generated Meta Bind Input:", metaBindInput)
 } else if (mode === "preview") {
-    console.log("Displaying Current Page Test Field...")
-    dv.span(currentPage.test)
+    console.log("Displaying Current Page Test Field...", currentPage[field])
+    dv.span(currentPage[field])
 }
