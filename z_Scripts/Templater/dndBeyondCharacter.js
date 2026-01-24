@@ -1,5 +1,7 @@
 const fs = require('fs')
 const path = require('path')
+const findFile = require('./find_file.js')
+console.log(findFile)
 
 class DnDBeyondCharacter {
 
@@ -496,6 +498,67 @@ class DnDBeyondCharacter {
         return total.toString()
       })
       .replace(/\s*(\r\n|\n|\r)\s*/gm, ' ')
+  }
+
+  async generateFrontMattter() {
+    const fm = {}
+
+    fm.name = this.name
+    fm.level = this.level
+    fm.ac = this.armorClass
+    fm.hp = this.healthPoints.current
+    fm.modifier = this.initiative
+    fm.proficiency = this.proficiencyBonus
+    fm.url = this.url
+    fm.image = this.image
+    fm.race = `"${await findFile(this.race.fullName, '5. Mechanics/Races')}"`
+    fm.alignment = `"${this.alignment}"`
+    fm.description = this.description
+    fm.passives = this.passives
+    fm.proficiencies = this.proficiencies
+    fm.speed = this.speeds.walk
+    fm.defences = this.defences
+    fm.background = this.background
+    fm.classes = await Promise.all(this.classes.map(async (characterClass) => {
+      return {
+        name: await findFile(characterClass.name, '5. Mechanics/Classes'),
+        subClass: await findFile(characterClass.subClass, '5. Mechanics/Classes'),
+        level: characterClass.level
+      }
+    }))
+    fm.abilityScores = this.abilityScores
+    fm.savingThrows = this.savingThrows
+    fm.skills = this.skills
+    fm.racialTraits = this.racialTraits
+    fm.classFeatures = this.classFeatures
+    fm.feats = this.feats
+    fm.raceSpells = this.spells.race
+    fm.classSpells = await Promise.all(this.spells.class.map(async (classSpell) => {
+      return {
+        name: await findFile(classSpell, '5. Mechanics/Spells'),
+        level: classSpell.level,
+        isPrepared: classSpell.isPrepared
+      }
+    }))
+    fm.currencies = this.currencies
+    fm.inventory = await Promise.all(this.inventory.map(async (inv) => {
+      return {
+        name: await findFile(inv.name, '5. Mechanics/Items'),
+        type: inv.type,
+        rarity: inv.rarity,
+        quantity: inv.quantity,
+        canEquip: inv.canEquip,
+        equipped: inv.equipped,
+        canAttune: inv.canAttune,
+        attuned: inv.attuned,
+        damage: inv.damage,
+        damageType: inv.damageType,
+        armorClass: inv.armorClass
+      }
+    }))
+
+    console.log(fm)
+    return fm
   }
 }
 
