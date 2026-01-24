@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FilterTable.md",
-                "mode": "source",
-                "source": false
+                "file": "3. The Party/Parties/Curse of Strahd.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "FilterTable"
+              "title": "Curse of Strahd"
             }
           }
         ]
@@ -265,6 +265,10 @@
   },
   "active": "9a4851f4fa8a50c7",
   "lastOpenFiles": [
+    "1. DM Stuff/Calculators/Travel.md",
+    "1. DM Stuff/Calculators/Currency.md",
+    "Players.base",
+    "FilterTable.md",
     "Session Prep.md",
     "test.md",
     "z_Scripts/Dataview/views/editingView.js",
@@ -284,8 +288,6 @@
     "3. The Party/Quests",
     "4. World Almanac/Regions/Greenfall.md",
     "1. DM Stuff/Tools/Story Engine/Test.md",
-    "Players.base",
-    "FilterTable.md",
     "4. World Almanac/Places of Interest/Argynvostholt.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "z_Scripts/Dataview/views/partyLocation.js",
@@ -299,7 +301,6 @@
     "z_Extra/AI Prompts/World.md",
     "z_Extra/AI Prompts/Villian Lieutenant.md",
     "z_Extra/AI Prompts/Side Quest.md",
-    "z_Extra/AI Prompts/Settlement.md",
     "z_Extra/AI Prompts",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
     "5. Mechanics/Decks/Tarot/20-Judgement.png",

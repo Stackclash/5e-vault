@@ -8,12 +8,12 @@ speed: normal
 tags:
   - party
 travel_multiplier: 1
-travel_speed: 30.001
+travel_speed: 40.003
 encumbered: false
 travel_hours_per_day: 8
 travel_bonus: 0
 var_mins: 60
-travel_calc: 19.999333355554814
+travel_calc: 14.998875084368672
 ---
 > [!infobox]
 > # `=this.file.name`

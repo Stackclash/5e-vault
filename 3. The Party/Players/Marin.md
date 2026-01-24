@@ -754,7 +754,7 @@ condition: healthy
 tags:
   - player
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+location: "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
 ---
 `$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
