@@ -1,7 +1,6 @@
 const fs = require('fs')
 const path = require('path')
 const findFile = require('./find_file.js')
-console.log(findFile)
 
 class DnDBeyondCharacter {
 
@@ -500,7 +499,7 @@ class DnDBeyondCharacter {
       .replace(/\s*(\r\n|\n|\r)\s*/gm, ' ')
   }
 
-  async generateFrontMattter() {
+  async generateFrontMatter() {
     const fm = {}
 
     fm.name = this.name
@@ -519,6 +518,7 @@ class DnDBeyondCharacter {
     fm.speed = this.speeds.walk
     fm.defences = this.defences
     fm.background = this.background
+    console.log('Class',this.classes)
     fm.classes = await Promise.all(this.classes.map(async (characterClass) => {
       return {
         name: await findFile(characterClass.name, '5. Mechanics/Classes'),
@@ -533,6 +533,7 @@ class DnDBeyondCharacter {
     fm.classFeatures = this.classFeatures
     fm.feats = this.feats
     fm.raceSpells = this.spells.race
+    console.log('Class Spells',this.spells.class)
     fm.classSpells = await Promise.all(this.spells.class.map(async (classSpell) => {
       return {
         name: await findFile(classSpell, '5. Mechanics/Spells'),
@@ -541,6 +542,7 @@ class DnDBeyondCharacter {
       }
     }))
     fm.currencies = this.currencies
+    console.log('Inventory',this.inventory)
     fm.inventory = await Promise.all(this.inventory.map(async (inv) => {
       return {
         name: await findFile(inv.name, '5. Mechanics/Items'),
