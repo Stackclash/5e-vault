@@ -460,16 +460,15 @@ actions:
         fm.defences = character.defences
         fm.background = character.background
         const classes = []
-        for (const class in character.classes) {
+        for (const characterClass of character.classes) {
           let result = {}
 
           result.name = await find_file(characterClass.name, '5. Mechanics/Classes')
           result.subClass = await find_file(characterClass.subClass, '5. Mechanics/Classes')
-          result.level = class.level
+          result.level = characterClass.level
           classes.push(result)
         }
         fm.classes = classes
-        console.log(fm.classes)
         fm.abilityScores = character.abilityScores
         fm.savingThrows = character.savingThrows
         fm.skills = character.skills
