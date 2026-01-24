@@ -434,13 +434,13 @@ hidden: true
 actions:
   - type: inlineJS
     code: |-
-      console.log('test')
       const dndBeyondCharacter = await self.require.import('z_Scripts/Templater/dndBeyondCharacter.js')
       const activeFile = app.workspace.getActiveFile()
       const dndBeyondId = app.metadataCache.getFileCache(activeFile).frontmatter.url.match(/\d+$/)[0]
       const character = new dndBeyondCharacter(dndBeyondId)
       await character.initialize()
       const find_file = await self.require.import('z_Scripts/Templater/find_file.js')
+      console.log(character)
 
       app.fileManager.processFrontMatter(activeFile, async (fm) => {
         fm.name = character.name
@@ -459,13 +459,17 @@ actions:
         fm.speed = character.speeds.walk
         fm.defences = character.defences
         fm.background = character.background
-        fm.classes = character.classes.map(async (characterClass) => {
-          return {
-            name: await find_file(characterClass.name, '5. Mechanics/Classes'),
-            subClass: await find_file(characterClass.subClass, '5. Mechanics/Classes'),
-            level: characterClass.level
-          }
-        })
+        const classes = []
+        for (const class in character.classes) {
+          let result = {}
+
+          result.name = await find_file(characterClass.name, '5. Mechanics/Classes')
+          result.subClass = await find_file(characterClass.subClass, '5. Mechanics/Classes')
+          result.level = class.level
+          classes.push(result)
+        }
+        fm.classes = classes
+        console.log(fm.classes)
         fm.abilityScores = character.abilityScores
         fm.savingThrows = character.savingThrows
         fm.skills = character.skills
