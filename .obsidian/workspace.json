@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Redgrave.md",
+                "file": "3. The Party/Players/Seluvis Felo'melorn.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redgrave"
+              "title": "Seluvis Felo'melorn"
             }
           }
         ]
@@ -265,9 +265,10 @@
   },
   "active": "9a4851f4fa8a50c7",
   "lastOpenFiles": [
+    "3. The Party/Players/Marin.md",
+    "3. The Party/Players/Seluvis Felo'melorn.md",
     "3. The Party/Players/Yevelda Ovak.md",
     "3. The Party/Players/Redgrave.md",
-    "3. The Party/Players/Seluvis Felo'melorn.md",
     "Players.base",
     "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Stuff/Calculators/Travel.md",
@@ -300,7 +301,6 @@
     "z_Extra/AI Prompts/Campaign Arcs.md",
     "z_Scripts/Datacore/FilterTable.tsx",
     "z_Scripts/Datacore",
-    "z_Extra/AI Prompts/World.md",
     "z_Extra/AI Prompts",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
     "5. Mechanics/Decks/Tarot/20-Judgement.png",
