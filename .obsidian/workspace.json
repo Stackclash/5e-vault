@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Parties/Curse of Strahd.md",
+                "file": "3. The Party/Players/Yevelda Ovak.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Curse of Strahd"
+              "title": "Yevelda Ovak"
             }
           }
         ]
@@ -265,9 +265,10 @@
   },
   "active": "9a4851f4fa8a50c7",
   "lastOpenFiles": [
+    "Players.base",
+    "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Stuff/Calculators/Travel.md",
     "1. DM Stuff/Calculators/Currency.md",
-    "Players.base",
     "FilterTable.md",
     "Session Prep.md",
     "test.md",
@@ -289,7 +290,6 @@
     "4. World Almanac/Regions/Greenfall.md",
     "1. DM Stuff/Tools/Story Engine/Test.md",
     "4. World Almanac/Places of Interest/Argynvostholt.md",
-    "3. The Party/Parties/Curse of Strahd.md",
     "z_Scripts/Dataview/views/partyLocation.js",
     "z_Scripts/Dataview/views/partyLocation",
     "z_Scripts/Datacore/PartyLocation.tsx",
@@ -300,7 +300,6 @@
     "3. The Party/Players/Redgrave.md",
     "z_Extra/AI Prompts/World.md",
     "z_Extra/AI Prompts/Villian Lieutenant.md",
-    "z_Extra/AI Prompts/Side Quest.md",
     "z_Extra/AI Prompts",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
     "5. Mechanics/Decks/Tarot/20-Judgement.png",

@@ -616,7 +616,6 @@ actions:
       const character = new dndBeyondCharacter(dndBeyondId)
       await character.initialize()
       const find_file = await self.require.import('z_Scripts/Templater/find_file.js')
-      const build_yaml = await self.require.import('z_Scripts/Templater/build_yaml.js')
 
       const testRace = await find_file(character.race.fullName, '5. Mechanics/Races')
       console.log(testRace, character.race.fullName)

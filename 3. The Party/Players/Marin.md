@@ -772,7 +772,6 @@ actions:
       const character = new dndBeyondCharacter(dndBeyondId)
       await character.initialize()
       const find_file = await self.require.import('z_Scripts/Templater/find_file.js')
-      const build_yaml = await self.require.import('z_Scripts/Templater/build_yaml.js')
 
       app.fileManager.processFrontMatter(activeFile, async (fm) => {
         fm.name = character.name
