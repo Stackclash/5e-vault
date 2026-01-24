@@ -33,7 +33,7 @@ travel_calc: 14.998875084368672
 > await dv.view('views/encounterBenchmark', { current: dv.current() })
 > ```
 
-`$= await dv.view('editingView', {current: dv.current(), })`
+`$= await dv.view('utils/editingView', {current: dv.current(), type: 'number', field: 'travel_bonus', options: ['class(mb-25)']})`
 ## **Characters**
 > [!cards|dataview 3]
 >```dataview
