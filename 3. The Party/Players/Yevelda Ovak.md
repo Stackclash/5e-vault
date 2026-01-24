@@ -447,7 +447,7 @@ actions:
       await character.initialize()
       const frontmatter = await character.generateFrontMatter()
 
-      app.fileManager.processFrontMatter(activeFile, async (fm) => {
+      app.fileManager.processFrontMatter(activeFile, (fm) => {
         fm = frontmatter
       })
 ```

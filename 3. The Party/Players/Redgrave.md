@@ -660,8 +660,10 @@ actions:
       const character = new dndBeyondCharacter(dndBeyondId)
       await character.initialize()
       const frontmatter = await character.generateFrontMatter()
+      console.log(frontmatter)
 
-      app.fileManager.processFrontMatter(activeFile, async (fm) => {
+      app.fileManager.processFrontMatter(activeFile, (fm) => {
+        console.log('updating')
         fm = frontmatter
       })
 ```
