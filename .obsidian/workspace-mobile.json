@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "c32df0b5fd219914",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8ca7336bc809942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aabac1d675d75f63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DM Stuff/Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ced1408c5454abc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5330c7bfbbd10fa1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "c71e495ce1283ee5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "da068ea97f7efd0e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4bf7401f3b32a8df",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "545157b3d602fb3a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "53cfb003b41df2fc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "3c9988069b341719",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "3f5d2fa3657b9295",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "ce6654cd8ff13529",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "DICE_ROLLER_VIEW"
+        }
+      },
+      {
+        "id": "923aed3aa6f6cc23",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "initiative-tracker-view"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aabac1d675d75f63",
+  "lastOpenFiles": [
+    "1. DM Stuff/Ideas.md"
+  ]
+}
