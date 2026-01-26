@@ -21,3 +21,5 @@ https://www.tiktok.com/t/ZP8fcyX8r/ - keep stakes first and foremost in battles.
 ---
 https://watabou.itch.io/medieval-fantasy-city-generator - city generator
 ---
+https://watabou.itch.io/village-generator - village generator
+---
