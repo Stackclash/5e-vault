@@ -27,3 +27,5 @@ https://www.tiktok.com/t/ZP8fcWH2u/ - magical tax ideas. For magical cities/town
 ---
 https://giffyglyph.com/monstermaker/app/ - balanced monster maker
 ---
+If in a high magic city there is resurrection magic readily available, how are people charged for it? Subscription to magical medical teams?
+---
