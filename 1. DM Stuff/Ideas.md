@@ -53,3 +53,5 @@ https://www.orionsarm.com - planet/space resources
 ---
 https://www.behindthename.com - realistic name generator
 ---
+https://orkn.uk/kingdom - fantasy demographics generator
+---
