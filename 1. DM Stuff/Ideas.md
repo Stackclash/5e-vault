@@ -65,3 +65,5 @@ https://5emagic.shop/generate - magic shop generator
 ---
 https://www.thievesguild.cc/tavern-generator/ - tavern generator
 ---
+https://www.kassoon.com/dnd/2024/wilderness-travel - travel details generator
+---
