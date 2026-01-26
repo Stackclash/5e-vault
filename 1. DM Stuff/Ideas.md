@@ -39,3 +39,5 @@ https://www.tiktok.com/t/ZP8f3NPg5/ - ruling system ideas. What decides a ruler 
 ---
 https://www.tiktok.com/t/ZP8fc7cr6/ - travel tips. Use this as an opportunity to describe the world or show the world (traveling merchants, rare herd of beasts, natural magical occurrence), include the players with special events, make any battles be an encounter with a group.
 ---
+https://www.tiktok.com/t/ZP8fcGWSN/ - world building advice: 5 deaths. Watch TikTok to get list
+---
