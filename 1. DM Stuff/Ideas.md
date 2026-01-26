@@ -47,3 +47,5 @@ https://azgaar.github.io/Fantasy-Map-Generator/ - world map generator
 ---
 https://donjon.bin.sh - a lot of generators
 ---
+https://pantheon.org - mythology encyclopedia
+---
