@@ -59,3 +59,5 @@ https://www.tiktok.com/t/ZP8foxWB1/ - idioms for NPCs to use
 ---
 https://www.tiktok.com/t/ZP8foPnPU/ - Death Saving Roll Descriptions
 ---
+https://eigengrausgenerator.com/?seed=educatedregalmussel - town details generator
+---
