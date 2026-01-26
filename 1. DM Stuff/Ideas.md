@@ -41,3 +41,7 @@ https://www.tiktok.com/t/ZP8fc7cr6/ - travel tips. Use this as an opportunity to
 ---
 https://www.tiktok.com/t/ZP8fcGWSN/ - world building advice: 5 deaths. Watch TikTok to get list
 ---
+https://www.vulgarlang.com - fantasy language generator
+---
+https://azgaar.github.io/Fantasy-Map-Generator/ - world map generator
+---
