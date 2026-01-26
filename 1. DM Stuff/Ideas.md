@@ -23,3 +23,5 @@ https://watabou.itch.io/medieval-fantasy-city-generator - city generator
 ---
 https://watabou.itch.io/village-generator - village generator
 ---
+https://www.tiktok.com/t/ZP8fcWH2u/ - magical tax ideas. For magical cities/towns how is magic regulated? **Familiar registration and fee** Magic detectors at gates. What is done when high level magic items are detected?
+---
