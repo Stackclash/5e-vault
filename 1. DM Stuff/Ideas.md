@@ -63,3 +63,5 @@ https://eigengrausgenerator.com/?seed=educatedregalmussel - town details generat
 ---
 https://5emagic.shop/generate - magic shop generator
 ---
+https://www.thievesguild.cc/tavern-generator/ - tavern generator
+---
