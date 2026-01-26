@@ -35,3 +35,5 @@ https://www.tiktok.com/t/ZP8fcobaL/ - strange world occurrences. What reactions 
 ---
 https://www.tiktok.com/t/ZP8f3emWh/ - Inner Realm ideas. Like the sandman show with a world filled with magic, natural feelings or activities may have their own realm ruled by pseudo gods.
 ---
+https://www.tiktok.com/t/ZP8f3NPg5/ - ruling system ideas. What decides a ruler or leader? Bloodline, expertise, ritual?
+---
