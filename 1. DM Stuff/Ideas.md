@@ -19,3 +19,5 @@ https://www.tiktok.com/t/ZP8fcfBEX/ - justice system ideas
 ---
 https://www.tiktok.com/t/ZP8fcyX8r/ - keep stakes first and foremost in battles. Describe after math.
 ---
+https://watabou.itch.io/medieval-fantasy-city-generator - city generator
+---
