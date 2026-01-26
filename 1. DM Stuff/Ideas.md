@@ -8,3 +8,4 @@ https://www.tiktok.com/t/ZP8fvkQ61/ - additional questions to ask during prep:
 3. How can this session end in a cliffhanger?
 
 https://www.tiktok.com/t/ZP8fvYDMa/ - make travel more interesting by letting the party roll to see how far they make it before something happens.
+https://www.tiktok.com/t/ZP8fvYT6Y/ - after every session write down what surprised you and what the players reacted to.
