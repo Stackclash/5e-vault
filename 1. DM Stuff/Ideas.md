@@ -61,3 +61,5 @@ https://www.tiktok.com/t/ZP8foPnPU/ - Death Saving Roll Descriptions
 ---
 https://eigengrausgenerator.com/?seed=educatedregalmussel - town details generator
 ---
+https://5emagic.shop/generate - magic shop generator
+---
