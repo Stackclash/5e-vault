@@ -13,3 +13,5 @@ https://www.tiktok.com/t/ZP8fvYT6Y/ - after every session write down what surpri
 
 https://www.randroll.com/fantasy-pdfs/ - random generator references
 ---
+https://www.tiktok.com/t/ZP8fcUfWT/ - secret society ideas
+---
