@@ -51,3 +51,5 @@ https://pantheon.org - mythology encyclopedia
 ---
 https://www.orionsarm.com - planet/space resources
 ---
+https://www.behindthename.com - realistic name generator
+---
