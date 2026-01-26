@@ -31,3 +31,5 @@ If in a high magic city there is resurrection magic readily available, how are p
 ---
 https://originstudios.shop - one shot shop
 ---
+https://www.tiktok.com/t/ZP8fcobaL/ - strange world occurrences. What reactions does the world have to high magic or other world events?
+---
