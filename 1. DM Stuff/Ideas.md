@@ -75,3 +75,5 @@ https://www.tiktok.com/t/ZP8P18Xc8/ - spell burnout hombrew rule
 ---
 https://www.tiktok.com/t/ZP8P1FgTX/ - tavern drinking game
 ---
+https://www.tiktok.com/t/ZP8P1AXf3/ - creating a sense of horror
+---
