@@ -37,3 +37,5 @@ https://www.tiktok.com/t/ZP8f3emWh/ - Inner Realm ideas. Like the sandman show w
 ---
 https://www.tiktok.com/t/ZP8f3NPg5/ - ruling system ideas. What decides a ruler or leader? Bloodline, expertise, ritual?
 ---
+https://www.tiktok.com/t/ZP8fc7cr6/ - travel tips. Use this as an opportunity to describe the world or show the world (traveling merchants, rare herd of beasts, natural magical occurrence), include the players with special events, make any battles be an encounter with a group.
+---
