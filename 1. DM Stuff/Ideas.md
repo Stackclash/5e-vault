@@ -15,3 +15,5 @@ https://www.randroll.com/fantasy-pdfs/ - random generator references
 ---
 https://www.tiktok.com/t/ZP8fcUfWT/ - secret society ideas
 ---
+https://www.tiktok.com/t/ZP8fcfBEX/ - justice system ideas
+---
