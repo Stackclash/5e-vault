@@ -49,3 +49,5 @@ https://donjon.bin.sh - a lot of generators
 ---
 https://pantheon.org - mythology encyclopedia
 ---
+https://www.orionsarm.com - planet/space resources
+---
