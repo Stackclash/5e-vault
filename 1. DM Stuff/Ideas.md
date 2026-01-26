@@ -33,3 +33,5 @@ https://originstudios.shop - one shot shop
 ---
 https://www.tiktok.com/t/ZP8fcobaL/ - strange world occurrences. What reactions does the world have to high magic or other world events?
 ---
+https://www.tiktok.com/t/ZP8f3emWh/ - Inner Realm ideas. Like the sandman show with a world filled with magic, natural feelings or activities may have their own realm ruled by pseudo gods.
+---
