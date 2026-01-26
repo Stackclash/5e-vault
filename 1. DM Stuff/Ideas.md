@@ -55,3 +55,5 @@ https://www.behindthename.com - realistic name generator
 ---
 https://orkn.uk/kingdom - fantasy demographics generator
 ---
+https://www.tiktok.com/t/ZP8foxWB1/ - idioms for NPCs to use
+---
