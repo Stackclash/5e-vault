@@ -69,3 +69,5 @@ https://www.kassoon.com/dnd/2024/wilderness-travel - travel details generator
 ---
 https://www.tiktok.com/t/ZP8foKwMN/ - shop dynamic pricing
 ---
+https://www.tiktok.com/t/ZP8fowxJn/ - magic regulations
+---
