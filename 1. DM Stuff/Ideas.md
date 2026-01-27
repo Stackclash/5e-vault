@@ -79,3 +79,5 @@ https://www.tiktok.com/t/ZP8P1AXf3/ - creating a sense of horror
 ---
 https://www.randroll.com/fantasy-pdfs/ - resource references
 ---
+https://www.tiktok.com/t/ZP8PyaLxk/ - when adding history to your world keep remnants in the present. Old ruins, old sayings, traditions, etc
+---
