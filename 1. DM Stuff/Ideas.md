@@ -77,3 +77,5 @@ https://www.tiktok.com/t/ZP8P1FgTX/ - tavern drinking game
 ---
 https://www.tiktok.com/t/ZP8P1AXf3/ - creating a sense of horror
 ---
+https://www.randroll.com/fantasy-pdfs/ - resource references
+---
