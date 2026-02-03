@@ -81,3 +81,5 @@ https://www.randroll.com/fantasy-pdfs/ - resource references
 ---
 https://www.tiktok.com/t/ZP8PyaLxk/ - when adding history to your world keep remnants in the present. Old ruins, old sayings, traditions, etc
 ---
+https://www.tiktok.com/t/ZThf6mkGG/ - 2x2x2 principle: when building a district of a town or city create 2 points of interest, 2 NPCs, 2 taverns, and 2 shops.
+---
