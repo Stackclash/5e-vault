@@ -83,3 +83,5 @@ https://www.tiktok.com/t/ZP8PyaLxk/ - when adding history to your world keep rem
 ---
 https://www.tiktok.com/t/ZThf6mkGG/ - 2x2x2 principle: when building a district of a town or city create 2 points of interest, 2 NPCs, 2 taverns, and 2 shops.
 ---
+https://docs.google.com/document/u/0/d/11K6B1gHZmPOKxL7Q67GTf1WHmxqolHuRDcehv3OsuVg/mobilebasic - guide to world building
+---
