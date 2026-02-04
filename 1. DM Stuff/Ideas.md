@@ -85,3 +85,5 @@ https://www.tiktok.com/t/ZThf6mkGG/ - 2x2x2 principle: when building a district 
 ---
 https://docs.google.com/document/u/0/d/11K6B1gHZmPOKxL7Q67GTf1WHmxqolHuRDcehv3OsuVg/mobilebasic - guide to world building
 ---
+https://docs.google.com/document/u/0/d/1TKoyrApuKeynNIh_hYUPXMXgFUaS3LJ3USLS0s9HrB0/mobilebasic - world building resources
+---
