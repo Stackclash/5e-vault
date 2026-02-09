@@ -345,7 +345,7 @@ return function View() {
 >>return function View() {
 >>  const activeParty = dc.useQuery(`@page and #party and connected([[Configuration]])`)[0]
 >>  const journals = dc.useQuery(`@page and #session-journal`)
->>  const journalsNeedFixing = journals.filter(j => j.$name.includes('Session Journal') || (!j.value('summary') || !j.value('summary').length))
+>>  const journalsNeedFixing = journals.filter(j => j.$name.includes('Session Journal') || (!j.value('summary') || !j.value('summary').length) || !j.value('fc-end') || (!j.value('locations') || j.value('locations').length === 0))
 >>  const columns = [
 >>    {
 >>      id: 'Session',
@@ -362,16 +362,16 @@ return function View() {
 >>      value: (row) => row.value('summary'),
 >>      render: (value) => (value && value.length) ? "✅" : "✘"
 >>    },
->>.   {
->>.     id: 'Has End Date',
->>.     value: (row) => row.value('fc-end'),
->>.     render: (value) => value ? "✅" : "✘"
->>.   },
->>.   {
->>.     id: 'Has Locations Set',
->>.     value: (row) => row.value('locations'),
->>.     render: (value) => (value && value.length) ? "✅" : "✘"
->>.   }
+>>    {
+>>      id: 'Has End Date',
+>>      value: (row) => row.value('fc-end'),
+>>      render: (value) => value ? "✅" : "✘"
+>>    },
+>>    {
+>>      id: 'Has Locations Set',
+>>      value: (row) => row.value('locations'),
+>>      render: (value) => (value && value.length) ? "✅" : "✘"
+>>    }
 >>  ]
 >>  return <dc.Table paging={20} rows={journalsNeedFixing} columns={columns} />
 >>}
