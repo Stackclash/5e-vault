@@ -10976,7 +10976,7 @@ function create_catch_block(ctx) {
   let t1;
   return {
     c() {
-      t0 = text("Failure obtaining the options to display\r\n        ");
+      t0 = text("Failure obtaining the options to display\n        ");
       span = element("span");
       t1 = text(t1_value);
     },
@@ -15366,13 +15366,31 @@ function makeFormEngine({
 }) {
   const formStore = writable({ fields: {}, status: "draft" });
   function setFormField({ name, input }) {
+    const isNumericField = (input == null ? void 0 : input.type) === "number" || (input == null ? void 0 : input.type) === "slider";
+    function coerceValue(value) {
+      if (isNumericField && typeof value === "string" && value !== "") {
+        const num = Number(value);
+        if (!isNaN(num))
+          return num;
+      }
+      return value;
+    }
     function initField(errors2 = [], rules) {
+      const defaultValue = defaultValues[name];
       formStore.update((form) => {
         return {
           ...form,
           fields: {
             ...form.fields,
-            [name]: { value: fromNullable2(defaultValues[name]), name, errors: errors2, rules }
+            [name]: {
+              value: pipe2(
+                fromNullable2(defaultValue),
+                map4(coerceValue)
+              ),
+              name,
+              errors: errors2,
+              rules
+            }
           }
         };
       });
@@ -15388,7 +15406,7 @@ function makeFormEngine({
           ...form,
           fields: {
             ...form.fields,
-            [name]: { ...field, value: some3(value), errors: [] }
+            [name]: { ...field, value: some3(coerceValue(value)), errors: [] }
           }
         };
       });
@@ -19652,7 +19670,7 @@ function create_else_block5(ctx) {
   let t;
   return {
     c() {
-      t = text("This is a document block input. It is not meant to be used as a normal input, instead it\r\n            is to render some instructions to the user.");
+      t = text("This is a document block input. It is not meant to be used as a normal input, instead it\n            is to render some instructions to the user.");
     },
     m(target, anchor) {
       insert(target, t, anchor);
@@ -19668,7 +19686,7 @@ function create_if_block_19(ctx) {
   let t;
   return {
     c() {
-      t = text("This is markdown block. It is not a real input, it is used to render some markdown\r\n            inside your form.");
+      t = text("This is markdown block. It is not a real input, it is used to render some markdown\n            inside your form.");
     },
     m(target, anchor) {
       insert(target, t, anchor);
@@ -19686,7 +19704,7 @@ function create_if_block12(ctx) {
   let t1;
   return {
     c() {
-      t0 = text("Your function body has errors:\r\n            ");
+      t0 = text("Your function body has errors:\n            ");
       div = element("div");
       t1 = text(
         /*errors*/
@@ -19747,10 +19765,10 @@ function create_default_slot9(ctx) {
     c() {
       span = element("span");
       if_block0.c();
-      t0 = text("\r\n        It is expected to contain a function body that returns a string. Within the function body, you\r\n        can access the form data using the ");
+      t0 = text("\n        It is expected to contain a function body that returns a string. Within the function body, you\n        can access the form data using the ");
       code0 = element("code");
       code0.textContent = "form";
-      t2 = text("\r\n        variable. For example:\r\n        ");
+      t2 = text("\n        variable. For example:\n        ");
       pre = element("pre");
       pre.textContent = `${placeholder}`;
       t4 = space();
@@ -20360,7 +20378,7 @@ function create_default_slot11(ctx) {
       input = element("input");
       t0 = space();
       div = element("div");
-      t1 = text("Available placeholders:\r\n            ");
+      t1 = text("Available placeholders:\n            ");
       ul = element("ul");
       li0 = element("li");
       code0 = element("code");
@@ -20376,10 +20394,10 @@ function create_default_slot11(ctx) {
       code2 = element("code");
       code2.textContent = `${datetime}`;
       t9 = text(" - Current date and time (YYYY-MM-DD-HH-mm-ss)");
-      t10 = text("\r\n            Example:");
+      t10 = text("\n            Example:");
       code3 = element("code");
       code3.textContent = `screenshot-${datetime}.png`;
-      t14 = text(" will create:\r\n            ");
+      t14 = text(" will create:\n            ");
       code4 = element("code");
       code4.textContent = "screenshot-2024-12-08-19-29-52.png";
       attr(input, "type", "text");
@@ -20681,10 +20699,10 @@ function create_if_block_44(ctx) {
       label = element("label");
       span0 = element("span");
       input_1 = element("input");
-      t0 = text("\r\n                Allow unknown values.");
+      t0 = text("\n                Allow unknown values.");
       t1 = space();
       span1 = element("span");
-      span1.textContent = "If checked, the user will be able to type any value in the input even if it is not\r\n                in the list of options.";
+      span1.textContent = "If checked, the user will be able to type any value in the input even if it is not\n                in the list of options.";
       attr(input_1, "type", "checkbox");
       attr(span1, "class", "modal-form-hint");
       attr(label, "class", "unknown-checkbox svelte-15a6dqv");
@@ -22683,10 +22701,10 @@ function create_fragment32(ctx) {
       );
       t2 = space();
       p = element("p");
-      t3 = text("Templates are used when you create a note directly from a form. You can put any text you want\r\n    and reference the form fields using the ");
+      t3 = text("Templates are used when you create a note directly from a form. You can put any text you want\n    and reference the form fields using the ");
       code0 = element("code");
       code0.textContent = `${`{{name}}`}`;
-      t5 = text("\r\n    syntax.");
+      t5 = text("\n    syntax.");
       t6 = space();
       div1 = element("div");
       div0 = element("div");
@@ -22707,7 +22725,7 @@ function create_fragment32(ctx) {
       t14 = text("Save template");
       t15 = space();
       div4 = element("div");
-      t16 = text("Available fields:\r\n    ");
+      t16 = text("Available fields:\n    ");
       ul = element("ul");
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
@@ -23135,7 +23153,7 @@ function create_else_block7(ctx) {
       label0.textContent = "Form unique name";
       t1 = space();
       span0 = element("span");
-      span0.textContent = "This name will identify this form uniquely, and will be the value you need\r\n                        to provide when calling the method openForm";
+      span0.textContent = "This name will identify this form uniquely, and will be the value you need\n                        to provide when calling the method openForm";
       t3 = space();
       input0 = element("input");
       t4 = space();
@@ -27234,9 +27252,9 @@ function create_each_block_23(ctx) {
       div = element("div");
       pre = element("pre");
       code = element("code");
-      t0 = text("\r\n                                    ");
+      t0 = text("\n                                    ");
       t1 = text(t1_value);
-      t2 = text("\r\n                                ");
+      t2 = text("\n                                ");
       t3 = space();
       create_component(keyvalue.$$.fragment);
       t4 = space();
@@ -28410,7 +28428,7 @@ function create_fragment37(ctx) {
       h1.textContent = "Import a form";
       t1 = space();
       div0 = element("div");
-      div0.textContent = "Import a form by pasting the JSON definition into the box below. You can export a form from\r\n        the Form Builder. Any errors in the JSON will be displayed below. You will only be able to\r\n        import the form if there are no errors.";
+      div0.textContent = "Import a form by pasting the JSON definition into the box below. You can export a form from\n        the Form Builder. Any errors in the JSON will be displayed below. You will only be able to\n        import the form if there are no errors.";
       t3 = space();
       div2 = element("div");
       textarea = element("textarea");
@@ -29096,7 +29114,7 @@ function create_fragment38(ctx) {
       t8 = space();
       label0 = element("label");
       input = element("input");
-      t9 = text("\r\n                All");
+      t9 = text("\n                All");
       t10 = space();
       div5 = element("div");
       h32 = element("h3");
@@ -29104,14 +29122,14 @@ function create_fragment38(ctx) {
       t12 = space();
       div3 = element("div");
       p0 = element("p");
-      p0.textContent = "Whatever you write here will be used in the body part of the template (after the\r\n                frontmatter).";
+      p0.textContent = "Whatever you write here will be used in the body part of the template (after the\n                frontmatter).";
       t14 = space();
       p1 = element("p");
       t15 = text("You can use ");
       span = element("span");
       span.textContent = `${/*templateMessage*/
       ctx[10]}`;
-      t17 = text(" syntax to build the body of the\r\n                template.");
+      t17 = text(" syntax to build the body of the\n                template.");
       t18 = space();
       div4 = element("div");
       for (let i = 0; i < each_blocks.length; i += 1) {
@@ -30064,3 +30082,5 @@ var ModalFormPlugin = class extends import_obsidian34.Plugin {
     picker.open();
   }
 };
+
+/* nosourcemap */
