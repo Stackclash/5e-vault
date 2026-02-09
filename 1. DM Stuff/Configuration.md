@@ -361,7 +361,17 @@ return function View() {
 >>      id: 'Has Summary',
 >>      value: (row) => row.value('summary'),
 >>      render: (value) => (value && value.length) ? "✅" : "✘"
->>    }
+>>    },
+>>.   {
+>>.     id: 'Has End Date',
+>>.     value: (row) => row.value('fc-end'),
+>>.     render: (value) => value ? "✅" : "✘"
+>>.   },
+>>.   {
+>>.     id: 'Has Locations Set',
+>>.     value: (row) => row.value('locations'),
+>>.     render: (value) => (value && value.length) ? "✅" : "✘"
+>>.   }
 >>  ]
 >>  return <dc.Table paging={20} rows={journalsNeedFixing} columns={columns} />
 >>}
