@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 date: 2025-01-19
-summary: 
+summary:
 fc-date: 973-2-23
-fc-end: 
+fc-end: 973-2-23
 timelines:
   - COS
 aat-render-enabled: true

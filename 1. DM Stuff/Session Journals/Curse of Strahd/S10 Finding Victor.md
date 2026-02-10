@@ -22,6 +22,7 @@ locations:
   - "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
   - "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+fc-end: 973-2-16
 ---
 > [!infobox]
 > ## Info

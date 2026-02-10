@@ -21,6 +21,7 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Places of Interest/The Amber Temple.md|The Amber Temple]]"
+fc-end: 973-2-21
 ---
 > [!infobox]
 > ## Info

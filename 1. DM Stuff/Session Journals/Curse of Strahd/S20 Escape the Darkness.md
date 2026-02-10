@@ -10,7 +10,7 @@ summary: |-
 
   In one of the last rooms they explore, the party encounters a forgetful lich named Exethanter. During their conversation with him, they discover that he is a student of the dark secrets stored within the temple and that Strahd himself had once visited this place. Desperate to escape, the party asks Exethanter if he knows of a way out. To their surprise, he reveals that they've always had a means of escape. Exethanter points them to Victor's teleportation notes and the teleportation gem in their possession. Armed with this knowledge, the party quickly uses the teleportation gem, escaping the temple's clutches and reappearing at the Tsolenka Pass, breathing a collective sigh of relief.
 fc-date: 973-2-21
-fc-end: 
+fc-end: 973-2-21
 timelines:
   - COS
 aat-render-enabled: true

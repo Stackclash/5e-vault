@@ -6,7 +6,7 @@ summary: |-
 
   However, when they arrived, a scene of devastation awaited them. The tower, once a sanctuary, now lay in smoking ruin, its stones scattered like the aftermath of some great force. Among the debris, an envelope, once ornate, pinned to a fallen stone, contained a chilling message—an invitation to Strahd’s wedding. The groom: Strahd von Zarovich. The bride: Tatiana. In the party’s absence, Strahd had taken Tatiana, and now, with the looming wedding, the stakes were higher than ever. The final battle with the vampire lord felt closer than ever, his sinister hand already in motion.
 fc-date: 973-2-22
-fc-end: 
+fc-end: 973-2-22
 timelines:
   - COS
 aat-render-enabled: true

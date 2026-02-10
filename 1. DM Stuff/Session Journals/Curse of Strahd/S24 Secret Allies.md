@@ -3,7 +3,7 @@ obsidianUIMode: preview
 date: 2024-10-05
 summary: The party begins to make their way to Vallaki to plan their next move. Having arrived at Vallaki they find that they are no longer welcome. Though with the help of their old friend Urwin, who turns out is a wereraven a part of a secret organization fighting against Strahd in the shadows.
 fc-date: 973-2-22
-fc-end: 
+fc-end: 973-2-22
 timelines:
   - COS
 aat-render-enabled: true

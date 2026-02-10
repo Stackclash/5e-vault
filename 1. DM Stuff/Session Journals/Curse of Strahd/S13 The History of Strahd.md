@@ -21,6 +21,7 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
+fc-end: 973-2-17
 ---
 > [!infobox]
 > ## Info

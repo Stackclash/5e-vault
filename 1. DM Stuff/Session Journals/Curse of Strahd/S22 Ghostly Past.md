@@ -6,7 +6,7 @@ summary: |-
 
   The weight of this tragedy hung over the party as they arrived in the haunted ruins of Berez. There, amidst the fog and decay, they witnessed ghostly figures reliving the grim fate of Marina, who had fallen under Strahd’s thrall. Desperate to save her from becoming yet another victim of the vampire’s curse, the Burgomaster and the priest took her life, an act that enraged Strahd. In his fury, he summoned a devastating tidal wave that swept Berez into ruin, leaving it a desolate swamp. Now, the echoes of past sins and the specter of Strahd’s vengeance loomed larger than ever, a grim reminder of the power they faced.
 fc-date: 973-2-22
-fc-end: 
+fc-end: 973-2-22
 timelines:
   - COS
 aat-render-enabled: true

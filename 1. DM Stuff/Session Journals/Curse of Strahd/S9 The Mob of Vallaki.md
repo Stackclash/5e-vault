@@ -19,6 +19,7 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+fc-end: 973-2-15
 ---
 > [!infobox]
 > ## Info
