@@ -207,7 +207,7 @@
     "patch": 0,
     "beta": null
   },
-  "debug": false,
+  "debug": true,
   "askedToMoveFC": false,
   "askedAboutSync": true,
   "syncBehavior": "Always",

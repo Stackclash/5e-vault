@@ -10,12 +10,14 @@ timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
+calendar: Eldoria Calendar
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
-prep-notes: 
+prep-notes:
 tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+fc-end: 973-2-11
 ---
 > [!infobox]
 > ## Info

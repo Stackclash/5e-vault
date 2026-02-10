@@ -10,12 +10,14 @@ timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
+calendar: Eldoria Calendar
 party: "[[Curse of Strahd]]"
 prep-notes: "[[2023-11-10]]"
 tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+fc-end: 973-2-14
 ---
 > [!infobox]
 > ## Info

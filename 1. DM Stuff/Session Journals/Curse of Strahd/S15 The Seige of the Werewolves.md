@@ -16,6 +16,7 @@ timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
+calendar: Eldoria Calendar
 party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
 prep-notes: "[[2024-03-30|2024-03-30]]"
 fc-end: 973-2-19

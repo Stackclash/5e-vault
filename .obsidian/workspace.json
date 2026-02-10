@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Stuff/Session Journals/Curse of Strahd/S28 The Siege on the Winery.md",
+                "file": "1. DM Stuff/Session Journals/Curse of Strahd/S8 Meeting Strahd.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S28 The Siege on the Winery"
+              "title": "S8 Meeting Strahd"
             }
           }
         ]
@@ -208,7 +208,7 @@
                 "calendar": "ID_6b2b79a86a39",
                 "ephemeral": {
                   "viewing": {
-                    "day": 23,
+                    "day": 15,
                     "month": 1,
                     "year": 973
                   },
@@ -282,12 +282,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a776c06296f55a8",
+  "active": "3d6ee74210f8161f",
   "lastOpenFiles": [
-    "1. DM Stuff/Session Journals/Curse of Strahd/S1 Welcome to Barovia.md",
+    "1. DM Stuff/Session Journals/Curse of Strahd/S7 Making Friends with the Necromancer.md",
+    "1. DM Stuff/Session Journals/Curse of Strahd/S5 Never Trust a Hunter.md",
+    "1. DM Stuff/Session Journals/Curse of Strahd/S4 Knowing the Road.md",
+    "1. DM Stuff/Session Journals/Curse of Strahd/S3 The Look of Desperation.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S2 Secrets in the Dark.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S29 Yester Hill Ritual.md",
+    "1. DM Stuff/Session Journals/Curse of Strahd/S1 Welcome to Barovia.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S28 The Siege on the Winery.md",
+    "1. DM Stuff/Session Journals/Curse of Strahd/S29 Yester Hill Ritual.md",
     "1. DM Stuff/Configuration.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S27 Trip to the Winery.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S0 Campaign Preparation.md",
@@ -308,11 +312,7 @@
     "z_Scripts/Dataview/utils/generateMetaBindInput.js",
     "z_Scripts/Dataview/utils/editingView.js",
     "3. The Party/Players/Marin.md",
-    "3. The Party/Players/Yevelda Ovak.md",
-    "3. The Party/Players/Redgrave.md",
     "Players.base",
-    "1. DM Stuff/Calculators/Travel.md",
-    "1. DM Stuff/Calculators/Currency.md",
     "z_Scripts/Dataview/views/editingView.js",
     "z_Scripts/Dataview/views/test.js",
     "z_Assets/Locations/Maps/thornmere.png",

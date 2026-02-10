@@ -14,6 +14,7 @@ tags:
   - session-journal
 locations:
   - "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
+calendar: Eldoria Calendar
 ---
 > [!infobox]
 > ## Info
