@@ -344,7 +344,7 @@ return function View() {
 >>```datacorejsx
 >>return function View() {
 >>  const activeParty = dc.useQuery(`@page and #party and connected([[Configuration]])`)[0]
->>  const journals = dc.useQuery(`@page and #session-journal`).sort((a,b) => new Date(a.value('date')) - new Date(b.value('date')))
+>>  const journals = dc.useQuery(`@page and #session-journal and !$name.contains("S0")`).sort((a,b) => new Date(a.value('date')) - new Date(b.value('date')))
 >>  const journalsNeedFixing = journals.filter(j => j.$name.includes('Session Journal') || (!j.value('summary') || !j.value('summary').length) || !j.value('fc-end') || (!j.value('locations') || j.value('locations').length === 0))
 >>  const columns = [
 >>    {
