@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 date: 2024-01-11
-summary: 
+summary: "The party fortifies themselves in the winery while the leader of the dark druids has their tree blights surround the winery. When the group refuses to come out the cultists and the creatures attack. The party fights through waves of enemies and ends up capturing the leader and interogates "
 fc-date: 973-2-23
-fc-end: 
+fc-end:
 timelines:
   - COS
 aat-render-enabled: true
