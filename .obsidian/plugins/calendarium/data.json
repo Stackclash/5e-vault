@@ -200,7 +200,7 @@
     "calendar": false
   },
   "eventFrontmatter": false,
-  "parseDates": false,
+  "parseDates": true,
   "version": {
     "major": 2,
     "minor": 1,
