@@ -9,7 +9,6 @@
   "datacore",
   "dataview",
   "new-tab-default-page",
-  "obsidian-dice-roller",
   "dnd-ui-toolkit",
   "obsidian-excalidraw-plugin",
   "execute-code",
@@ -33,5 +32,6 @@
   "solo-rpg-toolkit",
   "obsidian-style-settings",
   "templater-obsidian",
-  "various-complements"
+  "various-complements",
+  "obsidian-dice-roller"
 ]

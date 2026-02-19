@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Settlements/Bruokdon.md",
-                "mode": "preview",
+                "file": "1. DM Stuff/Tools/Critical Tables.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bruokdon"
+              "title": "Critical Tables"
             }
           }
         ]
@@ -150,26 +150,6 @@
             }
           },
           {
-            "id": "7f9b5f6e609b3210",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "52b919dbab669e64",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
             "id": "40aa1838545e192f",
             "type": "leaf",
             "state": {
@@ -177,16 +157,6 @@
               "state": {},
               "icon": "lucide-ghost",
               "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "46a7464c91bfc167",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
             }
           },
           {
@@ -230,9 +200,19 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "1436941b61bd8f6a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       },
       {
         "id": "96a4f2188418a82a",
@@ -285,6 +265,10 @@
   },
   "active": "fa6272a934df262a",
   "lastOpenFiles": [
+    "1. DM Stuff/Tools/Barovian Names.md",
+    "1. DM Stuff/Tools/Critical Tables.md",
+    "1. DM Stuff/Tools/Encounter Generator.md",
+    "4. World Almanac/Settlements/Bruokdon.md",
     "1. DM Stuff/Configuration.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S35 New Session Journal.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S34 New Session Journal.md",
@@ -307,10 +291,6 @@
     "1. DM Stuff/Session Journals/Curse of Strahd/S17 Secrets long Dead.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S16 Dark Castle in the Storm.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S15 The Seige of the Werewolves.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S14 Secrets of the Tower.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S13 The History of Strahd.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S12 Sanctuary.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S11 Deal with the Devil.md",
     "z_Scripts/Dataview/utils/generateMetaBindInput.js",
     "z_Scripts/Dataview/utils/editingView.js",
     "Players.base",
