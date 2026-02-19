@@ -268,7 +268,6 @@
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": true,
       "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
@@ -280,7 +279,8 @@
       "modalforms:Edit forms": false,
       "remotely-save:Remotely Save": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "fa6272a934df262a",
