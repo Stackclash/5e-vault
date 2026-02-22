@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DM Stuff/Campaigns/Truth of Vecna.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -35,8 +35,7 @@
               "title": "Configuration"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,10 +277,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a66b605559128f0d",
+  "active": "fa6272a934df262a",
   "lastOpenFiles": [
-    "1. DM Stuff/Campaigns/Truth of Vecna.md",
     "1. DM Stuff/Configuration.md",
+    "1. DM Stuff/Campaigns/Truth of Vecna.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Stuff/Tools/Critical Tables.md",
     "1. DM Stuff/Campaigns",
