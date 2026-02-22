@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Critical Tables"
             }
-          },
-          {
-            "id": "9500f0a210ee0761",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,8 +263,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9500f0a210ee0761",
+  "active": "830f75e4aa18d718",
   "lastOpenFiles": [
+    "1. DM Stuff/Campaigns",
     "1. DM Stuff/Tools/Barovian Names.md",
     "1. DM Stuff/Tools/Critical Tables.md",
     "1. DM Stuff/Tools/Encounter Generator.md",
@@ -303,7 +291,6 @@
     "1. DM Stuff/Session Journals/Curse of Strahd/S18 Straight to the Tip.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S17 Secrets long Dead.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S16 Dark Castle in the Storm.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S15 The Seige of the Werewolves.md",
     "z_Scripts/Dataview/utils/generateMetaBindInput.js",
     "z_Scripts/Dataview/utils/editingView.js",
     "Players.base",
