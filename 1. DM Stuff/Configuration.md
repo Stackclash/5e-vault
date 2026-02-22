@@ -75,8 +75,8 @@ relationship_mapping:
 > [!infobox|n-th]
 > | | |
 > |---|---|
-> | **Active World:** | `INPUT[suggester(optionQuery(#world)):active_world]` |
 > | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
+> | **Active World:** | `INPUT[suggester(optionQuery(#world)):active_world]` |
 > | **Active Party:** | `INPUT[suggester(optionQuery(#party)):active_party]` |
 
 # Current Party/World Info
