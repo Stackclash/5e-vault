@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Critical Tables"
             }
+          },
+          {
+            "id": "9500f0a210ee0761",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,7 +276,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fa6272a934df262a",
+  "active": "9500f0a210ee0761",
   "lastOpenFiles": [
     "1. DM Stuff/Tools/Barovian Names.md",
     "1. DM Stuff/Tools/Critical Tables.md",
