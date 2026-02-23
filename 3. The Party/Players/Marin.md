@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 statblock: true
-active: true
+active: false
 name: Marin
 level: 10
 ac: 19
