@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -314,8 +314,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f30bf99c8e87e5df",
+  "active": "75af399d323b425d",
   "lastOpenFiles": [
+    "3. The Party/Quests/The Ones Who Were Forgotten.md",
     "4. World Almanac/NPCs/Bray Martikov (COS).md",
     "4. World Almanac/NPCs/Ismark Kolyanovich (COS).md",
     "4. World Almanac/NPCs/Ireena Kolyana (COS).md",
@@ -343,7 +344,6 @@
     "1. DM Stuff/Session Journals/Curse of Strahd/S34 New Session Journal.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S33 New Session Journal.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S32 Into the Lion's Den.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S31 Preparing for the End.md",
     "z_Scripts/Dataview/utils/generateMetaBindInput.js",
     "z_Scripts/Dataview/utils/editingView.js",
     "Players.base",
