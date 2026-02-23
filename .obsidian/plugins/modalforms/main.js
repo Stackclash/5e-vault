@@ -15925,11 +15925,12 @@ function duplicateForm(formName, forms) {
 var FormBuilder = class {
   constructor({ name, fields, title, version }, reporter) {
     this.reporter = reporter;
-    this.addField = ({ name, label, description }, input) => {
+    this.addField = ({ name, label, description, required }, input) => {
       const textField = {
         name,
         label,
         description: description || "",
+        isRequired: required,
         input
       };
       return new FormBuilder(
@@ -15940,53 +15941,57 @@ var FormBuilder = class {
         this.reporter
       );
     };
-    this.addTextField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "text", hidden: Boolean(hidden) });
+    this.addTextField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "text", hidden: Boolean(hidden) });
     this.text = this.addTextField;
-    this.addNumberField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "number", hidden: Boolean(hidden) });
-    this.addDateField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "date", hidden: Boolean(hidden) });
-    this.addTimeField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "time", hidden: Boolean(hidden) });
-    this.addDateTimeField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "datetime", hidden: Boolean(hidden) });
-    this.addTextareaField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "textarea", hidden: Boolean(hidden) });
-    this.addToggleField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "toggle", hidden: Boolean(hidden) });
-    this.addEmailField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "email", hidden: Boolean(hidden) });
-    this.addTelField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "tel", hidden: Boolean(hidden) });
-    this.addNoteField = ({ name, label, description, folder }) => this.addField({ name, label, description }, { type: "note", folder });
+    this.addNumberField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "number", hidden: Boolean(hidden) });
+    this.addDateField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "date", hidden: Boolean(hidden) });
+    this.addTimeField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "time", hidden: Boolean(hidden) });
+    this.addDateTimeField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "datetime", hidden: Boolean(hidden) });
+    this.addTextareaField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "textarea", hidden: Boolean(hidden) });
+    this.addToggleField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "toggle", hidden: Boolean(hidden) });
+    this.addEmailField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "email", hidden: Boolean(hidden) });
+    this.addTelField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "tel", hidden: Boolean(hidden) });
+    this.addNoteField = ({ name, label, description, required, folder }) => this.addField({ name, label, description, required }, { type: "note", folder });
     this.addFolderField = ({
       name,
       label,
       description,
+      required,
       parentFolder
-    }) => this.addField({ name, label, description }, { type: "folder", parentFolder });
+    }) => this.addField({ name, label, description, required }, { type: "folder", parentFolder });
     this.addSliderField = ({
       name,
       label,
       description,
+      required,
       min: min3,
       max: max3
-    }) => this.addField({ name, label, description }, { type: "slider", min: min3 != null ? min3 : 0, max: max3 });
-    this.addTagField = ({ name, label, description, hidden }) => this.addField({ name, label, description }, { type: "tag", hidden: Boolean(hidden) });
+    }) => this.addField({ name, label, description, required }, { type: "slider", min: min3 != null ? min3 : 0, max: max3 });
+    this.addTagField = ({ name, label, description, required, hidden }) => this.addField({ name, label, description, required }, { type: "tag", hidden: Boolean(hidden) });
     this.addSelectField = ({
       name,
       label,
       description,
+      required,
       options
     }) => this.addField(
-      { name, label, description },
+      { name, label, description, required },
       {
         type: "select",
         source: "fixed",
         options: options.map((o) => typeof o === "string" ? { value: o, label: o } : o)
       }
     );
-    this.addDataviewField = ({ name, label, description, query }) => this.addField({ name, label, description }, { type: "dataview", query });
+    this.addDataviewField = ({ name, label, description, required, query }) => this.addField({ name, label, description, required }, { type: "dataview", query });
     this.addMultiselectField = ({
       name,
       label,
       description,
+      required,
       allowUnknownValues,
       options
     }) => this.addField(
-      { name, label, description },
+      { name, label, description, required },
       {
         type: "multiselect",
         source: "fixed",
@@ -15994,25 +15999,27 @@ var FormBuilder = class {
         allowUnknownValues: Boolean(allowUnknownValues)
       }
     );
-    this.addDocumentBlockField = ({ name, label, description, body }) => this.addField({ name, label, description }, { type: "document_block", body });
-    this.addMarkdownBlockField = ({ name, label, description, body }) => this.addField({ name, label, description }, { type: "markdown_block", body });
+    this.addDocumentBlockField = ({ name, label, description, required, body }) => this.addField({ name, label, description, required }, { type: "document_block", body });
+    this.addMarkdownBlockField = ({ name, label, description, required, body }) => this.addField({ name, label, description, required }, { type: "markdown_block", body });
     this.addImageField = ({
       name,
       label,
       description,
+      required,
       filenameTemplate,
       saveLocation
     }) => this.addField(
-      { name, label, description },
+      { name, label, description, required },
       { type: "image", filenameTemplate, saveLocation }
     );
     this.addFileField = ({
       name,
       label,
       description,
+      required,
       folder,
       allowedExtensions
-    }) => this.addField({ name, label, description }, { type: "file", folder, allowedExtensions });
+    }) => this.addField({ name, label, description, required }, { type: "file", folder, allowedExtensions });
     this.number = this.addNumberField;
     this.date = this.addDateField;
     this.time = this.addTimeField;
