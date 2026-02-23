@@ -35,7 +35,8 @@
               "title": "Configuration"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,10 +278,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fa6272a934df262a",
+  "active": "a66b605559128f0d",
   "lastOpenFiles": [
-    "1. DM Stuff/Configuration.md",
     "1. DM Stuff/Campaigns/Truth of Vecna.md",
+    "1. DM Stuff/Configuration.md",
     "3. The Party/Parties/Curse of Strahd.md",
     "1. DM Stuff/Tools/Critical Tables.md",
     "1. DM Stuff/Campaigns",
