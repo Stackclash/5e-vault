@@ -76,6 +76,7 @@ relationship_mapping:
 > | | |
 > |---|---|
 > | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
+> | **Test World** | `VIEW["1. DM Stuff/Campaigns/Truth of Vecna.md"#world:active_world]` |
 > | **Active World:** | `INPUT[suggester(optionQuery(#world)):active_world]` |
 > | **Active Party:** | `INPUT[suggester(optionQuery(#party)):active_party]` |
 
