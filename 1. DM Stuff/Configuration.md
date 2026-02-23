@@ -71,6 +71,7 @@ relationship_mapping:
       male: Nephew
       female: Niece
     to: Aunt
+active_campaign: "[[1. DM Stuff/Campaigns/Truth of Vecna.md|Truth of Vecna]]"
 ---
 `VIEW[{Configuration#active_world}][text(renderMarkdown)]`
 > [!infobox|n-th]
@@ -78,7 +79,7 @@ relationship_mapping:
 > |---|---|
 > | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
 > | **Active World** | `VIEW[{1. DM Stuff/Campaigns/Truth of Vecna.md#world}][text(renderMarkdown):active_world]` |
-> | **Active Party:** | `INPUT[suggester(optionQuery(#party)):active_party]` |
+> | **Active Party:** | `VIEW[{1. DM Stuff/Campaigns/Truth of Vecna.md#party}][text(renderMarkdown):active_party]` |
 
 # Current Party/World Info
 ```dataviewjs

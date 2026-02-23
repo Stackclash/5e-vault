@@ -22,35 +22,35 @@
             }
           },
           {
-            "id": "a66b605559128f0d",
+            "id": "75af399d323b425d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redgrave.md",
+                "file": "1. DM Stuff/Configuration.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redgrave"
+              "title": "Configuration"
             }
           },
           {
-            "id": "010cbd1e3aa1ad6e",
+            "id": "f30bf99c8e87e5df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "1. DM Stuff/Configuration.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Configuration"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -292,16 +292,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a66b605559128f0d",
+  "active": "f30bf99c8e87e5df",
   "lastOpenFiles": [
+    "3. The Party/Parties/Curse of Strahd.md",
+    "1. DM Stuff/Configuration.md",
     "1. DM Stuff/Campaigns/Truth of Vecna.md",
+    "3. The Party/Parties/Test Party.md",
     "Untitled.md",
     "Redgrave.md",
     "3. The Party/Players/Seluvis Felo'melorn.md",
     "3. The Party/Players/Yevelda Ovak.md",
-    "3. The Party/Parties/Curse of Strahd.md",
     "3. The Party/Players/Marin.md",
-    "1. DM Stuff/Configuration.md",
     "1. DM Stuff/Tools/Critical Tables.md",
     "1. DM Stuff/Campaigns",
     "1. DM Stuff/Tools/Barovian Names.md",
@@ -320,7 +321,6 @@
     "1. DM Stuff/Session Journals/Curse of Strahd/S25 The Calm before the Storm.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S24 Secret Allies.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S23 Thieves in the Bog.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S22 Ghostly Past.md",
     "z_Scripts/Dataview/utils/generateMetaBindInput.js",
     "z_Scripts/Dataview/utils/editingView.js",
     "Players.base",
