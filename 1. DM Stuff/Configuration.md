@@ -72,12 +72,12 @@ relationship_mapping:
       female: Niece
     to: Aunt
 ---
+`VIEW[{Configuration#active_world}][text(renderMarkdown)]`
 > [!infobox|n-th]
 > | | |
 > |---|---|
 > | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
-> | **Test World** | `VIEW[[1. DM Stuff/Campaigns/Truth of Vecna.md]#world:active_world]` |
-> | **Active World:** | `INPUT[suggester(optionQuery(#world)):active_world]` |
+> | **Active World** | `VIEW[{1. DM Stuff/Campaigns/Truth of Vecna.md#world}][text(renderMarkdown):active_world]` |
 > | **Active Party:** | `INPUT[suggester(optionQuery(#party)):active_party]` |
 
 # Current Party/World Info

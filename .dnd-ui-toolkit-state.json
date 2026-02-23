@@ -2,6 +2,9 @@
   "state": {
     "din_luck_spell_2": {
       "value": 0
+    },
+    "redgrave_divine_intervention": {
+      "value": 0
     }
   }
 }
