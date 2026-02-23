@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/Regions/Barovia.md",
+                "file": "3. The Party/Quests/The Ones Who Were Forgotten.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barovia"
+              "title": "The Ones Who Were Forgotten"
             }
           }
         ],
@@ -316,6 +316,12 @@
   },
   "active": "f30bf99c8e87e5df",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Bray Martikov (COS).md",
+    "4. World Almanac/NPCs/Ismark Kolyanovich (COS).md",
+    "4. World Almanac/NPCs/Ireena Kolyana (COS).md",
+    "4. World Almanac/NPCs/Brom Martikov (COS).md",
+    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
+    "4. World Almanac/Regions/Barovia.md",
     "4. World Almanac/Places of Interest/Argynvostholt.md",
     "1. DM Stuff/Configuration.md",
     "1. DM Stuff/Campaigns/Truth of Vecna.md",
@@ -338,12 +344,6 @@
     "1. DM Stuff/Session Journals/Curse of Strahd/S33 New Session Journal.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S32 Into the Lion's Den.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S31 Preparing for the End.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S30 Second Gem Found.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S29 Yester Hill Ritual.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S28 The Siege on the Winery.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S27 Trip to the Winery.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S26 Shopping Day.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S25 The Calm before the Storm.md",
     "z_Scripts/Dataview/utils/generateMetaBindInput.js",
     "z_Scripts/Dataview/utils/editingView.js",
     "Players.base",

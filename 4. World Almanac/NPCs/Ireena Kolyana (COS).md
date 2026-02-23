@@ -14,22 +14,23 @@ relationships: []
 aliases:
   - Ireena Kolyana
 alignment: Lawful Good
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
+partyRelationships:
+  Curse of Strahd: Friendly
+location:
+pronounced:
+race:
 gender: female
-age: null
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 ---
 
 > [!infobox]
