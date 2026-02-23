@@ -73,7 +73,6 @@ relationship_mapping:
     to: Aunt
 active_campaign: "[[1. DM Stuff/Campaigns/Truth of Vecna.md|Truth of Vecna]]"
 ---
-`VIEW[{Configuration#active_world}][text(renderMarkdown)]`
 > [!infobox|n-th]
 > | | |
 > |---|---|

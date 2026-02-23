@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DM Stuff/Campaigns/Truth of Vecna.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -314,7 +314,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d8e956e7eb8b6e96",
+  "active": "f30bf99c8e87e5df",
   "lastOpenFiles": [
     "1. DM Stuff/Campaigns/Truth of Vecna.md",
     "Excalidraw/Drawing 2026-02-23 10.06.03.excalidraw.md",
