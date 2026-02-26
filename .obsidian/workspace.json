@@ -310,8 +310,7 @@
       "modalforms:Edit forms": false,
       "remotely-save:Remotely Save": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "75af399d323b425d",
