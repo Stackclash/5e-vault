@@ -126,6 +126,18 @@
       "noTitle": false,
       "copy": false,
       "color": "153, 62, 61"
+    },
+    "prompt": {
+      "type": "prompt",
+      "color": "240, 229, 112",
+      "icon": {
+        "name": "bolt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Prompt (ERASE ME)",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
