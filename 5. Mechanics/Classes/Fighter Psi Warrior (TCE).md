@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Psi Warrior (Level 3)
-
 Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force. Many githyanki train to become such warriors, as do some of the most disciplined high elves. In the world of Eberron, many young kalashtar dream of becoming Psi Warriors.
 
 As a Psi Warrior, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind's power as both weapon and shield.
+
+## Subclass Features
 
 ### Psionic Power (Level 3)
 
@@ -63,16 +61,13 @@ When you reach certain levels in this class, the size of your Psionic Energy dic
 
 The powers below use your Psionic Energy dice.
 
+Options:
+
 - **Protective Field**  
-
     When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.  
-
 - **Psionic Strike**  
-
     You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus your Intelligence modifier.  
-
 - **Telekinetic Movement**  
-
     You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.  
 
 ### Telekinetic Adept (Level 7)
@@ -81,12 +76,11 @@ The powers below use your Psionic Energy dice.
 
 You have mastered new ways to use your telekinetic abilities, detailed below.
 
+Options:
+
 - **Psi-Powered Leap**  
-
     As a bonus action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this bonus action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.  
-
 - **Telekinetic Thrust**  
-
     When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]] or move it up to 10 feet in any direction horizontally.  
 
 ### Guarded Mind (Level 10)

@@ -12,7 +12,7 @@ tags:
 aliases:
   - Bulette Torpedo
 one-hand-damage: 1d6 piercing
-range: 30/120
+range: 30\120
 weight: 2
 ---
 # Bulette Torpedo

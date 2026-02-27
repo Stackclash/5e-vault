@@ -13,8 +13,8 @@ tags:
 aliases:
   - Ogre Zombie
 ---
-# [[5. Mechanics/Bestiary/Undead/Ogre Zombie.md|Ogre Zombie]]
-*Source: Monster Manual p. 316, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Undead\Ogre Zombie.md|Ogre Zombie]]
+*Source: Monster Manual p. 316. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
 
@@ -83,7 +83,6 @@ A zombie doesn't require air, food, drink, or sleep.
     "name": "Morningstar"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Undead/token/ogre-zombie.webp"
 ```
 ^statblock

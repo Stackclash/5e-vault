@@ -15,8 +15,8 @@ tags:
 aliases:
   - Baboon
 ---
-# [[5. Mechanics/Bestiary/Beast/Baboon.md|Baboon]]
-*Source: Monster Manual p. 318, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Beast\Baboon.md|Baboon]]
+*Source: Monster Manual p. 318. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Baboon"
@@ -49,7 +49,6 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Beast/token/baboon.webp"
 ```
 ^statblock

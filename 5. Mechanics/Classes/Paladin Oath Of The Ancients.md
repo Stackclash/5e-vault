@@ -43,31 +43,21 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Oath of the Ancients (Level 3)
-
 The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.
+
+## Subclass Features
 
 ### Tenets of the Ancients (Level 3)
 
 The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.
 
-#### Kindle the Light
+**Kindle the Light.** Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.
 
-Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.
+**Shelter the Light.** Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
 
-#### Shelter the Light
+**Preserve Your Own Light.** Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.
 
-Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
-
-#### Preserve Your Own Light
-
-Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.
-
-#### Be the Light
-
-Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
+**Be the Light.** Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
 
 ### Oath Spells (Level 3)
 

@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Path of the Tideheart (Level 3)
-
 Barbarians who walk the Path of the Tideheart are attuned to the primal forces of water, drawing strength from its unyielding power and ever-changing nature. These fierce warriors have unlocked the secrets of waters versatility, transforming them into mighty storms that can not be held at bay. Their rage ebbs and flows between power and agility, allowing them to tear through battlefields with unparalleled ease. Whether roaring like a wave or finding stillness beneath a waterfall, these barbarians are a primal force to be reckoned with who harness their inner calm before unleashing the tempest within.
+
+## Subclass Features
 
 ### Crashing Wave (Level 3)
 

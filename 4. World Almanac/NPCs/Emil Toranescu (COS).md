@@ -10,7 +10,7 @@ tags:
   - monster/type/humanoid/shapechanger
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/emil-toranescu.webp
+  - 4. World Almanac\NPCs\img\emil-toranescu.webp
 relationships: []
 aliases:
   - Emil Toranescu

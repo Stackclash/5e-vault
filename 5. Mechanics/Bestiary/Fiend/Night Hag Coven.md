@@ -13,8 +13,8 @@ tags:
 aliases:
   - Night Hag (Coven)
 ---
-# [[5. Mechanics/Bestiary/Fiend/Night Hag Coven.md|Night Hag (Coven)]]
-*Source: Monster Manual p. 178, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Fiend\Night Hag Coven.md|Night Hag (Coven)]]
+*Source: Monster Manual p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock
 "name": "Night Hag Coven"
@@ -164,8 +164,6 @@ aliases:
     "name": ""
 "source":
   - "MM"
-  - "CoS"
-  - "TCE"
 ```
 ^statblock
 

@@ -43,32 +43,21 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Oath of the Watchers (Level 3)
-
 The Oath of the Watchers binds paladins to protect mortal realms from the predations of extraplanar creatures, many of which can lay waste to mortal soldiers. Thus, the Watchers hone their minds, spirits, and bodies to be the ultimate weapons against such threats.
 
 Paladins who follow the Watchers' oath are ever vigilant in spotting the influence of extraplanar forces, often establishing a network of spies and informants to gather information on suspected cults. To a Watcher, keeping a healthy suspicion and awareness about one's surroundings is as natural as wearing armor in battle.
+
+## Subclass Features
 
 ### Tenets of the Watchers (Level 3)
 
 A paladin who assumes the Oath of the Watchers swears to safeguard mortal realms from otherworldly threats.
 
-#### Vigilance
-_Source: Tasha's Cauldron of Everything_
+**Vigilance.** The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption.
 
-The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption.
+**Loyalty.** Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty.
 
-#### Loyalty
-_Source: Tasha's Cauldron of Everything_
-
-Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty.
-
-#### Discipline
-_Source: Tasha's Cauldron of Everything_
-
-You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond.
+**Discipline.** You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond.
 
 ### Oath Spells (Level 3)
 

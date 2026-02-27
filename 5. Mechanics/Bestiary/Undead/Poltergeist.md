@@ -15,8 +15,8 @@ tags:
 aliases:
   - Poltergeist
 ---
-# [[5. Mechanics/Bestiary/Undead/Poltergeist.md|Poltergeist]]
-*Source: Monster Manual p. 279, Curse of Strahd*
+# [[5. Mechanics\Bestiary\Undead\Poltergeist.md|Poltergeist]]
+*Source: Monster Manual p. 279*
 
 A poltergeist is the confused, invisible spirit of an individual with no sense of how he or she died. A poltergeist expresses its rage by hurling creatures and objects using the power of its shattered psyche.
 
@@ -78,7 +78,6 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
     "name": "Telekinetic Thrust"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Undead/token/poltergeist.webp"
 ```
 ^statblock

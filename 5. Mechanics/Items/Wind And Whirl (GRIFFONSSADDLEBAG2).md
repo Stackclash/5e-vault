@@ -12,7 +12,7 @@ tags:
 aliases:
   - Wind and Whirl
 one-hand-damage: 1d6 slashing
-range: 20/60
+range: 20\60
 weight: 3
 ---
 # Wind and Whirl

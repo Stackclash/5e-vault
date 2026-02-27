@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/dusk-elf
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/kasimir-velikov.webp
+  - 4. World Almanac\NPCs\img\kasimir-velikov.webp
 relationships: []
 aliases:
   - Kasimir Velikov
@@ -184,7 +184,7 @@ return function View() {
       \ of cold]]"
     "name": "Spellcasting"
   - "desc": "Kasimir has advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]],\
-      \ and magic can't put the him to sleep."
+      \ and magic can't put him to sleep."
     "name": "Fey Ancestry"
   - "desc": "Kasimir wears a [[/5. Mechanics/Items/Ring Of Warmth.md|ring of warmth]]\
       \ and carries a spellbook containing all the spells he has prepared plus the\

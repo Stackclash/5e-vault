@@ -10,11 +10,11 @@ tags:
   - monster/cr/13
   - monster/environment/underdark
   - monster/size/medium
-  - monster/type/humanoid/elf
+  - monster/type/humanoid/drow-elf
 aliases:
   - Drow Arachnomancer
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Arachnomancer (MPMM).md|Drow Arachnomancer]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Arachnomancer (MPMM).md|Drow Arachnomancer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 99, Mordenkainen's Tome of Foes p. 182*
 
 Drow spellcasters who seek to devote themselves wholly to [[/5. Mechanics/Deities/Drow Lolth (MTF).md|Lolth]], the Spider Queen, sometimes walk the sinister path of the arachnomancer. By offering up body and soul to Lolth, they gain tremendous power and a supernatural connection to the ancient spiders of the Demonweb Pits, channeling magic from that dread place.
@@ -23,7 +23,7 @@ Drow spellcasters who seek to devote themselves wholly to [[/5. Mechanics/Deitie
 "name": "Drow Arachnomancer (MPMM)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
 "ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]]"

@@ -229,39 +229,27 @@ Your Bardic Inspiration die changes when you reach certain levels in this class.
 
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the bard spell list.
 
-#### Cantrips
+**Cantrips.** You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, learning a 3rd cantrip at 4th level and a 4th at 10th level.
 
-You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, learning a 3rd cantrip at 4th level and a 4th at 10th level.
-
-#### Spell Slots
-
-The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+**Spell Slots.** The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 For example, if you know the 1st-level spell [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/5. Mechanics/Spells/Cure Wounds.md\|cure wounds]] using either slot.
 
-#### Spells Known of 1st Level and Higher
-
-You know four 1st-level spells of your choice from the bard spell list.
+**Spells Known of 1st Level and Higher.** You know four 1st-level spells of your choice from the bard spell list.
 
 You learn an additional bard spell of your choice at each level except 12th, 16th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
 Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
 
-#### Spellcasting Ability
-
-Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Charisma</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma</span>
 
-#### Ritual Casting
+**Ritual Casting.** You can cast any bard spell you know as a ritual if that spell has the ritual tag.
 
-You can cast any bard spell you know as a ritual if that spell has the ritual tag.
-
-#### Spellcasting Focus
-
-You can use a [[/5. Mechanics/Items/Musical Instrument.md\|musical instrument]] as a spellcasting focus for your bard spells.
+**Spellcasting Focus.** You can use a [[/5. Mechanics/Items/Musical Instrument.md\|musical instrument]] as a spellcasting focus for your bard spells.
 
 ### Jack of All Trades (Level 2)
 

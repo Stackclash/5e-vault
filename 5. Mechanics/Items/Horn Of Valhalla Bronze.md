@@ -4,6 +4,7 @@ cssclasses: json5e-item
 tags:
   - item
   - compendium/src/5e/dmg
+  - item/gear/instrument
   - item/rarity/very-rare
   - item/tier/major
 aliases:
@@ -11,7 +12,7 @@ aliases:
 weight: 2
 ---
 # Horn of Valhalla, Bronze
-*Wondrous item, major, very rare*  
+*Wondrous item, instrument ([[/5. Mechanics/Items/Horn.md\|horn]]), major, very rare*  
 
 - **Weight**: 2.0 lbs.
 

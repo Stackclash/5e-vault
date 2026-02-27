@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Illuminator (Level 2)
-
 Wizards who pursue Illumination magic, called illuminators, use the stars to predict when danger is near, and they draw on the power of light to attack their foes.
+
+## Subclass Features
 
 ### Wizard Specialty (Level 2)
 

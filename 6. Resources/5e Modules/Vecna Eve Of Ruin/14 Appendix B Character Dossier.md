@@ -7,7 +7,7 @@ aliases:
   - Appendix B: Character Dossier
 ---
 # Appendix B: Character Dossier
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 240* 
 
 This appendix describes iconic characters the heroes might learn about during the adventure, presenting them in alphabetical order. Stat blocks are included as appropriate.
 
@@ -95,7 +95,7 @@ Most recently, Lolth allied with Vecna. The archlich promised Lolth a place at h
 
 ## Lord Soth
 
-[[/4. World Almanac/NPCs/Lord Soth (DSOTDQ).md\|Lord Soth]] is the most powerful death knight on Krynn. Once a Solamnic Knight of the Order of the Rose, Soth was a paragon of virtue and justice who allowed his pride to lead him down an evil path. Soth perished during Krynn's Cataclysm, then rose from the ashes as a death knight. Soth lives in his cursed castle, Dargaard Keep.
+Lord Soth is the most powerful death knight on Krynn. Once a Solamnic Knight of the Order of the Rose, Soth was a paragon of virtue and justice who allowed his pride to lead him down an evil path. Soth perished during Krynn's Cataclysm, then rose from the ashes as a death knight. Soth lives in his cursed castle, Dargaard Keep.
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/211-13-014-lord-soth.webp#center]]
 
@@ -147,7 +147,7 @@ Now the Dark Powers keep Strahd trapped in his realm, tormenting him with his in
 
 ## Tasha
 
-[[/4. World Almanac/NPCs/Tasha The Witch (VEOR).md\|Tasha's]] path to greatness began when she was adopted by the arch-hag Baba Yaga, who named her Natasha. Tasha went on to create various spells, including [[/5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's Hideous Laughter]], and her magic-fueled ambitions brought her into contact with demons and demon lords, which she subjugated and used against her enemies. On the Material Plane, she became known as [[/4. World Almanac/NPCs/Iggwilv The Witch Queen (WBTW).md\|Iggwilv the Witch Queen]] and wrote the [[/5. Mechanics/Items/Demonomicon Of Iggwilv (TCE).md\|Demonomicon of Iggwilv]], the greatest of all treatises on the Abyss and its demonic inhabitants. In recent years, Tasha has sequestered herself in the Feywild, achieving incredible power and slowly turning into a Fey creature. Tasha has become Zybilna, archfey of the domain of Prismeer.
+[[/4. World Almanac/NPCs/Tasha The Witch (VEOR).md\|Tasha's]] path to greatness began when she was adopted by the arch-hag Baba Yaga, who named her Natasha. Tasha went on to create various spells, including [[/5. Mechanics/Spells/Tashas Hideous Laughter.md\|Tasha's Hideous Laughter]], and her magic-fueled ambitions brought her into contact with demons and demon lords, which she subjugated and used against her enemies. On the Material Plane, she became known as Iggwilv the Witch Queen and wrote the [[/5. Mechanics/Items/Demonomicon Of Iggwilv (TCE).md\|Demonomicon of Iggwilv]], the greatest of all treatises on the Abyss and its demonic inhabitants. In recent years, Tasha has sequestered herself in the Feywild, achieving incredible power and slowly turning into a Fey creature. Tasha has become Zybilna, archfey of the domain of Prismeer.
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/216-13-016-tasha.webp#center]]
 

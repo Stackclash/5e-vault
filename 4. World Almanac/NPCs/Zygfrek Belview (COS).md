@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/mongrelfolk
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/zygfrek-belview.webp
+  - 4. World Almanac\NPCs\img\zygfrek-belview.webp
 relationships: []
 aliases:
   - Zygfrek Belview

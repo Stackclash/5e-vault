@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Steel Hawk (Level 3)
-
 Powerful, nimble soldiers from the mountain city of Heavensteppe, Steel Hawks use explosive bursts of speed to launch themselves great distances in order to reach faraway threats. Despite their often heavy armor, those who follow this archetype leap and strike with the agility of seasoned assassins, becoming every inch the fearsome birds of prey their name would suggest.
+
+## Subclass Features
 
 ### Launch (Level 3)
 

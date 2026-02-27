@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/mongrelfolk
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/cyrus-belview.webp
+  - 4. World Almanac\NPCs\img\cyrus-belview.webp
 relationships: []
 aliases:
   - Cyrus Belview

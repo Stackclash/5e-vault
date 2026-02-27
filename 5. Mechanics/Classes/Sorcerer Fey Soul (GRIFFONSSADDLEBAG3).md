@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Fey Soul (Level 1)
-
 Your magic comes directly from the plane of fey. Sometimes called mesmers, many with this power pride themselves as masterful bewitchers and illusionists. Your magic probably stems from a powerful fey ancestry or forgotten lineage, but its also possible that it came to you by the will of an archfey or the fey plane itself. Many elves who come into this power become archfeys themselves over time.
+
+## Subclass Features
 
 ### Fey Soul Magic (Level 1)
 
@@ -76,25 +74,15 @@ You can use this feature twice at 1st level. You gain additional uses of it when
 
 The Charming Touch options are presented in alphabetical order.
 
-#### Captivate
+**Captivate.** The target must make a Wisdom saving throw. On a failed save, it can only focus on you, ignoring any sights, sounds, or other events in the area to do so. The effect lasts for 1 minute, until you or your companions do anything harmful to it, or until you are more than 10 feet away from it. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the effect ends on the target.
 
-The target must make a Wisdom saving throw. On a failed save, it can only focus on you, ignoring any sights, sounds, or other events in the area to do so. The effect lasts for 1 minute, until you or your companions do anything harmful to it, or until you are more than 10 feet away from it. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the effect ends on the target.
+**Charm.** The target must make a Wisdom saving throw. On a failed save, its [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you for 1 minute or until you or your companions do anything harmful to it.
 
-#### Charm
+**Cloak.** The target must make a Wisdom saving throw. On a failed save, it can not perceive you until the end of your next turn. For the duration, it rationalizes anything it witnesses in such a way as to not involve you.
 
-The target must make a Wisdom saving throw. On a failed save, its [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] by you for 1 minute or until you or your companions do anything harmful to it.
+**Commune.** For the next 1 minute, you and the target can communicate as if you shared a common language. The target must be a creature that can speak at least 1 language.
 
-#### Cloak
-
-The target must make a Wisdom saving throw. On a failed save, it can not perceive you until the end of your next turn. For the duration, it rationalizes anything it witnesses in such a way as to not involve you.
-
-#### Commune
-
-For the next 1 minute, you and the target can communicate as if you shared a common language. The target must be a creature that can speak at least 1 language.
-
-#### Compel
-
-As part of touching the target, you must also give a one-word command. The target then makes a Wisdom saving throw. On a failed save, its compelled to follow the command on its next turn, as if by the [[/5. Mechanics/Spells/Command.md\|command]] spell. When the effect ends, it rationalizes any action it took, provided that it was reasonable. If its obviously not, the creature knows that it was [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] and reacts accordingly.
+**Compel.** As part of touching the target, you must also give a one-word command. The target then makes a Wisdom saving throw. On a failed save, its compelled to follow the command on its next turn, as if by the [[/5. Mechanics/Spells/Command.md\|command]] spell. When the effect ends, it rationalizes any action it took, provided that it was reasonable. If its obviously not, the creature knows that it was [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] and reacts accordingly.
 
 ### Fey Resistance (Level 6)
 

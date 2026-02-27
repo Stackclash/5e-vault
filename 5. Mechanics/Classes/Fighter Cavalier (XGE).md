@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Cavalier (Level 3)
-
 The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
+
+## Subclass Features
 
 ### Bonus Proficiency (Level 3)
 

@@ -14,8 +14,8 @@ tags:
 aliases:
   - Giant Octopus
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Octop(US).md|Giant Octopus]]
-*Source: Monster Manual p. 326, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Beast\Giant Octop(US).md|Giant Octopus]]
+*Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Giant Octop(US)"
@@ -60,11 +60,10 @@ aliases:
   - "desc": "A 20-foot-radius cloud of ink extends all around the octopus if it is\
       \ underwater. The area is heavily obscured for 1 minute, although a significant\
       \ current can disperse the ink. After releasing the ink, the octopus can use\
-      \ the Dash action as a bonus action."
+      \ the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]] action as a bonus action."
     "name": "Ink Cloud (Recharges after a Short or Long Rest)"
 "source":
   - "MM"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Beast/token/giant-octopus.webp"
 ```
 ^statblock

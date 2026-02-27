@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Way of the Aether (Level 3)
-
 Monks of the Way of the Aether tap into the energy of spirits and the Ethereal Plane. This energy is the fifth element, aether, which is contained by every living—and nonliving—soul. Sometimes called ghostfists, monks of this tradition explore the Material and Ethereal Planes on lifelong missions to give the souls of the dead a final resting place. By aligning the ki and aether within themselves, monks of this tradition treat their spirit as an extension of their physical bodies and move through the world unimpeded by material obstacles like a ghost.
+
+## Subclass Features
 
 ### Spirit Strike (Level 3)
 
@@ -65,10 +63,7 @@ Starting at 6th level, you can't be possessed by ghosts or similar undead creatu
 
 Furthermore, you learn how to free certain souls from their undead vessels when you harness your ki. You gain the following ability:
 
-#### Dismiss Undead
-_Source: The Griffon's Saddlebag, Book 2_
-
-When you hit an undead with one of the attacks granted by your Flurry of Blows, you can force it to make a Wisdom saving throw against your ki save DC. On a failed save, its spirit leaves and is put to rest, causing the creature to either vanish or become an unmoving corpse once more. If the creature's challenge rating is above the threshold shown in the following table, it automatically succeeds on the saving throw.
+**Dismiss Undead.** When you hit an undead with one of the attacks granted by your Flurry of Blows, you can force it to make a Wisdom saving throw against your ki save DC. On a failed save, its spirit leaves and is put to rest, causing the creature to either vanish or become an unmoving corpse once more. If the creature's challenge rating is above the threshold shown in the following table, it automatically succeeds on the saving throw.
 
 | Monk Level | CR Threshold |
 |------------|--------------|
@@ -85,17 +80,11 @@ If a creature has a bonus or penalty against any effect that turns undead, that 
 
 Beginning at 11th level, you are familiar with how ghosts and creatures of the Border Ethereal meld into the Material Plane. You can choose to partially slip into the Ethereal Plane, granting you the following benefits:
 
-#### Etherstep
-_Source: The Griffon's Saddlebag, Book 2_
-
-You can spend 1 ki point as a bonus action to turn [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] until the end of your next turn, or until you make an attack or cast a spell.
+**Etherstep.** You can spend 1 ki point as a bonus action to turn [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]] until the end of your next turn, or until you make an attack or cast a spell.
 
 Alternatively, you can spend an extra ki point as part of your Step of the Wind to gain this benefit. When you do, you can also move through hostile creatures and solid objects no more than 4 inches thick for as long as you remain [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]].
 
-#### Phase
-_Source: The Griffon's Saddlebag, Book 2_
-
-When you are hit by an attack, you can use your reaction to reduce the attack's damage against you by an amount equal to your monk level as you partially slip into the Border Ethereal. You can use this ability a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.
+**Phase.** When you are hit by an attack, you can use your reaction to reduce the attack's damage against you by an amount equal to your monk level as you partially slip into the Border Ethereal. You can use this ability a number of times equal to your Wisdom modifier (a minimum of once), and you regain all expended uses when you finish a long rest.
 
 ### Sight Beyond Sight (Level 17)
 

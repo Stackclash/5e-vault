@@ -14,8 +14,8 @@ tags:
 aliases:
   - Shield Guardian
 ---
-# [[5. Mechanics/Bestiary/Construct/Shield Guardian.md|Shield Guardian]]
-*Source: Monster Manual p. 271, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Construct\Shield Guardian.md|Shield Guardian]]
+*Source: Monster Manual p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Wizards and other spellcasters create shield guardians for protection. A shield guardian treads beside its master, absorbing damage to keep its master alive as long as possible.
 
@@ -93,8 +93,6 @@ A shield guardian doesn't require air, food, drink, or sleep.
     "name": "Shield"
 "source":
   - "MM"
-  - "CoS"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Construct/token/shield-guardian.webp"
 ```
 ^statblock

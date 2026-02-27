@@ -11,7 +11,7 @@ tags:
 aliases:
   - Champion's Greatbow
 one-hand-damage: 1d10 piercing
-range: 150/600
+range: 150\600
 weight: 2
 ---
 # Champion's Greatbow

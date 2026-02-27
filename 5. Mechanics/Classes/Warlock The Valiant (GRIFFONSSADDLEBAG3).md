@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### The Valiant (Level 1)
-
 The life of a natural born hero is not in the cards for everyone. Comparatively few are naturally built for combat or glory, as most folks talents lie elsewhere and in relative safety. By choosing this patron, you call upon the strength of warriors, archmages, or other heroes whose legacies have stood the test of time: transforming their living memory into a powerful force all its own. Your patron could be one such a person, or even the collective force of a famed platoon. As a warlock of this patron, you have made the choice to trust your heart in the face of adversity to follow the path of a hero.
+
+## Subclass Features
 
 ### Expanded Spell List (Level 1)
 

@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Justice Domain (Level 1)
-
 All seek some form of justice when they have been wronged, and many live under the promise of its protection, whether or not the promise is kept, but few take on the holy burden of delivering the justice of the gods. The mercy of the gods, when in evidence at all, is not the mercy of mortals, and meting it out makes for a lonely life. Yet most agree on the urgent need for justice in the world, with all of its dark places and rulers who give it little thought. Someone must make the sacrifice.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Justice Domain Spells**
 

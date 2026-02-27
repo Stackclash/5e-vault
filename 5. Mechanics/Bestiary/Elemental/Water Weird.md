@@ -15,8 +15,8 @@ tags:
 aliases:
   - Water Weird
 ---
-# [[5. Mechanics/Bestiary/Elemental/Water Weird.md|Water Weird]]
-*Source: Monster Manual p. 299, Vecna: Eve of Ruin*
+# [[5. Mechanics\Bestiary\Elemental\Water Weird.md|Water Weird]]
+*Source: Monster Manual p. 299*
 
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
 
@@ -81,7 +81,6 @@ A water weird doesn't require air, food, drink, or sleep.
     "name": "Constrict"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Elemental/token/water-weird.webp"
 ```
 ^statblock

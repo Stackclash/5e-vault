@@ -15,8 +15,8 @@ tags:
 aliases:
   - Saber-Toothed Tiger
 ---
-# [[5. Mechanics/Bestiary/Beast/Saber Toothed Tiger.md|Saber-Toothed Tiger]]
-*Source: Monster Manual p. 336, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Beast\Saber Toothed Tiger.md|Saber-Toothed Tiger]]
+*Source: Monster Manual p. 336. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Saber Toothed Tiger"
@@ -62,7 +62,6 @@ aliases:
     "name": "Claw"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Beast/token/saber-toothed-tiger.webp"
 ```
 ^statblock

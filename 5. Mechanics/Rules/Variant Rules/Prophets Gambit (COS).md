@@ -7,7 +7,7 @@ aliases:
   - Prophet's Gambit
 ---
 # Prophet's Gambit
-*Source: Curse of Strahd* 
+*Source: Curse of Strahd p. 243* 
 
 > [!note]
 > Game Designed by Sean Goodison, for 3–5 players, using the [[/5. Mechanics/Decks/Tarokka Deck (COS).md\|Tarokka Deck]].

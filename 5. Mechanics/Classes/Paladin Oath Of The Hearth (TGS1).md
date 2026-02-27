@@ -43,35 +43,21 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Oath of the Hearth (Level 3)
-
 The Oath of the Hearth originates from the city of the same name, whose tragic downfall has been all but lost to history over centuries. These paladins swore an oath to protect this tropical, sunlit city in the name of their celestial guardians. Until the end, they fulfilled their oaths. You may swear this oath because you have an age-old connection to the city through your bloodline, or may have established a connection to the city's principles through stories or interaction with a related celestial being. Regardless of your reasons for taking it, those that swear this oath adorn their armor with symbols of community, fire, and the sun to reflect their commitment to the city and the lives that were led there.
+
+## Subclass Features
 
 ### Tenets of the Hearth (Level 3)
 
 The tenets of the Oath of the Hearth are linked directly to the once-flourishing city of the oath's origin. The culture was vibrant and open, and thrived under the tropical sun in the Elsath Jungle. They were supportive of children's imagination and new ideas, and as a community would rush to foster good creativity. With new ideas came progress and prosperity, and with each new generation, the future always looked brighter. The core principles of this oath are devoted to supporting the weak, developing community, and destroying the evils that would seek to harm them.
 
-#### Shield the Embers
-_Source: The Griffon's Saddlebag, Book 1_
+**Shield the Embers.** Protect those that can't defend themselves. Every ember is a fount of possibility and strength.
 
-Protect those that can't defend themselves. Every ember is a fount of possibility and strength.
+**Feed the Fire.** Keep the fires of passion burning. New ideas light the way to progress and salvation.
 
-#### Feed the Fire
-_Source: The Griffon's Saddlebag, Book 1_
+**Share the Warmth.** Offer guidance and kindness to those that need it. Respite and rest are always free to give.
 
-Keep the fires of passion burning. New ideas light the way to progress and salvation.
-
-#### Share the Warmth
-_Source: The Griffon's Saddlebag, Book 1_
-
-Offer guidance and kindness to those that need it. Respite and rest are always free to give.
-
-#### Burn Away Evil
-_Source: The Griffon's Saddlebag, Book 1_
-
-Turn those that would harm the innocent or douse the peoples' flames to ash.
+**Burn Away Evil.** Turn those that would harm the innocent or douse the peoples' flames to ash.
 
 ### Oath of the Hearth Spells (Level 3)
 
@@ -92,17 +78,11 @@ You gain oath spells at the paladin levels listed.
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-#### Burning Weapon
-_Source: The Griffon's Saddlebag, Book 1_
-
-As a bonus action, you can ignite one weapon that you're holding with fiery energy using your Channel Divinity. For 1 minute, you deal extra fire damage with that weapon equal to your Charisma modifier (minimum 1). The weapon also emits bright light in a 20-foot radius and dim light for an additional 20 feet. If the weapon is not already magical, it becomes magical for the duration.
+**Burning Weapon.** As a bonus action, you can ignite one weapon that you're holding with fiery energy using your Channel Divinity. For 1 minute, you deal extra fire damage with that weapon equal to your Charisma modifier (minimum 1). The weapon also emits bright light in a 20-foot radius and dim light for an additional 20 feet. If the weapon is not already magical, it becomes magical for the duration.
 
 You can end this effect on your turn (no action required). If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 
-#### Warming Respite
-_Source: The Griffon's Saddlebag, Book 1_
-
-Your Channel Divinity can enhance the healing powers of a good rest. When you or any friendly creatures who can see you finish a short rest, you can use your Channel Divinity to grant each of those creatures a number of temporary hit points equal to your paladin level.
+**Warming Respite.** Your Channel Divinity can enhance the healing powers of a good rest. When you or any friendly creatures who can see you finish a short rest, you can use your Channel Divinity to grant each of those creatures a number of temporary hit points equal to your paladin level.
 
 ### Aura of Warmth (Level 7)
 

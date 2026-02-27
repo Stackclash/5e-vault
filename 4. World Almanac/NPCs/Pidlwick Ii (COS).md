@@ -9,7 +9,7 @@ tags:
   - monster/type/construct
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/pidlwick-ii.webp
+  - 4. World Almanac\NPCs\img\pidlwick-ii.webp
 relationships: []
 aliases:
   - Pidlwick II

@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Circle of the Cycle (Level 2)
-
 Druids of the Circle of the Cycle believe that death and life are merely part of the same cycle: not only is death a beautiful, natural event, but it is also essential for life to flourish. However, these druids take this concept a step further than simply consuming flesh or reusing bones to make tools. Instead, they take the body parts of slain creatures and incorporate them into their shapeshifting abilities to bolster their own powers. While even other druids see this as overly pragmatic, Druids of the Circle of the Cycle see it as a final honour to the dead, allowing them to walk the earthly plane one last time.
 
 These druids wander the land, ensuring the cycle is unbroken. They are just as adept at ending a suffering creature's life as they are at helping to birth a new one. They absolutely abhor the undead, who they see as being the ultimate perversion of the cycle; it is not uncommon for these druids to be spurred to great action if it means ending an undead presence in their land.
+
+## Subclass Features
 
 ### Healing Through Change (Level 2)
 

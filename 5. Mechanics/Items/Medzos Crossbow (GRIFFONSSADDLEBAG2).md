@@ -11,7 +11,7 @@ tags:
 aliases:
   - Medzo's Crossbow
 one-hand-damage: 3d4 piercing
-range: 30/120
+range: 30\120
 weight: 3
 ---
 # Medzo's Crossbow

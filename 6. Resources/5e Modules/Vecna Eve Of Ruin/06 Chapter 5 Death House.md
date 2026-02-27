@@ -7,7 +7,7 @@ aliases:
   - Chapter 5: Death House
 ---
 # Chapter 5: Death House
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 93* 
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/080-05-001-the-death-house.webp#center\|"Death House is a source of terror in Barovia, and the characters soon discover why"]]
 

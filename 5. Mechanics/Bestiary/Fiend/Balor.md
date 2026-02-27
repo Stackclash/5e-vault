@@ -13,8 +13,8 @@ tags:
 aliases:
   - Balor
 ---
-# [[5. Mechanics/Bestiary/Fiend/Balor.md|Balor]]
-*Source: Monster Manual p. 55, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Fiend\Balor.md|Balor]]
+*Source: Monster Manual p. 55. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
 
@@ -256,7 +256,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Teleport"
 "source":
   - "MM"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Fiend/token/balor.webp"
 ```
 ^statblock

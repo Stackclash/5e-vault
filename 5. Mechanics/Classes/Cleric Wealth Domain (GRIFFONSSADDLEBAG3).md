@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Wealth Domain (Level 1)
-
 The Wealth domain is a divine path followed by those who worship gods of riches, trade, and prosperity. Through their prayer and devotion to these deities (such as Lugh, Hermes, or Ptha), clerics of this domain are granted the power to manipulate wealth, fortune, and commerce to aid their allies and lead the way to success. These clerics are often found in bustling cities and markets, using their abilities to protect their congregations financial interests and to bring prosperity to their communities. Those who walk the path of the Wealth Domain are trusted and respected by merchants and financiers, and their blessings can mean the difference between success and ruin for those under their care. To them, they know first hand that money does not grow on trees: it comes directly from the gods.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Wealth Domain Spells**
 
@@ -75,17 +75,11 @@ This features damage increases by 1d12 when you reach certain levels in this cla
 
 If you roll a 12 on one or more of the damage dice, the target suffers an effect based on the number of 12s you rolled, as detailed below. For every 12 you roll on the damage dice, more and more of the target is magically turned to gold for the duration of the effect.
 
-#### One
+**One.** The targets speed is reduced to 0 until the start of your next turn.
 
-The targets speed is reduced to 0 until the start of your next turn.
+**Two.** The target is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until the start of your next turn.
 
-#### Two
-
-The target is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until the start of your next turn.
-
-#### Three or more
-
-The target is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until the start of your next turn, at which point it makes a Constitution saving throw against your cleric spell save DC. On a failed save, the target is [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] for 1 minute. It can repeat the saving throw against this effect at the end of each of its turns for the duration. On a success, the effect ends. Even if the target succeeds on the saving throw against the initial effect, its still [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until the start of your next turn.
+**Three or more.** The target is [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until the start of your next turn, at which point it makes a Constitution saving throw against your cleric spell save DC. On a failed save, the target is [[/5. Mechanics/Rules/Conditions.md#Petrified\|petrified]] for 1 minute. It can repeat the saving throw against this effect at the end of each of its turns for the duration. On a success, the effect ends. Even if the target succeeds on the saving throw against the initial effect, its still [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] until the start of your next turn.
 
 ### Channel Divinity: Golden Cauldron (Level 2)
 
@@ -109,23 +103,15 @@ At 6th level, you gain a new way to barter with your deity, called wealth points
 
 You can spend wealth points in the following ways:
 
-#### Influence
+**Influence.** You can spend 1 wealth point to reroll a Charisma check that you fail. If you do so, you must use the new roll.
 
-You can spend 1 wealth point to reroll a Charisma check that you fail. If you do so, you must use the new roll.
-
-#### Power
-
-You can use an action to spend 2 or more wealth points to regain an expended spell slot. The spell slot level depends on the number of wealth points spent: 1st level (2 points), 2nd level (3 points), 3rd level (5 points), 4th level (6 points), or 5th level (7 points).
+**Power.** You can use an action to spend 2 or more wealth points to regain an expended spell slot. The spell slot level depends on the number of wealth points spent: 1st level (2 points), 2nd level (3 points), 3rd level (5 points), 4th level (6 points), or 5th level (7 points).
 
 Alternatively, you can spend 1 or more wealth points to automatically turn a number of damage dice from your Hand of Midas feature into a 12: one die (1 point), two dice (3 points), or three dice (5 points).
 
-#### Safety
+**Safety.** When you make a saving throw, you can spend a number of wealth points up to your Wisdom modifier to gain a +1 bonus to the roll for each point spent. You spend these points after making the saving throw, but before you know the results.
 
-When you make a saving throw, you can spend a number of wealth points up to your Wisdom modifier to gain a +1 bonus to the roll for each point spent. You spend these points after making the saving throw, but before you know the results.
-
-#### Riches
-
-You can use an action to spend 1 or more wealth points to purchase one item, as if by your Golden Cauldron Channel Divinity; 1 wealth point is equal to 500 gp. Any item purchased with wealth points in this way appears in your open hand or at your feet (your choice). It is golden, obviously magical, and disappears after 1 hour. An item immediately corrodes and turns to dust if you attempt to use it as a material component for a spell or if you attempt to sell or otherwise trade it.
+**Riches.** You can use an action to spend 1 or more wealth points to purchase one item, as if by your Golden Cauldron Channel Divinity; 1 wealth point is equal to 500 gp. Any item purchased with wealth points in this way appears in your open hand or at your feet (your choice). It is golden, obviously magical, and disappears after 1 hour. An item immediately corrodes and turns to dust if you attempt to use it as a material component for a spell or if you attempt to sell or otherwise trade it.
 
 Alternatively, you can spend 3 wealth points to create a special gilded chest in the nearest unoccupied space within 5 feet of you. The chest is 3 feet long, 2 feet wide, and 2 feet tall. It is magically weightless and can be used in place of the normal material components for the [[/5. Mechanics/Spells/Leomunds Secret Chest.md\|secret chest]] spell. When you cast the spell using this special chest, it does not require you to have a Tiny replica of it. Instead, to recall the chest or send it back to the Ethereal Plane after casting the spell, you must use an action to spend 1 wealth point, in place of using the replica. The gilded chest disappears from the Material Plane if you are ever more than 30 feet away from it, ending the spell early and dropping its contents on the ground.
 

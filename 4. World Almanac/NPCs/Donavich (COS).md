@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/donavich.webp
+  - 4. World Almanac\NPCs\img\donavich.webp
 relationships: []
 aliases:
   - Donavich

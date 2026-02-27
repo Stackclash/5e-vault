@@ -12,7 +12,7 @@ tags:
 aliases:
   - Spellfire Bow
 one-hand-damage: 1d8 force
-range: 150/600
+range: 150\600
 weight: 2
 ---
 # Spellfire Bow

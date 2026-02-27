@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Blood Mage (Level 2)
-
 Blood can be a dark and forbidden source of magical energy for those willing to makes the necessary sacrifices.
+
+## Subclass Features
 
 ### Wizard Specialty (Level 2)
 

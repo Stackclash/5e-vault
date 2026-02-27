@@ -15,8 +15,8 @@ tags:
 aliases:
   - Shambling Mound
 ---
-# [[5. Mechanics/Bestiary/Plant/Shambling Mound.md|Shambling Mound]]
-*Source: Monster Manual p. 270, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Plant\Shambling Mound.md|Shambling Mound]]
+*Source: Monster Manual p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
 
@@ -96,8 +96,6 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
     "name": "Engulf"
 "source":
   - "MM"
-  - "CoS"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Plant/token/shambling-mound.webp"
 ```
 ^statblock

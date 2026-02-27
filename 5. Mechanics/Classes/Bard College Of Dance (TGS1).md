@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### College of Dance (Level 3)
-
 Bards of the College of Dance tell stories and perform music without making a sound, choosing to instead move with feylike grace and magic to evade harm and inspire others. These dances originate from the Festerwood, whose radiant spores and light made for miraculous performances and deadly hazards. These bards can be found anywhere from the local tavern to the highest levels of theater moving crowds to tears as quickly as rebellion. At every turn, they inspire others to be brave, move, and join in.
+
+## Subclass Features
 
 ### Fast Movement (Level 3)
 

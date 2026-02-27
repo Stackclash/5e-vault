@@ -13,7 +13,7 @@ aliases:
 weight: 2
 ---
 # Instrument of the Bards, Doss Lute
-*Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  
+*Wondrous item, instrument ([[/5. Mechanics/Items/Lute.md\|lute]]), major, uncommon (requires attunement by a bard)*  
 ![[/5. Mechanics/Items/img/instrument-of-the-bards-doss-lute.webp#right]]  
 
 - **Weight**: 2.0 lbs.

@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Vampire Slayer (Level 3)
-
 Vampire slayers wander the forests, hills and mountains of the Blood Kingdom, protecting the Common folk who live in farming villages and remote cabins on the edge of civilisation from creatures of the night. Moving unseen through the Woodlands, your specialised Training allows you to hunt vampires, Ghouls, werewolves, and other foul Monsters that prey on the innocent. Although you are most at home in the Wilderness, as your experience grows, your attention might turn to the ruthless Elders who rule the baronies of Morgau from their dark keeps and sprawling manors.
 
 The Vampire slayer archetype is a variant of the Hunter archetype. It follows all the standard rules for hunters except as noted below.
+
+## Subclass Features
 
 ### Favored Enemy (Level 3)
 

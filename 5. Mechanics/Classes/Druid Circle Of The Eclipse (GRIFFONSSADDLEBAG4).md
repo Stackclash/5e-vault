@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Circle of the Eclipse (Level 2)
-
 Druids of the Circle of the Eclipse are stewards of the celestial balance, and draw their power from the luminous bond shared by sun and moon. They find their strength waxing and waning with the ebb and flow of these celestial bodies, but it is during the rare moments of eclipse, when the world is briefly cloaked in celestial union, that they feel truly connected to the natural world and the cosmos above. Masters of both the brilliance of daylight and the mystique of darkness, druids of this circle embody the harmony of cosmic forces, wielding their celestial magic to protect the natural world and preserve the delicate equilibrium of day and night.
+
+## Subclass Features
 
 ### Circle Spells (Level 2)
 

@@ -12,7 +12,7 @@ tags:
 aliases:
   - Spiker and Striker (dagger)
 one-hand-damage: 1d4 piercing
-range: 20/60
+range: 20\60
 weight: 1
 ---
 # Spiker and Striker (dagger)

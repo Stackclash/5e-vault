@@ -12,7 +12,7 @@ tags:
 aliases:
   - Hadiya's Handy Quill
 one-hand-damage: 1d4 piercing
-range: 20/60
+range: 20\60
 weight: 0.25
 ---
 # Hadiya's Handy Quill

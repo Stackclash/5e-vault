@@ -11,7 +11,7 @@ tags:
 aliases:
   - Quickdraw
 one-hand-damage: 1d6 piercing
-range: 30/120
+range: 30\120
 weight: 3
 ---
 # Quickdraw

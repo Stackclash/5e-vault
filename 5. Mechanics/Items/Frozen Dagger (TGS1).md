@@ -12,7 +12,7 @@ tags:
 aliases:
   - Frozen Dagger
 one-hand-damage: 1d4 cold
-range: 40/80
+range: 40\80
 weight: 1
 ---
 # Frozen Dagger

@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Dracomage (Level 2)
-
 Wizards that devote their studies to the ancient and formidable power of dragons are called Dracomages. By channeling their spellcasting to fuel draconic abilities, Dracomages emulate and harness the power of dragons with a fury that few can withstand. With an air of both reverence and ambition, Dracomages strive to embody the power and majesty of these mythical beings, all while carving out their own legend in the annals of magic.
+
+## Subclass Features
 
 ### Dragon Lore (Level 2)
 

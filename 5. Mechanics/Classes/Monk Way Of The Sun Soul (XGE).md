@@ -47,11 +47,9 @@ aliases:
 > 
 > So you have this soul, but you can't see it or touch it. And when you die, this invisible thing leaves your body and goes to a place you can't see. And you people think I'm crazy?
 
-## Class Features
-
-### Way of the Sun Soul (Level 3)
-
 Monks of the Way of the Sun Soul learn to channel their life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.
+
+## Subclass Features
 
 ### Radiant Sun Bolt (Level 3)
 

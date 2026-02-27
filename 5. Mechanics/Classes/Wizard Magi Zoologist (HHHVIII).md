@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Magi-Zoologist (Level 2)
-
 While most arcane colleges are more concerned with the intellectual study of esoteric and sometimes only theoretical origins of magic, there exists one that prefers to focus only on what they can see around them in the natural world: the magi-zoologists. This school of thought believes that the greatest source of information about magic is to be found in the many magical creatures that exist in the world, each one brimming with arcane secrets to be unlocked through research and study. Through their travels, the magi-zoologists collect samples of the various monsters in the multiverse, applying the lessons they learn into new breakthroughs in both spellwork and science.
 
 While they are often derided by even other wizard schools as lacking imagination, the best magi-zoologists are extremely pragmatic and are well-equipped to survive the many dangers of the world. After all, it takes true strength to face down a full-grown dragon and live to autopsy its corpse.
+
+## Subclass Features
 
 ### Harvest Spells (Level 2)
 

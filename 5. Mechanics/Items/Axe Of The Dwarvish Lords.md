@@ -12,7 +12,7 @@ aliases:
   - Axe of the Dwarvish Lords
 one-hand-damage: 1d8 slashing
 two-hand-damage: 1d10 slashing
-range: 20/60
+range: 20\60
 weight: 4
 ---
 # Axe of the Dwarvish Lords

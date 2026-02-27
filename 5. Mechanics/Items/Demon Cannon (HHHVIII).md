@@ -10,7 +10,7 @@ tags:
 aliases:
   - Demon Cannon
 one-hand-damage: 1d10 piercing
-range: 100/400
+range: 100\400
 weight: 18
 ---
 # Demon Cannon

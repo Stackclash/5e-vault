@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/052-cos05-05.webp
+  - 4. World Almanac\NPCs\img\052-cos05-05.webp
 relationships: []
 aliases:
   - Szoldar Szoldarovich

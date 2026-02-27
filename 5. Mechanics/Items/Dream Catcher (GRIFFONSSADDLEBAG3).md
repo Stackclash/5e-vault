@@ -10,7 +10,7 @@ tags:
   - item/weapon/ranged
 aliases:
   - Dream Catcher
-range: 5/15
+range: 5\15
 weight: 3
 ---
 # Dream Catcher

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Alchemist's Firethrower
 one-hand-damage: 1d6 fire
-range: 30/90
+range: 30\90
 weight: 8
 ---
 # Alchemist's Firethrower

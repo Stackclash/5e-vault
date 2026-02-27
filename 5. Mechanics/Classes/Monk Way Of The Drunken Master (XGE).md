@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Way of the Drunken Master (Level 3)
-
 The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.
 
 A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.
+
+## Subclass Features
 
 ### Bonus Proficiencies (Level 3)
 
@@ -63,12 +61,11 @@ At 3rd level, you learn how to twist and turn quickly as part of your Flurry of 
 
 Starting at 6th level, you can move in sudden, swaying ways. You gain the following benefits.
 
+Options:
+
 - **Leap to Your Feet**  
-
     When you're [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], you can stand up by spending 5 feet of movement, rather than half your speed.  
-
 - **Redirect Attack**  
-
     When a creature misses you with a melee attack roll, you can spend 1 ki point as a reaction to cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you.  
 
 ### Drunkard's Luck (Level 11)

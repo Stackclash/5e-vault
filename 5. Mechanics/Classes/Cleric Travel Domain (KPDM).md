@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Travel Domain (Level 1)
-
 Voyages across oceans, over mountain ranges, through steaming jungles, and from one world to the next all have an aspect of the sacred to them. The wisdom, knowledge, and prosperity gained through furthering one's experience of the world also venerates the gods who made such places and those who watch over such journeys. An agent of such deities finds themselves in some demand as a charm for safe travel, though the wise know the gods often consider an easy journey to be less beneficial to the traveler's spirit.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Travel Domain Spells**
 

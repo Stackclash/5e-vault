@@ -12,7 +12,7 @@ tags:
 aliases:
   - Reap and Sew
 one-hand-damage: 1d8 force
-range: 80/320
+range: 80\320
 weight: 5
 ---
 # Reap and Sew

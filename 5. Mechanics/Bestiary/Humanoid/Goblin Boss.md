@@ -17,8 +17,8 @@ tags:
 aliases:
   - Goblin Boss
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Goblin Boss.md|Goblin Boss]]
-*Source: Monster Manual p. 166, Tasha's Cauldron of Everything*
+# [[5. Mechanics\Bestiary\Humanoid\Goblin Boss.md|Goblin Boss]]
+*Source: Monster Manual p. 166*
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
 
@@ -81,8 +81,9 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 "languages": "Common, Goblin"
 "cr": "1"
 "traits":
-  - "desc": "The goblin can take the Disengage or Hide action as a bonus action on\
-      \ each of its turns."
+  - "desc": "The goblin can take the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
+      \ or [[/5. Mechanics/Rules/Actions.md#Hide|Hide]] action as a bonus action on each\
+      \ of its turns."
     "name": "Nimble Escape"
 "actions":
   - "desc": "The goblin makes two attacks with its scimitar. The second attack has\
@@ -101,7 +102,6 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
     "name": "Redirect Attack"
 "source":
   - "MM"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Humanoid/token/goblin-boss.webp"
 ```
 ^statblock

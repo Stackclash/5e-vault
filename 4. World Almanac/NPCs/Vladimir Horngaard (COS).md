@@ -9,7 +9,7 @@ tags:
   - monster/type/undead
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/vladimir-horngaard.webp
+  - 4. World Almanac\NPCs\img\vladimir-horngaard.webp
 relationships: []
 aliases:
   - Vladimir Horngaard

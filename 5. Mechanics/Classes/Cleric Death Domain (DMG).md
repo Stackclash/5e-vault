@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Death Domain (Level 1)
-
 The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as [[/5. Mechanics/Deities/Dragonlance Chemosh (PHB).md\|Chemosh]], Myrkul, and [[/5. Mechanics/Deities/Greyhawk Wee Jas.md\|Wee Jas]] are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder ([[/5. Mechanics/Deities/Egyptian Anubis.md\|Anubis]], Bhaal, and Pyremius), pain ([[/5. Mechanics/Deities/Greyhawk Iuz.md\|Iuz]] or Loviatar), disease or poison ([[/5. Mechanics/Deities/Greyhawk Incabulos.md\|Incabulos]], Talona, or [[/5. Mechanics/Deities/Dragonlance Morgion (PHB).md\|Morgion]]), and the underworld ([[/5. Mechanics/Deities/Greek Hades.md\|Hades]] and [[/5. Mechanics/Deities/Norse Hel.md\|Hel]]).
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 

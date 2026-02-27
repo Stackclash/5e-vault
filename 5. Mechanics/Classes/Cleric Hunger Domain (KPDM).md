@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Hunger Domain (Level 1)
-
 You have dedicated your life to the satisfaction of your appetites, sometimes at the cost of others' needs. You are never truly sated, but you know that hunger leads to power.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Hunger Domain Spells**
 

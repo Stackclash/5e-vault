@@ -13,7 +13,7 @@ tags:
 aliases:
   - Black Rose Bearer
 ---
-# [[5. Mechanics/Bestiary/Undead/Black Rose Bearer (VEOR).md|Black Rose Bearer]]
+# [[5. Mechanics\Bestiary\Undead\Black Rose Bearer (VEOR).md|Black Rose Bearer]]
 *Source: Vecna: Eve of Ruin p. 208*
 
 > [!quote] A quote from Common saying among the Knights of Solamnia  
@@ -54,7 +54,7 @@ A bearer's black rose is an homage to the tyrannical Lord Soth, the most powerfu
 "traits":
   - "desc": "Whenever the bearer takes damage or makes a Strength or Dexterity saving\
       \ throw, roll a d6. On a 5 or 6, the bearer goes berserk. On each of its turns\
-      \ while berserk, the bearer has advantage on melee attack rolls, it can Dash\
+      \ while berserk, the bearer has advantage on melee attack rolls, it can [[/5. Mechanics/Rules/Actions.md#Dash|Dash]]\
       \ as a bonus action, and it must attack the nearest creature it can see. If\
       \ no creature is near enough to move to and attack, the bearer attacks an object,\
       \ with preference for an object smaller than itself. Once the bearer goes berserk,\

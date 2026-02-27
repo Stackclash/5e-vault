@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Angelic Scribe (Level 2)
-
 An angelic scribe studies the angelic seals that harness the power of celestial messengers through their names and shapes that power into magical effects. Beyond the seals and wardings themselves, you learn esoteric spells to call down the essence of the angelic host.
+
+## Subclass Features
 
 ### Wizard or Cleric Specialty (Level 2)
 
@@ -69,10 +67,7 @@ Beginning when you take up this specialty at 2nd level, the gold and time you mu
 
 Also at 2nd level, you learn the Celestial language if you don't already know it, and you gain the ability to scribe angelic seals.
 
-#### Seals
-_Source: Deep Magic_
-
-You learn two [[/5. Mechanics/Lists/List Optfeaturetype Ag.md\|angelic seals]] of your choice. You can spend 10 minutes scribing an angelic seal you know on paper, canvas, stone tiles, or some other surface or object that can be carried or displayed. Alternatively, you can spend 8 hours using appropriate artisan tools to carve or etch a more permanent seal into harder material. Once you have scribed a seal, you can activate it as an action.
+**Seals.** You learn two [[/5. Mechanics/Lists/List Optfeaturetype Ag.md\|angelic seals]] of your choice. You can spend 10 minutes scribing an angelic seal you know on paper, canvas, stone tiles, or some other surface or object that can be carried or displayed. Alternatively, you can spend 8 hours using appropriate artisan tools to carve or etch a more permanent seal into harder material. Once you have scribed a seal, you can activate it as an action.
 
 - You can have one seal active at a time. The number of active seals you can maintain increases by one at 6th level (two seals), 10th level (three seals), and 14th level (four seals).  
 - A seal's magic is suppressed while you are concentrating on maintaining a spell or a similar effect. A suppressed seal still counts against the number of active seals you can maintain.  

@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Tempest Domain (Level 1)
-
 Gods whose portfolios include the Tempest domain—including Talos, Umberlee, [[/5. Mechanics/Deities/Greyhawk Kord.md\|Kord]], [[/5. Mechanics/Deities/Dragonlance Zeboim (PHB).md\|Zeboim]], [[/5. Mechanics/Deities/Eberron The Devourer.md\|the Devourer]], [[/5. Mechanics/Deities/Greek Ze(US).md\|Zeus]], and [[/5. Mechanics/Deities/Norse Thor.md\|Thor]]—govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 

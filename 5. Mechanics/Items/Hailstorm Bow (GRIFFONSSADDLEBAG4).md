@@ -11,7 +11,7 @@ tags:
 aliases:
   - Hailstorm Bow
 one-hand-damage: 1d8 piercing
-range: 150/600
+range: 150\600
 weight: 2
 ---
 # Hailstorm Bow

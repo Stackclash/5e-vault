@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### College of the Grand Chorus (Level 3)
-
 Bards that have honed their craft in the College of the Grand Chorus sing magical, uplifting arias that reverberate and strengthen those around them. Those that participate in these choruses are united against harm through their shared efforts. Together, these choruses create harmonies of protection in moments of need, which echo through the ages as folk song and legend.
+
+## Subclass Features
 
 ### Bonus Languages (Level 3)
 

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Cursed Fang
 one-hand-damage: 1d4 piercing
-range: 20/60
+range: 20\60
 weight: 1
 ---
 # Cursed Fang

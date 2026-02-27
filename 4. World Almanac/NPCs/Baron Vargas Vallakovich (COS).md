@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/baron-vargas-vallakovich.webp
+  - 4. World Almanac\NPCs\img\baron-vargas-vallakovich.webp
 relationships: []
 aliases:
   - Baron Vargas Vallakovich

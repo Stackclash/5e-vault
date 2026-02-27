@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Shadow Knight (Level 3)
-
 Fighters touched by the plane of shadow itself reign supreme in the dark. These warriors, called Shadow Knights, cloak themselves in darkness to become elusive phantoms on the battlefield. With each strike, they unleash the dark and chilling powers of the realm of shadow, sowing fear and uncertainty in the hearts of their enemies. While evil often thrives in darkness, Shadow Knights have no singular motivation, and simply use the powers of darkness as they would a sword or shield.
+
+## Subclass Features
 
 ### Dark Gaze (Level 3)
 

@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Way of the Celestial (Level 3)
-
 Monks of the Way of the Celestial are peacekeepers and protectors of their chosen kin. These monks meditate to achieve a greater understanding of a divine being, granting them the ability to channel celestial energies into their own. These martial defenders are pensive, patient, and understanding, but offer little mercy when evil intentions are made clear.
 
 The Way of the Celestial originated from the lost city of Hearth as a tribute to the city's guardian couatl protectors. While these teachings are far from common knowledge, there's no telling what small, protected monasteries may still exist after the city's untimely destruction. Regardless of how you come upon this tradition, the wisdom of the celestials guides its every principle.
+
+## Subclass Features
 
 ### Celestial Connection (Level 3)
 

@@ -10,7 +10,7 @@ tags:
   - monster/type/humanoid/shapechanger
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/zuleika-toranescu.webp
+  - 4. World Almanac\NPCs\img\zuleika-toranescu.webp
 relationships: []
 aliases:
   - Zuleika Toranescu

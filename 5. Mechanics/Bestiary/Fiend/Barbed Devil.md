@@ -13,8 +13,8 @@ tags:
 aliases:
   - Barbed Devil
 ---
-# [[5. Mechanics/Bestiary/Fiend/Barbed Devil.md|Barbed Devil]]
-*Source: Monster Manual p. 70, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Fiend\Barbed Devil.md|Barbed Devil]]
+*Source: Monster Manual p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Creatures of unbridled greed and desire, barbed devils act as guards to the more powerful denizens of the Nine Hells and their vaults. Resembling a tall humanoid covered in sharp barbs, spines, and hooks, a barbed devil has gleaming eyes that are ever watchful for objects and creatures it might claim for itself. These fiends welcome any chance to fight when victory promises reward.
 
@@ -204,8 +204,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     "name": "Hurl Flame"
 "source":
   - "MM"
-  - "TCE"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Fiend/token/barbed-devil.webp"
 ```
 ^statblock

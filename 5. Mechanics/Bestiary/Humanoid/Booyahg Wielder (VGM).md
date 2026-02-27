@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Booyahg Wielder
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Booyahg Wielder (VGM).md|Booyahg Wielder]]
+# [[5. Mechanics\Bestiary\Humanoid\Booyahg Wielder (VGM).md|Booyahg Wielder]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin found a magic item (a [[/5. Mechanics/Items/Necklace Of Fireballs.md|necklace of fireballs]], a [[/5. Mechanics/Items/Circlet Of Blasting.md|circlet of blasting]], or the like) and learned how to use it.
@@ -56,8 +56,9 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "languages": "Common, Goblin"
 "cr": "1/4"
 "traits":
-  - "desc": "The goblin can take the Disengage or Hide action as a bonus action on\
-      \ each of its turns."
+  - "desc": "The goblin can take the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
+      \ or [[/5. Mechanics/Rules/Actions.md#Hide|Hide]] action as a bonus action on each\
+      \ of its turns."
     "name": "Nimble Escape"
   - "desc": "The goblin found a magic item (a [[/5. Mechanics/Items/Necklace Of Fireballs.md|necklace of fireballs]],\
       \ a [[/5. Mechanics/Items/Circlet Of Blasting.md|circlet of blasting]], or the\

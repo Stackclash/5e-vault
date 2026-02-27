@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### The Apex Predator (Level 1)
-
 Your patron is one of the most powerful predators in the multiverse such as a [[/5. Mechanics/Bestiary/Monstrosity/Tarrasque.md\|tarrasque]], an astral dreadnought, or an ancient dragon. More than simple beasts, these creatures dominate their domains, taking whatever they want from whoever gets in their way. While these creatures normally treat all other creatures as simply potential meals, they still appreciate the utility that vassals can provide for them. As part of your pact, you take whatever scraps of power and resources they leave behind while serving them by finding new prey or intercepting any threat that would try to usurp their top position.
+
+## Subclass Features
 
 ### Expanded Spell List (Level 1)
 

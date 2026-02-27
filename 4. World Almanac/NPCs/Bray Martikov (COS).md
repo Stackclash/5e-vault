@@ -10,28 +10,29 @@ tags:
   - monster/type/humanoid/shapechanger
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/bray-martikov.webp
+  - 4. World Almanac\NPCs\img\bray-martikov.webp
 relationships: []
 aliases:
   - Bray Martikov
 alignment: Lawful Good
-partyRelationships:
-  Curse of Strahd: Ally
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+partyRelationships: {}
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
 pronounced: BRAY MAR-ti-kov
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 15
 occupation: []
 groups: []
 religions: []
-personality: Eager, hardworking, a bit naive
+personality: 'Eager, hardworking, a bit naive'
 ideal: Family and tradition hold the keys to strength and unity.
-bond: His family, the winery, and his burgeoning duties as a Keeper of the Feather
+bond: 'His family, the winery, and his burgeoning duties as a Keeper of the Feather'
 flaw: His youth and inexperience sometimes lead to recklessness
-goals: To prove himself to his family and as a Keeper of the Feather, to protect his home from Strahd's forces
-likes: Adventures, stories of heroism, the outdoors
-dislikes: Threats to his family, the oppression of Strahd, boredom
+goals: >-
+  To prove himself to his family and as a Keeper of the Feather, to protect his
+  home from Strahd's forces
+likes: 'Adventures, stories of heroism, the outdoors'
+dislikes: 'Threats to his family, the oppression of Strahd, boredom'
 ---
 
 > [!infobox]

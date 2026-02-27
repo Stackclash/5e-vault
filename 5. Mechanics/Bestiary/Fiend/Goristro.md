@@ -13,8 +13,8 @@ tags:
 aliases:
   - Goristro
 ---
-# [[5. Mechanics/Bestiary/Fiend/Goristro.md|Goristro]]
-*Source: Monster Manual p. 59, Vecna: Eve of Ruin*
+# [[5. Mechanics\Bestiary\Fiend\Goristro.md|Goristro]]
+*Source: Monster Manual p. 59*
 
 The goristro resembles a fiendish minotaur towering more than twenty feet tall. When controlled by a demon lord, goristros make formidable living siege engines and prized pets. Goristros possess preternatural cunning when navigating labyrinthine passages and shifting corridors, pursuing foes in a terrifying hunt.
 
@@ -251,7 +251,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Gore"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Fiend/token/goristro.webp"
 ```
 ^statblock

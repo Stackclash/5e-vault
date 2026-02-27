@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### School of Material Magic (Level 2)
-
 Some wizards abandon the limitations set by magic schools and instead focus on the binding force that holds everything together. These mages spend their efforts weaving and recreating matter from thin air to create art as well as utility. They value the craftsmanship taught by artisans around the world and consider their skills and creations to be a form of magic all its own.
 
 Some arcanists focus on altering the living, whereas wizards of material magic focus on creating and enhancing the inanimate. These mages see beauty in the possibility presented by raw materials, and are found as readily studying ancient lore as they are in the center of a bustling forge. Many followers of this tradition take great care and pride in their component pouches, and find great kinship among bards, artists, and other craftsmen.
+
+## Subclass Features
 
 ### Arcane Artisan (Level 2)
 

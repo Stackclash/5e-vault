@@ -16,8 +16,8 @@ tags:
 aliases:
   - Ghoul
 ---
-# [[5. Mechanics/Bestiary/Undead/Ghoul.md|Ghoul]]
-*Source: Monster Manual p. 148, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Undead\Ghoul.md|Ghoul]]
+*Source: Monster Manual p. 148. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
 
@@ -69,9 +69,6 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
     "name": "Claws"
 "source":
   - "MM"
-  - "CoS"
-  - "TCE"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Undead/token/ghoul.webp"
 ```
 ^statblock

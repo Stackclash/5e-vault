@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Necrophage (Level 2)
-
 The practice of necrophagy is similar to that of Necromancy, but with a more horrific flavor. Necrophages, sometimes called death eaters, consume the flesh of the recently deceased to steal those creatures' knowledge and power.
+
+## Subclass Features
 
 ### Wizard Specialty (Level 2)
 

@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### The Unbroken Circle (Level 2)
-
 The Unbroken Circle is an order of druids who have abandoned the patient teachings of their predecessors, deciding instead to take up arms in defense of the wilderness. These combative druids form militias and harness the fury of nature itself to forcefully remove any encroaching evil that threatens their sacred lands.
 
 While the chaotic bend of nature is found within these druids, their bodies and impulses are tamed through training and discipline. Originally from the unforgiving Festerwood, this circle's teachings are as rigorous as the forest, blending a mixture of offense and defense to stand up to all of the world's challenges.
+
+## Subclass Features
 
 ### Improved Shillelagh (Level 2)
 

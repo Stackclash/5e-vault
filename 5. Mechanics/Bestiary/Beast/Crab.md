@@ -14,8 +14,8 @@ tags:
 aliases:
   - Crab
 ---
-# [[5. Mechanics/Bestiary/Beast/Crab.md|Crab]]
-*Source: Monster Manual p. 320, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Beast\Crab.md|Crab]]
+*Source: Monster Manual p. 320. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Crab"
@@ -51,7 +51,6 @@ aliases:
     "name": "Claw"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Beast/token/crab.webp"
 ```
 ^statblock

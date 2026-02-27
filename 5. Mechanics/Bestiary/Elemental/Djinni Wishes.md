@@ -14,8 +14,8 @@ tags:
 aliases:
   - Djinni (Wishes)
 ---
-# [[5. Mechanics/Bestiary/Elemental/Djinni Wishes.md|Djinni (Wishes)]]
-*Source: Monster Manual p. 144, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Elemental\Djinni Wishes.md|Djinni (Wishes)]]
+*Source: Monster Manual p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock
 "name": "Djinni Wishes"
@@ -98,7 +98,6 @@ aliases:
     "name": "Create Whirlwind"
 "source":
   - "MM"
-  - "TCE"
 ```
 ^statblock
 

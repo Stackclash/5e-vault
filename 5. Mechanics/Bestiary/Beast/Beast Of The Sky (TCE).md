@@ -13,7 +13,7 @@ tags:
 aliases:
   - Beast of the Sky
 ---
-# [[5. Mechanics/Bestiary/Beast/Beast Of The Sky (TCE).md|Beast of the Sky]]
+# [[5. Mechanics\Bestiary\Beast\Beast Of The Sky (TCE).md|Beast of the Sky]]
 *Source: Tasha's Cauldron of Everything p. 61*
 
 ```statblock
@@ -43,7 +43,7 @@ aliases:
     "name": "Primal Bond"
 "actions":
   - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
-      \ one target. *Hit:* 1d4 + 3 + PB slashing damage"
+      \ one target. *Hit:* 1d4 + 3 + PB slashing damage."
     "name": "Shred"
 "source":
   - "TCE"

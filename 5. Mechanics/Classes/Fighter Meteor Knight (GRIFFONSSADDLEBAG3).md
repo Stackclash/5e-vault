@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Meteor Knight (Level 3)
-
 Meteor knights can exercise a limited degree of control over the gravity around them. These fighters command a growing collection of missiles and other debris that float around them, using it to mercilessly pelt targets beyond their reach or launch veritable hailstorms of meteorites. While a meteor knights abilities are magical in nature, such powers are often manifested from a connection to the astral sea rather than from arcane study. Knights of the highest order, or those who fill the role of leader in their community, may sometimes be referred to as Lode Stars.
+
+## Subclass Features
 
 ### Satellite Mastery (Level 3)
 

@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Path of the Infernal (Level 3)
-
 You have found the conduit for your rage in something scarier than anything you'd find on the Material Plane. Your inner fury burns from the hells themselves, manifesting itself as a series of fiendish transformations and flames whenever you enter a rage. The origin of this power may have been a near-death experience that showed you the Lower Planes, or perhaps it came from a soul-binding contract with a powerful devil. Some tieflings may find that this strength has resided within themselves all along as part of their infernal heritage. Regardless of your reason for having these abilities, one thing is certain: hell hath no fury quite like you.
+
+## Subclass Features
 
 ### Hellfire Claw (Level 3)
 

@@ -43,30 +43,19 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Oath of the Spelldrinker (Level 3)
-
 The Oath of the Spelldrinker is devoted to ridding the world of renegade mages, such as liches or the occult, in order to protect the helpless from the forces of evil magic. The paladins who swear this oath believe in maintaining the balance of power between the ordinary and the extraordinary, including themselves. These paladins are resourceful and quick to remember their own mortality and privilege, often choosing to pursue mundane solutions before magical ones. Despite their caution, these wardens of balance are exemplary arcanists who can feel the weave of magic in the world as keenly as some of the finest sorcerers.
+
+## Subclass Features
 
 ### Tenets of the Spelldrinker (Level 3)
 
 The tenets of the Oath of the Spelldrinker were written and passed down by cautious guardians set to rid the world of evil mages. They emphasize balance within oneself through the following tenets:
 
-#### Be the Sword
-_Source: The Griffon's Saddlebag, Book 2_
+**Be the Sword.**  Be a stalwart champion of fairness and equality among all. The sword doesn't cheat fate: it dances with it.
 
- Be a stalwart champion of fairness and equality among all. The sword doesn't cheat fate: it dances with it.
+**Be the Shield.** Defend the innocent against the forces of rampant magic. The shield is patient and unwavering in the face of the unknown.
 
-#### Be the Shield
-_Source: The Griffon's Saddlebag, Book 2_
-
-Defend the innocent against the forces of rampant magic. The shield is patient and unwavering in the face of the unknown.
-
-#### Be the Spell
-_Source: The Griffon's Saddlebag, Book 2_
-
-Use your power to provide balance and guidance. The spell can lead to prosperity as easily as it can to ruin: you must always choose the righteous path.
+**Be the Spell.** Use your power to provide balance and guidance. The spell can lead to prosperity as easily as it can to ruin: you must always choose the righteous path.
 
 ### Oath Spells (Level 3)
 
@@ -85,15 +74,9 @@ You gain oath spells at the paladin levels listed.
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-#### Absorb Magic
-_Source: The Griffon's Saddlebag, Book 2_
+**Absorb Magic.** You can refute certain spells and use them to nourish yourself. Using your Channel Divinity, you can interrupt a creature you can see within 30 feet of you casting a spell. You can use a reaction when you see a creature within range casting a spell to present your holy symbol and interrupt it. The spell fails and has no effect if it is of a level no higher than 1 + your paladin level divided by 3 (rounded up), to a maximum of 6th-level spells. When it does, you gain a number of temporary hit points equal to your Charisma modifier, plus 5 times the spell's level.
 
-You can refute certain spells and use them to nourish yourself. Using your Channel Divinity, you can interrupt a creature you can see within 30 feet of you casting a spell. You can use a reaction when you see a creature within range casting a spell to present your holy symbol and interrupt it. The spell fails and has no effect if it is of a level no higher than 1 + your paladin level divided by 3 (rounded up), to a maximum of 6th-level spells. When it does, you gain a number of temporary hit points equal to your Charisma modifier, plus 5 times the spell's level.
-
-#### Expeditious Command
-_Source: The Griffon's Saddlebag, Book 2_
-
-You can use your Channel Divinity to issue a word of power and release a wave of invigorating energy from your holy symbol. As a bonus action, choose a number of creatures within 30 feet of you up to your Charisma modifier (minimum one creature). Until the start of your next turn, the chosen creatures can use a bonus action to take either [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] or [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]] action. As part of using your Channel Divinity in this way, you can also take either the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] or [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]] action.
+**Expeditious Command.** You can use your Channel Divinity to issue a word of power and release a wave of invigorating energy from your holy symbol. As a bonus action, choose a number of creatures within 30 feet of you up to your Charisma modifier (minimum one creature). Until the start of your next turn, the chosen creatures can use a bonus action to take either [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] or [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]] action. As part of using your Channel Divinity in this way, you can also take either the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] or [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]] action.
 
 ### Bonus Proficiency (Level 3)
 

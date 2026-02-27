@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'grassland, forest, hill'
 size: Medium
 tags:
@@ -16,8 +16,8 @@ tags:
 aliases:
   - Wolf
 ---
-# [[5. Mechanics/Bestiary/Beast/Wolf.md|Wolf]]
-*Source: Monster Manual p. 341, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Beast\Wolf.md|Wolf]]
+*Source: Monster Manual p. 341. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Wolf"
@@ -60,8 +60,6 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-  - "CoS"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Beast/token/wolf.webp"
 ```
 ^statblock

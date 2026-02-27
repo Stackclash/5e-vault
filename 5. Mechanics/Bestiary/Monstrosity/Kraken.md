@@ -14,8 +14,8 @@ tags:
 aliases:
   - Kraken
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Kraken.md|Kraken]]
-*Source: Monster Manual p. 197, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Monstrosity\Kraken.md|Kraken]]
+*Source: Monster Manual p. 197. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Beneath the waves, the kraken sleeps for untold ages, awaiting some fell sign or calling. Land-born mortals who sail the open sea forget the reasons their ancestors dreaded the ocean, even as the races of the deep ignore strange gaps in their histories when their civilizations nearly vanished after the appearance of the tentacled horror.
 
@@ -157,7 +157,6 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
     "name": "Ink Cloud (Costs 3 Actions)"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Monstrosity/token/kraken.webp"
 ```
 ^statblock

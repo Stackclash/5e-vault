@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Dragon Domain (Level 1)
-
 When it comes to beings of awesome power, dragons reign supreme. How much more awe-inspiring, then, must be the gods dragons worship? Dragons embody many things: mastery of the elements and the most unforgiving environments, sagacity, long life, and an eternal hunger to acquire greater wealth and power. Those who worship dragons or the gods of dragons may strive to embody several, or perhaps even all, of these qualities themselves.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Dragon Domain Spells**
 

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'underdark, grassland, forest, hill'
 size: Small
 tags:
@@ -17,8 +17,8 @@ tags:
 aliases:
   - Goblin
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Goblin.md|Goblin]]
-*Source: Monster Manual p. 166, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Humanoid\Goblin.md|Goblin]]
+*Source: Monster Manual p. 166. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
 
@@ -81,8 +81,9 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 "languages": "Common, Goblin"
 "cr": "1/4"
 "traits":
-  - "desc": "The goblin can take the Disengage or Hide action as a bonus action on\
-      \ each of its turns."
+  - "desc": "The goblin can take the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
+      \ or [[/5. Mechanics/Rules/Actions.md#Hide|Hide]] action as a bonus action on each\
+      \ of its turns."
     "name": "Nimble Escape"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
@@ -93,7 +94,6 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
     "name": "Shortbow"
 "source":
   - "MM"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Humanoid/token/goblin.webp"
 ```
 ^statblock

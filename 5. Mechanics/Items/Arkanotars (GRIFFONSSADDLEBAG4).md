@@ -10,7 +10,7 @@ tags:
 aliases:
   - Arkanotars
 one-hand-damage: 1d4 lightning
-range: 20/60
+range: 20\60
 weight: 1
 ---
 # Arkanotars

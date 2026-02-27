@@ -12,7 +12,7 @@ aliases:
   - Sky Anchor
 one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
-range: 40/60
+range: 40\60
 weight: 3
 ---
 # Sky Anchor

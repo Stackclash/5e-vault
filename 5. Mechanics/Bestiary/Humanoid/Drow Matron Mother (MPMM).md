@@ -11,11 +11,11 @@ tags:
   - monster/environment/underdark
   - monster/size/medium
   - monster/type/humanoid/cleric
-  - monster/type/humanoid/elf
+  - monster/type/humanoid/drow-elf
 aliases:
   - Drow Matron Mother
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Matron Mother (MPMM).md|Drow Matron Mother]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Matron Mother (MPMM).md|Drow Matron Mother]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 104, Mordenkainen's Tome of Foes p. 186*
 
 Among drow followers of [[/5. Mechanics/Deities/Drow Lolth (MTF).md|Lolth]], each noble house is led by a matron mother, an influential priestess of Lolth charged with carrying out the god's will while also advancing the interests of the family. Matron mothers embody the scheming and treachery associated with the Queen of Spiders. Each stands at the center of a vast conspiratorial web, with demons, spiders, and conscripted soldiers positioned between them and their enemies. Although matron mothers command great power, that power depends on maintaining the Spider Queen's favor, and the goddess sometimes capriciously takes back what she has given. The stat block here represents a matron mother at the height of her power.
@@ -36,7 +36,7 @@ Any temple of [[/5. Mechanics/Deities/Drow Lolth (MTF).md|Lolth]] also functions
 "name": "Drow Matron Mother (MPMM)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "cleric, elf"
+"subtype": "cleric, Drow elf"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "17"
 "ac_class": "[[/5. Mechanics/Items/Half Plate Armor.md|half plate]]"

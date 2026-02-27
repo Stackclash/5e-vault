@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Shieldbearer (Level 3)
-
 As a shieldbearer, you are a warrior of metal and grit. You are a mobile fortress, dedicated to shrugging off blows and defending your allies in harms way. You are capable of turning mundane shields into powerful battering rams, and can single-handedly make way for your allies to turn the tide of battle.
+
+## Subclass Features
 
 ### Improved Protection (Level 3)
 

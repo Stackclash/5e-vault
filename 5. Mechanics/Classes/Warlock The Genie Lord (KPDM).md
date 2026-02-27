@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### The Genie Lord (Level 1)
-
 You have made a pact with a powerful ruler of genie kind on one of the Elemental Planes. The genie lords' aims swing wildly from inscrutable by mortal minds to startlingly simple and innocuous. Genie lords struggle endlessly to one-up each other, and rivalries between these elemental rulers can engulf entire nations. If they think it will gain them an advantage, genie lords aren't above bribing a rival's mortal agents to switch sides.
 
 Genie Lords include: Astallah, djinni Calipha of the Bright Wind from the Plane of Air; Ghorek, dao Khan of the Onyx Depths on the Plane of Earth; Ixingaltrix, efreeti Emir and Keeper of the Molten Tower on the Plane of Fire; and Saliandla, marid Pasha of the Pearl Fane from the Plane of Water.
+
+## Subclass Features
 
 ### Expanded Spell List (Level 1)
 

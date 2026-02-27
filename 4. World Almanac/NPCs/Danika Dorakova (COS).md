@@ -10,7 +10,7 @@ tags:
   - monster/type/humanoid/shapechanger
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/danika-dorakova.webp
+  - 4. World Almanac\NPCs\img\danika-dorakova.webp
 relationships: []
 aliases:
   - Danika Dorakova

@@ -15,8 +15,8 @@ tags:
 aliases:
   - Marid (Disguises)
 ---
-# [[5. Mechanics/Bestiary/Elemental/Marid Disguises.md|Marid (Disguises)]]
-*Source: Monster Manual p. 146, Tasha's Cauldron of Everything, Vecna: Eve of Ruin*
+# [[5. Mechanics\Bestiary\Elemental\Marid Disguises.md|Marid (Disguises)]]
+*Source: Monster Manual p. 146*
 
 ```statblock
 "name": "Marid Disguises"
@@ -92,8 +92,6 @@ aliases:
     "name": "Water Jet"
 "source":
   - "MM"
-  - "TCE"
-  - "VEoR"
 ```
 ^statblock
 

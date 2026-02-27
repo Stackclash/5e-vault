@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'underdark, urban'
 size: Medium
 tags:
@@ -15,8 +15,8 @@ tags:
 aliases:
   - Shadow
 ---
-# [[5. Mechanics/Bestiary/Undead/Shadow.md|Shadow]]
-*Source: Monster Manual p. 269, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Undead\Shadow.md|Shadow]]
+*Source: Monster Manual p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.
 
@@ -78,13 +78,11 @@ A shadow doesn't require air, food, drink, or sleep
       \ (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4.\
       \ The target dies if this reduces its Strength to 0. Otherwise, the reduction\
       \ lasts until the target finishes a short or long rest.\n\nIf a non-evil humanoid\
-      \ dies from this attack, a new shadow rises from the corpse 1d4 hours later."
+      \ dies from this attack, a new [[/5. Mechanics/Bestiary/Undead/Shadow.md|shadow]]\
+      \ rises from the corpse 1d4 hours later."
     "name": "Strength Drain"
 "source":
   - "MM"
-  - "CoS"
-  - "TCE"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Undead/token/shadow.webp"
 ```
 ^statblock

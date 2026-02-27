@@ -13,8 +13,8 @@ tags:
 aliases:
   - Pit Fiend
 ---
-# [[5. Mechanics/Bestiary/Fiend/Pit Fiend.md|Pit Fiend]]
-*Source: Monster Manual p. 77, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Fiend\Pit Fiend.md|Pit Fiend]]
+*Source: Monster Manual p. 77. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The undisputed lords of most other devils, pit fiends attend the archdukes and archduchesses of the Nine Hells and carry out their wishes. These mighty devils are the generals of the Nine Hells, leading its infernal legions into battle.
 
@@ -222,8 +222,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     "name": "Tail"
 "source":
   - "MM"
-  - "TCE"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Fiend/token/pit-fiend.webp"
 ```
 ^statblock

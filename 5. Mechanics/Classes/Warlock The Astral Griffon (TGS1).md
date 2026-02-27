@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### The Astral Griffon (Level 1)
-
 You have made a pact with a powerful demigod of the Astral Plane: a Griffon whose control over space, creation, and pocket dimensions extends throughout the multiverse. It aims to expand its eclectic collection of treasures, both magical and mundane. These treasures may be worth very little in the average shop, but to the Griffon it holds a special place in history or the fabric of existence. Your binding may lead you far and wide in search of foreign artifacts as quickly as it would a nearby pub for a tarnished locket. Regardless of the task, the Griffon's aims are rarely subject to distinctly good or evil motives.
+
+## Subclass Features
 
 ### Expanded Spell List (Level 1)
 

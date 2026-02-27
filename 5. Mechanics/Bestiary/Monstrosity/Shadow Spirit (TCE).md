@@ -13,7 +13,7 @@ tags:
 aliases:
   - Shadow Spirit
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Shadow Spirit (TCE).md|Shadow Spirit]]
+# [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit (TCE).md|Shadow Spirit]]
 *Source: Tasha's Cauldron of Everything p. 114*
 
 ```statblock
@@ -58,7 +58,8 @@ aliases:
       \ the effect on itself on a success."
     "name": "Dreadful Scream (1/Day)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the spirit takes the Hide action."
+  - "desc": "While in dim light or darkness, the spirit takes the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
+      \ action."
     "name": "Shadow Stealth (Fear Only)"
 "source":
   - "TCE"

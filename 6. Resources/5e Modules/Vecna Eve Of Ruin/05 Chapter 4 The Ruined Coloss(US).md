@@ -7,7 +7,7 @@ aliases:
   - Chapter 4: The Ruined Colossus
 ---
 # Chapter 4: The Ruined Colossus
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 73* 
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/061-04-001-the-colossus-warforged.webp#center\|"The next piece of the Rod of Seven Parts is inside an enormous war machine"]]
 
@@ -52,11 +52,11 @@ Before seeking the third rod piece, the characters can rest and prepare in the s
 
 Before the characters leave Sigil for Mount Ironrot, the Wizards Three share their concerns that this rod piece will be particularly challenging to find since the Mournland is difficult to navigate. The wizards suspect that the rod piece is hidden in one of the dozens of ruined colossi scattered across Mount Ironrot (as shown on map 4.1).
 
-Instead of searching each colossus individually, the wizards suggest augmenting the rod's divining power with local magic that can penetrate the Mournland's impeded navigation. The characters can do this by tuning their second rod piece to a working Docent from inside one of the fallen colossi. A *Docent* is a small, sentient metal sphere that employs its sentience and magic on behalf of an attuned warforged; the full description of a *Docent* is found in the "Finding a Docent" section later in this chapter. The wizards correctly postulate that a *Docent*'s magic will stabilize and augment the rod's divining powers so it will directly point the way to the third piece.
+Instead of searching each colossus individually, the wizards suggest augmenting the rod's divining power with local magic that can penetrate the Mournland's impeded navigation. The characters can do this by tuning their second rod piece to a working [[/5. Mechanics/Items/Docent (ERLW).md\|Docent]] from inside one of the fallen colossi. A *Docent* is a small, sentient metal sphere that employs its sentience and magic on behalf of an attuned warforged; the full description of a *Docent* is found in the "Finding a Docent" section later in this chapter. The wizards correctly postulate that a *Docent*'s magic will stabilize and augment the rod's divining powers so it will directly point the way to the third piece.
 
 ### About Docents
 
-Long ago, colossi were powered and controlled by Docents. The techniques and tools to create *Docents* were lost, but working *Docents* can sometimes still be found in colossi. The Wizards Three suggest the characters find a working *Docent* and tune it to the rod piece.
+Long ago, colossi were powered and controlled by [[/5. Mechanics/Items/Docent (ERLW).md\|Docents]]. The techniques and tools to create *Docents* were lost, but working *Docents* can sometimes still be found in colossi. The Wizards Three suggest the characters find a working *Docent* and tune it to the rod piece.
 
 ## Mount Ironrot
 
@@ -64,7 +64,7 @@ When the characters are ready, they can step through the doorway in Sigil. They 
 
 ### Running Mount Ironrot
 
-As the characters search for a Docent, they encounter the Mournland denizens described in the subsequent "Mount Ironrot Encounters" section. Run an encounter each time the characters travel from one location to another. All three encounters should occur before the characters proceed to the "Landro" section.
+As the characters search for a [[/5. Mechanics/Items/Docent (ERLW).md\|Docent]], they encounter the Mournland denizens described in the subsequent "Mount Ironrot Encounters" section. Run an encounter each time the characters travel from one location to another. All three encounters should occur before the characters proceed to the "Landro" section.
 
 From their expeditions and these encounters, the characters learn of a working *Docent* in a ruined village called Ialos. They also learn that this *Docent* is central to a conflict between rival groups of Mournland scavengers: a band of veterans and a community of warforged pilgrims.
 
@@ -122,7 +122,7 @@ Each time the characters investigate one of the colossi shown on map 4.1, read o
 
 These colossi are smaller than Landro and are easily accessible, making the task of searching them relatively quick. For this reason, no maps of these ruined colossi are provided. You can simply narrate the characters' foray into each colossus.
 
-It takes `dice:1d4|noform|noparens|avg` (`1d4`) hours for the characters to search a colossus's wreckage for a Docent. At the end of this time, have one character make a DC 17 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check for the group. On a failed check, the characters don't find a *Docent*, but they can't be sure they didn't simply miss it; the characters can spend another `dice:1d4|noform|noparens|avg` (`1d4`) hours to reattempt the check. On a successful check, the characters not only determine that the colossus's *Docent* is definitely gone, but also uncover one of the following clues (determined by you):
+It takes `dice:1d4|noform|noparens|avg` (`1d4`) hours for the characters to search a colossus's wreckage for a [[/5. Mechanics/Items/Docent (ERLW).md\|Docent]]. At the end of this time, have one character make a DC 17 Intelligence ([[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]]) check for the group. On a failed check, the characters don't find a *Docent*, but they can't be sure they didn't simply miss it; the characters can spend another `dice:1d4|noform|noparens|avg` (`1d4`) hours to reattempt the check. On a successful check, the characters not only determine that the colossus's *Docent* is definitely gone, but also uncover one of the following clues (determined by you):
 
 - **Deep Tracks.** Deep, angular boot prints belonging to unusually heavy, bipedal creatures lead to and from the wreckage. Examining multiple colossi and triangulating the boot prints' directions (no check required) points to the village of Ialos.  
 - **Second Party.** Smaller, fresher boot prints made by lighter bipeds meander aimlessly about the wreckage. It's impossible to discern the aim of these lighter bipeds from these tracks alone.  
@@ -181,7 +181,7 @@ The following locations are keyed to map 4.2:
 The storeroom contains curiosities and trinkets salvaged from Mournland ruins. Some of these items had magical properties until the Day of Mourning destroyed their magic. The storeroom's notable treasures include the following:
 
 - **Art Objects.** Clean tapestries, intact sculptures, and leather-wrapped oil paintings are carefully piled in a corner of the storeroom. Altogether, these relics of old Cyre are worth 2,000 gp.  
-- **Docents.** Half a dozen metal orbs line one shelf, but only one is a functional Docent (see the "Docent" section later in this chapter). These items were taken from the area's ruined colossi. A character can touch a piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to the working Docent to determine the location of the third piece (see the "Finding a Docent" section later in this chapter).  
+- **Docents.** Half a dozen metal orbs line one shelf, but only one is a functional [[/5. Mechanics/Items/Docent (ERLW).md\|Docent]] (see the "Docent" section later in this chapter). These items were taken from the area's ruined colossi. A character can touch a piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to the working Docent to determine the location of the third piece (see the "Finding a Docent" section later in this chapter).  
 - **Magic Ring.** An iron ring etched with angelic feathers hangs from a silver chain on the wall. This is a [[/5. Mechanics/Items/Ring Of Feather Falling.md\|Ring of Feather Falling]].  
 
 ### Mount Ironrot Encounters
@@ -198,7 +198,7 @@ The pilgrims are peaceful folk who wander the Mournland in search of friendly tr
 
 #### Pilgrims' Problems
 
-At first, Mercy speaks vaguely about the pilgrims' goals. If the characters offer aid or helpful advice, Mercy talks about the pilgrims' expeditions to ruined colossi. Mercy then tells the characters that the pilgrims have been extracting Docents from these ruins, and that the pilgrims consider the items sacred. Mercy also talks about the pilgrims' recent run-ins with rival salvagers. Mercy mentions two other groups in particular: a band of Cyran veterans that watches Mercy's group from the shadows, and a gang of openly hostile warforged that the pilgrims avoid at all costs. This latter group, Mercy explains, is loyal to the Lord of Blades, a local warmonger who conscripts warforged to his bloody cause of wiping out anyone who opposes him.
+At first, Mercy speaks vaguely about the pilgrims' goals. If the characters offer aid or helpful advice, Mercy talks about the pilgrims' expeditions to ruined colossi. Mercy then tells the characters that the pilgrims have been extracting [[/5. Mechanics/Items/Docent (ERLW).md\|Docents]] from these ruins, and that the pilgrims consider the items sacred. Mercy also talks about the pilgrims' recent run-ins with rival salvagers. Mercy mentions two other groups in particular: a band of Cyran veterans that watches Mercy's group from the shadows, and a gang of openly hostile warforged that the pilgrims avoid at all costs. This latter group, Mercy explains, is loyal to the Lord of Blades, a local warmonger who conscripts warforged to his bloody cause of wiping out anyone who opposes him.
 
 If the characters offer to help the pilgrims, Mercy suggests they meet at the pilgrims' base in Ialos (see "Ialos" earlier in this chapter). Mercy and the pilgrims happily travel with the characters, though they hide if violence breaks out, emerging only when it's safe. If the characters wish to attend to other business before meeting the pilgrims at Ialos, Mercy draws a rough map in the mud to show the way. The pilgrims head straight to Ialos and are there when the characters arrive.
 
@@ -212,7 +212,7 @@ Regardless of the characters' reaction to this revelation or whether they offer 
 
 The characters encounter three lawful neutral [[/5. Mechanics/Bestiary/Humanoid/Veteran.md\|veterans]] wandering through the mist. Once it's clear the characters aren't monsters or violent marauders, the wanderers introduce themselves as the Turquoise Spear, a small platoon of Cyran ex-soldiers that scours the Mournland for relics.
 
-An orc artillerist named Kalyth speaks for her companions, two halfling soldiers named Dortle-Lynn and Grezan. Kalyth explains that the Turquoise Spear recently discovered a stockpile of Docents taken from colossi. She wants to claim the *Docents* to sell in markets outside the Mournland, but she'd happily let the characters borrow a *Docent* beforehand. Unfortunately, Kalyth says, the *Docent* stockpile is in Ialos, a ruined village currently occupied by "rogue warforged." The Turquoise Spear attempted to infiltrate the ruins, but the warforged made it clear they wouldn't give up their stockpile without a fight.
+An orc artillerist named Kalyth speaks for her companions, two halfling soldiers named Dortle-Lynn and Grezan. Kalyth explains that the Turquoise Spear recently discovered a stockpile of [[/5. Mechanics/Items/Docent (ERLW).md\|Docents]] taken from colossi. She wants to claim the *Docents* to sell in markets outside the Mournland, but she'd happily let the characters borrow a *Docent* beforehand. Unfortunately, Kalyth says, the *Docent* stockpile is in Ialos, a ruined village currently occupied by "rogue warforged." The Turquoise Spear attempted to infiltrate the ruins, but the warforged made it clear they wouldn't give up their stockpile without a fight.
 
 Kalyth doesn't know that the warforged are peaceful pilgrims, nor does she know that the pilgrims regard the *Docents* as sacred. Regardless of these facts, the veteran insists that these treasures rightfully belong to "living, breathing Cyrans."
 
@@ -228,7 +228,7 @@ The blades fight until destroyed. They remain tight-lipped if captured, but if a
 
 ## Finding a Docent
 
-The party's first task in the Mournland is to find a working Docent to which they can tune the second piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. In the course of their exploration, they learn that the only operational *Docent* in the region is in a storeroom in Ialos.
+The party's first task in the Mournland is to find a working [[/5. Mechanics/Items/Docent (ERLW).md\|Docent]] to which they can tune the second piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]]. In the course of their exploration, they learn that the only operational *Docent* in the region is in a storeroom in Ialos.
 
 ### The Dispute
 
@@ -244,7 +244,7 @@ Mercy doesn't understand that the Cyran veterans' true motivation is money, nor 
 
 If the characters explain the veterans' financial need and convince Mercy that the veterans mean no harm, Mercy offers to give the characters the art objects kept in the pilgrims' storeroom. If a character succeeds on a DC 14 Charisma ([[/5. Mechanics/Rules/Skills.md#Persuasion\|Persuasion]]) check during this discussion, Mercy also offers the characters the [[/5. Mechanics/Items/Ring Of Feather Falling.md\|Ring of Feather Falling]] in the storeroom.
 
-Kalyth doesn't realize that the pilgrims' have valuable art objects or a magic ring. If told about these treasures, Kalyth says the Cyran veterans would gladly take either option instead of the Docents. If Mercy offers the ring as well, Kalyth insists the characters keep either the art or the ring, whichever they'd prefer, in thanks for brokering a peaceful resolution.
+Kalyth doesn't realize that the pilgrims' have valuable art objects or a magic ring. If told about these treasures, Kalyth says the Cyran veterans would gladly take either option instead of the [[/5. Mechanics/Items/Docent (ERLW).md\|Docents]]. If Mercy offers the ring as well, Kalyth insists the characters keep either the art or the ring, whichever they'd prefer, in thanks for brokering a peaceful resolution.
 
 #### Helpful Information
 
@@ -264,37 +264,14 @@ If the characters negotiate a deal that the Turquoise Spear finds agreeable, Kal
 
 ### Tuning the Rod
 
-Regardless of which side, if any, the characters take in this conflict, the characters must pair the second piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to the working Docent in Ialos to continue the adventure. (A character need not be attuned to the *Docent* to pair the *Docent* to the rod piece.)
+Regardless of which side, if any, the characters take in this conflict, the characters must pair the second piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]] to the working [[/5. Mechanics/Items/Docent (ERLW).md\|Docent]] in Ialos to continue the adventure. (A character need not be attuned to the *Docent* to pair the *Docent* to the rod piece.)
 
 When a character touches the rod piece to the working *Docent*, the piece emits a loud, metallic ping. Thereafter, the piece points in the direction of the third rod piece inside Landro. If the party travels in that direction, the characters eventually reach the ruins of Landro (see the "Landro" section below).
 
-#### Docent
-
-*Wondrous Item, Rare (Requires Attunement by a Warforged*)
-
-A *Docent* is a 2-inch-diameter metal sphere studded with dragonshards. To attune to a *Docent*, you must embed the item somewhere on your body, such as your chest or your eye socket.
+> [!embed-item]- Docent
+> ![[/5. Mechanics/Items/Docent (ERLW).md\|Docent]]
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/070-04-004-docent.webp#center\|A Docent]]
-
-##### Sentience
-
-A Docent is a sentient item of any alignment with an Intelligence of 16, a Wisdom of 14, and a Charisma of 14. It perceives the world through your senses. It communicates telepathically with you and can speak, read, and understand any language it knows (see "Random Properties" below).
-
-##### Life Support
-
-Whenever you end your turn with 0 hit points, the Docent can make a Wisdom ([[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]]) check with a +6 bonus. If this check succeeds, the Docent stabilizes you.
-
-##### Random Properties
-
-A Docent has the following properties:
-
-- **Languages.** The Docent knows Common, Giant, and `dice:1d4|noform|noparens|avg` (`1d4`) additional languages chosen by the DM. If a Docent knows fewer than six languages, it can learn a new language after it hears or reads the language through your senses.  
-- **Skills.** The Docent has a +7 bonus to ability checks using one of the following skills (roll a `dice:d4|noform|noparens|avg` (`d4`)): (1) [[/5. Mechanics/Rules/Skills.md#Arcana\|Arcana]], (2) [[/5. Mechanics/Rules/Skills.md#History\|History]], (3) [[/5. Mechanics/Rules/Skills.md#Investigation\|Investigation]], or (4) [[/5. Mechanics/Rules/Skills.md#Nature\|Nature]].  
-- **Spells.** The Docent knows one of the following spells and can cast it at will, requiring no spell components (roll a `dice:d6|noform|noparens|avg` (`d6`)): (1–2) [[/5. Mechanics/Spells/Detect Evil And Good.md\|Detect Evil and Good]] or (3–6) [[/5. Mechanics/Spells/Detect Magic.md\|Detect Magic]]. The Docent decides when to cast the spell.  
-
-##### Personality
-
-A Docent is designed to advise and assist the warforged it's attached to, including acting as a translator. The Docent's properties are under its control, and if you have a bad relationship with your Docent, it might refuse to assist you.
 
 ## Landro
 

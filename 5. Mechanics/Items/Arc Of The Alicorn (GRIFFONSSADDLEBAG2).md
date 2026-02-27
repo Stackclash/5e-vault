@@ -12,7 +12,7 @@ tags:
 aliases:
   - Arc of the Alicorn
 one-hand-damage: 1d10 piercing
-range: 150/600
+range: 150\600
 weight: 2
 ---
 # Arc of the Alicorn

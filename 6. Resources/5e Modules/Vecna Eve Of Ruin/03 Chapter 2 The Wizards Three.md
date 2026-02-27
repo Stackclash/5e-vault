@@ -7,7 +7,7 @@ aliases:
   - Chapter 2: The Wizards Three
 ---
 # Chapter 2: The Wizards Three
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 37* 
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/026-02-001-the-wizards-three.webp#center\|"Alustriel and Tasha desperately cast a Wish spell to try to stop Vecna's evil plan. Mordenkainen, who is Kas in disguise, secretly sabotages the spell"]]
 
@@ -322,11 +322,8 @@ Kas doesn't know that Vecna is weakened to pre-god status while weaving the Ritu
 
 The [[/5. Mechanics/Items/Chime Of Exile (VEOR).md\|Chime of Exile]] is Alustriel's property and ultimately can send Vecna back to Oerth, interrupting his ritual. The interruption would dissipate the secret-based magic Vecna is weaving, significantly setting back his plot and leaving the lich-god in a weakened state. If the characters wish to take the chime with them, Alustriel assents.
 
-#### Chime of Exile
-
-*Wondrous Item, Very Rare*
-
-This silver chime is engraved with delicate magic sigils. While holding the chime, you can use an action to cast the [[/5. Mechanics/Spells/Banishment.md\|Banishment]] spell (spell save DC 20). If the target of the spell has 50 hit points or fewer, it automatically fails its saving throw. Once the chime has been used to cast the spell, it can't be used this way again until the next dawn.
+> [!embed-item]- Chime of Exile
+> ![[/5. Mechanics/Items/Chime Of Exile (VEOR).md\|Chime of Exile]]
 
 ## Toward Web's Edge
 

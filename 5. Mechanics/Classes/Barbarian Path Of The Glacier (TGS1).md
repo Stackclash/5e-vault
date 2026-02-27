@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Path of the Glacier (Level 3)
-
 Born from the frigid and daunting Everglacier, barbarians who follow Path of the Glacier have learned to harbor the resolute stillness, patience, and unwavering determination and destruction of the icy landscape. These warriors transform their bodies into powerful moving bunkers that are as difficult to take down as they are to escape from.
 
 Barbarians that follow this path are often trained hunters who enjoy the patient stalking of prey. They thrive on the peril they impose on their fleeing targets, and take special pride in their slow-and-steady approach.
+
+## Subclass Features
 
 ### Permafrost (Level 3)
 

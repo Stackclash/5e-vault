@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: urban
 size: Small
 tags:
@@ -14,8 +14,8 @@ tags:
 aliases:
   - Smoke Mephit
 ---
-# [[5. Mechanics/Bestiary/Elemental/Smoke Mephit.md|Smoke Mephit]]
-*Source: Monster Manual p. 217, Curse of Strahd*
+# [[5. Mechanics\Bestiary\Elemental\Smoke Mephit.md|Smoke Mephit]]
+*Source: Monster Manual p. 217*
 
 ## Mephits
 
@@ -77,7 +77,6 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
     "name": "Cinder Breath (Recharge 6)"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Elemental/token/smoke-mephit.webp"
 ```
 ^statblock

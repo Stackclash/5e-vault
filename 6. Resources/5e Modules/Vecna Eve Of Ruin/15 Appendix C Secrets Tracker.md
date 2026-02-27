@@ -7,7 +7,7 @@ aliases:
   - Appendix C: Secrets Tracker
 ---
 # Appendix C: Secrets Tracker
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 256* 
 
 Use this chart to keep track of the secrets characters learn during this adventure. Since it contains spoilers, keep this sheet hidden from the players!
 

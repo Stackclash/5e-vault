@@ -13,7 +13,7 @@ tags:
 aliases:
   - Necrichor
 ---
-# [[5. Mechanics/Bestiary/Undead/Necrichor (VRGR).md|Necrichor]]
+# [[5. Mechanics\Bestiary\Undead\Necrichor (VRGR).md|Necrichor]]
 *Source: Van Richten's Guide to Ravenloft p. 238*
 
 A necrichor is a being of living blood, formed from the ichor of evil gods or the sludge in the crypts of failed liches. Despite the loss of a solid physical form, these foul creatures retain their terrible intellects and aspire to megalomaniacal goals—the first of which involves regaining a body. To do this, they seek servants to exact their will, coercing even the most stubborn potential minions by turning their own blood against them.
@@ -87,10 +87,10 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
       \ takes the remaining damage. The necrichor can attach to only one creature\
       \ at a time.\n\nThe attached necrichor can telepathically control the target's\
       \ move, action, or both. When controlled this way, the target can take only\
-      \ the Attack action (necrichor chooses the target) or the Dash action. The attached\
-      \ target can repeat the saving throw at the end of each of its turns, detaching\
-      \ from the necrichor and forcing it to move into the nearest unoccupied space\
-      \ on a success."
+      \ the Attack action (necrichor chooses the target) or the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]]\
+      \ action. The attached target can repeat the saving throw at the end of each\
+      \ of its turns, detaching from the necrichor and forcing it to move into the\
+      \ nearest unoccupied space on a success."
     "name": "Blood Puppeteering (Recharge 6)"
 "source":
   - "VRGR"

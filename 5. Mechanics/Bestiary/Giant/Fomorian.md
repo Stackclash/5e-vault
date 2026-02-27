@@ -14,8 +14,8 @@ tags:
 aliases:
   - Fomorian
 ---
-# [[5. Mechanics/Bestiary/Giant/Fomorian.md|Fomorian]]
-*Source: Monster Manual p. 136, Vecna: Eve of Ruin*
+# [[5. Mechanics\Bestiary\Giant\Fomorian.md|Fomorian]]
+*Source: Monster Manual p. 136*
 
 The most hideous and wicked of all giantkind are the godless fomorians, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
 
@@ -86,7 +86,6 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
     "name": "Curse of the Evil Eye (Recharges after a Short or Long Rest)"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Giant/token/fomorian.webp"
 ```
 ^statblock

@@ -13,7 +13,7 @@ tags:
 aliases:
   - Inquisitor of the Mind Fire
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Mind Fire (VRGR).md|Inquisitor of the Mind Fire]]
+# [[5. Mechanics\Bestiary\Humanoid\Inquisitor Of The Mind Fire (VRGR).md|Inquisitor of the Mind Fire]]
 *Source: Van Richten's Guide to Ravenloft p. 248*
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
@@ -74,7 +74,8 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
       \ until the start of the inquisitor's next turn. On the [[/5. Mechanics/Rules/Conditions.md#Charmed|charmed]]\
       \ target's turn, the inquisitor can telepathically control the target's move,\
       \ action, or both. When controlled in this way, the target can take only the\
-      \ Attack (inquisitor chooses the target) or Dash action."
+      \ Attack (inquisitor chooses the target) or [[/5. Mechanics/Rules/Actions.md#Dash|Dash]]\
+      \ action."
     "name": "Inquisitor's Command (Recharge 5-6)"
   - "desc": "The inquisitor casts one of the following spells, requiring no components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\n**At\

@@ -12,7 +12,7 @@ aliases:
   - Whelm
 one-hand-damage: 1d8 bludgeoning
 two-hand-damage: 1d10 bludgeoning
-range: 20/60
+range: 20\60
 weight: 2
 ---
 # Whelm

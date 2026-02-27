@@ -18,7 +18,7 @@ tags:
 aliases:
   - Orc Red Fang of Shargaas
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Orc Red Fang Of Shargaas (VGM).md|Orc Red Fang of Shargaas]]
+# [[5. Mechanics\Bestiary\Humanoid\Orc Red Fang Of Shargaas (VGM).md|Orc Red Fang of Shargaas]]
 *Source: Volo's Guide to Monsters p. 185*
 
 Shargaas is the orc deity of deep darkness and sneakiness, a murderous god who hates anything that lives that isn't an orc. Orcs consider Shargaas to be a divinity suited to pariahs and weaklings, all of them unfit for true roles in tribal life. These outsiders live in the most remote, deepest parts of the tribe's domain.
@@ -72,8 +72,9 @@ In addition, orcs have special relationships with two creatures that are sometim
 "languages": "Common, Orc"
 "cr": "3"
 "traits":
-  - "desc": "On each of its turns, the orc can use a bonus action to take the Dash,\
-      \ Disengage, or Hide action."
+  - "desc": "On each of its turns, the orc can use a bonus action to take the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]],\
+      \ [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]], or [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
+      \ action."
     "name": "Cunning Action"
   - "desc": "The orc deals 2 extra dice of damage when it hits a target with a weapon\
       \ attack (included in its attacks)."

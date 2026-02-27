@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Rune Knight (Level 3)
-
 Rune Knights enhance their martial prowess using the supernatural power of runes, an ancient practice that originated with giants. Rune cutters can be found among any family of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant's work carved into a hill or cave, learned of the runes from a sage, or met the giant in person, you studied the giant's craft and learned how to apply magic runes to empower your equipment.
+
+## Subclass Features
 
 ### Bonus Proficiencies (Level 3)
 
@@ -74,6 +72,15 @@ Whenever you finish a long rest, you can touch a number of objects equal to the 
 ^runes-known
 
 The following runes are available to you when you learn a rune. If a rune has a level requirement, you must be at least that level in this class to learn the rune. If a rune requires a saving throw, your Rune Magic save DC equals 8 + your proficiency bonus + your Constitution modifier.
+
+Options (choose 2):
+
+- [[/5. Mechanics/Optional Features/Cloud Rune (TCE).md\|Cloud Rune]]  
+- [[/5. Mechanics/Optional Features/Fire Rune (TCE).md\|Fire Rune]]  
+- [[/5. Mechanics/Optional Features/Frost Rune (TCE).md\|Frost Rune]]  
+- [[/5. Mechanics/Optional Features/Stone Rune (TCE).md\|Stone Rune]]  
+- [[/5. Mechanics/Optional Features/Hill Rune (TCE).md\|Hill Rune]]  
+- [[/5. Mechanics/Optional Features/Storm Rune (TCE).md\|Storm Rune]]  
 
 ### Giant's Might (Level 3)
 

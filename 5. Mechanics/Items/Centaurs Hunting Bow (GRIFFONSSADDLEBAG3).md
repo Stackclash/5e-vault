@@ -12,7 +12,7 @@ tags:
 aliases:
   - Centaur's Hunting Bow
 one-hand-damage: 1d6 piercing
-range: 80/320
+range: 80\320
 weight: 2
 ---
 # Centaur's Hunting Bow

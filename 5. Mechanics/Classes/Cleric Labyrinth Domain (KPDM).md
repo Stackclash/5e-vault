@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Labyrinth Domain (Level 1)
-
 The savage and cunning god of minotaurs has few followers, but those that heed the call are granted brutal powers to smash and confound their foes. The Labyrinth domain grants powers linked to the mazes that minotaurs love and to misleading foes. The maze is your holy temple, and its winding corridors and deadly traps are the litany that you pray.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Labyrinth Domain Spells**
 

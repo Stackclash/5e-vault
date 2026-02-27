@@ -43,19 +43,23 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Butcher (Level 3)
-
 Swish, swish, thunk. Swish, swish, thunk. These are the sounds of a butcher at work, swinging their tools through the air as they dismember and disembowel their raw materials. For a butcher, their tools are an extension of their own bodies, akin to the claws and fangs of a predator that allow them to rip through the flesh of their prey.
 
 While many think lowly of butchers, few can appreciate the combination of brute strength, steady hands, and anatomical knowledge that it requires. After all, any animal can hack away at a piece of meat, but it takes a trained artisan to create the surgical cuts needed for this craft. The best butchers take pride in partaking in every aspect of preparing a carcass, including its creation by hunting and slaughtering the creature. These fighters launch themselves eagerly into battle, always enticed by the thought of fresh meat.
+
+## Subclass Features
 
 ### Tools of the Trade (Level 3)
 
 When you choose this archetype at 3rd level, you learn to use your weapons the way you use your butcher's tools, creating a new range of techniques unseen by most other combatants. When you hit a creature with a melee weapon attack, you may choose to add an additional effect from one of the following, depending on what type of damage your weapon dealt. Each effect also improves when you become an 18th-level fighter. You may use this ability a number of times equal to your Strength modifier (minimum of once). You regain all expended uses upon finishing a short or long rest.
 
 If an effect requires your target to make a saving throw, the DC is calculated as 8 + your Strength modifier + your proficiency bonus.
+
+Options:
+
+- [[/5. Mechanics/Optional Features/Meat Hook (HHHVIII).md\|Meat Hook]]  
+- [[/5. Mechanics/Optional Features/Tenderizer (HHHVIII).md\|Tenderizer]]  
+- [[/5. Mechanics/Optional Features/Cleaver (HHHVIII).md\|Cleaver]]  
 
 ### Anatomical Precision (Level 3)
 
@@ -80,3 +84,9 @@ At 15th level, you become so skilled with your butchering tools that you can wie
 ### Improved Tools of the Trade (Level 18)
 
 Each effect improves when you become an 18th-level fighter.
+
+Options:
+
+- [[/5. Mechanics/Optional Features/Improved Meat Hook (HHHVIII).md\|Improved Meat Hook]]  
+- [[/5. Mechanics/Optional Features/Improved Tenderizer (HHHVIII).md\|Improved Tenderizer]]  
+- [[/5. Mechanics/Optional Features/Improved Cleaver (HHHVIII).md\|Improved Cleaver]]

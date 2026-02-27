@@ -110,7 +110,7 @@ With your DM's permission, you can instead choose a language from the Exotic Lan
 
 ![[/6. Resources/Books/Players Handbook 2014/img/c4dwarvishalphabet.webp#center\|Dwarvish Alphabet]]
 
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Primordial, Primordial, Primordial, and Primordial dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
+Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
 ![[/5. Mechanics/Tables/Standard Languages (PHB).md\|Standard Languages]]
 

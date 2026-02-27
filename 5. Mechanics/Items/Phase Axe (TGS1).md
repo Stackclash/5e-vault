@@ -13,7 +13,7 @@ aliases:
   - Phase Axe
 one-hand-damage: 1d8 slashing
 two-hand-damage: 1d10 slashing
-range: 20/60
+range: 20\60
 weight: 2
 ---
 # Phase Axe

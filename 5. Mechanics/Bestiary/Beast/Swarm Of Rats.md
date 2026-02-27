@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'swamp, urban'
 size: Medium
 tags:
@@ -15,8 +15,8 @@ tags:
 aliases:
   - Swarm of Rats
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Rats.md|Swarm of Rats]]
-*Source: Monster Manual p. 339, Curse of Strahd, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Rats.md|Swarm of Rats]]
+*Source: Monster Manual p. 339. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 > [!note] The Nature of Swarms
 > 
@@ -64,8 +64,6 @@ aliases:
     "name": "Bites"
 "source":
   - "MM"
-  - "CoS"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Beast/token/swarm-of-rats.webp"
 ```
 ^statblock

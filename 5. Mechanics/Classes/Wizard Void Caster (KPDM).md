@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Void Caster (Level 2)
-
 Given the Nature of Void Magic, it comes as no Surprise that a specialty of arcane spellcasting sprang up from the study of Void Speech.
+
+## Subclass Features
 
 ### Wizard Specialty (Level 2)
 

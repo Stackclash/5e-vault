@@ -14,8 +14,8 @@ tags:
 aliases:
   - Mummy
 ---
-# [[5. Mechanics/Bestiary/Undead/Mummy.md|Mummy]]
-*Source: Monster Manual p. 228, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Undead\Mummy.md|Mummy]]
+*Source: Monster Manual p. 228. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
 
@@ -108,7 +108,6 @@ A mummy doesn't require air, food, drink, or sleep.
     "name": "Dreadful Glare"
 "source":
   - "MM"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Undead/token/mummy.webp"
 ```
 ^statblock

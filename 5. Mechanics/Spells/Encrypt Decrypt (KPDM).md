@@ -38,7 +38,7 @@ time: 1 Action
 duration: Instantaneous
 range: Touch
 aliases:
-  - Encrypt / Decrypt
+  - Encrypt \ Decrypt
 ---
 # Encrypt / Decrypt
 *cantrip, Divination*  

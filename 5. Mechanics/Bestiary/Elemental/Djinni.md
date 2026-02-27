@@ -14,8 +14,8 @@ tags:
 aliases:
   - Djinni
 ---
-# [[5. Mechanics/Bestiary/Elemental/Djinni.md|Djinni]]
-*Source: Monster Manual p. 144, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Elemental\Djinni.md|Djinni]]
+*Source: Monster Manual p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Proud, sensuous genies from the Elemental Plane of Air, the djinn are attractive, tall, well-muscled humanoids with blue skin and dark eyes. They dress in airy, shimmering silks, designed as much for comfort as to flaunt their musculature.
 
@@ -134,7 +134,6 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
     "name": "Create Whirlwind"
 "source":
   - "MM"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Elemental/token/djinni.webp"
 ```
 ^statblock

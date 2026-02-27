@@ -14,8 +14,8 @@ tags:
 aliases:
   - Scarecrow
 ---
-# [[5. Mechanics/Bestiary/Construct/Scarecrow.md|Scarecrow]]
-*Source: Monster Manual p. 268, Curse of Strahd*
+# [[5. Mechanics\Bestiary\Construct\Scarecrow.md|Scarecrow]]
+*Source: Monster Manual p. 268*
 
 At harvest time, when death revisits the twilit world and summer's blossoms bow their withered heads, eerie scarecrows loom in silent vigil over empty fields. With immortal patience, these stoic sentinels hold their posts through wind, storm, and flood, bound to their master's command, eager to terrify prey with its sackcloth visage and rend victims with its razor-sharp claws.
 
@@ -70,7 +70,6 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
     "name": "Terrifying Glare"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Construct/token/scarecrow.webp"
 ```
 ^statblock

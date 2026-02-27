@@ -11,7 +11,7 @@ tags:
   - item/weapon/ranged
 aliases:
   - Sundersludge Net
-range: 5/15
+range: 5\15
 weight: 3
 ---
 # Sundersludge Net

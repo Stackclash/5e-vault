@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Serophage (Level 1)
-
 Some sorcerers are preoccupied with blood, both their own and that of others.
+
+## Subclass Features
 
 ### Sorcerous Origin (Level 1)
 

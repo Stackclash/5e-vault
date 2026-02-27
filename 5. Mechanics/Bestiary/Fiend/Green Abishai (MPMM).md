@@ -14,8 +14,8 @@ tags:
 aliases:
   - Green Abishai
 ---
-# [[5. Mechanics/Bestiary/Fiend/Green Abishai (MPMM).md|Green Abishai]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162, Vecna: Eve of Ruin*
+# [[5. Mechanics\Bestiary\Fiend\Green Abishai (MPMM).md|Green Abishai]]
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162*
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
 
@@ -94,7 +94,6 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "source":
   - "MPMM"
   - "MTF"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Fiend/token/green-abishai-mpmm.webp"
 ```
 ^statblock

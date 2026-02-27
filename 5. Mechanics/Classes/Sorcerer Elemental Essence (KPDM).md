@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Elemental Essence (Level 1)
-
 Your innate magic arises from elemental power suffused into your being. You might have an elemental creature, such as genie, in your ancestry. Perhaps you lived most of your life near a portal to one of the Elemental Planes, and the ambient magic of the plane saturated everything you ate and drank. Perhaps a magical conjuring went awry, and the essence of an elemental merged with your own. Whatever the ultimate source, you are a walking conduit to an elemental plane.
+
+## Subclass Features
 
 ### Elemental Heritage (Level 1)
 
@@ -57,10 +55,10 @@ At 1st level, choose one element from the Elemental Heritage table. You can spea
 
 | Element | Language | Damage Type |
 |---------|----------|-------------|
-| Air | Primordial | Lightning or Thunder (choose one) |
-| Earth | Primordial | Buldgeoning |
-| Fire | Primordial | Fire |
-| Water | Primordial | Cold |
+| Air | Auran | Lightning or Thunder (choose one) |
+| Earth | Terran | Buldgeoning |
+| Fire | Ignan | Fire |
+| Water | Aquan | Cold |
 ^elemental-heritage
 
 ### Manifest Aura (Level 1)

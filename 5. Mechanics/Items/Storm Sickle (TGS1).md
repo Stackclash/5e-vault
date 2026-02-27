@@ -11,7 +11,7 @@ tags:
 aliases:
   - Storm Sickle
 one-hand-damage: 1d4 slashing
-range: 20/60
+range: 20\60
 weight: 2
 ---
 # Storm Sickle

@@ -15,8 +15,8 @@ tags:
 aliases:
   - Necromancer Wizard
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Necromancer Wizard (MPMM).md|Necromancer Wizard]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 264, Volo's Guide to Monsters p. 217, Vecna: Eve of Ruin*
+# [[5. Mechanics\Bestiary\Humanoid\Necromancer Wizard (MPMM).md|Necromancer Wizard]]
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 264, Volo's Guide to Monsters p. 217*
 
 Necromancers study the interaction of life, death, and undeath. Some necromancers dig up or purchase corpses to create Undead servitors. A few instead use their powers for good, hunting Undead.
 
@@ -82,7 +82,6 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
   - "MPMM"
   - "VGM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Humanoid/token/necromancer-wizard-mpmm.webp"
 ```
 ^statblock

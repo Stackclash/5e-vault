@@ -14,8 +14,8 @@ tags:
 aliases:
   - Shrieker
 ---
-# [[5. Mechanics/Bestiary/Plant/Shrieker.md|Shrieker]]
-*Source: Monster Manual p. 138, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Plant\Shrieker.md|Shrieker]]
+*Source: Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A shrieker is a human-sized mushroom that emits a piercing screech to drive off creatures that disturb it. Other creatures use the fungi as an alarm to signal the approach of prey, and various intelligent races of the Underdark cultivate shriekers on the outskirts of their communities to discourage trespassers.
 
@@ -62,7 +62,6 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
     "name": "Shriek"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Plant/token/shrieker.webp"
 ```
 ^statblock

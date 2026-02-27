@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/luvash.webp
+  - 4. World Almanac\NPCs\img\luvash.webp
 relationships: []
 aliases:
   - Luvash

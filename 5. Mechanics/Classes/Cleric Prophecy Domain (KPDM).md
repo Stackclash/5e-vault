@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Prophecy Domain (Level 1)
-
 You see the future, for good or ill. Eventually, you may even become an oracle renowned across the region.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Prophecy Domain Spells**
 

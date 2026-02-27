@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Greenleaf College (Level 3)
-
 The Greenleaf College was founded by half-elves who sought to celebrate their varied heritage. Drawing from elven lore for inspiration and power, Greenleaf bards strengthen their connection to nature. Through their magic and their tales, they convey the rejuvenating strength of the forests and rivers to their allies.
+
+## Subclass Features
 
 ### Expanded Spell List (Level 3)
 

@@ -43,20 +43,15 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### White Necromancer (Level 2)
-
 An enlightened few wizards know that true mastery of life and death requires understanding of the uneasy balance between life, death, and undeath—the necromantic triad.
+
+## Subclass Features
 
 ### Wizard Specialty (Level 2)
 
 You don't walk the same path as traditional users of necromantic magic, which your order refers to as "dark necromancers." You have profound respect for life's eternal cycle and use the power you have accumulated to honor the dead and aid the living.
 
-#### Restriction: Non-Evil
-_Source: Deep Magic_
-
-You can choose this wizard specialty only if you have an alignment that isn't evil.
+**Restriction Non-Evil.** You can choose this wizard specialty only if you have an alignment that isn't evil.
 
 ### Necromancy Savant (Level 2)
 

@@ -43,13 +43,13 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Griffon Scout (Level 3)
-
 The elves of the Griffon Court are practical and disciplined, well suited to surviving in their isolated holding on a windswept crag jutting out of the Margreve. Trained by elven court veterans, rangers of the Griffon Scout archetype learn to move swiftly and stealthily both on foot and while mounted, gathering information on their enemies or delivering devastating hit-and-run raids with precision and coordination.
 
 Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Griffon Scout Spells table. The spell counts as a Ranger spell for you, but it doesn't count against the number of ranger spells you know.
+
+## Subclass Features
+
+### Domain Spells (Level 3)
 
 **Griffon Scout Spells**
 

@@ -43,10 +43,6 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### College of Wyrdsingers (Level 3)
-
 Bards of the College of Wyrdsingers subscribe to the wyrd, a philosophy that centers around the phenomenon of the same name. The wyrd is that which will be, inexorably tied to such concepts as destiny and fate. Though some might consider the idea of a fixed destiny fatalistic, the bards of this college are inspired by this viewpoint. One may not choose the manner of one's death, but one can choose how to meet it, and that idea is at the heart of this college. An insect might be caught in a spider's web. Whether it lives or dies, its struggles ultimately shake the web in its entirety, and it might free itself through such effort. The struggle affects all things, however remotely connected they might be, whereas the insect that merely accepts its death leaves not even a ripple behind. To confront fate, to embrace the wyrd and whatever it brings, is to have the power to shake the world and make it take notice.
 
 ### Braggart (Level 3)

@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Shadow Bloodline (Level 1)
-
 Your magic comes from a place drained of color, where light fights a losing battle against the Relentless encroachment of Darkness. In the distant past, your ancestors were Touched by the Shadow Realm, and this contact left its mark on your Family bloodline.
 
 Except as noted below, Shadow bloodline sorcerers function as sorcerers and use the Sorcerer spell list.
+
+## Subclass Features
 
 ### Taint of Shadow (Level 1)
 

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: null
 size: Large
 tags:
@@ -13,8 +13,8 @@ tags:
 aliases:
   - Warhorse Skeleton
 ---
-# [[5. Mechanics/Bestiary/Undead/Warhorse Skeleton.md|Warhorse Skeleton]]
-*Source: Monster Manual p. 273, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Undead\Warhorse Skeleton.md|Warhorse Skeleton]]
+*Source: Monster Manual p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
 
@@ -74,7 +74,6 @@ A skeleton doesn't require air, food, drink, or sleep.
     "name": "Hooves"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Undead/token/warhorse-skeleton.webp"
 ```
 ^statblock

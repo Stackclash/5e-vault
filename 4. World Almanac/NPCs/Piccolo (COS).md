@@ -9,7 +9,7 @@ tags:
   - monster/type/beast
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/piccolo.webp
+  - 4. World Almanac\NPCs\img\piccolo.webp
 relationships: []
 aliases:
   - Piccolo

@@ -47,11 +47,9 @@ aliases:
 > 
 > I don't dream because I don't sleep. I'm always awake so no one can ever sneak up on me. If I dreamed, they would be bigger dreams than yours, though, because my head is bigger.
 
-## Class Features
-
-### Circle of Dreams (Level 2)
-
 Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids' guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.
+
+## Subclass Features
 
 ### Balm of the Summer Court (Level 2)
 

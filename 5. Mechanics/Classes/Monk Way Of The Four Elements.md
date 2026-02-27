@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Way of the Four Elements (Level 3)
-
 You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.
 
 Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
+
+## Subclass Features
 
 ### Disciple of the Elements (Level 3)
 
@@ -59,9 +57,7 @@ You know the Elemental Attunement discipline and one other elemental discipline 
 
 Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.
 
-#### Casting Elemental Spells
-
-Some elemental disciplines allow you to cast spells. See "chapter 10" of the Player's Handbook for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.
+**Casting Elemental Spells.** Some elemental disciplines allow you to cast spells. See "chapter 10" of the Player's Handbook for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.
 
 Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]] does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast [[/5. Mechanics/Spells/Burning Hands.md\|burning hands]], you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1).
 
@@ -80,6 +76,8 @@ The maximum number of ki points you can spend to cast a spell in this way (inclu
 ### Elemental Disciplines (Level 3)
 
 The elemental disciplines are presented in alphabetical order. If a discipline requires a level, you must be the level in this class to learn the discipline.
+
+Options (choose 2):
 
 - [[/5. Mechanics/Optional Features/Breath Of Winter.md\|Breath of Winter]]  
 - [[/5. Mechanics/Optional Features/Clench Of The North Wind.md\|Clench of the North Wind]]  

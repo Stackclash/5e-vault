@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### College of Alchemy (Level 3)
-
 Bards of this college see alchemy as a dance between the elements of the world. Its not bound by the rules of chemistry, and while it can be learned through dedication and study, it can also be felt and intuited by those with a knack for it. Some of these bards go so far as to sing to their alchemical projects, convincing the elements within to simply become something else of their own volition. While most of the College of Alchemy are alchemists by trade, many others are brewers, cooks, or pharmacists. Regardless of their trades, these unusual alchemical savants bend music, magic, and the elements to their will to convert one to another in seamless harmony.
+
+## Subclass Features
 
 ### Mixologist (Level 3)
 
@@ -79,18 +77,10 @@ In addition, you can change the element of your bardic fires. When a bardic fire
 
 A target can be affected by multiple bardic fires at the same time, but only if each one is a different element. If a creature succeeds on the ability check to end the effects of a bardic fire affecting it or another creature, any other bardic fires affecting the target also end.
 
-#### Air
+**Air.** This bardic fire deals lightning damage upon impact, instead of fire. In addition, roll a Bardic Inspiration die. A powerful gust erupts from the container, pushing the target up to 5 feet away from you, plus the number you roll on the Bardic Inspiration die (rounded up to the nearest 5 feet). Alternatively, you can use an action to throw this bardic fire harmlessly at the ground below yourself or another willing creature, pushing you or that creature that same distance in a direction of your choice without provoking opportunity attacks.
 
-This bardic fire deals lightning damage upon impact, instead of fire. In addition, roll a Bardic Inspiration die. A powerful gust erupts from the container, pushing the target up to 5 feet away from you, plus the number you roll on the Bardic Inspiration die (rounded up to the nearest 5 feet). Alternatively, you can use an action to throw this bardic fire harmlessly at the ground below yourself or another willing creature, pushing you or that creature that same distance in a direction of your choice without provoking opportunity attacks.
+**Earth.** This bardic fire deals bludgeoning damage upon impact, instead of fire. In addition, roll a Bardic Inspiration die. The target is encased in a muddy shell that rapidly hardens, reducing its speed by 5 feet, plus the number you roll on the Bardic Inspiration die (rounded up to the nearest 5 feet). A targets speed can not be reduced to less than 10 feet in this way. A creature can end this effect by using its action to make a Strength or Dexterity check (its choice) against your bard spell save DC to remove the muddy shell.
 
-#### Earth
+**Fire.** Your normal bardic fires are associated with this element. However, its damage now ignores resistance and immunity to fire damage.
 
-This bardic fire deals bludgeoning damage upon impact, instead of fire. In addition, roll a Bardic Inspiration die. The target is encased in a muddy shell that rapidly hardens, reducing its speed by 5 feet, plus the number you roll on the Bardic Inspiration die (rounded up to the nearest 5 feet). A targets speed can not be reduced to less than 10 feet in this way. A creature can end this effect by using its action to make a Strength or Dexterity check (its choice) against your bard spell save DC to remove the muddy shell.
-
-#### Fire
-
-Your normal bardic fires are associated with this element. However, its damage now ignores resistance and immunity to fire damage.
-
-#### Water
-
-This bardic fire deals cold damage upon impact, instead of fire. In addition, roll a Bardic Inspiration die. A flood of chilling water pours forth from the container and freezes on the ground directly below it. Choose a number of contiguous 5-foot spaces equal to one plus the number rolled on the Bardic Inspiration die, starting with a space directly below the target. Each of those spaces is covered with slick ice, making it difficult terrain. When a creature enters one of these spaces for the first time on its turn or starts its turn there, it must make a Dexterity saving throw against your bard spell DC. On a failed save, it falls [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. The ice remains for 1 minute or until you use this bardic fire again.
+**Water.** This bardic fire deals cold damage upon impact, instead of fire. In addition, roll a Bardic Inspiration die. A flood of chilling water pours forth from the container and freezes on the ground directly below it. Choose a number of contiguous 5-foot spaces equal to one plus the number rolled on the Bardic Inspiration die, starting with a space directly below the target. Each of those spaces is covered with slick ice, making it difficult terrain. When a creature enters one of these spaces for the first time on its turn or starts its turn there, it must make a Dexterity saving throw against your bard spell DC. On a failed save, it falls [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]]. The ice remains for 1 minute or until you use this bardic fire again.

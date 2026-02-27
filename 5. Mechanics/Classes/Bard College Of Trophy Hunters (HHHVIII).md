@@ -43,15 +43,13 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### College of Trophy Hunters (Level 3)
-
 Bards that have joined the College of Trophy Hunters (more simply known as 'Treasure Hunters') are swashbuckling, romantic adventurers that roam the world, searching for the beasts and monsters that legends are made of. It is not enough for them to simply experience the thrill of the hunt, however. They must also bring back a prize from their kills, using them as the set pieces of epic tales that they are sure to tell over and over again.
 
 While many see the Trophy Hunters as simple braggarts, they actually carry with them ancient traditions of animism that imparted great power to objects and to the histories contained within them. They are able to hear the hidden stories these trophies have to tell and use this knowledge to inspire and empower their companions around them.
 
 Trophy hunters are very often found in adventurer's guilds or mercenary halls, happily showing off their many trinkets to wide-eyed recruits who are just at the start of their monster-hunting journeys. It is also not uncommon to find old trophy hunters sitting in a cosy spot by the tavern fire, ready and eager to explain where the dragon head above the hearth came from. And, if they were to embellish a detail or ten, what's the harm? All that matters is that they inspire the listener to their own yearnings of adventure.
+
+## Subclass Features
 
 ### Bonus Proficiencies (Level 3)
 

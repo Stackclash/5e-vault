@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Dragon Mage (Level 2)
-
 Wizards practice the subtle magic of pulling power from thin air and shaping it to fit their needs. Sorcerers tame the chaotic power within themselves, releasing it in barely controlled gouts of magical eruptions. Wizards who walk the path between these two diverse means of using magic are called dragon mages, and they meld the order of wizardry with the chaos of elemental mastery to grant themselves special powers.
+
+## Subclass Features
 
 ### Wizard Specialty (Level 2)
 

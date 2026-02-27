@@ -47,10 +47,6 @@ aliases:
 > 
 > Sometimes I disintegrate my shadow when I see it, because I think it's a different beholder.
 
-## Class Features
-
-### Shadow Magic (Level 1)
-
 You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.
 
 The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer Quirks table to create a quirk for your character.
@@ -68,6 +64,8 @@ The power of shadow magic casts a strange pall over your physical presence. The 
 | 5 | You have trouble remembering that living creatures and corpses should be treated differently. |
 | 6 | You blinked. Once. Last week. |
 ^shadow-sorcerer-quirks
+
+## Subclass Features
 
 ### Eyes of the Dark (Level 1)
 

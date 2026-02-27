@@ -7,7 +7,7 @@ aliases:
   - Chapter 8: The Dragon Queen's Pride
 ---
 # Chapter 8: The Dragon Queen's Pride
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 149* 
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/121-08-001-red-belvedere.webp#center\|"The heroes' quest for the final rod piece takes them into a casino in the heart of Avernus"]]
 
@@ -110,23 +110,23 @@ As a bonus action, the driver can do one of the following:
 
 - Start the [[/5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]]'s engine or shut it off.  
 - Cause the [[/5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]] to take the [[/5. Mechanics/Rules/Actions.md#Dash\|Dash]] or [[/5. Mechanics/Rules/Actions.md#Disengage\|Disengage]] action while the vehicle's engine is running  
-- Insert a Soul Coin into the engine's furnace  
+- Insert a [[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coin]] into the engine's furnace  
 
 ##### Soul Fuel
 
-The Venatrix's engine has a furnace fueled by Soul Coins (described later in this chapter). Among the vehicle's helm controls is a narrow slot into which Soul Coins can be fed. The vehicle's furnace consumes a Soul Coin instantly, expending all the coin's remaining charges at once and destroying the coin in the process. The soul trapped in the coin becomes trapped in the furnace instead, giving the vehicle 24 hours of fuel for each charge the Soul Coin had when it was consumed (maximum 72 hours). The furnace can hold any number of souls, their screams of anguish audible out to a range of 60 feet.
+The Venatrix's engine has a furnace fueled by [[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coins]] (described later in this chapter). Among the vehicle's helm controls is a narrow slot into which Soul Coins can be fed. The vehicle's furnace consumes a Soul Coin instantly, expending all the coin's remaining charges at once and destroying the coin in the process. The soul trapped in the coin becomes trapped in the furnace instead, giving the vehicle 24 hours of fuel for each charge the Soul Coin had when it was consumed (maximum 72 hours). The furnace can hold any number of souls, their screams of anguish audible out to a range of 60 feet.
 
 The [[/5. Mechanics/Vehicles/Venatrix (VEOR).md\|Venatrix]] currently has enough soul fuel to run for 60 hours.
 
 ##### Vehicle Statistics
 
-The Venatrix is a Gargantuan vehicle that can hold eight Medium creatures and carry up to 1 ton of cargo. It has a speed of 100 feet; AC 19; a damage threshold of 10; 200 hit points; immunity to fire, poison, and psychic damage; and a +4 bonus to Strength and Dexterity saving throws.
+The Venatrix is a Gargantuan vehicle that can hold eight Medium creatures and carry up to 1 ton of cargo. It has a speed of 100 feet; AC 19; a damage threshold of 10; 200 hit points; immunity to fire, poison, and psychic damage; and a `dice:1d20+4|noform|noparens|text(+4)` bonus to Strength and Dexterity saving throws.
 
 ##### Weapon Stations
 
 The Venatrix is equipped with two harpoon guns and an infernal screamer, which is a writhing humanoid torso made of melting wax with a barbed hand crank between its shoulder blades. The weapons are mounted to the vehicle's exterior, so any creature riding on the outside of the vehicle can operate a weapon. Each weapon station requires one creature to operate it.
 
-A creature operating a harpoon gun can use an action to make a ranged weapon attack with it (+6 to hit, range 120 ft., one target). On a hit, the harpoon deals `dice:2d8+1|noform|noparens|avg|text(10)` (`2d8 + 1`) piercing damage.
+A creature operating a harpoon gun can use an action to make a ranged weapon attack with it (`dice:1d20+6|noform|noparens|text(+6)` to hit, range 120 ft., one target). On a hit, the harpoon deals `dice:2d8+1|noform|noparens|avg|text(10)` (`2d8 + 1`) piercing damage.
 
 A creature operating the infernal screamer can use an action to turn its crank, unleashing a telepathic shriek of agony at one target the creature can see within 120 feet of itself. The target must make a DC 15 Wisdom saving throw, taking `dice:4d12|noform|noparens|avg|text(26)` (`4d12`) psychic damage on a failed save or half as much damage on a successful one.
 
@@ -219,7 +219,7 @@ As a dedicated champion of Tiamat, [[/4. World Almanac/NPCs/Windfall (VEOR).md\|
 When the characters arrive at the Red Belvedere, Windfall introduces herself and answers any questions the characters have about the Red Belvedere. She provides the following information:
 
 - **Casino.** The Red Belvedere is a decadent respite from the Blood War's horrors. Here, adventurers and devils alike can indulge in their vices in five different rooms, each with its own theme.  
-- **Currency.** The Red Belvedere has its own in-house currency (see the "Casino Currency" section). Both gold and Soul Coins can be traded for in-house currency at the exchange desk in the lobby.  
+- **Currency.** The Red Belvedere has its own in-house currency (see the "Casino Currency" section). Both gold and [[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coins]] can be traded for in-house currency at the exchange desk in the lobby.  
 - **Dragon Queen Dedication.** The casino is dedicated to Tiamat to celebrate the Dragon Queen's avarice and pride. Those who don't worship Tiamat are also welcome to partake in the casino's offerings.  
 - **Rod Piece.** If the characters mention the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], Windfall artfully dodges the topic. She claims that while the casino has been visited by several high-profile adventurers and scholars, she hasn't seen anything matching the rod piece's description. In truth, Windfall knows exactly where the final piece of the rod is: her private sanctum, adjacent to Tiamat's lair. A character who succeeds on a DC 32 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check discerns only that Windfall is concealing information.  
 
@@ -241,34 +241,12 @@ A talon looks like an iridescent metal coin stamped with the silhouette of a dra
 
 #### Soul Coins
 
-The devils of the Nine Hells also use a type of currency called Soul Coins. Soul Coins are used among the infernal hierarchy to purchase favors, bribe the unwilling, and reward the faithful for services rendered. A single Soul Coin can be exchanged at the casino for 300 talons and vice versa.
+The devils of the Nine Hells also use a type of currency called [[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coins]]. Soul Coins are used among the infernal hierarchy to purchase favors, bribe the unwilling, and reward the faithful for services rendered. A single Soul Coin can be exchanged at the casino for 300 talons and vice versa.
 
-#### Soul Coin
-
-*Wondrous Item, Uncommon*
-
-*Soul Coins* are about 5 inches across and an inch thick, each minted from infernal iron. Each coin weighs one-third of a pound and is inscribed with Infernal writing and a spell that magically binds a single soul to the coin. Because each *Soul Coin* has a unique soul trapped within it, each has a story. A creature might have been imprisoned as a result of defaulting on a deal, while another might be the victim of a night hag's curse.
+> [!embed-item]- Soul Coin
+> ![[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coin]]
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/126-08-003-soul-coin.webp#center\|A Soul Coin]]
-
-##### Carrying Soul Coins
-
-Anyone holding a Soul Coin feels the soul bound within it—overcome with rage, fraught with despair, or whatever emotion the soul exudes.
-
-An evil creature can carry as many *Soul Coins* as it wishes (up to its maximum weight allowance). A good or neutral creature can carry a number of *Soul Coins* equal to or less than its Constitution modifier. A non-evil creature carrying a number of *Soul Coins* greater than its Constitution modifier has disadvantage on its attack rolls, ability checks, and saving throws.
-
-##### Using a Soul Coin
-
-A Soul Coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a Soul Coin and do one of the following:
-
-- **Drain Life.** You siphon away some of the soul's essence and gain `dice:1d10|noform|noparens|avg` (`1d10`) "temporary hit points".  
-- **Query.** You telepathically ask the soul a question and receive a brief telepathic response, which you can always understand. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.  
-
-##### Freeing a Soul
-
-Casting [[/5. Mechanics/Spells/Remove Curse.md\|Remove Curse]] or another spell that removes a curse on a Soul Coin frees the soul trapped within it, as does expending all of the coin's charges. The coin rusts from within and is destroyed once the soul is released. A freed soul travels to the realm of the god it served or the Outer Plane most closely tied to its alignment (DM's choice).
-
-A soul can also be freed by destroying the coin that contains it. A *Soul Coin* has AC 19, 1 hit point for each charge it has remaining, and immunity to all damage except damage dealt by a Hellfire Weapon or an infernal war machine's furnace.
 
 ### Casino Security
 
@@ -288,7 +266,7 @@ A pit master presides over each room of the Red Belvedere. (The rooms of the cas
 
 Kaylan is a devious [[/5. Mechanics/Bestiary/Undead/Vampire.md\|vampire]] who arrived in Avernus after dodging a group of vampire hunters on the Material Plane. When Windfall refurbished the Red Belvedere, the tiefling employed Kaylan to design the ever-shifting halls of the casino's Stygian Maze. Kaylan now presides over the maze, gleefully watching patrons wander the confounding passages in search of riches.
 
-Kaylan has a special [[/5. Mechanics/Items/Sword Of Life Stealing.md\|Sword of Life Stealing]] that, in addition to its usual properties, allows the vampire to draw sustenance from a soul trapped within a Soul Coin. Feeding off a *Soul Coin* in this way irrevocably destroys both the coin and the soul within, which has left Kaylan perpetually hungry for more.
+Kaylan has a special [[/5. Mechanics/Items/Sword Of Life Stealing.md\|Sword of Life Stealing]] that, in addition to its usual properties, allows the vampire to draw sustenance from a soul trapped within a [[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coin]]. Feeding off a *Soul Coin* in this way irrevocably destroys both the coin and the soul within, which has left Kaylan perpetually hungry for more.
 
 ##### Gaining Kaylan's Favor
 
@@ -536,9 +514,9 @@ The man behind the desk is the maze's pit master, the vampire Kaylan Renaudon (s
 
 - **Maze.** The maze challenges participants' navigational skills and adventuring prowess. Participants traverse magically shifting hallways in search of treasure, avoiding perils along the way.  
 - **Participation.** Entering the maze costs 20 talons per participant. Participants can explore the maze alone or in groups.  
-- **Treasure.** Treasure stashes found throughout the maze typically contain talons, though some also include Soul Coins.  
+- **Treasure.** Treasure stashes found throughout the maze typically contain talons, though some also include [[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coins]].  
 
-A character who succeeds on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check notices a flicker of hunger appear in Kaylan's eyes when he mentions Soul Coins. If pressed, Kaylan admits that he feeds off *Soul Coins* using a special [[/5. Mechanics/Items/Sword Of Life Stealing.md\|Sword of Life Stealing]], which he always keeps with him. If the characters bring him *Soul Coins*, he'll give the characters 500 talons for each coin.
+A character who succeeds on a DC 15 Wisdom ([[/5. Mechanics/Rules/Skills.md#Insight\|Insight]]) check notices a flicker of hunger appear in Kaylan's eyes when he mentions [[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coins]]. If pressed, Kaylan admits that he feeds off *Soul Coins* using a special [[/5. Mechanics/Items/Sword Of Life Stealing.md\|Sword of Life Stealing]], which he always keeps with him. If the characters bring him *Soul Coins*, he'll give the characters 500 talons for each coin.
 
 Bringing three or more *Soul Coins* to Kaylan earns his admiration, and he offers the characters access to Dragon's Pride in return (see the "Dragon's Pride" section).
 
@@ -564,7 +542,7 @@ Before the characters explore the maze, have them designate a leader. If a chara
 | 1–3 | A simple table sits at the center of this chamber. On the table are two [[/5. Mechanics/Items/Potion Of Greater Healing.md\|Potions of Healing (greater)]] and a bag of 30 talons. |
 | 4–6 | This chamber contains a gurgling pool of turquoise water. A creature that spends 1 minute bathing in the pool gains `dice:2d10\|noform\|noparens\|avg` (`2d10`) temporary hit points. |
 | 7–8 | Planters filled with sweet-smelling flowers line this room. At the center of the room is an unlocked wooden chest containing 75 talons. |
-| 9 | This chamber contains a locked iron chest. A character can open the chest with a successful DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check using thieves' tools, or it can be forced open with a successful DC 17 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. A [[/5. Mechanics/Spells/Knock.md\|Knock]] spell or similar magic also opens the chest. Inside the chest are 100 talons and three Soul Coins. |
+| 9 | This chamber contains a locked iron chest. A character can open the chest with a successful DC 15 Dexterity ([[/5. Mechanics/Rules/Skills.md#Sleight%20of%20Hand\|Sleight of Hand]]) check using thieves' tools, or it can be forced open with a successful DC 17 Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check. A [[/5. Mechanics/Spells/Knock.md\|Knock]] spell or similar magic also opens the chest. Inside the chest are 100 talons and three [[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coins]]. |
 | 10 | One of this room's walls has a simple stone doorway, which leads out of the maze and returns the characters to the maze lobby. |
 ^treasure-chambers
 
@@ -576,9 +554,9 @@ Before the characters explore the maze, have them designate a leader. If a chara
 |-----------|---------|
 | 1–3 | Five [[/5. Mechanics/Bestiary/Monstrosity/Mimic.md\|mimics]], all disguised as treasure chests, occupy this room. Disturbing one mimic causes them all to attack. |
 | 4–6 | This room is filled with 1-foot-deep water. A thin wooden plank spans the water, connecting the room's entrance and exit. A creature crossing the plank must succeed on a DC 17 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check or fall into the water. The first time a creature touches the water, three [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elementals]] appear and attack. |
-| 7–8 | A hostile but sleeping [[/5. Mechanics/Bestiary/Monstrosity/Behir.md\|behir]] lies curled around a chest. A creature that approaches the behir must succeed on a DC 16 Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check to avoid being noticed. The chest is unlocked and contains 50 talons and one Soul Coin. |
+| 7–8 | A hostile but sleeping [[/5. Mechanics/Bestiary/Monstrosity/Behir.md\|behir]] lies curled around a chest. A creature that approaches the behir must succeed on a DC 16 Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) check to avoid being noticed. The chest is unlocked and contains 50 talons and one [[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coin]]. |
 | 9 | A large vase filled with 100 talons sits in the center of the room. The vase is guarded by three [[/5. Mechanics/Bestiary/Elemental/Invisible Stalker.md\|invisible stalkers]], which attack any creature that touches the vessel. |
-| 10 | A hostile [[/5. Mechanics/Bestiary/Construct/Iron Golem.md\|iron golem]] patrols this room and immediately attacks intruders. If the golem is destroyed, a character who searches the golem's remains finds three Soul Coins. |
+| 10 | A hostile [[/5. Mechanics/Bestiary/Construct/Iron Golem.md\|iron golem]] patrols this room and immediately attacks intruders. If the golem is destroyed, a character who searches the golem's remains finds three [[/5. Mechanics/Items/Soul Coin (BGDIA).md\|Soul Coins]]. |
 ^challenge-chambers
 
 ### Viridian Den

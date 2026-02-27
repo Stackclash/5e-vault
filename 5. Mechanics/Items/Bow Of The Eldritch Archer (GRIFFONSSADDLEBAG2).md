@@ -12,7 +12,7 @@ tags:
 aliases:
   - Bow of the Eldritch Archer
 one-hand-damage: 1d6 piercing
-range: 80/320
+range: 80\320
 weight: 2
 ---
 # Bow of the Eldritch Archer

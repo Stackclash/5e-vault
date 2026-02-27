@@ -7,7 +7,7 @@ aliases:
   - Chapter 1: Return from Neverdeath Graveyard
 ---
 # Chapter 1: Return from Neverdeath Graveyard
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 17* 
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/008-01-001-vecnas-ritual.webp#center\|"A bizarre ritual reveals the cult of Vecna's terrifying activities"]]
 

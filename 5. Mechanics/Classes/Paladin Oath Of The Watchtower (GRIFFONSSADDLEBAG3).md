@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Oath of the Watchtower (Level 3)
-
 The Oath of the Watchtower is devoted to the stewardship of its land and the people who live there. While traditional paladins leap to meet danger head-on, paladins who swear this oath are empowered to smite evil where it stands from afar. Often reserved by their very nature, these paladins stand as stoic landmarks in the midst of turmoil, and offer guidance and safety to those in their care. Many have served as town guards or stood watch atop castle battlements, and are equally likely to favor a bow and arrow as they are a sword and shield.
+
+## Subclass Features
 
 ### Tenets of the Watchtower (Level 3)
 

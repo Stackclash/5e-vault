@@ -12,7 +12,7 @@ tags:
 aliases:
   - Quake Hammer
 one-hand-damage: 1d4 bludgeoning
-range: 20/60
+range: 20\60
 weight: 2
 ---
 # Quake Hammer

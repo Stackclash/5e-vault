@@ -44,13 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Festus Domain (Level 1)
-
 Gods of eating and drinking, such as Daghdha or Dionysus, promote the value of a good meal as much as they do the joy of sharing it with friends. As a follower of this domain, you believe that a good feast can be enough to settle most wars. You may know this first-hand: perhaps your life has been marred by poverty and survival with spoiled scraps, or maybe you've been blessed with lovingly-cooked meals and the joy of a full stomach. Regardless of your origins, you recognize the magic of a good meal and the power it has on a person's spirit and well-being.
 
 Through your passion and devotion, you see mealtime as a joyous way to worship the magic of food and your chosen deity. You are a capable chef with an appreciation of all food, both good and bad. You know that a foul meal can turn even the most veteran of stomachs against themselves, and have learned to harness this power for yourself. Like food, most people will like you at your best, but everyone will fear you at your worst.
+
+## Subclass Features
 
 ### Festus Domain Spells (Level 1)
 

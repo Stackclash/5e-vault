@@ -8,7 +8,7 @@ tags:
 alignment: Chaotic Evil
 domains: Death
 pantheon: Nonhuman
-symbol: Image of the lizard/Toad god
+symbol: Image of the lizard\Toad god
 aliases:
   - Laogzed
 ---

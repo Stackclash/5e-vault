@@ -233,18 +233,21 @@ Starting at 2nd level, when you hit a creature with a melee weapon attack, you c
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
+Options (choose 1):
+
 - [[/5. Mechanics/Optional Features/Defense.md\|Defense]]  
 - [[/5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
 - [[/5. Mechanics/Optional Features/Great Weapon Fighting.md\|Great Weapon Fighting]]  
 - [[/5. Mechanics/Optional Features/Protection.md\|Protection]]  
+- [[/5. Mechanics/Optional Features/Blessed Warrior (TCE).md\|Blessed Warrior]]  
+- [[/5. Mechanics/Optional Features/Blind Fighting (TCE).md\|Blind Fighting]]  
+- [[/5. Mechanics/Optional Features/Interception (TCE).md\|Interception]]  
 
 ### Spellcasting (Level 2)
 
 By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the paladin spell list.
 
-#### Preparing and Casting Spells
-
-The Paladin table shows how many spell slots you have to cast your paladin spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+**Preparing and Casting Spells.** The Paladin table shows how many spell slots you have to cast your paladin spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
@@ -252,17 +255,13 @@ For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
-#### Spellcasting Ability
-
-Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Charisma</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma</span>
 
-#### Spellcasting Focus
-
-You can use a [[/5. Mechanics/Items/Holy Symbol.md\|holy symbol]] as a spellcasting focus for your paladin spells.
+**Spellcasting Focus.** You can use a [[/5. Mechanics/Items/Holy Symbol.md\|holy symbol]] as a spellcasting focus for your paladin spells.
 
 ### Divine Health (Level 3)
 
@@ -274,9 +273,7 @@ When you reach 3rd level, you swear the oath that binds you as a paladin forever
 
 Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
 
-#### Oath Spells
-
-Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.
+**Oath Spells.** Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.
 
 If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
 

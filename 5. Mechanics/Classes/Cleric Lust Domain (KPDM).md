@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Lust Domain (Level 1)
-
 The Lust domain concerns itself with desire, sex, and awakening passion in others. Clerics of lust often seek to seduce others with their wiles, either for their own pleasure, to lure them into a cult, or to otherwise manipulate them into doing the cleric's bidding.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Lust Domain Spells**
 

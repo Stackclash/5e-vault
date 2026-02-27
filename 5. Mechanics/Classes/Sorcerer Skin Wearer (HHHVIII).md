@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Skin Wearer (Level 1)
-
 It's a tale almost as old as civilisation; the story of a shapeshifting creature that take other forms and parents a child with a regular humanoid. Whether this union was happy or not, the resulting child has a chance to become a Skin Wearer. Like their transforming parents, Skin Wearers have an inherently malleable form and are particularly adept at transmutation and illusion magic. In order to stabilise themselves, Skin Wearers often garb themselves in pelts, hides, and skins of other creatures, adding the strength of the harvested creature to their own magic.
+
+## Subclass Features
 
 ### Embody Creature (Level 1)
 

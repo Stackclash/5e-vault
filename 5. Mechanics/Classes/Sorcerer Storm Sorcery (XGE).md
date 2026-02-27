@@ -49,17 +49,15 @@ aliases:
 > 
 > It's just the sky weeping and shouting because it's so far away from me.
 
-## Class Features
-
-### Storm Sorcery (Level 1)
-
 Your innate magic comes from the power of elemental air. Many with this power can trace their magic back to a near-death experience caused by the Great Rain, but perhaps you were born during a howling gale so powerful that folk still tell stories of it, or your lineage might include the influence of potent air creatures such as djinn. Whatever the case, the magic of the storm permeates your being.
 
 Storm sorcerers are invaluable members of a ship's crew. Their magic allows them to exert control over wind and weather in their immediate area. Their abilities also prove useful in repelling attacks by sahuagin, pirates, and other waterborne threats.
 
+## Subclass Features
+
 ### Wind Speaker (Level 1)
 
-The arcane magic you command is infused with elemental air. You can speak, read, and write Primordial. Knowing this language allows you to understand and be understood by those who speak its dialects: Primordial, Primordial, Primordial, and Primordial.
+The arcane magic you command is infused with elemental air. You can speak, read, and write Primordial. Knowing this language allows you to understand and be understood by those who speak its dialects: Aquan, Auran, Ignan, and Terran.
 
 ### Tempestuous Magic (Level 1)
 

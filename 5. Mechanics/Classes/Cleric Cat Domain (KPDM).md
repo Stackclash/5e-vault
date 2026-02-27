@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Cat Domain (Level 1)
-
 You embody the grace, strength, and resilience of felines. Eventually, you become able to transform physically into a lion or tiger.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Cat Domain Spells**
 

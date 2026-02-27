@@ -14,8 +14,8 @@ tags:
 aliases:
   - Drider
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Drider.md|Drider]]
-*Source: Monster Manual p. 120, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Monstrosity\Drider.md|Drider]]
+*Source: Monster Manual p. 120. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 When a drow shows great promise, Lolth summons it to the Demonweb Pits for a test of faith and strength. Those that pass the test rise higher in the Spider Queen's favor. Those that fail are transformed into driders-a horrid hybrid of a drow and a giant spider that serves as a living reminder of Lolth's power. Only drow can be turned into driders, and the power to create these creatures resides with Lolth alone.
 
@@ -93,7 +93,6 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
     "name": "Longbow"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Monstrosity/token/drider.webp"
 ```
 ^statblock

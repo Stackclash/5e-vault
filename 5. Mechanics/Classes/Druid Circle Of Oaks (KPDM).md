@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Circle of Oaks (Level 2)
-
 Each ancient forest is a sentient entity, always aware of what transpires under its canopy. Although some have developed potent defenses, especially in their Hearts, they have tolerated alliances with those committed to their protection and restoration. Chief among these alliances are the Circle of Oaks druids.
 
 As an accident of history, perhaps, some races seem more likely to be members of the Circle of Oaks in certain forests. Though they can be found anywhere, Circle of Oaks druids tend to stay in their forested homelands, binding with particular forests.
+
+## Subclass Features
 
 ### Circle Spells (Level 2)
 

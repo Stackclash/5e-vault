@@ -44,15 +44,15 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Chain Domain (Level 1)
-
 In the sacred bonds between the divine and mortal realms, there exist enigmatic clerics pledged to serve deities of typically evil influence. Among them, the Chain Domain clerics stand as devoted mediators, seeking to harness or redirect the selfish whims of their deity in unconventional ways. These clerics perceive themselves as intermediaries, embracing chains as tools for guidance, understanding, and, at times, restraint. They aim to navigate the tumultuous relationship with their enigmatic deity, weaving the chains as symbols of both connection and potential liberation, in pursuit of channeling their deity's influence toward a tempered purpose.
 
 Many of these clerics are considered intense by outsiders, and they may even be reformed cultists or regularly engage in fiendish contracts. And, while pious self-flagellation is never a requirement among clerics of this domain, it is nevertheless a common practice.
 
 You gain domain spells at the cleric levels listed in the Chain Domain Spells table. See the Divine Domain class feature for how domain spells work.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Chain Domain Spells**
 

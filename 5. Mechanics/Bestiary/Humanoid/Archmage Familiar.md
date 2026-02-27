@@ -14,8 +14,8 @@ tags:
 aliases:
   - Archmage (Familiar)
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Archmage Familiar.md|Archmage (Familiar)]]
-*Source: Monster Manual p. 342, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Humanoid\Archmage Familiar.md|Archmage (Familiar)]]
+*Source: Monster Manual p. 342. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock
 "name": "Archmage Familiar"
@@ -88,8 +88,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "MM"
-  - "CoS"
-  - "VEoR"
 ```
 ^statblock
 

@@ -14,8 +14,8 @@ tags:
 aliases:
   - Efreeti (Wishes)
 ---
-# [[5. Mechanics/Bestiary/Elemental/Efreeti Wishes.md|Efreeti (Wishes)]]
-*Source: Monster Manual p. 145, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Elemental\Efreeti Wishes.md|Efreeti (Wishes)]]
+*Source: Monster Manual p. 145. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock
 "name": "Efreeti Wishes"
@@ -85,7 +85,6 @@ aliases:
     "name": "Hurl Flame"
 "source":
   - "MM"
-  - "TCE"
 ```
 ^statblock
 

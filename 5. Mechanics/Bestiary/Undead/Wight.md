@@ -17,8 +17,8 @@ tags:
 aliases:
   - Wight
 ---
-# [[5. Mechanics/Bestiary/Undead/Wight.md|Wight]]
-*Source: Monster Manual p. 300, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Undead\Wight.md|Wight]]
+*Source: Monster Manual p. 300. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.
 
@@ -102,8 +102,6 @@ A wight doesn't require air, food, drink, or sleep.
     "name": "Longbow"
 "source":
   - "MM"
-  - "CoS"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Undead/token/wight.webp"
 ```
 ^statblock

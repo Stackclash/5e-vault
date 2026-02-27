@@ -19,8 +19,8 @@ tags:
 aliases:
   - Cyclops
 ---
-# [[5. Mechanics/Bestiary/Giant/Cyclops.md|Cyclops]]
-*Source: Monster Manual p. 45, Vecna: Eve of Ruin. Available in the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Giant\Cyclops.md|Cyclops]]
+*Source: Monster Manual p. 45. Available in the Basic Rules (2014)*
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
 
@@ -76,7 +76,6 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
     "name": "Rock"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Giant/token/cyclops.webp"
 ```
 ^statblock

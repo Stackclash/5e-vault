@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Circle of the Storm (Level 2)
-
 Druids of the Circle of the Storm revel in the roar of anunbridled thunderstorm, either finding kinship in its chaos or in the stillness found between them. These circle members tend to meet in open fields or on tower rooftops during storms, rather than in the quiet forest glens of other druidic circles. They feel the push and pull of positive and negative forces within nature, using it to transform into streaking bolts of devastating lightning.
+
+## Subclass Features
 
 ### Lightning Leap (Level 2)
 

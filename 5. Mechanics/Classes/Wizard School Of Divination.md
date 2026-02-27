@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### School of Divination (Level 2)
-
 The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
+
+## Subclass Features
 
 ### Divination Savant (Level 2)
 
@@ -66,6 +64,8 @@ Beginning at 6th level, casting divination spells comes so easily to you that it
 ### The Third Eye (Level 10)
 
 Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or you take a short or long rest. You can't use the feature again until you finish a rest.
+
+Options:
 
 - **Darkvision.** You gain [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 60 feet.  
 - **Ethereal Sight.** You can see into the Ethereal Plane within 60 feet of you.  

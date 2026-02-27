@@ -15,8 +15,8 @@ tags:
 aliases:
   - Lizard King
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Lizard King.md|Lizard King]]
-*Source: Monster Manual p. 205, Tasha's Cauldron of Everything*
+# [[5. Mechanics\Bestiary\Humanoid\Lizard King.md|Lizard King]]
+*Source: Monster Manual p. 205*
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 
@@ -114,7 +114,6 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
     "name": "Trident"
 "source":
   - "MM"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Humanoid/token/lizard-king.webp"
 ```
 ^statblock

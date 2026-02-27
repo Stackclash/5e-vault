@@ -12,7 +12,7 @@ aliases:
   - Pistol
 cost: 25000
 one-hand-damage: 1d10 piercing
-range: 30/90
+range: 30\90
 weight: 3
 ---
 # Pistol

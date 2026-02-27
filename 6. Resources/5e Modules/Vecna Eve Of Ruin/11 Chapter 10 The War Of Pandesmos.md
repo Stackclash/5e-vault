@@ -7,7 +7,7 @@ aliases:
   - Chapter 10: The War of Pandesmos
 ---
 # Chapter 10: The War of Pandesmos
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 175* 
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/141-10-001-miska-freed.webp#center\|"Kas has fled Sigil, intent on using the Rod of Seven Parts to free Miska, his ally against Vecna"]]
 

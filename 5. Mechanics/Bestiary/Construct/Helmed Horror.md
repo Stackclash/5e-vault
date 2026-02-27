@@ -13,8 +13,8 @@ tags:
 aliases:
   - Helmed Horror
 ---
-# [[5. Mechanics/Bestiary/Construct/Helmed Horror.md|Helmed Horror]]
-*Source: Monster Manual p. 183, Vecna: Eve of Ruin*
+# [[5. Mechanics\Bestiary\Construct\Helmed Horror.md|Helmed Horror]]
+*Source: Monster Manual p. 183*
 
 This construct possesses intelligence, the ability to reason and adjust its tactics, and an unswerving devotion to its maker that persists even after its maker's demise. Resembling an animated suit of empty plate armor, a helmed horror serves without ambition or emotion.
 
@@ -80,7 +80,6 @@ A helmed horror doesn't require air, food, drink, or sleep.
     "name": "Longsword"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Construct/token/helmed-horror.webp"
 ```
 ^statblock

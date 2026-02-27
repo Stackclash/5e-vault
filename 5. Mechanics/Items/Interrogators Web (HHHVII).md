@@ -9,7 +9,7 @@ tags:
   - item/weapon/ranged
 aliases:
   - Interrogator's Web
-range: 5/15
+range: 5\15
 weight: 3
 ---
 # Interrogator's Web

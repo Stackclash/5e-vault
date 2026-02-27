@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Ocean Domain (Level 1)
-
 You invoke the power of salt and sea—the fountain of life—in all its chaotic glory. You are an emissary between sea and shore.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Ocean Domain Spells**
 

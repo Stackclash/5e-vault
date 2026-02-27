@@ -13,7 +13,7 @@ tags:
 aliases:
   - Giant Fly
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Fly (DMG).md|Giant Fly]]
+# [[5. Mechanics\Bestiary\Beast\Giant Fly (DMG).md|Giant Fly]]
 *Source: Dungeon Master's Guide p. 169*
 
 ```statblock

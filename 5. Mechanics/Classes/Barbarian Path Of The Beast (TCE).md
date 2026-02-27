@@ -43,10 +43,6 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Path of the Beast (Level 3)
-
 Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the barbarian.
 
 Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table.
@@ -62,6 +58,8 @@ Such a barbarian might be inhabited by a primal spirit or be descended from shap
 | 3 | A fey spirit gifted you with the ability to adopt different bestial aspects. |
 | 4 | An ancient animal spirit dwells within you, allowing you to walk this path. |
 ^origin-of-the-beast
+
+## Subclass Features
 
 ### Form of the Beast (Level 3)
 

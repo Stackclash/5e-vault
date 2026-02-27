@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Path of the Blood Seeker (Level 3)
-
 While any barbarian is a fearsome sight on the battlefield, few manage to inspire as much terror as those that follow the Path of the Blood Seeker. Mindless engines of destruction, these barbarians revel in the spilling of blood, uncaring whether it is an enemy's or their own.
 
 Many believe that the blood seekers may have been one of the first barbarian paths bestowed upon the sentient races; their thirst for violence tapping into a primal hunting urge from our earliest roots. Barbarians that fuel their rage with blood lust become relentless, animalistic warriors in the way they tear their foes to shreds and then bask in the carnage they have created. Some even go so far as slicing their own flesh to quench their thirst; it is not uncommon to find them covered in intricate scar patterns of their own making or covered in paint made from their own blood.
+
+## Subclass Features
 
 ### Blood Rage (Level 3)
 

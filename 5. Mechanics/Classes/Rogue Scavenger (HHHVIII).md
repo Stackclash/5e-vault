@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Scavenger (Level 3)
-
 Very few Scavenger rogues chose to follow this archetype; usually this path is chosen out of desperation rather than desire. Formed from the bottom rungs of civil society or in the most inhospitable places in the wilds, Scavengers fend for themselves by making the most of whatever the fates see fit to give them. They survive by remaining on the fringes, striking out only when they spot an easy kill or a safe meal. Their methods of survival are seen by most people as crass and opportunistic, but these criticisms matter little to them: all that matters is that they survive.
+
+## Subclass Features
 
 ### Cut and Run (Level 3)
 

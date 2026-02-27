@@ -10,7 +10,7 @@ tags:
   - item/weapon/ranged
 aliases:
   - Galvanic Steelsnare
-range: 5/15
+range: 5\15
 weight: 3
 ---
 # Galvanic Steelsnare

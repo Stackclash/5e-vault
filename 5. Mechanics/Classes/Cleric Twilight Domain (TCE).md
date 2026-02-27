@@ -44,10 +44,6 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Twilight Domain (Level 1)
-
 The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night.
 
 Clerics who serve these deities-examples of which appear on the Twilight Deities table-bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.
@@ -66,8 +62,9 @@ Clerics who serve these deities-examples of which appear on the Twilight Deities
 | [[/5. Mechanics/Deities/Nonhuman Yondalla.md\|Yondalla]] | Halfling |
 ^twilight-deities
 
-#### Domain Spells
-_Source: Tasha's Cauldron of Everything_
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 *1st-level Twilight Domain feature*
 

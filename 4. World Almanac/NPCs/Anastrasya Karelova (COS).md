@@ -9,7 +9,7 @@ tags:
   - monster/type/undead
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/anastrasya-karelova.webp
+  - 4. World Almanac\NPCs\img\anastrasya-karelova.webp
 relationships: []
 aliases:
   - Anastrasya Karelova

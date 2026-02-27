@@ -13,8 +13,8 @@ tags:
 aliases:
   - Bat
 ---
-# [[5. Mechanics/Bestiary/Beast/Bat.md|Bat]]
-*Source: Monster Manual p. 318, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Beast\Bat.md|Bat]]
+*Source: Monster Manual p. 318. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Bat"
@@ -49,7 +49,6 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Beast/token/bat.webp"
 ```
 ^statblock

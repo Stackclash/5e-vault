@@ -43,17 +43,32 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Way of the Observed Form (Level 3)
-
 Monks of the Way of the Observed Form follow the belief that the best style of combat is to have no style at all. Instead, their belief is that one should learn from their opponents, adapt their methods, and then throw them back at them with deadly results. These monks are known to be almost impossible to predict on the battlefield, possessing as many techniques as there are creatures in the world.
 
 As part of their emphasis on observing and adapting to one's opponent, these monks tend to have a keen interest in biology and anatomy. They use their keen senses to study the bodies of others and are often able to pick out the minutest detail in a creature's bone or muscle movement. These traits make these monks renowned as warriorscholars that are sought out as much for their knowledge as they are for their martial ability.
 
+## Subclass Features
+
 ### Mirrored Stance (Level 3)
 
 Starting when you choose this tradition at 3rd level, you learn to observe your opponents through battle and adopt their strengths into your fighting style. As a bonus action, you may expend 1 ki point to focus on a hostile creature you can see within 60 feet of you. If you do so, you learn their creature type and you adopt one of the stances below based on that type. You remain in this stance for 1 minute ending it early if you are incapacitated, if you use this feature again, or if you end it as a free action.
+
+Options:
+
+- [[/5. Mechanics/Optional Features/Aberration (HHHVIII).md\|Aberration]]  
+- [[/5. Mechanics/Optional Features/Beast (HHHVIII).md\|Beast]]  
+- [[/5. Mechanics/Optional Features/Celestial (HHHVIII).md\|Celestial]]  
+- [[/5. Mechanics/Optional Features/Construct (HHHVIII).md\|Construct]]  
+- [[/5. Mechanics/Optional Features/Dragon (HHHVIII).md\|Dragon]]  
+- [[/5. Mechanics/Optional Features/Elemental (HHHVIII).md\|Elemental]]  
+- [[/5. Mechanics/Optional Features/Fey (HHHVIII).md\|Fey]]  
+- [[/5. Mechanics/Optional Features/Fiend (HHHVIII).md\|Fiend]]  
+- [[/5. Mechanics/Optional Features/Giant (HHHVIII).md\|Giant]]  
+- [[/5. Mechanics/Optional Features/Humanoid (HHHVIII).md\|Humanoid]]  
+- [[/5. Mechanics/Optional Features/Monstrosity (HHHVIII).md\|Monstrosity]]  
+- [[/5. Mechanics/Optional Features/Ooze (HHHVIII).md\|Ooze]]  
+- [[/5. Mechanics/Optional Features/Plant (HHHVIII).md\|Plant]]  
+- [[/5. Mechanics/Optional Features/Undead (HHHVIII).md\|Undead]]  
 
 ### Observant Fist (Level 6)
 

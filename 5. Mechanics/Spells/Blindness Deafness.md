@@ -47,7 +47,7 @@ time: 1 Action
 duration: 1 minute
 range: 30 feet
 aliases:
-  - Blindness/Deafness
+  - Blindness\Deafness
 damage:
   base: null
   scaling:

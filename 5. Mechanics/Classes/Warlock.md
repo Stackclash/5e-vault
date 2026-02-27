@@ -196,35 +196,25 @@ If your warlock's pact comes with a binding mark, how you feel about displaying 
 
 Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the warlock spell list.
 
-#### Cantrips
+**Cantrips.** You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
 
-You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
-
-#### Spell Slots
-
-The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
+**Spell Slots.** The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
 For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [[/5. Mechanics/Spells/Witch Bolt.md\|witch bolt]], you must spend one of those slots, and you cast it as a 3rd-level spell.
 
-#### Spells Known of 1st Level and Higher
-
-At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
+**Spells Known of 1st Level and Higher.** At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
 
 The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
 
 Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
 
-#### Spellcasting Ability
-
-Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Charisma</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma</span>
 
-#### Spellcasting Focus
-
-You can use an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]] as a spellcasting focus for your warlock spells.
+**Spellcasting Focus.** You can use an [[/5. Mechanics/Items/Arcane Foc(US).md\|arcane focus]] as a spellcasting focus for your warlock spells.
 
 ### Otherworldly Patron (Level 1)
 
@@ -244,9 +234,12 @@ If an eldritch invocation has prerequisites, you must meet them to learn it. You
 
 At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
 
+Options (choose 1):
+
 - [[/5. Mechanics/Optional Features/Pact Of The Chain.md\|Pact of the Chain]]  
 - [[/5. Mechanics/Optional Features/Pact Of The Blade.md\|Pact of the Blade]]  
 - [[/5. Mechanics/Optional Features/Pact Of The Tome.md\|Pact of the Tome]]  
+- [[/5. Mechanics/Optional Features/Pact Of The Talisman (TCE).md\|Pact of the Talisman]]  
 
 ### Ability Score Improvement (Level 4)
 

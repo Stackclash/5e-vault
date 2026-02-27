@@ -11,7 +11,7 @@ tags:
 aliases:
   - Dragonbolt Blaster
 one-hand-damage: 2d10 lightning
-range: 150/600
+range: 150\600
 weight: 5
 ---
 # Dragonbolt Blaster

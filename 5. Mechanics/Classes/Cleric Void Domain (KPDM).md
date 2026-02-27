@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Void Domain (Level 1)
-
 Few ever catch a glimpse of the cold immensity of the stars and the void, and fewer still are aware of the unfathomable powers that call such places home. Those who see beyond the veil of the mundane often go mad from the irreconcilable clash between their conception of the world and the reality of universal insignificance. To learn what the void has to teach, one must embrace its utter indifference toward life.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Void Domain Spells**
 

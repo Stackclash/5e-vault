@@ -14,8 +14,8 @@ tags:
 aliases:
   - Black Pudding
 ---
-# [[5. Mechanics/Bestiary/Ooze/Black Pudding.md|Black Pudding]]
-*Source: Monster Manual p. 241, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Ooze\Black Pudding.md|Black Pudding]]
+*Source: Monster Manual p. 241. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 A black pudding resembles a heaving mound of sticky black sludge. In dim passageways, the pudding appears to be little more than a blot of shadow.
 
@@ -102,7 +102,6 @@ An ooze doesn't require sleep.
     "name": "Split"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Ooze/token/black-pudding.webp"
 ```
 ^statblock

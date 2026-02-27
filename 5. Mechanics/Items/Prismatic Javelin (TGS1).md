@@ -12,7 +12,7 @@ tags:
 aliases:
   - Prismatic Javelin
 one-hand-damage: 2d6 piercing
-range: 60/150
+range: 60\150
 weight: 2
 ---
 # Prismatic Javelin

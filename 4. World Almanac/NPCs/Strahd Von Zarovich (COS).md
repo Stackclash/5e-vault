@@ -9,7 +9,7 @@ tags:
   - monster/type/undead/shapechanger
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/153-636988936829621698.webp
+  - 4. World Almanac\NPCs\img\153-636988936829621698.webp
 relationships: []
 aliases:
   - Strahd von Zarovich
@@ -80,7 +80,7 @@ When you run an encounter with Strahd, keep the following facts in mind:
 
 Whenever Strahd appears in a location other than his tomb or the place indicated by the card reading, roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Strahd's Minions table to determine what creatures he brings with him, if any.
 
-## Strahd's Minions
+### Strahd's Minions
 
 `dice: [[Strahd Von Zarovich (COS).md#^creatures]]`
 

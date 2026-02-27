@@ -12,7 +12,7 @@ tags:
 aliases:
   - Midnight Smoke
 one-hand-damage: 1d4 piercing
-range: 20/60
+range: 20\60
 weight: 1
 ---
 # Midnight Smoke

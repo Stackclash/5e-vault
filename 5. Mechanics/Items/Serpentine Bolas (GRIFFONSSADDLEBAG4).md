@@ -10,7 +10,7 @@ tags:
 aliases:
   - Serpentine Bolas
 one-hand-damage: 1d4 bludgeoning
-range: 30/120
+range: 30\120
 ---
 # Serpentine Bolas
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), rare*  

@@ -12,7 +12,7 @@ tags:
 aliases:
   - Arkanobow
 one-hand-damage: 1d8 lightning
-range: 150/600
+range: 150\600
 weight: 2
 ---
 # Arkanobow

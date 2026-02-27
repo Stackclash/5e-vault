@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'grassland, urban'
 size: Large
 tags:
@@ -15,8 +15,8 @@ tags:
 aliases:
   - Riding Horse
 ---
-# [[5. Mechanics/Bestiary/Beast/Riding Horse.md|Riding Horse]]
-*Source: Monster Manual p. 336, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Beast\Riding Horse.md|Riding Horse]]
+*Source: Monster Manual p. 336. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Riding Horse"
@@ -44,7 +44,6 @@ aliases:
     "name": "Hooves"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Beast/token/riding-horse.webp"
 ```
 ^statblock

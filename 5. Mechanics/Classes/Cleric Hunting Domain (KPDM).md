@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Hunting Domain (Level 1)
-
 You are master of the hunt. The bounty of the land is yours for the taking.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Hunting Domain Spells**
 

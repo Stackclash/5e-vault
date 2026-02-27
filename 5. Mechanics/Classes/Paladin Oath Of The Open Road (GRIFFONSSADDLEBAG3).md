@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Oath of the Open Road (Level 3)
-
 Paladins who swear the Oath of the Open Road are bound to protect the spirit, safety, and sanctity of exploration. These nomadic defenders see themselves as guardians of the roads less traveled, protecting those who journey them and ensuring the safety of travelers in a world that brims with adventure. Theirs is a calling rooted in the ethos of freedom, embracing the journey itself as a pilgrimage toward self-discovery and enlightenment.
+
+## Subclass Features
 
 ### Tenets of the Open Road (Level 3)
 

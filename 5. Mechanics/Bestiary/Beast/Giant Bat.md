@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: 'underdark, forest'
 size: Large
 tags:
@@ -15,8 +15,8 @@ tags:
 aliases:
   - Giant Bat
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Bat.md|Giant Bat]]
-*Source: Monster Manual p. 323, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Beast\Giant Bat.md|Giant Bat]]
+*Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Giant Bat"
@@ -51,7 +51,6 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Beast/token/giant-bat.webp"
 ```
 ^statblock

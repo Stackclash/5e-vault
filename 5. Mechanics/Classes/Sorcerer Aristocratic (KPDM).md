@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Aristocratic (Level 1)
-
 Your innate magic comes from your superior bloodline. Your magic wells up from within you, as a paragon of your race. Whether you come from a long line of storied ancestors, or you are simply the product of a chance blending of the best Characteristics of your race, you were born exceptional, and your sorcerous power is a testament to your legacy.
+
+## Subclass Features
 
 ### School Mastery (Level 1)
 

@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Knowledge Domain (Level 1)
-
 The gods of knowledge—including Oghma, [[/5. Mechanics/Deities/Greyhawk Boccob.md\|Boccob]], [[/5. Mechanics/Deities/Dragonlance Gilean (PHB).md\|Gilean]], [[/5. Mechanics/Deities/Eberron Aureon.md\|Aureon]], and [[/5. Mechanics/Deities/Egyptian Thoth.md\|Thoth]]—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, [[/5. Mechanics/Deities/Dragonlance Reorx (PHB).md\|Reorx]], [[/5. Mechanics/Deities/Eberron Onatar.md\|Onatar]], [[/5. Mechanics/Deities/Nonhuman Moradin.md\|Moradin]], [[/5. Mechanics/Deities/Greek Hephaest(US).md\|Hephaestus]], and [[/5. Mechanics/Deities/Celtic Goibhniu.md\|Goibhniu]].
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -100,10 +100,6 @@ Starting at 17th level, you can call up visions of the past that relate to an ob
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
-#### Object Reading
+**Object Reading.** Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past (within a number of days equal to your Wisdom score), you can spend 1 additional minute for each owner to learn the same information about that creature.
 
-Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past (within a number of days equal to your Wisdom score), you can spend 1 additional minute for each owner to learn the same information about that creature.
-
-#### Area Reading
-
-As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your Wisdom score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.
+**Area Reading.** As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your Wisdom score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.

@@ -29,7 +29,7 @@ time: 1 hour
 duration: 10 days
 range: 60 feet
 aliases:
-  - Antipathy/Sympathy
+  - Antipathy\Sympathy
 saving_throw:
   skills:
     - Wisdom

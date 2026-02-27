@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/elf
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/rahadin.webp
+  - 4. World Almanac\NPCs\img\rahadin.webp
 relationships: []
 aliases:
   - Rahadin

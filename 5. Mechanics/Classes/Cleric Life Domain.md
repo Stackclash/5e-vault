@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Life Domain (Level 1)
-
 The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, [[/5. Mechanics/Deities/Eberron Araw(AI).md\|Arawai]], and [[/5. Mechanics/Deities/Greek Demeter.md\|Demeter]]), sun gods (such as Lathander, [[/5. Mechanics/Deities/Greyhawk Pelor.md\|Pelor]], and [[/5. Mechanics/Deities/Egyptian Re Horakhty.md\|Re-Horakhty]]), gods of healing or endurance (such as Ilmater, [[/5. Mechanics/Deities/Dragonlance Mishakal (PHB).md\|Mishakal]], [[/5. Mechanics/Deities/Greek Apollo.md\|Apollo]], and [[/5. Mechanics/Deities/Celtic Diancecht.md\|Diancecht]]), and gods of home and community (such as [[/5. Mechanics/Deities/Greek Hestia.md\|Hestia]], [[/5. Mechanics/Deities/Egyptian Hathor.md\|Hathor]], and Boldrei).
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 

@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Way of the Meridian (Level 3)
-
 Monks of the Way of the Meridian are capable healers and acupuncturists that learn to activate the bodys own restorative and self-destructive functions through careful application of pressure and piercing strikes. With precision and speed, they can enhance their allies or cripple their enemies using knowledge and techniques that have stood the test of time.
+
+## Subclass Features
 
 ### Pointed Strikes (Level 3)
 
@@ -55,15 +53,9 @@ When you choose this tradition at 3rd level, your special training has led you t
 
 When you hit a creature with an unarmed strike or monk weapon that deals piercing damage, you can expend 1 ki point to impose one of the following effects on the target. You can use this feature twice on each of your turns.
 
-#### Disable
-_Source: The Griffon's Saddlebag, Book 3_
+**Disable.** You weaken the creatures motor skills and coordination. The next attack roll the creature makes before the end of your next turn is made with disadvantage.
 
-You weaken the creatures motor skills and coordination. The next attack roll the creature makes before the end of your next turn is made with disadvantage.
-
-#### Expose
-_Source: The Griffon's Saddlebag, Book 3_
-
-You cause the creatures body to become sluggish and vulnerable. The next attack roll that you or another creature makes against the target before the end of your next turn is made with advantage.
+**Expose.** You cause the creatures body to become sluggish and vulnerable. The next attack roll that you or another creature makes against the target before the end of your next turn is made with advantage.
 
 Alternatively, you can apply one of these effects to the first target you hit as part of your Flurry of Blows, without spending the ki point for this feature.
 

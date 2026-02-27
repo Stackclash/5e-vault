@@ -43,10 +43,6 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### The Genie (Level 1)
-
 You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities rule vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations, but most are arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals, who often bind genies into servitude, and readily enter into pacts that expand their reach.
 
 You choose your patron's kind or determine it randomly, using the Genie Kind table.
@@ -63,8 +59,9 @@ You choose your patron's kind or determine it randomly, using the Genie Kind tab
 | 4 | [[/5. Mechanics/Bestiary/Elemental/Marid.md\|Marid]] | Water |
 ^genie-kind
 
-#### Expanded Spell List
-_Source: Tasha's Cauldron of Everything_
+## Subclass Features
+
+### Expanded Spell List (Level 1)
 
 *1st-level Genie feature*
 
@@ -104,12 +101,11 @@ Your patron gifts you a magical vessel that grants you a measure of the genie's 
 
 While you are touching the vessel, you can use it in the following ways:
 
+Options:
+
 - **Bottled Respite**  
-
     As an action, you can magically vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20-foot-radius cylinder, 20 feet high, and resembles your vessel. The interior is appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your proficiency bonus. You exit the vessel early if you use a bonus action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel's former space. Once you enter the vessel, you can't enter again until you finish a long rest.  
-
 - **Genie's Wrath**  
-
     Once during each of your turns when you hit with an attack roll, you can deal extra damage to the target equal to your proficiency bonus. The type of this damage is determined by your patron: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid).  
 
 The vessel's AC equals your spell save DC. Its hit points equal your warlock level plus your proficiency bonus, and it is immune to poison and psychic damage.

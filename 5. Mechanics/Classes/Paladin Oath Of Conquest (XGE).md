@@ -47,32 +47,21 @@ aliases:
 > 
 > Conquest sounds cool. Do you have to leave your house for that? Because I've got a fish named Sylgar, and I can't be away for too long or he gets sad.
 
-## Class Features
-
-### Oath of Conquest (Level 3)
-
 The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn't enough for these paladins to establish order. They must crush the forces of chaos. Sometimes called knight tyrants or iron mongers, those who swear this oath gather into grim orders that serve gods or philosophies of war and well-ordered might.
 
 Some of these paladins go so far as to consort with the powers of the Nine Hells, valuing the rule of law over the balm of mercy. The archdevil Bel, warlord of Avernus, counts many of these paladins—called hell knights—as his most ardent supporters. Hell knights cover their armor with trophies taken from fallen enemies, a grim warning to any who dare oppose them and the decrees of their lords. These knights are often most fiercely resisted by other paladins of this oath, who believe that the hell knights have wandered too far into darkness.
+
+## Subclass Features
 
 ### Tenets of Conquest (Level 3)
 
 A paladin who takes this oath has the tenets of conquest seared on the upper arm.
 
-#### Douse the Flame of Hope
-_Source: Xanathar's Guide to Everything_
+**Douse the Flame of Hope.** It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies' will to fight is shattered forever. A blade can end a life. Fear can end an empire.
 
-It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies' will to fight is shattered forever. A blade can end a life. Fear can end an empire.
+**Rule with an Iron Fist.** Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.
 
-#### Rule with an Iron Fist
-_Source: Xanathar's Guide to Everything_
-
-Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.
-
-#### Strength Above All
-_Source: Xanathar's Guide to Everything_
-
-You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.
+**Strength Above All.** You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.
 
 ### Oath Spells (Level 3)
 

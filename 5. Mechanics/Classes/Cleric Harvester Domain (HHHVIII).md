@@ -44,13 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Harvester Domain (Level 1)
-
 Gods of harvesting are some of the oldest and most entrenched deities in their pantheons. This is because virtually every burgeoning humanoid race prays at some point for a successful hunt and the resulting harvest of food and resources. While they may not be as powerful as other gods, they are among the most reliable. They ensure their followers always have what they need and the means to take what they want. The clerics of these gods are naturally good at harvesting but can also use their steady hands and calm wisdom to hunt down any quarry they choose.
 
 Due to their overlap, gods of harvesting also tend to be gods of hunting like [[/5. Mechanics/Deities/Greek Artemis.md\|Artemis]], Malar, or [[/5. Mechanics/Deities/Norse Uller.md\|Uller]]. They may also be gods of nature, such as Silvanus and [[/5. Mechanics/Deities/Egyptian Osiris.md\|Osiris]]. Even gods of crafting like [[/5. Mechanics/Deities/Egyptian Ptah.md\|Ptah]] can extend their reach over the harvesting domain, due to their craft's reliance on the raw materials that only harvesting can provide.
+
+## Subclass Features
 
 ### Domain Spells (Level 1)
 

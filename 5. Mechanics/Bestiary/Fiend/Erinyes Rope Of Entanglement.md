@@ -13,8 +13,8 @@ tags:
 aliases:
   - Erinyes (Rope of Entanglement)
 ---
-# [[5. Mechanics/Bestiary/Fiend/Erinyes Rope Of Entanglement.md|Erinyes (Rope of Entanglement)]]
-*Source: Monster Manual p. 73, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Fiend\Erinyes Rope Of Entanglement.md|Erinyes (Rope of Entanglement)]]
+*Source: Monster Manual p. 73. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock
 "name": "Erinyes Rope Of Entanglement"
@@ -80,7 +80,6 @@ aliases:
     "name": "Parry"
 "source":
   - "MM"
-  - "VEoR"
 ```
 ^statblock
 

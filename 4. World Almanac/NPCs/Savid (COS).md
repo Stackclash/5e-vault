@@ -6,7 +6,7 @@ tags:
   - compendium/src/5e/cos
   - monster/cr/1-2
   - monster/size/medium
-  - monster/type/humanoid/dusk-elf
+  - monster/type/humanoid/elf
 condition: healthy
 images: []
 relationships: []
@@ -139,7 +139,7 @@ return function View() {
 "name": "Savid (COS)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "Dusk elf"
+"subtype": "elf"
 "alignment": "Neutral"
 "ac": !!int "13"
 "ac_class": "[[/5. Mechanics/Items/Leather Armor.md|leather armor]]"

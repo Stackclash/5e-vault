@@ -13,7 +13,7 @@ aliases:
   - Hellfire Pitchfork
 one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
-range: 15/45
+range: 15\45
 weight: 10
 ---
 # Hellfire Pitchfork

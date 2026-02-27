@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Moon Domain (Level 1)
-
 You are an initiate into the quiet mysteries of the moon and the subtleties of the night. Your faith illuminates any darkness you face.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Moon Domain Spells**
 

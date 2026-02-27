@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### College of Entropy (Level 3)
-
 Bards of the College of Entropy are itinerate gamblers and daring thrill seekers whose actions are supremely unpredictable.
+
+## Subclass Features
 
 ### Bard College (Level 3)
 

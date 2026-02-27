@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: underdark
 size: Medium
 tags:
@@ -14,8 +14,8 @@ tags:
 aliases:
   - Gray Ooze (Psychic)
 ---
-# [[5. Mechanics/Bestiary/Ooze/Gray Ooze Psychic.md|Gray Ooze (Psychic)]]
-*Source: Monster Manual p. 243, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Ooze\Gray Ooze Psychic.md|Gray Ooze (Psychic)]]
+*Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock
 "name": "Gray Ooze Psychic"
@@ -70,7 +70,6 @@ aliases:
     "name": "Psychic Crush (Recharge 5-6)"
 "source":
   - "MM"
-  - "CoS"
 ```
 ^statblock
 

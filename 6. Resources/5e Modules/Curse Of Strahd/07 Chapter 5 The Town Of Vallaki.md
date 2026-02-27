@@ -746,7 +746,7 @@ If the characters trigger the [[/5. Mechanics/Spells/Glyph Of Warding.md\|glyph 
 
 Victor found a spellbook in his father's library and is using it to teach himself the art of spellcasting. Only recently has he been able to decipher some of its high-level spells. He's a weird, awkward, and off-putting fellow who is dangerous only if threatened.
 
-For practice and for fun, Victor dug up some old cat bones behind the Wachter estate (see area N4) and animated them, creating six cat skeletons (use the [[/5. Mechanics/Bestiary/Beast/Cat.md\|cat]] stat block, but give them [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 60 feet and immunity to poison damage, [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], and the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition). The skeletons attack only when Victor commands them to.
+For practice and for fun, Victor dug up some old cat bones behind the Wachter estate (see area N4) and animated them, creating six [[/5. Mechanics/Bestiary/Beast/Cat Skeleton (COS).md\|cat skeletons]] (use the [[/5. Mechanics/Bestiary/Beast/Cat.md\|cat]] stat block, but give them [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] out to a range of 60 feet and immunity to poison damage, [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], and the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition). The skeletons attack only when Victor commands them to.
 
 The "children" standing in the corner are painted wooden dolls dressed in clothing that Victor wore as a child. He pretends they are his disobedient pupils.
 

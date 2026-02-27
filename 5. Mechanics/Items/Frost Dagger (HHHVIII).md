@@ -10,7 +10,7 @@ tags:
 aliases:
   - Frost Dagger
 one-hand-damage: 1d4 cold
-range: 20/60
+range: 20\60
 weight: 1
 ---
 # Frost Dagger

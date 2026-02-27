@@ -43,32 +43,21 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Prescient Knight (Level 3)
-
 The prescient knight is the culmination of long years of study, practice, and dedication to the craft of combat divination by those seeking the ultimate martial expression of that art. Their ability to meld martial prowess with combat divination makes them a formidable force on the field of battle.
+
+## Subclass Features
 
 ### Spellcasting (Level 3)
 
 When you reach 3rd level, you augment your martial prowess with the ability to cast spells. See "chapter 10" for the general rules of spellcasting and chapter 11 for the wizard spell list.
 
-#### Cantrips
-_Source: Deep Magic_
+**Cantrips.** You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level.
 
-You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level.
-
-#### Spell Slots
-_Source: Deep Magic_
-
-The Prescient Knight Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+**Spell Slots.** The Prescient Knight Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 For example, if you know the 1st-level spell [[/5. Mechanics/Spells/Shield.md\|shield]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/5. Mechanics/Spells/Shield.md\|shield]] using either slot.
 
-#### Spells Known of 1st-Level and Higher
-_Source: Deep Magic_
-
-The Prescient Knight Spellcasting table shows how many spells are known at 1st level and higher. When choosing this martial tradition, you learn three 1st-level spells.
+**Spells Known of 1st-Level and Higher.** The Prescient Knight Spellcasting table shows how many spells are known at 1st level and higher. When choosing this martial tradition, you learn three 1st-level spells.
 
 You are limited in your selection to wizard spells of the divination and abjuration schools.
 
@@ -78,10 +67,7 @@ You learn additional spells as you progress; newly learned spells have the same 
 
 Whenever you gain a level, you can replace one spell you know with another from among those spells you can know.
 
-#### Spellcasting Ability
-_Source: Deep Magic_
-
-Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Intelligence</span>
 

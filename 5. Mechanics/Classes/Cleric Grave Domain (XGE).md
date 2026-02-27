@@ -48,11 +48,11 @@ aliases:
 > 
 > I guess if you can't disintegrate them or eat them, burying dead bodies makes as much sense as anything else.
 
-## Class Features
-
-### Grave Domain (Level 1)
-
 Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, [[/5. Mechanics/Deities/Greyhawk Wee Jas.md\|Wee Jas]], the ancestral spirits of [[/5. Mechanics/Deities/Eberron The Undying Court.md\|the Undying Court]], [[/5. Mechanics/Deities/Greek Hades.md\|Hades]], [[/5. Mechanics/Deities/Egyptian Anubis.md\|Anubis]], and [[/5. Mechanics/Deities/Egyptian Osiris.md\|Osiris]]. Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Grave Domain Spells**
 

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: urban
 size: Medium
 tags:
@@ -14,8 +14,8 @@ tags:
 aliases:
   - Cultist
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Cultist.md|Cultist]]
-*Source: Monster Manual p. 345, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Humanoid\Cultist.md|Cultist]]
+*Source: Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
 
@@ -58,8 +58,6 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
     "name": "Scimitar"
 "source":
   - "MM"
-  - "CoS"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Humanoid/token/cultist.webp"
 ```
 ^statblock

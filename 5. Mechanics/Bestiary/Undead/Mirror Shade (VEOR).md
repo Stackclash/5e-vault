@@ -13,7 +13,7 @@ tags:
 aliases:
   - Mirror Shade
 ---
-# [[5. Mechanics/Bestiary/Undead/Mirror Shade (VEOR).md|Mirror Shade]]
+# [[5. Mechanics\Bestiary\Undead\Mirror Shade (VEOR).md|Mirror Shade]]
 *Source: Vecna: Eve of Ruin p. 226*
 
 > [!quote] A quote from Hopewell Lightfinger, Sword Coast Adventurer  
@@ -86,7 +86,7 @@ When the spirit of a malevolent trickster or callous rogue refuses to enter the 
     "name": "Reflect Fear"
 "bonus_actions":
   - "desc": "While within 5 feet of a reflective surface, such as a mirror, the mirror\
-      \ shade takes the Hide action."
+      \ shade takes the [[/5. Mechanics/Rules/Actions.md#Hide|Hide]] action."
     "name": "Mirror Stealth"
 "source":
   - "VEoR"

@@ -12,7 +12,7 @@ aliases:
   - Musket
 cost: 50000
 one-hand-damage: 1d12 piercing
-range: 40/120
+range: 40\120
 weight: 10
 ---
 # Musket

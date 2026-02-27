@@ -12,7 +12,7 @@ aliases:
 weight: 2
 ---
 # Lyre of Building
-*Wondrous item, instrument, rare (requires attunement by a bard)*  
+*Wondrous item, instrument ([[/5. Mechanics/Items/Lyre.md\|lyre]]), rare (requires attunement by a bard)*  
 
 - **Weight**: 2.0 lbs.
 

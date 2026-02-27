@@ -12,7 +12,7 @@ tags:
 aliases:
   - Rocborne Hand Ballista
 one-hand-damage: 1d12 piercing
-range: 100/400
+range: 100\400
 weight: 18
 ---
 # Rocborne Hand Ballista

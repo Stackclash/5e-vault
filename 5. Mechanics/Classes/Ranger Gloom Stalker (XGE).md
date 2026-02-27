@@ -47,11 +47,9 @@ aliases:
 > 
 > So you sneak around in the dark? You know most everything but humans can see in the dark, right? We all see you. Tiptoeing doesn't turn you [[/5. Mechanics/Rules/Conditions.md#Invisible\|invisible]].
 
-## Class Features
-
-### Gloom Stalker (Level 3)
-
 Gloom Stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a Gloom Stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world. Such rangers are often found in the Underdark, but they will go any place where evil lurks in the shadows.
+
+## Subclass Features
 
 ### Gloom Stalker Magic (Level 3)
 

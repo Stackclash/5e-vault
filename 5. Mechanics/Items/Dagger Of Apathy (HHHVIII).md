@@ -11,7 +11,7 @@ tags:
 aliases:
   - Dagger of Apathy
 one-hand-damage: 1d4 piercing
-range: 20/60
+range: 20\60
 weight: 1
 ---
 # Dagger of Apathy

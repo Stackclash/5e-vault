@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Circle of Roses (Level 2)
-
 Druids of the Circle of Roses bend the power of nature to influence the minds and hearts of those around them, soothing sorrow, crushing with terror, and ensnaring hearts in equal measure. They create sweet and bitter perfumes that carry their power to any who inhale the scent.
+
+## Subclass Features
 
 ### Circle Spells (Level 2)
 

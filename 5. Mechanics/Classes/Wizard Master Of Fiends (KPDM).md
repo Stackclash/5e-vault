@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Master of Fiends (Level 2)
-
 Some individuals are willing to do anything in exchange for power. They delve into forbidden knowledge to expand their command of magic—trafficking with fiends and endangering their immortal soul in exchange for arcane might.
+
+## Subclass Features
 
 ### Wizard Specialty (Level 2)
 

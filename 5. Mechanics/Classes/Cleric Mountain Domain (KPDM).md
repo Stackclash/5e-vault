@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Mountain Domain (Level 1)
-
 The mountains signify strength, endurance, and hard-won wisdom. Many gods make their homes in mountains, and so do many horrors. Those who would know themselves in full must embrace the ordeal of the highest peaks, and the shriving of the spirit the thin, cold air, deprivation, and hardship provide.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Mountain Domain Spells**
 

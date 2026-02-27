@@ -7,7 +7,7 @@ aliases:
   - Chapter 9: The Betrayer Revealed
 ---
 # Chapter 9: The Betrayer Revealed
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 169* 
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/137-09-001-curse-your-sudden-and-inevitable-betrayal.webp#center\|"Once Alustriel and Tasha realize Mordenkainen is a fraud, an epic battle ensues in Sigil"]]
 

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Revolver
 one-hand-damage: 2d8 piercing
-range: 40/120
+range: 40\120
 weight: 3
 ---
 # Revolver

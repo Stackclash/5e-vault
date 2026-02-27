@@ -11,7 +11,7 @@ tags:
 aliases:
   - Axe Beak Tomahawk
 one-hand-damage: 1d6 slashing
-range: 20/60
+range: 20\60
 weight: 2
 ---
 # Axe Beak Tomahawk

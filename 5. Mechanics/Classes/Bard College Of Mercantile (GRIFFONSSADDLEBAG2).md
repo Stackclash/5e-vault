@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### College of Mercantile (Level 3)
-
 Bards of the College of Mercantile are well versed in the artistry of cutting deals and enemies alike in order to come out ahead. Talented merchants, smugglers, and tradesmen alike all learn from this college in some form or another, using both silvered words and sharp cunning to inspire their allies and subvert competition. These calculated risk-takers travel the world to make their mark—and their fortune—by navigating treacherous landscapes, economies, and people. With even just a copper to their name, these bards are always worth their weight in gold.
+
+## Subclass Features
 
 ### Coin Flip (Level 3)
 

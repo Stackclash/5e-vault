@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: 'underdark, hill'
 size: Small
 tags:
@@ -15,7 +15,7 @@ tags:
 aliases:
   - Xvart Speaker
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Xvart Speaker (VGM).md|Xvart Speaker]]
+# [[5. Mechanics\Bestiary\Humanoid\Xvart Speaker (VGM).md|Xvart Speaker]]
 *Source: Volo's Guide to Monsters p. 200*
 
 Xvarts are cruel, cowardly humanoids spawned by a cowardly, renegade demigod. They have blue skin, vivid orange eyes, and receding hairlines, mirroring their creator's appearance. They stand about 3 feet tall.
@@ -89,8 +89,8 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
 "languages": "Abyssal and one additional language (usually Common or Goblin)"
 "cr": "1/8"
 "traits":
-  - "desc": "The xvart can take the Disengage action as a bonus action on each of\
-      \ its turns."
+  - "desc": "The xvart can take the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
+      \ action as a bonus action on each of its turns."
     "name": "Low Cunning"
   - "desc": "The xvart has advantage on Strength ([[/5. Mechanics/Rules/Skills.md#Athletics|Athletics]])\
       \ checks to shove a creature if at least one of the xvart's allies is within\

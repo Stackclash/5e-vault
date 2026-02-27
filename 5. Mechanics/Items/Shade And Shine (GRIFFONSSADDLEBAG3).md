@@ -12,7 +12,7 @@ tags:
 aliases:
   - Shade and Shine
 one-hand-damage: 1d6 slashing
-range: 20/60
+range: 20\60
 weight: 2
 ---
 # Shade and Shine

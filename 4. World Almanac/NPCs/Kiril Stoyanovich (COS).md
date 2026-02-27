@@ -10,7 +10,7 @@ tags:
   - monster/type/humanoid/shapechanger
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/kiril-stoyanovich.webp
+  - 4. World Almanac\NPCs\img\kiril-stoyanovich.webp
 relationships: []
 aliases:
   - Kiril Stoyanovich

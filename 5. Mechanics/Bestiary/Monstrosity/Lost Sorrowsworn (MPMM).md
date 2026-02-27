@@ -20,8 +20,8 @@ tags:
 aliases:
   - Lost Sorrowsworn
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Lost Sorrowsworn (MPMM).md|Lost Sorrowsworn]]
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233, Vecna: Eve of Ruin*
+# [[5. Mechanics\Bestiary\Monstrosity\Lost Sorrowsworn (MPMM).md|Lost Sorrowsworn]]
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*
 
 The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can't find their way. These sorrowsworn appear desperate and panicked.
 
@@ -77,7 +77,6 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "source":
   - "MPMM"
   - "MTF"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Monstrosity/token/lost-sorrowsworn-mpmm.webp"
 ```
 ^statblock

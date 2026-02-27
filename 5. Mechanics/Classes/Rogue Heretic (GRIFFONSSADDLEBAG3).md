@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Heretic (Level 3)
-
 You are inspired to lead change by divine force. Regardless of any personal oaths or beliefs you carry, your deep conviction to a greater purpose provides you with a limited scope of divine power. You are tethered to the will of multiple deities, instead of one, and in doing so can call on their versatile strengths to aid your work. As an arbiter of the greater will of the divine, you are always capable of reaching and beseeching a deity to aid in your endeavors, especially if doing so also disrupts the interests of a competing power. These deities willing to lend their strength to you also accept that your expert hand moves by the grace of all deities, not just theirs, and understand that your actions may not always be congruent with their motivations. Sometimes called white wolves among the devout for being independent and outspoken, Heretics are by all means wolves in sheeps' clothing.
+
+## Subclass Features
 
 ### Guise of the Devout (Level 3)
 
@@ -65,19 +63,13 @@ You can use this feature twice, and you regain all expended uses of it when you 
 
 When you reach 3rd level, you gain enough divine favor to cast a limited variety of spells. See Spells Rules for the general rules of spellcasting and the Spells Listing for the cleric spell list.
 
-#### Cantrips
+**Cantrips.** You learn three cantrips of your choice from the cleric spell list. You learn another cleric cantrip of your choice at 10th level.
 
-You learn three cantrips of your choice from the cleric spell list. You learn another cleric cantrip of your choice at 10th level.
-
-#### Spell Slots
-
-The Heretic Spellcasting table below shows how many spell slots you have to cast cleric spells of 1st through 4th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your cleric spells of 1st level or higher, you must expend a spell slot. You regain all expended Heretic spell slots when you finish a short or long rest.
+**Spell Slots.** The Heretic Spellcasting table below shows how many spell slots you have to cast cleric spells of 1st through 4th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your cleric spells of 1st level or higher, you must expend a spell slot. You regain all expended Heretic spell slots when you finish a short or long rest.
 
 When you reach 13th level in this class, you gain a special spell slot, in addition to your normal ones. This spell slot is the same spell level as your other Heretic spell slots, but is only regained when you finish a long rest.
 
-#### Spells Known of 1st Level and Higher
-
-When you gain this feature, choose a Divine Domain from the cleric class. Until you finish a long rest, the cleric spells you know are the ones listed in that domain's spell list, provided that you have the spell slots with which to cast them. You can choose the same or a different domain whenever you finish a long rest.
+**Spells Known of 1st Level and Higher.** When you gain this feature, choose a Divine Domain from the cleric class. Until you finish a long rest, the cleric spells you know are the ones listed in that domain's spell list, provided that you have the spell slots with which to cast them. You can choose the same or a different domain whenever you finish a long rest.
 
 For example, when you are 13th level, you have two 3rd-level spell slots. If you chose the Life domain, you must spend one of those slots to cast the 1st-level spell cure wounds. When you do, you cast it as a 3rd-level spell.
 
@@ -85,9 +77,7 @@ Here is a list of all domains from PHB, SCAG, XGE, & TCE (You are free to use ot
 
 Arcana, [Death](/compendium/classes/cleric-death-domain-dmg.md#Death%20Domain%20(Level%201)), [Forge](/compendium/classes/cleric-forge-domain-xge.md#Forge%20Domain%20(Level%201)), [Grave](/compendium/classes/cleric-grave-domain-xge.md#Grave%20Domain%20(Level%201)), [Knowledge](/compendium/classes/cleric-knowledge-domain.md#Knowledge%20Domain%20(Level%201)), [Life](/compendium/classes/cleric-life-domain.md#Life%20Domain%20(Level%201)), [Light](/compendium/classes/cleric-light-domain.md#Light%20Domain%20(Level%201)), [Nature](/compendium/classes/cleric-nature-domain.md#Nature%20Domain%20(Level%201)), [Order](/compendium/classes/cleric-order-domain-tce.md#Order%20Domain%20(Level%201)), [Peace](/compendium/classes/cleric-peace-domain-tce.md#Peace%20Domain%20(Level%201)), [Tempest](/compendium/classes/cleric-tempest-domain.md#Tempest%20Domain%20(Level%201)), [Trickery](/compendium/classes/cleric-trickery-domain.md#Trickery%20Domain%20(Level%201)), [Twilight](/compendium/classes/cleric-twilight-domain-tce.md#Twilight%20Domain%20(Level%201)), [War](/compendium/classes/cleric-war-domain.md#War%20Domain%20(Level%201))
 
-#### Spellcasting Ability
-
-Wisdom is your spellcasting ability for your cleric spells, which you gain from a temporary affiliation with a deity associated with the domain you choose. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Wisdom is your spellcasting ability for your cleric spells, which you gain from a temporary affiliation with a deity associated with the domain you choose. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Wisdom</span>
 

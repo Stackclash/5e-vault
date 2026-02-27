@@ -13,8 +13,8 @@ tags:
 aliases:
   - Rug of Smothering
 ---
-# [[5. Mechanics/Bestiary/Construct/Rug Of Smothering.md|Rug of Smothering]]
-*Source: Monster Manual p. 20, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Construct\Rug Of Smothering.md|Rug of Smothering]]
+*Source: Monster Manual p. 20. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Would-be thieves and careless heroes arrive at the doorsteps of an enemy's abode, eyes and ears alert for traps, only to end their quest prematurely as the rugs beneath their feet animate and smother them to death.
 
@@ -81,7 +81,6 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
     "name": "Smother"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Construct/token/rug-of-smothering.webp"
 ```
 ^statblock

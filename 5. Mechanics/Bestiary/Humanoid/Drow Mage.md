@@ -10,12 +10,12 @@ tags:
   - monster/cr/7
   - monster/environment/underdark
   - monster/size/medium
-  - monster/type/humanoid/elf
+  - monster/type/humanoid/drow-elf
 aliases:
   - Drow Mage
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Mage.md|Drow Mage]]
-*Source: Monster Manual p. 129, Vecna: Eve of Ruin*
+# [[5. Mechanics\Bestiary\Humanoid\Drow Mage.md|Drow Mage]]
+*Source: Monster Manual p. 129*
 
 ## Drow
 
@@ -75,7 +75,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "name": "Drow Mage"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "12"
 "ac_class": "15 with [[/5. Mechanics/Spells/Mage Armor.md|mage armor]]"
@@ -145,7 +145,6 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     "name": "Summon Demon (1/Day)"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Humanoid/token/drow-mage.webp"
 ```
 ^statblock

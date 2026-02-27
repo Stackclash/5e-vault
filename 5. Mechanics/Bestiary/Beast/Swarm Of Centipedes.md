@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/2
+cr: 1\2
 environments: 'underdark, grassland, forest, swamp, hill, urban, desert'
 size: Medium
 tags:
@@ -20,8 +20,8 @@ tags:
 aliases:
   - Swarm of Centipedes
 ---
-# [[5. Mechanics/Bestiary/Beast/Swarm Of Centipedes.md|Swarm of Centipedes]]
-*Source: Monster Manual p. 338, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Beast\Swarm Of Centipedes.md|Swarm of Centipedes]]
+*Source: Monster Manual p. 338. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 > [!note] The Nature of Swarms
 > 
@@ -70,7 +70,6 @@ aliases:
     "name": "Bites"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Beast/token/swarm-of-centipedes.webp"
 ```
 ^statblock

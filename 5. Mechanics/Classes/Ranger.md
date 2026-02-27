@@ -234,9 +234,7 @@ _Source: Tasha's Cauldron of Everything p. 56_
 
 You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.
 
-#### Canny
-
-Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen skill.
+**Canny.** Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen skill.
 
 You can also speak, read, and write two additional languages of your choice.
 
@@ -244,32 +242,31 @@ You can also speak, read, and write two additional languages of your choice.
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
+Options (choose 1):
+
 - [[/5. Mechanics/Optional Features/Archery.md\|Archery]]  
 - [[/5. Mechanics/Optional Features/Defense.md\|Defense]]  
 - [[/5. Mechanics/Optional Features/Dueling.md\|Dueling]]  
 - [[/5. Mechanics/Optional Features/Two Weapon Fighting.md\|Two-Weapon Fighting]]  
+- [[/5. Mechanics/Optional Features/Blind Fighting (TCE).md\|Blind Fighting]]  
+- [[/5. Mechanics/Optional Features/Druidic Warrior (TCE).md\|Druidic Warrior]]  
+- [[/5. Mechanics/Optional Features/Thrown Weapon Fighting (TCE).md\|Thrown Weapon Fighting]]  
 
 ### Spellcasting (Level 2)
 
 By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the ranger spell list.
 
-#### Spell Slots
-
-The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+**Spell Slots.** The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 For example, if you know the 1st-level spell [[/5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[/5. Mechanics/Spells/Animal Friendship.md\|animal friendship]] using either slot.
 
-#### Spells Known of 1st Level and Higher
-
-You know two 1st-level spells of your choice from the ranger spell list.
+**Spells Known of 1st Level and Higher.** You know two 1st-level spells of your choice from the ranger spell list.
 
 The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
 
 Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.
 
-#### Spellcasting Ability
-
-Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Wisdom</span>
 
@@ -338,9 +335,7 @@ _Source: Tasha's Cauldron of Everything p. 56_
 
 You gain an additional benefit when you reach 6th level in this class.
 
-#### Roving
-
-Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.
+**Roving.** Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.
 
 ### Ranger Archetype feature (Level 7)
 
@@ -382,9 +377,7 @@ _Source: Tasha's Cauldron of Everything p. 56_
 
 You gain an additional benefit when you reach 10th level in this class.
 
-#### Tireless
-
-As an action, you can give yourself a number of temporary hit points equal to `dice:1d8|noform|noparens|avg` (`1d8`) + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Tireless.** As an action, you can give yourself a number of temporary hit points equal to `dice:1d8|noform|noparens|avg` (`1d8`) + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 In addition, whenever you finish a short rest, your [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] level, if any, is decreased by 1.
 

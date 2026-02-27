@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Circle of Owls (Level 2)
-
 Druids of the Circle of Owls maintain their tradition of spying and gathering knowledge and, occasionally, of permanently silencing those who would misuse knowledge. The Circle of Owls druids draw on the power of their namesakes, moving about the world unnoticed as they see and hear what others try desperately to hide.
 
 These druids maintain closer relationships with the shadow fey than most. They find this relationship advantageous, though often tense, in their pursuit of secrets. Along with access to shadow fey agents and information, Circle of Owls druids regularly make bargains with strange owl-like creatures known as stryx. The stryx are natives of the Shadow Realm and find the Circle of Owls druids to their liking. Some stryx even serve Circle of Owls druids as familiars, at the GM's discretion.
+
+## Subclass Features
 
 ### Circle Spells (Level 2)
 

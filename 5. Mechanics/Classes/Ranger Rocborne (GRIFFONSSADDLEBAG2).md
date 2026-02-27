@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Rocborne (Level 3)
-
 The Rocborne are nomads of the sky who travel the world on the backs of ancestral rocs. These travelers understand that the air and wind aren't just one force but the collective effort of untold numbers of spirits that are carried along by it. By listening to the wind the same way a medium beckons to the dead, a Rocborne can learn more about the weather, their path forward, and even themselves. Many Rocborne grow up and live in this culture for their entire lives, but some have been known to begin their own journeys. Alternatively, your path may have been crossed by a powerful windborne spirit later on in life, allowing you to suddenly feel and heed the guiding wind inside you.
 
 By calling on the spirits of the wind to aid them, rangers of this archetype can exert a degree of control over both wind and weather. These skills were passed down from the rocs to the first Rocborne and continue to live on through the dedicated instruction of Rocborne elders, both living and dead. You may be taught these skills or have them passed on to you through the guidance of Rocborne spirits in whispers, dreams, or in moments of deep meditation.
+
+## Subclass Features
 
 ### Rocborne Magic (Level 3)
 

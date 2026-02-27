@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Wand Lore (Level 2)
-
 Some children grow up sword-fighting with sticks and become soldiers, but you've learned how to turn a simple stick into something more powerful than a blade. The study of wand lore delves deeper into old magic, beyond the normal lists of components and incantations, and into the rich history and tradition of wandcraft. As a wizard of wand lore, you know that a mage's true power can be amplified with the right tool: for you, that tool is a wand of your own creation.
+
+## Subclass Features
 
 ### Core Wand (Level 2)
 

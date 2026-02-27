@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### The Shapechanger (Level 1)
-
 Your patron is a mighty shapechanger, whose commitment to a single form is often fleeting. Your meetings with your patron may occur even in plain sight, as those around you may fail to see your patron for who they truly are. Succubi, lycanthropes, vampires, and even ancient mimics may grant such power to you in exchange for your service, and can offer you an untold number of ways to circumvent or overcome the problems before you—all by simply changing the limitations of your normal form. By releasing your body from itself, you stand to achieve great things together.
+
+## Subclass Features
 
 ### Expanded Spell List (Level 1)
 

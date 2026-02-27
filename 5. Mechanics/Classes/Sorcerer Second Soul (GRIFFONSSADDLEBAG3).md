@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Second Soul (Level 1)
-
 Within your mortal frame lies two souls that have been bound together like twin stars. Inexplicable magic arcs between them, creating a unique power within you that was never there before. This soul is undead by its very nature, as its mere existence defies the normal laws of life. Maybe your birth was marked by a lost twin, or a [[/5. Mechanics/Spells/Revivify.md\|revivify]] spell entwined another spirit with yours by mistake. Perhaps a ghosts possession went awry, and now its soul is forever tied to yours.
+
+## Subclass Features
 
 ### Second Soul Magic (Level 1)
 

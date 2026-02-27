@@ -10,7 +10,7 @@ tags:
 aliases:
   - Fire Dagger
 one-hand-damage: 1d4 fire
-range: 20/60
+range: 20\60
 weight: 1
 ---
 # Fire Dagger

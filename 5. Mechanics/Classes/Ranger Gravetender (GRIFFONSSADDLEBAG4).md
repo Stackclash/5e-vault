@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Gravetender (Level 3)
-
 Rangers that tend to the cemeteries and final places of rest in the world are Gravetenders. These solemn caretakers are wardens of the circle of life, and traverse such oft-ignored yet hallowed grounds with grim purpose. And, like the dead returning to soil, Gravetenders offer their vitality in exchange for power and survival. They stand as silent sentinels, vigilant against the encroachment of desecration and undeath, and defend the memories of persons, beasts, and more to ensure their voices are never forgotten to the ravages of time.
+
+## Subclass Features
 
 ### Gravetender Magic (Level 3)
 

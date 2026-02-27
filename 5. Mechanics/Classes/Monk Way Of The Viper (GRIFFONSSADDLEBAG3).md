@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Way of the Viper (Level 3)
-
 Monks who follow the Way of the Viper embody the serpentine grace and cunning of their namesake. Masters of fluid movement and elusive strikes, these monks are as swift as striking vipers, their bodies flowing seamlessly like a coiled serpent ready to strike. With a deep understanding of timing, distance, and precision, they navigate the battlefield with unmatched reactivity and unmatched elusiveness.
+
+## Subclass Features
 
 ### Serpentine (Level 3)
 

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: underdark
 size: Medium
 tags:
@@ -10,18 +10,18 @@ tags:
   - monster/cr/1-4
   - monster/environment/underdark
   - monster/size/medium
-  - monster/type/humanoid/elf
+  - monster/type/humanoid/drow-elf
 aliases:
   - Drow (Magic Equipment)
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Magic Equipment.md|Drow (Magic Equipment)]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Magic Equipment.md|Drow (Magic Equipment)]]
 *Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock
 "name": "Drow Magic Equipment"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "16"
 "ac_class": "[[/5. Mechanics/Items/Drow 1 Armor (MM).md|+1 chain shirt]]"

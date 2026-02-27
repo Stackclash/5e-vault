@@ -10,11 +10,11 @@ tags:
   - monster/cr/8
   - monster/environment/underdark
   - monster/size/medium
-  - monster/type/humanoid/elf
+  - monster/type/humanoid/drow-elf
 aliases:
   - Drow Priestess of Lolth
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Priestess Of Lolth.md|Drow Priestess of Lolth]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Priestess Of Lolth.md|Drow Priestess of Lolth]]
 *Source: Monster Manual p. 129*
 
 Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn't allow male drow to hold such positions.
@@ -79,7 +79,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "name": "Drow Priestess Of Lolth"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "16"
 "ac_class": "[[/5. Mechanics/Items/Scale Mail.md|scale mail]]"

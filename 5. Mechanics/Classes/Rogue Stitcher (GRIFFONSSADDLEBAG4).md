@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Stitcher (Level 3)
-
 Your mastery of theft extends beyond the simple physical and into the temporal. You have a magical knack for spotting and collecting stray moments of time: fragments of potential events that never come to pass. In practice, these collectibles, or "stitches," are almost always harmless to take—after all, any event too important is already cemented in time. Only especially powerful forces, like a deck of many things, have the power to move an event such as that.
 
 Your talent for temporal theft may have been thrust upon you: perhaps you were struck by a strange ripple through time or are trapped in inexplicable time dilation, causing your appearance to hardly age. Repeated trips to and from the realm of the fey could have enlightened you to the nature and slipperiness of time itself. Stranger yet, perhaps you come from a parallel timeline where almost everything was exactly the same as it is now, except for a select few details that only you have noticed. Regardless, you now exist in a reality whose very fabric you can see the stitching of.
+
+## Subclass Features
 
 ### Bonus Proficiencies (Level 3)
 

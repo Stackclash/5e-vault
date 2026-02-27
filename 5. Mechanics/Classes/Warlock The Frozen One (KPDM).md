@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### The Frozen One (Level 1)
-
 Your patron is the embodiment of winter. This is typically a god associated with winter or cold, but powerful ice maidens, ice devils, and other creatures associated with the cold can serve as patrons.
 
 Your patron seeks to immerse the world in eternal winter or bring about some similar fate. While you may not share this goal, you have sworn fealty to this being and you act as its agent to spread winter wherever you roam.
+
+## Subclass Features
 
 ### Expanded Spell List (Level 1)
 

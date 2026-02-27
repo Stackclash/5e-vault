@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Timekeeper (Level 2)
-
 For those who understand its Secrets, the flow of time itself is a powerful source of magical power.
+
+## Subclass Features
 
 ### Wizard Specialty (Level 2)
 

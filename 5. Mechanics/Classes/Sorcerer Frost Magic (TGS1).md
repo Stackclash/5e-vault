@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Frost Magic (Level 1)
-
 Your magic is created by pieces of the Everheart, the center and driving force behind the expanding Everglacier wastelands. This power within you might be passed down through ancestors who protected the glacier's magical core, or it might have been forced upon you through a chance encounter with the enchanted ice itself. Regardless of the source of your power, you are a creature of cold incarnate.
+
+## Subclass Features
 
 ### Frozen Body (Level 1)
 

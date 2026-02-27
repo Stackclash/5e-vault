@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Grim Surgeon (Level 3)
-
 You've developed a unique familiarity with knives, bodies, and blood in your line of work. Like a tinkerer's knowledge of clockwork and gears, you've come to an understanding of how bodies are put together instead. Medical experts in rough or war-torn cities and villages may follow this archetype, but so do rogues who take a particular interest in either clerical or necromantic magic. A grim surgeon uses medical knowledge and strange blood magic to dismantle foes, restore allies, and control bodies like puppets.
+
+## Subclass Features
 
 ### Medic (Level 3)
 

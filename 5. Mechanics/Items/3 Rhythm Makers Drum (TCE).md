@@ -12,7 +12,7 @@ aliases:
 weight: 3
 ---
 # +3 Rhythm-Maker's Drum
-*Wondrous item, instrument, very rare (requires attunement by a bard)*  
+*Wondrous item, instrument ([[/5. Mechanics/Items/Drum.md\|drum]]), very rare (requires attunement by a bard)*  
 
 - **Weight**: 3.0 lbs.
 

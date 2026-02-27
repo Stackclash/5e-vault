@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Doomsayer (Level 2)
-
 The magic you seek is as powerful as it is destructive.
+
+## Subclass Features
 
 ### Arcane Specialty (Level 2)
 

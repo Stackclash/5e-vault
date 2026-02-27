@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Winter Trapper (Level 3)
-
 Winter Trappers are masters of control and keep both their adversaries and quarries helpless and at bay. Originating from the Everglacier, these trained hunters are experts at staying upright when others would surely fall, and have learned how to use magic and acrobatics to keep both themselves and their allies out of harm's reach.
+
+## Subclass Features
 
 ### Winter Trapper Magic (Level 3)
 

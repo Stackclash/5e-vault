@@ -13,7 +13,7 @@ aliases:
   - Davy Jones's Key
 one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
-range: 20/60
+range: 20\60
 weight: 4
 ---
 # Davy Jones's Key

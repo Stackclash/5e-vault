@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### College of Four Suits (Level 3)
-
 Bards of the College of Four Suits see games of chance as challenging questions of fate and predetermination. These charismatic players can see the threads of fate hard at work with every roll of the dice and card draw, providing timeless material for their magic and musings. By bearing witness to this magic firsthand, bards of this college believe that the future is something that can be directed, if not controlled. As such, these magicians, tricksters, and fortune tellers play along in a never-ending game against their future selves, strategically twisting luck in their ever-growing favor to force the hand of fate itself.
+
+## Subclass Features
 
 ### Arcane Deck (Level 3)
 
@@ -70,21 +68,13 @@ You can play multiple cards at a time and combine their values provided that the
 
 You can play cards from your hand of fate in a variety of ways as described below.
 
-#### Fate Change
+**Fate Change.** You can choose to forgo rolling a d20 for an attack roll or ability check to play one or more cards from your hand (no action required), using their combined value to determine the roll instead. You can wait until after you roll the d20 before deciding to use this feature, but must decide before the GM says whether the roll succeeds or fails. Once you use this ability, you can not do so again until you roll initiative again and draw a new hand. If you can eventually replace a d20 roll with a combined card value of 20 or more, it does not count as a critical hit or success on the roll you replace it with.
 
-You can choose to forgo rolling a d20 for an attack roll or ability check to play one or more cards from your hand (no action required), using their combined value to determine the roll instead. You can wait until after you roll the d20 before deciding to use this feature, but must decide before the GM says whether the roll succeeds or fails. Once you use this ability, you can not do so again until you roll initiative again and draw a new hand. If you can eventually replace a d20 roll with a combined card value of 20 or more, it does not count as a critical hit or success on the roll you replace it with.
+**Trick.** You can use an action to send one or more cards from your hand hurtling at a creature that you can see within 30 feet of you (other than yourself).
 
-#### Trick
+**Clubs or Spades.** If the cards suit is a club or spade, make a ranged spell attack against the target, using your spell attack bonus. On a hit, the target takes force damage equal to the cards combined value.
 
-You can use an action to send one or more cards from your hand hurtling at a creature that you can see within 30 feet of you (other than yourself).
-
-##### Clubs or Spades
-
-If the cards suit is a club or spade, make a ranged spell attack against the target, using your spell attack bonus. On a hit, the target takes force damage equal to the cards combined value.
-
-##### Diamonds or Hearts
-
-If the cards suit is a diamond or heart, the target gains a number of temporary hit points equal to the cards combined value, which last for 1 minute or until you use this Trick again.
+**Diamonds or Hearts.** If the cards suit is a diamond or heart, the target gains a number of temporary hit points equal to the cards combined value, which last for 1 minute or until you use this Trick again.
 
 Whenever you expend a use of your Bardic Inspiration, you can draw 2 cards from the deck and choose 1 of them to add to your hand, placing the second card on the bottom of the deck. If your hand is full when you add a new card in this way, you can choose to either discard a card from your hand and replace it with the new one or simply place it on the bottom of the deck without replacing any cards in your hand.
 

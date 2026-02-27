@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/ezmerelda-davenir.webp
+  - 4. World Almanac\NPCs\img\ezmerelda-davenir.webp
 relationships: []
 aliases:
   - Ezmerelda d'Avenir

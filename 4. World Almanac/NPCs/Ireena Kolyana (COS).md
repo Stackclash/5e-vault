@@ -9,28 +9,27 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/ireena-kolyana.webp
+  - 4. World Almanac\NPCs\img\ireena-kolyana.webp
 relationships: []
 aliases:
   - Ireena Kolyana
 alignment: Lawful Good
-partyRelationships:
-  Curse of Strahd: Friendly
-location:
-pronounced:
-race:
+partyRelationships: {}
+location: null
+pronounced: null
+race: null
 gender: female
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]

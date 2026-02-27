@@ -550,7 +550,7 @@ Fit this into your campaign by making the name of the creature the first item on
 > 
 > This gallery is decorated with seven framed paintings of creatures. A few chairs and benches have been placed in front of the art for viewing.
 > 
-> A plaque mounted on one of the walls bears the following dedication: "In order to gain all knowledge, one must know where to start. Count on your enemies to reveal the source of the secret. This room is dedicated to the defeat of all monsters within." 
+> A plaque mounted on one of the walls bears the following dedication: "In order to gain all knowledge, one must know where to start. Count on your enemies to reveal the source of the secret. This room is dedicated to the defeat of all monsters within."
 ^3a3
 
 Characters should be free to explore the gallery and inspect the paintings and dedication to discover the parts of the puzzle.
@@ -723,7 +723,7 @@ This gem-filled room can be placed in any dungeon, estate, or building with mult
 
 > [!readaloud] 
 > 
-> Dozens of gems lie strewn upon the floor. Amid the treasure stands a marble statue with its hands clasped in front of it. A placard at the statue's base reads, "Only one treasure may leave this room. Cross with another and find your tomb." 
+> Dozens of gems lie strewn upon the floor. Amid the treasure stands a marble statue with its hands clasped in front of it. A placard at the statue's base reads, "Only one treasure may leave this room. Cross with another and find your tomb."
 ^3bd
 
 #### Puzzle Features
@@ -808,7 +808,7 @@ This map puzzle is designed to lead a party through a dungeon where a roaming be
 > 
 > Out of the gloom appears a hooded goblin carrying a lantern.
 > 
-> "Hello, friends!" the goblin says. "I can help you through these parts—if you can figure out my riddles. You don't want to make a wrong turn in here, as there are eyes everywhere. Solve the riddles and follow my directions to the letter." 
+> "Hello, friends!" the goblin says. "I can help you through these parts—if you can figure out my riddles. You don't want to make a wrong turn in here, as there are eyes everywhere. Solve the riddles and follow my directions to the letter."
 ^3cc
 
 The [[/5. Mechanics/Bestiary/Humanoid/Goblin.md\|goblin]] is friendly, and its offer is genuine. It's name is Igor (pronounced *eye*-gor), which it reveals only if asked. The characters find themselves in a maze that emits magical darkness that can't be dispelled. No vision can penetrate this darkness, and only the goblin's lantern can illuminate it. Igor's lantern emits light in a 5-foot radius, but only so long as the goblin holds it. The lantern goes dark if any other creature takes custody of it.

@@ -14,6 +14,6 @@ aliases:
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 
-While wearing this amulet you can breathe both air and water and you know the Abyssal and Primordial languages.
+While wearing this amulet you can breathe both air and water and you know the Abyssal and Aquan languages.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 134*

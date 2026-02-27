@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Elementalist (Level 2)
-
 You concentrate your arcane studies on the power inherent to one of the Elemental Planes.
+
+## Subclass Features
 
 ### Wizard Speciality (Level 2)
 
@@ -61,18 +59,15 @@ Beginning when you select this specialty at 2nd level, choose one element from t
 
 | Element | Language | Damage Type |
 |---------|----------|-------------|
-| Air | Primordial | Lightning or thunder (choose one) |
-| Earth | Primordial | Acid |
-| Fire | Primordial | Fire |
-| Water | Primordial | Cold |
+| Air | Auran | Lightning or thunder (choose one) |
+| Earth | Terran | Acid |
+| Fire | Ignan | Fire |
+| Water | Aquan | Cold |
 ^elemental-focus
 
 Some spells are associated with your focus element. The gold and time you must spend to copy a spell associated with your chosen element into your spellbook is halved. The spell list for each focus element is given below. Spells marked with an asterisk appear in this book.
 
-#### Focus Element: Air
-_Source: Deep Magic_
-
-Cantrips—[[/5. Mechanics/Spells/Shocking Grasp.md\|shocking grasp]], [[/5. Mechanics/Spells/Wind Lash (KPDM).md\|wind lash]]
+**Focus Element Air.** Cantrips—[[/5. Mechanics/Spells/Shocking Grasp.md\|shocking grasp]], [[/5. Mechanics/Spells/Wind Lash (KPDM).md\|wind lash]]
 
 1st level—[[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]], [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]], [[/5. Mechanics/Spells/Wind Tunnel (KPDM).md\|wind tunnel]]
 
@@ -88,10 +83,7 @@ Cantrips—[[/5. Mechanics/Spells/Shocking Grasp.md\|shocking grasp]], [[/5. Mec
 
 9th level—[[/5. Mechanics/Spells/Storm Of Vengeance.md\|storm of vengeance]]
 
-#### Elemental Focus: Earth
-_Source: Deep Magic_
-
-Cantrips—[[/5. Mechanics/Spells/Acid Splash.md\|acid splash]], [[/5. Mechanics/Spells/Pummelstone (KPDM).md\|pummelstone]]
+**Elemental Focus Earth.** Cantrips—[[/5. Mechanics/Spells/Acid Splash.md\|acid splash]], [[/5. Mechanics/Spells/Pummelstone (KPDM).md\|pummelstone]]
 
 2nd level—[[/5. Mechanics/Spells/Melfs Acid Arrow.md\|acid arrow]]
 
@@ -105,10 +97,7 @@ Cantrips—[[/5. Mechanics/Spells/Acid Splash.md\|acid splash]], [[/5. Mechanics
 
 8th level—[[/5. Mechanics/Spells/Caustic Torrent (KPDM).md\|caustic torrent]], [[/5. Mechanics/Spells/Earthquake.md\|earthquake]]
 
-#### Elemental Focus: Fire
-_Source: Deep Magic_
-
-Cantrips—[[/5. Mechanics/Spells/Fire Bolt.md\|fire bolt]], [[/5. Mechanics/Spells/Produce Flame.md\|produce flame]]
+**Elemental Focus Fire.** Cantrips—[[/5. Mechanics/Spells/Fire Bolt.md\|fire bolt]], [[/5. Mechanics/Spells/Produce Flame.md\|produce flame]]
 
 2nd level—[[/5. Mechanics/Spells/Fire Darts (KPDM).md\|fire darts]], [[/5. Mechanics/Spells/Flaming Sphere.md\|flaming sphere]], [[/5. Mechanics/Spells/Heat Met(AL).md\|heat metal]], [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]]
 
@@ -124,10 +113,7 @@ Cantrips—[[/5. Mechanics/Spells/Fire Bolt.md\|fire bolt]], [[/5. Mechanics/Spe
 
 9th level—[[/5. Mechanics/Spells/Meteor Swarm.md\|meteor swarm]], [[/5. Mechanics/Spells/Pyroclasm (KPDM).md\|pyroclasm]]
 
-#### Elemental Focus: Water
-_Source: Deep Magic_
-
-Cantrips—[[/5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]]
+**Elemental Focus Water.** Cantrips—[[/5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]]
 
 1st level—[[/5. Mechanics/Spells/Create Or Destroy Water.md\|create or destroy water]], [[/5. Mechanics/Spells/Tidal Barrier (KPDM).md\|tidal barrier]]
 
@@ -143,10 +129,7 @@ Cantrips—[[/5. Mechanics/Spells/Ray Of Frost.md\|ray of frost]]
 
 Starting at 2nd level, you learn magical techniques, called masteries, to channel elemental magic into your being and spells.
 
-#### Masteries
-_Source: Deep Magic_
-
-You learn two [[/5. Mechanics/Lists/List Optfeaturetype Mastery.md\|masteries]] of your choice. You learn one additional mastery of your choice at 6th, 10th, and 14th levels. Each time you learn a new mastery, you can also replace one mastery you know with a different one.
+**Masteries.** You learn two [[/5. Mechanics/Lists/List Optfeaturetype Mastery.md\|masteries]] of your choice. You learn one additional mastery of your choice at 6th, 10th, and 14th levels. Each time you learn a new mastery, you can also replace one mastery you know with a different one.
 
 ### Substitute Elements (Level 6)
 

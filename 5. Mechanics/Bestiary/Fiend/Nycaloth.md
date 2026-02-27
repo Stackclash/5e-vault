@@ -13,8 +13,8 @@ tags:
 aliases:
   - Nycaloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Nycaloth.md|Nycaloth]]
-*Source: Monster Manual p. 314, Tasha's Cauldron of Everything*
+# [[5. Mechanics\Bestiary\Fiend\Nycaloth.md|Nycaloth]]
+*Source: Monster Manual p. 314*
 
 The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razor-sharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [[/5. Mechanics/Rules/Conditions.md#Invisible|invisible]] or create illusory doubles of itself, further confounding its enemies.
 
@@ -140,7 +140,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     "name": "Teleport"
 "source":
   - "MM"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Fiend/token/nycaloth.webp"
 ```
 ^statblock

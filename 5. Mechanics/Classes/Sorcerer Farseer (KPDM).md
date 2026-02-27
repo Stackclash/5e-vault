@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Farseer (Level 1)
-
 Your magic comes from a god of prophecy and prognostication who imbued a sliver of their power in your ancestry. Farseers can trace their power through the generations to a single, powerful ancestor whose divine gift gave them access to the webs of fate. Some are plagued by visions and omens, having no knowledge of their august lineage. These unfortunate individuals might be driven to Madness and ostracized because of their uncontrolled, Forbidden Knowledge. Regardless, the touch of the divine has forever changed you, and the skeins of fate unravel in your view.
+
+## Subclass Features
 
 ### Blood of the Seer (Level 1)
 

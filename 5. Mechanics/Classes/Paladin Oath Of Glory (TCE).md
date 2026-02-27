@@ -43,35 +43,21 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Oath of Glory (Level 3)
-
 Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they're all ready when destiny calls.
+
+## Subclass Features
 
 ### Tenets of Glory (Level 3)
 
 The tenets of the Oath of Glory drive a paladin to attempt heroics that might one day shine in legend.
 
-#### Actions over Words
-_Source: Tasha's Cauldron of Everything_
+**Actions over Words.** Strive to be known by glorious deeds, not words.
 
-Strive to be known by glorious deeds, not words.
+**Challenges Are but Tests.** Face hardships with courage, and encourage your allies to face them with you.
 
-#### Challenges Are but Tests
-_Source: Tasha's Cauldron of Everything_
+**Hone the Body.** Like raw stone, your body must be worked so its potential can be realized.
 
-Face hardships with courage, and encourage your allies to face them with you.
-
-#### Hone the Body
-_Source: Tasha's Cauldron of Everything_
-
-Like raw stone, your body must be worked so its potential can be realized.
-
-#### Discipline the Soul
-_Source: Tasha's Cauldron of Everything_
-
-You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends.
+**Discipline the Soul.** You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends.
 
 ### Oath Spells (Level 3)
 

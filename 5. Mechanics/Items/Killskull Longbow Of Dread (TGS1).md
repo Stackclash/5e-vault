@@ -12,7 +12,7 @@ tags:
 aliases:
   - Killskull Longbow of Dread
 one-hand-damage: 1d8 piercing
-range: 150/600
+range: 150\600
 weight: 2
 ---
 # Killskull Longbow of Dread

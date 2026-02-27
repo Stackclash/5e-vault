@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Ring Warden (Level 2)
-
 The Dwarves long ago discovered the means to infuse magic into rings, and the first ring wardens came into being soon after that discovery came to light.
+
+## Subclass Features
 
 ### Wizard Specialty (Level 2)
 

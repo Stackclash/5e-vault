@@ -43,46 +43,25 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Oath of Radiance (Level 3)
-
 The Oath of Radiance is a beacon in the night, burning away the corruption of shadow and undeath. (non-ogl places) see the white-and-yellow-plumed helmets of these warriors of light. Radiant paladins are bold and brash, abhorring stealth and grandly striding into battle against the forces of darkness. Nearly every paladin that swears this oath is a worshipper of Khors. Paladins of the Oath of Radiance are overwhelmingly good-aligned, and most are lawful. Some reject the rigid nature of knightly orders for the life of a knight errant. Though still nearly universally good, these wayward paladins are more neutral than lawful, and they use their relative freedom to bring their light to bear as they deem it most necessary.
 
-#### Tenets of Radiance
-_Source: Deep Magic_
+## Subclass Features
+
+### Tenets of Radiance (Level 3)
 
 Paladins who swear the Oath of Radiance devote themselves to fighting the insidious powers of the Shadow Realm that darken mortal hearts and against the undead that extinguish the light of life and replace it with hungry darkness. Most importantly, they take it upon themselves to rescue those corrupted by Shadow or undead influence. They will spare mortal foes in the thrall of darkness in the hope that such creatures can be redeemed.
 
-##### Cleanse Corruption.
-_Source: Deep Magic_
+**Cleanse Corruption..** I will burn out all creatures born of darkness, showing no pity or mercy. I will not suffer the company of dark creatures, save those taken in by darkness who I might redeem.
 
-I will burn out all creatures born of darkness, showing no pity or mercy. I will not suffer the company of dark creatures, save those taken in by darkness who I might redeem.
+**Lead with Light..** I stand open and courageous in the face of battle and will be the last of my companions to quit the field, just as the last ray of sun leaves the day.
 
-##### Lead with Light.
-_Source: Deep Magic_
+**Preserve the Righteous..** I will defend those who labor and live in fear of shadow. I will shield them from harm and keep the light upon them.
 
-I stand open and courageous in the face of battle and will be the last of my companions to quit the field, just as the last ray of sun leaves the day.
+**Redeem the Beguiled..** Those tempted into the service of darkness may yet be saved, and I will do everything in my power to bring them back to the light. I will be discerning in offering this mercy, but the redemption of the corrupted is paramount.
 
-##### Preserve the Righteous.
-_Source: Deep Magic_
+**Remain Pure..** I will never yield to the lies of darkness or suffer corruption to take me. I will cleanse myself of dark taint or die before threatening those I defend.
 
-I will defend those who labor and live in fear of shadow. I will shield them from harm and keep the light upon them.
-
-##### Redeem the Beguiled.
-_Source: Deep Magic_
-
-Those tempted into the service of darkness may yet be saved, and I will do everything in my power to bring them back to the light. I will be discerning in offering this mercy, but the redemption of the corrupted is paramount.
-
-##### Remain Pure.
-_Source: Deep Magic_
-
-I will never yield to the lies of darkness or suffer corruption to take me. I will cleanse myself of dark taint or die before threatening those I defend.
-
-#### Oath Spells
-_Source: Deep Magic_
-
-You gain oath spells at the paladin levels listed.
+**Oath Spells.** You gain oath spells at the paladin levels listed.
 
 **Oath of Radiance Spells**
 
@@ -95,10 +74,7 @@ You gain oath spells at the paladin levels listed.
 | 17th | [[/5. Mechanics/Spells/Banishing Smite.md\|banishing smite]], [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] |
 ^oath-of-radiance-spells
 
-#### Channel Divinity
-_Source: Deep Magic_
-
-When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+**Channel Divinity.** When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
 **Dawn's Radiance**. As an action, you present your holy symbol or a melee weapon, and it flares with the radiance of the newly-risen sun. Magical darkness within 20 feet of you is dispelled. Thereafter, the object continues to shine for 1 hour or until you lose possession of it. The object sheds bright light out to 20 feet and dim light 20 feet beyond that.
 

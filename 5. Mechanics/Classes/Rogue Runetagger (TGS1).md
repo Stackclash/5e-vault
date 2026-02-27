@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Runetagger (Level 3)
-
 You concentrate your efforts on perfecting your art, developing special marks to claim and cripple your targets. Rebel leaders, artists, spies, and other members of the political underworld might belong to this archetype. Originally a tactic for subterfuge and assassination for denizens of the Festerwood, those who employ these powerful works of art are famously difficult to pin down. The magical marks left behind become a calling card for any runetagger, and as their strength and notoriety grow from the deeds that they commit (both good and evil), so too does the renown for their art.
+
+## Subclass Features
 
 ### Impressionist (Level 3)
 
@@ -63,20 +61,11 @@ When you choose this archetype at 3rd level, you gain four rune points to fuel v
 
 When you mark a creature with a rune, you can choose to leave one of the following runes:
 
-#### Cryos
-_Source: The Griffon's Saddlebag, Book 1_
+**Cryos.** The creature can't take reactions until the start of your next turn. The rune's magic fades at the start of your next turn.
 
-The creature can't take reactions until the start of your next turn. The rune's magic fades at the start of your next turn.
+**Hexxus.** The creature is cursed with an enervating rune. While a creature is marked with this rune, you can use your reaction to activate it when the marked creature makes an attack roll or ability check, reducing the total of the attack roll or ability check by `dice:1d6|noform|noparens|avg` (`1d6`). You must be within 60 feet and be able to see the creature in order to activate the rune. You can choose to activate the rune after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails. Once the rune has been activated, its magic fades.
 
-#### Hexxus
-_Source: The Griffon's Saddlebag, Book 1_
-
-The creature is cursed with an enervating rune. While a creature is marked with this rune, you can use your reaction to activate it when the marked creature makes an attack roll or ability check, reducing the total of the attack roll or ability check by `dice:1d6|noform|noparens|avg` (`1d6`). You must be within 60 feet and be able to see the creature in order to activate the rune. You can choose to activate the rune after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails. Once the rune has been activated, its magic fades.
-
-#### Locus
-_Source: The Griffon's Saddlebag, Book 1_
-
-The next attack against the marked creature is made with advantage, and if that attack hits, it deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) acid damage. Hit or miss, the rune's magic fades after the next attack is made against the marked creature.
+**Locus.** The next attack against the marked creature is made with advantage, and if that attack hits, it deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) acid damage. Hit or miss, the rune's magic fades after the next attack is made against the marked creature.
 
 ### Escape Artist (Level 9)
 

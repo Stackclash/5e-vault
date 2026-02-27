@@ -43,37 +43,23 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Oath of Legacy (Level 3)
-
 The Oath of Legacy is one of the most selfless of all oaths, one that binds the paladin to a life of service and the fulfillment of others. They are sometimes known as bearers or oath keepers and they make it their mission to continue the legacies of those that came before them. The paladins that uphold this oath often come from ancient orders formed around the legends of ancient heroes, or are created as bulwarks against recurring, undying threats. In short, whenever a defeated evil rears its ugly head again or when a champion falls tragically short in their ordained mission, these paladins are sure to answer the call to action.
 
 As part of their training, paladins that uphold this oath often carry relics or keepsakes with them that remind them of their missions. They impart great power into these objects carry and as part of that, they are often found with the trophies harvested from worthy foes as a means of carrying on their admirable spirit.
+
+## Subclass Features
 
 ### Tenets of Legacy (Level 3)
 
 The tenets of the Oath of Legacy bind a paladin to a life of servitude and tradition.
 
-#### Serve with Humility
-_Source: Hamund's Harvesting Handbook: Volume III_
+**Serve with Humility.** Understand that you serve a story larger than yourself. Your role is to finish someone else's journey, not to start your own.
 
-Understand that you serve a story larger than yourself. Your role is to finish someone else's journey, not to start your own.
+**Continue the Chain.** You are a single link in a long chain of legacy and tradition. It is your duty to make sure that the chain remains unbroken.
 
-#### Continue the Chain
-_Source: Hamund's Harvesting Handbook: Volume III_
+**Honour the Past.** The past contains lessons that must be learned and applied. Honour those that came before you and take their wisdom to heart.
 
-You are a single link in a long chain of legacy and tradition. It is your duty to make sure that the chain remains unbroken.
-
-#### Honour the Past
-_Source: Hamund's Harvesting Handbook: Volume III_
-
-The past contains lessons that must be learned and applied. Honour those that came before you and take their wisdom to heart.
-
-#### Respect the Fallen
-_Source: Hamund's Harvesting Handbook: Volume III_
-
-There is no shame in failure and respect should be given to those that at least tried. This even extends to your foes if they fought with honour and a noble spirit.
+**Respect the Fallen.** There is no shame in failure and respect should be given to those that at least tried. This even extends to your foes if they fought with honour and a noble spirit.
 
 ### Oath Spells (Level 3)
 

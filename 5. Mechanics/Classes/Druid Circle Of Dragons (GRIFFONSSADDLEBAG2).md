@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Circle of Dragons (Level 2)
-
 The Circle of Dragons is an old order of druids steeped in rigid tradition. These honor-bound wardens of nature and draconic heritage are members of a secret society that have influenced governance, war, and culture across the world. High-standing members of this Circle have ties to royal bloodlines that date back generations, a connection that's subtly showcased in royal family crests and insignia.
 
 Druids from this Circle know that dragons, and draconic magic, are as connected to the world as plants or beasts, and utilize that connection to transform into a unique and powerful draconic form all their own.
+
+## Subclass Features
 
 ### Draconic Lore (Level 2)
 
@@ -79,15 +77,9 @@ When you use your dragon shape, you determine what type of dragon to transform i
 
 You can't cast spells while in this form, but gain a different set of actions you can use on each of your turns:
 
-#### Bite
-_Source: The Griffon's Saddlebag, Book 2_
+**Bite.** When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can use your dagger-like teeth to make an unarmed strike. You can use your Wisdom modifier, instead of Strength, for the attack and damage rolls with your bite. If you hit with it, you deal piercing damage equal to `dice:1d12|noform|noparens|avg` (`1d12`) + your Strength or Wisdom modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
-When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, you can use your dagger-like teeth to make an unarmed strike. You can use your Wisdom modifier, instead of Strength, for the attack and damage rolls with your bite. If you hit with it, you deal piercing damage equal to `dice:1d12|noform|noparens|avg` (`1d12`) + your Strength or Wisdom modifier, instead of the bludgeoning damage normal for an unarmed strike.
-
-#### Breath Weapon
-_Source: The Griffon's Saddlebag, Book 2_
-
-You can use an action to exhale a plume of powerful energy from inside of you. Each creature in a 15-foot cone must make a Dexterity saving throw against your spell save DC. A creature takes `dice:2d6|noform|noparens|avg` (`2d6`) damage of your dragon's damage type on a failed save, or half as much on a successful one. Once you use this feature, it can't be used again for 1 minute.
+**Breath Weapon.** You can use an action to exhale a plume of powerful energy from inside of you. Each creature in a 15-foot cone must make a Dexterity saving throw against your spell save DC. A creature takes `dice:2d6|noform|noparens|avg` (`2d6`) damage of your dragon's damage type on a failed save, or half as much on a successful one. Once you use this feature, it can't be used again for 1 minute.
 
 Your breath weapon improves at certain levels. At 6th level, your breath weapon deals `dice:3d6|noform|noparens|avg` (`3d6`) damage and extends in a 20-foot cone. At 10th level, it deals `dice:4d6|noform|noparens|avg` (`4d6`) damage and extends in a 25-foot cone, and at 14th level it deals `dice:5d6|noform|noparens|avg` (`5d6`) damage and extends in a 30-foot cone.
 

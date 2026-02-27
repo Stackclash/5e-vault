@@ -8,7 +8,8 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
 condition: healthy
-images: []
+images:
+  - 4. World Almanac\NPCs\img\lief-lipsiege.webp
 relationships: []
 aliases:
   - Lief Lipsiege

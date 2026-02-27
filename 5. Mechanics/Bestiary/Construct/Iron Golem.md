@@ -13,8 +13,8 @@ tags:
 aliases:
   - Iron Golem
 ---
-# [[5. Mechanics/Bestiary/Construct/Iron Golem.md|Iron Golem]]
-*Source: Monster Manual p. 170, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Construct\Iron Golem.md|Iron Golem]]
+*Source: Monster Manual p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The mightiest of the golems, the iron golem is a massive, towering giant wrought of heavy metal. An iron golem's shape can be worked into any form, though most are fashioned to look like giant suits of armor. Its fist can destroy creatures with a single blow, and its clanging steps shake the earth beneath its feet. Iron golems wield enormous blades to extend their reach, and all can belch clouds of deadly poison.
 
@@ -105,8 +105,6 @@ A golem doesn't require air, food, drink, or sleep.
     "name": "Poison Breath (Recharge 5-6)"
 "source":
   - "MM"
-  - "CoS"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Construct/token/iron-golem.webp"
 ```
 ^statblock

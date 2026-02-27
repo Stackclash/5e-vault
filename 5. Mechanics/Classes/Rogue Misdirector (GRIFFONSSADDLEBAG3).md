@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Misdirector (Level 3)
-
 While many rogues are adept with sleight of hand, you don't stop there. You have developed a natural knack for deception using magic and curious projections of yourself to misdirect and confound those around you. Most rogues who follow this archetype are street magicians, burglars, or theatrical performers, but could just as well be particularly larcenous worshipers of a god of trickery.
+
+## Subclass Features
 
 ### Conjure Projection (Level 3)
 
@@ -75,13 +73,9 @@ You can also use an action to see and hear through a duplicate until the start o
 
 By 13th level, you know how to recognize and manipulate illusions to their fullest. Choose one of the following options.
 
-#### Discerning Trickster
+**Discerning Trickster.** You gain a +5 bonus to Intelligence (Investigation) checks and your passive Wisdom (Perception) score when determining or detecting illusions, respectively. You can cast minor illusion using a bonus action, and your spell save DC when casting minor illusion or major image increases by 2. In addition, your duplicates' AC increases by 2.
 
-You gain a +5 bonus to Intelligence (Investigation) checks and your passive Wisdom (Perception) score when determining or detecting illusions, respectively. You can cast minor illusion using a bonus action, and your spell save DC when casting minor illusion or major image increases by 2. In addition, your duplicates' AC increases by 2.
-
-#### Vigilant Duplicates
-
-A duplicate can use your reaction to make an opportunity attack against a creature that either moves out of its reach or makes an attack against a target other than the duplicate while within 5 feet of it. On a hit, the target takes force damage equal to your rogue level. This attack can benefit from your Sneak Attack, rolling half the number of Sneak Attack dice for your level when it does (rounded up).
+**Vigilant Duplicates.** A duplicate can use your reaction to make an opportunity attack against a creature that either moves out of its reach or makes an attack against a target other than the duplicate while within 5 feet of it. On a hit, the target takes force damage equal to your rogue level. This attack can benefit from your Sneak Attack, rolling half the number of Sneak Attack dice for your level when it does (rounded up).
 
 ### Mirror Position (Level 17)
 

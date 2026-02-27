@@ -7,11 +7,11 @@ aliases:
   - Chapter 6: Night of Blue Fire
 ---
 # Chapter 6: Night of Blue Fire
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 111* 
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/090-06-001-vault-infiltration.webp#center\|"To retrieve the fifth rod piece, the characters must infiltrate Three Moons Vault, a complex teeming with allies of the evil Lord Soth"]]
 
-To find the next piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], the characters must travel to the world of Krynn where the Blue Fire Wardens, a coalition of benevolent lycanthropes, have clashed with the death knight [[/4. World Almanac/NPCs/Lord Soth (DSOTDQ).md\|Lord Soth]] and his minions. By infiltrating a heavily fortified keep, rescuing the Blue Fire Wardens' leader, and unraveling the schemes of the evil mage Teremini Nightsedge, the characters can claim the fifth rod piece.
+To find the next piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]], the characters must travel to the world of Krynn where the Blue Fire Wardens, a coalition of benevolent lycanthropes, have clashed with the death knight Lord Soth and his minions. By infiltrating a heavily fortified keep, rescuing the Blue Fire Wardens' leader, and unraveling the schemes of the evil mage Teremini Nightsedge, the characters can claim the fifth rod piece.
 
 ## Running This Chapter
 
@@ -46,7 +46,7 @@ The libraries in Sigil contain the following useful information about Krynn:
 
 - **Dragons of Krynn.** Dragons have a strong presence on Krynn. Chromatic dragons swear allegiance to the expansionistic Dragon Armies of Queen Takhisis. Unusual dragons such as sapphire dragons and lunar dragons pursue hidden agendas.  
 - **Ruins of the Cataclysm.** A world-shattering event called the Cataclysm swept across Krynn centuries ago. The apocalypse destroyed nations, unleashed monsters, and cast Krynn into a dark age.  
-- **War Torn.** Recently, war has spread across Krynn. Infamous warlords such as the elf mage Feal-Thas and the death knight [[/4. World Almanac/NPCs/Lord Soth (DSOTDQ).md\|Lord Soth]] (see appendix B) have taken up arms in their bids for greater power.  
+- **War Torn.** Recently, war has spread across Krynn. Infamous warlords such as the elf mage Feal-Thas and the death knight Lord Soth (see appendix B) have taken up arms in their bids for greater power.  
 
 ## Arriving on Krynn
 
@@ -411,7 +411,7 @@ If a wraith spots an intruder or is attacked, it uses its action to blow its hor
 
 The silver sphere is a scrying device that allows Teremini to remotely communicate with Lord Soth, who has a similar sphere in his home, Dargaard Keep.
 
-A creature that touches the seemingly solid sphere discovers that it is made from harmless, viscous silver liquid that is cool to the touch. Each time the sphere is touched, Lord Soth hears a faint pinging noise. Soth can respond by standing before his sphere and speaking. When he does, his helmeted face manifests, but it's composed of the sphere's silvery goo. (For more about [[/4. World Almanac/NPCs/Lord Soth (DSOTDQ).md\|Lord Soth]], see appendix B.)
+A creature that touches the seemingly solid sphere discovers that it is made from harmless, viscous silver liquid that is cool to the touch. Each time the sphere is touched, Lord Soth hears a faint pinging noise. Soth can respond by standing before his sphere and speaking. When he does, his helmeted face manifests, but it's composed of the sphere's silvery goo. (For more about Lord Soth, see appendix B.)
 
 Unknown to Teremini, Lord Soth can send a weaker facsimile of himself through this scrying sphere. If the characters respond to Lord Soth's manifested face with anything other than deference, a [[/5. Mechanics/Bestiary/Undead/Death Knight.md\|death knight]] made from the sphere's silvery metal emerges from the sphere. The death knight inflicts punishment in Soth's stead, following his directives but requiring no action on Soth's part. If the death knight is destroyed, the sphere is also destroyed and disappears.
 
@@ -937,7 +937,7 @@ The curtain of crimson moonlight surrounding the Three Moons Vault disappears. A
 
 #### Orinix Arrives
 
-A portal to Lunitari opens where the moondisk once hovered. Orinix, an [[/5. Mechanics/Bestiary/Dragon/Adult Lunar Dragon (BAM).md\|adult lunar dragon]] (see appendix A) flies from this portal and looms over the courtyard. Displeased at Teremini's failure, the dragon attacks everyone in sight, focusing foremost on Teremini.
+A portal to Lunitari opens where the moondisk once hovered. Orinix, an adult lunar dragon (see appendix A) flies from this portal and looms over the courtyard. Displeased at Teremini's failure, the dragon attacks everyone in sight, focusing foremost on Teremini.
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/105-06-007-orinix.webp#center\|Orinix]]
 

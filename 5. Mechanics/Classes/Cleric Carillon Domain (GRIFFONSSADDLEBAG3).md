@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Carillon Domain (Level 1)
-
 Clerics that revere the meditative toll of bells are practitioners of the carillon domain. Typically bellringers, parishioners, or pilgrims, clerics of this domain are equally devoted to all places of worship and interpret deities through the temple bells that sing their praise. They understand the power that bells hold as holy creations responsible for decreeing time, warning the innocent, and mourning the loss of those who pass on. Through bells, these clerics can rally the good and condemn the wicked, all while wordlessly proclaiming their reverence of the divine. While no specific deities are likely to claim ownership of this domain, each is as likely as the next to empower these clerics with their blessing in exchange for their proselytizing and sounding of the bells in their name.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Carillon Domain Spells**
 

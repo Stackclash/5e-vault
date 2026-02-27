@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: null
 size: Small
 tags:
@@ -13,7 +13,7 @@ tags:
 aliases:
   - Booyahg Caster
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Booyahg Caster (VGM).md|Booyahg Caster]]
+# [[5. Mechanics\Bestiary\Humanoid\Booyahg Caster (VGM).md|Booyahg Caster]]
 *Source: Volo's Guide to Monsters p. 42*
 
 This goblin served under a hobgoblin wizard, stole a look at its master's spellbook, and learned a little wizardry by aping the gestures and words it remembered. The goblin can cast a randomly determined 1st-level wizard spell once per day. Intelligence is its spellcasting ability.
@@ -60,8 +60,9 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
       \ per day. Intelligence is its spellcasting ability (spell save DC 10, +2 to\
       \ hit with spell attacks).\n"
     "name": "Spellcasting"
-  - "desc": "The goblin can take the Disengage or Hide action as a bonus action on\
-      \ each of its turns."
+  - "desc": "The goblin can take the [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]]\
+      \ or [[/5. Mechanics/Rules/Actions.md#Hide|Hide]] action as a bonus action on each\
+      \ of its turns."
     "name": "Nimble Escape"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\

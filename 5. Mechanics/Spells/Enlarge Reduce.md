@@ -37,7 +37,7 @@ time: 1 Action
 duration: 'Concentration, up to 1 minute'
 range: 30 feet
 aliases:
-  - Enlarge/Reduce
+  - Enlarge\Reduce
 damage:
   base: 1d4
   scaling:

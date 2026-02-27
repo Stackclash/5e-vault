@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Circle of the Spirits (Level 2)
-
 Some druids tend to more than the land. They also show concern for the health of the spirits of the land. Druids of the Circle of the Spirits build shrines in the Wilderness where they Commune with both these spirits and the souls of the departed.
+
+## Subclass Features
 
 ### Circle Spells (Level 2)
 

@@ -13,8 +13,8 @@ tags:
 aliases:
   - Clay Golem
 ---
-# [[5. Mechanics/Bestiary/Construct/Clay Golem.md|Clay Golem]]
-*Source: Monster Manual p. 168, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Construct\Clay Golem.md|Clay Golem]]
+*Source: Monster Manual p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Sculpted from clay, this bulky golem stands head and shoulders taller than most human-sized creatures. It is human shaped, but its proportions are off.
 
@@ -113,7 +113,6 @@ A golem doesn't require air, food, drink, or sleep.
     "name": "Haste (Recharge 5-6)"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Construct/token/clay-golem.webp"
 ```
 ^statblock

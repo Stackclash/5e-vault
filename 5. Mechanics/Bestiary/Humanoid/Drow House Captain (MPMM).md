@@ -10,11 +10,11 @@ tags:
   - monster/cr/9
   - monster/environment/underdark
   - monster/size/medium
-  - monster/type/humanoid/elf
+  - monster/type/humanoid/drow-elf
 aliases:
   - Drow House Captain
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow House Captain (MPMM).md|Drow House Captain]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow House Captain (MPMM).md|Drow House Captain]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184*
 
 > [!quote] A quote from Tasha  
@@ -29,7 +29,7 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "name": "Drow House Captain (MPMM)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Any alignment"
 "ac": !!int "16"
 "ac_class": "[[/5. Mechanics/Items/Chain Mail.md|chain mail]]"

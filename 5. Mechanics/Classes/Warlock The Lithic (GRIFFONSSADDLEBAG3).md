@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### The Lithic (Level 1)
-
 Your patron has stood the test of time immortalized in stone, steeped in powerful earthen magic over eons. They may be a powerful gargoyle or sphinx, a sentient gemstone, an ancient statue or even the stone itself of an entire subterranean realm. Many dwarves have sung and spoken of these patrons for millenia, often calling it the mountains will or the soul of stone. The motivations and grudges of a being such as this are patient and everlasting, for sooner or later, everything else will surely crumble to dust.
+
+## Subclass Features
 
 ### Expanded Spell List (Level 1)
 

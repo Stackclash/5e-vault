@@ -10,18 +10,18 @@ tags:
   - monster/cr/8
   - monster/environment/underdark
   - monster/size/medium
-  - monster/type/humanoid/elf
+  - monster/type/humanoid/drow-elf
 aliases:
   - Drow Priestess of Lolth (Magic Equipment)
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Priestess Of Lolth Magic Equipment.md|Drow Priestess of Lolth (Magic Equipment)]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Priestess Of Lolth Magic Equipment.md|Drow Priestess of Lolth (Magic Equipment)]]
 *Source: Monster Manual p. 129*
 
 ```statblock
 "name": "Drow Priestess Of Lolth Magic Equipment"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "19"
 "ac_class": "[[/5. Mechanics/Items/Drow 3 Armor (MM).md|+3 scale mail]]"

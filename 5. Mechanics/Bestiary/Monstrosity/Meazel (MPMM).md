@@ -21,7 +21,7 @@ tags:
 aliases:
   - Meazel
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Meazel (MPMM).md|Meazel]]
+# [[5. Mechanics\Bestiary\Monstrosity\Meazel (MPMM).md|Meazel]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 177, Mordenkainen's Tome of Foes p. 214*
 
 Meazels are malicious hermits who fled to the Shadowfell to escape their mortal existence and contemplate their misery. There the shadows transformed them, and their bitterness made them twisted and cruel. Now hate burns in their hearts, and they resent any intrusion into their suffering, waylaying travelers who venture too close to their lairs.
@@ -67,7 +67,7 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
       \ while grappling a creature in this way."
     "name": "Garrote"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage plus 3 (1d6) necrotic damage"
+      \ + 3) piercing damage plus 3 (1d6) necrotic damage."
     "name": "Shortsword"
   - "desc": "The meazel, any equipment it is wearing or carrying, and any creature\
       \ it is grappling teleport to an unoccupied space within 500 feet of it, provided\

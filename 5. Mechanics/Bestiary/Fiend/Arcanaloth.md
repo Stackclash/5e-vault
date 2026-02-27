@@ -13,8 +13,8 @@ tags:
 aliases:
   - Arcanaloth
 ---
-# [[5. Mechanics/Bestiary/Fiend/Arcanaloth.md|Arcanaloth]]
-*Source: Monster Manual p. 313, Curse of Strahd, Tasha's Cauldron of Everything*
+# [[5. Mechanics\Bestiary\Fiend\Arcanaloth.md|Arcanaloth]]
+*Source: Monster Manual p. 313*
 
 Arcanaloths are sly, jackal-headed beings with humanoid bodies, but they can employ magic to take any humanoid form. They do so to gain the trust of creatures with whom they negotiate, replacing jackal snarls with winsome smiles. Regardless of its chosen form, an arcanaloth appears well groomed, clothing itself in fine robes. Highly intelligent spellcasters who hunger for knowledge and power, arcanaloths command units of lesser yugoloths and maintain the contracts, records, and accounts of their kind.
 
@@ -154,8 +154,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     "name": "Teleport"
 "source":
   - "MM"
-  - "CoS"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Fiend/token/arcanaloth.webp"
 ```
 ^statblock

@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Alkemancer (Level 2)
-
 Wizards who combine traditional spellcasting with advanced alchemical practices and concoctions are called alkemancers. They are a mysterious breed sometimes confused with transmuters, with whom they share a complicated rivalry.
+
+## Subclass Features
 
 ### Wizard Specialty (Level 2)
 

@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/dusk-elf
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/patrina-velikovna.webp
+  - 4. World Almanac\NPCs\img\patrina-velikovna.webp
 relationships: []
 aliases:
   - Patrina Velikovna

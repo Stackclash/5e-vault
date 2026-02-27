@@ -12,7 +12,7 @@ tags:
 aliases:
   - Comet Ballista
 one-hand-damage: 1d10 bludgeoning
-range: 100/400
+range: 100\400
 weight: 18
 ---
 # Comet Ballista

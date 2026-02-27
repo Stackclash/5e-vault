@@ -14,8 +14,8 @@ tags:
 aliases:
   - Tarrasque
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Tarrasque.md|Tarrasque]]
-*Source: Monster Manual p. 286, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Monstrosity\Tarrasque.md|Tarrasque]]
+*Source: Monster Manual p. 286. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The legendary tarrasque is possibly the most dreaded monster of the Material Plane. It is widely believed that only one of these creatures exists, though no one can predict where and when it will strike.
 
@@ -126,7 +126,6 @@ Legends tell how the tarrasque slumbers in its secret lair beneath the earth, re
     "name": "Chomp (Costs 2 Actions)"
 "source":
   - "MM"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Monstrosity/token/tarrasque.webp"
 ```
 ^statblock

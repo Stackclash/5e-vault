@@ -7,7 +7,7 @@ aliases:
   - Chapter 3: The Lambent Zenith's Last Voyage
 ---
 # Chapter 3: The Lambent Zenith's Last Voyage
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 57* 
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/046-03-001-the-lambent-zenith.webp#center\|"The spelljamming ship Lambent Zenith was carrying a piece of the rod before the ship crashed in the Astral Sea"]]
 
@@ -98,7 +98,7 @@ Once the star anglers are dispatched, the characters can continue on to the surf
 
 ## Wreck of the Lambent Zenith
 
-With its navy-blue hull and golden gossamer sails, the spelljamming galleon *Lambent Zenith* once cut an elegant silhouette through the Astral Sea's silver clouds. Its captain, the deva Inda Malayuri, was an arcanist and emissary tasked with guiding the lost and bringing peace to tumultuous worlds. During a voyage, Inda uncovered a piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]].
+With its navy-blue hull and golden gossamer sails, the spelljamming galleon *Lambent Zenith* once cut an elegant silhouette through the Astral Sea's silver clouds. Its captain, the deva [[/4. World Almanac/NPCs/Inda Malayuri (VEOR).md\|Inda Malayuri]], was an arcanist and emissary tasked with guiding the lost and bringing peace to tumultuous worlds. During a voyage, Inda uncovered a piece of the [[/5. Mechanics/Items/Rod Of Seven Parts (VEOR).md\|Rod of Seven Parts]].
 
 Using her extensive arcane knowledge, Inda harnessed the magic within the rod piece to augment the *Lambent Zenith*, allowing the ship to travel to the farthest corners of the multiverse in the blink of an eye.
 
@@ -161,7 +161,7 @@ The areas between the segments contain a multitude of hungry astral predators. T
 
 | dice: d10 | Creature |
 |-----------|----------|
-| 1–2 | Two [[/5. Mechanics/Bestiary/Monstrosity/Night Scavver (BAM).md\|night scavvers]] (see appendix A) |
+| 1–2 | Two night scavvers (see appendix A) |
 | 3–4 | One [[/5. Mechanics/Bestiary/Monstrosity/Star Angler (VEOR).md\|star angler]] (see appendix A) |
 | 5–6 | One [[/5. Mechanics/Bestiary/Aberration/Cloaker.md\|cloaker]] |
 | 7–10 | No encounter |
@@ -487,7 +487,7 @@ The mast blocks the entrance to the navigation room (area Z16). The door to the 
 > In this cabin, clothes are tossed over chair backs, and open books are strewn across tables. At the back of the room stands a deva. Her right leg below her knee is a wood-and-metal prosthetic, and from her back extends a massive, white-feathered wing.
 ^17e
 
-The one-winged woman is the captain of the *Lambent Zenith*, Inda Malayuri. Inda uses the [[/5. Mechanics/Bestiary/Celestial/Deva.md\|deva]] stat block, except she has a flying speed of 0 feet.
+The one-winged woman is the captain of the *Lambent Zenith*, [[/4. World Almanac/NPCs/Inda Malayuri (VEOR).md\|Inda Malayuri]]. Inda uses the [[/5. Mechanics/Bestiary/Celestial/Deva.md\|deva]] stat block, except she has a flying speed of 0 feet.
 
 Inda's right leg and wing were severed in an attack years ago. She now uses prosthetics, but her prosthetic wing was damaged in the crash. She has been trying to repair it in the navigation room (area Z16). She is determined to escape the wreck and reunite with whatever remains of her crew, though she worries the rod piece will be stolen by raiders if she leaves.
 

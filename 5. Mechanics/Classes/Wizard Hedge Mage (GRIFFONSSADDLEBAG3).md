@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Hedge Mage (Level 2)
-
 Hedge mages, sometimes called hedge witches, are curious wizards typically hidden on the outskirts of villages or strange forests. These wizards practice natural magic, not unlike a druid or ranger, but do so through rigorous study of botany and herbology. By using this knowledge, hedge mages can create masterful spells and valuable elixirs using the natural world around them.
+
+## Subclass Features
 
 ### Nature Savant (Level 2)
 

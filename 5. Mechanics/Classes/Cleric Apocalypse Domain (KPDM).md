@@ -44,14 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Apocalypse Domain (Level 1)
-
 Gods with the Apocalypse domain promote fear, judgment, punishment, and the end of all things.
 
-#### Divine Domain Option
-_Source: Deep Magic_
+## Subclass Features
+
+### Divine Domain Option (Level 1)
 
 Their priesthoods often consider themselves the messengers of that doom, and they work to spread word of the coming end. Their gloomy, often frightening message makes them unwelcome in many, but not all, civilized places.
 

@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Circle of the Grove (Level 2)
-
 Druids of the Circle of the Grove spend weeks alone in forest glades in silent meditation. They find peace and wisdom in the stillness of the woods, and in time learn how to become a part of them themselves. Ancient rings of trees are sometimes archdruids themselves, transformed into trees in endless meditation. Dryads and half-dryads that become practicing druids are often members of this Circle.
+
+## Subclass Features
 
 ### Circle Spells (Level 2)
 

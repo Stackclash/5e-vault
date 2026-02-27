@@ -14,8 +14,8 @@ tags:
 aliases:
   - Nothic
 ---
-# [[5. Mechanics/Bestiary/Aberration/Nothic.md|Nothic]]
-*Source: Monster Manual p. 236, Curse of Strahd, Vecna: Eve of Ruin. Available in the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Aberration\Nothic.md|Nothic]]
+*Source: Monster Manual p. 236. Available in the Basic Rules (2014)*
 
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
 
@@ -84,8 +84,6 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
     "name": "Weird Insight"
 "source":
   - "MM"
-  - "CoS"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Aberration/token/nothic.webp"
 ```
 ^statblock

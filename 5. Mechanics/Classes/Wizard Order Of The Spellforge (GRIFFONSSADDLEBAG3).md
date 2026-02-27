@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Order of the Spellforge (Level 2)
-
 Wizards who have studied the bonds between metal and magic may belong to the Order of the Spellforge, a group long lauded as the creators of famed dancing swords. These spellcasters are no strangers to the crucibles of war, having studied book and blade in equal part, and call upon the aid of their own metallic familiars as steadfast companions. Eschewing dusty libraries for the flames of forges and battle, wizards of this tradition wield both sword and scepter to create an unassailable pairing of might and magic.
+
+## Subclass Features
 
 ### War Machinist (Level 2)
 

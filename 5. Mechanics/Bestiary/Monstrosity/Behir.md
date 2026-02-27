@@ -14,8 +14,8 @@ tags:
 aliases:
   - Behir
 ---
-# [[5. Mechanics/Bestiary/Monstrosity/Behir.md|Behir]]
-*Source: Monster Manual p. 25, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Monstrosity\Behir.md|Behir]]
+*Source: Monster Manual p. 25. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 The serpentine behir crawls along floors and clambers up walls to reach its prey. Its lightning breath can incinerate most creatures, even as more powerful foes are constricted in its coils and eaten alive.
 
@@ -100,7 +100,6 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
     "name": "Swallow"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Monstrosity/token/behir.webp"
 ```
 ^statblock

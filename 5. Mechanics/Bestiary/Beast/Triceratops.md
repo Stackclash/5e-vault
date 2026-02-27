@@ -14,7 +14,7 @@ tags:
 aliases:
   - Triceratops
 ---
-# [[5. Mechanics/Bestiary/Beast/Triceratops.md|Triceratops]]
+# [[5. Mechanics\Bestiary\Beast\Triceratops.md|Triceratops]]
 *Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 One of the most aggressive of the herbivorous dinosaurs, a triceratops has a skull that flares out to form a protective plate of bone. With its great horns and formidable speed, a triceratops gores and tramples would-be predators to death.
@@ -58,7 +58,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
       \ (4d8 + 6) piercing damage."
     "name": "Gore"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one [[/5. Mechanics/Rules/Conditions.md#Prone|prone]]\
-      \ creature. *Hit:* 22 (3d10 + 6) bludgeoning damage"
+      \ creature. *Hit:* 22 (3d10 + 6) bludgeoning damage."
     "name": "Stomp"
 "source":
   - "MM"

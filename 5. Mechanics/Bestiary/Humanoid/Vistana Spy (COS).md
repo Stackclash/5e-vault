@@ -13,7 +13,7 @@ tags:
 aliases:
   - Vistana Spy
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Vistana Spy (COS).md|Vistana Spy]]
+# [[5. Mechanics\Bestiary\Humanoid\Vistana Spy (COS).md|Vistana Spy]]
 *Source: Curse of Strahd p. 28*
 
 ```statblock
@@ -56,8 +56,9 @@ aliases:
 "languages": "any two languages"
 "cr": "1"
 "traits":
-  - "desc": "On each of its turns, the spy can use a bonus action to take the Dash,\
-      \ Disengage, or Hide action."
+  - "desc": "On each of its turns, the spy can use a bonus action to take the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]],\
+      \ [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]], or [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
+      \ action."
     "name": "Cunning Action"
   - "desc": "The spy deals an extra 7 (2d6) damage when it hits a target with a weapon\
       \ attack and has advantage on the attack roll, or when the target is within\

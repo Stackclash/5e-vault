@@ -13,7 +13,7 @@ aliases:
 weight: 2
 ---
 # Instrument of the Bards, Cli Lyre
-*Wondrous item, instrument, major, rare (requires attunement by a bard)*  
+*Wondrous item, instrument ([[/5. Mechanics/Items/Lyre.md\|lyre]]), major, rare (requires attunement by a bard)*  
 ![[/5. Mechanics/Items/img/instrument-of-the-bards-cli-lyre.webp#right]]  
 
 - **Weight**: 2.0 lbs.

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/4
+cr: 1\4
 environments: underdark
 size: Medium
 tags:
@@ -10,11 +10,11 @@ tags:
   - monster/cr/1-4
   - monster/environment/underdark
   - monster/size/medium
-  - monster/type/humanoid/elf
+  - monster/type/humanoid/drow-elf
 aliases:
   - Drow
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow.md|Drow]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow.md|Drow]]
 *Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ## Drow
@@ -75,7 +75,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "name": "Drow"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
 "ac_class": "[[/5. Mechanics/Items/Chain Shirt.md|chain shirt]]"

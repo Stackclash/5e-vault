@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Fey Trapper (Level 3)
-
 The trappers of the fey courts are legendary to any mortal that shares that profession. Trained in methods as old as the courts themselves, these trappers utilise indomitable physical prowess, uncanny survival skills, and ancient nature magic to get the job done. They venture out into the dangerous Feywild and return laden with rare meats and exotic pelts for the capricious fey lords and ladies that employ them. Some of these rangers have taught their skills to outsiders, but all of them specialise in cornering their quarries, and then taking them down in one swift, clean blow.
+
+## Subclass Features
 
 ### Fey Trapper Magic (Level 3)
 

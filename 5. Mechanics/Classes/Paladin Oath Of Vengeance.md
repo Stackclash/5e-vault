@@ -43,31 +43,21 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Oath of Vengeance (Level 3)
-
 The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins—sometimes called avengers or dark knights—their own purity is not as important as delivering justice.
+
+## Subclass Features
 
 ### Tenets of Vengeance (Level 3)
 
 The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.
 
-#### Fight the Greater Evil
+**Fight the Greater Evil.** Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
 
-Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
+**No Mercy for the Wicked.** Ordinary foes might win my mercy, but my sworn enemies do not.
 
-#### No Mercy for the Wicked
+**By Any Means Necessary.** My qualms can't get in the way of exterminating my foes.
 
-Ordinary foes might win my mercy, but my sworn enemies do not.
-
-#### By Any Means Necessary
-
-My qualms can't get in the way of exterminating my foes.
-
-#### Restitution
-
-If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.
+**Restitution.** If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.
 
 ### Oath Spells (Level 3)
 

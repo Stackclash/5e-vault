@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1/8
+cr: 1\8
 environments: coastal
 size: Medium
 tags:
@@ -14,8 +14,8 @@ tags:
 aliases:
   - Giant Crab
 ---
-# [[5. Mechanics/Bestiary/Beast/Giant Crab.md|Giant Crab]]
-*Source: Monster Manual p. 324, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Beast\Giant Crab.md|Giant Crab]]
+*Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 ```statblock
 "name": "Giant Crab"
@@ -53,7 +53,6 @@ aliases:
     "name": "Claw"
 "source":
   - "MM"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Beast/token/giant-crab.webp"
 ```
 ^statblock

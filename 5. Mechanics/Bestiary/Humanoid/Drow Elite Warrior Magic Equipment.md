@@ -10,18 +10,18 @@ tags:
   - monster/cr/5
   - monster/environment/underdark
   - monster/size/medium
-  - monster/type/humanoid/elf
+  - monster/type/humanoid/drow-elf
 aliases:
   - Drow Elite Warrior (Magic Equipment)
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Elite Warrior Magic Equipment.md|Drow Elite Warrior (Magic Equipment)]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Elite Warrior Magic Equipment.md|Drow Elite Warrior (Magic Equipment)]]
 *Source: Monster Manual p. 128*
 
 ```statblock
 "name": "Drow Elite Warrior Magic Equipment"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "20"
 "ac_class": "[[/5. Mechanics/Items/Drow 2 Armor (MM).md|+2 studded leather armor]], [[/5. Mechanics/Items/Shield.md|shield]]"

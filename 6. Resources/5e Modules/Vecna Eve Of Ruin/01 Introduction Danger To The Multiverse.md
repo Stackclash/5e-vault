@@ -7,7 +7,7 @@ aliases:
   - Introduction: Danger to the Multiverse
 ---
 # Introduction: Danger to the Multiverse
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 5* 
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/000-00-001-vecna-vs-kas.webp#center\|"The characters are destined to become embroiled in the legendary hatred between the lich-god Vecna and the warlord Kas"]]
 
@@ -281,7 +281,7 @@ The Stat Blocks by Challenge Rating table sorts the creatures in this book by ch
 | CR | Stat Block | Creature Type | Chapter |
 |----|------------|---------------|---------|
 | 1 | [[/5. Mechanics/Bestiary/Construct/Warforged Warrior (VEOR).md\|Warforged warrior]] | Construct | A |
-| 5 | [[/5. Mechanics/Bestiary/Monstrosity/Night Scavver (BAM).md\|Night scavver]] | Monstrosity | A |
+| 5 | Night scavver | Monstrosity | A |
 | 5 | [[/5. Mechanics/Bestiary/Fiend/Kakkuu Spyder Fiend (VEOR).md\|Kakkuu spyder-fiend]] | Fiend | A |
 | 6 | [[/5. Mechanics/Bestiary/Undead/Black Rose Bearer (VEOR).md\|Black rose bearer]] | Undead | A |
 | 6 | [[/5. Mechanics/Bestiary/Construct/Moonlight Guardian (VEOR).md\|Moonlight guardian]] | Construct | A |
@@ -295,7 +295,7 @@ The Stat Blocks by Challenge Rating table sorts the creatures in this book by ch
 | 9 | [[/5. Mechanics/Bestiary/Construct/Blade Lieutenant (VEOR).md\|Blade lieutenant]] | Construct | A |
 | 9 | [[/5. Mechanics/Bestiary/Monstrosity/Lonely Sorrowsworn (MPMM).md\|Lonely sorrowsworn]] | Monstrosity | A |
 | 9 | [[/5. Mechanics/Bestiary/Humanoid/Necromancer Wizard (MPMM).md\|Necromancer wizard]] | Humanoid | A |
-| 10 | [[/5. Mechanics/Bestiary/Aberration/Eye Monger (BAM).md\|Eye monger]] | Aberration | A |
+| 10 | Eye monger | Aberration | A |
 | 10 | [[/5. Mechanics/Bestiary/Undead/Mirror Shade (VEOR).md\|Mirror shade]] | Undead | A |
 | 11 | [[/5. Mechanics/Bestiary/Fiend/Degloth (VEOR).md\|Degloth]] | Fiend | A |
 | 11 | [[/4. World Almanac/NPCs/Glaive (VEOR).md\|Glaive]] | Humanoid | 4 |
@@ -304,7 +304,7 @@ The Stat Blocks by Challenge Rating table sorts the creatures in this book by ch
 | 12 | [[/5. Mechanics/Bestiary/Monstrosity/Blazebear (VEOR).md\|Blazebear]] | Monstrosity | A |
 | 12 | [[/5. Mechanics/Bestiary/Construct/Granite Juggernaut (VEOR).md\|Granite juggernaut]] | Construct | A |
 | 13 | [[/5. Mechanics/Bestiary/Fey/Deadbark Dryad (VEOR).md\|Deadbark dryad]] | Fey | A |
-| 13 | [[/5. Mechanics/Bestiary/Dragon/Adult Lunar Dragon (BAM).md\|Adult lunar dragon]] | Dragon | A |
+| 13 | Adult lunar dragon | Dragon | A |
 | 13 | [[/5. Mechanics/Bestiary/Fiend/Phisarazu Spyder Fiend (VEOR).md\|Phisarazu spyder-fiend]] | Fiend | A |
 | 14 | [[/5. Mechanics/Bestiary/Construct/Cadaver Collector (MPMM).md\|Cadaver collector]] | Construct | A |
 | 14 | [[/5. Mechanics/Bestiary/Fiend/Hazvongel (VEOR).md\|Hazvongel]] | Fiend | A |
@@ -317,10 +317,10 @@ The Stat Blocks by Challenge Rating table sorts the creatures in this book by ch
 | 17 | [[/5. Mechanics/Bestiary/Monstrosity/Hertilod (VEOR).md\|Hertilod]] | Monstrosity | A |
 | 17 | [[/5. Mechanics/Bestiary/Fiend/Quavilithku Spyder Fiend (VEOR).md\|Quavilithku spyder-fiend]] | Fiend | A |
 | 18 | [[/5. Mechanics/Bestiary/Monstrosity/Citadel Spider (VEOR).md\|Citadel spider]] | Monstrosity | A |
-| 18 | [[/5. Mechanics/Bestiary/Aberration/Cosmic Horror (BAM).md\|Cosmic horror]] | Aberration | A |
+| 18 | Cosmic horror | Aberration | A |
 | 19 | [[/5. Mechanics/Bestiary/Fiend/Red Abishai (MPMM).md\|Red abishai]] | Fiend | A |
 | 19 | [[/5. Mechanics/Bestiary/Fiend/Raklupis Spyder Fiend (VEOR).md\|Raklupis spyder-fiend]] | Fiend | A |
-| 19 | [[/4. World Almanac/NPCs/Lord Soth (DSOTDQ).md\|Lord Soth]] | Undead | B |
+| 19 | Lord Soth | Undead | B |
 | 19 | [[/4. World Almanac/NPCs/Tasha The Witch (VEOR).md\|Tasha the Witch]] | Humanoid | B |
 | 21 | [[/5. Mechanics/Bestiary/Monstrosity/Astral Dreadnought (MPMM).md\|Astral dreadnought]] | Monstrosity | A |
 | 21 | [[/5. Mechanics/Bestiary/Undead/False Lich (VEOR).md\|False lich]] | Undead | A |

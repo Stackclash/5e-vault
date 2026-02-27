@@ -13,8 +13,8 @@ tags:
 aliases:
   - Frog
 ---
-# [[5. Mechanics/Bestiary/Beast/Frog.md|Frog]]
-*Source: Monster Manual p. 322, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Beast\Frog.md|Frog]]
+*Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a toad.
 
@@ -52,7 +52,6 @@ A frog has no effective attacks. It feeds on small insects and typically dwells 
     "name": "Standing Leap"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Beast/token/frog.webp"
 ```
 ^statblock

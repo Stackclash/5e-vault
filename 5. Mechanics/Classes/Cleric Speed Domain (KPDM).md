@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Speed Domain (Level 1)
-
 In speed and skill there is power, and your faith gives you incredible quickness and agility. Eventually you become the master of time itself.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Speed Domain Spells**
 

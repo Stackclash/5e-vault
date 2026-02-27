@@ -43,16 +43,13 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### The Undead (Level 1)
-
 You've made a pact with a deathless being, a creature that defies the cycle and life and death, forsaking its mortal shell so it might eternally pursue its unfathomable ambitions. For such beings, time and morality are fleeting things, the concerns of those for whom grains of sand still rush through life's hourglass. Having once been mortal themselves, these ancient undead know firsthand the paths of ambition and the routes past the doors of death. They eagerly share this profane knowledge, along with other secrets, with those who work their will among the living.
 
 Beings of this type include the demilich Acererak, the vampire tyrant Kas the Bloody-Handed, the githyanki lich-queen Vlaakith, the dracolich Dragotha, the undead pharaoh Ankhtepot, and the elusive Darklord, Azalin Rex.
 
-#### Expanded Spell List
-_Source: Van Richten's Guide to Ravenloft_
+## Subclass Features
+
+### Expanded Spell List (Level 1)
 
 *1st-level Undead feature*
 

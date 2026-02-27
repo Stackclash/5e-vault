@@ -47,13 +47,11 @@ aliases:
 > 
 > What's a swashbuckler? Do you swash buckles or buckle swashes? You can't tell me you don't think that word is funny.
 
-## Class Features
-
-### Swashbuckler (Level 3)
-
 You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype.
 
 A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.
+
+## Subclass Features
 
 ### Fancy Footwork (Level 3)
 

@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Desert Soul (Level 1)
-
 Your power comes from the relentless and punishing magic that lies at the heart of the world's most unforgiving deserts. Most sorcerers with this power were born to nomads or traveling pilgrims in the H'rethi desert, but perhaps yours came to you in the chaos of a raging sandstorm or the springs of a magical oasis. Regardless of its origin, this blistering magic spirals around inside of you in an ever-present storm that can reduce even the sturdiest enemies to rubble.
+
+## Subclass Features
 
 ### Dunetreader (Level 1)
 

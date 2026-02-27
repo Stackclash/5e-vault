@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Darkness Domain (Level 1)
-
 Darkness enshrouds our private affairs and shelters our secrets. The shadows may protect the hunted from the hunter or conceal danger. Emissaries of the gods who claim dominion over the darkness may provide protection for those in need or aid those who hunt in the night, if they are not themselves the hunters.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Darkness Domain Spells**
 

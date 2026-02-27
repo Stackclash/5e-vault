@@ -7,7 +7,7 @@ aliases:
   - Appendix A: Bestiary
 ---
 # Appendix A: Bestiary
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 204* 
 
 This appendix describes creatures that appear in the adventure, presenting them in alphabetical order. The "introduction" of the "Monster Manual" explains how to read a creature's stat block.
 
@@ -23,21 +23,21 @@ This appendix describes creatures that appear in the adventure, presenting them 
 - [[/5. Mechanics/Bestiary/Monstrosity/Borthak (VEOR).md|Borthak]]  
 - [[/5. Mechanics/Bestiary/Construct/Cadaver Collector (MPMM).md|Cadaver Collector]]  
 - [[/5. Mechanics/Bestiary/Monstrosity/Citadel Spider (VEOR).md|Citadel Spider]]  
-- [[/5. Mechanics/Bestiary/Aberration/Cosmic Horror (BAM).md|Cosmic Horror]]  
+- Cosmic Horror  
 - [[/5. Mechanics/Bestiary/Fey/Deadbark Dryad (VEOR).md|Deadbark Dryad]]  
 - [[/5. Mechanics/Bestiary/Undead/Deathwolf (VEOR).md|Deathwolf]]  
 - [[/5. Mechanics/Bestiary/Fiend/Degloth (VEOR).md|Degloth]]  
-- [[/5. Mechanics/Bestiary/Aberration/Eye Monger (BAM).md|Eye Monger]]  
+- Eye Monger  
 - [[/5. Mechanics/Bestiary/Undead/False Lich (VEOR).md|False Lich]]  
 - [[/5. Mechanics/Bestiary/Construct/Granite Juggernaut (VEOR).md|Granite Juggernaut]]  
 - [[/5. Mechanics/Bestiary/Fiend/Hazvongel (VEOR).md|Hazvongel]]  
 - [[/5. Mechanics/Bestiary/Monstrosity/Hertilod (VEOR).md|Hertilod]]  
 - [[/5. Mechanics/Bestiary/Humanoid/Inquisitor Of The Tome (VRGR).md|Inquisitor of the Tome]]  
-- [[/5. Mechanics/Bestiary/Dragon/Adult Lunar Dragon (BAM).md|Adult Lunar Dragon]]  
+- Adult Lunar Dragon  
 - [[/5. Mechanics/Bestiary/Undead/Mirror Shade (VEOR).md|Mirror Shade]]  
 - [[/5. Mechanics/Bestiary/Construct/Moonlight Guardian (VEOR).md|Moonlight Guardian]]  
 - [[/5. Mechanics/Bestiary/Humanoid/Necromancer Wizard (MPMM).md|Necromancer Wizard]]  
-- [[/5. Mechanics/Bestiary/Monstrosity/Night Scavver (BAM).md|Night Scavver]]  
+- Night Scavver  
 - [[/5. Mechanics/Bestiary/Humanoid/Priest Of Osybus (VRGR).md|Priest of Osybus]]  
 - [[/5. Mechanics/Bestiary/Fiend/Relentless Impaler (VEOR).md|Relentless Impaler]]  
 - [[/5. Mechanics/Bestiary/Monstrosity/Lonely Sorrowsworn (MPMM).md|Lonely Sorrowsworn]]  

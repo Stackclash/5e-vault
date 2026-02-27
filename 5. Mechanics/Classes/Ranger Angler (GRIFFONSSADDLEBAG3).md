@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Angler (Level 3)
-
 Anglers are rangers that revel in maritime battles of attrition and grit. While anyone can be a fisher, an Angler uses the lessons they have learned on the water as a basis for how they hunt across the multiverse.
+
+## Subclass Features
 
 ### Angler Magic (Level 3)
 

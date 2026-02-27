@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Beer Domain (Level 1)
-
 The heady brew of fortitude, courage, and companionship is your nectar, and you share its blessings with those who need it.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Beer Domain Spells**
 

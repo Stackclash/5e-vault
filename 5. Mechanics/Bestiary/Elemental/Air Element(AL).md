@@ -15,8 +15,8 @@ tags:
 aliases:
   - Air Elemental
 ---
-# [[5. Mechanics/Bestiary/Elemental/Air Element(AL).md|Air Elemental]]
-*Source: Monster Manual p. 124, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Elemental\Air Element(AL).md|Air Elemental]]
+*Source: Monster Manual p. 124. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
 
@@ -94,8 +94,6 @@ An elemental doesn't require air, food, drink, or sleep.
     "name": "Whirlwind (Recharge 4-6)"
 "source":
   - "MM"
-  - "TCE"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Elemental/token/air-elemental.webp"
 ```
 ^statblock

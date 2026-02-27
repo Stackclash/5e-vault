@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### The Many (Level 1)
-
 Your patron is a powerful entity composed of a multitude of heads. These heads provide unique strengths, such as the regenerative properties of a mighty hydra, or the bewitching gaze of a medusa. Your patron may consider you one of its estranged or forgotten heads, allowing you to do as you please, or compel you to work toward a shared goal as one of its own. Those that make a pact with a patron such as this may find beauty in patterns or matching sets, or become plagued with internal bickering and indecisiveness. Regardless, one thing is for certain: two heads are always better than one.
 
 Entities of this type include extremely powerful or godlike multi-headed or -conscioused beings, swarms, or hiveminds. Example patrons in this book include the Butcher Dray, Three-Headed Ettin; Grihoo, the Superhydra; Lady Feluciana, Legendary Medusa Sorceress; the Thousand Voices, Supreme Soul Vortex; and Vaanor, Primeval Cerberus. Details on these patrons can be found in appendix I on page 378.
+
+## Subclass Features
 
 ### Expanded Spell List (Level 1)
 

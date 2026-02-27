@@ -11,7 +11,7 @@ tags:
 aliases:
   - Automatic Pistol
 one-hand-damage: 2d6 piercing
-range: 50/150
+range: 50\150
 weight: 3
 ---
 # Automatic Pistol

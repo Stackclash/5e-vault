@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Boreal Bloodline (Level 1)
-
 Your innate magic comes from the power of divine or magical entities of winter, beings born to the ice and cold.
+
+## Subclass Features
 
 ### Sorcerous Origin (Level 1)
 

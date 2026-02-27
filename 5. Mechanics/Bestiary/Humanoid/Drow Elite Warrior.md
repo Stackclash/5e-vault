@@ -10,11 +10,11 @@ tags:
   - monster/cr/5
   - monster/environment/underdark
   - monster/size/medium
-  - monster/type/humanoid/elf
+  - monster/type/humanoid/drow-elf
 aliases:
   - Drow Elite Warrior
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Drow Elite Warrior.md|Drow Elite Warrior]]
+# [[5. Mechanics\Bestiary\Humanoid\Drow Elite Warrior.md|Drow Elite Warrior]]
 *Source: Monster Manual p. 128*
 
 ## Drow
@@ -75,7 +75,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "name": "Drow Elite Warrior"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "18"
 "ac_class": "[[/5. Mechanics/Items/Studded Leather Armor.md|studded leather]], [[/5. Mechanics/Items/Shield.md|shield]]"

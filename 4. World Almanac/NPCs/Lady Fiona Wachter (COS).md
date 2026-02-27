@@ -8,7 +8,8 @@ tags:
   - monster/size/medium
   - monster/type/humanoid/human
 condition: healthy
-images: []
+images:
+  - 4. World Almanac\NPCs\img\060-cos05-11.webp
 relationships: []
 aliases:
   - Lady Fiona Wachter

@@ -43,57 +43,33 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Oath of the Annihilator (Level 3)
-
 The oath of the annihilator is as ancient as the darkness between stars.
 
-#### Paladin Option
-_Source: Deep Magic_
+## Subclass Features
+
+### Paladin Option (Level 3)
 
 These paladins—sometimes called antipaladins, dark paladins, or death knights—represent the antithesis of the ideal paladin. Paladins who take this oath see themselves as divine Instruments of reckoning and foretellers of armageddon. Despite their extreme viewpoint and often brutal behavior, they still conduct themselves honorably and expect to be treated with respect.
 
 Many who swear this oath are devoted to gods of destruction, chaos, and war.
 
-#### Tenets of the Annihilator
-_Source: Deep Magic_
+**Tenets of the Annihilator.** The principles of the oath of the annihilator are simple. They emphasize the value of Strength above all else.
 
-The principles of the oath of the annihilator are simple. They emphasize the value of Strength above all else.
+**Extinguish the Weak..** An enemy who lacks the strength to prevail in combat must be ushered into the embrace of death.
 
-##### Extinguish the Weak.
-_Source: Deep Magic_
+**Maintain the Balance..** For life to flourish, there must be destruction. The strong endure, the weak succumb.
 
-An enemy who lacks the strength to prevail in combat must be ushered into the embrace of death.
+**Revel in Destruction..** All things end, especially life. Everyone has only a limited time to experience mortal delights, the greatest of which are combat and strife.
 
-##### Maintain the Balance.
-_Source: Deep Magic_
-
-For life to flourish, there must be destruction. The strong endure, the weak succumb.
-
-##### Revel in Destruction.
-_Source: Deep Magic_
-
-All things end, especially life. Everyone has only a limited time to experience mortal delights, the greatest of which are combat and strife.
-
-##### Embrace the End.
-_Source: Deep Magic_
-
-Death should not be feared. Since it comes for everyone, best be prepared for it at any time.
+**Embrace the End..** Death should not be feared. Since it comes for everyone, best be prepared for it at any time.
 
 ### Channel Divinity (Level 3)
 
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-#### Vow of Ruin
-_Source: Deep Magic_
+**Vow of Ruin.** As a bonus action, you can utter a vow of ruination using your Channel Divinity. For 1 minute thereafter, successful attacks you make against objects and constructs are treated as critical hits. If your weapon isn't a magic weapon, it becomes a magic weapon with a +1 bonus to attack rolls and damage rolls for the duration of this effect.
 
-As a bonus action, you can utter a vow of ruination using your Channel Divinity. For 1 minute thereafter, successful attacks you make against objects and constructs are treated as critical hits. If your weapon isn't a magic weapon, it becomes a magic weapon with a +1 bonus to attack rolls and damage rolls for the duration of this effect.
-
-#### Wither Foe
-_Source: Deep Magic_
-
-As an action, you can present your holy symbol and speak a prayer of damnation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Charisma saving throw. On a failed save, it takes necrotic damage equal to your Charisma modifier + your Paladin level, and it has disadvantage on saving throws for 1 minute or until it's reduced to 0 hit points.
+**Wither Foe.** As an action, you can present your holy symbol and speak a prayer of damnation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Charisma saving throw. On a failed save, it takes necrotic damage equal to your Charisma modifier + your Paladin level, and it has disadvantage on saving throws for 1 minute or until it's reduced to 0 hit points.
 
 ### Oath Spells (Level 3)
 

@@ -13,8 +13,8 @@ tags:
 aliases:
   - Vrock
 ---
-# [[5. Mechanics/Bestiary/Fiend/Vrock.md|Vrock]]
-*Source: Monster Manual p. 64, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Fiend\Vrock.md|Vrock]]
+*Source: Monster Manual p. 64. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Vrocks are dull-witted, capricious fiends that live only to create pain and carnage. A vrock resembles a giant hybrid of humanoid and vulture, its gnarled, bestial body and broad wings stinking of offal.
 
@@ -249,9 +249,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Stunning Screech (1/Day)"
 "source":
   - "MM"
-  - "CoS"
-  - "TCE"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Fiend/token/vrock.webp"
 ```
 ^statblock

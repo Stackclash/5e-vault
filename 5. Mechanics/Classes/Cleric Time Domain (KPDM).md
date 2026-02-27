@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Time Domain (Level 1)
-
 Most spellcasters and sages agree that significant alterations to time are undesirable, but they disagree strongly on what constitutes a significant alteration. As might be expected, those of Good alignment typically try to protect time from those who seek to make significant changes or bend time to their will, while those of Evil alignment try to change what's passed for their own selfish purposes.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Time Domain Spells**
 

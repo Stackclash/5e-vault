@@ -16,8 +16,8 @@ tags:
 aliases:
   - Werewolf
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Werewolf.md|Werewolf]]
-*Source: Monster Manual p. 211, Curse of Strahd, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+# [[5. Mechanics\Bestiary\Humanoid\Werewolf.md|Werewolf]]
+*Source: Monster Manual p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
 
 A werewolf is a savage predator. In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far-a furred and well-muscled humanoid body topped by a ravening wolf's head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
 
@@ -117,8 +117,6 @@ Some individuals see little point in fighting the curse and accept what they are
     "name": "Spear (Humanoid Form Only)"
 "source":
   - "MM"
-  - "CoS"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Humanoid/token/werewolf.webp"
 ```
 ^statblock

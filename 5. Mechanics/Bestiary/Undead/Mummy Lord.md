@@ -14,8 +14,8 @@ tags:
 aliases:
   - Mummy Lord
 ---
-# [[5. Mechanics/Bestiary/Undead/Mummy Lord.md|Mummy Lord]]
-*Source: Monster Manual p. 229, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Undead\Mummy Lord.md|Mummy Lord]]
+*Source: Monster Manual p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
 
@@ -211,7 +211,6 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
     "name": "Whirlwind of Sand (Costs 2 Actions)"
 "source":
   - "MM"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Undead/token/mummy-lord.webp"
 ```
 ^statblock

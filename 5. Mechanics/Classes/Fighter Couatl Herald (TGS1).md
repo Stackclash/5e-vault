@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Couatl Herald (Level 3)
-
 The Couatl Heralds were, or are, martial warriors whose intention was to neutralize threats without always resorting to deadly force. These combatants were a beloved symbol of peace in the once great city of Hearth, whose terrible destruction has been all but entirely lost to history. Perhaps you come from a long line of sequestered heralds who had escaped the city before its collapse, or maybe you found the age-old journals of one of the city's training officers. Regardless of how you come across this knowledge, training, and virtue, a true Couatl Herald defends the lives of all: regardless of their transgressions.
+
+## Subclass Features
 
 ### Agent of Mercy (Level 3)
 

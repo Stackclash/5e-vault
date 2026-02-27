@@ -12,7 +12,7 @@ tags:
 aliases:
   - Thunderous Flail
 one-hand-damage: 1d8 bludgeoning
-range: 20/60
+range: 20\60
 weight: 2
 ---
 # Thunderous Flail

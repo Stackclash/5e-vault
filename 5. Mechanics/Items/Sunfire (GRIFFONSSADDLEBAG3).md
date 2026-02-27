@@ -12,7 +12,7 @@ tags:
 aliases:
   - Sunfire
 one-hand-damage: 2d8 radiant
-range: 100/400
+range: 100\400
 weight: 3
 ---
 # Sunfire

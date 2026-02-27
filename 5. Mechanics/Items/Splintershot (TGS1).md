@@ -11,7 +11,7 @@ tags:
 aliases:
   - Splintershot
 one-hand-damage: 1d6 thunder
-range: 80/320
+range: 80\320
 weight: 2
 ---
 # Splintershot

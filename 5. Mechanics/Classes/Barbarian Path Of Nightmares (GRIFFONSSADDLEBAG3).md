@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Path of Nightmares (Level 3)
-
 Barbarians of the Path of Nightmares believe that battles are fought by both flesh and mind, preying upon their enemies fears to gain the upper hand. Using a mixture of might and magic, these terrifying warriors embody their own worst nightmares to render their foes speechless and move unseen throughout the world.
+
+## Subclass Features
 
 ### Fearmonger (Level 3)
 
@@ -67,9 +65,7 @@ Starting when you choose this path at 3rd level, you harness your own fears to e
 | 8 | Your tongue grows long and forked, and your eyes turn yellow with slitted pupils. |
 ^1-illusion
 
-#### Saving Throws
-
-Some of your features for this path use a special save DC, called your Nightmare save DC. The saving throw DC is calculated as follows:
+**Saving Throws.** Some of your features for this path use a special save DC, called your Nightmare save DC. The saving throw DC is calculated as follows:
 
 <span class='abilityDc'>**Nightmare save DC**: your proficiency bonus + your Strength or Dexterity</span>
 

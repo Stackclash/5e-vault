@@ -15,8 +15,8 @@ tags:
 aliases:
   - Oni
 ---
-# [[5. Mechanics/Bestiary/Giant/Oni.md|Oni]]
-*Source: Monster Manual p. 239, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Giant\Oni.md|Oni]]
+*Source: Monster Manual p. 239. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
 
@@ -114,7 +114,6 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
     "name": "Change Shape"
 "source":
   - "MM"
-  - "TCE"
 "image": "/5. Mechanics/Bestiary/Giant/token/oni.webp"
 ```
 ^statblock

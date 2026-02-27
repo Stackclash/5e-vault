@@ -44,13 +44,13 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Winter Domain (Level 1)
-
 Nearly every part of the world must deal with a change in temperature and the coming of winter. Nowhere is this more evident than in the extreme north and extreme south, where winter is a pervasive part of life. As civilization expands into inhospitable terrain and environments, its reliance increases on divine providence to ensure survivability.
 
 Good-aligned clerics appeal to winter deities such as Boreas to spare their people the worst of bitter cold, storms that last for days, and other calamities caused by weather. They couch the onset of winter as necessary for strengthening their people and as a respite from toil, pointing to the peacefulness of the frozen, snow-draped landscape. Evil clerics embrace the storms and brutal Conditions and even enhance them to advance their deities' agendas and to spread fear through their enemies.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 **Winter Domain Spells**
 

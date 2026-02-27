@@ -12,7 +12,7 @@ tags:
 aliases:
   - Shooting Star
 one-hand-damage: 1d8 radiant
-range: 150/600
+range: 150\600
 weight: 2
 ---
 # Shooting Star

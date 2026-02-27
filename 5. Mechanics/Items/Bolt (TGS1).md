@@ -12,7 +12,7 @@ tags:
 aliases:
   - Bolt
 one-hand-damage: 1d12 lightning
-range: 100/400
+range: 100\400
 weight: 18
 ---
 # Bolt

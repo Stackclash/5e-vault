@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### War Domain (Level 1)
-
 War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry (such as Torm, [[/5. Mechanics/Deities/Greyhawk Heironeo(US).md\|Heironeous]], and [[/5. Mechanics/Deities/Dragonlance Kiri Jolith (PHB).md\|Kiri-Jolith]]) as well as gods of destruction and pillage (such as [[/5. Mechanics/Deities/Greyhawk Erythnul.md\|Erythnul]], [[/5. Mechanics/Deities/Eberron The Fury.md\|the Fury]], [[/5. Mechanics/Deities/Nonhuman Gruumsh.md\|Gruumsh]], and [[/5. Mechanics/Deities/Greek Ares.md\|Ares]]) and gods of conquest and domination (such as Bane, [[/5. Mechanics/Deities/Greyhawk Hex(TOR).md\|Hextor]], and [[/5. Mechanics/Deities/Nonhuman Maglubiyet.md\|Maglubiyet]]). Other war gods (such as Tempus, [[/5. Mechanics/Deities/Greek Nike.md\|Nike]], and [[/5. Mechanics/Deities/Celtic Nuada.md\|Nuada]]) take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 At each indicated cleric level, add the listed spells to your spells prepared.
 

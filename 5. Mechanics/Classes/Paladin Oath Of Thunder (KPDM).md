@@ -43,53 +43,29 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Oath of Thunder (Level 3)
-
 Of all the servants of Perun, paladins sworn to the Oath of Thunder are his spears and arrows made flesh. Even those who don't venerate Perun recognize and honor paladins sworn to his service. Often referred to as Valkyries, paladins of this oath are almost exclusively women. They are a major force within the knightly Order of the White Lion in their Amazonian nation. Shieldmaidens of the dwarven cantons and centaur outriders also number among its adherents.
 
 Paladins sworn to Thunder are even more reserved and humble in daily life than other paladins. That veneer splits like a thunderclap in battle, where they erupt as vicious hellions. Indeed, thundering paladins love to strike "thunder-wise," meaning suddenly and with surprise, appearing like a bolt of lightning in their enemies' midst before those enemies know what hit them. Paladins who follow the Oath of Thunder are most often devoted to the cause of good but care little about the struggle between law and chaos.
 
-#### Tenets of Thunder
-_Source: Deep Magic_
+## Subclass Features
+
+### Tenets of Thunder (Level 3)
 
 The Oath of Thunder stresses reserved moderation and clear purpose in daily life, along with crushing, decisive strikes on the battlefield. Paladins sworn to Thunder see aberrations and fiends as the ultimate forces of corruption in the world and strive tirelessly to thwart their designs.
 
-##### Composure Is My Shield.
-_Source: Deep Magic_
+**Composure Is My Shield..** My deeds are my armor, and I am not easily provoked. If anyone shall insult me, I shall laugh at their ignorance. If anyone shall insult my companions, I shall show them their error.
 
-My deeds are my armor, and I am not easily provoked. If anyone shall insult me, I shall laugh at their ignorance. If anyone shall insult my companions, I shall show them their error.
+**Crush the Abomination..** Twisted creatures from beyond the world have no place in it. Aberrations and fiends will feel my blade and know death.
 
-##### Crush the Abomination.
-_Source: Deep Magic_
+**Decisiveness in Battle..** When the time for words has passed, I will strike first and hard to bring a swift end to my enemies. Victory is the stoutest shield for myself and my companions.
 
-Twisted creatures from beyond the world have no place in it. Aberrations and fiends will feel my blade and know death.
+**Duty Above All..** Though I drink with the gods and laugh with the valkyries, I will stand my watch. I will defend my nation. I will defend my companions.
 
-##### Decisiveness in Battle.
-_Source: Deep Magic_
+**Humility in Life..** I am a servant of the Thunder, not its master. I will live without excess, assured in my own strength without ostentation. Charity and courage are twins.
 
-When the time for words has passed, I will strike first and hard to bring a swift end to my enemies. Victory is the stoutest shield for myself and my companions.
+**Voice Like Thunder..** My voice rings clear and true in defense of those who can't speak out for themselves. I will speak the truth, because such words echo through the ages.
 
-##### Duty Above All.
-_Source: Deep Magic_
-
-Though I drink with the gods and laugh with the valkyries, I will stand my watch. I will defend my nation. I will defend my companions.
-
-##### Humility in Life.
-_Source: Deep Magic_
-
-I am a servant of the Thunder, not its master. I will live without excess, assured in my own strength without ostentation. Charity and courage are twins.
-
-##### Voice Like Thunder.
-_Source: Deep Magic_
-
-My voice rings clear and true in defense of those who can't speak out for themselves. I will speak the truth, because such words echo through the ages.
-
-#### Oath Spells
-_Source: Deep Magic_
-
-You gain oath spells at the paladin levels listed.
+**Oath Spells.** You gain oath spells at the paladin levels listed.
 
 **Oath of Thunder Spells**
 
@@ -102,10 +78,7 @@ You gain oath spells at the paladin levels listed.
 | 17th | [[/5. Mechanics/Spells/Conjure Volley.md\|conjure volley]], [[/5. Mechanics/Spells/Swift Quiver.md\|swift quiver]] |
 ^oath-of-thunder-spells
 
-#### Channel Divinity
-_Source: Deep Magic_
-
-When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+**Channel Divinity.** When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
 **Storm Strike**. As an action, you can use your Channel Divinity to infuse a ranged or thrown weapon you are holding with the wrath of a storm god. Make a ranged weapon attack as normal. In addition to the weapon attack, you create a line of lightning 5 feet wide and 60 feet long, beginning at you and extending straight toward the target. If the target is less than 60 feet from you, the line of lightning extends beyond it. Each creature in the line takes `dice:2d10|noform|noparens|avg` (`2d10`) + your paladin level lightning damage, or half damage with a successful Dexterity saving throw. If your ranged or thrown weapon attack hits, the target has disadvantage on its saving throw.
 

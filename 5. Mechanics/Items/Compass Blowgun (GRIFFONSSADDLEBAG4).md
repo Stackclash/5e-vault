@@ -11,7 +11,7 @@ tags:
 aliases:
   - Compass Blowgun
 one-hand-damage: 1 piercing
-range: 25/100
+range: 25\100
 weight: 1
 ---
 # Compass Blowgun

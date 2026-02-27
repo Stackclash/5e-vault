@@ -13,7 +13,7 @@ aliases:
   - Ether Spear
 one-hand-damage: 1d6 force
 two-hand-damage: 1d8 force
-range: 20/60
+range: 20\60
 weight: 3
 ---
 # Ether Spear

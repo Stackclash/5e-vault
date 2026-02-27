@@ -12,7 +12,7 @@ tags:
 aliases:
   - Bloodmage Dagger
 one-hand-damage: 1d4 piercing
-range: 40/80
+range: 40\80
 weight: 1
 ---
 # Bloodmage Dagger

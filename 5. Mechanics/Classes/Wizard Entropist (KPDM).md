@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Entropist (Level 2)
-
 Wizards who specialize in Chaos Magic crave an understanding of probability and life's unpredictable outcomes to the point of obsession.
+
+## Subclass Features
 
 ### Wizard Specialty (Level 2)
 

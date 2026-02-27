@@ -7,7 +7,7 @@ aliases:
   - Chapter 7: Tomb of Wayward Souls
 ---
 # Chapter 7: Tomb of Wayward Souls
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 131* 
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/106-07-001-the-tomb-of-wayward-souls.webp#center\|"The next rod piece lurks deep in the deadly Tomb of Wayward Souls"]]
 

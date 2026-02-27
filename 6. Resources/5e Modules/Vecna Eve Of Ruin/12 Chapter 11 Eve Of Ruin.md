@@ -7,7 +7,7 @@ aliases:
   - Chapter 11: Eve of Ruin
 ---
 # Chapter 11: Eve of Ruin
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 191* 
 
 ![[/6. Resources/5e Modules/Vecna Eve Of Ruin/img/157-11-001-vecnas-ritual-of-remaking.webp#center\|"Vecna is nearly done weaving his Ritual of Remaking. The heroes are the multiverse's only hope"]]
 
@@ -263,7 +263,7 @@ Read aloud the following when the characters arrive:
 > You float amid a vast void speckled with distant silvery lights. All around you are the floating remains of enormous stone corpses. Nearby, a monstrous behemoth resembling a horned, serpentine lobster drifts slowly through a patch of debris. The creature groans in agony, its one eye darting around in confusion. Vecna's unholy symbol glows faintly from within the behemoth's immense torso. Six spherical pests—each with a single eye and gaping maw—gnash at the behemoth's flanks.
 ^501
 
-The behemoth is a dying [[/5. Mechanics/Bestiary/Monstrosity/Astral Dreadnought (MPMM).md\|astral dreadnought]] that's being preyed on by six [[/5. Mechanics/Bestiary/Aberration/Eye Monger (BAM).md\|eye mongers]] (see appendix A for both stat blocks). The dreadnought has only 150 hit points remaining, it has no remaining uses of its Legendary Resistance trait, and its flying speed is reduced to 20 feet until its hit points are fully restored. The eye mongers focus their attacks on the astral dreadnought unless the characters stop them.
+The behemoth is a dying [[/5. Mechanics/Bestiary/Monstrosity/Astral Dreadnought (MPMM).md\|astral dreadnought]] that's being preyed on by six eye mongers (see appendix A for both stat blocks). The dreadnought has only 150 hit points remaining, it has no remaining uses of its Legendary Resistance trait, and its flying speed is reduced to 20 feet until its hit points are fully restored. The eye mongers focus their attacks on the astral dreadnought unless the characters stop them.
 
 The astral dreadnought is called Arekanz. Arekanz has been consuming dead gods, but in this unreality, Vecna spitefully cursed the gods' remains to contaminate the dreadnought and induce its certain death. Arekanz is suffering the effects of the curse. It is so wracked with pain that it doesn't defend itself except to use its Donjon Visit legendary action.
 
@@ -301,7 +301,7 @@ The area of the hazardous scree is marked with dotted lines on the map. When any
 > The colossal, iron longsword of some legendary being was cast unceremoniously onto the ground here, creating an improvised crossing over the valley.
 ^507
 
-Three [[/5. Mechanics/Bestiary/Aberration/Eye Monger (BAM).md\|eye mongers]] (see appendix A) swallowed by Arekanz lurk below the sword. They attack any characters who cross the sword bridge.
+Three eye mongers (see appendix A) swallowed by Arekanz lurk below the sword. They attack any characters who cross the sword bridge.
 
 #### G3: Horror's Fissure
 
@@ -310,7 +310,7 @@ Three [[/5. Mechanics/Bestiary/Aberration/Eye Monger (BAM).md\|eye mongers]] (se
 > An wide fissure runs east to west between the sword bridge and a tall shrine.
 ^509
 
-The fissure is 30 feet deep. As the characters approach, it shudders as a [[/5. Mechanics/Bestiary/Aberration/Cosmic Horror (BAM).md\|cosmic horror]] (see appendix A) slithers out of it from the east to feast on the characters' minds and bodies.
+The fissure is 30 feet deep. As the characters approach, it shudders as a cosmic horror (see appendix A) slithers out of it from the east to feast on the characters' minds and bodies.
 
 #### G4: Shrine of Habbakuk
 

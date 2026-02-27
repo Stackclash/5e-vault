@@ -43,13 +43,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### The Sibyl (Level 1)
-
 You have made a pact with the Sibyl, a divine being associated with prophecy, knowledge, and fate. Your patron guides you through visions, portents, and periods of ecstatic clarity to act on its behalf and to further its stratagems. Your relationship to your patron is different from that of its clergy. You are not asked for faith, worship, or adulation; instead, you serve solely through your action and influence in the world. Because of that, you might have a strained relationship with the deity's most dedicated priests and other zealots.
 
 Except as noted below, you function as a warlock and use the warlock spell list.
+
+## Subclass Features
 
 ### Expanded Spell List (Level 1)
 

@@ -14,8 +14,8 @@ tags:
 aliases:
   - Spy
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Spy.md|Spy]]
-*Source: Monster Manual p. 349, Curse of Strahd. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Humanoid\Spy.md|Spy]]
+*Source: Monster Manual p. 349. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.
 
@@ -59,8 +59,9 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies
 "languages": "any two languages"
 "cr": "1"
 "traits":
-  - "desc": "On each of its turns, the spy can use a bonus action to take the Dash,\
-      \ Disengage, or Hide action."
+  - "desc": "On each of its turns, the spy can use a bonus action to take the [[/5. Mechanics/Rules/Actions.md#Dash|Dash]],\
+      \ [[/5. Mechanics/Rules/Actions.md#Disengage|Disengage]], or [[/5. Mechanics/Rules/Actions.md#Hide|Hide]]\
+      \ action."
     "name": "Cunning Action"
   - "desc": "The spy deals an extra 7 (2d6) damage when it hits a target with a weapon\
       \ attack and has advantage on the attack roll, or when the target is within\
@@ -78,7 +79,6 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies
     "name": "Hand Crossbow"
 "source":
   - "MM"
-  - "CoS"
 "image": "/5. Mechanics/Bestiary/Humanoid/token/spy.webp"
 ```
 ^statblock

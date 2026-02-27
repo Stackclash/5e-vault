@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Marshwarden (Level 3)
-
 Marshwardens take their cues from natures most challenging terrains and capable amphibious explorers. In doing so, these rangers become world-treading athletes with powerful magic toxins at their disposal. Marshwardens often seek to protect the worlds most endangered subjects and dive headfirst into new challenges, knowing full well that no matter what obstacle stands in their way, they almost certainly have the means to overcome it.
+
+## Subclass Features
 
 ### Marshwarden Magic (Level 3)
 

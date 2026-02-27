@@ -14,8 +14,8 @@ tags:
 aliases:
   - Djinni (Disguises)
 ---
-# [[5. Mechanics/Bestiary/Elemental/Djinni Disguises.md|Djinni (Disguises)]]
-*Source: Monster Manual p. 144, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Elemental\Djinni Disguises.md|Djinni (Disguises)]]
+*Source: Monster Manual p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 ```statblock
 "name": "Djinni Disguises"
@@ -95,7 +95,6 @@ aliases:
     "name": "Create Whirlwind"
 "source":
   - "MM"
-  - "TCE"
 ```
 ^statblock
 

@@ -43,11 +43,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Armorer (Level 3)
-
 An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.
+
+## Subclass Features
 
 ### Tools of the Trade (Level 3)
 
@@ -95,9 +93,7 @@ Each model includes a special weapon. When you attack with that weapon, you can 
 
 You can change the armor's model whenever you finish a short or long rest, provided you have [[/5. Mechanics/Items/Smiths Tools.md\|smith's tools]] in hand.
 
-#### Guardian
-
-You design your armor to be in the front line of conflict. It has the following features:
+**Guardian.** You design your armor to be in the front line of conflict. It has the following features:
 
 - **Thunder Gauntlets**  
 
@@ -107,9 +103,7 @@ You design your armor to be in the front line of conflict. It has the following 
 
     As a bonus action, you can gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armor. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.  
 
-#### Infiltrator
-
-You customize your armor for subtle undertakings. It has the following features:
+**Infiltrator.** You customize your armor for subtle undertakings. It has the following features:
 
 - **Lightning Launcher**  
 

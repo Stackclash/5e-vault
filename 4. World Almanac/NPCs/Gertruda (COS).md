@@ -9,7 +9,7 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images:
-  - 4. World Almanac/NPCs/img/gertruda.webp
+  - 4. World Almanac\NPCs\img\gertruda.webp
 relationships: []
 aliases:
   - Gertruda

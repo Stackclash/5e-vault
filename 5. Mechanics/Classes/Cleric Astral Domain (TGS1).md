@@ -44,11 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Astral Domain (Level 1)
-
 Gods of the Astral Plane are as lost to time and space as the realm they reign over. The Astral Plane fills the gaps between the planes of existence and is an important, balancing force in the cosmic ecosystem of the multiverse. Practitioners of this domain see the absence of anything as something, and consider the Astral Plane as the ultimate destination of all things. These acolytes follow the ultimate path to their destination, and help shepherd others along their way in a grand mission of entropy. Clerics of the astral domain are chaotic by nature, but typically choose to destroy evil where they find it and hasten its inevitable journey to the Astral Plane.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 

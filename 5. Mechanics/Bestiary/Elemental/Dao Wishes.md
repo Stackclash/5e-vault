@@ -14,8 +14,8 @@ tags:
 aliases:
   - Dao (Wishes)
 ---
-# [[5. Mechanics/Bestiary/Elemental/Dao Wishes.md|Dao (Wishes)]]
-*Source: Monster Manual p. 143, Tasha's Cauldron of Everything*
+# [[5. Mechanics\Bestiary\Elemental\Dao Wishes.md|Dao (Wishes)]]
+*Source: Monster Manual p. 143*
 
 ```statblock
 "name": "Dao Wishes"
@@ -93,7 +93,6 @@ aliases:
     "name": "Maul"
 "source":
   - "MM"
-  - "TCE"
 ```
 ^statblock
 

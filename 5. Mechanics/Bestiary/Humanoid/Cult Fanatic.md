@@ -14,8 +14,8 @@ tags:
 aliases:
   - Cult Fanatic
 ---
-# [[5. Mechanics/Bestiary/Humanoid/Cult Fanatic.md|Cult Fanatic]]
-*Source: Monster Manual p. 345, Curse of Strahd, Tasha's Cauldron of Everything, Vecna: Eve of Ruin. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+# [[5. Mechanics\Bestiary\Humanoid\Cult Fanatic.md|Cult Fanatic]]
+*Source: Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
 
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else
 
@@ -71,9 +71,6 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
     "name": "Dagger"
 "source":
   - "MM"
-  - "CoS"
-  - "TCE"
-  - "VEoR"
 "image": "/5. Mechanics/Bestiary/Humanoid/token/cult-fanatic.webp"
 ```
 ^statblock

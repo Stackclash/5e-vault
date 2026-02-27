@@ -11,7 +11,7 @@ aliases:
   - Heavy Crossbow
 cost: 5000
 one-hand-damage: 1d10 piercing
-range: 100/400
+range: 100\400
 weight: 18
 ---
 # Heavy Crossbow
