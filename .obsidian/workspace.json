@@ -47,7 +47,8 @@
               "title": "The Ones Who Were Forgotten"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,8 +299,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "830f75e4aa18d718",
+  "active": "d8e956e7eb8b6e96",
   "lastOpenFiles": [
+    "5. Mechanics/Spells/Abhorrence (KPDM).md",
     "Excalidraw/Drawing 2026-02-23 10.06.03.excalidraw.md",
     "1. DM Stuff/Campaigns/Truth of Vecna.md",
     "3. The Party/Quests/The Ones Who Were Forgotten.md",
@@ -327,7 +329,6 @@
     "4. World Almanac/Settlements/Bruokdon.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S35 New Session Journal.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S34 New Session Journal.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S33 New Session Journal.md",
     "z_Scripts/Dataview/utils/generateMetaBindInput.js",
     "z_Scripts/Dataview/utils/editingView.js",
     "Players.base",
