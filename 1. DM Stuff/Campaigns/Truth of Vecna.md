@@ -12,3 +12,6 @@ obsidianUIMode: preview
 > | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
 > | **World:** | `INPUT[suggester(optionQuery(#world)):world]` |
 
+
+
+![[Curse of Strahd Campaign.excalidraw|center]]
