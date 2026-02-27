@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Stuff/Configuration.md",
+                "file": "4. World Almanac/NPCs/Anastrasya Karelova (COS).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuration"
+              "title": "Anastrasya Karelova (COS)"
             }
           }
         ],
@@ -302,6 +302,7 @@
   },
   "active": "14bfb7ff62d93620",
   "lastOpenFiles": [
+    "1. DM Stuff/Configuration.md",
     "5. Mechanics/Items/Docent (ERLW).md",
     "compendium/feats/img",
     "compendium/deities/img",
@@ -339,7 +340,6 @@
     "compendium/bestiary/undead/undead-spirit-ghostly-tce.md",
     "compendium/bestiary/undead/sword-wraith-warrior-mpmm.md",
     "compendium/bestiary/undead/tendril-of-dendallen-tgs1.md",
-    "compendium/bestiary/undead/sword-wraith-commander-mpmm.md",
     "z_Assets/Locations/Maps/thornmere.png",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
     "5. Mechanics/Decks/Tarot/20-Judgement.png",
