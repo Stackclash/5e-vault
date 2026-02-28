@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Greenfall.md|Greenfall]]"
 images:
-  - z_Assets/PlaceholderImage.png
+  - z_Assets/Locations/bruokdon.png
 pronounced:
 resources: []
 population: 3700
@@ -12,7 +12,8 @@ government: Council
 army:
 religions: []
 imports: []
-exports: []
+exports:
+  - Charms
 aliases:
   - The Spellforge City
 tags:
