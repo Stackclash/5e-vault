@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "4. World Almanac/Settlements/Bruokdon.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -344,11 +344,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bc819318ebb90bc0",
+  "active": "75af399d323b425d",
   "lastOpenFiles": [
+    "4. World Almanac/Settlements/Bruokdon.md",
+    "1. DM Stuff/Tools/Leaflet Bounds Calculator.md",
     "1. DM Stuff/Configuration.md",
     "1. DM Stuff/Session Prep/Curse of Strahd/2026-02-28.md",
-    "4. World Almanac/Settlements/Bruokdon.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S35 New Session Journal.md",
     "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "z_Assets/Locations/bruokdon.png",
