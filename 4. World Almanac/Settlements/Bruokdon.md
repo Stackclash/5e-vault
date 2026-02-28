@@ -2,18 +2,19 @@
 obsidianUIMode: preview
 location: "[[4. World Almanac/Regions/Greenfall.md|Greenfall]]"
 images:
-- z_Assets/PlaceholderImage.png
-pronounced: 
+  - z_Assets/PlaceholderImage.png
+pronounced:
 resources: []
-population: 
-terrain: 
+population: 3700
+terrain: Flat
 rulers: []
-government: 
-army: 
+government: Council
+army:
 religions: []
 imports: []
 exports: []
-aliases: []
+aliases:
+  - The Spellforge City
 tags:
   - location
   - settlement
