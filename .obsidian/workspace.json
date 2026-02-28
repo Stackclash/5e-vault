@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -316,8 +316,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2ef69f612f842889",
+  "active": "4b97c4f8b3f0b703",
   "lastOpenFiles": [
+    "4. World Almanac/Settlements/Bruokdon.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S35 New Session Journal.md",
     "1. DM Stuff/Session Prep/Curse of Strahd/2026-02-28.md",
     "1. DM Stuff/Websites.md",
@@ -349,7 +350,6 @@
     "3. The Party/Parties/Test Party.md",
     "Untitled.md",
     "Redgrave.md",
-    "3. The Party/Players/Seluvis Felo'melorn.md",
     "1. DM Stuff/Campaigns",
     "z_Scripts/Dataview/utils/generateMetaBindInput.js",
     "z_Scripts/Dataview/utils/editingView.js",
