@@ -7,7 +7,7 @@ unit: ft
 unitCount: 10
 zoomDelta: 0.5
 id: CastleRavenloft
-image: z_Assets/Locations/Maps/thornmere.png
+image: z_Assets/Locations/bruokdon.png
 ---
 
 > [!infobox|right]
