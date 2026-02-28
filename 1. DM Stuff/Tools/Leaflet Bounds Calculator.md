@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-defaultZoom: -1
-minZoom: -2.5
-maxZoom: 1.5
+defaultZoom: -2
+minZoom: -2
+maxZoom: -1
 unit: ft
-unitCount: 10
+unitCount: 656.168
 zoomDelta: 0.5
 id: CastleRavenloft
-image: z_Assets/Locations/Maps/thornmere.png
+image: z_Assets/Locations/bruokdon.png
 ---
 
 > [!infobox|right]

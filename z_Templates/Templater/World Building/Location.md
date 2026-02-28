@@ -104,7 +104,7 @@ exports: []
 aliases: []
 tags:
   - location
-  - <% Object.keys(typeLocations).find(k => typeLocations[k] === data.type).toLowerCase() %>
+  - <% Object.keys(typeLocations).find(k => typeLocations[k] === data.type).toLowerCase().replace(' ', '-') %>
 ---
 > [!infobox]
 > # `=this.file.name`
