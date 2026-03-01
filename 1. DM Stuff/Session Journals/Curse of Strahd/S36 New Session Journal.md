@@ -42,6 +42,9 @@ The Bored Hunter
 
 Chaz the guard takes them to the register office
 
+Midnight Covenant is groups name
+Redgrave - Artisan Guild and Watchers over the Fallen
+
 ## Items Of Importance
 
 
