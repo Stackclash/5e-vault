@@ -59,18 +59,25 @@ Item cards to create:
 
 Current Magic Item Inventory:
 - Redgrave:
-	- +1 Shield
-	- Animated Shield
+	- [[1 Shield]]
+	- [[Animated Shield]]
 - Faerah:
-	- Boots of Flying
-	- Cloak of Elvenkind
+	- Boots of flying
+	- [[Cloak Of Elvenkind]]
 - Roark:
-	- 
+	- +2 Sword
+	- Amulet of the Drunkard
 - Yevelda:
 	- Bloodrage Axe
 	- [[Boots Of Striding And Springing]]
+	- [[Helm Of The Minotaur (HHHVI)]]
+	- [[Javelin Of Lightning]]
+	- [[Yester Hill Axe (COS)]]
 - Wisp:
 	- [[Eyes Of Minute Seeing]]
+	- [[Amulet Of Health]]
+	- [[Driftglobe]]
+	- [[Pipes Of Haunting]]
 
 ## Key Learnings
 Description of any important information that the party learned.
