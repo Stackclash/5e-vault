@@ -32,9 +32,9 @@ tags:
 > [!div|no-t clean]
 > `INPUT[textArea:summary]`
 ## General Notes
-Taverns - The Floating Flagon, Pheonix Diner
-The Fine Star, The Careful Tree Inn, 
-The Bored Hunter
+Taverns - The Floating Flagon, Pheonix Diner (Fancy District)
+The Fine Star, The Careful Tree Inn (Common District)
+The Bored Hunter (Industry Distr)
 
 Chaz the guard takes them to the register office
 
