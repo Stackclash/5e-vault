@@ -50,7 +50,7 @@ Arnoth the [[Goliath (MPMM)]] is owner of the Golden Hammer
 
 Item cards to create:
 - Bloodrage Axe
-- Roark Fur Cloak
+- Robe of Useful Items
 
 ## Key Learnings
 Description of any important information that the party learned.
