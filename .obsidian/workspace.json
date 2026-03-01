@@ -8,77 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44e363b9f61de1a7",
+            "id": "d8e956e7eb8b6e96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Stuff/Session Prep/Curse of Strahd/2026-02-28.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-28"
-            }
-          },
-          {
-            "id": "75af399d323b425d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Stuff/Session Journals/Curse of Strahd/S36 The Big City.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "S36 The Big City"
-            }
-          },
-          {
-            "id": "f8ec7587fba43512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Settlements/Bruokdon.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bruokdon"
-            }
-          },
-          {
-            "id": "2ef69f612f842889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Umbral Athenaeum"
-            }
-          },
-          {
-            "id": "4b97c4f8b3f0b703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DM Stuff/Websites.md",
+                "file": "1. DM Stuff/Campaigns/Truth of Vecna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Websites"
+              "title": "Truth of Vecna"
+            }
+          },
+          {
+            "id": "ba127654c239d9c4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Curse of Strahd Campaign.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Curse of Strahd Campaign.excalidraw"
+            }
+          },
+          {
+            "id": "14bfb7ff62d93620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/NPCs/Anastrasya Karelova (COS).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anastrasya Karelova (COS)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:place of interest",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,7 +249,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       },
       {
         "id": "96a4f2188418a82a",
@@ -330,89 +300,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "0770e09aee0e0af6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3eca1d5438751e04",
-        "type": "window",
-        "children": [
-          {
-            "id": "846d0d7f7b29458d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2a2e6ddb0d34e2ab",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "z_Assets/Locations/bruokdon.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "bruokdon"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1229,
-        "y": 112,
-        "width": 1024,
-        "height": 690,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "75af399d323b425d",
+  "active": "14bfb7ff62d93620",
   "lastOpenFiles": [
-    "1. DM Stuff/Session Prep/Curse of Strahd/2026-02-28.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S36 The Big City.md",
-    "1. DM Stuff/Websites.md",
-    "4. World Almanac/Settlements/Bruokdon.md",
+    "Session Prep.md",
+    "1. DM Stuff/Session Journals/Curse of Strahd/S36 New Session Journal.md",
+    "z_Assets/bruokdon.json",
     "z_Assets/Locations/bruokdon.png",
     "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
-    "1. DM Stuff/DM Screen.md",
-    "1. DM Stuff/Configuration.md",
-    "1. DM Stuff/Tools/Leaflet Bounds Calculator.md",
-    "Session Prep.md",
-    "1. DM Stuff/Campaigns/Truth of Vecna.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S35 New Session Journal.md",
-    "z_Assets/bruokdon.json",
+    "conflict-files-obsidian-git.md",
     "4. World Almanac/NPCs/Anastrasya Karelova (COS).md",
     "1. DM Stuff/Tools/Story Engine/Builder.md",
-    "3. The Party/Quests/The Ones Who Were Forgotten.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Curse of Strahd Campaign.excalidraw.md",
-    "5. Mechanics/Items/img/soul-coin.webp",
-    "5. Mechanics/Items/Soul Coin (BGDIA).md",
+    "1. DM Stuff/Configuration.md",
     "5. Mechanics/Items/Docent (ERLW).md",
-    "5. Mechanics/Bestiary/Beast/token/cat-skeleton-cos.webp",
-    "5. Mechanics/Bestiary/Beast/Cat Skeleton (COS).md",
-    "5. Mechanics/Bestiary/Aberration/img/derro.webp",
+    "compendium/feats/img",
+    "compendium/deities/img",
+    "compendium/decks/img/back.webp",
+    "compendium/decks/img",
+    "compendium/classes/img",
+    "compendium/bestiary/monstrosity/token",
+    "compendium/bestiary/monstrosity/img",
+    "compendium/bestiary/legendary-group",
+    "compendium/bestiary/humanoid/token",
+    "compendium/bestiary/humanoid/img",
     "4. World Almanac/NPCs/token/inda-malayuri-veor.webp",
-    "4. World Almanac/NPCs/img/lief-lipsiege.webp",
-    "4. World Almanac/NPCs/Bray Martikov (COS).md",
-    "4. World Almanac/NPCs/Ismark Kolyanovich (COS).md",
-    "4. World Almanac/NPCs/Ireena Kolyana (COS).md",
-    "4. World Almanac/NPCs/Brom Martikov (COS).md",
-    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
-    "4. World Almanac/Regions/Barovia.md",
-    "Excalidraw",
-    "1. DM Stuff/Campaigns",
-    "z_Scripts/Dataview/utils/generateMetaBindInput.js",
-    "z_Scripts/Dataview/utils/editingView.js",
-    "Players.base",
-    "z_Scripts/Dataview/views/editingView.js",
-    "z_Scripts/Dataview/views/test.js",
+    "compendium/deities/deities.md",
+    "compendium/bestiary/miscellaneous/warlord-snikrot-griffonssaddlebag3.md",
+    "compendium/bestiary/miscellaneous/miscellaneous.md",
+    "compendium/bestiary/undead/zombie.md",
+    "compendium/bestiary/undead/wraith.md",
+    "compendium/bestiary/undead/zombie-plague-spreader-vrgr.md",
+    "compendium/bestiary/undead/zombie-clot-vrgr.md",
+    "compendium/bestiary/undead/will-o-wisp.md",
+    "compendium/bestiary/undead/wight.md",
+    "compendium/bestiary/undead/vampiric-mist-mpmm.md",
+    "compendium/bestiary/undead/warhorse-skeleton.md",
+    "compendium/bestiary/undead/white-wraith-tgs1.md",
+    "compendium/bestiary/undead/vampire-warrior.md",
+    "compendium/bestiary/undead/vampiric-mind-flayer-vrgr.md",
+    "compendium/bestiary/undead/vampire.md",
+    "compendium/bestiary/undead/vampire-spellcaster.md",
+    "compendium/bestiary/undead/vampire-spawn.md",
     "z_Assets/Locations/Maps/thornmere.png",
-    "3. The Party/Quests",
-    "z_Scripts/Dataview/views/partyLocation.js",
     "5. Mechanics/Decks/Tarot/21-TheWorld.png",
     "5. Mechanics/Decks/Tarot/20-Judgement.png",
-    "5. Mechanics/Decks/Tarot/19-TheSun.png"
+    "5. Mechanics/Decks/Tarot/19-TheSun.png",
+    "5. Mechanics/Decks/Tarot/18-TheMoon.png",
+    "5. Mechanics/Decks/Tarot/17-TheStar.png",
+    "5. Mechanics/Decks/Tarot/16-TheTower.png"
   ]
 }
