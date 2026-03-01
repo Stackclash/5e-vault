@@ -44,10 +44,13 @@ Redgrave is a part of Artisan Guild and Watchers over the Fallen
 Redgrave has a house in [[Bruokdon]].
 
 Arnoth the [[Goliath (MPMM)]] is owner of the Golden Hammer
-
 750gp for Dagger +3
 500gp for Bracers of Defense
 500gp for Longbow +2
+
+Item cards to create:
+- Bloodrage Axe
+- Roark Fur Cloak
 
 ## Key Learnings
 Description of any important information that the party learned.
