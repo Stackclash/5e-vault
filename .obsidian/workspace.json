@@ -77,7 +77,8 @@
               "title": "Websites"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -366,13 +367,13 @@
       }
     ]
   },
-  "active": "44e363b9f61de1a7",
+  "active": "f8ec7587fba43512",
   "lastOpenFiles": [
-    "z_Assets/Locations/bruokdon.png",
-    "1. DM Stuff/Session Prep/Curse of Strahd/2026-02-28.md",
-    "1. DM Stuff/Session Journals/Curse of Strahd/S36 The Big City.md",
-    "4. World Almanac/Settlements/Bruokdon.md",
     "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
+    "4. World Almanac/Settlements/Bruokdon.md",
+    "1. DM Stuff/Session Journals/Curse of Strahd/S36 The Big City.md",
+    "1. DM Stuff/Session Prep/Curse of Strahd/2026-02-28.md",
+    "z_Assets/Locations/bruokdon.png",
     "1. DM Stuff/Websites.md",
     "1. DM Stuff/DM Screen.md",
     "1. DM Stuff/Configuration.md",
