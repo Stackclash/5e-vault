@@ -2,7 +2,8 @@ const matter = require('gray-matter')
 const fs = require('fs')
 const path = require('path')
 
-const { tempFlux, seasons, months, climates, states } = matter(fs.readFileSync(path.join(__dirname, '1. DM Stuff/DM To-Do/Weather Generation.md'), 'utf8')).data
+const vaultRoot = path.resolve(__dirname, '../../')
+const { tempFlux, seasons, months, climates, states } = matter(fs.readFileSync(path.join(vaultRoot, '1. DM Stuff/Tools/Weather Generation.md'), 'utf8')).data
 
 /**
  * Returns the day of the year based on the date
@@ -238,12 +239,49 @@ const getWeatherForYearByClimate = (climate, year) => {
  * @param {object} weather - The weather object
  * @returns {object} - The states object
  */
+/**
+ * Safely evaluates a weather condition string without using eval().
+ * Supports: boolean variable checks, and comparisons with <, >, <=, >=, ==, !=
+ * @param {string} condition - A condition like "precipitation", "random < 70", "tempLow > 32"
+ * @param {object} vars - An object mapping variable names to their values
+ * @returns {boolean} - The result of the condition
+ */
+const evaluateCondition = (condition, vars) => {
+    const trimmed = condition.trim()
+    const match = trimmed.match(/^(.+?)\s*(<=|>=|!=|==|<|>)\s*(.+)$/)
+    if (!match) {
+        const val = vars.hasOwnProperty(trimmed) ? vars[trimmed] : undefined
+        return !!val
+    }
+    const [, leftStr, operator, rightStr] = match
+    const resolve = (token) => {
+        const t = token.trim()
+        if (vars.hasOwnProperty(t)) return Number(vars[t])
+        const num = Number(t)
+        if (!isNaN(num)) return num
+        return undefined
+    }
+    const left = resolve(leftStr)
+    const right = resolve(rightStr)
+    if (left === undefined || right === undefined) return false
+    switch (operator) {
+        case '<': return left < right
+        case '>': return left > right
+        case '<=': return left <= right
+        case '>=': return left >= right
+        case '==': return left === right
+        case '!=': return left !== right
+        default: return false
+    }
+}
+
 const getStates = (weather) => {
     const {date, season, tempRange: {low: tempLow,high: tempHigh}, precipitation, wind: windSpeed} = weather
     const random = Math.random() * 100
+    const vars = { date, season, tempLow: Number(tempLow), tempHigh: Number(tempHigh), precipitation, windSpeed: Number(windSpeed), random }
     const conditionStates = { }
     states.forEach(state => {
-        if (state.conditions.every(condition => eval(condition))) {
+        if (state.conditions.every(condition => evaluateCondition(condition, vars))) {
             if (!conditionStates.hasOwnProperty(state.category)) conditionStates[state.category] = { name: '', rules: [] }
             conditionStates[state.category].name.length > 0 ? conditionStates[state.category].name += `, ${state.name}` : conditionStates[state.category].name = state.name
             conditionStates[state.category].rules.push(...state.rules)

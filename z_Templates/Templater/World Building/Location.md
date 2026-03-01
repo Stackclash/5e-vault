@@ -88,6 +88,7 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
+playerVisible: false
 location: "<% data.location %>"
 images:
 - z_Assets/PlaceholderImage.png

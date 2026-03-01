@@ -3,3 +3,12 @@ node_modules
 
 # Ignore Smart Environment folder
 .smart-env
+
+# OS files
+.DS_Store
+
+# Runtime state files
+.dnd-ui-toolkit-state.json
+
+# Environment variables (contains secrets)
+.env
