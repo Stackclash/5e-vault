@@ -45,6 +45,10 @@ Redgrave has a house in [[Bruokdon]].
 
 Arnoth the [[Goliath (MPMM)]] is owner of the Golden Hammer
 
+750gp for Dagger +3
+500gp for Bracers of Defense
+500gp for Longbow +2
+
 ## Key Learnings
 Description of any important information that the party learned.
 Who Did They Meet?
