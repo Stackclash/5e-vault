@@ -1,53 +1,24 @@
 <%*
 let templateError = false
 let data = null
-let typeLocations = {}
+const typeLocations = {
+  Region: 'regions',
+  Settlement: 'settlements',
+  "Place of Interest": 'pois'
+}
 try {
-  const path = require('path')
-  const dataview = app.plugins.getPlugin("dataview")
-  const modalForm = app.plugins.getPlugin('modalforms')
-  typeLocations = {
-    Region: 'regions',
-    Settlement: 'settlements',
-    "Place of Interest": 'pois'
-  }
+  const init = tp.user.templateInit()
+  const fields = tp.user.formFields()
+  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['regions', 'settlements', 'pois'])
 
-  if (tp.config.run_mode !== 0) {
-    throw new Error('This template can only be used to create new files.')
-  }
-
-  if (!modalForm || !modalForm.api) {
-    throw new Error('Modal Forms plugin is not available')
-  }
-
-  if (!dataview || !dataview.api) {
-    throw new Error('Dataview plugin is not available')
-  }
-
-  const config = dataview.api.page('Configuration')
-
-  if (!config || !config.locations || !config.locations.regions || !config.locations.settlements || !config.locations.pois) {
-    throw new Error('Configuration for file locations is not set up correctly')
-  }
-
-  const parentLocations = dataview.api.pages('#location').sort(l => l.file.name, 'asc').array()
-
-  const result = await modalForm.api.openForm({
+  data = await init.openForm(modalForm, {
     title: "Location Setup",
     name: "location-setup",
     fields: [
-      {
-        name: "name",
-        label: "Location Name",
-        description: "Name of Location",
-        isRequired: true,
-        input: {
-          type: "text",
-        }
-      },
+      fields.name("Location Name", "Name of Location"),
       {
         name: "type",
-        label: "Location",
+        label: "Location Type",
         description: "Type of Location",
         isRequired: true,
         input: {
@@ -56,26 +27,10 @@ try {
           source: "fixed"
         }
       },
-      {
-        name: "location",
-        label: "Location",
-        description: "Where this location is located",
-        isRequired: true,
-        input: {
-          type: "select",
-          options: parentLocations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
-          source: "fixed"
-        }
-      }
+      fields.tagSelect(dataview, "location", "Parent Location", '#location', "Where this location is located"),
     ],
     version: "1"
   })
-
-  if (result.status === 'cancelled') {
-    throw new Error('Modal was Cancelled')
-  }
-
-  data = result.getData()
 
   await tp.file.move(path.posix.join(config.locations[data.type], data.name), tp.file.find_tfile(tp.file.title))
 

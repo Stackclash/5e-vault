@@ -4,66 +4,24 @@ let formattedDate = ''
 let selectedParty = null
 let latestJournal = null
 try {
-  const path = require('path')
-  const dataview = app.plugins.getPlugin("dataview")
-  const modalForm = app.plugins.getPlugin('modalforms')
-  
-  if (tp.config.run_mode !== 0) {
-    throw new Error('This template can only be used to create new files.')
-  }
+  const init = tp.user.templateInit()
+  const fields = tp.user.formFields()
+  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['journals', 'preps', 'parties'])
 
-  if (!modalForm || !modalForm.api) {
-    throw new Error('Modal Forms plugin is not available')
-  }
-
-  if (!dataview || !dataview.api) {
-    throw new Error('Dataview plugin is not available')
-  }
-  
-  const config = dataview.api.page('Configuration')
-  
-  if (!config || !config.locations || !config.locations.journals || !config.locations.preps || !config.locations.parties) {
-    throw new Error('Configuration for file locations is not set up correctly')
-  }
-
-  const result = await modalForm.api.openForm({
+  const data = await init.openForm(modalForm, {
     title: "Session Journal Setup",
     name: "session-setup",
     fields: [
-      {
-        name: "party",
-        label: "Party",
-        description: "Campaign Party",
-        isRequired: true,
-        input: {
-          type: "dataview",
-          query: "dv.pages('\"" + config.locations.parties + "\"').file.name" 
-        }
-      },
-      {
-        name: "date",
-        label: "Date",
-        description: "Date of Session",
-        isRequired: false,
-        input: {
-          type: "date",
-          hidden: false
-        }
-      }
+      fields.folderSelect(dataview, "party", "Party", config.locations.parties, "Campaign Party"),
+      fields.date("Date", "Date of Session"),
     ],
     version: "1"
   })
 
-  if (result.status === 'cancelled') {
-    throw new Error('Modal was Cancelled')
-  }
-
-  const data = result.getData()
-
   formattedDate = moment(data.date).format("YYYY-MM-DD")
-  selectedParty = dataview.api.page(data.party)
+  selectedParty = dataview.page(data.party)
 
-  const journals = dataview.api.pages(`"${path.posix.join(config.locations.journals, selectedParty.file.name)}"`).sort(p => p.date, 'desc')
+  const journals = dataview.pages(`"${path.posix.join(config.locations.journals, selectedParty.file.name)}"`).sort(p => p.date, 'desc')
   let newSessionNumber = 0
 
   if (journals.length > 0) {
@@ -71,7 +29,7 @@ try {
     newSessionNumber = parseInt(latestJournal.file.name.match(/^S(\d{1,})/)[1])+1
   }
 
-  const sessionNotes = dataview.api.pages(`"${config.locations.preps}"`).filter(p => p.file.name === formattedDate)
+  const sessionNotes = dataview.pages(`"${config.locations.preps}"`).filter(p => p.file.name === formattedDate)
 
   if (sessionNotes.length > 0) {
     prepNote = sessionNotes[0].file.link
@@ -80,7 +38,7 @@ try {
     if (!newPrepNote) {
       throw new Error('Failed to create new prep note')
     }
-    prepNote = dataview.api.fileLink(newPrepNote.path, false, newPrepNote.basename)
+    prepNote = dataview.fileLink(newPrepNote.path, false, newPrepNote.basename)
   }
 
   await tp.file.move(path.posix.join(config.locations.journals, selectedParty.file.name, `S${newSessionNumber} New Session Journal`), tp.file.find_tfile(tp.file.title))
