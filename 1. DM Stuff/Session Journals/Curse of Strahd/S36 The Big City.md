@@ -86,6 +86,8 @@ Current Magic Item Inventory:
 	- [[Amulet Of Health]]
 	- [[Driftglobe]]
 
+Wisp's owner Tim Darkmagic
+
 ## Key Learnings
 Description of any important information that the party learned.
 Who Did They Meet?

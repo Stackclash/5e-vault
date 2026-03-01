@@ -6,7 +6,7 @@ images:
 pronounced:
 resources: []
 population: 3700
-terrain: Flat
+terrain: flat
 rulers: []
 government: Council
 army:

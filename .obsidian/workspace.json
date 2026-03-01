@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DM Stuff/Session Journals/Curse of Strahd/S36 The Big City.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -367,10 +367,10 @@
       }
     ]
   },
-  "active": "f8ec7587fba43512",
+  "active": "75af399d323b425d",
   "lastOpenFiles": [
-    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "4. World Almanac/Settlements/Bruokdon.md",
+    "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
     "1. DM Stuff/Session Journals/Curse of Strahd/S36 The Big City.md",
     "1. DM Stuff/Session Prep/Curse of Strahd/2026-02-28.md",
     "z_Assets/Locations/bruokdon.png",
