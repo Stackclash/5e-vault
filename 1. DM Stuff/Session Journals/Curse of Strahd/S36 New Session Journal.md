@@ -36,6 +36,10 @@ tags:
 Description of any important information that the party learned.
 Who Did They Meet?
 
+Taverns - The Floating Flagon, Pheonix Diner
+The Fine Star, The Careful Tree Inn, 
+The Boared Hunter
+
 ## Items Of Importance
 
 
