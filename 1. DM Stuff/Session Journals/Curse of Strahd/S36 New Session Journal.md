@@ -41,7 +41,7 @@ Chaz the guard takes them to the register office
 Midnight Covenant is groups name
 Redgrave is a part of Artisan Guild and Watchers over the Fallen
 
-
+Redgrave has a house in [[Bruokdon]].
 
 ## Key Learnings
 Description of any important information that the party learned.
