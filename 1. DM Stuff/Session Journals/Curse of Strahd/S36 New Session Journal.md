@@ -38,7 +38,9 @@ Who Did They Meet?
 
 Taverns - The Floating Flagon, Pheonix Diner
 The Fine Star, The Careful Tree Inn, 
-The Boared Hunter
+The Bored Hunter
+
+Chaz the guard takes them to the register office
 
 ## Items Of Importance
 
