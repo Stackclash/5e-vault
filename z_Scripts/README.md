@@ -58,7 +58,6 @@ Helper modules used by [Templater](https://github.com/SilentVoid13/Templater) te
 - **formFields.js** — **Reusable form field builders.** Factory functions for common Modal Forms field types: `name()`, `alignment()`, `gender()`, `age()`, `textArea()`, `date()`, `tagSelect()`, `tagMultiSelect()`, `folderSelect()`. Each returns a ready-to-use field config object.
 
 #### Other Modules
-- **build_yaml.js** — Recursive YAML frontmatter builder.
 - **dndBeyondCharacter.js** — Imports character data from D&D Beyond.
 - **find_file.js** — Fuzzy file search using minisearch.
 - **get_all_files.js** — Recursive vault file listing.
