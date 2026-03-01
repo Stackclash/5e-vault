@@ -31,11 +31,7 @@ tags:
 ## Session Overview
 > [!div|no-t clean]
 > `INPUT[textArea:summary]`
-
-## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
-
+## General Notes
 Taverns - The Floating Flagon, Pheonix Diner
 The Fine Star, The Careful Tree Inn, 
 The Bored Hunter
@@ -44,6 +40,10 @@ Chaz the guard takes them to the register office
 
 Midnight Covenant is groups name
 Redgrave - Artisan Guild and Watchers over the Fallen
+
+## Key Learnings
+Description of any important information that the party learned.
+Who Did They Meet?
 
 ## Items Of Importance
 
