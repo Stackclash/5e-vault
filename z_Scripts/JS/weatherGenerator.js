@@ -127,7 +127,7 @@ const getPercentThroughSeason = (date) => {
  * @param {string} date - Date in the format 'MM-DD-YYYY'
  * @returns {number} - The base temperature based on the percentage through the season
  */
-const getTempBaseOnPrecentThroughSeason = (climate, date) => {
+const getTempBaseOnPercentThroughSeason = (climate, date) => {
     const currentTempBase = getTempBaseTemp(climate, getSeason(date).name)
     const percentToNextSeason = getPercentThroughSeason(date)
     const tempFluxToClosestSeason = percentToNextSeason - .5
@@ -143,7 +143,7 @@ const getTempBaseOnPrecentThroughSeason = (climate, date) => {
  * @returns {object} - The temperature range for the date
  */
 const getTempRange = (climate, date) => {
-    const currentTempBase = getTempBaseOnPrecentThroughSeason(climate, date)
+    const currentTempBase = getTempBaseOnPercentThroughSeason(climate, date)
     const randomTempFlux = parseFloat((Math.random() * tempFlux).toFixed(2))
     return { 
         low: (currentTempBase - randomTempFlux).toFixed(1),
@@ -235,12 +235,7 @@ const getWeatherForYearByClimate = (climate, year) => {
 }
 
 /**
- * Returns the states for the weather
- * @param {object} weather - The weather object
- * @returns {object} - The states object
- */
-/**
- * Safely evaluates a weather condition string without using eval().
+ * Safely evaluates a weather condition string without using eval.
  * Supports: boolean variable checks, and comparisons with <, >, <=, >=, ==, !=
  * @param {string} condition - A condition like "precipitation", "random < 70", "tempLow > 32"
  * @param {object} vars - An object mapping variable names to their values
@@ -275,6 +270,11 @@ const evaluateCondition = (condition, vars) => {
     }
 }
 
+/**
+ * Returns the states for the weather
+ * @param {object} weather - The weather object
+ * @returns {object} - The states object
+ */
 const getStates = (weather) => {
     const {date, season, tempRange: {low: tempLow,high: tempHigh}, precipitation, wind: windSpeed} = weather
     const random = Math.random() * 100
@@ -297,7 +297,7 @@ const date = '3-20-213'
 // console.log(`Next Season:`, getNextSeason(date))
 // console.log(`Prev Season:`, getPrevSeason(date))
 // console.log(`Percent Through Season: ${getPercentThroughSeason(date)}`)
-// console.log(`Temp Base Based on Percent Through Season: ${getTempBaseOnPrecentThroughSeason('Coast', date)}`)
+// console.log(`Temp Base Based on Percent Through Season: ${getTempBaseOnPercentThroughSeason('Coast', date)}`)
 // console.log(`Temp Range: ${JSON.stringify(getTempRange('Coast', date))}`)
 // console.log(`Precipitation: ${getPrecipitation('Coast', date)}`)
 // console.log(`Wind: ${getWind('Coast')}`)
@@ -313,7 +313,7 @@ console.log('Season: ', getSeason(date).name)
 console.log('Get Percent Through Season: ', getPercentThroughSeason(date))
 console.log('Base Temp: ', getTempBaseTemp('Coast', getSeason(date).name))
 console.log('Temp Range: ', getTempRange('Coast', date))
-console.log('Base Temp Based on Percent Through Season: ', getTempBaseOnPrecentThroughSeason('Coast', date))
+console.log('Base Temp Based on Percent Through Season: ', getTempBaseOnPercentThroughSeason('Coast', date))
 // const totalDaysInYear = yearWeather.length
 // let totalRainDays = 0
 // yearWeather.forEach(weather => {
