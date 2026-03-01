@@ -47,18 +47,25 @@ Arnoth the [[Goliath (MPMM)]] is owner of the Golden Hammer
 750gp for Dagger +3
 500gp for Bracers of Defense
 500gp for Longbow +2
+750gp Animated Shield
 
 Item cards to create:
 - Bloodrage Axe
 - Robe of Useful Items
 - Boots of Sprinting and Jumping
+- Animated Shield
 
 Current Magic Item Inventory:
-- Redgrave
-- Faerah
-- Roark
-- Yevelda
-- Wisp
+- Redgrave:
+	- 
+- Faerah:
+	- 
+- Roark:
+	- 
+- Yevelda:
+	- 
+- Wisp:
+	- 
 
 ## Key Learnings
 Description of any important information that the party learned.
