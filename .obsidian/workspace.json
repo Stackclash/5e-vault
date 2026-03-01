@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Spells/Dispel Magic.md",
+                "file": "5. Mechanics/Spells/Dimension Door.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dispel Magic"
+              "title": "Dimension Door"
             }
           }
         ],
@@ -383,6 +383,10 @@
   },
   "active": "5aee935223b420d2",
   "lastOpenFiles": [
+    "5. Mechanics/Spells/Far Step (XGE).md",
+    "5. Mechanics/Spells/Misty Step.md",
+    "5. Mechanics/Spells/Command.md",
+    "5. Mechanics/Spells/Dispel Magic.md",
     "5. Mechanics/Spells/Major Image.md",
     "5. Mechanics/Spells/Detect Magic.md",
     "1. DM Stuff/Configuration.md",
@@ -412,10 +416,6 @@
     "4. World Almanac/NPCs/token/inda-malayuri-veor.webp",
     "4. World Almanac/NPCs/img/lief-lipsiege.webp",
     "4. World Almanac/NPCs/Bray Martikov (COS).md",
-    "4. World Almanac/NPCs/Ismark Kolyanovich (COS).md",
-    "4. World Almanac/NPCs/Ireena Kolyana (COS).md",
-    "4. World Almanac/NPCs/Brom Martikov (COS).md",
-    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "Excalidraw",
     "1. DM Stuff/Campaigns",
     "z_Scripts/Dataview/utils/generateMetaBindInput.js",
