@@ -45,12 +45,19 @@ Standalone Node.js scripts run outside of Obsidian (from the command line).
 
 ### `Meta Bind/`
 JavaScript actions for the [Meta Bind](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) plugin buttons.
-- **addItem.js** — Adds items to frontmatter arrays.
-- **removeItem.js** — Removes items from frontmatter arrays by index.
-- **moveUp.js** / **moveDown.js** — Reorders items within frontmatter arrays.
+- **arrayActions.js** — **Unified dispatcher** for frontmatter array operations. Supports `add`, `remove`, `moveUp`, and `moveDown` actions via a single `action` argument. Replaces the need for separate per-action files.
+- **addItem.js** — Adds items to frontmatter arrays. *(Legacy — use arrayActions.js for new buttons)*
+- **removeItem.js** — Removes items from frontmatter arrays by index. *(Legacy)*
+- **moveUp.js** / **moveDown.js** — Reorders items within frontmatter arrays. *(Legacy)*
 
 ### `Templater/`
 Helper modules used by [Templater](https://github.com/SilentVoid13/Templater) templates.
+
+#### Shared Modules (used across all templates)
+- **templateInit.js** — **Shared initialization module.** Provides `getPlugins()` for plugin validation and config loading, `openForm()` for modal form handling with auto-cancel detection, and `moveFile()` for file placement. Eliminates ~20 lines of boilerplate per template.
+- **formFields.js** — **Reusable form field builders.** Factory functions for common Modal Forms field types: `name()`, `alignment()`, `gender()`, `age()`, `textArea()`, `date()`, `tagSelect()`, `tagMultiSelect()`, `folderSelect()`. Each returns a ready-to-use field config object.
+
+#### Other Modules
 - **build_yaml.js** — Recursive YAML frontmatter builder.
 - **dndBeyondCharacter.js** — Imports character data from D&D Beyond.
 - **find_file.js** — Fuzzy file search using minisearch.
@@ -63,3 +70,42 @@ Helper modules used by [Templater](https://github.com/SilentVoid13/Templater) te
 2. For shared utilities, use the `utils/` subfolder within the appropriate plugin folder.
 3. For display-focused Dataview scripts, use `Dataview/views/`.
 4. For standalone CLI tools, use `JS/`.
+
+## Creating New Templates
+
+When creating a new Templater template that uses modal forms:
+
+```javascript
+// 1. Import shared modules
+const init = tp.user.templateInit()
+const fields = tp.user.formFields()
+
+// 2. Initialize plugins (validates and loads config)
+const { dataview, modalForm, config, path } = init.getPlugins(tp, ['requiredConfigKey'])
+
+// 3. Open form with reusable field builders
+const data = await init.openForm(modalForm, {
+  title: "My Template Setup",
+  fields: [
+    fields.name("Item Name"),
+    fields.alignment(),
+    fields.tagSelect(dataview, "location", "Location", '#location'),
+  ]
+})
+
+// 4. Move the file
+await init.moveFile(tp, config.locations.myPath, data.name)
+```
+
+## Using arrayActions.js
+
+```yaml
+# In a meta-bind-button block:
+actions:
+  - type: js
+    file: z_Scripts/Meta Bind/arrayActions.js
+    args:
+      action: add      # or: remove, moveUp, moveDown
+      field: items      # frontmatter array field name
+      index: 0          # required for remove/moveUp/moveDown
+```
