@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 active_world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
-active_party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+active_party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 locations:
   preps: 1. DM Stuff/Session Prep/
   journals: 1. DM Stuff/Session Journals/

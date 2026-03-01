@@ -633,7 +633,7 @@ inventory:
     damage: ""
     damageType: ""
     armorClass: ""
-party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 condition: healthy
 location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 tags:

@@ -753,7 +753,7 @@ inventory:
 condition: healthy
 tags:
   - player
-party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 location: "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
 ---
 `$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`

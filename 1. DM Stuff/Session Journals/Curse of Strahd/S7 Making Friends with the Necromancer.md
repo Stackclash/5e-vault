@@ -11,7 +11,7 @@ timelines:
 aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
-party: "[[Curse of Strahd]]"
+party: "[[Midnight Covenant]]"
 prep-notes: "[[2023-11-10]]"
 tags:
   - session-journal

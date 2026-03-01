@@ -1,5 +1,5 @@
 ---
-party: "[[3. The Party/Parties/Curse of Strahd.md|Curse of Strahd]]"
+party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 tags:
   - campaign
@@ -14,4 +14,4 @@ obsidianUIMode: preview
 
 
 
-![[Curse of Strahd Campaign.excalidraw|center]]
+![[Midnight Covenant Campaign.excalidraw|center]]
