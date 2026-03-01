@@ -43,7 +43,7 @@ Redgrave is a part of Artisan Guild and Watchers over the Fallen
 
 Redgrave has a house in [[Bruokdon]].
 
-
+Arnoth the [[Goliath (MPMM)]] is owner of the Golden Hammer
 
 ## Key Learnings
 Description of any important information that the party learned.
