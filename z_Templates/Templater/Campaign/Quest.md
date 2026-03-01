@@ -3,63 +3,22 @@ let templateError = false
 let title = null
 let selectedWorld = null
 try {
-  const path = require('path')
-  const dataview = app.plugins.getPlugin("dataview")
-  const modalForm = app.plugins.getPlugin('modalforms')
-  
-  if (tp.config.run_mode !== 0) {
-    throw new Error('This template can only be used to create new files.')
-  }
+  const init = tp.user.templateInit()
+  const fields = tp.user.formFields()
+  const { dataview, modalForm, config } = init.getPlugins(tp, ['quests', 'worlds'])
 
-  if (!modalForm || !modalForm.api) {
-    throw new Error('Modal Forms plugin is not available')
-  }
-
-  if (!dataview || !dataview.api) {
-    throw new Error('Dataview plugin is not available')
-  }
-  
-  const config = dataview.api.page('Configuration')
-  
-  if (!config || !config.locations || !config.locations.quests || !config.locations.worlds) {
-    throw new Error('Configuration for file locations is not set up correctly')
-  }
-
-  const result = await modalForm.api.openForm({
+  const data = await init.openForm(modalForm, {
     title: 'Quest Setup',
     fields: [
-      {
-        name: 'name',
-        label: 'Quest Name',
-        description: 'What is the name of the Quest?',
-        isRequired: true,
-        input: {
-          type: 'text'
-        }
-      },
-      {
-        name: 'world',
-        label: 'World',
-        description: 'What World is this Quest for?',
-        isRequired: true,
-        input: {
-          type: "dataview",
-          query: "dv.pages('\"" + config.locations.worlds + "\"').file.name"
-        }
-      }
+      fields.name('Quest Name', 'What is the name of the Quest?'),
+      fields.folderSelect(dataview, 'world', 'World', config.locations.worlds, 'What World is this Quest for?'),
     ]
   })
 
-  if (result.status === 'cancelled') {
-    throw new Error('Modal was Cancelled')
-  }
-
-  const data = result.getData()
-
   title = data.name
-  selectedWorld = dataview.api.page(data.world)
+  selectedWorld = dataview.page(data.world)
 
-  await tp.file.move(path.posix.join(config.locations.quests, title), tp.file.find_tfile(tp.file.title))
+  await init.moveFile(tp, config.locations.quests, title)
 
 } catch (e) {
   templateError = e.message
@@ -70,6 +29,7 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
+playerVisible: false
 active: {}
 completed: {}
 campaign: "<% selectedWorld.file.link %>"

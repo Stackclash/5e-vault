@@ -1,187 +1,33 @@
-// TODO: There should be a place for a description
 <%*
 let templateError = false
 let data = {}
-let dataview = null
 try {
-  const path = require('path')
-  dataview = app.plugins.getPlugin("dataview")
-  const modalForm = app.plugins.getPlugin('modalforms')
+  const init = tp.user.templateInit()
+  const fields = tp.user.formFields()
+  const { dataview, modalForm, config } = init.getPlugins(tp, ['npcs'])
 
-  if (tp.config.run_mode !== 0) {
-    throw new Error('This template can only be used to create new files.')
-  }
-
-  if (!modalForm || !modalForm.api) {
-    throw new Error('Modal Forms plugin is not available')
-  }
-
-  if (!dataview || !dataview.api) {
-    throw new Error('Dataview plugin is not available')
-  }
-
-  const config = dataview.api.page('Configuration')
-
-  if (!config || !config.locations || !config.locations.shops) {
-    throw new Error('Configuration for file locations is not set up correctly')
-  }
-
-  const locations = dataview.api.pages('#location').sort(l => l.file.name, 'asc').array()
-  const races = dataview.api.pages('#race').sort(l => l.file.name, 'asc').array()
-
-  const result = await modalForm.api.openForm({
-    title: "Location Setup",
-    name: "location-setup",
+  data = await init.openForm(modalForm, {
+    title: "NPC Setup",
+    name: "npc-setup",
     fields: [
-      {
-        name: "name",
-        label: "NPC Name",
-        description: "Name of NPC",
-        isRequired: true,
-        input: {
-          type: "text",
-        }
-      },
-      {
-        name: "age",
-        label: "Age",
-        description: "Age of NPC",
-        isRequired: true,
-        input: {
-          type: "number",
-        }
-      },
-      {
-        name: "gender",
-        label: "Gender",
-        description: "Gender of NPC",
-        isRequired: true,
-        input: {
-          type: "select",
-          options: [
-            { label: 'male', value: 'male' },
-            { label: 'female', value: 'female' }
-          ],
-          source: "fixed"
-        }
-      },
-      {
-        name: "race",
-        label: "Race",
-        description: "Race of NPC",
-        isRequired: true,
-        input: {
-          type: "select",
-          options: races.map(r => ({ label: r.file.name, value: r.file.link.toString() })),
-          source: "fixed"
-        }
-      },
-      {
-        name: "alignment",
-        label: "Alignment",
-        description: "Alignment of NPC",
-        isRequired: true,
-        input: {
-          type: "select",
-          options: [
-            { label: 'Lawful Good', value: 'Lawful Good' },
-            { label: 'Neutral Good', value: 'Neutral Good' },
-            { label: 'Chaotic Good', value: 'Chaotic Good' },
-            { label: 'Lawful Neutral', value: 'Lawful Neutral' },
-            { label: 'Neutral', value: 'Neutral' },
-            { label: 'Chaotic Neutral', value: 'Chaotic Neutral' },
-            { label: 'Lawful Evil', value: 'Lawful Evil' },
-            { label: 'Neutral Evil', value: 'Neutral Evil' },
-            { label: 'Chaotic Evil', value: 'Chaotic Evil' }
-          ],
-          source: "fixed"
-        }
-      },
-      {
-        name: "location",
-        label: "Location",
-        description: "Where this shop is located",
-        isRequired: true,
-        input: {
-          type: "select",
-          options: locations.map(l => ({label: l.file.name, value: l.file.link.toString()})),
-          source: "fixed"
-        }
-      },
-      {
-        name: "personality",
-        label: "Personality",
-        description: "Personality of NPC",
-        isRequired: false,
-        input: {
-          type: "textarea"
-        }
-      },
-      {
-        name: "ideal",
-        label: "Ideal",
-        description: "Ideal of NPC",
-        isRequired: false,
-        input: {
-          type: "textarea"
-        }
-      },
-      {
-        name: "bond",
-        label: "Bond",
-        description: "Bond of NPC",
-        isRequired: false,
-        input: {
-          type: "textarea"
-        }
-      },
-      {
-        name: "flaw",
-        label: "Flaw",
-        description: "Flaw of NPC",
-        isRequired: false,
-        input: {
-          type: "textarea"
-        }
-      },
-      {
-        name: "goals",
-        label: "Goals",
-        description: "Goals of NPC",
-        isRequired: false,
-        input: {
-          type: "textarea"
-        }
-      },
-      {
-        name: "likes",
-        label: "Likes",
-        description: "Likes of NPC",
-        isRequired: false,
-        input: {
-          type: "textarea"
-        }
-      },
-      {
-        name: "dislikes",
-        label: "Dislikes",
-        description: "Dislikes of NPC",
-        isRequired: false,
-        input: {
-          type: "textarea"
-        }
-      },
+      fields.name("NPC Name", "Name of NPC"),
+      fields.age(),
+      fields.gender(),
+      fields.tagSelect(dataview, "race", "Race", '#race', "Race of NPC"),
+      fields.alignment(),
+      fields.tagSelect(dataview, "location", "Location", '#location', "Where this NPC is located"),
+      fields.textArea("personality", "Personality", "Personality of NPC"),
+      fields.textArea("ideal", "Ideal", "Ideal of NPC"),
+      fields.textArea("bond", "Bond", "Bond of NPC"),
+      fields.textArea("flaw", "Flaw", "Flaw of NPC"),
+      fields.textArea("goals", "Goals", "Goals of NPC"),
+      fields.textArea("likes", "Likes", "Likes of NPC"),
+      fields.textArea("dislikes", "Dislikes", "Dislikes of NPC"),
     ],
     version: "1"
   })
 
-  if (result.status === 'cancelled') {
-    throw new Error('Modal was Cancelled')
-  }
-
-  data = result.getData()
-
-  await tp.file.move(path.posix.join(config.locations.npcs, data.name), tp.file.find_tfile(tp.file.title))
+  await init.moveFile(tp, config.locations.npcs, data.name)
 } catch (e) {
   templateError = e.message
   console.error(e)
@@ -191,6 +37,7 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
+playerVisible: false
 statblock: inline
 location: "<% data.location %>"
 condition: healthy

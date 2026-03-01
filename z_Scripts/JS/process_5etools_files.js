@@ -264,7 +264,7 @@ const config = {
       enabled: true,
       name: 'Update links in Frontmatter',
       ignore: function(file) {
-        ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
+        return ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)
       },
       target: 'frontMatter',
       process: async function(file) {
