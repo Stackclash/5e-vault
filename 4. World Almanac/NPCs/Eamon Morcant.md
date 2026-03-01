@@ -26,7 +26,7 @@ goals: To live my final years in peace
 likes: A relaxing day with a beautiful sunset.
 dislikes: Drama
 partyRelationships:
-  Curse of Strahd: Acquaintance
+  Midnight Covenant: Acquaintance
 ---
 
 > [!infobox]

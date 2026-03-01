@@ -29,7 +29,7 @@ goals:
 likes: The craft of winemaking, birds, the quiet of nature.
 dislikes: Threats to his family and winery, Strahd and his minions, failure to protect his loved ones
 partyRelationships:
-  Curse of Strahd: Ally
+  Midnight Covenant: Ally
 ---
 
 > [!infobox | wsmall]
