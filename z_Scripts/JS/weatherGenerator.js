@@ -2,7 +2,8 @@ const matter = require('gray-matter')
 const fs = require('fs')
 const path = require('path')
 
-const { tempFlux, seasons, months, climates, states } = matter(fs.readFileSync(path.join(__dirname, '1. DM Stuff/DM To-Do/Weather Generation.md'), 'utf8')).data
+const vaultRoot = path.resolve(__dirname, '../../')
+const { tempFlux, seasons, months, climates, states } = matter(fs.readFileSync(path.join(vaultRoot, '1. DM Stuff/Tools/Weather Generation.md'), 'utf8')).data
 
 /**
  * Returns the day of the year based on the date
@@ -126,7 +127,7 @@ const getPercentThroughSeason = (date) => {
  * @param {string} date - Date in the format 'MM-DD-YYYY'
  * @returns {number} - The base temperature based on the percentage through the season
  */
-const getTempBaseOnPrecentThroughSeason = (climate, date) => {
+const getTempBaseOnPercentThroughSeason = (climate, date) => {
     const currentTempBase = getTempBaseTemp(climate, getSeason(date).name)
     const percentToNextSeason = getPercentThroughSeason(date)
     const tempFluxToClosestSeason = percentToNextSeason - .5
@@ -142,7 +143,7 @@ const getTempBaseOnPrecentThroughSeason = (climate, date) => {
  * @returns {object} - The temperature range for the date
  */
 const getTempRange = (climate, date) => {
-    const currentTempBase = getTempBaseOnPrecentThroughSeason(climate, date)
+    const currentTempBase = getTempBaseOnPercentThroughSeason(climate, date)
     const randomTempFlux = parseFloat((Math.random() * tempFlux).toFixed(2))
     return { 
         low: (currentTempBase - randomTempFlux).toFixed(1),
@@ -234,6 +235,42 @@ const getWeatherForYearByClimate = (climate, year) => {
 }
 
 /**
+ * Safely evaluates a weather condition string without using eval.
+ * Supports: boolean variable checks, and comparisons with <, >, <=, >=, ==, !=
+ * @param {string} condition - A condition like "precipitation", "random < 70", "tempLow > 32"
+ * @param {object} vars - An object mapping variable names to their values
+ * @returns {boolean} - The result of the condition
+ */
+const evaluateCondition = (condition, vars) => {
+    const trimmed = condition.trim()
+    const match = trimmed.match(/^(.+?)\s*(<=|>=|!=|==|<|>)\s*(.+)$/)
+    if (!match) {
+        const val = vars.hasOwnProperty(trimmed) ? vars[trimmed] : undefined
+        return !!val
+    }
+    const [, leftStr, operator, rightStr] = match
+    const resolve = (token) => {
+        const t = token.trim()
+        if (vars.hasOwnProperty(t)) return Number(vars[t])
+        const num = Number(t)
+        if (!isNaN(num)) return num
+        return undefined
+    }
+    const left = resolve(leftStr)
+    const right = resolve(rightStr)
+    if (left === undefined || right === undefined) return false
+    switch (operator) {
+        case '<': return left < right
+        case '>': return left > right
+        case '<=': return left <= right
+        case '>=': return left >= right
+        case '==': return left === right
+        case '!=': return left !== right
+        default: return false
+    }
+}
+
+/**
  * Returns the states for the weather
  * @param {object} weather - The weather object
  * @returns {object} - The states object
@@ -241,9 +278,10 @@ const getWeatherForYearByClimate = (climate, year) => {
 const getStates = (weather) => {
     const {date, season, tempRange: {low: tempLow,high: tempHigh}, precipitation, wind: windSpeed} = weather
     const random = Math.random() * 100
+    const vars = { date, season, tempLow: Number(tempLow), tempHigh: Number(tempHigh), precipitation, windSpeed: Number(windSpeed), random }
     const conditionStates = { }
     states.forEach(state => {
-        if (state.conditions.every(condition => eval(condition))) {
+        if (state.conditions.every(condition => evaluateCondition(condition, vars))) {
             if (!conditionStates.hasOwnProperty(state.category)) conditionStates[state.category] = { name: '', rules: [] }
             conditionStates[state.category].name.length > 0 ? conditionStates[state.category].name += `, ${state.name}` : conditionStates[state.category].name = state.name
             conditionStates[state.category].rules.push(...state.rules)
@@ -259,7 +297,7 @@ const date = '3-20-213'
 // console.log(`Next Season:`, getNextSeason(date))
 // console.log(`Prev Season:`, getPrevSeason(date))
 // console.log(`Percent Through Season: ${getPercentThroughSeason(date)}`)
-// console.log(`Temp Base Based on Percent Through Season: ${getTempBaseOnPrecentThroughSeason('Coast', date)}`)
+// console.log(`Temp Base Based on Percent Through Season: ${getTempBaseOnPercentThroughSeason('Coast', date)}`)
 // console.log(`Temp Range: ${JSON.stringify(getTempRange('Coast', date))}`)
 // console.log(`Precipitation: ${getPrecipitation('Coast', date)}`)
 // console.log(`Wind: ${getWind('Coast')}`)
@@ -275,7 +313,7 @@ console.log('Season: ', getSeason(date).name)
 console.log('Get Percent Through Season: ', getPercentThroughSeason(date))
 console.log('Base Temp: ', getTempBaseTemp('Coast', getSeason(date).name))
 console.log('Temp Range: ', getTempRange('Coast', date))
-console.log('Base Temp Based on Percent Through Season: ', getTempBaseOnPrecentThroughSeason('Coast', date))
+console.log('Base Temp Based on Percent Through Season: ', getTempBaseOnPercentThroughSeason('Coast', date))
 // const totalDaysInYear = yearWeather.length
 // let totalRainDays = 0
 // yearWeather.forEach(weather => {
