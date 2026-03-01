@@ -61,12 +61,18 @@ Current Magic Item Inventory:
 - Redgrave:
 	- [[1 Shield]]
 	- [[Animated Shield]]
+	- [[Cloak Of Protection]]
+	- [[Sunsword (COS)]]
+	- [[Holy Symbol Of Ravenkind (COS)]]
 - Faerah:
-	- Boots of flying
+	- [[Winged Boots]]
 	- [[Cloak Of Elvenkind]]
+	- [[Pipes Of Haunting]]
+	- +2 Longbow
 - Roark:
 	- +2 Sword
 	- Amulet of the Drunkard
+	- +3 Dagger
 - Yevelda:
 	- Bloodrage Axe
 	- [[Boots Of Striding And Springing]]
@@ -77,7 +83,6 @@ Current Magic Item Inventory:
 	- [[Eyes Of Minute Seeing]]
 	- [[Amulet Of Health]]
 	- [[Driftglobe]]
-	- [[Pipes Of Haunting]]
 
 ## Key Learnings
 Description of any important information that the party learned.
