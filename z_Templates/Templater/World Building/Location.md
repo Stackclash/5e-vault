@@ -2,6 +2,7 @@
 let templateError = false
 let data = null
 const typeLocations = {
+  World: 'worlds',
   Region: 'regions',
   Settlement: 'settlements',
   "Place of Interest": 'pois'
@@ -9,7 +10,7 @@ const typeLocations = {
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
-  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['regions', 'settlements', 'pois'])
+  const { dataview, modalForm, config, path } = init.getPlugins(tp, ['worlds', 'regions', 'settlements', 'pois'])
 
   data = await init.openForm(modalForm, {
     title: "Location Setup",
@@ -27,7 +28,7 @@ try {
           source: "fixed"
         }
       },
-      fields.tagSelect(dataview, "location", "Parent Location", '#location', "Where this location is located"),
+      fields.tagOptionalSelect(dataview, "location", "Parent Location", '#location', "Where this location is located"),
     ],
     version: "1"
   })
@@ -44,7 +45,9 @@ try {
 ---
 obsidianUIMode: preview
 playerVisible: false
+<%* if (data.location) { -%>
 location: "<% data.location %>"
+<%* } -%>
 images:
 - z_Assets/PlaceholderImage.png
 pronounced: 
@@ -60,7 +63,7 @@ exports: []
 aliases: []
 tags:
   - location
-  - <% Object.keys(typeLocations).find(k => typeLocations[k] === data.type).toLowerCase().replace(' ', '-') %>
+  - <% Object.keys(typeLocations).find(k => typeLocations[k] === data.type).toLowerCase().replace(/ /g, '-') %>
 ---
 > [!infobox]
 > # `=this.file.name`

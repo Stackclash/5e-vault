@@ -113,6 +113,30 @@ function tagSelect(dv, fieldName, label, tag, description) {
 }
 
 /**
+ * Optional select input populated from a Dataview query (pages with a tag).
+ * Same as tagSelect but isRequired is false.
+ * @param {object} dv - Dataview API
+ * @param {string} fieldName - Form field name
+ * @param {string} label - Display label
+ * @param {string} tag - Tag to query (e.g., '#location')
+ * @param {string} [description] - Field description
+ */
+function tagOptionalSelect(dv, fieldName, label, tag, description) {
+    const pages = dv.pages(tag).sort(p => p.file.name, 'asc').array()
+    return {
+        name: fieldName,
+        label,
+        description: description || label,
+        isRequired: false,
+        input: {
+            type: "select",
+            options: pages.map(p => ({ label: p.file.name, value: p.file.link.toString() })),
+            source: "fixed"
+        }
+    }
+}
+
+/**
  * Multi-select input populated from a Dataview query.
  * @param {object} dv - Dataview API
  * @param {string} fieldName - Form field name
@@ -158,5 +182,5 @@ function folderSelect(dv, fieldName, label, folderPath, description) {
 
 module.exports = {
     name, alignment, gender, age, textArea, date,
-    tagSelect, tagMultiSelect, folderSelect
+    tagSelect, tagOptionalSelect, tagMultiSelect, folderSelect
 }

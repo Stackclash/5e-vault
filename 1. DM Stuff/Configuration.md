@@ -103,8 +103,9 @@ return function View() {
 | World Building            | Party                             |
 | ------------------------- | --------------------------------- |
 | `BUTTON[create-npc]`      | `BUTTON[create-player-character]` |
-| `BUTTON[create-location]` | `BUTTON[create-session-journal]`  |
-| `BUTTON[create-shop]`     | `BUTTON[create-session-prep]`     |
+| `BUTTON[create-world]`    | `BUTTON[create-session-journal]`  |
+| `BUTTON[create-location]` | `BUTTON[create-session-prep]`     |
+| `BUTTON[create-shop]`     |                                   |
 ```meta-bind-button
 style: primary
 label: Create NPC
@@ -113,6 +114,15 @@ hidden: true
 actions:
   - type: templaterCreateNote
     templateFile: "z_Templates/Templater/World Building/NPC.md"
+```
+```meta-bind-button
+style: primary
+label: Create World
+id: create-world
+hidden: true
+actions:
+  - type: templaterCreateNote
+    templateFile: "z_Templates/Templater/World Building/World.md"
 ```
 ```meta-bind-button
 style: primary
