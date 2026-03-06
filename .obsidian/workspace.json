@@ -237,16 +237,6 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "8bab9cd1e9d553ed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Sidepanel"
-            }
           }
         ],
         "currentTab": 2
@@ -296,7 +286,8 @@
       "modalforms:Edit forms": false,
       "remotely-save:Remotely Save": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "14bfb7ff62d93620",
