@@ -18,7 +18,9 @@ obsidianUIMode: preview
 
 # Scratch Notes
 ## Vecna's goals and Steps to get there
-1. 
+### End Goal: Become the God of Truth and dominate reality itself
+1. Force truth into the world to the point where a God is required
+2. 
 ## Character Tie-Ins
 ### [[Redgrave]]
 - Revealed that the soul belongs to a member of the order of the Silver Dragon
