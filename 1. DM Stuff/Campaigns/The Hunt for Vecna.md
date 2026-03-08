@@ -14,4 +14,12 @@ obsidianUIMode: preview
 
 
 
-![[.excalidraw|center]]
+![[The Hunt for Vecna.excalidraw|center]]
+
+# Scratch Notes
+## Vecna's goals and Steps to get there
+## Character Tie-Ins
+### [[Redgrave]]
+### [[Faerah Duskrane]]
+### [[Yevelda Ovak]]
+### 
