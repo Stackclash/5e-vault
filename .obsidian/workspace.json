@@ -8,20 +8,47 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d8e956e7eb8b6e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DM Stuff/Campaigns/Truth of Vecna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Truth of Vecna"
+            }
+          },
+          {
+            "id": "ba127654c239d9c4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Curse of Strahd Campaign.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Curse of Strahd Campaign.excalidraw"
+            }
+          },
+          {
             "id": "14bfb7ff62d93620",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Stuff/Campaigns/The Hunt for Vecna.md",
+                "file": "1. DM Stuff/Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Hunt for Vecna"
+              "title": "Inbox"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,16 +237,6 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "8bab9cd1e9d553ed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw-sidepanel",
-              "state": {},
-              "icon": "excalidraw-icon",
-              "title": "Excalidraw Sidepanel"
-            }
           }
         ],
         "currentTab": 2
@@ -257,20 +274,20 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": true,
-      "obsidian42-brat:BRAT": true,
-      "obsidian-excalidraw-plugin:New drawing": true,
-      "fantasy-content-generator:Fantasy Generators": true,
-      "obsidian-5e-statblocks:Open Creature pane": true,
-      "obsidian-git:Open Git source control": true,
-      "initiative-tracker:Initiative Tracker Encounter Builder": true,
-      "obsidian-kanban:Create new board": true,
-      "obsidian-leaflet-plugin:Open Leaflet Map": true,
-      "media-extended:Open external media": true,
-      "modalforms:Edit forms": true,
-      "remotely-save:Remotely Save": true,
-      "solo-rpg-toolkit:Solo RPG Toolkit": true,
-      "templater-obsidian:Templater": true,
-      "calendarium:Open Calendarium": true
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "media-extended:Open external media": false,
+      "modalforms:Edit forms": false,
+      "remotely-save:Remotely Save": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "14bfb7ff62d93620",
@@ -291,6 +308,7 @@
     "z_Scripts/JS/weatherGenerator.js",
     "z_Scripts/JS/process_5etools_files.js",
     "1. DM Stuff/DM Quick Reference.md",
+    "Excalidraw/The Hunt for Vecna.excalidraw.md",
     "1. DM Stuff/Session Prep/Midnight Covenant/2026-02-28.md",
     "1. DM Stuff/Session Prep/Midnight Covenant/2026-01-11.md",
     "1. DM Stuff/Session Prep/Midnight Covenant/2025-12-21.md",
