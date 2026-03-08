@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Stuff/Inbox.md",
-                "mode": "source",
+                "file": "1. DM Stuff/Campaigns/The Hunt for Vecna.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "The Hunt for Vecna"
             }
           }
         ],
@@ -292,23 +292,22 @@
   },
   "active": "14bfb7ff62d93620",
   "lastOpenFiles": [
-    "5. Mechanics/Deities/Drow Eilistraee (MTF).md",
-    "1. DM Stuff/Campaigns/The Hunt for Vecna.md",
-    "2. Scratch Notes/House Rule Ideas.md",
-    "2. Scratch Notes/D&D Ideas.md",
-    "2. Scratch Notes/1722143410726 - Encounter.md",
-    "3. The Party/Parties/Midnight Covenant.md",
-    "3. The Party/Players/Marin.md",
+    "Excalidraw/The Hunt for Vecna.excalidraw.md",
+    "1. DM Stuff/Inbox.md",
     "3. The Party/Players/Wisp.md",
     "3. The Party/Players/Roark Battleborn.md",
-    "Excalidraw/The Hunt for Vecna.excalidraw.md",
+    "1. DM Stuff/Websites.md",
+    "2. Scratch Notes/D&D Ideas.md",
+    "2. Scratch Notes/Campaign Ideas.md",
+    "2. Scratch Notes/1737347277071 - Gulthias Tree Guard Druids.md",
+    "2. Scratch Notes/1736661087378 - Wizard of Wines.md",
+    "2. Scratch Notes/1736655231527 - Combat.md",
+    "2. Scratch Notes/1722143410726 - Encounter.md",
     "4. World Almanac/NPCs/Anastrasya Karelova (COS).md",
     "z_Scripts/README.md",
-    "1. DM Stuff/Inbox.md",
     "z_Scripts/JS/weatherGenerator.js",
     "z_Scripts/JS/process_5etools_files.js",
     "1. DM Stuff/DM Quick Reference.md",
-    "Excalidraw/The Hunt for Vecna.excalidraw.md",
     "1. DM Stuff/Session Prep/Midnight Covenant/2026-02-28.md",
     "1. DM Stuff/Session Prep/Midnight Covenant/2026-01-11.md",
     "1. DM Stuff/Session Prep/Midnight Covenant/2025-12-21.md",
