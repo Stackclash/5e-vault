@@ -14,4 +14,4 @@ obsidianUIMode: preview
 
 
 
-![[Midnight Covenant Campaign.excalidraw|center]]
+![[.excalidraw|center]]
