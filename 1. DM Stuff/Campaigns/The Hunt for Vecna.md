@@ -22,4 +22,5 @@ obsidianUIMode: preview
 ### [[Redgrave]]
 ### [[Faerah Duskrane]]
 ### [[Yevelda Ovak]]
+### [[Wisp]]
 ### 

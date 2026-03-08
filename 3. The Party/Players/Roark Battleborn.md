@@ -2,29 +2,29 @@
 obsidianUIMode: preview
 statblock: true
 active: true
-name: "Yevelda Ovak "
+name: Roark Battleborn
 level: 10
 ac: 15
-hp: 92
+hp: 137
 modifier: 2
 proficiency: 4
-url: https://dndbeyond.com/characters/103814449
-image: https://www.dndbeyond.com/avatars/17/342/636377874944041516.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+url: https://dndbeyond.com/characters/146541185
+image: https://www.dndbeyond.com/avatars/17/230/636377844267563561.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
 race: "[[5. Mechanics/Races/Human.md|Human]]"
-alignment: '"Chaotic Neutral"'
+alignment: character.alignment
 description:
-  gender: FEMALE
+  gender:
   age:
   hair:
   eyes:
   skin:
-  height: 6’4
-  weight: 275
+  height:
+  weight:
   size: ""
 passives:
-  perception: 15
+  perception: 14
   investigation: 10
-  insight: 11
+  insight: 10
 proficiencies:
   armor:
     - Light Armor
@@ -33,20 +33,20 @@ proficiencies:
   weapons:
     - Simple Weapons
     - Martial Weapons
-    - Improvised Weapons
   tools: []
   languages:
     - Common
-    - Infernal
-    - Abyssal
+    - Giant
 speed: 30
 defences:
   immunities: []
   resistances: []
 background:
   background:
-    name: Outlander
-    description: <p>You grew up in the wilds, far from the comforts of town and technology. You’ve witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don’t know the specific features of the terrain, you know the ways of the wild.</p>
+    name: Soldier
+    description: "<p>War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army or a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.</p>\r
+
+      <p>When you choose this background, work with your DM to determine which military organization you were a part of, how far through its ranks you progressed, and what kind of experiences you had during your military career. Was it a standing army, a town guard, or a village militia? Or it might have been a noble’s or merchant’s private army, or a mercenary company.</p>"
   backstory:
   organizations:
   allies:
@@ -54,31 +54,31 @@ background:
   notes:
 classes:
   - name: "[[5. Mechanics/Classes/Barbarian.md|Barbarian]]"
-    subClass: "[[5. Mechanics/Classes/Barbarian Path Of The Totem Warrior.md|Barbarian Path Of The Totem Warrior]]"
+    subClass: "[[5. Mechanics/Classes/Barbarian Path Of The Berserker.md|Barbarian Path Of The Berserker]]"
     level: 10
 abilityScores:
   strength:
-    value: 20
-    modifier: 5
+    value: 17
+    modifier: 3
   dexterity:
-    value: 14
+    value: 15
     modifier: 2
   constitution:
-    value: 16
+    value: 17
     modifier: 3
   intelligence:
-    value: 10
+    value: 11
     modifier: 0
   wisdom:
-    value: 13
-    modifier: 1
+    value: 11
+    modifier: 0
   charisma:
-    value: 12
-    modifier: 1
+    value: 11
+    modifier: 0
 savingThrows:
   strength:
-    value: 9
-    baseValue: 5
+    value: 7
+    baseValue: 3
     proficiency: true
   dexterity:
     value: 2
@@ -93,25 +93,25 @@ savingThrows:
     baseValue: 0
     proficiency: false
   wisdom:
-    value: 1
-    baseValue: 1
+    value: 0
+    baseValue: 0
     proficiency: false
   charisma:
-    value: 1
-    baseValue: 1
+    value: 0
+    baseValue: 0
     proficiency: false
   notes: []
 skills:
   acrobatics:
-    value: 6
+    value: 2
     baseValue: 2
-    proficiency: true
+    proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   animal-handling:
-    value: 1
-    baseValue: 1
+    value: 0
+    baseValue: 0
     proficiency: false
     expertise: false
     disadvantage: false
@@ -124,15 +124,15 @@ skills:
     disadvantage: false
     advantage: false
   athletics:
-    value: 9
-    baseValue: 5
+    value: 7
+    baseValue: 3
     proficiency: true
     expertise: false
     disadvantage: false
     advantage: false
   deception:
-    value: 1
-    baseValue: 1
+    value: 0
+    baseValue: 0
     proficiency: false
     expertise: false
     disadvantage: false
@@ -145,15 +145,15 @@ skills:
     disadvantage: false
     advantage: false
   insight:
-    value: 1
-    baseValue: 1
+    value: 0
+    baseValue: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   intimidation:
-    value: 5
-    baseValue: 1
+    value: 4
+    baseValue: 0
     proficiency: true
     expertise: false
     disadvantage: false
@@ -166,8 +166,8 @@ skills:
     disadvantage: false
     advantage: false
   medicine:
-    value: 1
-    baseValue: 1
+    value: 0
+    baseValue: 0
     proficiency: false
     expertise: false
     disadvantage: false
@@ -180,22 +180,22 @@ skills:
     disadvantage: false
     advantage: false
   perception:
-    value: 5
-    baseValue: 1
+    value: 4
+    baseValue: 0
     proficiency: true
     expertise: false
     disadvantage: false
     advantage: false
   performance:
-    value: 1
-    baseValue: 1
+    value: 0
+    baseValue: 0
     proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   persuasion:
-    value: 1
-    baseValue: 1
+    value: 0
+    baseValue: 0
     proficiency: false
     expertise: false
     disadvantage: false
@@ -215,15 +215,15 @@ skills:
     disadvantage: false
     advantage: false
   stealth:
-    value: 6
+    value: 2
     baseValue: 2
-    proficiency: true
+    proficiency: false
     expertise: false
     disadvantage: false
     advantage: false
   survival:
-    value: 5
-    baseValue: 1
+    value: 4
+    baseValue: 0
     proficiency: true
     expertise: false
     disadvantage: false
@@ -234,14 +234,12 @@ racialTraits:
   - name: Ability Score Increase
     description: Your ability scores each increase by 1.
 classFeatures:
-  - name: Spirit Seeker
-    description: You can cast beast sense and speak with animals as rituals.
-  - name: Totem Spirit
-    description: You have adopted a totem spirit.
-  - name: Aspect of the Beast
-    description: You gain a magical benefit based on the totem animal of your choice.
-  - name: Spirit Walker
-    description: You can cast the commune with nature spell as a ritual.
+  - name: Frenzy
+    description: While raging, you can choose to frenzy. You can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion.
+  - name: Mindless Rage
+    description: You can’t be charmed or frightened while raging.
+  - name: Intimidating Presence
+    description: You can frighten a creature that you can see within 30 ft. If it can see and hear you, it must succeed on a WIS saving throw (DC 12 or be frightened until the end of your next turn. You can use your action to extend the duration of this effect each turn, unless it moves out of line of sight or more than 60 ft. away from you.
   - name: Rage
     description: As a bonus action enter a rage for up to 1 minute (10 rounds). You gain advantage on STR checks and saving throws (not attacks), {{scalevalue#signed}} melee damage with STR weapons, resistance to bludgeoning, piercing, slashing damage. You can't cast or concentrate on spells while raging. Your rage ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action.
   - name: Unarmored Defense
@@ -259,176 +257,22 @@ classFeatures:
   - name: Brutal Critical
     description: You can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 feats:
-  - name: Tavern Brawler
-    description: Increase your STR or CON score by 1. You are proficient with improvised weapons. Your unarmed strike uses a d4 for damage. When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
+  - name: Hero's Journey Boon
+    description: At your GM's discretion you have been granted a Hero's Journey Boon.
 raceSpells: []
 classSpells: []
 currencies:
-  cp: 70
-  sp: 7
-  gp: 47
+  cp: 0
+  sp: 0
+  gp: 0
   ep: 0
   pp: 0
-inventory:
-  - name: "[[5. Mechanics/Items/Potion Of Greater Healing.md|Potion Of Greater Healing]]"
-    type: Potion
-    rarity: Uncommon
-    quantity: 0
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
-    type: Weapon
-    rarity: Common
-    quantity: 1
-    canEquip: true
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: 1d6
-    damageType: Slashing
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Handaxe.md|Handaxe]]"
-    type: Weapon
-    rarity: Common
-    quantity: 1
-    canEquip: true
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: 1d6
-    damageType: Slashing
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Javelin.md|Javelin]]"
-    type: Weapon
-    rarity: Common
-    quantity: 4
-    canEquip: true
-    equipped: true
-    canAttune: false
-    attuned: false
-    damage: 1d6
-    damageType: Piercing
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Greataxe.md|Greataxe]]"
-    type: Weapon
-    rarity: Common
-    quantity: 1
-    canEquip: true
-    equipped: true
-    canAttune: false
-    attuned: false
-    damage: 1d12
-    damageType: Slashing
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Backpack.md|Backpack]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 1
-    canEquip: true
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Thieves Tools.md|Thieves Tools]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Bedroll.md|Bedroll]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Mess Kit.md|Mess Kit]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Rations 1 Day.md|Rations 1 Day]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 29
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Hempen Rope 50 Feet.md|Hempen Rope 50 Feet]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Tinderbox.md|Tinderbox]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Torch.md|Torch]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 10
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-  - name: "[[5. Mechanics/Items/Waterskin.md|Waterskin]]"
-    type: Other Gear
-    rarity: Common
-    quantity: 1
-    canEquip: false
-    equipped: false
-    canAttune: false
-    attuned: false
-    damage: ""
-    damageType: ""
-    armorClass: ""
-party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
+inventory: []
 condition: healthy
-location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 tags:
   - player
+party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
+location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 ---
 `$="[![Char Image\|clear left circle hsmall wsmall lp](" + dv.current().image + ")](" + dv.current().url + ")"`
 ## `$=[dv.current().alignment, dv.current().race, dv.current().classes[0].name].join(' ')` `BUTTON[updateDnDBeyond]`
@@ -445,10 +289,63 @@ actions:
       const dndBeyondId = app.metadataCache.getFileCache(activeFile).frontmatter.url.match(/\d+$/)[0]
       const character = new dndBeyondCharacter(dndBeyondId)
       await character.initialize()
-      const frontmatter = await character.generateFrontMatter()
+      const find_file = await self.require.import('z_Scripts/Templater/find_file.js')
 
-      app.fileManager.processFrontMatter(activeFile, (fm) => {
-        fm = frontmatter
+      app.fileManager.processFrontMatter(activeFile, async (fm) => {
+        fm.name = character.name
+        fm.level = character.level
+        fm.ac = character.armorClass
+        fm.hp = character.healthPoints.current
+        fm.modifier = character.initiative
+        fm.proficiency = character.proficiencyBonus
+        fm.url = character.url
+        fm.image = character.image
+        fm.race = `"${await find_file(character.race.fullName, '5. Mechanics/Races')}"`
+        fm.alignment = `"${character.alignment}"`
+        fm.description = character.description
+        fm.passives = character.passives
+        fm.proficiencies = character.proficiencies
+        fm.speed = character.speeds.walk
+        fm.defences = character.defences
+        fm.background = character.background
+        // FIXME: Classes is not updating
+        fm.classes = await Promise.all(character.classes.map(async (characterClass) => {
+          return {
+            name: await find_file(characterClass.name, '5. Mechanics/Classes'),
+            subClass: await find_file(characterClass.subClass, '5. Mechanics/Classes'),
+            level: characterClass.level
+          }
+        }))
+        fm.abilityScores = character.abilityScores
+        fm.savingThrows = character.savingThrows
+        fm.skills = character.skills
+        fm.racialTraits = character.racialTraits
+        fm.classFeatures = character.classFeatures
+        fm.feats = character.feats
+        fm.raceSpells = character.spells.race
+        fm.classSpells = await Promise.all(character.spells.class.map(async (classSpell) => {
+          return {
+            name: await find_file(classSpell, '5. Mechanics/Spells'),
+            level: classSpell.level,
+            isPrepared: classSpell.isPrepared
+          }
+        }))
+        fm.currencies = character.currencies
+        fm.inventory = await Promise.all(character.inventory.map(async (inv) => {
+          return {
+            name: await find_file(inv.name, '5. Mechanics/Items'),
+            type: inv.type,
+            rarity: inv.rarity,
+            quantity: inv.quantity,
+            canEquip: inv.canEquip,
+            equipped: inv.equipped,
+            canAttune: inv.canAttune,
+            attuned: inv.attuned,
+            damage: inv.damage,
+            damageType: inv.damageType,
+            armorClass: inv.armorClass
+          }
+        }))
       })
 ```
 

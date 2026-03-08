@@ -596,7 +596,7 @@ inventory:
     armorClass: ""
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 condition: healthy
-location: "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
+location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 tags:
   - player
 ---
