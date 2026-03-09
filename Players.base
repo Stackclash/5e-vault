@@ -5,17 +5,28 @@ formulas:
   strength: abilityScores.strength.value
   dexterity: abilityScores.dexterity.value
   constitution: abilityScores.constitution.value
+  intelligence: abilityScores.intelligence.value
+  wisdom: abilityScores.wisdom.value
+  charisma: abilityScores.charisma.value
+  class: classes[0].name
 views:
   - type: table
     name: Table
     order:
+      - active
       - file.name
       - level
+      - formula.class
       - race
       - location
       - formula.strength
       - formula.dexterity
       - formula.constitution
+      - formula.intelligence
+      - formula.wisdom
+      - formula.charisma
+      - ac
+    sort: []
     summaries: {}
     columnSize:
       note.level: 143
@@ -31,5 +42,3 @@ views:
     image: note.image
     imageFit: contain
     imageAspectRatio: 0.55
-  - type: list
-    name: View 2

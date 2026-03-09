@@ -1,0 +1,6 @@
+---
+active:
+level:
+race:
+location:
+---

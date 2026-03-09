@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.tags.contains("spell")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - classes
