@@ -29,6 +29,7 @@
     "": "checkbox",
     "travel": "multitext",
     "excalidraw-export-internal-links": "checkbox",
-    "level": "number"
+    "level": "number",
+    "cr": "text"
   }
 }

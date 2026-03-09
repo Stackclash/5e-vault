@@ -5,6 +5,11 @@ filters:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - environments.contains("grassland")
+        - and:
+            - cr != "Unknown"
     order:
       - file.name
       - alignment
@@ -13,6 +18,7 @@ views:
       - hp
       - ac
       - type
+      - environments
     sort:
       - property: cr
         direction: DESC
