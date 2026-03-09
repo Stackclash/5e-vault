@@ -1,8 +1,15 @@
 filters:
   and:
     - file.tags.contains("spell")
+    - file.folder == "5. Mechanics/Spells"
 formulas:
-  Untitled: ""
+  Untitled: saving_throw.skills.join(', ')
+  saving thow success: saving_throw.succeeds
+properties:
+  note.material_desc:
+    displayName: material description
+  formula.Untitled:
+    displayName: saving throw skills
 views:
   - type: table
     name: Table
@@ -17,8 +24,10 @@ views:
       - ritual
       - range
       - time
-      - saving_throw
       - formula.Untitled
+      - formula.saving thow success
     sort:
       - property: level
-        direction: DESC
+        direction: ASC
+  - type: table
+    name: View

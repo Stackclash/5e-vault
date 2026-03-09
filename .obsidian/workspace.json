@@ -40,7 +40,7 @@
               "type": "bases",
               "state": {
                 "file": "Spells.base",
-                "viewName": "Table"
+                "viewName": "View"
               },
               "icon": "lucide-table",
               "title": "Spells"
@@ -291,6 +291,8 @@
   },
   "active": "14bfb7ff62d93620",
   "lastOpenFiles": [
+    "5. Mechanics/Lists/List Spells Optional Features Pact Of The Tome.md",
+    "Spells.base",
     "z_Extra/Tactics/The Monsters Know What They're Doing.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -317,11 +319,9 @@
     "1. DM Toolkit/Knowledge/Sources/Sync.md",
     "1. DM Toolkit/Knowledge/Sources/Articles",
     "1. DM Toolkit/Knowledge/Sources",
-    "Spells.base",
     "1. DM Toolkit/Knowledge/Books/Return of the Lazy Dungeon Master.md",
     "1. DM Toolkit/Knowledge/Books",
     "1. DM Toolkit/Knowledge/Articles/Lazy Game Master Resource Document.md",
-    "1. DM Toolkit/Knowledge/Articles/I Stole 14 D&D Homebrew Rules and They Made My Game Better.md",
     "1. DM Toolkit/Knowledge/Articles",
     "1. DM Toolkit/Knowledge",
     "1. DM Toolkit/Tools/Story Engine/Story Engine",
