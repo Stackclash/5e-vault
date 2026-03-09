@@ -1,3 +1,10 @@
+filters:
+  and:
+    - file.folder.startsWith("5. Mechanics/Traps Hazards")
+    - file.ext == "md"
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - hazardType
