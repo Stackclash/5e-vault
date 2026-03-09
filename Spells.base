@@ -6,4 +6,15 @@ views:
     name: Table
     order:
       - file.name
-      - classes
+      - school
+      - level
+      - verbal
+      - somatic
+      - material
+      - ritual
+      - range
+      - time
+      - saving_throw
+    sort:
+      - property: level
+        direction: ASC

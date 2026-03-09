@@ -27,10 +27,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Curse of Strahd Campaign.excalidraw.md"
+                "file": "1. DM Toolkit/Knowledge/Books/Return of the Lazy Dungeon Master.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Curse of Strahd Campaign.excalidraw"
+              "icon": "lucide-file",
+              "title": "Return of the Lazy Dungeon Master"
             }
           },
           {
@@ -290,8 +292,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "14bfb7ff62d93620",
+  "active": "ba127654c239d9c4",
   "lastOpenFiles": [
+    "Spells.base",
+    "Players.base",
     "Untitled 1.md",
     "Spells.base",
     "Untitled.md",
