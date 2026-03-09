@@ -8,8 +8,6 @@ views:
     filters:
       and:
         - environments.contains("grassland")
-        - and:
-            - cr != "Unknown"
     order:
       - file.name
       - alignment
