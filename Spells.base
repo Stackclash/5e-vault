@@ -7,6 +7,8 @@ formulas:
   saving thow success: saving_throw.succeeds
   area shape: area.shape
   area size: if(area.size, area.size + ' ft', '')
+summaries:
+  Unique: values.unique().length
 properties:
   note.material_desc:
     displayName: material description
@@ -33,3 +35,4 @@ views:
     sort:
       - property: level
         direction: ASC
+    summaries: {}

@@ -7,5 +7,12 @@ views:
     name: Table
     order:
       - file.name
+      - alignment
       - size
       - cr
+      - hp
+      - ac
+      - type
+    sort:
+      - property: cr
+        direction: DESC
