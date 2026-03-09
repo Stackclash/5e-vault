@@ -3,6 +3,8 @@ filters:
     - file.tags.contains("player")
 formulas:
   strength: abilityScores.strength.value
+  dexterity: abilityScores.dexterity.value
+  constitution: abilityScores.constitution.value
 views:
   - type: table
     name: Table
@@ -12,6 +14,8 @@ views:
       - race
       - location
       - formula.strength
+      - formula.dexterity
+      - formula.constitution
     summaries: {}
     columnSize:
       note.level: 143
