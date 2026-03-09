@@ -27,10 +27,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Curse of Strahd Campaign.excalidraw.md"
+                "file": "Spells.base",
+                "viewName": "Table"
               },
-              "icon": "excalidraw-icon",
-              "title": "Curse of Strahd Campaign.excalidraw"
+              "icon": "lucide-table",
+              "title": "Spells"
             }
           },
           {
@@ -290,8 +291,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "14bfb7ff62d93620",
+  "active": "830f75e4aa18d718",
   "lastOpenFiles": [
+    "Players.base",
+    "Spells.base",
+    "Untitled 1.md",
+    "3. The Party/Players/Redgrave.md",
+    "1. DM Toolkit/Configuration.md",
     "Untitled.md",
     "1. DM Toolkit/Knowledge/Books/Return of the Lazy Dungeon Master.md",
     "1. DM Toolkit/Knowledge/Books",
@@ -316,13 +322,8 @@
     "1. DM Toolkit/Tools/Story Engine/Story Engine/Agents.md",
     "1. DM Toolkit/Tools/Story Engine/Deck of Worlds/Regions.md",
     "1. DM Toolkit/Tools/Story Engine/Deck of Worlds/Landmarks.md",
-    "1. DM Toolkit/Tools/Story Engine/Story Engine Components.md",
     "1. DM Toolkit/Tools/Story Engine/Story Engine",
     "1. DM Toolkit/Tools/Story Engine/Deck of Worlds",
-    "1. DM Toolkit/Tools/Story Engine/Builder.md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-01-11.md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2025-12-21.md",
     "1. DM Toolkit/Tools/Story Engine",
     "1. DM Toolkit/Session Prep/Midnight Covenant",
     "1. DM Toolkit/Session Journals/Midnight Covenant",
