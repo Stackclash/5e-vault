@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1
-environments: 'desert, mountain, urban'
+environments:
+  - desert
+  - mountain
+  - urban
 size: Medium
+alignment: Typically  Lawful Evil
+ac: 17
+hp: 19
+type: construct
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/1
   - monster/environment/desert

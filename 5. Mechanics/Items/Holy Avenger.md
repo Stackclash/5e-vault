@@ -21,7 +21,7 @@ aliases:
 ---
 # Holy Avenger
 *Major, legendary (requires attunement by a paladin)*  
-![[/5. Mechanics/Items/img/holy-avenger.webp#right]]  
+![[/5. Mechanics/Items/img/holy-avenger.webp#right\|Holy Avenger (Greatsword)]]  
 
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra `dice:2d10|noform|noparens|avg` (`2d10`) radiant damage.

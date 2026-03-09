@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 14
-environments: grassland
+environments:
+  - grassland
 size: Large
+alignment: Typically  Lawful Evil
+ac: 17
+hp: 189
+type: construct
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/14
   - monster/environment/grassland

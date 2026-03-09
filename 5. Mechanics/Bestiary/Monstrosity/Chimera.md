@@ -3,9 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 6
-environments: 'underdark, mountain, grassland, hill'
+environments:
+  - underdark
+  - mountain
+  - grassland
+  - hill
 size: Large
+alignment: Chaotic Evil
+ac: 14
+hp: 114
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/environment/grassland

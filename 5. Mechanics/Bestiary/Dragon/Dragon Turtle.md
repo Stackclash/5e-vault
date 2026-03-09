@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 17
-environments: 'underwater, coastal'
+environments:
+  - underwater
+  - coastal
 size: Gargantuan
+alignment: Neutral
+ac: 20
+hp: 341
+type: dragon
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/17
   - monster/environment/coastal

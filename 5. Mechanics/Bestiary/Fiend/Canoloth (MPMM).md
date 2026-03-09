@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 8
-environments: 'coastal, underdark, urban'
+environments:
+  - coastal
+  - underdark
+  - urban
 size: Medium
+alignment: Typically  Neutral Evil
+ac: 16
+hp: 120
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/8
   - monster/environment/coastal

@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 21
-environments: null
+environments: []
 size: Huge
+alignment: Neutral Evil
+ac: 18
+hp: 237
+type: undead
 tags:
+  - monster
   - compendium/src/5e/tgs1
   - monster/cr/21
   - monster/size/huge

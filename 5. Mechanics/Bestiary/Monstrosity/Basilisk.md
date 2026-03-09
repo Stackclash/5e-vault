@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 3
-environments: mountain
+environments:
+  - mountain
 size: Medium
+alignment: Unaligned
+ac: 15
+hp: 52
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/mountain

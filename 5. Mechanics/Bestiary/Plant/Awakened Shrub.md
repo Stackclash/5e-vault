@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 0
-environments: forest
+environments:
+  - forest
 size: Small
+alignment: Unaligned
+ac: 9
+hp: 10
+type: plant
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/0
   - monster/environment/forest

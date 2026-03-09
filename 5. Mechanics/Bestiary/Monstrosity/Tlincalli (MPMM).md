@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 5
-environments: desert
+environments:
+  - desert
 size: Large
+alignment: Typically  Neutral
+ac: 15
+hp: 85
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/5
   - monster/environment/desert

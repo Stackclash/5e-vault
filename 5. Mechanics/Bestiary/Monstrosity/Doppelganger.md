@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 3
-environments: 'underdark, urban'
+environments:
+  - underdark
+  - urban
 size: Medium
+alignment: Neutral
+ac: 14
+hp: 52
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/underdark

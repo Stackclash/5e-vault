@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 16
-environments: null
+environments: []
 size: Large
+alignment: Lawful Evil
+ac: 16
+hp: 178
+type: undead
 tags:
+  - monster
   - compendium/src/5e/griffonssaddlebag3
   - monster/cr/16
   - monster/size/large

@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 5
-environments: 'underwater, coastal'
+environments:
+  - underwater
+  - coastal
 size: Large
+alignment: Lawful Evil
+ac: 16
+hp: 76
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/environment/coastal

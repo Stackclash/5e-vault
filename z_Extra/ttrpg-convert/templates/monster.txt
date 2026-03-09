@@ -151,14 +151,24 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: {resource.cr}
-environments: {resource.environment}
+{#if resource.environment}
+environments:
+{#for env in resource.environment.split(",")}
+  - {env.trim}
+{/for}
+{#else}
+environments: []
+{/if}
 size: {resource.size}
-{#if resource.tags }
+alignment: {resource.alignment}
+ac: {resource.ac}
+hp: {resource.hp}
+type: {resource.type}
 tags:
+- monster
 {#for tag in resource.tags}
 - {tag}
 {/for}
-{/if}
 aliases: 
 - {resource.name}
 ---

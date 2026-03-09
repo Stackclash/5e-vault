@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\4
-environments: 'mountain, grassland, coastal'
+environments:
+  - mountain
+  - grassland
+  - coastal
 size: Medium
+alignment: Unaligned
+ac: 13
+hp: 13
+type: beast
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/coastal

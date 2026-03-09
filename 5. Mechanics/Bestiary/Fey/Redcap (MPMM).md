@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 3
-environments: 'forest, hill, swamp'
+environments:
+  - forest
+  - hill
+  - swamp
 size: Small
+alignment: Typically  Chaotic Evil
+ac: 14
+hp: 45
+type: fey
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/3
   - monster/environment/forest

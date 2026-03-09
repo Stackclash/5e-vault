@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 6
-environments: null
+environments: []
 size: Medium
+alignment: Lawful Neutral
+ac: 17
+hp: 84
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/size/medium

@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 2
-environments: 'grassland, forest, hill'
+environments:
+  - grassland
+  - forest
+  - hill
 size: Large
+alignment: Chaotic Good
+ac: 12
+hp: 59
+type: celestial
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/forest

@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 18
-environments: null
+environments: []
 size: Gargantuan
+alignment: typically  Neutral Evil
+ac: 18
+hp: 310
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/veor
   - monster/cr/18
   - monster/size/gargantuan

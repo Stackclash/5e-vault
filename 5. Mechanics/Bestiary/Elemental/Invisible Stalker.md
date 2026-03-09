@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 6
-environments: urban
+environments:
+  - urban
 size: Medium
+alignment: Neutral
+ac: 14
+hp: 104
+type: elemental
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/environment/urban

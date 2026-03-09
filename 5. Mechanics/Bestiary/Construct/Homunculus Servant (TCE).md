@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: null
-environments: null
+environments: []
 size: Tiny
+alignment: Unaligned
+ac: 13
+hp: >-
+  1 + your Intelligence modifier + your artificer level (the homunculus has a
+  number of Hit Dice [d4s] equal to your artificer level)
+type: construct
 tags:
+  - monster
   - compendium/src/5e/tce
   - monster/cr/
   - monster/size/tiny

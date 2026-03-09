@@ -3,9 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\4
-environments: 'underdark, grassland, forest, swamp, urban, desert'
+environments:
+  - underdark
+  - grassland
+  - forest
+  - swamp
+  - urban
+  - desert
 size: Medium
+alignment: Unaligned
+ac: 14
+hp: 11
+type: beast
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/desert

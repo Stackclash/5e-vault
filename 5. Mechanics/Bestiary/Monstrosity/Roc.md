@@ -3,9 +3,19 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 11
-environments: 'mountain, hill, desert, coastal, arctic'
+environments:
+  - mountain
+  - hill
+  - desert
+  - coastal
+  - arctic
 size: Gargantuan
+alignment: Unaligned
+ac: 15
+hp: 248
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/11
   - monster/environment/arctic

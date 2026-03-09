@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 4
-environments: 'desert, urban'
+environments:
+  - desert
+  - urban
 size: Medium
+alignment: Typically  Chaotic Evil
+ac: 14
+hp: 37
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/4
   - monster/environment/desert

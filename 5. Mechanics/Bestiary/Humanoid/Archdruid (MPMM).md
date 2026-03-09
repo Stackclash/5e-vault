@@ -3,9 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 12
-environments: 'forest, mountain, swamp, underwater'
+environments:
+  - forest
+  - mountain
+  - swamp
+  - underwater
 size: Medium
+alignment: Any alignment
+ac: 14
+hp: 154
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/12
   - monster/environment/forest

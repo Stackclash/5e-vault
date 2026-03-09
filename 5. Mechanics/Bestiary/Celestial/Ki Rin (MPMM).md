@@ -3,9 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 12
-environments: 'coastal, desert, grassland, mountain'
+environments:
+  - coastal
+  - desert
+  - grassland
+  - mountain
 size: Large
+alignment: Typically  Lawful Good
+ac: 20
+hp: 153
+type: celestial
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/12
   - monster/environment/coastal

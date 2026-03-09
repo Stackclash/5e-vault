@@ -20,7 +20,7 @@ aliases:
 ---
 # Dragon Slayer
 *Major, rare*  
-![[/5. Mechanics/Items/img/dragon-slayer.webp#right]]  
+![[/5. Mechanics/Items/img/dragon-slayer.webp#right\|Dragon Slayer (Greatsword)]]  
 
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.

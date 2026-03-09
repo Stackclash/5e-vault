@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 5
-environments: 'forest, hill, arctic'
+environments:
+  - forest
+  - hill
+  - arctic
 size: Medium
+alignment: Neutral Good
+ac: 10
+hp: 135
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/environment/arctic

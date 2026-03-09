@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1
-environments: 'mountain, forest, festerwood'
+environments:
+  - mountain
+  - forest
+  - festerwood
 size: Medium
+alignment: Neutral Evil
+ac: 13
+hp: 37
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/tgs1
   - monster/cr/1
   - monster/environment/festerwood

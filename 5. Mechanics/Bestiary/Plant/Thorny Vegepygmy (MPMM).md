@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1
-environments: 'forest, swamp'
+environments:
+  - forest
+  - swamp
 size: Medium
+alignment: Typically  Neutral
+ac: 14
+hp: 27
+type: plant
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/1
   - monster/environment/forest

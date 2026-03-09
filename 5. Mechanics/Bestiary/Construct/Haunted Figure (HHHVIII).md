@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: null
-environments: null
+environments: []
 size: Tiny
+alignment: Chaotic Neutral
+ac: 14
+hp: 12
+type: construct
 tags:
+  - monster
   - compendium/src/5e/hhhviii
   - monster/cr/
   - monster/size/tiny

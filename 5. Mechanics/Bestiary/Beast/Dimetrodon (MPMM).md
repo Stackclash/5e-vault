@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\4
-environments: 'coastal, swamp'
+environments:
+  - coastal
+  - swamp
 size: Medium
+alignment: Unaligned
+ac: 12
+hp: 19
+type: beast
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/1-4
   - monster/environment/coastal

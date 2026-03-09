@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 10
-environments: 'swamp, underdark, urban'
+environments:
+  - swamp
+  - underdark
+  - urban
 size: Huge
+alignment: Typically  Lawful Evil
+ac: 16
+hp: 115
+type: ooze
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/10
   - monster/environment/swamp

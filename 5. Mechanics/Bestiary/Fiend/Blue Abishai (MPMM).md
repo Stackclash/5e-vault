@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 17
-environments: 'coastal, urban'
+environments:
+  - coastal
+  - urban
 size: Medium
+alignment: Typically  Lawful Evil
+ac: 19
+hp: 202
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/17
   - monster/environment/coastal

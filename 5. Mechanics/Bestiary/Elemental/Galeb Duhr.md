@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 6
-environments: 'mountain, hill'
+environments:
+  - mountain
+  - hill
 size: Medium
+alignment: Neutral
+ac: 16
+hp: 85
+type: elemental
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/environment/hill

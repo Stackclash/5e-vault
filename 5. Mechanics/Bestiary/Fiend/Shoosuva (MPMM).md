@@ -3,9 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 8
-environments: 'coastal, forest, grassland, hill'
+environments:
+  - coastal
+  - forest
+  - grassland
+  - hill
 size: Large
+alignment: Typically  Chaotic Evil
+ac: 14
+hp: 136
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/8
   - monster/environment/coastal

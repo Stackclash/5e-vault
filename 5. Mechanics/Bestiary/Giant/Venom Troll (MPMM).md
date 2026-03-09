@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 7
-environments: 'forest, swamp, underdark'
+environments:
+  - forest
+  - swamp
+  - underdark
 size: Large
+alignment: Typically  Chaotic Evil
+ac: 15
+hp: 94
+type: giant
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/7
   - monster/environment/forest

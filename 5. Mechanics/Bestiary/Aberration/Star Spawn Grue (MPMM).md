@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\4
-environments: 'mountain, swamp'
+environments:
+  - mountain
+  - swamp
 size: Small
+alignment: Typically  Neutral Evil
+ac: 11
+hp: 17
+type: aberration
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/1-4
   - monster/environment/mountain

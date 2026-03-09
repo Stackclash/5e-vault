@@ -3,9 +3,21 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 7
-environments: 'arctic, desert, forest, mountain, swamp, underdark, urban'
+environments:
+  - arctic
+  - desert
+  - forest
+  - mountain
+  - swamp
+  - underdark
+  - urban
 size: Medium
+alignment: Typically  Neutral Evil
+ac: 15
+hp: 78
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/7
   - monster/environment/arctic

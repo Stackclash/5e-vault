@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 3
-environments: forest
+environments:
+  - forest
 size: Large
+alignment: Unaligned
+ac: 13
+hp: 59
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/forest

@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 21
-environments: null
+environments: []
 size: Gargantuan
+alignment: Unaligned
+ac: 20
+hp: 297
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/21
   - monster/size/gargantuan

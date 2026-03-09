@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\4
-environments: null
+environments: []
 size: Medium
+alignment: Chaotic Evil
+ac: 11
+hp: 18
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/mtf
   - monster/cr/1-4
   - monster/size/medium

@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1
-environments: grassland
+environments:
+  - grassland
 size: Medium
+alignment: Chaotic Evil
+ac: 11
+hp: 36
+type: construct
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/1
   - monster/environment/grassland

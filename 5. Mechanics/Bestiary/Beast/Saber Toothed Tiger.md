@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 2
-environments: 'mountain, arctic'
+environments:
+  - mountain
+  - arctic
 size: Large
+alignment: Unaligned
+ac: 12
+hp: 52
+type: beast
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/arctic

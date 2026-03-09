@@ -3,9 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1
-environments: 'mountain, forest, hill, coastal'
+environments:
+  - mountain
+  - forest
+  - hill
+  - coastal
 size: Medium
+alignment: Chaotic Evil
+ac: 11
+hp: 38
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/1
   - monster/environment/coastal

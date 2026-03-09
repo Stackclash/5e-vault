@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: null
-environments: null
+environments: []
 size: Large
+alignment: as the eidolon's alignment
+ac: 19
+hp: 95
+type: construct
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/
   - monster/size/large

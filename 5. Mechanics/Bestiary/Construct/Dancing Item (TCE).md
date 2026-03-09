@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: null
-environments: null
+environments: []
 size: Large
+alignment: Unaligned
+ac: 16
+hp: 10 + five times your bard level
+type: construct
 tags:
+  - monster
   - compendium/src/5e/tce
   - monster/cr/
   - monster/size/large

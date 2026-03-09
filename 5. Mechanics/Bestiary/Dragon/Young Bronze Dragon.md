@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 8
-environments: coastal
+environments:
+  - coastal
 size: Large
+alignment: Lawful Good
+ac: 18
+hp: 142
+type: dragon
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/8
   - monster/environment/coastal

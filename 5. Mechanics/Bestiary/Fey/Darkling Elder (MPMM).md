@@ -3,9 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 2
-environments: 'forest, swamp, underdark, urban'
+environments:
+  - forest
+  - swamp
+  - underdark
+  - urban
 size: Medium
+alignment: Typically  Chaotic Neutral
+ac: 15
+hp: 27
+type: fey
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/2
   - monster/environment/forest

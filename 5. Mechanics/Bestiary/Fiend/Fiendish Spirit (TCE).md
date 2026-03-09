@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: null
-environments: null
+environments: []
 size: Large
+alignment: Unaligned
+ac: null
+hp: >-
+  50 (Demon only) or 40 (Devil only) or 60 (Yugoloth only) + 15 for each spell
+  level above 6th
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/tce
   - monster/cr/
   - monster/size/large

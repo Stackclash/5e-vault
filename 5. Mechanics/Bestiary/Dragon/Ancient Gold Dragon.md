@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 24
-environments: 'grassland, forest'
+environments:
+  - grassland
+  - forest
 size: Gargantuan
+alignment: Lawful Good
+ac: 22
+hp: 546
+type: dragon
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/24
   - monster/environment/forest

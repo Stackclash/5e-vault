@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 3
-environments: null
+environments: []
 size: Small
+alignment: Lawful Evil
+ac: 14
+hp: 49
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/griffonssaddlebag2
   - monster/cr/3
   - monster/size/small

@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 8
-environments: grassland
+environments:
+  - grassland
 size: Huge
+alignment: Unaligned
+ac: 13
+hp: 136
+type: beast
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/8
   - monster/environment/grassland

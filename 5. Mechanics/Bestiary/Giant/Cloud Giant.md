@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 9
-environments: mountain
+environments:
+  - mountain
 size: Huge
+alignment: Neutral Good or Neutral Evil
+ac: 14
+hp: 200
+type: giant
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/9
   - monster/environment/mountain

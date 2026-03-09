@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 2
-environments: 'forest, swamp, urban'
+environments:
+  - forest
+  - swamp
+  - urban
 size: Small
+alignment: Typically  Neutral Evil
+ac: 15
+hp: 31
+type: fey
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/2
   - monster/environment/forest

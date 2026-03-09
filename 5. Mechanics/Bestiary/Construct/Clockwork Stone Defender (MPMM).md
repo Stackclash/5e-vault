@@ -3,9 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 4
-environments: 'forest, grassland, hill, mountain'
+environments:
+  - forest
+  - grassland
+  - hill
+  - mountain
 size: Medium
+alignment: Unaligned
+ac: 16
+hp: 105
+type: construct
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/4
   - monster/environment/forest

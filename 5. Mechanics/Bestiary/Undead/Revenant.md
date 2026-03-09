@@ -3,9 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 5
-environments: 'forest, swamp, hill, urban, desert, arctic'
+environments:
+  - forest
+  - swamp
+  - hill
+  - urban
+  - desert
+  - arctic
 size: Medium
+alignment: Neutral
+ac: 13
+hp: 136
+type: undead
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/5
   - monster/environment/arctic

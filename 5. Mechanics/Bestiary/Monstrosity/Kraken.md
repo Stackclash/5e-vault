@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 23
-environments: underwater
+environments:
+  - underwater
 size: Gargantuan
+alignment: Chaotic Evil
+ac: 18
+hp: 472
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/23
   - monster/environment/underwater

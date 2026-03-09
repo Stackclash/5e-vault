@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 10
-environments: 'swamp, underdark'
+environments:
+  - swamp
+  - underdark
 size: Huge
+alignment: Unaligned
+ac: 14
+hp: 161
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/10
   - monster/environment/swamp

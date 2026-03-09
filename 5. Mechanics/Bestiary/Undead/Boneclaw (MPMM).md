@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 12
-environments: 'arctic, desert, urban'
+environments:
+  - arctic
+  - desert
+  - urban
 size: Large
+alignment: Typically  Chaotic Evil
+ac: 16
+hp: 150
+type: undead
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/12
   - monster/environment/arctic

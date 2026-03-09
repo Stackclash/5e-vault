@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\4
-environments: coastal
+environments:
+  - coastal
 size: Medium
+alignment: Any alignment
+ac: 17
+hp: 22
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/1-4
   - monster/environment/coastal

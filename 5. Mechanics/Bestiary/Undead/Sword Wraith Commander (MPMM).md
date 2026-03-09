@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 8
-environments: 'grassland, swamp'
+environments:
+  - grassland
+  - swamp
 size: Medium
+alignment: Typically  Lawful Evil
+ac: 18
+hp: 127
+type: undead
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/8
   - monster/environment/grassland

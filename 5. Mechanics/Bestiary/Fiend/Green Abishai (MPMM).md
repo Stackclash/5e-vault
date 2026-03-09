@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 15
-environments: urban
+environments:
+  - urban
 size: Medium
+alignment: Typically  Lawful Evil
+ac: 18
+hp: 195
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/15
   - monster/environment/urban

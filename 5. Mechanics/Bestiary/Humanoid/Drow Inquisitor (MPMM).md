@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 14
-environments: underdark
+environments:
+  - underdark
 size: Medium
+alignment: Typically  Neutral Evil
+ac: 16
+hp: 149
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/14
   - monster/environment/underdark

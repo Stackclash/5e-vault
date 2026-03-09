@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 7
-environments: 'underdark, mountain, hill'
+environments:
+  - underdark
+  - mountain
+  - hill
 size: Huge
+alignment: Neutral
+ac: 17
+hp: 126
+type: giant
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/7
   - monster/environment/hill

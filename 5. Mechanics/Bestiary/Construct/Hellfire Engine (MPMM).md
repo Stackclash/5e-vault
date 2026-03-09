@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 16
-environments: null
+environments: []
 size: Huge
+alignment: Typically  Lawful Evil
+ac: 18
+hp: 216
+type: construct
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/16
   - monster/size/huge

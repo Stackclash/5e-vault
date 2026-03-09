@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 4
-environments: 'grassland, hill, mountain'
+environments:
+  - grassland
+  - hill
+  - mountain
 size: Large
+alignment: Typically  Chaotic Evil
+ac: 11
+hp: 76
+type: giant
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/4
   - monster/environment/grassland

@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 15
-environments: null
+environments: []
 size: Huge
+alignment: typically  Chaotic Evil
+ac: 16
+hp: 200
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/veor
   - monster/cr/15
   - monster/size/huge

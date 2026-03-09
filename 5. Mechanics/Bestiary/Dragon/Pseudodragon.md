@@ -3,9 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\4
-environments: 'mountain, forest, hill, urban, desert, coastal'
+environments:
+  - mountain
+  - forest
+  - hill
+  - urban
+  - desert
+  - coastal
 size: Tiny
+alignment: Neutral Good
+ac: 13
+hp: 7
+type: dragon
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/coastal

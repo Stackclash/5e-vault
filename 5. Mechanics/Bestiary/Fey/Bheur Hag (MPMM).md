@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 7
-environments: arctic
+environments:
+  - arctic
 size: Medium
+alignment: Typically  Chaotic Evil
+ac: 17
+hp: 91
+type: fey
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/7
   - monster/environment/arctic

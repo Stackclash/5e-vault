@@ -3,9 +3,19 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\4
-environments: 'forest, hill, mountain, underdark, urban'
+environments:
+  - forest
+  - hill
+  - mountain
+  - underdark
+  - urban
 size: Small
+alignment: Any alignment
+ac: 12
+hp: 13
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/1-4
   - monster/environment/forest

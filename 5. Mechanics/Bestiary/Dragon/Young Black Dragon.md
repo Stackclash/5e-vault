@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 7
-environments: swamp
+environments:
+  - swamp
 size: Large
+alignment: Chaotic Evil
+ac: 18
+hp: 127
+type: dragon
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/7
   - monster/environment/swamp

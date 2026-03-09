@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 2
-environments: null
+environments: []
 size: Medium
+alignment: Unaligned
+ac: 7
+hp: 52
+type: ooze
 tags:
+  - monster
   - compendium/src/5e/griffonssaddlebag3
   - monster/cr/2
   - monster/size/medium

@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 7
-environments: forest
+environments:
+  - forest
 size: Small
+alignment: Typically  Chaotic Neutral
+ac: 17
+hp: 93
+type: fey
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/7
   - monster/environment/forest

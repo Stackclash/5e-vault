@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 13
-environments: desert
+environments:
+  - desert
 size: Huge
+alignment: Chaotic Good
+ac: 18
+hp: 172
+type: dragon
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/13
   - monster/environment/desert

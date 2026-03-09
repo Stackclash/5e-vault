@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 6
-environments: 'hill, mountain'
+environments:
+  - hill
+  - mountain
 size: Large
+alignment: Typically  Chaotic Evil
+ac: 17
+hp: 90
+type: fey
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/6
   - monster/environment/hill

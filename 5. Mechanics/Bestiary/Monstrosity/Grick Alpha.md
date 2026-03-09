@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 7
-environments: 'underdark, forest'
+environments:
+  - underdark
+  - forest
 size: Large
+alignment: Neutral
+ac: 18
+hp: 75
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/7
   - monster/environment/forest

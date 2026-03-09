@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: null
-environments: null
+environments: []
 size: Medium
+alignment: Unaligned
+ac: null
+hp: >-
+  5 + five times your ranger level (the beast has a number of Hit Dice [d8s]
+  equal to your ranger level)
+type: beast
 tags:
+  - monster
   - compendium/src/5e/tce
   - monster/cr/
   - monster/size/medium

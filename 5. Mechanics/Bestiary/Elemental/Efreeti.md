@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 11
-environments: desert
+environments:
+  - desert
 size: Large
+alignment: Lawful Evil
+ac: 17
+hp: 200
+type: elemental
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/11
   - monster/environment/desert

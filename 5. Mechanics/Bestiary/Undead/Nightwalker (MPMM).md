@@ -3,9 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 20
-environments: 'arctic, desert, swamp, underdark'
+environments:
+  - arctic
+  - desert
+  - swamp
+  - underdark
 size: Huge
+alignment: Typically  Chaotic Evil
+ac: 14
+hp: 337
+type: undead
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/20
   - monster/environment/arctic

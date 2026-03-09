@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: null
-environments: null
+environments: []
 size: Large
+alignment: Unaligned
+ac: 11
+hp: 19
+type: beast
 tags:
+  - monster
   - compendium/src/5e/dmg
   - monster/cr/
   - monster/size/large

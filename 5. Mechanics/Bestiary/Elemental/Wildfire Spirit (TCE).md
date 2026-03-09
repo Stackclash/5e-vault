@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: null
-environments: null
+environments: []
 size: Small
+alignment: Unaligned
+ac: 13
+hp: 5 + five times your druid level
+type: elemental
 tags:
+  - monster
   - compendium/src/5e/tce
   - monster/cr/
   - monster/size/small

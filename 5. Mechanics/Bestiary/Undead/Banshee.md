@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 4
-environments: 'forest, coastal'
+environments:
+  - forest
+  - coastal
 size: Medium
+alignment: Chaotic Evil
+ac: 12
+hp: 58
+type: undead
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/4
   - monster/environment/coastal

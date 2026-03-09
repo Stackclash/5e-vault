@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 16
-environments: 'desert, mountain'
+environments:
+  - desert
+  - mountain
 size: Gargantuan
+alignment: Typically  Neutral
+ac: 18
+hp: 175
+type: elemental
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/16
   - monster/environment/desert

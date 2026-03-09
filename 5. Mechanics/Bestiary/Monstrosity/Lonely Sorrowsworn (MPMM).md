@@ -3,9 +3,19 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 9
-environments: 'coastal, desert, mountain, underdark, urban'
+environments:
+  - coastal
+  - desert
+  - mountain
+  - underdark
+  - urban
 size: Medium
+alignment: Typically  Neutral Evil
+ac: 16
+hp: 112
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/9
   - monster/environment/coastal

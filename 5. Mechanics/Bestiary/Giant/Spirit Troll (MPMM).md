@@ -3,9 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 11
-environments: 'coastal, forest, swamp, underdark'
+environments:
+  - coastal
+  - forest
+  - swamp
+  - underdark
 size: Large
+alignment: Typically  Chaotic Evil
+ac: 17
+hp: 130
+type: giant
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/11
   - monster/environment/coastal

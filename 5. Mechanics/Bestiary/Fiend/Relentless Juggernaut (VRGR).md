@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 12
-environments: null
+environments: []
 size: Large
+alignment: Unaligned
+ac: 17
+hp: 161
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/vrgr
   - monster/cr/12
   - monster/size/large

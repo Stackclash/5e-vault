@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: null
-environments: null
+environments: []
 size: Small
+alignment: Unaligned
+ac: null
+hp: 20 + 5 for each spell level above 2nd
+type: beast
 tags:
+  - monster
   - compendium/src/5e/tce
   - monster/cr/
   - monster/size/small

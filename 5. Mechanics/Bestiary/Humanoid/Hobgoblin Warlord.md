@@ -3,9 +3,19 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 6
-environments: 'underdark, grassland, forest, hill, desert'
+environments:
+  - underdark
+  - grassland
+  - forest
+  - hill
+  - desert
 size: Medium
+alignment: Lawful Evil
+ac: 20
+hp: 97
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/6
   - monster/environment/desert

@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: null
-environments: null
+environments: []
 size: Medium
+alignment: Neutral Evil
+ac: 20
+hp: half the hit point maximum of its summoner
+type: undead
 tags:
+  - monster
   - compendium/src/5e/dmg
   - monster/cr/
   - monster/size/medium

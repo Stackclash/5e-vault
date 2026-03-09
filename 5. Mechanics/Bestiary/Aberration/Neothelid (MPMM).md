@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 13
-environments: underdark
+environments:
+  - underdark
 size: Gargantuan
+alignment: Typically  Chaotic Evil
+ac: 16
+hp: 232
+type: aberration
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/13
   - monster/environment/underdark

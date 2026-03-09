@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 16
-environments: mountain
+environments:
+  - mountain
 size: Medium
+alignment: Typically  Chaotic Evil
+ac: 16
+hp: 168
+type: aberration
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/16
   - monster/environment/mountain

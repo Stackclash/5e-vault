@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\8
-environments: 'hill, urban, desert'
+environments:
+  - hill
+  - urban
+  - desert
 size: Medium
+alignment: Unaligned
+ac: 10
+hp: 11
+type: beast
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/1-8
   - monster/environment/desert

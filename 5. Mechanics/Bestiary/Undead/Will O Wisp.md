@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 2
-environments: 'forest, swamp, urban'
+environments:
+  - forest
+  - swamp
+  - urban
 size: Tiny
+alignment: Chaotic Evil
+ac: 19
+hp: 22
+type: undead
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/forest

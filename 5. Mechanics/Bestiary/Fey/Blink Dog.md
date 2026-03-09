@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\4
-environments: forest
+environments:
+  - forest
 size: Medium
+alignment: Lawful Good
+ac: 13
+hp: 22
+type: fey
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/forest

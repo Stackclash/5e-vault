@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 2
-environments: 'urban, swamp, hearth'
+environments:
+  - urban
+  - swamp
+  - hearth
 size: Large
+alignment: Unaligned
+ac: 12
+hp: 42
+type: beast
 tags:
+  - monster
   - compendium/src/5e/tgs1
   - monster/cr/2
   - monster/environment/hearth

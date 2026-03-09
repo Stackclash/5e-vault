@@ -15,7 +15,7 @@ weight: 65
 ---
 # Demon Armor
 *Heavy armor, cursed item, major, very rare (requires attunement)*  
-![[/5. Mechanics/Items/img/demon-armor.webp#right]]  
+![[/5. Mechanics/Items/img/demon-armor.webp#right\|Demon Armor (Plate Armor)]]  
 
 - **Armor Class**: 18
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]

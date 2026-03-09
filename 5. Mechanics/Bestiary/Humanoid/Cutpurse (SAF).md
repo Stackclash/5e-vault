@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: Unknown
-environments: null
+environments: []
 size: Medium
+alignment: Any alignment
+ac: 13
+hp: health levels equal to their level
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/saf
   - monster/cr/unknown
   - monster/size/medium

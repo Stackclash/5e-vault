@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1
-environments: null
+environments: []
 size: Tiny
+alignment: Chaotic Evil
+ac: 14
+hp: 54
+type: dragon
 tags:
+  - monster
   - compendium/src/5e/kpdm
   - monster/cr/1
   - monster/size/tiny

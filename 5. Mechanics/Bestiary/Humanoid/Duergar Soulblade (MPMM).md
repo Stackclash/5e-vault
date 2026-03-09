@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1
-environments: 'mountain, underdark'
+environments:
+  - mountain
+  - underdark
 size: Medium
+alignment: Any alignment
+ac: 14
+hp: 27
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/1
   - monster/environment/mountain

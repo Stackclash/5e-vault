@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 19
-environments: 'mountain, urban'
+environments:
+  - mountain
+  - urban
 size: Medium
+alignment: Typically  Lawful Evil
+ac: 22
+hp: 289
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/19
   - monster/environment/mountain

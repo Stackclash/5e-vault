@@ -16,7 +16,7 @@ weight: 3
 ---
 # Moonblade
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), legendary (requires attunement by an elf or half-elf of neutral good alignment)*  
-![[/5. Mechanics/Items/img/moonblade.webp#right]]  
+![[/5. Mechanics/Items/img/moonblade.webp#right\|Moonblade (Longsword)]]  
 
 - **Damage**:
   - One-handed: 1d8 slashing

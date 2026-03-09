@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 14
-environments: hill
+environments:
+  - hill
 size: Huge
+alignment: Chaotic Good
+ac: 18
+hp: 184
+type: dragon
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/14
   - monster/environment/hill

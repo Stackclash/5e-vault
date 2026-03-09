@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 23
-environments: 'mountain, urban'
+environments:
+  - mountain
+  - urban
 size: Gargantuan
+alignment: Lawful Good
+ac: 22
+hp: 487
+type: dragon
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/23
   - monster/environment/mountain

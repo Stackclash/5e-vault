@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 10
-environments: null
+environments: []
 size: Large
+alignment: Typically  Chaotic Evil
+ac: 16
+hp: 136
+type: aberration
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/10
   - monster/size/large

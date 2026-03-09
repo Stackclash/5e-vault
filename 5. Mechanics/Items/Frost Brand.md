@@ -21,7 +21,7 @@ aliases:
 ---
 # Frost Brand
 *Major, very rare (requires attunement)*  
-![[/5. Mechanics/Items/img/frost-brand.webp#right]]  
+![[/5. Mechanics/Items/img/frost-brand.webp#right\|Frost Brand (Scimitar)]]  
 
 
 When you hit with an attack using this magic sword, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) cold damage. In addition, while you hold the sword, you have resistance to fire damage.

@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\4
-environments: 'forest, urban'
+environments:
+  - forest
+  - urban
 size: Medium
+alignment: Chaotic Neutral
+ac: 13
+hp: 13
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/forest

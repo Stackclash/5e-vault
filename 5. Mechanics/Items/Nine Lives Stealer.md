@@ -21,7 +21,7 @@ aliases:
 ---
 # Nine Lives Stealer
 *Major, very rare (requires attunement)*  
-![[/5. Mechanics/Items/img/nine-lives-stealer.webp#right]]  
+![[/5. Mechanics/Items/img/nine-lives-stealer.webp#right\|Nine Lives Stealer (Greatsword)]]  
 
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.

@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 13
-environments: underdark
+environments:
+  - underdark
 size: Large
+alignment: Lawful Evil
+ac: 18
+hp: 180
+type: aberration
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/13
   - monster/environment/underdark

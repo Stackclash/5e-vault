@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 5
-environments: 'desert, underdark'
+environments:
+  - desert
+  - underdark
 size: Medium
+alignment: Typically  Chaotic Evil
+ac: 10
+hp: 76
+type: undead
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/5
   - monster/environment/desert

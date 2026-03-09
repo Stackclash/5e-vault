@@ -3,9 +3,20 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 3
-environments: 'underdark, grassland, forest, hill, urban, desert'
+environments:
+  - underdark
+  - grassland
+  - forest
+  - hill
+  - urban
+  - desert
 size: Large
+alignment: Unaligned
+ac: 13
+hp: 32
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/desert

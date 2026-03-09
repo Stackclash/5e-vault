@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 3
-environments: coastal
+environments:
+  - coastal
 size: Medium
+alignment: Typically  Neutral Evil
+ac: 13
+hp: 40
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/3
   - monster/environment/coastal

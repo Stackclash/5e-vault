@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 3
-environments: 'underdark, mountain'
+environments:
+  - underdark
+  - mountain
 size: Medium
+alignment: Lawful Evil
+ac: 15
+hp: 45
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/mountain

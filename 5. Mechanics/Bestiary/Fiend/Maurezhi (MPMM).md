@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 7
-environments: 'swamp, urban'
+environments:
+  - swamp
+  - urban
 size: Medium
+alignment: Typically  Chaotic Evil
+ac: 15
+hp: 88
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/7
   - monster/environment/swamp

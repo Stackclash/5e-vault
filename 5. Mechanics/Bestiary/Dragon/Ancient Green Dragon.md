@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 22
-environments: forest
+environments:
+  - forest
 size: Gargantuan
+alignment: Lawful Evil
+ac: 21
+hp: 385
+type: dragon
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/22
   - monster/environment/forest

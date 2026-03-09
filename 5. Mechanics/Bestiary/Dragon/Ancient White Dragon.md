@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 20
-environments: arctic
+environments:
+  - arctic
 size: Gargantuan
+alignment: Chaotic Evil
+ac: 20
+hp: 333
+type: dragon
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/20
   - monster/environment/arctic

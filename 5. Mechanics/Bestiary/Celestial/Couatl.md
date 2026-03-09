@@ -3,9 +3,18 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 4
-environments: 'grassland, forest, urban, desert'
+environments:
+  - grassland
+  - forest
+  - urban
+  - desert
 size: Medium
+alignment: Lawful Good
+ac: 19
+hp: 97
+type: celestial
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/4
   - monster/environment/desert

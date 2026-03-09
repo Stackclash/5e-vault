@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\2
-environments: 'swamp, forest, hearth'
+environments:
+  - swamp
+  - forest
+  - hearth
 size: Medium
+alignment: Chaotic Evil
+ac: 13
+hp: 33
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/tgs1
   - monster/cr/1-2
   - monster/environment/forest

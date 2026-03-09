@@ -3,9 +3,19 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 3
-environments: 'mountain, grassland, hill, coastal, arctic'
+environments:
+  - mountain
+  - grassland
+  - hill
+  - coastal
+  - arctic
 size: Large
+alignment: Lawful Evil
+ac: 14
+hp: 68
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/3
   - monster/environment/arctic

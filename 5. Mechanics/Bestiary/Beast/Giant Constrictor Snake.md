@@ -3,9 +3,19 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 2
-environments: 'underwater, underdark, forest, swamp, desert'
+environments:
+  - underwater
+  - underdark
+  - forest
+  - swamp
+  - desert
 size: Huge
+alignment: Unaligned
+ac: 12
+hp: 60
+type: beast
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/2
   - monster/environment/desert

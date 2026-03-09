@@ -21,7 +21,7 @@ aliases:
 ---
 # Defender
 *Major, legendary (requires attunement)*  
-![[/5. Mechanics/Items/img/defender.webp#right]]  
+![[/5. Mechanics/Items/img/defender.webp#right\|Defender (Greatsword)]]  
 
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.

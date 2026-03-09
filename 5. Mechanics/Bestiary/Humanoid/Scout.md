@@ -3,9 +3,23 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\2
-environments: 'coastal, mountain, grassland, hill, arctic, forest, swamp, underdark, desert'
+environments:
+  - coastal
+  - mountain
+  - grassland
+  - hill
+  - arctic
+  - forest
+  - swamp
+  - underdark
+  - desert
 size: Medium
+alignment: Any alignment
+ac: 13
+hp: 16
+type: humanoid
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/1-2
   - monster/environment/arctic

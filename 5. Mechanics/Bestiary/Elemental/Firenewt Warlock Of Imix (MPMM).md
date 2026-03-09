@@ -3,9 +3,17 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1
-environments: 'hill, mountain, underdark'
+environments:
+  - hill
+  - mountain
+  - underdark
 size: Medium
+alignment: Typically  Neutral Evil
+ac: 10
+hp: 33
+type: elemental
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/1
   - monster/environment/hill

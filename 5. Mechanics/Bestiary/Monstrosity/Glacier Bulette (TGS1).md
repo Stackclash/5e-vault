@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 6
-environments: 'arctic, everglacier'
+environments:
+  - arctic
+  - everglacier
 size: Large
+alignment: Unaligned
+ac: 15
+hp: 92
+type: monstrosity
 tags:
+  - monster
   - compendium/src/5e/tgs1
   - monster/cr/6
   - monster/environment/arctic

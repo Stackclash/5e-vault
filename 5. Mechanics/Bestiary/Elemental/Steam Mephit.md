@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 1\4
-environments: underwater
+environments:
+  - underwater
 size: Small
+alignment: Neutral Evil
+ac: 10
+hp: 21
+type: elemental
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/1-4
   - monster/environment/underwater

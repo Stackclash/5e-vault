@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 7
-environments: null
+environments: []
 size: Medium
+alignment: Lawful Evil
+ac: 18
+hp: 67
+type: fiend
 tags:
+  - monster
   - compendium/src/5e/saf
   - monster/cr/7
   - monster/size/medium

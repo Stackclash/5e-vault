@@ -3,9 +3,15 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 9
-environments: forest
+environments:
+  - forest
 size: Huge
+alignment: Chaotic Good
+ac: 16
+hp: 138
+type: plant
 tags:
+  - monster
   - compendium/src/5e/mm
   - monster/cr/9
   - monster/environment/forest

@@ -3,9 +3,14 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 6
-environments: null
+environments: []
 size: Medium
+alignment: Chaotic
+ac: 16
+hp: 97
+type: fey
 tags:
+  - monster
   - compendium/src/5e/saf
   - monster/cr/6
   - monster/size/medium

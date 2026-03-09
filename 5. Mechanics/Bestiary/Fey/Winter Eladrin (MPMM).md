@@ -3,9 +3,16 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 cr: 10
-environments: 'arctic, forest'
+environments:
+  - arctic
+  - forest
 size: Medium
+alignment: Typically  Chaotic Neutral
+ac: 19
+hp: 165
+type: fey
 tags:
+  - monster
   - compendium/src/5e/mpmm
   - monster/cr/10
   - monster/environment/arctic
