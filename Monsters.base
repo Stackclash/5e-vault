@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.folder.startsWith("5. Mechanics/Bestiary")
+    - file.ext == "md"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - size
+      - cr

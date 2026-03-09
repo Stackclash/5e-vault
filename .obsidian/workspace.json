@@ -39,11 +39,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Spells.base",
-                "viewName": "View"
+                "file": "Monsters.base",
+                "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Spells"
+              "title": "Monsters"
             }
           }
         ],
@@ -289,10 +289,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "14bfb7ff62d93620",
+  "active": "830f75e4aa18d718",
   "lastOpenFiles": [
-    "5. Mechanics/Lists/List Spells Optional Features Pact Of The Tome.md",
     "Spells.base",
+    "Monsters.base",
+    "5. Mechanics/Lists/List Spells Optional Features Pact Of The Tome.md",
     "z_Extra/Tactics/The Monsters Know What They're Doing.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -321,7 +322,6 @@
     "1. DM Toolkit/Knowledge/Sources",
     "1. DM Toolkit/Knowledge/Books/Return of the Lazy Dungeon Master.md",
     "1. DM Toolkit/Knowledge/Books",
-    "1. DM Toolkit/Knowledge/Articles/Lazy Game Master Resource Document.md",
     "1. DM Toolkit/Knowledge/Articles",
     "1. DM Toolkit/Knowledge",
     "1. DM Toolkit/Tools/Story Engine/Story Engine",

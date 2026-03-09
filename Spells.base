@@ -5,6 +5,8 @@ filters:
 formulas:
   Untitled: saving_throw.skills.join(', ')
   saving thow success: saving_throw.succeeds
+  area shape: area.shape
+  area size: if(area.size, area.size + ' ft', '')
 properties:
   note.material_desc:
     displayName: material description
@@ -26,8 +28,8 @@ views:
       - time
       - formula.Untitled
       - formula.saving thow success
+      - formula.area shape
+      - formula.area size
     sort:
       - property: level
         direction: ASC
-  - type: table
-    name: View
