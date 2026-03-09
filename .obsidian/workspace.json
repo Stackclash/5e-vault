@@ -274,7 +274,7 @@
       "remotely-save:Remotely Save": true,
       "solo-rpg-toolkit:Solo RPG Toolkit": true,
       "templater-obsidian:Templater": true,
-      "calendarium:Open Calendarium": true
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "d3f1427f4c48366b",

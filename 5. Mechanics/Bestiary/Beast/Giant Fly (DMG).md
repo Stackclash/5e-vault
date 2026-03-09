@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Large
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/beast
 aliases:
   - Giant Fly
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Beast\Giant Fly (DMG).md|Giant Fly]]
 *Source: Dungeon Master's Guide p. 169*

@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Tiny
 alignment: Unaligned
@@ -19,6 +18,7 @@ tags:
   - monster/type/construct
 aliases:
   - Homunculus Servant
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Construct\Homunculus Servant (TCE).md|Homunculus Servant]]
 *Source: Tasha's Cauldron of Everything p. 22*

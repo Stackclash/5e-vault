@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Medium
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/aberration
 aliases:
   - Aberrant Spirit (Beholderkin)
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Aberration\Aberrant Spirit Beholderkin (TCE).md|Aberrant Spirit (Beholderkin)]]
 *Source: Tasha's Cauldron of Everything p. 109*

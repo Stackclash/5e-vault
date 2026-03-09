@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 1\8
+cr: 0.125
 environments: []
 size: Medium
 alignment: Any Non-Lawful alignment

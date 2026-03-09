@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Large
 alignment: Unaligned
@@ -19,6 +18,7 @@ tags:
   - monster/type/fiend
 aliases:
   - Fiendish Spirit
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Fiend\Fiendish Spirit (TCE).md|Fiendish Spirit]]
 *Source: Tasha's Cauldron of Everything p. 112*

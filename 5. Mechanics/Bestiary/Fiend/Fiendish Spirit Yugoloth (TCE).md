@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Large
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/fiend
 aliases:
   - Fiendish Spirit (Yugoloth)
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Fiend\Fiendish Spirit Yugoloth (TCE).md|Fiendish Spirit (Yugoloth)]]
 *Source: Tasha's Cauldron of Everything p. 112*

@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Large
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/construct
 aliases:
   - Dancing Item
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Construct\Dancing Item (TCE).md|Dancing Item]]
 *Source: Tasha's Cauldron of Everything p. 29*

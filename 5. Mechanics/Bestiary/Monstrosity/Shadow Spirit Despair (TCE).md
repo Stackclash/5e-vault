@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Medium
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/monstrosity
 aliases:
   - Shadow Spirit (Despair)
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Monstrosity\Shadow Spirit Despair (TCE).md|Shadow Spirit (Despair)]]
 *Source: Tasha's Cauldron of Everything p. 114*

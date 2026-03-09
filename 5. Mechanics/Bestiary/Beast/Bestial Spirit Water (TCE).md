@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Small
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/beast
 aliases:
   - Bestial Spirit (Water)
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Beast\Bestial Spirit Water (TCE).md|Bestial Spirit (Water)]]
 *Source: Tasha's Cauldron of Everything p. 109*

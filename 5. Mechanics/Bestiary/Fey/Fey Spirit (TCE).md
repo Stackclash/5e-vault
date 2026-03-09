@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Small
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/fey
 aliases:
   - Fey Spirit
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Fey\Fey Spirit (TCE).md|Fey Spirit]]
 *Source: Tasha's Cauldron of Everything p. 112*

@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Medium
 alignment: Neutral Evil
@@ -17,6 +16,7 @@ tags:
   - monster/type/undead
 aliases:
   - Avatar of Death
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Undead\Avatar Of Death (DMG).md|Avatar of Death]]
 *Source: Dungeon Master's Guide p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Medium
 alignment: Unaligned
@@ -19,6 +18,7 @@ tags:
   - monster/type/beast
 aliases:
   - Beast of the Land
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Beast\Beast Of The Land (TCE).md|Beast of the Land]]
 *Source: Tasha's Cauldron of Everything p. 61*

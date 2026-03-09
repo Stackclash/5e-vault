@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Small
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/fey
 aliases:
   - Fey Spirit (Fuming)
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Fey\Fey Spirit Fuming (TCE).md|Fey Spirit (Fuming)]]
 *Source: Tasha's Cauldron of Everything p. 112*

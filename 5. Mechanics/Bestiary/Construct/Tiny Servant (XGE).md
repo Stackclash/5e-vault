@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Tiny
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/construct
 aliases:
   - Tiny Servant
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Construct\Tiny Servant (XGE).md|Tiny Servant]]
 *Source: Xanathar's Guide to Everything p. 169*

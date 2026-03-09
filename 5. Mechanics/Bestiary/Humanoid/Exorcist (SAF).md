@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: Unknown
 environments: []
 size: Medium
 alignment: Any alignment
@@ -17,6 +16,7 @@ tags:
   - monster/type/humanoid/any-race
 aliases:
   - Exorcist
+cr: Unknown
 ---
 # [[5. Mechanics\Bestiary\Humanoid\Exorcist (SAF).md|Exorcist]]
 *Source: Strongholds and Followers p. 73*

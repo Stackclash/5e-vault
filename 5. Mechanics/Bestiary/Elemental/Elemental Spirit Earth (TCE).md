@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Medium
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/elemental
 aliases:
   - Elemental Spirit (Earth)
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Elemental\Elemental Spirit Earth (TCE).md|Elemental Spirit (Earth)]]
 *Source: Tasha's Cauldron of Everything p. 111*
