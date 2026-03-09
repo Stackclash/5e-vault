@@ -1,5 +1,0 @@
----
-level:
-race:
-location:
----

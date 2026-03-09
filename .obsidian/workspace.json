@@ -37,14 +37,13 @@
             "id": "14bfb7ff62d93620",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "z_Extra/Tactics/The Monsters Know What They're Doing.md",
-                "mode": "source",
-                "source": false
+                "file": "Spells.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "The Monsters Know What They're Doing"
+              "icon": "lucide-table",
+              "title": "Spells"
             }
           }
         ],
@@ -292,6 +291,9 @@
   },
   "active": "14bfb7ff62d93620",
   "lastOpenFiles": [
+    "z_Extra/Tactics/The Monsters Know What They're Doing.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "z_Extra/AI Prompts/World.md",
     "1. DM Toolkit/Knowledge/Sources/Books/Return of the Lazy Dungeon Master.md",
     "1. DM Toolkit/Knowledge/Sources/Articles/Your Players Aren't Overpowered...you Just Need THIS.md",
@@ -315,14 +317,11 @@
     "1. DM Toolkit/Knowledge/Sources/Sync.md",
     "1. DM Toolkit/Knowledge/Sources/Articles",
     "1. DM Toolkit/Knowledge/Sources",
-    "Untitled 1.md",
     "Spells.base",
-    "Untitled.md",
     "1. DM Toolkit/Knowledge/Books/Return of the Lazy Dungeon Master.md",
     "1. DM Toolkit/Knowledge/Books",
     "1. DM Toolkit/Knowledge/Articles/Lazy Game Master Resource Document.md",
     "1. DM Toolkit/Knowledge/Articles/I Stole 14 D&D Homebrew Rules and They Made My Game Better.md",
-    "1. DM Toolkit/Knowledge/Articles/How to Stop Your Players From Getting Bored.md",
     "1. DM Toolkit/Knowledge/Articles",
     "1. DM Toolkit/Knowledge",
     "1. DM Toolkit/Tools/Story Engine/Story Engine",
