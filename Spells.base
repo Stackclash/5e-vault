@@ -1,6 +1,8 @@
 filters:
   and:
     - file.tags.contains("spell")
+formulas:
+  Untitled: ""
 views:
   - type: table
     name: Table
@@ -11,10 +13,12 @@ views:
       - verbal
       - somatic
       - material
+      - material_desc
       - ritual
       - range
       - time
       - saving_throw
+      - formula.Untitled
     sort:
       - property: level
-        direction: ASC
+        direction: DESC
