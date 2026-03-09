@@ -25,13 +25,14 @@
             "id": "ba127654c239d9c4",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Spells.base",
-                "viewName": "Table"
+                "file": "1. DM Toolkit/Knowledge/Books/Return of the Lazy Dungeon Master.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Spells"
+              "icon": "lucide-file",
+              "title": "Return of the Lazy Dungeon Master"
             }
           },
           {
@@ -291,10 +292,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "830f75e4aa18d718",
+  "active": "ba127654c239d9c4",
   "lastOpenFiles": [
-    "Players.base",
     "Spells.base",
+    "Players.base",
     "Untitled 1.md",
     "3. The Party/Players/Redgrave.md",
     "1. DM Toolkit/Configuration.md",
