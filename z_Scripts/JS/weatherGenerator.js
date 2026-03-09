@@ -3,7 +3,7 @@ const fs = require('fs')
 const path = require('path')
 
 const vaultRoot = path.resolve(__dirname, '../../')
-const { tempFlux, seasons, months, climates, states } = matter(fs.readFileSync(path.join(vaultRoot, '1. DM Stuff/Tools/Weather Generation.md'), 'utf8')).data
+const { tempFlux, seasons, months, climates, states } = matter(fs.readFileSync(path.join(vaultRoot, '1. DM Toolkit/Tools/Weather Generation.md'), 'utf8')).data
 
 /**
  * Returns the day of the year based on the date

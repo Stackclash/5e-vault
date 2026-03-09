@@ -52,8 +52,8 @@ function editFrontmatter(path, field) {
     })
 }
 
-// addTagToNotes('1. DM Stuff/Session Prep', 'session-prep')
-// addTagToNotes('1. DM Stuff/Session Journals', 'session-journal')
+// addTagToNotes('1. DM Toolkit/Session Prep', 'session-prep')
+// addTagToNotes('1. DM Toolkit/Session Journals', 'session-journal')
 // addTagToNotes('3. The Party/Parties', 'party')
 // addTagToNotes('3. The Party/Players', 'player')
 // addTagToNotes('4. World Almanac/Places of Interest', 'location')

@@ -3,8 +3,8 @@ obsidianUIMode: preview
 active_world: "[[4. World Almanac/Worlds/Eldoria.md|Eldoria]]"
 active_party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
 locations:
-  preps: 1. DM Stuff/Session Prep/
-  journals: 1. DM Stuff/Session Journals/
+  preps: 1. DM Toolkit/Session Prep/
+  journals: 1. DM Toolkit/Session Journals/
   parties: 3. The Party/Parties
   players: 3. The Party/Players
   quests: 3. The Party/Quests
@@ -71,14 +71,14 @@ relationship_mapping:
       male: Nephew
       female: Niece
     to: Aunt
-active_campaign: "[[1. DM Stuff/Campaigns/Truth of Vecna.md|Truth of Vecna]]"
+active_campaign: "[[1. DM Toolkit/Campaigns/Truth of Vecna.md|Truth of Vecna]]"
 ---
 > [!infobox|n-th]
 > | | |
 > |---|---|
 > | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
-> | **Active World** | `VIEW[{1. DM Stuff/Campaigns/Truth of Vecna.md#world}][text(renderMarkdown):active_world]` |
-> | **Active Party:** | `VIEW[{1. DM Stuff/Campaigns/Truth of Vecna.md#party}][text(renderMarkdown):active_party]` |
+> | **Active World** | `VIEW[{1. DM Toolkit/Campaigns/Truth of Vecna.md#world}][text(renderMarkdown):active_world]` |
+> | **Active Party:** | `VIEW[{1. DM Toolkit/Campaigns/Truth of Vecna.md#party}][text(renderMarkdown):active_party]` |
 
 # Current Party/World Info
 ```dataviewjs
@@ -92,7 +92,7 @@ dv.paragraph(`Current Date: ${currentDate.prettyPrint.month} ${currentDate.origi
 # DM Tools/Calculators
 ```datacorejsx
 return function View() {
-  const tools = dc.useQuery(`@page and path("1. DM Stuff/Tools")`)
+  const tools = dc.useQuery(`@page and path("1. DM Toolkit/Tools")`)
 
   return <dc.List rows={tools} renderer={tool => dc.fileLink(tool.$path)} />
 }

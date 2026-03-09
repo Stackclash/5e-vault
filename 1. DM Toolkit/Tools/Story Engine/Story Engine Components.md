@@ -1,7 +1,7 @@
 # CardTypes
 ```jsx
 const path = require('path')
-const ROOT_DIR = '1. DM Stuff/Tools/Story Engine'
+const ROOT_DIR = '1. DM Toolkit/Tools/Story Engine'
 return [
   { type: 'agent', label: 'Agent', path: path.posix.join(ROOT_DIR, 'Story Engine/Agents.md'), deck: 'Story Engine' },
   { type: 'anchor', label: 'Anchor', path: path.posix.join(ROOT_DIR, 'Story Engine/Anchors.md'), deck: 'Story Engine' },
@@ -540,9 +540,9 @@ return { CardCategory }
 
 # PromptBuilder
 ```jsx
-const { CardCategory } = await dc.require(dc.headerLink("1. DM Stuff/Tools/Story Engine/Story Engine Components.md", "CardCategory"))
-const CARD_TYPES = await dc.require(dc.headerLink("1. DM Stuff/Tools/Story Engine/Story Engine Components.md", "CardTypes"))
-const PROMPT_TYPES = await dc.require(dc.headerLink("1. DM Stuff/Tools/Story Engine/Story Engine Components.md", "PromptTypes"))
+const { CardCategory } = await dc.require(dc.headerLink("1. DM Toolkit/Tools/Story Engine/Story Engine Components.md", "CardCategory"))
+const CARD_TYPES = await dc.require(dc.headerLink("1. DM Toolkit/Tools/Story Engine/Story Engine Components.md", "CardTypes"))
+const PROMPT_TYPES = await dc.require(dc.headerLink("1. DM Toolkit/Tools/Story Engine/Story Engine Components.md", "PromptTypes"))
 
 function PromptBuilder() {
   const [cards, setCards] = dc.useState([])

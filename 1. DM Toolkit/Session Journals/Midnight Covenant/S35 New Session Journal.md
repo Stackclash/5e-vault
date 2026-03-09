@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-date: 2025-04-19
+date: 2026-01-11
 summary:
 fc-date: 973-2-24
 fc-end: 973-2-24
@@ -10,7 +10,7 @@ aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[1. DM Stuff/Session Prep/Midnight Covenant/2025-10-25.md|2025-10-25]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2026-01-11.md|2026-01-11]]"
 tags:
   - session-journal
 ---
@@ -34,22 +34,13 @@ tags:
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- [[Bruokdon]] is a couple days travel NE of [[Thornmere]]
+- Phillip (an enchanted child) reveals that he knows about a lot about the party
+	- Mom is Sarah
+- [[Eamon Morcant]]
 
 ## Items Of Importance
-- Skull of [[Argynvostholt]]
+Description
 
 ## What Happened
-- The party finds [[Ezmerelda Davenir (COS)]] and [[Emil Toranescu (COS)]]
-	- [[Emil Toranescu (COS)]] agrees that the werewolf den needs to move on and out of [[Barovia]]
-- The party goes to [[Vallaki]] and arrests [[Fiona Wachter]], [[Nikolai Wachter (COS)]], and Karl Wachter
-- A council of elders are formed with:
-	- Haran Dista
-	- Dom Besk
-	- Aral Mesk
-	- Nuzam Delu
-- 
-
-## Info
-- 
+Small description.

@@ -1,21 +1,18 @@
 ---
 obsidianUIMode: preview
-date: 2024-12-06
-summary: The party goes to the Wizard of Wines and finds the Martikov family hold up in a small cottage away from the winery beaten and bruised. They agree to clear out the dark druids that have taken over the winery. When they arrive tons of twig blights and needle blights come out of the ground surrounding the winery. There are also several dark druids that fight against the party. As the party fights a flickering portal appears in the field and a wizard appears and immediately joins the fight. After a short scuffle the party clears out the winery and barricades the winery doors.
-fc-date: 973-2-23
-fc-end: 973-2-23
+date: 2025-12-21
+summary:
+fc-date: 973-2-24
+fc-end: 973-2-24
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[1. DM Stuff/Session Prep/Midnight Covenant/2024-12-06.md|2024-12-06]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2025-12-21.md|2025-12-21]]"
 tags:
   - session-journal
-locations:
-  - "[[4. World Almanac/Settlements/Krezk.md|Krezk]]"
-  - "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 ---
 > [!infobox]
 > ## Info
@@ -44,4 +41,4 @@ Who Did They Meet?
 Description
 
 ## What Happened
-Small description.
+

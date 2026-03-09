@@ -55,12 +55,12 @@ mp3s = mp3s.reduce((accum, value) => {
     return accum
 }, {})
 
-if (await tp.file.exists('1. DM Stuff/Sound Board.md')) {
-    const currentTFile = tp.file.find_tfile('1. DM Stuff/Sound Board')
+if (await tp.file.exists('1. DM Toolkit/Sound Board.md')) {
+    const currentTFile = tp.file.find_tfile('1. DM Toolkit/Sound Board')
     await app.vault.delete(currentTFile)
 }
 
-await tp.file.move('1. DM Stuff/Sound Board')
+await tp.file.move('1. DM Toolkit/Sound Board')
 -%>
 ---
 obsidianUIMode: preview

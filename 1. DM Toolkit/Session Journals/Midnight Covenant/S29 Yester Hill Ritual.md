@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-date: 2025-03-15
+date: 2025-01-19
 summary:
-fc-date: 973-2-24
-fc-end: 973-2-24
+fc-date: 973-2-23
+fc-end: 973-2-23
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[1. DM Stuff/Session Prep/Midnight Covenant/2025-03-15.md|2025-03-15]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2025-01-19.md|2025-01-19]]"
 tags:
   - session-journal
 locations:
-  - "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+  - "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
+  - "[[4. World Almanac/Places of Interest/Yester Hill.md|Yester Hill]]"
 ---
 > [!infobox]
 > ## Info
@@ -43,6 +44,11 @@ Who Did They Meet?
 Description
 
 ## What Happened
-- The party teleports to [[Castle Ravenloft]]
-- When going through a secret door they came across [[Rahadin (COS)]] who brings them to the gathering
-- They meet  [[Rictavio (COS)]] who unknown to the party is there to save [[Ezmerelda Davenir (COS)]]
+- [[Seluvis Felo'melorn]] - makes captured druid shit himself
+- The Gulthias Avatar is summoned
+- 
+
+## Notes
+### Item Cards
+- [[Yester Hill Axe]]
+- [[Gulthias Staff]]

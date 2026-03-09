@@ -22,7 +22,7 @@ aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[1. DM Stuff/Session Prep/Midnight Covenant/2024-04-13.md|2024-04-13]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2024-04-13.md|2024-04-13]]"
 fc-end: 973-2-19
 tags:
   - session-journal

@@ -1,18 +1,20 @@
 ---
 obsidianUIMode: preview
-date: 2025-12-21
-summary:
-fc-date: 973-2-24
-fc-end: 973-2-24
+date: 2024-10-05
+summary: The party begins to make their way to Vallaki to plan their next move. Having arrived at Vallaki they find that they are no longer welcome. Though with the help of their old friend Urwin, who turns out is a wereraven a part of a secret organization fighting against Strahd in the shadows.
+fc-date: 973-2-22
+fc-end: 973-2-22
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[1. DM Stuff/Session Prep/Midnight Covenant/2025-12-21.md|2025-12-21]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2024-10-05.md|2024-10-05]]"
 tags:
   - session-journal
+locations:
+  - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 > [!infobox]
 > ## Info
@@ -34,11 +36,22 @@ tags:
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-Description of any important information that the party learned.
-Who Did They Meet?
+- [[Urwin Martikov]] is a member of the Keepers of the Feather
 
 ## Items Of Importance
 Description
 
 ## What Happened
+- The party reads chapter The Corruption of Yester Hill of the Tome of Strahd
 
+## Inventory
+[[Seluvis Felo'melorn]]
+- 4 [[Potion Of Invulnerability]]
+- [[Eyes Of Minute Seeing]]
+- Amber Temple Loot
+- [[Amulet Of Health]]
+[[Redgrave]]
+- 
+[[Marin]]
+[[Faerah Duskrane]]
+[[Yevelda Ovak ]]

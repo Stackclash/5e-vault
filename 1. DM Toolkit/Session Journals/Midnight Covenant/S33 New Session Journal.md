@@ -1,20 +1,18 @@
 ---
 obsidianUIMode: preview
-date: 2024-10-05
-summary: The party begins to make their way to Vallaki to plan their next move. Having arrived at Vallaki they find that they are no longer welcome. Though with the help of their old friend Urwin, who turns out is a wereraven a part of a secret organization fighting against Strahd in the shadows.
-fc-date: 973-2-22
-fc-end: 973-2-22
+date: 2025-04-19
+summary:
+fc-date: 973-2-24
+fc-end: 973-2-24
 timelines:
   - COS
 aat-render-enabled: true
 fc-category: Session
 calendar: Eldoria Calendar
 party: "[[3. The Party/Parties/Midnight Covenant.md|Midnight Covenant]]"
-prep-notes: "[[1. DM Stuff/Session Prep/Midnight Covenant/2024-10-05.md|2024-10-05]]"
+prep-notes: "[[1. DM Toolkit/Session Prep/Midnight Covenant/2025-10-25.md|2025-10-25]]"
 tags:
   - session-journal
-locations:
-  - "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 > [!infobox]
 > ## Info
@@ -36,22 +34,22 @@ locations:
 > `INPUT[textArea:summary]`
 
 ## Key Learnings
-- [[Urwin Martikov]] is a member of the Keepers of the Feather
+Description of any important information that the party learned.
+Who Did They Meet?
 
 ## Items Of Importance
-Description
+- Skull of [[Argynvostholt]]
 
 ## What Happened
-- The party reads chapter The Corruption of Yester Hill of the Tome of Strahd
-
-## Inventory
-[[Seluvis Felo'melorn]]
-- 4 [[Potion Of Invulnerability]]
-- [[Eyes Of Minute Seeing]]
-- Amber Temple Loot
-- [[Amulet Of Health]]
-[[Redgrave]]
+- The party finds [[Ezmerelda Davenir (COS)]] and [[Emil Toranescu (COS)]]
+	- [[Emil Toranescu (COS)]] agrees that the werewolf den needs to move on and out of [[Barovia]]
+- The party goes to [[Vallaki]] and arrests [[Fiona Wachter]], [[Nikolai Wachter (COS)]], and Karl Wachter
+- A council of elders are formed with:
+	- Haran Dista
+	- Dom Besk
+	- Aral Mesk
+	- Nuzam Delu
 - 
-[[Marin]]
-[[Faerah Duskrane]]
-[[Yevelda Ovak ]]
+
+## Info
+- 

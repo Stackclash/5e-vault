@@ -41,7 +41,7 @@ Standalone Node.js scripts run outside of Obsidian (from the command line).
 - **calendarDate.js** — Custom fantasy calendar date utilities.
 - **editFrontmatter.js** — Bulk frontmatter editing across vault files.
 - **process_5etools_files.js** — Processes 5etools compendium data from ttrpg-convert-cli output, applying rename/move/link-update rules.
-- **weatherGenerator.js** — Procedural weather generation engine. Reads season/climate/state configuration from `1. DM Stuff/Tools/Weather Generation.md` frontmatter.
+- **weatherGenerator.js** — Procedural weather generation engine. Reads season/climate/state configuration from `1. DM Toolkit/Tools/Weather Generation.md` frontmatter.
 
 ### `Meta Bind/`
 JavaScript actions for the [Meta Bind](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) plugin buttons.

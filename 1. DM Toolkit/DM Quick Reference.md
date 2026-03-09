@@ -13,7 +13,7 @@ A consolidated reference of useful tools, techniques, and information for runnin
 - [ ] Check Session Prep notes for today
 - [ ] Confirm party location and active quests
 - [ ] Have NPC voice/personality notes ready
-- [ ] Prepare ambient music on [[Sound Board]]
+- [ ] Prepare ambient music on [[1. DM Toolkit/Sound Board]]
 - [ ] Set weather via [[Weather Generation]]
 - [ ] Note party passive Perceptions
 - [ ] Review active conditions/effects on PCs
@@ -133,7 +133,7 @@ Make rewards more interesting:
 
 ## Resources
 - [[DM Screen]] — Rules quick-reference
-- [[Sound Board]] — Session music management
+- [[1. DM Toolkit/Sound Board]] — Session music management
 - [[Weather Generation]] — Procedural weather for immersion
 - [[Encounter Generator]] — Combat encounter building
 - [[Critical Tables]] — Critical hit/fumble tables
