@@ -27,11 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Spells.base",
-                "viewName": "Table"
+                "file": "Excalidraw/Curse of Strahd Campaign.excalidraw.md"
               },
-              "icon": "lucide-table",
-              "title": "Spells"
+              "icon": "excalidraw-icon",
+              "title": "Curse of Strahd Campaign.excalidraw"
             }
           },
           {
@@ -291,13 +290,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "830f75e4aa18d718",
+  "active": "14bfb7ff62d93620",
   "lastOpenFiles": [
-    "Players.base",
-    "Spells.base",
     "Untitled 1.md",
-    "3. The Party/Players/Redgrave.md",
-    "1. DM Toolkit/Configuration.md",
+    "Spells.base",
     "Untitled.md",
     "1. DM Toolkit/Knowledge/Books/Return of the Lazy Dungeon Master.md",
     "1. DM Toolkit/Knowledge/Books",
@@ -322,13 +318,16 @@
     "1. DM Toolkit/Tools/Story Engine/Story Engine/Agents.md",
     "1. DM Toolkit/Tools/Story Engine/Deck of Worlds/Regions.md",
     "1. DM Toolkit/Tools/Story Engine/Deck of Worlds/Landmarks.md",
+    "1. DM Toolkit/Tools/Story Engine/Story Engine Components.md",
     "1. DM Toolkit/Tools/Story Engine/Story Engine",
     "1. DM Toolkit/Tools/Story Engine/Deck of Worlds",
+    "1. DM Toolkit/Tools/Story Engine/Builder.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-01-11.md",
     "1. DM Toolkit/Tools/Story Engine",
     "1. DM Toolkit/Session Prep/Midnight Covenant",
     "1. DM Toolkit/Session Journals/Midnight Covenant",
     "1. DM Toolkit/Tools",
-    "1. DM Toolkit/Session Prep",
     "z_Assets/Locations/bruokdon.png",
     "compendium/decks/img/back.webp",
     "4. World Almanac/NPCs/token/inda-malayuri-veor.webp",
