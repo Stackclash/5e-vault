@@ -17,7 +17,7 @@
   "textGenPath": "z_Templates/Text Generator/Backups/",
   "prefix": "\n\n",
   "tgSelectionLimiter": "^\\*\\*\\*",
-  "stream": true,
+  "stream": false,
   "context": {
     "customInstructEnabled": false,
     "includeClipboard": true,

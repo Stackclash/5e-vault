@@ -15,9 +15,7 @@ return {
 };
 
 {{/script}}
-
 ***
-
 You are assisting a Dungeon Master designing NPCs for a long-term Dungeons & Dragons campaign.
 
 Use the campaign context if provided.
@@ -57,3 +55,6 @@ history:
 hiddenDetails:
 
 Make personality and goals story-driven.
+***
+This is the output:
+{{output}}
