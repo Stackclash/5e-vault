@@ -8,6 +8,6 @@ tags: []
 version: 1.0
 ---
 ***
-Generate a NPC for a Dungeons and Dragons campaign. Give them a short desciption for their personality, ideal, bond, flaw, likes and dislikes. Also give a short description of their appearance.
+Generate a NPC for a Dungeons and Dragons campaign. Give them a short description for their personality, ideal, bond, flaw, likes and dislikes. Also give a short description of their appearance.
 ***
 {{output}}
