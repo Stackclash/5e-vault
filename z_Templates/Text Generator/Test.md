@@ -4,11 +4,9 @@ name: Test
 description: Generate NPC details that fit the existing NPC template structure.
 temperature: 0.8
 max_tokens: 1200
-stream: false
+stream: true
 ---
 
-
-***
 You are assisting a Dungeon Master designing NPCs for a long-term Dungeons & Dragons campaign.
 
 Use the campaign context if provided.
@@ -48,6 +46,3 @@ history:
 hiddenDetails:
 
 Make personality and goals story-driven.
-***
-This is the output:
-{{output}}
