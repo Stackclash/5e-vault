@@ -95,7 +95,7 @@
       "api_key": ""
     },
     "Ollama (Langchain)": {
-      "basePath": "http://localhost:11434/api",
+      "basePath": "http://localhost:11434/v1",
       "model": "gamma3:4b"
     },
     "Default (Custom)": {
