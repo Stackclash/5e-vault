@@ -1,13 +1,63 @@
 ---
 promptId: NPC
-name: Generate a NPC
-description: Generates a NPC based on info
-author: Richard Cox
-required_values: []
-tags: []
-version: 1.0
+name: Generate NPC (Structured)
+description: Generate NPC details that fit the existing NPC template structure.
+temperature: 0.8
+max_tokens: 1200
 ---
+
+{{#script}}
+
+return {
+  location: 'Bruokdon',
+  role: 'Shop Keeper',
+  campaignContext: 'This campaign is about hunting down and stopping Vecna.'
+};
+
+{{/script}}
+
 ***
-Generate a NPC for a Dungeons and Dragons campaign. Give them a short description for their personality, ideal, bond, flaw, likes and dislikes. Also give a short description of their appearance.
+
+You are assisting a Dungeon Master designing NPCs for a long-term Dungeons & Dragons campaign.
+
+Use the campaign context if provided.
+
+CAMPAIGN CONTEXT
+{{campaignContext}}
+
+NPC LOCATION
+{{location}}
+
+NPC ROLE
+{{role}}
+
+Generate a compelling NPC.
+
+Return the result **in this exact structure**.
+
+pronounced:
+race:
+gender:
+age:
+alignment:
+occupation:
+groups:
+religions:
+
+personality:
+ideal:
+bond:
+flaw:
+
+goals:
+likes:
+dislikes:
+
+history:
+hiddenDetails:
+
+Make personality and goals story-driven.
+
 ***
+
 {{output}}
