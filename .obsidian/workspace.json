@@ -234,8 +234,8 @@
               "state": {
                 "openInPopout": false,
                 "id": "0f5492ac-3f22-46c5-b69a-50141085e73f",
-                "answer": "Campaign Ideas\n- [[Redgrave|Redgrave's]] soul is a member of the Order of the Silver Dragon\n- [[Marin|Marin's]] patron is a trapped entity in the Amber Temple. It wants her help escaping\n\t- Maybe visions of the Amber Temple?\n- [[Faerah Duskrane]]  is reached out to by [[Drow Eilistraee|Eilistraee]]. She gives her the task of freeing the people of Barovia\n- [[Yevelda Ovak ]] is a member of a clan of Barbarians that used to live in Barovia.\n\t- How to tie her dead parents to Barovia?\n\t- Clues?\n- [[Seluvis Felo'melorn]]???\n- Morally gray reason [[Strahd Von Zarovich]] kills and torments the people of Barovia?\n\t- Trying to keep the entities of [[The Amber Temple]] trapped?\n\t- Cursed with Vampirism out of revenge by the entities?\n\t\t- Doesn't tie in well with him killing his brother.",
-                "input": ""
+                "answer": "healthy",
+                "input": "{{yaml.condition}}"
               },
               "icon": "lucide-file",
               "title": "Template Playground"
@@ -246,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,6 +277,8 @@
   },
   "active": "d3f1427f4c48366b",
   "lastOpenFiles": [
+    "z_Templates/Text Generator/NPC.md",
+    "z_Templates/Text Generator",
     "2. Scratch Notes/Campaign Ideas.md",
     "Monsters.base",
     "Players.base",
@@ -305,13 +308,11 @@
     "5. Mechanics/Traps Hazards/Furies Moat (KPDM).md",
     "1. DM Toolkit/Configuration.md",
     "Spells.base",
-    "5. Mechanics/Spells/Dark Maw (KPDM).md",
     "1. DM Toolkit/Knowledge/Sources/Books",
     "1. DM Toolkit/Knowledge/Sources/Articles",
     "1. DM Toolkit/Knowledge/Sources",
     "1. DM Toolkit/Knowledge/Books",
     "1. DM Toolkit/Knowledge/Articles",
-    "1. DM Toolkit/Knowledge",
     "z_Assets/Locations/bruokdon.png",
     "compendium/decks/img/back.webp",
     "4. World Almanac/NPCs/token/inda-malayuri-veor.webp",
