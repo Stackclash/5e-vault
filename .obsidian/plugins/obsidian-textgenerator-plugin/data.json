@@ -43,7 +43,7 @@
     "get-title": false,
     "generated-text-to-clipboard-From-template": false,
     "calculate-tokens": false,
-    "calculate-tokens-for-template": true,
+    "calculate-tokens-for-template": false,
     "text-extractor-tool": true,
     "stop-stream": false,
     "custom-instruct": false,
