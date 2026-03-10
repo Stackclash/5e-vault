@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Text Generator/NPC.md",
+                "file": "z_Templates/Text Generator/Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPC"
+              "title": "Test"
             }
           }
         ]
@@ -247,8 +247,9 @@
   },
   "active": "63f6dfc9ee12dc72",
   "lastOpenFiles": [
-    "z_Templates/Text Generator/Backups/generations/NPC-cgX.md",
     "z_Templates/Text Generator/NPC.md",
+    "z_Templates/Text Generator/Test.md",
+    "z_Templates/Text Generator/Backups/generations/NPC-cgX.md",
     "z_Templates/Text Generator/Backups/generations",
     "z_Templates/Text Generator/Backups",
     "z_Templates/Text Generator/Backups/generations/NPC-jeO.md",
@@ -278,7 +279,6 @@
     "6. Resources/Books/Deep Magic/06 Alkemancy Magic.md",
     "6. Resources/Books/Deep Magic/05 Class Options.md",
     "6. Resources/Books/Deep Magic/04 Spell Descriptions.md",
-    "6. Resources/Books/Deep Magic/03 Spell Lists.md",
     "Spells.base",
     "1. DM Toolkit/Knowledge/Sources/Books",
     "1. DM Toolkit/Knowledge/Sources/Articles",
