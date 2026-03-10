@@ -25,13 +25,14 @@
             "id": "d3f1427f4c48366b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Monsters.base",
-                "viewName": "Table"
+                "file": "4. World Almanac/NPCs/Urwin Martikov (COS).md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Monsters"
+              "icon": "lucide-file",
+              "title": "Urwin Martikov (COS)"
             }
           }
         ],
@@ -224,34 +225,28 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "96a4f2188418a82a",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a6475e4f649b0cd2",
+            "id": "5ee8f38025645599",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM_AGENDA",
+              "type": "playground-view",
               "state": {
-                "calendar": "ID_6b2b79a86a39",
-                "id": "ID_1bd94a588859",
-                "parent": "ID_aa9bf8981938"
+                "openInPopout": false,
+                "id": "0f5492ac-3f22-46c5-b69a-50141085e73f",
+                "answer": "Campaign Ideas\n- [[Redgrave|Redgrave's]] soul is a member of the Order of the Silver Dragon\n- [[Marin|Marin's]] patron is a trapped entity in the Amber Temple. It wants her help escaping\n\t- Maybe visions of the Amber Temple?\n- [[Faerah Duskrane]]  is reached out to by [[Drow Eilistraee|Eilistraee]]. She gives her the task of freeing the people of Barovia\n- [[Yevelda Ovak ]] is a member of a clan of Barbarians that used to live in Barovia.\n\t- How to tie her dead parents to Barovia?\n\t- Clues?\n- [[Seluvis Felo'melorn]]???\n- Morally gray reason [[Strahd Von Zarovich]] kills and torments the people of Barovia?\n\t- Trying to keep the entities of [[The Amber Temple]] trapped?\n\t- Cursed with Vampirism out of revenge by the entities?\n\t\t- Doesn't tie in well with him killing his brother.",
+                "input": ""
               },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
+              "icon": "lucide-file",
+              "title": "Template Playground"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,8 +276,9 @@
   },
   "active": "d3f1427f4c48366b",
   "lastOpenFiles": [
-    "Players.base",
+    "2. Scratch Notes/Campaign Ideas.md",
     "Monsters.base",
+    "Players.base",
     "Hazards.base",
     "5. Mechanics/Bestiary/Fiend/Howler (MPMM).md",
     "5. Mechanics/Items/Harp Of Horror (HHHVIII).md",
