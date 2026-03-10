@@ -14,7 +14,7 @@
   "allowJavascriptRun": true,
   "experiment": false,
   "promptsPath": "z_Templates/Text Generator",
-  "textGenPath": "z_Templates/Text Generator/Backups/",
+  "textGenPath": "z_Templates/Text Generator/Backups",
   "prefix": "\n\n",
   "tgSelectionLimiter": "^\\*\\*\\*",
   "stream": true,
