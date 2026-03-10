@@ -28,11 +28,11 @@
   "options": {
     "generate-text": false,
     "generate-text-with-metadata": false,
-    "insert-generated-text-From-template": false,
+    "insert-generated-text-From-template": true,
     "create-generated-text-From-template": true,
     "search-results-batch-generate-from-template": false,
     "insert-text-From-template": false,
-    "create-text-From-template": false,
+    "create-text-From-template": true,
     "show-modal-From-template": false,
     "open-template-as-tool": false,
     "open-playground": true,
