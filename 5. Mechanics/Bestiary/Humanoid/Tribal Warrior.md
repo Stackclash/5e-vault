@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 0.125
+cr: 1\8
 environments:
   - coastal
   - mountain

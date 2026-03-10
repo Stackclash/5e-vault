@@ -5,9 +5,6 @@ filters:
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - environments.contains("grassland")
     order:
       - file.name
       - alignment

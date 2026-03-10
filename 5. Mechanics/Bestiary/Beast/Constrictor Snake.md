@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 0.25
+cr: 1\4
 environments:
   - underwater
   - forest

@@ -274,17 +274,18 @@
       "remotely-save:Remotely Save": true,
       "solo-rpg-toolkit:Solo RPG Toolkit": true,
       "templater-obsidian:Templater": true,
-      "calendarium:Open Calendarium": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "d3f1427f4c48366b",
   "lastOpenFiles": [
+    "Players.base",
+    "Monsters.base",
     "Hazards.base",
     "5. Mechanics/Bestiary/Fiend/Howler (MPMM).md",
     "5. Mechanics/Items/Harp Of Horror (HHHVIII).md",
-    "Monsters.base",
     "5. Mechanics/Bestiary/Fiend/Flind (MPMM).md",
     "1. DM Toolkit/Inbox.md",
     "5. Mechanics/Bestiary/Goblinoid/Warlord Snikrot (GRIFFONSSADDLEBAG3).md",
@@ -309,7 +310,6 @@
     "1. DM Toolkit/Configuration.md",
     "Spells.base",
     "5. Mechanics/Spells/Dark Maw (KPDM).md",
-    "Players.base",
     "1. DM Toolkit/Knowledge/Sources/Books",
     "1. DM Toolkit/Knowledge/Sources/Articles",
     "1. DM Toolkit/Knowledge/Sources",

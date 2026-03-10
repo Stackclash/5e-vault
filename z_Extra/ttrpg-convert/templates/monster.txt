@@ -151,7 +151,7 @@ obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
 {#if resource.cr && resource.cr != 'Unknown'}
-cr: {#if resource.cr == '1/4'}.25{#else if resource.cr == '1/2'}.5{#else if resource.cr == '1/8'}.125{#else}{resource.cr}{/if}
+cr: {resource.cr}
 {/if}
 {#if resource.environment}
 environments:

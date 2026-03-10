@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: 0.5
+cr: 1\2
 environments:
   - underdark
   - urban
