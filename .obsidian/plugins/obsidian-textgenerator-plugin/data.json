@@ -1,5 +1,5 @@
 {
-  "version": "0.7.52",
+  "version": "0.8.1",
   "endpoint": "https://api.openai.com/v1",
   "models": {},
   "api_key": "",
@@ -59,6 +59,7 @@
   "autoSuggestOptions": {
     "customInstructEnabled": false,
     "customInstruct": "continue the follwing text:\n{{query}}",
+    "systemPrompt": "",
     "isEnabled": false,
     "allowInNewLine": false,
     "delay": 300,
@@ -93,7 +94,9 @@
       "model": "gpt-4",
       "api_key": ""
     },
-    "Ollama (Langchain)": {},
+    "Ollama (Langchain)": {
+      "basePath": "localhost:3000"
+    },
     "Default (Custom)": {
       "endpoint": "https://api.openai.com/v1/chat/completions",
       "custom_header": "{\n    \"Content-Type\": \"application/json\",\n    authorization: \"Bearer {{api_key}}\"\n}",
