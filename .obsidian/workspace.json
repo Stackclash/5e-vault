@@ -25,14 +25,13 @@
             "id": "d3f1427f4c48366b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "5. Mechanics/Bestiary/Fiend/Howler (MPMM).md",
-                "mode": "preview",
-                "source": false
+                "file": "Monsters.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Howler (MPMM)"
+              "icon": "lucide-table",
+              "title": "Monsters"
             }
           }
         ],
@@ -275,14 +274,18 @@
       "remotely-save:Remotely Save": true,
       "solo-rpg-toolkit:Solo RPG Toolkit": true,
       "templater-obsidian:Templater": true,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "d3f1427f4c48366b",
   "lastOpenFiles": [
+    "Hazards.base",
+    "5. Mechanics/Bestiary/Fiend/Howler (MPMM).md",
+    "5. Mechanics/Items/Harp Of Horror (HHHVIII).md",
     "Monsters.base",
     "5. Mechanics/Bestiary/Fiend/Flind (MPMM).md",
-    "Hazards.base",
     "1. DM Toolkit/Inbox.md",
     "5. Mechanics/Bestiary/Goblinoid/Warlord Snikrot (GRIFFONSSADDLEBAG3).md",
     "5. Mechanics/Lists/List Spells Classes Bard.md",
@@ -306,8 +309,6 @@
     "1. DM Toolkit/Configuration.md",
     "Spells.base",
     "5. Mechanics/Spells/Dark Maw (KPDM).md",
-    "5. Mechanics/Bestiary/Monstrosity/Tarrasque.md",
-    "5. Mechanics/Bestiary/Dragon/Adult Lunar Dragon (BAM).md",
     "Players.base",
     "1. DM Toolkit/Knowledge/Sources/Books",
     "1. DM Toolkit/Knowledge/Sources/Articles",

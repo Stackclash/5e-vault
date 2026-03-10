@@ -95,7 +95,8 @@
       "api_key": ""
     },
     "Ollama (Langchain)": {
-      "basePath": "localhost:3000"
+      "basePath": "localhost:11434",
+      "model": "gamma3:4b"
     },
     "Default (Custom)": {
       "endpoint": "https://api.openai.com/v1/chat/completions",
@@ -107,7 +108,8 @@
       "frequency_penalty": 0,
       "presence_penalty": 0.5,
       "top_p": 1
-    }
+    },
+    "Google Palm (Langchain)": {}
   },
   "LLMProviderOptionsKeysHashed": {
     "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-Pkpvknsf3QZ8BmHSfYuhT3BlbkFJZfqD8ll38AI0MAglYmwV"
