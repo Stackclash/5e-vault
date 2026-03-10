@@ -2,6 +2,8 @@ services:
   ollama:
     image: ollama/ollama
     container_name: ollama
+    environment:
+      - OLLAMA_ORIGINS=app://obsidian.md:*
     ports:
       - "11434:11434"
     volumes:

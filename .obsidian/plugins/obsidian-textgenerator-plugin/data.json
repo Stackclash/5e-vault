@@ -95,8 +95,8 @@
       "api_key": ""
     },
     "Ollama (Langchain)": {
-      "basePath": "http://localhost:11434/api",
-      "model": "gamma3:4b"
+      "basePath": "http://localhost:11434",
+      "model": "gemma3:4b"
     },
     "Default (Custom)": {
       "endpoint": "https://api.openai.com/v1/chat/completions",
