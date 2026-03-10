@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov (COS).md",
-                "mode": "preview",
+                "file": "z_Templates/Text Generator/NPC.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Urwin Martikov (COS)"
+              "title": "NPC"
             }
           }
         ],
@@ -277,6 +277,7 @@
   },
   "active": "d3f1427f4c48366b",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "z_Templates/Text Generator/NPC.md",
     "z_Templates/Text Generator",
     "2. Scratch Notes/Campaign Ideas.md",
@@ -306,7 +307,6 @@
     "5. Mechanics/Traps Hazards/Crossbow Trap (XGE).md",
     "5. Mechanics/Traps Hazards/High Altitude.md",
     "5. Mechanics/Traps Hazards/Furies Moat (KPDM).md",
-    "1. DM Toolkit/Configuration.md",
     "Spells.base",
     "1. DM Toolkit/Knowledge/Sources/Books",
     "1. DM Toolkit/Knowledge/Sources/Articles",
