@@ -225,29 +225,13 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "5ee8f38025645599",
-            "type": "leaf",
-            "state": {
-              "type": "playground-view",
-              "state": {
-                "openInPopout": false,
-                "id": "0f5492ac-3f22-46c5-b69a-50141085e73f",
-                "answer": "healthy",
-                "input": "{{yaml.condition}}"
-              },
-              "icon": "lucide-file",
-              "title": "Template Playground"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
