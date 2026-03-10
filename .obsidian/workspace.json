@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Text Generator/Test.md",
+                "file": "z_Templates/Text Generator/Backups/generations/Test-d8K.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Test-d8K"
             }
           },
           {
@@ -261,8 +261,9 @@
   },
   "active": "63f6dfc9ee12dc72",
   "lastOpenFiles": [
-    "z_Templates/Text Generator/Backups/generations/Test-Het.md",
     "z_Templates/Text Generator/Test.md",
+    "z_Templates/Text Generator/Backups/generations/Test-d8K.md",
+    "z_Templates/Text Generator/Backups/generations/Test-Het.md",
     "z_Templates/Text Generator/NPC.md",
     "z_Templates/Text Generator/Backups/generations/Test-Zh8.md",
     "z_Templates/Text Generator/Backups/generations/Untitled-YnV.md",
@@ -292,7 +293,6 @@
     "5. Mechanics/Lists/List Spells Classes Bard.md",
     "6. Resources/Books/Deep Magic/21 Dark Magic.md",
     "6. Resources/Books/Deep Magic/19 Clockwork Magic.md",
-    "6. Resources/Books/Deep Magic/14 Rune Magic.md",
     "Spells.base",
     "1. DM Toolkit/Knowledge/Sources/Books",
     "1. DM Toolkit/Knowledge/Sources/Articles",
