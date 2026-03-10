@@ -35,8 +35,7 @@
               "title": "Untitled-YnV"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,10 +259,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f5a721ed9d79d59d",
+  "active": "63f6dfc9ee12dc72",
   "lastOpenFiles": [
-    "Untitled.md",
     "z_Templates/Text Generator/Backups/generations/Untitled-YnV.md",
+    "Untitled.md",
     "z_Templates/Text Generator/Backups/generations/Untitled-dkB.md",
     "z_Templates/Text Generator/Test.md",
     "z_Templates/Text Generator/NPC.md",

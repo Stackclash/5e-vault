@@ -4,6 +4,7 @@ name: Test
 description: Generate NPC details that fit the existing NPC template structure.
 temperature: 0.8
 max_tokens: 1200
+stream: false
 ---
 
 
@@ -47,8 +48,6 @@ history:
 hiddenDetails:
 
 Make personality and goals story-driven.
-
 ***
-
 This is the output:
 {{output}}
