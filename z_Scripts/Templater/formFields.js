@@ -96,15 +96,16 @@ function date(label = "Date", description = "Date", required = false) {
  * @param {string} label - Display label
  * @param {string} tag - Tag to query (e.g., '#location')
  * @param {string} [description] - Field description
+ * @param {boolean} [required=true] - Whether the field is required
  */
-function tagSelect(dv, fieldName, label, tag, description) {
-    const pages = dv.pages(`#${tag}`).sort(p => p.file.name, 'asc').array()
+function tagSelect(dv, fieldName, label, tag, description, required = true) {
+    const pages = dv.pages(tag).sort(p => p.file.name, 'asc').array()
     console.log(`'#${tag}'`, pages)
     return {
         name: fieldName,
         label,
         description: description || label,
-        isRequired: true,
+        isRequired: required,
         input: {
             type: "select",
             options: pages.map(p => ({ label: p.file.name, value: p.file.link.toString() })),

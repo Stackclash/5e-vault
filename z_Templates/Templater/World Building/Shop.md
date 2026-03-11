@@ -15,8 +15,8 @@ try {
     fields: [
       fields.name("Shop Name", "Name of Shop"),
       fields.tagSelect(dataview, "location", "Location", '#location', "Where this shop is located"),
-      fields.tagMultiSelect(dataview, "owners", "Owners", '#npc', "Who owns this shop"),
-      fields.tagMultiSelect(dataview, "staff", "Staff", '#npc', "Who works in this shop"),
+      fields.tagMultiSelect(dataview, "owners", "Owners", '#npc', "Who owns this shop", false),
+      fields.tagMultiSelect(dataview, "staff", "Staff", '#npc', "Who works in this shop", false),
     ],
     version: "1"
   })
