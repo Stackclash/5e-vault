@@ -1,10 +1,9 @@
 filters:
   and:
-    - file.folder.startsWith("5. Mechanics/Bestiary")
-    - file.ext == "md"
+    - file.tags.contains("monster")
 views:
   - type: table
-    name: Table
+    name: Overview
     order:
       - file.name
       - alignment
@@ -14,6 +13,6 @@ views:
       - ac
       - type
       - environments
-    sort:
-      - property: cr
-        direction: DESC
+    sort: []
+  - type: table
+    name: Aberrations

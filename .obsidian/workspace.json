@@ -11,14 +11,13 @@
             "id": "77c14849b6b27320",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
-                "mode": "preview",
-                "source": false
+                "file": "z_Bases/Monsters.base",
+                "viewName": "Aberrations"
               },
-              "icon": "lucide-file",
-              "title": "Places of Interest"
+              "icon": "lucide-table",
+              "title": "Monsters"
             }
           }
         ]
@@ -247,15 +246,20 @@
   },
   "active": "77c14849b6b27320",
   "lastOpenFiles": [
-    "4. World Almanac/Regions/Regions.md",
-    "4. World Almanac/Settlements/Settlements.md",
+    "5. Mechanics/Bestiary/Bestiary.md",
+    "5. Mechanics/Decks/Decks.md",
+    "5. Mechanics/Classes/Classes.md",
+    "5. Mechanics/Backgrounds/Backgrounds.md",
+    "z_Bases/Monsters.base",
     "4. World Almanac/Worlds/Worlds.md",
-    "4. World Almanac/Shops/The Scarecrow.md",
     "4. World Almanac/Shops/Shops.md",
-    "4. World Almanac/Shops/Golden Hammer.md",
+    "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
-    "z_Bases/Locations.base",
     "4. World Almanac/NPCs/NPCs.md",
+    "4. World Almanac/Shops/The Scarecrow.md",
+    "4. World Almanac/Shops/Golden Hammer.md",
+    "z_Bases/Locations.base",
     "4. World Almanac/NPCs/Adrian Martikov.md",
     "z_Bases/Hazards.base",
     "z_Bases/Spells.base",
@@ -275,15 +279,10 @@
     "4. World Almanac/NPCs/Madam Eva (COS).md",
     "4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md",
     "4. World Almanac/NPCs/Lady Fiona Wachter (COS).md",
-    "4. World Almanac/NPCs/Kiril Stoyanovich (COS).md",
-    "4. World Almanac/NPCs/Kasimir Velikov (COS).md",
-    "4. World Almanac/NPCs/Izek Strazni (COS).md",
-    "4. World Almanac/NPCs/Ismark Kolyanovich (COS).md",
     "Untitled.canvas",
     "3. The Party/Campaigns",
     "z_Templates/Text Generator/Backups/generations",
     "z_Templates/Text Generator/Backups",
-    "z_Templates/Text Generator",
     "z_Assets/Locations/bruokdon.png",
     "compendium/decks/img/back.webp",
     "4. World Almanac/NPCs/token/inda-malayuri-veor.webp"

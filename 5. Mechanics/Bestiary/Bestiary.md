@@ -1,0 +1,4 @@
+---
+obsidianUIMode: preview
+---
+![[Monsters.base#]]
