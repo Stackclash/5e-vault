@@ -121,14 +121,15 @@ function tagSelect(dv, fieldName, label, tag, description, required = true) {
  * @param {string} label - Display label
  * @param {string} tag - Tag to query (e.g., '#npc')
  * @param {string} [description] - Field description
+ * @param {boolean} [required=true] - Whether the field is required
  */
-function tagMultiSelect(dv, fieldName, label, tag, description) {
+function tagMultiSelect(dv, fieldName, label, tag, description, required = true) {
     const pages = dv.pages(tag).sort(p => p.file.name, 'asc').array()
     return {
         name: fieldName,
         label,
         description: description || label,
-        isRequired: true,
+        isRequired: required,
         input: {
             type: "multiselect",
             source: "fixed",
