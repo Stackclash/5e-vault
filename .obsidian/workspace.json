@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Vasilka (COS).md",
-                "mode": "preview",
+                "file": "Untitled.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vasilka (COS)"
+              "title": "Untitled"
             }
           }
         ]
@@ -247,6 +247,11 @@
   },
   "active": "727a9339ecd9c0e4",
   "lastOpenFiles": [
+    "Hazards.base",
+    "Untitled.md",
+    "Spells.base",
+    "4. World Almanac/NPCs/Vladimir Horngaard (COS).md",
+    "4. World Almanac/NPCs/Vasilka (COS).md",
     "4. World Almanac/Shops/Golden Hammer.md",
     "4. World Almanac/NPCs/Victor Vallakovich (COS).md",
     "Untitled 1.md",
@@ -269,7 +274,6 @@
     "4. World Almanac/NPCs/Ezmerelda Davenir (COS).md",
     "4. World Almanac/NPCs/Exethanter (COS).md",
     "4. World Almanac/NPCs/Escher (COS).md",
-    "Spells.base",
     "Untitled.canvas",
     "3. The Party/Campaigns",
     "z_Templates/Text Generator/Backups/generations",
@@ -277,7 +281,6 @@
     "z_Templates/Text Generator",
     "Monsters.base",
     "Players.base",
-    "Hazards.base",
     "1. DM Toolkit/Knowledge/Sources/Books",
     "1. DM Toolkit/Knowledge/Sources/Articles",
     "z_Assets/Locations/bruokdon.png",
