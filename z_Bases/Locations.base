@@ -1,9 +1,12 @@
 filters:
   and:
     - file.tags.contains("location")
+formulas:
+  type: tags.filter(value = '')
 views:
   - type: table
     name: Table
     order:
       - file.name
       - location
+      - formula.type
