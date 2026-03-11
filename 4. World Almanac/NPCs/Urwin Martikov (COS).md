@@ -62,7 +62,7 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
 
-> [!column|no-t]
+> [!column|no-t flex]
 >> [!metadata|text-Center] Description
 >> `INPUT[textArea:description]`
 >
@@ -70,7 +70,7 @@ dislikes: null
 >> `INPUT[textArea:history]`
 
 ## Traits/Goals
-> [!column|no-t]
+> [!column|no-t flex]
 >> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >

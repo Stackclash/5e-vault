@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 345.5
   },
   "right": {
     "id": "24f65bc15fe356db",
@@ -245,7 +245,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d8e956e7eb8b6e96",
+  "active": "830f75e4aa18d718",
   "lastOpenFiles": [
     "z_Templates/Text Generator/Test.md",
     "z_Templates/Text Generator/NPC.md",
