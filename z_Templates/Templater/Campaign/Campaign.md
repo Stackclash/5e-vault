@@ -6,7 +6,7 @@ try {
   const fields = tp.user.formFields()
   const { dataview, modalForm, config } = init.getPlugins(tp, ['campaigns'])
 
-  const data = await init.openForm(modalForm, {
+  data = await init.openForm(modalForm, {
     title: "Campaign Setup",
     name: "campaign-setup",
     fields: [
@@ -17,8 +17,6 @@ try {
     version: "1"
   })
 
-  console.log(data)
-
   await init.moveFile(tp, config.locations.campaigns, data.name)
 
 } catch (e) {
@@ -27,7 +25,7 @@ try {
   new tp.obsidian.Notice(e.message, 5000)
 }
 -%>
-<%* if (!templateError) {console.log(data.party) -%>
+<%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
 party: "<% data.party %>"
