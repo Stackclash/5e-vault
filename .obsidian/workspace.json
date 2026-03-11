@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "365ec90e1dd6819a",
+        "id": "a276439e119bada2",
         "type": "tabs",
         "children": [
           {
-            "id": "43c1893d47d1b102",
+            "id": "77c14849b6b27320",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "z_Bases/Hazards.base",
+                "file": "z_Bases/Locations.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Hazards"
+              "title": "Locations"
             }
           }
         ]
@@ -247,6 +247,9 @@
   "active": "830f75e4aa18d718",
   "lastOpenFiles": [
     "4. World Almanac/NPCs/NPCs.md",
+    "z_Bases/Locations.base",
+    "4. World Almanac/NPCs/Adrian Martikov.md",
+    "z_Bases/Hazards.base",
     "z_Bases/Spells.base",
     "z_Bases",
     "Untitled.md",
@@ -254,7 +257,6 @@
     "4. World Almanac/NPCs/NPCs.base",
     "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "1. DM Toolkit/Configuration.md",
-    "z_Bases/Hazards.base",
     "4. World Almanac/NPCs/Vladimir Horngaard (COS).md",
     "4. World Almanac/NPCs/Vasilka (COS).md",
     "4. World Almanac/Shops/Golden Hammer.md",
@@ -275,14 +277,11 @@
     "4. World Almanac/NPCs/Gertruda (COS).md",
     "4. World Almanac/NPCs/Gadof Blinsky (COS).md",
     "4. World Almanac/NPCs/Ezmerelda Davenir (COS).md",
-    "4. World Almanac/NPCs/Exethanter (COS).md",
-    "4. World Almanac/NPCs/Escher (COS).md",
     "Untitled.canvas",
     "3. The Party/Campaigns",
     "z_Templates/Text Generator/Backups/generations",
     "z_Templates/Text Generator/Backups",
     "z_Templates/Text Generator",
-    "z_Bases/Monsters.base",
     "z_Assets/Locations/bruokdon.png",
     "compendium/decks/img/back.webp",
     "4. World Almanac/NPCs/token/inda-malayuri-veor.webp"

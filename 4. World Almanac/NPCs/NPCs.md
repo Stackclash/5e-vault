@@ -1,1 +1,5 @@
+---
+obsidianUIMode: preview
+---
+
 ![[NPCs.base]]
