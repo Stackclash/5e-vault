@@ -1,0 +1,41 @@
+filters:
+  and:
+    - file.tags.contains("location")
+formulas:
+  type: tags.filter(['#place-of-interest', '#region', '#settlement', '#shop', '#world'].contains(value)).map(value.slice(1))
+views:
+  - type: table
+    name: Overview
+    order:
+      - file.name
+      - location
+      - formula.type
+    columnSize:
+      formula.type: 244
+  - type: table
+    name: Places of Interest
+    filters:
+      and:
+        - formula.type == ["place-of-interest"]
+    order:
+      - file.name
+  - type: table
+    name: Regions
+    filters:
+      and:
+        - formula.type == ["region"]
+  - type: table
+    name: Settlements
+    filters:
+      and:
+        - formula.type == ["settlement"]
+  - type: table
+    name: Shops
+    filters:
+      and:
+        - formula.type == ["shop"]
+  - type: table
+    name: Worlds
+    filters:
+      and:
+        - formula.type == ["world"]

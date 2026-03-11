@@ -1,10 +1,9 @@
 filters:
   and:
-    - file.folder.startsWith("5. Mechanics/Bestiary")
-    - file.ext == "md"
+    - file.tags.contains("monster")
 views:
   - type: table
-    name: Table
+    name: Overview
     order:
       - file.name
       - alignment
@@ -14,6 +13,200 @@ views:
       - ac
       - type
       - environments
-    sort:
-      - property: cr
-        direction: DESC
+    sort: []
+  - type: table
+    name: Aberrations
+    filters:
+      and:
+        - type == "aberration"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Beasts
+    filters:
+      and:
+        - type == "beast"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Celestials
+    filters:
+      and:
+        - type == "celestial"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Constructs
+    filters:
+      and:
+        - type == "construct"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Dragons
+    filters:
+      and:
+        - type == "dragon"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Elementals
+    filters:
+      and:
+        - type == "elemental"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Fey
+    filters:
+      and:
+        - type == "fey"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Fiends
+    filters:
+      and:
+        - type == "fiend"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Giants
+    filters:
+      and:
+        - type == "giant"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Humanoids
+    filters:
+      and:
+        - type == "humanoid"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Monstrosities
+    filters:
+      and:
+        - type == "monstrosity"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Oozes
+    filters:
+      and:
+        - type == "ooze"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Plants
+    filters:
+      and:
+        - type == "Plants"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
+  - type: table
+    name: Undead
+    filters:
+      and:
+        - type == "undead"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments

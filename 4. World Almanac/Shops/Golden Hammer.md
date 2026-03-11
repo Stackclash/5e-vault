@@ -8,6 +8,7 @@ cost_modifier: 1
 items: []
 tags:
   - shop
+  - location
 ---
 > [!infobox]
 > # `=this.file.name`

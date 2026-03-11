@@ -1,4 +1,4 @@
 ---
 obsidianUIMode: preview
 ---
-![[NPCs.base]]
+![[Locations.base#Settlements]]

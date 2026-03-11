@@ -48,6 +48,7 @@ staff: <%* if (data.staff && data.staff.length == 0) { %>[]<%* } %>
 cost_modifier: 1
 items: []
 tags:
+  - location
   - shop
 ---
 > [!infobox]
