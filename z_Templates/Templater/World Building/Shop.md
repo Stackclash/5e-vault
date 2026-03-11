@@ -20,7 +20,9 @@ try {
     ],
     version: "1"
   })
-  console.log(data)
+  
+  if (!data.owners) data.owners = []
+  if (!data.staff) data.staff = []
 
   await init.moveFile(tp, config.locations.shops, data.name)
 
@@ -36,10 +38,10 @@ obsidianUIMode: preview
 playerVisible: false
 location: "<% data.location %>"
 resources: []
-owners: <%* if (data.owners && data.owners.length == 0) { %>[]<%* } else { %>
+owners: <%* if (data.owners && data.owners.length == 0) { %>[]<%* } %>
 <%* for (owner of data.owners) { -%>
   - "<% dataview.page(owner).file.link.toString() %>"
-<%* } } -%>
+<%* } -%>
 staff: <%* if (data.staff && data.staff.length == 0) { %>[]<%* } %>
 <%* for (staff of data.staff) { -%>
   - "<% dataview.page(staff).file.link.toString() %>"
