@@ -75,7 +75,7 @@ The gemstone that has given life to Baba Lysaga's hut was previously buried in t
 Removing the gem from the hut renders the hut [[/5. Mechanics/Rules/Conditions.md#Incapacitated|incapacitated]]. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) piercing damage and fails to obtain the gem.
 
 ## Traits/Goals
-> [!column] Traits
+> [!column|no-t]
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[textArea:personality]`
 >

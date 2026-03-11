@@ -108,7 +108,7 @@ The effect of the protection afforded by the Heart of Sorrow can be chilling to 
 The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an [[/5. Mechanics/Spells/Antimagic Field.md|antimagic field]].
 
 ## Traits/Goals
-> [!column] Traits
+> [!column|no-t]
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[textArea:personality]`
 >

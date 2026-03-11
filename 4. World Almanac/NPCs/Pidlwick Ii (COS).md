@@ -99,7 +99,7 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 "When I'm upset, I do bad things."
 
 ## Traits/Goals
-> [!column] Traits
+> [!column|no-t]
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[textArea:personality]`
 >

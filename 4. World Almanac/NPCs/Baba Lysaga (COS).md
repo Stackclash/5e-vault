@@ -105,7 +105,7 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 "I will not rest until the last of my son's enemies are destroyed."
 
 ## Traits/Goals
-> [!column] Traits
+> [!column|no-t]
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[textArea:personality]`
 >

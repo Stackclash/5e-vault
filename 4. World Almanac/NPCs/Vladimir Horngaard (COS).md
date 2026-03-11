@@ -126,7 +126,7 @@ No magic can hide a creature pursued by a revenant, which always knows the direc
 A revenant doesn't require air, food, drink, or sleep.
 
 ## Traits/Goals
-> [!column] Traits
+> [!column|no-t]
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[textArea:personality]`
 >

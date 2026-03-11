@@ -68,7 +68,7 @@ dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
 TBD
 
 ## Traits/Goals
-> [!column] Traits
+> [!column|no-t]
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[textArea:personality]`
 >

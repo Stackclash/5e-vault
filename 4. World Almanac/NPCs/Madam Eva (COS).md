@@ -95,7 +95,7 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 "The people whose fates I divine aren't important. They are but the means to an end."
 
 ## Traits/Goals
-> [!column] Traits
+> [!column|no-t]
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[textArea:personality]`
 >

@@ -66,7 +66,7 @@ dislikes: 'Darkness, Strahd’s influence, seeing his parishioners suffer'
 TBD
 
 ## Traits/Goals
-> [!column] Traits
+> [!column|no-t]
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[textArea:personality]`
 >

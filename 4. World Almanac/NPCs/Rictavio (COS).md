@@ -93,7 +93,7 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 "I am cursed. Thus, I will never have peace."
 
 ## Traits/Goals
-> [!column] Traits
+> [!column|no-t]
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[textArea:personality]`
 >

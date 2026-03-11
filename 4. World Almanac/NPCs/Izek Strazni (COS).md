@@ -101,7 +101,7 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 "I would do anything, kill anything, to find my sister."
 
 ## Traits/Goals
-> [!column] Traits
+> [!column|no-t]
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[textArea:personality]`
 >

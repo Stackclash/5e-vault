@@ -71,7 +71,7 @@ Strahd imbued his automaton with a sliver of his being, bequeathing unto his arm
 The armor understands Common but obeys only the commands of its master.
 
 ## Traits/Goals
-> [!column] Traits
+> [!column|no-t]
 >> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[textArea:personality]`
 >
