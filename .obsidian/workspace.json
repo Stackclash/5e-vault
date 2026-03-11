@@ -11,14 +11,13 @@
             "id": "43c1893d47d1b102",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "1. DM Toolkit/Configuration.md",
-                "mode": "source",
-                "source": false
+                "file": "z_Bases/Hazards.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Configuration"
+              "icon": "lucide-table",
+              "title": "Hazards"
             }
           }
         ]
@@ -247,13 +246,15 @@
   },
   "active": "830f75e4aa18d718",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/NPCs.md",
+    "z_Bases/Spells.base",
+    "z_Bases",
+    "Untitled.md",
     "NPCs.base",
     "4. World Almanac/NPCs/NPCs.base",
     "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "1. DM Toolkit/Configuration.md",
-    "Spells.base",
-    "Untitled.md",
-    "Hazards.base",
+    "z_Bases/Hazards.base",
     "4. World Almanac/NPCs/Vladimir Horngaard (COS).md",
     "4. World Almanac/NPCs/Vasilka (COS).md",
     "4. World Almanac/Shops/Golden Hammer.md",
@@ -281,9 +282,7 @@
     "z_Templates/Text Generator/Backups/generations",
     "z_Templates/Text Generator/Backups",
     "z_Templates/Text Generator",
-    "Monsters.base",
-    "Players.base",
-    "1. DM Toolkit/Knowledge/Sources/Books",
+    "z_Bases/Monsters.base",
     "z_Assets/Locations/bruokdon.png",
     "compendium/decks/img/back.webp",
     "4. World Almanac/NPCs/token/inda-malayuri-veor.webp"
