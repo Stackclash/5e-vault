@@ -326,9 +326,8 @@ return function View() {
 >>       id: 'Items',
 >>       value: (row) => row.value("items") === undefined ? false : row.value("items"),
 >>       render: (value, row) => {
->>          console.log(row.$tags.find(t => ['#shop', '#region', '#settlement', '#place-of-interest', '#world'].includes(t)).slice(1), dc.fileLink(row.$path), row.value("items") === undefined)
->>          if (value === false || value === null) return "✅"
->>          if (Array.isArray(value) && value.length > 0) return "✅"
+>>          if (value === false) return "✅"
+>>          if (value !== null && Array.isArray(value) && value.length > 0) return "✅"
 >>          return "✘"
 >>       }
 >>     },
