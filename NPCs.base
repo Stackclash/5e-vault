@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.tags.contains("npc")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - pronounced
+      - condition
+      - race
+      - gender
+      - age
+      - alignment
+      - location
+      - bond
+      - dislikes
+      - flaw
+      - goals
+      - groups
+      - ideal
+      - likes
+      - occupation
+      - personality
+      - religions
+    sort:
+      - property: condition
+        direction: DESC
+    columnSize:
+      note.age: 146

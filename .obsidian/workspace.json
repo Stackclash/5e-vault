@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Spells.base",
+                "file": "NPCs.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Spells"
+              "title": "NPCs"
             }
           }
         ]
@@ -244,11 +244,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "727a9339ecd9c0e4",
+  "active": "830f75e4aa18d718",
   "lastOpenFiles": [
+    "Spells.base",
+    "NPCs.base",
     "Untitled.md",
     "Hazards.base",
-    "Spells.base",
     "4. World Almanac/NPCs/Vladimir Horngaard (COS).md",
     "4. World Almanac/NPCs/Vasilka (COS).md",
     "4. World Almanac/Shops/Golden Hammer.md",
