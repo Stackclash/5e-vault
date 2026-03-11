@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a276439e119bada2",
+        "id": "e34f6121ac98562c",
         "type": "tabs",
         "children": [
           {
-            "id": "77c14849b6b27320",
+            "id": "dbb28f2c3ad2d9c5",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "z_Bases/Monsters.base",
-                "viewName": "Aberrations"
+                "file": "1. DM Toolkit/Tools/Story Engine/Deck of Worlds/Regions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Monsters"
+              "icon": "lucide-file",
+              "title": "Regions"
             }
           }
         ]
@@ -244,13 +245,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "77c14849b6b27320",
+  "active": "dbb28f2c3ad2d9c5",
   "lastOpenFiles": [
+    "1. DM Toolkit/Configuration.md",
+    "5. Mechanics/Items/Items.md",
+    "z_Bases/Monsters.base",
     "5. Mechanics/Bestiary/Bestiary.md",
     "5. Mechanics/Decks/Decks.md",
     "5. Mechanics/Classes/Classes.md",
     "5. Mechanics/Backgrounds/Backgrounds.md",
-    "z_Bases/Monsters.base",
     "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Settlements/Settlements.md",
@@ -268,7 +271,6 @@
     "NPCs.base",
     "4. World Almanac/NPCs/NPCs.base",
     "4. World Almanac/NPCs/Urwin Martikov (COS).md",
-    "1. DM Toolkit/Configuration.md",
     "4. World Almanac/NPCs/Vladimir Horngaard (COS).md",
     "4. World Almanac/NPCs/Vasilka (COS).md",
     "4. World Almanac/NPCs/Victor Vallakovich (COS).md",
@@ -278,7 +280,6 @@
     "4. World Almanac/NPCs/Rahadin (COS).md",
     "4. World Almanac/NPCs/Madam Eva (COS).md",
     "4. World Almanac/NPCs/Lady Lydia Petrovna (COS).md",
-    "4. World Almanac/NPCs/Lady Fiona Wachter (COS).md",
     "Untitled.canvas",
     "3. The Party/Campaigns",
     "z_Templates/Text Generator/Backups/generations",
