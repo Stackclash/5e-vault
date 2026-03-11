@@ -14,24 +14,23 @@ relationships: []
 aliases:
   - Izek Strazni
 alignment: Neutral Evil
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+partyRelationships:
+  Midnight Covenant: Friendly
+location:
+pronounced:
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: male
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
+personality:
 ideal: Fear is a powerful weapon. I use it to get what I want.
-bond: >-
-  I am loyal to my master, Baron Vallakovich, for he brought me into his home. I
-  owe him my life, but he isn't family.
-flaw: 'I would do anything, kill anything, to find my sister.'
-goals: null
-likes: null
-dislikes: null
+bond: I am loyal to my master, Baron Vallakovich, for he brought me into his home. I owe him my life, but he isn't family.
+flaw: I would do anything, kill anything, to find my sister.
+goals:
+likes:
+dislikes:
 ---
 
 > [!infobox]

@@ -26,7 +26,8 @@ goals:
   - To provide for his family, to maintain stability and safety in his community
 likes: The comfort of routine, the success of his crops or trade, a good tavern story
 dislikes: Threats to his village, the oppressive rule of Strahd, anything that disrupts peace and safety
-partyRelationships: {}
+partyRelationships:
+  Midnight Covenant: Ally
 ---
 
 > [!infobox | wsmall]

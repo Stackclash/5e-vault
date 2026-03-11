@@ -13,23 +13,24 @@ relationships: []
 aliases:
   - Exethanter
 alignment: Any Evil alignment
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+partyRelationships:
+  Midnight Covenant: Acquaintance
+location:
+pronounced:
+race:
+gender:
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
-image: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
+image:
 ---
 
 > [!infobox]

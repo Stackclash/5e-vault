@@ -14,22 +14,23 @@ relationships: []
 aliases:
   - Gadof Blinsky
 alignment: Chaotic Good
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+partyRelationships:
+  Midnight Covenant: Ally
+location: "[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]"
+pronounced:
+race:
+gender:
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 ---
 
 > [!infobox]

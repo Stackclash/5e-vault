@@ -14,23 +14,24 @@ relationships: []
 aliases:
   - Lady Fiona Wachter
 alignment: Lawful Evil
-partyRelationships: {}
-location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
-pronounced: null
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+partyRelationships:
+  Midnight Covenant: Enemy
+location: "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
+pronounced:
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: female
-age: null
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
-image: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
+image:
 ---
 
 > [!infobox]

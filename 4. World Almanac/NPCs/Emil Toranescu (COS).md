@@ -15,22 +15,23 @@ relationships: []
 aliases:
   - Emil Toranescu
 alignment: Chaotic Evil
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+partyRelationships:
+  Midnight Covenant: Friendly
+location:
+pronounced:
+race:
+gender:
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 ---
 
 > [!infobox]

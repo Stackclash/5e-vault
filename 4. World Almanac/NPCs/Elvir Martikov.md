@@ -1,30 +1,31 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location:
 condition: healthy
-image: 
+image:
 relationships:
   - Davian Martikov|father
 tags:
   - npc
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
-alignment: 
+pronounced:
+race:
+gender:
+age:
+alignment:
 occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
-partyRelationships: {}
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
+partyRelationships:
+  Midnight Covenant: Ally
 ---
 
 > [!infobox | wsmall]
