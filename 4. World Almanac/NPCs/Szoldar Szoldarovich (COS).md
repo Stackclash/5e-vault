@@ -66,7 +66,7 @@ TBD
 
 ## Traits/Goals
 > [!column|no-t]
->> [!metadata|text-Center bg-c-gray] Personality
+>> [!metadata|text-Center bg-c-gold] Personality
 >> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
