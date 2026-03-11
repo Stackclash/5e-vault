@@ -11,14 +11,12 @@
             "id": "d8e956e7eb8b6e96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1. DM Toolkit/Campaigns/The Hunt for Vecna.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/The Hunt for Vecna.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "The Hunt for Vecna"
+              "icon": "excalidraw-icon",
+              "title": "The Hunt for Vecna.excalidraw"
             }
           },
           {
@@ -35,8 +33,7 @@
               "title": "Davian Martikov (COS)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,14 +257,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "67a45f2872d630f4",
+  "active": "d8e956e7eb8b6e96",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Excalidraw/The Hunt for Vecna.excalidraw.md",
+    "1. DM Toolkit/Campaigns/The Hunt for Vecna.md",
+    "4. World Almanac/NPCs/Davian Martikov (COS).md",
     "1. DM Toolkit/Campaigns/Test6.md",
     "1. DM Toolkit/Campaigns/Test3.md",
     "1. DM Toolkit/Campaigns/Test2.md",
     "1. DM Toolkit/Campaigns/Test.md",
     "1. DM Toolkit/Configuration.md",
-    "1. DM Toolkit/Campaigns/The Hunt for Vecna.md",
     "3. The Party/Campaigns/Test.md",
     "Untitled 6.md",
     "3. The Party/Campaigns",
@@ -279,7 +279,6 @@
     "Untitled.md",
     "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "4. World Almanac/NPCs/Dag Tomescu.md",
-    "4. World Almanac/NPCs/Davian Martikov (COS).md",
     "4. World Almanac/NPCs/Helga Ruvak (COS).md",
     "4. World Almanac/NPCs/Gertruda (COS).md",
     "4. World Almanac/NPCs/Gadof Blinsky (COS).md",
@@ -287,8 +286,6 @@
     "z_Templates/Text Generator/Test.md",
     "z_Templates/Text Generator/NPC.md",
     "z_Templates/Text Generator/Backups/generations/Untitled-YnV.md",
-    "z_Templates/Text Generator/Backups/generations/Test-d8K.md",
-    "z_Templates/Text Generator/Backups/generations/Test-Het.md",
     "z_Templates/Text Generator/Backups/generations",
     "z_Templates/Text Generator/Backups",
     "z_Templates/Text Generator",
