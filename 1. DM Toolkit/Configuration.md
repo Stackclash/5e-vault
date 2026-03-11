@@ -77,8 +77,8 @@ active_campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for V
 > | | |
 > |---|---|
 > | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
-> | **Active World** | `VIEW[{1. DM Toolkit/Campaigns/Truth of Vecna.md#world}][text(renderMarkdown):active_world]` |
-> | **Active Party:** | `VIEW[{1. DM Toolkit/Campaigns/Truth of Vecna.md#party}][text(renderMarkdown):active_party]` |
+> | **Active World** | `INPUT[suggester(optionQuery(#world)):active_world]` |
+> | **Active Party:** | `INPUT[suggester(optionQuery(#party)):active_party]` |
 
 # Current Party/World Info
 ```dataviewjs
@@ -326,6 +326,7 @@ return function View() {
 >>       id: 'Items',
 >>       value: (row) => row.value("items") === undefined ? false : row.value("items"),
 >>       render: (value, row) => {
+            console.log(row.$tags.find(t => ['#shop', '#region', '#settlement', '#place-of-interest', '#world'].includes(t)).slice(1), row.value("items"))
 >>          if (value === false || value === null) return "✘"
 >>          if (Array.isArray(value) && value.length > 0) return "✅"
 >>          return "✘"
