@@ -62,13 +62,15 @@ dislikes: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
 
-TBD
+> [!column|no-t]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
 
 ## Traits/Goals
 > [!column|no-t]
->> [!metadata|text-Center bg-c-purple] Description
->> `INPUT[textArea:description]`
->
 >> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >

@@ -65,8 +65,8 @@ dislikes: null
 TBD
 
 ## Traits/Goals
-> [!column|no-t]
->> [!metadata|text-Center bg-c-gold] Personality
+> [!column] Traits
+>> [!metadata|text-Center bg-c-gray] Personality
 >> `INPUT[textArea:personality]`
 >
 >> [!metadata|text-Center bg-c-gray] Ideal
