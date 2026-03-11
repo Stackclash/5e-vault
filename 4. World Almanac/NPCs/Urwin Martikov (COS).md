@@ -84,7 +84,7 @@ TBD
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
 
-> [!column|dataview] Goals
+> [!column|no-t]
 >> `INPUT[textArea:goals]`
 
 ## Relationships
