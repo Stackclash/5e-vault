@@ -10,8 +10,8 @@ try {
     name: "campaign-setup",
     fields: [
       fields.name("Campaign Name", "Name of the Campaign"),
-      fields.tagSelect(dataview, "party", "Campaign Party"),
-      fields.tagSelect(dataview, "world", "Campaign World")
+      fields.tagSelect(dataview, "party", "Campaign Party", "party"),
+      fields.tagSelect(dataview, "world", "Campaign World", "world")
     ],
     version: "1"
   })

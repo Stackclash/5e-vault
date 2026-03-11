@@ -98,7 +98,8 @@ function date(label = "Date", description = "Date", required = false) {
  * @param {string} [description] - Field description
  */
 function tagSelect(dv, fieldName, label, tag, description) {
-    const pages = dv.pages(tag).sort(p => p.file.name, 'asc').array()
+    const pages = dv.pages(`#${tag}`).sort(p => p.file.name, 'asc').array()
+    console.log(`'#${tag}'`, pages)
     return {
         name: fieldName,
         label,
@@ -156,7 +157,9 @@ function folderSelect(dv, fieldName, label, folderPath, description) {
     }
 }
 
-module.exports = {
-    name, alignment, gender, age, textArea, date,
-    tagSelect, tagMultiSelect, folderSelect
+module.exports = function() {
+    return {
+        name, alignment, gender, age, textArea, date,
+        tagSelect, tagMultiSelect, folderSelect
+    }
 }
