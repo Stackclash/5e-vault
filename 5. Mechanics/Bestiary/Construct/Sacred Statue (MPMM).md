@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Large
 alignment: as the eidolon's alignment
@@ -17,6 +16,7 @@ tags:
   - monster/type/construct
 aliases:
   - Sacred Statue
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Construct\Sacred Statue (MPMM).md|Sacred Statue]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*

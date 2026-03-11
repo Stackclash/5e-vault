@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Small
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/elemental
 aliases:
   - Wildfire Spirit
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Elemental\Wildfire Spirit (TCE).md|Wildfire Spirit]]
 *Source: Tasha's Cauldron of Everything p. 40*

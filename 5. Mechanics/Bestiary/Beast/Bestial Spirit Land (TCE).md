@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Small
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/beast
 aliases:
   - Bestial Spirit (Land)
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Beast\Bestial Spirit Land (TCE).md|Bestial Spirit (Land)]]
 *Source: Tasha's Cauldron of Everything p. 109*

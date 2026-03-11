@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Medium
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/elemental
 aliases:
   - Elemental Spirit (Fire)
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Elemental\Elemental Spirit Fire (TCE).md|Elemental Spirit (Fire)]]
 *Source: Tasha's Cauldron of Everything p. 111*

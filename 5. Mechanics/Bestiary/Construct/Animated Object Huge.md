@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Huge
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/construct
 aliases:
   - Animated Object (Huge)
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Construct\Animated Object Huge.md|Animated Object (Huge)]]
 *Source: Player's Handbook p. 213*

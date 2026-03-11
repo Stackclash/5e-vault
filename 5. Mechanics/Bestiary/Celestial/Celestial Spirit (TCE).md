@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Large
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/celestial
 aliases:
   - Celestial Spirit
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Celestial\Celestial Spirit (TCE).md|Celestial Spirit]]
 *Source: Tasha's Cauldron of Everything p. 110*

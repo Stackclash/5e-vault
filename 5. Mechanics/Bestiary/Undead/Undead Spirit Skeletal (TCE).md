@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Medium
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/undead
 aliases:
   - Undead Spirit (Skeletal)
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Undead\Undead Spirit Skeletal (TCE).md|Undead Spirit (Skeletal)]]
 *Source: Tasha's Cauldron of Everything p. 114*

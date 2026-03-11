@@ -1,5 +1,5 @@
 {
-  "version": "0.7.52",
+  "version": "0.8.1",
   "endpoint": "https://api.openai.com/v1",
   "models": {},
   "api_key": "",
@@ -11,10 +11,10 @@
   "showStatusBar": true,
   "outputToBlockQuote": false,
   "freeCursorOnStreaming": false,
-  "allowJavascriptRun": false,
+  "allowJavascriptRun": true,
   "experiment": false,
-  "promptsPath": "z_Templates/Text Generator/Templates",
-  "textGenPath": "z_Templates/Text Generator/Backups/",
+  "promptsPath": "z_Templates/Text Generator",
+  "textGenPath": "z_Templates/Text Generator/Backups",
   "prefix": "\n\n",
   "tgSelectionLimiter": "^\\*\\*\\*",
   "stream": true,
@@ -26,30 +26,30 @@
   },
   "requestTimeout": 300000,
   "options": {
-    "generate-text": true,
-    "generate-text-with-metadata": true,
+    "generate-text": false,
+    "generate-text-with-metadata": false,
     "insert-generated-text-From-template": true,
-    "create-generated-text-From-template": false,
-    "search-results-batch-generate-from-template": true,
+    "create-generated-text-From-template": true,
+    "search-results-batch-generate-from-template": false,
     "insert-text-From-template": false,
-    "create-text-From-template": false,
-    "show-modal-From-template": true,
-    "open-template-as-tool": true,
+    "create-text-From-template": true,
+    "show-modal-From-template": false,
+    "open-template-as-tool": false,
     "open-playground": true,
-    "set_max_tokens": true,
-    "set-llm": true,
-    "packageManager": true,
+    "set_max_tokens": false,
+    "set-llm": false,
+    "packageManager": false,
     "create-template": false,
-    "get-title": true,
+    "get-title": false,
     "generated-text-to-clipboard-From-template": false,
-    "calculate-tokens": true,
-    "calculate-tokens-for-template": true,
+    "calculate-tokens": false,
+    "calculate-tokens-for-template": false,
     "text-extractor-tool": true,
-    "stop-stream": true,
-    "custom-instruct": true,
+    "stop-stream": false,
+    "custom-instruct": false,
     "generate-in-right-click-menu": false,
-    "batch-generate-in-right-click-files-menu": true,
-    "tg-block-processor": true,
+    "batch-generate-in-right-click-files-menu": false,
+    "tg-block-processor": false,
     "reload": true
   },
   "advancedOptions": {
@@ -59,6 +59,7 @@
   "autoSuggestOptions": {
     "customInstructEnabled": false,
     "customInstruct": "continue the follwing text:\n{{query}}",
+    "systemPrompt": "",
     "isEnabled": false,
     "allowInNewLine": false,
     "delay": 300,
@@ -93,7 +94,10 @@
       "model": "gpt-4",
       "api_key": ""
     },
-    "Ollama (Langchain)": {},
+    "Ollama (Langchain)": {
+      "basePath": "http://localhost:11434",
+      "model": "gemma3:4b"
+    },
     "Default (Custom)": {
       "endpoint": "https://api.openai.com/v1/chat/completions",
       "custom_header": "{\n    \"Content-Type\": \"application/json\",\n    authorization: \"Bearer {{api_key}}\"\n}",
@@ -104,7 +108,8 @@
       "frequency_penalty": 0,
       "presence_penalty": 0.5,
       "top_p": 1
-    }
+    },
+    "Google Palm (Langchain)": {}
   },
   "LLMProviderOptionsKeysHashed": {
     "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-Pkpvknsf3QZ8BmHSfYuhT3BlbkFJZfqD8ll38AI0MAglYmwV"

@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Small
 alignment: Neutral
@@ -19,6 +18,7 @@ tags:
   - monster/type/beast
 aliases:
   - Beast of the Sky
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Beast\Beast Of The Sky (TCE).md|Beast of the Sky]]
 *Source: Tasha's Cauldron of Everything p. 61*

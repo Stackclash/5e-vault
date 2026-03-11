@@ -13,6 +13,7 @@ views:
       - hp
       - ac
       - type
+      - environments
     sort:
       - property: cr
         direction: DESC

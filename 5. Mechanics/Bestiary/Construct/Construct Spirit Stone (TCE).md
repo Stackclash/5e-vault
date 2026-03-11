@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Medium
 alignment: Unaligned
@@ -17,6 +16,7 @@ tags:
   - monster/type/construct
 aliases:
   - Construct Spirit (Stone)
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Construct\Construct Spirit Stone (TCE).md|Construct Spirit (Stone)]]
 *Source: Tasha's Cauldron of Everything p. 111*

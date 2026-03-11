@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Medium
 alignment: Unaligned
@@ -19,6 +18,7 @@ tags:
   - monster/type/construct
 aliases:
   - Steel Defender
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Construct\Steel Defender (TCE).md|Steel Defender]]
 *Source: Tasha's Cauldron of Everything p. 19*

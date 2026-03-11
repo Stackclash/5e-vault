@@ -39,4 +39,5 @@ obsidianUIMode: preview
 - Parents are killed defending [[Barovia]]
 - 
 ### [[Wisp]]
+- Why is their master in a magical slumber and why is their power fading?
 ### [[Roark Battleborn]]

@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
-cr: null
 environments: []
 size: Medium
 alignment: Unaligned
@@ -19,6 +18,7 @@ tags:
   - monster/type/undead
 aliases:
   - Undead Spirit
+cr: null
 ---
 # [[5. Mechanics\Bestiary\Undead\Undead Spirit (TCE).md|Undead Spirit]]
 *Source: Tasha's Cauldron of Everything p. 114*

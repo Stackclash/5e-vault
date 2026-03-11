@@ -150,7 +150,9 @@ TBD
 obsidianUIMode: preview
 cssclasses: json5e-monster
 statblock: inline
+{#if resource.cr && resource.cr != 'Unknown'}
 cr: {resource.cr}
+{/if}
 {#if resource.environment}
 environments:
 {#for env in resource.environment.split(",")}
