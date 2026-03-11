@@ -11,13 +11,14 @@
             "id": "77c14849b6b27320",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "z_Bases/Locations.base",
-                "viewName": "Shops"
+                "file": "4. World Almanac/Places of Interest/Places of Interest.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Locations"
+              "icon": "lucide-file",
+              "title": "Places of Interest"
             }
           }
         ]
@@ -246,8 +247,15 @@
   },
   "active": "77c14849b6b27320",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/NPCs.md",
+    "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/Worlds/Worlds.md",
+    "4. World Almanac/Shops/The Scarecrow.md",
+    "4. World Almanac/Shops/Shops.md",
+    "4. World Almanac/Shops/Golden Hammer.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
     "z_Bases/Locations.base",
+    "4. World Almanac/NPCs/NPCs.md",
     "4. World Almanac/NPCs/Adrian Martikov.md",
     "z_Bases/Hazards.base",
     "z_Bases/Spells.base",
@@ -259,7 +267,6 @@
     "1. DM Toolkit/Configuration.md",
     "4. World Almanac/NPCs/Vladimir Horngaard (COS).md",
     "4. World Almanac/NPCs/Vasilka (COS).md",
-    "4. World Almanac/Shops/Golden Hammer.md",
     "4. World Almanac/NPCs/Victor Vallakovich (COS).md",
     "Untitled 1.md",
     "4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md",
@@ -272,11 +279,6 @@
     "4. World Almanac/NPCs/Kasimir Velikov (COS).md",
     "4. World Almanac/NPCs/Izek Strazni (COS).md",
     "4. World Almanac/NPCs/Ismark Kolyanovich (COS).md",
-    "4. World Almanac/NPCs/Ireena Kolyana (COS).md",
-    "4. World Almanac/NPCs/Helga Ruvak (COS).md",
-    "4. World Almanac/NPCs/Gertruda (COS).md",
-    "4. World Almanac/NPCs/Gadof Blinsky (COS).md",
-    "4. World Almanac/NPCs/Ezmerelda Davenir (COS).md",
     "Untitled.canvas",
     "3. The Party/Campaigns",
     "z_Templates/Text Generator/Backups/generations",

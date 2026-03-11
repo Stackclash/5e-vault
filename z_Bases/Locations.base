@@ -19,7 +19,6 @@ views:
         - formula.type == ["place-of-interest"]
     order:
       - file.name
-      - formula.type
   - type: table
     name: Regions
     filters:
@@ -32,3 +31,11 @@ views:
         - formula.type == ["settlement"]
   - type: table
     name: Shops
+    filters:
+      and:
+        - formula.type == ["shop"]
+  - type: table
+    name: Worlds
+    filters:
+      and:
+        - formula.type == ["world"]
