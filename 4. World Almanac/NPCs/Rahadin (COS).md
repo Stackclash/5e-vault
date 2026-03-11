@@ -7,33 +7,30 @@ tags:
   - monster/cr/10
   - monster/size/medium
   - monster/type/humanoid/elf
-condition: healthy
+condition: dead
 images:
   - 4. World Almanac\NPCs\img\rahadin.webp
 relationships: []
 aliases:
   - Rahadin
 alignment: Lawful Evil
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+partyRelationships:
+  Midnight Covenant: Enemy
+location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+pronounced:
+race:
+gender: male
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
+personality:
 ideal: Loyalty is everything.
-bond: >-
-  I am a son of King Barov von Zarovich, and I will serve his son - my brother
-  and lord - forever.
-flaw: >-
-  I have slain thousands of men. I will slaughter thousands more to preserve the
-  von Zarovich legacy.
-goals: null
-likes: null
-dislikes: null
+bond: I am a son of King Barov von Zarovich, and I will serve his son - my brother and lord - forever.
+flaw: I have slain thousands of men. I will slaughter thousands more to preserve the von Zarovich legacy.
+goals:
+likes:
+dislikes:
 ---
 
 > [!infobox]

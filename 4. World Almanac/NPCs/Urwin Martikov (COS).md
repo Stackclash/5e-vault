@@ -14,22 +14,23 @@ relationships: []
 aliases:
   - Urwin Martikov
 alignment: Lawful Good
-partyRelationships: {}
-location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
-pronounced: null
-race: null
+partyRelationships:
+  Midnight Covenant: Ally
+location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+pronounced:
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
-age: null
-occupation: null
+age:
+occupation:
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 ---
 
 > [!infobox]

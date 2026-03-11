@@ -14,22 +14,23 @@ relationships: []
 aliases:
   - Rictavio
 alignment: Lawful Good
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+partyRelationships:
+  Midnight Covenant: Ally
+location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+pronounced:
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: male
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
+personality:
 ideal: Evil cannot go unchallenged.
-bond: 'To protect those I love, I must keep them distant and hidden from my enemies.'
-flaw: 'I am cursed. Thus, I will never have peace.'
-goals: null
-likes: null
-dislikes: null
+bond: To protect those I love, I must keep them distant and hidden from my enemies.
+flaw: I am cursed. Thus, I will never have peace.
+goals:
+likes:
+dislikes:
 ---
 
 > [!infobox]
