@@ -14,22 +14,23 @@ relationships: []
 aliases:
   - Anastrasya Karelova
 alignment: Neutral Evil
-partyRelationships: {}
-location: '[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]'
+partyRelationships:
+  Midnight Covenant: Enemy
+location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
 pronounced: ah-nah-STRAH-sya ka-REL-o-va
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: female
 age: 28
 occupation: []
 groups: []
 religions: []
-personality: 'Aristocratic, manipulative, fiercely loyal to Strahd.'
+personality: Aristocratic, manipulative, fiercely loyal to Strahd.
 ideal: Power and status are everything; those without them are to be used as pawns.
 bond: Her allegiance to Strahd and her noble lineage
 flaw: Her overconfidence in her schemes and underestimation of others
-goals: 'To maintain her position of power, to serve Strahd''s interests'
-likes: 'Luxury, power, control over others'
-dislikes: 'Disloyalty, failure, threats to her status'
+goals: To maintain her position of power, to serve Strahd's interests
+likes: Luxury, power, control over others
+dislikes: Disloyalty, failure, threats to her status
 ---
 
 > [!infobox]

@@ -14,30 +14,23 @@ relationships: []
 aliases:
   - Cyrus Belview
 alignment: Any alignment
-partyRelationships: {}
-location: >-
-  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
-  Saint Markovia]]
+partyRelationships:
+  Midnight Covenant: Acquaintance
+location: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
 pronounced: SY-rus BEL-view
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 48
 occupation: []
 groups: []
 religions: []
-personality: 'Meek, obliging, somewhat naive'
+personality: Meek, obliging, somewhat naive
 ideal: Kindness and diligence can make even the darkest places a bit brighter
-bond: >-
-  His duty to the Abbey and its inhabitants, a place he considers home despite
-  its flaws
-flaw: >-
-  His naivety and loyalty sometimes blind him to the moral complexities of the
-  Abbey's reality
-goals: >-
-  To maintain order and cleanliness in the Abbey, to please the Abbot, to find
-  acceptance
-likes: 'Simplicity, cleanliness, the rare praise or kindness shown to him'
-dislikes: 'Violence, the harsh judgments of outsiders, the complexities of moral dilemmas'
+bond: His duty to the Abbey and its inhabitants, a place he considers home despite its flaws
+flaw: His naivety and loyalty sometimes blind him to the moral complexities of the Abbey's reality
+goals: To maintain order and cleanliness in the Abbey, to please the Abbot, to find acceptance
+likes: Simplicity, cleanliness, the rare praise or kindness shown to him
+dislikes: Violence, the harsh judgments of outsiders, the complexities of moral dilemmas
 ---
 
 > [!infobox]
