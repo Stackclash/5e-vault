@@ -14,7 +14,7 @@
               "type": "bases",
               "state": {
                 "file": "z_Bases/Locations.base",
-                "viewName": "Table"
+                "viewName": "Shops"
               },
               "icon": "lucide-table",
               "title": "Locations"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:place-of-interest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,27 +211,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "96a4f2188418a82a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a6475e4f649b0cd2",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_6b2b79a86a39",
-                "id": "ID_1bd94a588859",
-                "parent": "ID_aa9bf8981938"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -246,23 +226,25 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": true,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian42-brat:BRAT": true,
+      "obsidian-excalidraw-plugin:New drawing": true,
       "fantasy-content-generator:Fantasy Generators": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-git:Open Git source control": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "media-extended:Open external media": false,
-      "modalforms:Edit forms": false,
-      "remotely-save:Remotely Save": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": true,
+      "obsidian-git:Open Git source control": true,
+      "initiative-tracker:Initiative Tracker Encounter Builder": true,
+      "obsidian-kanban:Create new board": true,
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
+      "media-extended:Open external media": true,
+      "modalforms:Edit forms": true,
+      "remotely-save:Remotely Save": true,
+      "solo-rpg-toolkit:Solo RPG Toolkit": true,
+      "templater-obsidian:Templater": true,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "830f75e4aa18d718",
+  "active": "77c14849b6b27320",
   "lastOpenFiles": [
     "4. World Almanac/NPCs/NPCs.md",
     "z_Bases/Locations.base",
@@ -298,8 +280,6 @@
     "Untitled.canvas",
     "3. The Party/Campaigns",
     "z_Templates/Text Generator/Backups/generations",
-    "z_Templates/Text Generator/Test.md",
-    "z_Templates/Text Generator/NPC.md",
     "z_Templates/Text Generator/Backups",
     "z_Templates/Text Generator",
     "z_Assets/Locations/bruokdon.png",
