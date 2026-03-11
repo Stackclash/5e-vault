@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Urwin Martikov (COS).md",
-                "mode": "preview",
+                "file": "Untitled.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Urwin Martikov (COS)"
+              "title": "Untitled"
             }
           },
           {
@@ -259,9 +259,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "830f75e4aa18d718",
+  "active": "d8e956e7eb8b6e96",
   "lastOpenFiles": [
     "4. World Almanac/NPCs/Urwin Martikov (COS).md",
+    "Untitled.md",
     "4. World Almanac/NPCs/Dag Tomescu.md",
     "4. World Almanac/NPCs/Davian Martikov (COS).md",
     "4. World Almanac/NPCs/Helga Ruvak (COS).md",
@@ -274,7 +275,6 @@
     "z_Templates/Text Generator/Backups/generations/Test-d8K.md",
     "z_Templates/Text Generator/Backups/generations/Test-Het.md",
     "z_Templates/Text Generator/Backups/generations/Test-Zh8.md",
-    "Untitled.md",
     "z_Templates/Text Generator/Backups/generations/Untitled-dkB.md",
     "z_Templates/Text Generator/Backups/generations/NPC-cgX.md",
     "z_Templates/Text Generator/Backups/generations",
