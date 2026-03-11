@@ -16,7 +16,7 @@ locations:
   npcs: 4. World Almanac/NPCs
   groups: 4. World Almanac/Groups
   monsters: 5. Mechanics/Bestiary
-  campaigns: 3. The Party/Campaigns
+  campaigns: 1. DM Toolkit/Campaigns
 relationship_mapping:
   - to: Father
     from:

@@ -1,5 +1,6 @@
 <%*
 let templateError = false
+let data = {}
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
@@ -16,6 +17,8 @@ try {
     version: "1"
   })
 
+  console.log(data)
+
   await init.moveFile(tp, config.locations.campaigns, data.name)
 
 } catch (e) {
@@ -24,7 +27,7 @@ try {
   new tp.obsidian.Notice(e.message, 5000)
 }
 -%>
-<%* if (!templateError) { -%>
+<%* if (!templateError) {console.log(data.party) -%>
 ---
 obsidianUIMode: preview
 party: "<% data.party %>"
