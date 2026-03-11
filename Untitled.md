@@ -1,4 +1,8 @@
 ```dataviewjs
 const npcs = dv.pages('#npc')
-dv.list(npcs.map(n => n.file.link))
+dv.table(['name', 'relationship'], npcs.filter(n => {
+    return !!n.partyRelationships['Midnight Covenant']
+}).map(n => {
+    return [n.file.link, n.partyRelationships['Midnight Covenant']]
+}))
 ```
