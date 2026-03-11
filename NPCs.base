@@ -12,17 +12,17 @@ views:
       - gender
       - age
       - alignment
+      - occupation
       - location
+      - groups
+      - religions
       - bond
       - dislikes
       - flaw
       - goals
-      - groups
       - ideal
       - likes
-      - occupation
       - personality
-      - religions
     sort:
       - property: condition
         direction: DESC
