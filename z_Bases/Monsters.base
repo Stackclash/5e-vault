@@ -16,3 +16,15 @@ views:
     sort: []
   - type: table
     name: Aberrations
+    filters:
+      and:
+        - type == "aberration"
+    order:
+      - file.name
+      - alignment
+      - size
+      - cr
+      - hp
+      - ac
+      - type
+      - environments
