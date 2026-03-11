@@ -100,6 +100,9 @@ The armor understands Common but obeys only the commands of its master.
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Secrets
+`INPUT[textArea:secrets]`
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button

@@ -122,6 +122,9 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Secrets
+`INPUT[textArea:secrets]`
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button

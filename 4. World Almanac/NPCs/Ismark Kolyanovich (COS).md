@@ -93,6 +93,9 @@ dislikes: 'Threats to his family, Strahd''s minions, chaos'
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Secrets
+`INPUT[textArea:secrets]`
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button

@@ -134,6 +134,9 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Secrets
+`INPUT[textArea:secrets]`
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button

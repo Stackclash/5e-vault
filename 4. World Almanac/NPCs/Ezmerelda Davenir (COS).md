@@ -138,6 +138,9 @@ Ezmerelda keeps a [[/5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka ca
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Secrets
+`INPUT[textArea:secrets]`
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button

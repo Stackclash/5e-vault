@@ -124,6 +124,9 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Secrets
+`INPUT[textArea:secrets]`
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button

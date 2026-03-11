@@ -95,6 +95,9 @@ dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Secrets
+`INPUT[textArea:secrets]`
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button

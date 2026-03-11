@@ -130,6 +130,9 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Secrets
+`INPUT[textArea:secrets]`
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button

@@ -136,6 +136,9 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Secrets
+`INPUT[textArea:secrets]`
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button

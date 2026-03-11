@@ -128,6 +128,9 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Secrets
+`INPUT[textArea:secrets]`
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button
