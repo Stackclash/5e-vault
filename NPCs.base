@@ -1,6 +1,11 @@
 filters:
   and:
     - file.tags.contains("npc")
+formulas:
+  relationships: partyRelationships.keys().map()
+properties:
+  formula.relationships:
+    displayName: party relationships
 views:
   - type: table
     name: Table
@@ -14,6 +19,7 @@ views:
       - alignment
       - occupation
       - location
+      - partyRelationships
       - groups
       - religions
       - description
@@ -25,10 +31,7 @@ views:
       - likes
       - dislikes
       - goals
-    sort:
-      - property: description
-        direction: ASC
-      - property: condition
-        direction: DESC
+      - formula.relationships
+    sort: []
     columnSize:
       note.age: 146
