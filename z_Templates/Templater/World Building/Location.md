@@ -163,9 +163,6 @@ TBD
 
 `$=await dv.view("npcsInLocation", {current: dv.current()})`
 
-## History
-TBD
-
 ## DM Notes
 ### Plot Hooks
 

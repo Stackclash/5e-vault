@@ -173,9 +173,6 @@ return function View() {
 ```
 ^statblock
 
-## History
-TBD
-
 ## DM Notes
 ### Plot Hooks
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Dag Tomescu.md",
+                "file": "4. World Almanac/NPCs/Urwin Martikov (COS).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dag Tomescu"
+              "title": "Urwin Martikov (COS)"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Davian Martikov (COS)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,14 +259,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "67a45f2872d630f4",
+  "active": "830f75e4aa18d718",
   "lastOpenFiles": [
+    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "4. World Almanac/NPCs/Dag Tomescu.md",
+    "4. World Almanac/NPCs/Davian Martikov (COS).md",
     "4. World Almanac/NPCs/Helga Ruvak (COS).md",
     "4. World Almanac/NPCs/Gertruda (COS).md",
     "4. World Almanac/NPCs/Gadof Blinsky (COS).md",
     "4. World Almanac/NPCs/Ezmerelda Davenir (COS).md",
-    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
     "z_Templates/Text Generator/Test.md",
     "z_Templates/Text Generator/NPC.md",
     "z_Templates/Text Generator/Backups/generations/Untitled-YnV.md",
@@ -293,7 +293,6 @@
     "Hazards.base",
     "5. Mechanics/Bestiary/Fiend/Howler (MPMM).md",
     "5. Mechanics/Items/Harp Of Horror (HHHVIII).md",
-    "5. Mechanics/Bestiary/Fiend/Flind (MPMM).md",
     "Spells.base",
     "1. DM Toolkit/Knowledge/Sources/Books",
     "1. DM Toolkit/Knowledge/Sources/Articles",

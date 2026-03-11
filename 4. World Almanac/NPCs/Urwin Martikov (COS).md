@@ -92,6 +92,9 @@ dislikes: null
 >> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
+## Secrets
+`INPUT[textArea:secrets]`
+
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
 ```meta-bind-button
@@ -204,9 +207,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/urwin-martikov-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

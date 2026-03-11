@@ -116,9 +116,6 @@ actions:
 ```
 ^statblock
 
-## History
-TBD
-
 ## DM Notes
 ### Plot Hooks
 
