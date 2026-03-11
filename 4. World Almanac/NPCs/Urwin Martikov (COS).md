@@ -31,6 +31,8 @@ flaw:
 goals:
 likes:
 dislikes:
+description: blah
+history: blah
 ---
 
 > [!infobox]

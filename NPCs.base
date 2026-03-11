@@ -16,14 +16,18 @@ views:
       - location
       - groups
       - religions
-      - bond
-      - dislikes
-      - flaw
-      - goals
-      - ideal
-      - likes
+      - description
+      - history
       - personality
+      - ideal
+      - bond
+      - flaw
+      - likes
+      - dislikes
+      - goals
     sort:
+      - property: description
+        direction: ASC
       - property: condition
         direction: DESC
     columnSize:
