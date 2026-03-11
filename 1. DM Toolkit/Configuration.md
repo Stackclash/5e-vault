@@ -71,7 +71,7 @@ relationship_mapping:
       male: Nephew
       female: Niece
     to: Aunt
-active_campaign: "[[1. DM Toolkit/Campaigns/Truth of Vecna.md|Truth of Vecna]]"
+active_campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
 ---
 > [!infobox|n-th]
 > | | |
