@@ -11,12 +11,14 @@
             "id": "d8e956e7eb8b6e96",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/The Hunt for Vecna.excalidraw.md"
+                "file": "2. Scratch Notes/House Rules.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "The Hunt for Vecna.excalidraw"
+              "icon": "lucide-file",
+              "title": "House Rules"
             }
           },
           {
@@ -259,8 +261,9 @@
   },
   "active": "d8e956e7eb8b6e96",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "2. Scratch Notes/D&D Ideas.md",
     "Excalidraw/The Hunt for Vecna.excalidraw.md",
+    "Untitled.canvas",
     "1. DM Toolkit/Campaigns/The Hunt for Vecna.md",
     "4. World Almanac/NPCs/Davian Martikov (COS).md",
     "1. DM Toolkit/Campaigns/Test6.md",
