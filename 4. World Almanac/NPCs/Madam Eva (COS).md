@@ -94,18 +94,25 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 
 "The people whose fates I divine aren't important. They are but the means to an end."
 
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
+
 ## Traits/Goals
-> [!column|no-t]
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -113,8 +120,8 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships

@@ -108,18 +108,25 @@ Ezmerelda keeps a [[/5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka ca
 
 "I go where angels fear to tread."
 
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
+
 ## Traits/Goals
-> [!column|no-t]
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -127,8 +134,8 @@ Ezmerelda keeps a [[/5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka ca
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
 
 ## Relationships
