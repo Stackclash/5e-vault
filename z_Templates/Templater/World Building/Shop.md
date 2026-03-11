@@ -35,7 +35,6 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-playerVisible: false
 location: "<% data.location %>"
 resources: []
 owners: <%* if (data.owners && data.owners.length == 0) { %>[]<%* } %>

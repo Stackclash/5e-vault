@@ -1,6 +1,5 @@
 ---
 obsidianUIMode: preview
-playerVisible: false
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 resources: []
 owners: []

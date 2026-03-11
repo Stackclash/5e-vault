@@ -29,7 +29,6 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-playerVisible: false
 active: {}
 completed: {}
 campaign: "<% selectedWorld.file.link %>"

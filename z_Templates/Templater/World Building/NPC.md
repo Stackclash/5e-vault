@@ -37,7 +37,6 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-playerVisible: false
 statblock: inline
 location: "<% data.location %>"
 condition: healthy
