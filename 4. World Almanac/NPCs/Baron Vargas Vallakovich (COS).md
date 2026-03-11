@@ -14,26 +14,23 @@ relationships: []
 aliases:
   - Baron Vargas Vallakovich
 alignment: Neutral Evil
-partyRelationships: {}
-location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+partyRelationships:
+  Midnight Covenant: Friendly
+location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 pronounced: VAR-gas val-lah-KO-vich
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 43
 occupation: []
 groups: []
 religions: []
-personality: 'Authoritarian, paranoid, obsessed with maintaining a façade of happiness'
+personality: Authoritarian, paranoid, obsessed with maintaining a façade of happiness
 ideal: All will be well if we just keep pretending it is.
-bond: >-
-  His family's legacy of ruling Vallaki, his desperate need to keep the town
-  safe from Strahd's influence
-flaw: >-
-  His denial of Vallaki's real problems and his tyrannical methods of enforcing
-  happiness
-goals: ' To keep Vallaki free from Strahd''s influence, to maintain order at all costs'
-likes: 'Obedience, festivals, public displays of happiness'
-dislikes: 'Dissent, failure, anything that threatens his control or Vallaki''s ''happiness'''
+bond: His family's legacy of ruling Vallaki, his desperate need to keep the town safe from Strahd's influence
+flaw: His denial of Vallaki's real problems and his tyrannical methods of enforcing happiness
+goals: " To keep Vallaki free from Strahd's influence, to maintain order at all costs"
+likes: Obedience, festivals, public displays of happiness
+dislikes: Dissent, failure, anything that threatens his control or Vallaki's 'happiness'
 ---
 
 > [!infobox]
@@ -66,20 +63,25 @@ dislikes: 'Dissent, failure, anything that threatens his control or Vallaki''s '
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 105*
 
-TBD
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
 
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -87,9 +89,12 @@ TBD
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -183,9 +188,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/baron-vargas-vallakovich-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

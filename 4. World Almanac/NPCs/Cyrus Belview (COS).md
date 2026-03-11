@@ -14,30 +14,23 @@ relationships: []
 aliases:
   - Cyrus Belview
 alignment: Any alignment
-partyRelationships: {}
-location: >-
-  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
-  Saint Markovia]]
+partyRelationships:
+  Midnight Covenant: Acquaintance
+location: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
 pronounced: SY-rus BEL-view
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 48
 occupation: []
 groups: []
 religions: []
-personality: 'Meek, obliging, somewhat naive'
+personality: Meek, obliging, somewhat naive
 ideal: Kindness and diligence can make even the darkest places a bit brighter
-bond: >-
-  His duty to the Abbey and its inhabitants, a place he considers home despite
-  its flaws
-flaw: >-
-  His naivety and loyalty sometimes blind him to the moral complexities of the
-  Abbey's reality
-goals: >-
-  To maintain order and cleanliness in the Abbey, to please the Abbot, to find
-  acceptance
-likes: 'Simplicity, cleanliness, the rare praise or kindness shown to him'
-dislikes: 'Violence, the harsh judgments of outsiders, the complexities of moral dilemmas'
+bond: His duty to the Abbey and its inhabitants, a place he considers home despite its flaws
+flaw: His naivety and loyalty sometimes blind him to the moral complexities of the Abbey's reality
+goals: To maintain order and cleanliness in the Abbey, to please the Abbot, to find acceptance
+likes: Simplicity, cleanliness, the rare praise or kindness shown to him
+dislikes: Violence, the harsh judgments of outsiders, the complexities of moral dilemmas
 ---
 
 > [!infobox]
@@ -70,20 +63,25 @@ dislikes: 'Violence, the harsh judgments of outsiders, the complexities of moral
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 77*
 
-TBD
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
 
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -91,9 +89,12 @@ TBD
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -199,9 +200,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/cyrus-belview-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

@@ -96,14 +96,16 @@ function date(label = "Date", description = "Date", required = false) {
  * @param {string} label - Display label
  * @param {string} tag - Tag to query (e.g., '#location')
  * @param {string} [description] - Field description
+ * @param {boolean} [required=true] - Whether the field is required
  */
-function tagSelect(dv, fieldName, label, tag, description) {
+function tagSelect(dv, fieldName, label, tag, description, required = true) {
     const pages = dv.pages(tag).sort(p => p.file.name, 'asc').array()
+    console.log(`'#${tag}'`, pages)
     return {
         name: fieldName,
         label,
         description: description || label,
-        isRequired: true,
+        isRequired: required,
         input: {
             type: "select",
             options: pages.map(p => ({ label: p.file.name, value: p.file.link.toString() })),
@@ -119,14 +121,15 @@ function tagSelect(dv, fieldName, label, tag, description) {
  * @param {string} label - Display label
  * @param {string} tag - Tag to query (e.g., '#npc')
  * @param {string} [description] - Field description
+ * @param {boolean} [required=true] - Whether the field is required
  */
-function tagMultiSelect(dv, fieldName, label, tag, description) {
+function tagMultiSelect(dv, fieldName, label, tag, description, required = true) {
     const pages = dv.pages(tag).sort(p => p.file.name, 'asc').array()
     return {
         name: fieldName,
         label,
         description: description || label,
-        isRequired: true,
+        isRequired: required,
         input: {
             type: "multiselect",
             source: "fixed",
@@ -156,7 +159,9 @@ function folderSelect(dv, fieldName, label, folderPath, description) {
     }
 }
 
-module.exports = {
-    name, alignment, gender, age, textArea, date,
-    tagSelect, tagMultiSelect, folderSelect
+module.exports = function() {
+    return {
+        name, alignment, gender, age, textArea, date,
+        tagSelect, tagMultiSelect, folderSelect
+    }
 }

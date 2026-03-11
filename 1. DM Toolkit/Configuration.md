@@ -16,7 +16,7 @@ locations:
   npcs: 4. World Almanac/NPCs
   groups: 4. World Almanac/Groups
   monsters: 5. Mechanics/Bestiary
-  campaigns: 3. The Party/Campaigns
+  campaigns: 1. DM Toolkit/Campaigns
 relationship_mapping:
   - to: Father
     from:
@@ -71,14 +71,14 @@ relationship_mapping:
       male: Nephew
       female: Niece
     to: Aunt
-active_campaign: "[[1. DM Toolkit/Campaigns/Truth of Vecna.md|Truth of Vecna]]"
+active_campaign: "[[1. DM Toolkit/Campaigns/The Hunt for Vecna.md|The Hunt for Vecna]]"
 ---
 > [!infobox|n-th]
 > | | |
 > |---|---|
 > | **Active Campaign:** | `INPUT[suggester(optionQuery(#campaign)):active_campaign]` |
-> | **Active World** | `VIEW[{1. DM Toolkit/Campaigns/Truth of Vecna.md#world}][text(renderMarkdown):active_world]` |
-> | **Active Party:** | `VIEW[{1. DM Toolkit/Campaigns/Truth of Vecna.md#party}][text(renderMarkdown):active_party]` |
+> | **Active World** | `INPUT[suggester(optionQuery(#world)):active_world]` |
+> | **Active Party:** | `INPUT[suggester(optionQuery(#party)):active_party]` |
 
 # Current Party/World Info
 ```dataviewjs
@@ -326,8 +326,8 @@ return function View() {
 >>       id: 'Items',
 >>       value: (row) => row.value("items") === undefined ? false : row.value("items"),
 >>       render: (value, row) => {
->>          if (value === false || value === null) return "✘"
->>          if (Array.isArray(value) && value.length > 0) return "✅"
+>>          if (value === false) return "✅"
+>>          if (value !== null && Array.isArray(value) && value.length > 0) return "✅"
 >>          return "✘"
 >>       }
 >>     },

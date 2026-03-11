@@ -14,23 +14,24 @@ relationships: []
 aliases:
   - Ismark Kolyanovich
 alignment: Lawful Good
-partyRelationships: {}
-location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+partyRelationships:
+  Midnight Covenant: Ally
+location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 pronounced: IS-mark KOHL-yan-o-vich
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 25
 occupation:
   - Burgomaster
 groups: []
 religions: []
-personality: 'Protective, responsible, deeply concerned for his sister''s safety'
-ideal: 'Duty above all, especially to family and those under my care.'
+personality: Protective, responsible, deeply concerned for his sister's safety
+ideal: Duty above all, especially to family and those under my care.
 bond: His late father's legacy and his sister's safety
 flaw: Can be overly cautious and sometimes distrustful of strangers
-goals: 'To secure a safe place for Ireena, away from Strahd’s reach'
-likes: 'Quiet moments of peace, strong leadership, loyalty'
-dislikes: 'Threats to his family, Strahd''s minions, chaos'
+goals: To secure a safe place for Ireena, away from Strahd’s reach
+likes: Quiet moments of peace, strong leadership, loyalty
+dislikes: Threats to his family, Strahd's minions, chaos
 ---
 
 > [!infobox]
@@ -63,20 +64,25 @@ dislikes: 'Threats to his family, Strahd''s minions, chaos'
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 43*
 
-TBD
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
 
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -84,9 +90,12 @@ TBD
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -185,9 +194,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/ismark-kolyanovich-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

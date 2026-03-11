@@ -1,15 +1,18 @@
 <%*
 let templateError = false
+let data = {}
 try {
   const init = tp.user.templateInit()
   const fields = tp.user.formFields()
-  const { modalForm, config } = init.getPlugins(tp, ['campaigns'])
+  const { dataview, modalForm, config } = init.getPlugins(tp, ['campaigns'])
 
-  const data = await init.openForm(modalForm, {
+  data = await init.openForm(modalForm, {
     title: "Campaign Setup",
     name: "campaign-setup",
     fields: [
       fields.name("Campaign Name", "Name of the Campaign"),
+      fields.tagSelect(dataview, "party", "Campaign Party", "#party"),
+      fields.tagSelect(dataview, "world", "Campaign World", "#world")
     ],
     version: "1"
   })
@@ -23,7 +26,19 @@ try {
 }
 -%>
 <%* if (!templateError) { -%>
-  # Template Content
+---
+obsidianUIMode: preview
+party: "<% data.party %>"
+world: "<% data.world %>"
+tags:
+  - campaign
+---
+> [!infobox|n-th]
+> # Configuration
+> | | |
+> |---|---|
+> | **Party:** | `INPUT[suggester(optionQuery(#party)):party]` |
+> | **World:** | `INPUT[suggester(optionQuery(#world)):world]` |
 <%* } else { -%>
 
 

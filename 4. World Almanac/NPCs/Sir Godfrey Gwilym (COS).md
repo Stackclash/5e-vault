@@ -7,39 +7,30 @@ tags:
   - monster/cr/6
   - monster/size/medium
   - monster/type/undead
-condition: healthy
+condition: dead
 images:
   - 4. World Almanac\NPCs\img\sir-godfrey-gwilym.webp
 relationships: []
 aliases:
   - Sir Godfrey Gwilym
 alignment: Lawful Evil
-partyRelationships: {}
-location: null
+partyRelationships:
+  Midnight Covenant: Ally
+location:
 pronounced: sir GOD-free GWIL-im
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
-age: null
+age:
 occupation: []
 groups: []
 religions: []
-personality: 'Stoic, honorable, deeply melancholic'
+personality: Stoic, honorable, deeply melancholic
 ideal: Redemption for the Order and peace for Barovia are my only pursuits.
-bond: >-
-  His unyielding loyalty to the Order of the Silver Dragon and the memory of
-  Argynvost
-flaw: >-
-  His single-minded focus on the order's redemption can sometimes blind him to
-  broader concerns or simpler joys
-goals: >-
-  To restore the honor of the Order of the Silver Dragon, to find peace in
-  fulfilling his oath
-likes: >-
-  Acts of bravery and honor, the legacy of the Silver Dragon, those who seek
-  justice
-dislikes: >-
-  Cowardice, betrayal, Strahd and his minions, the failure of the Order to
-  protect Barovia
+bond: His unyielding loyalty to the Order of the Silver Dragon and the memory of Argynvost
+flaw: His single-minded focus on the order's redemption can sometimes blind him to broader concerns or simpler joys
+goals: To restore the honor of the Order of the Silver Dragon, to find peace in fulfilling his oath
+likes: Acts of bravery and honor, the legacy of the Silver Dragon, those who seek justice
+dislikes: Cowardice, betrayal, Strahd and his minions, the failure of the Order to protect Barovia
 ---
 
 > [!infobox]
@@ -72,20 +63,25 @@ dislikes: >-
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 139*
 
-TBD
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
 
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -93,9 +89,12 @@ TBD
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -232,9 +231,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/sir-godfrey-gwilym-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

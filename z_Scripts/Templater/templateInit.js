@@ -87,4 +87,4 @@ async function moveFile(tp, basePath, fileName) {
     )
 }
 
-module.exports = { getPlugins, openForm, moveFile }
+module.exports = function() { return { getPlugins, openForm, moveFile } }

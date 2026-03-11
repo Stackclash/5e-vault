@@ -43,7 +43,6 @@ try {
 <%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
-playerVisible: false
 location: "<% data.location %>"
 images:
 - z_Assets/PlaceholderImage.png
@@ -162,9 +161,6 @@ TBD
 `$=await dv.view("views/locations", {current: dv.current()})`
 
 `$=await dv.view("npcsInLocation", {current: dv.current()})`
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

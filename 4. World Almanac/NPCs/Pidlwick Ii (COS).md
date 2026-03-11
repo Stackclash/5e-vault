@@ -98,18 +98,25 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 
 "When I'm upset, I do bad things."
 
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
+
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -117,9 +124,12 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -215,9 +225,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/pidlwick-ii-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

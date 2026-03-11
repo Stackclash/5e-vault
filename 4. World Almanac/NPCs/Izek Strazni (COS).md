@@ -14,24 +14,23 @@ relationships: []
 aliases:
   - Izek Strazni
 alignment: Neutral Evil
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+partyRelationships:
+  Midnight Covenant: Friendly
+location:
+pronounced:
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: male
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
+personality:
 ideal: Fear is a powerful weapon. I use it to get what I want.
-bond: >-
-  I am loyal to my master, Baron Vallakovich, for he brought me into his home. I
-  owe him my life, but he isn't family.
-flaw: 'I would do anything, kill anything, to find my sister.'
-goals: null
-likes: null
-dislikes: null
+bond: I am loyal to my master, Baron Vallakovich, for he brought me into his home. I owe him my life, but he isn't family.
+flaw: I would do anything, kill anything, to find my sister.
+goals:
+likes:
+dislikes:
 ---
 
 > [!infobox]
@@ -100,18 +99,25 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 
 "I would do anything, kill anything, to find my sister."
 
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
+
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -119,9 +125,12 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -219,9 +228,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/izek-strazni-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

@@ -7,33 +7,30 @@ tags:
   - monster/cr/10
   - monster/size/medium
   - monster/type/humanoid/elf
-condition: healthy
+condition: dead
 images:
   - 4. World Almanac\NPCs\img\rahadin.webp
 relationships: []
 aliases:
   - Rahadin
 alignment: Lawful Evil
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+partyRelationships:
+  Midnight Covenant: Enemy
+location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+pronounced:
+race:
+gender: male
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
+personality:
 ideal: Loyalty is everything.
-bond: >-
-  I am a son of King Barov von Zarovich, and I will serve his son - my brother
-  and lord - forever.
-flaw: >-
-  I have slain thousands of men. I will slaughter thousands more to preserve the
-  von Zarovich legacy.
-goals: null
-likes: null
-dislikes: null
+bond: I am a son of King Barov von Zarovich, and I will serve his son - my brother and lord - forever.
+flaw: I have slain thousands of men. I will slaughter thousands more to preserve the von Zarovich legacy.
+goals:
+likes:
+dislikes:
 ---
 
 > [!infobox]
@@ -106,18 +103,25 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 
 "I have slain thousands of men. I will slaughter thousands more to preserve the von Zarovich legacy."
 
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
+
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -125,9 +129,12 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -250,9 +257,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/rahadin-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

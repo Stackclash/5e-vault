@@ -14,26 +14,23 @@ relationships: []
 aliases:
   - Ezmerelda d'Avenir
 alignment: Chaotic Good
-partyRelationships: {}
-location: >-
-  [[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's
-  Tower]]
+partyRelationships:
+  Midnight Covenant: Ally
+location: "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
 pronounced: ez-meh-REL-da dah-veh-NEER
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: female
 age: 33
 occupation: []
 groups: []
 religions: []
-personality: 'Determined, fiercely independent, pragmatic'
-ideal: >-
-  Evil that feeds on the innocent is the worst of all evils and must be
-  destroyed.
-bond: 'My mentor and teacher, Dr. Rudolph van Richten, is like a father to me.'
+personality: Determined, fiercely independent, pragmatic
+ideal: Evil that feeds on the innocent is the worst of all evils and must be destroyed.
+bond: My mentor and teacher, Dr. Rudolph van Richten, is like a father to me.
 flaw: I go where angels fear to tread.
-goals: 'To defeat Strahd, to become the greatest monster hunter in the land'
-likes: 'Knowledge about monsters, vanquishing evil, proving her skill and courage'
-dislikes: 'Cowardice, betrayal, the undead, those who underestimate her'
+goals: To defeat Strahd, to become the greatest monster hunter in the land
+likes: Knowledge about monsters, vanquishing evil, proving her skill and courage
+dislikes: Cowardice, betrayal, the undead, those who underestimate her
 ---
 
 > [!infobox]
@@ -108,18 +105,25 @@ Ezmerelda keeps a [[/5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka ca
 
 "I go where angels fear to tread."
 
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
+
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -127,9 +131,12 @@ Ezmerelda keeps a [[/5. Mechanics/Decks/Tarokka Deck (COS).md|deck of tarokka ca
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -279,9 +286,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/ezmerelda-davenir-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

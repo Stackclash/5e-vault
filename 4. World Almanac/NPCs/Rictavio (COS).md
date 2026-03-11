@@ -14,22 +14,23 @@ relationships: []
 aliases:
   - Rictavio
 alignment: Lawful Good
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+partyRelationships:
+  Midnight Covenant: Ally
+location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+pronounced:
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: male
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
+personality:
 ideal: Evil cannot go unchallenged.
-bond: 'To protect those I love, I must keep them distant and hidden from my enemies.'
-flaw: 'I am cursed. Thus, I will never have peace.'
-goals: null
-likes: null
-dislikes: null
+bond: To protect those I love, I must keep them distant and hidden from my enemies.
+flaw: I am cursed. Thus, I will never have peace.
+goals:
+likes:
+dislikes:
 ---
 
 > [!infobox]
@@ -92,18 +93,25 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 
 "I am cursed. Thus, I will never have peace."
 
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
+
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -111,9 +119,12 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -236,9 +247,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/rictavio-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

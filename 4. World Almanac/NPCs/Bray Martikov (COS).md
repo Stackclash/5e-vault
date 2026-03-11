@@ -15,24 +15,23 @@ relationships: []
 aliases:
   - Bray Martikov
 alignment: Lawful Good
-partyRelationships: {}
-location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
+partyRelationships:
+  Midnight Covenant: Ally
+location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 pronounced: BRAY MAR-ti-kov
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 15
 occupation: []
 groups: []
 religions: []
-personality: 'Eager, hardworking, a bit naive'
+personality: Eager, hardworking, a bit naive
 ideal: Family and tradition hold the keys to strength and unity.
-bond: 'His family, the winery, and his burgeoning duties as a Keeper of the Feather'
+bond: His family, the winery, and his burgeoning duties as a Keeper of the Feather
 flaw: His youth and inexperience sometimes lead to recklessness
-goals: >-
-  To prove himself to his family and as a Keeper of the Feather, to protect his
-  home from Strahd's forces
-likes: 'Adventures, stories of heroism, the outdoors'
-dislikes: 'Threats to his family, the oppression of Strahd, boredom'
+goals: To prove himself to his family and as a Keeper of the Feather, to protect his home from Strahd's forces
+likes: Adventures, stories of heroism, the outdoors
+dislikes: Threats to his family, the oppression of Strahd, boredom
 ---
 
 > [!infobox]
@@ -65,20 +64,25 @@ dislikes: 'Threats to his family, the oppression of Strahd, boredom'
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
 
-TBD
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
 
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -86,9 +90,12 @@ TBD
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -202,9 +209,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/bray-martikov-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

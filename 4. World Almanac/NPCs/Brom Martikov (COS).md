@@ -15,24 +15,25 @@ relationships: []
 aliases:
   - Brom Martikov
 alignment: Lawful Good
-partyRelationships: {}
-location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
+partyRelationships:
+  Midnight Covenant: Ally
+location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
 pronounced: BROM MAR-ti-kov
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age: 13
 occupation:
   - Bar Assistant
 groups: []
 religions: []
-personality: 'Curious, playful, slightly mischievous'
+personality: Curious, playful, slightly mischievous
 ideal: Adventure and discovery are the spices of life.
-bond: 'His family, especially his brother Bray, and the adventures they dream of'
+bond: His family, especially his brother Bray, and the adventures they dream of
 flaw: His curiosity and mischievousness sometimes get him into trouble
 goals:
-  - 'To explore the world beyond Vallaki, to make a name for himself'
-likes: 'Pranks, stories of faraway places, animals'
-dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
+  - To explore the world beyond Vallaki, to make a name for himself
+likes: Pranks, stories of faraway places, animals
+dislikes: Restrictions, Strahd’s minions, when others treat him like a child
 ---
 
 > [!infobox]
@@ -65,20 +66,25 @@ dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
 
-TBD
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
 
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -86,9 +92,12 @@ TBD
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -202,9 +211,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/brom-martikov-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

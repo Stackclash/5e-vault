@@ -13,27 +13,24 @@ images:
 relationships: []
 aliases:
   - Vladimir Horngaard
-alignment: Lawful Evil
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+alignment: Lawful Neutral
+partyRelationships:
+  Midnight Covenant: Ally
+location:
+pronounced:
+race:
+gender:
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
+personality:
 ideal: Vengeance is all I have left.
-bond: >-
-  I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken
-  though the order may be, my allegiance never dies.
-flaw: >-
-  Destroying Strahd would end the vampire's torment, and that is something I
-  will never allow.
-goals: null
-likes: null
-dislikes: null
+bond: I have sworn oaths of allegiance to the Order of the Silver Dragon. Broken though the order may be, my allegiance never dies.
+flaw: Destroying Strahd would end the vampire's torment, and that is something I will never allow.
+goals:
+likes:
+dislikes:
 ---
 
 > [!infobox]
@@ -125,18 +122,25 @@ No magic can hide a creature pursued by a revenant, which always knows the direc
 
 A revenant doesn't require air, food, drink, or sleep.
 
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
+
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -144,9 +148,12 @@ A revenant doesn't require air, food, drink, or sleep.
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -276,9 +283,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/vladimir-horngaard-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

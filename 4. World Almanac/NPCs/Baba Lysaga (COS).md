@@ -15,25 +15,24 @@ relationships: []
 aliases:
   - Baba Lysaga
 alignment: Chaotic Evil
-partyRelationships: {}
-location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
+partyRelationships:
+  Midnight Covenant: Enemy
+location: "[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]"
 pronounced: BAH-bah LEE-sah-gah
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: female
 age: 532
-occupation: null
+occupation:
 groups: []
 religions: []
-personality: 'Mad, obsessed, powerful'
+personality: Mad, obsessed, powerful
 ideal: No love is greater than a mother's love for her son.
 bond: I am the mother of Strahd. Anyone who disputes this fact can rot.
-flaw: >-
-  I will not rest until the last of my son's enemies are destroyed. Her
-  obsession with Strahd blinds her to other threats
+flaw: I will not rest until the last of my son's enemies are destroyed. Her obsession with Strahd blinds her to other threats
 goals:
-  - ' To aid Strahd, to destroy his enemies, to gain more arcane power'
-likes: 'Magic, Strahd, her creeping hut'
-dislikes: 'Intruders in Berez, those who oppose Strahd, the light'
+  - " To aid Strahd, to destroy his enemies, to gain more arcane power"
+likes: Magic, Strahd, her creeping hut
+dislikes: Intruders in Berez, those who oppose Strahd, the light
 ---
 
 > [!infobox]
@@ -104,18 +103,25 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 
 "I will not rest until the last of my son's enemies are destroyed."
 
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
+
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -123,9 +129,12 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -252,9 +261,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/baba-lysaga-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

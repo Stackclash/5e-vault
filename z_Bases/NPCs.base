@@ -1,0 +1,37 @@
+filters:
+  and:
+    - file.tags.contains("npc")
+formulas:
+  relationships: partyRelationships.keys().map(value + '(' + partyRelationships[value] + ')').join(', ')
+properties:
+  formula.relationships:
+    displayName: party relationships
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - pronounced
+      - condition
+      - race
+      - gender
+      - age
+      - alignment
+      - occupation
+      - location
+      - formula.relationships
+      - groups
+      - religions
+      - description
+      - history
+      - personality
+      - ideal
+      - bond
+      - flaw
+      - likes
+      - dislikes
+      - goals
+    sort: []
+    columnSize:
+      note.age: 146
+      formula.relationships: 247

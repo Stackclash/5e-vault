@@ -13,25 +13,24 @@ relationships: []
 aliases:
   - Madam Eva
 alignment: Chaotic Neutral
-partyRelationships: {}
-location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
+partyRelationships:
+  Midnight Covenant: Friendly
+location: "[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]"
 pronounced: MAD-ame EE-vah
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: female
 age: 67
 occupation:
   - Seer
 groups: []
 religions: []
-personality: 'Mysterious, wise, enigmatic'
+personality: Mysterious, wise, enigmatic
 ideal: I wish Strahd to be free of his curse.
 bond: The Vistani are my people now. The welfare and freedom of the Vistani people.
-flaw: >-
-  The people whose fates I divine aren't important. They are but the means to an
-  end. Her cryptic nature can sometimes alienate others.
+flaw: The people whose fates I divine aren't important. They are but the means to an end. Her cryptic nature can sometimes alienate others.
 goals: To guide the souls that come to her towards their destiny.
-likes: 'Reading fortunes, the respect of her people, the mystic arts.'
-dislikes: 'Those who disrespect the Vistani, closed-mindedness.'
+likes: Reading fortunes, the respect of her people, the mystic arts.
+dislikes: Those who disrespect the Vistani, closed-mindedness.
 ---
 
 > [!infobox]
@@ -94,18 +93,25 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 
 "The people whose fates I divine aren't important. They are but the means to an end."
 
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
+
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -113,9 +119,12 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -251,9 +260,6 @@ return function View() {
 "image": "/4. World Almanac/NPCs/token/madam-eva-cos.webp"
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks

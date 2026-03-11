@@ -1,30 +1,31 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location:
 condition: healthy
-image: 
+image:
 relationships:
   - Davian Martikov|father
 tags:
   - npc
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
-alignment: 
+pronounced:
+race:
+gender:
+age:
+alignment:
 occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
-partyRelationships: {}
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
+partyRelationships:
+  Midnight Covenant: Ally
 ---
 
 > [!infobox | wsmall]
@@ -56,18 +57,25 @@ partyRelationships: {}
 
 # **`=this.file.name`**
 
+> [!column|no-t flex]
+>> [!metadata|text-Center] Description
+>> `INPUT[textArea:description]`
+>
+>> [!metadata|text-Center] History
+>> `INPUT[textArea:history]`
+
 ## Traits/Goals
-> [!column] Traits
->> [!metadata|text-Center bg-c-gray] Personality
+> [!column|no-t flex]
+>> [!metadata|text-Center bg-c-yellow] Personality
 >> `INPUT[textArea:personality]`
 >
->> [!metadata|text-Center bg-c-gray] Ideal
+>> [!metadata|text-Center bg-c-pink] Ideal
 >> `INPUT[textArea:ideal]`
 >
->> [!metadata|text-Center bg-c-gray] Bond
+>> [!metadata|text-Center bg-c-brown] Bond
 >> `INPUT[textArea:bond]`
 >
->> [!metadata|text-Center bg-c-gray] Flaw
+>> [!metadata|text-Center bg-c-orange] Flaw
 >> `INPUT[textArea:flaw]`
 >
 >> [!metadata|text-Center bg-c-green] Likes
@@ -75,9 +83,12 @@ partyRelationships: {}
 >
 >> [!metadata|text-Center bg-c-red] Dislikes
 >> `INPUT[textArea:dislikes]`
-
-> [!column|dataview] Goals
+>
+>> [!metadata|text-Center] Goals
 >> `INPUT[textArea:goals]`
+
+## Secrets
+`INPUT[textArea:secrets]`
 
 ## Relationships
 `BUTTON[add-relationship,remove-relationship]`
@@ -107,9 +118,6 @@ actions:
 
 ```
 ^statblock
-
-## History
-TBD
 
 ## DM Notes
 ### Plot Hooks
