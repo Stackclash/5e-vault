@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Bestiary/Bestiary.md",
-                "mode": "preview",
+                "file": "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bestiary"
+              "title": "Humanoid"
             }
           }
         ],
@@ -280,10 +280,20 @@
   },
   "active": "5fe5b35d5692d2dc",
   "lastOpenFiles": [
+    "5. Mechanics/Bestiary/Goblinoid/Goblinoid.md",
+    "5. Mechanics/Bestiary/Giant/Giant.md",
+    "5. Mechanics/Bestiary/Fiend/Fiend.md",
+    "5. Mechanics/Bestiary/Fey/Fey.md",
+    "5. Mechanics/Bestiary/Elemental/Elemental.md",
+    "5. Mechanics/Bestiary/Dragon/Dragon.md",
+    "5. Mechanics/Bestiary/Construct/Construct.md",
+    "5. Mechanics/Bestiary/Celestial/Celestial.md",
+    "5. Mechanics/Bestiary/Beast/Beast.md",
+    "5. Mechanics/Bestiary/Aberration/Aberration.md",
+    "5. Mechanics/Bestiary/Bestiary.md",
     "3. The Party/Players/Redgrave.md",
     "1. DM Toolkit/Knowledge/Articles/Fixing Crafting in D&D.md",
     "z_Bases/Locations.base",
-    "5. Mechanics/Bestiary/Bestiary.md",
     "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Settlements/Settlements.md",
@@ -303,14 +313,9 @@
     "z_Templates/Text Generator/Backups/generations/Test-Zh8.md",
     "z_Templates/Text Generator/Backups/generations/Test-d8K.md",
     "z_Templates/Text Generator/Backups/generations/Test-Het.md",
-    "z_Templates/Text Generator/Backups/generations/NPC-cgX.md",
     "z_Templates/Text Generator/Backups/generations",
-    "z_Templates/Text Generator/Test.md",
-    "z_Templates/Text Generator/NPC.md",
     "z_Templates/Text Generator/Backups",
     "z_Templates/Text Generator",
-    "Untitled.md",
-    "5. Mechanics/Tables/Wand Of Wonder Effects.md",
     "5. Mechanics/Bestiary/Plant/img/shambling-mound-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/phase-spider-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/bulette-2.webp",
@@ -318,11 +323,6 @@
     "5. Mechanics/Bestiary/Fiend/img/bone-devil-2.webp",
     "5. Mechanics/Bestiary/Dragon/img/green-dragon-wyrmling.webp",
     "5. Mechanics/Bestiary/Celestial/img/couatl-2.webp",
-    "1. DM Toolkit/Knowledge/Sources/Sync.md",
-    "1. DM Toolkit/Knowledge/Sources/Books/Return of the Lazy Dungeon Master.md",
-    "1. DM Toolkit/Knowledge/Sources/Articles/Your Players Aren't Overpowered...you Just Need THIS.md",
-    "1. DM Toolkit/Knowledge/Sources/Articles/Your GM Style & Why It Matters the 5 Common GM Styles.md",
-    "1. DM Toolkit/Knowledge/Sources/Articles/The Real Reasons Why We Play DnD & Other RPGs.md",
     "z_Assets/Locations/bruokdon.png",
     "compendium/decks/img/back.webp",
     "4. World Almanac/NPCs/token/inda-malayuri-veor.webp"

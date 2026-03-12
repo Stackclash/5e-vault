@@ -1,4 +1,4 @@
 ---
 obsidianUIMode: preview
 ---
-![[Monsters.base#Fiends]]
+![[Monsters.base#Celestials]]
