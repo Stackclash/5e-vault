@@ -1,3 +1,4 @@
 ---
-
+obsidianUIMode: preview
 ---
+![[Players.base]]

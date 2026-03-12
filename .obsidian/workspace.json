@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/Players/Players.md",
+                "file": "5. Mechanics/Items/Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Players"
+              "title": "Items"
             }
           }
         ]
@@ -263,12 +263,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b82a4b2293f43901",
+  "active": "830f75e4aa18d718",
   "lastOpenFiles": [
-    "4. World Almanac/Shops/Shops.md",
-    "3. The Party/Players/Players.md",
+    "5. Mechanics/Items/1 Amulet Of The Devout (TCE).md",
+    "5. Mechanics/Items/Items.md",
+    "z_Bases/Items.base",
     "5. Mechanics/Bestiary/Bestiary.md",
+    "5. Mechanics/Bestiary/Aberration/Aberration.md",
     "5. Mechanics/Spells/Spells.md",
+    "4. World Almanac/Shops/Shops.md",
+    "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/NPCs/NPCs.md",
+    "3. The Party/Players/Players.md",
     "Untitled.md",
     "4. World Almanac/NPCs/Ismark Kolyanovich (COS).md",
     "5. Mechanics/Classes/Classes.md",
@@ -284,13 +292,6 @@
     "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
     "5. Mechanics/Bestiary/Goblinoid/Goblinoid.md",
     "5. Mechanics/Bestiary/Giant/Giant.md",
-    "5. Mechanics/Bestiary/Fiend/Fiend.md",
-    "5. Mechanics/Bestiary/Fey/Fey.md",
-    "5. Mechanics/Bestiary/Elemental/Elemental.md",
-    "5. Mechanics/Bestiary/Dragon/Dragon.md",
-    "5. Mechanics/Bestiary/Construct/Construct.md",
-    "5. Mechanics/Bestiary/Celestial/Celestial.md",
-    "5. Mechanics/Bestiary/Beast/Beast.md",
     "z_Bases/Locations.base",
     "z_Bases/Spells.base",
     "z_Bases/Players.base",
@@ -300,7 +301,6 @@
     "z_Bases",
     "z_Templates/Text Generator/Backups/generations",
     "z_Templates/Text Generator/Backups",
-    "z_Templates/Text Generator",
     "5. Mechanics/Bestiary/Plant/img/shambling-mound-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/phase-spider-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/bulette-2.webp",
