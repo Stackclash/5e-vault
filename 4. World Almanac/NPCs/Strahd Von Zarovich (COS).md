@@ -7,29 +7,30 @@ tags:
   - monster/cr/15
   - monster/size/medium
   - monster/type/undead/shapechanger
-condition: healthy
+condition: dead
 images:
   - 4. World Almanac\NPCs\img\153-636988936829621698.webp
 relationships: []
 aliases:
   - Strahd von Zarovich
 alignment: Lawful Evil
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+partyRelationships:
+  Midnight Covenant: Enemy
+location:
+pronounced:
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: male
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 ---
 
 > [!infobox]
@@ -82,7 +83,7 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 ### Strahd's Minions
 
-`dice: [[Strahd Von Zarovich (COS).md#^creatures]]`
+`dice: [[Strahd Von Zarovich (COS).md^creatures]]`
 
 | dice: d20 | Creatures |
 |-----------|-----------|
