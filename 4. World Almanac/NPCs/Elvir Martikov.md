@@ -4,6 +4,7 @@ statblock: inline
 location:
 condition: healthy
 images:
+  - z_Assets/PlaceholderImage.png
 relationships:
   - Davian Martikov|father
 tags:
