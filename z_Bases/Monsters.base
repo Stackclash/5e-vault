@@ -186,7 +186,7 @@ views:
     name: Plants
     filters:
       and:
-        - type == "Plants"
+        - type == "plant"
     order:
       - file.name
       - alignment
