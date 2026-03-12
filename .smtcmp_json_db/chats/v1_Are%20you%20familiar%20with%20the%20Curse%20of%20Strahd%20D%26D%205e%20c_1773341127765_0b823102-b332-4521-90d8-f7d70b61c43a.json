@@ -1,0 +1,71 @@
+{
+  "id": "0b823102-b332-4521-90d8-f7d70b61c43a",
+  "title": "Are you familiar with the Curse of Strahd D&D 5e c",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Are you familiar with the Curse of Strahd D&D 5e campaign?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nAre you familiar with the Curse of Strahd D&D 5e campaign?\n\n"
+        }
+      ],
+      "id": "d0d377f9-5168-43c7-850c-3e9c24da75d9",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "4. World Almanac/NPCs/Elvir Martikov.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"none\" language=\"markdown\">\nYes, I am familiar with the Curse of Strahd campaign for Dungeons & Dragons 5th Edition.\n</smtcmp_block>",
+      "id": "1dc2300d-f4a6-4386-9355-8f404cf83ff9",
+      "metadata": {
+        "model": {
+          "providerId": "ollama",
+          "providerType": "ollama",
+          "id": "gemma3",
+          "model": "gemma3:4b",
+          "promptLevel": 1,
+          "enable": true
+        }
+      }
+    }
+  ],
+  "createdAt": 1773341067438,
+  "updatedAt": 1773341127765,
+  "schemaVersion": 1
+}

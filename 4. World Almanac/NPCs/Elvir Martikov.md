@@ -3,7 +3,7 @@ obsidianUIMode: preview
 statblock: inline
 location:
 condition: healthy
-image:
+images:
 relationships:
   - Davian Martikov|father
 tags:

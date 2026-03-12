@@ -248,7 +248,7 @@
   ],
   "chatModelId": "gemma3",
   "applyModelId": "gemma3",
-  "embeddingModelId": "openai/text-embedding-3-small",
+  "embeddingModelId": "ollama/mxbai-embed-large",
   "systemPrompt": "",
   "ragOptions": {
     "chunkSize": 1000,
@@ -262,8 +262,8 @@
     "servers": []
   },
   "chatOptions": {
-    "includeCurrentFileContent": true,
-    "enableTools": true,
+    "includeCurrentFileContent": false,
+    "enableTools": false,
     "maxAutoIterations": 1
   }
 }
