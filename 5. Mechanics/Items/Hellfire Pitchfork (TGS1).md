@@ -11,8 +11,9 @@ tags:
   - item/weapon/melee
 aliases:
   - Hellfire Pitchfork
-one-hand-damage: 1d6 piercing
-two-hand-damage: 1d8 piercing
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: piercing
 range: 15\45
 weight: 10
 attunement: true

@@ -10,7 +10,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Phantom Lance
-one-hand-damage: 1d12 force
+one-hand-damage: 1d12
+damage-type: force
 weight: 6
 attunement: true
 rarity: very-rare

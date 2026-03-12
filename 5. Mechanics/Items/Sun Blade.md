@@ -11,8 +11,9 @@ tags:
   - item/weapon/melee
 aliases:
   - Sun Blade
-one-hand-damage: 1d8 radiant
-two-hand-damage: 1d10 radiant
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: radiant
 weight: 3
 attunement: true
 rarity: rare

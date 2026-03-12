@@ -11,7 +11,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Bolt
-one-hand-damage: 1d12 lightning
+one-hand-damage: 1d12
+damage-type: lightning
 range: 100\400
 weight: 18
 attunement: true

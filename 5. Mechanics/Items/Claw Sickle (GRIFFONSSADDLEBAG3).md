@@ -11,7 +11,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Claw Sickle
-one-hand-damage: 2d4 slashing
+one-hand-damage: 2d4
+damage-type: slashing
 weight: 2
 attunement: true
 attunement-requirement:

@@ -9,7 +9,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Lance of Isolation
-one-hand-damage: 1d12 piercing
+one-hand-damage: 1d12
+damage-type: piercing
 weight: 6
 attunement: false
 rarity: rare

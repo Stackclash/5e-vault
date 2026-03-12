@@ -10,7 +10,8 @@ tags:
 aliases:
   - Mace
 cost: 500
-one-hand-damage: 1d6 bludgeoning
+one-hand-damage: 1d6
+damage-type: bludgeoning
 weight: 4
 attunement: false
 rarity: none

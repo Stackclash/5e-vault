@@ -11,8 +11,9 @@ tags:
   - item/weapon/simple
 aliases:
   - Ether Spear
-one-hand-damage: 1d6 force
-two-hand-damage: 1d8 force
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: force
 range: 20\60
 weight: 3
 attunement: true

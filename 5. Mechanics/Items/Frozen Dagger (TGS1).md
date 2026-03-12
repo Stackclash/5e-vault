@@ -11,7 +11,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Frozen Dagger
-one-hand-damage: 1d4 cold
+one-hand-damage: 1d4
+damage-type: cold
 range: 40\80
 weight: 1
 attunement: true

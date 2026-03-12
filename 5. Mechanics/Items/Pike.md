@@ -10,7 +10,8 @@ tags:
 aliases:
   - Pike
 cost: 500
-one-hand-damage: 1d10 piercing
+one-hand-damage: 1d10
+damage-type: piercing
 weight: 18
 attunement: false
 rarity: none

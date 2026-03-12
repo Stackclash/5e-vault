@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Wyvernwing
-one-hand-damage: 2d6 slashing
+one-hand-damage: 2d6
+damage-type: slashing
 weight: 6
 attunement: true
 rarity: rare

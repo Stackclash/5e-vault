@@ -10,7 +10,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Medzo's Crossbow
-one-hand-damage: 3d4 piercing
+one-hand-damage: 3d4
+damage-type: piercing
 range: 30\120
 weight: 3
 attunement: false

@@ -10,7 +10,8 @@ tags:
 aliases:
   - Maul
 cost: 1000
-one-hand-damage: 2d6 bludgeoning
+one-hand-damage: 2d6
+damage-type: bludgeoning
 weight: 10
 attunement: false
 rarity: none

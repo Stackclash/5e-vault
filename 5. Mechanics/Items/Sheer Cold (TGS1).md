@@ -10,8 +10,9 @@ tags:
   - item/weapon/melee
 aliases:
   - Sheer Cold
-one-hand-damage: 1d8 cold
-two-hand-damage: 1d10 cold
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: cold
 weight: 2
 attunement: false
 rarity: rare

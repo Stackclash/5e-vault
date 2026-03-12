@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Heaven's Gavel
-one-hand-damage: 2d6 bludgeoning
+one-hand-damage: 2d6
+damage-type: bludgeoning
 weight: 10
 attunement: true
 attunement-requirement:

@@ -10,7 +10,8 @@ tags:
 aliases:
   - Rapier
 cost: 2500
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
 attunement: false
 rarity: none

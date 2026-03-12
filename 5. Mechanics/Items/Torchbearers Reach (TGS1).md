@@ -10,7 +10,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Torchbearer's Reach
-one-hand-damage: 1d4 fire
+one-hand-damage: 1d4
+damage-type: fire
 weight: 3
 attunement: false
 rarity: uncommon

@@ -10,7 +10,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Snowstorm Blowgun
-one-hand-damage: 1 piercing
+one-hand-damage: 1
+damage-type: piercing
 range: 25\100
 weight: 1
 attunement: false

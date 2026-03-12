@@ -20,10 +20,10 @@ cost: {resource.costCp}
 armorClass: {resource.armorClass}
 {#else if resource.damage }
 {#if resource.damage2h }
-one-hand-damage: {resource.damage}
-two-hand-damage: {resource.damage2h}
+one-hand-damage: {#if resource.damage.contains(' ')}{resource.damage.substring(0, resource.damage.indexOf(' '))}{#else}{resource.damage}{/if}
+two-hand-damage: {#if resource.damage2h.contains(' ')}{resource.damage2h.substring(0, resource.damage2h.indexOf(' '))}{#else}{resource.damage2h}{/if}
 {#else}
-one-hand-damage: {resource.damage}
+one-hand-damage: {#if resource.damage.contains(' ')}{resource.damage.substring(0, resource.damage.indexOf(' '))}{#else}{resource.damage}{/if}
 {/if}
 {#if resource.damage.contains(' ')}
 damage-type: {resource.damage.substring(resource.damage.indexOf(' ') + 1)}

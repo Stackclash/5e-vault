@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Chromatic Obsidian Greataxe
-one-hand-damage: 1d12 slashing
+one-hand-damage: 1d12
+damage-type: slashing
 weight: 7
 attunement: true
 rarity: rare

@@ -11,7 +11,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Rocborne Hand Ballista
-one-hand-damage: 1d12 piercing
+one-hand-damage: 1d12
+damage-type: piercing
 range: 100\400
 weight: 18
 attunement: true

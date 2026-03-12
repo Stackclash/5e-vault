@@ -10,7 +10,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Medzo's Blade
-one-hand-damage: 2d6 piercing
+one-hand-damage: 2d6
+damage-type: piercing
 weight: 2
 attunement: false
 rarity: rare

@@ -11,7 +11,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Druidic Throwing Club
-one-hand-damage: 1d4 bludgeoning
+one-hand-damage: 1d4
+damage-type: bludgeoning
 range: 20\60
 weight: 2
 attunement: true

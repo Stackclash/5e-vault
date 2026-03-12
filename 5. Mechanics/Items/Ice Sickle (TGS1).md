@@ -10,7 +10,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Ice Sickle
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 weight: 2
 attunement: false
 rarity: uncommon

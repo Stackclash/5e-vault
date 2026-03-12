@@ -11,8 +11,9 @@ tags:
   - item/weapon/melee
 aliases:
   - Ghostly Blade
-one-hand-damage: 1d8 force
-two-hand-damage: 1d10 force
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: force
 weight: 3
 attunement: true
 rarity: very-rare

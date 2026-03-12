@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Worldbreaker
-one-hand-damage: 2d12 bludgeoning
+one-hand-damage: 2d12
+damage-type: bludgeoning
 weight: 10
 attunement: true
 attunement-requirement:

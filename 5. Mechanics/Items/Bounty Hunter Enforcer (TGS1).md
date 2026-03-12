@@ -10,8 +10,9 @@ tags:
   - item/weapon/simple
 aliases:
   - Bounty Hunter Enforcer
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 range: 20\60
 weight: 3
 attunement: false

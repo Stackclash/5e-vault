@@ -10,7 +10,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Stalagmight Geode
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 10
 attunement: false
 rarity: rare

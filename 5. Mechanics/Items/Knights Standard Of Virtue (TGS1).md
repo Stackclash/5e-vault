@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Knight's Standard of Virtue
-one-hand-damage: 1d10 slashing
+one-hand-damage: 1d10
+damage-type: slashing
 weight: 6
 attunement: true
 rarity: rare

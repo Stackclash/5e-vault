@@ -9,7 +9,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Serpentine Bolas
-one-hand-damage: 1d4 bludgeoning
+one-hand-damage: 1d4
+damage-type: bludgeoning
 range: 30\120
 attunement: false
 rarity: rare

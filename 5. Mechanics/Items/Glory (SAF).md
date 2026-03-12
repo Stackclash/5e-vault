@@ -10,7 +10,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Glory
-one-hand-damage: 1d6 bludgeoning
+one-hand-damage: 1d6
+damage-type: bludgeoning
 weight: 4
 attunement: true
 attunement-requirement:

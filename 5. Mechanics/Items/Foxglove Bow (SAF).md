@@ -10,7 +10,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Foxglove Bow
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 range: 150\600
 weight: 2
 attunement: true

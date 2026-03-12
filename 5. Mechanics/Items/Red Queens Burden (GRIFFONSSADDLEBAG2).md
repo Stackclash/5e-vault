@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Red Queen's Burden
-one-hand-damage: 1d10 slashing
+one-hand-damage: 1d10
+damage-type: slashing
 weight: 6
 attunement: true
 rarity: legendary

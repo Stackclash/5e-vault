@@ -10,7 +10,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Laser Rifle
-one-hand-damage: 3d8 radiant
+one-hand-damage: 3d8
+damage-type: radiant
 range: 100\300
 weight: 7
 attunement: false

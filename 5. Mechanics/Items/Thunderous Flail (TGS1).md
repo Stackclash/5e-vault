@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Thunderous Flail
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 range: 20\60
 weight: 2
 attunement: true

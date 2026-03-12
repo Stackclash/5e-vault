@@ -11,7 +11,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Orner's Venomous Crossbow
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 range: 30\120
 weight: 3
 attunement: true

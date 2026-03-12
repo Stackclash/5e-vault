@@ -10,7 +10,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Lantern Flail
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 2
 attunement: true
 rarity: rare

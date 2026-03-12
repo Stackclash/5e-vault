@@ -10,8 +10,9 @@ tags:
   - item/weapon/melee
 aliases:
   - Hammer of the Eternal Quake
-one-hand-damage: 1d8x>7 bludgeoning
-two-hand-damage: 1d10x>9 bludgeoning
+one-hand-damage: 1d8x>7
+two-hand-damage: 1d10x>9
+damage-type: bludgeoning
 weight: 2
 attunement: true
 rarity: legendary

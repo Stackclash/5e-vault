@@ -11,7 +11,8 @@ tags:
   - item/wondrous/rod
 aliases:
   - Reliquary of Holy Memories (Very Rare)
-one-hand-damage: 1d6 bludgeoning
+one-hand-damage: 1d6
+damage-type: bludgeoning
 attunement: true
 attunement-requirement:
   - cleric

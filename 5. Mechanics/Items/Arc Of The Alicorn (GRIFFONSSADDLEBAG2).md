@@ -11,7 +11,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Arc of the Alicorn
-one-hand-damage: 1d10 piercing
+one-hand-damage: 1d10
+damage-type: piercing
 range: 150\600
 weight: 2
 attunement: true

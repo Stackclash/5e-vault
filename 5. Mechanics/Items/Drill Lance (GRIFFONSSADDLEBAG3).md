@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Drill Lance
-one-hand-damage: 1d12 piercing
+one-hand-damage: 1d12
+damage-type: piercing
 weight: 6
 attunement: true
 rarity: rare

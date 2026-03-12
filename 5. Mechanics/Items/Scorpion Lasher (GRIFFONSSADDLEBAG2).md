@@ -12,7 +12,8 @@ tags:
 aliases:
   - Scorpion Lasher
 cost: 200
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 weight: 3
 attunement: true
 rarity: uncommon

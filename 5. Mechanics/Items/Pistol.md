@@ -11,7 +11,8 @@ tags:
 aliases:
   - Pistol
 cost: 25000
-one-hand-damage: 1d10 piercing
+one-hand-damage: 1d10
+damage-type: piercing
 range: 30\90
 weight: 3
 attunement: false

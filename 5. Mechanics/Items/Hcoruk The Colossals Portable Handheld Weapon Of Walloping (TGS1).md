@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Hcor'uk the Colossal's Portable Handheld Weapon of Walloping
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 200
 attunement: true
 rarity: very-rare

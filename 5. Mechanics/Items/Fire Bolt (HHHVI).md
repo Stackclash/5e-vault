@@ -8,7 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Fire Bolt
-one-hand-damage: 1d6 fire
+one-hand-damage: 1d6
+damage-type: fire
 weight: 0.075
 attunement: false
 rarity: uncommon

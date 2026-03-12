@@ -10,8 +10,9 @@ tags:
   - item/weapon/melee
 aliases:
   - Whelm
-one-hand-damage: 1d8 bludgeoning
-two-hand-damage: 1d10 bludgeoning
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: bludgeoning
 range: 20\60
 weight: 2
 attunement: true

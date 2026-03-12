@@ -10,8 +10,9 @@ tags:
 aliases:
   - Warhammer
 cost: 1500
-one-hand-damage: 1d8 bludgeoning
-two-hand-damage: 1d10 bludgeoning
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: bludgeoning
 weight: 2
 attunement: false
 rarity: none

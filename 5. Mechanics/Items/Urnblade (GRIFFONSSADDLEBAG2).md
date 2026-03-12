@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Urnblade
-one-hand-damage: 1d6 necrotic
+one-hand-damage: 1d6
+damage-type: necrotic
 weight: 3
 attunement: true
 rarity: rare

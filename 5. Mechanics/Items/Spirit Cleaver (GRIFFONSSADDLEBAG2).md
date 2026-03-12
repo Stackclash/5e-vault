@@ -12,7 +12,8 @@ tags:
 aliases:
   - Spirit Cleaver
 cost: 200
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 range: 20\60
 weight: 1
 attunement: true

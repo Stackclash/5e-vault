@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - War Pick of Corrosion
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
 attunement: true
 rarity: very-rare

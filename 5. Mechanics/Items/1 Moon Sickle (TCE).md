@@ -10,7 +10,8 @@ tags:
   - item/weapon/simple
 aliases:
   - +1 Moon Sickle
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 weight: 2
 attunement: true
 attunement-requirement:

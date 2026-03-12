@@ -10,7 +10,8 @@ tags:
 aliases:
   - Greatsword
 cost: 5000
-one-hand-damage: 2d6 slashing
+one-hand-damage: 2d6
+damage-type: slashing
 weight: 6
 attunement: false
 rarity: none

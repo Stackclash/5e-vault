@@ -9,7 +9,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Battlebeat Club
-one-hand-damage: 1d4 bludgeoning
+one-hand-damage: 1d4
+damage-type: bludgeoning
 weight: 2
 attunement: false
 rarity: uncommon

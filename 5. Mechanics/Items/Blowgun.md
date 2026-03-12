@@ -10,7 +10,8 @@ tags:
 aliases:
   - Blowgun
 cost: 1000
-one-hand-damage: 1 piercing
+one-hand-damage: 1
+damage-type: piercing
 range: 25\100
 weight: 1
 attunement: false

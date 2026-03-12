@@ -11,7 +11,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Arkanobow
-one-hand-damage: 1d8 lightning
+one-hand-damage: 1d8
+damage-type: lightning
 range: 150\600
 weight: 2
 attunement: true

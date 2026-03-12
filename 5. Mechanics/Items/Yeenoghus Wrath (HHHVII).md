@@ -10,7 +10,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Yeenoghu's Wrath
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 weight: 3
 attunement: true
 rarity: rare

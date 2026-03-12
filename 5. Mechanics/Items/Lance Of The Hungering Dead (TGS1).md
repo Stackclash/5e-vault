@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Lance of the Hungering Dead
-one-hand-damage: 1d12 piercing
+one-hand-damage: 1d12
+damage-type: piercing
 weight: 6
 attunement: true
 rarity: very-rare

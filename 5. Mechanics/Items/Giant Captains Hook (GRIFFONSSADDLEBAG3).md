@@ -10,7 +10,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Giant Captain's Hook
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 weight: 2
 attunement: false
 rarity: rare

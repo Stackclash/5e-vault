@@ -10,7 +10,8 @@ tags:
 aliases:
   - Greatclub
 cost: 20
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 10
 attunement: false
 rarity: none

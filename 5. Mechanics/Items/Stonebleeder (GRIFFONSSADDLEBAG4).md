@@ -9,8 +9,9 @@ tags:
   - item/weapon/melee
 aliases:
   - Stonebleeder
-one-hand-damage: 1d8 slashing
-two-hand-damage: 1d10 slashing
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: slashing
 weight: 4
 attunement: false
 rarity: rare

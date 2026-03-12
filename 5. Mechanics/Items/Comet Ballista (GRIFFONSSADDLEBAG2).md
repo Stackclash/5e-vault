@@ -11,7 +11,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Comet Ballista
-one-hand-damage: 1d10 bludgeoning
+one-hand-damage: 1d10
+damage-type: bludgeoning
 range: 100\400
 weight: 18
 attunement: true

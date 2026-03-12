@@ -11,7 +11,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Reap and Sew
-one-hand-damage: 1d8 force
+one-hand-damage: 1d8
+damage-type: force
 range: 80\320
 weight: 5
 attunement: true

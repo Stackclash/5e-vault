@@ -10,7 +10,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Light Sling
-one-hand-damage: 1d4 bludgeoning
+one-hand-damage: 1d4
+damage-type: bludgeoning
 range: 30\120
 attunement: false
 rarity: common

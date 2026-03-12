@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Realmswarden Greataxe
-one-hand-damage: 1d12 force
+one-hand-damage: 1d12
+damage-type: force
 weight: 7
 attunement: true
 rarity: legendary

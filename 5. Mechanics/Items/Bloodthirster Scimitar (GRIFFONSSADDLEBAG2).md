@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Bloodthirster Scimitar
-one-hand-damage: 1d6 slashing
+one-hand-damage: 1d6
+damage-type: slashing
 attunement: true
 rarity: very-rare
 tier: major

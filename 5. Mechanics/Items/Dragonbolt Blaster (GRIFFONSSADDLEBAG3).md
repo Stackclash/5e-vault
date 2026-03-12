@@ -10,7 +10,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Dragonbolt Blaster
-one-hand-damage: 2d10 lightning
+one-hand-damage: 2d10
+damage-type: lightning
 range: 150\600
 weight: 5
 attunement: false

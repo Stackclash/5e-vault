@@ -11,7 +11,8 @@ tags:
 aliases:
   - Viper Khopesh
 cost: 2500
-one-hand-damage: 1d6 slashing
+one-hand-damage: 1d6
+damage-type: slashing
 weight: 3
 attunement: false
 rarity: rare

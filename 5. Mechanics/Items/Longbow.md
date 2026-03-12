@@ -10,7 +10,8 @@ tags:
 aliases:
   - Longbow
 cost: 5000
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 range: 150\600
 weight: 2
 attunement: false

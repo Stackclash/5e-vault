@@ -10,7 +10,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Magentan Sun-Saw (Very Rare)
-one-hand-damage: 1d6 slashing
+one-hand-damage: 1d6
+damage-type: slashing
 weight: 3
 attunement: false
 rarity: very-rare

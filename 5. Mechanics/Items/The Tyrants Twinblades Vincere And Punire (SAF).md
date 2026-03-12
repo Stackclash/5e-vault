@@ -10,7 +10,8 @@ tags:
   - item/weapon/melee
 aliases:
   - 'The Tyrant''s Twinblades, Vincere and Punire'
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 weight: 2
 attunement: true
 attunement-requirement:

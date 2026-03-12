@@ -9,7 +9,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Frost Dagger
-one-hand-damage: 1d4 cold
+one-hand-damage: 1d4
+damage-type: cold
 range: 20\60
 weight: 1
 attunement: false

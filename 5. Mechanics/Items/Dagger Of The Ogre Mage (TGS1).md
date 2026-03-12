@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Dagger of the Ogre Mage
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 weight: 2
 attunement: true
 rarity: uncommon

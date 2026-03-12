@@ -10,7 +10,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Aurum and Argentum
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 40\80
 weight: 1
 attunement: false

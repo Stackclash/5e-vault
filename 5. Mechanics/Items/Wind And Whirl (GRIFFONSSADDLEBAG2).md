@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Wind and Whirl
-one-hand-damage: 1d6 slashing
+one-hand-damage: 1d6
+damage-type: slashing
 range: 20\60
 weight: 3
 attunement: true

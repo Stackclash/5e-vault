@@ -11,7 +11,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Shooting Star
-one-hand-damage: 1d8 radiant
+one-hand-damage: 1d8
+damage-type: radiant
 range: 150\600
 weight: 2
 attunement: true

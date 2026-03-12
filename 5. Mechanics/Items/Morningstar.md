@@ -10,7 +10,8 @@ tags:
 aliases:
   - Morningstar
 cost: 1500
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 4
 attunement: false
 rarity: none

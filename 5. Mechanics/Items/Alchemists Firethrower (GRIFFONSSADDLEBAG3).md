@@ -10,7 +10,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Alchemist's Firethrower
-one-hand-damage: 1d6 fire
+one-hand-damage: 1d6
+damage-type: fire
 range: 30\90
 weight: 8
 attunement: false

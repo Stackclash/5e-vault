@@ -11,7 +11,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Nightstalker's Kanabo
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 10
 attunement: true
 rarity: very-rare

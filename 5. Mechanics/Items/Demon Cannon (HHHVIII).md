@@ -9,7 +9,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Demon Cannon
-one-hand-damage: 1d10 piercing
+one-hand-damage: 1d10
+damage-type: piercing
 range: 100\400
 weight: 18
 attunement: false

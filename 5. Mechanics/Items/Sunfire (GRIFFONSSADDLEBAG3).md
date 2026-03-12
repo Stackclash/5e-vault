@@ -11,7 +11,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Sunfire
-one-hand-damage: 2d8 radiant
+one-hand-damage: 2d8
+damage-type: radiant
 range: 100\400
 weight: 3
 attunement: true

@@ -15,7 +15,8 @@ aliases:
   - Magmarath Molten Blaster
   - Magmarath Molten Blaster Heavy Crossbow
   - Magmarath Molten Blaster Light Crossbow
-one-hand-damage: 2d8 fire
+one-hand-damage: 2d8
+damage-type: fire
 attunement: true
 rarity: very-rare
 tier: major

@@ -10,7 +10,8 @@ tags:
   - item/weapon/ranged
 aliases:
   - Automatic Rifle
-one-hand-damage: 2d8 piercing
+one-hand-damage: 2d8
+damage-type: piercing
 range: 80\240
 weight: 8
 attunement: false

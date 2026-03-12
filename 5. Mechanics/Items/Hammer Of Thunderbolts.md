@@ -10,7 +10,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Hammer of Thunderbolts
-one-hand-damage: 2d6 bludgeoning
+one-hand-damage: 2d6
+damage-type: bludgeoning
 weight: 10
 attunement: false
 rarity: legendary

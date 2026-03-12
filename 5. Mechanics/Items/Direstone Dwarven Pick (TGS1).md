@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Direstone Dwarven Pick
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
 attunement: true
 attunement-requirement:

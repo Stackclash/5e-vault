@@ -11,7 +11,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Hadiya's Handy Quill
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 20\60
 weight: 0.25
 attunement: true

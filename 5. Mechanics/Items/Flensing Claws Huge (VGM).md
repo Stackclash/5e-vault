@@ -8,7 +8,8 @@ tags:
   - item/wondrous/other
 aliases:
   - Flensing Claws (Huge)
-one-hand-damage: 2d8 slashing
+one-hand-damage: 2d8
+damage-type: slashing
 attunement: false
 rarity: unknown
 type: wondrous

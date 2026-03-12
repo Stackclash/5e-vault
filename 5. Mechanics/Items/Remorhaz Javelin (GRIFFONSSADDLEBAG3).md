@@ -10,7 +10,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Remorhaz Javelin
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 range: 30\120
 weight: 2
 attunement: false

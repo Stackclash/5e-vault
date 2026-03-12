@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Quagmire Maul
-one-hand-damage: 2d6 bludgeoning
+one-hand-damage: 2d6
+damage-type: bludgeoning
 weight: 10
 attunement: true
 rarity: very-rare

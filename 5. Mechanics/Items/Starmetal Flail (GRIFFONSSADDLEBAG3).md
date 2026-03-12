@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Starmetal Flail
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 2
 attunement: true
 rarity: very-rare

@@ -10,7 +10,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Covolt Star
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 4
 attunement: false
 rarity: rare

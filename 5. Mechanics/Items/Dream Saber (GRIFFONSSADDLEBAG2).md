@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Dream Saber
-one-hand-damage: 1d6 slashing
+one-hand-damage: 1d6
+damage-type: slashing
 weight: 3
 attunement: true
 rarity: rare

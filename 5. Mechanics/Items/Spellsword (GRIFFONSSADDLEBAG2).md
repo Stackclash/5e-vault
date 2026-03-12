@@ -10,7 +10,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Spellsword
-one-hand-damage: 1d6 force
+one-hand-damage: 1d6
+damage-type: force
 weight: 2
 attunement: false
 rarity: rare

@@ -11,7 +11,8 @@ tags:
   - item/weapon/simple
 aliases:
   - Mace of Terror
-one-hand-damage: 1d6 bludgeoning
+one-hand-damage: 1d6
+damage-type: bludgeoning
 weight: 4
 attunement: true
 rarity: rare

@@ -11,7 +11,8 @@ tags:
   - item/weapon/melee
 aliases:
   - Royal Blade of Amphibios
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
 attunement: true
 rarity: very-rare

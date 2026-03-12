@@ -10,7 +10,8 @@ tags:
 aliases:
   - Greataxe
 cost: 3000
-one-hand-damage: 1d12 slashing
+one-hand-damage: 1d12
+damage-type: slashing
 weight: 7
 attunement: false
 rarity: none

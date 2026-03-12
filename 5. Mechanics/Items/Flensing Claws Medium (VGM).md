@@ -8,7 +8,8 @@ tags:
   - item/wondrous/other
 aliases:
   - Flensing Claws (Medium)
-one-hand-damage: 1d10 slashing
+one-hand-damage: 1d10
+damage-type: slashing
 attunement: false
 rarity: unknown
 type: wondrous
