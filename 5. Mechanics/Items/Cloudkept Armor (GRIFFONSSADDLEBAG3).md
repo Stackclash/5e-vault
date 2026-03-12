@@ -14,6 +14,13 @@ aliases:
   - Cloudkept Armor
   - Cloudkept Hide Armor
   - Cloudkept Padded Armor
+attunement: true
+rarity: very-rare
+tier: major
+type: armor
+subtype:
+  - light
+  - medium
 ---
 # Cloudkept Armor
 *Major, very rare (requires attunement)*  

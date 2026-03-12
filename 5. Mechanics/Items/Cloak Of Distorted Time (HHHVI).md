@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Cloak of Distorted Time
+attunement: true
+rarity: very-rare
 ---
 # Cloak of Distorted Time
 *Wondrous item, very rare (requires attunement)*  

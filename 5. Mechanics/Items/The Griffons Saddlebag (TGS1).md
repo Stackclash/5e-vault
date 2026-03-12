@@ -9,6 +9,9 @@ tags:
 aliases:
   - The Griffon's Saddlebag
 weight: 3
+attunement: false
+rarity: artifact
+tier: major
 ---
 # The Griffon's Saddlebag
 *Wondrous item, major, artifact*  

@@ -10,6 +10,11 @@ aliases:
   - Healer's Kit
 cost: 500
 weight: 3
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Healer's Kit
 *Adventuring gear*  

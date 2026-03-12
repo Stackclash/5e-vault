@@ -10,6 +10,11 @@ aliases:
   - Sled
 cost: 2000
 weight: 300
+attunement: false
+rarity: none
+type: vehicle
+subtype:
+  - land
 ---
 # Sled
 *Vehicle (land)*  

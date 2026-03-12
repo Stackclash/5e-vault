@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Ashen Bloom
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Ashen Bloom
 *Wondrous item, minor, rare*  

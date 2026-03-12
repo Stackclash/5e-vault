@@ -8,6 +8,11 @@ tags:
   - item/rarity/none
 aliases:
   - Artisan's Tools
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Artisan's Tools
 *Artisan's tools*  

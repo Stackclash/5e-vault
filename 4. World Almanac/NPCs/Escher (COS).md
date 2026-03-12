@@ -10,10 +10,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\escher.webp
-relationships: []
 aliases:
   - Escher
 alignment: Neutral Evil
+relationships: []
 partyRelationships: {}
 location: null
 pronounced: null
@@ -31,7 +31,6 @@ goals: null
 likes: null
 dislikes: null
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

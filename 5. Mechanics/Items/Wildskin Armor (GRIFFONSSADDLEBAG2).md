@@ -12,6 +12,14 @@ aliases:
   - Wildskin Armor
 armorClass: 12 + Dex modifier (max of +2)
 weight: 12
+attunement: true
+attunement-requirement:
+  - druid
+rarity: uncommon
+tier: major
+type: armor
+subtype:
+  - medium
 ---
 # Wildskin Armor
 *Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), major, uncommon (requires attunement by a druid)*  

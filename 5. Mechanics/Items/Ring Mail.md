@@ -11,6 +11,12 @@ aliases:
 cost: 3000
 armorClass: 14
 weight: 40
+stealth-penalty: true
+attunement: false
+rarity: none
+type: armor
+subtype:
+  - heavy
 ---
 # Ring Mail
 *Heavy armor*  

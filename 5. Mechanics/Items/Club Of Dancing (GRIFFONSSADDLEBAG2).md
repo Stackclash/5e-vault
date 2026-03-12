@@ -13,6 +13,13 @@ aliases:
   - Club of Dancing
 one-hand-damage: 1d4 bludgeoning
 weight: 2
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Club of Dancing
 *Weapon ([[/5. Mechanics/Items/Club.md\|club]]), major, uncommon (requires attunement)*  

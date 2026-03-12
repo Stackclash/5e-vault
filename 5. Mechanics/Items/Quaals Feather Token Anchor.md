@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - 'Quaal''s Feather Token, Anchor'
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Quaal's Feather Token, Anchor
 *Wondrous item, minor, rare*  

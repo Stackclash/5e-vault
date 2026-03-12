@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Redsmith Crucible Set
+attunement: false
+rarity: common
+tier: minor
 ---
 # Redsmith Crucible Set
 *Wondrous item, minor, common*  

@@ -10,6 +10,11 @@ aliases:
   - Alchemist's Supplies
 cost: 5000
 weight: 8
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Alchemist's Supplies
 *Artisan's tools*  

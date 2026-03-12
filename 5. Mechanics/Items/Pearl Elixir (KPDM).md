@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Pearl Elixir
+attunement: false
+rarity: legendary
+type: wondrous
+subtype:
+  - potion
 ---
 # Pearl Elixir
 *Potion, legendary*  

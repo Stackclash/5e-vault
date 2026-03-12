@@ -7,6 +7,8 @@ tags:
   - item/rarity/varies
 aliases:
   - Dragon's Wrath
+attunement: false
+rarity: varies
 ---
 # Dragon's Wrath
 *Wondrous item*  

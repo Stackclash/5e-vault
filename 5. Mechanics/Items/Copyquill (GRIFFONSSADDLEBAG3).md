@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Copyquill
+attunement: false
+rarity: common
+tier: minor
 ---
 # Copyquill
 *Wondrous item, minor, common*  

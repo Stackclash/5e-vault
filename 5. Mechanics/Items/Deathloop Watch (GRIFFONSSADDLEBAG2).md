@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Deathloop Watch
+attunement: true
+rarity: rare
+tier: minor
 ---
 # Deathloop Watch
 *Wondrous item, minor, rare (requires attunement)*  

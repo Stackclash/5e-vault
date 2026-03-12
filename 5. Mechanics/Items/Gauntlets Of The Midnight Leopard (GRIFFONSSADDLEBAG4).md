@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Gauntlets of the Midnight Leopard
+attunement: true
+rarity: rare
 ---
 # Gauntlets of the Midnight Leopard
 *Wondrous item, rare (requires attunement)*  

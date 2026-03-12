@@ -18,6 +18,15 @@ aliases:
   - Holy Avenger Rapier
   - Holy Avenger Scimitar
   - Holy Avenger Shortsword
+attunement: true
+attunement-requirement:
+  - paladin
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Holy Avenger
 *Major, legendary (requires attunement by a paladin)*  

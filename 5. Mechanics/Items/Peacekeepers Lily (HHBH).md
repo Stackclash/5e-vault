@@ -9,6 +9,11 @@ tags:
 aliases:
   - Peacekeeper's Lily
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Peacekeeper's Lily
 *Herb, rare*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Hydra Charm
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Hydra Charm
 *Wondrous item, major, very rare (requires attunement)*  

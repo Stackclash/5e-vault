@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Boots of the Cloud Jumper
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Boots of the Cloud Jumper
 *Wondrous item, major, uncommon (requires attunement)*  

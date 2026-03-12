@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Sovereignseed Satchel
+attunement: false
+rarity: rare
+tier: major
 ---
 # Sovereignseed Satchel
 *Wondrous item, major, rare*  

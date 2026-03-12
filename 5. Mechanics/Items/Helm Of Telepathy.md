@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Helm of Telepathy
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Helm of Telepathy
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -13,6 +13,13 @@ aliases:
 one-hand-damage: 2d10 lightning
 range: 150\600
 weight: 5
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Dragonbolt Blaster
 *Weapon ([[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  

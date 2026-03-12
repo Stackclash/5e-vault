@@ -7,6 +7,9 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Boots of Iron Gait
+stealth-penalty: true
+attunement: false
+rarity: uncommon
 ---
 # Boots of Iron Gait
 *Wondrous item, uncommon*  

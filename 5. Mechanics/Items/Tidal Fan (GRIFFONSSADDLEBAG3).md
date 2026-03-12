@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Tidal Fan
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Tidal Fan
 *Wondrous item, major, uncommon*  

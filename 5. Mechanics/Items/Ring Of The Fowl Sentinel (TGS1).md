@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of the Fowl Sentinel
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of the Fowl Sentinel
 *Ring, minor, common*  

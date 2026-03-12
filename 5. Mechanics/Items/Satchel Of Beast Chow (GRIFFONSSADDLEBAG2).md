@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Satchel of Beast Chow
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Satchel of Beast Chow
 *Wondrous item, minor, uncommon*  

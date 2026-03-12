@@ -9,6 +9,11 @@ tags:
 aliases:
   - Fine Wine (bottle)
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - food-and-drink
 ---
 # Fine Wine (bottle)
 *Food and drink*  

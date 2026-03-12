@@ -7,6 +7,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Anuraag's Crucible
+attunement: false
+rarity: artifact
 ---
 # Anuraag's Crucible
 *Artifact*  

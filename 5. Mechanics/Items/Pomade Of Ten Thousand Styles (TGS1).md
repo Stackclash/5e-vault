@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pomade of Ten Thousand Styles
+attunement: false
+rarity: common
+tier: minor
 ---
 # Pomade of Ten Thousand Styles
 *Wondrous item, minor, common*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Crown of Limitless Knowledge
+attunement: true
+rarity: very-rare
 ---
 # Crown of Limitless Knowledge
 *Wondrous item, very rare (requires attunement)*  

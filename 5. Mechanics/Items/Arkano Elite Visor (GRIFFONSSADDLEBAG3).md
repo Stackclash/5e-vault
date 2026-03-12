@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Arkano Elite Visor
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Arkano Elite Visor
 *Wondrous item, major, very rare*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Book of Eibon
+attunement: true
+rarity: legendary
 ---
 # Book of Eibon
 *Wondrous item, legendary (requires attunement)*  

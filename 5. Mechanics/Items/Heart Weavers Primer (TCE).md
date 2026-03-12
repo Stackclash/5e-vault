@@ -10,6 +10,13 @@ tags:
 aliases:
   - Heart Weaver's Primer
 weight: 3
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Heart Weaver's Primer
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Trapper's Bag
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Trapper's Bag
 *Wondrous item, minor, uncommon*  

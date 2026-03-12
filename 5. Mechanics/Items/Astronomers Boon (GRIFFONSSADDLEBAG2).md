@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Astronomer's Boon
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Astronomer's Boon
 *Wondrous item, major, uncommon*  

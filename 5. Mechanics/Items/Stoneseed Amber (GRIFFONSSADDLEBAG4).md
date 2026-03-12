@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Stoneseed Amber
+attunement: false
+rarity: very-rare
 ---
 # Stoneseed Amber
 *Wondrous item, very rare*  

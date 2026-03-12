@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sea Soap
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Sea Soap
 *Herb, rare*  

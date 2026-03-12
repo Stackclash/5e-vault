@@ -8,6 +8,11 @@ tags:
   - item/rarity/none
 aliases:
   - Holy Symbol
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Holy Symbol
 *Spellcasting focus*  

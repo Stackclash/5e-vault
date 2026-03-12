@@ -11,6 +11,8 @@ aliases:
   - Astral Aegis
 armorClass: 2
 weight: 6
+attunement: true
+rarity: legendary
 ---
 # Astral Aegis
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), legendary (requires attunement)*  

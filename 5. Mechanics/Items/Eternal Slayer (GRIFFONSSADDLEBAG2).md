@@ -18,6 +18,13 @@ aliases:
   - Eternal Slayer Rapier
   - Eternal Slayer Scimitar
   - Eternal Slayer Shortsword
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Eternal Slayer
 *Major, legendary (requires attunement)*  

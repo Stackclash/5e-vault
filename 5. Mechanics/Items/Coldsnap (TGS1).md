@@ -13,6 +13,13 @@ aliases:
   - Coldsnap
 one-hand-damage: 1d4 slashing
 weight: 3
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Coldsnap
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement)*  

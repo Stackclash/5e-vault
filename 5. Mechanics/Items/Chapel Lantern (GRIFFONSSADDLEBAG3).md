@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Chapel Lantern
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Chapel Lantern
 *Wondrous item, major, uncommon*  

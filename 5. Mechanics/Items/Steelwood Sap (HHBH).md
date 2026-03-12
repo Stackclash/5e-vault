@@ -9,6 +9,11 @@ tags:
 aliases:
   - Steelwood Sap
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Steelwood Sap
 *Herb, rare*  

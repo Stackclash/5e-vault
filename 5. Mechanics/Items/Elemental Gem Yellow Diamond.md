@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - 'Elemental Gem, Yellow Diamond'
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Elemental Gem, Yellow Diamond
 *Wondrous item, minor, uncommon*  

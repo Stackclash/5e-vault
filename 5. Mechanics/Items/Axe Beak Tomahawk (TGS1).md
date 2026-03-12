@@ -13,6 +13,13 @@ aliases:
 one-hand-damage: 1d6 slashing
 range: 20\60
 weight: 2
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Axe Beak Tomahawk
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon*  

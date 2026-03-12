@@ -12,6 +12,12 @@ aliases:
   - Crashing Rhino
 one-hand-damage: 2d6 bludgeoning
 weight: 10
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Crashing Rhino
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), very rare (requires attunement)*  

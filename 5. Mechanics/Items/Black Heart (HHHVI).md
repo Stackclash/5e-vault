@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Black Heart
+attunement: false
+rarity: very-rare
 ---
 # Black Heart
 *Wondrous item, very rare*  

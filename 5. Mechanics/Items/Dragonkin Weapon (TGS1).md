@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Dragonkin Weapon
+attunement: false
+rarity: varies
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Dragonkin Weapon
 *Major*  

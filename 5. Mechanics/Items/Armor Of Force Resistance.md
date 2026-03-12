@@ -28,6 +28,14 @@ aliases:
   - Splint Armor of Force Resistance
   - Studded Leather Armor of Force Resistance
   - Wooden Breastplate of Force Resistance
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Armor of Force Resistance
 *Major, rare (requires attunement)*  

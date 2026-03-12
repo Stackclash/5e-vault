@@ -12,6 +12,14 @@ aliases:
   - Harvest
 one-hand-damage: 1d4 slashing
 weight: 2
+attunement: true
+attunement-requirement:
+  - evil creature
+rarity: very-rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Harvest
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), very rare (requires attunement by an evil creature)*  

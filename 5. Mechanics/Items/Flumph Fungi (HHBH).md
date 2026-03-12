@@ -9,6 +9,11 @@ tags:
 aliases:
   - Flumph Fungi
 cost: 500
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Flumph Fungi
 *Herb, rare*  

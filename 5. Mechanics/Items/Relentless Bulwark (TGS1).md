@@ -12,6 +12,12 @@ aliases:
   - Relentless Bulwark
 armorClass: 2
 weight: 6
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: uncommon
+tier: major
 ---
 # Relentless Bulwark
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement by a cleric or paladin)*  

@@ -11,6 +11,12 @@ aliases:
   - Death's Grip
 one-hand-damage: 1d10 piercing
 weight: 18
+attunement: false
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Death's Grip
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), very rare*  

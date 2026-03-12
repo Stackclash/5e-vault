@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Locket of the Stolen Heart
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Locket of the Stolen Heart
 *Wondrous item, cursed item, major, uncommon (requires attunement)*  

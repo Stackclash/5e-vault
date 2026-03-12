@@ -8,6 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Diirinka's Boon
+attunement: true
+rarity: uncommon
 ---
 # Diirinka's Boon
 *Wondrous item, uncommon (requires attunement)*  

@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 1d8x>7 bludgeoning
 two-hand-damage: 1d10x>9 bludgeoning
 weight: 2
+attunement: true
+rarity: legendary
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Hammer of the Eternal Quake
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), legendary (requires attunement)*  

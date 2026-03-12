@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Warden Charm
+attunement: false
+rarity: very-rare
 ---
 # Warden Charm
 *Wondrous item, very rare*  

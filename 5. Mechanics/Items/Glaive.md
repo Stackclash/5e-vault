@@ -12,6 +12,12 @@ aliases:
 cost: 2000
 one-hand-damage: 1d10 slashing
 weight: 6
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Glaive
 *Weapon*  

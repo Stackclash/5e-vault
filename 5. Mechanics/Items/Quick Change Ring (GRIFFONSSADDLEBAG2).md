@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Quick Change Ring
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Quick Change Ring
 *Ring, minor, rare*  

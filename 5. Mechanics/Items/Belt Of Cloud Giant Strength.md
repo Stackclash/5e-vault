@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Belt of Cloud Giant Strength
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Belt of Cloud Giant Strength
 *Wondrous item, major, legendary (requires attunement)*  

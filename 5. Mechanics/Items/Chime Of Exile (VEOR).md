@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Chime of Exile
+attunement: false
+rarity: very-rare
 ---
 # Chime of Exile
 *Wondrous item, very rare*  

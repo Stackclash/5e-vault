@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Clockwork Mend-A-Pillar
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Clockwork Mend-A-Pillar
 *Wondrous item, minor, uncommon*  

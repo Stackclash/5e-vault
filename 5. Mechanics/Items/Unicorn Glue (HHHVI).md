@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Unicorn Glue
+attunement: false
+rarity: uncommon
 ---
 # Unicorn Glue
 *Wondrous item, uncommon*  

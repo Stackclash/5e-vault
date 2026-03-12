@@ -10,6 +10,12 @@ tags:
   - item/weapon/melee
 aliases:
   - Rift Sheath
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
 ---
 # Rift Sheath
 *Melee weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement)*  

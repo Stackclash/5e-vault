@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Gorgon Potion
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Gorgon Potion
 *Potion, minor, rare*  

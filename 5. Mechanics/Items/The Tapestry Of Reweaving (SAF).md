@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - The Tapestry of Reweaving
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - requires-installation
 ---
 # The Tapestry of Reweaving
 *Wondrous item, requires installation, rare*  

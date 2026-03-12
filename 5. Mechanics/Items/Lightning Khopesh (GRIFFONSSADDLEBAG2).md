@@ -12,6 +12,13 @@ aliases:
   - Lightning Khopesh
 one-hand-damage: 1d6 slashing
 weight: 3
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Lightning Khopesh
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Gestures
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Gestures
 *Ring, minor, common*  

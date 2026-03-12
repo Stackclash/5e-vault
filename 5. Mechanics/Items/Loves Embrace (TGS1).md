@@ -13,6 +13,16 @@ aliases:
   - Love's Embrace
 one-hand-damage: 2d6 slashing
 weight: 6
+attunement: true
+attunement-requirement:
+  - one
+  - two friendly creatures
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Love's Embrace
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, legendary (requires attunement by one or two friendly creatures)*  

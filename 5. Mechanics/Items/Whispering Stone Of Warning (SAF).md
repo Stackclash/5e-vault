@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Whispering Stone of Warning
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - requires-installation
 ---
 # Whispering Stone of Warning
 *Wondrous item, requires installation, rare*  

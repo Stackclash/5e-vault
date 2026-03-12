@@ -16,6 +16,13 @@ aliases:
   - Adult Dragonbone Hooked Shortspear
   - Adult Dragonbone Hoopak
   - Adult Dragonbone Yklwa
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Dragonbone Weapon (Adult)
 *Rare (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Embroidered silk and velvet mantle set with numerous moonstones
 cost: 250000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Embroidered silk and velvet mantle set with numerous moonstones
 *Treasure (art object)*  

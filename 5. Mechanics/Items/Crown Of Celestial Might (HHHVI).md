@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Crown of Celestial Might
+attunement: true
+rarity: legendary
 ---
 # Crown of Celestial Might
 *Wondrous item, legendary (requires attunement)*  

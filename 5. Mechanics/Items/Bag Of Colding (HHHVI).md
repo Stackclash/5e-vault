@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Bag of Colding
+attunement: false
+rarity: uncommon
 ---
 # Bag of Colding
 *Wondrous item, uncommon*  

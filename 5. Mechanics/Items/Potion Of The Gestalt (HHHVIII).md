@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of the Gestalt
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of the Gestalt
 *Potion, rare*  

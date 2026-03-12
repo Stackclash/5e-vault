@@ -10,6 +10,9 @@ tags:
 aliases:
   - Medallion of Thoughts
 weight: 1
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Medallion of Thoughts
 *Wondrous item, major, uncommon (requires attunement)*  

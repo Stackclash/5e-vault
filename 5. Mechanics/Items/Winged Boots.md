@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Winged Boots
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Winged Boots
 *Wondrous item, major, uncommon (requires attunement)*  

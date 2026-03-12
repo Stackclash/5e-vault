@@ -10,6 +10,11 @@ aliases:
   - Spyglass
 cost: 100000
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Spyglass
 *Adventuring gear*  

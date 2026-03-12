@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Amulet of the Sentinel
+attunement: true
+rarity: rare
+tier: major
 ---
 # Amulet of the Sentinel
 *Wondrous item, major, rare (requires attunement)*  

@@ -16,6 +16,14 @@ aliases:
   - Starmetal Blaster Heavy Crossbow
   - Starmetal Blaster Light Crossbow
   - Starmetal Blaster Light Repeating Crossbow
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Starmetal Blaster
 *Major, rare*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Firewatch Vambraces
+attunement: true
+rarity: very-rare
 ---
 # Firewatch Vambraces
 *Wondrous item, very rare (requires attunement)*  

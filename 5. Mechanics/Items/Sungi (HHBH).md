@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sungi
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Sungi
 *Herb, rare*  

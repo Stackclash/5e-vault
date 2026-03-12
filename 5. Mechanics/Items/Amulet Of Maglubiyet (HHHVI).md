@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Amulet of Maglubiyet
+attunement: true
+rarity: rare
 ---
 # Amulet of Maglubiyet
 *Wondrous item, rare (requires attunement)*  

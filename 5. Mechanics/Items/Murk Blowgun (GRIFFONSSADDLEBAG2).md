@@ -13,6 +13,13 @@ aliases:
 one-hand-damage: 1 piercing
 range: 25\100
 weight: 1
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Murk Blowgun
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), major, uncommon*  

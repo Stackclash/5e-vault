@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Instrument of Roses and Thorns
+attunement: true
+attunement-requirement:
+  - bard
+rarity: very-rare
+tier: major
 ---
 # Instrument of Roses and Thorns
 *Wondrous item, major, very rare (requires attunement by a bard)*  

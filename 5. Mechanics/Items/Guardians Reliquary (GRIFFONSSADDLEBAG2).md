@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Guardian's Reliquary
+attunement: true
+attunement-requirement:
+  - creature missing an arm
+rarity: legendary
+tier: major
 ---
 # Guardian's Reliquary
 *Wondrous item, major, legendary (requires attunement by a creature missing an arm)*  

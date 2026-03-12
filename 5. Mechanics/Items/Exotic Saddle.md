@@ -10,6 +10,11 @@ aliases:
   - Exotic Saddle
 cost: 6000
 weight: 40
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - tack-and-harness
 ---
 # Exotic Saddle
 *Tack and harness*  

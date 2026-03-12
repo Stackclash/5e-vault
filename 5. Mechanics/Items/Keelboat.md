@@ -9,6 +9,11 @@ tags:
 aliases:
   - Keelboat
 cost: 300000
+attunement: false
+rarity: none
+type: vehicle
+subtype:
+  - ship-water
 ---
 # Keelboat
 *Ship, vehicle (water)*  

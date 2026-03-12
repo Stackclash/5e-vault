@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 1d8 slashing
 two-hand-damage: 1d10 slashing
 weight: 3
+attunement: true
+rarity: artifact
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Sword of Kas
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), artifact (requires attunement)*  

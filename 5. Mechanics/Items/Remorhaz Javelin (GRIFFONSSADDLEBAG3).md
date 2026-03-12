@@ -13,6 +13,13 @@ aliases:
 one-hand-damage: 1d6 piercing
 range: 30\120
 weight: 2
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Remorhaz Javelin
 *Weapon ([[/5. Mechanics/Items/Javelin.md\|javelin]]), major, uncommon*  

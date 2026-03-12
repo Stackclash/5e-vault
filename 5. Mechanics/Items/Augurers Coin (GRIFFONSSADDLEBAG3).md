@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Augurer's Coin
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Augurer's Coin
 *Wondrous item, minor, uncommon*  

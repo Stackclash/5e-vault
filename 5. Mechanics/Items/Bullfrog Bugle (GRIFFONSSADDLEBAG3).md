@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Bullfrog Bugle
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Bullfrog Bugle
 *Wondrous item, major, uncommon*  

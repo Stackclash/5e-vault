@@ -13,6 +13,13 @@ aliases:
   - Mirrorlight Stinger
   - Mirrorlight Stinger Longbow
   - Mirrorlight Stinger Shortbow
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Mirrorlight Stinger
 *Rare*  

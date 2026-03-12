@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Overseer's Spade
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Overseer's Spade
 *Wondrous item, minor, uncommon (requires attunement)*  

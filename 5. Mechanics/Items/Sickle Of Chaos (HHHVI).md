@@ -12,6 +12,12 @@ aliases:
   - Sickle of Chaos
 one-hand-damage: 1d4 slashing
 weight: 2
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Sickle of Chaos
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), rare (requires attunement)*  

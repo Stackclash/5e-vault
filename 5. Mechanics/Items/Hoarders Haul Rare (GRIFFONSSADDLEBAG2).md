@@ -9,6 +9,12 @@ tags:
   - item/vehicle/land
 aliases:
   - Hoarder's Haul (Rare)
+attunement: false
+rarity: rare
+tier: major
+type: vehicle
+subtype:
+  - land
 ---
 # Hoarder's Haul (Rare)
 *Wondrous item, vehicle (land), major, rare*  

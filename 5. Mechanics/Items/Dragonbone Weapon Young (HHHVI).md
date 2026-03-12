@@ -16,6 +16,13 @@ aliases:
   - Young Dragonbone Hooked Shortspear
   - Young Dragonbone Hoopak
   - Young Dragonbone Yklwa
+attunement: true
+rarity: uncommon
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Dragonbone Weapon (Young)
 *Uncommon (requires attunement)*  

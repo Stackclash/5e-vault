@@ -9,6 +9,11 @@ tags:
 aliases:
   - Musical Fruit
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Musical Fruit
 *Herb, common*  

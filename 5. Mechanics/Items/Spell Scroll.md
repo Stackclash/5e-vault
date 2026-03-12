@@ -8,6 +8,11 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Spell Scroll
+attunement: false
+rarity: varies
+type: wondrous
+subtype:
+  - scroll
 ---
 # Spell Scroll
 *Scroll*  

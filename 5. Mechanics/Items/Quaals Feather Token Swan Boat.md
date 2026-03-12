@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - 'Quaal''s Feather Token, Swan Boat'
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Quaal's Feather Token, Swan Boat
 *Wondrous item, minor, rare*  

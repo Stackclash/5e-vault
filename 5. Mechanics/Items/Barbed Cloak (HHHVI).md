@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Barbed Cloak
+attunement: false
+rarity: uncommon
 ---
 # Barbed Cloak
 *Wondrous item, uncommon*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Devil's Detail Eyepatch
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Devil's Detail Eyepatch
 *Wondrous item, minor, uncommon*  

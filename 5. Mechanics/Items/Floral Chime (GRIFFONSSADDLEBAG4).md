@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Floral Chime
+attunement: false
+rarity: uncommon
 ---
 # Floral Chime
 *Wondrous item, uncommon*  

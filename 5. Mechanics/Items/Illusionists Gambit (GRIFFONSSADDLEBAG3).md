@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Illusionist's Gambit
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Illusionist's Gambit
 *Wondrous item, minor, uncommon*  

@@ -10,6 +10,12 @@ tags:
 aliases:
   - Camper's Respite
 weight: 3
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - rod
 ---
 # Camper's Respite
 *Rod, minor, uncommon*  

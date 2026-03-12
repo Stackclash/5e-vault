@@ -14,6 +14,13 @@ aliases:
   - Fey-Touched Bone Plate Armor
   - Fey-Touched Spiked Armor
   - Fey-Touched Wooden Breastplate
+attunement: false
+rarity: uncommon
+tier: major
+type: armor
+subtype:
+  - heavy
+  - medium
 ---
 # Fey-Touched Armor
 *Major, uncommon*  

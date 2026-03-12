@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Gargoyle Wing Cloak
+attunement: false
+rarity: uncommon
 ---
 # Gargoyle Wing Cloak
 *Wondrous item, uncommon*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Thalamus Thread
+attunement: false
+rarity: rare
+tier: major
 ---
 # Thalamus Thread
 *Wondrous item, major, rare*  

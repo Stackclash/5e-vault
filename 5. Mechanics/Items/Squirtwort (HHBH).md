@@ -9,6 +9,11 @@ tags:
 aliases:
   - Squirtwort
 cost: 500
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Squirtwort
 *Herb, rare*  

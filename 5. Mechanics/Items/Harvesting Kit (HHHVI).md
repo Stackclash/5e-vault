@@ -10,6 +10,11 @@ aliases:
   - Harvesting Kit
 cost: 3000
 weight: 7
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - tool
 ---
 # Harvesting Kit
 *Tool*  

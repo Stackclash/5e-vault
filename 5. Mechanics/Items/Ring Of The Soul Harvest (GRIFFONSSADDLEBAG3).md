@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of the Soul Harvest
+attunement: true
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of the Soul Harvest
 *Ring, major, uncommon (requires attunement)*  

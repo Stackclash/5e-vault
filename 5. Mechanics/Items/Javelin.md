@@ -13,6 +13,12 @@ cost: 50
 one-hand-damage: 1d6 piercing
 range: 30\120
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Javelin
 *Weapon*  

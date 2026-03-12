@@ -10,6 +10,8 @@ aliases:
   - Shield of the Eldritch Maw
 armorClass: 2
 weight: 6
+attunement: false
+rarity: very-rare
 ---
 # Shield of the Eldritch Maw
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), very rare*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Mordenkainen's Mint
 cost: 10000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Mordenkainen's Mint
 *Herb, rare*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Sensory Collar
+attunement: false
+rarity: uncommon
 ---
 # Sensory Collar
 *Wondrous item, uncommon*  

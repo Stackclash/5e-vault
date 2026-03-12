@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Cloche of Surprise Treats
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Cloche of Surprise Treats
 *Wondrous item, major, very rare*  

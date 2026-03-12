@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Jailbreaking
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Jailbreaking
 *Ring, minor, uncommon*  

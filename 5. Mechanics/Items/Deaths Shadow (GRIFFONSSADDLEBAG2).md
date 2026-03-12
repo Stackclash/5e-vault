@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Death's Shadow
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Death's Shadow
 *Wondrous item, major, legendary (requires attunement)*  

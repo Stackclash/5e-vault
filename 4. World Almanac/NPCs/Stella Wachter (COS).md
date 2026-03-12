@@ -9,10 +9,10 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images: []
-relationships: []
 aliases:
   - Stella Wachter
 alignment: Chaotic Good
+relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
 pronounced: null
@@ -31,7 +31,6 @@ likes: null
 dislikes: null
 image: null
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

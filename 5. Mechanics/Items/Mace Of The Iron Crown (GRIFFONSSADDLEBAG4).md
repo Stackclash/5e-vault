@@ -12,6 +12,12 @@ aliases:
   - Mace of the Iron Crown
 one-hand-damage: 1d6 bludgeoning
 weight: 4
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Mace of the Iron Crown
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), very rare (requires attunement)*  

@@ -9,6 +9,9 @@ tags:
 aliases:
   - Driftglobe
 weight: 1
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Driftglobe
 *Wondrous item, minor, uncommon*  

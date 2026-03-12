@@ -28,6 +28,14 @@ aliases:
   - Splint Armor of Psychic Resistance
   - Studded Leather Armor of Psychic Resistance
   - Wooden Breastplate of Psychic Resistance
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Armor of Psychic Resistance
 *Major, rare (requires attunement)*  

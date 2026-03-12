@@ -10,6 +10,11 @@ aliases:
   - Dragonchess Set
 cost: 100
 weight: 0.5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - gaming-set
 ---
 # Dragonchess Set
 *Gaming set*  

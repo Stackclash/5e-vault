@@ -11,6 +11,13 @@ aliases:
   - Armor of the Lost Angel
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+rarity: legendary
+type: armor
+subtype:
+  - heavy
 ---
 # Armor of the Lost Angel
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), cursed item, legendary (requires attunement)*  

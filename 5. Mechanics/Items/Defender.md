@@ -18,6 +18,13 @@ aliases:
   - Defender Rapier
   - Defender Scimitar
   - Defender Shortsword
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Defender
 *Major, legendary (requires attunement)*  

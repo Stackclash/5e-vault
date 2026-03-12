@@ -8,6 +8,11 @@ tags:
   - item/wondrous/tattoo
 aliases:
   - Spellwrought Tattoo (3rd Level)
+attunement: false
+rarity: uncommon
+type: wondrous
+subtype:
+  - tattoo
 ---
 # Spellwrought Tattoo (3rd Level)
 *Wondrous item (tattoo), uncommon*  

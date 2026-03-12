@@ -22,6 +22,13 @@ aliases:
   - Mithral Spiked Armor
   - Mithral Splint Armor
   - Mithral Wooden Breastplate
+attunement: false
+rarity: uncommon
+tier: minor
+type: armor
+subtype:
+  - heavy
+  - medium
 ---
 # Mithral Armor
 *Minor, uncommon*  

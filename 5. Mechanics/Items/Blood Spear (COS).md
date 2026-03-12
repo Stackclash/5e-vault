@@ -14,6 +14,12 @@ one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
 range: 20\60
 weight: 3
+attunement: true
+rarity: uncommon
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Blood Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), uncommon (requires attunement)*  

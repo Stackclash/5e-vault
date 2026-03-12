@@ -9,6 +9,11 @@ tags:
 aliases:
   - Riding Horse
 cost: 7500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - mount
 ---
 # Riding Horse
 *Mount*  

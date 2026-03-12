@@ -12,6 +12,12 @@ aliases:
   - Butcher
 one-hand-damage: 1d8 bludgeoning
 weight: 2
+attunement: true
+rarity: artifact
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Butcher
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), cursed item, artifact (requires attunement)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Titan Cricket Greaves
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Titan Cricket Greaves
 *Wondrous item, minor, uncommon (requires attunement)*  

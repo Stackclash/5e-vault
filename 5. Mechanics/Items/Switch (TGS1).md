@@ -11,6 +11,14 @@ tags:
 aliases:
   - Switch
 weight: 2
+attunement: true
+attunement-requirement:
+  - druid
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Switch
 *Rod, major, very rare (requires attunement by a druid)*  

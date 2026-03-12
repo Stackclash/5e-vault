@@ -9,6 +9,14 @@ tags:
   - item/rarity/rare
 aliases:
   - Bell Branch
+attunement: true
+attunement-requirement:
+  - druid
+  - warlock
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Bell Branch
 *Wondrous item, spellcasting focus, rare (requires attunement by a druid or warlock)*  

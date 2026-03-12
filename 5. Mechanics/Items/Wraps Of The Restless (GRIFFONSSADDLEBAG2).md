@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Wraps of the Restless
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Wraps of the Restless
 *Wondrous item, cursed item, major, very rare (requires attunement)*  

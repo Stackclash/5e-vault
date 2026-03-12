@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Clockwork Syrisquito
+attunement: true
+rarity: rare
+tier: major
 ---
 # Clockwork Syrisquito
 *Wondrous item, major, rare (requires attunement)*  

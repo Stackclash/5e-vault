@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Robe of Stars
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Robe of Stars
 *Wondrous item, major, very rare (requires attunement)*  

@@ -9,6 +9,10 @@ tags:
 aliases:
   - Harp of Dragons
 weight: 6
+attunement: true
+attunement-requirement:
+  - bard
+rarity: rare
 ---
 # Harp of Dragons
 *Wondrous item, rare (requires attunement by a bard)*  

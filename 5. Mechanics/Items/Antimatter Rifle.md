@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 6d8 necrotic
 range: 120\360
 weight: 10
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Antimatter Rifle
 *Weapon*  

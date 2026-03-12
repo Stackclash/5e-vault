@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Mantle of Regency
+attunement: true
+rarity: rare
 ---
 # Mantle of Regency
 *Wondrous item, rare (requires attunement)*  

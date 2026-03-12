@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Tea Weird
+attunement: false
+rarity: common
+tier: minor
 ---
 # Tea Weird
 *Wondrous item, minor, common*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Tome of Advanced Fighting Styles
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Tome of Advanced Fighting Styles
 *Wondrous item, major, very rare*  

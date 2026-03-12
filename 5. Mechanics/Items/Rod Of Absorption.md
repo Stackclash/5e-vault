@@ -11,6 +11,12 @@ tags:
 aliases:
   - Rod of Absorption
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of Absorption
 *Rod, major, very rare (requires attunement)*  

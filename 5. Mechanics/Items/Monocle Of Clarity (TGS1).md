@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Monocle of Clarity
+attunement: false
+rarity: rare
+tier: major
 ---
 # Monocle of Clarity
 *Wondrous item, major, rare*  

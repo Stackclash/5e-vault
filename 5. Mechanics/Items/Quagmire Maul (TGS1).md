@@ -13,6 +13,13 @@ aliases:
   - Quagmire Maul
 one-hand-damage: 2d6 bludgeoning
 weight: 10
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Quagmire Maul
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, very rare (requires attunement)*  

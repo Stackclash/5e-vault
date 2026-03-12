@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Serpent's Cuff
+attunement: false
+rarity: uncommon
 ---
 # Serpent's Cuff
 *Wondrous item, uncommon*  

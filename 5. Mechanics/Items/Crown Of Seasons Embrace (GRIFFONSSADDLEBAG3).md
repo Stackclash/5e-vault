@@ -9,6 +9,13 @@ tags:
   - item/tier/major
 aliases:
   - Crown of Season's Embrace
+attunement: true
+attunement-requirement:
+  - elf
+  - half-elf
+  - fey
+rarity: very-rare
+tier: major
 ---
 # Crown of Season's Embrace
 *Wondrous item, major, very rare (requires attunement by an elf, half-elf, or fey)*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Chimera Kite
+attunement: false
+rarity: rare
 ---
 # Chimera Kite
 *Wondrous item, rare*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Frozen Skull
+attunement: false
+rarity: rare
 ---
 # Frozen Skull
 *Wondrous item, rare*  

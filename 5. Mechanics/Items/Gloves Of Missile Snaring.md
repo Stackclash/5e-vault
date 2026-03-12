@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Gloves of Missile Snaring
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Gloves of Missile Snaring
 *Wondrous item, major, uncommon (requires attunement)*  

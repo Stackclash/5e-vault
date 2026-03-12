@@ -9,6 +9,11 @@ tags:
 aliases:
   - Onyx
 cost: 5000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Onyx
 *Treasure (gemstone)*  

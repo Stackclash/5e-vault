@@ -15,6 +15,15 @@ cost: 200
 one-hand-damage: 1d4 slashing
 range: 20\60
 weight: 1
+attunement: true
+attunement-requirement:
+  - rogue
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Spirit Cleaver
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, legendary (requires attunement by a rogue)*  

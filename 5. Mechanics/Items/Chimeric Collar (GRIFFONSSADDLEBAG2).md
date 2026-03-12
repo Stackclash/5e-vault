@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Chimeric Collar
+attunement: false
+rarity: rare
+tier: major
 ---
 # Chimeric Collar
 *Wondrous item, major, rare*  

@@ -27,6 +27,14 @@ aliases:
   - Cast-Off Splint Armor
   - Cast-Off Studded Leather Armor
   - Cast-Off Wooden Breastplate
+attunement: false
+rarity: common
+tier: minor
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Cast-Off Armor
 *Minor, common*  

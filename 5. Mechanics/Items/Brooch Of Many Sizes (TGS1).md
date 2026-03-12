@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Brooch of Many Sizes
+attunement: false
+rarity: rare
+tier: major
 ---
 # Brooch of Many Sizes
 *Wondrous item, major, rare*  

@@ -10,6 +10,11 @@ aliases:
   - Shawm
 cost: 200
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - instrument
 ---
 # Shawm
 *Instrument*  

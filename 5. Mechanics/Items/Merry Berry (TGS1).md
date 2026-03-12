@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Merry Berry
+attunement: false
+rarity: common
+tier: minor
 ---
 # Merry Berry
 *Wondrous item, minor, common*  

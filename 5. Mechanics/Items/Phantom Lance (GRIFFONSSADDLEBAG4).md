@@ -12,6 +12,12 @@ aliases:
   - Phantom Lance
 one-hand-damage: 1d12 force
 weight: 6
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Phantom Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), very rare (requires attunement)*  

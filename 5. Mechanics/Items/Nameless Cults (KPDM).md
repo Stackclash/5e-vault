@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Nameless Cults
+attunement: true
+rarity: legendary
 ---
 # Nameless Cults
 *Wondrous item, legendary (requires attunement)*  

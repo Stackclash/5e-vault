@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Shadowsmoke Dragon Pipe
+attunement: false
+rarity: rare
+tier: major
 ---
 # Shadowsmoke Dragon Pipe
 *Wondrous item, major, rare*  

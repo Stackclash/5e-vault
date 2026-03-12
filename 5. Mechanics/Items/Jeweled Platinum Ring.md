@@ -9,6 +9,11 @@ tags:
 aliases:
   - Jeweled platinum ring
 cost: 750000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Jeweled platinum ring
 *Treasure (art object)*  

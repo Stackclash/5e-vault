@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Medusan Signet
+attunement: true
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Medusan Signet
 *Ring, minor, uncommon (requires attunement)*  

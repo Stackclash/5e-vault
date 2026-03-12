@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Long-lasting Candle
+attunement: false
+rarity: common
 ---
 # Long-lasting Candle
 *Wondrous item, common*  

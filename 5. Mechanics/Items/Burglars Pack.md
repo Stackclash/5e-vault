@@ -10,6 +10,11 @@ aliases:
   - Burglar's Pack
 cost: 1600
 weight: 44.5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Burglar's Pack
 *Adventuring gear*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Immovable Button
+attunement: false
+rarity: common
+tier: minor
 ---
 # Immovable Button
 *Wondrous item, minor, common*  

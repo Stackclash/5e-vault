@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of Protection
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of Protection
 *Scroll, minor, rare*  

@@ -10,6 +10,11 @@ aliases:
   - Wagon
 cost: 3500
 weight: 400
+attunement: false
+rarity: none
+type: vehicle
+subtype:
+  - land
 ---
 # Wagon
 *Vehicle (land)*  

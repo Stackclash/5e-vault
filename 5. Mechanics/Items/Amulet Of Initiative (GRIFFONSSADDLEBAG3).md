@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Amulet of Initiative
+attunement: true
+rarity: rare
+tier: major
 ---
 # Amulet of Initiative
 *Wondrous item, major, rare (requires attunement)*  

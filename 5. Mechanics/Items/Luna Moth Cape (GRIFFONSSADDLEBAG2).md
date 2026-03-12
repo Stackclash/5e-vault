@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Luna Moth Cape
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Luna Moth Cape
 *Wondrous item, minor, uncommon (requires attunement)*  

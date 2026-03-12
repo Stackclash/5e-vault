@@ -9,6 +9,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Naga's Caduceus of Rebirth
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - rod
 ---
 # Naga's Caduceus of Rebirth
 *Rod, minor, rare*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Potentate's Chess Set
+attunement: true
+rarity: very-rare
 ---
 # Potentate's Chess Set
 *Wondrous item, very rare (requires attunement)*  

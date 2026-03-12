@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Performer's Puppet
+attunement: false
+rarity: common
+tier: minor
 ---
 # Performer's Puppet
 *Wondrous item, minor, common*  

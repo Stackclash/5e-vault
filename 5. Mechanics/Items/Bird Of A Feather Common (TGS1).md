@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bird of a Feather (common)
+attunement: false
+rarity: common
+tier: minor
 ---
 # Bird of a Feather (common)
 *Wondrous item, minor, common*  

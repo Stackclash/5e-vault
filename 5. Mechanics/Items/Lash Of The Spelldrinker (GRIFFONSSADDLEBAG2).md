@@ -13,6 +13,15 @@ aliases:
   - Lash of the Spelldrinker
 one-hand-damage: 1d4 slashing
 weight: 3
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Lash of the Spelldrinker
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement by a spellcaster)*  

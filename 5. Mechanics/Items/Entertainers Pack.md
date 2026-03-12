@@ -10,6 +10,11 @@ aliases:
   - Entertainer's Pack
 cost: 4000
 weight: 38
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Entertainer's Pack
 *Adventuring gear*  

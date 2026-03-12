@@ -11,6 +11,8 @@ aliases:
   - Castle Shield
 armorClass: 2
 weight: 6
+attunement: true
+rarity: very-rare
 ---
 # Castle Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), very rare (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Featherwhumpus
+attunement: false
+rarity: varies
+tier: minor
 ---
 # Featherwhumpus
 *Wondrous item, minor*  

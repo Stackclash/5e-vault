@@ -27,6 +27,14 @@ aliases:
   - Smoldering Splint Armor
   - Smoldering Studded Leather Armor
   - Smoldering Wooden Breastplate
+attunement: false
+rarity: common
+tier: minor
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Smoldering Armor
 *Minor, common*  

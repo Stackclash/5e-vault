@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Robe of Eyes
+attunement: true
+rarity: rare
+tier: major
 ---
 # Robe of Eyes
 *Wondrous item, major, rare (requires attunement)*  

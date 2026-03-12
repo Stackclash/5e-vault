@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Staff of the Black Raven
 *Staff, weapon, major, uncommon (requires attunement)*  

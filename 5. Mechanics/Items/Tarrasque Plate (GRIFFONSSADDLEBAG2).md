@@ -12,6 +12,14 @@ aliases:
   - Tarrasque Plate
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+rarity: legendary
+tier: major
+type: armor
+subtype:
+  - heavy
 ---
 # Tarrasque Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, legendary (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Lucidity Lavender
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Lucidity Lavender
 *Herb, rare*  

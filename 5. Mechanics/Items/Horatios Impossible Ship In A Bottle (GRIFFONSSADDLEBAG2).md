@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Horatio's Impossible Ship in a Bottle
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Horatio's Impossible Ship in a Bottle
 *Wondrous item, minor, rare*  

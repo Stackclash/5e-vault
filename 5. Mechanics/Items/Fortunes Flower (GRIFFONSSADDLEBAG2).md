@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Fortune's Flower
+attunement: false
+rarity: common
+tier: minor
 ---
 # Fortune's Flower
 *Wondrous item, minor, common*  

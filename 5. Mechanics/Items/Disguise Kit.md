@@ -10,6 +10,11 @@ aliases:
   - Disguise Kit
 cost: 2500
 weight: 3
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - tool
 ---
 # Disguise Kit
 *Tool*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Silver Eagle Acolyte Robe
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Silver Eagle Acolyte Robe
 *Wondrous item, major, uncommon (requires attunement)*  

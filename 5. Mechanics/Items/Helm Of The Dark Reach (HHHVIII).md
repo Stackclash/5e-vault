@@ -8,6 +8,10 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Helm of the Dark Reach
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: very-rare
 ---
 # Helm of the Dark Reach
 *Wondrous item, very rare (requires attunement by a spellcaster)*  

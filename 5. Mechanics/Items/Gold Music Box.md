@@ -9,6 +9,11 @@ tags:
 aliases:
   - Gold music box
 cost: 250000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Gold music box
 *Treasure (art object)*  

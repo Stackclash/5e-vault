@@ -16,6 +16,14 @@ aliases:
   - Berserker Battleaxe
   - Berserker Greataxe
   - Berserker Handaxe
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Berserker Axe
 *Cursed item, major, rare (requires attunement)*  

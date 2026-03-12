@@ -9,6 +9,11 @@ tags:
 aliases:
   - Courter's Perfume
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Courter's Perfume
 *Herb, common*  

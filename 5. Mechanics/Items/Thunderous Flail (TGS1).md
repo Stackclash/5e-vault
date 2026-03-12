@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d8 bludgeoning
 range: 20\60
 weight: 2
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Thunderous Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, rare (requires attunement)*  

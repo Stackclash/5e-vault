@@ -10,6 +10,14 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of the Arcane Berserker
+attunement: true
+attunement-requirement:
+  - barbarian
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of the Arcane Berserker
 *Ring, major, rare (requires attunement by a barbarian)*  

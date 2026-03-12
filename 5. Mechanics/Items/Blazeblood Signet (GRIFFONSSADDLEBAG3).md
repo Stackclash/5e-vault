@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Blazeblood Signet
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Blazeblood Signet
 *Ring, cursed item, major, very rare (requires attunement)*  

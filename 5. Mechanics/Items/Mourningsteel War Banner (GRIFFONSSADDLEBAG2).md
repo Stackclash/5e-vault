@@ -10,6 +10,9 @@ tags:
 aliases:
   - Mourningsteel War Banner
 weight: 7
+attunement: true
+rarity: rare
+tier: major
 ---
 # Mourningsteel War Banner
 *Wondrous item, major, rare (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Ruby
 cost: 500000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Ruby
 *Treasure (gemstone)*  

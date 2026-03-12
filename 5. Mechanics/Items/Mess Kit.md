@@ -10,6 +10,11 @@ aliases:
   - Mess Kit
 cost: 20
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Mess Kit
 *Adventuring gear*  

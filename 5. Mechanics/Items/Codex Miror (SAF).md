@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Codex Miror
+attunement: true
+rarity: artifact
 ---
 # Codex Miror
 *Wondrous item, artifact (requires attunement)*  

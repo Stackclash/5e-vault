@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Horn of the Ancients
+attunement: true
+rarity: legendary
 ---
 # Horn of the Ancients
 *Wondrous item, legendary (requires attunement)*  

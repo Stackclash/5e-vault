@@ -15,6 +15,14 @@ aliases:
   - Bow of the Spelldrinker
   - Longbow of the Spelldrinker
   - Shortbow of the Spelldrinker
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Bow of the Spelldrinker
 *Major, very rare (requires attunement)*  

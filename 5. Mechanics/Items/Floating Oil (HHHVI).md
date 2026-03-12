@@ -9,6 +9,11 @@ tags:
 aliases:
   - Floating Oil
 weight: 20
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - oil
 ---
 # Floating Oil
 *Oil, uncommon*  

@@ -14,6 +14,14 @@ aliases:
   - Whirling Weapons
   - Whirling Hooked Shortspear
   - Whirling Yklwa
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Whirling Weapons
 *Major, rare*  

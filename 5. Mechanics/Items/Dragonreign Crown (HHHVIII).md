@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Dragonreign Crown
+attunement: true
+rarity: legendary
 ---
 # Dragonreign Crown
 *Wondrous item, legendary (requires attunement)*  

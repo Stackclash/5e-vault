@@ -9,6 +9,11 @@ tags:
 aliases:
   - Assassin's Blood
 cost: 15000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Assassin's Blood
 *Adventuring gear, poison (ingested)*  

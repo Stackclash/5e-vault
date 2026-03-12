@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Robe of the Altruist
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Robe of the Altruist
 *Wondrous item, major, uncommon (requires attunement)*  

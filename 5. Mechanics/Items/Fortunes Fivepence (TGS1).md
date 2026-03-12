@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Fortune's Fivepence
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Fortune's Fivepence
 *Wondrous item, major, uncommon (requires attunement)*  

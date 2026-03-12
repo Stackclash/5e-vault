@@ -11,6 +11,15 @@ tags:
 aliases:
   - Warmind Wand
 weight: 1
+attunement: true
+attunement-requirement:
+  - half-orc
+  - orc
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Warmind Wand
 *Wand, major, rare (requires attunement by a half-orc or orc)*  

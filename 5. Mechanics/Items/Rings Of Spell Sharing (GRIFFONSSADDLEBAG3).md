@@ -10,6 +10,14 @@ tags:
   - item/wondrous/ring
 aliases:
   - Rings of Spell Sharing
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: legendary
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Rings of Spell Sharing
 *Ring, major, legendary (requires attunement by a spellcaster)*  

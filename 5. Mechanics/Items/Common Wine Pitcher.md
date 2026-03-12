@@ -9,6 +9,11 @@ tags:
 aliases:
   - Common Wine (pitcher)
 cost: 20
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - food-and-drink
 ---
 # Common Wine (pitcher)
 *Food and drink*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Aboleth Amulet
+attunement: true
+rarity: very-rare
 ---
 # Aboleth Amulet
 *Wondrous item, very rare (requires attunement)*  

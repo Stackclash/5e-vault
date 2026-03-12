@@ -10,6 +10,11 @@ aliases:
   - Spellbook
 cost: 5000
 weight: 3
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Spellbook
 *Adventuring gear*  

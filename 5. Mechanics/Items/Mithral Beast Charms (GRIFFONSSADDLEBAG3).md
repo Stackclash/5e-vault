@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Mithral Beast Charms
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Mithral Beast Charms
 *Wondrous item, minor, uncommon*  

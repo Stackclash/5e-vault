@@ -13,6 +13,13 @@ aliases:
   - Rime of the Justicar
 one-hand-damage: 1d10 slashing
 weight: 6
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Rime of the Justicar
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, rare (requires attunement)*  

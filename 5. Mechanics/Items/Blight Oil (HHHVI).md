@@ -8,6 +8,11 @@ tags:
   - item/rarity/common
 aliases:
   - Blight Oil
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - oil
 ---
 # Blight Oil
 *Oil, common*  

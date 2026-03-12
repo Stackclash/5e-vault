@@ -14,6 +14,12 @@ aliases:
   - Hide Armor Doublet of Cosmic Protection
   - Leather Armor Doublet of Cosmic Protection
   - Studded Leather Armor Doublet of Cosmic Protection
+attunement: true
+rarity: very-rare
+type: armor
+subtype:
+  - light
+  - medium
 ---
 # Doublet of Cosmic Protection
 *Cursed item, very rare (requires attunement)*  

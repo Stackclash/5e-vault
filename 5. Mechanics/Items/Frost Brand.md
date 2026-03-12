@@ -18,6 +18,13 @@ aliases:
   - Frost Brand Rapier
   - Frost Brand Scimitar
   - Frost Brand Shortsword
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Frost Brand
 *Major, very rare (requires attunement)*  

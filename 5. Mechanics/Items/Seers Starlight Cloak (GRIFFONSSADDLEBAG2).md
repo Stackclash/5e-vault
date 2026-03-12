@@ -9,6 +9,13 @@ tags:
   - item/tier/minor
 aliases:
   - Seer's Starlight Cloak
+attunement: true
+attunement-requirement:
+  - cleric
+  - druid
+  - wizard
+rarity: uncommon
+tier: minor
 ---
 # Seer's Starlight Cloak
 *Wondrous item, minor, uncommon (requires attunement by a cleric, druid, or wizard)*  

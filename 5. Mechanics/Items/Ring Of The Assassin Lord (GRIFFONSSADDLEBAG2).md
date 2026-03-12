@@ -10,6 +10,14 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of the Assassin Lord
+attunement: true
+attunement-requirement:
+  - rogue
+rarity: legendary
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of the Assassin Lord
 *Ring, major, legendary (requires attunement by a rogue)*  

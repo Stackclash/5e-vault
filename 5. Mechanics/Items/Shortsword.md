@@ -12,6 +12,12 @@ aliases:
 cost: 1000
 one-hand-damage: 1d6 piercing
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Shortsword
 *Weapon*  

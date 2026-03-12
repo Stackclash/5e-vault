@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Helm of the Ulitharid
+attunement: true
+rarity: very-rare
 ---
 # Helm of the Ulitharid
 *Wondrous item, very rare (requires attunement)*  

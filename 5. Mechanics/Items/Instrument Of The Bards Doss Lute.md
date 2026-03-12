@@ -11,6 +11,14 @@ tags:
 aliases:
   - 'Instrument of the Bards, Doss Lute'
 weight: 2
+attunement: true
+attunement-requirement:
+  - bard
+rarity: uncommon
+tier: major
+type: gear
+subtype:
+  - instrument
 ---
 # Instrument of the Bards, Doss Lute
 *Wondrous item, instrument ([[/5. Mechanics/Items/Lute.md\|lute]]), major, uncommon (requires attunement by a bard)*  

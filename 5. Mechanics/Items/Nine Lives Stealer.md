@@ -18,6 +18,13 @@ aliases:
   - Nine Lives Stealer Rapier
   - Nine Lives Stealer Scimitar
   - Nine Lives Stealer Shortsword
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Nine Lives Stealer
 *Major, very rare (requires attunement)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Ghostbow Bracer
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Ghostbow Bracer
 *Wondrous item, major, very rare (requires attunement)*  

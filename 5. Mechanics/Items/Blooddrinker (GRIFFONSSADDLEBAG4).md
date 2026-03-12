@@ -12,6 +12,12 @@ aliases:
   - Blooddrinker
 one-hand-damage: 1d12 slashing
 weight: 7
+attunement: true
+rarity: legendary
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Blooddrinker
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), cursed item, legendary (requires attunement)*  

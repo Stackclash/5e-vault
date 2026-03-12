@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sailor's Omen
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Sailor's Omen
 *Herb, rare*  

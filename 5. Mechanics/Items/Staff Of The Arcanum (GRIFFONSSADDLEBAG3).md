@@ -14,6 +14,15 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Staff of the Arcanum
 *Staff, weapon, major, legendary (requires attunement by a wizard)*  

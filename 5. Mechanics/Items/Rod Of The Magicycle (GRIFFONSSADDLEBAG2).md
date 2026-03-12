@@ -9,6 +9,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of the Magicycle
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of the Magicycle
 *Rod, major, rare*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Archivist's Key
+attunement: false
+rarity: very-rare
+tier: minor
 ---
 # Archivist's Key
 *Wondrous item, minor, very rare*  

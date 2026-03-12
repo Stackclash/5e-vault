@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Masks of the Sacred Beasts (Hawk)
+attunement: true
+rarity: rare
+tier: major
 ---
 # Masks of the Sacred Beasts (Hawk)
 *Wondrous item, major, rare (requires attunement)*  

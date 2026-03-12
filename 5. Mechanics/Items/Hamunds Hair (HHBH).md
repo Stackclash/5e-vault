@@ -9,6 +9,11 @@ tags:
 aliases:
   - Hamund's Hair
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Hamund's Hair
 *Herb, rare*  

@@ -9,6 +9,11 @@ tags:
   - item/tier/minor
 aliases:
   - Hat of Wizardry
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: common
+tier: minor
 ---
 # Hat of Wizardry
 *Wondrous item, minor, common (requires attunement by a wizard)*  

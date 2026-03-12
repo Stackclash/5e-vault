@@ -14,6 +14,13 @@ aliases:
   - Unicorn's Charge Hooked Shortspear
   - Unicorn's Charge Hoopak
   - Unicorn's Charge Yklwa
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Unicorn's Charge
 *Rare*  

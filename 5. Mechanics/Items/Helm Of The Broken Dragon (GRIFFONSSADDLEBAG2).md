@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Helm of the Broken Dragon
+attunement: true
+attunement-requirement:
+  - non-lawful dragonborn
+rarity: very-rare
+tier: major
 ---
 # Helm of the Broken Dragon
 *Wondrous item, cursed item, major, very rare (requires attunement by a non-lawful dragonborn)*  

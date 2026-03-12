@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Bird of a Feather
+attunement: false
+rarity: varies
+tier: minor
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Bird of a Feather
 *Wondrous item, minor*  

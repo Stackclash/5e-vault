@@ -9,6 +9,11 @@ tags:
 aliases:
   - Mirage Melon
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Mirage Melon
 *Herb, common*  

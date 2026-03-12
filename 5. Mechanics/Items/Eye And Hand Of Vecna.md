@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Eye and Hand of Vecna
+attunement: true
+rarity: artifact
 ---
 # Eye and Hand of Vecna
 *Wondrous item, artifact (requires attunement)*  

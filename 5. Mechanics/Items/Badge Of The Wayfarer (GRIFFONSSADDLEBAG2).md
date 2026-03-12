@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Badge of the Wayfarer
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Badge of the Wayfarer
 *Wondrous item, minor, rare*  

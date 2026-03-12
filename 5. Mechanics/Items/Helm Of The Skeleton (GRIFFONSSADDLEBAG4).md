@@ -8,6 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Helm of the Skeleton
+attunement: true
+rarity: uncommon
 ---
 # Helm of the Skeleton
 *Wondrous item, cursed item, uncommon (requires attunement)*  

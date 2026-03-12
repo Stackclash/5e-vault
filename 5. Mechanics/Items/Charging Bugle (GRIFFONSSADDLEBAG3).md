@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Charging Bugle
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Charging Bugle
 *Wondrous item, major, uncommon*  

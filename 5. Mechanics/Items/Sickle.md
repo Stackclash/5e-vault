@@ -12,6 +12,12 @@ aliases:
 cost: 100
 one-hand-damage: 1d4 slashing
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Sickle
 *Weapon*  

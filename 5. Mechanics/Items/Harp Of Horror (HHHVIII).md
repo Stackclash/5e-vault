@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Harp of Horror
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - instrument
 ---
 # Harp of Horror
 *Wondrous item, instrument, rare*  

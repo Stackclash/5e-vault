@@ -10,6 +10,9 @@ tags:
 aliases:
   - Crystal Ball (Legendary Version)
 weight: 3
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Crystal Ball (Legendary Version)
 *Wondrous item, major, legendary (requires attunement)*  

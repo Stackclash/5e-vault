@@ -13,6 +13,13 @@ aliases:
   - Cymrith
 one-hand-damage: 1d8 piercing
 weight: 2
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Cymrith
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement)*  

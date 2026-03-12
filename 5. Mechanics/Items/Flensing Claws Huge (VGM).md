@@ -9,6 +9,11 @@ tags:
 aliases:
   - Flensing Claws (Huge)
 one-hand-damage: 2d8 slashing
+attunement: false
+rarity: unknown
+type: wondrous
+subtype:
+  - other
 ---
 # Flensing Claws (Huge)
 

@@ -10,6 +10,13 @@ tags:
 aliases:
   - +2 Arcane Grimoire
 weight: 3
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # +2 Arcane Grimoire
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  

@@ -14,6 +14,13 @@ aliases:
   - Festerwood Masher
   - Festerwood Maul
   - Festerwood Warhammer
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Festerwood Masher
 *Major, very rare (requires attunement)*  

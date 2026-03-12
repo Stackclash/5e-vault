@@ -9,6 +9,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of the Scarecrow
+attunement: false
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of the Scarecrow
 *Rod, major, uncommon*  

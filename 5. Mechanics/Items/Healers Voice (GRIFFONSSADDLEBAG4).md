@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Healer's Voice
+attunement: false
+rarity: rare
 ---
 # Healer's Voice
 *Wondrous item, rare*  

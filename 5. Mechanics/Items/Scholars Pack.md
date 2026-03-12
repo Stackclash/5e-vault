@@ -10,6 +10,11 @@ aliases:
   - Scholar's Pack
 cost: 4000
 weight: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Scholar's Pack
 *Adventuring gear*  

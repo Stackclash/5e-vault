@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Spirit-Shaking Salt
+attunement: false
+rarity: uncommon
 ---
 # Spirit-Shaking Salt
 *Wondrous item, uncommon*  

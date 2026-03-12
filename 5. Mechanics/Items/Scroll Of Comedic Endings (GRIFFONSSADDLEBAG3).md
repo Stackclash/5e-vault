@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of Comedic Endings
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of Comedic Endings
 *Scroll, minor, rare*  

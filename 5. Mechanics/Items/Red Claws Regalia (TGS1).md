@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Red Claw's Regalia
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Red Claw's Regalia
 *Wondrous item, major, legendary (requires attunement)*  

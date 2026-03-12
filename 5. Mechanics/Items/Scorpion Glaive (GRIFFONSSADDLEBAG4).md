@@ -11,6 +11,12 @@ aliases:
   - Scorpion Glaive
 one-hand-damage: 1d10 slashing
 weight: 6
+attunement: false
+rarity: uncommon
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Scorpion Glaive
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), uncommon*  

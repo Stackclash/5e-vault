@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Amulet of the Wagoneer
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Amulet of the Wagoneer
 *Wondrous item, minor, uncommon*  

@@ -9,6 +9,8 @@ tags:
 aliases:
   - Orb of Dragonkind
 weight: 3
+attunement: true
+rarity: artifact
 ---
 # Orb of Dragonkind
 *Wondrous item, artifact (requires attunement)*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Talisman of Annihilation
+attunement: false
+rarity: legendary
 ---
 # Talisman of Annihilation
 *Wondrous item, legendary*  

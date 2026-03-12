@@ -9,6 +9,9 @@ tags:
 aliases:
   - Fragment of Elder Starlight
 weight: 3
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Fragment of Elder Starlight
 *Wondrous item, major, very rare*  

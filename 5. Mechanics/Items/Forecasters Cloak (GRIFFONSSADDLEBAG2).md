@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Forecaster's Cloak
+attunement: false
+rarity: common
+tier: minor
 ---
 # Forecaster's Cloak
 *Wondrous item, minor, common*  

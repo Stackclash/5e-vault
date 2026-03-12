@@ -12,6 +12,9 @@ aliases:
   - Arrow-Catching Shield
 armorClass: 2
 weight: 6
+attunement: true
+rarity: rare
+tier: major
 ---
 # Arrow-Catching Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  

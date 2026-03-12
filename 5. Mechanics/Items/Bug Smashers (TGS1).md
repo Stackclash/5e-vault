@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Bug Smashers
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Bug Smashers
 *Wondrous item, major, uncommon*  

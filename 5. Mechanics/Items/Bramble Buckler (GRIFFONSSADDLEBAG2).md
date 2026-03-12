@@ -12,6 +12,12 @@ aliases:
   - Bramble Buckler
 armorClass: 2
 weight: 6
+attunement: true
+attunement-requirement:
+  - druid
+  - ranger
+rarity: uncommon
+tier: major
 ---
 # Bramble Buckler
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement by a druid or ranger)*  

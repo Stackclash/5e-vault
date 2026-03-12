@@ -12,6 +12,13 @@ aliases:
   - Whalefall Armor
 armorClass: 15 + Dex modifier (max of +2)
 weight: 40
+stealth-penalty: true
+attunement: true
+rarity: very-rare
+tier: major
+type: armor
+subtype:
+  - medium
 ---
 # Whalefall Armor
 *Medium armor ([[/5. Mechanics/Items/Half Plate Armor.md\|half plate armor]]), major, very rare (requires attunement)*  

@@ -10,6 +10,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of the Dragon Queen
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of the Dragon Queen
 *Wand, major, rare (requires attunement)*  

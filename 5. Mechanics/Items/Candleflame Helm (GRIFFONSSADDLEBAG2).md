@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Candleflame Helm
+attunement: false
+rarity: common
+tier: minor
 ---
 # Candleflame Helm
 *Wondrous item, minor, common*  

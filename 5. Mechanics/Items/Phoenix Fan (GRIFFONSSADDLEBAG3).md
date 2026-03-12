@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Phoenix Fan
+attunement: false
+rarity: rare
+tier: major
 ---
 # Phoenix Fan
 *Wondrous item, major, rare*  

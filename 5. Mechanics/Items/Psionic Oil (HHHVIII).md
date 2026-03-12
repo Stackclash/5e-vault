@@ -8,6 +8,11 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Psionic Oil
+attunement: false
+rarity: very-rare
+type: gear
+subtype:
+  - oil
 ---
 # Psionic Oil
 *Oil, very rare*  

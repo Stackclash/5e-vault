@@ -8,6 +8,11 @@ tags:
   - item/wondrous/wand
 aliases:
   - Lesser Eye Stalk Wand
+attunement: false
+rarity: uncommon
+type: wondrous
+subtype:
+  - wand
 ---
 # Lesser Eye Stalk Wand
 *Wand, uncommon*  

@@ -13,6 +13,16 @@ aliases:
   - Spirit Sheath
 one-hand-damage: 1d6 slashing
 weight: 3
+attunement: true
+attunement-requirement:
+  - creature with a wisdom score of 13
+  - higher
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Spirit Sheath
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare (requires attunement by a creature with a Wisdom score of 13 or higher)*  

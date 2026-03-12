@@ -9,6 +9,11 @@ tags:
 aliases:
   - Glacier Branch
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Glacier Branch
 *Herb, rare*  

@@ -8,6 +8,11 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Curse of Never-Ending Fear
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - curse
 ---
 # Curse of Never-Ending Fear
 *Wondrous item, curse, cursed item, uncommon*  

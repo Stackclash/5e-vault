@@ -13,6 +13,13 @@ aliases:
   - Knight's Standard of Valor
 one-hand-damage: 1d10 slashing
 weight: 6
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Knight's Standard of Valor
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), major, rare (requires attunement)*  

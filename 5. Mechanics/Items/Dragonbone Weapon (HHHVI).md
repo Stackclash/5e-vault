@@ -8,6 +8,8 @@ tags:
   - item/rarity/varies
 aliases:
   - Dragonbone Weapon
+attunement: true
+rarity: varies
 ---
 # Dragonbone Weapon
 *(Requires attunement)*  

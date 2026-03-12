@@ -12,6 +12,12 @@ aliases:
   - Eldritch Halberd
 one-hand-damage: 1d10 slashing
 weight: 6
+attunement: true
+rarity: uncommon
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Eldritch Halberd
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), cursed item, uncommon (requires attunement)*  

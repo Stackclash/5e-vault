@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Hunter's Cup
+attunement: false
+rarity: rare
 ---
 # Hunter's Cup
 *Wondrous item, rare*  

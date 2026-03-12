@@ -9,6 +9,11 @@ tags:
 aliases:
   - Flensing Claws (Large)
 one-hand-damage: 1d12 slashing
+attunement: false
+rarity: unknown
+type: wondrous
+subtype:
+  - other
 ---
 # Flensing Claws (Large)
 

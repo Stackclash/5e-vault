@@ -9,6 +9,11 @@ tags:
 aliases:
   - Kraken Kelp
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Kraken Kelp
 *Herb, rare*  

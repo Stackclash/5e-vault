@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Elixir of Protection
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Elixir of Protection
 *Potion, minor, uncommon*  

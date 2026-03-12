@@ -10,6 +10,11 @@ aliases:
   - Diplomat's Pack
 cost: 3900
 weight: 36
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Diplomat's Pack
 *Adventuring gear*  

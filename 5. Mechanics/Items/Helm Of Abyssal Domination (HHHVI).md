@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Helm of Abyssal Domination
+attunement: true
+rarity: legendary
 ---
 # Helm of Abyssal Domination
 *Wondrous item, legendary (requires attunement)*  

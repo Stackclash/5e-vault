@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Stamp of Shipping
+attunement: false
+rarity: common
 ---
 # Stamp of Shipping
 *Wondrous item, common*  

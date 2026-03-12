@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Cloak of Displacement
+attunement: true
+rarity: rare
+tier: major
 ---
 # Cloak of Displacement
 *Wondrous item, major, rare (requires attunement)*  

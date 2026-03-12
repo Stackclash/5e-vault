@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Deception Skull
+attunement: false
+rarity: uncommon
 ---
 # Deception Skull
 *Wondrous item, uncommon*  

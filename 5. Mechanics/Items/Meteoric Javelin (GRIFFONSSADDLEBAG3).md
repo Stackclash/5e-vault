@@ -13,6 +13,13 @@ aliases:
 one-hand-damage: 1d6 piercing
 range: 30\120
 weight: 2
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Meteoric Javelin
 *Weapon ([[/5. Mechanics/Items/Javelin.md\|javelin]]), major, rare*  

@@ -26,6 +26,13 @@ aliases:
   - Drow +3 Splint Armor
   - Drow +3 Studded Leather Armor
   - Drow +3 Wooden Breastplate
+attunement: false
+rarity: unknown\Magic
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Drow +3 Armor
 

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Lunar Compass
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Lunar Compass
 *Wondrous item, minor, rare*  

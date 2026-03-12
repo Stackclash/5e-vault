@@ -9,6 +9,9 @@ tags:
 aliases:
   - Necklace of Fireballs
 weight: 1
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Necklace of Fireballs
 *Wondrous item, minor, rare*  

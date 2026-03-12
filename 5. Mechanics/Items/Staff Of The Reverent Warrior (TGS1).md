@@ -13,6 +13,14 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Staff of the Reverent Warrior
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a spellcaster)*  

@@ -13,6 +13,13 @@ aliases:
   - Red Queen's Burden
 one-hand-damage: 1d10 slashing
 weight: 6
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Red Queen's Burden
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, legendary (requires attunement)*  

@@ -17,6 +17,14 @@ aliases:
   - Couatl Herald's Fang Double-Bladed Scimitar
   - Couatl Herald's Fang Rapier
   - Couatl Herald's Fang Shortsword
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Couatl Herald's Fang
 *Major, rare (requires attunement)*  

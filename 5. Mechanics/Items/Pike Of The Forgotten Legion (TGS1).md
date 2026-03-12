@@ -13,6 +13,13 @@ aliases:
   - Pike of the Forgotten Legion
 one-hand-damage: 1d10 piercing
 weight: 18
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Pike of the Forgotten Legion
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, legendary (requires attunement)*  

@@ -8,6 +8,11 @@ tags:
   - item/rarity/none
 aliases:
   - Gaming Set
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - gaming-set
 ---
 # Gaming Set
 *Gaming set*  

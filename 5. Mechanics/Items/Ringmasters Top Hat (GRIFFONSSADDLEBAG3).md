@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Ringmaster's Top Hat
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Ringmaster's Top Hat
 *Wondrous item, major, uncommon (requires attunement)*  

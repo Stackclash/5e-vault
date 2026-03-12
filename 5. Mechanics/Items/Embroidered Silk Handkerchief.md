@@ -9,6 +9,11 @@ tags:
 aliases:
   - Embroidered silk handkerchief
 cost: 2500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Embroidered silk handkerchief
 *Treasure (art object)*  

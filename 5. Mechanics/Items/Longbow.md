@@ -13,6 +13,12 @@ cost: 5000
 one-hand-damage: 1d8 piercing
 range: 150\600
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Longbow
 *Weapon*  

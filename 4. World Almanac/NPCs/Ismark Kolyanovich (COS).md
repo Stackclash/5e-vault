@@ -10,10 +10,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\ismark-kolyanovich.webp
-relationships: []
 aliases:
   - Ismark Kolyanovich
 alignment: Lawful Good
+relationships: []
 partyRelationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
@@ -33,7 +33,6 @@ goals: 'To secure a safe place for Ireena, away from Strahd’s reach'
 likes: 'Quiet moments of peace, strong leadership, loyalty'
 dislikes: 'Threats to his family, Strahd''s minions, chaos'
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

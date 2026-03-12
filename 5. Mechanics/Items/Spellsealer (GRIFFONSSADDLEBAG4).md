@@ -12,6 +12,12 @@ aliases:
   - Spellsealer
 one-hand-damage: 1d8 piercing
 weight: 2
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Spellsealer
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), very rare (requires attunement)*  

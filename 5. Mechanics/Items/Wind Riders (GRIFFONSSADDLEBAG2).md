@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Wind Riders
+attunement: false
+rarity: rare
+tier: major
 ---
 # Wind Riders
 *Wondrous item, major, rare*  

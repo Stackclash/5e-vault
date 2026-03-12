@@ -10,6 +10,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Reverberation
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of Reverberation
 *Rod, major, rare (requires attunement)*  

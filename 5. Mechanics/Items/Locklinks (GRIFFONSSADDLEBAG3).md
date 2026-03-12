@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Locklinks
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Locklinks
 *Wondrous item, minor, uncommon*  

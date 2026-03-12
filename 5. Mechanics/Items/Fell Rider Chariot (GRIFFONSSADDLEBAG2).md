@@ -10,6 +10,12 @@ tags:
 aliases:
   - Fell-Rider Chariot
 weight: 300
+attunement: false
+rarity: legendary
+tier: major
+type: vehicle
+subtype:
+  - land
 ---
 # Fell-Rider Chariot
 *Wondrous item, vehicle (land), major, legendary*  

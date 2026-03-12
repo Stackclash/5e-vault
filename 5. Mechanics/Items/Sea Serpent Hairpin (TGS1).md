@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Sea Serpent Hairpin
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Sea Serpent Hairpin
 *Wondrous item, major, uncommon*  

@@ -11,6 +11,11 @@ aliases:
 cost: 1000
 armorClass: 12 + Dex modifier (max of +2)
 weight: 12
+attunement: false
+rarity: none
+type: armor
+subtype:
+  - medium
 ---
 # Hide Armor
 *Medium armor*  

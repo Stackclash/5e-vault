@@ -10,10 +10,10 @@ tags:
 condition: dead
 images:
   - 4. World Almanac\NPCs\img\rahadin.webp
-relationships: []
 aliases:
   - Rahadin
 alignment: Lawful Evil
+relationships: []
 partyRelationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]'
@@ -36,7 +36,6 @@ goals: null
 likes: null
 dislikes: null
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Chalcedony
 cost: 5000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Chalcedony
 *Treasure (gemstone)*  

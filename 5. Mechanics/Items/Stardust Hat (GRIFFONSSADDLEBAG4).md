@@ -8,6 +8,12 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Stardust Hat
+attunement: true
+attunement-requirement:
+  - druid
+  - warlock
+  - wizard
+rarity: uncommon
 ---
 # Stardust Hat
 *Wondrous item, uncommon (requires attunement by a druid, warlock, or wizard)*  

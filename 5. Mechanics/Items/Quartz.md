@@ -9,6 +9,11 @@ tags:
 aliases:
   - Quartz
 cost: 5000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Quartz
 *Treasure (gemstone)*  

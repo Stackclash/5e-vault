@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Celestial Helm
+attunement: true
+rarity: legendary
 ---
 # Celestial Helm
 *Wondrous item, legendary (requires attunement)*  

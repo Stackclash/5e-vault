@@ -12,6 +12,15 @@ aliases:
   - Wooden Chain of the Unbroken Circle
 armorClass: 13 + Dex modifier (max of +2)
 weight: 20
+attunement: true
+attunement-requirement:
+  - druid
+  - ranger
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - medium
 ---
 # Wooden Chain of the Unbroken Circle
 *Medium armor ([[/5. Mechanics/Items/Chain Shirt.md\|chain shirt]]), major, rare (requires attunement by a druid or ranger)*  

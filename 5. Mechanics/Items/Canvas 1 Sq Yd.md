@@ -9,6 +9,11 @@ tags:
 aliases:
   - Canvas (1 sq. yd.)
 cost: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Canvas (1 sq. yd.)
 *Trade good*  

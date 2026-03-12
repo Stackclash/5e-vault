@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Basco's Handy Bangle
+attunement: false
+rarity: rare
+tier: major
 ---
 # Basco's Handy Bangle
 *Wondrous item, major, rare*  

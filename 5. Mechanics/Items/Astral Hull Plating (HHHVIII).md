@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Astral Hull Plating
+attunement: false
+rarity: very-rare
 ---
 # Astral Hull Plating
 *Wondrous item, very rare*  

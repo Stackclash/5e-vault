@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Tectonic Gauntlets
+attunement: true
+rarity: artifact
+tier: major
 ---
 # Tectonic Gauntlets
 *Wondrous item, cursed item, major, artifact (requires attunement)*  

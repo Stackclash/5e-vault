@@ -13,6 +13,15 @@ aliases:
   - Gladius of the Everfighter
 one-hand-damage: 1d6 piercing
 weight: 2
+attunement: true
+attunement-requirement:
+  - fighter
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Gladius of the Everfighter
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, legendary (requires attunement by a fighter)*  

@@ -14,6 +14,13 @@ aliases:
   - Godsteel Worldcarver
   - Godsteel Worldcarver Greatsword
   - Godsteel Worldcarver Longsword
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Godsteel Worldcarver
 *Major, legendary (requires attunement)*  

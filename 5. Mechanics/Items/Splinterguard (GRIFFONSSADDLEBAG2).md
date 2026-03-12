@@ -12,6 +12,17 @@ aliases:
   - Splinterguard
 armorClass: 17
 weight: 60
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+attunement-requirement:
+  - druid
+  - ranger
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
 ---
 # Splinterguard
 *Heavy armor ([[/5. Mechanics/Items/Splint Armor.md\|splint armor]]), major, rare (requires attunement by a druid or ranger)*  

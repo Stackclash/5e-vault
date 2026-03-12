@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Tormentor's Cap
+attunement: false
+rarity: uncommon
 ---
 # Tormentor's Cap
 *Wondrous item, uncommon*  

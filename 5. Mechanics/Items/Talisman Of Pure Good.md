@@ -10,6 +10,11 @@ tags:
 aliases:
   - Talisman of Pure Good
 weight: 1
+attunement: true
+attunement-requirement:
+  - creature of good alignment
+rarity: legendary
+tier: major
 ---
 # Talisman of Pure Good
 *Wondrous item, major, legendary (requires attunement by a creature of good alignment)*  

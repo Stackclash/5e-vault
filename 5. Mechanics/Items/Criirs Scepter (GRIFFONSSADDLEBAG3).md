@@ -10,6 +10,14 @@ tags:
   - item/wondrous/rod
 aliases:
   - Criir's Scepter
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: artifact
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Criir's Scepter
 *Rod, major, artifact (requires attunement by a spellcaster)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Detective's Monocle
+attunement: true
+rarity: rare
+tier: minor
 ---
 # Detective's Monocle
 *Wondrous item, minor, rare (requires attunement)*  

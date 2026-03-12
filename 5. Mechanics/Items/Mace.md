@@ -12,6 +12,12 @@ aliases:
 cost: 500
 one-hand-damage: 1d6 bludgeoning
 weight: 4
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Mace
 *Weapon*  

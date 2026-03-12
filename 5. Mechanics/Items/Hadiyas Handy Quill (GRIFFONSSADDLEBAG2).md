@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d4 piercing
 range: 20\60
 weight: 0.25
+attunement: true
+rarity: uncommon
+tier: minor
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Hadiya's Handy Quill
 *Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), minor, uncommon (requires attunement)*  

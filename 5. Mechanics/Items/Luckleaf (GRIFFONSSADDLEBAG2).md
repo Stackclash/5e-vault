@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Luckleaf
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Luckleaf
 *Wondrous item, minor, uncommon*  

@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Mindmaster's Monocle
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: very-rare
+tier: major
 ---
 # Mindmaster's Monocle
 *Wondrous item, major, very rare (requires attunement by a wizard)*  

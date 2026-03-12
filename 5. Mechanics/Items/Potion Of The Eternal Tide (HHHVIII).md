@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of the Eternal Tide
+attunement: false
+rarity: legendary
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of the Eternal Tide
 *Potion, legendary*  

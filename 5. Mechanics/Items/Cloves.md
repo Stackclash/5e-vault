@@ -10,6 +10,11 @@ aliases:
   - Cloves
 cost: 300
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Cloves
 *Trade good*  

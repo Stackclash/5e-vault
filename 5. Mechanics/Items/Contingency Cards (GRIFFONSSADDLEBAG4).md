@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Contingency Cards
+attunement: false
+rarity: very-rare
 ---
 # Contingency Cards
 *Wondrous item, very rare*  

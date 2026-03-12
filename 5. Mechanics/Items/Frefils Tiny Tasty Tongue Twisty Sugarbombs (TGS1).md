@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Frefil's Tiny Tasty Tongue Twisty Sugarbombs
+attunement: false
+rarity: very-rare
+tier: minor
 ---
 # Frefil's Tiny Tasty Tongue Twisty Sugarbombs
 *Wondrous item, minor, very rare*  

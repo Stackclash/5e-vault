@@ -9,6 +9,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Steam
+attunement: false
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Steam
 *Wand, major, uncommon*  

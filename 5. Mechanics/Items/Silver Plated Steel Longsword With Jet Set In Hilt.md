@@ -9,6 +9,11 @@ tags:
 aliases:
   - Silver-plated steel longsword with jet set in hilt
 cost: 75000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Silver-plated steel longsword with jet set in hilt
 *Treasure (art object)*  

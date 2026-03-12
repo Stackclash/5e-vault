@@ -9,6 +9,9 @@ tags:
 aliases:
   - Bowl of Commanding Water Elementals
 weight: 3
+attunement: false
+rarity: rare
+tier: major
 ---
 # Bowl of Commanding Water Elementals
 *Wondrous item, major, rare*  

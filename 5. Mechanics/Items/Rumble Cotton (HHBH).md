@@ -9,6 +9,11 @@ tags:
 aliases:
   - Rumble Cotton
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Rumble Cotton
 *Herb, rare*  

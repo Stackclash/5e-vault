@@ -9,6 +9,11 @@ tags:
 aliases:
   - Nightflame Seed
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Nightflame Seed
 *Herb, rare*  

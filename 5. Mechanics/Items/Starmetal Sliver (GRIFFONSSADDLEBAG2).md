@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d4 piercing
 range: 20\60
 weight: 1
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Starmetal Sliver
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  

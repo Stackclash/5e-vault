@@ -10,6 +10,11 @@ aliases:
   - Tinker's Tools
 cost: 5000
 weight: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Tinker's Tools
 *Artisan's tools*  

@@ -11,6 +11,14 @@ tags:
 aliases:
   - Wand of Binding
 weight: 1
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Binding
 *Wand, major, rare (requires attunement by a spellcaster)*  

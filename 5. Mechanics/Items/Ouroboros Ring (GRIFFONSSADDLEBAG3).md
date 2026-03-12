@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ouroboros Ring
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Ouroboros Ring
 *Ring, minor, rare*  

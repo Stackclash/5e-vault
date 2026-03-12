@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Everice Box
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Everice Box
 *Wondrous item, minor, uncommon*  

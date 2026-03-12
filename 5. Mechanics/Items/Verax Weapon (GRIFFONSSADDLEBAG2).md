@@ -16,6 +16,14 @@ aliases:
   - Verax Hooked Shortspear
   - Verax Hoopak
   - Verax Yklwa
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Verax Weapon
 *Major, rare*  

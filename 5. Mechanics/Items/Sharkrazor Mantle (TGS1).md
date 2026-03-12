@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Sharkrazor Mantle
+attunement: true
+rarity: rare
+tier: major
 ---
 # Sharkrazor Mantle
 *Wondrous item, major, rare (requires attunement)*  

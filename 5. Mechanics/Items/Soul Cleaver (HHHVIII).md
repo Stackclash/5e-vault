@@ -12,6 +12,12 @@ aliases:
   - Soul Cleaver
 one-hand-damage: 1d12 slashing
 weight: 7
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Soul Cleaver
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), very rare (requires attunement)*  

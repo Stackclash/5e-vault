@@ -10,6 +10,11 @@ aliases:
   - Acrobat's Plate
 armorClass: 18
 weight: 65
+attunement: false
+rarity: rare
+type: armor
+subtype:
+  - heavy
 ---
 # Acrobat's Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), rare*  

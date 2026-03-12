@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - No-Stones
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # No-Stones
 *Wondrous item, minor, uncommon*  

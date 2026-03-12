@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Staff of Multiplied Recovery
 *Staff, weapon, very rare (requires attunement)*  

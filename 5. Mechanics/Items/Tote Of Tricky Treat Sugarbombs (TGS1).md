@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Tote of Tricky Treat Sugarbombs
+attunement: false
+rarity: common
+tier: minor
 ---
 # Tote of Tricky Treat Sugarbombs
 *Wondrous item, minor, common*  

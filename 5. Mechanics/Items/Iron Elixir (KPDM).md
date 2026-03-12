@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Iron Elixir
+attunement: false
+rarity: legendary
+type: wondrous
+subtype:
+  - potion
 ---
 # Iron Elixir
 *Potion, legendary*  

@@ -14,6 +14,15 @@ aliases:
 one-hand-damage: 1d4 bludgeoning
 range: 20\60
 weight: 2
+attunement: true
+attunement-requirement:
+  - lawful creature
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Polaris Magistrate Gavel
 *Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, rare (requires attunement by a lawful creature)*  

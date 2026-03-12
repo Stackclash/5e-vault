@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Codex Dryadalis
+attunement: true
+rarity: artifact
 ---
 # Codex Dryadalis
 *Wondrous item, artifact (requires attunement)*  

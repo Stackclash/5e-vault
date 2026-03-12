@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Artisan's Signet
+attunement: true
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Artisan's Signet
 *Ring, minor, uncommon (requires attunement)*  

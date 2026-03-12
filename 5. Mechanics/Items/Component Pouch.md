@@ -10,6 +10,11 @@ aliases:
   - Component Pouch
 cost: 2500
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Component Pouch
 *Adventuring gear*  

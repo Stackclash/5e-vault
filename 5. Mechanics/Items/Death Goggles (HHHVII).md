@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Death Goggles
+attunement: false
+rarity: rare
 ---
 # Death Goggles
 *Wondrous item, rare*  

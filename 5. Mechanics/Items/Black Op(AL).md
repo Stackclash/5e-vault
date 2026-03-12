@@ -9,6 +9,11 @@ tags:
 aliases:
   - Black Opal
 cost: 100000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Black Opal
 *Treasure (gemstone)*  

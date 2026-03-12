@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Necromancer's Lantern
+attunement: true
+attunement-requirement:
+  - warlock
+  - wizard
+rarity: rare
 ---
 # Necromancer's Lantern
 *Wondrous item, rare (requires attunement by a warlock or wizard)*  

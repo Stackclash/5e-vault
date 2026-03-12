@@ -9,6 +9,11 @@ tags:
 aliases:
   - Deathbomb Arrow
 weight: 0.05
+attunement: false
+rarity: very-rare
+type: gear
+subtype:
+  - ammunition
 ---
 # Deathbomb Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), very rare*  

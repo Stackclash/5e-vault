@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Snow Rider's Sleigh
+attunement: false
+rarity: common
+tier: minor
 ---
 # Snow Rider's Sleigh
 *Wondrous item, minor, common*  

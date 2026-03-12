@@ -10,6 +10,12 @@ tags:
 aliases:
   - Everfrost Root
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
+  - spellcasting-focus
 ---
 # Everfrost Root
 *Herb, spellcasting focus, rare*  

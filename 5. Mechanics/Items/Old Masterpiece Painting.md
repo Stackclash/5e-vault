@@ -9,6 +9,11 @@ tags:
 aliases:
   - Old masterpiece painting
 cost: 250000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Old masterpiece painting
 *Treasure (art object)*  

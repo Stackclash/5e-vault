@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Boots of False Tracks
+attunement: false
+rarity: common
+tier: minor
 ---
 # Boots of False Tracks
 *Wondrous item, minor, common*  

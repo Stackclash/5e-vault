@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Robe of the Sunless
+attunement: true
+rarity: rare
+tier: major
 ---
 # Robe of the Sunless
 *Wondrous item, major, rare (requires attunement)*  

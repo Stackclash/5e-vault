@@ -9,6 +9,9 @@ tags:
 aliases:
   - Orb of Time
 weight: 3
+attunement: false
+rarity: common
+tier: minor
 ---
 # Orb of Time
 *Wondrous item, minor, common*  

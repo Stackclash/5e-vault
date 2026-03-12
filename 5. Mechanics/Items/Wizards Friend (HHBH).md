@@ -9,6 +9,11 @@ tags:
 aliases:
   - Wizard's Friend
 cost: 10000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Wizard's Friend
 *Herb, rare*  

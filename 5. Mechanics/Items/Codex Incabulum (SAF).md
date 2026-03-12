@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Codex Incabulum
+attunement: true
+rarity: artifact
 ---
 # Codex Incabulum
 *Wondrous item, artifact (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bead of Nourishment
+attunement: false
+rarity: common
+tier: minor
 ---
 # Bead of Nourishment
 *Wondrous item, minor, common*  

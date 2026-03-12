@@ -13,6 +13,13 @@ aliases:
   - Sickle of Cunning
 one-hand-damage: 1d4 slashing
 weight: 2
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Sickle of Cunning
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, rare (requires attunement)*  

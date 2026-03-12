@@ -13,6 +13,13 @@ aliases:
   - Dream Saber
 one-hand-damage: 1d6 slashing
 weight: 3
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Dream Saber
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, rare (requires attunement)*  

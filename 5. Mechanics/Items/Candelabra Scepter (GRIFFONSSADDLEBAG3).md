@@ -10,6 +10,14 @@ tags:
   - item/wondrous/rod
 aliases:
   - Candelabra Scepter
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: legendary
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Candelabra Scepter
 *Rod, major, legendary (requires attunement by a spellcaster)*  

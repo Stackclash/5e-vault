@@ -13,6 +13,14 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: artifact
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Staff of the Demon Prince
 *Staff, weapon, cursed item, artifact (requires attunement by a spellcaster)*  

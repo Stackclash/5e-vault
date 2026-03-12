@@ -8,6 +8,11 @@ tags:
   - item/weapon/explosive
 aliases:
   - Demon Bomb
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - explosive
 ---
 # Demon Bomb
 *Wondrous item, explosive, rare*  

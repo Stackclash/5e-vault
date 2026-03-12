@@ -9,6 +9,11 @@ tags:
 aliases:
   - Purple Worm Bulb
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Purple Worm Bulb
 *Herb, rare*  

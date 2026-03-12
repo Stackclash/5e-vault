@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Orostead Iced Tea (Common)
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Orostead Iced Tea (Common)
 *Potion, minor, common*  

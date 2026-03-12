@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Silken Socks of Slickening
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Silken Socks of Slickening
 *Wondrous item, major, uncommon*  

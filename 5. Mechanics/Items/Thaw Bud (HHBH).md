@@ -9,6 +9,11 @@ tags:
 aliases:
   - Thaw Bud
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Thaw Bud
 *Herb, common*  

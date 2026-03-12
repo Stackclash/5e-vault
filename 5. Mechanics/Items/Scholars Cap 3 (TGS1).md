@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Scholar's Cap +3
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Scholar's Cap +3
 *Wondrous item, major, very rare (requires attunement)*  

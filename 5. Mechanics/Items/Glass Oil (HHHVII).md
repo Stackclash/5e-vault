@@ -8,6 +8,11 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Glass Oil
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - oil
 ---
 # Glass Oil
 *Oil, uncommon*  

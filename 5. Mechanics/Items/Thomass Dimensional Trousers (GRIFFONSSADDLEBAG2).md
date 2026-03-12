@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Thomas's Dimensional Trousers
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Thomas's Dimensional Trousers
 *Wondrous item, minor, uncommon*  

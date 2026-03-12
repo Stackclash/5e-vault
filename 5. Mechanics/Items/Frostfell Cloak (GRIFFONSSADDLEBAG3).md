@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Frostfell Cloak
+attunement: true
+rarity: rare
+tier: major
 ---
 # Frostfell Cloak
 *Wondrous item, major, rare (requires attunement)*  

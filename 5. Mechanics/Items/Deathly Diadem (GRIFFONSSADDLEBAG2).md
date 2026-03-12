@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Deathly Diadem
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Deathly Diadem
 *Wondrous item, cursed item, major, very rare (requires attunement)*  

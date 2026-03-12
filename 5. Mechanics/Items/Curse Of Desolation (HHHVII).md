@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Curse of Desolation
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - curse
 ---
 # Curse of Desolation
 *Wondrous item, curse, cursed item, rare*  

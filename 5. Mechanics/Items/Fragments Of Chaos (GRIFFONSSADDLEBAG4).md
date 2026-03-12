@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Fragments of Chaos
+attunement: false
+rarity: very-rare
 ---
 # Fragments of Chaos
 *Wondrous item, very rare*  

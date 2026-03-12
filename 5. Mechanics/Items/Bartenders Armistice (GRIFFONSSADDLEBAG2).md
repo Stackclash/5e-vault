@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bartender's Armistice
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Bartender's Armistice
 *Wondrous item, minor, rare*  

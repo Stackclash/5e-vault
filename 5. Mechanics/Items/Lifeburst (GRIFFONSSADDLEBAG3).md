@@ -13,6 +13,16 @@ aliases:
   - Lifeburst
 one-hand-damage: 1d6 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Lifeburst
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare (requires attunement by a cleric or paladin)*  

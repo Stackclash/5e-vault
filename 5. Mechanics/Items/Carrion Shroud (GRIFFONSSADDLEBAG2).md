@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Carrion Shroud
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Carrion Shroud
 *Wondrous item, cursed item, major, very rare (requires attunement)*  

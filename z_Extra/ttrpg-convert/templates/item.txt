@@ -44,32 +44,81 @@ attunement: false
 {/if}
 {#if resource.detail && resource.detail.contains('(requires attunement by ')}
 {#let reqSection=resource.detail.substring(resource.detail.indexOf('(requires attunement by ') + 24)}
-{#let reqRaw=reqSection.substring(0, reqSection.indexOf(')'))}
-{#if reqRaw.startsWith('an ')}
-{#let reqCore=reqRaw.substring(3)}
+{#let reqRaw=reqSection.substring(0, reqSection.lastIndexOf(')'))}
+{#let reqNoLinks=reqRaw}
+{#if reqNoLinks.startsWith('an ')}
+{#let reqCore=reqNoLinks.substring(3)}
 attunement-requirement:
 {#for req in reqCore.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
-- {req.trim.toLowerCase}
+{#let reqVal=req.trim}
+{#if reqVal.contains('](')}
+{#let reqBefore=reqVal.substring(0, reqVal.indexOf('['))}
+{#let reqLink=reqVal.substring(reqVal.indexOf('[') + 1, reqVal.indexOf(']'))}
+{#let reqAfter=reqVal.substring(reqVal.lastIndexOf(')') + 1)}
+- {str:concat(reqBefore, ' ', reqLink, ' ', reqAfter).replace('  ', ' ').trim.toLowerCase}
+{/let}
+{/let}
+{/let}
+{#else}
+- {reqVal.toLowerCase}
+{/if}
+{/let}
 {/for}
 {/let}
-{#else if reqRaw.startsWith('a ')}
-{#let reqCore=reqRaw.substring(2)}
+{#else if reqNoLinks.startsWith('a ')}
+{#let reqCore=reqNoLinks.substring(2)}
 attunement-requirement:
 {#for req in reqCore.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
-- {req.trim.toLowerCase}
+{#let reqVal=req.trim}
+{#if reqVal.contains('](')}
+{#let reqBefore=reqVal.substring(0, reqVal.indexOf('['))}
+{#let reqLink=reqVal.substring(reqVal.indexOf('[') + 1, reqVal.indexOf(']'))}
+{#let reqAfter=reqVal.substring(reqVal.lastIndexOf(')') + 1)}
+- {str:concat(reqBefore, ' ', reqLink, ' ', reqAfter).replace('  ', ' ').trim.toLowerCase}
+{/let}
+{/let}
+{/let}
+{#else}
+- {reqVal.toLowerCase}
+{/if}
+{/let}
 {/for}
 {/let}
-{#else if reqRaw.startsWith('the ')}
-{#let reqCore=reqRaw.substring(4)}
+{#else if reqNoLinks.startsWith('the ')}
+{#let reqCore=reqNoLinks.substring(4)}
 attunement-requirement:
 {#for req in reqCore.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
-- {req.trim.toLowerCase}
+{#let reqVal=req.trim}
+{#if reqVal.contains('](')}
+{#let reqBefore=reqVal.substring(0, reqVal.indexOf('['))}
+{#let reqLink=reqVal.substring(reqVal.indexOf('[') + 1, reqVal.indexOf(']'))}
+{#let reqAfter=reqVal.substring(reqVal.lastIndexOf(')') + 1)}
+- {str:concat(reqBefore, ' ', reqLink, ' ', reqAfter).replace('  ', ' ').trim.toLowerCase}
+{/let}
+{/let}
+{/let}
+{#else}
+- {reqVal.toLowerCase}
+{/if}
+{/let}
 {/for}
 {/let}
 {#else}
 attunement-requirement:
-{#for req in reqRaw.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
-- {req.trim.toLowerCase}
+{#for req in reqNoLinks.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
+{#let reqVal=req.trim}
+{#if reqVal.contains('](')}
+{#let reqBefore=reqVal.substring(0, reqVal.indexOf('['))}
+{#let reqLink=reqVal.substring(reqVal.indexOf('[') + 1, reqVal.indexOf(']'))}
+{#let reqAfter=reqVal.substring(reqVal.lastIndexOf(')') + 1)}
+- {str:concat(reqBefore, ' ', reqLink, ' ', reqAfter).replace('  ', ' ').trim.toLowerCase}
+{/let}
+{/let}
+{/let}
+{#else}
+- {reqVal.toLowerCase}
+{/if}
+{/let}
 {/for}
 {/if}
 {/let}

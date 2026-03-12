@@ -13,6 +13,16 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - cleric
+  - druid
+  - warlock
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Staff of Withering
 *Staff, weapon, major, rare (requires attunement by a cleric, druid, or warlock)*  

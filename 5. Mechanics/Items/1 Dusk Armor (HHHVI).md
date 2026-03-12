@@ -11,6 +11,13 @@ aliases:
   - +1 Dusk Armor
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+rarity: rare
+type: armor
+subtype:
+  - heavy
 ---
 # +1 Dusk Armor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), rare (requires attunement)*  

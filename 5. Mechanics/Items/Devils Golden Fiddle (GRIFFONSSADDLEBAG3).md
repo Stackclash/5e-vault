@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Devil's Golden Fiddle
+attunement: true
+rarity: rare
+tier: major
 ---
 # Devil's Golden Fiddle
 *Wondrous item, major, rare (requires attunement)*  

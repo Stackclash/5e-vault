@@ -9,6 +9,11 @@ tags:
 aliases:
   - Chalk (1 piece)
 cost: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Chalk (1 piece)
 *Adventuring gear*  

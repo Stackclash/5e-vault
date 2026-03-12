@@ -9,6 +9,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Dramus's Wand of Noises
+attunement: false
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Dramus's Wand of Noises
 *Wand, major, uncommon*  

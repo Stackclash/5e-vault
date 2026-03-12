@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Container of Heat and Frost
+attunement: false
+rarity: common
+tier: minor
 ---
 # Container of Heat and Frost
 *Wondrous item, minor, common*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Tailor's Gamble
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Tailor's Gamble
 *Herb, common*  

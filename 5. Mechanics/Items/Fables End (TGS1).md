@@ -13,6 +13,13 @@ aliases:
   - Fable's End
 one-hand-damage: 1d6 bludgeoning
 weight: 4
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Fable's End
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, very rare (requires attunement)*  

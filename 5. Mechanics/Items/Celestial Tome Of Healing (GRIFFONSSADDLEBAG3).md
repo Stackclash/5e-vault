@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Celestial Tome of Healing
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+tier: major
 ---
 # Celestial Tome of Healing
 *Wondrous item, major, rare (requires attunement by a wizard)*  

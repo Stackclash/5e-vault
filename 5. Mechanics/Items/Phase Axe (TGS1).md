@@ -15,6 +15,13 @@ one-hand-damage: 1d8 slashing
 two-hand-damage: 1d10 slashing
 range: 20\60
 weight: 2
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Phase Axe
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare (requires attunement)*  

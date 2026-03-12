@@ -16,6 +16,14 @@ aliases:
   - Warding Hooked Shortspear
   - Warding Hoopak
   - Warding Yklwa
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Warding Weapon
 *Major, rare*  

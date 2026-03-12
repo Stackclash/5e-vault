@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Undertaker's Planchette
+attunement: false
+rarity: uncommon
 ---
 # Undertaker's Planchette
 *Wondrous item, uncommon*  

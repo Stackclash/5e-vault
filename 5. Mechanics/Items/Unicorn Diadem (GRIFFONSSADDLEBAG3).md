@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Unicorn Diadem
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: very-rare
+tier: major
 ---
 # Unicorn Diadem
 *Wondrous item, major, very rare (requires attunement by a cleric or paladin)*  

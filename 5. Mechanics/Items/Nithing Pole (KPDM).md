@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Nithing Pole
+attunement: false
+rarity: rare
 ---
 # Nithing Pole
 *Wondrous item, rare*  

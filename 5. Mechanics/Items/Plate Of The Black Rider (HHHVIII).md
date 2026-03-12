@@ -11,6 +11,13 @@ aliases:
   - Plate of the Black Rider
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+rarity: very-rare
+type: armor
+subtype:
+  - heavy
 ---
 # Plate of the Black Rider
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  

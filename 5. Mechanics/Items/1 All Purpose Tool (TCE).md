@@ -9,6 +9,13 @@ tags:
   - item/rarity/uncommon
 aliases:
   - +1 All-Purpose Tool
+attunement: true
+attunement-requirement:
+  - artificer
+rarity: uncommon
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # +1 All-Purpose Tool
 *Wondrous item, spellcasting focus, uncommon (requires attunement by an artificer)*  

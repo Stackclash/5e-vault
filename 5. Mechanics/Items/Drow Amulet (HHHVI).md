@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Drow Amulet
+attunement: true
+rarity: rare
 ---
 # Drow Amulet
 *Wondrous item, rare (requires attunement)*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Dragon's Wrath (Ancient)
+attunement: false
+rarity: legendary
 ---
 # Dragon's Wrath (Ancient)
 *Wondrous item, legendary*  

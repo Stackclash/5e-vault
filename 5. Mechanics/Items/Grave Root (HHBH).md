@@ -9,6 +9,11 @@ tags:
 aliases:
   - Grave Root
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Grave Root
 *Herb, rare*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Gargoyle's Lichen
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Gargoyle's Lichen
 *Herb, common*  

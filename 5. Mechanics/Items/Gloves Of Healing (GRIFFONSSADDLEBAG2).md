@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Gloves of Healing
+attunement: false
+rarity: rare
+tier: major
 ---
 # Gloves of Healing
 *Wondrous item, major, rare*  

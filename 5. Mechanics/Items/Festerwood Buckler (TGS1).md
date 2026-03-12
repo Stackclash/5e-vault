@@ -11,6 +11,9 @@ aliases:
   - Festerwood Buckler
 armorClass: 2
 weight: 6
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Festerwood Buckler
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  

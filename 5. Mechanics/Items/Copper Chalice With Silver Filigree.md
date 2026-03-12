@@ -9,6 +9,11 @@ tags:
 aliases:
   - Copper chalice with silver filigree
 cost: 2500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Copper chalice with silver filigree
 *Treasure (art object)*  

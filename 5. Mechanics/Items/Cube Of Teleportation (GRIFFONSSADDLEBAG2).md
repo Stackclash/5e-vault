@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Cube of Teleportation
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Cube of Teleportation
 *Wondrous item, minor, rare*  

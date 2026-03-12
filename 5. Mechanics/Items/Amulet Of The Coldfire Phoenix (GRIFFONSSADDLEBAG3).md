@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Amulet of the Coldfire Phoenix
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Amulet of the Coldfire Phoenix
 *Wondrous item, major, very rare (requires attunement)*  

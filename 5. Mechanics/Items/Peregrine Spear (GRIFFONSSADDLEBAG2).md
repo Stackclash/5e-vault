@@ -14,6 +14,13 @@ one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
 range: 20\60
 weight: 3
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Peregrine Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, rare*  

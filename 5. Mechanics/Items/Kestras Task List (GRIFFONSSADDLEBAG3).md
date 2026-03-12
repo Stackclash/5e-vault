@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Kestra's Task List
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Kestra's Task List
 *Wondrous item, minor, uncommon*  

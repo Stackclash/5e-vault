@@ -13,6 +13,13 @@ aliases:
   - Lance of the White Dragon
 one-hand-damage: 1d12 piercing
 weight: 6
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Lance of the White Dragon
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, very rare (requires attunement)*  

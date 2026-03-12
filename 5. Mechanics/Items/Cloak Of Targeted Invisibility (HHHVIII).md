@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Cloak of Targeted Invisibility
+attunement: true
+rarity: very-rare
 ---
 # Cloak of Targeted Invisibility
 *Wondrous item, very rare (requires attunement)*  

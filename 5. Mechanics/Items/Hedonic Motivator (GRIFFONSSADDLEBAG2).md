@@ -12,6 +12,13 @@ aliases:
   - Hedonic Motivator
 one-hand-damage: 1d4 slashing
 weight: 3
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Hedonic Motivator
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon*  

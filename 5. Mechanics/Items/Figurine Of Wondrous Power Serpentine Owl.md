@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Figurine of Wondrous Power, Serpentine Owl'
+attunement: false
+rarity: rare
+tier: major
 ---
 # Figurine of Wondrous Power, Serpentine Owl
 *Wondrous item, major, rare*  

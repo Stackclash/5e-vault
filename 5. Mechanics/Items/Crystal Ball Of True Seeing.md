@@ -10,6 +10,9 @@ tags:
 aliases:
   - Crystal Ball of True Seeing
 weight: 3
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Crystal Ball of True Seeing
 *Wondrous item, major, legendary (requires attunement)*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Elixir of Restoration
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Elixir of Restoration
 *Potion, minor, uncommon*  

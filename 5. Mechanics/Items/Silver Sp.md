@@ -10,6 +10,11 @@ aliases:
   - Silver (sp)
 cost: 10
 weight: 0.02
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-coinage
 ---
 # Silver (sp)
 *Treasure (coinage)*  

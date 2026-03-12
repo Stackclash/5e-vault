@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Midnight Dragon's Ichor Candle
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Midnight Dragon's Ichor Candle
 *Wondrous item, major, very rare*  

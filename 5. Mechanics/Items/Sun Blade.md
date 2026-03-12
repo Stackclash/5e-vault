@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d8 radiant
 two-hand-damage: 1d10 radiant
 weight: 3
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Sun Blade
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, rare (requires attunement)*  

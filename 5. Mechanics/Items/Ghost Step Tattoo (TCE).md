@@ -9,6 +9,11 @@ tags:
   - item/wondrous/tattoo
 aliases:
   - Ghost Step Tattoo
+attunement: true
+rarity: very-rare
+type: wondrous
+subtype:
+  - tattoo
 ---
 # Ghost Step Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  

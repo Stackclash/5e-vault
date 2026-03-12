@@ -10,6 +10,11 @@ aliases:
   - Bucket
 cost: 5
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Bucket
 *Adventuring gear*  

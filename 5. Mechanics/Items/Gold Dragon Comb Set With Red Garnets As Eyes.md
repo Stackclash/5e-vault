@@ -9,6 +9,11 @@ tags:
 aliases:
   - Gold dragon comb set with red garnets as eyes
 cost: 75000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Gold dragon comb set with red garnets as eyes
 *Treasure (art object)*  

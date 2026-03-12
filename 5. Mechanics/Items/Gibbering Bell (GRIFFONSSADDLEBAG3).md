@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Gibbering Bell
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Gibbering Bell
 *Wondrous item, major, uncommon*  

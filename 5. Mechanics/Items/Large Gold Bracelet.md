@@ -9,6 +9,11 @@ tags:
 aliases:
   - Large gold bracelet
 cost: 25000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Large gold bracelet
 *Treasure (art object)*  

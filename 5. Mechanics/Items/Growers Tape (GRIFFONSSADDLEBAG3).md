@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Grower's Tape
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Grower's Tape
 *Wondrous item, minor, uncommon*  

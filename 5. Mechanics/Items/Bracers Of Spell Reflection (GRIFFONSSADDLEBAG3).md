@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Bracers of Spell Reflection
+attunement: true
+attunement-requirement:
+  - monk
+rarity: very-rare
+tier: major
 ---
 # Bracers of Spell Reflection
 *Wondrous item, major, very rare (requires attunement by a monk)*  

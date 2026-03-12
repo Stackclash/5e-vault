@@ -13,6 +13,18 @@ aliases:
   - Spatha of Martial Mastery
 one-hand-damage: 1d6 piercing
 weight: 2
+attunement: true
+attunement-requirement:
+  - barbarian
+  - fighter
+  - monk
+  - rogue
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Spatha of Martial Mastery
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, rare (requires attunement by a barbarian, fighter, monk, or rogue)*  

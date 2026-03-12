@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Amulet of the Platinum Fang
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Amulet of the Platinum Fang
 *Wondrous item, major, very rare (requires attunement)*  

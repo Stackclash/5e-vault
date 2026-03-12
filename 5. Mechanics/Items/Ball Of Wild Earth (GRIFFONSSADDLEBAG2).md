@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Ball of Wild Earth
+attunement: false
+rarity: common
+tier: minor
 ---
 # Ball of Wild Earth
 *Wondrous item, minor, common*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Dragon Horn Pauldron
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Dragon Horn Pauldron
 *Wondrous item, major, very rare (requires attunement)*  

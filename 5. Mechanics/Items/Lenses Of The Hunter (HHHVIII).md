@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Lenses of the Hunter
+attunement: true
+rarity: rare
 ---
 # Lenses of the Hunter
 *Wondrous item, rare (requires attunement)*  

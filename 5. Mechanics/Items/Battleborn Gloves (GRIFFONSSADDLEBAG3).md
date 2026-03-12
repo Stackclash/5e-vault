@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Battleborn Gloves
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Battleborn Gloves
 *Wondrous item, cursed item, major, legendary (requires attunement)*  

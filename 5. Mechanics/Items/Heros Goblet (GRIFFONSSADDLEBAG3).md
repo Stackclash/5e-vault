@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Hero's Goblet
+attunement: false
+rarity: rare
+tier: major
 ---
 # Hero's Goblet
 *Wondrous item, major, rare*  

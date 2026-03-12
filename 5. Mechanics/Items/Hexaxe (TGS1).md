@@ -14,6 +14,15 @@ aliases:
 one-hand-damage: 1d6 slashing
 range: 20\60
 weight: 2
+attunement: true
+attunement-requirement:
+  - warlock
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Hexaxe
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, uncommon (requires attunement by a warlock)*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Amulet of the Dire
+attunement: true
+rarity: very-rare
 ---
 # Amulet of the Dire
 *Wondrous item, very rare (requires attunement)*  

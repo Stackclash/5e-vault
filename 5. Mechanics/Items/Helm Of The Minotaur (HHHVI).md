@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Helm of the Minotaur
+attunement: false
+rarity: uncommon
 ---
 # Helm of the Minotaur
 *Wondrous item, uncommon*  

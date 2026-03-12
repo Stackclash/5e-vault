@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Life Turner
+attunement: false
+rarity: legendary
+tier: minor
 ---
 # Life Turner
 *Wondrous item, minor, legendary*  

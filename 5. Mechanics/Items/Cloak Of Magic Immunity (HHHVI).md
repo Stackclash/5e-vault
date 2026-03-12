@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Cloak of Magic Immunity
+attunement: true
+rarity: very-rare
 ---
 # Cloak of Magic Immunity
 *Wondrous item, very rare (requires attunement)*  

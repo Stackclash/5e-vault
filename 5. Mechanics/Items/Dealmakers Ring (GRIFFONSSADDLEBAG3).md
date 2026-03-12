@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Dealmaker's Ring
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Dealmaker's Ring
 *Ring, minor, common*  

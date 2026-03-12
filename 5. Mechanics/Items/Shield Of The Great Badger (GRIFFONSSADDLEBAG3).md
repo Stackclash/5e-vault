@@ -12,6 +12,9 @@ aliases:
   - Shield of the Great Badger
 armorClass: 2
 weight: 6
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Shield of the Great Badger
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  

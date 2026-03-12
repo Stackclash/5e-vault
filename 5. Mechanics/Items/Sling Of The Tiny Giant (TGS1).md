@@ -13,6 +13,13 @@ aliases:
   - Sling of the Tiny Giant
 one-hand-damage: 1d4 bludgeoning
 range: 30\120
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Sling of the Tiny Giant
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), major, rare (requires attunement)*  

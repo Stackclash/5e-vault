@@ -12,6 +12,13 @@ aliases:
   - Candleflame Claymore
 one-hand-damage: 2d6 slashing
 weight: 6
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Candleflame Claymore
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare*  

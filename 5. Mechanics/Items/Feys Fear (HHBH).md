@@ -9,6 +9,11 @@ tags:
 aliases:
   - Fey's Fear
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Fey's Fear
 *Herb, rare*  

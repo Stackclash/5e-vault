@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Ink of Secret Knowledge
+attunement: false
+rarity: rare
 ---
 # Ink of Secret Knowledge
 *Wondrous item, rare*  

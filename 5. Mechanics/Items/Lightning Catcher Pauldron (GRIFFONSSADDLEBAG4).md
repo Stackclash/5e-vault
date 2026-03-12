@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Lightning-Catcher Pauldron
+attunement: true
+rarity: rare
 ---
 # Lightning-Catcher Pauldron
 *Wondrous item, rare (requires attunement)*  

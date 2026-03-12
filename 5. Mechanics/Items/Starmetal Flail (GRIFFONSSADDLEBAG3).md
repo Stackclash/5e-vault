@@ -13,6 +13,13 @@ aliases:
   - Starmetal Flail
 one-hand-damage: 1d8 bludgeoning
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Starmetal Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, very rare (requires attunement)*  

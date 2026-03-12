@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Storm Seer Lamp
+attunement: false
+rarity: common
+tier: minor
 ---
 # Storm Seer Lamp
 *Wondrous item, minor, common*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Waterskin of Voices
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Waterskin of Voices
 *Wondrous item, minor, uncommon*  

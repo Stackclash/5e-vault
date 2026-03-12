@@ -11,6 +11,12 @@ aliases:
   - Biting Sickle
 one-hand-damage: 1d4 slashing
 weight: 2
+attunement: false
+rarity: uncommon
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Biting Sickle
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), uncommon*  

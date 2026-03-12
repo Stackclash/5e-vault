@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Elixir of Charm
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Elixir of Charm
 *Potion, minor, uncommon*  

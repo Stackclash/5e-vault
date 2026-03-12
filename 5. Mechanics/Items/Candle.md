@@ -9,6 +9,11 @@ tags:
 aliases:
   - Candle
 cost: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Candle
 *Adventuring gear*  

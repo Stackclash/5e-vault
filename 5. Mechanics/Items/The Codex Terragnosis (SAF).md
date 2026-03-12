@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - The Codex Terragnosis
+attunement: true
+rarity: artifact
 ---
 # The Codex Terragnosis
 *Wondrous item, artifact (requires attunement)*  

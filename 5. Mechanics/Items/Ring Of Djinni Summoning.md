@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Djinni Summoning
+attunement: true
+rarity: legendary
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Djinni Summoning
 *Ring, major, legendary (requires attunement)*  

@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Wraith's Ring
+attunement: true
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Wraith's Ring
 *Ring, major, uncommon (requires attunement)*  

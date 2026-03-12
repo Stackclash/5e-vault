@@ -10,6 +10,11 @@ aliases:
   - Bagpipes
 cost: 3000
 weight: 6
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - instrument
 ---
 # Bagpipes
 *Instrument*  

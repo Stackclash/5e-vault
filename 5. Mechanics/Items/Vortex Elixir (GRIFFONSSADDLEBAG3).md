@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Vortex Elixir
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Vortex Elixir
 *Potion, minor, rare*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Black velvet mask stitched with silver thread
 cost: 2500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Black velvet mask stitched with silver thread
 *Treasure (art object)*  

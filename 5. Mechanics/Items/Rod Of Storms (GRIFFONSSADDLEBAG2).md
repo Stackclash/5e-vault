@@ -10,6 +10,14 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Storms
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of Storms
 *Rod, major, rare (requires attunement by a spellcaster)*  

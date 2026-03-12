@@ -12,6 +12,13 @@ aliases:
   - Harvest
 one-hand-damage: 1d4 slashing
 weight: 2
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Harvest
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, uncommon*  

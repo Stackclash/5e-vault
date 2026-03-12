@@ -9,6 +9,11 @@ tags:
 aliases:
   - Silver and gold brooch
 cost: 75000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Silver and gold brooch
 *Treasure (art object)*  

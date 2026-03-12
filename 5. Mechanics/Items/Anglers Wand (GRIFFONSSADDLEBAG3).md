@@ -9,6 +9,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Angler's Wand
+attunement: false
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Angler's Wand
 *Wand, major, uncommon*  

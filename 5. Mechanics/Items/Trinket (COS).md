@@ -8,6 +8,11 @@ tags:
   - item/rarity/none
 aliases:
   - Trinket
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Trinket
 *Adventuring gear*  

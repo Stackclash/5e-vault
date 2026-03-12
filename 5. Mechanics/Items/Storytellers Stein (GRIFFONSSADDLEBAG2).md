@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Storyteller's Stein
+attunement: false
+rarity: common
+tier: minor
 ---
 # Storyteller's Stein
 *Wondrous item, minor, common*  

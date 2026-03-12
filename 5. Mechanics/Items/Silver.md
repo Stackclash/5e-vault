@@ -10,6 +10,11 @@ aliases:
   - Silver
 cost: 500
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Silver
 *Trade good*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Anathema Device
+attunement: false
+rarity: rare
 ---
 # Anathema Device
 *Wondrous item, rare*  

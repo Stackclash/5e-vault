@@ -10,6 +10,11 @@ aliases:
   - Rowboat
 cost: 5000
 weight: 100
+attunement: false
+rarity: none
+type: vehicle
+subtype:
+  - ship-water
 ---
 # Rowboat
 *Ship, vehicle (water)*  

@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Ancient Dragonstrength
+attunement: false
+rarity: legendary
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Ancient Dragonstrength
 *Potion, legendary*  

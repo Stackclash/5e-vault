@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Scarf of Snow's Sanctum
+attunement: true
+rarity: rare
+tier: major
 ---
 # Scarf of Snow's Sanctum
 *Wondrous item, major, rare (requires attunement)*  

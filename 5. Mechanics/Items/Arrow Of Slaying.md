@@ -10,6 +10,12 @@ tags:
 aliases:
   - Arrow of Slaying
 weight: 0.05
+attunement: false
+rarity: very-rare
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Arrow of Slaying
 *Ammunition, minor, very rare*  

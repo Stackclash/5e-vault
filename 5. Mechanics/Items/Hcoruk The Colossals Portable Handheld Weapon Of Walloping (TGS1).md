@@ -13,6 +13,13 @@ aliases:
   - Hcor'uk the Colossal's Portable Handheld Weapon of Walloping
 one-hand-damage: 1d8 bludgeoning
 weight: 200
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Hcor'uk the Colossal's Portable Handheld Weapon of Walloping
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, very rare (requires attunement)*  

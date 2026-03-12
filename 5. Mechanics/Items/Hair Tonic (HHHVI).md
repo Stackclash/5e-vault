@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Hair Tonic
+attunement: false
+rarity: common
+type: wondrous
+subtype:
+  - potion
 ---
 # Hair Tonic
 *Potion, common*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - +1 Weapon (no damage)
+attunement: false
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # +1 Weapon (no damage)
 *Major, uncommon*  

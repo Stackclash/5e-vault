@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Night Hag Dreamcatcher
+attunement: false
+rarity: uncommon
 ---
 # Night Hag Dreamcatcher
 *Wondrous item, uncommon*  

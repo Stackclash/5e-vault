@@ -9,6 +9,11 @@ tags:
 aliases:
   - Soap Grass
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Soap Grass
 *Herb, common*  

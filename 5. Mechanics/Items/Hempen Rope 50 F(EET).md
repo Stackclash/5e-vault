@@ -10,6 +10,11 @@ aliases:
   - Hempen Rope (50 feet)
 cost: 100
 weight: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Hempen Rope (50 feet)
 *Adventuring gear*  

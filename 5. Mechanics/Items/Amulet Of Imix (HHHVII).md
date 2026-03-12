@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Amulet of Imix
+attunement: true
+rarity: rare
 ---
 # Amulet of Imix
 *Wondrous item, rare (requires attunement)*  

@@ -9,6 +9,13 @@ tags:
   - item/wondrous/wand
 aliases:
   - +1 Dragon Wand
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+type: wondrous
+subtype:
+  - wand
 ---
 # +1 Dragon Wand
 *Wand, rare (requires attunement by a spellcaster)*  

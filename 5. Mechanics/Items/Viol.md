@@ -10,6 +10,11 @@ aliases:
   - Viol
 cost: 3000
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - instrument
 ---
 # Viol
 *Instrument*  

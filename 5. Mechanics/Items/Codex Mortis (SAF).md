@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Codex Mortis
+attunement: true
+rarity: artifact
 ---
 # Codex Mortis
 *Wondrous item, artifact (requires attunement)*  

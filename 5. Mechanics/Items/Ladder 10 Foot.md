@@ -10,6 +10,11 @@ aliases:
   - Ladder (10-foot)
 cost: 10
 weight: 25
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Ladder (10-foot)
 *Adventuring gear*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Bottled Yawn
+attunement: false
+rarity: uncommon
 ---
 # Bottled Yawn
 *Wondrous item, uncommon*  

@@ -12,6 +12,12 @@ aliases:
 cost: 10
 one-hand-damage: 1d4 bludgeoning
 range: 30\120
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Sling
 *Weapon*  

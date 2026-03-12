@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Mourningsteel Obol
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Mourningsteel Obol
 *Wondrous item, minor, rare*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Homeroot
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Homeroot
 *Wondrous item, minor, rare*  

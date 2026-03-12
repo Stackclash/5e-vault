@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Demon Music Box
+attunement: false
+rarity: common
 ---
 # Demon Music Box
 *Wondrous item, common*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Tourniquet of Prophylactic
+attunement: false
+rarity: rare
 ---
 # Tourniquet of Prophylactic
 *Wondrous item, rare*  

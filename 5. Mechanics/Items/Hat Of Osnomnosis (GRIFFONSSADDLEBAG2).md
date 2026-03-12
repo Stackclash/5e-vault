@@ -9,6 +9,11 @@ tags:
   - item/tier/minor
 aliases:
   - Hat of Osnomnosis
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: common
+tier: minor
 ---
 # Hat of Osnomnosis
 *Wondrous item, minor, common (requires attunement by a wizard)*  

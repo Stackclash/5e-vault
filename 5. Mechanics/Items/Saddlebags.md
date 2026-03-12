@@ -10,6 +10,11 @@ aliases:
   - Saddlebags
 cost: 400
 weight: 8
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - tack-and-harness
 ---
 # Saddlebags
 *Tack and harness*  

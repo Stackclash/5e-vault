@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 1d8 bludgeoning
 two-hand-damage: 1d10 bludgeoning
 weight: 2
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Spiker and Striker (warhammer)
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), rare (requires attunement)*  

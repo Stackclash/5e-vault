@@ -9,6 +9,11 @@ tags:
   - item/wondrous/tattoo
 aliases:
   - Radiant Absorbing Tattoo
+attunement: true
+rarity: very-rare
+type: wondrous
+subtype:
+  - tattoo
 ---
 # Radiant Absorbing Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  

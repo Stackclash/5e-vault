@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Dragonband
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Dragonband
 *Wondrous item, minor, rare*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Neutralizing Spray
+attunement: false
+rarity: common
+tier: minor
 ---
 # Neutralizing Spray
 *Wondrous item, minor, common*  

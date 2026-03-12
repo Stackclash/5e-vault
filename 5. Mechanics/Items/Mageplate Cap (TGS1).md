@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Mageplate Cap
+attunement: true
+attunement-requirement:
+  - wizard
+  - sorcerer
+rarity: rare
+tier: major
 ---
 # Mageplate Cap
 *Wondrous item, major, rare (requires attunement by a wizard or sorcerer)*  

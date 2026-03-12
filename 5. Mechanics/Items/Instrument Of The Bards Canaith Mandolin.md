@@ -11,6 +11,14 @@ tags:
 aliases:
   - 'Instrument of the Bards, Canaith Mandolin'
 weight: 2
+attunement: true
+attunement-requirement:
+  - bard
+rarity: rare
+tier: major
+type: gear
+subtype:
+  - instrument
 ---
 # Instrument of the Bards, Canaith Mandolin
 *Wondrous item, instrument, major, rare (requires attunement by a bard)*  

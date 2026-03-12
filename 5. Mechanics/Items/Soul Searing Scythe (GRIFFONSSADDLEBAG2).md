@@ -13,6 +13,13 @@ aliases:
   - Soul-Searing Scythe
 one-hand-damage: 1d10 slashing
 weight: 6
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Soul-Searing Scythe
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), major, legendary (requires attunement)*  

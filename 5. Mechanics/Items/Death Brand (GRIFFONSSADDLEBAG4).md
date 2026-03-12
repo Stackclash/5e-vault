@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 1d4 piercing
 range: 20\60
 weight: 1
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Death Brand
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), rare (requires attunement)*  

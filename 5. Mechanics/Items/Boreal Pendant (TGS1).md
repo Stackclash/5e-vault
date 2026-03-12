@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Boreal Pendant
+attunement: true
+rarity: rare
+tier: major
 ---
 # Boreal Pendant
 *Wondrous item, major, rare (requires attunement)*  

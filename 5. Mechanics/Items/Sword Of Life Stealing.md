@@ -18,6 +18,13 @@ aliases:
   - Rapier of Life Stealing
   - Scimitar of Life Stealing
   - Shortsword of Life Stealing
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Sword of Life Stealing
 *Major, rare (requires attunement)*  

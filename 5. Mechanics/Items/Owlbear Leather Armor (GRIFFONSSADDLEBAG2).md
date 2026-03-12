@@ -12,6 +12,12 @@ aliases:
   - Owlbear Leather Armor
 armorClass: 11 + Dex modifier
 weight: 10
+attunement: true
+rarity: uncommon
+tier: major
+type: armor
+subtype:
+  - light
 ---
 # Owlbear Leather Armor
 *Light armor ([[/5. Mechanics/Items/Leather Armor.md\|leather armor]]), major, uncommon (requires attunement)*  

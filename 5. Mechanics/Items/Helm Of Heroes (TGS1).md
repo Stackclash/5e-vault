@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Helm of Heroes
+attunement: true
+rarity: rare
+tier: major
 ---
 # Helm of Heroes
 *Wondrous item, major, rare (requires attunement)*  

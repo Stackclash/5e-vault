@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Status Signets
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Status Signets
 *Ring, minor, common*  

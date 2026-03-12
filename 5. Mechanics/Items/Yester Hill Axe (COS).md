@@ -12,6 +12,12 @@ aliases:
 one-hand-damage: 1d8 slashing
 two-hand-damage: 1d10 slashing
 weight: 2
+attunement: false
+rarity: unknown\Magic
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Yester Hill Axe
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]])*  

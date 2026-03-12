@@ -10,6 +10,11 @@ aliases:
   - Glassblower's Tools
 cost: 3000
 weight: 5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Glassblower's Tools
 *Artisan's tools*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Bandolier of the Elements
+attunement: true
+rarity: rare
+tier: major
 ---
 # Bandolier of the Elements
 *Wondrous item, major, rare (requires attunement)*  

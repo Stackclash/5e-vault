@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Horn of Fear
+attunement: false
+rarity: rare
 ---
 # Horn of Fear
 *Wondrous item, rare*  

@@ -9,6 +9,13 @@ tags:
   - item/rarity/very-rare
 aliases:
   - +3 All-Purpose Tool
+attunement: true
+attunement-requirement:
+  - artificer
+rarity: very-rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # +3 All-Purpose Tool
 *Wondrous item, spellcasting focus, very rare (requires attunement by an artificer)*  

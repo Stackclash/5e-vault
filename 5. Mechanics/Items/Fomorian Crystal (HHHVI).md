@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Fomorian Crystal
+attunement: true
+rarity: rare
 ---
 # Fomorian Crystal
 *Wondrous item, rare (requires attunement)*  

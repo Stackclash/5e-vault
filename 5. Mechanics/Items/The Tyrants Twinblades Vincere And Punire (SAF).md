@@ -12,6 +12,14 @@ aliases:
   - 'The Tyrant''s Twinblades, Vincere and Punire'
 one-hand-damage: 1d6 piercing
 weight: 2
+attunement: true
+attunement-requirement:
+  - evil creature
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # The Tyrant's Twinblades, Vincere and Punire
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), very rare (requires attunement by an evil creature)*  

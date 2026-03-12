@@ -12,6 +12,14 @@ aliases:
   - Glory
 one-hand-damage: 1d6 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - good creature
+rarity: very-rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Glory
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), very rare (requires attunement by a good creature)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Dragon Turtle Gumbo
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Dragon Turtle Gumbo
 *Wondrous item, minor, rare*  

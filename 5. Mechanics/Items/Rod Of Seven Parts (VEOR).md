@@ -13,6 +13,11 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+rarity: artifact
+type: weapon
+subtype:
+  - simple
 ---
 # Rod of Seven Parts
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), rod, artifact (requires attunement)*  

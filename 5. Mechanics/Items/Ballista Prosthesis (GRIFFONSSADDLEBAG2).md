@@ -14,6 +14,17 @@ aliases:
 one-hand-damage: 1d6 piercing
 range: 30\120
 weight: 3
+attunement: true
+attunement-requirement:
+  - creature missing an arm
+  - forearm
+  - hand
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Ballista Prosthesis
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, uncommon (requires attunement by a creature missing an arm, forearm, or hand)*  

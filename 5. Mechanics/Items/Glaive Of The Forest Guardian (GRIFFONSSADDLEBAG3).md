@@ -13,6 +13,13 @@ aliases:
   - Glaive of the Forest Guardian
 one-hand-damage: 1d10 slashing
 weight: 6
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Glaive of the Forest Guardian
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, rare (requires attunement)*  

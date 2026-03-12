@@ -15,6 +15,13 @@ aliases:
   - Novanite Bone Plate Armor
   - Novanite Spiked Armor
   - Novanite Wooden Breastplate
+attunement: true
+rarity: very-rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - medium
 ---
 # Novanite Armor
 *Major, very rare (requires attunement)*  

@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d8 bludgeoning
 two-hand-damage: 1d10 bludgeoning
 weight: 2
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Warhammer of Eruptions
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), major, rare (requires attunement)*  

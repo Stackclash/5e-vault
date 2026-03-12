@@ -11,6 +11,12 @@ tags:
 aliases:
   - Bird's-Eye Bolt
   - Bird's-Eye Arrow
+attunement: false
+rarity: common
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Bird's-Eye Bolt
 *Minor, common*  

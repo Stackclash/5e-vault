@@ -8,6 +8,8 @@ tags:
 aliases:
   - Alchemist's Ice
 cost: 5000
+attunement: false
+rarity: none
 ---
 # Alchemist's Ice
 

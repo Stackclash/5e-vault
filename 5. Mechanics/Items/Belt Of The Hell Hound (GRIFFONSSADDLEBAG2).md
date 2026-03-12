@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Belt of the Hell Hound
+attunement: true
+rarity: rare
+tier: major
 ---
 # Belt of the Hell Hound
 *Wondrous item, cursed item, major, rare (requires attunement)*  

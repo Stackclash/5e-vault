@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Sandstorm Dancer
+attunement: true
+rarity: rare
+tier: major
 ---
 # Sandstorm Dancer
 *Wondrous item, major, rare (requires attunement)*  

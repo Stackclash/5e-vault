@@ -10,6 +10,11 @@ aliases:
   - Grick Hide Coats
 armorClass: 12 + Dex modifier
 weight: 13
+attunement: false
+rarity: varies
+type: armor
+subtype:
+  - light
 ---
 # Grick Hide Coats
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]])*  

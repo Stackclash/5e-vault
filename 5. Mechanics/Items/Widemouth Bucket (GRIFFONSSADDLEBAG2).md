@@ -9,6 +9,9 @@ tags:
 aliases:
   - Widemouth Bucket
 weight: 3
+attunement: false
+rarity: common
+tier: minor
 ---
 # Widemouth Bucket
 *Wondrous item, minor, common*  

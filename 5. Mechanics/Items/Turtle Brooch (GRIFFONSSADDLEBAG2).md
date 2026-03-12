@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Turtle Brooch
+attunement: false
+rarity: common
+tier: minor
 ---
 # Turtle Brooch
 *Wondrous item, minor, common*  

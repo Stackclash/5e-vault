@@ -9,6 +9,11 @@ tags:
 aliases:
   - Blighted Pollen
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Blighted Pollen
 *Herb, rare*  

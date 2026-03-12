@@ -12,6 +12,12 @@ aliases:
 one-hand-damage: 1d8 slashing
 two-hand-damage: 1d10 slashing
 weight: 3
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Silver Dragon Katana
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), rare*  

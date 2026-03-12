@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Voyage Collar
+attunement: false
+rarity: rare
+tier: major
 ---
 # Voyage Collar
 *Wondrous item, major, rare*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Quicksilver Clay
+attunement: false
+rarity: common
+tier: minor
 ---
 # Quicksilver Clay
 *Wondrous item, minor, common*  

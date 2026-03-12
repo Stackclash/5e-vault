@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Crown of the Forgotten Circle
+attunement: true
+attunement-requirement:
+  - druid
+rarity: very-rare
+tier: major
 ---
 # Crown of the Forgotten Circle
 *Wondrous item, cursed item, major, very rare (requires attunement by a druid)*  

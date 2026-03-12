@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Myceliaweave Circlet
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Myceliaweave Circlet
 *Wondrous item, cursed item, major, legendary (requires attunement)*  

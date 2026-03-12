@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Turned Soul Gem
+attunement: true
+rarity: very-rare
 ---
 # Turned Soul Gem
 *Wondrous item, very rare (requires attunement)*  

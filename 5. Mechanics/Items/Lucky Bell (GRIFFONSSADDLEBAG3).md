@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Lucky Bell
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Lucky Bell
 *Wondrous item, minor, uncommon*  

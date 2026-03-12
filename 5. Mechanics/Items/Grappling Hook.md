@@ -10,6 +10,11 @@ aliases:
   - Grappling Hook
 cost: 200
 weight: 4
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Grappling Hook
 *Adventuring gear*  

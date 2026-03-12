@@ -10,6 +10,11 @@ aliases:
   - Arrows (20)
 cost: 100
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - ammunition
 ---
 # Arrows (20)
 *Ammunition*  

@@ -9,6 +9,9 @@ tags:
 aliases:
   - Apparatus of Kwalish
 weight: 500
+attunement: false
+rarity: legendary
+tier: major
 ---
 # Apparatus of Kwalish
 *Wondrous item, major, legendary*  

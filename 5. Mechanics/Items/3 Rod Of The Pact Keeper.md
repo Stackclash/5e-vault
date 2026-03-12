@@ -11,6 +11,14 @@ tags:
 aliases:
   - +3 Rod of the Pact Keeper
 weight: 2
+attunement: true
+attunement-requirement:
+  - warlock
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # +3 Rod of the Pact Keeper
 *Rod, major, very rare (requires attunement by a warlock)*  

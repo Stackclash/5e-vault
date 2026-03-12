@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Doom Bloom
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Doom Bloom
 *Wondrous item, minor, rare*  

@@ -27,6 +27,14 @@ aliases:
   - +2 Splint Armor
   - +2 Studded Leather Armor
   - +2 Wooden Breastplate
+attunement: false
+rarity: very-rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # +2 Armor
 *Major, very rare*  

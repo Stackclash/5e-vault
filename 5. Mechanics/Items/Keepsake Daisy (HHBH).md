@@ -9,6 +9,11 @@ tags:
 aliases:
   - Keepsake Daisy
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Keepsake Daisy
 *Herb, rare*  

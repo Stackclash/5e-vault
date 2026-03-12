@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Primordial Earth Heart
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Primordial Earth Heart
 *Wondrous item, cursed item, major, legendary (requires attunement)*  

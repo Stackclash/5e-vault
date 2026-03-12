@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sticky Fig
 cost: 10000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Sticky Fig
 *Herb, rare*  

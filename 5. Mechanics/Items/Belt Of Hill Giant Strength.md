@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Belt of Hill Giant Strength
+attunement: true
+rarity: rare
+tier: major
 ---
 # Belt of Hill Giant Strength
 *Wondrous item, major, rare (requires attunement)*  

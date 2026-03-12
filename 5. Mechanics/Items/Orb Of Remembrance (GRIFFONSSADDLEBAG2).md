@@ -9,6 +9,9 @@ tags:
 aliases:
   - Orb of Remembrance
 weight: 0.5
+attunement: false
+rarity: common
+tier: minor
 ---
 # Orb of Remembrance
 *Wondrous item, minor, common*  

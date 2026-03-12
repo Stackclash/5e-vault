@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Doomsday Cookie
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Doomsday Cookie
 *Wondrous item, minor, uncommon*  

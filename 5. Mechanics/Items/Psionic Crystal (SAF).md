@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Psionic Crystal
+attunement: true
+rarity: rare
 ---
 # Psionic Crystal
 *Wondrous item, rare (requires attunement)*  

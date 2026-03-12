@@ -21,6 +21,13 @@ aliases:
   - Walloping Modern Bullet
   - Walloping Renaissance Bullet
   - Walloping Sling Bullet
+attunement: false
+rarity: common
+tier: minor
+type: gear
+subtype:
+  - ammunition
+  - ammunition-firearm
 ---
 # Walloping Ammunition
 *Ammunition, minor, common*  

@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d4 piercing
 range: 20\60
 weight: 1
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Heaven's Edge
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, legendary (requires attunement)*  

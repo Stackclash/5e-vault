@@ -12,6 +12,12 @@ aliases:
   - Mistwalker Armor
 armorClass: 11 + Dex modifier
 weight: 10
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - light
 ---
 # Mistwalker Armor
 *Light armor ([[/5. Mechanics/Items/Leather Armor.md\|leather armor]]), major, rare (requires attunement)*  

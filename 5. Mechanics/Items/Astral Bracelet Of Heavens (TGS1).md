@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Astral Bracelet of Heavens
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: very-rare
+tier: major
 ---
 # Astral Bracelet of Heavens
 *Wondrous item, major, very rare (requires attunement by a cleric or paladin)*  

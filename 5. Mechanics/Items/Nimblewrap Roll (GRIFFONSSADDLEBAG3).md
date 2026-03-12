@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Nimblewrap Roll
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Nimblewrap Roll
 *Wondrous item, major, uncommon*  

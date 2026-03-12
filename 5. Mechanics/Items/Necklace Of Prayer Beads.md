@@ -10,6 +10,13 @@ tags:
 aliases:
   - Necklace of Prayer Beads
 weight: 1
+attunement: true
+attunement-requirement:
+  - cleric
+  - druid
+  - paladin
+rarity: rare
+tier: major
 ---
 # Necklace of Prayer Beads
 *Wondrous item, major, rare (requires attunement by a cleric, druid, or paladin)*  

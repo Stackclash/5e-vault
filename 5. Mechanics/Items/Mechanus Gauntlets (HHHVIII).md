@@ -7,6 +7,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Mechanus Gauntlets
+attunement: false
+rarity: legendary
 ---
 # Mechanus Gauntlets
 *Wondrous item, legendary*  

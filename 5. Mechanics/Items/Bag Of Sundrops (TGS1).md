@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bag of Sundrops
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Bag of Sundrops
 *Wondrous item, minor, uncommon*  

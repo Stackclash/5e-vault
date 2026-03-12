@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Zafu of the Wandering Mind
+attunement: true
+attunement-requirement:
+  - monk
+rarity: rare
+tier: major
 ---
 # Zafu of the Wandering Mind
 *Wondrous item, major, rare (requires attunement by a monk)*  

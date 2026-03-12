@@ -9,6 +9,11 @@ tags:
 aliases:
   - Grounder Seed
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Grounder Seed
 *Herb, rare*  

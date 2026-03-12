@@ -9,6 +9,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Flares
+attunement: false
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Flares
 *Wand, major, uncommon*  

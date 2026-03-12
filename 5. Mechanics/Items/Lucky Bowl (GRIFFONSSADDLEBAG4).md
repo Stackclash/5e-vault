@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Lucky Bowl
+attunement: false
+rarity: uncommon
 ---
 # Lucky Bowl
 *Wondrous item, uncommon*  

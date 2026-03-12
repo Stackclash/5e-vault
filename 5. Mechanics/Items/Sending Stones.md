@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Sending Stones
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Sending Stones
 *Wondrous item, minor, uncommon*  

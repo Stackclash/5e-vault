@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Oil of Defoliation
+attunement: false
+rarity: uncommon
 ---
 # Oil of Defoliation
 *Wondrous item, uncommon*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Security Antennae
+attunement: false
+rarity: uncommon
 ---
 # Security Antennae
 *Wondrous item, uncommon*  

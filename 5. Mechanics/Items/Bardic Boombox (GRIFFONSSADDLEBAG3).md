@@ -10,6 +10,11 @@ tags:
 aliases:
   - Bardic Boombox
 weight: 5
+attunement: true
+attunement-requirement:
+  - bard
+rarity: very-rare
+tier: major
 ---
 # Bardic Boombox
 *Wondrous item, major, very rare (requires attunement by a bard)*  

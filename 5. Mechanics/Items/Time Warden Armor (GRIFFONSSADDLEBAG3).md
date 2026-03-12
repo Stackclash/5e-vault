@@ -11,6 +11,11 @@ aliases:
   - Time Warden Armor
 armorClass: 14 + Dex modifier (max of +2)
 weight: 20
+attunement: true
+rarity: very-rare
+type: armor
+subtype:
+  - medium
 ---
 # Time Warden Armor
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), very rare (requires attunement)*  

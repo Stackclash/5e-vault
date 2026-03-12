@@ -8,6 +8,8 @@ tags:
 aliases:
   - Swarm Repellent
 cost: 4000
+attunement: false
+rarity: none
 ---
 # Swarm Repellent
 

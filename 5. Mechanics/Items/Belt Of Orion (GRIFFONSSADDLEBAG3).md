@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Belt of Orion
+attunement: true
+rarity: rare
+tier: major
 ---
 # Belt of Orion
 *Wondrous item, major, rare (requires attunement)*  

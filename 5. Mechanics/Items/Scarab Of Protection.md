@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Scarab of Protection
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Scarab of Protection
 *Wondrous item, major, legendary (requires attunement)*  

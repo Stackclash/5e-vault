@@ -12,6 +12,13 @@ aliases:
   - Claymore of the Great Badger
 one-hand-damage: 2d6 slashing
 weight: 6
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Claymore of the Great Badger
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, uncommon*  

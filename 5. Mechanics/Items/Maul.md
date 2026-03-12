@@ -12,6 +12,12 @@ aliases:
 cost: 1000
 one-hand-damage: 2d6 bludgeoning
 weight: 10
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Maul
 *Weapon*  

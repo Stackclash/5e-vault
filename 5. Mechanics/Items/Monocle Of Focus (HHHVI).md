@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Monocle of Focus
+attunement: true
+rarity: rare
 ---
 # Monocle of Focus
 *Wondrous item, rare (requires attunement)*  

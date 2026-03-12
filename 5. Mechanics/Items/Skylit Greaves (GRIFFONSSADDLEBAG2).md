@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Skylit Greaves
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Skylit Greaves
 *Wondrous item, major, legendary (requires attunement)*  

@@ -14,6 +14,13 @@ aliases:
   - Ironleaf Impaler
   - Ironleaf Impaler Javelin
   - Ironleaf Impaler Spear
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Ironleaf Impaler
 *Major, rare (requires attunement)*  

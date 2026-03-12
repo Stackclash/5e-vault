@@ -10,6 +10,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Merriment
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Merriment
 *Wand, major, very rare (requires attunement)*  

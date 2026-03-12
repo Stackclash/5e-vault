@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Wind Fan
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Wind Fan
 *Wondrous item, major, uncommon*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Alcoholock
+attunement: false
+rarity: common
+tier: minor
 ---
 # Alcoholock
 *Wondrous item, minor, common*  

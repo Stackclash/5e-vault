@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Shell of Hearing
+attunement: false
+rarity: uncommon
 ---
 # Shell of Hearing
 *Wondrous item, uncommon*  

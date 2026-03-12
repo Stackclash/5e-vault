@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Badge of the Savant (Illusion)
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Badge of the Savant (Illusion)
 *Wondrous item, major, uncommon*  

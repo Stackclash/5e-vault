@@ -12,6 +12,12 @@ aliases:
 cost: 5000
 one-hand-damage: 2d6 slashing
 weight: 6
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Greatsword
 *Weapon*  

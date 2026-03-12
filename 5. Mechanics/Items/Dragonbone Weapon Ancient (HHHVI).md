@@ -16,6 +16,13 @@ aliases:
   - Ancient Dragonbone Hooked Shortspear
   - Ancient Dragonbone Hoopak
   - Ancient Dragonbone Yklwa
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Dragonbone Weapon (Ancient)
 *Very rare (requires attunement)*  

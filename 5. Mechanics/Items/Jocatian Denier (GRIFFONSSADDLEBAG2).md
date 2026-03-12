@@ -15,6 +15,15 @@ aliases:
   - Jo'Catian Denier Longsword
   - Jo'Catian Denier Scimitar
   - Jo'Catian Denier Shortsword
+attunement: true
+attunement-requirement:
+  - creature of neutral alignment
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Jo'Catian Denier
 *Major, uncommon (requires attunement by a creature of neutral alignment)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Deck of Dragons
+attunement: true
+rarity: rare
+tier: major
 ---
 # Deck of Dragons
 *Wondrous item, major, rare (requires attunement)*  

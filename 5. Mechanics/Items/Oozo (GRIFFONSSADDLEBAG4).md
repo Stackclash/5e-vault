@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Oozo
+attunement: false
+rarity: varies
+type: wondrous
+subtype:
+  - potion
 ---
 # Oozo
 *Potion*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Cloth-of-gold vestments
 cost: 2500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Cloth-of-gold vestments
 *Treasure (art object)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Abjurer's Bangle (Rare)
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Abjurer's Bangle (Rare)
 *Wondrous item, minor, rare*  

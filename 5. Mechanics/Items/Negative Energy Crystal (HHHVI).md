@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Negative Energy Crystal
+attunement: false
+rarity: very-rare
 ---
 # Negative Energy Crystal
 *Wondrous item, very rare*  

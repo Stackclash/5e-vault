@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Hedgewitch's Gardening Gloves
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Hedgewitch's Gardening Gloves
 *Wondrous item, major, uncommon (requires attunement)*  

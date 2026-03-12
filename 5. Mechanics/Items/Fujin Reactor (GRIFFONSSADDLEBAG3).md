@@ -10,6 +10,14 @@ tags:
   - item/wondrous/rod
 aliases:
   - Fūjin Reactor
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: legendary
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Fūjin Reactor
 *Rod, major, legendary (requires attunement by a spellcaster)*  

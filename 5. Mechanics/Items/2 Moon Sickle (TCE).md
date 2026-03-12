@@ -12,6 +12,15 @@ aliases:
   - +2 Moon Sickle
 one-hand-damage: 1d4 slashing
 weight: 2
+attunement: true
+attunement-requirement:
+  - druid
+  - ranger
+rarity: rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # +2 Moon Sickle
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), rare (requires attunement by a druid or ranger)*  

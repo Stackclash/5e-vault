@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Candy Xorn
+attunement: false
+rarity: common
+tier: minor
 ---
 # Candy Xorn
 *Wondrous item, minor, common*  

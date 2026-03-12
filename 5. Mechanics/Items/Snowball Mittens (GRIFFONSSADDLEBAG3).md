@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Snowball Mittens
+attunement: false
+rarity: common
+tier: minor
 ---
 # Snowball Mittens
 *Wondrous item, minor, common*  

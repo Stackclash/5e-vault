@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Shipwright's Watch
+attunement: false
+rarity: common
+tier: minor
 ---
 # Shipwright's Watch
 *Wondrous item, minor, common*  

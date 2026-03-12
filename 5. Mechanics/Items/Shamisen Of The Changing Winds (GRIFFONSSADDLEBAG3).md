@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Shamisen of the Changing Winds
+attunement: true
+attunement-requirement:
+  - bard
+rarity: rare
+tier: major
 ---
 # Shamisen of the Changing Winds
 *Wondrous item, major, rare (requires attunement by a bard)*  

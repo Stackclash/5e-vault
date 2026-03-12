@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Headband of the Sweatless
+attunement: false
+rarity: common
+tier: minor
 ---
 # Headband of the Sweatless
 *Wondrous item, minor, common*  

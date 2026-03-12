@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Warhorn of the Bronze Dragon
+attunement: false
+rarity: rare
+tier: major
 ---
 # Warhorn of the Bronze Dragon
 *Wondrous item, major, rare*  

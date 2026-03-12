@@ -12,6 +12,13 @@ tags:
 aliases:
   - Bloodthirster Scimitar
 one-hand-damage: 1d6 slashing
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Bloodthirster Scimitar
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  

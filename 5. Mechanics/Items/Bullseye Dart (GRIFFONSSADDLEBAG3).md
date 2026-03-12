@@ -13,6 +13,13 @@ aliases:
 one-hand-damage: 1d4 piercing
 range: 20\60
 weight: 0.25
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Bullseye Dart
 *Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, rare*  

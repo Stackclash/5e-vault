@@ -13,6 +13,15 @@ aliases:
   - Octavius's Saber
 one-hand-damage: 1d8 piercing
 weight: 2
+attunement: true
+attunement-requirement:
+  - rogue
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Octavius's Saber
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement by a rogue)*  

@@ -13,6 +13,13 @@ aliases:
   - Mace of Terror
 one-hand-damage: 1d6 bludgeoning
 weight: 4
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Mace of Terror
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare (requires attunement)*  

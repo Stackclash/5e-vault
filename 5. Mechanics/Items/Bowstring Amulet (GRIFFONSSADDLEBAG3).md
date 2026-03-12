@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bowstring Amulet
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Bowstring Amulet
 *Wondrous item, minor, uncommon (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Navis Anima
+attunement: false
+rarity: legendary
+tier: minor
 ---
 # Navis Anima
 *Wondrous item, minor, legendary*  

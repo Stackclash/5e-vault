@@ -10,6 +10,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Doorway Scepter
+attunement: true
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - rod
 ---
 # Doorway Scepter
 *Rod, minor, rare (requires attunement)*  

@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d8 force
 range: 80\320
 weight: 5
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Reap and Sew
 *Weapon ([[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), cursed item, major, rare (requires attunement)*  

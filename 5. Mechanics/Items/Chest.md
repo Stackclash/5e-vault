@@ -10,6 +10,11 @@ aliases:
   - Chest
 cost: 500
 weight: 25
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Chest
 *Adventuring gear*  

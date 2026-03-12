@@ -15,6 +15,14 @@ aliases:
   - Tether Tearer Battleaxe
   - Tether Tearer Greataxe
   - Tether Tearer Handaxe
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Tether Tearer
 *Major, uncommon*  

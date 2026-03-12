@@ -12,6 +12,13 @@ aliases:
   - Lunar Rapier
 one-hand-damage: 1d8 piercing
 weight: 2
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Lunar Rapier
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, rare*  

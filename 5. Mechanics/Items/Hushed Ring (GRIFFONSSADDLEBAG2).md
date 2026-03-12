@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Hushed Ring
+attunement: true
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Hushed Ring
 *Ring, major, uncommon (requires attunement)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Chain Devil Gloves
+attunement: true
+rarity: rare
+tier: major
 ---
 # Chain Devil Gloves
 *Wondrous item, major, rare (requires attunement)*  

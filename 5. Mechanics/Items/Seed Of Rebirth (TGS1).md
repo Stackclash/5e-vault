@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Seed of Rebirth
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Seed of Rebirth
 *Wondrous item, major, legendary (requires attunement)*  

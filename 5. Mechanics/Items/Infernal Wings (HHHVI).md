@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Infernal Wings
+attunement: true
+rarity: rare
 ---
 # Infernal Wings
 *Wondrous item, rare (requires attunement)*  

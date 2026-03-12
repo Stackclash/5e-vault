@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d8 slashing
 two-hand-damage: 1d10 slashing
 weight: 3
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Blood Moon Blade
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), cursed item, major, very rare (requires attunement)*  

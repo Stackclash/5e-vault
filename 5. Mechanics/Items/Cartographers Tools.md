@@ -10,6 +10,11 @@ aliases:
   - Cartographer's Tools
 cost: 1500
 weight: 6
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Cartographer's Tools
 *Artisan's tools*  

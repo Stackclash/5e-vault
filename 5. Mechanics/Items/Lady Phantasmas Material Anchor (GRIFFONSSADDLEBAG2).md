@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Lady Phantasma's Material Anchor
+attunement: false
+rarity: very-rare
+tier: minor
 ---
 # Lady Phantasma's Material Anchor
 *Wondrous item, minor, very rare*  

@@ -14,6 +14,18 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - druid
+  - sorcerer
+  - warlock
+  - wizard
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Royal Incinerator
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, legendary (requires attunement by a druid, sorcerer, warlock, or wizard)*  

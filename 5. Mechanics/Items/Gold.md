@@ -10,6 +10,11 @@ aliases:
   - Gold
 cost: 5000
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Gold
 *Trade good*  

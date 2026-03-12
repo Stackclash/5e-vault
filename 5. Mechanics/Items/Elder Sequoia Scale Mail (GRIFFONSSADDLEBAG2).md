@@ -12,6 +12,15 @@ aliases:
   - Elder Sequoia Scale Mail
 armorClass: 14 + Dex modifier (max of +2)
 weight: 45
+stealth-penalty: true
+attunement: true
+attunement-requirement:
+  - druid
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - medium
 ---
 # Elder Sequoia Scale Mail
 *Medium armor ([[/5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, rare (requires attunement by a druid)*  

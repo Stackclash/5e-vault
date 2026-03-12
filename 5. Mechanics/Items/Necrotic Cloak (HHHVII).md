@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Necrotic Cloak
+attunement: true
+rarity: very-rare
 ---
 # Necrotic Cloak
 *Wondrous item, very rare (requires attunement)*  

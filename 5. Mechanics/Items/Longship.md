@@ -9,6 +9,11 @@ tags:
 aliases:
   - Longship
 cost: 1000000
+attunement: false
+rarity: none
+type: vehicle
+subtype:
+  - ship-water
 ---
 # Longship
 *Ship, vehicle (water)*  

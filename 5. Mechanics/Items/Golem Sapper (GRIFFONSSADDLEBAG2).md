@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Golem Sapper
+attunement: false
+rarity: rare
+tier: major
 ---
 # Golem Sapper
 *Wondrous item, major, rare*  

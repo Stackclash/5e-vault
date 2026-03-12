@@ -14,6 +14,15 @@ one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
 range: 20\60
 weight: 4
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: legendary
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Celestial Bident
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a cleric or paladin)*  

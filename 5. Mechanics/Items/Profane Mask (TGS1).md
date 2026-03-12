@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Profane Mask
+attunement: false
+rarity: common
+tier: major
 ---
 # Profane Mask
 *Wondrous item, major, common*  

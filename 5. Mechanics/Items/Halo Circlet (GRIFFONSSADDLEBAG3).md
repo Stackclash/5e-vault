@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Halo Circlet
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Halo Circlet
 *Wondrous item, major, very rare (requires attunement)*  

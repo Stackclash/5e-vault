@@ -10,6 +10,14 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of the Split Mind
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of the Split Mind
 *Ring, major, very rare (requires attunement by a spellcaster)*  

@@ -11,6 +11,12 @@ tags:
 aliases:
   - Arrow of Anchoring
   - Arrow of Anchoring
+attunement: false
+rarity: uncommon
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Arrow of Anchoring
 *Minor, uncommon*  

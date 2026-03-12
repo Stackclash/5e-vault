@@ -12,6 +12,12 @@ aliases:
   - Shield of Yggdrasil
 armorClass: 2
 weight: 6
+attunement: true
+attunement-requirement:
+  - creature with a strength score of 17
+  - higher
+rarity: very-rare
+tier: major
 ---
 # Shield of Yggdrasil
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement by a creature with a Strength score of 17 or higher)*  

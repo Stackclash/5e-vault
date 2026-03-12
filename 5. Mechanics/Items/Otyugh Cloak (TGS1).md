@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Otyugh Cloak
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Otyugh Cloak
 *Wondrous item, major, uncommon*  

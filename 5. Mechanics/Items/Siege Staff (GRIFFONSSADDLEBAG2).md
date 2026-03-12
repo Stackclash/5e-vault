@@ -13,6 +13,19 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - bard
+  - cleric
+  - druid
+  - sorcerer
+  - warlock
+  - wizard
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Siege Staff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  

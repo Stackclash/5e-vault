@@ -10,10 +10,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\donavich.webp
-relationships: []
 aliases:
   - Donavich
 alignment: Lawful Good
+relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 pronounced: DON-a-vich
@@ -32,7 +32,6 @@ goals: 'To protect his flock, to cure his son'
 likes: 'Dawn, prayer, community gatherings'
 dislikes: 'Darkness, Strahd’s influence, seeing his parishioners suffer'
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

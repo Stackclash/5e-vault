@@ -8,6 +8,11 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Lightning Oil
+attunement: false
+rarity: very-rare
+type: gear
+subtype:
+  - oil
 ---
 # Lightning Oil
 *Oil, very rare*  

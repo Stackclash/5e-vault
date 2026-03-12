@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bell of Alarm
+attunement: false
+rarity: common
+tier: minor
 ---
 # Bell of Alarm
 *Wondrous item, minor, common*  

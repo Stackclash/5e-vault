@@ -10,6 +10,11 @@ aliases:
   - Explorer's Pack
 cost: 1000
 weight: 59
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Explorer's Pack
 *Adventuring gear*  

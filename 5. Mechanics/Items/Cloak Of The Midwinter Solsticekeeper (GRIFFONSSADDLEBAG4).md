@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Cloak of the Midwinter Solsticekeeper
+attunement: true
+rarity: legendary
 ---
 # Cloak of the Midwinter Solsticekeeper
 *Wondrous item, legendary (requires attunement)*  

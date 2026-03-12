@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Ehagan's Moving Ladder
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Ehagan's Moving Ladder
 *Wondrous item, minor, uncommon*  

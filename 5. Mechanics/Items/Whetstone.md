@@ -10,6 +10,11 @@ aliases:
   - Whetstone
 cost: 1
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Whetstone
 *Adventuring gear*  

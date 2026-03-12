@@ -9,6 +9,11 @@ tags:
 aliases:
   - Icestone Trunk
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Icestone Trunk
 *Herb, rare*  

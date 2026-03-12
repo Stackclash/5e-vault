@@ -15,6 +15,14 @@ aliases:
   - Webgrip Bow
   - Webgrip Longbow
   - Webgrip Shortbow
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Webgrip Bow
 *Major, rare (requires attunement)*  

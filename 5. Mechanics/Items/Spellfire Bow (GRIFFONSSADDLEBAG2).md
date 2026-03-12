@@ -14,6 +14,15 @@ aliases:
 one-hand-damage: 1d8 force
 range: 150\600
 weight: 2
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Spellfire Bow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, legendary (requires attunement by a spellcaster)*  

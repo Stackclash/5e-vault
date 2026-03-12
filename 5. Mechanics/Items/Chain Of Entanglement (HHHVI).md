@@ -12,6 +12,12 @@ aliases:
   - Chain of Entanglement
 one-hand-damage: 1d4 slashing
 weight: 3
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Chain of Entanglement
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), rare (requires attunement)*  

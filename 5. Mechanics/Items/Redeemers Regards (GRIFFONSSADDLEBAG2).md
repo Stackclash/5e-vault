@@ -14,6 +14,15 @@ aliases:
 one-hand-damage: 1d8 piercing
 range: 150\600
 weight: 2
+attunement: true
+attunement-requirement:
+  - paladin
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Redeemer's Regards
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, rare (requires attunement by a paladin)*  

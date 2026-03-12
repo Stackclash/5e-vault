@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Big Cat Slippers
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Big Cat Slippers
 *Wondrous item, minor, uncommon*  

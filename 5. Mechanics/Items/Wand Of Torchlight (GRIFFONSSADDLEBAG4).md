@@ -8,6 +8,11 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Torchlight
+attunement: false
+rarity: common
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Torchlight
 *Wand, common*  

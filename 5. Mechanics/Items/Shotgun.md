@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 2d8 piercing
 range: 30\90
 weight: 7
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Shotgun
 *Weapon*  

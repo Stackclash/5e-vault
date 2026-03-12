@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Nightstalker's Mask
+attunement: true
+rarity: rare
+tier: major
 ---
 # Nightstalker's Mask
 *Wondrous item, major, rare (requires attunement)*  

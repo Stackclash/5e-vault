@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Mimic's Smilemaker
+attunement: false
+rarity: common
+tier: minor
 ---
 # Mimic's Smilemaker
 *Wondrous item, minor, common*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Dryad's Key
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Dryad's Key
 *Wondrous item, minor, rare*  

@@ -10,6 +10,11 @@ aliases:
   - Herbalism Kit
 cost: 500
 weight: 3
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - tool
 ---
 # Herbalism Kit
 *Tool*  

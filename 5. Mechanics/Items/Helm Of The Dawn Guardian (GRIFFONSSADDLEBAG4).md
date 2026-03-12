@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Helm of the Dawn Guardian
+attunement: true
+rarity: legendary
 ---
 # Helm of the Dawn Guardian
 *Wondrous item, legendary (requires attunement)*  

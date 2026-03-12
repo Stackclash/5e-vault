@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Sorcery Marble
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: uncommon
+tier: major
 ---
 # Sorcery Marble
 *Wondrous item, major, uncommon (requires attunement by a spellcaster)*  

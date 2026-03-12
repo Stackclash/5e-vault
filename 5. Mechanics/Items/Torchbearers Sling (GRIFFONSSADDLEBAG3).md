@@ -12,6 +12,13 @@ aliases:
   - Torchbearer's Sling
 one-hand-damage: 1d4 bludgeoning
 range: 30\120
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Torchbearer's Sling
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), major, uncommon*  

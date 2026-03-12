@@ -26,6 +26,13 @@ aliases:
   - Drow +2 Splint Armor
   - Drow +2 Studded Leather Armor
   - Drow +2 Wooden Breastplate
+attunement: false
+rarity: unknown\Magic
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Drow +2 Armor
 

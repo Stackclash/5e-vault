@@ -9,6 +9,11 @@ tags:
 aliases:
   - Flensing Claws
 one-hand-damage: slashing
+attunement: false
+rarity: unknown
+type: wondrous
+subtype:
+  - other
 ---
 # Flensing Claws
 

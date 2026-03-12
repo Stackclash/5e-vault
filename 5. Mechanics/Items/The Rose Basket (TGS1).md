@@ -13,6 +13,13 @@ aliases:
   - The Rose Basket
 one-hand-damage: 1d8 piercing
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # The Rose Basket
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, very rare (requires attunement)*  

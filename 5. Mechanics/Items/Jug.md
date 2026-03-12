@@ -10,6 +10,11 @@ aliases:
   - Jug
 cost: 2
 weight: 4
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Jug
 *Adventuring gear*  

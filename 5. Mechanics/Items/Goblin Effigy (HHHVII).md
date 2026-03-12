@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Goblin Effigy
+attunement: false
+rarity: uncommon
 ---
 # Goblin Effigy
 *Wondrous item, uncommon*  

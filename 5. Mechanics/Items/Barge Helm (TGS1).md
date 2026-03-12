@@ -9,6 +9,9 @@ tags:
 aliases:
   - Barge Helm
 weight: 2
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Barge Helm
 *Wondrous item, major, uncommon*  

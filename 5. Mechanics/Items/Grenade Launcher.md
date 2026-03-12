@@ -10,6 +10,11 @@ tags:
 aliases:
   - Grenade Launcher
 weight: 7
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Grenade Launcher
 *Adventuring gear*  

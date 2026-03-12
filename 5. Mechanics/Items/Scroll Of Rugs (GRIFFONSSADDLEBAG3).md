@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of Rugs
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of Rugs
 *Scroll, minor, uncommon*  

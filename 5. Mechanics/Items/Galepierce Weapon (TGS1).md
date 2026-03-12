@@ -21,6 +21,15 @@ aliases:
   - Galepierce Spear
   - Galepierce Trident
   - Galepierce Yklwa
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - ranged
+  - simple
 ---
 # Galepierce Weapon
 *Major, uncommon*  

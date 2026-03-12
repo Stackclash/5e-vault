@@ -13,6 +13,14 @@ aliases:
 one-hand-damage: 1d8 piercing
 range: 150\600
 weight: 2
+attunement: true
+attunement-requirement:
+  - chaotic creature
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Foxglove Bow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), very rare (requires attunement by a chaotic creature)*  

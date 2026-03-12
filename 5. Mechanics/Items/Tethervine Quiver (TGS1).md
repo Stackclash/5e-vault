@@ -11,6 +11,12 @@ tags:
 aliases:
   - Tethervine Quiver
 weight: 2
+attunement: true
+rarity: uncommon
+tier: minor
+type: gear
+subtype:
+  - null
 ---
 # Tethervine Quiver
 *Wondrous item, adventuring gear, minor, uncommon (requires attunement)*  

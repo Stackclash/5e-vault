@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Curse of Sun's Bane
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - curse
 ---
 # Curse of Sun's Bane
 *Wondrous item, curse, cursed item, rare*  

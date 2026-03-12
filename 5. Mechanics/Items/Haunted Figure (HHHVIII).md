@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Haunted Figure
+attunement: false
+rarity: rare
 ---
 # Haunted Figure
 *Wondrous item, rare*  

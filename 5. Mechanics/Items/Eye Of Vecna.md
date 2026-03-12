@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Eye of Vecna
+attunement: true
+rarity: artifact
 ---
 # Eye of Vecna
 *Wondrous item, artifact (requires attunement)*  

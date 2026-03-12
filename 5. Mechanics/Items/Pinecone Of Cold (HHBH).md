@@ -9,6 +9,11 @@ tags:
 aliases:
   - Pinecone of Cold
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Pinecone of Cold
 *Herb, rare*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Echo of the Oni
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Echo of the Oni
 *Wondrous item, cursed item, major, very rare (requires attunement)*  

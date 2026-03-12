@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Demon Vellum
+attunement: false
+rarity: rare
 ---
 # Demon Vellum
 *Wondrous item, rare*  

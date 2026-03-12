@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Crown of the Mindmaster Matriarch
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+tier: major
 ---
 # Crown of the Mindmaster Matriarch
 *Wondrous item, major, rare (requires attunement by a wizard)*  

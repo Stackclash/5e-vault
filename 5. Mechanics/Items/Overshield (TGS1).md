@@ -12,6 +12,9 @@ aliases:
   - Overshield
 armorClass: 2
 weight: 6
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Overshield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  

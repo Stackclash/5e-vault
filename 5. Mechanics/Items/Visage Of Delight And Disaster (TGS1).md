@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Visage of Delight and Disaster
+attunement: true
+attunement-requirement:
+  - creature with a charisma score of 17
+  - higher
+rarity: legendary
+tier: major
 ---
 # Visage of Delight and Disaster
 *Wondrous item, major, legendary (requires attunement by a creature with a Charisma score of 17 or higher)*  

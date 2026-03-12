@@ -8,6 +8,11 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Abyssal Oil
+attunement: false
+rarity: very-rare
+type: gear
+subtype:
+  - oil
 ---
 # Abyssal Oil
 *Oil, very rare*  

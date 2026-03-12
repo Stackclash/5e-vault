@@ -9,6 +9,11 @@ tags:
 aliases:
   - Ball Bearing
 weight: 0.002
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Ball Bearing
 *Adventuring gear*  

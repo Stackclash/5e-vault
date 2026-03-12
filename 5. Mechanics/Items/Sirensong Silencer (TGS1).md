@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Sirensong Silencer
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Sirensong Silencer
 *Wondrous item, major, uncommon*  

@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Viper Bracers
+attunement: true
+attunement-requirement:
+  - monk
+rarity: uncommon
+tier: major
 ---
 # Viper Bracers
 *Wondrous item, major, uncommon (requires attunement by a monk)*  

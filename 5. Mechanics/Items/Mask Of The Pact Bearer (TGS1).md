@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Mask of the Pact Bearer
+attunement: true
+attunement-requirement:
+  - warlock
+rarity: uncommon
+tier: major
 ---
 # Mask of the Pact Bearer
 *Wondrous item, major, uncommon (requires attunement by a warlock)*  

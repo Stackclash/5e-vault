@@ -9,6 +9,11 @@ tags:
 aliases:
   - Fire Flower
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Fire Flower
 *Herb, rare*  

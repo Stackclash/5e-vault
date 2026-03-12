@@ -13,6 +13,13 @@ aliases:
 one-hand-damage: 3d4 piercing
 range: 30\120
 weight: 3
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Medzo's Crossbow
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare*  

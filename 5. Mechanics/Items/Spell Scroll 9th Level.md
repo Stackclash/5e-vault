@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Spell Scroll (9th Level)
+attunement: false
+rarity: legendary
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Spell Scroll (9th Level)
 *Scroll, minor, legendary*  

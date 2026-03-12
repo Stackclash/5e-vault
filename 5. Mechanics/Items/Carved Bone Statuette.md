@@ -9,6 +9,11 @@ tags:
 aliases:
   - Carved bone statuette
 cost: 2500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Carved bone statuette
 *Treasure (art object)*  

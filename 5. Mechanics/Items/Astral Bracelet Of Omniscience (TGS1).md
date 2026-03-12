@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Astral Bracelet of Omniscience
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: very-rare
+tier: major
 ---
 # Astral Bracelet of Omniscience
 *Wondrous item, major, very rare (requires attunement by a wizard)*  

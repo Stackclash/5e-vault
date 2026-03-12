@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Anti-Magic Crystal
+attunement: false
+rarity: very-rare
 ---
 # Anti-Magic Crystal
 *Wondrous item, very rare*  

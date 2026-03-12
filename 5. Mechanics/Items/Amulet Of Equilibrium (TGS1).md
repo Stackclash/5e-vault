@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Amulet of Equilibrium
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Amulet of Equilibrium
 *Wondrous item, major, uncommon (requires attunement)*  

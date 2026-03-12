@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Dress of Many Pockets
+attunement: false
+rarity: common
+tier: minor
 ---
 # Dress of Many Pockets
 *Wondrous item, minor, common*  

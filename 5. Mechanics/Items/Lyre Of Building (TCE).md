@@ -10,6 +10,13 @@ tags:
 aliases:
   - Lyre of Building
 weight: 2
+attunement: true
+attunement-requirement:
+  - bard
+rarity: rare
+type: gear
+subtype:
+  - instrument
 ---
 # Lyre of Building
 *Wondrous item, instrument ([[/5. Mechanics/Items/Lyre.md\|lyre]]), rare (requires attunement by a bard)*  

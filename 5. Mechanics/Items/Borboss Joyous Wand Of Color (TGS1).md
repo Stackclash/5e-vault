@@ -10,6 +10,12 @@ tags:
 aliases:
   - Borboss' Joyous Wand of Color
 weight: 1
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - wand
 ---
 # Borboss' Joyous Wand of Color
 *Wand, minor, common*  

@@ -15,6 +15,13 @@ aliases:
   - Soul Render Hooked Shortspear
   - Soul Render Hoopak
   - Soul Render Yklwa
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Soul Render
 *Rare*  

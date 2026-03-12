@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Helm of the Cryptkeeper
+attunement: true
+rarity: rare
 ---
 # Helm of the Cryptkeeper
 *Wondrous item, rare (requires attunement)*  

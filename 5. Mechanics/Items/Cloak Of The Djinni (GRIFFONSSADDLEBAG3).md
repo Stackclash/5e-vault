@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Cloak of the Djinni
+attunement: true
+rarity: rare
+tier: major
 ---
 # Cloak of the Djinni
 *Wondrous item, major, rare (requires attunement)*  

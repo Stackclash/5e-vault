@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Medusan Lavalier
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Medusan Lavalier
 *Wondrous item, minor, rare*  

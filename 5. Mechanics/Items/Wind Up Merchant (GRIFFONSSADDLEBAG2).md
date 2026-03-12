@@ -9,6 +9,9 @@ tags:
 aliases:
   - Wind-Up Merchant
 weight: 1
+attunement: false
+rarity: rare
+tier: major
 ---
 # Wind-Up Merchant
 *Wondrous item, major, rare*  

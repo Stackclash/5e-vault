@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Djinn and Tonic (Common)
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Djinn and Tonic (Common)
 *Potion, minor, common*  

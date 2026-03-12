@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Periapt of Reflection
+attunement: true
+rarity: rare
+tier: major
 ---
 # Periapt of Reflection
 *Wondrous item, cursed item, major, rare (requires attunement)*  

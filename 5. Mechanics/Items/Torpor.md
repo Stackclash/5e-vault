@@ -9,6 +9,11 @@ tags:
 aliases:
   - Torpor
 cost: 60000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Torpor
 *Adventuring gear, poison (ingested)*  

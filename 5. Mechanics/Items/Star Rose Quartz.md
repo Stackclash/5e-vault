@@ -9,6 +9,11 @@ tags:
 aliases:
   - Star rose quartz
 cost: 5000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Star rose quartz
 *Treasure (gemstone)*  

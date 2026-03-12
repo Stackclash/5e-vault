@@ -10,6 +10,13 @@ tags:
 aliases:
   - Crystalline Chronicle
 weight: 3
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: very-rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Crystalline Chronicle
 *Wondrous item, spellcasting focus, very rare (requires attunement by a wizard)*  

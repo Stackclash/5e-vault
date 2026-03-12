@@ -9,6 +9,11 @@ tags:
 aliases:
   - Boom Maize
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Boom Maize
 *Herb, rare*  

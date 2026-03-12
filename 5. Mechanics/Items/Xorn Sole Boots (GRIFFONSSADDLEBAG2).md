@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Xorn-Sole Boots
+attunement: true
+rarity: rare
+tier: major
 ---
 # Xorn-Sole Boots
 *Wondrous item, major, rare (requires attunement)*  

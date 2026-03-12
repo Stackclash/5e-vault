@@ -14,6 +14,18 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - cleric
+  - druid
+  - sorcerer
+  - wizard
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Tempest Staff
 *Staff, weapon, major, uncommon (requires attunement by a cleric, druid, sorcerer, or wizard)*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ravenous Ring
+attunement: false
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ravenous Ring
 *Ring, major, uncommon*  

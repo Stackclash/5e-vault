@@ -11,6 +11,12 @@ aliases:
 cost: 75000
 armorClass: 15 + Dex modifier (max of +2)
 weight: 40
+stealth-penalty: true
+attunement: false
+rarity: none
+type: armor
+subtype:
+  - medium
 ---
 # Half Plate Armor
 *Medium armor*  

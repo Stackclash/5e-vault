@@ -18,6 +18,13 @@ aliases:
   - Rapier of Vengeance
   - Scimitar of Vengeance
   - Shortsword of Vengeance
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Sword of Vengeance
 *Cursed item, major, uncommon (requires attunement)*  

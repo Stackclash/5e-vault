@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Vain Virtuoso's Violin
+attunement: true
+attunement-requirement:
+  - bard
+rarity: uncommon
+tier: major
 ---
 # Vain Virtuoso's Violin
 *Wondrous item, cursed item, major, uncommon (requires attunement by a bard)*  

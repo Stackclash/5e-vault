@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Silver Lycan Chime
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Silver Lycan Chime
 *Wondrous item, major, uncommon*  

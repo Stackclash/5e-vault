@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 1 piercing
 range: 25\100
 weight: 1
+attunement: true
+rarity: uncommon
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Compass Blowgun
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), uncommon (requires attunement)*  

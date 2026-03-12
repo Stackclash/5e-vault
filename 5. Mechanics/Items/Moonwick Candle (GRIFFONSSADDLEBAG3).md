@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Moonwick Candle
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Moonwick Candle
 *Wondrous item, minor, uncommon*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Rope of Mending
+attunement: false
+rarity: common
+tier: minor
 ---
 # Rope of Mending
 *Wondrous item, minor, common*  

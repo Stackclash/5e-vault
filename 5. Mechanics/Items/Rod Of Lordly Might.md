@@ -12,6 +12,12 @@ tags:
 aliases:
   - Rod of Lordly Might
 weight: 2
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - melee
 ---
 # Rod of Lordly Might
 *Rod ([[/5. Mechanics/Items/Mace.md\|mace]]), melee weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, legendary (requires attunement)*  

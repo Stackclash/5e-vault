@@ -13,6 +13,12 @@ cost: 1500
 one-hand-damage: 1d8 bludgeoning
 two-hand-damage: 1d10 bludgeoning
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Warhammer
 *Weapon*  

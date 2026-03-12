@@ -13,6 +13,13 @@ aliases:
   - Ironleaf Maul of Entanglement
 one-hand-damage: 2d6 bludgeoning
 weight: 10
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Ironleaf Maul of Entanglement
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, rare (requires attunement)*  

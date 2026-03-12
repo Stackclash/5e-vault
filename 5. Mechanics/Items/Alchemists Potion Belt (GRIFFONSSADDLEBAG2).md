@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Alchemist's Potion Belt
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Alchemist's Potion Belt
 *Wondrous item, minor, uncommon*  

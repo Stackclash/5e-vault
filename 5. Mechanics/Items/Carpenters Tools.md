@@ -10,6 +10,11 @@ aliases:
   - Carpenter's Tools
 cost: 800
 weight: 6
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Carpenter's Tools
 *Artisan's tools*  

@@ -13,6 +13,13 @@ aliases:
   - Whip of the Copper Eel
 one-hand-damage: 1d4 slashing
 weight: 3
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Whip of the Copper Eel
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon (requires attunement)*  

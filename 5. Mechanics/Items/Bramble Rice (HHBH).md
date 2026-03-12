@@ -9,6 +9,11 @@ tags:
 aliases:
   - Bramble Rice
 cost: 500
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Bramble Rice
 *Herb, rare*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Remorhaz Cloak
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Remorhaz Cloak
 *Wondrous item, major, very rare (requires attunement)*  

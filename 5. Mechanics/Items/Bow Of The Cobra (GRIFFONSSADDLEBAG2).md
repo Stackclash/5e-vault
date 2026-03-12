@@ -15,6 +15,14 @@ aliases:
   - Bow of the Cobra
   - Longbow of the Cobra
   - Shortbow of the Cobra
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Bow of the Cobra
 *Major, rare (requires attunement)*  

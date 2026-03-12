@@ -9,6 +9,11 @@ tags:
 aliases:
   - Moss Agate
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Moss Agate
 *Treasure (gemstone)*  

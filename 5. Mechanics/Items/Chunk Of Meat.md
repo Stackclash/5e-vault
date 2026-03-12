@@ -9,6 +9,11 @@ tags:
 aliases:
   - Chunk of Meat
 cost: 30
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - food-and-drink
 ---
 # Chunk of Meat
 *Food and drink*  

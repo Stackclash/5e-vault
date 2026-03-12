@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Doubloon Diver's Goggles
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Doubloon Diver's Goggles
 *Wondrous item, minor, uncommon*  

@@ -16,6 +16,14 @@ aliases:
   - Hooked Shortspear of Spite
   - Hoopak of Spite
   - Yklwa of Spite
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Weapon of Spite
 *Major, uncommon*  

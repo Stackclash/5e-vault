@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Kestra's Bent Spoon
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Kestra's Bent Spoon
 *Wondrous item, major, uncommon*  

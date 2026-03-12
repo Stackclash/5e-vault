@@ -13,6 +13,15 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - creature with a strength score of 17
+  - higher
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Cratering Quarterstaff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a creature with a Strength score of 17 or higher)*  

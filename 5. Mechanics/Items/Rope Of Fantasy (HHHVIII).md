@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Rope of Fantasy
+attunement: false
+rarity: rare
 ---
 # Rope of Fantasy
 *Wondrous item, rare*  

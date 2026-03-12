@@ -9,6 +9,11 @@ tags:
 aliases:
   - Heaven's Chance
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Heaven's Chance
 *Herb, rare*  

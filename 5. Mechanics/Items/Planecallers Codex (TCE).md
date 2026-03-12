@@ -10,6 +10,13 @@ tags:
 aliases:
   - Planecaller's Codex
 weight: 3
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Planecaller's Codex
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  

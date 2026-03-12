@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Pauldron of the Lost Legion
+attunement: true
+rarity: legendary
 ---
 # Pauldron of the Lost Legion
 *Wondrous item, legendary (requires attunement)*  

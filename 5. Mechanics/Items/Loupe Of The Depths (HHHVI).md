@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Loupe of the Depths
+attunement: true
+rarity: legendary
 ---
 # Loupe of the Depths
 *Wondrous item, legendary (requires attunement)*  

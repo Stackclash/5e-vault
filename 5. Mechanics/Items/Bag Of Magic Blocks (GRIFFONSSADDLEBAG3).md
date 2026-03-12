@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bag of Magic Blocks
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Bag of Magic Blocks
 *Wondrous item, minor, rare*  

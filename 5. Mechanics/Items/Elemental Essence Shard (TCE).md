@@ -9,6 +9,10 @@ tags:
 aliases:
   - Elemental Essence Shard
 weight: 1
+attunement: true
+attunement-requirement:
+  - sorcerer
+rarity: rare
 ---
 # Elemental Essence Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  

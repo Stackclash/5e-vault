@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Powergem Pommel (very rare)
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Powergem Pommel (very rare)
 *Wondrous item, major, very rare (requires attunement)*  

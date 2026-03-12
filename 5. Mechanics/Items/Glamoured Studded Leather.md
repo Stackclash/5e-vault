@@ -11,6 +11,12 @@ aliases:
   - Glamoured Studded Leather
 armorClass: 12 + Dex modifier
 weight: 13
+attunement: false
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - light
 ---
 # Glamoured Studded Leather
 *Light armor, major, rare*  

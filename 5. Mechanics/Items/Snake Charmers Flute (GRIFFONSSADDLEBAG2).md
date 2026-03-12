@@ -10,6 +10,12 @@ tags:
   - item/tier/minor
 aliases:
   - Snake Charmer's Flute
+attunement: true
+rarity: uncommon
+tier: minor
+type: gear
+subtype:
+  - instrument
 ---
 # Snake Charmer's Flute
 *Wondrous item, instrument, minor, uncommon (requires attunement)*  

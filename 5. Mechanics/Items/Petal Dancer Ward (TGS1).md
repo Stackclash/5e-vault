@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Petal Dancer Ward
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Petal Dancer Ward
 *Wondrous item, major, uncommon (requires attunement)*  

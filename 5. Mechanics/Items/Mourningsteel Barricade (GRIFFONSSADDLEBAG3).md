@@ -12,6 +12,9 @@ aliases:
   - Mourningsteel Barricade
 armorClass: 2
 weight: 6
+attunement: true
+rarity: rare
+tier: major
 ---
 # Mourningsteel Barricade
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare (requires attunement)*  

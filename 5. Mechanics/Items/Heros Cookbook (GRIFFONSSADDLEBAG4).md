@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Hero's Cookbook
+attunement: false
+rarity: uncommon
 ---
 # Hero's Cookbook
 *Wondrous item, uncommon*  

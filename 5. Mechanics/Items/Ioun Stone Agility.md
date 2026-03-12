@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Ioun Stone, Agility'
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Ioun Stone, Agility
 *Wondrous item, major, very rare (requires attunement)*  

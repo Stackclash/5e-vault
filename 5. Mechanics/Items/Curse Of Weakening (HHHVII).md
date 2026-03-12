@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Curse of Weakening
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - curse
 ---
 # Curse of Weakening
 *Wondrous item, curse, cursed item, rare*  

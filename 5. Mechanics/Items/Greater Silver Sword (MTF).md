@@ -12,6 +12,14 @@ aliases:
   - Greater Silver Sword
 one-hand-damage: 2d6 slashing
 weight: 6
+attunement: true
+attunement-requirement:
+  - creature that has psionic ability
+rarity: legendary
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Greater Silver Sword
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement by a creature that has psionic ability)*  

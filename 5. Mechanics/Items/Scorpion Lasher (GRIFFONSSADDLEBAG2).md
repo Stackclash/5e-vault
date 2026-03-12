@@ -14,6 +14,13 @@ aliases:
 cost: 200
 one-hand-damage: 1d4 slashing
 weight: 3
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Scorpion Lasher
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon (requires attunement)*  

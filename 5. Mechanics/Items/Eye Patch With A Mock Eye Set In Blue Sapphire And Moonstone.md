@@ -9,6 +9,11 @@ tags:
 aliases:
   - Eye patch with a mock eye set in blue sapphire and moonstone
 cost: 250000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Eye patch with a mock eye set in blue sapphire and moonstone
 *Treasure (art object)*  

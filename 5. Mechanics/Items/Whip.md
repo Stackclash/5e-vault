@@ -12,6 +12,12 @@ aliases:
 cost: 200
 one-hand-damage: 1d4 slashing
 weight: 3
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Whip
 *Weapon*  

@@ -13,6 +13,13 @@ aliases:
 one-hand-damage: 1d4 piercing
 range: 20\60
 weight: 1
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Legion of Brass Katars
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon*  

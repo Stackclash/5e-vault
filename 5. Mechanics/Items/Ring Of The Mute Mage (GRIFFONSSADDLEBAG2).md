@@ -10,6 +10,14 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of the Mute Mage
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of the Mute Mage
 *Ring, major, uncommon (requires attunement by a spellcaster)*  

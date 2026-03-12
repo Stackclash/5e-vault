@@ -13,6 +13,11 @@ cost: 500
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Wooden Staff
 *Weapon, spellcasting focus*  

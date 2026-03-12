@@ -10,6 +10,12 @@ tags:
 aliases:
   - Wand of Magic Missiles
 weight: 1
+attunement: false
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Magic Missiles
 *Wand, major, uncommon*  

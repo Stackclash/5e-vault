@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Scalehide Cream
+attunement: false
+rarity: rare
 ---
 # Scalehide Cream
 *Wondrous item, rare*  

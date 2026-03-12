@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Shared Burden
+attunement: true
+attunement-requirement:
+  - warlock
+rarity: rare
+tier: major
 ---
 # Shared Burden
 *Wondrous item, major, rare (requires attunement by a warlock)*  

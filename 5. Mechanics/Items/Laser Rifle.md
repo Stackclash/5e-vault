@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 3d8 radiant
 range: 100\300
 weight: 7
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Laser Rifle
 *Weapon*  

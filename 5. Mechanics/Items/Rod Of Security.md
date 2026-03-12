@@ -10,6 +10,12 @@ tags:
 aliases:
   - Rod of Security
 weight: 2
+attunement: false
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of Security
 *Rod, major, very rare*  

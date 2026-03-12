@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Edible Book of Recipes
+attunement: false
+rarity: very-rare
+tier: minor
 ---
 # Edible Book of Recipes
 *Wondrous item, minor, very rare*  

@@ -18,6 +18,13 @@ aliases:
   - Dancing Rapier
   - Dancing Scimitar
   - Dancing Shortsword
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Dancing Sword
 *Major, very rare (requires attunement)*  

@@ -10,6 +10,12 @@ tags:
 aliases:
   - Firemelon
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
+  - spellcasting-focus
 ---
 # Firemelon
 *Herb, spellcasting focus, rare*  

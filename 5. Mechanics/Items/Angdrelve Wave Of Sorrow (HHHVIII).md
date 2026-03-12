@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 2d6 slashing
 two-hand-damage: 3d6 slashing
 weight: 6
+attunement: true
+rarity: artifact
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Angdrelve (Wave of Sorrow)
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), cursed item, artifact (requires attunement)*  

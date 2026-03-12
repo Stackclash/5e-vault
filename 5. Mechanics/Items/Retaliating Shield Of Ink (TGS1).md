@@ -11,6 +11,9 @@ aliases:
   - Retaliating Shield of Ink
 armorClass: 2
 weight: 6
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Retaliating Shield of Ink
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), minor, uncommon*  

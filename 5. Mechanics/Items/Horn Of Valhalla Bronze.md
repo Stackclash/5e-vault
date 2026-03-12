@@ -10,6 +10,12 @@ tags:
 aliases:
   - 'Horn of Valhalla, Bronze'
 weight: 2
+attunement: false
+rarity: very-rare
+tier: major
+type: gear
+subtype:
+  - instrument
 ---
 # Horn of Valhalla, Bronze
 *Wondrous item, instrument ([[/5. Mechanics/Items/Horn.md\|horn]]), major, very rare*  

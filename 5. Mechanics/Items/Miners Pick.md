@@ -10,6 +10,11 @@ aliases:
   - Miner's Pick
 cost: 200
 weight: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Miner's Pick
 *Adventuring gear*  

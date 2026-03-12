@@ -28,6 +28,14 @@ aliases:
   - Splint Armor of Cold Resistance
   - Studded Leather Armor of Cold Resistance
   - Wooden Breastplate of Cold Resistance
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Armor of Cold Resistance
 *Major, rare (requires attunement)*  

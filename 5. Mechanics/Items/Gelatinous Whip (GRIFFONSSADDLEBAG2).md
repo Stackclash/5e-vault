@@ -13,6 +13,13 @@ aliases:
   - Gelatinous Whip
 one-hand-damage: 1d4 slashing
 weight: 3
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Gelatinous Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon (requires attunement)*  

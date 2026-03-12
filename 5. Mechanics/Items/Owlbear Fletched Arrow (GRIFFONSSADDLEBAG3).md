@@ -10,6 +10,12 @@ tags:
 aliases:
   - Owlbear-Fletched Arrow
 weight: 0.05
+attunement: false
+rarity: uncommon
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Owlbear-Fletched Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  

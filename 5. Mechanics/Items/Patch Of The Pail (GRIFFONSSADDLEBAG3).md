@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Patch of the Pail
+attunement: false
+rarity: common
+tier: minor
 ---
 # Patch of the Pail
 *Wondrous item, minor, common*  

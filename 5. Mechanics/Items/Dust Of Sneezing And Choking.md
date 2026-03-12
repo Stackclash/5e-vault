@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Dust of Sneezing and Choking
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Dust of Sneezing and Choking
 *Wondrous item, minor, uncommon*  

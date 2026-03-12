@@ -11,6 +11,11 @@ aliases:
   - Slaad Doublet
 armorClass: 12 + Dex modifier (max of +2)
 weight: 12
+attunement: true
+rarity: very-rare
+type: armor
+subtype:
+  - medium
 ---
 # Slaad Doublet
 *Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), very rare (requires attunement)*  

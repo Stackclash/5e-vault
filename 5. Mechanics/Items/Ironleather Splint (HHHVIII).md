@@ -10,6 +10,12 @@ aliases:
   - Ironleather Splint
 armorClass: 17
 weight: 60
+strength-requirement: 15
+attunement: false
+rarity: rare
+type: armor
+subtype:
+  - heavy
 ---
 # Ironleather Splint
 *Heavy armor ([[/5. Mechanics/Items/Splint Armor.md\|splint armor]]), rare*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Repelling Candle
+attunement: false
+rarity: common
 ---
 # Repelling Candle
 *Wondrous item, common*  

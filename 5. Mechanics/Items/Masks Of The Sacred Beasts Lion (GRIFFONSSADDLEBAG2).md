@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Masks of the Sacred Beasts (Lion)
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Masks of the Sacred Beasts (Lion)
 *Wondrous item, major, uncommon (requires attunement)*  

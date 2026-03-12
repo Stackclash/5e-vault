@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sea Seeds
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Sea Seeds
 *Herb, common*  

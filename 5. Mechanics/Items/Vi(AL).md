@@ -9,6 +9,11 @@ tags:
 aliases:
   - Vial
 cost: 100
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Vial
 *Adventuring gear*  

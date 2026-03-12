@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Dimensional Quiver
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Dimensional Quiver
 *Wondrous item, major, very rare (requires attunement)*  

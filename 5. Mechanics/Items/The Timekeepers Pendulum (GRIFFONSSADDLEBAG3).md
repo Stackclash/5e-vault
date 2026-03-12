@@ -13,6 +13,13 @@ aliases:
   - The Timekeeper's Pendulum
 one-hand-damage: 1d12 slashing
 weight: 7
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # The Timekeeper's Pendulum
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, legendary (requires attunement)*  

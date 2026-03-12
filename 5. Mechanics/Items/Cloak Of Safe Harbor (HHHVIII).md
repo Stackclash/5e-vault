@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Cloak of Safe Harbor
+attunement: true
+rarity: very-rare
 ---
 # Cloak of Safe Harbor
 *Wondrous item, very rare (requires attunement)*  

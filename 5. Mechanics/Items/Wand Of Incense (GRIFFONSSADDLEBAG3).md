@@ -10,6 +10,14 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Incense
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Incense
 *Wand, major, rare (requires attunement by a spellcaster)*  

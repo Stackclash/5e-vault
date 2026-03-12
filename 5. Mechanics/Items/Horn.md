@@ -10,6 +10,11 @@ aliases:
   - Horn
 cost: 300
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - instrument
 ---
 # Horn
 *Instrument*  

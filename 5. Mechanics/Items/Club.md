@@ -12,6 +12,12 @@ aliases:
 cost: 10
 one-hand-damage: 1d4 bludgeoning
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Club
 *Weapon*  

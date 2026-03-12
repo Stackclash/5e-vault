@@ -9,6 +9,11 @@ tags:
 aliases:
   - Lapis Lazuli
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Lapis Lazuli
 *Treasure (gemstone)*  

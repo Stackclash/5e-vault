@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Dark Mantle
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Dark Mantle
 *Wondrous item, major, uncommon (requires attunement)*  

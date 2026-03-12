@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Amulet of the Forest
+attunement: true
+rarity: rare
 ---
 # Amulet of the Forest
 *Wondrous item, rare (requires attunement)*  

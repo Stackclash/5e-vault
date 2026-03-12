@@ -10,6 +10,9 @@ tags:
 aliases:
   - Dwarven Boozehound's Backpack
 weight: 10
+attunement: true
+rarity: rare
+tier: major
 ---
 # Dwarven Boozehound's Backpack
 *Wondrous item, major, rare (requires attunement)*  

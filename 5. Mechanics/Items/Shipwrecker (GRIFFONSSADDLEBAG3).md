@@ -13,6 +13,13 @@ aliases:
   - Shipwrecker
 one-hand-damage: 1d8 piercing
 weight: 2
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Shipwrecker
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, rare (requires attunement)*  

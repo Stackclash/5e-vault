@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Charlatan's Wardrobe
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Charlatan's Wardrobe
 *Wondrous item, minor, uncommon*  

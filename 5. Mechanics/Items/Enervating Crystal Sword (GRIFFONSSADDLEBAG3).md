@@ -18,6 +18,13 @@ aliases:
   - Enervating Crystal Rapier
   - Enervating Crystal Scimitar
   - Enervating Crystal Shortsword
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Enervating Crystal Sword
 *Major, rare (requires attunement)*  

@@ -14,6 +14,12 @@ cost: 50000
 one-hand-damage: 1d12 piercing
 range: 40\120
 weight: 10
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Musket
 *Weapon*  

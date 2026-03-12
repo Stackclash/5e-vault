@@ -22,6 +22,13 @@ aliases:
   - Adamantine Spiked Armor
   - Adamantine Splint Armor
   - Adamantine Wooden Breastplate
+attunement: false
+rarity: uncommon
+tier: major
+type: armor
+subtype:
+  - heavy
+  - medium
 ---
 # Adamantine Armor
 *Major, uncommon*  

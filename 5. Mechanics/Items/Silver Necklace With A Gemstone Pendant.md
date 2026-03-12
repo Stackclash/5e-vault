@@ -9,6 +9,11 @@ tags:
 aliases:
   - Silver necklace with a gemstone pendant
 cost: 25000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Silver necklace with a gemstone pendant
 *Treasure (art object)*  

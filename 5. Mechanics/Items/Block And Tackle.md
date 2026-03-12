@@ -10,6 +10,11 @@ aliases:
   - Block and Tackle
 cost: 100
 weight: 5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Block and Tackle
 *Adventuring gear*  

@@ -13,6 +13,13 @@ aliases:
   - War Pick of Corrosion
 one-hand-damage: 1d8 piercing
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # War Pick of Corrosion
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, very rare (requires attunement)*  

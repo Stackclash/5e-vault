@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d8 slashing
 two-hand-damage: 1d10 slashing
 weight: 2
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Battle Tax
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, uncommon (requires attunement)*  

@@ -12,6 +12,12 @@ aliases:
 cost: 100
 range: 5\15
 weight: 3
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Net
 *Weapon*  

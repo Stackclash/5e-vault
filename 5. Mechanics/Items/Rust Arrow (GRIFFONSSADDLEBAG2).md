@@ -10,6 +10,12 @@ tags:
 aliases:
   - Rust Arrow
 weight: 0.05
+attunement: false
+rarity: uncommon
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Rust Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  

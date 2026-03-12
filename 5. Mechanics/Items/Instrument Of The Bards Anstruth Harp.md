@@ -11,6 +11,14 @@ tags:
 aliases:
   - 'Instrument of the Bards, Anstruth Harp'
 weight: 2
+attunement: true
+attunement-requirement:
+  - bard
+rarity: very-rare
+tier: major
+type: gear
+subtype:
+  - instrument
 ---
 # Instrument of the Bards, Anstruth Harp
 *Wondrous item, instrument, major, very rare (requires attunement by a bard)*  

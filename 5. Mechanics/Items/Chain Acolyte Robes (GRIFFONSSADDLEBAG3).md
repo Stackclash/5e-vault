@@ -12,6 +12,15 @@ aliases:
   - Chain Acolyte Robes
 armorClass: 16
 weight: 55
+stealth-penalty: true
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
 ---
 # Chain Acolyte Robes
 *Heavy armor ([[/5. Mechanics/Items/Chain Mail.md\|chain mail]]), major, rare (requires attunement by a spellcaster)*  

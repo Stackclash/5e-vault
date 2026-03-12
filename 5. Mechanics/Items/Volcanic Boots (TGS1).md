@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Volcanic Boots
+attunement: true
+rarity: rare
+tier: major
 ---
 # Volcanic Boots
 *Wondrous item, major, rare (requires attunement)*  

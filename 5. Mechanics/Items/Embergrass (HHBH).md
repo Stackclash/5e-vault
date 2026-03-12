@@ -9,6 +9,11 @@ tags:
 aliases:
   - Embergrass
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Embergrass
 *Herb, rare*  

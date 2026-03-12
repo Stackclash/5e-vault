@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Lightscreen Hover Boots
+attunement: true
+rarity: rare
+tier: major
 ---
 # Lightscreen Hover Boots
 *Wondrous item, major, rare (requires attunement)*  

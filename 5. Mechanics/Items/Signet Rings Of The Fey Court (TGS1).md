@@ -10,6 +10,16 @@ tags:
   - item/wondrous/ring
 aliases:
   - Signet Rings of the Fey Court
+attunement: true
+attunement-requirement:
+  - elf
+  - half-elf
+  - other fey creature
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Signet Rings of the Fey Court
 *Ring, major, very rare (requires attunement by an elf, half-elf, or other fey creature)*  

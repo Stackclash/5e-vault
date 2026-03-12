@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Courier's Cap
+attunement: true
+rarity: rare
 ---
 # Courier's Cap
 *Wondrous item, rare (requires attunement)*  

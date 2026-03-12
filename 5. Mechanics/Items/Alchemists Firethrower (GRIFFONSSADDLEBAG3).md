@@ -13,6 +13,13 @@ aliases:
 one-hand-damage: 1d6 fire
 range: 30\90
 weight: 8
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Alchemist's Firethrower
 *Weapon ([[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  

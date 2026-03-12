@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Orange Cicatrizer's Debt
+attunement: true
+attunement-requirement:
+  - creature with a wisdom score of 17
+  - higher
+rarity: legendary
+tier: major
 ---
 # Orange Cicatrizer's Debt
 *Wondrous item, major, legendary (requires attunement by a creature with a wisdom score of 17 or higher)*  

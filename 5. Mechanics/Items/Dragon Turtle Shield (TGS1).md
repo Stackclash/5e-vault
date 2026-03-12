@@ -11,6 +11,9 @@ aliases:
   - Dragon Turtle Shield
 armorClass: 2
 weight: 6
+attunement: false
+rarity: rare
+tier: major
 ---
 # Dragon Turtle Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  

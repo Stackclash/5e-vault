@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Aurora Dust
+attunement: false
+rarity: common
+tier: minor
 ---
 # Aurora Dust
 *Wondrous item, minor, common*  

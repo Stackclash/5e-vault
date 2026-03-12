@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Galea of the Soulfire Phoenix
+attunement: true
+rarity: artifact
+tier: major
 ---
 # Galea of the Soulfire Phoenix
 *Wondrous item, major, artifact (requires attunement)*  

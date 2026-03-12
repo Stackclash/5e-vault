@@ -8,6 +8,11 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of Scripts
+attunement: false
+rarity: uncommon
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of Scripts
 *Scroll, uncommon*  

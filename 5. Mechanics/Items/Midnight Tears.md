@@ -9,6 +9,11 @@ tags:
 aliases:
   - Midnight Tears
 cost: 150000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Midnight Tears
 *Adventuring gear, poison (ingested)*  

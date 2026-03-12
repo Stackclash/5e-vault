@@ -9,6 +9,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Warp Anchor
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Warp Anchor
 *Rod, major, rare*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Cleric's Cane
 cost: 2000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Cleric's Cane
 *Herb, rare*  

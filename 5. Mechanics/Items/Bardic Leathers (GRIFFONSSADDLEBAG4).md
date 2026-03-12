@@ -11,6 +11,13 @@ aliases:
   - Bardic Leathers
 armorClass: 12 + Dex modifier
 weight: 13
+attunement: true
+attunement-requirement:
+  - bard
+rarity: very-rare
+type: armor
+subtype:
+  - light
 ---
 # Bardic Leathers
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), very rare (requires attunement by a bard)*  

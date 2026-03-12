@@ -9,6 +9,9 @@ tags:
 aliases:
   - Censer of Controlling Air Elementals
 weight: 1
+attunement: false
+rarity: rare
+tier: major
 ---
 # Censer of Controlling Air Elementals
 *Wondrous item, major, rare*  

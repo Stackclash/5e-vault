@@ -9,6 +9,11 @@ tags:
 aliases:
   - Killer Tomato
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Killer Tomato
 *Herb, common*  

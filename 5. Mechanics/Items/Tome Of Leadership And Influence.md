@@ -9,6 +9,9 @@ tags:
 aliases:
   - Tome of Leadership and Influence
 weight: 5
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Tome of Leadership and Influence
 *Wondrous item, major, very rare*  

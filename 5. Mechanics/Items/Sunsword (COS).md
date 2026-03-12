@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 1d8 radiant
 two-hand-damage: 1d10 radiant
 weight: 3
+attunement: true
+rarity: legendary
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Sunsword
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), legendary (requires attunement)*  

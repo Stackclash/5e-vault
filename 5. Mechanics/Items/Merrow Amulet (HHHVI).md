@@ -8,6 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Merrow Amulet
+attunement: true
+rarity: uncommon
 ---
 # Merrow Amulet
 *Wondrous item, uncommon (requires attunement)*  

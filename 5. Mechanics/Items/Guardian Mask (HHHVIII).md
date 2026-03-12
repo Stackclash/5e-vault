@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Guardian Mask
+attunement: true
+rarity: rare
 ---
 # Guardian Mask
 *Wondrous item, rare (requires attunement)*  

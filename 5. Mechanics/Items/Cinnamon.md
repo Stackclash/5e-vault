@@ -10,6 +10,11 @@ aliases:
   - Cinnamon
 cost: 200
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Cinnamon
 *Trade good*  

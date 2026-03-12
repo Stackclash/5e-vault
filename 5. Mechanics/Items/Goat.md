@@ -9,6 +9,11 @@ tags:
 aliases:
   - Goat
 cost: 100
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Goat
 *Trade good*  

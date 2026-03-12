@@ -9,6 +9,11 @@ tags:
 aliases:
   - Drow Poison
 cost: 20000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Drow Poison
 *Adventuring gear, poison (injury)*  

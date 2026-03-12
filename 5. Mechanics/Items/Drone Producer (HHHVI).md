@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Drone Producer
+attunement: false
+rarity: rare
 ---
 # Drone Producer
 *Wondrous item, rare*  

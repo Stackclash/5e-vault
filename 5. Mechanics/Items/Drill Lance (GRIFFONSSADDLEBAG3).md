@@ -13,6 +13,13 @@ aliases:
   - Drill Lance
 one-hand-damage: 1d12 piercing
 weight: 6
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Drill Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, rare (requires attunement)*  

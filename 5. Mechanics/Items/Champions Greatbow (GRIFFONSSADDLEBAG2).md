@@ -13,6 +13,13 @@ aliases:
 one-hand-damage: 1d10 piercing
 range: 150\600
 weight: 2
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Champion's Greatbow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, rare*  

@@ -9,6 +9,11 @@ tags:
   - item/wondrous/tattoo
 aliases:
   - Shadowfell Brand Tattoo
+attunement: true
+rarity: rare
+type: wondrous
+subtype:
+  - tattoo
 ---
 # Shadowfell Brand Tattoo
 *Wondrous item (tattoo), rare (requires attunement)*  

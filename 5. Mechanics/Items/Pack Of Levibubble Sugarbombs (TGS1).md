@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pack of LeviBubble Sugarbombs
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Pack of LeviBubble Sugarbombs
 *Wondrous item, minor, uncommon*  

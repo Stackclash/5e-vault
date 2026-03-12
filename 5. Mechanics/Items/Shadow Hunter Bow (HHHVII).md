@@ -13,6 +13,13 @@ aliases:
   - Shadow Hunter Bow
   - Shadow Hunter Longbow
   - Shadow Hunter Shortbow
+attunement: false
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Shadow Hunter Bow
 *Very rare*  

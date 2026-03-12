@@ -12,6 +12,14 @@ aliases:
   - Couatl Herald's Scales
 armorClass: 14 + Dex modifier (max of +2)
 weight: 45
+attunement: true
+attunement-requirement:
+  - creature of good alignment
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - medium
 ---
 # Couatl Herald's Scales
 *Medium armor ([[/5. Mechanics/Items/Scale Mail.md\|scale mail]]), major, rare (requires attunement by a creature of good alignment)*  

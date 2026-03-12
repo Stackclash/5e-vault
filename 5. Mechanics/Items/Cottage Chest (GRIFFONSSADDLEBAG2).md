@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Cottage Chest
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Cottage Chest
 *Wondrous item, minor, rare*  

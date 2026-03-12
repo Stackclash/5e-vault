@@ -14,6 +14,14 @@ aliases:
   - Cloudburst
   - Cloudburst Longbow
   - Cloudburst Shortbow
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Cloudburst
 *Major, rare*  

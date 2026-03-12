@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Familiar Lens
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Familiar Lens
 *Wondrous item, minor, uncommon*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Surveyor's Compass
+attunement: false
+rarity: rare
 ---
 # Surveyor's Compass
 *Wondrous item, rare*  

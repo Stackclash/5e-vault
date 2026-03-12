@@ -9,6 +9,11 @@ tags:
 aliases:
   - Dryad's Secret
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Dryad's Secret
 *Herb, rare*  

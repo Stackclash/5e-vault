@@ -9,6 +9,13 @@ tags:
   - item/rarity/rare
 aliases:
   - +2 Bloodwell Vial
+attunement: true
+attunement-requirement:
+  - sorcerer
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # +2 Bloodwell Vial
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  

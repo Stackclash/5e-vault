@@ -9,6 +9,11 @@ tags:
 aliases:
   - Silk robe with gold embroidery
 cost: 25000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Silk robe with gold embroidery
 *Treasure (art object)*  

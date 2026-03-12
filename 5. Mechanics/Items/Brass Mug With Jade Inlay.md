@@ -9,6 +9,11 @@ tags:
 aliases:
   - Brass mug with jade inlay
 cost: 25000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Brass mug with jade inlay
 *Treasure (art object)*  

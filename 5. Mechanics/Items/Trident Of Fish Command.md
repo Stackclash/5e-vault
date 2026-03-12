@@ -15,6 +15,13 @@ one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
 range: 20\60
 weight: 4
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Trident of Fish Command
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, uncommon (requires attunement)*  

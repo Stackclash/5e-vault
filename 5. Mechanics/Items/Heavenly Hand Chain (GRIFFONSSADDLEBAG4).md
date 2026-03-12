@@ -9,6 +9,13 @@ tags:
   - item/wondrous/ring
 aliases:
   - Heavenly Hand Chain
+attunement: true
+attunement-requirement:
+  - cleric
+rarity: uncommon
+type: wondrous
+subtype:
+  - ring
 ---
 # Heavenly Hand Chain
 *Ring, uncommon (requires attunement by a cleric)*  

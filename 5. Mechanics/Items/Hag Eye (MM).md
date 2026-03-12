@@ -8,6 +8,11 @@ tags:
   - item/wondrous/other
 aliases:
   - Hag Eye
+attunement: false
+rarity: unknown\Magic
+type: wondrous
+subtype:
+  - other
 ---
 # Hag Eye
 

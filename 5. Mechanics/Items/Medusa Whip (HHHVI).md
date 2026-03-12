@@ -12,6 +12,12 @@ aliases:
   - Medusa Whip
 one-hand-damage: 1d4 slashing
 weight: 3
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Medusa Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), rare (requires attunement)*  

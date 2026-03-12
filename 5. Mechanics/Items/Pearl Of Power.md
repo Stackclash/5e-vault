@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Pearl of Power
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: uncommon
+tier: major
 ---
 # Pearl of Power
 *Wondrous item, major, uncommon (requires attunement by a spellcaster)*  

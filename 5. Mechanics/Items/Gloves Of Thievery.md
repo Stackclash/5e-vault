@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Gloves of Thievery
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Gloves of Thievery
 *Wondrous item, major, uncommon*  

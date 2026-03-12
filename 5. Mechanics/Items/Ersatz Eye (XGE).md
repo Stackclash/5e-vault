@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Ersatz Eye
+attunement: false
+rarity: common
+tier: minor
 ---
 # Ersatz Eye
 *Wondrous item, minor, common*  

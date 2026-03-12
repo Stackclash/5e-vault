@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Keoghtom's Ointment
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Keoghtom's Ointment
 *Wondrous item, minor, uncommon*  

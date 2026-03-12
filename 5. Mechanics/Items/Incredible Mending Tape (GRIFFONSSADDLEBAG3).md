@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Incredible Mending Tape
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Incredible Mending Tape
 *Wondrous item, minor, uncommon*  

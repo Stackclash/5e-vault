@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Dragon Queen's Cloak
+attunement: true
+rarity: legendary
 ---
 # Dragon Queen's Cloak
 *Wondrous item, cursed item, legendary (requires attunement)*  

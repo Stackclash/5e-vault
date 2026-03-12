@@ -8,6 +8,10 @@ tags:
   - item/rarity/rare
 aliases:
   - Spell Bolt Wraps
+attunement: true
+attunement-requirement:
+  - monk
+rarity: rare
 ---
 # Spell Bolt Wraps
 *Wondrous item, rare (requires attunement by a monk)*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Djinn and Tonic (Rare)
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Djinn and Tonic (Rare)
 *Potion, minor, rare*  

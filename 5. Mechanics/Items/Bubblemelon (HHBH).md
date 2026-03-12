@@ -9,6 +9,11 @@ tags:
 aliases:
   - Bubblemelon
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Bubblemelon
 *Herb, rare*  

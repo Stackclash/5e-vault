@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Trap Sweeper
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Trap Sweeper
 *Wondrous item, minor, uncommon*  

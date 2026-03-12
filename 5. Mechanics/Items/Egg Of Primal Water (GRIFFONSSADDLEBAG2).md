@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Egg of Primal Water
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Egg of Primal Water
 *Wondrous item, minor, uncommon*  

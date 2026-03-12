@@ -9,6 +9,11 @@ tags:
 aliases:
   - Eye Agate
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Eye Agate
 *Treasure (gemstone)*  

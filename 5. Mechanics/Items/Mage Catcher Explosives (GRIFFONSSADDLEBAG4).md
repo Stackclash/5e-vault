@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Mage-Catcher Explosives
+attunement: false
+rarity: rare
 ---
 # Mage-Catcher Explosives
 *Wondrous item, rare*  

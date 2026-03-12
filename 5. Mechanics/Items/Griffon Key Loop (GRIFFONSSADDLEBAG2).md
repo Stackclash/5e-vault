@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Griffon Key Loop
+attunement: false
+rarity: common
+tier: minor
 ---
 # Griffon Key Loop
 *Wondrous item, minor, common*  

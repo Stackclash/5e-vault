@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Corsage of the Hidden Thorn
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Corsage of the Hidden Thorn
 *Wondrous item, major, uncommon*  

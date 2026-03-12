@@ -10,6 +10,11 @@ aliases:
   - Alchemist's Fire (flask)
 cost: 5000
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Alchemist's Fire (flask)
 *Adventuring gear*  

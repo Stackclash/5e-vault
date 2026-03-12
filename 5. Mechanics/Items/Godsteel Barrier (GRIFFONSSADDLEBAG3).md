@@ -12,6 +12,9 @@ aliases:
   - Godsteel Barrier
 armorClass: 2
 weight: 6
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Godsteel Barrier
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  

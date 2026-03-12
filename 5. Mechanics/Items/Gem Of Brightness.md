@@ -9,6 +9,9 @@ tags:
 aliases:
   - Gem of Brightness
 weight: 1
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Gem of Brightness
 *Wondrous item, major, uncommon*  

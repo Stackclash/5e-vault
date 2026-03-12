@@ -11,6 +11,14 @@ tags:
 aliases:
   - 'Instrument of the Bards, Fochlucan Bandore'
 weight: 2
+attunement: true
+attunement-requirement:
+  - bard
+rarity: uncommon
+tier: major
+type: gear
+subtype:
+  - instrument
 ---
 # Instrument of the Bards, Fochlucan Bandore
 *Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  

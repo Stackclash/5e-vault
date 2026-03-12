@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - War Standard of Battlecries
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # War Standard of Battlecries
 *Wondrous item, major, very rare (requires attunement)*  

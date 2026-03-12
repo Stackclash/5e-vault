@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Null Chalk
+attunement: false
+rarity: very-rare
+tier: minor
 ---
 # Null Chalk
 *Wondrous item, minor, very rare*  

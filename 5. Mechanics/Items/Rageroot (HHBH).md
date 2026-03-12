@@ -9,6 +9,11 @@ tags:
 aliases:
   - Rageroot
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Rageroot
 *Herb, rare*  

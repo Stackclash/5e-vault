@@ -9,6 +9,11 @@ tags:
 aliases:
   - Warship
 cost: 2500000
+attunement: false
+rarity: none
+type: vehicle
+subtype:
+  - ship-water
 ---
 # Warship
 *Ship, vehicle (water)*  

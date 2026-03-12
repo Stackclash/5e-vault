@@ -11,6 +11,12 @@ aliases:
   - Death Dog Lasher
 one-hand-damage: 1d4 slashing
 weight: 3
+attunement: false
+rarity: uncommon
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Death Dog Lasher
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), uncommon*  

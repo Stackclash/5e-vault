@@ -9,6 +9,11 @@ tags:
 aliases:
   - +2 Amulet of the Devout
 weight: 1
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: rare
 ---
 # +2 Amulet of the Devout
 *Wondrous item, rare (requires attunement by a cleric or paladin)*  

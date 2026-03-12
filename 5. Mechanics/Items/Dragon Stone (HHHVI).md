@@ -8,6 +8,8 @@ tags:
   - item/rarity/varies
 aliases:
   - Dragon Stone
+attunement: true
+rarity: varies
 ---
 # Dragon Stone
 *Wondrous item (requires attunement)*  

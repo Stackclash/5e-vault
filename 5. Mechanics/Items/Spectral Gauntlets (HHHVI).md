@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Spectral Gauntlets
+attunement: false
+rarity: rare
 ---
 # Spectral Gauntlets
 *Wondrous item, rare*  

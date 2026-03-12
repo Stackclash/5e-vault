@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sprig of Mistletoe
 cost: 100
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Sprig of Mistletoe
 *Spellcasting focus*  

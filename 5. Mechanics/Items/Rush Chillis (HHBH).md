@@ -9,6 +9,11 @@ tags:
 aliases:
   - Rush Chillis
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Rush Chillis
 *Herb, rare*  

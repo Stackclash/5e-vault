@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Dune Cowl
+attunement: false
+rarity: rare
+tier: major
 ---
 # Dune Cowl
 *Wondrous item, major, rare*  

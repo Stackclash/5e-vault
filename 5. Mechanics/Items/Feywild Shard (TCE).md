@@ -10,6 +10,13 @@ tags:
 aliases:
   - Feywild Shard
 weight: 1
+attunement: true
+attunement-requirement:
+  - sorcerer
+rarity: uncommon
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Feywild Shard
 *Wondrous item, spellcasting focus, uncommon (requires attunement by a sorcerer)*  

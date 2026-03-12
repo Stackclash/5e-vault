@@ -11,6 +11,14 @@ tags:
 aliases:
   - Fire Wand of the Unbroken Circle
 weight: 1
+attunement: true
+attunement-requirement:
+  - druid
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Fire Wand of the Unbroken Circle
 *Wand, major, rare (requires attunement by a druid)*  

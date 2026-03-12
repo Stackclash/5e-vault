@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Aged Goodberry Wine
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Aged Goodberry Wine
 *Potion, minor, rare*  

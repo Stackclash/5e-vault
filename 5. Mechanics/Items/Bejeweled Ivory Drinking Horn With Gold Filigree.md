@@ -9,6 +9,11 @@ tags:
 aliases:
   - Bejeweled ivory drinking horn with gold filigree
 cost: 750000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Bejeweled ivory drinking horn with gold filigree
 *Treasure (art object)*  

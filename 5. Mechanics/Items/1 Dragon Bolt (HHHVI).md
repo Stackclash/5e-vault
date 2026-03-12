@@ -9,6 +9,11 @@ tags:
 aliases:
   - +1 Dragon Bolt
 weight: 0.05
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - ammunition
 ---
 # +1 Dragon Bolt
 *Ammunition ([[/5. Mechanics/Items/Crossbow Bolt.md\|crossbow bolt]]), uncommon*  

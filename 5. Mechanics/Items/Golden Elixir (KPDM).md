@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Golden Elixir
+attunement: false
+rarity: legendary
+type: wondrous
+subtype:
+  - potion
 ---
 # Golden Elixir
 *Potion, legendary*  

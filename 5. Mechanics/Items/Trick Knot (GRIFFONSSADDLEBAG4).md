@@ -8,6 +8,8 @@ tags:
 aliases:
   - Trick Knot
 weight: 5
+attunement: false
+rarity: uncommon
 ---
 # Trick Knot
 *Wondrous item, uncommon*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Wishing Well Token
+attunement: false
+rarity: very-rare
 ---
 # Wishing Well Token
 *Wondrous item, very rare*  

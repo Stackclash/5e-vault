@@ -9,6 +9,11 @@ tags:
 aliases:
   - Cotton Cloth (1 sq. yd.)
 cost: 50
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Cotton Cloth (1 sq. yd.)
 *Trade good*  

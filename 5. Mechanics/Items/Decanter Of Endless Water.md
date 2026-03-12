@@ -9,6 +9,9 @@ tags:
 aliases:
   - Decanter of Endless Water
 weight: 2
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Decanter of Endless Water
 *Wondrous item, minor, uncommon*  

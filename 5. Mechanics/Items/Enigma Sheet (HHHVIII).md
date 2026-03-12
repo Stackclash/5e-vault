@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Enigma Sheet
+attunement: false
+rarity: rare
 ---
 # Enigma Sheet
 *Wondrous item, rare*  

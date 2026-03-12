@@ -9,6 +9,11 @@ tags:
 aliases:
   - Merrow Trap
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Merrow Trap
 *Herb, rare*  

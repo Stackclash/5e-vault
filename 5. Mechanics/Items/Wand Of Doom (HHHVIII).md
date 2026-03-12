@@ -9,6 +9,13 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Doom
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: legendary
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Doom
 *Wand, legendary (requires attunement by a spellcaster)*  

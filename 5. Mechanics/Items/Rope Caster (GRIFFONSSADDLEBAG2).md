@@ -12,6 +12,13 @@ aliases:
   - Rope Caster
 range: 30\120
 weight: 3
+attunement: false
+rarity: common
+tier: minor
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Rope Caster
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), minor, common*  

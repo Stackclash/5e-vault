@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Boots of Stone Strength
+attunement: true
+rarity: rare
 ---
 # Boots of Stone Strength
 *Wondrous item, rare (requires attunement)*  

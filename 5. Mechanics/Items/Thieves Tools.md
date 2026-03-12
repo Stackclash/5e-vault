@@ -10,6 +10,11 @@ aliases:
   - Thieves' Tools
 cost: 2500
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - tool
 ---
 # Thieves' Tools
 *Tool*  

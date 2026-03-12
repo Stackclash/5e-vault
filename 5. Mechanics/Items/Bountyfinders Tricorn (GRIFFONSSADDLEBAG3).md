@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bountyfinder's Tricorn
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Bountyfinder's Tricorn
 *Wondrous item, minor, uncommon*  

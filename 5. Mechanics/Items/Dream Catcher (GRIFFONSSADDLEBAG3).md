@@ -12,6 +12,13 @@ aliases:
   - Dream Catcher
 range: 5\15
 weight: 3
+attunement: false
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Dream Catcher
 *Weapon ([[/5. Mechanics/Items/Net.md\|net]]), major, very rare*  

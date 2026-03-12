@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Ring of Storm Giant Growth
+attunement: true
+rarity: very-rare
 ---
 # Ring of Storm Giant Growth
 *Wondrous item, very rare (requires attunement)*  

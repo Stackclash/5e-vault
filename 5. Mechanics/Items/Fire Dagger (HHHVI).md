@@ -12,6 +12,12 @@ aliases:
 one-hand-damage: 1d4 fire
 range: 20\60
 weight: 1
+attunement: false
+rarity: uncommon
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Fire Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), uncommon*  

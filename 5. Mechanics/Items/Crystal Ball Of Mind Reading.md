@@ -10,6 +10,9 @@ tags:
 aliases:
   - Crystal Ball of Mind Reading
 weight: 3
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Crystal Ball of Mind Reading
 *Wondrous item, major, legendary (requires attunement)*  

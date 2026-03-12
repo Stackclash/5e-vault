@@ -13,6 +13,15 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Crosier of Divine Power
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a cleric or paladin)*  

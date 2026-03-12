@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Consecrated Hunter's Crossbow
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Consecrated Hunter's Crossbow
 *Major, rare*  

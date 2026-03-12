@@ -15,6 +15,14 @@ aliases:
   - Battlement Bow
   - Battlement Longbow
   - Battlement Shortbow
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Battlement Bow
 *Major, uncommon (requires attunement)*  

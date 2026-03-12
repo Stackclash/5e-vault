@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Confidant's Ink
+attunement: false
+rarity: rare
 ---
 # Confidant's Ink
 *Wondrous item, rare*  

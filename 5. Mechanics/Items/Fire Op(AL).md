@@ -9,6 +9,11 @@ tags:
 aliases:
   - Fire Opal
 cost: 100000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Fire Opal
 *Treasure (gemstone)*  

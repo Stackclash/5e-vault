@@ -13,6 +13,13 @@ aliases:
   - Chromatic Obsidian Greataxe
 one-hand-damage: 1d12 slashing
 weight: 7
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Chromatic Obsidian Greataxe
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, rare (requires attunement)*  

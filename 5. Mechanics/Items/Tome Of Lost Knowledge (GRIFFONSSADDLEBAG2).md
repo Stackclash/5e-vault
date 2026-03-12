@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Tome of Lost Knowledge
+attunement: false
+rarity: legendary
+tier: major
 ---
 # Tome of Lost Knowledge
 *Wondrous item, cursed item, major, legendary*  

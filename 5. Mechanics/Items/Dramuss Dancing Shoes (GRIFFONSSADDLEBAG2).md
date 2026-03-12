@@ -9,6 +9,11 @@ tags:
   - item/tier/minor
 aliases:
   - Dramus's Dancing Shoes
+attunement: true
+attunement-requirement:
+  - bard
+rarity: uncommon
+tier: minor
 ---
 # Dramus's Dancing Shoes
 *Wondrous item, minor, uncommon (requires attunement by a bard)*  

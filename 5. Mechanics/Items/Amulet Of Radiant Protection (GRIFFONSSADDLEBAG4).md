@@ -8,6 +8,11 @@ tags:
   - item/rarity/legendary
 aliases:
   - Amulet of Radiant Protection
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: legendary
 ---
 # Amulet of Radiant Protection
 *Wondrous item, legendary (requires attunement by a cleric or paladin)*  

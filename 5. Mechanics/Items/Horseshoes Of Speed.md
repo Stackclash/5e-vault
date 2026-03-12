@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Horseshoes of Speed
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Horseshoes of Speed
 *Wondrous item, minor, rare*  

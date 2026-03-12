@@ -10,6 +10,16 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Necrosis
+attunement: true
+attunement-requirement:
+  - sorcerer
+  - warlock
+  - wizard
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Necrosis
 *Wand, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  

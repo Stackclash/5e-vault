@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bard-in-a-Box
+attunement: false
+rarity: common
+tier: minor
 ---
 # Bard-in-a-Box
 *Wondrous item, minor, common*  

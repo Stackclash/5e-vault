@@ -42,6 +42,14 @@ aliases:
   - Frostbite Trident
   - Frostbite War Pick
   - Frostbite Yklwa
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - ranged
+  - simple
 ---
 # Frostbite Weapon
 *Very rare (requires attunement)*  

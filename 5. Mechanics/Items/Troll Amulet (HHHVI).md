@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Troll Amulet
+attunement: true
+rarity: rare
 ---
 # Troll Amulet
 *Wondrous item, rare (requires attunement)*  

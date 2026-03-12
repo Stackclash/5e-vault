@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Mimic Gel
+attunement: false
+rarity: uncommon
+type: wondrous
+subtype:
+  - potion
 ---
 # Mimic Gel
 *Potion, uncommon*  

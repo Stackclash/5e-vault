@@ -12,6 +12,12 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Fire Brigade Staff
 *Staff, weapon, rare*  

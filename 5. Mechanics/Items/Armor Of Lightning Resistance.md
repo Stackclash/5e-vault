@@ -28,6 +28,14 @@ aliases:
   - Splint Armor of Lightning Resistance
   - Studded Leather Armor of Lightning Resistance
   - Wooden Breastplate of Lightning Resistance
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Armor of Lightning Resistance
 *Major, rare (requires attunement)*  

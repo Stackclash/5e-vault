@@ -15,6 +15,13 @@ one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
 range: 20\60
 weight: 4
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Frost Giant Fork
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), cursed item, major, rare (requires attunement)*  

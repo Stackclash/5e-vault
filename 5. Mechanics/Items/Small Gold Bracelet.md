@@ -9,6 +9,11 @@ tags:
 aliases:
   - Small gold bracelet
 cost: 2500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Small gold bracelet
 *Treasure (art object)*  

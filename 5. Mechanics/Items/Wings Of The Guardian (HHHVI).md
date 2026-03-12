@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Wings of the Guardian
+attunement: true
+rarity: very-rare
 ---
 # Wings of the Guardian
 *Wondrous item, very rare (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Drowner's Pearl
+attunement: false
+rarity: common
+tier: minor
 ---
 # Drowner's Pearl
 *Wondrous item, minor, common*  

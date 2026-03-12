@@ -9,6 +9,11 @@ tags:
 aliases:
   - +2 Dragon Arrow
 weight: 0.05
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - ammunition
 ---
 # +2 Dragon Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), rare*  

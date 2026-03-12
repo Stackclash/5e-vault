@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Cape of Helping Hands
+attunement: true
+rarity: very-rare
 ---
 # Cape of Helping Hands
 *Wondrous item, very rare (requires attunement)*  

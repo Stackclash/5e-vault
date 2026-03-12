@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Rat King Crown
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Rat King Crown
 *Wondrous item, major, uncommon (requires attunement)*  

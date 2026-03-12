@@ -9,6 +9,11 @@ tags:
 aliases:
   - Jingle Berries
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Jingle Berries
 *Herb, common*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Belt of Frost Giant Strength
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Belt of Frost Giant Strength
 *Wondrous item, major, very rare (requires attunement)*  

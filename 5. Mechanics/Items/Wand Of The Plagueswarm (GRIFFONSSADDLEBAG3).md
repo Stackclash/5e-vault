@@ -10,6 +10,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of the Plagueswarm
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of the Plagueswarm
 *Wand, cursed item, major, very rare (requires attunement)*  

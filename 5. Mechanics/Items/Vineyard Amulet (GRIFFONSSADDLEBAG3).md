@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Vineyard Amulet
+attunement: false
+rarity: common
+tier: minor
 ---
 # Vineyard Amulet
 *Wondrous item, minor, common*  

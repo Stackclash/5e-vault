@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Ravenheart's Origami Ravens
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Ravenheart's Origami Ravens
 *Wondrous item, minor, uncommon*  

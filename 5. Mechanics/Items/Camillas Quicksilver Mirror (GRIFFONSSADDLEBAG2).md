@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Camilla's Quicksilver Mirror
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Camilla's Quicksilver Mirror
 *Wondrous item, major, very rare (requires attunement)*  

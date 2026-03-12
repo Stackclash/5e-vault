@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Spell Scroll (Cantrip)
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Spell Scroll (Cantrip)
 *Scroll, minor, common*  

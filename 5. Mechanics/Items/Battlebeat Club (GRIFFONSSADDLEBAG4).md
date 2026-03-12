@@ -11,6 +11,12 @@ aliases:
   - Battlebeat Club
 one-hand-damage: 1d4 bludgeoning
 weight: 2
+attunement: false
+rarity: uncommon
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Battlebeat Club
 *Weapon ([[/5. Mechanics/Items/Club.md\|club]]), uncommon*  

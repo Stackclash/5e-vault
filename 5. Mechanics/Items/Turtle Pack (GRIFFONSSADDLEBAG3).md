@@ -9,6 +9,9 @@ tags:
 aliases:
   - Turtle Pack
 weight: 20
+attunement: false
+rarity: rare
+tier: major
 ---
 # Turtle Pack
 *Wondrous item, major, rare*  

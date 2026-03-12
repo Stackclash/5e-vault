@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Phantom Walkers
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Phantom Walkers
 *Wondrous item, minor, uncommon*  

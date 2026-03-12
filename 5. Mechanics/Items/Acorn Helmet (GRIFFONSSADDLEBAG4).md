@@ -8,6 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Acorn Helmet
+attunement: true
+rarity: uncommon
 ---
 # Acorn Helmet
 *Wondrous item, uncommon (requires attunement)*  

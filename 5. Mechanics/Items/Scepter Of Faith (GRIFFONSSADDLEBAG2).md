@@ -10,6 +10,14 @@ tags:
   - item/wondrous/rod
 aliases:
   - Scepter of Faith
+attunement: true
+attunement-requirement:
+  - cleric
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Scepter of Faith
 *Rod, major, very rare (requires attunement by a cleric)*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Crystal Ball of Farsight
+attunement: true
+rarity: rare
 ---
 # Crystal Ball of Farsight
 *Wondrous item, rare (requires attunement)*  

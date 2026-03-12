@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 2d8 piercing
 range: 80\240
 weight: 8
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Automatic Rifle
 *Weapon*  

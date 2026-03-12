@@ -9,6 +9,9 @@ tags:
 aliases:
   - Tome of Understanding
 weight: 5
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Tome of Understanding
 *Wondrous item, major, very rare*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Lupine Mask
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Lupine Mask
 *Wondrous item, major, uncommon*  

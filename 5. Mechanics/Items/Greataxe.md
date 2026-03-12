@@ -12,6 +12,12 @@ aliases:
 cost: 3000
 one-hand-damage: 1d12 slashing
 weight: 7
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Greataxe
 *Weapon*  

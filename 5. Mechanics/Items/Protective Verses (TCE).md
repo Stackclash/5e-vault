@@ -10,6 +10,13 @@ tags:
 aliases:
   - Protective Verses
 weight: 3
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Protective Verses
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  

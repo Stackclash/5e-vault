@@ -15,6 +15,14 @@ aliases:
   - Battleaxe of Hurricanes
   - Greataxe of Hurricanes
   - Handaxe of Hurricanes
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Axe of Hurricanes
 *Major, uncommon*  

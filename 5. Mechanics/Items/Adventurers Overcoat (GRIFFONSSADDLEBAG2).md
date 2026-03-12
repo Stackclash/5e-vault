@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Adventurer's Overcoat
+attunement: true
+rarity: rare
+tier: major
 ---
 # Adventurer's Overcoat
 *Wondrous item, major, rare (requires attunement)*  

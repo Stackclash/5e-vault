@@ -10,6 +10,11 @@ aliases:
   - Feed (per day)
 cost: 5
 weight: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - tack-and-harness
 ---
 # Feed (per day)
 *Tack and harness*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Minotaur Compass
+attunement: false
+rarity: uncommon
 ---
 # Minotaur Compass
 *Wondrous item, uncommon*  

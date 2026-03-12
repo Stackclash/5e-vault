@@ -8,6 +8,13 @@ tags:
   - item/rarity/rare
 aliases:
   - Hat of the Nimbus Mage
+attunement: true
+attunement-requirement:
+  - druid
+  - sorcerer
+  - warlock
+  - wizard
+rarity: rare
 ---
 # Hat of the Nimbus Mage
 *Wondrous item, rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

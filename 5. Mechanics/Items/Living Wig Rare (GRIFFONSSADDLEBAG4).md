@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Living Wig (Rare)
+attunement: false
+rarity: rare
 ---
 # Living Wig (Rare)
 *Wondrous item, rare*  

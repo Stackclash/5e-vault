@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Codex Ignis
+attunement: true
+rarity: artifact
 ---
 # Codex Ignis
 *Wondrous item, artifact (requires attunement)*  

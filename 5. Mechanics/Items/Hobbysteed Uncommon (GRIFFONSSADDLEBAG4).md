@@ -8,6 +8,8 @@ tags:
 aliases:
   - Hobbysteed (Uncommon)
 weight: 2
+attunement: false
+rarity: uncommon
 ---
 # Hobbysteed (Uncommon)
 *Wondrous item, uncommon*  

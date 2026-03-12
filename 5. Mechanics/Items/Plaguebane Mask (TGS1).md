@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Plaguebane Mask
+attunement: false
+rarity: rare
+tier: major
 ---
 # Plaguebane Mask
 *Wondrous item, major, rare*  

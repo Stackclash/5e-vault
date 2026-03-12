@@ -14,6 +14,16 @@ aliases:
 one-hand-damage: 2d8 radiant
 range: 100\400
 weight: 3
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Sunfire
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare (requires attunement by a cleric or paladin)*  

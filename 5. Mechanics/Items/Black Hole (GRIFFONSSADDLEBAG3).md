@@ -14,6 +14,13 @@ aliases:
   - Black Hole
   - Black Hole Longsword
   - Black Hole Rapier
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Black Hole
 *Major, legendary (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Domclavis
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Domclavis
 *Wondrous item, minor, uncommon*  

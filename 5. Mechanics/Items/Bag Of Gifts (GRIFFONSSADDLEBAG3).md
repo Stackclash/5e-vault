@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bag of Gifts
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Bag of Gifts
 *Wondrous item, minor, uncommon*  

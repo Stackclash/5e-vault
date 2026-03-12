@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Wispy Sour (Common)
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Wispy Sour (Common)
 *Potion, minor, common*  

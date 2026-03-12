@@ -9,6 +9,9 @@ tags:
 aliases:
   - Manual of Flesh Golems
 weight: 5
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Manual of Flesh Golems
 *Wondrous item, major, very rare*  

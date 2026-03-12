@@ -9,6 +9,11 @@ tags:
 aliases:
   - Lolth's Thorn
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Lolth's Thorn
 *Herb, rare*  

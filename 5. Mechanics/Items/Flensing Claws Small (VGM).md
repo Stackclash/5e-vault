@@ -9,6 +9,11 @@ tags:
 aliases:
   - Flensing Claws (Small)
 one-hand-damage: 1d8 slashing
+attunement: false
+rarity: unknown
+type: wondrous
+subtype:
+  - other
 ---
 # Flensing Claws (Small)
 

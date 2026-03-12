@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pipe of Delicious Smells
+attunement: false
+rarity: common
+tier: minor
 ---
 # Pipe of Delicious Smells
 *Wondrous item, minor, common*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Cloak of the Storm Spirit
+attunement: true
+rarity: legendary
 ---
 # Cloak of the Storm Spirit
 *Wondrous item, legendary (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Lotus of the Raven Queen
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Lotus of the Raven Queen
 *Herb, rare*  

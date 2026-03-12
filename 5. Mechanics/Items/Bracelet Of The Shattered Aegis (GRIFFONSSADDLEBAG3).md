@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Bracelet of the Shattered Aegis
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
 ---
 # Bracelet of the Shattered Aegis
 *Wondrous item, major, rare (requires attunement by a spellcaster)*  

@@ -10,6 +10,11 @@ aliases:
   - Holy Water (flask)
 cost: 2500
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Holy Water (flask)
 *Adventuring gear*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Contact Lenses
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Contact Lenses
 *Wondrous item, minor, uncommon (requires attunement)*  

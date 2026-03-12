@@ -9,6 +9,11 @@ tags:
 aliases:
   - Playing Card Set
 cost: 50
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - gaming-set
 ---
 # Playing Card Set
 *Gaming set*  

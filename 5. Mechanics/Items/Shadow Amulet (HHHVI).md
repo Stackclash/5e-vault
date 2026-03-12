@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Shadow Amulet
+attunement: false
+rarity: rare
 ---
 # Shadow Amulet
 *Wondrous item, rare*  

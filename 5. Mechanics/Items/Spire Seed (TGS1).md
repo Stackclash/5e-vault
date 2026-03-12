@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Spire Seed
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Spire Seed
 *Wondrous item, major, legendary (requires attunement)*  

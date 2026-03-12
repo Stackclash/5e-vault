@@ -10,6 +10,12 @@ tags:
 aliases:
   - 'Horn of Valhalla, Iron'
 weight: 2
+attunement: false
+rarity: legendary
+tier: major
+type: gear
+subtype:
+  - instrument
 ---
 # Horn of Valhalla, Iron
 *Wondrous item, instrument ([[/5. Mechanics/Items/Horn.md\|horn]]), major, legendary*  

@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Underworld Asphodel Regalia
+attunement: true
+attunement-requirement:
+  - cleric
+  - wizard
+rarity: legendary
+tier: major
 ---
 # Underworld Asphodel Regalia
 *Wondrous item, major, legendary (requires attunement by a cleric or wizard)*  

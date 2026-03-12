@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Snugglebeast (Tarrasque)
+attunement: false
+rarity: very-rare
+tier: minor
 ---
 # Snugglebeast (Tarrasque)
 *Wondrous item, minor, very rare*  

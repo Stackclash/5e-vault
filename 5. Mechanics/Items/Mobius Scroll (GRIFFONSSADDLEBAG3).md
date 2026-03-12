@@ -10,6 +10,14 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Mobius Scroll
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - scroll
 ---
 # Mobius Scroll
 *Scroll, major, rare (requires attunement by a spellcaster)*  

@@ -10,6 +10,11 @@ aliases:
   - Lute
 cost: 3500
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - instrument
 ---
 # Lute
 *Instrument*  

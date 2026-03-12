@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Cloak of the Guard
+attunement: false
+rarity: rare
 ---
 # Cloak of the Guard
 *Wondrous item, rare*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Flensing Claws (Medium)
 one-hand-damage: 1d10 slashing
+attunement: false
+rarity: unknown
+type: wondrous
+subtype:
+  - other
 ---
 # Flensing Claws (Medium)
 

@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Amulet of the Guiding Eye
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Amulet of the Guiding Eye
 *Wondrous item, minor, uncommon (requires attunement)*  

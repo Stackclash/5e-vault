@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pole of Angling
+attunement: false
+rarity: common
+tier: minor
 ---
 # Pole of Angling
 *Wondrous item, minor, common*  

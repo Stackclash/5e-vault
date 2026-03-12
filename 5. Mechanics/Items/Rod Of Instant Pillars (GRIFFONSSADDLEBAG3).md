@@ -9,6 +9,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Instant Pillars
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of Instant Pillars
 *Rod, minor, uncommon*  

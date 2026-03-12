@@ -15,6 +15,13 @@ aliases:
   - Wound Biter Pike
   - Wound Biter Spear
   - Wound Biter Whip
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Wound Biter Weapon
 *Rare (requires attunement)*  

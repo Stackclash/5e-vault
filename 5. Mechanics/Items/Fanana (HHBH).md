@@ -9,6 +9,11 @@ tags:
 aliases:
   - Fanana
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Fanana
 *Herb, common*  

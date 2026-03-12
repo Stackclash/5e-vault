@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Gloves of Pestilence
+attunement: false
+rarity: very-rare
 ---
 # Gloves of Pestilence
 *Wondrous item, very rare*  

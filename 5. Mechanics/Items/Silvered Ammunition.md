@@ -15,6 +15,12 @@ aliases:
   - Silvered Firearm Bullet
   - Silvered Needle
   - Silvered Sling Bullet
+attunement: false
+rarity: unknown
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Silvered Ammunition
 *Ammunition, minor*  

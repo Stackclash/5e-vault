@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Snugglebeasts
+attunement: false
+rarity: varies
+tier: minor
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Snugglebeasts
 *Wondrous item, minor*  

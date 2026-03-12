@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - The Chronos Codex
+attunement: true
+rarity: artifact
 ---
 # The Chronos Codex
 *Wondrous item, artifact (requires attunement)*  

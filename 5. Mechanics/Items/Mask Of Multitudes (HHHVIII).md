@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Mask of Multitudes
+attunement: true
+rarity: artifact
 ---
 # Mask of Multitudes
 *Wondrous item, cursed item, artifact (requires attunement)*  

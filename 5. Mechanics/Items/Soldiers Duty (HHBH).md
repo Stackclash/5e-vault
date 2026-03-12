@@ -9,6 +9,11 @@ tags:
 aliases:
   - Soldier's Duty
 cost: 2000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Soldier's Duty
 *Herb, rare*  

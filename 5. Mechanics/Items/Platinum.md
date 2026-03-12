@@ -10,6 +10,11 @@ aliases:
   - Platinum
 cost: 50000
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Platinum
 *Trade good*  

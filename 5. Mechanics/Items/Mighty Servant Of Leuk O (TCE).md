@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Mighty Servant of Leuk-o
+attunement: true
+rarity: artifact
 ---
 # Mighty Servant of Leuk-o
 *Wondrous item, artifact (requires attunement)*  

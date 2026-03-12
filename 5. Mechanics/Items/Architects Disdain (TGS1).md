@@ -13,6 +13,13 @@ aliases:
   - Architect's Disdain
 one-hand-damage: 1d8 piercing
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Architect's Disdain
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, very rare (requires attunement)*  

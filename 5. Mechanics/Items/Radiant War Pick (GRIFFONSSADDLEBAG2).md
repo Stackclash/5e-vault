@@ -13,6 +13,16 @@ aliases:
   - Radiant War Pick
 one-hand-damage: 1d8 piercing
 weight: 2
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Radiant War Pick
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, very rare (requires attunement by a cleric or paladin)*  

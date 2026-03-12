@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Floating Tablecloth
+attunement: false
+rarity: uncommon
 ---
 # Floating Tablecloth
 *Wondrous item, uncommon*  

@@ -10,6 +10,11 @@ aliases:
   - Jeweler's Tools
 cost: 2500
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Jeweler's Tools
 *Artisan's tools*  

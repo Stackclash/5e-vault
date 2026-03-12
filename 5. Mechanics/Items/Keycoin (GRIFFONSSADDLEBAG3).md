@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Keycoin
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Keycoin
 *Wondrous item, minor, uncommon*  

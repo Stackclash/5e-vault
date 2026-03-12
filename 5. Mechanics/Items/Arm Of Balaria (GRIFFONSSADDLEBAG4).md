@@ -13,6 +13,14 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - monk
+rarity: uncommon
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Arm of Balaria
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), uncommon (requires attunement by a monk)*  

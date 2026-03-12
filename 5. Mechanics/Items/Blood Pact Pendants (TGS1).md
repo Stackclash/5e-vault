@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Blood Pact Pendants
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Blood Pact Pendants
 *Wondrous item, major, very rare*  

@@ -11,6 +11,12 @@ tags:
 aliases:
   - Rod of Alertness
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of Alertness
 *Rod, major, very rare (requires attunement)*  

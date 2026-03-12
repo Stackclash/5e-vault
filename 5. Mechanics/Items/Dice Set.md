@@ -9,6 +9,11 @@ tags:
 aliases:
   - Dice Set
 cost: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - gaming-set
 ---
 # Dice Set
 *Gaming set*  

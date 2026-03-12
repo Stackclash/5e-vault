@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Mercenary's Pauldron
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Mercenary's Pauldron
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Camouflage Chitin
 armorClass: 13 + Dex modifier (max of +2)
+attunement: false
+rarity: rare
+type: armor
+subtype:
+  - medium
 ---
 # Camouflage Chitin
 *Medium armor, rare*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Box of turquoise animal figurines
 cost: 25000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Box of turquoise animal figurines
 *Treasure (art object)*  

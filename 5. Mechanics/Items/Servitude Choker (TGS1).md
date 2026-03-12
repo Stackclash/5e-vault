@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Servitude Choker
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Servitude Choker
 *Wondrous item, major, uncommon (requires attunement)*  

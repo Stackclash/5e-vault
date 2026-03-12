@@ -8,6 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Raxivort's Boon
+attunement: true
+rarity: uncommon
 ---
 # Raxivort's Boon
 *Wondrous item, uncommon (requires attunement)*  

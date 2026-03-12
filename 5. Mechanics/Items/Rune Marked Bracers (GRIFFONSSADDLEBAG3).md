@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Rune-Marked Bracers
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Rune-Marked Bracers
 *Wondrous item, major, very rare (requires attunement)*  

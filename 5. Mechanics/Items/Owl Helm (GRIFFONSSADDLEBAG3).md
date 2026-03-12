@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Owl Helm
+attunement: false
+rarity: common
+tier: minor
 ---
 # Owl Helm
 *Wondrous item, minor, common*  

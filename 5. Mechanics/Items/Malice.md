@@ -9,6 +9,11 @@ tags:
 aliases:
   - Malice
 cost: 25000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Malice
 *Adventuring gear, poison (inhaled)*  

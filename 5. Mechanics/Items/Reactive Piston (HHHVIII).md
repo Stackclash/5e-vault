@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Reactive Piston
+attunement: false
+rarity: uncommon
 ---
 # Reactive Piston
 *Wondrous item, uncommon*  

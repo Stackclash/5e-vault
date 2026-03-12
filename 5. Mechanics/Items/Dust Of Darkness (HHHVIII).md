@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Dust of Darkness
+attunement: false
+rarity: rare
 ---
 # Dust of Darkness
 *Wondrous item, rare*  

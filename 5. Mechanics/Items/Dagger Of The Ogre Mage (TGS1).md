@@ -13,6 +13,13 @@ aliases:
   - Dagger of the Ogre Mage
 one-hand-damage: 1d6 piercing
 weight: 2
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Dagger of the Ogre Mage
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, uncommon (requires attunement)*  

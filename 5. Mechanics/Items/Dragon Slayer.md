@@ -17,6 +17,13 @@ aliases:
   - Dragon Slayer Rapier
   - Dragon Slayer Scimitar
   - Dragon Slayer Shortsword
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Dragon Slayer
 *Major, rare*  

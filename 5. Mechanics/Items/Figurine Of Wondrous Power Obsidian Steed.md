@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Figurine of Wondrous Power, Obsidian Steed'
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Figurine of Wondrous Power, Obsidian Steed
 *Wondrous item, major, very rare*  

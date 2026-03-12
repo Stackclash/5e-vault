@@ -14,6 +14,14 @@ one-hand-damage: 1d6 piercing
 two-hand-damage: 1d8 piercing
 range: 20\60
 weight: 4
+attunement: true
+attunement-requirement:
+  - creature that worships a god of the sea
+rarity: legendary
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Wave
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), legendary (requires attunement by a creature that worships a god of the sea)*  

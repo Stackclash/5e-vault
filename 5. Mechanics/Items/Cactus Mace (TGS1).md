@@ -12,6 +12,13 @@ aliases:
   - Cactus Mace
 one-hand-damage: 1d6 bludgeoning
 weight: 4
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Cactus Mace
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, uncommon*  

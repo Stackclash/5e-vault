@@ -14,6 +14,15 @@ aliases:
 one-hand-damage: 1d8 bludgeoning
 two-hand-damage: 1d10 bludgeoning
 weight: 2
+attunement: true
+attunement-requirement:
+  - barbarian
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Furious Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, very rare (requires attunement by a barbarian)*  

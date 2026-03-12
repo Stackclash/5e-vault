@@ -13,6 +13,13 @@ aliases:
   - Glaive of the Revenant King
 one-hand-damage: 1d10 slashing
 weight: 6
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Glaive of the Revenant King
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, legendary (requires attunement)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Quiver of Elemental Chaos
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Quiver of Elemental Chaos
 *Wondrous item, major, legendary (requires attunement)*  

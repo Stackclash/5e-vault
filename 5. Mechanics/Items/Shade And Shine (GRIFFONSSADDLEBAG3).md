@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d6 slashing
 range: 20\60
 weight: 2
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Shade and Shine
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, legendary (requires attunement)*  

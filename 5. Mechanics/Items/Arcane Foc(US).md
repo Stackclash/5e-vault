@@ -8,6 +8,11 @@ tags:
   - item/rarity/none
 aliases:
   - Arcane Focus
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Arcane Focus
 *Spellcasting focus*  

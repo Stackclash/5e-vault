@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Hat of Disguise
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Hat of Disguise
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -9,6 +9,13 @@ tags:
   - item/tier/major
 aliases:
   - Astral Bracelet of Planebending
+attunement: true
+attunement-requirement:
+  - sorcerer
+  - warlock
+  - wizard
+rarity: very-rare
+tier: major
 ---
 # Astral Bracelet of Planebending
 *Wondrous item, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  

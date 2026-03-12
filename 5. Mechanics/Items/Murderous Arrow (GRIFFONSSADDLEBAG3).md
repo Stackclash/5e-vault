@@ -10,6 +10,12 @@ tags:
 aliases:
   - Murderous Arrow
 weight: 0.05
+attunement: false
+rarity: rare
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Murderous Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  

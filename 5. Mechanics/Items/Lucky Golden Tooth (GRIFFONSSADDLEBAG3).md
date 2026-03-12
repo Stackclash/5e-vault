@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Lucky Golden Tooth
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Lucky Golden Tooth
 *Wondrous item, minor, uncommon (requires attunement)*  

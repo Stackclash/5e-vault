@@ -10,6 +10,11 @@ aliases:
   - Fire Arrow
 one-hand-damage: 1d6 fire
 weight: 0.05
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - ammunition
 ---
 # Fire Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), uncommon*  

@@ -10,6 +10,12 @@ tags:
 aliases:
   - Rooting Arrows (Ivy)
 weight: 0.05
+attunement: false
+rarity: uncommon
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Rooting Arrows (Ivy)
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  

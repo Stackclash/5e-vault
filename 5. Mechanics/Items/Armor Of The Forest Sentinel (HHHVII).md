@@ -11,6 +11,13 @@ aliases:
   - Armor of the Forest Sentinel
 armorClass: 17
 weight: 60
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+rarity: rare
+type: armor
+subtype:
+  - heavy
 ---
 # Armor of the Forest Sentinel
 *Heavy armor ([[/5. Mechanics/Items/Splint Armor.md\|splint armor]]), rare (requires attunement)*  

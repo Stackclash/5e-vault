@@ -9,6 +9,13 @@ tags:
   - item/wondrous/rod
 aliases:
   - Honey Scepter
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: very-rare
+type: wondrous
+subtype:
+  - rod
 ---
 # Honey Scepter
 *Rod, very rare (requires attunement by a spellcaster)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Jellyfish Vine
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Jellyfish Vine
 *Herb, rare*  

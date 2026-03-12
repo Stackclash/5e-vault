@@ -12,6 +12,14 @@ aliases:
   - Life's Edge
 one-hand-damage: 2d6 slashing
 weight: 6
+attunement: true
+attunement-requirement:
+  - paladin
+rarity: legendary
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Life's Edge
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement by a paladin)*  

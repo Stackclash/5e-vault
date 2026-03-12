@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Efreeti Bangles
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Efreeti Bangles
 *Wondrous item, major, legendary (requires attunement)*  

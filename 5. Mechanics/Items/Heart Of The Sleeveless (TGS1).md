@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Heart of the Sleeveless
+attunement: false
+rarity: common
+tier: minor
 ---
 # Heart of the Sleeveless
 *Wondrous item, minor, common*  

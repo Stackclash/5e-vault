@@ -13,6 +13,18 @@ aliases:
   - Violet King's Promise
 one-hand-damage: 1d8 piercing
 weight: 2
+attunement: true
+attunement-requirement:
+  - bard
+  - cleric
+  - paladin
+  - ranger
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Violet King's Promise
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, legendary (requires attunement by a bard, cleric, paladin, or ranger)*  

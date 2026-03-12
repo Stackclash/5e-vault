@@ -12,6 +12,13 @@ aliases:
   - Monsterbane Lasher
 one-hand-damage: 1d4 slashing
 weight: 3
+attunement: false
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Monsterbane Lasher
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, very rare*  

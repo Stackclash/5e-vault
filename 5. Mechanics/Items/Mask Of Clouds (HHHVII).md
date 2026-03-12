@@ -8,6 +8,11 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Mask of Clouds
+attunement: true
+attunement-requirement:
+  - bard
+  - trickster domain cleric
+rarity: very-rare
 ---
 # Mask of Clouds
 *Wondrous item, very rare (requires attunement by a bard or [[/5. Mechanics/Classes/Cleric.md\|Trickster Domain]] cleric)*  

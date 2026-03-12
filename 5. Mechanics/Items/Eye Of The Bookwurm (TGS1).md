@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Eye of the Bookwurm
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Eye of the Bookwurm
 *Wondrous item, minor, uncommon*  

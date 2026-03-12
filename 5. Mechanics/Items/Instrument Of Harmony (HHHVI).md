@@ -9,6 +9,13 @@ tags:
   - item/rarity/rare
 aliases:
   - Instrument of Harmony
+attunement: true
+attunement-requirement:
+  - character with proficiency in at least one stringed instrument
+rarity: rare
+type: gear
+subtype:
+  - instrument
 ---
 # Instrument of Harmony
 *Wondrous item, instrument, rare (requires attunement by a character with proficiency in at least one stringed instrument)*  

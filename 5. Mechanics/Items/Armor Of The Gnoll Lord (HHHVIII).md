@@ -11,6 +11,11 @@ aliases:
   - Armor of the Gnoll Lord
 armorClass: 12 + Dex modifier
 weight: 13
+attunement: true
+rarity: artifact
+type: armor
+subtype:
+  - light
 ---
 # Armor of the Gnoll Lord
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), cursed item, artifact (requires attunement)*  

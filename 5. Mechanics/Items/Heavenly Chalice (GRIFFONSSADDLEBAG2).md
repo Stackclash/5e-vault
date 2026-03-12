@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Heavenly Chalice
+attunement: false
+rarity: rare
+tier: major
 ---
 # Heavenly Chalice
 *Wondrous item, major, rare*  

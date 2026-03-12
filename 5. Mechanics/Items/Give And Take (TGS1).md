@@ -13,6 +13,13 @@ aliases:
   - Give and Take
 one-hand-damage: 1d6 slashing
 weight: 3
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Give and Take
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  

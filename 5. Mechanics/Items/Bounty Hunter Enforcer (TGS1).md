@@ -14,6 +14,13 @@ one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 range: 20\60
 weight: 3
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Bounty Hunter Enforcer
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, uncommon*  

@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Wailing Ring
+attunement: true
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Wailing Ring
 *Ring, major, uncommon (requires attunement)*  

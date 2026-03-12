@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Clockwork Earwig
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Clockwork Earwig
 *Wondrous item, major, uncommon*  

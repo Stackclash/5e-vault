@@ -12,6 +12,16 @@ aliases:
   - Heavy Golem Armor
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+attunement-requirement:
+  - small humanoid
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
 ---
 # Heavy Golem Armor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, rare (requires attunement by a Small humanoid)*  

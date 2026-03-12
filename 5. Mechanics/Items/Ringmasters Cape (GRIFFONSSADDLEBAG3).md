@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Ringmaster's Cape
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Ringmaster's Cape
 *Wondrous item, major, uncommon (requires attunement)*  

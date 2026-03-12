@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Dragon's Mercy (Wyrmling)
+attunement: false
+rarity: uncommon
 ---
 # Dragon's Mercy (Wyrmling)
 *Wondrous item, uncommon*  

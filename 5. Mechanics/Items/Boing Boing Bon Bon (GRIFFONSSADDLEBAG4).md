@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Boing Boing Bon Bon
+attunement: false
+rarity: uncommon
 ---
 # Boing Boing Bon Bon
 *Wondrous item, uncommon*  

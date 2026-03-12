@@ -9,6 +9,13 @@ tags:
   - item/rarity/rare
 aliases:
   - Reveler's Concertina
+attunement: true
+attunement-requirement:
+  - bard
+rarity: rare
+type: gear
+subtype:
+  - instrument
 ---
 # Reveler's Concertina
 *Wondrous item, instrument, rare (requires attunement by a bard)*  

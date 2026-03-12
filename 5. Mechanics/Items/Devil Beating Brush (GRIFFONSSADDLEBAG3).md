@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Devil-Beating Brush
+attunement: false
+rarity: rare
+tier: major
 ---
 # Devil-Beating Brush
 *Wondrous item, major, rare*  

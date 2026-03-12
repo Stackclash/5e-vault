@@ -9,6 +9,11 @@ tags:
 aliases:
   - Bronze crown
 cost: 25000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Bronze crown
 *Treasure (art object)*  

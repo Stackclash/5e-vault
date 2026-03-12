@@ -12,6 +12,14 @@ aliases:
   - Impact Plate
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+rarity: very-rare
+tier: major
+type: armor
+subtype:
+  - heavy
 ---
 # Impact Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare (requires attunement)*  

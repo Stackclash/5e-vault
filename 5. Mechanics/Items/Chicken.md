@@ -9,6 +9,11 @@ tags:
 aliases:
   - Chicken
 cost: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Chicken
 *Trade good*  

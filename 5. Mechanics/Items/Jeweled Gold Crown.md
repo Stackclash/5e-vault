@@ -9,6 +9,11 @@ tags:
 aliases:
   - Jeweled gold crown
 cost: 750000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Jeweled gold crown
 *Treasure (art object)*  

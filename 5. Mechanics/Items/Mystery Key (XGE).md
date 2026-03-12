@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Mystery Key
+attunement: false
+rarity: common
+tier: minor
 ---
 # Mystery Key
 *Wondrous item, minor, common*  

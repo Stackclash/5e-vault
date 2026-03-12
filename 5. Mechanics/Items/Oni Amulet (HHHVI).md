@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Oni Amulet
+attunement: true
+rarity: very-rare
 ---
 # Oni Amulet
 *Wondrous item, very rare (requires attunement)*  

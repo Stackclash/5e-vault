@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Helm of Brilliance
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Helm of Brilliance
 *Wondrous item, major, very rare (requires attunement)*  

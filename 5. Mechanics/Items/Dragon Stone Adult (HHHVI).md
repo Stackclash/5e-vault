@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Dragon Stone (Adult)
+attunement: true
+rarity: very-rare
 ---
 # Dragon Stone (Adult)
 *Wondrous item, very rare (requires attunement)*  

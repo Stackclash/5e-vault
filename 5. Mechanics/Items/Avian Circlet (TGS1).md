@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Avian Circlet
+attunement: false
+rarity: rare
+tier: major
 ---
 # Avian Circlet
 *Wondrous item, major, rare*  

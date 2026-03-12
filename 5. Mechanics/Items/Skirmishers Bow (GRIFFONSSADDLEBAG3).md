@@ -14,6 +14,14 @@ aliases:
   - Skirmisher's Bow
   - Skirmisher's Longbow
   - Skirmisher's Shortbow
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Skirmisher's Bow
 *Major, rare*  

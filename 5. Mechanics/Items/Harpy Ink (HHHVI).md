@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Harpy Ink
+attunement: false
+rarity: uncommon
 ---
 # Harpy Ink
 *Wondrous item, uncommon*  

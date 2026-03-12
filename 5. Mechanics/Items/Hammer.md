@@ -10,6 +10,11 @@ aliases:
   - Hammer
 cost: 100
 weight: 3
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Hammer
 *Adventuring gear*  

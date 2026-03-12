@@ -12,6 +12,12 @@ aliases:
 cost: 2500
 one-hand-damage: 1d8 piercing
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Rapier
 *Weapon*  

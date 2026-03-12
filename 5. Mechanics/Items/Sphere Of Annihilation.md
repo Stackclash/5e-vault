@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Sphere of Annihilation
+attunement: false
+rarity: legendary
+tier: major
 ---
 # Sphere of Annihilation
 *Wondrous item, major, legendary*  

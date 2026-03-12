@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Amulet of Immutability
+attunement: true
+rarity: rare
+tier: major
 ---
 # Amulet of Immutability
 *Wondrous item, major, rare (requires attunement)*  

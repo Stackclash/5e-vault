@@ -9,6 +9,11 @@ tags:
 aliases:
   - Basilisk's Appetiser
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Basilisk's Appetiser
 *Herb, common*  

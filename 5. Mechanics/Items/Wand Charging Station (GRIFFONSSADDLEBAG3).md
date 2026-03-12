@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Wand Charging Station
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Wand Charging Station
 *Wondrous item, minor, rare*  

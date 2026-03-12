@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Vancian Helm
+attunement: true
+rarity: rare
+tier: major
 ---
 # Vancian Helm
 *Wondrous item, major, rare (requires attunement)*  

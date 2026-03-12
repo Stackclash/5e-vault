@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Salamander Flame Gauntlets
+attunement: true
+rarity: rare
+tier: major
 ---
 # Salamander Flame Gauntlets
 *Wondrous item, major, rare (requires attunement)*  

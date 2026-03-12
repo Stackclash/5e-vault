@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Mantle of Security
+attunement: true
+rarity: rare
+tier: major
 ---
 # Mantle of Security
 *Wondrous item, major, rare (requires attunement)*  

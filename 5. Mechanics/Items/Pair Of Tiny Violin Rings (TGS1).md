@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Pair of Tiny Violin Rings
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Pair of Tiny Violin Rings
 *Ring, minor, common*  

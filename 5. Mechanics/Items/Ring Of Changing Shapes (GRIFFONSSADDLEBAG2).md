@@ -10,6 +10,14 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Changing Shapes
+attunement: true
+attunement-requirement:
+  - sorcerer
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Changing Shapes
 *Ring, major, rare (requires attunement by a sorcerer)*  

@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d4 piercing
 range: 40\80
 weight: 1
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Purging Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  

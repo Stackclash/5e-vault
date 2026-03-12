@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Hand Mirror of the Medusa
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Hand Mirror of the Medusa
 *Wondrous item, major, very rare*  

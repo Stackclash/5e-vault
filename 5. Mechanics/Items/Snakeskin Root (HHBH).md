@@ -9,6 +9,11 @@ tags:
 aliases:
   - Snakeskin Root
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Snakeskin Root
 *Herb, common*  

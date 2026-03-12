@@ -10,6 +10,13 @@ tags:
 aliases:
   - Far Realm Shard
 weight: 1
+attunement: true
+attunement-requirement:
+  - sorcerer
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Far Realm Shard
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  

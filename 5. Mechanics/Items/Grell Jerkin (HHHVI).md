@@ -11,6 +11,11 @@ aliases:
   - Grell Jerkin
 armorClass: 11 + Dex modifier
 weight: 10
+attunement: true
+rarity: uncommon
+type: armor
+subtype:
+  - light
 ---
 # Grell Jerkin
 *Light armor ([[/5. Mechanics/Items/Leather Armor.md\|leather armor]]), uncommon (requires attunement)*  

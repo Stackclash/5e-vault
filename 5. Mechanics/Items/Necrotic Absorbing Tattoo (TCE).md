@@ -9,6 +9,11 @@ tags:
   - item/wondrous/tattoo
 aliases:
   - Necrotic Absorbing Tattoo
+attunement: true
+rarity: very-rare
+type: wondrous
+subtype:
+  - tattoo
 ---
 # Necrotic Absorbing Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  

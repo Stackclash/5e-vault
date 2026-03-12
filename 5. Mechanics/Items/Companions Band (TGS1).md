@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Companion's Band
+attunement: true
+rarity: common
+tier: minor
 ---
 # Companion's Band
 *Wondrous item, minor, common (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bag of Goodberry Gummy Fish
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Bag of Goodberry Gummy Fish
 *Wondrous item, minor, uncommon*  

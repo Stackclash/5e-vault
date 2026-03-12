@@ -8,6 +8,8 @@ tags:
 aliases:
   - Windswept Kite
 weight: 1
+attunement: false
+rarity: uncommon
 ---
 # Windswept Kite
 *Wondrous item, uncommon*  

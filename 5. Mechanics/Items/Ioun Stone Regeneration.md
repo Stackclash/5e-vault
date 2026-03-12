@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Ioun Stone, Regeneration'
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Ioun Stone, Regeneration
 *Wondrous item, major, legendary (requires attunement)*  

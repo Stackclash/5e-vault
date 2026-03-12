@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Chain of Violence
+attunement: false
+rarity: very-rare
 ---
 # Chain of Violence
 *Wondrous item, very rare*  

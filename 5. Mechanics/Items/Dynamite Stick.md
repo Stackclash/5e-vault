@@ -10,6 +10,11 @@ tags:
 aliases:
   - Dynamite (stick)
 weight: 1
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - explosive
 ---
 # Dynamite (stick)
 *Explosive*  

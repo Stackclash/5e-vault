@@ -10,6 +10,8 @@ aliases:
   - Tri-Horn Shield
 armorClass: 2
 weight: 6
+attunement: false
+rarity: uncommon
 ---
 # Tri-Horn Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), uncommon*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bonfire Charm
+attunement: false
+rarity: common
+tier: minor
 ---
 # Bonfire Charm
 *Wondrous item, minor, common*  

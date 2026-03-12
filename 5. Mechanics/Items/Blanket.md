@@ -10,6 +10,11 @@ aliases:
   - Blanket
 cost: 50
 weight: 3
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Blanket
 *Adventuring gear*  

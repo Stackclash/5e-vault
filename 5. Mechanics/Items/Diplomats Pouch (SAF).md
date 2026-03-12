@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Diplomat's Pouch
+attunement: false
+rarity: uncommon
 ---
 # Diplomat's Pouch
 *Wondrous item, uncommon*  

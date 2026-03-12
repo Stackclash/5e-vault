@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Reversal Boots
+attunement: false
+rarity: uncommon
 ---
 # Reversal Boots
 *Wondrous item, uncommon*  

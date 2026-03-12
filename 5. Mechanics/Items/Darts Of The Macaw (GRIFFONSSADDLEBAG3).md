@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Darts of the Macaw
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Darts of the Macaw
 *Minor, uncommon*  

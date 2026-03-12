@@ -9,6 +9,9 @@ tags:
 aliases:
   - Iron Flask
 weight: 1
+attunement: false
+rarity: legendary
+tier: major
 ---
 # Iron Flask
 *Wondrous item, major, legendary*  

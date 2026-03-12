@@ -9,6 +9,11 @@ tags:
 aliases:
   - Elephant
 cost: 20000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - mount
 ---
 # Elephant
 *Mount*  

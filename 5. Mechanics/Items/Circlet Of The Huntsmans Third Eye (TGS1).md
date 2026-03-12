@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Circlet of the Huntsman's Third Eye
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Circlet of the Huntsman's Third Eye
 *Wondrous item, cursed item, major, very rare (requires attunement)*  

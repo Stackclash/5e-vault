@@ -10,6 +10,11 @@ aliases:
   - Flask
 cost: 2
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Flask
 *Adventuring gear*  

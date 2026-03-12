@@ -9,6 +9,9 @@ tags:
 aliases:
   - Bag of Beans
 weight: 0.5
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Bag of Beans
 *Wondrous item, minor, rare*  

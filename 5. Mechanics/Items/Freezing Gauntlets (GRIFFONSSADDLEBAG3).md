@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Freezing Gauntlets
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Freezing Gauntlets
 *Wondrous item, major, very rare (requires attunement)*  

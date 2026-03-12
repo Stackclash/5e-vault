@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Living Dentures
+attunement: false
+rarity: common
 ---
 # Living Dentures
 *Wondrous item, common*  

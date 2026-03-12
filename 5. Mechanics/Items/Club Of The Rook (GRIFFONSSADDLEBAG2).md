@@ -12,6 +12,13 @@ aliases:
   - Club of the Rook
 one-hand-damage: 1d4 bludgeoning
 weight: 2
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Club of the Rook
 *Weapon ([[/5. Mechanics/Items/Club.md\|club]]), major, uncommon*  

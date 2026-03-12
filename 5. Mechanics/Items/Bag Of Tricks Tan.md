@@ -9,6 +9,9 @@ tags:
 aliases:
   - 'Bag of Tricks, Tan'
 weight: 0.5
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Bag of Tricks, Tan
 *Wondrous item, major, uncommon*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Second Fiddle
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Second Fiddle
 *Wondrous item, major, uncommon*  

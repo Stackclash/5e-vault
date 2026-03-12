@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Rose Quartz Koi
+attunement: false
+rarity: common
+tier: minor
 ---
 # Rose Quartz Koi
 *Wondrous item, minor, common*  

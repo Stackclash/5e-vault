@@ -11,6 +11,11 @@ aliases:
 cost: 4500
 armorClass: 12 + Dex modifier
 weight: 13
+attunement: false
+rarity: none
+type: armor
+subtype:
+  - light
 ---
 # Studded Leather Armor
 *Light armor*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Mule
 cost: 800
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - mount
 ---
 # Mule
 *Mount*  

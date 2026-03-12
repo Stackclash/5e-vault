@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Amulet of the Closed Heart
+attunement: true
+rarity: rare
 ---
 # Amulet of the Closed Heart
 *Wondrous item, rare (requires attunement)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Soul Pendant
+attunement: true
+rarity: rare
+tier: major
 ---
 # Soul Pendant
 *Wondrous item, major, rare (requires attunement)*  

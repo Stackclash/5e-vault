@@ -9,6 +9,9 @@ tags:
 aliases:
   - Griffon Coinpouch
 weight: 1
+attunement: false
+rarity: common
+tier: minor
 ---
 # Griffon Coinpouch
 *Wondrous item, minor, common*  

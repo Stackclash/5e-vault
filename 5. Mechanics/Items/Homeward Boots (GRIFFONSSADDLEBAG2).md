@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Homeward Boots
+attunement: true
+rarity: rare
+tier: major
 ---
 # Homeward Boots
 *Wondrous item, major, rare (requires attunement)*  

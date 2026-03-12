@@ -9,6 +9,13 @@ tags:
   - item/tier/major
 aliases:
   - Everglacier Prosthesis
+attunement: true
+attunement-requirement:
+  - creature missing a hand
+  - arm
+  - leg
+rarity: rare
+tier: major
 ---
 # Everglacier Prosthesis
 *Wondrous item, major, rare (requires attunement by a creature missing a hand, arm, or leg)*  

@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Ruined Flesh
+attunement: false
+rarity: common
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Ruined Flesh
 *Potion, common*  

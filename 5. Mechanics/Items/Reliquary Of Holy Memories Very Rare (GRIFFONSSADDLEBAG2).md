@@ -12,6 +12,15 @@ tags:
 aliases:
   - Reliquary of Holy Memories (Very Rare)
 one-hand-damage: 1d6 bludgeoning
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Reliquary of Holy Memories (Very Rare)
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), rod, major, very rare (requires attunement by a cleric or paladin)*  

@@ -8,6 +8,10 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Cloak of Hellish Legacies
+attunement: true
+attunement-requirement:
+  - tiefling
+rarity: very-rare
 ---
 # Cloak of Hellish Legacies
 *Wondrous item, very rare (requires attunement by a tiefling)*  

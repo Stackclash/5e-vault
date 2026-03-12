@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Amulet of Spiritual Obfuscation
+attunement: false
+rarity: very-rare
 ---
 # Amulet of Spiritual Obfuscation
 *Wondrous item, very rare*  

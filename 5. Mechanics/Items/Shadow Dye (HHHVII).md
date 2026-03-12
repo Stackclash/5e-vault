@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Shadow Dye
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Shadow Dye
 *Potion, rare*  

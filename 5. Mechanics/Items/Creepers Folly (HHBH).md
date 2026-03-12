@@ -9,6 +9,11 @@ tags:
 aliases:
   - Creeper's Folly
 cost: 10000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Creeper's Folly
 *Herb, rare*  

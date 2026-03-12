@@ -8,6 +8,11 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Perpetual Momentum
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Perpetual Momentum
 *Ring, rare*  

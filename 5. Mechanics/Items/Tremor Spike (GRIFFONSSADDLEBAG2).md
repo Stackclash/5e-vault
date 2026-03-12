@@ -10,6 +10,12 @@ tags:
 aliases:
   - Tremor Spike
 weight: 15
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Tremor Spike
 *Rod, major, rare*  

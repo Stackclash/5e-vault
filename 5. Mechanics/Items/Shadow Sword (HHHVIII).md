@@ -12,6 +12,12 @@ aliases:
   - Shadow Sword
 one-hand-damage: 1d6 piercing
 weight: 2
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Shadow Sword
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), rare (requires attunement)*  

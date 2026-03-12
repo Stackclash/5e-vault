@@ -10,6 +10,11 @@ aliases:
   - Abacus
 cost: 200
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Abacus
 *Adventuring gear*  

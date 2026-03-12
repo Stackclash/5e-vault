@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Illusionist's Bookmark
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: very-rare
+tier: major
 ---
 # Illusionist's Bookmark
 *Wondrous item, major, very rare (requires attunement by a wizard)*  

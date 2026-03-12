@@ -9,6 +9,11 @@ tags:
 aliases:
   - Ale (gallon)
 cost: 20
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - food-and-drink
 ---
 # Ale (gallon)
 *Food and drink*  

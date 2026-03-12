@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Boots of Levitation
+attunement: true
+rarity: rare
+tier: major
 ---
 # Boots of Levitation
 *Wondrous item, major, rare (requires attunement)*  

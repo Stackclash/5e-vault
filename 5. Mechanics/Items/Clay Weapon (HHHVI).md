@@ -9,6 +9,11 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Clay Weapon
+attunement: true
+rarity: rare
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Clay Weapon
 *Rare (requires attunement)*  

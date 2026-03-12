@@ -10,6 +10,11 @@ aliases:
   - Copper
 cost: 50
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Copper
 *Trade good*  

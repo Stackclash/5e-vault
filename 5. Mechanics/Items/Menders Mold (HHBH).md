@@ -9,6 +9,11 @@ tags:
 aliases:
   - Mender's Mold
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Mender's Mold
 *Herb, common*  

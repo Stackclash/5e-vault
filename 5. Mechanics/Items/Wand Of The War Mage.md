@@ -11,6 +11,14 @@ tags:
 aliases:
   - Wand of the War Mage
 weight: 1
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: varies
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of the War Mage
 *Wand, major (requires attunement by a spellcaster)*  

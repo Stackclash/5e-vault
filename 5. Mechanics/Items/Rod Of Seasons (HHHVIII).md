@@ -8,6 +8,11 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Seasons
+attunement: false
+rarity: very-rare
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of Seasons
 *Rod, very rare*  

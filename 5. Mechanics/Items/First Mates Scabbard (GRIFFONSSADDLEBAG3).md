@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - First Mate's Scabbard
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # First Mate's Scabbard
 *Wondrous item, major, uncommon*  

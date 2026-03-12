@@ -9,6 +9,9 @@ tags:
 aliases:
   - Eversmoking Bottle
 weight: 1
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Eversmoking Bottle
 *Wondrous item, major, uncommon*  

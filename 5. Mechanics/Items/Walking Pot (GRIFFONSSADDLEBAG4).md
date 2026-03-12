@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Walking Pot
+attunement: false
+rarity: common
 ---
 # Walking Pot
 *Wondrous item, common*  

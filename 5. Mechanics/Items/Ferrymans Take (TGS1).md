@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Ferryman's Take
+attunement: false
+rarity: rare
+tier: major
 ---
 # Ferryman's Take
 *Wondrous item, major, rare*  

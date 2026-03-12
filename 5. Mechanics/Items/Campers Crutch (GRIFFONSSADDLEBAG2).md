@@ -12,6 +12,13 @@ aliases:
   - Camper's Crutch
 one-hand-damage: 1d6 bludgeoning
 weight: 4
+attunement: false
+rarity: common
+tier: minor
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Camper's Crutch
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), minor, common*  

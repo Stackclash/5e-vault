@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Catnip Amulet
+attunement: false
+rarity: common
+tier: minor
 ---
 # Catnip Amulet
 *Wondrous item, minor, common*  

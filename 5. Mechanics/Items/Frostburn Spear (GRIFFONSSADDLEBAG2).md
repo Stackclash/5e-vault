@@ -13,6 +13,13 @@ aliases:
 one-hand-damage: 1d6 piercing
 range: 30\120
 weight: 2
+attunement: false
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Frostburn Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, very rare*  

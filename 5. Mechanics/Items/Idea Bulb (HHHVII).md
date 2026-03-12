@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Idea Bulb
+attunement: false
+rarity: common
 ---
 # Idea Bulb
 *Wondrous item, common*  

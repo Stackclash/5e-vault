@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Wisplight Lantern
+attunement: false
+rarity: rare
+tier: major
 ---
 # Wisplight Lantern
 *Wondrous item, major, rare*  

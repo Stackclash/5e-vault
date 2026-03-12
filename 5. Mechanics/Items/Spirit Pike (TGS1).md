@@ -13,6 +13,15 @@ aliases:
   - Spirit Pike
 one-hand-damage: 1d10 piercing
 weight: 18
+attunement: true
+attunement-requirement:
+  - cleric
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Spirit Pike
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, rare (requires attunement by a cleric)*  

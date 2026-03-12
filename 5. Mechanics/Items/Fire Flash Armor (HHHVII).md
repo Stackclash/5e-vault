@@ -10,6 +10,11 @@ tags:
 aliases:
   - Fire Flash Armor
   - Fire Flash Bone Plate Armor
+attunement: false
+rarity: very-rare
+type: armor
+subtype:
+  - heavy
 ---
 # Fire Flash Armor
 *Very rare*  

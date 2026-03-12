@@ -11,6 +11,12 @@ aliases:
   - Debilitating Whip
 one-hand-damage: 1d4 slashing
 weight: 3
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Debilitating Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), rare*  

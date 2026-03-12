@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Dino-Helm
+attunement: false
+rarity: uncommon
 ---
 # Dino-Helm
 *Wondrous item, uncommon*  

@@ -10,6 +10,9 @@ tags:
 aliases:
   - Beard Cannon
 weight: 1
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Beard Cannon
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Platinum Star
 cost: 10000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Platinum Star
 *Herb, rare*  

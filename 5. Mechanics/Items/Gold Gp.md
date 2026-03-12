@@ -10,6 +10,11 @@ aliases:
   - Gold (gp)
 cost: 100
 weight: 0.02
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-coinage
 ---
 # Gold (gp)
 *Treasure (coinage)*  

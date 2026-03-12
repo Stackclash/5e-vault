@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Glove of the Grim Fandango
+attunement: true
+attunement-requirement:
+  - bard
+rarity: rare
+tier: major
 ---
 # Glove of the Grim Fandango
 *Wondrous item, major, rare (requires attunement by a bard)*  

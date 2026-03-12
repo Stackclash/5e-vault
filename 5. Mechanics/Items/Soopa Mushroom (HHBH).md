@@ -9,6 +9,11 @@ tags:
 aliases:
   - Soopa Mushroom
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Soopa Mushroom
 *Herb, common*  

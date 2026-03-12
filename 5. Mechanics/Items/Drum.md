@@ -10,6 +10,11 @@ aliases:
   - Drum
 cost: 600
 weight: 3
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - instrument
 ---
 # Drum
 *Instrument*  

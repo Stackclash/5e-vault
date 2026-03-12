@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Shadow Ward
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Shadow Ward
 *Wondrous item, major, very rare (requires attunement)*  

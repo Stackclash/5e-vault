@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Acorn Charm
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Acorn Charm
 *Wondrous item, minor, uncommon*  

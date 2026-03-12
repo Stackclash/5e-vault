@@ -13,6 +13,17 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - druid
+  - sorcerer
+  - warlock
+  - wizard
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Staff of Fire
 *Staff, weapon, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

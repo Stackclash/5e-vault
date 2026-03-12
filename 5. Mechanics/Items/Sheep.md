@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sheep
 cost: 200
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Sheep
 *Trade good*  

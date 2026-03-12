@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Ear Cuff of the Climber
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Ear Cuff of the Climber
 *Wondrous item, minor, uncommon*  

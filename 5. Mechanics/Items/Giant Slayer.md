@@ -21,6 +21,14 @@ aliases:
   - Giant Slayer Rapier
   - Giant Slayer Scimitar
   - Giant Slayer Shortsword
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Giant Slayer
 *Major, rare*  

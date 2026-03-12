@@ -15,6 +15,14 @@ aliases:
   - Phasing Bow
   - Phasing Longbow
   - Phasing Shortbow
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Phasing Bow
 *Major, very rare (requires attunement)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Winter Ward
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Winter Ward
 *Wondrous item, major, very rare (requires attunement)*  

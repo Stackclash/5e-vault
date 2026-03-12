@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Quaal's Feather Token
+attunement: false
+rarity: rare
 ---
 # Quaal's Feather Token
 *Wondrous item, rare*  

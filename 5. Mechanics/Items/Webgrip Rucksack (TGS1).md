@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Webgrip Rucksack
+attunement: false
+rarity: common
+tier: minor
 ---
 # Webgrip Rucksack
 *Wondrous item, minor, common*  

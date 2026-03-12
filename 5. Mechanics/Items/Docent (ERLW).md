@@ -8,6 +8,10 @@ tags:
   - item/rarity/rare
 aliases:
   - Docent
+attunement: true
+attunement-requirement:
+  - warforged
+rarity: rare
 ---
 # Docent
 *Wondrous item, rare (requires attunement by a warforged)*  

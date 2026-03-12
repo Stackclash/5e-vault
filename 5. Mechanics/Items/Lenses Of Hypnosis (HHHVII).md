@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Lenses of Hypnosis
+attunement: false
+rarity: rare
 ---
 # Lenses of Hypnosis
 *Wondrous item, rare*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Obsidian statuette with gold fittings and inlay
 cost: 75000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Obsidian statuette with gold fittings and inlay
 *Treasure (art object)*  

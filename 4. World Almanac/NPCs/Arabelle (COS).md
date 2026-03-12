@@ -9,10 +9,10 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images: []
-relationships: []
 aliases:
   - Arabelle
 alignment: Lawful Neutral
+relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 pronounced: null
@@ -33,7 +33,6 @@ likes: 'Stories, animals, exploring'
 dislikes: 'Being confined or restricted, cruelty'
 image: null
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

@@ -8,6 +8,11 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Softening Oil
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - oil
 ---
 # Softening Oil
 *Oil, uncommon*  

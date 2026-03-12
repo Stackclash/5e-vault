@@ -11,6 +11,8 @@ aliases:
   - Shield of Reflection
 armorClass: 2
 weight: 6
+attunement: true
+rarity: rare
 ---
 # Shield of Reflection
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), rare (requires attunement)*  

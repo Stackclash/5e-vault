@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Essence of Rage
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Essence of Rage
 *Potion, minor, rare*  

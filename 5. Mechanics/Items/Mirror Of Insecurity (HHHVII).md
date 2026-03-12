@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Mirror of Insecurity
+attunement: false
+rarity: common
 ---
 # Mirror of Insecurity
 *Wondrous item, cursed item, common*  

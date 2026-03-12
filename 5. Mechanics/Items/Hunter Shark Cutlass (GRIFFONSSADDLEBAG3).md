@@ -13,6 +13,13 @@ aliases:
   - Hunter Shark Cutlass
 one-hand-damage: 1d6 slashing
 weight: 3
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Hunter Shark Cutlass
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  

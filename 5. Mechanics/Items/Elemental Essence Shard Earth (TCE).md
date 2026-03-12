@@ -10,6 +10,13 @@ tags:
 aliases:
   - Elemental Essence Shard (Earth)
 weight: 1
+attunement: true
+attunement-requirement:
+  - sorcerer
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Elemental Essence Shard (Earth)
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  

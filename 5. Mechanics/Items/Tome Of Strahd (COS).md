@@ -9,6 +9,11 @@ tags:
 aliases:
   - Tome of Strahd
 weight: 5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Tome of Strahd
 *Adventuring gear*  

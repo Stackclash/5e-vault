@@ -9,6 +9,11 @@ tags:
 aliases:
   - Paper (one sheet)
 cost: 20
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Paper (one sheet)
 *Adventuring gear*  

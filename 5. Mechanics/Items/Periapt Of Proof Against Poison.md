@@ -9,6 +9,9 @@ tags:
 aliases:
   - Periapt of Proof against Poison
 weight: 1
+attunement: false
+rarity: rare
+tier: major
 ---
 # Periapt of Proof against Poison
 *Wondrous item, major, rare*  

@@ -15,6 +15,13 @@ aliases:
   - Myceliaweave Hide Armor
   - Myceliaweave Leather Armor
   - Myceliaweave Studded Leather Armor
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - light
+  - medium
 ---
 # Myceliaweave Armor
 *Cursed item, major, rare (requires attunement)*  

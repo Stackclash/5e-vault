@@ -7,6 +7,8 @@ tags:
   - item/rarity/varies
 aliases:
   - Dragon's Mercy
+attunement: false
+rarity: varies
 ---
 # Dragon's Mercy
 *Wondrous item*  

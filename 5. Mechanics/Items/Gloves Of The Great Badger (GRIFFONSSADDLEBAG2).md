@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Gloves of the Great Badger
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Gloves of the Great Badger
 *Wondrous item, major, uncommon (requires attunement)*  

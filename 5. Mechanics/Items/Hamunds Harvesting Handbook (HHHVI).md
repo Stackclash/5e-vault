@@ -10,6 +10,11 @@ aliases:
   - Hamund's Harvesting Handbook
 cost: 5000
 weight: 5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Hamund's Harvesting Handbook
 *Adventuring gear*  

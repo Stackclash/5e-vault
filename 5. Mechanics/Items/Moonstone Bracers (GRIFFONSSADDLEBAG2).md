@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Moonstone Bracers
+attunement: true
+rarity: rare
+tier: major
 ---
 # Moonstone Bracers
 *Wondrous item, major, rare (requires attunement)*  

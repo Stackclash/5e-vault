@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bonfire Candle
+attunement: false
+rarity: common
+tier: minor
 ---
 # Bonfire Candle
 *Wondrous item, minor, common*  

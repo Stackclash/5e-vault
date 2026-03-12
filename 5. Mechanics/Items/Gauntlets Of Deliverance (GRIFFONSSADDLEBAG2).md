@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Gauntlets of Deliverance
+attunement: true
+attunement-requirement:
+  - paladin
+rarity: uncommon
+tier: major
 ---
 # Gauntlets of Deliverance
 *Wondrous item, major, uncommon (requires attunement by a paladin)*  

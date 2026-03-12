@@ -8,6 +8,11 @@ tags:
   - item/rarity/legendary
 aliases:
   - Circlet of Resonant Spheres
+attunement: true
+attunement-requirement:
+  - bard
+  - wizard
+rarity: legendary
 ---
 # Circlet of Resonant Spheres
 *Wondrous item, legendary (requires attunement by a bard or wizard)*  

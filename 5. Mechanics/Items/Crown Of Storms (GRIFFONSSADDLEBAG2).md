@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Crown of Storms
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Crown of Storms
 *Wondrous item, major, legendary (requires attunement)*  

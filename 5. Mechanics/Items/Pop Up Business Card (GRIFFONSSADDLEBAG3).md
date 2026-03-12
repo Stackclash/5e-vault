@@ -9,6 +9,9 @@ tags:
 aliases:
   - Pop-Up Business Card
 weight: 1
+attunement: false
+rarity: common
+tier: minor
 ---
 # Pop-Up Business Card
 *Wondrous item, minor, common*  

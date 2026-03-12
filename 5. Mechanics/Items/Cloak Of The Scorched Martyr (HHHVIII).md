@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Cloak of the Scorched Martyr
+attunement: true
+rarity: legendary
 ---
 # Cloak of the Scorched Martyr
 *Wondrous item, legendary (requires attunement)*  

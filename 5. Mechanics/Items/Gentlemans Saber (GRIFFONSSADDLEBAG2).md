@@ -14,6 +14,13 @@ aliases:
   - Gentleman's Saber
   - Gentleman's Saber Longsword
   - Gentleman's Saber Scimitar
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Gentleman's Saber
 *Major, rare (requires attunement)*  

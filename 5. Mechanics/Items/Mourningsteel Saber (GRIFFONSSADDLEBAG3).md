@@ -13,6 +13,13 @@ aliases:
   - Mourningsteel Saber
 one-hand-damage: 1d8 slashing
 weight: 2
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Mourningsteel Saber
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, rare (requires attunement)*  

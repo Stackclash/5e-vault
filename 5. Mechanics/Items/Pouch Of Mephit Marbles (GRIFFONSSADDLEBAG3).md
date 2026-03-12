@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pouch of Mephit Marbles
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Pouch of Mephit Marbles
 *Wondrous item, minor, uncommon*  

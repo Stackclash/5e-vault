@@ -15,6 +15,15 @@ one-hand-damage: 1d8 bludgeoning
 two-hand-damage: 1d10 bludgeoning
 range: 20\60
 weight: 2
+attunement: true
+attunement-requirement:
+  - dwarf
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Dwarven Thrower
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), major, very rare (requires attunement by a dwarf)*  

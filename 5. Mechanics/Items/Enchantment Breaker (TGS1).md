@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Enchantment Breaker
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Enchantment Breaker
 *Ring, major, rare*  

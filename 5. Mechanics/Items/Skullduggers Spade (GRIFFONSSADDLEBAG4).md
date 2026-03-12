@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Skulldugger's Spade
+attunement: false
+rarity: rare
 ---
 # Skulldugger's Spade
 *Wondrous item, rare*  

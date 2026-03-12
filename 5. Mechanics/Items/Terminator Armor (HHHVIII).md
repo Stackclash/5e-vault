@@ -10,6 +10,12 @@ aliases:
   - Terminator Armor
 armorClass: 18
 weight: 65
+strength-requirement: 15
+attunement: false
+rarity: very-rare
+type: armor
+subtype:
+  - heavy
 ---
 # Terminator Armor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare*  

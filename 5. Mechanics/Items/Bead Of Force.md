@@ -9,6 +9,9 @@ tags:
 aliases:
   - Bead of Force
 weight: 0.0625
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Bead of Force
 *Wondrous item, minor, rare*  

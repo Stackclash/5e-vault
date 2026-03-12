@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Tide Turner
+attunement: false
+rarity: common
+tier: minor
 ---
 # Tide Turner
 *Wondrous item, minor, common*  

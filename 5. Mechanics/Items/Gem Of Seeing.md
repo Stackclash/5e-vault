@@ -10,6 +10,9 @@ tags:
 aliases:
   - Gem of Seeing
 weight: 1
+attunement: true
+rarity: rare
+tier: major
 ---
 # Gem of Seeing
 *Wondrous item, major, rare (requires attunement)*  

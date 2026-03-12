@@ -13,6 +13,13 @@ aliases:
 one-hand-damage: 1d4 slashing
 range: 20\60
 weight: 2
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Storm Sickle
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, rare*  

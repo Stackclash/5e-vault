@@ -9,6 +9,11 @@ tags:
 aliases:
   - Amber
 cost: 10000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Amber
 *Treasure (gemstone)*  

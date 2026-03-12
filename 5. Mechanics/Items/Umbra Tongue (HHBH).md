@@ -9,6 +9,11 @@ tags:
 aliases:
   - Umbra Tongue
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Umbra Tongue
 *Herb, rare*  

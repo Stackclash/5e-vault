@@ -9,6 +9,11 @@ tags:
 aliases:
   - Odour Begonia
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Odour Begonia
 *Herb, common*  

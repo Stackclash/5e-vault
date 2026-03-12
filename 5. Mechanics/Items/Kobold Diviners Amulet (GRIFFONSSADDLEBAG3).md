@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Kobold Diviner's Amulet
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Kobold Diviner's Amulet
 *Wondrous item, major, uncommon*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Mask of the Planeseeker
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Mask of the Planeseeker
 *Wondrous item, major, legendary (requires attunement)*  

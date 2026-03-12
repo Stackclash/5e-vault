@@ -28,6 +28,14 @@ aliases:
   - Splint Armor of Necrotic Resistance
   - Studded Leather Armor of Necrotic Resistance
   - Wooden Breastplate of Necrotic Resistance
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Armor of Necrotic Resistance
 *Major, rare (requires attunement)*  

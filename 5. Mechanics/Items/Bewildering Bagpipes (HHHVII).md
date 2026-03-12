@@ -8,6 +8,11 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Bewildering Bagpipes
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - instrument
 ---
 # Bewildering Bagpipes
 *Wondrous item, instrument, uncommon*  

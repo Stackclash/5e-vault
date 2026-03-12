@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Lifestealer's Mask
+attunement: false
+rarity: very-rare
 ---
 # Lifestealer's Mask
 *Wondrous item, very rare*  

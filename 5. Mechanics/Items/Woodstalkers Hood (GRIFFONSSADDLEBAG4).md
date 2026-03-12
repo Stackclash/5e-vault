@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Woodstalker's Hood
+attunement: true
+rarity: rare
 ---
 # Woodstalker's Hood
 *Wondrous item, rare (requires attunement)*  

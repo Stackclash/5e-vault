@@ -12,6 +12,13 @@ aliases:
   - Medzo's Blade
 one-hand-damage: 2d6 piercing
 weight: 2
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Medzo's Blade
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, rare*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Goggles of Night
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Goggles of Night
 *Wondrous item, minor, uncommon*  

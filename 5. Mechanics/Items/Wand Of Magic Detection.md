@@ -10,6 +10,12 @@ tags:
 aliases:
   - Wand of Magic Detection
 weight: 1
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Magic Detection
 *Wand, minor, uncommon*  

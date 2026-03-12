@@ -14,6 +14,13 @@ aliases:
   - Lionguard Chain
   - Lionguard Chain Mail
   - Lionguard Chain Shirt
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - medium
 ---
 # Lionguard Chain
 *Major, rare (requires attunement)*  

@@ -11,10 +11,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\danika-dorakova.webp
-relationships: []
 aliases:
   - Danika Dorakova
 alignment: Lawful Good
+relationships: []
 partyRelationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
@@ -33,7 +33,6 @@ goals: null
 likes: null
 dislikes: null
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

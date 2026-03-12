@@ -13,6 +13,13 @@ aliases:
   - Dragonwing Scimitars
 one-hand-damage: 1d6 slashing
 weight: 3
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Dragonwing Scimitars
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, legendary (requires attunement)*  

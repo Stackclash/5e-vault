@@ -8,6 +8,11 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Oil of the Memory Thief
+attunement: false
+rarity: very-rare
+type: gear
+subtype:
+  - oil
 ---
 # Oil of the Memory Thief
 *Oil, very rare*  

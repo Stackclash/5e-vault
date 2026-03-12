@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Wraith's Circlet
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Wraith's Circlet
 *Wondrous item, major, uncommon (requires attunement)*  

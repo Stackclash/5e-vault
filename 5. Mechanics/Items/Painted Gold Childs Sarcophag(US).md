@@ -9,6 +9,11 @@ tags:
 aliases:
   - Painted gold child's sarcophagus
 cost: 750000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Painted gold child's sarcophagus
 *Treasure (art object)*  

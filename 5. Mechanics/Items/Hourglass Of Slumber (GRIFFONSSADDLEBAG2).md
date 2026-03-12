@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Hourglass of Slumber
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Hourglass of Slumber
 *Wondrous item, major, very rare*  

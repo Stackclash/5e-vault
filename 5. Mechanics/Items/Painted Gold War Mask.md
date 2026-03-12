@@ -9,6 +9,11 @@ tags:
 aliases:
   - Painted gold war mask
 cost: 75000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Painted gold war mask
 *Treasure (art object)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Jotun's Jodhpurs
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Jotun's Jodhpurs
 *Wondrous item, minor, uncommon*  

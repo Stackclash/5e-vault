@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Hagstone Amulets
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Hagstone Amulets
 *Wondrous item, minor, uncommon*  

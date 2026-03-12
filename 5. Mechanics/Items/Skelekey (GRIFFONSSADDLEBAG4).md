@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Skelekey
+attunement: false
+rarity: rare
 ---
 # Skelekey
 *Wondrous item, rare*  

@@ -12,6 +12,11 @@ aliases:
   - Jo'Catian Rebuker
 armorClass: 2
 weight: 6
+attunement: true
+attunement-requirement:
+  - creature of neutral alignment
+rarity: uncommon
+tier: major
 ---
 # Jo'Catian Rebuker
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement by a creature of neutral alignment)*  

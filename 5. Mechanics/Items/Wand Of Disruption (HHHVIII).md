@@ -9,6 +9,11 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Disruption
+attunement: true
+rarity: very-rare
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Disruption
 *Wand, very rare (requires attunement)*  

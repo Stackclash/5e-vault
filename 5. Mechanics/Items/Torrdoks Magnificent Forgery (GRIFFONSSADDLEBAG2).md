@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Torrdok's Magnificent Forgery
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Torrdok's Magnificent Forgery
 *Wondrous item, minor, rare*  

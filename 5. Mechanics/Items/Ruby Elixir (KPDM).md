@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Ruby Elixir
+attunement: false
+rarity: legendary
+type: wondrous
+subtype:
+  - potion
 ---
 # Ruby Elixir
 *Potion, legendary*  

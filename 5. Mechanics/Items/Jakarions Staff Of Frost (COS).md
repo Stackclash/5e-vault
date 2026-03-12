@@ -12,6 +12,16 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - druid
+  - sorcerer
+  - warlock
+  - wizard
+rarity: very-rare
+type: weapon
+subtype:
+  - simple
 ---
 # Jakarion's Staff of Frost
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

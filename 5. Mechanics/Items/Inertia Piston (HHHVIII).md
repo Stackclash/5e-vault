@@ -8,6 +8,11 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Inertia Piston
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Inertia Piston
 *Rare*  

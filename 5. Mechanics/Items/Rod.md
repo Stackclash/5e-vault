@@ -10,6 +10,11 @@ aliases:
   - Rod
 cost: 1000
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Rod
 *Spellcasting focus*  

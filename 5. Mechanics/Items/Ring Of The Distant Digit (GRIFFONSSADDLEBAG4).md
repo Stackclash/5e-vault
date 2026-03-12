@@ -9,6 +9,11 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of the Distant Digit
+attunement: true
+rarity: common
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of the Distant Digit
 *Ring, common (requires attunement)*  

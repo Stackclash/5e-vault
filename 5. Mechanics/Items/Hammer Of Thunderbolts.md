@@ -12,6 +12,13 @@ aliases:
   - Hammer of Thunderbolts
 one-hand-damage: 2d6 bludgeoning
 weight: 10
+attunement: false
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Hammer of Thunderbolts
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, legendary*  

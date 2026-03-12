@@ -10,10 +10,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\baron-vargas-vallakovich.webp
-relationships: []
 aliases:
   - Baron Vargas Vallakovich
 alignment: Neutral Evil
+relationships: []
 partyRelationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
@@ -36,7 +36,6 @@ goals: ' To keep Vallaki free from Strahd''s influence, to maintain order at all
 likes: 'Obedience, festivals, public displays of happiness'
 dislikes: 'Dissent, failure, anything that threatens his control or Vallaki''s ''happiness'''
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

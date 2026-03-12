@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Dust of Disappearance
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Dust of Disappearance
 *Wondrous item, minor, uncommon*  

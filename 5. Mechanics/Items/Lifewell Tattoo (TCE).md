@@ -9,6 +9,11 @@ tags:
   - item/wondrous/tattoo
 aliases:
   - Lifewell Tattoo
+attunement: true
+rarity: very-rare
+type: wondrous
+subtype:
+  - tattoo
 ---
 # Lifewell Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Astral Bracelet
+attunement: false
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Astral Bracelet
 *Wondrous item, major, very rare*  

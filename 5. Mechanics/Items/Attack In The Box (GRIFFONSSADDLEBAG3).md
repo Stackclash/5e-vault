@@ -12,6 +12,13 @@ aliases:
   - Attack-In-The-Box
 one-hand-damage: 1d8 bludgeoning
 weight: 2
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Attack-In-The-Box
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, uncommon*  

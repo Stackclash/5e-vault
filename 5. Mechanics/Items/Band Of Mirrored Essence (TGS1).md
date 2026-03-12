@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Band of Mirrored Essence
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Band of Mirrored Essence
 *Ring, major, rare (requires attunement)*  

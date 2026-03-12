@@ -10,6 +10,11 @@ aliases:
   - Barrel
 cost: 200
 weight: 70
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Barrel
 *Adventuring gear*  

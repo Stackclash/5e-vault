@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Unicorn Candle
+attunement: false
+rarity: rare
 ---
 # Unicorn Candle
 *Wondrous item, rare*  

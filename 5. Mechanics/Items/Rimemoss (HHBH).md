@@ -9,6 +9,11 @@ tags:
 aliases:
   - Rimemoss
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Rimemoss
 *Herb, rare*  

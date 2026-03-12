@@ -12,6 +12,12 @@ aliases:
 cost: 500
 one-hand-damage: 1d10 piercing
 weight: 18
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Pike
 *Weapon*  

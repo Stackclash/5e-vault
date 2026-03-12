@@ -10,6 +10,9 @@ tags:
 aliases:
   - Talisman of the Sphere
 weight: 1
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Talisman of the Sphere
 *Wondrous item, major, legendary (requires attunement)*  

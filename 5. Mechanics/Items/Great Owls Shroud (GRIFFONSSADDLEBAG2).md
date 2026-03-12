@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Great Owl's Shroud
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Great Owl's Shroud
 *Wondrous item, major, uncommon (requires attunement)*  

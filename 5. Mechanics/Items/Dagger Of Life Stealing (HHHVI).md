@@ -13,6 +13,12 @@ aliases:
 one-hand-damage: 1d4 piercing
 range: 20\60
 weight: 1
+attunement: true
+rarity: uncommon
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Dagger of Life Stealing
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), uncommon (requires attunement)*  

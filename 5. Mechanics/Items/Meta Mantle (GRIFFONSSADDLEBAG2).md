@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Meta Mantle
+attunement: true
+attunement-requirement:
+  - sorcerer
+rarity: legendary
+tier: major
 ---
 # Meta Mantle
 *Wondrous item, major, legendary (requires attunement by a sorcerer)*  

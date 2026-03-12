@@ -8,6 +8,11 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Guardian Emblem
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: uncommon
 ---
 # Guardian Emblem
 *Wondrous item, uncommon (requires attunement by a cleric or paladin)*  

@@ -10,6 +10,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Dowsing
+attunement: true
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Dowsing
 *Wand, major, uncommon (requires attunement)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Bangle of Sun and Moon
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Bangle of Sun and Moon
 *Wondrous item, major, uncommon (requires attunement)*  

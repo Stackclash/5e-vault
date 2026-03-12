@@ -13,6 +13,13 @@ aliases:
   - Hurricane Lance
 one-hand-damage: 1d12 piercing
 weight: 6
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Hurricane Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, very rare (requires attunement)*  

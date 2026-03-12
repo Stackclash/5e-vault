@@ -9,6 +9,11 @@ tags:
 aliases:
   - Hag's Hair
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Hag's Hair
 *Herb, rare*  

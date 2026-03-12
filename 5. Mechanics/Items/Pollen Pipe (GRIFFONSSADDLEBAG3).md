@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pollen Pipe
+attunement: false
+rarity: common
+tier: minor
 ---
 # Pollen Pipe
 *Wondrous item, minor, common*  

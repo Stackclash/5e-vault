@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Eyes of the Beheld
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Eyes of the Beheld
 *Wondrous item, minor, uncommon*  

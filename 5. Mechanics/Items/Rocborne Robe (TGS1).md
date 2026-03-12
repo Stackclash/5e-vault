@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Rocborne Robe
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Rocborne Robe
 *Wondrous item, major, uncommon (requires attunement)*  

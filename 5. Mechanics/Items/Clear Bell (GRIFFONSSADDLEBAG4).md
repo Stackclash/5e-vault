@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Clear Bell
+attunement: false
+rarity: uncommon
 ---
 # Clear Bell
 *Wondrous item, uncommon*  

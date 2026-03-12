@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Magnificent Pocket Vanity
+attunement: false
+rarity: common
+tier: minor
 ---
 # Magnificent Pocket Vanity
 *Wondrous item, minor, common*  

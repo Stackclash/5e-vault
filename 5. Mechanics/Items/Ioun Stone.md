@@ -8,6 +8,8 @@ tags:
   - item/rarity/varies
 aliases:
   - Ioun Stone
+attunement: true
+rarity: varies
 ---
 # Ioun Stone
 *Wondrous item (requires attunement)*  

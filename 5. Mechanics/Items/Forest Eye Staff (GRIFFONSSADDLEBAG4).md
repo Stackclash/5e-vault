@@ -13,6 +13,15 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - druid
+  - ranger
+rarity: uncommon
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Forest Eye Staff
 *Staff, weapon, uncommon (requires attunement by a druid or ranger)*  

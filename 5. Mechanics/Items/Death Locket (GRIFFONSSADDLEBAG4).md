@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Death Locket
+attunement: true
+rarity: very-rare
 ---
 # Death Locket
 *Wondrous item, cursed item, very rare (requires attunement)*  

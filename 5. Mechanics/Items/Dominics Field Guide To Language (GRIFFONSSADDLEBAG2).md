@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Dominic's Field Guide to Language
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Dominic's Field Guide to Language
 *Wondrous item, minor, uncommon*  

@@ -13,6 +13,13 @@ aliases:
   - Starbreaker
 one-hand-damage: 1d8 piercing
 weight: 4
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Starbreaker
 *Weapon ([[/5. Mechanics/Items/Morningstar.md\|morningstar]]), major, rare (requires attunement)*  

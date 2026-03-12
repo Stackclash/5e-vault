@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Patch of the Tome
+attunement: false
+rarity: common
+tier: minor
 ---
 # Patch of the Tome
 *Wondrous item, minor, common*  

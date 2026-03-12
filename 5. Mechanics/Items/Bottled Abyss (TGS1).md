@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Bottled Abyss
+attunement: false
+rarity: very-rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Bottled Abyss
 *Potion, minor, very rare*  

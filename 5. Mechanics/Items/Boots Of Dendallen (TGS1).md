@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Boots of Dendallen
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Boots of Dendallen
 *Wondrous item, cursed item, major, very rare (requires attunement)*  

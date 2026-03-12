@@ -10,6 +10,8 @@ aliases:
   - Shield of Far Sight
 armorClass: 2
 weight: 6
+attunement: false
+rarity: rare
 ---
 # Shield of Far Sight
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), rare*  

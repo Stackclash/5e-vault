@@ -15,6 +15,13 @@ aliases:
   - Demon Needle Lance
   - Demon Needle Pike
   - Demon Needle Spear
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Demon Needle
 *Rare (requires attunement)*  

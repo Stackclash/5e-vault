@@ -10,6 +10,12 @@ tags:
 aliases:
   - Sonar Arrow
 weight: 0.05
+attunement: false
+rarity: rare
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Sonar Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  

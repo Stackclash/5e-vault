@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Canteen of Last Resort
+attunement: false
+rarity: common
 ---
 # Canteen of Last Resort
 *Wondrous item, common*  

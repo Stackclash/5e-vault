@@ -9,6 +9,9 @@ tags:
 aliases:
   - Purse Piglet
 weight: 1
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Purse Piglet
 *Wondrous item, minor, rare*  

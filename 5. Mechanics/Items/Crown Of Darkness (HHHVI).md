@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Crown of Darkness
+attunement: true
+rarity: very-rare
 ---
 # Crown of Darkness
 *Wondrous item, very rare (requires attunement)*  

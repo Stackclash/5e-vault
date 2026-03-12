@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Flesh of Dendallen
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Flesh of Dendallen
 *Wondrous item, cursed item, major, very rare (requires attunement)*  

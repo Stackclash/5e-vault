@@ -9,6 +9,11 @@ tags:
 aliases:
   - Pair of engraved bone dice
 cost: 2500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Pair of engraved bone dice
 *Treasure (art object)*  

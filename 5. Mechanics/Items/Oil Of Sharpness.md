@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Oil of Sharpness
+attunement: false
+rarity: very-rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Oil of Sharpness
 *Potion, minor, very rare*  

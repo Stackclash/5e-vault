@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Crown of Lies
+attunement: true
+rarity: artifact
 ---
 # Crown of Lies
 *Wondrous item, artifact (requires attunement)*  

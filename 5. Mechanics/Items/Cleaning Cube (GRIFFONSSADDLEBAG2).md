@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Cleaning Cube
+attunement: false
+rarity: common
+tier: minor
 ---
 # Cleaning Cube
 *Wondrous item, minor, common*  

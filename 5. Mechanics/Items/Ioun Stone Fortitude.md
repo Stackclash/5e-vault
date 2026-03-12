@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Ioun Stone, Fortitude'
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Ioun Stone, Fortitude
 *Wondrous item, major, very rare (requires attunement)*  

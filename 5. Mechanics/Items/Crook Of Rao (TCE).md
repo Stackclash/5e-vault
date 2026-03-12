@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Crook of Rao
+attunement: true
+rarity: artifact
 ---
 # Crook of Rao
 *Wondrous item, artifact (requires attunement)*  

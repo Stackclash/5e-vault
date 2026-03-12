@@ -12,6 +12,15 @@ aliases:
   - Cathedral Armor
 armorClass: 14 + Dex modifier (max of +2)
 weight: 20
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: very-rare
+tier: major
+type: armor
+subtype:
+  - medium
 ---
 # Cathedral Armor
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), major, very rare (requires attunement by a cleric or paladin)*  

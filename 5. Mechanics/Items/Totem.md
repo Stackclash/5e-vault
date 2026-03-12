@@ -9,6 +9,11 @@ tags:
 aliases:
   - Totem
 cost: 100
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Totem
 *Spellcasting focus*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Crash and Burn
+attunement: true
+rarity: rare
+tier: major
 ---
 # Crash and Burn
 *Wondrous item, major, rare (requires attunement)*  

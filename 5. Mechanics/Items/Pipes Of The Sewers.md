@@ -11,6 +11,12 @@ tags:
 aliases:
   - Pipes of the Sewers
 weight: 2
+attunement: true
+rarity: uncommon
+tier: major
+type: gear
+subtype:
+  - instrument
 ---
 # Pipes of the Sewers
 *Wondrous item, instrument, major, uncommon (requires attunement)*  

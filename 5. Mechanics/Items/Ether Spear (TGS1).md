@@ -15,6 +15,13 @@ one-hand-damage: 1d6 force
 two-hand-damage: 1d8 force
 range: 20\60
 weight: 3
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Ether Spear
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, very rare (requires attunement)*  

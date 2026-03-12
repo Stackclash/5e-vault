@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Regraftable Construct Arm
+attunement: true
+attunement-requirement:
+  - creature missing an arm
+rarity: very-rare
+tier: major
 ---
 # Regraftable Construct Arm
 *Wondrous item, cursed item, major, very rare (requires attunement by a creature missing an arm)*  

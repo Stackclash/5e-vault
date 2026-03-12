@@ -8,6 +8,11 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Mediator's Amulet
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: very-rare
 ---
 # Mediator's Amulet
 *Wondrous item, very rare (requires attunement by a cleric or paladin)*  

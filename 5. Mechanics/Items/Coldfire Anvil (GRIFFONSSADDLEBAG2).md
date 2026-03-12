@@ -9,6 +9,9 @@ tags:
 aliases:
   - Coldfire Anvil
 weight: 50
+attunement: false
+rarity: rare
+tier: major
 ---
 # Coldfire Anvil
 *Wondrous item, major, rare*  

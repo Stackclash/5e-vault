@@ -8,6 +8,11 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of the Candle Collector
+attunement: false
+rarity: common
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of the Candle Collector
 *Ring, common*  

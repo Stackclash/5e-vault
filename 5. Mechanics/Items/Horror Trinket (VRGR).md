@@ -8,6 +8,11 @@ tags:
   - item/rarity/none
 aliases:
   - Horror Trinket
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Horror Trinket
 *Adventuring gear*  

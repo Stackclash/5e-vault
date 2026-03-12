@@ -10,6 +10,13 @@ tags:
 aliases:
   - Elemental Essence Shard (Fire)
 weight: 1
+attunement: true
+attunement-requirement:
+  - sorcerer
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Elemental Essence Shard (Fire)
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  

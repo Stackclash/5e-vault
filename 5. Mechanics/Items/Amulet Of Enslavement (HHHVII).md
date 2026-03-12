@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Amulet of Enslavement
+attunement: false
+rarity: rare
 ---
 # Amulet of Enslavement
 *Wondrous item, rare*  

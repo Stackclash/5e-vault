@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of the Eclipse
+attunement: false
+rarity: legendary
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of the Eclipse
 *Scroll, minor, legendary*  

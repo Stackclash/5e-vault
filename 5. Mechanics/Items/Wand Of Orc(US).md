@@ -13,6 +13,12 @@ aliases:
   - Wand of Orcus
 one-hand-damage: 1d6 bludgeoning
 weight: 4
+attunement: true
+rarity: artifact
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Wand of Orcus
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), wand, artifact (requires attunement)*  

@@ -14,6 +14,13 @@ aliases:
 one-hand-damage: 1d4 bludgeoning
 range: 20\60
 weight: 2
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Hammer of Whispers
 *Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), cursed item, major, uncommon (requires attunement)*  

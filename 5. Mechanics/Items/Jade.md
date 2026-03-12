@@ -9,6 +9,11 @@ tags:
 aliases:
   - Jade
 cost: 10000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Jade
 *Treasure (gemstone)*  

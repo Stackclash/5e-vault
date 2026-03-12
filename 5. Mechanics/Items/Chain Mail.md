@@ -11,6 +11,13 @@ aliases:
 cost: 7500
 armorClass: 16
 weight: 55
+stealth-penalty: true
+strength-requirement: 13
+attunement: false
+rarity: none
+type: armor
+subtype:
+  - heavy
 ---
 # Chain Mail
 *Heavy armor*  

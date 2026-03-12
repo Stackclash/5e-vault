@@ -10,6 +10,13 @@ tags:
 aliases:
   - Astromancy Archive
 weight: 3
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Astromancy Archive
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  

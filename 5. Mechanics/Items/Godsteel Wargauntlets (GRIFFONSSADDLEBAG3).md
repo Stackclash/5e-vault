@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Godsteel Wargauntlets
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Godsteel Wargauntlets
 *Wondrous item, major, legendary (requires attunement)*  

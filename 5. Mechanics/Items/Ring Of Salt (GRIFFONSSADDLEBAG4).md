@@ -8,6 +8,11 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Salt
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Salt
 *Ring, rare*  

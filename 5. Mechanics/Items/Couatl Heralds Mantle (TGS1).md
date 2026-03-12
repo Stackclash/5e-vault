@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Couatl Herald's Mantle
+attunement: true
+attunement-requirement:
+  - creature of good alignment
+rarity: uncommon
+tier: major
 ---
 # Couatl Herald's Mantle
 *Wondrous item, major, uncommon (requires attunement by a creature of good alignment)*  

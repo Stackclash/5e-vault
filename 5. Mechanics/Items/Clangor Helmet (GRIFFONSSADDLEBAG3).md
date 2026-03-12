@@ -10,6 +10,9 @@ tags:
 aliases:
   - Clangor Helmet
 weight: 10
+attunement: true
+rarity: rare
+tier: major
 ---
 # Clangor Helmet
 *Wondrous item, major, rare (requires attunement)*  

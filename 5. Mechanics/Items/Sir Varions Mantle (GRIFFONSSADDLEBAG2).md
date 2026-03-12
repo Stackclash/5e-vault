@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Sir Varion's Mantle
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Sir Varion's Mantle
 *Wondrous item, minor, uncommon*  

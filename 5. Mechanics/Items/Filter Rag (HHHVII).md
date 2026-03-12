@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Filter Rag
+attunement: false
+rarity: uncommon
 ---
 # Filter Rag
 *Wondrous item, uncommon*  

@@ -11,10 +11,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\bray-martikov.webp
-relationships: []
 aliases:
   - Bray Martikov
 alignment: Lawful Good
+relationships: []
 partyRelationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
@@ -35,7 +35,6 @@ goals: >-
 likes: 'Adventures, stories of heroism, the outdoors'
 dislikes: 'Threats to his family, the oppression of Strahd, boredom'
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

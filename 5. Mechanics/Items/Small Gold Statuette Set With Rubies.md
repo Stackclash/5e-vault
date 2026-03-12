@@ -9,6 +9,11 @@ tags:
 aliases:
   - Small gold statuette set with rubies
 cost: 750000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Small gold statuette set with rubies
 *Treasure (art object)*  

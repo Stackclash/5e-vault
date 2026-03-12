@@ -12,6 +12,12 @@ aliases:
 cost: 20
 one-hand-damage: 1d8 bludgeoning
 weight: 10
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Greatclub
 *Weapon*  

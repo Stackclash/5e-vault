@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Pendant of the Tempered Fury
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Pendant of the Tempered Fury
 *Wondrous item, major, very rare (requires attunement)*  

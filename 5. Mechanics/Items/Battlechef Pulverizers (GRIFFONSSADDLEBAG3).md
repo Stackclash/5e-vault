@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Battlechef Pulverizers
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Battlechef Pulverizers
 *Wondrous item, major, uncommon*  

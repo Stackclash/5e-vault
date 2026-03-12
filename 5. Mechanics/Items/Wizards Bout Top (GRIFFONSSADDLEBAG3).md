@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Wizards' Bout Top
+attunement: false
+rarity: common
+tier: minor
 ---
 # Wizards' Bout Top
 *Wondrous item, minor, common*  

@@ -12,6 +12,13 @@ aliases:
   - Galvanic Steelsnare
 range: 5\15
 weight: 3
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Galvanic Steelsnare
 *Weapon ([[/5. Mechanics/Items/Net.md\|net]]), major, rare*  

@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Appraiser's Eye
+attunement: true
+attunement-requirement:
+  - creature missing an eye
+rarity: rare
+tier: major
 ---
 # Appraiser's Eye
 *Wondrous item, major, rare (requires attunement by a creature missing an eye)*  

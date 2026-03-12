@@ -9,6 +9,11 @@ tags:
 aliases:
   - Aloyleaf
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Aloyleaf
 *Herb, common*  

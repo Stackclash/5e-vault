@@ -9,6 +9,11 @@ tags:
 aliases:
   - Buried Moonlight
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Buried Moonlight
 *Herb, rare*  

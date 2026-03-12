@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Steps of the Trickster
+attunement: false
+rarity: common
+tier: minor
 ---
 # Steps of the Trickster
 *Wondrous item, minor, common*  

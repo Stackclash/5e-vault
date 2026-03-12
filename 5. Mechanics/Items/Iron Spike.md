@@ -10,6 +10,11 @@ aliases:
   - Iron Spike
 cost: 10
 weight: 0.5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Iron Spike
 *Adventuring gear*  

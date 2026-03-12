@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Ogramau's Glass Eye
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Ogramau's Glass Eye
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -14,6 +14,15 @@ aliases:
 one-hand-damage: 1d6 bludgeoning
 two-hand-damage: 1d8 bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: uncommon
+tier: minor
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Mirrorlight Harbinger
 *Staff, weapon, minor, uncommon (requires attunement by a spellcaster)*  

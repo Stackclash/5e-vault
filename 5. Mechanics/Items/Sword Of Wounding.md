@@ -18,6 +18,13 @@ aliases:
   - Rapier of Wounding
   - Scimitar of Wounding
   - Shortsword of Wounding
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Sword of Wounding
 *Major, rare (requires attunement)*  

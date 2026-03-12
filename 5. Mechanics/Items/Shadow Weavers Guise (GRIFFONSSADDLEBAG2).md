@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Shadow Weaver's Guise
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: uncommon
+tier: major
 ---
 # Shadow Weaver's Guise
 *Wondrous item, cursed item, major, uncommon (requires attunement by a spellcaster)*  

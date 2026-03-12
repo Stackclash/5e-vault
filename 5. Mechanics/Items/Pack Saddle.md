@@ -10,6 +10,11 @@ aliases:
   - Pack Saddle
 cost: 500
 weight: 15
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - tack-and-harness
 ---
 # Pack Saddle
 *Tack and harness*  

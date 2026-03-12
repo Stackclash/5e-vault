@@ -12,6 +12,13 @@ aliases:
   - Battlebrew Maul
 one-hand-damage: 2d6 bludgeoning
 weight: 10
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Battlebrew Maul
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, rare*  

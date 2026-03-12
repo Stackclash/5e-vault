@@ -9,6 +9,11 @@ tags:
 aliases:
   - Lodestone Bolts
 weight: 0.075
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - ammunition
 ---
 # Lodestone Bolts
 *Ammunition ([[/5. Mechanics/Items/Crossbow Bolt.md\|crossbow bolt]]), uncommon*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Maiden Moss
 cost: 10000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Maiden Moss
 *Herb, rare*  

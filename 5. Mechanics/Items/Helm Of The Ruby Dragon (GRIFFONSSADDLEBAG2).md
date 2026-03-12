@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Helm of the Ruby Dragon
+attunement: true
+attunement-requirement:
+  - dragonborn of neutral alignment
+rarity: very-rare
+tier: major
 ---
 # Helm of the Ruby Dragon
 *Wondrous item, major, very rare (requires attunement by a dragonborn of neutral alignment)*  

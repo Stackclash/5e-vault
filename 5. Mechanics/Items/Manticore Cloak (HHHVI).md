@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Manticore Cloak
+attunement: false
+rarity: uncommon
 ---
 # Manticore Cloak
 *Wondrous item, uncommon*  

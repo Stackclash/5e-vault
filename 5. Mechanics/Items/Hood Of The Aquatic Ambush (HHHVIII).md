@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Hood of the Aquatic Ambush
+attunement: false
+rarity: rare
 ---
 # Hood of the Aquatic Ambush
 *Wondrous item, rare*  

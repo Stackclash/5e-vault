@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Seafarer's Jacket
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Seafarer's Jacket
 *Wondrous item, major, uncommon (requires attunement)*  

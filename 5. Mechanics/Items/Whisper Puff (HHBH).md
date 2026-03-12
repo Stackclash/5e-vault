@@ -9,6 +9,11 @@ tags:
 aliases:
   - Whisper Puff
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Whisper Puff
 *Herb, rare*  

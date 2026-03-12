@@ -9,6 +9,11 @@ tags:
 aliases:
   - Fin Moss
 cost: 100
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Fin Moss
 *Herb, rare*  

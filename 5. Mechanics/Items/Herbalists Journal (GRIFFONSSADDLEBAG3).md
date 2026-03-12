@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Herbalist's Journal
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Herbalist's Journal
 *Wondrous item, major, uncommon*  

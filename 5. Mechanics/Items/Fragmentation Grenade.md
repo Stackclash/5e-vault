@@ -10,6 +10,11 @@ tags:
 aliases:
   - Fragmentation Grenade
 weight: 1
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - explosive
 ---
 # Fragmentation Grenade
 *Explosive*  

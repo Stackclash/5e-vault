@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Muralist's Mark
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Muralist's Mark
 *Wondrous item, major, very rare (requires attunement)*  

@@ -11,6 +11,11 @@ aliases:
 cost: 15000
 armorClass: 14 + Dex modifier (max of +2)
 weight: 20
+attunement: false
+rarity: none
+type: armor
+subtype:
+  - medium
 ---
 # Wooden Breastplate
 *Medium armor*  

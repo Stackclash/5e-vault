@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Shimmering Spectacles
+attunement: false
+rarity: common
+tier: minor
 ---
 # Shimmering Spectacles
 *Wondrous item, minor, common*  

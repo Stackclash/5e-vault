@@ -9,6 +9,11 @@ tags:
 aliases:
   - Fabric Leaf
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Fabric Leaf
 *Herb, common*  

@@ -14,6 +14,16 @@ aliases:
 one-hand-damage: 1d4 bludgeoning
 range: 20\60
 weight: 2
+attunement: true
+attunement-requirement:
+  - druid
+  - ranger
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Druidic Throwing Club
 *Weapon ([[/5. Mechanics/Items/Club.md\|club]]), major, rare (requires attunement by a druid or ranger)*  
