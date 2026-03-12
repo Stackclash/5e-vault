@@ -60,22 +60,22 @@
       "providerId": "anthropic-plan",
       "id": "claude-opus-4.5 (plan)",
       "model": "claude-opus-4-5",
+      "enable": false,
       "thinking": {
         "enabled": true,
         "budget_tokens": 8192
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "anthropic-plan",
       "providerId": "anthropic-plan",
       "id": "claude-sonnet-4.5 (plan)",
       "model": "claude-sonnet-4-5",
+      "enable": false,
       "thinking": {
         "enabled": true,
         "budget_tokens": 8192
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "openai-plan",
@@ -145,11 +145,11 @@
       "providerId": "openai",
       "id": "o4-mini",
       "model": "o4-mini",
+      "enable": false,
       "reasoning": {
         "enabled": true,
         "reasoning_effort": "medium"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "gemini",
@@ -194,8 +194,8 @@
       "enable": false
     },
     {
-      "providerId": "ollama",
       "providerType": "ollama",
+      "providerId": "ollama",
       "id": "gemma3",
       "model": "gemma3:4b",
       "promptLevel": 1,
@@ -246,8 +246,8 @@
       "dimension": 1024
     },
     {
-      "providerId": "ollama",
       "providerType": "ollama",
+      "providerId": "ollama",
       "id": "mxbai-embed-large:335m",
       "model": "mxbai-embed-large:335m",
       "dimension": 1024

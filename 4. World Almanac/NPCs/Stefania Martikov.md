@@ -3,7 +3,6 @@ obsidianUIMode: preview
 statblock: inline
 location: 
 condition: healthy
-image: 
 relationships:
   - Davian Martikov|father
   - Dag Tomescu|husband

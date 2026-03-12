@@ -31,7 +31,6 @@ goals: >-
   superstitions
 likes: 'Drinking, solitude, the rare good day of fishing'
 dislikes: 'The mockery of others, his own bad luck, the Burgomaster''s enforced happiness'
-image: null
 ---
 > [!infobox]
 > # `=this.file.name`

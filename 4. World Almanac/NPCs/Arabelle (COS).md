@@ -31,7 +31,6 @@ goals: >-
   like her ancestors
 likes: 'Stories, animals, exploring'
 dislikes: 'Being confined or restricted, cruelty'
-image: null
 ---
 > [!infobox]
 > # `=this.file.name`

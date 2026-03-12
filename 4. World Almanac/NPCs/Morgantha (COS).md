@@ -29,7 +29,6 @@ flaw: null
 goals: null
 likes: null
 dislikes: null
-image: null
 ---
 > [!infobox]
 > # `=this.file.name`
