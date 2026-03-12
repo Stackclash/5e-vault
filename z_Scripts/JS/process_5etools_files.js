@@ -209,7 +209,7 @@ const config = {
       }
     },
     {
-      enabled: true,
+      enabled: false,
       name: 'Create Folder Index Page',
       ignore: function(file) {
         return ['.jpg', '.jpeg', '.png', '.webp'].includes(file.fileExtension)

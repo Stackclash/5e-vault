@@ -11,10 +11,14 @@
             "id": "d8e956e7eb8b6e96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/NPCs/Ismark Kolyanovich (COS).md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ismark Kolyanovich (COS)"
             }
           }
         ]
@@ -259,14 +263,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "830f75e4aa18d718",
+  "active": "d8e956e7eb8b6e96",
   "lastOpenFiles": [
+    "Untitled.md",
+    "4. World Almanac/NPCs/Ismark Kolyanovich (COS).md",
+    "5. Mechanics/Classes/Classes.md",
     "5. Mechanics/Classes/Artificer Battle Smith (TCE).md",
     "5. Mechanics/Classes/Artificer Artillerist (TCE).md",
     "5. Mechanics/Classes/Artificer Armorer (TCE).md",
     "5. Mechanics/Classes/Artificer Alchemist (TCE).md",
     "5. Mechanics/Classes/Artificer (TCE).md",
-    "5. Mechanics/Classes/Classes.md",
     "5. Mechanics/Bestiary/Bestiary.md",
     "5. Mechanics/Bestiary/Undead/Undead.md",
     "5. Mechanics/Bestiary/Plant/Plant.md",
@@ -286,8 +292,6 @@
     "3. The Party/Players/Redgrave.md",
     "1. DM Toolkit/Knowledge/Articles/Fixing Crafting in D&D.md",
     "z_Bases/Locations.base",
-    "4. World Almanac/Worlds/Worlds.md",
-    "4. World Almanac/Shops/Shops.md",
     "z_Bases/Spells.base",
     "z_Bases/Players.base",
     "z_Bases/NPCs.base",
