@@ -16,21 +16,21 @@ aliases:
 alignment: Lawful Good
 partyRelationships:
   Midnight Covenant: Ally
-location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
-pronounced:
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+pronounced: null
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
+personality: null
 ideal: Evil cannot go unchallenged.
-bond: To protect those I love, I must keep them distant and hidden from my enemies.
-flaw: I am cursed. Thus, I will never have peace.
-goals:
-likes:
-dislikes:
+bond: 'To protect those I love, I must keep them distant and hidden from my enemies.'
+flaw: 'I am cursed. Thus, I will never have peace.'
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]

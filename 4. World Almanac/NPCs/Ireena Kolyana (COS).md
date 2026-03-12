@@ -16,21 +16,21 @@ aliases:
 alignment: Lawful Good
 partyRelationships:
   Midnight Covenant: Friendly
-location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
-pronounced:
-race:
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
+pronounced: null
+race: null
 gender: female
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -62,6 +62,8 @@ dislikes:
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 44*
+
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

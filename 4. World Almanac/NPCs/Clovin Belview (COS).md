@@ -16,22 +16,34 @@ aliases:
 alignment: Neutral Evil
 partyRelationships:
   Midnight Covenant: Acquaintance
-location: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
+location: >-
+  [[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of
+  Saint Markovia]]
 pronounced: CLOH-vin BEL-view
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 54
 occupation:
   - Caretaker
 groups: []
 religions: []
-personality: Subservient, eccentric, deeply troubled
-ideal: Survival and obedience are the utmost priorities in a world that neither wants nor understands you
-bond: His twisted loyalty to the Abbot and a sense of belonging among the mongrelfolk
+personality: 'Subservient, eccentric, deeply troubled'
+ideal: >-
+  Survival and obedience are the utmost priorities in a world that neither wants
+  nor understands you
+bond: >-
+  His twisted loyalty to the Abbot and a sense of belonging among the
+  mongrelfolk
 flaw: His fear of rejection and punishment overshadows his better judgment
-goals: To please the Abbot, to find some measure of peace or acceptance in his existence
-likes: Music (despite his lack of skill), the rare moments of quiet and solitude, alcohol
-dislikes: The disdain or fear of outsiders, the cruelty of his existence, the conflict within the Abbey
+goals: >-
+  To please the Abbot, to find some measure of peace or acceptance in his
+  existence
+likes: >-
+  Music (despite his lack of skill), the rare moments of quiet and solitude,
+  alcohol
+dislikes: >-
+  The disdain or fear of outsiders, the cruelty of his existence, the conflict
+  within the Abbey
 ---
 
 > [!infobox]
@@ -63,6 +75,8 @@ dislikes: The disdain or fear of outsiders, the cruelty of his existence, the co
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 147*
+
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

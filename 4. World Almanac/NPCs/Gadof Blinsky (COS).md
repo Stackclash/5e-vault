@@ -16,21 +16,21 @@ aliases:
 alignment: Chaotic Good
 partyRelationships:
   Midnight Covenant: Ally
-location: "[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]"
-pronounced:
-race:
-gender:
-age:
+location: '[[4. World Almanac/Shops/Blinsky Toys.md|Blinsky Toys]]'
+pronounced: null
+race: null
+gender: null
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -62,6 +62,8 @@ dislikes:
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 118*
+
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description
