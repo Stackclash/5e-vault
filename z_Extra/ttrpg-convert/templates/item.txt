@@ -31,6 +31,91 @@ range: {resource.range}
 {#if resource.weight}
 weight: {resource.weight}
 {/if}
+{#if resource.stealthPenalty}
+stealth-penalty: {resource.stealthPenalty}
+{/if}
+{#if resource.strengthRequirement}
+strength-requirement: {resource.strengthRequirement}
+{/if}
+{#if resource.tags && resource.tags.contains('item/attunement/required')}
+attunement: true
+{#else}
+attunement: false
+{/if}
+{#if resource.detail && resource.detail.contains('(requires attunement by ')}
+{#let reqSection=resource.detail.substring(resource.detail.indexOf('(requires attunement by ') + 24)}
+{#let reqRaw=reqSection.substring(0, reqSection.indexOf(')'))}
+{#if reqRaw.startsWith('an ')}
+{#let reqCore=reqRaw.substring(3)}
+attunement-requirement:
+{#for req in reqCore.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
+- {req.trim.toLowerCase}
+{/for}
+{/let}
+{#else if reqRaw.startsWith('a ')}
+{#let reqCore=reqRaw.substring(2)}
+attunement-requirement:
+{#for req in reqCore.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
+- {req.trim.toLowerCase}
+{/for}
+{/let}
+{#else if reqRaw.startsWith('the ')}
+{#let reqCore=reqRaw.substring(4)}
+attunement-requirement:
+{#for req in reqCore.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
+- {req.trim.toLowerCase}
+{/for}
+{/let}
+{#else}
+attunement-requirement:
+{#for req in reqRaw.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
+- {req.trim.toLowerCase}
+{/for}
+{/if}
+{/let}
+{/let}
+{/if}
+{#if resource.tags}
+{#for tag in resource.tags}{#if tag.startsWith('item/rarity/')}
+rarity: {tag.substring(12)}
+{/if}{/for}
+{#for tag in resource.tags}{#if tag.startsWith('item/tier/')}
+tier: {tag.substring(10)}
+{/if}{/for}
+{#let tagsText=str:concat(resource.tags)}
+{#if tagsText.contains('item/armor/')}
+type: armor
+subtype:
+{#for subtag in resource.tags}{#if subtag.startsWith('item/armor/')}
+- {subtag.substring(11)}
+{/if}{/for}
+{#else if tagsText.contains('item/gear/')}
+type: gear
+subtype:
+{#for subtag in resource.tags}{#if subtag.startsWith('item/gear/')}
+- {subtag.substring(10)}
+{/if}{/for}
+{#else if tagsText.contains('item/weapon/')}
+type: weapon
+subtype:
+{#for subtag in resource.tags}{#if subtag.startsWith('item/weapon/')}
+- {subtag.substring(12)}
+{/if}{/for}
+{#else if tagsText.contains('item/vehicle/')}
+type: vehicle
+subtype:
+{#for subtag in resource.tags}{#if subtag.startsWith('item/vehicle/')}
+- {subtag.substring(13)}
+{/if}{/for}
+{#else if tagsText.contains('item/wondrous/')}
+type: wondrous
+subtype:
+{#for subtag in resource.tags}{#if subtag.startsWith('item/wondrous/')}
+- {subtag.substring(14)}
+{/if}{/for}
+{/if}
+{/let}
+{/if}
 ---
 # {resource.name}
 {#if resource.detail }*{resource.detail}*  
