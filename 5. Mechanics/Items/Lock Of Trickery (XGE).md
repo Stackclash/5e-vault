@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Lock of Trickery
+attunement: false
+rarity: common
+tier: minor
 ---
 # Lock of Trickery
 *Wondrous item, minor, common*  

@@ -11,8 +11,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Mockingblade
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 weight: 2
+attunement: true
+attunement-requirement:
+  - bard
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Mockingblade
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, uncommon (requires attunement by a bard)*  

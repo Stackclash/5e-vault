@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Mourningsteel Ghost Candle
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Mourningsteel Ghost Candle
 *Wondrous item, major, uncommon (requires attunement)*  

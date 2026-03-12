@@ -10,6 +10,11 @@ aliases:
   - Blowgun Needles (50)
 cost: 100
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - ammunition
 ---
 # Blowgun Needles (50)
 *Ammunition*  

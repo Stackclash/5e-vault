@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Forgekeeper's Spark
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Forgekeeper's Spark
 *Wondrous item, minor, uncommon*  

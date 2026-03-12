@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Oozo (Very Rare)
+attunement: false
+rarity: very-rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Oozo (Very Rare)
 *Potion, very rare*  

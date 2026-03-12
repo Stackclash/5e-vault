@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sealing Wax
 cost: 50
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Sealing Wax
 *Adventuring gear*  

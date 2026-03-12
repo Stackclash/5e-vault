@@ -10,6 +10,11 @@ aliases:
   - Bullseye Lantern
 cost: 1000
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Bullseye Lantern
 *Adventuring gear*  

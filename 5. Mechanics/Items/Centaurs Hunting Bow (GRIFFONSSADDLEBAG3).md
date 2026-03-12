@@ -11,9 +11,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Centaur's Hunting Bow
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 range: 80\320
 weight: 2
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Centaur's Hunting Bow
 *Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare (requires attunement)*  

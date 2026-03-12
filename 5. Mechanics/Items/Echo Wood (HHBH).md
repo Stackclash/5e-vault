@@ -9,6 +9,11 @@ tags:
 aliases:
   - Echo Wood
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Echo Wood
 *Herb, rare*  

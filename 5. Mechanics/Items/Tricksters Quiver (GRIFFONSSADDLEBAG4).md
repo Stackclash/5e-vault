@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Trickster's Quiver
+attunement: true
+rarity: rare
 ---
 # Trickster's Quiver
 *Wondrous item, rare (requires attunement)*  

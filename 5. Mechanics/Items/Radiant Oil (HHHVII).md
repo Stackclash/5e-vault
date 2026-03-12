@@ -8,6 +8,11 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Radiant Oil
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - oil
 ---
 # Radiant Oil
 *Oil, uncommon*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Mastery Gem
+attunement: false
+rarity: legendary
+tier: major
 ---
 # Mastery Gem
 *Wondrous item, major, legendary*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Pickpocket's Pouch
+attunement: false
+rarity: uncommon
 ---
 # Pickpocket's Pouch
 *Wondrous item, uncommon*  

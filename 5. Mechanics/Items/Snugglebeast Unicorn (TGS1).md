@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Snugglebeast (Unicorn)
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Snugglebeast (Unicorn)
 *Wondrous item, minor, uncommon*  

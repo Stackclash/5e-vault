@@ -12,6 +12,14 @@ aliases:
   - Demon Armor
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+rarity: very-rare
+tier: major
+type: armor
+subtype:
+  - heavy
 ---
 # Demon Armor
 *Heavy armor, cursed item, major, very rare (requires attunement)*  

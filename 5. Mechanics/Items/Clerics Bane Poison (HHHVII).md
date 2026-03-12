@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Cleric's Bane Poison
+attunement: false
+rarity: rare
 ---
 # Cleric's Bane Poison
 *Poison (injury), rare*  

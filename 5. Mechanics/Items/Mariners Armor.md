@@ -27,6 +27,14 @@ aliases:
   - Mariner's Splint Armor
   - Mariner's Studded Leather Armor
   - Mariner's Wooden Breastplate
+attunement: false
+rarity: uncommon
+tier: minor
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Mariner's Armor
 *Minor, uncommon*  

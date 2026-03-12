@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Fists of the Guiding Star
+attunement: true
+attunement-requirement:
+  - monk
+rarity: uncommon
+tier: major
 ---
 # Fists of the Guiding Star
 *Wondrous item, major, uncommon (requires attunement by a monk)*  

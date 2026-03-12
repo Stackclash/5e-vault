@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sling Bullet
 weight: 0.075
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - ammunition
 ---
 # Sling Bullet
 *Ammunition*  

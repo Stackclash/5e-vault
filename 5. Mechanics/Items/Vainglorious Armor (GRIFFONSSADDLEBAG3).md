@@ -12,6 +12,13 @@ aliases:
   - Vainglorious Armor
 armorClass: 14
 weight: 40
+stealth-penalty: true
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
 ---
 # Vainglorious Armor
 *Heavy armor ([[/5. Mechanics/Items/Ring Mail.md\|ring mail]]), cursed item, major, rare (requires attunement)*  

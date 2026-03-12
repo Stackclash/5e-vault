@@ -17,6 +17,13 @@ aliases:
   - Moon-Touched Rapier
   - Moon-Touched Scimitar
   - Moon-Touched Shortsword
+attunement: false
+rarity: common
+tier: minor
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Moon-Touched Sword
 *Minor, common*  

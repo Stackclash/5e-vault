@@ -8,6 +8,10 @@ tags:
   - item/rarity/rare
 aliases:
   - Bangle of the Arcane Assassin
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
 ---
 # Bangle of the Arcane Assassin
 *Wondrous item, rare (requires attunement by a spellcaster)*  

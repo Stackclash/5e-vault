@@ -10,6 +10,9 @@ tags:
 aliases:
   - Spellforge Scabbard
 weight: 2
+attunement: true
+rarity: rare
+tier: major
 ---
 # Spellforge Scabbard
 *Wondrous item, major, rare (requires attunement)*  

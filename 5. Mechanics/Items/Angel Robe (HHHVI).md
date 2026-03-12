@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Angel Robe
+attunement: true
+rarity: rare
 ---
 # Angel Robe
 *Wondrous item, rare (requires attunement)*  

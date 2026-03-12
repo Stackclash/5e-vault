@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Conspirator's Coat
+attunement: true
+rarity: rare
+tier: major
 ---
 # Conspirator's Coat
 *Wondrous item, major, rare (requires attunement)*  

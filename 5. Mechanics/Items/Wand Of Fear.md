@@ -11,6 +11,12 @@ tags:
 aliases:
   - Wand of Fear
 weight: 1
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Fear
 *Wand, major, rare (requires attunement)*  

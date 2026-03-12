@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Cube of Force
+attunement: true
+rarity: rare
+tier: major
 ---
 # Cube of Force
 *Wondrous item, major, rare (requires attunement)*  

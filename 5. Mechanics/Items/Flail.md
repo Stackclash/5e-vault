@@ -10,8 +10,15 @@ tags:
 aliases:
   - Flail
 cost: 1000
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Flail
 *Weapon*  

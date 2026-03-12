@@ -9,6 +9,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Eyes
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Eyes
 *Wand, minor, uncommon*  

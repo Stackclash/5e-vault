@@ -9,6 +9,11 @@ tags:
 aliases:
   - Ice Vine
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Ice Vine
 *Herb, common*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Dragon's Mercy (Ancient)
+attunement: false
+rarity: legendary
 ---
 # Dragon's Mercy (Ancient)
 *Wondrous item, legendary*  

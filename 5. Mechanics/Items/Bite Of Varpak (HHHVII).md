@@ -53,6 +53,14 @@ aliases:
   - Bite of Varpak War Pick
   - Bite of Varpak Whip
   - Bite of Varpak Yklwa
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - ranged
+  - simple
 ---
 # Bite of Varpak
 *Cursed item, very rare (requires attunement)*  

@@ -10,9 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Bloodthirsty Bistoury
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 20\60
 weight: 1
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Bloodthirsty Bistoury
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon*  

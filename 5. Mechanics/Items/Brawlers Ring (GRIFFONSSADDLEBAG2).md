@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Brawler's Ring
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Brawler's Ring
 *Ring, minor, uncommon*  

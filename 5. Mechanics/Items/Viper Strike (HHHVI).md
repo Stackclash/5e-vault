@@ -8,6 +8,11 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Viper Strike
+attunement: false
+rarity: varies
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Viper Strike
 

@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Volcanic Ocarina
+attunement: false
+rarity: rare
 ---
 # Volcanic Ocarina
 *Wondrous item, rare*  

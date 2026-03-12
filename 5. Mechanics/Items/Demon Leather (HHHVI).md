@@ -11,6 +11,11 @@ aliases:
   - Demon Leather
 armorClass: 12 + Dex modifier
 weight: 13
+attunement: true
+rarity: rare
+type: armor
+subtype:
+  - light
 ---
 # Demon Leather
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), rare (requires attunement)*  

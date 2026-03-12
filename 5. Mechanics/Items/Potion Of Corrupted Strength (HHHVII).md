@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Corrupted Strength
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Corrupted Strength
 *Potion, rare*  

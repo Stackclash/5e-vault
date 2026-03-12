@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Astral Harpoon
+attunement: false
+rarity: very-rare
 ---
 # Astral Harpoon
 *Wondrous item, very rare*  

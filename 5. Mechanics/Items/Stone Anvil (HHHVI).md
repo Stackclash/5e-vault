@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Stone Anvil
+attunement: false
+rarity: rare
 ---
 # Stone Anvil
 *Wondrous item, rare*  

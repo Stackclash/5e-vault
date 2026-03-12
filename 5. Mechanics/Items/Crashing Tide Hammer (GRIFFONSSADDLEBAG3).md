@@ -10,6 +10,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Crashing Tide Hammer
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Crashing Tide Hammer
 *Major, rare (requires attunement)*  

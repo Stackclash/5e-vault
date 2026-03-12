@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Daern's Instant Fortress
+attunement: false
+rarity: rare
+tier: major
 ---
 # Daern's Instant Fortress
 *Wondrous item, major, rare*  

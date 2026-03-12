@@ -9,9 +9,15 @@ tags:
   - item/weapon/simple
 aliases:
   - Gulthias Staff
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - simple
 ---
 # Gulthias Staff
 *Staff, weapon, rare (requires attunement)*  

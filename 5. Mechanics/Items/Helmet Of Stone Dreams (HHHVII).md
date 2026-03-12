@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Helmet of Stone Dreams
+attunement: true
+rarity: rare
 ---
 # Helmet of Stone Dreams
 *Wondrous item, rare (requires attunement)*  

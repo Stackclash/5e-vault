@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Curse of Spite
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - curse
 ---
 # Curse of Spite
 *Wondrous item, curse, cursed item, rare*  

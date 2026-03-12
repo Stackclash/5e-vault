@@ -9,6 +9,11 @@ tags:
 aliases:
   - Black Sapphire
 cost: 500000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Black Sapphire
 *Treasure (gemstone)*  

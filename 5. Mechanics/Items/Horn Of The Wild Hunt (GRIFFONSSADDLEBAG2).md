@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Horn of the Wild Hunt
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Horn of the Wild Hunt
 *Wondrous item, major, very rare (requires attunement)*  

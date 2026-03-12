@@ -11,9 +11,23 @@ tags:
   - item/weapon/simple
 aliases:
   - Mummy Lord Staff
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - bard
+  - cleric
+  - sorcerer
+  - warlock
+  - wizard
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Mummy Lord Staff
 *Staff, weapon, cursed item, major, very rare (requires attunement by a bard, cleric, sorcerer, warlock, or wizard)*  

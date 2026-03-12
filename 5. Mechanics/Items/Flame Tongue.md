@@ -18,6 +18,13 @@ aliases:
   - Flame Tongue Rapier
   - Flame Tongue Scimitar
   - Flame Tongue Shortsword
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Flame Tongue
 *Major, rare (requires attunement)*  

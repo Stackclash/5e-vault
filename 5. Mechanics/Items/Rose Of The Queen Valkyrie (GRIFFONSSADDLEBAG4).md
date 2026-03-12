@@ -10,10 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Rose of the Queen Valkyrie
-one-hand-damage: 1d6 piercing
-two-hand-damage: 1d8 piercing
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: piercing
 range: 20\60
 weight: 3
+attunement: true
+rarity: legendary
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Rose of the Queen Valkyrie
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), legendary (requires attunement)*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Fang Keeper
+attunement: true
+rarity: rare
 ---
 # Fang Keeper
 *Wondrous item, rare (requires attunement)*  

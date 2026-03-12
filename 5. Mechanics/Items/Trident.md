@@ -10,10 +10,17 @@ tags:
 aliases:
   - Trident
 cost: 500
-one-hand-damage: 1d6 piercing
-two-hand-damage: 1d8 piercing
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: piercing
 range: 20\60
 weight: 4
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Trident
 *Weapon*  

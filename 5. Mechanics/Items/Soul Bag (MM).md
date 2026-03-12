@@ -8,6 +8,11 @@ tags:
   - item/wondrous/other
 aliases:
   - Soul Bag
+attunement: false
+rarity: very-rare
+type: wondrous
+subtype:
+  - other
 ---
 # Soul Bag
 *Very rare*  

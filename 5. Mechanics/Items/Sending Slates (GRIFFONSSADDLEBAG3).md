@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Sending Slates
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Sending Slates
 *Wondrous item, minor, rare*  

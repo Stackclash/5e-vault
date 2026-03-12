@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Speed
+attunement: false
+rarity: very-rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Speed
 *Potion, minor, very rare*  

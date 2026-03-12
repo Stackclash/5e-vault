@@ -9,6 +9,13 @@ tags:
   - item/tier/major
 aliases:
   - Life's Flower Restorative
+attunement: true
+attunement-requirement:
+  - creature missing a hand
+  - arm
+  - leg
+rarity: rare
+tier: major
 ---
 # Life's Flower Restorative
 *Wondrous item, major, rare (requires attunement by a creature missing a hand, arm, or leg)*  

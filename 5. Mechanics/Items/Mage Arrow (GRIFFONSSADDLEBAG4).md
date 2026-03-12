@@ -9,6 +9,11 @@ tags:
 aliases:
   - Mage Arrow
 weight: 0.05
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - ammunition
 ---
 # Mage Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), uncommon*  

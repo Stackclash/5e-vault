@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Chronomancer's Eyepiece
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Chronomancer's Eyepiece
 *Wondrous item, major, very rare (requires attunement)*  

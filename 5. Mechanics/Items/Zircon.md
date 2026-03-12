@@ -9,6 +9,11 @@ tags:
 aliases:
   - Zircon
 cost: 5000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Zircon
 *Treasure (gemstone)*  

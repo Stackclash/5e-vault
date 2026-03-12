@@ -12,6 +12,12 @@ aliases:
   - Phoenix Breastplate
 armorClass: 14 + Dex modifier (max of +2)
 weight: 20
+attunement: true
+rarity: very-rare
+tier: major
+type: armor
+subtype:
+  - medium
 ---
 # Phoenix Breastplate
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), major, very rare (requires attunement)*  

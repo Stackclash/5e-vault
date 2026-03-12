@@ -10,6 +10,11 @@ aliases:
   - Caltrops (bag of 20)
 cost: 100
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Caltrops (bag of 20)
 *Adventuring gear*  

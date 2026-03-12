@@ -10,9 +10,23 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of Swarming Insects
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - bard
+  - cleric
+  - druid
+  - sorcerer
+  - warlock
+  - wizard
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Staff of Swarming Insects
 *Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Chrysoberyl
 cost: 10000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Chrysoberyl
 *Treasure (gemstone)*  

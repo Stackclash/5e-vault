@@ -11,6 +11,11 @@ aliases:
   - Verdant Breastplate
 armorClass: 14 + Dex modifier (max of +2)
 weight: 20
+attunement: true
+rarity: rare
+type: armor
+subtype:
+  - medium
 ---
 # Verdant Breastplate
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), rare (requires attunement)*  

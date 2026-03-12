@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Corruption Skull
+attunement: true
+rarity: rare
 ---
 # Corruption Skull
 *Wondrous item, rare (requires attunement)*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Planar Prevention Paint
+attunement: false
+rarity: very-rare
 ---
 # Planar Prevention Paint
 *Wondrous item, very rare*  

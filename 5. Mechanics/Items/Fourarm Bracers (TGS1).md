@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Fourarm Bracers
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Fourarm Bracers
 *Wondrous item, major, very rare (requires attunement)*  

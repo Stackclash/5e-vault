@@ -10,9 +10,15 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Seven Parts
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: artifact
+type: weapon
+subtype:
+  - simple
 ---
 # Rod of Seven Parts
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), rod, artifact (requires attunement)*  

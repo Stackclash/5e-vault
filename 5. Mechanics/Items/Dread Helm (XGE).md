@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Dread Helm
+attunement: false
+rarity: common
+tier: minor
 ---
 # Dread Helm
 *Wondrous item, minor, common*  

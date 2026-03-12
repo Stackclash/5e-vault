@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Stone Soldier
+attunement: false
+rarity: uncommon
 ---
 # Stone Soldier
 *Wondrous item, uncommon*  

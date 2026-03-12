@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Moonlighter's Masquerade
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Moonlighter's Masquerade
 *Wondrous item, major, uncommon (requires attunement)*  

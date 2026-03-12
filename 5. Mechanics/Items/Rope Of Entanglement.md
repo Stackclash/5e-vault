@@ -9,6 +9,9 @@ tags:
 aliases:
   - Rope of Entanglement
 weight: 3
+attunement: false
+rarity: rare
+tier: major
 ---
 # Rope of Entanglement
 *Wondrous item, major, rare*  

@@ -9,6 +9,11 @@ tags:
   - item/tier/minor
 aliases:
   - Dark Shard Amulet
+attunement: true
+attunement-requirement:
+  - warlock
+rarity: common
+tier: minor
 ---
 # Dark Shard Amulet
 *Wondrous item, minor, common (requires attunement by a warlock)*  

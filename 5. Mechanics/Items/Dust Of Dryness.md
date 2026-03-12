@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Dust of Dryness
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Dust of Dryness
 *Wondrous item, minor, uncommon*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Big Catch Hooks
+attunement: false
+rarity: common
 ---
 # Big Catch Hooks
 *Wondrous item, common*  

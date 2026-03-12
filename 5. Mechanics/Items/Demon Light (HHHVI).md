@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Demon Light
+attunement: true
+rarity: very-rare
 ---
 # Demon Light
 *Wondrous item, very rare (requires attunement)*  

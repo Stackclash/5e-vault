@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Helm of the Justicars
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Helm of the Justicars
 *Wondrous item, major, legendary (requires attunement)*  

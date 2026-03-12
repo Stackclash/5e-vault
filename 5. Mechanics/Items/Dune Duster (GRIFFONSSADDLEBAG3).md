@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Dune Duster
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Dune Duster
 *Wondrous item, major, very rare (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Vox Helm
+attunement: false
+rarity: common
+tier: minor
 ---
 # Vox Helm
 *Wondrous item, minor, common*  

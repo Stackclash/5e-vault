@@ -10,6 +10,11 @@ aliases:
   - Cart
 cost: 1500
 weight: 200
+attunement: false
+rarity: none
+type: vehicle
+subtype:
+  - land
 ---
 # Cart
 *Vehicle (land)*  

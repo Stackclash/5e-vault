@@ -10,9 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Pick and Pocket
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 20\60
 weight: 1
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Pick and Pocket
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Ghostfire Pack
+attunement: false
+rarity: very-rare
 ---
 # Ghostfire Pack
 *Wondrous item, very rare*  

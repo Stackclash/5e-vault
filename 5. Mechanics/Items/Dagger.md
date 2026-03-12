@@ -10,9 +10,16 @@ tags:
 aliases:
   - Dagger
 cost: 200
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 20\60
 weight: 1
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Dagger
 *Weapon*  

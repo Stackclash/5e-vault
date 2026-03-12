@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Bloodscryer Oculus
+attunement: true
+attunement-requirement:
+  - ranger
+rarity: legendary
+tier: major
 ---
 # Bloodscryer Oculus
 *Wondrous item, major, legendary (requires attunement by a ranger)*  

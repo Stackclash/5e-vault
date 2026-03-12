@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of the Sandskimmer
+attunement: false
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of the Sandskimmer
 *Ring, major, uncommon*  

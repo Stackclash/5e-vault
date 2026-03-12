@@ -10,6 +10,14 @@ tags:
   - item/wondrous/wand
 aliases:
   - 'Arista, Wand of the Spire'
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: artifact
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Arista, Wand of the Spire
 *Wand, major, artifact (requires attunement by a spellcaster)*  

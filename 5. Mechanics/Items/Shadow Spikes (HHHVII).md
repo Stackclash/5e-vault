@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Shadow Spikes
+attunement: false
+rarity: uncommon
 ---
 # Shadow Spikes
 *Wondrous item, uncommon*  

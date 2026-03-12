@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Concoction of Contamination
+attunement: false
+rarity: very-rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Concoction of Contamination
 *Potion, very rare*  

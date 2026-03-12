@@ -10,6 +10,11 @@ aliases:
   - Glass Bottle
 cost: 200
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Glass Bottle
 *Adventuring gear*  

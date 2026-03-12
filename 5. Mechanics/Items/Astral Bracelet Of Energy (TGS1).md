@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Astral Bracelet of Energy
+attunement: true
+attunement-requirement:
+  - sorcerer
+  - wizard
+rarity: very-rare
+tier: major
 ---
 # Astral Bracelet of Energy
 *Wondrous item, major, very rare (requires attunement by a sorcerer or wizard)*  

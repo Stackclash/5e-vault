@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Mousetrap Explosive
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Mousetrap Explosive
 *Wondrous item, minor, uncommon*  

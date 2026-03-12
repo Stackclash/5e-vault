@@ -9,6 +9,11 @@ tags:
 aliases:
   - Star Ruby
 cost: 100000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Star Ruby
 *Treasure (gemstone)*  

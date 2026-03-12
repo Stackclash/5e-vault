@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Pillow of Perfect Rest
+attunement: false
+rarity: uncommon
 ---
 # Pillow of Perfect Rest
 *Wondrous item, uncommon*  

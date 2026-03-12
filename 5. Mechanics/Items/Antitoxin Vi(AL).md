@@ -9,6 +9,11 @@ tags:
 aliases:
   - Antitoxin (vial)
 cost: 5000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Antitoxin (vial)
 *Adventuring gear*  

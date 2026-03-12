@@ -9,6 +9,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Refstophobia
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of Refstophobia
 *Rod, minor, rare*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Tome of Planar Wonderings and Wanderings
+attunement: false
+rarity: legendary
+tier: major
 ---
 # Tome of Planar Wonderings and Wanderings
 *Wondrous item, major, legendary*  

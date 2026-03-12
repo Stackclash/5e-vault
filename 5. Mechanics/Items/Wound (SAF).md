@@ -10,8 +10,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Wound
-one-hand-damage: 1d12 slashing
+one-hand-damage: 1d12
+damage-type: slashing
 weight: 7
+attunement: true
+attunement-requirement:
+  - barbarian
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Wound
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), rare (requires attunement by a barbarian)*  

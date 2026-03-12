@@ -15,6 +15,13 @@ aliases:
   - Silver Eagle Greatsword
   - Silver Eagle Lance
   - Silver Eagle Maul
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Silver Eagle Weapon
 *Major, uncommon*  

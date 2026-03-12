@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Metallurgist's Grip
+attunement: true
+rarity: very-rare
 ---
 # Metallurgist's Grip
 *Wondrous item, very rare (requires attunement)*  

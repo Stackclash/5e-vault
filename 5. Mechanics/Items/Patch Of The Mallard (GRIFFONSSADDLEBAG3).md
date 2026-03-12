@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Patch of the Mallard
+attunement: false
+rarity: common
+tier: minor
 ---
 # Patch of the Mallard
 *Wondrous item, minor, common*  

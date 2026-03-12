@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Bath potion
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Bath potion
 *Potion, minor, common*  

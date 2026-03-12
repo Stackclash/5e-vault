@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Gut Rot
+attunement: false
+rarity: common
+type: wondrous
+subtype:
+  - potion
 ---
 # Gut Rot
 *Potion, common*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Helm of Teleportation
+attunement: true
+rarity: rare
+tier: major
 ---
 # Helm of Teleportation
 *Wondrous item, major, rare (requires attunement)*  

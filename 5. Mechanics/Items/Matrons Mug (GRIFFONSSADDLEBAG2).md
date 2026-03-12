@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Matron's Mug
+attunement: false
+rarity: very-rare
+tier: minor
 ---
 # Matron's Mug
 *Wondrous item, minor, very rare*  

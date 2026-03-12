@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Oaken Candle
+attunement: false
+rarity: common
+tier: minor
 ---
 # Oaken Candle
 *Wondrous item, minor, common*  

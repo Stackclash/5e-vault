@@ -10,6 +10,11 @@ aliases:
   - Steel Mirror
 cost: 500
 weight: 0.5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Steel Mirror
 *Adventuring gear*  

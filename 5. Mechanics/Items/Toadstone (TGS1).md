@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Toadstone
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Toadstone
 *Wondrous item, cursed item, major, uncommon (requires attunement)*  

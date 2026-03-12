@@ -8,6 +8,10 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Talisman of Nature's Wrath
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: very-rare
 ---
 # Talisman of Nature's Wrath
 *Wondrous item, very rare (requires attunement by a spellcaster)*  

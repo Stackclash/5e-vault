@@ -23,6 +23,13 @@ aliases:
   - Spiked Armor of Gleaming
   - Splint Armor of Gleaming
   - Wooden Breastplate of Gleaming
+attunement: false
+rarity: common
+tier: minor
+type: armor
+subtype:
+  - heavy
+  - medium
 ---
 # Armor of Gleaming
 *Minor, common*  

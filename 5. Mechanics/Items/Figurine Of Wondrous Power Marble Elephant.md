@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Figurine of Wondrous Power, Marble Elephant'
+attunement: false
+rarity: rare
+tier: major
 ---
 # Figurine of Wondrous Power, Marble Elephant
 *Wondrous item, major, rare*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Patch of the Open Eye
+attunement: false
+rarity: common
+tier: minor
 ---
 # Patch of the Open Eye
 *Wondrous item, minor, common*  

@@ -11,6 +11,12 @@ tags:
 aliases:
   - Warden's Armor
   - Warden's Bone Plate Armor
+attunement: false
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
 ---
 # Warden's Armor
 *Major, rare*  

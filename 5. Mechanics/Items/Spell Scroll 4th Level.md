@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Spell Scroll (4th Level)
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Spell Scroll (4th Level)
 *Scroll, minor, rare*  

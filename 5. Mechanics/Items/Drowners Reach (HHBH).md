@@ -9,6 +9,11 @@ tags:
 aliases:
   - Drowner's Reach
 cost: 2000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Drowner's Reach
 *Herb, rare*  

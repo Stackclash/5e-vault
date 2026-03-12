@@ -10,6 +10,11 @@ aliases:
   - Priest's Pack
 cost: 1900
 weight: 24
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Priest's Pack
 *Adventuring gear*  

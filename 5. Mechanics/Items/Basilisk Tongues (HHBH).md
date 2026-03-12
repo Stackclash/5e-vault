@@ -9,6 +9,11 @@ tags:
 aliases:
   - Basilisk Tongues
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Basilisk Tongues
 *Herb, rare*  

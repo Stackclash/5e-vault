@@ -69,6 +69,15 @@ aliases:
   - Warhammer of Warning
   - Whip of Warning
   - Yklwa of Warning
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - ranged
+  - simple
 ---
 # Weapon of Warning
 *Major, uncommon (requires attunement)*  

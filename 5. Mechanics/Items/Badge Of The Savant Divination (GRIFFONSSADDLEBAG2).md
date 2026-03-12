@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Badge of the Savant (Divination)
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Badge of the Savant (Divination)
 *Wondrous item, major, uncommon*  

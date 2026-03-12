@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pot of Awakening
+attunement: false
+rarity: common
+tier: minor
 ---
 # Pot of Awakening
 *Wondrous item, minor, common*  

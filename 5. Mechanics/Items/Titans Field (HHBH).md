@@ -9,6 +9,11 @@ tags:
 aliases:
   - Titan's Field
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Titan's Field
 *Herb, rare*  

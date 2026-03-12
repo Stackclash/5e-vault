@@ -7,6 +7,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Infernal Engine
+attunement: false
+rarity: legendary
 ---
 # Infernal Engine
 *Wondrous item, legendary*  

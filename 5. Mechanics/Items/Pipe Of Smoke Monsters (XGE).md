@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pipe of Smoke Monsters
+attunement: false
+rarity: common
+tier: minor
 ---
 # Pipe of Smoke Monsters
 *Wondrous item, minor, common*  

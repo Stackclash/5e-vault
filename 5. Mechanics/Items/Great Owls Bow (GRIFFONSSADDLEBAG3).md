@@ -15,6 +15,14 @@ aliases:
   - Great Owl's Bow
   - Great Owl's Longbow
   - Great Owl's Shortbow
+attunement: true
+rarity: uncommon
+tier: minor
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Great Owl's Bow
 *Minor, uncommon (requires attunement)*  

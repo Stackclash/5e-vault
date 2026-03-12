@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Gardener's Candle Holder
+attunement: false
+rarity: common
 ---
 # Gardener's Candle Holder
 *Wondrous item, common*  

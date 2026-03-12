@@ -10,8 +10,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Devotee's Censer
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 2
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Devotee's Censer
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), rare (requires attunement by a cleric or paladin)*  

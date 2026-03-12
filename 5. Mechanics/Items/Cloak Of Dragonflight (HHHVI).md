@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Cloak of Dragonflight
+attunement: true
+rarity: very-rare
 ---
 # Cloak of Dragonflight
 *Wondrous item, very rare (requires attunement)*  

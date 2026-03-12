@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Dragon Stone (Ancient)
+attunement: true
+rarity: legendary
 ---
 # Dragon Stone (Ancient)
 *Wondrous item, legendary (requires attunement)*  

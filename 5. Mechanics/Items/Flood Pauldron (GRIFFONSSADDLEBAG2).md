@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Flood Pauldron
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Flood Pauldron
 *Wondrous item, major, uncommon (requires attunement)*  

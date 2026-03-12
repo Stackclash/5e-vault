@@ -10,6 +10,11 @@ aliases:
   - Cook's Utensils
 cost: 100
 weight: 8
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Cook's Utensils
 *Artisan's tools*  

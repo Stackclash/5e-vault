@@ -16,6 +16,13 @@ aliases:
   - Star Breaker Hooked Shortspear
   - Star Breaker Hoopak
   - Star Breaker Yklwa
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Star Breaker
 *Very rare (requires attunement)*  

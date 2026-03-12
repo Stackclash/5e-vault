@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Cloak of Many Fashions
+attunement: false
+rarity: common
+tier: minor
 ---
 # Cloak of Many Fashions
 *Wondrous item, minor, common*  

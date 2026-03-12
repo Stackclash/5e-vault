@@ -10,6 +10,14 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Healer's Heroism
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Healer's Heroism
 *Ring, major, uncommon (requires attunement by a spellcaster)*  

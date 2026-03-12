@@ -10,8 +10,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Shadow Sword
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 weight: 2
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Shadow Sword
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), rare (requires attunement)*  

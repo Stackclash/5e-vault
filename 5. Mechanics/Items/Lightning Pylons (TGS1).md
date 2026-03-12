@@ -10,6 +10,12 @@ tags:
 aliases:
   - Lightning Pylons
 weight: 2
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Lightning Pylons
 *Rod, major, rare*  

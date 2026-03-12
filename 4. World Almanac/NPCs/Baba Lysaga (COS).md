@@ -11,10 +11,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\baba-lysaga.webp
-relationships: []
 aliases:
   - Baba Lysaga
 alignment: Chaotic Evil
+relationships: []
 partyRelationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Ruins of Berez.md|Ruins of Berez]]'
@@ -35,7 +35,6 @@ goals: 'To aid Strahd, to destroy his enemies, to gain more arcane power'
 likes: 'Magic, Strahd, her creeping hut'
 dislikes: 'Intruders in Berez, those who oppose Strahd, the light'
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

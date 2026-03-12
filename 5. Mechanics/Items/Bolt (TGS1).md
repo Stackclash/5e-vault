@@ -11,9 +11,17 @@ tags:
   - item/weapon/ranged
 aliases:
   - Bolt
-one-hand-damage: 1d12 lightning
+one-hand-damage: 1d12
+damage-type: lightning
 range: 100\400
 weight: 18
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Bolt
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, very rare (requires attunement)*  

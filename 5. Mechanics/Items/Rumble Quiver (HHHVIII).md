@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Rumble Quiver
+attunement: true
+rarity: very-rare
 ---
 # Rumble Quiver
 *Wondrous item, very rare (requires attunement)*  

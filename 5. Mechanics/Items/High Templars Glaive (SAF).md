@@ -9,8 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - High Templar's Glaive
-one-hand-damage: 1d10 slashing
+one-hand-damage: 1d10
+damage-type: slashing
 weight: 6
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - melee
 ---
 # High Templar's Glaive
 *Melee weapon, very rare (requires attunement)*  

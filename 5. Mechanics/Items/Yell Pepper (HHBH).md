@@ -9,6 +9,11 @@ tags:
 aliases:
   - Yell Pepper
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Yell Pepper
 *Herb, common*  

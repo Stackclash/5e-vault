@@ -9,6 +9,11 @@ tags:
 aliases:
   - Airship
 cost: 2000000
+attunement: false
+rarity: none
+type: vehicle
+subtype:
+  - airship-air
 ---
 # Airship
 *Airship, vehicle (air)*  

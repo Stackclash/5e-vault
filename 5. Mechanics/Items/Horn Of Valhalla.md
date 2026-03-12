@@ -7,6 +7,8 @@ tags:
   - item/rarity/varies
 aliases:
   - Horn of Valhalla
+attunement: false
+rarity: varies
 ---
 # Horn of Valhalla
 *Wondrous item*  

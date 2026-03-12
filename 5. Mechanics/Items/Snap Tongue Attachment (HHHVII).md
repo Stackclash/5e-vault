@@ -13,6 +13,13 @@ aliases:
   - Snap Tongue Attachment
   - Snap Tongue Hooked Shortspear
   - Snap Tongue Yklwa
+attunement: false
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Snap Tongue Attachment
 *Wondrous item, very rare*  

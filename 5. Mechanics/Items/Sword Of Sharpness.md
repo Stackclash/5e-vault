@@ -16,6 +16,13 @@ aliases:
   - Greatsword of Sharpness
   - Longsword of Sharpness
   - Scimitar of Sharpness
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Sword of Sharpness
 *Major, very rare (requires attunement)*  

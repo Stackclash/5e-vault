@@ -9,6 +9,11 @@ tags:
 aliases:
   - Winterlight Bloom
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Winterlight Bloom
 *Herb, rare*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Shadowshawl
+attunement: false
+rarity: rare
+tier: major
 ---
 # Shadowshawl
 *Wondrous item, major, rare*  

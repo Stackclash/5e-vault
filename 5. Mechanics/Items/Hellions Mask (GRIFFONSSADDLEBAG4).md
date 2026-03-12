@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Hellion's Mask
+attunement: true
+rarity: very-rare
 ---
 # Hellion's Mask
 *Wondrous item, cursed item, very rare (requires attunement)*  

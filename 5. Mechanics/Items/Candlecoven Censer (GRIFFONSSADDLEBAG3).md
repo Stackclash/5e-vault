@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Candlecoven Censer
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
 ---
 # Candlecoven Censer
 *Wondrous item, major, rare (requires attunement by a spellcaster)*  

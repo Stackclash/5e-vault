@@ -10,8 +10,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Ice Sickle
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 weight: 2
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Ice Sickle
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, uncommon*  

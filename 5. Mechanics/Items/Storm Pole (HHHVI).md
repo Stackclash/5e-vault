@@ -8,6 +8,8 @@ tags:
 aliases:
   - Storm Pole
 weight: 40
+attunement: false
+rarity: very-rare
 ---
 # Storm Pole
 *Wondrous item, very rare*  

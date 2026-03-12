@@ -9,6 +9,11 @@ tags:
   - item/wondrous/wand
 aliases:
   - Lesser Eye Stalk Wand
+attunement: true
+rarity: rare
+type: wondrous
+subtype:
+  - wand
 ---
 # Lesser Eye Stalk Wand
 *Wand, rare (requires attunement)*  

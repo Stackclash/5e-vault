@@ -9,9 +9,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Coil Crook
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Coil Crook
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon*  

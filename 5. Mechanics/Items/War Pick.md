@@ -10,8 +10,15 @@ tags:
 aliases:
   - War Pick
 cost: 500
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # War Pick
 *Weapon*  

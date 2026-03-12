@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Sream's Stoppered Oasis
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Sream's Stoppered Oasis
 *Potion, minor, rare*  

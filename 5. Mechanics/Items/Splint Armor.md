@@ -11,6 +11,13 @@ aliases:
 cost: 20000
 armorClass: 17
 weight: 60
+stealth-penalty: true
+strength-requirement: 15
+attunement: false
+rarity: none
+type: armor
+subtype:
+  - heavy
 ---
 # Splint Armor
 *Heavy armor*  

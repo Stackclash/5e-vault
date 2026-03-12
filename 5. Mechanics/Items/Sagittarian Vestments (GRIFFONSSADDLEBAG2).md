@@ -28,6 +28,17 @@ aliases:
   - Sagittarian Splint Armor
   - Sagittarian Studded Leather Armor
   - Sagittarian Wooden Breastplate
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: uncommon
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Sagittarian Vestments
 *Cursed item, major, uncommon (requires attunement by a cleric or paladin)*  

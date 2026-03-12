@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Cloak of Smoke and Cinder
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Cloak of Smoke and Cinder
 *Wondrous item, major, very rare (requires attunement)*  

@@ -17,6 +17,16 @@ aliases:
   - Hooked Shortspear of Verdict
   - Hoopak of Verdict
   - Yklwa of Verdict
+attunement: true
+attunement-requirement:
+  - creature of good alignment
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Weapon of Verdict
 *Major, uncommon (requires attunement by a creature of good alignment)*  

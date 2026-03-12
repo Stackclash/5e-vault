@@ -11,8 +11,19 @@ tags:
   - item/weapon/melee
 aliases:
   - Worldbreaker
-one-hand-damage: 2d12 bludgeoning
+one-hand-damage: 2d12
+damage-type: bludgeoning
 weight: 10
+attunement: true
+attunement-requirement:
+  - creature with a strength score of 17
+  - higher
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Worldbreaker
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, legendary (requires attunement by a creature with a strength score of 17 or higher)*  

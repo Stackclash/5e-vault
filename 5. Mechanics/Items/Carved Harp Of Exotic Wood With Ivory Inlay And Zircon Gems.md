@@ -9,6 +9,11 @@ tags:
 aliases:
   - Carved harp of exotic wood with ivory inlay and zircon gems
 cost: 75000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Carved harp of exotic wood with ivory inlay and zircon gems
 *Treasure (art object)*  

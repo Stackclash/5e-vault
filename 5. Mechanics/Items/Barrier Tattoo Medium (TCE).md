@@ -9,6 +9,11 @@ tags:
   - item/wondrous/tattoo
 aliases:
   - Barrier Tattoo (Medium)
+attunement: true
+rarity: rare
+type: wondrous
+subtype:
+  - tattoo
 ---
 # Barrier Tattoo (Medium)
 *Wondrous item (tattoo), rare (requires attunement)*  

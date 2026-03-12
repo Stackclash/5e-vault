@@ -10,6 +10,11 @@ tags:
 aliases:
   - Talisman of Ultimate Evil
 weight: 1
+attunement: true
+attunement-requirement:
+  - creature of evil alignment
+rarity: legendary
+tier: major
 ---
 # Talisman of Ultimate Evil
 *Wondrous item, major, legendary (requires attunement by a creature of evil alignment)*  

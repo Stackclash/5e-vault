@@ -9,6 +9,11 @@ tags:
 aliases:
   - Silk (1 sq. yd.)
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Silk (1 sq. yd.)
 *Trade good*  

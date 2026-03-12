@@ -10,6 +10,14 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Puppetry
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Puppetry
 *Wand, major, very rare (requires attunement by a spellcaster)*  

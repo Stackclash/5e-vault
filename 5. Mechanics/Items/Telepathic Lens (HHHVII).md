@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Telepathic Lens
+attunement: false
+rarity: rare
 ---
 # Telepathic Lens
 *Wondrous item, rare*  

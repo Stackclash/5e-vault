@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Bubbling Retort
+attunement: false
+rarity: uncommon
 ---
 # Bubbling Retort
 *Wondrous item, uncommon*  

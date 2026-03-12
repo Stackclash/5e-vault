@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bramble Token Cuff
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Bramble Token Cuff
 *Wondrous item, minor, uncommon*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Clothes of Mending
+attunement: false
+rarity: common
+tier: minor
 ---
 # Clothes of Mending
 *Wondrous item, minor, common*  

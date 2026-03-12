@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Bird of a Feather (uncommon)
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Bird of a Feather (uncommon)
 *Wondrous item, major, uncommon*  

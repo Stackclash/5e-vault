@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Gossiper's Ear Cuff
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Gossiper's Ear Cuff
 *Wondrous item, minor, rare*  

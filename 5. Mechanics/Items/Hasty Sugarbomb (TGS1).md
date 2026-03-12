@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Hasty Sugarbomb
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Hasty Sugarbomb
 *Wondrous item, minor, uncommon*  

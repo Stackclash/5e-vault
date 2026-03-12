@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Diviner's Dice
+attunement: true
+rarity: rare
+tier: major
 ---
 # Diviner's Dice
 *Wondrous item, major, rare (requires attunement)*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Metal Detector
+attunement: false
+rarity: uncommon
 ---
 # Metal Detector
 *Wondrous item, uncommon*  

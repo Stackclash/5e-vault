@@ -8,6 +8,11 @@ tags:
   - item/rarity/none
 aliases:
   - Druidic Focus
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Druidic Focus
 *Spellcasting focus*  

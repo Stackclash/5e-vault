@@ -9,6 +9,13 @@ tags:
   - item/rarity/varies
 aliases:
   - Instrument of the Bards
+attunement: true
+attunement-requirement:
+  - bard
+rarity: varies
+type: gear
+subtype:
+  - instrument
 ---
 # Instrument of the Bards
 *Wondrous item, instrument (requires attunement by a bard)*  

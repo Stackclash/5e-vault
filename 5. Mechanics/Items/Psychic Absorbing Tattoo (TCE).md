@@ -9,6 +9,11 @@ tags:
   - item/wondrous/tattoo
 aliases:
   - Psychic Absorbing Tattoo
+attunement: true
+rarity: very-rare
+type: wondrous
+subtype:
+  - tattoo
 ---
 # Psychic Absorbing Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  

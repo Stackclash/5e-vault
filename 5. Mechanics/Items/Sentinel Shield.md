@@ -11,6 +11,9 @@ aliases:
   - Sentinel Shield
 armorClass: 2
 weight: 6
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Sentinel Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon*  

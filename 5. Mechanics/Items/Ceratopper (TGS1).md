@@ -10,6 +10,9 @@ tags:
 aliases:
   - Ceratopper
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Ceratopper
 *Wondrous item, major, very rare (requires attunement)*  

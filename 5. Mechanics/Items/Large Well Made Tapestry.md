@@ -9,6 +9,11 @@ tags:
 aliases:
   - Large well-made tapestry
 cost: 25000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Large well-made tapestry
 *Treasure (art object)*  

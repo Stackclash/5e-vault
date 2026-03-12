@@ -10,9 +10,16 @@ tags:
   - item/weapon/ranged
 aliases:
   - Hailstorm Bow
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 range: 150\600
 weight: 2
+attunement: true
+rarity: legendary
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Hailstorm Bow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), legendary (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Lightning Caltrops
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Lightning Caltrops
 *Wondrous item, major, uncommon*  

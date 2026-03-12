@@ -11,10 +11,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Tideborn Trident
-one-hand-damage: 1d6 piercing
-two-hand-damage: 1d8 piercing
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: piercing
 range: 20\60
 weight: 4
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Tideborn Trident
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, legendary (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Hunk of Cheese
 cost: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - food-and-drink
 ---
 # Hunk of Cheese
 *Food and drink*  

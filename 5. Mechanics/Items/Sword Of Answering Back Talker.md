@@ -11,9 +11,19 @@ tags:
   - item/weapon/melee
 aliases:
   - Sword of Answering (Back Talker)
-one-hand-damage: 1d8 slashing
-two-hand-damage: 1d10 slashing
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: slashing
 weight: 3
+attunement: true
+attunement-requirement:
+  - chaotic evil creature
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Sword of Answering (Back Talker)
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, legendary (requires attunement by a chaotic evil creature)*  

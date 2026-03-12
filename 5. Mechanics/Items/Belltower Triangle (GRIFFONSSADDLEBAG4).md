@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Belltower Triangle
+attunement: false
+rarity: common
 ---
 # Belltower Triangle
 *Wondrous item, common*  

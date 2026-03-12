@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Phoenix Arrow (Generic)
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Phoenix Arrow (Generic)
 *Major, rare*  

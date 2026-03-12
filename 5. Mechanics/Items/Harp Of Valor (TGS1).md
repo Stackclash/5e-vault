@@ -11,9 +11,19 @@ tags:
   - item/weapon/simple
 aliases:
   - Harp of Valor
-one-hand-damage: 1d6 thunder
+one-hand-damage: 1d6
+damage-type: thunder
 range: 80\320
 weight: 2
+attunement: true
+attunement-requirement:
+  - bard
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Harp of Valor
 *Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, very rare (requires attunement by a bard)*  

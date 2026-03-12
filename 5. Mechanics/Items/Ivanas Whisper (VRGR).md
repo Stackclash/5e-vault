@@ -8,6 +8,11 @@ tags:
   - item/rarity/unknown
 aliases:
   - Ivana's Whisper
+attunement: false
+rarity: unknown
+type: gear
+subtype:
+  - null
 ---
 # Ivana's Whisper
 *Adventuring gear, poison (inhaled)*  

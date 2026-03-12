@@ -9,6 +9,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Periscope Rod
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - rod
 ---
 # Periscope Rod
 *Rod, minor, common*  

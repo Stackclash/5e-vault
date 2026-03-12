@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Splitter
-one-hand-damage: 1d10 slashing
+one-hand-damage: 1d10
+damage-type: slashing
 weight: 6
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Splitter
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), major, very rare (requires attunement)*  

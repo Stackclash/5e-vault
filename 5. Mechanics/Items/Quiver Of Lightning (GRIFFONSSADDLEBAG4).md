@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Quiver of Lightning
+attunement: true
+rarity: rare
 ---
 # Quiver of Lightning
 *Wondrous item, rare (requires attunement)*  

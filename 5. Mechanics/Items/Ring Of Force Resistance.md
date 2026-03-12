@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Force Resistance
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Force Resistance
 *Ring, major, rare (requires attunement)*  

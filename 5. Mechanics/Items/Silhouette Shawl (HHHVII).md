@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Silhouette Shawl
+attunement: false
+rarity: common
 ---
 # Silhouette Shawl
 *Wondrous item, common*  

@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Maul of the Guiding Star
-one-hand-damage: 2d6 bludgeoning
+one-hand-damage: 2d6
+damage-type: bludgeoning
 weight: 10
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Maul of the Guiding Star
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, rare (requires attunement)*  

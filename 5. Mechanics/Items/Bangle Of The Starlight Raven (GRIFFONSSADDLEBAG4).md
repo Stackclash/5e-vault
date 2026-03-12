@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Bangle of the Starlight Raven
+attunement: true
+rarity: rare
 ---
 # Bangle of the Starlight Raven
 *Wondrous item, rare (requires attunement)*  

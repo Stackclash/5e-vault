@@ -9,6 +9,12 @@ tags:
   - item/tier/minor
 aliases:
   - Horn of Silent Alarm
+attunement: false
+rarity: common
+tier: minor
+type: gear
+subtype:
+  - instrument
 ---
 # Horn of Silent Alarm
 *Wondrous item, instrument ([[/5. Mechanics/Items/Horn.md\|horn]]), minor, common*  

@@ -9,8 +9,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Mind Lash
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 weight: 3
+attunement: true
+attunement-requirement:
+  - mind flayer
+rarity: rare
+type: weapon
+subtype:
+  - melee
 ---
 # Mind Lash
 *Melee weapon, rare (requires attunement by a mind flayer)*  

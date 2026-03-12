@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Criir's Blade
-one-hand-damage: 1d8 slashing
-two-hand-damage: 1d10 slashing
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: slashing
+attunement: true
+rarity: artifact
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Criir's Blade
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), major, artifact (requires attunement)*  

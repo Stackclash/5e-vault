@@ -8,6 +8,11 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Frostclaw Weapons
+attunement: false
+rarity: varies
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Frostclaw Weapons
 

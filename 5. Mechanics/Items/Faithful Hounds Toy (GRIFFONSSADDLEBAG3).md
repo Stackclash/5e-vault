@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Faithful Hound's Toy
+attunement: true
+rarity: rare
+tier: major
 ---
 # Faithful Hound's Toy
 *Wondrous item, major, rare (requires attunement)*  

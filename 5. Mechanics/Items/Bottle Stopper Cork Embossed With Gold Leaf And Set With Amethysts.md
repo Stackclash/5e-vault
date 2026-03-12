@@ -9,6 +9,11 @@ tags:
 aliases:
   - Bottle stopper cork embossed with gold leaf and set with amethysts
 cost: 75000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Bottle stopper cork embossed with gold leaf and set with amethysts
 *Treasure (art object)*  

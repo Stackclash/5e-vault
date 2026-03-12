@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Amulet of the Trickster
+attunement: true
+rarity: very-rare
 ---
 # Amulet of the Trickster
 *Wondrous item, very rare (requires attunement)*  

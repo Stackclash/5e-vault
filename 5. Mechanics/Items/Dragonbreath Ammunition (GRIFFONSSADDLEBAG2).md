@@ -11,6 +11,12 @@ tags:
 aliases:
   - Dragonbreath Ammunition
   - Dragonbreath Arrow
+attunement: false
+rarity: rare
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Dragonbreath Ammunition
 *Minor, rare*  

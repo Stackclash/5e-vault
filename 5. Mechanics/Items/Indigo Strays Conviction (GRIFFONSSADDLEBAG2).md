@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Indigo Stray's Conviction
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Indigo Stray's Conviction
 *Wondrous item, major, legendary (requires attunement)*  

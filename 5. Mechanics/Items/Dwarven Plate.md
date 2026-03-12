@@ -11,6 +11,14 @@ aliases:
   - Dwarven Plate
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: false
+rarity: very-rare
+tier: major
+type: armor
+subtype:
+  - heavy
 ---
 # Dwarven Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), major, very rare*  

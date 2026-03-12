@@ -10,6 +10,12 @@ tags:
 aliases:
   - Talyard the Great's Wand of Power
 weight: 1
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Talyard the Great's Wand of Power
 *Wand, major, rare*  

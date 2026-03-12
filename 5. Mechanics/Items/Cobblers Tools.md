@@ -10,6 +10,11 @@ aliases:
   - Cobbler's Tools
 cost: 500
 weight: 5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Cobbler's Tools
 *Artisan's tools*  

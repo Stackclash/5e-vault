@@ -10,9 +10,20 @@ tags:
   - item/weapon/simple
 aliases:
   - Festerwood Fungal Stave
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - cleric
+  - druid
+  - sorcerer
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Festerwood Fungal Stave
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement by a cleric, druid, or sorcerer)*  

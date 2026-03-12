@@ -10,6 +10,11 @@ aliases:
   - Potter's Tools
 cost: 1000
 weight: 3
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Potter's Tools
 *Artisan's tools*  

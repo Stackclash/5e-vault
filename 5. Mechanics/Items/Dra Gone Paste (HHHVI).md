@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Dra-gone Paste
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Dra-gone Paste
 *Potion, rare*  

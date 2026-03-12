@@ -8,6 +8,8 @@ tags:
   - item/rarity/varies
 aliases:
   - Belt of Giant Strength
+attunement: true
+rarity: varies
 ---
 # Belt of Giant Strength
 *Wondrous item (requires attunement)*  

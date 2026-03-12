@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Bracers of the Iron Octopus
+attunement: true
+rarity: rare
+tier: major
 ---
 # Bracers of the Iron Octopus
 *Wondrous item, major, rare (requires attunement)*  

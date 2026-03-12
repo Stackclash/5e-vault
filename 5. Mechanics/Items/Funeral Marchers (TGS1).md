@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Funeral Marchers
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Funeral Marchers
 *Wondrous item, major, uncommon*  

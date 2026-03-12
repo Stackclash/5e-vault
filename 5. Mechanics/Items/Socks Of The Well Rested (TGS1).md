@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Socks of the Well-Rested
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Socks of the Well-Rested
 *Wondrous item, minor, uncommon*  

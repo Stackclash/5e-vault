@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Draconic Powder Horn
+attunement: false
+rarity: rare
 ---
 # Draconic Powder Horn
 *Wondrous item, rare*  

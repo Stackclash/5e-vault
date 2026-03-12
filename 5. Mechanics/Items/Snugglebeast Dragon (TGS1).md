@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Snugglebeast (Dragon)
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Snugglebeast (Dragon)
 *Wondrous item, minor, rare*  

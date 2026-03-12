@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Planar Rapier
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Planar Rapier
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, very rare (requires attunement)*  

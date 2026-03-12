@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pack of Revisibility Bombs
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Pack of Revisibility Bombs
 *Wondrous item, minor, rare*  

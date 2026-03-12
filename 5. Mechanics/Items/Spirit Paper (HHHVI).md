@@ -9,6 +9,11 @@ tags:
 aliases:
   - Spirit Paper
 cost: 100
+attunement: false
+rarity: unknown\Magic
+type: wondrous
+subtype:
+  - other
 ---
 # Spirit Paper
 

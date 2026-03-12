@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Helm of the Platinum Dragon
+attunement: true
+attunement-requirement:
+  - dragonborn of good alignment
+rarity: very-rare
+tier: major
 ---
 # Helm of the Platinum Dragon
 *Wondrous item, major, very rare (requires attunement by a dragonborn of good alignment)*  

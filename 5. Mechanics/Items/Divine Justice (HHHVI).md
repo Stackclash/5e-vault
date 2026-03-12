@@ -9,6 +9,14 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Divine Justice
+attunement: true
+attunement-requirement:
+  - good-aligned paladin
+  - cleric
+rarity: very-rare
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Divine Justice
 *Very rare (requires attunement by a good-aligned paladin or cleric)*  

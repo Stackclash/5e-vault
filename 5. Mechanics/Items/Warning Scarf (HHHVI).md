@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Warning Scarf
+attunement: false
+rarity: uncommon
 ---
 # Warning Scarf
 *Wondrous item, uncommon*  

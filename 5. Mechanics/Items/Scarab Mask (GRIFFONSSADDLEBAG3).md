@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Scarab Mask
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Scarab Mask
 *Wondrous item, minor, uncommon*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Borbos's Marvelous Magic Marker
+attunement: false
+rarity: common
+tier: minor
 ---
 # Borbos's Marvelous Magic Marker
 *Wondrous item, minor, common*  

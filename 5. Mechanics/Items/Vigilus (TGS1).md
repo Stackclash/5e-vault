@@ -11,9 +11,17 @@ tags:
   - item/weapon/ranged
 aliases:
   - Vigilus
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 range: 30\120
 weight: 3
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Vigilus
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare (requires attunement)*  

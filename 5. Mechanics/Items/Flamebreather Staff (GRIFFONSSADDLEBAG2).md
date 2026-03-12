@@ -11,9 +11,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Flamebreather Staff
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Flamebreather Staff
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon (requires attunement)*  

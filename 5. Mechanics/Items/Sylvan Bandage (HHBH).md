@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sylvan Bandage
 cost: 500
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Sylvan Bandage
 *Herb, rare*  

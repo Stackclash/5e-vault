@@ -9,6 +9,11 @@ tags:
   - item/wondrous/tattoo
 aliases:
   - Thunder Absorbing Tattoo
+attunement: true
+rarity: very-rare
+type: wondrous
+subtype:
+  - tattoo
 ---
 # Thunder Absorbing Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  

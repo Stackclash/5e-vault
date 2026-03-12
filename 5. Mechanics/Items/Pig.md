@@ -9,6 +9,11 @@ tags:
 aliases:
   - Pig
 cost: 300
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Pig
 *Trade good*  

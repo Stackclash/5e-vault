@@ -8,6 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Hat of the False Wizard
+attunement: true
+rarity: uncommon
 ---
 # Hat of the False Wizard
 *Wondrous item, cursed item, uncommon (requires attunement)*  

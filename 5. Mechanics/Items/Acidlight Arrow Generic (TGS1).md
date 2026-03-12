@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Acidlight Arrow (Generic)
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Acidlight Arrow (Generic)
 *Minor, rare*  

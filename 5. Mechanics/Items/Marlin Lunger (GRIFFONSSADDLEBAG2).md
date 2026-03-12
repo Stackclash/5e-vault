@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Marlin Lunger
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Marlin Lunger
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, uncommon (requires attunement)*  

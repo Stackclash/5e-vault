@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Lantern of the Frost Watch
+attunement: false
+rarity: rare
+tier: major
 ---
 # Lantern of the Frost Watch
 *Wondrous item, major, rare*  

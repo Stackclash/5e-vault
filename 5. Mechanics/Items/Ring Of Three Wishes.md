@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Three Wishes
+attunement: false
+rarity: legendary
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Three Wishes
 *Ring, major, legendary*  

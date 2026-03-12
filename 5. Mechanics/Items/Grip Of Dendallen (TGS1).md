@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Grip of Dendallen
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Grip of Dendallen
 *Wondrous item, cursed item, major, very rare (requires attunement)*  

@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Torchbearer's Reach
-one-hand-damage: 1d4 fire
+one-hand-damage: 1d4
+damage-type: fire
 weight: 3
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Torchbearer's Reach
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, uncommon*  

@@ -12,6 +12,9 @@ aliases:
   - Bulette Bulwark
 armorClass: 2
 weight: 6
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Bulette Bulwark
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement)*  

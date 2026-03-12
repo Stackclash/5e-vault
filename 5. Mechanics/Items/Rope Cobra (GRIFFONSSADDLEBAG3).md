@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Rope Cobra
+attunement: false
+rarity: common
+tier: minor
 ---
 # Rope Cobra
 *Wondrous item, minor, common*  

@@ -8,6 +8,11 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of True Self
+attunement: false
+rarity: very-rare
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of True Self
 *Scroll, very rare*  

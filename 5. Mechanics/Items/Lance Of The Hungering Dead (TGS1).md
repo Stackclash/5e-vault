@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Lance of the Hungering Dead
-one-hand-damage: 1d12 piercing
+one-hand-damage: 1d12
+damage-type: piercing
 weight: 6
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Lance of the Hungering Dead
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, very rare (requires attunement)*  

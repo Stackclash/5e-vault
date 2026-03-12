@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Bronze Companion
+attunement: false
+rarity: uncommon
 ---
 # Bronze Companion
 *Wondrous item, uncommon*  

@@ -9,6 +9,13 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Chromatic Wrath
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: legendary
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Chromatic Wrath
 *Wand, legendary (requires attunement by a spellcaster)*  

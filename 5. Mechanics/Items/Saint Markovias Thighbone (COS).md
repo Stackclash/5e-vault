@@ -9,8 +9,14 @@ tags:
   - item/weapon/melee
 aliases:
   - Saint Markovia's Thighbone
-one-hand-damage: 1d6 bludgeoning
+one-hand-damage: 1d6
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - melee
 ---
 # Saint Markovia's Thighbone
 *Melee weapon, rare (requires attunement)*  

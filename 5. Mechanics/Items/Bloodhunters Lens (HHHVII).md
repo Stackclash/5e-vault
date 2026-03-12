@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Bloodhunter's Lens
+attunement: false
+rarity: rare
 ---
 # Bloodhunter's Lens
 *Wondrous item, rare*  

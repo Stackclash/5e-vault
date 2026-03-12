@@ -18,6 +18,13 @@ aliases:
   - Solacesteel Mitigator Rapier
   - Solacesteel Mitigator Scimitar
   - Solacesteel Mitigator Shortsword
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Solacesteel Mitigator
 *Major, rare (requires attunement)*  

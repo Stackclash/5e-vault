@@ -12,6 +12,9 @@ aliases:
   - Blue Dragon Horn Shield
 armorClass: 2
 weight: 6
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Blue Dragon Horn Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  

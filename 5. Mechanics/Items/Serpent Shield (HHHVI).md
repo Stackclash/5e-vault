@@ -11,6 +11,8 @@ aliases:
   - Serpent Shield
 armorClass: 2
 weight: 6
+attunement: true
+rarity: rare
 ---
 # Serpent Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), rare (requires attunement)*  

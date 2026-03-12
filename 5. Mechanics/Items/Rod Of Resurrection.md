@@ -11,6 +11,16 @@ tags:
 aliases:
   - Rod of Resurrection
 weight: 2
+attunement: true
+attunement-requirement:
+  - cleric
+  - druid
+  - paladin
+rarity: legendary
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of Resurrection
 *Rod, major, legendary (requires attunement by a cleric, druid, or paladin)*  

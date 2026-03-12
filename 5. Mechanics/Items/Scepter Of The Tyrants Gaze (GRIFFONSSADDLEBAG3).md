@@ -10,6 +10,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Scepter of the Tyrant's Gaze
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Scepter of the Tyrant's Gaze
 *Rod, major, very rare (requires attunement)*  

@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Poison Immunity
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Poison Immunity
 *Potion, rare*  

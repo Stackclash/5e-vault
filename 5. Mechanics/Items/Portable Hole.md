@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Portable Hole
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Portable Hole
 *Wondrous item, minor, rare*  

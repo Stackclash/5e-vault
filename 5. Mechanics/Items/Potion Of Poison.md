@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Poison
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Poison
 *Potion, minor, uncommon*  

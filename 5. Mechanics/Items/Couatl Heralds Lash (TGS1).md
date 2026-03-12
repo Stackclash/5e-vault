@@ -11,8 +11,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Couatl Herald's Lash
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 weight: 3
+attunement: true
+attunement-requirement:
+  - creature of good alignment
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Couatl Herald's Lash
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), major, rare (requires attunement by a creature of good alignment)*  

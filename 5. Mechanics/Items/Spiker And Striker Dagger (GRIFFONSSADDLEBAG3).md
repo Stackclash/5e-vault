@@ -11,9 +11,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Spiker and Striker (dagger)
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 20\60
 weight: 1
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Spiker and Striker (dagger)
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement)*  

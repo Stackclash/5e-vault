@@ -10,6 +10,11 @@ aliases:
   - Portable Ram
 cost: 400
 weight: 35
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Portable Ram
 *Adventuring gear*  

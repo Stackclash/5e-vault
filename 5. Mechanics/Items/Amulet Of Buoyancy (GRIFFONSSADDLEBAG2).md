@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Amulet of Buoyancy
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Amulet of Buoyancy
 *Wondrous item, major, uncommon*  

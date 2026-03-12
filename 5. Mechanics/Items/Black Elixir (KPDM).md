@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Black Elixir
+attunement: false
+rarity: legendary
+type: wondrous
+subtype:
+  - potion
 ---
 # Black Elixir
 *Potion, legendary*  

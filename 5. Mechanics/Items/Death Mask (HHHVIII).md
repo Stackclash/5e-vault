@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Death Mask
+attunement: false
+rarity: rare
 ---
 # Death Mask
 *Wondrous item, rare*  

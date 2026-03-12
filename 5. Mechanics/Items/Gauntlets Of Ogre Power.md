@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Gauntlets of Ogre Power
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Gauntlets of Ogre Power
 *Wondrous item, major, uncommon (requires attunement)*  

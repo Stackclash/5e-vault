@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Frefil's Jolly Oozebean Sugarbombs
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Frefil's Jolly Oozebean Sugarbombs
 *Wondrous item, minor, uncommon*  

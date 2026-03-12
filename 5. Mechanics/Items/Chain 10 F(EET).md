@@ -10,6 +10,11 @@ aliases:
   - Chain (10 feet)
 cost: 500
 weight: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Chain (10 feet)
 *Adventuring gear*  

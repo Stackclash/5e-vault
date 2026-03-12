@@ -28,6 +28,14 @@ aliases:
   - Splint Armor of Acid Resistance
   - Studded Leather Armor of Acid Resistance
   - Wooden Breastplate of Acid Resistance
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Armor of Acid Resistance
 *Major, rare (requires attunement)*  

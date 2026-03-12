@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bloodhound Amulet
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Bloodhound Amulet
 *Wondrous item, minor, uncommon*  

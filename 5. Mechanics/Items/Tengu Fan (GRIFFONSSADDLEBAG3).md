@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Tengu Fan
+attunement: false
+rarity: rare
+tier: major
 ---
 # Tengu Fan
 *Wondrous item, major, rare*  

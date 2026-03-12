@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Tear of Gaia
+attunement: false
+rarity: common
+tier: minor
 ---
 # Tear of Gaia
 *Wondrous item, minor, common*  

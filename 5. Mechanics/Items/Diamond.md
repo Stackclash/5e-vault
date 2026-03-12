@@ -9,6 +9,11 @@ tags:
 aliases:
   - Diamond
 cost: 500000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Diamond
 *Treasure (gemstone)*  

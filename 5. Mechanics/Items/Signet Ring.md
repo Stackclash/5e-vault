@@ -9,6 +9,11 @@ tags:
 aliases:
   - Signet Ring
 cost: 500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Signet Ring
 *Adventuring gear*  

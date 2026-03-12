@@ -8,6 +8,11 @@ tags:
   - item/wondrous/tattoo
 aliases:
   - Spellwrought Tattoo
+attunement: false
+rarity: varies
+type: wondrous
+subtype:
+  - tattoo
 ---
 # Spellwrought Tattoo
 *Wondrous item (tattoo)*  

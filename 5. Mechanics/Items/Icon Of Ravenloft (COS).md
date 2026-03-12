@@ -9,6 +9,10 @@ tags:
 aliases:
   - Icon of Ravenloft
 weight: 10
+attunement: true
+attunement-requirement:
+  - creature of good alignment
+rarity: legendary
 ---
 # Icon of Ravenloft
 *Wondrous item, legendary (requires attunement by a creature of good alignment)*  

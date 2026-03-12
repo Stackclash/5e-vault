@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Chicken Tonic
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Chicken Tonic
 *Potion, minor, common*  

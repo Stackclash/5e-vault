@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Cubic Gate
+attunement: false
+rarity: legendary
+tier: major
 ---
 # Cubic Gate
 *Wondrous item, major, legendary*  

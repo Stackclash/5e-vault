@@ -10,10 +10,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Axe of the Dwarvish Lords
-one-hand-damage: 1d8 slashing
-two-hand-damage: 1d10 slashing
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: slashing
 range: 20\60
 weight: 4
+attunement: true
+rarity: artifact
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Axe of the Dwarvish Lords
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), cursed item, artifact (requires attunement)*  

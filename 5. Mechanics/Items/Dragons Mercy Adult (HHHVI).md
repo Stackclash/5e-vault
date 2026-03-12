@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Dragon's Mercy (Adult)
+attunement: false
+rarity: very-rare
 ---
 # Dragon's Mercy (Adult)
 *Wondrous item, very rare*  

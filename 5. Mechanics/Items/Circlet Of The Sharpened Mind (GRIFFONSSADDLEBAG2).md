@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Circlet of the Sharpened Mind
+attunement: true
+attunement-requirement:
+  - creature with an intelligence score of 17
+  - higher
+rarity: very-rare
+tier: major
 ---
 # Circlet of the Sharpened Mind
 *Wondrous item, major, very rare (requires attunement by a creature with an Intelligence score of 17 or higher)*  

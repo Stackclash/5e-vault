@@ -10,8 +10,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Blackrazor
-one-hand-damage: 2d6 slashing
+one-hand-damage: 2d6
+damage-type: slashing
 weight: 6
+attunement: true
+attunement-requirement:
+  - creature of non-lawful alignment
+rarity: legendary
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Blackrazor
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement by a creature of non-lawful alignment)*  

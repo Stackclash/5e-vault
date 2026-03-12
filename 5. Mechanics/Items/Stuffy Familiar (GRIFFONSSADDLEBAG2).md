@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Stuffy Familiar
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Stuffy Familiar
 *Wondrous item, minor, uncommon*  

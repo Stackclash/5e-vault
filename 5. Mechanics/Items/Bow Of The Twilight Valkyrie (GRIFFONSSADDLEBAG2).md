@@ -14,6 +14,14 @@ aliases:
   - Bow of the Twilight Valkyrie
   - Longbow of the Twilight Valkyrie
   - Shortbow of the Twilight Valkyrie
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Bow of the Twilight Valkyrie
 *Major, rare*  

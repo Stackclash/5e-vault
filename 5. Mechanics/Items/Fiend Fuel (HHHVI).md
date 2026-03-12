@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Fiend Fuel
+attunement: false
+rarity: uncommon
 ---
 # Fiend Fuel
 *Wondrous item, uncommon*  

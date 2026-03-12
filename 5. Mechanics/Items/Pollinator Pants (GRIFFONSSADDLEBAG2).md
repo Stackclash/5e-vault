@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Pollinator Pants
+attunement: true
+attunement-requirement:
+  - druid
+  - ranger
+rarity: uncommon
+tier: major
 ---
 # Pollinator Pants
 *Wondrous item, major, uncommon (requires attunement by a druid or ranger)*  

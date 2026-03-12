@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Gi of Shifting Seasons
+attunement: true
+attunement-requirement:
+  - monk
+rarity: rare
+tier: major
 ---
 # Gi of Shifting Seasons
 *Wondrous item, major, rare (requires attunement by a monk)*  

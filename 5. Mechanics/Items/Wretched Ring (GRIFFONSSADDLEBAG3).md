@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Wretched Ring
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Wretched Ring
 *Ring, cursed item, major, very rare (requires attunement)*  

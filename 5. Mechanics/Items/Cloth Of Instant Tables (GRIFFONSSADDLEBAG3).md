@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Cloth of Instant Tables
+attunement: false
+rarity: common
+tier: minor
 ---
 # Cloth of Instant Tables
 *Wondrous item, minor, common*  

@@ -10,8 +10,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Mace of Smiting
-one-hand-damage: 1d6 bludgeoning
+one-hand-damage: 1d6
+damage-type: bludgeoning
 weight: 4
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Mace of Smiting
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare*  

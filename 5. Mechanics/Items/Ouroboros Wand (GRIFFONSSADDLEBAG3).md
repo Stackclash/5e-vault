@@ -9,6 +9,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Ouroboros Wand
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Ouroboros Wand
 *Wand, major, rare*  

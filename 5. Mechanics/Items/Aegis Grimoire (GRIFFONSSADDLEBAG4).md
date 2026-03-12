@@ -11,6 +11,10 @@ aliases:
   - Aegis Grimoire
 armorClass: 2
 weight: 6
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: very-rare
 ---
 # Aegis Grimoire
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), very rare (requires attunement by a wizard)*  

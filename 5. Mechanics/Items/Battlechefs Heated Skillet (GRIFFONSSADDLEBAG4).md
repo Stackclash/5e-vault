@@ -9,8 +9,15 @@ tags:
   - item/weapon/simple
 aliases:
   - Battlechef's Heated Skillet
-one-hand-damage: 1d6 bludgeoning
+one-hand-damage: 1d6
+damage-type: bludgeoning
 weight: 4
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Battlechef's Heated Skillet
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), rare*  

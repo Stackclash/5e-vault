@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Candlecoven Hat
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: uncommon
+tier: major
 ---
 # Candlecoven Hat
 *Wondrous item, major, uncommon (requires attunement by a spellcaster)*  

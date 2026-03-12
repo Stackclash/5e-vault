@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Cat Eye Glasses
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Cat Eye Glasses
 *Wondrous item, minor, uncommon*  

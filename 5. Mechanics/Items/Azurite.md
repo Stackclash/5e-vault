@@ -9,6 +9,11 @@ tags:
 aliases:
   - Azurite
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Azurite
 *Treasure (gemstone)*  

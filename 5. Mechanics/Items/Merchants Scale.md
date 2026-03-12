@@ -10,6 +10,11 @@ aliases:
   - Merchant's Scale
 cost: 500
 weight: 3
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Merchant's Scale
 *Adventuring gear*  

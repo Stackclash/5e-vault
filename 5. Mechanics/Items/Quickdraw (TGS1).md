@@ -10,9 +10,17 @@ tags:
   - item/weapon/ranged
 aliases:
   - Quickdraw
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 range: 30\120
 weight: 3
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Quickdraw
 *Weapon ([[/5. Mechanics/Items/Hand Crossbow.md\|hand crossbow]]), major, rare*  

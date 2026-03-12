@@ -9,6 +9,11 @@ tags:
 aliases:
   - Repellent Lemons
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Repellent Lemons
 *Herb, common*  

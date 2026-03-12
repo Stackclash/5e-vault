@@ -8,6 +8,8 @@ tags:
   - item/rarity/common
 aliases:
   - Portable Mouth
+attunement: true
+rarity: common
 ---
 # Portable Mouth
 *Wondrous item, common (requires attunement)*  

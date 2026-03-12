@@ -10,8 +10,15 @@ tags:
 aliases:
   - Sling
 cost: 10
-one-hand-damage: 1d4 bludgeoning
+one-hand-damage: 1d4
+damage-type: bludgeoning
 range: 30\120
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Sling
 *Weapon*  

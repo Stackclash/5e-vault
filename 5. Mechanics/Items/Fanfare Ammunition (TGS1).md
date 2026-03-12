@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Fanfare Ammunition
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Fanfare Ammunition
 *Minor, common*  

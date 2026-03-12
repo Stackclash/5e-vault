@@ -17,6 +17,13 @@ aliases:
   - Rapier of the Pack Leader
   - Scimitar of the Pack Leader
   - Shortsword of the Pack Leader
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Sword of the Pack Leader
 *Major, uncommon*  

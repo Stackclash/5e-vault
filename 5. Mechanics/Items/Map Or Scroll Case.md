@@ -10,6 +10,11 @@ aliases:
   - Map or Scroll Case
 cost: 100
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Map or Scroll Case
 *Adventuring gear*  

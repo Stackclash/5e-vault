@@ -11,6 +11,13 @@ aliases:
   - Stone Swim Armor
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+rarity: very-rare
+type: armor
+subtype:
+  - heavy
 ---
 # Stone Swim Armor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), very rare (requires attunement)*  

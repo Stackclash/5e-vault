@@ -10,6 +10,11 @@ aliases:
   - Basket
 cost: 40
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Basket
 *Adventuring gear*  

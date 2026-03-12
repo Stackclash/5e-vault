@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ringmaster's Signet
+attunement: true
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ringmaster's Signet
 *Ring, major, uncommon (requires attunement)*  

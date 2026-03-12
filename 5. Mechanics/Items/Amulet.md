@@ -10,6 +10,11 @@ aliases:
   - Amulet
 cost: 500
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Amulet
 *Spellcasting focus*  

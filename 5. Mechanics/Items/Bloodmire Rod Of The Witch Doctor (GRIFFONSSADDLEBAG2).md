@@ -10,6 +10,17 @@ tags:
   - item/wondrous/rod
 aliases:
   - Bloodmire Rod of the Witch Doctor
+attunement: true
+attunement-requirement:
+  - cleric
+  - druid
+  - paladin
+  - warlock
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Bloodmire Rod of the Witch Doctor
 *Rod, major, rare (requires attunement by a cleric, druid, paladin, or warlock)*  

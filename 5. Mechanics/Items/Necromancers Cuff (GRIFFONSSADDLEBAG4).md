@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Necromancer's Cuff
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Necromancer's Cuff
 *Wondrous item, minor, uncommon (requires attunement)*  

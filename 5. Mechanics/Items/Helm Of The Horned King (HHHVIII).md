@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Helm of the Horned King
+attunement: true
+rarity: artifact
 ---
 # Helm of the Horned King
 *Wondrous item, artifact (requires attunement)*  

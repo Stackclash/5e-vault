@@ -9,6 +9,11 @@ tags:
 aliases:
   - Brighteye Carrots
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Brighteye Carrots
 *Herb, rare*  

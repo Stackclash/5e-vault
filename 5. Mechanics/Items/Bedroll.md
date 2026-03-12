@@ -10,6 +10,11 @@ aliases:
   - Bedroll
 cost: 100
 weight: 7
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Bedroll
 *Adventuring gear*  

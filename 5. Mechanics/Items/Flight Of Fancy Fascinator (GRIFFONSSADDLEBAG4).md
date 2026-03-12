@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Flight of Fancy Fascinator
+attunement: false
+rarity: uncommon
 ---
 # Flight of Fancy Fascinator
 *Wondrous item, uncommon*  

@@ -14,6 +14,13 @@ aliases:
   - Marshwarden Bow
   - Marshwarden Longbow
   - Marshwarden Shortbow
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Marshwarden Bow
 *Rare (requires attunement)*  

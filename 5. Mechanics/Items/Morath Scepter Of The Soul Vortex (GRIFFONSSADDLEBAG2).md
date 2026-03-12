@@ -10,6 +10,16 @@ tags:
   - item/wondrous/rod
 aliases:
   - 'Morath, Scepter of the Soul Vortex'
+attunement: true
+attunement-requirement:
+  - sorcerer
+  - warlock
+  - wizard
+rarity: artifact
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Morath, Scepter of the Soul Vortex
 *Rod, major, artifact (requires attunement by a sorcerer, warlock, or wizard)*  

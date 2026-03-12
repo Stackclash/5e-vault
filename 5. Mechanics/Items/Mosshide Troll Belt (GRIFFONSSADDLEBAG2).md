@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Mosshide Troll Belt
+attunement: true
+rarity: rare
+tier: major
 ---
 # Mosshide Troll Belt
 *Wondrous item, major, rare (requires attunement)*  

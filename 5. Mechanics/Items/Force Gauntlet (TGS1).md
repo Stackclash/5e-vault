@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Force Gauntlet
+attunement: true
+rarity: rare
+tier: major
 ---
 # Force Gauntlet
 *Wondrous item, major, rare (requires attunement)*  

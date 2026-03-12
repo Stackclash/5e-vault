@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Spell Scroll (1st Level)
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Spell Scroll (1st Level)
 *Scroll, minor, common*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Whistle of Dog Command
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Whistle of Dog Command
 *Wondrous item, major, uncommon*  

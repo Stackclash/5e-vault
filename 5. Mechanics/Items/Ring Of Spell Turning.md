@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Spell Turning
+attunement: true
+rarity: legendary
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Spell Turning
 *Ring, major, legendary (requires attunement)*  

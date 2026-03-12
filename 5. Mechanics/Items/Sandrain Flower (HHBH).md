@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sandrain Flower
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Sandrain Flower
 *Herb, rare*  

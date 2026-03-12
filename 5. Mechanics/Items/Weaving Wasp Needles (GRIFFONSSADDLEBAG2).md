@@ -10,9 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Weaving Wasp Needles
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 20\60
 weight: 0.25
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Weaving Wasp Needles
 *Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  

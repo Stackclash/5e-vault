@@ -9,6 +9,11 @@ tags:
 aliases:
   - Blue Quartz
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Blue Quartz
 *Treasure (gemstone)*  

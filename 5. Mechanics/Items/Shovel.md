@@ -10,6 +10,11 @@ aliases:
   - Shovel
 cost: 200
 weight: 5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Shovel
 *Adventuring gear*  

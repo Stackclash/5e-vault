@@ -11,6 +11,14 @@ tags:
 aliases:
   - Wand of Lightning Bolts
 weight: 1
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Lightning Bolts
 *Wand, major, rare (requires attunement by a spellcaster)*  

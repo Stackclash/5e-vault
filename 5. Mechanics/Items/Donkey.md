@@ -9,6 +9,11 @@ tags:
 aliases:
   - Donkey
 cost: 800
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - mount
 ---
 # Donkey
 *Mount*  

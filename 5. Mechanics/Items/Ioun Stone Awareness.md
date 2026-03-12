@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Ioun Stone, Awareness'
+attunement: true
+rarity: rare
+tier: major
 ---
 # Ioun Stone, Awareness
 *Wondrous item, major, rare (requires attunement)*  

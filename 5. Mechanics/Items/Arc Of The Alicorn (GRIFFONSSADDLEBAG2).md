@@ -11,9 +11,17 @@ tags:
   - item/weapon/ranged
 aliases:
   - Arc of the Alicorn
-one-hand-damage: 1d10 piercing
+one-hand-damage: 1d10
+damage-type: piercing
 range: 150\600
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Arc of the Alicorn
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  

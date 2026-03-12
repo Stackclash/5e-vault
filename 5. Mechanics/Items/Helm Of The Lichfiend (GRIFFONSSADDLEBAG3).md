@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Helm of the Lichfiend
+attunement: true
+attunement-requirement:
+  - warlock
+  - wizard
+rarity: very-rare
+tier: major
 ---
 # Helm of the Lichfiend
 *Wondrous item, major, very rare (requires attunement by a warlock or wizard)*  

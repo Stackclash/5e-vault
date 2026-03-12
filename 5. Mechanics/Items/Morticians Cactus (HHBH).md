@@ -9,6 +9,11 @@ tags:
 aliases:
   - Mortician's Cactus
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Mortician's Cactus
 *Herb, common*  

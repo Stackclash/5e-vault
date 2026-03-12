@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Magebane Mask
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Magebane Mask
 *Wondrous item, major, very rare*  

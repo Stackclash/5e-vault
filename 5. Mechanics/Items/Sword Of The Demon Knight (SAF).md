@@ -10,9 +10,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Sword of the Demon Knight
-one-hand-damage: 1d8 slashing
-two-hand-damage: 1d10 slashing
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: slashing
 weight: 3
+attunement: true
+attunement-requirement:
+  - evil creature
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Sword of the Demon Knight
 *Weapon ([[/5. Mechanics/Items/Longsword.md\|longsword]]), very rare (requires attunement by an evil creature)*  

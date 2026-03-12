@@ -10,9 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Serpent Dart
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 20\60
 weight: 0.25
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Serpent Dart
 *Weapon ([[/5. Mechanics/Items/Dart.md\|dart]]), major, uncommon*  

@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Dragon Tamer Lance
-one-hand-damage: 1d12 piercing
+one-hand-damage: 1d12
+damage-type: piercing
 weight: 6
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Dragon Tamer Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, legendary (requires attunement)*  

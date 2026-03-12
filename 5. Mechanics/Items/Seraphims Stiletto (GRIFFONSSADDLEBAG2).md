@@ -11,9 +11,19 @@ tags:
   - item/weapon/simple
 aliases:
   - Seraphim's Stiletto
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 20\60
 weight: 1
+attunement: true
+attunement-requirement:
+  - creature of good alignment
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Seraphim's Stiletto
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement by a creature of good alignment)*  

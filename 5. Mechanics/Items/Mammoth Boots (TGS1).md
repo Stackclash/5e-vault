@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Mammoth Boots
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Mammoth Boots
 *Wondrous item, major, uncommon*  

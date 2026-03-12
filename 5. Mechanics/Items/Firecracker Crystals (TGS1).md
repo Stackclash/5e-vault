@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Firecracker Crystals
+attunement: false
+rarity: common
+tier: minor
 ---
 # Firecracker Crystals
 *Wondrous item, minor, common*  

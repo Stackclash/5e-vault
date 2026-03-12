@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Faerie Dragon Dust
+attunement: false
+rarity: uncommon
 ---
 # Faerie Dragon Dust
 *Wondrous item, uncommon*  

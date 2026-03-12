@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pact Card
+attunement: false
+rarity: varies
+tier: minor
 ---
 # Pact Card
 *Wondrous item, minor*  

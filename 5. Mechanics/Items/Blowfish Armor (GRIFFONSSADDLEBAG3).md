@@ -11,6 +11,13 @@ aliases:
   - Blowfish Armor
 armorClass: 11 + Dex modifier
 weight: 8
+stealth-penalty: true
+attunement: false
+rarity: uncommon
+tier: major
+type: armor
+subtype:
+  - light
 ---
 # Blowfish Armor
 *Light armor ([[/5. Mechanics/Items/Padded Armor.md\|padded armor]]), major, uncommon*  

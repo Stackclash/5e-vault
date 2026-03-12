@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Nightmare Skull
+attunement: false
+rarity: rare
 ---
 # Nightmare Skull
 *Wondrous item, rare*  

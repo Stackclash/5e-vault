@@ -10,6 +10,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Solar Torch
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Solar Torch
 *Rod, major, very rare (requires attunement)*  

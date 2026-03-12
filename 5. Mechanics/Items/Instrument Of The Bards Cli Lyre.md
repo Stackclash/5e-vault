@@ -11,6 +11,14 @@ tags:
 aliases:
   - 'Instrument of the Bards, Cli Lyre'
 weight: 2
+attunement: true
+attunement-requirement:
+  - bard
+rarity: rare
+tier: major
+type: gear
+subtype:
+  - instrument
 ---
 # Instrument of the Bards, Cli Lyre
 *Wondrous item, instrument ([[/5. Mechanics/Items/Lyre.md\|lyre]]), major, rare (requires attunement by a bard)*  

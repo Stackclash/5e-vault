@@ -10,6 +10,11 @@ aliases:
   - Hooded Lantern
 cost: 500
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Hooded Lantern
 *Adventuring gear*  

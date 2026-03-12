@@ -10,6 +10,11 @@ aliases:
   - Lyre
 cost: 3000
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - instrument
 ---
 # Lyre
 *Instrument*  

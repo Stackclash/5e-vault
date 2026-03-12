@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - 'Quaal''s Feather Token, Tree'
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Quaal's Feather Token, Tree
 *Wondrous item, minor, rare*  

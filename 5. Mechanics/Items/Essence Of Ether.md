@@ -9,6 +9,11 @@ tags:
 aliases:
   - Essence of Ether
 cost: 30000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Essence of Ether
 *Adventuring gear, poison (inhaled)*  

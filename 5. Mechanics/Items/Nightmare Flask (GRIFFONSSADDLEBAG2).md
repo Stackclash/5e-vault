@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Nightmare Flask
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Nightmare Flask
 *Wondrous item, minor, rare*  

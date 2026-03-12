@@ -9,10 +9,10 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images: []
-relationships: []
 aliases:
   - Bluto Krogarov
 alignment: Neutral Evil
+relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Places of Interest/Lake Zarovich.md|Lake Zarovich]]'
 pronounced: BLOO-toh KRO-gah-rov
@@ -33,7 +33,6 @@ likes: 'Drinking, solitude, the rare good day of fishing'
 dislikes: 'The mockery of others, his own bad luck, the Burgomaster''s enforced happiness'
 image: null
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

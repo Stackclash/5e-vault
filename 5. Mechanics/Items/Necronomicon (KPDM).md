@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Necronomicon
+attunement: true
+rarity: artifact
 ---
 # Necronomicon
 *Wondrous item, artifact (requires attunement)*  

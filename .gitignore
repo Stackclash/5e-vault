@@ -12,3 +12,6 @@ node_modules
 
 # Environment variables (contains secrets)
 .env
+
+.smtcmp_json_db
+.smtcmp_vector_db.tar.gz

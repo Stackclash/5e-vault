@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Boneclaw Censer
+attunement: false
+rarity: rare
 ---
 # Boneclaw Censer
 *Wondrous item, rare*  

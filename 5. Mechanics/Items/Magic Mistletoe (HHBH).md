@@ -9,6 +9,11 @@ tags:
 aliases:
   - Magic Mistletoe
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Magic Mistletoe
 *Herb, rare*  

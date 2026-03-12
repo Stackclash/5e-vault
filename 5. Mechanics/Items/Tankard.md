@@ -10,6 +10,11 @@ aliases:
   - Tankard
 cost: 2
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Tankard
 *Adventuring gear*  

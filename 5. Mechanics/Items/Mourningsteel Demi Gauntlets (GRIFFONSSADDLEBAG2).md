@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Mourningsteel Demi-Gauntlets
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Mourningsteel Demi-Gauntlets
 *Wondrous item, major, very rare (requires attunement)*  

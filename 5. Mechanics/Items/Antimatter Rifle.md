@@ -10,9 +10,16 @@ tags:
   - item/weapon/ranged
 aliases:
   - Antimatter Rifle
-one-hand-damage: 6d8 necrotic
+one-hand-damage: 6d8
+damage-type: necrotic
 range: 120\360
 weight: 10
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Antimatter Rifle
 *Weapon*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Glide Weed
 cost: 2000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Glide Weed
 *Herb, rare*  

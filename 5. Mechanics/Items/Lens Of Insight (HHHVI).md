@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Lens of Insight
+attunement: false
+rarity: uncommon
 ---
 # Lens of Insight
 *Wondrous item, uncommon*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Stunning Lens
+attunement: false
+rarity: rare
 ---
 # Stunning Lens
 *Wondrous item, rare*  

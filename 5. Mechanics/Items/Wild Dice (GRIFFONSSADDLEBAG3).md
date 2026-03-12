@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Wild Dice
+attunement: false
+rarity: rare
+tier: major
 ---
 # Wild Dice
 *Wondrous item, major, rare*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Stylus of Draconic Influence
+attunement: false
+rarity: very-rare
 ---
 # Stylus of Draconic Influence
 *Wondrous item, very rare*  

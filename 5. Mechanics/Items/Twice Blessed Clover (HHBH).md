@@ -9,6 +9,11 @@ tags:
 aliases:
   - Twice-Blessed Clover
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Twice-Blessed Clover
 *Herb, rare*  

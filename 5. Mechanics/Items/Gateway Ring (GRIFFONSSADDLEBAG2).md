@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Gateway Ring
+attunement: false
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Gateway Ring
 *Ring, major, very rare*  

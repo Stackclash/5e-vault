@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Covolt Circlet
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Covolt Circlet
 *Wondrous item, major, very rare (requires attunement)*  

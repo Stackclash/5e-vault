@@ -11,6 +11,12 @@ aliases:
 cost: 500
 armorClass: 11 + Dex modifier
 weight: 8
+stealth-penalty: true
+attunement: false
+rarity: none
+type: armor
+subtype:
+  - light
 ---
 # Padded Armor
 *Light armor*  

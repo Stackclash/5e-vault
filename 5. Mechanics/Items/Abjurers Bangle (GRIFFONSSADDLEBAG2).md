@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Abjurer's Bangle
+attunement: false
+rarity: varies
+tier: minor
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Abjurer's Bangle
 *Wondrous item, minor*  

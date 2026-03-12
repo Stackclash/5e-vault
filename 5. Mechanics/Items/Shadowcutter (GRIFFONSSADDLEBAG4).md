@@ -10,8 +10,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Shadowcutter
-one-hand-damage: 2d6 slashing
+one-hand-damage: 2d6
+damage-type: slashing
 weight: 6
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Shadowcutter
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), very rare (requires attunement)*  

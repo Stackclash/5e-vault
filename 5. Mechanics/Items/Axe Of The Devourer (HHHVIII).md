@@ -13,6 +13,12 @@ aliases:
   - Axe of the Devourer
   - Battleaxe of the Devourer
   - Greataxe of the Devourer
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Axe of the Devourer
 *Cursed item, very rare (requires attunement)*  

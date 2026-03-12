@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Heartless Cage Pendant
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Heartless Cage Pendant
 *Wondrous item, major, very rare (requires attunement)*  

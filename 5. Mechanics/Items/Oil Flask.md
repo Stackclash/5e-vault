@@ -10,6 +10,11 @@ aliases:
   - Oil (flask)
 cost: 10
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Oil (flask)
 *Adventuring gear*  

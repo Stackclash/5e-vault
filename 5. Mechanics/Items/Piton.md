@@ -10,6 +10,11 @@ aliases:
   - Piton
 cost: 5
 weight: 0.25
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Piton
 *Adventuring gear*  

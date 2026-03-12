@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Grimoire of the Green Arts
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: very-rare
+tier: major
 ---
 # Grimoire of the Green Arts
 *Wondrous item, major, very rare (requires attunement by a wizard)*  

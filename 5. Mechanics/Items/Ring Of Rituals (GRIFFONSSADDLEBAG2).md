@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Rituals
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Rituals
 *Ring, minor, uncommon*  

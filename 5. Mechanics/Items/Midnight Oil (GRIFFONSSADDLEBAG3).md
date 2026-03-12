@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Midnight Oil
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Midnight Oil
 *Wondrous item, minor, uncommon*  

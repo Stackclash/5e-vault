@@ -11,8 +11,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Snuff
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Snuff
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, very rare (requires attunement)*  

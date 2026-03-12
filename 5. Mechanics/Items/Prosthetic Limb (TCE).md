@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Prosthetic Limb
+attunement: false
+rarity: common
 ---
 # Prosthetic Limb
 *Wondrous item, common*  

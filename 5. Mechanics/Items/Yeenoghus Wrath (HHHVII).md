@@ -10,8 +10,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Yeenoghu's Wrath
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 weight: 3
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Yeenoghu's Wrath
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), rare (requires attunement)*  

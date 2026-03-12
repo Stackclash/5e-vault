@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Ol' Stumpy
-one-hand-damage: 2d6 bludgeoning
+one-hand-damage: 2d6
+damage-type: bludgeoning
 weight: 10
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Ol' Stumpy
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), major, uncommon*  

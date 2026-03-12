@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Orb of the Oozing Hunger
+attunement: true
+rarity: artifact
 ---
 # Orb of the Oozing Hunger
 *Wondrous item, cursed item, artifact (requires attunement)*  

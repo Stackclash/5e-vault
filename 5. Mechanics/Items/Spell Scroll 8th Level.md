@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Spell Scroll (8th Level)
+attunement: false
+rarity: very-rare
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Spell Scroll (8th Level)
 *Scroll, minor, very rare*  

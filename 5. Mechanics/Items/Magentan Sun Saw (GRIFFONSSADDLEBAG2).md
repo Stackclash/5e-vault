@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Magentan Sun-Saw
-one-hand-damage: 1d6 slashing
+one-hand-damage: 1d6
+damage-type: slashing
 weight: 3
+attunement: false
+rarity: varies
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Magentan Sun-Saw
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major*  

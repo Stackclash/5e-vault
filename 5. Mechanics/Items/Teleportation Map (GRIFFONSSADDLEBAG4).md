@@ -8,6 +8,11 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Teleportation Map
+attunement: false
+rarity: very-rare
+type: wondrous
+subtype:
+  - scroll
 ---
 # Teleportation Map
 *Scroll, very rare*  

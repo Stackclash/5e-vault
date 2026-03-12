@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Candle of Invocation
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Candle of Invocation
 *Wondrous item, major, very rare (requires attunement)*  

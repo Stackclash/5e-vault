@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Weirdwater Poison
+attunement: false
+rarity: rare
 ---
 # Weirdwater Poison
 *Wondrous item, rare*  

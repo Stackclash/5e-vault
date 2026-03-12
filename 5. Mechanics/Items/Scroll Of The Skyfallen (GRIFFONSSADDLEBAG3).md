@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of the Skyfallen
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of the Skyfallen
 *Scroll, minor, rare*  

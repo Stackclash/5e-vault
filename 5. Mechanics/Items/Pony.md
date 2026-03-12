@@ -9,6 +9,11 @@ tags:
 aliases:
   - Pony
 cost: 3000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - mount
 ---
 # Pony
 *Mount*  

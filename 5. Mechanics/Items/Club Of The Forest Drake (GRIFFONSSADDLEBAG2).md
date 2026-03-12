@@ -10,8 +10,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Club of the Forest Drake
-one-hand-damage: 1d4 bludgeoning
+one-hand-damage: 1d4
+damage-type: bludgeoning
 weight: 2
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Club of the Forest Drake
 *Weapon ([[/5. Mechanics/Items/Club.md\|club]]), major, uncommon*  

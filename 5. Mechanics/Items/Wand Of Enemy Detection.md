@@ -11,6 +11,12 @@ tags:
 aliases:
   - Wand of Enemy Detection
 weight: 1
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Enemy Detection
 *Wand, major, rare (requires attunement)*  

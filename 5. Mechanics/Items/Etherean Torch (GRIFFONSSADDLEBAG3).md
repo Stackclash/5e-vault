@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Etherean Torch
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Etherean Torch
 *Wondrous item, major, uncommon*  

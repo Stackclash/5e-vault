@@ -10,6 +10,12 @@ tags:
 aliases:
   - Baton of Many Sizes
 weight: 2
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - rod
 ---
 # Baton of Many Sizes
 *Rod, minor, uncommon*  

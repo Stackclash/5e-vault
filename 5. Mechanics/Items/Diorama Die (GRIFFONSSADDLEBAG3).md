@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Diorama Die
+attunement: false
+rarity: common
+tier: minor
 ---
 # Diorama Die
 *Wondrous item, minor, common*  

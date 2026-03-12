@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Horn of the Fiendish Voice
+attunement: false
+rarity: common
 ---
 # Horn of the Fiendish Voice
 *Wondrous item, common*  

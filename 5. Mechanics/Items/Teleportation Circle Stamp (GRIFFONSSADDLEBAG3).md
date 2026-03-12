@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Teleportation Circle Stamp
+attunement: false
+rarity: rare
+tier: major
 ---
 # Teleportation Circle Stamp
 *Wondrous item, major, rare*  

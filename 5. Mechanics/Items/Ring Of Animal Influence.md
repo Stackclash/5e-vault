@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Animal Influence
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Animal Influence
 *Ring, major, rare*  

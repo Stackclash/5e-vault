@@ -10,6 +10,12 @@ tags:
 aliases:
   - Wand of Secrets
 weight: 1
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Secrets
 *Wand, minor, uncommon*  

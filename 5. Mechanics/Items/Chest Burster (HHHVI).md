@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Chest Burster
+attunement: false
+rarity: rare
 ---
 # Chest Burster
 *Poison (ingested), rare*  

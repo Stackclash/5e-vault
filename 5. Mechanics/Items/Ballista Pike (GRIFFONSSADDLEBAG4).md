@@ -9,8 +9,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Ballista Pike
-one-hand-damage: 1d10 piercing
+one-hand-damage: 1d10
+damage-type: piercing
 weight: 18
+attunement: false
+rarity: uncommon
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Ballista Pike
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), uncommon*  

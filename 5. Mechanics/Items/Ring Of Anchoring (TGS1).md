@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Anchoring
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Anchoring
 *Ring, cursed item, major, rare (requires attunement)*  

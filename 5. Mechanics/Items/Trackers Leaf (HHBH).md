@@ -9,6 +9,11 @@ tags:
 aliases:
   - Tracker's Leaf
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Tracker's Leaf
 *Herb, rare*  

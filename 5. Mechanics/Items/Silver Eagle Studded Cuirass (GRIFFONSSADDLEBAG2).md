@@ -12,6 +12,12 @@ aliases:
   - Silver Eagle Studded Cuirass
 armorClass: 12 + Dex modifier
 weight: 13
+attunement: true
+rarity: uncommon
+tier: major
+type: armor
+subtype:
+  - light
 ---
 # Silver Eagle Studded Cuirass
 *Light armor ([[/5. Mechanics/Items/Studded Leather Armor.md\|studded leather armor]]), major, uncommon (requires attunement)*  

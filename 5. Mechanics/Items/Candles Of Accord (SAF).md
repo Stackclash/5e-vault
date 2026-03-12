@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Candles of Accord
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - requires-installation
 ---
 # Candles of Accord
 *Wondrous item, requires installation, rare*  

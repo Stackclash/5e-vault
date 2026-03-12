@@ -9,6 +9,9 @@ tags:
 aliases:
   - Manual of Stone Golems
 weight: 5
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Manual of Stone Golems
 *Wondrous item, major, very rare*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Blizzard Sphere
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Blizzard Sphere
 *Wondrous item, minor, rare*  

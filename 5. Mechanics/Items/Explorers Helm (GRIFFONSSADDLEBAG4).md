@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Explorer's Helm
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Explorer's Helm
 *Wondrous item, minor, uncommon (requires attunement)*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Alembic of Unmaking
+attunement: false
+rarity: very-rare
 ---
 # Alembic of Unmaking
 *Wondrous item, very rare*  

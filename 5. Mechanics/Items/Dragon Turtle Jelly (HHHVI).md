@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Dragon Turtle Jelly
+attunement: false
+rarity: very-rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Dragon Turtle Jelly
 *Potion, very rare*  

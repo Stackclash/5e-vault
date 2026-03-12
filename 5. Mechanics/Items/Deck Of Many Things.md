@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Deck of Many Things
+attunement: false
+rarity: legendary
+tier: major
 ---
 # Deck of Many Things
 *Wondrous item, major, legendary*  

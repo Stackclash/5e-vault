@@ -7,6 +7,8 @@ tags:
   - item/rarity/unknown
 aliases:
   - 'Potion, Pill Form'
+attunement: false
+rarity: unknown
 ---
 # Potion, Pill Form
 

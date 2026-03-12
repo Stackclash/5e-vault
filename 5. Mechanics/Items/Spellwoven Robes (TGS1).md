@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Spellwoven Robes
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Spellwoven Robes
 *Wondrous item, major, uncommon*  

@@ -10,6 +10,12 @@ tags:
   - item/tier/minor
 aliases:
   - Instrument of Illusions
+attunement: true
+rarity: common
+tier: minor
+type: gear
+subtype:
+  - instrument
 ---
 # Instrument of Illusions
 *Wondrous item, instrument, minor, common (requires attunement)*  

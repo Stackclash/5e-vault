@@ -9,6 +9,10 @@ tags:
 aliases:
   - Book of Exalted Deeds
 weight: 5
+attunement: true
+attunement-requirement:
+  - creature of good alignment
+rarity: artifact
 ---
 # Book of Exalted Deeds
 *Wondrous item, artifact (requires attunement by a creature of good alignment)*  

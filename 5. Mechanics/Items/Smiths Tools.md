@@ -10,6 +10,11 @@ aliases:
   - Smith's Tools
 cost: 2000
 weight: 8
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Smith's Tools
 *Artisan's tools*  

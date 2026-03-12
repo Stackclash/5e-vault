@@ -9,6 +9,11 @@ tags:
 aliases:
   - Blubber Bulb
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Blubber Bulb
 *Herb, rare*  

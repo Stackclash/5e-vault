@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of the New Dawn
+attunement: false
+rarity: very-rare
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of the New Dawn
 *Scroll, minor, very rare*  

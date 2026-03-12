@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Cloak of the Blood Lord
+attunement: true
+rarity: artifact
 ---
 # Cloak of the Blood Lord
 *Wondrous item, cursed item, artifact (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Small gold idol
 cost: 75000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Small gold idol
 *Treasure (art object)*  

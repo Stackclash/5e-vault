@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Shadow Robe
+attunement: true
+rarity: very-rare
 ---
 # Shadow Robe
 *Wondrous item, very rare (requires attunement)*  

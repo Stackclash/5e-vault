@@ -11,7 +11,17 @@ tags:
   - item/wondrous/rod
 aliases:
   - Reliquary of Holy Memories (Uncommon)
-one-hand-damage: 1d6 bludgeoning
+one-hand-damage: 1d6
+damage-type: bludgeoning
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Reliquary of Holy Memories (Uncommon)
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), rod, major, uncommon (requires attunement by a cleric or paladin)*  

@@ -10,6 +10,11 @@ aliases:
   - Sledgehammer
 cost: 200
 weight: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Sledgehammer
 *Adventuring gear*  

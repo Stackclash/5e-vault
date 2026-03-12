@@ -9,6 +9,11 @@ tags:
 aliases:
   - Silver chalice set with moonstones
 cost: 75000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Silver chalice set with moonstones
 *Treasure (art object)*  

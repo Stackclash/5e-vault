@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Fool's Mantle
+attunement: true
+rarity: rare
+tier: major
 ---
 # Fool's Mantle
 *Wondrous item, major, rare (requires attunement)*  

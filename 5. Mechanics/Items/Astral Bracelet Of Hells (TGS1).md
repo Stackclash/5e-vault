@@ -9,6 +9,13 @@ tags:
   - item/tier/major
 aliases:
   - Astral Bracelet of Hells
+attunement: true
+attunement-requirement:
+  - cleric
+  - warlock
+  - wizard
+rarity: very-rare
+tier: major
 ---
 # Astral Bracelet of Hells
 *Wondrous item, major, very rare (requires attunement by a cleric, warlock, or wizard)*  

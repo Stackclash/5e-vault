@@ -8,6 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Cap of Aggression
+attunement: true
+rarity: uncommon
 ---
 # Cap of Aggression
 *Wondrous item, uncommon (requires attunement)*  

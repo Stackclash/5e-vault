@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Daemonomicon
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Daemonomicon
 *Wondrous item, cursed item, major, very rare*  

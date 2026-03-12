@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Crown of Deep Winter
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Crown of Deep Winter
 *Wondrous item, major, uncommon (requires attunement)*  

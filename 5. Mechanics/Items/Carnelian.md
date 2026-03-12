@@ -9,6 +9,11 @@ tags:
 aliases:
   - Carnelian
 cost: 5000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Carnelian
 *Treasure (gemstone)*  

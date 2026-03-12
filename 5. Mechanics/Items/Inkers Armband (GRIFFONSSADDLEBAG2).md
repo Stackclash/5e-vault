@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Inker's Armband
+attunement: false
+rarity: common
+tier: minor
 ---
 # Inker's Armband
 *Wondrous item, minor, common*  

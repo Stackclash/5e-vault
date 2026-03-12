@@ -15,6 +15,13 @@ aliases:
   - Purple Piercer Lance
   - Purple Piercer Pike
   - Purple Piercer Spear
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Purple Piercer
 *Very rare (requires attunement)*  

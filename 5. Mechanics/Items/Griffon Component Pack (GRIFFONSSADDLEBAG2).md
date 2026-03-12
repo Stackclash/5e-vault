@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Griffon Component Pack
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Griffon Component Pack
 *Wondrous item, minor, uncommon*  

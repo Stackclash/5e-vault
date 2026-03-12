@@ -9,6 +9,11 @@ tags:
 aliases:
   - Black Pearl
 cost: 50000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Black Pearl
 *Treasure (gemstone)*  

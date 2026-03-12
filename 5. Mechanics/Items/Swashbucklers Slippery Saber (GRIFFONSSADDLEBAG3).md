@@ -10,6 +10,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Swashbuckler's Slippery Saber
+attunement: true
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Swashbuckler's Slippery Saber
 *Major, uncommon (requires attunement)*  

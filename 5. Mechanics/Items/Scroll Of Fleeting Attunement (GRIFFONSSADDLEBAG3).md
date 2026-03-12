@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of Fleeting Attunement
+attunement: false
+rarity: very-rare
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of Fleeting Attunement
 *Scroll, minor, very rare*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Flying
+attunement: false
+rarity: very-rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Flying
 *Potion, minor, very rare*  

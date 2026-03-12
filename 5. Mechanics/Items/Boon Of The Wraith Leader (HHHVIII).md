@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Boon of the Wraith Leader
+attunement: true
+rarity: rare
 ---
 # Boon of the Wraith Leader
 *Wondrous item, rare (requires attunement)*  

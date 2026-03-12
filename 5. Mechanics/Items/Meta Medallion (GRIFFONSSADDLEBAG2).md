@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Meta Medallion
+attunement: true
+attunement-requirement:
+  - sorcerer
+rarity: rare
+tier: major
 ---
 # Meta Medallion
 *Wondrous item, major, rare (requires attunement by a sorcerer)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Headhunter's Bullseye Lantern
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Headhunter's Bullseye Lantern
 *Wondrous item, major, uncommon*  

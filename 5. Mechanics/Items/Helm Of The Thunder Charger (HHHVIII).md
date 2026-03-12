@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Helm of the Thunder Charger
+attunement: false
+rarity: rare
 ---
 # Helm of the Thunder Charger
 *Wondrous item, rare*  

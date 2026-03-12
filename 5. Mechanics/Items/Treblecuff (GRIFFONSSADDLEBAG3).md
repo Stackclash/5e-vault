@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Treblecuff
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Treblecuff
 *Wondrous item, minor, uncommon*  

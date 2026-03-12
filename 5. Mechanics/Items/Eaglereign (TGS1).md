@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Eaglereign
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Eaglereign
 *Wondrous item, major, uncommon (requires attunement)*  

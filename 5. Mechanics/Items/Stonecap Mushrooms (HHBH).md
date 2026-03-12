@@ -9,6 +9,11 @@ tags:
 aliases:
   - Stonecap Mushrooms
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Stonecap Mushrooms
 *Herb, rare*  

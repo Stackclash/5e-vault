@@ -10,8 +10,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Voidknight's Maul
-one-hand-damage: 2d6 bludgeoning
+one-hand-damage: 2d6
+damage-type: bludgeoning
 weight: 10
+attunement: true
+attunement-requirement:
+  - paladin
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Voidknight's Maul
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), very rare (requires attunement by a paladin)*  

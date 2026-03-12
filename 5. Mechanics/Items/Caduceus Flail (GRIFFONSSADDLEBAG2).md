@@ -11,8 +11,19 @@ tags:
   - item/weapon/melee
 aliases:
   - Caduceus Flail
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 2
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Caduceus Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, rare (requires attunement by a cleric or paladin)*  

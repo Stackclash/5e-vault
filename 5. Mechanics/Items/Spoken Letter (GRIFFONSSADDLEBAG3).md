@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Spoken Letter
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Spoken Letter
 *Scroll, minor, uncommon*  

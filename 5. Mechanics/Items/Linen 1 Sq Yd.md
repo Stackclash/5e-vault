@@ -9,6 +9,11 @@ tags:
 aliases:
   - Linen (1 sq. yd.)
 cost: 500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Linen (1 sq. yd.)
 *Trade good*  

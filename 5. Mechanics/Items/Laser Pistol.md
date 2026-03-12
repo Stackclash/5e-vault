@@ -10,9 +10,16 @@ tags:
   - item/weapon/ranged
 aliases:
   - Laser Pistol
-one-hand-damage: 3d6 radiant
+one-hand-damage: 3d6
+damage-type: radiant
 range: 40\120
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Laser Pistol
 *Weapon*  

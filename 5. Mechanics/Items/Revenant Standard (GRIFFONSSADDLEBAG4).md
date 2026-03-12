@@ -10,9 +10,18 @@ tags:
   - item/weapon/simple
 aliases:
   - Revenant Standard
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - creature that has died
+rarity: very-rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Revenant Standard
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), very rare (requires attunement by a creature that has died)*  

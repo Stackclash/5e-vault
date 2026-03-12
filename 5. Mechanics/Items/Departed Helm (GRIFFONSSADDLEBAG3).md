@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Departed Helm
+attunement: true
+rarity: rare
+tier: major
 ---
 # Departed Helm
 *Wondrous item, major, rare (requires attunement)*  

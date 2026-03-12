@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Kraken Band
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Kraken Band
 *Wondrous item, major, very rare (requires attunement)*  

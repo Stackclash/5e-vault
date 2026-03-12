@@ -9,6 +9,9 @@ tags:
 aliases:
   - Nolzur's Marvelous Pigments
 weight: 1
+attunement: false
+rarity: very-rare
+tier: minor
 ---
 # Nolzur's Marvelous Pigments
 *Wondrous item, minor, very rare*  

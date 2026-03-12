@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Greenthumb Whittler
+attunement: false
+rarity: common
+tier: minor
 ---
 # Greenthumb Whittler
 *Wondrous item, minor, common*  

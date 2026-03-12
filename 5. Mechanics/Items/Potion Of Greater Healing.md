@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Greater Healing
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Greater Healing
 *Potion, minor, uncommon*  

@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Moon Muzzle Mixture
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Moon Muzzle Mixture
 *Potion, rare*  

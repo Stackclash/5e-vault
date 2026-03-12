@@ -10,6 +10,13 @@ tags:
 aliases:
   - Outer Essence Shard (Good)
 weight: 1
+attunement: true
+attunement-requirement:
+  - sorcerer
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Outer Essence Shard (Good)
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  

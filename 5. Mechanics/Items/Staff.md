@@ -10,9 +10,15 @@ tags:
 aliases:
   - Staff
 cost: 500
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Staff
 *Staff, weapon, spellcasting focus*  

@@ -10,6 +10,11 @@ aliases:
   - Sack
 cost: 1
 weight: 0.5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Sack
 *Adventuring gear*  

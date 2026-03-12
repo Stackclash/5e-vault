@@ -9,6 +9,9 @@ tags:
 aliases:
   - Black Pudding Power Bomb
 weight: 6
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Black Pudding Power Bomb
 *Wondrous item, minor, rare*  

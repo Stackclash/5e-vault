@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Vampiric Helm
+attunement: true
+rarity: rare
+tier: major
 ---
 # Vampiric Helm
 *Wondrous item, cursed item, major, rare (requires attunement)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Headband of Intellect
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Headband of Intellect
 *Wondrous item, major, uncommon (requires attunement)*  

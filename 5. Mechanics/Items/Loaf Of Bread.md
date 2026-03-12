@@ -9,6 +9,11 @@ tags:
 aliases:
   - Loaf of Bread
 cost: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - food-and-drink
 ---
 # Loaf of Bread
 *Food and drink*  

@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Vyra's Broken Path
+attunement: true
+attunement-requirement:
+  - elf
+  - half-elf
+rarity: very-rare
+tier: major
 ---
 # Vyra's Broken Path
 *Wondrous item, major, very rare (requires attunement by an elf or half-elf)*  

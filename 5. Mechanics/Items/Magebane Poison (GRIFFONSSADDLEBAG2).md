@@ -9,6 +9,12 @@ tags:
   - item/tier/minor
 aliases:
   - Magebane Poison
+attunement: false
+rarity: very-rare
+tier: minor
+type: gear
+subtype:
+  - null
 ---
 # Magebane Poison
 *Adventuring gear, poison, minor, very rare*  

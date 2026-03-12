@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Spellsword
-one-hand-damage: 1d6 force
+one-hand-damage: 1d6
+damage-type: force
 weight: 2
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Spellsword
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, rare*  

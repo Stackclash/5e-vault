@@ -9,6 +9,11 @@ tags:
 aliases:
   - Blue Sapphire
 cost: 100000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Blue Sapphire
 *Treasure (gemstone)*  

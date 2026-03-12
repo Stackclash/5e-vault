@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Sentry Candle
+attunement: false
+rarity: common
+tier: minor
 ---
 # Sentry Candle
 *Wondrous item, minor, common*  

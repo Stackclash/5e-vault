@@ -9,6 +9,11 @@ tags:
   - item/wondrous/rod
 aliases:
   - Torch of the Righteous Flame
+attunement: true
+rarity: very-rare
+type: wondrous
+subtype:
+  - rod
 ---
 # Torch of the Righteous Flame
 *Rod, very rare (requires attunement)*  

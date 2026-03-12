@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Hide of the Wild Guardian
+attunement: true
+attunement-requirement:
+  - druid
+rarity: legendary
+tier: major
 ---
 # Hide of the Wild Guardian
 *Wondrous item, major, legendary (requires attunement by a druid)*  

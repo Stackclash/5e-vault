@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Ear Cuff of the Vampire Bat
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Ear Cuff of the Vampire Bat
 *Wondrous item, major, uncommon (requires attunement)*  

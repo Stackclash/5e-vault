@@ -9,6 +9,11 @@ tags:
 aliases:
   - Gloom's Cloak
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Gloom's Cloak
 *Herb, rare*  

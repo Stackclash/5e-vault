@@ -9,6 +9,9 @@ tags:
 aliases:
   - Insatiable Tome
 weight: 12
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Insatiable Tome
 *Wondrous item, minor, rare*  

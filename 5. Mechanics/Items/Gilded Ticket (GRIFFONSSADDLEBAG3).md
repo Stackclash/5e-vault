@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Gilded Ticket
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Gilded Ticket
 *Wondrous item, minor, rare*  

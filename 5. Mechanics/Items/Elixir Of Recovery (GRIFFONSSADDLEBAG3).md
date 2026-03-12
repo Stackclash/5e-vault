@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Elixir of Recovery
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Elixir of Recovery
 *Potion, minor, uncommon*  

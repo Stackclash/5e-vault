@@ -9,6 +9,11 @@ tags:
 aliases:
   - Auril's Hair
 cost: 2000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Auril's Hair
 *Herb, rare*  

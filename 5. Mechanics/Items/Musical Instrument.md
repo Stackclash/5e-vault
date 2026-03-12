@@ -8,6 +8,11 @@ tags:
   - item/rarity/none
 aliases:
   - Musical Instrument
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - instrument
 ---
 # Musical Instrument
 *Instrument*  

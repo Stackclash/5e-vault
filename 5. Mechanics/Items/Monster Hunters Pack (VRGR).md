@@ -10,6 +10,11 @@ aliases:
   - Monster Hunter's Pack
 cost: 3300
 weight: 48.5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Monster Hunter's Pack
 *Adventuring gear*  

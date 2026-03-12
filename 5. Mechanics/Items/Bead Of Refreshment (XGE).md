@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bead of Refreshment
+attunement: false
+rarity: common
+tier: minor
 ---
 # Bead of Refreshment
 *Wondrous item, minor, common*  

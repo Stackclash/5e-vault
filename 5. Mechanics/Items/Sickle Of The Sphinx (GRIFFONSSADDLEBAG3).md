@@ -11,8 +11,19 @@ tags:
   - item/weapon/simple
 aliases:
   - Sickle of the Sphinx
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 weight: 2
+attunement: true
+attunement-requirement:
+  - creature with an intelligence score of 13
+  - higher
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Sickle of the Sphinx
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, rare (requires attunement by a creature with an intelligence score of 13 or higher)*  

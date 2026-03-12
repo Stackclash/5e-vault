@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bands of the Found and Lost
+attunement: false
+rarity: common
+tier: minor
 ---
 # Bands of the Found and Lost
 *Wondrous item, minor, common*  

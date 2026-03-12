@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Vine Tunic
+attunement: true
+rarity: rare
 ---
 # Vine Tunic
 *Wondrous item, rare (requires attunement)*  

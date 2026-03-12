@@ -10,6 +10,11 @@ tags:
 aliases:
   - Modern Bullets (10)
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - ammunition-firearm
 ---
 # Modern Bullets (10)
 *Ammunition (firearm)*  

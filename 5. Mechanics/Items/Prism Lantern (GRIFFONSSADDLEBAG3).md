@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Prism Lantern
+attunement: false
+rarity: rare
+tier: major
 ---
 # Prism Lantern
 *Wondrous item, major, rare*  

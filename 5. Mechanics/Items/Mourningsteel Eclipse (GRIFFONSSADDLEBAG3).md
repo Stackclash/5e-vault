@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Mourningsteel Eclipse
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 4
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Mourningsteel Eclipse
 *Weapon ([[/5. Mechanics/Items/Morningstar.md\|morningstar]]), major, rare*  

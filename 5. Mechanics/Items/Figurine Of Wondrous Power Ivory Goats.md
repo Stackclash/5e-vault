@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Figurine of Wondrous Power, Ivory Goats'
+attunement: false
+rarity: rare
+tier: major
 ---
 # Figurine of Wondrous Power, Ivory Goats
 *Wondrous item, major, rare*  

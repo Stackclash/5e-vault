@@ -10,10 +10,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\lief-lipsiege.webp
-relationships: []
 aliases:
   - Lief Lipsiege
 alignment: Chaotic Evil
+relationships: []
 partyRelationships: {}
 location: null
 pronounced: null
@@ -32,7 +32,6 @@ likes: null
 dislikes: null
 image: null
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

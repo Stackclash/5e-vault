@@ -10,6 +10,11 @@ aliases:
   - Fine Clothes
 cost: 1500
 weight: 6
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Fine Clothes
 *Adventuring gear*  

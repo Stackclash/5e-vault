@@ -10,6 +10,12 @@ aliases:
   - Survival Mantle
 armorClass: 15 + Dex modifier (max of +2)
 weight: 40
+stealth-penalty: true
+attunement: false
+rarity: unknown
+type: armor
+subtype:
+  - medium
 ---
 # Survival Mantle
 *Medium armor*  

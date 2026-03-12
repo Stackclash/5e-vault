@@ -9,6 +9,11 @@ tags:
 aliases:
   - Pale Tincture
 cost: 25000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Pale Tincture
 *Adventuring gear, poison (ingested)*  

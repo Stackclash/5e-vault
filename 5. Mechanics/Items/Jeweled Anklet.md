@@ -9,6 +9,11 @@ tags:
 aliases:
   - Jeweled anklet
 cost: 250000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Jeweled anklet
 *Treasure (art object)*  

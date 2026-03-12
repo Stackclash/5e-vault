@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Solar's Sight
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Solar's Sight
 *Ring, major, rare (requires attunement)*  

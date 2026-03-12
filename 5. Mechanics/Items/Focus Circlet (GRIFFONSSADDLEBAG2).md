@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Focus Circlet
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: uncommon
+tier: major
 ---
 # Focus Circlet
 *Wondrous item, major, uncommon (requires attunement by a spellcaster)*  

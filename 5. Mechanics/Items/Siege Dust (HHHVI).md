@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Siege Dust
+attunement: false
+rarity: very-rare
 ---
 # Siege Dust
 *Wondrous item, very rare*  

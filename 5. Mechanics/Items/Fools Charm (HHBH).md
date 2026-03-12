@@ -9,6 +9,11 @@ tags:
 aliases:
   - Fool's Charm
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Fool's Charm
 *Herb, rare*  

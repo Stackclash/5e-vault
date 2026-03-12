@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Oil of Slipperiness
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Oil of Slipperiness
 *Potion, minor, uncommon*  

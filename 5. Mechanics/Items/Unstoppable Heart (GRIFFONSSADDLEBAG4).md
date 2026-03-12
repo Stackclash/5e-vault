@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Unstoppable Heart
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Unstoppable Heart
 *Wondrous item, major, very rare (requires attunement)*  

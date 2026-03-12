@@ -18,6 +18,13 @@ aliases:
   - Luck Blade Rapier
   - Luck Blade Scimitar
   - Luck Blade Shortsword
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Luck Blade
 *Major, legendary (requires attunement)*  

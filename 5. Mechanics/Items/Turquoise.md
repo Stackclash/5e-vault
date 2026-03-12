@@ -9,6 +9,11 @@ tags:
 aliases:
   - Turquoise
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Turquoise
 *Treasure (gemstone)*  

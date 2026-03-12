@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Tempest Griffon Feather Cape
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Tempest Griffon Feather Cape
 *Wondrous item, major, very rare (requires attunement)*  

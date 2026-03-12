@@ -67,6 +67,15 @@ aliases:
   - Silvered Warhammer
   - Silvered Whip
   - Silvered Yklwa
+attunement: false
+rarity: unknown
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - ranged
+  - simple
 ---
 # Silvered Weapon
 *Major*  

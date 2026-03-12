@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Demilich Censer
+attunement: false
+rarity: very-rare
 ---
 # Demilich Censer
 *Wondrous item, very rare*  

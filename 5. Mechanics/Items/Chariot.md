@@ -10,6 +10,11 @@ aliases:
   - Chariot
 cost: 25000
 weight: 100
+attunement: false
+rarity: none
+type: vehicle
+subtype:
+  - land
 ---
 # Chariot
 *Vehicle (land)*  

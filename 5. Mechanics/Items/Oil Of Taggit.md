@@ -9,6 +9,11 @@ tags:
 aliases:
   - Oil of Taggit
 cost: 40000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Oil of Taggit
 *Adventuring gear, poison (contact)*  

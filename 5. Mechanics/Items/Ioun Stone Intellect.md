@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Ioun Stone, Intellect'
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Ioun Stone, Intellect
 *Wondrous item, major, very rare (requires attunement)*  

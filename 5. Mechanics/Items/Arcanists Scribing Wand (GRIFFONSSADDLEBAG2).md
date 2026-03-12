@@ -10,6 +10,14 @@ tags:
   - item/wondrous/wand
 aliases:
   - Arcanist's Scribing Wand
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Arcanist's Scribing Wand
 *Wand, major, rare (requires attunement by a wizard)*  

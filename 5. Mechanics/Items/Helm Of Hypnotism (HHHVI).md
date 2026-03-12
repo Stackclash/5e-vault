@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Helm of Hypnotism
+attunement: true
+rarity: very-rare
 ---
 # Helm of Hypnotism
 *Wondrous item, very rare (requires attunement)*  

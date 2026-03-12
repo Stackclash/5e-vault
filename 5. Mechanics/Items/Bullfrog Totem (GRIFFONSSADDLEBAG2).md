@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bullfrog Totem
+attunement: false
+rarity: common
+tier: minor
 ---
 # Bullfrog Totem
 *Wondrous item, minor, common*  

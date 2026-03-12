@@ -67,6 +67,15 @@ aliases:
   - +3 Warhammer
   - +3 Whip
   - +3 Yklwa
+attunement: false
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - ranged
+  - simple
 ---
 # +3 Weapon
 *Major, very rare*  

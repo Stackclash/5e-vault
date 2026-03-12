@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Tormentor's Flail
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 2
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Tormentor's Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, rare*  

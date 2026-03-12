@@ -9,6 +9,11 @@ tags:
 aliases:
   - Giant's Silk
 cost: 500
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Giant's Silk
 *Herb, rare*  

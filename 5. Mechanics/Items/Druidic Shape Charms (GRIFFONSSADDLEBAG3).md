@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Druidic Shape Charms
+attunement: true
+attunement-requirement:
+  - druid
+rarity: very-rare
+tier: major
 ---
 # Druidic Shape Charms
 *Wondrous item, major, very rare (requires attunement by a druid)*  

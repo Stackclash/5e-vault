@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Frosty Top Hat
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Frosty Top Hat
 *Wondrous item, major, uncommon*  

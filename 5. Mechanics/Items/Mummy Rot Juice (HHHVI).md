@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Mummy Rot Juice
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Mummy Rot Juice
 *Potion, rare*  

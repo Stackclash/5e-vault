@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Angler's Worldly Fisher
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Angler's Worldly Fisher
 *Wondrous item, minor, uncommon*  

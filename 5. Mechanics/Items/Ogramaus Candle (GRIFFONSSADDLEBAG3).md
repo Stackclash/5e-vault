@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Ogramau's Candle
+attunement: false
+rarity: very-rare
+tier: minor
 ---
 # Ogramau's Candle
 *Wondrous item, minor, very rare*  

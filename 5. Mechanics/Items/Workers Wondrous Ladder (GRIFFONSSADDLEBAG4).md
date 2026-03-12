@@ -9,6 +9,11 @@ tags:
 aliases:
   - Worker's Wondrous Ladder
 weight: 1
+attunement: false
+rarity: common
+type: wondrous
+subtype:
+  - rod
 ---
 # Worker's Wondrous Ladder
 *Rod, common*  

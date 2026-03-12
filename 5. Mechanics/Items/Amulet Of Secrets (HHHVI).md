@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Amulet of Secrets
+attunement: true
+rarity: very-rare
 ---
 # Amulet of Secrets
 *Wondrous item, very rare (requires attunement)*  

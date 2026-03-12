@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Halberd of the Peacock
-one-hand-damage: 1d10 slashing
+one-hand-damage: 1d10
+damage-type: slashing
 weight: 6
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Halberd of the Peacock
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), cursed item, major, rare (requires attunement)*  

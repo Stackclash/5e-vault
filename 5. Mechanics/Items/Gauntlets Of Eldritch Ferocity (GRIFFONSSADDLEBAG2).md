@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Gauntlets of Eldritch Ferocity
+attunement: true
+attunement-requirement:
+  - warlock
+rarity: rare
+tier: major
 ---
 # Gauntlets of Eldritch Ferocity
 *Wondrous item, major, rare (requires attunement by a warlock)*  

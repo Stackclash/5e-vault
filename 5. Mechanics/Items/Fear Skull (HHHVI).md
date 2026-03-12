@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Fear Skull
+attunement: true
+rarity: rare
 ---
 # Fear Skull
 *Wondrous item, rare (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Rhodochrosite
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Rhodochrosite
 *Treasure (gemstone)*  

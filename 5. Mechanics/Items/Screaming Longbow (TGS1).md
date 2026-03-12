@@ -11,9 +11,17 @@ tags:
   - item/weapon/ranged
 aliases:
   - Screaming Longbow
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 range: 150\600
 weight: 2
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Screaming Longbow
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, rare (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Eyedrops of Clarity
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Eyedrops of Clarity
 *Wondrous item, minor, uncommon*  

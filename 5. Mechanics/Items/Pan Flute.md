@@ -10,6 +10,11 @@ aliases:
   - Pan Flute
 cost: 1200
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - instrument
 ---
 # Pan Flute
 *Instrument*  

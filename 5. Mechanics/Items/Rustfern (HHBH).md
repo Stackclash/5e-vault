@@ -9,6 +9,11 @@ tags:
 aliases:
   - Rustfern
 cost: 10000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Rustfern
 *Herb, rare*  

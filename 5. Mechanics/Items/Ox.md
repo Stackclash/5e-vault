@@ -9,6 +9,11 @@ tags:
 aliases:
   - Ox
 cost: 1500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Ox
 *Trade good*  

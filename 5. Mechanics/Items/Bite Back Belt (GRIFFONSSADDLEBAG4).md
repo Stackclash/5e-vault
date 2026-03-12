@@ -8,6 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Bite-Back Belt
+attunement: true
+rarity: uncommon
 ---
 # Bite-Back Belt
 *Wondrous item, uncommon (requires attunement)*  

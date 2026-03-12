@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Dragon's Mercy (Young)
+attunement: false
+rarity: rare
 ---
 # Dragon's Mercy (Young)
 *Wondrous item, rare*  

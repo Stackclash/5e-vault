@@ -9,6 +9,11 @@ tags:
 aliases:
   - Polypad
 cost: 10000
+attunement: false
+rarity: unknown\Magic
+type: gear
+subtype:
+  - herb
 ---
 # Polypad
 *Herb*  

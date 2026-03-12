@@ -10,6 +10,11 @@ aliases:
   - Reliquary
 cost: 500
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Reliquary
 *Spellcasting focus*  

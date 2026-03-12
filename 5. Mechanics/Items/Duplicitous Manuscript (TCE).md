@@ -10,6 +10,13 @@ tags:
 aliases:
   - Duplicitous Manuscript
 weight: 3
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Duplicitous Manuscript
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  

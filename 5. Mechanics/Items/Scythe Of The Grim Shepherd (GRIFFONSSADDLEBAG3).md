@@ -11,9 +11,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Scythe of the Grim Shepherd
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Scythe of the Grim Shepherd
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, very rare (requires attunement)*  

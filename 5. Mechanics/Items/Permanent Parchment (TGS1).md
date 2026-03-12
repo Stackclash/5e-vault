@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Permanent Parchment
+attunement: false
+rarity: common
+tier: minor
 ---
 # Permanent Parchment
 *Wondrous item, minor, common*  

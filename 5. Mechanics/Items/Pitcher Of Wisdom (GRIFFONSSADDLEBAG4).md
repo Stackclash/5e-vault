@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Pitcher of Wisdom
+attunement: false
+rarity: rare
 ---
 # Pitcher of Wisdom
 *Wondrous item, rare*  

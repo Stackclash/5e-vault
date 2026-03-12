@@ -9,6 +9,11 @@ tags:
 aliases:
   - Gold bird cage with electrum filigree
 cost: 25000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Gold bird cage with electrum filigree
 *Treasure (art object)*  

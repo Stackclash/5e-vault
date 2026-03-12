@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Septum Ring of the Great Minotaur
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Septum Ring of the Great Minotaur
 *Wondrous item, major, very rare (requires attunement)*  

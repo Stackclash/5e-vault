@@ -9,6 +9,11 @@ tags:
 aliases:
   - Treant Seed
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Treant Seed
 *Herb, rare*  

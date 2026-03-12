@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Arcanist's Magnificent Magnifier
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Arcanist's Magnificent Magnifier
 *Wondrous item, minor, uncommon*  

@@ -20,16 +20,154 @@ cost: {resource.costCp}
 armorClass: {resource.armorClass}
 {#else if resource.damage }
 {#if resource.damage2h }
-one-hand-damage: {resource.damage}
-two-hand-damage: {resource.damage2h}
+one-hand-damage: {#if resource.damage.contains(' ')}{resource.damage.substring(0, resource.damage.indexOf(' '))}{#else}{resource.damage}{/if}
+two-hand-damage: {#if resource.damage2h.contains(' ')}{resource.damage2h.substring(0, resource.damage2h.indexOf(' '))}{#else}{resource.damage2h}{/if}
 {#else}
-one-hand-damage: {resource.damage}
-{/if}{/if}
+one-hand-damage: {#if resource.damage.contains(' ')}{resource.damage.substring(0, resource.damage.indexOf(' '))}{#else}{resource.damage}{/if}
+{/if}
+{#if resource.damage.contains(' ')}
+damage-type: {resource.damage.substring(resource.damage.indexOf(' ') + 1)}
+{/if}
+{/if}
 {#if resource.range }
 range: {resource.range}
 {/if}
 {#if resource.weight}
 weight: {resource.weight}
+{/if}
+{#if resource.stealthPenalty}
+stealth-penalty: {resource.stealthPenalty}
+{/if}
+{#if resource.strengthRequirement}
+strength-requirement: {resource.strengthRequirement}
+{/if}
+{#if resource.tags && resource.tags.contains('item/attunement/required')}
+attunement: true
+{#else}
+attunement: false
+{/if}
+{#if resource.detail && resource.detail.contains('(requires attunement by ')}
+{#let reqSection=resource.detail.substring(resource.detail.indexOf('(requires attunement by ') + 24)}
+{#let reqRaw=reqSection.substring(0, reqSection.lastIndexOf(')'))}
+{#let reqNoLinks=reqRaw}
+{#if reqNoLinks.startsWith('an ')}
+{#let reqCore=reqNoLinks.substring(3)}
+attunement-requirement:
+{#for req in reqCore.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
+{#let reqVal=req.trim}
+{#if reqVal.contains('](')}
+{#let reqBefore=reqVal.substring(0, reqVal.indexOf('['))}
+{#let reqLink=reqVal.substring(reqVal.indexOf('[') + 1, reqVal.indexOf(']'))}
+{#let reqAfter=reqVal.substring(reqVal.lastIndexOf(')') + 1)}
+- {str:concat(reqBefore, ' ', reqLink, ' ', reqAfter).replace('  ', ' ').trim.toLowerCase}
+{/let}
+{/let}
+{/let}
+{#else}
+- {reqVal.toLowerCase}
+{/if}
+{/let}
+{/for}
+{/let}
+{#else if reqNoLinks.startsWith('a ')}
+{#let reqCore=reqNoLinks.substring(2)}
+attunement-requirement:
+{#for req in reqCore.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
+{#let reqVal=req.trim}
+{#if reqVal.contains('](')}
+{#let reqBefore=reqVal.substring(0, reqVal.indexOf('['))}
+{#let reqLink=reqVal.substring(reqVal.indexOf('[') + 1, reqVal.indexOf(']'))}
+{#let reqAfter=reqVal.substring(reqVal.lastIndexOf(')') + 1)}
+- {str:concat(reqBefore, ' ', reqLink, ' ', reqAfter).replace('  ', ' ').trim.toLowerCase}
+{/let}
+{/let}
+{/let}
+{#else}
+- {reqVal.toLowerCase}
+{/if}
+{/let}
+{/for}
+{/let}
+{#else if reqNoLinks.startsWith('the ')}
+{#let reqCore=reqNoLinks.substring(4)}
+attunement-requirement:
+{#for req in reqCore.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
+{#let reqVal=req.trim}
+{#if reqVal.contains('](')}
+{#let reqBefore=reqVal.substring(0, reqVal.indexOf('['))}
+{#let reqLink=reqVal.substring(reqVal.indexOf('[') + 1, reqVal.indexOf(']'))}
+{#let reqAfter=reqVal.substring(reqVal.lastIndexOf(')') + 1)}
+- {str:concat(reqBefore, ' ', reqLink, ' ', reqAfter).replace('  ', ' ').trim.toLowerCase}
+{/let}
+{/let}
+{/let}
+{#else}
+- {reqVal.toLowerCase}
+{/if}
+{/let}
+{/for}
+{/let}
+{#else}
+attunement-requirement:
+{#for req in reqNoLinks.replace(', or ', ', ').replace(' or ', ', ').replace(', and ', ', ').replace(' and ', ', ').split(',')}
+{#let reqVal=req.trim}
+{#if reqVal.contains('](')}
+{#let reqBefore=reqVal.substring(0, reqVal.indexOf('['))}
+{#let reqLink=reqVal.substring(reqVal.indexOf('[') + 1, reqVal.indexOf(']'))}
+{#let reqAfter=reqVal.substring(reqVal.lastIndexOf(')') + 1)}
+- {str:concat(reqBefore, ' ', reqLink, ' ', reqAfter).replace('  ', ' ').trim.toLowerCase}
+{/let}
+{/let}
+{/let}
+{#else}
+- {reqVal.toLowerCase}
+{/if}
+{/let}
+{/for}
+{/if}
+{/let}
+{/let}
+{/if}
+{#if resource.tags}
+{#for tag in resource.tags}{#if tag.startsWith('item/rarity/')}
+rarity: {tag.substring(12)}
+{/if}{/for}
+{#for tag in resource.tags}{#if tag.startsWith('item/tier/')}
+tier: {tag.substring(10)}
+{/if}{/for}
+{#let tagsText=str:concat(resource.tags)}
+{#if tagsText.contains('item/armor/')}
+type: armor
+subtype:
+{#for subtag in resource.tags}{#if subtag.startsWith('item/armor/')}
+- {subtag.substring(11)}
+{/if}{/for}
+{#else if tagsText.contains('item/gear/')}
+type: gear
+subtype:
+{#for subtag in resource.tags}{#if subtag.startsWith('item/gear/')}
+- {subtag.substring(10)}
+{/if}{/for}
+{#else if tagsText.contains('item/weapon/')}
+type: weapon
+subtype:
+{#for subtag in resource.tags}{#if subtag.startsWith('item/weapon/')}
+- {subtag.substring(12)}
+{/if}{/for}
+{#else if tagsText.contains('item/vehicle/')}
+type: vehicle
+subtype:
+{#for subtag in resource.tags}{#if subtag.startsWith('item/vehicle/')}
+- {subtag.substring(13)}
+{/if}{/for}
+{#else if tagsText.contains('item/wondrous/')}
+type: wondrous
+subtype:
+{#for subtag in resource.tags}{#if subtag.startsWith('item/wondrous/')}
+- {subtag.substring(14)}
+{/if}{/for}
+{/if}
+{/let}
 {/if}
 ---
 # {resource.name}

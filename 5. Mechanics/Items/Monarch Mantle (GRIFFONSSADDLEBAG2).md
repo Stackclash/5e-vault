@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Monarch Mantle
+attunement: true
+rarity: rare
+tier: major
 ---
 # Monarch Mantle
 *Wondrous item, major, rare (requires attunement)*  

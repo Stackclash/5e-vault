@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Orator's Quill
+attunement: false
+rarity: common
+tier: minor
 ---
 # Orator's Quill
 *Wondrous item, minor, common*  

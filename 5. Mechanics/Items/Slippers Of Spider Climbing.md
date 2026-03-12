@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Slippers of Spider Climbing
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Slippers of Spider Climbing
 *Wondrous item, major, uncommon (requires attunement)*  

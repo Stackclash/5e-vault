@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Spellwriter's Brace
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+tier: major
 ---
 # Spellwriter's Brace
 *Wondrous item, major, rare (requires attunement by a wizard)*  

@@ -66,6 +66,15 @@ aliases:
   - Warhammer of Blind Faith
   - Whip of Blind Faith
   - Yklwa of Blind Faith
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - ranged
+  - simple
 ---
 # Weapon of Blind Faith
 *Major, uncommon*  

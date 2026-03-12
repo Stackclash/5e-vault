@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Stormbrewer Bracers
+attunement: true
+rarity: rare
+tier: major
 ---
 # Stormbrewer Bracers
 *Wondrous item, major, rare (requires attunement)*  

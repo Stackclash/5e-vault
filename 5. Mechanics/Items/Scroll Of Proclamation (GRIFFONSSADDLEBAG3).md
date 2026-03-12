@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of Proclamation
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of Proclamation
 *Scroll, minor, common*  

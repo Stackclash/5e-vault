@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Prized Pet Protector
+attunement: false
+rarity: varies
+tier: minor
 ---
 # Prized Pet Protector
 *Wondrous item, minor*  

@@ -10,6 +10,11 @@ aliases:
   - Electrum (ep)
 cost: 50
 weight: 0.02
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-coinage
 ---
 # Electrum (ep)
 *Treasure (coinage)*  

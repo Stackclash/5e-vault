@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Knight's Standard of Vigor
-one-hand-damage: 1d10 piercing
+one-hand-damage: 1d10
+damage-type: piercing
 weight: 18
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Knight's Standard of Vigor
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), major, rare (requires attunement)*  

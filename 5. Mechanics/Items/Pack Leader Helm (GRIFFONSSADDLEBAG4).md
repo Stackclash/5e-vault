@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Pack Leader Helm
+attunement: true
+rarity: rare
 ---
 # Pack Leader Helm
 *Wondrous item, rare (requires attunement)*  

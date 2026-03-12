@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Lich Censer
+attunement: false
+rarity: very-rare
 ---
 # Lich Censer
 *Wondrous item, very rare*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Tub of Churning and Fermentation
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Tub of Churning and Fermentation
 *Wondrous item, minor, uncommon*  

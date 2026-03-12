@@ -10,6 +10,14 @@ tags:
   - item/wondrous/ring
 aliases:
   - 'Puzzle Ring of Vitality, Life, and Power'
+attunement: true
+attunement-requirement:
+  - paladin
+rarity: legendary
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Puzzle Ring of Vitality, Life, and Power
 *Ring, major, legendary (requires attunement by a paladin)*  

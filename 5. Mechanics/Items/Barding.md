@@ -23,6 +23,11 @@ aliases:
   - Splint Barding
   - Studded Leather Barding
   - Wooden Breastplate Barding
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - tack-and-harness
 ---
 # Barding
 *Tack and harness*  

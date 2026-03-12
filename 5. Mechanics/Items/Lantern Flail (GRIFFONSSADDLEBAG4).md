@@ -10,8 +10,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Lantern Flail
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 2
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Lantern Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), rare (requires attunement)*  

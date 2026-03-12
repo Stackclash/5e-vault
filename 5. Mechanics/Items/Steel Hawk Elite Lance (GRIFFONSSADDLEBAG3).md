@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Steel Hawk Elite Lance
-one-hand-damage: 1d12 piercing
+one-hand-damage: 1d12
+damage-type: piercing
 weight: 6
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Steel Hawk Elite Lance
 *Weapon ([[/5. Mechanics/Items/Lance.md\|lance]]), major, rare*  

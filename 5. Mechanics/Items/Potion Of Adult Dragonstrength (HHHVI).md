@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Adult Dragonstrength
+attunement: false
+rarity: very-rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Adult Dragonstrength
 *Potion, very rare*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Golem Companion
+attunement: false
+rarity: rare
 ---
 # Golem Companion
 *Wondrous item, rare*  

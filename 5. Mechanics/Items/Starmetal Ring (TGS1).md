@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Starmetal Ring
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Starmetal Ring
 *Ring, major, rare*  

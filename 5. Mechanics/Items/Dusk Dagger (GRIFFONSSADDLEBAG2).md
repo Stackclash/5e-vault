@@ -10,9 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Dusk Dagger
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 20\60
 weight: 1
+attunement: false
+rarity: varies
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Dusk Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Lens of Forgotten History
+attunement: false
+rarity: very-rare
 ---
 # Lens of Forgotten History
 *Wondrous item, very rare*  

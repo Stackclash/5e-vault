@@ -9,6 +9,11 @@ tags:
 aliases:
   - Frozen Fuel
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Frozen Fuel
 *Herb, rare*  

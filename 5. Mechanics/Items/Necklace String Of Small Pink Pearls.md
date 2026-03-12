@@ -9,6 +9,11 @@ tags:
 aliases:
   - Necklace string of small pink pearls
 cost: 250000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Necklace string of small pink pearls
 *Treasure (art object)*  

@@ -11,9 +11,19 @@ tags:
   - item/weapon/simple
 aliases:
   - Bloodmage Dagger
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 40\80
 weight: 1
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Bloodmage Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement by a spellcaster)*  

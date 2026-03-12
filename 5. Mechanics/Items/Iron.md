@@ -10,6 +10,11 @@ aliases:
   - Iron
 cost: 10
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Iron
 *Trade good*  

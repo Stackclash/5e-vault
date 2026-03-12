@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of Instant Cookies
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of Instant Cookies
 *Scroll, minor, common*  

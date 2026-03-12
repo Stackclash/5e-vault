@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Fiend Censer
+attunement: false
+rarity: uncommon
 ---
 # Fiend Censer
 *Wondrous item, uncommon*  

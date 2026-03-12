@@ -9,6 +9,11 @@ tags:
 aliases:
   - Embroidered glove set with jewel chips
 cost: 250000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Embroidered glove set with jewel chips
 *Treasure (art object)*  

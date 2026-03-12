@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Roses
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Roses
 *Ring, minor, common*  

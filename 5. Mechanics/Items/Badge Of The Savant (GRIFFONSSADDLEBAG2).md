@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Badge of the Savant
+attunement: false
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Badge of the Savant
 *Wondrous item, major, uncommon*  

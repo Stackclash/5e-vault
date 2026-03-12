@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Helm of the Bronze General
+attunement: true
+rarity: legendary
 ---
 # Helm of the Bronze General
 *Wondrous item, legendary (requires attunement)*  

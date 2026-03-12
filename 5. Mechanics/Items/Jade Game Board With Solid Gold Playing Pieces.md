@@ -9,6 +9,11 @@ tags:
 aliases:
   - Jade game board with solid gold playing pieces
 cost: 750000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Jade game board with solid gold playing pieces
 *Treasure (art object)*  

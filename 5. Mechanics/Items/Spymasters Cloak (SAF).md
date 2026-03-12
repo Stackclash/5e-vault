@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Spymaster's Cloak
+attunement: false
+rarity: uncommon
 ---
 # Spymaster's Cloak
 *Wondrous item, uncommon*  

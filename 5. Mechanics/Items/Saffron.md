@@ -10,6 +10,11 @@ aliases:
   - Saffron
 cost: 1500
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Saffron
 *Trade good*  

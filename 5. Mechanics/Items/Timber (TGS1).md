@@ -11,9 +11,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Timber
-one-hand-damage: 1d6 slashing
+one-hand-damage: 1d6
+damage-type: slashing
 range: 20\60
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Timber
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), major, very rare (requires attunement)*  

@@ -14,6 +14,13 @@ aliases:
   - Armor of the Reef Warden
   - Half Plate Armor of the Reef Warden
   - Plate Armor of the Reef Warden
+attunement: true
+rarity: very-rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - medium
 ---
 # Armor of the Reef Warden
 *Major, very rare (requires attunement)*  

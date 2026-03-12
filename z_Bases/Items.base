@@ -6,14 +6,24 @@ views:
     name: Overview
     order:
       - file.name
+      - type
+      - subtype
+      - tier
+      - rarity
       - weight
       - cost
+      - attunement
+      - attunement-requirement
+      - stealth-penalty
+      - strength-requirement
       - armorClass
-      - range
       - one-hand-damage
       - two-hand-damage
+      - damage-type
+      - range
     columnSize:
       note.weight: 112
       note.cost: 116
       note.armorClass: 134
       note.range: 88
+      note.tier: 87

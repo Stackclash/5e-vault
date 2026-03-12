@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Girdle of Traveling Alchemy
+attunement: true
+rarity: very-rare
 ---
 # Girdle of Traveling Alchemy
 *Wondrous item, very rare (requires attunement)*  

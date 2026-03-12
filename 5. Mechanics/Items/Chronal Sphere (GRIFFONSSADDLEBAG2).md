@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Chronal Sphere
+attunement: false
+rarity: very-rare
+tier: minor
 ---
 # Chronal Sphere
 *Wondrous item, minor, very rare*  

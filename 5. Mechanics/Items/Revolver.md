@@ -10,9 +10,16 @@ tags:
   - item/weapon/ranged
 aliases:
   - Revolver
-one-hand-damage: 2d8 piercing
+one-hand-damage: 2d8
+damage-type: piercing
 range: 40\120
 weight: 3
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Revolver
 *Weapon*  

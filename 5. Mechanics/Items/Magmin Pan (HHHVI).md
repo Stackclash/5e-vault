@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Magmin Pan
+attunement: false
+rarity: common
 ---
 # Magmin Pan
 *Wondrous item, common*  

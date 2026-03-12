@@ -10,6 +10,11 @@ aliases:
   - Backpack
 cost: 200
 weight: 5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Backpack
 *Adventuring gear*  

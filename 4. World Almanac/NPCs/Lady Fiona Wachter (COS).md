@@ -10,10 +10,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\060-cos05-11.webp
-relationships: []
 aliases:
   - Lady Fiona Wachter
 alignment: Lawful Evil
+relationships: []
 partyRelationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
@@ -33,7 +33,6 @@ likes: null
 dislikes: null
 image: null
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

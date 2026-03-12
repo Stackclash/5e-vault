@@ -13,6 +13,15 @@ aliases:
   - Yellow Harbinger's Path
   - Yellow Harbinger's Spiked Armor
   - Yellow Harbinger's Wooden Breastplate
+attunement: true
+attunement-requirement:
+  - creature with a dexterity score of 17
+  - higher
+rarity: very-rare
+tier: major
+type: armor
+subtype:
+  - medium
 ---
 # Yellow Harbinger's Path
 *Major, very rare (requires attunement by a creature with a Dexterity score of 17 or higher)*  

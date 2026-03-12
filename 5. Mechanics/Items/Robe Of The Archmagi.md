@@ -9,6 +9,13 @@ tags:
   - item/tier/major
 aliases:
   - Robe of the Archmagi
+attunement: true
+attunement-requirement:
+  - sorcerer
+  - warlock
+  - wizard
+rarity: legendary
+tier: major
 ---
 # Robe of the Archmagi
 *Wondrous item, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Malachite
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Malachite
 *Treasure (gemstone)*  

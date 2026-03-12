@@ -9,6 +9,11 @@ tags:
 aliases:
   - Barrier Coral
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Barrier Coral
 *Herb, rare*  

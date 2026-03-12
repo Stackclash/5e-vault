@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - 'Quaal''s Feather Token, Fan'
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Quaal's Feather Token, Fan
 *Wondrous item, minor, rare*  

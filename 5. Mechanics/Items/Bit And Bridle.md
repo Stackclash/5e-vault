@@ -10,6 +10,11 @@ aliases:
   - Bit and bridle
 cost: 200
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - tack-and-harness
 ---
 # Bit and bridle
 *Tack and harness*  

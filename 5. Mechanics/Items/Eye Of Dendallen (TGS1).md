@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Eye of Dendallen
+attunement: true
+rarity: rare
+tier: major
 ---
 # Eye of Dendallen
 *Wondrous item, cursed item, major, rare (requires attunement)*  

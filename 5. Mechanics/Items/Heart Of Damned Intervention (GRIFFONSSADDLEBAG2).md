@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Heart of Damned Intervention
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: legendary
+tier: major
 ---
 # Heart of Damned Intervention
 *Wondrous item, cursed item, major, legendary (requires attunement by a cleric or paladin)*  

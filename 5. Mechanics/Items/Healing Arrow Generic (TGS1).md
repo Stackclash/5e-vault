@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Healing Arrow (Generic)
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Healing Arrow (Generic)
 *Minor, uncommon*  

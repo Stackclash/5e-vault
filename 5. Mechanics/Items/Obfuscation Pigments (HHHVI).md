@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Obfuscation Pigments
+attunement: false
+rarity: uncommon
 ---
 # Obfuscation Pigments
 *Wondrous item, uncommon*  

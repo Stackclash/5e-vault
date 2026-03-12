@@ -11,9 +11,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Frozen Dagger
-one-hand-damage: 1d4 cold
+one-hand-damage: 1d4
+damage-type: cold
 range: 40\80
 weight: 1
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Frozen Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, uncommon (requires attunement)*  

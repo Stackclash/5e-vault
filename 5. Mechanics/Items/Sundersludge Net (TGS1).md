@@ -13,6 +13,13 @@ aliases:
   - Sundersludge Net
 range: 5\15
 weight: 3
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Sundersludge Net
 *Weapon ([[/5. Mechanics/Items/Net.md\|net]]), major, uncommon (requires attunement)*  

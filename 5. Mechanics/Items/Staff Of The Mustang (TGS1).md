@@ -10,9 +10,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Mustang
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Staff of the Mustang
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement)*  

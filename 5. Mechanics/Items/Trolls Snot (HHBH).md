@@ -9,6 +9,11 @@ tags:
 aliases:
   - Troll's Snot
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Troll's Snot
 *Herb, common*  

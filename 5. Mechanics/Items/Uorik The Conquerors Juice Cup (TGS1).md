@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Uorik the Conqueror's Juice Cup
+attunement: false
+rarity: common
+tier: minor
 ---
 # Uorik the Conqueror's Juice Cup
 *Wondrous item, minor, common*  

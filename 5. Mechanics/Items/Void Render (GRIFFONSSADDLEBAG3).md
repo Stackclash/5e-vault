@@ -10,9 +10,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Void Render
-one-hand-damage: 1d8 slashing
-two-hand-damage: 1d10 slashing
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: slashing
 weight: 4
+attunement: false
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Void Render
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, very rare*  

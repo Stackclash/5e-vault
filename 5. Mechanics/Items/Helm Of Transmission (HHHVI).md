@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Helm of Transmission
+attunement: true
+rarity: rare
 ---
 # Helm of Transmission
 *Wondrous item, rare (requires attunement)*  

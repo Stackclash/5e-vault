@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Dream Mantle
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Dream Mantle
 *Wondrous item, major, very rare (requires attunement)*  

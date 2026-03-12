@@ -16,6 +16,13 @@ aliases:
   - Vorpal Greatsword
   - Vorpal Longsword
   - Vorpal Scimitar
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Vorpal Sword
 *Major, legendary (requires attunement)*  

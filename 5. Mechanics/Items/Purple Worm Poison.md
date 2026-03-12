@@ -9,6 +9,11 @@ tags:
 aliases:
   - Purple Worm Poison
 cost: 200000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Purple Worm Poison
 *Adventuring gear, poison (injury)*  

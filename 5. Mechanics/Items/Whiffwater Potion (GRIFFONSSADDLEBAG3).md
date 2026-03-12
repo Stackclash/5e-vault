@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Whiffwater Potion
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Whiffwater Potion
 *Potion, minor, common*  

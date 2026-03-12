@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Jar of Lightningflies
+attunement: false
+rarity: rare
 ---
 # Jar of Lightningflies
 *Wondrous item, rare*  

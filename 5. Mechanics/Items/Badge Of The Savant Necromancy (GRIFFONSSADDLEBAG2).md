@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Badge of the Savant (Necromancy)
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Badge of the Savant (Necromancy)
 *Wondrous item, major, uncommon*  

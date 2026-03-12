@@ -12,6 +12,9 @@ aliases:
   - Shield of the Everfighter
 armorClass: 2
 weight: 6
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Shield of the Everfighter
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  

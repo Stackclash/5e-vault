@@ -9,6 +9,11 @@ tags:
 aliases:
   - Breeze Nuts
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Breeze Nuts
 *Herb, common*  

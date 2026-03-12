@@ -13,6 +13,13 @@ aliases:
   - Gambler's Bow
   - Gambler's Longbow
   - Gambler's Shortbow
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Gambler's Bow
 *Rare*  

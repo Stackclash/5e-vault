@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Knocking Boots
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Knocking Boots
 *Wondrous item, major, uncommon*  

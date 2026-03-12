@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Mark of the Everglacier Monarch
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: legendary
+tier: major
 ---
 # Mark of the Everglacier Monarch
 *Wondrous item, cursed item, major, legendary (requires attunement by a spellcaster)*  

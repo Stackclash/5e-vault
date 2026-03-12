@@ -10,8 +10,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Constellation Whip
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 weight: 3
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Constellation Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), very rare (requires attunement)*  

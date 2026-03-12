@@ -12,6 +12,9 @@ aliases:
   - Animated Shield
 armorClass: 2
 weight: 6
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Animated Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement)*  

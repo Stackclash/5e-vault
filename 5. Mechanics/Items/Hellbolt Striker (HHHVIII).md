@@ -15,6 +15,13 @@ aliases:
   - Hellbolt Striker Hooked Shortspear
   - Hellbolt Striker Hoopak
   - Hellbolt Striker Yklwa
+attunement: false
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Hellbolt Striker
 *Very rare*  

@@ -10,6 +10,11 @@ aliases:
   - Crossbow Bolts (20)
 cost: 100
 weight: 1.5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - ammunition
 ---
 # Crossbow Bolts (20)
 *Ammunition*  

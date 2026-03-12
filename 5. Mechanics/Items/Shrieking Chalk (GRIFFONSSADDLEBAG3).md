@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Shrieking Chalk
+attunement: false
+rarity: rare
+tier: major
 ---
 # Shrieking Chalk
 *Wondrous item, major, rare*  

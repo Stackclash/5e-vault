@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Sunspot Lantern
+attunement: false
+rarity: very-rare
 ---
 # Sunspot Lantern
 *Wondrous item, very rare*  

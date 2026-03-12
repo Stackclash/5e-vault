@@ -17,6 +17,16 @@ aliases:
   - Dragonkin Hooked Shortspear +3
   - Dragonkin Hoopak +3
   - Dragonkin Yklwa +3
+attunement: true
+attunement-requirement:
+  - dragonborn
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Dragonkin Weapon +3
 *Major, legendary (requires attunement by a dragonborn)*  

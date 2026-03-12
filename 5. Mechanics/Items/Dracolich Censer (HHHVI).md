@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Dracolich Censer
+attunement: false
+rarity: very-rare
 ---
 # Dracolich Censer
 *Wondrous item, very rare*  

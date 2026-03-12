@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Lightseer's Gaze
+attunement: true
+attunement-requirement:
+  - monk
+rarity: legendary
+tier: major
 ---
 # Lightseer's Gaze
 *Wondrous item, cursed item, major, legendary (requires attunement by a monk)*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Acid Resistance
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Acid Resistance
 *Potion, minor, uncommon*  

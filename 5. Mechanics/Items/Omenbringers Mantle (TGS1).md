@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Omenbringer's Mantle
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Omenbringer's Mantle
 *Wondrous item, major, very rare (requires attunement)*  

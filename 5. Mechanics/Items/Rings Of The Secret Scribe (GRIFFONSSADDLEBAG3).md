@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Rings of the Secret Scribe
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Rings of the Secret Scribe
 *Ring, minor, common*  

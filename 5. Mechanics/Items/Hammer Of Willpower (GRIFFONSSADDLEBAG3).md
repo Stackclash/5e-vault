@@ -16,6 +16,14 @@ aliases:
   - Light Hammer of Willpower
   - Maul of Willpower
   - Warhammer of Willpower
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Hammer of Willpower
 *Major, very rare (requires attunement)*  

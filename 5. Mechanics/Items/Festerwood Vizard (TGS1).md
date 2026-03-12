@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Festerwood Vizard
+attunement: true
+rarity: rare
+tier: major
 ---
 # Festerwood Vizard
 *Wondrous item, major, rare (requires attunement)*  

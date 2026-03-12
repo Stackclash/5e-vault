@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Shadow Ink
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Shadow Ink
 *Wondrous item, minor, rare*  

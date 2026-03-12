@@ -10,6 +10,12 @@ tags:
 aliases:
   - Crossbow Bolt of Slaying
 weight: 0.075
+attunement: false
+rarity: very-rare
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Crossbow Bolt of Slaying
 *Ammunition, minor, very rare*  

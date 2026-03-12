@@ -10,6 +10,16 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Shadows
+attunement: true
+attunement-requirement:
+  - sorcerer
+  - warlock
+  - wizard
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Shadows
 *Wand, major, rare (requires attunement by a sorcerer, warlock, or wizard)*  

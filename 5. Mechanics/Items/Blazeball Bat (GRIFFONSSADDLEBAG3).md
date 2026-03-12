@@ -13,6 +13,13 @@ aliases:
   - Blazeball Bat
   - Blazeball Bat Club
   - Blazeball Bat Greatclub
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Blazeball Bat
 *Major, rare*  

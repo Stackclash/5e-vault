@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Gloves of Amphibios
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Gloves of Amphibios
 *Wondrous item, major, uncommon (requires attunement)*  

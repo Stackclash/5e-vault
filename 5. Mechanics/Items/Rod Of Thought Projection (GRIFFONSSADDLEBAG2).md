@@ -9,6 +9,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Thought Projection
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of Thought Projection
 *Rod, minor, uncommon*  

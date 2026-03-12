@@ -10,6 +10,11 @@ aliases:
   - Mason's Tools
 cost: 1000
 weight: 8
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Mason's Tools
 *Artisan's tools*  

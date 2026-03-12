@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Digestion
+attunement: false
+rarity: common
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Digestion
 *Potion, common*  

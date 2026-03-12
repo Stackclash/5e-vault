@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Book of Clothier's Croquis
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Book of Clothier's Croquis
 *Wondrous item, minor, uncommon*  

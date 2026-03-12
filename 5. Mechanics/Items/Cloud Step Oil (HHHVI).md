@@ -8,6 +8,11 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Cloud Step Oil
+attunement: false
+rarity: very-rare
+type: gear
+subtype:
+  - oil
 ---
 # Cloud Step Oil
 *Oil, very rare*  

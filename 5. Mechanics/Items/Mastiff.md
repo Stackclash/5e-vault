@@ -9,6 +9,11 @@ tags:
 aliases:
   - Mastiff
 cost: 2500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - mount
 ---
 # Mastiff
 *Mount*  

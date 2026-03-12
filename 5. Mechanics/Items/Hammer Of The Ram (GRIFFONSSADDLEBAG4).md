@@ -10,8 +10,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Hammer of the Ram
-one-hand-damage: 2d6 bludgeoning
+one-hand-damage: 2d6
+damage-type: bludgeoning
 weight: 10
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Hammer of the Ram
 *Weapon ([[/5. Mechanics/Items/Maul.md\|maul]]), rare (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Kinetic Bowstring
+attunement: false
+rarity: rare
+tier: major
 ---
 # Kinetic Bowstring
 *Wondrous item, major, rare*  

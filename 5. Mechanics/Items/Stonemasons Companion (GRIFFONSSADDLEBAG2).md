@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Stonemason's Companion
+attunement: false
+rarity: uncommon
+tier: major
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Stonemason's Companion
 *Wondrous item, artisan's tools ([[/5. Mechanics/Items/Masons Tools.md\|mason's tools]]), major, uncommon*  

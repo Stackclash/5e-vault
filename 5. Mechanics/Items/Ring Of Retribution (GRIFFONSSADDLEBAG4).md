@@ -9,6 +9,14 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Retribution
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: rare
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Retribution
 *Ring, rare (requires attunement by a cleric or paladin)*  

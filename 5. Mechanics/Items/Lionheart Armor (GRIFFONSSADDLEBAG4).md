@@ -14,6 +14,12 @@ aliases:
   - Lionheart Bone Plate Armor
   - Lionheart Spiked Armor
   - Lionheart Wooden Breastplate
+attunement: true
+rarity: uncommon
+type: armor
+subtype:
+  - heavy
+  - medium
 ---
 # Lionheart Armor
 *Uncommon (requires attunement)*  

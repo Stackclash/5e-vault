@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Belt of the Raid Leader
+attunement: true
+attunement-requirement:
+  - half-orc
+  - orc
+rarity: rare
+tier: major
 ---
 # Belt of the Raid Leader
 *Wondrous item, major, rare (requires attunement by a half-orc or orc)*  

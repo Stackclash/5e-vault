@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Dragon Edge Weapon (Generic)
+attunement: false
+rarity: varies
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Dragon Edge Weapon (Generic)
 *Major*  

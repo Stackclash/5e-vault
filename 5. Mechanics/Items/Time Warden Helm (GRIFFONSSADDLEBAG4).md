@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Time Warden Helm
+attunement: true
+rarity: very-rare
 ---
 # Time Warden Helm
 *Wondrous item, very rare (requires attunement)*  

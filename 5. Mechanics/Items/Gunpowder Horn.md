@@ -11,6 +11,11 @@ aliases:
   - Gunpowder Horn
 cost: 3500
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - explosive
 ---
 # Gunpowder Horn
 *Explosive*  

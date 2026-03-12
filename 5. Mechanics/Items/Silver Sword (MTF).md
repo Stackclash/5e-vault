@@ -11,8 +11,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Silver Sword
-one-hand-damage: 2d6 slashing
+one-hand-damage: 2d6
+damage-type: slashing
 weight: 6
+attunement: true
+attunement-requirement:
+  - creature that has psionic ability
+rarity: unknown\Magic
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Silver Sword
 *Weapon, major (requires attunement by a creature that has psionic ability)*  

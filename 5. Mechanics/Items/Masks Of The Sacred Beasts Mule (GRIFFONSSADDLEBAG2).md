@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Masks of the Sacred Beasts (Mule)
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Masks of the Sacred Beasts (Mule)
 *Wondrous item, major, very rare (requires attunement)*  

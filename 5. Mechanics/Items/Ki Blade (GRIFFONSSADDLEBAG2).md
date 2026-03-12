@@ -11,8 +11,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Ki Blade
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 weight: 2
+attunement: true
+attunement-requirement:
+  - monk
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Ki Blade
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]), major, very rare (requires attunement by a monk)*  

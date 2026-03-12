@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sentry Bush
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Sentry Bush
 *Herb, common*  

@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Prototype Thunderberd
-one-hand-damage: 1d10 slashing
+one-hand-damage: 1d10
+damage-type: slashing
 weight: 6
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Prototype Thunderberd
 *Weapon ([[/5. Mechanics/Items/Halberd.md\|halberd]]), major, rare (requires attunement)*  

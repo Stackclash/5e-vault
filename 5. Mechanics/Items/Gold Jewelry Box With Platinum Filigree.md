@@ -9,6 +9,11 @@ tags:
 aliases:
   - Gold jewelry box with platinum filigree
 cost: 750000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Gold jewelry box with platinum filigree
 *Treasure (art object)*  

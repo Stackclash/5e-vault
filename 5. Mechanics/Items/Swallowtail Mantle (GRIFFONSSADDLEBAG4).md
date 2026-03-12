@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Swallowtail Mantle
+attunement: false
+rarity: rare
 ---
 # Swallowtail Mantle
 *Wondrous item, rare*  

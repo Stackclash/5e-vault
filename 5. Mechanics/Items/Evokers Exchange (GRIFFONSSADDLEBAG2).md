@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Evoker's Exchange
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Evoker's Exchange
 *Wondrous item, major, uncommon*  

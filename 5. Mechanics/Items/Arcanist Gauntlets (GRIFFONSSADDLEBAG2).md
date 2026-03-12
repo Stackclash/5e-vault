@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Arcanist Gauntlets
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
 ---
 # Arcanist Gauntlets
 *Wondrous item, major, rare (requires attunement by a spellcaster)*  

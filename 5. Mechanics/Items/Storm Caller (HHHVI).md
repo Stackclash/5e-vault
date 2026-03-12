@@ -16,6 +16,13 @@ aliases:
   - Storm Caller Hooked Shortspear
   - Storm Caller Hoopak
   - Storm Caller Yklwa
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Storm Caller
 *Very rare (requires attunement)*  

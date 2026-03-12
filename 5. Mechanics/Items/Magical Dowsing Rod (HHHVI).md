@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Magical Dowsing Rod
+attunement: false
+rarity: rare
 ---
 # Magical Dowsing Rod
 *Wondrous item, rare*  

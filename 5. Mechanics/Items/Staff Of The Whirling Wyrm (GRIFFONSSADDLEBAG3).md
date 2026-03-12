@@ -11,9 +11,19 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Whirling Wyrm
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - monk
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Staff of the Whirling Wyrm
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon (requires attunement by a monk)*  

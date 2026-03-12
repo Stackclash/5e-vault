@@ -9,6 +9,11 @@ tags:
 aliases:
   - Basic Poison (vial)
 cost: 10000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Basic Poison (vial)
 *Adventuring gear, poison*  

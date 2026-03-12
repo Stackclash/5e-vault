@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Ioun Stone, Sustenance'
+attunement: true
+rarity: rare
+tier: major
 ---
 # Ioun Stone, Sustenance
 *Wondrous item, major, rare (requires attunement)*  

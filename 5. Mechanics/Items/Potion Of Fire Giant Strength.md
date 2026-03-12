@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Fire Giant Strength
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Fire Giant Strength
 *Potion, minor, rare*  

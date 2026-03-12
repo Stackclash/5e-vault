@@ -12,6 +12,9 @@ aliases:
   - Starmetal Shield
 armorClass: 2
 weight: 6
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Starmetal Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, legendary (requires attunement)*  

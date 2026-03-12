@@ -11,6 +11,9 @@ aliases:
   - Shield of the Justicars
 armorClass: 2
 weight: 6
+attunement: false
+rarity: rare
+tier: major
 ---
 # Shield of the Justicars
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  

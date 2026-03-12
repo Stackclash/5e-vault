@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Kraken Paint
+attunement: false
+rarity: very-rare
 ---
 # Kraken Paint
 *Wondrous item, very rare*  

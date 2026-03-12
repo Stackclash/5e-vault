@@ -9,6 +9,11 @@ tags:
 aliases:
   - Banishing Arrow
 weight: 0.05
+attunement: false
+rarity: very-rare
+type: gear
+subtype:
+  - ammunition
 ---
 # Banishing Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), very rare*  

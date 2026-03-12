@@ -15,6 +15,13 @@ aliases:
   - Battleaxe of Mooring
   - Longsword of Mooring
   - Warhammer of Mooring
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Weapon of Mooring
 *Major, rare (requires attunement)*  

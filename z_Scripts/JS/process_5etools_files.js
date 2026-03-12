@@ -336,7 +336,7 @@ const config = {
           allUniqueKeys = [...new Set([...Object.keys(currentFileFrontMatter), ...Object.keys(file.frontMatter)])]
 
         for (let prop of allUniqueKeys) {
-          if (file.frontMatter[prop]) {
+          if (prop in file.frontMatter && prop in currentFileFrontMatter) {
             if (JSON.stringify(file.frontMatter[prop]) !== JSON.stringify(currentFileFrontMatter[prop])) {
               const update = askQuestion(`Update ${prop} from ${JSON.stringify(currentFileFrontMatter[prop])} to ${JSON.stringify(file.frontMatter[prop])}? (Y/N) `)
               if (update) {
@@ -346,7 +346,11 @@ const config = {
               }
             }
           } else {
-            finalFrontMatter[prop] = currentFileFrontMatter[prop]
+            if (!(prop in currentFileFrontMatter)) {
+              finalFrontMatter[prop] = file.frontMatter[prop]
+            } else {
+              finalFrontMatter[prop] = currentFileFrontMatter[prop]
+            }
           }
         }
 

@@ -10,6 +10,11 @@ aliases:
   - Flour
 cost: 2
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Flour
 *Trade good*  

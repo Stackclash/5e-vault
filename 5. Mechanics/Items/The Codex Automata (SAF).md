@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - The Codex Automata
+attunement: true
+rarity: artifact
 ---
 # The Codex Automata
 *Wondrous item, artifact (requires attunement)*  

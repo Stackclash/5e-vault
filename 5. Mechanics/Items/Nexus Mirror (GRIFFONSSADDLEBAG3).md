@@ -12,6 +12,9 @@ aliases:
   - Nexus Mirror
 armorClass: 2
 weight: 6
+attunement: true
+rarity: rare
+tier: major
 ---
 # Nexus Mirror
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), cursed item, major, rare (requires attunement)*  

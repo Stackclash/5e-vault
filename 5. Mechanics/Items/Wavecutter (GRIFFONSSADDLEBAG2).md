@@ -15,6 +15,14 @@ aliases:
   - Wavecutter Battleaxe
   - Wavecutter Greataxe
   - Wavecutter Handaxe
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Wavecutter
 *Major, rare*  

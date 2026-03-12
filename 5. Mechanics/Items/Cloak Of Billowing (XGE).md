@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Cloak of Billowing
+attunement: false
+rarity: common
+tier: minor
 ---
 # Cloak of Billowing
 *Wondrous item, minor, common*  

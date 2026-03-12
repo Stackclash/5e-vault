@@ -10,8 +10,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Heartcleaver
-one-hand-damage: 1d12 slashing
+one-hand-damage: 1d12
+damage-type: slashing
 weight: 7
+attunement: true
+rarity: artifact
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Heartcleaver
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), cursed item, artifact (requires attunement)*  

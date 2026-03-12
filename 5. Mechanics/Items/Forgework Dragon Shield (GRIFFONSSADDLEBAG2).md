@@ -11,6 +11,9 @@ aliases:
   - Forgework Dragon Shield
 armorClass: 2
 weight: 6
+attunement: false
+rarity: rare
+tier: major
 ---
 # Forgework Dragon Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  

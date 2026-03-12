@@ -11,6 +11,12 @@ tags:
 aliases:
   - Wildfire Ammunition
   - Wildfire Arrow
+attunement: false
+rarity: rare
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Wildfire Ammunition
 *Minor, rare*  

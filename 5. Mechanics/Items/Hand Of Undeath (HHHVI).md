@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Hand of Undeath
+attunement: false
+rarity: uncommon
 ---
 # Hand of Undeath
 *Wondrous item, uncommon*  

@@ -10,6 +10,12 @@ tags:
 aliases:
   - Pipes of Haunting
 weight: 2
+attunement: false
+rarity: uncommon
+tier: major
+type: gear
+subtype:
+  - instrument
 ---
 # Pipes of Haunting
 *Wondrous item, instrument, major, uncommon*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Oracle's Leaf
 cost: 10000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Oracle's Leaf
 *Herb, rare*  

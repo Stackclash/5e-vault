@@ -10,6 +10,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Poison Armor of Amphibios
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Poison Armor of Amphibios
 *Major, rare (requires attunement)*  

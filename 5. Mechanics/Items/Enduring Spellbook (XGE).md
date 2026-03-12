@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Enduring Spellbook
+attunement: false
+rarity: common
+tier: minor
 ---
 # Enduring Spellbook
 *Wondrous item, minor, common*  

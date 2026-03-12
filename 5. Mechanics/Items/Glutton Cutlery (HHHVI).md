@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Glutton Cutlery
+attunement: false
+rarity: common
 ---
 # Glutton Cutlery
 *Wondrous item, common*  

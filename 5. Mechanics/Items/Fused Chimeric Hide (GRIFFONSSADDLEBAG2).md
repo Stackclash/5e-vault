@@ -12,6 +12,15 @@ aliases:
   - Fused Chimeric Hide
 armorClass: 12 + Dex modifier (max of +2)
 weight: 12
+attunement: true
+attunement-requirement:
+  - barbarian
+  - druid
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - medium
 ---
 # Fused Chimeric Hide
 *Medium armor ([[/5. Mechanics/Items/Hide Armor.md\|hide armor]]), major, rare (requires attunement by a barbarian or druid)*  

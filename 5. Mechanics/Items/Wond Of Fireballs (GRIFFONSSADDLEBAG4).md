@@ -8,6 +8,11 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wond of Fireballs
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - wand
 ---
 # Wond of Fireballs
 *Wand, rare*  

@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Brain Juice
+attunement: false
+rarity: very-rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Brain Juice
 *Potion, very rare*  

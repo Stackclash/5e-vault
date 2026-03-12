@@ -11,8 +11,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Executioner's Mercy
-one-hand-damage: 2d6 slashing
+one-hand-damage: 2d6
+damage-type: slashing
 weight: 6
+attunement: true
+attunement-requirement:
+  - lawful creature
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Executioner's Mercy
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, very rare (requires attunement by a lawful creature)*  

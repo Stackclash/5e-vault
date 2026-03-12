@@ -11,6 +11,14 @@ tags:
 aliases:
   - Wand of Web
 weight: 1
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Web
 *Wand, major, uncommon (requires attunement by a spellcaster)*  

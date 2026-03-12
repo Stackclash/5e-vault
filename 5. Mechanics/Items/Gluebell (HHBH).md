@@ -9,6 +9,11 @@ tags:
 aliases:
   - Gluebell
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Gluebell
 *Herb, rare*  

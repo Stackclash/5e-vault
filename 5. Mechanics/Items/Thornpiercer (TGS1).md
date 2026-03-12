@@ -17,6 +17,14 @@ aliases:
   - Thornpiercer Rapier
   - Thornpiercer Shortsword
   - Thornpiercer Whip
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Thornpiercer
 *Major, legendary (requires attunement)*  

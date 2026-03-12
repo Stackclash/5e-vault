@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Clockwork Healerbee
+attunement: true
+rarity: rare
+tier: major
 ---
 # Clockwork Healerbee
 *Wondrous item, major, rare (requires attunement)*  

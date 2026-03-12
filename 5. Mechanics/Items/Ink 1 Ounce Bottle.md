@@ -9,6 +9,11 @@ tags:
 aliases:
   - Ink (1-ounce bottle)
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Ink (1-ounce bottle)
 *Adventuring gear*  

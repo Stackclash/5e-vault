@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Eyes of the Eagle
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Eyes of the Eagle
 *Wondrous item, major, uncommon (requires attunement)*  

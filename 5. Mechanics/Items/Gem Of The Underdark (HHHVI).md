@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Gem of the Underdark
+attunement: true
+rarity: rare
 ---
 # Gem of the Underdark
 *Wondrous item, rare (requires attunement)*  

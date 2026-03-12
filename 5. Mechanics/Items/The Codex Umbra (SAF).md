@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - The Codex Umbra
+attunement: true
+rarity: artifact
 ---
 # The Codex Umbra
 *Wondrous item, artifact (requires attunement)*  

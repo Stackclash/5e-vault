@@ -12,6 +12,12 @@ aliases:
   - Displacement Leathers
 armorClass: 11 + Dex modifier
 weight: 10
+attunement: true
+rarity: uncommon
+tier: major
+type: armor
+subtype:
+  - light
 ---
 # Displacement Leathers
 *Light armor ([[/5. Mechanics/Items/Leather Armor.md\|leather armor]]), major, uncommon (requires attunement)*  

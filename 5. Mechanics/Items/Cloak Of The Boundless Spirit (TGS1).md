@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Cloak of the Boundless Spirit
+attunement: true
+rarity: rare
+tier: major
 ---
 # Cloak of the Boundless Spirit
 *Wondrous item, major, rare (requires attunement)*  

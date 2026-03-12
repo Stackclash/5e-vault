@@ -10,6 +10,11 @@ tags:
 aliases:
   - Modern Bullet
 weight: 0.1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - ammunition-firearm
 ---
 # Modern Bullet
 *Ammunition (firearm)*  

@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Rings of the True Companions
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Rings of the True Companions
 *Ring, major, rare (requires attunement)*  

@@ -8,6 +8,10 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Cryomancer's Lexicon
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: very-rare
 ---
 # Cryomancer's Lexicon
 *Wondrous item, very rare (requires attunement by a wizard)*  

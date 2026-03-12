@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Encyclopedia Creature Obscura
+attunement: false
+rarity: rare
 ---
 # Encyclopedia Creature Obscura
 *Wondrous item, rare*  

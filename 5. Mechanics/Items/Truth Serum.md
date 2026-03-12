@@ -9,6 +9,11 @@ tags:
 aliases:
   - Truth Serum
 cost: 15000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Truth Serum
 *Adventuring gear, poison (ingested)*  

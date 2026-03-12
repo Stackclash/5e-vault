@@ -9,6 +9,11 @@ tags:
 aliases:
   - Statuette of Saint Markovia
 cost: 25000
+attunement: false
+rarity: unknown\Magic
+type: wondrous
+subtype:
+  - other
 ---
 # Statuette of Saint Markovia
 

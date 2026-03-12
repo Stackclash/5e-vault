@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Boots of the Winterlands
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Boots of the Winterlands
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Chef's Trick
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Chef's Trick
 *Herb, common*  

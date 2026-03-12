@@ -10,8 +10,15 @@ tags:
   - item/weapon/melee
 aliases:
   - H'rethi Desperation
-one-hand-damage: 2d6 slashing
+one-hand-damage: 2d6
+damage-type: slashing
 weight: 6
+attunement: true
+rarity: legendary
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # H'rethi Desperation
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), legendary (requires attunement)*  

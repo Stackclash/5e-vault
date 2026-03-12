@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Vial Ring
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Vial Ring
 *Ring, minor, common*  

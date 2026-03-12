@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Figurine of Wondrous Power, Golden Lions'
+attunement: false
+rarity: rare
+tier: major
 ---
 # Figurine of Wondrous Power, Golden Lions
 *Wondrous item, major, rare*  

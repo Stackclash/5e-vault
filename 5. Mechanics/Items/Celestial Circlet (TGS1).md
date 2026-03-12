@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Celestial Circlet
+attunement: true
+attunement-requirement:
+  - cleric of good alignment
+rarity: very-rare
+tier: major
 ---
 # Celestial Circlet
 *Wondrous item, major, very rare (requires attunement by a cleric of good alignment)*  

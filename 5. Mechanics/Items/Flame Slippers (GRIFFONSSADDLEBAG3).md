@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Flame Slippers
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Flame Slippers
 *Wondrous item, major, uncommon*  

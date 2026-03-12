@@ -10,6 +10,11 @@ aliases:
   - Traveler's Clothes
 cost: 200
 weight: 4
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Traveler's Clothes
 *Adventuring gear*  

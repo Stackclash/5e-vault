@@ -10,6 +10,9 @@ tags:
 aliases:
   - Rat King Sphere
 weight: 3
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Rat King Sphere
 *Wondrous item, major, uncommon (requires attunement)*  

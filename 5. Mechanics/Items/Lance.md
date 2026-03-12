@@ -10,8 +10,15 @@ tags:
 aliases:
   - Lance
 cost: 1000
-one-hand-damage: 1d12 piercing
+one-hand-damage: 1d12
+damage-type: piercing
 weight: 6
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Lance
 *Weapon*  

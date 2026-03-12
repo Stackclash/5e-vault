@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Realmswarden Greataxe
-one-hand-damage: 1d12 force
+one-hand-damage: 1d12
+damage-type: force
 weight: 7
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Realmswarden Greataxe
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, legendary (requires attunement)*  

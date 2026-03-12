@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Pendant of Thieves' Sight
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Pendant of Thieves' Sight
 *Wondrous item, major, uncommon*  

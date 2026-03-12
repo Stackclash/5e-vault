@@ -9,6 +9,11 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ooze Cube Ring
+attunement: true
+rarity: rare
+type: wondrous
+subtype:
+  - ring
 ---
 # Ooze Cube Ring
 *Ring, rare (requires attunement)*  

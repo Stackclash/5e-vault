@@ -10,6 +10,11 @@ aliases:
   - Brewer's Supplies
 cost: 2000
 weight: 9
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Brewer's Supplies
 *Artisan's tools*  

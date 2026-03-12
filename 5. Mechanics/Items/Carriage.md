@@ -10,6 +10,11 @@ aliases:
   - Carriage
 cost: 10000
 weight: 600
+attunement: false
+rarity: none
+type: vehicle
+subtype:
+  - land
 ---
 # Carriage
 *Vehicle (land)*  

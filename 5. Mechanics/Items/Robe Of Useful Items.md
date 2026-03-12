@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Robe of Useful Items
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Robe of Useful Items
 *Wondrous item, minor, uncommon*  

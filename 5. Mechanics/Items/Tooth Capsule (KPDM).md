@@ -8,6 +8,8 @@ tags:
 aliases:
   - Tooth Capsule
 cost: 10000
+attunement: false
+rarity: none
 ---
 # Tooth Capsule
 

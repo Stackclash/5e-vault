@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Codex Multiversalis
+attunement: true
+rarity: artifact
 ---
 # Codex Multiversalis
 *Wondrous item, artifact (requires attunement)*  

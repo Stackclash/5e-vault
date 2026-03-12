@@ -9,6 +9,11 @@ tags:
 aliases:
   - Gold locket with a painted portrait inside
 cost: 2500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Gold locket with a painted portrait inside
 *Treasure (art object)*  

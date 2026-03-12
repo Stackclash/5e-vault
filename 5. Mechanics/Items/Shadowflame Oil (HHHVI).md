@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Shadowflame Oil
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - oil
 ---
 # Shadowflame Oil
 *Oil, rare*  

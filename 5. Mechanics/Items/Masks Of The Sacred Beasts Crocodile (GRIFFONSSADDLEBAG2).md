@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Masks of the Sacred Beasts (Crocodile)
+attunement: true
+rarity: common
+tier: major
 ---
 # Masks of the Sacred Beasts (Crocodile)
 *Wondrous item, major, common (requires attunement)*  

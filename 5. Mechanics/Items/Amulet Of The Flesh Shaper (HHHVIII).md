@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Amulet of the Flesh-shaper
+attunement: true
+rarity: legendary
 ---
 # Amulet of the Flesh-shaper
 *Wondrous item, legendary (requires attunement)*  

@@ -10,6 +10,13 @@ tags:
   - item/weapon/simple
 aliases:
   - Dawn and Dusk
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Dawn and Dusk
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare*  

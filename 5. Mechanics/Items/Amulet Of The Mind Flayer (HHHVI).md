@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Amulet of the Mind Flayer
+attunement: true
+rarity: rare
 ---
 # Amulet of the Mind Flayer
 *Wondrous item, cursed item, rare (requires attunement)*  

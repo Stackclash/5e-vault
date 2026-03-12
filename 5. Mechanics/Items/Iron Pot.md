@@ -10,6 +10,11 @@ aliases:
   - Iron Pot
 cost: 200
 weight: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Iron Pot
 *Adventuring gear*  

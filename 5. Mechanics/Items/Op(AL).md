@@ -9,6 +9,11 @@ tags:
 aliases:
   - Opal
 cost: 100000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Opal
 *Treasure (gemstone)*  

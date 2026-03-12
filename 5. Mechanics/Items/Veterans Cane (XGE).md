@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Veteran's Cane
+attunement: false
+rarity: common
+tier: minor
 ---
 # Veteran's Cane
 *Wondrous item, minor, common*  

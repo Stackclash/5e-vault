@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of Mapping
+attunement: false
+rarity: varies
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of Mapping
 *Scroll, minor*  

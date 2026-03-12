@@ -10,10 +10,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\cyrus-belview.webp
-relationships: []
 aliases:
   - Cyrus Belview
 alignment: Any alignment
+relationships: []
 partyRelationships:
   Midnight Covenant: Acquaintance
 location: >-
@@ -40,7 +40,6 @@ goals: >-
 likes: 'Simplicity, cleanliness, the rare praise or kindness shown to him'
 dislikes: 'Violence, the harsh judgments of outsiders, the complexities of moral dilemmas'
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

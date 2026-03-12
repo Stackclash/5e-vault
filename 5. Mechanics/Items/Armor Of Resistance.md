@@ -10,6 +10,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Armor of Resistance
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Armor of Resistance
 *Major, rare (requires attunement)*  

@@ -11,9 +11,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Obsidian Star
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 20\60
 weight: 1
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Obsidian Star
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare (requires attunement)*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Spell Recovery
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Spell Recovery
 *Potion, minor, rare*  

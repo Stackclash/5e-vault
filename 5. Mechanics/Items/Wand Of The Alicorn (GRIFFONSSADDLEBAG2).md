@@ -10,6 +10,14 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of the Alicorn
+attunement: true
+attunement-requirement:
+  - good-aligned spellcaster
+rarity: legendary
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of the Alicorn
 *Wand, major, legendary (requires attunement by a good-aligned spellcaster)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Radiant Quiver (rare)
+attunement: true
+rarity: rare
+tier: major
 ---
 # Radiant Quiver (rare)
 *Wondrous item, major, rare (requires attunement)*  

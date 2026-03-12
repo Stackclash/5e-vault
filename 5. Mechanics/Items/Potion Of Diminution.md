@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Diminution
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Diminution
 *Potion, minor, rare*  

@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Wavebender's Leiomano
-one-hand-damage: 1d10 slashing
+one-hand-damage: 1d10
+damage-type: slashing
 weight: 6
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Wavebender's Leiomano
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, rare*  

@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Blue Vanguard's Glory
+attunement: true
+attunement-requirement:
+  - creature with a constitution score of 17
+  - higher
+rarity: very-rare
+tier: major
 ---
 # Blue Vanguard's Glory
 *Major, very rare (requires attunement by a creature with a constitution score of 17 or higher)*  

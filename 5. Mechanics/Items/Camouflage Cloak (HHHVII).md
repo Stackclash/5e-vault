@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Camouflage Cloak
+attunement: false
+rarity: uncommon
 ---
 # Camouflage Cloak
 *Wondrous item, uncommon*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Peppermince Sugarbomb
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Peppermince Sugarbomb
 *Wondrous item, minor, uncommon*  

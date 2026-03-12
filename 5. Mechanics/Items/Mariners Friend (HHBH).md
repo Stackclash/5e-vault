@@ -9,6 +9,11 @@ tags:
 aliases:
   - Mariner's Friend
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Mariner's Friend
 *Herb, common*  

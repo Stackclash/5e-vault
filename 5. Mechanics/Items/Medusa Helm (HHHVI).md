@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Medusa Helm
+attunement: true
+rarity: rare
 ---
 # Medusa Helm
 *Wondrous item, rare (requires attunement)*  

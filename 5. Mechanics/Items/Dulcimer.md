@@ -10,6 +10,11 @@ aliases:
   - Dulcimer
 cost: 2500
 weight: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - instrument
 ---
 # Dulcimer
 *Instrument*  

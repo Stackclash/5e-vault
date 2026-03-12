@@ -10,9 +10,18 @@ tags:
   - item/weapon/simple
 aliases:
   - Couatl Herald's Radiance
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - spellcaster of good alignment
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Couatl Herald's Radiance
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement by a spellcaster of good alignment)*  

@@ -9,6 +9,9 @@ tags:
 aliases:
   - Rope of Climbing
 weight: 3
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Rope of Climbing
 *Wondrous item, minor, uncommon*  

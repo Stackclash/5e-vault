@@ -9,6 +9,11 @@ tags:
 aliases:
   - Platinum bracelet set with a sapphire
 cost: 250000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Platinum bracelet set with a sapphire
 *Treasure (art object)*  

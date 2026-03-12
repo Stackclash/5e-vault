@@ -11,6 +11,14 @@ tags:
 aliases:
   - Direstone Runic Wand
 weight: 1
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Direstone Runic Wand
 *Wand, major, rare (requires attunement by a spellcaster)*  

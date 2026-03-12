@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Power Fist
+attunement: false
+rarity: very-rare
 ---
 # Power Fist
 *Wondrous item, very rare*  

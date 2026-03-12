@@ -11,8 +11,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Direstone Dwarven Pick
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
+attunement: true
+attunement-requirement:
+  - dwarf
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Direstone Dwarven Pick
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, rare (requires attunement by a dwarf)*  

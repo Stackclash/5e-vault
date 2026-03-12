@@ -8,6 +8,10 @@ tags:
   - item/rarity/legendary
 aliases:
   - Amulet of the Usurper
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: legendary
 ---
 # Amulet of the Usurper
 *Wondrous item, legendary (requires attunement by a spellcaster)*  

@@ -67,6 +67,15 @@ aliases:
   - Adamantine Warhammer
   - Adamantine Whip
   - Adamantine Yklwa
+attunement: false
+rarity: unknown
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - ranged
+  - simple
 ---
 # Adamantine Weapon
 *Major*  

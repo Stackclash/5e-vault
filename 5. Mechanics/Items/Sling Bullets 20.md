@@ -10,6 +10,11 @@ aliases:
   - Sling Bullets (20)
 cost: 4
 weight: 1.5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - ammunition
 ---
 # Sling Bullets (20)
 *Ammunition*  

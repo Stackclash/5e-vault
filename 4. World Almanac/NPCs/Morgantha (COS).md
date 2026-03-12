@@ -9,10 +9,10 @@ tags:
   - monster/type/fiend
 condition: healthy
 images: []
-relationships: []
 aliases:
   - Morgantha
 alignment: Neutral Evil
+relationships: []
 partyRelationships: {}
 location: null
 pronounced: null
@@ -31,7 +31,6 @@ likes: null
 dislikes: null
 image: null
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

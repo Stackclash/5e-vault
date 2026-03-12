@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Clockwork Faefly
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Clockwork Faefly
 *Wondrous item, major, uncommon*  

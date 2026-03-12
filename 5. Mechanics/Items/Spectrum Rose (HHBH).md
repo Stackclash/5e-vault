@@ -9,6 +9,11 @@ tags:
 aliases:
   - Spectrum Rose
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Spectrum Rose
 *Herb, rare*  

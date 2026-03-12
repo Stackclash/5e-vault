@@ -9,6 +9,11 @@ tags:
 aliases:
   - Stenchblossom
 cost: 2000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Stenchblossom
 *Herb, rare*  

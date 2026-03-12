@@ -11,6 +11,12 @@ aliases:
 cost: 5000
 armorClass: 14 + Dex modifier (max of +2)
 weight: 45
+stealth-penalty: true
+attunement: false
+rarity: none
+type: armor
+subtype:
+  - medium
 ---
 # Scale Mail
 *Medium armor*  

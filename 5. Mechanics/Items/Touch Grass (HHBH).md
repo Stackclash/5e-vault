@@ -9,6 +9,11 @@ tags:
 aliases:
   - Touch Grass
 cost: 10000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Touch Grass
 *Herb, rare*  

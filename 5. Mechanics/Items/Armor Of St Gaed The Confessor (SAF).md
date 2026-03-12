@@ -10,6 +10,13 @@ aliases:
   - Armor of St. Gaed the Confessor
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: false
+rarity: unknown\Magic
+type: armor
+subtype:
+  - heavy
 ---
 # Armor of St. Gaed the Confessor
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]])*  

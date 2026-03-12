@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Amulet of Divine Protection
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: rare
+tier: major
 ---
 # Amulet of Divine Protection
 *Wondrous item, major, rare (requires attunement by a cleric or paladin)*  

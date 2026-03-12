@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Blast Ooze
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Blast Ooze
 *Wondrous item, minor, uncommon*  

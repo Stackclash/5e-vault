@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Night Owl's Half-Moon Spectacles
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Night Owl's Half-Moon Spectacles
 *Wondrous item, minor, uncommon (requires attunement)*  

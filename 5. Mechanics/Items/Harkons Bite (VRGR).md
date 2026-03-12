@@ -8,6 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Harkon's Bite
+attunement: true
+rarity: uncommon
 ---
 # Harkon's Bite
 *Wondrous item, cursed item, uncommon (requires attunement)*  

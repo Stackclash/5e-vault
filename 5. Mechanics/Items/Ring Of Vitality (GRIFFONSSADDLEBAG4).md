@@ -9,6 +9,11 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Vitality
+attunement: true
+rarity: rare
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Vitality
 *Ring, rare (requires attunement)*  

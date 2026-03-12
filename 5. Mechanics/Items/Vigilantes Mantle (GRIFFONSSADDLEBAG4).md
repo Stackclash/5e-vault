@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Vigilante's Mantle
+attunement: true
+rarity: rare
 ---
 # Vigilante's Mantle
 *Wondrous item, rare (requires attunement)*  

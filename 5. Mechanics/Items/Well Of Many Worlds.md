@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Well of Many Worlds
+attunement: false
+rarity: legendary
+tier: major
 ---
 # Well of Many Worlds
 *Wondrous item, major, legendary*  

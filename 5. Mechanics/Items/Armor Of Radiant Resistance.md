@@ -28,6 +28,14 @@ aliases:
   - Splint Armor of Radiant Resistance
   - Studded Leather Armor of Radiant Resistance
   - Wooden Breastplate of Radiant Resistance
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Armor of Radiant Resistance
 *Major, rare (requires attunement)*  

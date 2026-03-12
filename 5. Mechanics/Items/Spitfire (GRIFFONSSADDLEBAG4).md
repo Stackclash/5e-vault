@@ -10,9 +10,16 @@ tags:
   - item/weapon/ranged
 aliases:
   - Spitfire
-one-hand-damage: 1d10 piercing
+one-hand-damage: 1d10
+damage-type: piercing
 range: 100\400
 weight: 18
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Spitfire
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), rare (requires attunement)*  

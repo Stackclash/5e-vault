@@ -9,6 +9,11 @@ tags:
 aliases:
   - Golden Pine
 cost: 10000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Golden Pine
 *Herb, rare*  

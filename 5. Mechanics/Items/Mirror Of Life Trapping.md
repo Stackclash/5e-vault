@@ -9,6 +9,9 @@ tags:
 aliases:
   - Mirror of Life Trapping
 weight: 50
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Mirror of Life Trapping
 *Wondrous item, major, very rare*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Fireplume Fennel
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Fireplume Fennel
 *Herb, rare*  

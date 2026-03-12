@@ -10,6 +10,11 @@ aliases:
   - Platinum (pp)
 cost: 1000
 weight: 0.02
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-coinage
 ---
 # Platinum (pp)
 *Treasure (coinage)*  

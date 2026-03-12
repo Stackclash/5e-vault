@@ -10,6 +10,13 @@ tags:
 aliases:
   - Libram of Souls and Flesh
 weight: 3
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Libram of Souls and Flesh
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  

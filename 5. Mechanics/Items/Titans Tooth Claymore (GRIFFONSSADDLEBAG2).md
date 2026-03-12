@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Titan's Tooth Claymore
-one-hand-damage: 2d6 slashing
+one-hand-damage: 2d6
+damage-type: slashing
 weight: 6
+attunement: false
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Titan's Tooth Claymore
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, very rare*  

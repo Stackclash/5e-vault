@@ -8,6 +8,11 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Basilisk Gaze Poison
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - null
 ---
 # Basilisk Gaze Poison
 *Adventuring gear, poison (ingested), uncommon*  

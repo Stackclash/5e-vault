@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Philter of Love
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Philter of Love
 *Potion, minor, uncommon*  

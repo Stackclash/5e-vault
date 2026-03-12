@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of the Five Lights
+attunement: true
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of the Five Lights
 *Ring, major, uncommon (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Dragon's Call
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Dragon's Call
 *Wondrous item, major, uncommon*  

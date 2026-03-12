@@ -8,6 +8,8 @@ tags:
 aliases:
   - Hypodermic Arrow
 cost: 2500
+attunement: false
+rarity: none
 ---
 # Hypodermic Arrow
 

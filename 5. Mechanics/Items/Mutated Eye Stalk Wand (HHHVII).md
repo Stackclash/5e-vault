@@ -9,6 +9,11 @@ tags:
   - item/wondrous/wand
 aliases:
   - Mutated Eye Stalk Wand
+attunement: true
+rarity: rare
+type: wondrous
+subtype:
+  - wand
 ---
 # Mutated Eye Stalk Wand
 *Wand, rare (requires attunement)*  

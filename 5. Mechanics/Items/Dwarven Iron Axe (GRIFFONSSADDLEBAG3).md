@@ -11,9 +11,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Dwarven Iron Axe
-one-hand-damage: 1d8 slashing
-two-hand-damage: 1d10 slashing
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: slashing
 weight: 4
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Dwarven Iron Axe
 *Weapon ([[/5. Mechanics/Items/Battleaxe.md\|battleaxe]]), major, rare (requires attunement)*  

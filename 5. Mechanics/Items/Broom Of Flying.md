@@ -9,6 +9,9 @@ tags:
 aliases:
   - Broom of Flying
 weight: 3
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Broom of Flying
 *Wondrous item, major, uncommon*  

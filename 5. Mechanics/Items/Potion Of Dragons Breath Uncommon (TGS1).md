@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Dragon's Breath (uncommon)
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Dragon's Breath (uncommon)
 *Potion, minor, uncommon*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sandtrap Palm
 cost: 500
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Sandtrap Palm
 *Herb, rare*  

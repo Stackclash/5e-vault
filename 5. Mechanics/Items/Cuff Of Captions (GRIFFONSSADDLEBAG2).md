@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Cuff of Captions
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Cuff of Captions
 *Wondrous item, minor, uncommon (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Mountain Heart Ginseng
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Mountain Heart Ginseng
 *Herb, rare*  

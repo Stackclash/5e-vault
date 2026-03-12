@@ -9,6 +9,11 @@ tags:
 aliases:
   - Carrion Crawler Mucus
 cost: 20000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Carrion Crawler Mucus
 *Adventuring gear, poison (contact)*  

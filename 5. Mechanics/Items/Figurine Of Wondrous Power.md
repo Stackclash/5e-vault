@@ -7,6 +7,8 @@ tags:
   - item/rarity/varies
 aliases:
   - Figurine of Wondrous Power
+attunement: false
+rarity: varies
 ---
 # Figurine of Wondrous Power
 *Wondrous item*  

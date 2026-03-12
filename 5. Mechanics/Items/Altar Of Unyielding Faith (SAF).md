@@ -8,6 +8,11 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Altar of Unyielding Faith
+attunement: false
+rarity: very-rare
+type: gear
+subtype:
+  - requires-installation
 ---
 # Altar of Unyielding Faith
 *Wondrous item, requires installation, very rare*  

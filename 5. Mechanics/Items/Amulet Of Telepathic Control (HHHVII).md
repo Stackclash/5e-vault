@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Amulet of Telepathic Control
+attunement: true
+rarity: very-rare
 ---
 # Amulet of Telepathic Control
 *Wondrous item, very rare (requires attunement)*  

@@ -8,8 +8,14 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Fire Bolt
-one-hand-damage: 1d6 fire
+one-hand-damage: 1d6
+damage-type: fire
 weight: 0.075
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - ammunition
 ---
 # Fire Bolt
 *Ammunition ([[/5. Mechanics/Items/Crossbow Bolt.md\|crossbow bolt]]), uncommon*  

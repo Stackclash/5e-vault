@@ -8,6 +8,8 @@ tags:
 aliases:
   - Hidey Horse
 weight: 10
+attunement: false
+rarity: rare
 ---
 # Hidey Horse
 *Wondrous item, rare*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Stylist's Circlet
+attunement: false
+rarity: common
+tier: minor
 ---
 # Stylist's Circlet
 *Wondrous item, minor, common*  

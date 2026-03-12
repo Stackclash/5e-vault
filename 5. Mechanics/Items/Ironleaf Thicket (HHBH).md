@@ -9,6 +9,11 @@ tags:
 aliases:
   - Ironleaf Thicket
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Ironleaf Thicket
 *Herb, rare*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Shadow Wing Cape
+attunement: true
+rarity: rare
 ---
 # Shadow Wing Cape
 *Wondrous item, rare (requires attunement)*  

@@ -10,17 +10,16 @@ tags:
 condition: dead
 images:
   - 4. World Almanac\NPCs\img\153-636988936829621698.webp
-relationships: []
 aliases:
   - Strahd von Zarovich
 alignment: Lawful Evil
-partyRelationships:
-  Midnight Covenant: Enemy
-location:
-pronounced:
-race: "[[5. Mechanics/Races/Human.md|Human]]"
-gender: male
-age:
+relationships: []
+partyRelationships: {}
+location: null
+pronounced: null
+race: null
+gender: null
+age: null
 occupation: []
 groups: []
 religions: []
@@ -32,7 +31,6 @@ goals:
 likes:
 dislikes:
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

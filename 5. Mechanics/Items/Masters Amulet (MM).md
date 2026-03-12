@@ -8,6 +8,11 @@ tags:
   - item/wondrous/other
 aliases:
   - Master's Amulet
+attunement: false
+rarity: unknown\Magic
+type: wondrous
+subtype:
+  - other
 ---
 # Master's Amulet
 

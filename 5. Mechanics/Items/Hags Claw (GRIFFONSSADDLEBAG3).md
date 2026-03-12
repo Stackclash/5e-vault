@@ -11,9 +11,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Hag's Claw
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 20\60
 weight: 1
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Hag's Claw
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), cursed item, major, legendary (requires attunement)*  

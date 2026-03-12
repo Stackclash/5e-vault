@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Circlet of Blasting
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Circlet of Blasting
 *Wondrous item, major, uncommon*  

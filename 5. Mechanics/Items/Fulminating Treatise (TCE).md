@@ -10,6 +10,13 @@ tags:
 aliases:
   - Fulminating Treatise
 weight: 3
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Fulminating Treatise
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  

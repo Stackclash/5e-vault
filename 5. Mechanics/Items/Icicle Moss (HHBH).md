@@ -9,6 +9,11 @@ tags:
 aliases:
   - Icicle Moss
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Icicle Moss
 *Herb, rare*  

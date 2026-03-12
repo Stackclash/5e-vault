@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Ocean Master Paint
+attunement: false
+rarity: rare
 ---
 # Ocean Master Paint
 *Wondrous item, rare*  

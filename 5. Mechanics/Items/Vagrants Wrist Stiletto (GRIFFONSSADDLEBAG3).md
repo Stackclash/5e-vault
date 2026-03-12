@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Vagrant's Wrist Stiletto
+attunement: false
+rarity: rare
+tier: major
 ---
 # Vagrant's Wrist Stiletto
 *Wondrous item, major, rare*  

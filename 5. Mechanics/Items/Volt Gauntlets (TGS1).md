@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Volt Gauntlets
+attunement: false
+rarity: rare
+tier: major
 ---
 # Volt Gauntlets
 *Wondrous item, major, rare*  

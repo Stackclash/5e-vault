@@ -10,10 +10,10 @@ tags:
 condition: dead
 images:
   - 4. World Almanac\NPCs\img\sir-godfrey-gwilym.webp
-relationships: []
 aliases:
   - Sir Godfrey Gwilym
 alignment: Lawful Evil
+relationships: []
 partyRelationships:
   Midnight Covenant: Ally
 location: null
@@ -42,7 +42,6 @@ dislikes: >-
   Cowardice, betrayal, Strahd and his minions, the failure of the Order to
   protect Barovia
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

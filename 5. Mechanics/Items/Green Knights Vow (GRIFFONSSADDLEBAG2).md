@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Green Knight's Vow
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Green Knight's Vow
 *Wondrous item, major, very rare (requires attunement)*  

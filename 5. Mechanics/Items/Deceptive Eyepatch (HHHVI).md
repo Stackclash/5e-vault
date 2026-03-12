@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Deceptive Eyepatch
+attunement: false
+rarity: common
 ---
 # Deceptive Eyepatch
 *Wondrous item, common*  

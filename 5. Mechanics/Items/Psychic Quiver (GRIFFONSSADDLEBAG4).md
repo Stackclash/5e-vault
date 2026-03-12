@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Psychic Quiver
+attunement: true
+attunement-requirement:
+  - creature with an intelligence score of 13
+  - higher
+rarity: rare
 ---
 # Psychic Quiver
 *Wondrous item, rare (requires attunement by a creature with an intelligence score of 13 or higher)*  

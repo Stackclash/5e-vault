@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Coldfire Phoenix Draft
+attunement: false
+rarity: legendary
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Coldfire Phoenix Draft
 *Potion, minor, legendary*  

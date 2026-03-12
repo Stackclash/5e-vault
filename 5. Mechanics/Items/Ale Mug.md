@@ -9,6 +9,11 @@ tags:
 aliases:
   - Ale (mug)
 cost: 4
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - food-and-drink
 ---
 # Ale (mug)
 *Food and drink*  

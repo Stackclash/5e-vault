@@ -9,6 +9,11 @@ tags:
 aliases:
   - Knock Wood
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Knock Wood
 *Herb, common*  

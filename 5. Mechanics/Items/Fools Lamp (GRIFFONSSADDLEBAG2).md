@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Fool's Lamp
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Fool's Lamp
 *Wondrous item, major, very rare*  

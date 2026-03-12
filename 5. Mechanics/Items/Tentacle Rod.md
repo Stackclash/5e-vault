@@ -11,6 +11,12 @@ tags:
 aliases:
   - Tentacle Rod
 weight: 2
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Tentacle Rod
 *Rod, major, rare (requires attunement)*  

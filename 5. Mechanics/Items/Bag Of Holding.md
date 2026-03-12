@@ -9,6 +9,9 @@ tags:
 aliases:
   - Bag of Holding
 weight: 15
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Bag of Holding
 *Wondrous item, minor, uncommon*  

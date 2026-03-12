@@ -10,6 +10,11 @@ tags:
 aliases:
   - Energy Cell
 weight: 0.3125
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - ammunition-firearm
 ---
 # Energy Cell
 *Ammunition (firearm)*  

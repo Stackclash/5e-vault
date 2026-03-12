@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Figurine of Wondrous Power, Ebony Fly'
+attunement: false
+rarity: rare
+tier: major
 ---
 # Figurine of Wondrous Power, Ebony Fly
 *Wondrous item, major, rare*  

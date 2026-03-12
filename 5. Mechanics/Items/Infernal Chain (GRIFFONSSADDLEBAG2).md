@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Infernal Chain
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 10
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Infernal Chain
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), major, very rare (requires attunement)*  

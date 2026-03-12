@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Flask of Storms
+attunement: true
+rarity: very-rare
 ---
 # Flask of Storms
 *Wondrous item, very rare (requires attunement)*  

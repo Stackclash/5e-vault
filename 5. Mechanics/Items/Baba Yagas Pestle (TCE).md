@@ -10,9 +10,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Baba Yaga's Pestle
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: artifact
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Baba Yaga's Pestle
 *Weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), artifact (requires attunement)*  

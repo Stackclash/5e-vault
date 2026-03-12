@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Set of Secret Scribe Candles
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Set of Secret Scribe Candles
 *Wondrous item, minor, rare*  

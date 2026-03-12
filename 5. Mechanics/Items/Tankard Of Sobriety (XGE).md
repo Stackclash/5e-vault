@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Tankard of Sobriety
+attunement: false
+rarity: common
+tier: minor
 ---
 # Tankard of Sobriety
 *Wondrous item, minor, common*  

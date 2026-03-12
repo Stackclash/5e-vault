@@ -8,6 +8,11 @@ tags:
   - item/vehicle/airship-air
 aliases:
   - Titan Ship
+attunement: false
+rarity: artifact
+type: vehicle
+subtype:
+  - airship-air
 ---
 # Titan Ship
 *Wondrous item, airship, vehicle (air), artifact*  

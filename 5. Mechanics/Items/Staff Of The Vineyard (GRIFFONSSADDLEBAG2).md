@@ -10,9 +10,21 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Vineyard
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - cleric
+  - druid
+  - monk
+  - ranger
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Staff of the Vineyard
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, uncommon (requires attunement by a cleric, druid, monk, or ranger)*  

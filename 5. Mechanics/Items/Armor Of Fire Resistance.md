@@ -28,6 +28,14 @@ aliases:
   - Splint Armor of Fire Resistance
   - Studded Leather Armor of Fire Resistance
   - Wooden Breastplate of Fire Resistance
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Armor of Fire Resistance
 *Major, rare (requires attunement)*  

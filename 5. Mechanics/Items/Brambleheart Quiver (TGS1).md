@@ -11,6 +11,14 @@ tags:
 aliases:
   - Brambleheart Quiver
 weight: 2
+attunement: true
+attunement-requirement:
+  - ranger
+rarity: very-rare
+tier: major
+type: gear
+subtype:
+  - null
 ---
 # Brambleheart Quiver
 *Wondrous item, adventuring gear, major, very rare (requires attunement by a ranger)*  

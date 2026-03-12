@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Wand of Confusion
+attunement: true
+rarity: very-rare
 ---
 # Wand of Confusion
 *Wondrous item, very rare (requires attunement)*  

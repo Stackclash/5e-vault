@@ -15,6 +15,13 @@ aliases:
   - Viper Strike Lance (Rare)
   - Viper Strike Pike (Rare)
   - Viper Strike Spear (Rare)
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Viper Strike (Rare)
 *Rare*  

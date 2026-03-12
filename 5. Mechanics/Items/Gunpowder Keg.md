@@ -11,6 +11,11 @@ aliases:
   - Gunpowder Keg
 cost: 25000
 weight: 20
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - explosive
 ---
 # Gunpowder Keg
 *Explosive*  

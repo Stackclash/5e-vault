@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Runic Ammunition
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Runic Ammunition
 *Minor, rare*  

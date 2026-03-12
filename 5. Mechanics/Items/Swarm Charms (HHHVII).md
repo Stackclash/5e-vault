@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Swarm Charms
+attunement: false
+rarity: rare
 ---
 # Swarm Charms
 *Wondrous item, rare*  

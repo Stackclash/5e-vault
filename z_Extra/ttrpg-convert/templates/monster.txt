@@ -15,13 +15,10 @@ images:
 {/for}
 {#else}
 images: []
-{/if} 
-relationships: []
+{/if}
 aliases: [{resource.name}]
 alignment: {resource.alignment}
-partyRelationships: \{\}
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

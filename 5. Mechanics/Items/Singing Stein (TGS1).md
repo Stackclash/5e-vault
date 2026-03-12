@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Singing Stein
+attunement: false
+rarity: common
+tier: minor
 ---
 # Singing Stein
 *Wondrous item, minor, common*  

@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Concoction of Companionship
+attunement: false
+rarity: very-rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Concoction of Companionship
 *Potion, very rare*  

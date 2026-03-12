@@ -10,8 +10,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Raven's Feather
-one-hand-damage: 2d6 slashing
+one-hand-damage: 2d6
+damage-type: slashing
 weight: 3
+attunement: true
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Raven's Feather
 *Weapon, rare (requires attunement)*  

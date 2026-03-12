@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Seat Belt
+attunement: false
+rarity: common
+tier: minor
 ---
 # Seat Belt
 *Wondrous item, minor, common*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Vacant Mask
+attunement: false
+rarity: common
 ---
 # Vacant Mask
 *Wondrous item, common*  

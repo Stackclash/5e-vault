@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Seething
+attunement: true
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Seething
 *Ring, cursed item, minor, uncommon (requires attunement)*  

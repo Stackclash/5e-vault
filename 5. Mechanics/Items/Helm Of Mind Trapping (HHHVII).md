@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Helm of Mind Trapping
+attunement: true
+rarity: very-rare
 ---
 # Helm of Mind Trapping
 *Wondrous item, very rare (requires attunement)*  

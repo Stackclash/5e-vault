@@ -14,6 +14,13 @@ aliases:
   - Scorpio Armor
   - Scorpio Half Plate Armor
   - Scorpio Plate Armor
+attunement: true
+rarity: uncommon
+tier: major
+type: armor
+subtype:
+  - heavy
+  - medium
 ---
 # Scorpio Armor
 *Major, uncommon (requires attunement)*  

@@ -10,6 +10,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Branding
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Branding
 *Wand, major, rare (requires attunement)*  

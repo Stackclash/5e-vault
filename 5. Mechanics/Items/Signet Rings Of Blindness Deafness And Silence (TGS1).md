@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - 'Signet Rings of Blindness, Deafness, and Silence'
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Signet Rings of Blindness, Deafness, and Silence
 *Ring, major, rare*  

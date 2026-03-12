@@ -11,9 +11,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Enzymatic Gastrostaff
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: very-rare
+tier: major
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Enzymatic Gastrostaff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), spellcasting focus, major, very rare (requires attunement)*  

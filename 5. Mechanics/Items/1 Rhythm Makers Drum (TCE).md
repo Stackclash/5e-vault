@@ -10,6 +10,13 @@ tags:
 aliases:
   - +1 Rhythm-Maker's Drum
 weight: 3
+attunement: true
+attunement-requirement:
+  - bard
+rarity: uncommon
+type: gear
+subtype:
+  - instrument
 ---
 # +1 Rhythm-Maker's Drum
 *Wondrous item, instrument ([[/5. Mechanics/Items/Drum.md\|drum]]), uncommon (requires attunement by a bard)*  

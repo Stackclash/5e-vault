@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Wyvernwing
-one-hand-damage: 2d6 slashing
+one-hand-damage: 2d6
+damage-type: slashing
 weight: 6
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Wyvernwing
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare (requires attunement)*  

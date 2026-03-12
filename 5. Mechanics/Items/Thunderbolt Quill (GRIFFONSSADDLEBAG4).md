@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Thunderbolt Quill
+attunement: false
+rarity: rare
 ---
 # Thunderbolt Quill
 *Wondrous item, rare*  

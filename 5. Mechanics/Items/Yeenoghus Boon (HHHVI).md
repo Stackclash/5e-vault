@@ -8,6 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Yeenoghu's Boon
+attunement: true
+rarity: uncommon
 ---
 # Yeenoghu's Boon
 *Wondrous item, uncommon (requires attunement)*  

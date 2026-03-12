@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Wyrmling Dragonstrength
+attunement: false
+rarity: uncommon
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Wyrmling Dragonstrength
 *Potion, uncommon*  

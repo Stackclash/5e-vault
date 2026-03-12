@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Sovereignseed Duffel
+attunement: false
+rarity: legendary
+tier: major
 ---
 # Sovereignseed Duffel
 *Wondrous item, major, legendary*  

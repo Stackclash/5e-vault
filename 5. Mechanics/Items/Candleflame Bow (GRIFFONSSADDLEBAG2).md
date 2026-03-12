@@ -19,6 +19,14 @@ aliases:
   - Candleflame Light Repeating Crossbow
   - Candleflame Longbow
   - Candleflame Shortbow
+attunement: true
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Candleflame Bow
 *Major, uncommon (requires attunement)*  

@@ -10,9 +10,16 @@ tags:
 aliases:
   - Hand Crossbow
 cost: 7500
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 range: 30\120
 weight: 3
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Hand Crossbow
 *Weapon*  

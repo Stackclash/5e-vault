@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ramp-Up Ring
+attunement: false
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ramp-Up Ring
 *Ring, major, very rare*  

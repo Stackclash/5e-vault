@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Eldritch Scarf
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Eldritch Scarf
 *Wondrous item, minor, rare*  

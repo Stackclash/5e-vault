@@ -10,6 +10,11 @@ aliases:
   - Weaver's Tools
 cost: 100
 weight: 5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - artisans-tools
 ---
 # Weaver's Tools
 *Artisan's tools*  

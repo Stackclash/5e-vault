@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Mimicloak
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Mimicloak
 *Wondrous item, major, uncommon*  

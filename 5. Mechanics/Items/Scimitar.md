@@ -10,8 +10,15 @@ tags:
 aliases:
   - Scimitar
 cost: 2500
-one-hand-damage: 1d6 slashing
+one-hand-damage: 1d6
+damage-type: slashing
 weight: 3
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Scimitar
 *Weapon*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Tiger Eye
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Tiger Eye
 *Treasure (gemstone)*  

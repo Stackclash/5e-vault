@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Paralyzing Dust
+attunement: false
+rarity: uncommon
 ---
 # Paralyzing Dust
 *Wondrous item, poison (inhaled or ingested), uncommon*  

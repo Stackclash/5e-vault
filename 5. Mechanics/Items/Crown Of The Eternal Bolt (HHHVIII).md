@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Crown of the Eternal Bolt
+attunement: true
+rarity: legendary
 ---
 # Crown of the Eternal Bolt
 *Wondrous item, legendary (requires attunement)*  

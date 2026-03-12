@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Polaris Magistrate Codex (legendary)
+attunement: true
+attunement-requirement:
+  - lawful creature
+rarity: legendary
+tier: major
 ---
 # Polaris Magistrate Codex (legendary)
 *Wondrous item, major, legendary (requires attunement by a lawful creature)*  

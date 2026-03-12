@@ -9,6 +9,9 @@ tags:
 aliases:
   - Orb of Direction
 weight: 3
+attunement: false
+rarity: common
+tier: minor
 ---
 # Orb of Direction
 *Wondrous item, minor, common*  

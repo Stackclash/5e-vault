@@ -10,6 +10,11 @@ tags:
 aliases:
   - Smoke Grenade
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - explosive
 ---
 # Smoke Grenade
 *Explosive*  

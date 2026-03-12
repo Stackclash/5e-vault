@@ -11,9 +11,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Prismatic Javelin
-one-hand-damage: 2d6 piercing
+one-hand-damage: 2d6
+damage-type: piercing
 range: 60\150
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Prismatic Javelin
 *Weapon ([[/5. Mechanics/Items/Javelin.md\|javelin]]), major, very rare (requires attunement)*  

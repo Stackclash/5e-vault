@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Shielding Turtle Sugarbombs
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Shielding Turtle Sugarbombs
 *Wondrous item, minor, uncommon*  

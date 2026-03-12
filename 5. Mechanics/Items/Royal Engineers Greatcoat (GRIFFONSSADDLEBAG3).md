@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Royal Engineer's Greatcoat
+attunement: false
+rarity: rare
+tier: major
 ---
 # Royal Engineer's Greatcoat
 *Wondrous item, major, rare*  

@@ -10,6 +10,11 @@ aliases:
   - Ginger
 cost: 100
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Ginger
 *Trade good*  

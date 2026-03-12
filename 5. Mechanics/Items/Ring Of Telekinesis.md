@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Telekinesis
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Telekinesis
 *Ring, major, very rare (requires attunement)*  

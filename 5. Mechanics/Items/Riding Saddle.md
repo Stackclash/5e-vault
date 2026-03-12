@@ -10,6 +10,11 @@ aliases:
   - Riding Saddle
 cost: 1000
 weight: 25
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - tack-and-harness
 ---
 # Riding Saddle
 *Tack and harness*  

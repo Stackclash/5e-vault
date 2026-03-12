@@ -9,6 +9,11 @@ tags:
 aliases:
   - Serpent Venom
 cost: 20000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Serpent Venom
 *Adventuring gear, poison (injury)*  

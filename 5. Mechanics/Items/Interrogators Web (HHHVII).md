@@ -11,6 +11,12 @@ aliases:
   - Interrogator's Web
 range: 5\15
 weight: 3
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Interrogator's Web
 *Weapon ([[/5. Mechanics/Items/Net.md\|net]]), rare*  

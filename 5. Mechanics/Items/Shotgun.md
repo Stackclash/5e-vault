@@ -10,9 +10,16 @@ tags:
   - item/weapon/ranged
 aliases:
   - Shotgun
-one-hand-damage: 2d8 piercing
+one-hand-damage: 2d8
+damage-type: piercing
 range: 30\90
 weight: 7
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Shotgun
 *Weapon*  

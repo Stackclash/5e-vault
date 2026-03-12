@@ -18,6 +18,13 @@ aliases:
   - Frostburn Rapier
   - Frostburn Scimitar
   - Frostburn Shortsword
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Frostburn Blade
 *Major, very rare (requires attunement)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Fire Dervish Cloak
+attunement: true
+rarity: rare
+tier: major
 ---
 # Fire Dervish Cloak
 *Wondrous item, major, rare (requires attunement)*  

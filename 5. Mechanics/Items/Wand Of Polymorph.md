@@ -11,6 +11,14 @@ tags:
 aliases:
   - Wand of Polymorph
 weight: 1
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Polymorph
 *Wand, major, very rare (requires attunement by a spellcaster)*  

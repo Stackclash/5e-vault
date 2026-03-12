@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Gem of Teleportation
+attunement: true
+rarity: rare
 ---
 # Gem of Teleportation
 *Wondrous item, rare (requires attunement)*  

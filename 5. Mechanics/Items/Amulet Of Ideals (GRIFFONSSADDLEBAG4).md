@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Amulet of Ideals
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin
+rarity: rare
 ---
 # Amulet of Ideals
 *Wondrous item, rare (requires attunement by a cleric or paladin)*  

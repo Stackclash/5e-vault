@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Amulet of the Spirit Hunter
+attunement: true
+rarity: very-rare
 ---
 # Amulet of the Spirit Hunter
 *Wondrous item, very rare (requires attunement)*  

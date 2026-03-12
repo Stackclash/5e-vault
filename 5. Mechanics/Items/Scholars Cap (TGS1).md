@@ -10,6 +10,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Scholar's Cap
+attunement: true
+rarity: varies
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Scholar's Cap
 *Wondrous item, major (requires attunement)*  

@@ -10,6 +10,11 @@ aliases:
   - Climber's Kit
 cost: 2500
 weight: 12
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Climber's Kit
 *Adventuring gear*  

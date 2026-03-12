@@ -9,6 +9,11 @@ tags:
 aliases:
   - Garnet
 cost: 10000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Garnet
 *Treasure (gemstone)*  

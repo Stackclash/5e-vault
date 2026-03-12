@@ -12,6 +12,11 @@ aliases:
   - Oathkeeper's Resolve
 armorClass: 2
 weight: 2
+attunement: true
+attunement-requirement:
+  - paladin
+rarity: very-rare
+tier: major
 ---
 # Oathkeeper's Resolve
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, very rare (requires attunement by a paladin)*  

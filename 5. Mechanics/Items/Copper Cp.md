@@ -10,6 +10,11 @@ aliases:
   - Copper (cp)
 cost: 1
 weight: 0.02
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-coinage
 ---
 # Copper (cp)
 *Treasure (coinage)*  

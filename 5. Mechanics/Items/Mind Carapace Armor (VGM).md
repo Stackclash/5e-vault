@@ -15,6 +15,13 @@ aliases:
   - Mind Carapace Plate Armor
   - Mind Carapace Ring Mail
   - Mind Carapace Splint Armor
+attunement: true
+attunement-requirement:
+  - specific individual
+rarity: uncommon
+type: armor
+subtype:
+  - heavy
 ---
 # Mind Carapace Armor
 *Uncommon (requires attunement by a specific individual)*  

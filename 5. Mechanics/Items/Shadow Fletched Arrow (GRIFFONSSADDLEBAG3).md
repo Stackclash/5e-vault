@@ -10,6 +10,12 @@ tags:
 aliases:
   - Shadow-Fletched Arrow
 weight: 0.05
+attunement: false
+rarity: rare
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Shadow-Fletched Arrow
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, rare*  

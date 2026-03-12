@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Chi-Balancing Tea
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Chi-Balancing Tea
 *Potion, minor, rare*  

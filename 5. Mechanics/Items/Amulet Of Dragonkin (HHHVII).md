@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Amulet of Dragonkin
+attunement: false
+rarity: common
 ---
 # Amulet of Dragonkin
 *Wondrous item, common*  

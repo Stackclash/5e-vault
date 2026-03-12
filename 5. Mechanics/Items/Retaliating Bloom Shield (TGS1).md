@@ -11,6 +11,9 @@ aliases:
   - Retaliating Bloom Shield
 armorClass: 2
 weight: 6
+attunement: false
+rarity: rare
+tier: major
 ---
 # Retaliating Bloom Shield
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, rare*  

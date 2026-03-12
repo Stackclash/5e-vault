@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Power Collar
+attunement: false
+rarity: rare
+tier: major
 ---
 # Power Collar
 *Wondrous item, major, rare*  

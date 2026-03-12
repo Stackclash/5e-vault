@@ -10,9 +10,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Grasping Staff
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: false
+rarity: very-rare
+tier: major
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Grasping Staff
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), spellcasting focus, major, very rare*  

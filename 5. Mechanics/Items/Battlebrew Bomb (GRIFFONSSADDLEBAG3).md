@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Battlebrew Bomb
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Battlebrew Bomb
 *Wondrous item, minor, uncommon*  

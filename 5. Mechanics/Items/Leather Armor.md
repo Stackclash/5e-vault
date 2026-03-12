@@ -11,6 +11,11 @@ aliases:
 cost: 1000
 armorClass: 11 + Dex modifier
 weight: 10
+attunement: false
+rarity: none
+type: armor
+subtype:
+  - light
 ---
 # Leather Armor
 *Light armor*  

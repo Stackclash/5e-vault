@@ -11,6 +11,12 @@ aliases:
   - Potion of Healing
 cost: 5000
 weight: 0.5
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Healing
 *Potion, minor, common*  

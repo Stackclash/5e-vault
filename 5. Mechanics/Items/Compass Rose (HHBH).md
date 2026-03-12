@@ -9,6 +9,11 @@ tags:
 aliases:
   - Compass Rose
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Compass Rose
 *Herb, common*  

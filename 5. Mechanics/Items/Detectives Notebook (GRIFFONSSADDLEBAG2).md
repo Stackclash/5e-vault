@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Detective's Notebook
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Detective's Notebook
 *Wondrous item, minor, uncommon (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Bottle of Spare Time
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Bottle of Spare Time
 *Wondrous item, major, very rare*  

@@ -10,6 +10,11 @@ aliases:
   - Yew Wand
 cost: 1000
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Yew Wand
 *Spellcasting focus*  

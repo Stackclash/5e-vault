@@ -11,6 +11,13 @@ aliases:
 cost: 150000
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: false
+rarity: none
+type: armor
+subtype:
+  - heavy
 ---
 # Bone Plate Armor
 *Heavy armor*  

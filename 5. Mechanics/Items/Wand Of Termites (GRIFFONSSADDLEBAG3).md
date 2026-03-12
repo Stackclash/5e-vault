@@ -10,6 +10,14 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Termites
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Termites
 *Wand, major, rare (requires attunement by a spellcaster)*  

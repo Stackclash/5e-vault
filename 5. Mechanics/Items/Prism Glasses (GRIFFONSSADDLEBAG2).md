@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Prism Glasses
+attunement: false
+rarity: common
+tier: minor
 ---
 # Prism Glasses
 *Wondrous item, minor, common*  

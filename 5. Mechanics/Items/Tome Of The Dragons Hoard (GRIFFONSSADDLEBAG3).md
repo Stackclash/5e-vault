@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Tome of the Dragon's Hoard
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Tome of the Dragon's Hoard
 *Wondrous item, minor, rare*  

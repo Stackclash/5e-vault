@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Tempest Griffon Bracers
+attunement: true
+rarity: rare
+tier: major
 ---
 # Tempest Griffon Bracers
 *Wondrous item, major, rare (requires attunement)*  

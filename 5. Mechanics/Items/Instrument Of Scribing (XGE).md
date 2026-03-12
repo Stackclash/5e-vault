@@ -10,6 +10,12 @@ tags:
   - item/tier/minor
 aliases:
   - Instrument of Scribing
+attunement: true
+rarity: common
+tier: minor
+type: gear
+subtype:
+  - instrument
 ---
 # Instrument of Scribing
 *Wondrous item, instrument, minor, common (requires attunement)*  

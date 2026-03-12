@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Living Chalk
+attunement: false
+rarity: common
 ---
 # Living Chalk
 *Wondrous item, common*  

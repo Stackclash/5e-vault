@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Schematic Scroll
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Schematic Scroll
 *Scroll, minor, uncommon*  

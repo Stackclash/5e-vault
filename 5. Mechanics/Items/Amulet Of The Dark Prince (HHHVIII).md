@@ -8,6 +8,8 @@ tags:
   - item/rarity/artifact
 aliases:
   - Amulet of the Dark Prince
+attunement: true
+rarity: artifact
 ---
 # Amulet of the Dark Prince
 *Wondrous item, cursed item, artifact (requires attunement)*  

@@ -10,10 +10,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\ezmerelda-davenir.webp
-relationships: []
 aliases:
   - Ezmerelda d'Avenir
 alignment: Chaotic Good
+relationships: []
 partyRelationships:
   Midnight Covenant: Ally
 location: >-
@@ -36,7 +36,6 @@ goals: 'To defeat Strahd, to become the greatest monster hunter in the land'
 likes: 'Knowledge about monsters, vanquishing evil, proving her skill and courage'
 dislikes: 'Cowardice, betrayal, the undead, those who underestimate her'
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

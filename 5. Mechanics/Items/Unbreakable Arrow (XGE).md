@@ -9,6 +9,12 @@ tags:
   - item/tier/minor
 aliases:
   - Unbreakable Arrow
+attunement: false
+rarity: common
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Unbreakable Arrow
 *Ammunition, minor, common*  

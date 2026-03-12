@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Amulet of the Spirit Naga
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Amulet of the Spirit Naga
 *Wondrous item, major, very rare (requires attunement)*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Dragon's Wrath (Wyrmling)
+attunement: false
+rarity: uncommon
 ---
 # Dragon's Wrath (Wyrmling)
 *Wondrous item, uncommon*  

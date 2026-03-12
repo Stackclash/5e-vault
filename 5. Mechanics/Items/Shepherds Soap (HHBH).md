@@ -9,6 +9,11 @@ tags:
 aliases:
   - Shepherd's Soap
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Shepherd's Soap
 *Herb, common*  

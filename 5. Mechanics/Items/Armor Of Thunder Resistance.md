@@ -28,6 +28,14 @@ aliases:
   - Splint Armor of Thunder Resistance
   - Studded Leather Armor of Thunder Resistance
   - Wooden Breastplate of Thunder Resistance
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Armor of Thunder Resistance
 *Major, rare (requires attunement)*  

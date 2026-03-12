@@ -10,8 +10,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Crusader's Shortsword
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 weight: 2
+attunement: true
+rarity: unknown\Magic
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Crusader's Shortsword
 *Weapon ([[/5. Mechanics/Items/Shortsword.md\|shortsword]]) (requires attunement)*  

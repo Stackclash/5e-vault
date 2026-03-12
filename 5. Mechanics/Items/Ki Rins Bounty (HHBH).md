@@ -9,6 +9,11 @@ tags:
 aliases:
   - Ki-Rin's Bounty
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Ki-Rin's Bounty
 *Herb, rare*  

@@ -10,6 +10,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Trenchroller Armor
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Trenchroller Armor
 *Major, very rare (requires attunement)*  

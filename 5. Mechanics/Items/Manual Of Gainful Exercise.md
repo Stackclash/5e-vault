@@ -9,6 +9,9 @@ tags:
 aliases:
   - Manual of Gainful Exercise
 weight: 5
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Manual of Gainful Exercise
 *Wondrous item, major, very rare*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of Moving Performances
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of Moving Performances
 *Scroll, minor, uncommon*  

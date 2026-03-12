@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Shooting Stars
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Shooting Stars
 *Ring, major, very rare (requires attunement outdoors at night)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Yeti Brush
 cost: 500
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Yeti Brush
 *Herb, rare*  

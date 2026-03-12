@@ -9,6 +9,11 @@ tags:
 aliases:
   - Corpse Hands
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Corpse Hands
 *Herb, rare*  

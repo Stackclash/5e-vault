@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Inspector's Silverware
+attunement: false
+rarity: common
+tier: minor
 ---
 # Inspector's Silverware
 *Wondrous item, minor, common*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Jacinth
 cost: 500000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Jacinth
 *Treasure (gemstone)*  

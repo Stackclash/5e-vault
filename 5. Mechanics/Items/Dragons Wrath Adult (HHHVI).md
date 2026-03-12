@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Dragon's Wrath (Adult)
+attunement: false
+rarity: very-rare
 ---
 # Dragon's Wrath (Adult)
 *Wondrous item, very rare*  

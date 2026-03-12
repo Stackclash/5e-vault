@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Lion Door Guardian
+attunement: false
+rarity: uncommon
 ---
 # Lion Door Guardian
 *Wondrous item, uncommon*  

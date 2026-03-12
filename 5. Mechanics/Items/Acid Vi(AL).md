@@ -10,6 +10,11 @@ aliases:
   - Acid (vial)
 cost: 2500
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Acid (vial)
 *Adventuring gear*  

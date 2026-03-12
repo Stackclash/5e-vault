@@ -10,9 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Redsmith Hammer
-one-hand-damage: 1d4 bludgeoning
+one-hand-damage: 1d4
+damage-type: bludgeoning
 range: 20\60
 weight: 2
+attunement: false
+rarity: common
+tier: minor
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Redsmith Hammer
 *Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), minor, common*  

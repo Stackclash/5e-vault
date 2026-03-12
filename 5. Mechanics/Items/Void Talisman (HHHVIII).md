@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Void Talisman
+attunement: true
+rarity: very-rare
 ---
 # Void Talisman
 *Wondrous item, very rare (requires attunement)*  

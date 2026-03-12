@@ -10,6 +10,11 @@ aliases:
   - Orb
 cost: 2000
 weight: 3
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Orb
 *Spellcasting focus*  

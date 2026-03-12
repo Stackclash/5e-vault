@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Set of Numat's Trick Tubes
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Set of Numat's Trick Tubes
 *Wondrous item, minor, uncommon*  

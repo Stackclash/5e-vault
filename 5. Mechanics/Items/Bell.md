@@ -9,6 +9,11 @@ tags:
 aliases:
   - Bell
 cost: 100
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Bell
 *Adventuring gear*  

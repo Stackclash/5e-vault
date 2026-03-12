@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Heward's Handy Spice Pouch
+attunement: false
+rarity: common
+tier: minor
 ---
 # Heward's Handy Spice Pouch
 *Wondrous item, minor, common*  

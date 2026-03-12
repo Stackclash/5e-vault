@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of Momentary Omniscience
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of Momentary Omniscience
 *Scroll, minor, rare*  

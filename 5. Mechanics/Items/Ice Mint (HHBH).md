@@ -9,6 +9,11 @@ tags:
 aliases:
   - Ice Mint
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Ice Mint
 *Herb, common*  

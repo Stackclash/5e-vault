@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sailing Ship
 cost: 1000000
+attunement: false
+rarity: none
+type: vehicle
+subtype:
+  - ship-water
 ---
 # Sailing Ship
 *Ship, vehicle (water)*  

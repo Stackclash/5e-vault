@@ -11,8 +11,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Mace of the Fish Tyrant
-one-hand-damage: 1d6 bludgeoning
+one-hand-damage: 1d6
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Mace of the Fish Tyrant
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), cursed item, major, very rare (requires attunement)*  

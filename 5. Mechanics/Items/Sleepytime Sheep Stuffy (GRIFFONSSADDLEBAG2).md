@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Sleepytime Sheep Stuffy
+attunement: false
+rarity: common
+tier: minor
 ---
 # Sleepytime Sheep Stuffy
 *Wondrous item, minor, common*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Gold cup set with emeralds
 cost: 750000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Gold cup set with emeralds
 *Treasure (art object)*  

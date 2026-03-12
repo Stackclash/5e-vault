@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Gemini Mask
+attunement: true
+rarity: rare
+tier: major
 ---
 # Gemini Mask
 *Wondrous item, major, rare (requires attunement)*  

@@ -10,6 +10,12 @@ tags:
 aliases:
   - Rod of Water Absorption
 weight: 3
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of Water Absorption
 *Rod, major, rare*  

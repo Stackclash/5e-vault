@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Drag-on Paste
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Drag-on Paste
 *Potion, rare*  

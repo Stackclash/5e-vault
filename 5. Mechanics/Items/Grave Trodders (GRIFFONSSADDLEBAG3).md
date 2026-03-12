@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Grave Trodders
+attunement: true
+rarity: rare
+tier: major
 ---
 # Grave Trodders
 *Wondrous item, major, rare (requires attunement)*  

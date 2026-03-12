@@ -10,6 +10,16 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Gilding
+attunement: true
+attunement-requirement:
+  - bard
+  - sorcerer
+  - wizard
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Gilding
 *Wand, major, rare (requires attunement by a bard, sorcerer, or wizard)*  

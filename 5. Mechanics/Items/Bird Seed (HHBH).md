@@ -9,6 +9,11 @@ tags:
 aliases:
   - Bird Seed
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Bird Seed
 *Herb, common*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Ear Horn of Hearing
+attunement: false
+rarity: common
+tier: minor
 ---
 # Ear Horn of Hearing
 *Wondrous item, minor, common*  

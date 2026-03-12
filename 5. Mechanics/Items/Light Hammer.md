@@ -10,9 +10,16 @@ tags:
 aliases:
   - Light Hammer
 cost: 200
-one-hand-damage: 1d4 bludgeoning
+one-hand-damage: 1d4
+damage-type: bludgeoning
 range: 20\60
 weight: 2
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Light Hammer
 *Weapon*  

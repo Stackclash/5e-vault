@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Raven Queen's Boon
+attunement: true
+rarity: rare
 ---
 # Raven Queen's Boon
 *Wondrous item, rare (requires attunement)*  

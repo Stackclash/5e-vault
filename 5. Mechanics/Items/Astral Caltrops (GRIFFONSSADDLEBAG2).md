@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Astral Caltrops
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Astral Caltrops
 *Wondrous item, minor, rare*  

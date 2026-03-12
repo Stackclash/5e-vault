@@ -11,9 +11,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Quake Hammer
-one-hand-damage: 1d4 bludgeoning
+one-hand-damage: 1d4
+damage-type: bludgeoning
 range: 20\60
 weight: 2
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Quake Hammer
 *Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, rare (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Fiend's chilli
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Fiend's chilli
 *Herb, common*  

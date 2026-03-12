@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Elemental Tempering
+attunement: false
+rarity: uncommon
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Elemental Tempering
 *Potion, uncommon*  

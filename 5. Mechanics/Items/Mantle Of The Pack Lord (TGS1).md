@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Mantle of the Pack Lord
+attunement: false
+rarity: rare
+tier: major
 ---
 # Mantle of the Pack Lord
 *Wondrous item, major, rare*  

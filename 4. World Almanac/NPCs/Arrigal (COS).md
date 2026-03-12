@@ -10,10 +10,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\arrigal.webp
-relationships: []
 aliases:
   - Arrigal
 alignment: Neutral Evil
+relationships: []
 partyRelationships: {}
 location: '[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]'
 pronounced: AH-ri-gal
@@ -34,7 +34,6 @@ goals: 'To protect and serve his Vistani clan, to amass personal wealth and powe
 likes: 'Wealth, power, the respect of his peers'
 dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

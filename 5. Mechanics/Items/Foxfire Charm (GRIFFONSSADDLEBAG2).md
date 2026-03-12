@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Foxfire Charm
+attunement: false
+rarity: common
+tier: minor
 ---
 # Foxfire Charm
 *Wondrous item, minor, common*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Soap
 cost: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Soap
 *Adventuring gear*  

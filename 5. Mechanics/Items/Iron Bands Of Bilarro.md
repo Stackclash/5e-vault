@@ -9,6 +9,9 @@ tags:
 aliases:
   - Iron Bands of Bilarro
 weight: 1
+attunement: false
+rarity: rare
+tier: major
 ---
 # Iron Bands of Bilarro
 *Wondrous item, major, rare*  

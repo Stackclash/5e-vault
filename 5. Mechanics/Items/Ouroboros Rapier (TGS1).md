@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Ouroboros Rapier
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
+attunement: false
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Ouroboros Rapier
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), major, very rare*  

@@ -9,9 +9,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Arkanotars
-one-hand-damage: 1d4 lightning
+one-hand-damage: 1d4
+damage-type: lightning
 range: 20\60
 weight: 1
+attunement: false
+rarity: very-rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Arkanotars
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), very rare*  

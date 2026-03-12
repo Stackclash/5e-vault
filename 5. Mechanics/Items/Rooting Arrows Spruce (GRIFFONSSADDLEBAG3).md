@@ -10,6 +10,12 @@ tags:
 aliases:
   - Rooting Arrows (Spruce)
 weight: 0.05
+attunement: false
+rarity: uncommon
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Rooting Arrows (Spruce)
 *Ammunition ([[/5. Mechanics/Items/Arrow.md\|arrow]]), minor, uncommon*  

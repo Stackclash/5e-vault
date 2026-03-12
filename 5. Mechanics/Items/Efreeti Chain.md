@@ -12,6 +12,14 @@ aliases:
   - Efreeti Chain
 armorClass: 16
 weight: 55
+stealth-penalty: true
+strength-requirement: 13
+attunement: true
+rarity: legendary
+tier: major
+type: armor
+subtype:
+  - heavy
 ---
 # Efreeti Chain
 *Heavy armor ([[/5. Mechanics/Items/Chain Mail.md\|chain mail]]), major, legendary (requires attunement)*  

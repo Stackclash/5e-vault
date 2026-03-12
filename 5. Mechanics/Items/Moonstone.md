@@ -9,6 +9,11 @@ tags:
 aliases:
   - Moonstone
 cost: 5000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Moonstone
 *Treasure (gemstone)*  

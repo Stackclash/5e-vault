@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Bloody Marilith (Common)
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Bloody Marilith (Common)
 *Potion, minor, common*  

@@ -9,6 +9,15 @@ tags:
   - item/tier/major
 aliases:
   - Astral Bracelet of Knowledge
+attunement: true
+attunement-requirement:
+  - bard
+  - cleric
+  - druid
+  - ranger
+  - wizard
+rarity: very-rare
+tier: major
 ---
 # Astral Bracelet of Knowledge
 *Wondrous item, major, very rare (requires attunement by a bard, cleric, druid, ranger, or wizard)*  

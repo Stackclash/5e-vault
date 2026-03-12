@@ -18,6 +18,13 @@ aliases:
   - Monster Tamer's Rapier
   - Monster Tamer's Scimitar
   - Monster Tamer's Shortsword
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Monster Tamer's Sword
 *Major, rare (requires attunement)*  

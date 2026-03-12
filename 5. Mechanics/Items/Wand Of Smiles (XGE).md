@@ -10,6 +10,12 @@ tags:
 aliases:
   - Wand of Smiles
 weight: 1
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Smiles
 *Wand, minor, common*  

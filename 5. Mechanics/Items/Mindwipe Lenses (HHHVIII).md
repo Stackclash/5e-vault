@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Mindwipe Lenses
+attunement: true
+rarity: legendary
 ---
 # Mindwipe Lenses
 *Wondrous item, legendary (requires attunement)*  

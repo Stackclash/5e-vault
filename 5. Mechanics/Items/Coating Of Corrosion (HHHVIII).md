@@ -8,6 +8,11 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Coating of Corrosion
+attunement: false
+rarity: very-rare
+type: gear
+subtype:
+  - oil
 ---
 # Coating of Corrosion
 *Oil, very rare*  

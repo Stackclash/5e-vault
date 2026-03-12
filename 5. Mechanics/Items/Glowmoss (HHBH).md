@@ -9,6 +9,11 @@ tags:
 aliases:
   - Glowmoss
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Glowmoss
 *Herb, common*  

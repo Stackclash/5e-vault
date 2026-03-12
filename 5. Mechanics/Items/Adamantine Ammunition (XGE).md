@@ -15,6 +15,12 @@ aliases:
   - Adamantine Firearm Bullet
   - Adamantine Needle
   - Adamantine Sling Bullet
+attunement: false
+rarity: unknown
+tier: minor
+type: gear
+subtype:
+  - ammunition
 ---
 # Adamantine Ammunition
 *Ammunition, minor*  

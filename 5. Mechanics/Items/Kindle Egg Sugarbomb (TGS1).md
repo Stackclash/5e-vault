@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Kindle Egg Sugarbomb
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Kindle Egg Sugarbomb
 *Wondrous item, minor, uncommon*  

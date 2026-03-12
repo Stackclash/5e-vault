@@ -67,6 +67,15 @@ aliases:
   - Vicious Warhammer
   - Vicious Whip
   - Vicious Yklwa
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - ranged
+  - simple
 ---
 # Vicious Weapon
 *Major, rare*  

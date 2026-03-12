@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Cloak of Protection
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Cloak of Protection
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -8,6 +8,8 @@ tags:
 aliases:
   - Soul Coin
 weight: 0.333
+attunement: false
+rarity: uncommon
 ---
 # Soul Coin
 *Wondrous item, uncommon*  

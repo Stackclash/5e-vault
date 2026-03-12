@@ -10,9 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Fire Fire!
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 range: 80\320
 weight: 5
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Fire Fire!
 *Weapon ([[/5. Mechanics/Items/Light Crossbow.md\|light crossbow]]), major, rare*  

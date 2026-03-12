@@ -9,6 +9,11 @@ tags:
 aliases:
   - Candle Rose
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Candle Rose
 *Herb, common*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Rejuvenating Draft (Uncommon)
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Rejuvenating Draft (Uncommon)
 *Potion, minor, uncommon*  

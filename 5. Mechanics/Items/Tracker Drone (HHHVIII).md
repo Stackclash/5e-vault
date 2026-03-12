@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Tracker Drone
+attunement: false
+rarity: very-rare
 ---
 # Tracker Drone
 *Wondrous item, very rare*  

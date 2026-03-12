@@ -9,6 +9,9 @@ tags:
 aliases:
   - Battlechef's Splendid Saucepan
 weight: 4
+attunement: false
+rarity: very-rare
+tier: major
 ---
 # Battlechef's Splendid Saucepan
 *Wondrous item, major, very rare*  

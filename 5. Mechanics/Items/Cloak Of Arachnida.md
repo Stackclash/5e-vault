@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Cloak of Arachnida
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Cloak of Arachnida
 *Wondrous item, major, very rare (requires attunement)*  

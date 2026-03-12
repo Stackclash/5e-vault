@@ -10,8 +10,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Pennypuncher Slingshot
-one-hand-damage: 1d4 bludgeoning
+one-hand-damage: 1d4
+damage-type: bludgeoning
 range: 30\120
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Pennypuncher Slingshot
 *Weapon ([[/5. Mechanics/Items/Sling.md\|sling]]), major, rare*  

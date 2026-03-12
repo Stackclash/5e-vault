@@ -10,6 +10,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Dagger Ice
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Dagger Ice
 *Ring, major, very rare (requires attunement)*  

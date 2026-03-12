@@ -9,6 +9,11 @@ tags:
 aliases:
   - Aboleth Stalk
 cost: 50000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Aboleth Stalk
 *Herb, rare*  

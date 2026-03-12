@@ -10,6 +10,9 @@ tags:
 aliases:
   - Ambitious Medic's Box
 weight: 3
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Ambitious Medic's Box
 *Wondrous item, minor, uncommon (requires attunement)*  

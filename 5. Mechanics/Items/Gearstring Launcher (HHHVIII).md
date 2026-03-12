@@ -17,6 +17,13 @@ aliases:
   - Gearstring Launcher Light Repeating Crossbow
   - Gearstring Launcher Longbow
   - Gearstring Launcher Shortbow
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Gearstring Launcher
 *Rare*  

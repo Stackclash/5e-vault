@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Quiver of Seasons
+attunement: true
+rarity: rare
+tier: major
 ---
 # Quiver of Seasons
 *Wondrous item, major, rare (requires attunement)*  

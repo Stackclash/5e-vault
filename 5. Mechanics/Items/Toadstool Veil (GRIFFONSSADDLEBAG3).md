@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Toadstool Veil
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Toadstool Veil
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -10,6 +10,13 @@ tags:
 aliases:
   - Atlas of Endless Horizons
 weight: 3
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Atlas of Endless Horizons
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  

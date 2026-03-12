@@ -9,6 +9,11 @@ tags:
 aliases:
   - Nofall Leaves
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Nofall Leaves
 *Herb, common*  

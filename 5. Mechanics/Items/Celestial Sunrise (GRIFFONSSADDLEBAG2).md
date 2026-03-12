@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Celestial Sunrise
+attunement: false
+rarity: varies
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Celestial Sunrise
 *Potion, minor*  

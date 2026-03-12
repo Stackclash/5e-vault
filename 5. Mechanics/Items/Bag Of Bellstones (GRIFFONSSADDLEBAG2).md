@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bag of Bellstones
+attunement: false
+rarity: common
+tier: minor
 ---
 # Bag of Bellstones
 *Wondrous item, minor, common*  

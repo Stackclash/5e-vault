@@ -10,9 +10,16 @@ tags:
   - item/weapon/simple
 aliases:
   - 'Precipit, the Formless'
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: artifact
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Precipit, the Formless
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, artifact (requires attunement)*  

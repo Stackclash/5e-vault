@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Singing Skull
+attunement: false
+rarity: uncommon
 ---
 # Singing Skull
 *Wondrous item, uncommon*  

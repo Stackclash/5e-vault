@@ -10,6 +10,11 @@ aliases:
   - Costume Clothes
 cost: 500
 weight: 4
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Costume Clothes
 *Adventuring gear*  

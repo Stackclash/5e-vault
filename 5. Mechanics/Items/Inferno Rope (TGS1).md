@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Inferno Rope
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Inferno Rope
 *Wondrous item, major, uncommon*  

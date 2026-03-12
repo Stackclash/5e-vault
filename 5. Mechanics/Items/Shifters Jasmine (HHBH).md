@@ -9,6 +9,11 @@ tags:
 aliases:
   - Shifter's Jasmine
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Shifter's Jasmine
 *Herb, rare*  

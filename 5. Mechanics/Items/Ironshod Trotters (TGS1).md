@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Ironshod Trotters
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Ironshod Trotters
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Inking Seahorn
+attunement: true
+rarity: uncommon
 ---
 # Inking Seahorn
 *Wondrous item, uncommon (requires attunement)*  

@@ -10,9 +10,20 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Adder
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - cleric
+  - druid
+  - warlock
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Staff of the Adder
 *Staff, weapon, major, uncommon (requires attunement by a cleric, druid, or warlock)*  

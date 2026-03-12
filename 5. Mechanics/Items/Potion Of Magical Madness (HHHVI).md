@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Magical Madness
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Magical Madness
 *Potion, rare*  

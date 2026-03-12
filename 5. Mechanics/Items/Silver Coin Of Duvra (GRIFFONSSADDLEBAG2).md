@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Silver Coin of Duvra
+attunement: true
+rarity: common
+tier: minor
 ---
 # Silver Coin of Duvra
 *Wondrous item, minor, common (requires attunement)*  

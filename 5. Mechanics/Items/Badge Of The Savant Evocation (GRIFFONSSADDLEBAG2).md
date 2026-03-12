@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Badge of the Savant (Evocation)
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Badge of the Savant (Evocation)
 *Wondrous item, major, uncommon*  

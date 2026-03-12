@@ -18,6 +18,13 @@ aliases:
   - Rapier of Sacrifice
   - Scimitar of Sacrifice
   - Shortsword of Sacrifice
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Sword of Sacrifice
 *Major, rare (requires attunement)*  

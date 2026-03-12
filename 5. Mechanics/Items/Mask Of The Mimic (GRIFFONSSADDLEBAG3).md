@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Mask of the Mimic
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Mask of the Mimic
 *Wondrous item, cursed item, major, uncommon*  

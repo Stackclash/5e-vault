@@ -15,6 +15,14 @@ aliases:
   - Coral Crasher Battleaxe
   - Coral Crasher Greataxe
   - Coral Crasher Handaxe
+attunement: false
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Coral Crasher
 *Major, very rare*  

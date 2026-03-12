@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Everlasting Sugarbomb
+attunement: false
+rarity: common
+tier: minor
 ---
 # Everlasting Sugarbomb
 *Wondrous item, minor, common*  

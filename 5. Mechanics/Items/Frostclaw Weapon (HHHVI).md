@@ -22,6 +22,13 @@ aliases:
   - Frostclaw Scimitar
   - Frostclaw Sickle
   - Frostclaw Whip
+attunement: false
+rarity: uncommon
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Frostclaw Weapon
 *Uncommon*  

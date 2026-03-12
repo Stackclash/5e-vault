@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Sickness
+attunement: false
+rarity: uncommon
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Sickness
 *Potion, uncommon*  

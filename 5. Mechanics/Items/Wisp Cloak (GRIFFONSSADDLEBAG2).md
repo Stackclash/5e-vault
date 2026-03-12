@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Wisp Cloak
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Wisp Cloak
 *Wondrous item, cursed item, major, uncommon (requires attunement)*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Chuul's Caress Poison
+attunement: false
+rarity: uncommon
 ---
 # Chuul's Caress Poison
 *Poison (injury), uncommon*  

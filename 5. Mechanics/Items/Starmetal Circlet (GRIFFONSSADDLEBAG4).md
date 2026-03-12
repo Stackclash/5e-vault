@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Starmetal Circlet
+attunement: true
+rarity: rare
 ---
 # Starmetal Circlet
 *Wondrous item, rare (requires attunement)*  

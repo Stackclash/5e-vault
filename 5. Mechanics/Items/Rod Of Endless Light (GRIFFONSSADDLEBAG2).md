@@ -9,6 +9,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Rod of Endless Light
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - rod
 ---
 # Rod of Endless Light
 *Rod, minor, common*  

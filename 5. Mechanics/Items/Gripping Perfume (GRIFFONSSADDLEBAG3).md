@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Gripping Perfume
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Gripping Perfume
 *Wondrous item, minor, uncommon*  

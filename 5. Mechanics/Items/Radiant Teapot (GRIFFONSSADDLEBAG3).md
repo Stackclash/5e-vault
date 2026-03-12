@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Radiant Teapot
+attunement: false
+rarity: common
+tier: minor
 ---
 # Radiant Teapot
 *Wondrous item, minor, common*  

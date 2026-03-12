@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pocket Poppet
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Pocket Poppet
 *Wondrous item, minor, uncommon*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Amethyst
 cost: 10000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Amethyst
 *Treasure (gemstone)*  

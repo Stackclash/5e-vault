@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of the Duergar
+attunement: false
+rarity: uncommon
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of the Duergar
 *Potion, uncommon*  

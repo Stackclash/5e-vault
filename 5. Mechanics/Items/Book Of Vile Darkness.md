@@ -9,6 +9,8 @@ tags:
 aliases:
   - Book of Vile Darkness
 weight: 5
+attunement: true
+rarity: artifact
 ---
 # Book of Vile Darkness
 *Wondrous item, artifact (requires attunement)*  

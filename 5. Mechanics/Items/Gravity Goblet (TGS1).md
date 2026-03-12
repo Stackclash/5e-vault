@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Gravity Goblet
+attunement: false
+rarity: common
+tier: minor
 ---
 # Gravity Goblet
 *Wondrous item, minor, common*  

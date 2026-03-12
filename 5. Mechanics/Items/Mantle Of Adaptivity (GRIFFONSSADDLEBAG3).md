@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Mantle of Adaptivity
+attunement: true
+attunement-requirement:
+  - human
+rarity: rare
+tier: major
 ---
 # Mantle of Adaptivity
 *Wondrous item, major, rare (requires attunement by a human)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Leatherbeard
+attunement: false
+rarity: common
+tier: minor
 ---
 # Leatherbeard
 *Wondrous item, minor, common*  

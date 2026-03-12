@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Candle of Anti-Light
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Candle of Anti-Light
 *Wondrous item, minor, uncommon*  

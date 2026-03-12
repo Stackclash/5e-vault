@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Electric Gittern
+attunement: false
+rarity: rare
 ---
 # Electric Gittern
 *Wondrous item, rare*  

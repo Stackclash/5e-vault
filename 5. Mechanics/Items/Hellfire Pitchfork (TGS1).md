@@ -11,10 +11,18 @@ tags:
   - item/weapon/melee
 aliases:
   - Hellfire Pitchfork
-one-hand-damage: 1d6 piercing
-two-hand-damage: 1d8 piercing
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: piercing
 range: 15\45
 weight: 10
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Hellfire Pitchfork
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, very rare (requires attunement)*  

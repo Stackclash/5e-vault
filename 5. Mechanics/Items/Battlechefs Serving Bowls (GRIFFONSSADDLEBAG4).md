@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Battlechef's Serving Bowls
+attunement: false
+rarity: uncommon
 ---
 # Battlechef's Serving Bowls
 *Wondrous item, uncommon*  

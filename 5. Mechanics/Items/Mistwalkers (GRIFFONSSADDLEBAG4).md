@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Mistwalkers
+attunement: true
+rarity: very-rare
 ---
 # Mistwalkers
 *Wondrous item, very rare (requires attunement)*  

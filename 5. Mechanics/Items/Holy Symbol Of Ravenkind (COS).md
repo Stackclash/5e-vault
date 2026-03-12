@@ -8,6 +8,11 @@ tags:
   - item/rarity/legendary
 aliases:
   - Holy Symbol of Ravenkind
+attunement: true
+attunement-requirement:
+  - cleric
+  - paladin of good alignment
+rarity: legendary
 ---
 # Holy Symbol of Ravenkind
 *Wondrous item, legendary (requires attunement by a cleric or paladin of good alignment)*  

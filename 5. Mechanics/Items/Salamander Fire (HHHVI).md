@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Salamander Fire
+attunement: false
+rarity: uncommon
+type: wondrous
+subtype:
+  - potion
 ---
 # Salamander Fire
 *Potion, uncommon*  

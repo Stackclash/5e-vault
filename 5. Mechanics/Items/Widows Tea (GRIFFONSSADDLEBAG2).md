@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Widow's Tea
+attunement: false
+rarity: rare
+tier: major
 ---
 # Widow's Tea
 *Wondrous item, major, rare*  

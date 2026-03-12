@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Spool of Shadow
+attunement: false
+rarity: common
+tier: minor
 ---
 # Spool of Shadow
 *Wondrous item, minor, common*  

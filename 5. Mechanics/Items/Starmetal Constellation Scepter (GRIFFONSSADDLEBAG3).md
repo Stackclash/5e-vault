@@ -10,6 +10,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Starmetal Constellation Scepter
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Starmetal Constellation Scepter
 *Rod, major, very rare (requires attunement)*  

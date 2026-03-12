@@ -9,6 +9,11 @@ tags:
 aliases:
   - Needlecloud Cactus
 cost: 2000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Needlecloud Cactus
 *Herb, rare*  

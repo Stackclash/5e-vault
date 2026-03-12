@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Toolkit/Configuration.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "72c48283d36ef6b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. World Almanac/NPCs/Elvir Martikov.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuration"
-            }
-          },
-          {
-            "id": "c23163142bcce182",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "title": "Elvir Martikov"
             }
           }
         ],
@@ -225,7 +227,7 @@
             }
           },
           {
-            "id": "147e255dc5f277a5",
+            "id": "a548a50abeb85334",
             "type": "leaf",
             "state": {
               "type": "smtcmp-chat-view",
@@ -239,8 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.5,
-    "collapsed": true
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,18 +264,28 @@
       "remotely-save:Remotely Save": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "templater-obsidian:Templater": false,
-      "smart-composer:Open smart composer": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "smart-composer:Open smart composer": false
     }
   },
-  "active": "c23163142bcce182",
+  "active": "72c48283d36ef6b9",
   "lastOpenFiles": [
-    "z_Bases/Items.base",
-    "4. World Almanac/NPCs/Npc.md",
-    "3. The Party/Players/Players.md",
-    "4. World Almanac/NPCs/Strahd Von Zarovich (COS).md",
-    "5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich (COS).md",
     "Untitled.md",
+    "5. Mechanics/Items/Items.md",
+    "z_Bases/Items.base",
+    "5. Mechanics/Items/2 Amulet Of The Devout (TCE).md",
+    "5. Mechanics/Items/3 Moon Sickle (TCE).md",
+    "5. Mechanics/Items/Flensing Claws (VGM).md",
+    "5. Mechanics/Items/1 Amulet Of The Devout (TCE).md",
+    "5. Mechanics/Bestiary/Bestiary.md",
+    "5. Mechanics/Bestiary/Aberration/Aberration.md",
+    "5. Mechanics/Spells/Spells.md",
+    "4. World Almanac/Shops/Shops.md",
+    "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/NPCs/NPCs.md",
+    "3. The Party/Players/Players.md",
     "4. World Almanac/NPCs/Ismark Kolyanovich (COS).md",
     "5. Mechanics/Classes/Classes.md",
     "5. Mechanics/Classes/Artificer Battle Smith (TCE).md",
@@ -286,15 +297,6 @@
     "5. Mechanics/Bestiary/Undead/Undead.md",
     "5. Mechanics/Bestiary/Plant/Plant.md",
     "5. Mechanics/Bestiary/Ooze/Ooze.md",
-    "5. Mechanics/Bestiary/Monstrosity/Monstrosity.md",
-    "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
-    "5. Mechanics/Bestiary/Goblinoid/Goblinoid.md",
-    "5. Mechanics/Bestiary/Giant/Giant.md",
-    "5. Mechanics/Bestiary/Fiend/Fiend.md",
-    "5. Mechanics/Bestiary/Fey/Fey.md",
-    "5. Mechanics/Bestiary/Elemental/Elemental.md",
-    "5. Mechanics/Bestiary/Dragon/Dragon.md",
-    "5. Mechanics/Bestiary/Construct/Construct.md",
     "z_Bases/Locations.base",
     "z_Bases/Spells.base",
     "z_Bases/Players.base",

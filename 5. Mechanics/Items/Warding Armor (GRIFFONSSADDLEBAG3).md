@@ -14,6 +14,13 @@ aliases:
   - Warding Bone Plate Armor
   - Warding Spiked Armor
   - Warding Wooden Breastplate
+attunement: false
+rarity: varies
+tier: major
+type: armor
+subtype:
+  - heavy
+  - medium
 ---
 # Warding Armor
 *Major*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Mask of Fear
+attunement: true
+rarity: rare
 ---
 # Mask of Fear
 *Wondrous item, rare (requires attunement)*  

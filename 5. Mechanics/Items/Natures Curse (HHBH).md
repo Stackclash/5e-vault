@@ -9,6 +9,11 @@ tags:
 aliases:
   - Nature's Curse
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Nature's Curse
 *Herb, rare*  

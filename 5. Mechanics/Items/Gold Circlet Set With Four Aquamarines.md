@@ -9,6 +9,11 @@ tags:
 aliases:
   - Gold circlet set with four aquamarines
 cost: 250000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Gold circlet set with four aquamarines
 *Treasure (art object)*  

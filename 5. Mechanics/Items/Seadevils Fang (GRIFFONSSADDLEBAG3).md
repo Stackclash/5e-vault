@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Seadevil's Fang
-one-hand-damage: 2d6 slashing
+one-hand-damage: 2d6
+damage-type: slashing
 weight: 6
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Seadevil's Fang
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare*  

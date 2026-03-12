@@ -10,6 +10,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Captain's Pride
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Captain's Pride
 *Major, rare (requires attunement)*  

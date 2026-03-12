@@ -11,6 +11,11 @@ aliases:
   - Renaissance Bullets (10)
 cost: 300
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - ammunition-firearm
 ---
 # Renaissance Bullets (10)
 *Ammunition (firearm)*  

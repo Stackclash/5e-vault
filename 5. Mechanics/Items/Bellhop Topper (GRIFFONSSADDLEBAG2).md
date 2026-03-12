@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bellhop Topper
+attunement: false
+rarity: common
+tier: minor
 ---
 # Bellhop Topper
 *Wondrous item, minor, common*  

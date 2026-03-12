@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Lycan Gas
+attunement: false
+rarity: rare
 ---
 # Lycan Gas
 *Poison (inhaled), rare*  

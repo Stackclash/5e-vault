@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Helm of the Chromatic Dragon
+attunement: true
+attunement-requirement:
+  - dragonborn of evil alignment
+rarity: very-rare
+tier: major
 ---
 # Helm of the Chromatic Dragon
 *Wondrous item, major, very rare (requires attunement by a dragonborn of evil alignment)*  

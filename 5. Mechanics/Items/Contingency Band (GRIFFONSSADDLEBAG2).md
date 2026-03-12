@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Contingency Band
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Contingency Band
 *Ring, major, rare*  

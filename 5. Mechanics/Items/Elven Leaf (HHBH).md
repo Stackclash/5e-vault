@@ -9,6 +9,11 @@ tags:
 aliases:
   - Elven Leaf
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Elven Leaf
 *Herb, rare*  

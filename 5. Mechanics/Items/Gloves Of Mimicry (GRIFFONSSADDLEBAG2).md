@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Gloves of Mimicry
+attunement: true
+attunement-requirement:
+  - bard
+rarity: very-rare
+tier: major
 ---
 # Gloves of Mimicry
 *Wondrous item, major, very rare (requires attunement by a bard)*  

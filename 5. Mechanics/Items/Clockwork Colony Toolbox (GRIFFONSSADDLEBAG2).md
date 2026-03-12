@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Clockwork Colony Toolbox
+attunement: false
+rarity: rare
+tier: major
 ---
 # Clockwork Colony Toolbox
 *Wondrous item, major, rare*  

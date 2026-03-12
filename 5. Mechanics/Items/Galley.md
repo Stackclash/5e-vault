@@ -9,6 +9,11 @@ tags:
 aliases:
   - Galley
 cost: 3000000
+attunement: false
+rarity: none
+type: vehicle
+subtype:
+  - ship-water
 ---
 # Galley
 *Ship, vehicle (water)*  

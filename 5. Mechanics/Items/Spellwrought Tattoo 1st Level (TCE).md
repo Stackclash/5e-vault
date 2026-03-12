@@ -8,6 +8,11 @@ tags:
   - item/wondrous/tattoo
 aliases:
   - Spellwrought Tattoo (1st Level)
+attunement: false
+rarity: common
+type: wondrous
+subtype:
+  - tattoo
 ---
 # Spellwrought Tattoo (1st Level)
 *Wondrous item (tattoo), common*  

@@ -9,6 +9,13 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Harpy Harp
+attunement: true
+attunement-requirement:
+  - bard
+rarity: uncommon
+type: gear
+subtype:
+  - instrument
 ---
 # Harpy Harp
 *Wondrous item, instrument, uncommon (requires attunement by a bard)*  

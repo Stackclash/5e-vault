@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Gauntlets of the Divine Feud
+attunement: true
+attunement-requirement:
+  - cleric
+rarity: very-rare
+tier: major
 ---
 # Gauntlets of the Divine Feud
 *Wondrous item, major, very rare (requires attunement by a cleric)*  

@@ -11,6 +11,8 @@ aliases:
   - Shield of the Unmarked Grave
 armorClass: 2
 weight: 6
+attunement: true
+rarity: legendary
 ---
 # Shield of the Unmarked Grave
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), cursed item, legendary (requires attunement)*  

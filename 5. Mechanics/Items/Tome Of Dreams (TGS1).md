@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Tome of Dreams
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Tome of Dreams
 *Wondrous item, major, uncommon*  

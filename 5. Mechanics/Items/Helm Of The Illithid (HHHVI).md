@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Helm of the Illithid
+attunement: true
+rarity: rare
 ---
 # Helm of the Illithid
 *Wondrous item, rare (requires attunement)*  

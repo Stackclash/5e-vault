@@ -9,10 +9,10 @@ tags:
   - monster/type/undead
 condition: healthy
 images: []
-relationships: []
 aliases:
   - Exethanter
 alignment: Any Evil alignment
+relationships: []
 partyRelationships:
   Midnight Covenant: Acquaintance
 location: null
@@ -32,7 +32,6 @@ likes: null
 dislikes: null
 image: null
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

@@ -11,9 +11,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Emberheart Hammer
-one-hand-damage: 1d8 bludgeoning
-two-hand-damage: 1d10 bludgeoning
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: bludgeoning
 weight: 2
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Emberheart Hammer
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), major, legendary (requires attunement)*  

@@ -65,6 +65,14 @@ aliases:
   - Drow +2 Warhammer
   - Drow +2 Whip
   - Drow +2 Yklwa
+attunement: false
+rarity: unknown\Magic
+type: weapon
+subtype:
+  - martial
+  - melee
+  - ranged
+  - simple
 ---
 # Drow +2 Weapon
 

@@ -10,6 +10,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Faithful Hound's Fetching Femur
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - rod
 ---
 # Faithful Hound's Fetching Femur
 *Rod, major, very rare (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Hideaway Vase
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Hideaway Vase
 *Wondrous item, minor, uncommon*  

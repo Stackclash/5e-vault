@@ -10,6 +10,12 @@ tags:
 aliases:
   - Dragon Turtle Barding
   - Dragon Turtle Bone Plate Barding
+attunement: false
+rarity: very-rare
+tier: major
+type: gear
+subtype:
+  - tack-and-harness
 ---
 # Dragon Turtle Barding
 *Tack and harness, major, very rare*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Cloak of the Protector's Charge
+attunement: true
+rarity: rare
+tier: major
 ---
 # Cloak of the Protector's Charge
 *Wondrous item, major, rare (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Volo Tree
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Volo Tree
 *Herb, rare*  

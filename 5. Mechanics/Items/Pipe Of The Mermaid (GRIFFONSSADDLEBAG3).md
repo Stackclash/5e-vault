@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pipe of the Mermaid
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Pipe of the Mermaid
 *Wondrous item, minor, uncommon*  

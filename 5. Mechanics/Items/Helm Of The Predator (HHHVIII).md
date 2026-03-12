@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Helm of the Predator
+attunement: false
+rarity: very-rare
 ---
 # Helm of the Predator
 *Wondrous item, very rare*  

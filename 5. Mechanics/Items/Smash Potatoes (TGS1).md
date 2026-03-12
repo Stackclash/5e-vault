@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Smash Potatoes
+attunement: false
+rarity: common
+tier: minor
 ---
 # Smash Potatoes
 *Wondrous item, minor, common*  

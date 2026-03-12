@@ -10,6 +10,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Quicksilver Sword
+attunement: true
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Quicksilver Sword
 *Major, very rare (requires attunement)*  

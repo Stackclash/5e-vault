@@ -9,6 +9,11 @@ tags:
 aliases:
   - Blue Spinel
 cost: 50000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Blue Spinel
 *Treasure (gemstone)*  

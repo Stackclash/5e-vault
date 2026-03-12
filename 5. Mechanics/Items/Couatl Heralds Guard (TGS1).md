@@ -12,6 +12,11 @@ aliases:
   - Couatl Herald's Guard
 armorClass: 2
 weight: 6
+attunement: true
+attunement-requirement:
+  - creature of good alignment
+rarity: uncommon
+tier: major
 ---
 # Couatl Herald's Guard
 *Armor ([[/5. Mechanics/Items/Shield.md\|shield]]), major, uncommon (requires attunement by a creature of good alignment)*  

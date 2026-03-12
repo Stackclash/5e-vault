@@ -9,8 +9,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Marlinspike Flail
-one-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 2
+attunement: false
+rarity: uncommon
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Marlinspike Flail
 *Weapon ([[/5. Mechanics/Items/Flail.md\|flail]]), uncommon*  

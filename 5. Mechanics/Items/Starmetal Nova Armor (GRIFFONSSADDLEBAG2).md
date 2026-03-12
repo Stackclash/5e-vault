@@ -14,6 +14,13 @@ aliases:
   - Starmetal Nova Chain Shirt
   - Starmetal Nova Half Plate Armor
 armorClass: 15
+stealth-penalty: true
+attunement: true
+rarity: legendary
+tier: major
+type: armor
+subtype:
+  - medium
 ---
 # Starmetal Nova Armor
 *Major, legendary (requires attunement)*  

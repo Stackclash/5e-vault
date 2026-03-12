@@ -15,6 +15,16 @@ aliases:
   - Pollinator Carapace Hide Armor
   - Pollinator Carapace Leather Armor
   - Pollinator Carapace Studded Leather Armor
+attunement: true
+attunement-requirement:
+  - druid
+  - ranger
+rarity: uncommon
+tier: major
+type: armor
+subtype:
+  - light
+  - medium
 ---
 # Pollinator Carapace
 *Major, uncommon (requires attunement by a druid or ranger)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Dwarf's Bane
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Dwarf's Bane
 *Herb, common*  

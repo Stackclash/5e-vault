@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sigil's Mark
 cost: 100000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Sigil's Mark
 *Herb, rare*  

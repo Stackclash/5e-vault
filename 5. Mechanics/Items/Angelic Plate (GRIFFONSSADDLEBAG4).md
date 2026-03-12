@@ -11,6 +11,13 @@ aliases:
   - Angelic Plate
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+rarity: legendary
+type: armor
+subtype:
+  - heavy
 ---
 # Angelic Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), legendary (requires attunement)*  

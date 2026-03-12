@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Gorget of the Holy Soldier
+attunement: true
+attunement-requirement:
+  - creature of good alignment
+rarity: legendary
+tier: major
 ---
 # Gorget of the Holy Soldier
 *Wondrous item, major, legendary (requires attunement by a creature of good alignment)*  

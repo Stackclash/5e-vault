@@ -9,6 +9,11 @@ tags:
 aliases:
   - Tlincalli Thorn
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Tlincalli Thorn
 *Herb, rare*  

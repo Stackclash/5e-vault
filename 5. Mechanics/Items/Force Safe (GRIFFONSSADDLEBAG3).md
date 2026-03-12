@@ -9,6 +9,9 @@ tags:
 aliases:
   - Force Safe
 weight: 2
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Force Safe
 *Wondrous item, minor, rare*  

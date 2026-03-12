@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Treasure Compass
+attunement: false
+rarity: rare
 ---
 # Treasure Compass
 *Wondrous item, rare*  

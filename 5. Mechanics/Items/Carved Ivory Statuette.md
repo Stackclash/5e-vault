@@ -9,6 +9,11 @@ tags:
 aliases:
   - Carved ivory statuette
 cost: 25000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Carved ivory statuette
 *Treasure (art object)*  

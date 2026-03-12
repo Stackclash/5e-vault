@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Crystal Ball of Storms
+attunement: true
+rarity: legendary
 ---
 # Crystal Ball of Storms
 *Wondrous item, legendary (requires attunement)*  

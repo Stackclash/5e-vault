@@ -9,6 +9,11 @@ tags:
 aliases:
   - Stabling (per day)
 cost: 50
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - tack-and-harness
 ---
 # Stabling (per day)
 *Tack and harness*  

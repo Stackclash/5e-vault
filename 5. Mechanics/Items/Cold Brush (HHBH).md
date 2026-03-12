@@ -9,6 +9,11 @@ tags:
 aliases:
   - Cold Brush
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Cold Brush
 *Herb, common*  

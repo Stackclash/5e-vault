@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Xorn Eye Coin
+attunement: false
+rarity: uncommon
 ---
 # Xorn Eye Coin
 *Wondrous item, uncommon*  

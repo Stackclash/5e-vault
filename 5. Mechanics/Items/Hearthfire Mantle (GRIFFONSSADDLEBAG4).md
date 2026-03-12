@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Hearthfire Mantle
+attunement: false
+rarity: uncommon
 ---
 # Hearthfire Mantle
 *Wondrous item, uncommon*  

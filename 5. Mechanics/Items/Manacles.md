@@ -10,6 +10,11 @@ aliases:
   - Manacles
 cost: 200
 weight: 6
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Manacles
 *Adventuring gear*  

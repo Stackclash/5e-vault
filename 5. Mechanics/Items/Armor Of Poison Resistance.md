@@ -28,6 +28,14 @@ aliases:
   - Splint Armor of Poison Resistance
   - Studded Leather Armor of Poison Resistance
   - Wooden Breastplate of Poison Resistance
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # Armor of Poison Resistance
 *Major, rare (requires attunement)*  

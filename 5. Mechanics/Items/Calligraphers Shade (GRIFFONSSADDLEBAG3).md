@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Calligrapher's Shade
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Calligrapher's Shade
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Cape of the Mountebank
+attunement: false
+rarity: rare
+tier: major
 ---
 # Cape of the Mountebank
 *Wondrous item, major, rare*  

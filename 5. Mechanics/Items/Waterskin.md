@@ -10,6 +10,11 @@ aliases:
   - Waterskin
 cost: 20
 weight: 5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Waterskin
 *Adventuring gear*  

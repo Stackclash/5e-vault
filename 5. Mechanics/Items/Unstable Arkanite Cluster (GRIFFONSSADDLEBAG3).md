@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Unstable Arkanite Cluster
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Unstable Arkanite Cluster
 *Wondrous item, minor, uncommon*  

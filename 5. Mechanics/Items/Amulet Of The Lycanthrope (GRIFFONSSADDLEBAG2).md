@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Amulet of the Lycanthrope
+attunement: true
+rarity: rare
+tier: major
 ---
 # Amulet of the Lycanthrope
 *Wondrous item, cursed item, major, rare (requires attunement)*  

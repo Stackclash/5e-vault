@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Incendiary Caltrops
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Incendiary Caltrops
 *Wondrous item, minor, uncommon*  

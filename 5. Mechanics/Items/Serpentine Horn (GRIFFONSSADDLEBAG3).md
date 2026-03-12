@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Serpentine Horn
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Serpentine Horn
 *Wondrous item, minor, uncommon*  

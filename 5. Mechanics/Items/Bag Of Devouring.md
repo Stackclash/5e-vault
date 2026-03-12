@@ -9,6 +9,9 @@ tags:
 aliases:
   - Bag of Devouring
 weight: 15
+attunement: false
+rarity: very-rare
+tier: minor
 ---
 # Bag of Devouring
 *Wondrous item, minor, very rare*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Cloak of Invisibility
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Cloak of Invisibility
 *Wondrous item, major, legendary (requires attunement)*  

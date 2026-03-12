@@ -9,6 +9,9 @@ tags:
 aliases:
   - Heward's Handy Haversack
 weight: 5
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Heward's Handy Haversack
 *Wondrous item, minor, rare*  

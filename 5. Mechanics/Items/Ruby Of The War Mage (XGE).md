@@ -9,6 +9,11 @@ tags:
   - item/tier/minor
 aliases:
   - Ruby of the War Mage
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: common
+tier: minor
 ---
 # Ruby of the War Mage
 *Wondrous item, minor, common (requires attunement by a spellcaster)*  

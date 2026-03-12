@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Boots of Striding and Springing
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Boots of Striding and Springing
 *Wondrous item, major, uncommon (requires attunement)*  

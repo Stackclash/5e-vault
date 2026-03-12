@@ -11,9 +11,16 @@ tags:
   - item/weapon/simple
 aliases:
   - 'Nimbus, First Staff of the Thunderbirds'
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: artifact
+tier: major
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Nimbus, First Staff of the Thunderbirds
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), spellcasting focus, major, artifact (requires attunement)*  

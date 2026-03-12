@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Poltergeist Candle Holder
+attunement: false
+rarity: common
+tier: minor
 ---
 # Poltergeist Candle Holder
 *Wondrous item, minor, common*  

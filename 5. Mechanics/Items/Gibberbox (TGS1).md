@@ -9,6 +9,9 @@ tags:
 aliases:
   - Gibberbox
 weight: 7
+attunement: false
+rarity: rare
+tier: major
 ---
 # Gibberbox
 *Wondrous item, major, rare*  

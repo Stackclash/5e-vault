@@ -10,6 +10,12 @@ tags:
 aliases:
   - Immovable Rod
 weight: 2
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - rod
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  

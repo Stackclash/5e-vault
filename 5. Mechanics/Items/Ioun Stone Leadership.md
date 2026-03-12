@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Ioun Stone, Leadership'
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Ioun Stone, Leadership
 *Wondrous item, major, very rare (requires attunement)*  

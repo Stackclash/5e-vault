@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Cloak of Daggers
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Cloak of Daggers
 *Wondrous item, major, uncommon (requires attunement)*  

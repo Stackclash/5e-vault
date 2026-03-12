@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Corpse Maker's War Paint
+attunement: false
+rarity: rare
 ---
 # Corpse Maker's War Paint
 *Wondrous item, rare*  

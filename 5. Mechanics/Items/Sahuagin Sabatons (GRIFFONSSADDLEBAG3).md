@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Sahuagin Sabatons
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Sahuagin Sabatons
 *Wondrous item, minor, uncommon*  

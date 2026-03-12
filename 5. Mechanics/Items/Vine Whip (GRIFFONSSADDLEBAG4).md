@@ -9,8 +9,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Vine Whip
-one-hand-damage: 1d4 slashing
+one-hand-damage: 1d4
+damage-type: slashing
 weight: 3
+attunement: false
+rarity: uncommon
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Vine Whip
 *Weapon ([[/5. Mechanics/Items/Whip.md\|whip]]), uncommon*  

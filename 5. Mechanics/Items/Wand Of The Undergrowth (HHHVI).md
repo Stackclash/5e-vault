@@ -9,6 +9,13 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of the Undergrowth
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: very-rare
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of the Undergrowth
 *Wand, very rare (requires attunement by a spellcaster)*  

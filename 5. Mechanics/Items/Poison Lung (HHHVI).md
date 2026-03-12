@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Poison Lung
+attunement: false
+rarity: very-rare
 ---
 # Poison Lung
 *Wondrous item, very rare*  

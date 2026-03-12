@@ -8,6 +8,8 @@ tags:
 aliases:
   - Mirrored Ball of Brag'inir
 weight: 1
+attunement: false
+rarity: legendary
 ---
 # Mirrored Ball of Brag'inir
 *Wondrous item, legendary*  

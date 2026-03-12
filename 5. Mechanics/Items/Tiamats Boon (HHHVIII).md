@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Tiamat's Boon
+attunement: true
+rarity: rare
 ---
 # Tiamat's Boon
 *Wondrous item, rare (requires attunement)*  

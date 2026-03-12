@@ -7,6 +7,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Basin of Water Control
+attunement: false
+rarity: very-rare
 ---
 # Basin of Water Control
 *Wondrous item, very rare*  

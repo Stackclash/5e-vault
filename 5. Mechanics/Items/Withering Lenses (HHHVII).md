@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Withering Lenses
+attunement: true
+rarity: rare
 ---
 # Withering Lenses
 *Wondrous item, rare (requires attunement)*  

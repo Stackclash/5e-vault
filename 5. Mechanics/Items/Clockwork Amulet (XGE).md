@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Clockwork Amulet
+attunement: false
+rarity: common
+tier: minor
 ---
 # Clockwork Amulet
 *Wondrous item, minor, common*  

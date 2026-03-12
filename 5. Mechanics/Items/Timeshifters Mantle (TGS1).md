@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Timeshifter's Mantle
+attunement: false
+rarity: rare
+tier: major
 ---
 # Timeshifter's Mantle
 *Wondrous item, major, rare*  

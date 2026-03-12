@@ -9,6 +9,11 @@ tags:
 aliases:
   - Parchment (one sheet)
 cost: 10
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Parchment (one sheet)
 *Adventuring gear*  

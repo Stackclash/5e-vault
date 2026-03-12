@@ -9,6 +9,11 @@ tags:
 aliases:
   - Small mirror set in a painted wooden frame
 cost: 2500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Small mirror set in a painted wooden frame
 *Treasure (art object)*  

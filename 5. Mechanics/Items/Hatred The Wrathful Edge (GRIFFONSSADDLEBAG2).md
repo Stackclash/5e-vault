@@ -11,8 +11,18 @@ tags:
   - item/weapon/melee
 aliases:
   - 'Hatred, the Wrathful Edge'
-one-hand-damage: 1d12 slashing
+one-hand-damage: 1d12
+damage-type: slashing
 weight: 7
+attunement: true
+attunement-requirement:
+  - creature the axe deems worthy
+rarity: artifact
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Hatred, the Wrathful Edge
 *Weapon ([[/5. Mechanics/Items/Greataxe.md\|greataxe]]), major, artifact (requires attunement by a creature the axe deems worthy)*  

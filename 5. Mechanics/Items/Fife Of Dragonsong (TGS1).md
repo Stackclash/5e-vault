@@ -11,9 +11,19 @@ tags:
   - item/weapon/ranged
 aliases:
   - Fife of Dragonsong
-one-hand-damage: 1 piercing
+one-hand-damage: 1
+damage-type: piercing
 range: 25\100
 weight: 1
+attunement: true
+attunement-requirement:
+  - bard
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Fife of Dragonsong
 *Weapon ([[/5. Mechanics/Items/Blowgun.md\|blowgun]]), major, rare (requires attunement by a bard)*  

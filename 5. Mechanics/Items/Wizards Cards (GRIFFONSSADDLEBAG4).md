@@ -8,6 +8,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Wizards' Cards
+attunement: true
+rarity: uncommon
 ---
 # Wizards' Cards
 *Wondrous item, uncommon (requires attunement)*  

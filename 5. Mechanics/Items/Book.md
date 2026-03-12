@@ -10,6 +10,11 @@ aliases:
   - Book
 cost: 2500
 weight: 5
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Book
 *Adventuring gear*  

@@ -10,8 +10,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Geryon's Spite
-one-hand-damage: 1d10 piercing
+one-hand-damage: 1d10
+damage-type: piercing
 weight: 18
+attunement: true
+rarity: legendary
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Geryon's Spite
 *Weapon ([[/5. Mechanics/Items/Pike.md\|pike]]), legendary (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pole of Collapsing
+attunement: false
+rarity: common
+tier: minor
 ---
 # Pole of Collapsing
 *Wondrous item, minor, common*  

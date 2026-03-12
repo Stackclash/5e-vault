@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - H'rethi Cloak of Shielding
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # H'rethi Cloak of Shielding
 *Wondrous item, major, very rare (requires attunement)*  

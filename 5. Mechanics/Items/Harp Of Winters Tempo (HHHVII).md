@@ -9,6 +9,13 @@ tags:
   - item/rarity/rare
 aliases:
   - Harp of Winter's Tempo
+attunement: true
+attunement-requirement:
+  - bard
+rarity: rare
+type: gear
+subtype:
+  - instrument
 ---
 # Harp of Winter's Tempo
 *Wondrous item, instrument, rare (requires attunement by a bard)*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Misdirection
+attunement: false
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Misdirection
 *Ring, minor, rare*  

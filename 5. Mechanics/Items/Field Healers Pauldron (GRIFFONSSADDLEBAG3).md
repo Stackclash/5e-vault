@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Field Healer's Pauldron
+attunement: true
+rarity: rare
+tier: major
 ---
 # Field Healer's Pauldron
 *Wondrous item, major, rare (requires attunement)*  

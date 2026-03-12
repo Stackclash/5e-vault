@@ -9,6 +9,13 @@ tags:
   - item/tier/major
 aliases:
   - Hat of the Sanguine Coven
+attunement: true
+attunement-requirement:
+  - sorcerer
+  - warlock
+  - wizard
+rarity: uncommon
+tier: major
 ---
 # Hat of the Sanguine Coven
 *Wondrous item, major, uncommon (requires attunement by a sorcerer, warlock, or wizard)*  

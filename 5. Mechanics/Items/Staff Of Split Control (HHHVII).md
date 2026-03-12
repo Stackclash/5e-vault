@@ -10,9 +10,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of Split Control
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Staff of Split Control
 *Staff, weapon, very rare (requires attunement)*  

@@ -11,9 +11,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Wind and Whirl
-one-hand-damage: 1d6 slashing
+one-hand-damage: 1d6
+damage-type: slashing
 range: 20\60
 weight: 3
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Wind and Whirl
 *Weapon ([[/5. Mechanics/Items/Scimitar.md\|scimitar]]), major, very rare (requires attunement)*  

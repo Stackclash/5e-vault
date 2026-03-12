@@ -14,6 +14,13 @@ aliases:
   - Sun Stream Bow
   - Sun Stream Longbow
   - Sun Stream Shortbow
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Sun Stream Bow
 *Very rare (requires attunement)*  

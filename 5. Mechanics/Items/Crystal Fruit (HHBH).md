@@ -9,6 +9,11 @@ tags:
 aliases:
   - Crystal Fruit
 cost: 10000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Crystal Fruit
 *Herb, rare*  

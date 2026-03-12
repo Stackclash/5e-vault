@@ -11,9 +11,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Warhammer of Eruptions
-one-hand-damage: 1d8 bludgeoning
-two-hand-damage: 1d10 bludgeoning
+one-hand-damage: 1d8
+two-hand-damage: 1d10
+damage-type: bludgeoning
 weight: 2
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Warhammer of Eruptions
 *Weapon ([[/5. Mechanics/Items/Warhammer.md\|warhammer]]), major, rare (requires attunement)*  

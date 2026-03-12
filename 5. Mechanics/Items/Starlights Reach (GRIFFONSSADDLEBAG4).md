@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Starlight's Reach
+attunement: true
+rarity: very-rare
 ---
 # Starlight's Reach
 *Wondrous item, very rare (requires attunement)*  

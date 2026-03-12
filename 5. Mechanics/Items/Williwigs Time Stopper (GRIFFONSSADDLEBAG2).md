@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Williwig's Time Stopper
+attunement: false
+rarity: common
+tier: minor
 ---
 # Williwig's Time Stopper
 *Wondrous item, minor, common*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/rod
 aliases:
   - Instigator's Rod
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - rod
 ---
 # Instigator's Rod
 *Rod, minor, common*  

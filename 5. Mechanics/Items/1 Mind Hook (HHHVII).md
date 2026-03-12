@@ -13,6 +13,13 @@ aliases:
   - +1 Mind Hook
   - +1 Mind Hook Sickle
   - +1 Mind Hook War Pick
+attunement: false
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # +1 Mind Hook
 *Very rare*  

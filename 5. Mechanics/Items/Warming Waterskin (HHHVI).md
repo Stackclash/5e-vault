@@ -8,6 +8,8 @@ tags:
 aliases:
   - Warming Waterskin
 weight: 5
+attunement: false
+rarity: common
 ---
 # Warming Waterskin
 *Wondrous item, common*  

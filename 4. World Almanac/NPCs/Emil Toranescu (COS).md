@@ -11,10 +11,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\emil-toranescu.webp
-relationships: []
 aliases:
   - Emil Toranescu
 alignment: Chaotic Evil
+relationships: []
 partyRelationships:
   Midnight Covenant: Friendly
 location: null
@@ -33,7 +33,6 @@ goals: null
 likes: null
 dislikes: null
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

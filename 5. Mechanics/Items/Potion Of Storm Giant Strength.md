@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Storm Giant Strength
+attunement: false
+rarity: legendary
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Storm Giant Strength
 *Potion, minor, legendary*  

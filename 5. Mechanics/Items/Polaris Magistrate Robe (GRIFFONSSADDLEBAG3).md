@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Polaris Magistrate Robe
+attunement: true
+attunement-requirement:
+  - lawful creature
+rarity: rare
+tier: major
 ---
 # Polaris Magistrate Robe
 *Wondrous item, major, rare (requires attunement by a lawful creature)*  

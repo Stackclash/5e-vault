@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Whispergust Mote
+attunement: false
+rarity: common
+tier: minor
 ---
 # Whispergust Mote
 *Wondrous item, minor, common*  

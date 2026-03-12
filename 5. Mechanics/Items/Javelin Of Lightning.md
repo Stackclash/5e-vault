@@ -10,9 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Javelin of Lightning
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 range: 30\120
 weight: 2
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Javelin of Lightning
 *Weapon ([[/5. Mechanics/Items/Javelin.md\|javelin]]), major, uncommon*  

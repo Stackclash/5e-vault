@@ -18,6 +18,13 @@ aliases:
   - Ioun Rapier
   - Ioun Scimitar
   - Ioun Shortsword
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Ioun Blade
 *Major, very rare (requires attunement)*  

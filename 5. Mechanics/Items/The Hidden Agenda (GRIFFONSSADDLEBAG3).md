@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - The Hidden Agenda
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # The Hidden Agenda
 *Wondrous item, major, very rare (requires attunement)*  

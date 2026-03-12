@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Bottled Will-o'-Wisp
+attunement: false
+rarity: uncommon
 ---
 # Bottled Will-o'-Wisp
 *Wondrous item, uncommon*  

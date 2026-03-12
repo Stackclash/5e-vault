@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Claws of Ursine Fury
+attunement: true
+attunement-requirement:
+  - barbarian
+rarity: rare
+tier: major
 ---
 # Claws of Ursine Fury
 *Wondrous item, major, rare (requires attunement by a barbarian)*  

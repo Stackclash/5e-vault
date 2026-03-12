@@ -17,6 +17,14 @@ aliases:
   - Shapeless Hooked Shortspear
   - Shapeless Hoopak
   - Shapeless Yklwa
+attunement: true
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Memento of the Shapeless
 *Major, legendary (requires attunement)*  

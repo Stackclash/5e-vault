@@ -9,10 +9,10 @@ tags:
   - monster/type/humanoid/human
 condition: healthy
 images: []
-relationships: []
 aliases:
   - Madam Eva
 alignment: Chaotic Neutral
+relationships: []
 partyRelationships:
   Midnight Covenant: Friendly
 location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
@@ -34,7 +34,6 @@ goals: To guide the souls that come to her towards their destiny.
 likes: 'Reading fortunes, the respect of her people, the mystic arts.'
 dislikes: 'Those who disrespect the Vistani, closed-mindedness.'
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

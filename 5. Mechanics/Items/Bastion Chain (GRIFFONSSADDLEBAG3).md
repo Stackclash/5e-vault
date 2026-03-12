@@ -12,6 +12,14 @@ aliases:
   - Bastion Chain
 armorClass: 16
 weight: 55
+stealth-penalty: true
+strength-requirement: 13
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - heavy
 ---
 # Bastion Chain
 *Heavy armor ([[/5. Mechanics/Items/Chain Mail.md\|chain mail]]), major, rare (requires attunement)*  

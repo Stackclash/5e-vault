@@ -9,6 +9,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Bubbles
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Bubbles
 *Wand, minor, common*  

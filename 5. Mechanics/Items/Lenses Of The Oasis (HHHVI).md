@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Lenses of the Oasis
+attunement: true
+rarity: rare
 ---
 # Lenses of the Oasis
 *Wondrous item, rare (requires attunement)*  

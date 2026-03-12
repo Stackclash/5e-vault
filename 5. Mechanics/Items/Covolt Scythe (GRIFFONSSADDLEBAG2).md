@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Covolt Scythe
-one-hand-damage: 1d10 slashing
+one-hand-damage: 1d10
+damage-type: slashing
 weight: 6
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Covolt Scythe
 *Weapon ([[/5. Mechanics/Items/Glaive.md\|glaive]]), major, rare (requires attunement)*  

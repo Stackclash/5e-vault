@@ -10,9 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Splintershot
-one-hand-damage: 1d6 thunder
+one-hand-damage: 1d6
+damage-type: thunder
 range: 80\320
 weight: 2
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - ranged
+  - simple
 ---
 # Splintershot
 *Weapon ([[/5. Mechanics/Items/Shortbow.md\|shortbow]]), major, rare*  

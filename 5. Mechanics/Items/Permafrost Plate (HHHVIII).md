@@ -11,6 +11,13 @@ aliases:
   - Permafrost Plate
 armorClass: 18
 weight: 65
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+rarity: rare
+type: armor
+subtype:
+  - heavy
 ---
 # Permafrost Plate
 *Heavy armor ([[/5. Mechanics/Items/Plate Armor.md\|plate armor]]), rare (requires attunement)*  

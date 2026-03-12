@@ -10,6 +10,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Venombane Armor
+attunement: true
+rarity: uncommon
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Venombane Armor
 *Major, uncommon (requires attunement)*  

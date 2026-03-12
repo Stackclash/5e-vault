@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bubble Collar
+attunement: false
+rarity: common
+tier: minor
 ---
 # Bubble Collar
 *Wondrous item, minor, common*  

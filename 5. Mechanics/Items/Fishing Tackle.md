@@ -10,6 +10,11 @@ aliases:
   - Fishing Tackle
 cost: 100
 weight: 4
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Fishing Tackle
 *Adventuring gear*  

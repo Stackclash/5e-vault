@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Pipes of the Deceiver
+attunement: true
+rarity: legendary
 ---
 # Pipes of the Deceiver
 *Wondrous item, legendary (requires attunement)*  

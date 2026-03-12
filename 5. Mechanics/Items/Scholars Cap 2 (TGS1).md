@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Scholar's Cap +2
+attunement: true
+rarity: rare
+tier: major
 ---
 # Scholar's Cap +2
 *Wondrous item, major, rare (requires attunement)*  

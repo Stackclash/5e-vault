@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Collar of the Crystal Veil
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: very-rare
+tier: major
 ---
 # Collar of the Crystal Veil
 *Wondrous item, major, very rare (requires attunement by a spellcaster)*  

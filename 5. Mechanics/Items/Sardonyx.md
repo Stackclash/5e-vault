@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sardonyx
 cost: 5000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Sardonyx
 *Treasure (gemstone)*  

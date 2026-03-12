@@ -9,6 +9,11 @@ tags:
 aliases:
   - Toad Skin Shrub
 cost: 2000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Toad Skin Shrub
 *Herb, rare*  

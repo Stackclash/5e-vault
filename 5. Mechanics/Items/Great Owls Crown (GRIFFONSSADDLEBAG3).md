@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Great Owl's Crown
+attunement: true
+rarity: uncommon
+tier: minor
 ---
 # Great Owl's Crown
 *Wondrous item, minor, uncommon (requires attunement)*  

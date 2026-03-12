@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Ioun Stone, Absorption'
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Ioun Stone, Absorption
 *Wondrous item, major, very rare (requires attunement)*  

@@ -9,8 +9,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Rapier of the Black Tentacle
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Rapier of the Black Tentacle
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), rare*  

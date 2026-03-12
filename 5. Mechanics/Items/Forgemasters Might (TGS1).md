@@ -14,6 +14,16 @@ aliases:
   - Forgemaster's Might
   - Forgemaster's Maul
   - Forgemaster's Warhammer
+attunement: true
+attunement-requirement:
+  - creature with a strength score of 17
+  - higher
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Forgemaster's Might
 *Major, legendary (requires attunement by a creature with a Strength score of 17 or higher)*  

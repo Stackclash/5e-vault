@@ -10,6 +10,12 @@ tags:
 aliases:
   - Ogramau's Graveyard
 weight: 1
+attunement: true
+attunement-requirement:
+  - cleric
+  - wizard
+rarity: very-rare
+tier: major
 ---
 # Ogramau's Graveyard
 *Wondrous item, major, very rare (requires attunement by a cleric or wizard)*  

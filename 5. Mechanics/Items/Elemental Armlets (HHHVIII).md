@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Elemental Armlets
+attunement: true
+rarity: rare
 ---
 # Elemental Armlets
 *Wondrous item, rare (requires attunement)*  

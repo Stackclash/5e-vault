@@ -9,6 +9,11 @@ tags:
 aliases:
   - Liftwood
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Liftwood
 *Herb, common*  

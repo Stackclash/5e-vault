@@ -9,6 +9,9 @@ tags:
 aliases:
   - Helm of the Deep Sea Knight
 weight: 6
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Helm of the Deep Sea Knight
 *Wondrous item, minor, uncommon*  

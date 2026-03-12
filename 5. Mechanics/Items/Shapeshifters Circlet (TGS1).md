@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Shapeshifter's Circlet
+attunement: false
+rarity: common
+tier: minor
 ---
 # Shapeshifter's Circlet
 *Wondrous item, minor, common*  

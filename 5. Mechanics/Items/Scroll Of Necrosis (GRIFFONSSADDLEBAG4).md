@@ -8,6 +8,11 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of Necrosis
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of Necrosis
 *Scroll, rare*  

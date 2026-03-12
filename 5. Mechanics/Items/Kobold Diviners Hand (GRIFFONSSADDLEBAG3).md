@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Kobold Diviner's Hand
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Kobold Diviner's Hand
 *Wondrous item, minor, uncommon*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Ink Pen
 cost: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Ink Pen
 *Adventuring gear*  

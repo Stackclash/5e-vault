@@ -11,10 +11,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\brom-martikov.webp
-relationships: []
 aliases:
   - Brom Martikov
 alignment: Lawful Good
+relationships: []
 partyRelationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
@@ -35,7 +35,6 @@ goals:
 likes: 'Pranks, stories of faraway places, animals'
 dislikes: 'Restrictions, Strahd’s minions, when others treat him like a child'
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

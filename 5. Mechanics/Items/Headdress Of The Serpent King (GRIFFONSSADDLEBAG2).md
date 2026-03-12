@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Headdress of the Serpent King
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Headdress of the Serpent King
 *Wondrous item, cursed item, major, uncommon (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Life Tether Ankh
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Life Tether Ankh
 *Wondrous item, minor, uncommon*  

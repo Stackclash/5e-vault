@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bloodmire Phiale
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Bloodmire Phiale
 *Wondrous item, minor, uncommon*  

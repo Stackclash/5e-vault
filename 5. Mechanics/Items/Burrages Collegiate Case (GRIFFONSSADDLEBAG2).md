@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Burrage's Collegiate Case
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Burrage's Collegiate Case
 *Wondrous item, minor, uncommon*  

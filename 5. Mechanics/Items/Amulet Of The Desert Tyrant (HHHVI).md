@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Amulet of the Desert Tyrant
+attunement: true
+rarity: legendary
 ---
 # Amulet of the Desert Tyrant
 *Wondrous item, legendary (requires attunement)*  

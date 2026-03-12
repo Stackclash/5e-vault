@@ -10,9 +10,17 @@ tags:
   - item/weapon/ranged
 aliases:
   - Trampling Crossbow
-one-hand-damage: 1d10 piercing
+one-hand-damage: 1d10
+damage-type: piercing
 range: 100\400
 weight: 18
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Trampling Crossbow
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, uncommon*  

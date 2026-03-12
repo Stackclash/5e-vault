@@ -10,6 +10,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Faerie Firework Launcher
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Faerie Firework Launcher
 *Major, rare (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Lucky Horseshoes
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Lucky Horseshoes
 *Wondrous item, minor, rare*  

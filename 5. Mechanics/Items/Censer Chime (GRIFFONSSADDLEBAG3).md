@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Censer Chime
+attunement: false
+rarity: varies
+tier: minor
 ---
 # Censer Chime
 *Wondrous item, minor*  

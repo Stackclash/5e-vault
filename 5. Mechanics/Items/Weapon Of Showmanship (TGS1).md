@@ -66,6 +66,15 @@ aliases:
   - Warhammer of Showmanship
   - Whip of Showmanship
   - Yklwa of Showmanship
+attunement: false
+rarity: common
+tier: minor
+type: weapon
+subtype:
+  - martial
+  - melee
+  - ranged
+  - simple
 ---
 # Weapon of Showmanship
 *Minor, common*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Doodle Ring
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - ring
 ---
 # Doodle Ring
 *Ring, minor, uncommon*  

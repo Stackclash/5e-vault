@@ -12,6 +12,12 @@ aliases:
   - Armor of Icarus
 armorClass: 14 + Dex modifier (max of +2)
 weight: 20
+attunement: true
+rarity: rare
+tier: major
+type: armor
+subtype:
+  - medium
 ---
 # Armor of Icarus
 *Medium armor ([[/5. Mechanics/Items/Breastplate.md\|breastplate]]), major, rare (requires attunement)*  

@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Velorin's Laboratory
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - requires-installation
 ---
 # Velorin's Laboratory
 *Wondrous item, requires installation, rare*  

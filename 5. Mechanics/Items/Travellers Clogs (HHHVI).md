@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Traveller's Clogs
+attunement: false
+rarity: common
 ---
 # Traveller's Clogs
 *Wondrous item, common*  

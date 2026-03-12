@@ -11,9 +11,19 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Snail (uncommon)
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Staff of the Snail (uncommon)
 *Staff, weapon, cursed item, major, uncommon (requires attunement by a spellcaster)*  

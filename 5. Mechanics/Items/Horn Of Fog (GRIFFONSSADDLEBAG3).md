@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Horn of Fog
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Horn of Fog
 *Wondrous item, major, uncommon*  

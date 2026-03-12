@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Grasping Seedling Necklace
+attunement: false
+rarity: common
+tier: minor
 ---
 # Grasping Seedling Necklace
 *Wondrous item, minor, common*  

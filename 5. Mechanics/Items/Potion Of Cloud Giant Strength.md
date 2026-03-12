@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Cloud Giant Strength
+attunement: false
+rarity: very-rare
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Cloud Giant Strength
 *Potion, minor, very rare*  

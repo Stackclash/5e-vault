@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Universal Solvent
+attunement: false
+rarity: legendary
+tier: minor
 ---
 # Universal Solvent
 *Wondrous item, minor, legendary*  

@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Jade Elixir
+attunement: false
+rarity: legendary
+type: wondrous
+subtype:
+  - potion
 ---
 # Jade Elixir
 *Potion, legendary*  

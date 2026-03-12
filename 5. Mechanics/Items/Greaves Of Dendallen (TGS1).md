@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Greaves of Dendallen
+attunement: true
+rarity: rare
+tier: major
 ---
 # Greaves of Dendallen
 *Wondrous item, cursed item, major, rare (requires attunement)*  

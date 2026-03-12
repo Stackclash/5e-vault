@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Torpedo Arrow (Generic)
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Torpedo Arrow (Generic)
 *Minor, common*  

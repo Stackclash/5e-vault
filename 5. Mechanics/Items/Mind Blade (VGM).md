@@ -17,6 +17,14 @@ aliases:
   - Mind Blade Rapier
   - Mind Blade Scimitar
   - Mind Blade Shortsword
+attunement: true
+attunement-requirement:
+  - specific individual
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Mind Blade
 *Rare (requires attunement by a specific individual)*  

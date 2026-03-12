@@ -11,6 +11,14 @@ tags:
 aliases:
   - 'Instrument of the Bards, Ollamh Harp'
 weight: 2
+attunement: true
+attunement-requirement:
+  - bard
+rarity: legendary
+tier: major
+type: gear
+subtype:
+  - instrument
 ---
 # Instrument of the Bards, Ollamh Harp
 *Wondrous item, instrument, major, legendary (requires attunement by a bard)*  

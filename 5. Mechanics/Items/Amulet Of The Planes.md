@@ -10,6 +10,9 @@ tags:
 aliases:
   - Amulet of the Planes
 weight: 1
+attunement: true
+rarity: very-rare
+tier: major
 ---
 # Amulet of the Planes
 *Wondrous item, major, very rare (requires attunement)*  

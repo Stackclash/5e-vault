@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Necro Gauntlets
+attunement: false
+rarity: rare
 ---
 # Necro Gauntlets
 *Wondrous item, rare*  

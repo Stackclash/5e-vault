@@ -8,6 +8,11 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of the Koi
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of the Koi
 *Ring, rare*  

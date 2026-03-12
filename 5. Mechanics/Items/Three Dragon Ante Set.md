@@ -9,6 +9,11 @@ tags:
 aliases:
   - Three-Dragon Ante Set
 cost: 100
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - gaming-set
 ---
 # Three-Dragon Ante Set
 *Gaming set*  

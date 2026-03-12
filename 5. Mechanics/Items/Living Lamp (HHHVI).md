@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Living Lamp
+attunement: false
+rarity: rare
 ---
 # Living Lamp
 *Wondrous item, rare*  

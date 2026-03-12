@@ -15,6 +15,13 @@ aliases:
   - Stone Cleaver Hooked Shortspear
   - Stone Cleaver Hoopak
   - Stone Cleaver Yklwa
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Stone Cleaver Weapon
 *Rare*  

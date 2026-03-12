@@ -8,6 +8,11 @@ tags:
   - item/rarity/rare
 aliases:
   - Curse of Nightmares
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - curse
 ---
 # Curse of Nightmares
 *Wondrous item, curse, cursed item, rare*  

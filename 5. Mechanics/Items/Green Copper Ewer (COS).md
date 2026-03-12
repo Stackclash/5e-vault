@@ -8,6 +8,11 @@ tags:
   - item/wondrous/other
 aliases:
   - Green Copper Ewer
+attunement: false
+rarity: unknown\Magic
+type: wondrous
+subtype:
+  - other
 ---
 # Green Copper Ewer
 

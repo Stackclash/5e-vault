@@ -11,6 +11,14 @@ tags:
 aliases:
   - 'Instrument of the Bards, Mac-Fuirmidh Cittern'
 weight: 2
+attunement: true
+attunement-requirement:
+  - bard
+rarity: uncommon
+tier: major
+type: gear
+subtype:
+  - instrument
 ---
 # Instrument of the Bards, Mac-Fuirmidh Cittern
 *Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  

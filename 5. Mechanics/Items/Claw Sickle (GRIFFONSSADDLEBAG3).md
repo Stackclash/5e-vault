@@ -11,8 +11,18 @@ tags:
   - item/weapon/simple
 aliases:
   - Claw Sickle
-one-hand-damage: 2d4 slashing
+one-hand-damage: 2d4
+damage-type: slashing
 weight: 2
+attunement: true
+attunement-requirement:
+  - creature cursed with lycanthropy
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Claw Sickle
 *Weapon ([[/5. Mechanics/Items/Sickle.md\|sickle]]), major, uncommon (requires attunement by a creature cursed with lycanthropy)*  

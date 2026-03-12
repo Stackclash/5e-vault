@@ -9,6 +9,11 @@ tags:
 aliases:
   - Silver ewer
 cost: 2500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Silver ewer
 *Treasure (art object)*  

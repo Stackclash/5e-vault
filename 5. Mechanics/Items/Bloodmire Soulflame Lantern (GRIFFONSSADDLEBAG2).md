@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Bloodmire Soulflame Lantern
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Bloodmire Soulflame Lantern
 *Wondrous item, cursed item, major, legendary (requires attunement)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Emerald
 cost: 100000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Emerald
 *Treasure (gemstone)*  

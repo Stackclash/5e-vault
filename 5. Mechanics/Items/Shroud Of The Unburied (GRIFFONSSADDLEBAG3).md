@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Shroud of the Unburied
+attunement: false
+rarity: rare
+tier: major
 ---
 # Shroud of the Unburied
 *Wondrous item, major, rare*  

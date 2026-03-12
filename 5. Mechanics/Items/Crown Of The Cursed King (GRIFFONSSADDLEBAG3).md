@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Crown of the Cursed King
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Crown of the Cursed King
 *Wondrous item, cursed item, major, legendary (requires attunement)*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of Meadow's Rest
+attunement: false
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of Meadow's Rest
 *Wand, major, rare*  

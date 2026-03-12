@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Shifter's Shine
+attunement: false
+rarity: varies
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Shifter's Shine
 *Potion, minor*  

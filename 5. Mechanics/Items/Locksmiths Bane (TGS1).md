@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Locksmith's Bane
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Locksmith's Bane
 *Wondrous item, major, uncommon*  

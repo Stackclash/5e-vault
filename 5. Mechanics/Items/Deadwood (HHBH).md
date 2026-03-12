@@ -9,6 +9,11 @@ tags:
 aliases:
   - Deadwood
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Deadwood
 *Herb, common*  

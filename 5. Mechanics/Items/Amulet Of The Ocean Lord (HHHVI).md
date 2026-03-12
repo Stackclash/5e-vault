@@ -8,6 +8,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Amulet of the Ocean Lord
+attunement: true
+rarity: legendary
 ---
 # Amulet of the Ocean Lord
 *Wondrous item, legendary (requires attunement)*  

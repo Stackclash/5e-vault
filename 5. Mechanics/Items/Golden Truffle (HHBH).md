@@ -9,6 +9,11 @@ tags:
 aliases:
   - Golden Truffle
 cost: 20000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Golden Truffle
 *Herb, rare*  

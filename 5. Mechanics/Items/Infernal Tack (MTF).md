@@ -8,6 +8,10 @@ tags:
   - item/rarity/legendary
 aliases:
   - Infernal Tack
+attunement: true
+attunement-requirement:
+  - creature of evil alignment.
+rarity: legendary
 ---
 # Infernal Tack
 *Wondrous item, legendary (requires attunement by a creature of evil alignment.)*  

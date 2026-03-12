@@ -8,6 +8,11 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Curse of Vengeance
+attunement: false
+rarity: uncommon
+type: gear
+subtype:
+  - curse
 ---
 # Curse of Vengeance
 *Wondrous item, curse, cursed item, uncommon*  

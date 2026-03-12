@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Magic Pocket
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Magic Pocket
 *Wondrous item, minor, uncommon*  

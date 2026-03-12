@@ -9,6 +9,13 @@ tags:
   - item/wondrous/rod
 aliases:
   - Fireamber Scepter
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: uncommon
+type: wondrous
+subtype:
+  - rod
 ---
 # Fireamber Scepter
 *Rod, uncommon (requires attunement by a spellcaster)*  

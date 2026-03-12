@@ -10,6 +10,11 @@ aliases:
   - Rations (1 day)
 cost: 50
 weight: 2
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Rations (1 day)
 *Adventuring gear*  

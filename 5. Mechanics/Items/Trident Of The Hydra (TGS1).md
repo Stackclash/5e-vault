@@ -10,9 +10,17 @@ tags:
   - item/weapon/melee
 aliases:
   - Trident of the Hydra
-one-hand-damage: 1d6 piercing
+one-hand-damage: 1d6
+damage-type: piercing
 range: 20\60
 weight: 4
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Trident of the Hydra
 *Weapon ([[/5. Mechanics/Items/Trident.md\|trident]]), major, rare*  

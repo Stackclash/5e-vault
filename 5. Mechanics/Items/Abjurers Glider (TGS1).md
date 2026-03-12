@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Abjurer's Glider
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: uncommon
+tier: major
 ---
 # Abjurer's Glider
 *Wondrous item, major, uncommon (requires attunement by a wizard)*  

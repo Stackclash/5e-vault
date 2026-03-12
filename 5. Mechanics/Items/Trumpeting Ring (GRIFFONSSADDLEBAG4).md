@@ -8,6 +8,11 @@ tags:
   - item/wondrous/ring
 aliases:
   - Trumpeting Ring
+attunement: false
+rarity: uncommon
+type: wondrous
+subtype:
+  - ring
 ---
 # Trumpeting Ring
 *Ring, uncommon*  

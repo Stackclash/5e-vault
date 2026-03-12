@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Clockwork Inkbeetle
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Clockwork Inkbeetle
 *Wondrous item, major, uncommon*  

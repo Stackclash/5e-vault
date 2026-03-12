@@ -16,6 +16,14 @@ aliases:
   - Dragon Edge Hooked Shortspear +1
   - Dragon Edge Hoopak +1
   - Dragon Edge Yklwa +1
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
+  - simple
 ---
 # Dragon Edge Weapon +1
 *Major, rare*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Fine gold chain set with a fire opal
 cost: 250000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Fine gold chain set with a fire opal
 *Treasure (art object)*  

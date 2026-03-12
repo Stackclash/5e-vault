@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Influential Tunic
+attunement: false
+rarity: common
 ---
 # Influential Tunic
 *Wondrous item, common*  

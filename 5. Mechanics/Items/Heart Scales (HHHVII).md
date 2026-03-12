@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Heart Scales
+attunement: false
+rarity: rare
 ---
 # Heart Scales
 *Wondrous item, rare*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Gloves of Swimming and Climbing
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Gloves of Swimming and Climbing
 *Wondrous item, major, uncommon (requires attunement)*  

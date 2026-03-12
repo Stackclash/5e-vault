@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Immovable Cat
+attunement: false
+rarity: rare
+tier: major
 ---
 # Immovable Cat
 *Wondrous item, major, rare*  

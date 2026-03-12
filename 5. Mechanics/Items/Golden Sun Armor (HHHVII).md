@@ -11,6 +11,13 @@ aliases:
   - Golden Sun Armor
 armorClass: 17
 weight: 60
+stealth-penalty: true
+strength-requirement: 15
+attunement: true
+rarity: very-rare
+type: armor
+subtype:
+  - heavy
 ---
 # Golden Sun Armor
 *Heavy armor ([[/5. Mechanics/Items/Splint Armor.md\|splint armor]]), very rare (requires attunement)*  

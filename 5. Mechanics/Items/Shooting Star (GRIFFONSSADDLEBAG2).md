@@ -11,9 +11,17 @@ tags:
   - item/weapon/ranged
 aliases:
   - Shooting Star
-one-hand-damage: 1d8 radiant
+one-hand-damage: 1d8
+damage-type: radiant
 range: 150\600
 weight: 2
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Shooting Star
 *Weapon ([[/5. Mechanics/Items/Longbow.md\|longbow]]), major, very rare (requires attunement)*  

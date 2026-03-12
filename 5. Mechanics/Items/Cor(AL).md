@@ -9,6 +9,11 @@ tags:
 aliases:
   - Coral
 cost: 10000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Coral
 *Treasure (gemstone)*  

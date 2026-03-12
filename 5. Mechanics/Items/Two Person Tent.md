@@ -10,6 +10,11 @@ aliases:
   - Two-Person Tent
 cost: 200
 weight: 20
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Two-Person Tent
 *Adventuring gear*  

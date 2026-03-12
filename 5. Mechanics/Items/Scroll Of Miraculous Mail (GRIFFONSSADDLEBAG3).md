@@ -9,6 +9,12 @@ tags:
   - item/wondrous/scroll
 aliases:
   - Scroll of Miraculous Mail
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - scroll
 ---
 # Scroll of Miraculous Mail
 *Scroll, minor, common*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Enchanted Vial
 cost: 300
+attunement: false
+rarity: unknown\Magic
+type: wondrous
+subtype:
+  - other
 ---
 # Enchanted Vial
 

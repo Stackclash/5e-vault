@@ -9,6 +9,11 @@ tags:
 aliases:
   - Silver Root
 cost: 2000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Silver Root
 *Herb, rare*  

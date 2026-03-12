@@ -11,8 +11,16 @@ tags:
   - item/weapon/melee
 aliases:
   - King Crab Claymore
-one-hand-damage: 2d6 slashing
+one-hand-damage: 2d6
+damage-type: slashing
 weight: 6
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # King Crab Claymore
 *Weapon ([[/5. Mechanics/Items/Greatsword.md\|greatsword]]), major, rare (requires attunement)*  

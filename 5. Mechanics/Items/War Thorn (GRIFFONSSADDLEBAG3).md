@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - War Thorn
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
+attunement: false
+rarity: uncommon
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # War Thorn
 *Weapon ([[/5. Mechanics/Items/War Pick.md\|war pick]]), major, uncommon*  

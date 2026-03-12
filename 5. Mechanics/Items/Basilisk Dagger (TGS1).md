@@ -10,9 +10,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Basilisk Dagger
-one-hand-damage: 1d4 piercing
+one-hand-damage: 1d4
+damage-type: piercing
 range: 40\80
 weight: 1
+attunement: false
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Basilisk Dagger
 *Weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, rare*  

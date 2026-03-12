@@ -10,9 +10,20 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of the Magi
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - sorcerer
+  - warlock
+  - wizard
+rarity: legendary
+tier: major
+type: weapon
+subtype:
+  - simple
 ---
 # Staff of the Magi
 *Staff, weapon, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

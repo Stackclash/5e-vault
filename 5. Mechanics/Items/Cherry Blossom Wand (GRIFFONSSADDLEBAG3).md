@@ -9,6 +9,12 @@ tags:
   - item/wondrous/wand
 aliases:
   - Cherry Blossom Wand
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - wand
 ---
 # Cherry Blossom Wand
 *Wand, minor, common*  

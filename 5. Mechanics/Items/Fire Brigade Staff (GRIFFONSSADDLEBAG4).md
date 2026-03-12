@@ -9,9 +9,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Fire Brigade Staff
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: false
+rarity: rare
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Fire Brigade Staff
 *Staff, weapon, rare*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Freerunner's Armor
+attunement: false
+rarity: common
+tier: minor
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Freerunner's Armor
 *Minor, common*  

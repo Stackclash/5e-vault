@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Dress of Defense
+attunement: true
+rarity: rare
+tier: major
 ---
 # Dress of Defense
 *Wondrous item, major, rare (requires attunement)*  

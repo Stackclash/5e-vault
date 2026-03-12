@@ -11,9 +11,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Master Machinist's Marvelous Mallet
-one-hand-damage: 1d4 bludgeoning
+one-hand-damage: 1d4
+damage-type: bludgeoning
 range: 20\60
 weight: 2
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Master Machinist's Marvelous Mallet
 *Weapon ([[/5. Mechanics/Items/Light Hammer.md\|light hammer]]), major, rare (requires attunement)*  

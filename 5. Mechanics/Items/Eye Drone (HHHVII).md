@@ -7,6 +7,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Eye Drone
+attunement: false
+rarity: rare
 ---
 # Eye Drone
 *Wondrous item, rare*  

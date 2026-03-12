@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Sash of Sorcerous Synergy
+attunement: true
+attunement-requirement:
+  - sorcerer
+rarity: rare
+tier: major
 ---
 # Sash of Sorcerous Synergy
 *Wondrous item, major, rare (requires attunement by a sorcerer)*  

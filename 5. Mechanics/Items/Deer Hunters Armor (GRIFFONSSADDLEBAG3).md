@@ -10,6 +10,12 @@ tags:
   - item/wondrous/generic-variant
 aliases:
   - Deer Hunter's Armor
+attunement: true
+rarity: rare
+tier: minor
+type: wondrous
+subtype:
+  - generic-variant
 ---
 # Deer Hunter's Armor
 *Minor, rare (requires attunement)*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/very-rare
 aliases:
   - Cloak of the Arachnid
+attunement: true
+rarity: very-rare
 ---
 # Cloak of the Arachnid
 *Wondrous item, very rare (requires attunement)*  

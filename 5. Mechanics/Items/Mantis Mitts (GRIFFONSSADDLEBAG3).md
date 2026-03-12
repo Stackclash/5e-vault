@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Mantis Mitts
+attunement: true
+rarity: rare
+tier: major
 ---
 # Mantis Mitts
 *Wondrous item, major, rare (requires attunement)*  

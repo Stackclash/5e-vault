@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Blinders Helm
+attunement: true
+rarity: rare
 ---
 # Blinders Helm
 *Wondrous item, rare (requires attunement)*  

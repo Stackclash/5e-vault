@@ -9,6 +9,11 @@ tags:
 aliases:
   - Perfume (vial)
 cost: 500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Perfume (vial)
 *Adventuring gear*  

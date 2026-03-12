@@ -9,6 +9,11 @@ tags:
 aliases:
   - Star Sapphire
 cost: 100000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Star Sapphire
 *Treasure (gemstone)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Belt of Dwarvenkind
+attunement: true
+rarity: rare
+tier: major
 ---
 # Belt of Dwarvenkind
 *Wondrous item, major, rare (requires attunement)*  

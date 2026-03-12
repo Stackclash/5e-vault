@@ -9,6 +9,11 @@ tags:
 aliases:
   - Hopping Bean
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Hopping Bean
 *Herb, rare*  

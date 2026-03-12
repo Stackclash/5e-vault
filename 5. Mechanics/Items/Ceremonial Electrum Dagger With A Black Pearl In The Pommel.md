@@ -9,6 +9,11 @@ tags:
 aliases:
   - Ceremonial electrum dagger with a black pearl in the pommel
 cost: 75000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-art-object
 ---
 # Ceremonial electrum dagger with a black pearl in the pommel
 *Treasure (art object)*  

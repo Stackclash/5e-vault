@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Snugglebeast (Owlbear)
+attunement: false
+rarity: common
+tier: minor
 ---
 # Snugglebeast (Owlbear)
 *Wondrous item, minor, common*  

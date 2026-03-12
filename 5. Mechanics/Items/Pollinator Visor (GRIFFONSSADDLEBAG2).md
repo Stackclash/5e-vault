@@ -9,6 +9,12 @@ tags:
   - item/tier/major
 aliases:
   - Pollinator Visor
+attunement: true
+attunement-requirement:
+  - druid
+  - ranger
+rarity: uncommon
+tier: major
 ---
 # Pollinator Visor
 *Wondrous item, major, uncommon (requires attunement by a druid or ranger)*  

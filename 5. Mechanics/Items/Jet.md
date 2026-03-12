@@ -9,6 +9,11 @@ tags:
 aliases:
   - Jet
 cost: 10000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Jet
 *Treasure (gemstone)*  

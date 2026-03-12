@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Badge of the Savant (Abjuration)
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Badge of the Savant (Abjuration)
 *Wondrous item, major, uncommon*  

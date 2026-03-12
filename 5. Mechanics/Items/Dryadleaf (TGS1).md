@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Dryadleaf
+attunement: false
+rarity: common
+tier: minor
 ---
 # Dryadleaf
 *Wondrous item, minor, common*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Necrolace
+attunement: false
+rarity: rare
+tier: major
 ---
 # Necrolace
 *Wondrous item, major, rare*  

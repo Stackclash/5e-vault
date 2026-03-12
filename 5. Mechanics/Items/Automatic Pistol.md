@@ -10,9 +10,16 @@ tags:
   - item/weapon/ranged
 aliases:
   - Automatic Pistol
-one-hand-damage: 2d6 piercing
+one-hand-damage: 2d6
+damage-type: piercing
 range: 50\150
 weight: 3
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Automatic Pistol
 *Weapon*  

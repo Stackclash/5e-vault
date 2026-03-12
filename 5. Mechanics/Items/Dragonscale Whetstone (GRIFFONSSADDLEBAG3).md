@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Dragonscale Whetstone
+attunement: false
+rarity: varies
+tier: minor
 ---
 # Dragonscale Whetstone
 *Wondrous item, minor*  

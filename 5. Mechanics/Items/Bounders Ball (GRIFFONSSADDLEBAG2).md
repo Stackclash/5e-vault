@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Bounder's Ball
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Bounder's Ball
 *Wondrous item, minor, rare*  

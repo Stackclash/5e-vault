@@ -10,6 +10,14 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Eldritch Ire
+attunement: true
+attunement-requirement:
+  - warlock
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Eldritch Ire
 *Ring, major, rare (requires attunement by a warlock)*  

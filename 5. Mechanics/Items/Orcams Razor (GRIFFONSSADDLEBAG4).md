@@ -9,9 +9,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Orcam's Razor
-one-hand-damage: 1d6 slashing
+one-hand-damage: 1d6
+damage-type: slashing
 range: 20\60
 weight: 2
+attunement: false
+rarity: uncommon
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Orcam's Razor
 *Weapon ([[/5. Mechanics/Items/Handaxe.md\|handaxe]]), uncommon*  

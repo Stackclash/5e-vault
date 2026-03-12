@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Gnashing Key
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Gnashing Key
 *Wondrous item, minor, uncommon*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Masks of the Sacred Beasts (Jackal)
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Masks of the Sacred Beasts (Jackal)
 *Wondrous item, major, legendary (requires attunement)*  

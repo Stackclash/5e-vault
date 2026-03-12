@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Dead Ringer
+attunement: true
+rarity: rare
+tier: major
 ---
 # Dead Ringer
 *Wondrous item, major, rare (requires attunement)*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Shadow Tag
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Shadow Tag
 *Wondrous item, minor, rare*  

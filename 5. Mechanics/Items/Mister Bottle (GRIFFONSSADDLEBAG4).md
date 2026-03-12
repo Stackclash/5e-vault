@@ -7,6 +7,8 @@ tags:
   - item/rarity/legendary
 aliases:
   - Mister Bottle
+attunement: false
+rarity: legendary
 ---
 # Mister Bottle
 *Wondrous item, legendary*  

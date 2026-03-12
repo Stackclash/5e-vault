@@ -9,6 +9,13 @@ tags:
   - item/wondrous/wand
 aliases:
   - Wand of the Golden Ray
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: very-rare
+type: wondrous
+subtype:
+  - wand
 ---
 # Wand of the Golden Ray
 *Wand, very rare (requires attunement by a spellcaster)*  

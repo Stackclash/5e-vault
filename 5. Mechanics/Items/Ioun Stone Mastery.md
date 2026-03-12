@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Ioun Stone, Mastery'
+attunement: true
+rarity: legendary
+tier: major
 ---
 # Ioun Stone, Mastery
 *Wondrous item, major, legendary (requires attunement)*  

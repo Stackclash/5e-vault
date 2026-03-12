@@ -10,10 +10,10 @@ tags:
   - monster/type/humanoid/shapechanger
 condition: healthy
 images: []
-relationships: []
 aliases:
   - Urwin Martikov
 alignment: Lawful Good
+relationships: []
 partyRelationships:
   Midnight Covenant: Ally
 location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
@@ -34,7 +34,6 @@ dislikes: null
 description: blah
 history: blah
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

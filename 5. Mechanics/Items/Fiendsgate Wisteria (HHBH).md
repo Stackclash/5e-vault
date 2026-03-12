@@ -9,6 +9,11 @@ tags:
 aliases:
   - Fiendsgate Wisteria
 cost: 1000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Fiendsgate Wisteria
 *Herb, rare*  

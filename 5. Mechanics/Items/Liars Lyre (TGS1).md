@@ -11,6 +11,14 @@ tags:
 aliases:
   - Liar's Lyre
 weight: 2
+attunement: true
+attunement-requirement:
+  - bard
+rarity: uncommon
+tier: major
+type: gear
+subtype:
+  - instrument
 ---
 # Liar's Lyre
 *Instrument, major, uncommon (requires attunement by a bard)*  

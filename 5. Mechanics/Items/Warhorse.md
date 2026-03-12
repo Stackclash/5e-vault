@@ -9,6 +9,11 @@ tags:
 aliases:
   - Warhorse
 cost: 40000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - mount
 ---
 # Warhorse
 *Mount*  

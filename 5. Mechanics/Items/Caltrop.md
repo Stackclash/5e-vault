@@ -10,6 +10,11 @@ aliases:
   - Caltrop
 cost: 5
 weight: 0.1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Caltrop
 *Adventuring gear*  

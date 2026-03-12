@@ -10,6 +10,11 @@ aliases:
   - Tinderbox
 cost: 50
 weight: 1
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Tinderbox
 *Adventuring gear*  

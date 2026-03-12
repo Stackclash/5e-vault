@@ -11,8 +11,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Mace of Disruption
-one-hand-damage: 1d6 bludgeoning
+one-hand-damage: 1d6
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Mace of Disruption
 *Weapon ([[/5. Mechanics/Items/Mace.md\|mace]]), major, rare (requires attunement)*  

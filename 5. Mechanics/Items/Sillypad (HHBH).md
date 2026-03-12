@@ -9,6 +9,11 @@ tags:
 aliases:
   - Sillypad
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Sillypad
 *Herb, common*  

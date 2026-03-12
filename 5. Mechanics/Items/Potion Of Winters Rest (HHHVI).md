@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - Potion of Winter's Rest
+attunement: false
+rarity: rare
+type: wondrous
+subtype:
+  - potion
 ---
 # Potion of Winter's Rest
 *Potion, rare*  

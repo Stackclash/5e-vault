@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Canister of Vreyval's Soothing Tea
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Canister of Vreyval's Soothing Tea
 *Wondrous item, minor, uncommon*  

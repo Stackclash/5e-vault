@@ -9,6 +9,11 @@ tags:
 aliases:
   - Scholar's Brush
 cost: 10000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Scholar's Brush
 *Herb, rare*  

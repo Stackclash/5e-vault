@@ -9,6 +9,12 @@ tags:
   - item/wondrous/ring
 aliases:
   - Ring of Ice
+attunement: false
+rarity: very-rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Ring of Ice
 *Ring, major, very rare*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Snake Oil
+attunement: false
+rarity: varies
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Snake Oil
 *Potion, minor*  

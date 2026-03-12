@@ -10,10 +10,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\rosavalda-rose-durst.webp
-relationships: []
 aliases:
   - Rosavalda "Rose" Durst
 alignment: Lawful Good
+relationships: []
 partyRelationships: {}
 location: null
 pronounced: null
@@ -31,7 +31,6 @@ goals: null
 likes: null
 dislikes: null
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

@@ -11,10 +11,18 @@ tags:
   - item/weapon/simple
 aliases:
   - Mirrorlight Piercer
-one-hand-damage: 1d6 piercing
-two-hand-damage: 1d8 piercing
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: piercing
 range: 20\60
 weight: 3
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Mirrorlight Piercer
 *Weapon ([[/5. Mechanics/Items/Spear.md\|spear]]), major, very rare (requires attunement)*  

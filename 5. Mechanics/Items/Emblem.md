@@ -9,6 +9,11 @@ tags:
 aliases:
   - Emblem
 cost: 500
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - spellcasting-focus
 ---
 # Emblem
 *Spellcasting focus*  

@@ -9,6 +9,12 @@ tags:
   - item/wondrous/potion
 aliases:
   - Elixir of Witchfire
+attunement: false
+rarity: uncommon
+tier: minor
+type: wondrous
+subtype:
+  - potion
 ---
 # Elixir of Witchfire
 *Potion, minor, uncommon*  

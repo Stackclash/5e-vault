@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Frefil's Cookie Cutter
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Frefil's Cookie Cutter
 *Wondrous item, major, uncommon*  

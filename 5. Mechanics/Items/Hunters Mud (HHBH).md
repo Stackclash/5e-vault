@@ -9,6 +9,11 @@ tags:
 aliases:
   - Hunter's Mud
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Hunter's Mud
 *Herb, common*  

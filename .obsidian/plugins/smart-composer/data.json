@@ -63,7 +63,8 @@
       "thinking": {
         "enabled": true,
         "budget_tokens": 8192
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "anthropic-plan",
@@ -73,61 +74,71 @@
       "thinking": {
         "enabled": true,
         "budget_tokens": 8192
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "openai-plan",
       "providerId": "openai-plan",
       "id": "gpt-5.2 (plan)",
-      "model": "gpt-5.2"
+      "model": "gpt-5.2",
+      "enable": false
     },
     {
       "providerType": "gemini-plan",
       "providerId": "gemini-plan",
       "id": "gemini-3-pro-preview (plan)",
-      "model": "gemini-3-pro-preview"
+      "model": "gemini-3-pro-preview",
+      "enable": false
     },
     {
       "providerType": "gemini-plan",
       "providerId": "gemini-plan",
       "id": "gemini-3-flash-preview (plan)",
-      "model": "gemini-3-flash-preview"
+      "model": "gemini-3-flash-preview",
+      "enable": false
     },
     {
       "providerType": "anthropic",
       "providerId": "anthropic",
       "id": "claude-opus-4.5",
-      "model": "claude-opus-4-5"
+      "model": "claude-opus-4-5",
+      "enable": false
     },
     {
       "providerType": "anthropic",
       "providerId": "anthropic",
       "id": "claude-sonnet-4.5",
-      "model": "claude-sonnet-4-5"
+      "model": "claude-sonnet-4-5",
+      "enable": false
     },
     {
       "providerType": "anthropic",
       "providerId": "anthropic",
       "id": "claude-haiku-4.5",
-      "model": "claude-haiku-4-5"
+      "model": "claude-haiku-4-5",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-5.2",
-      "model": "gpt-5.2"
+      "model": "gpt-5.2",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-5-mini",
-      "model": "gpt-5-mini"
+      "model": "gpt-5-mini",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-4.1-mini",
-      "model": "gpt-4.1-mini"
+      "model": "gpt-4.1-mini",
+      "enable": false
     },
     {
       "providerType": "openai",
@@ -137,43 +148,58 @@
       "reasoning": {
         "enabled": true,
         "reasoning_effort": "medium"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini-3-pro-preview",
-      "model": "gemini-3-pro-preview"
+      "model": "gemini-3-pro-preview",
+      "enable": false
     },
     {
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini-3-flash-preview",
-      "model": "gemini-3-flash-preview"
+      "model": "gemini-3-flash-preview",
+      "enable": false
     },
     {
       "providerType": "deepseek",
       "providerId": "deepseek",
       "id": "deepseek-chat",
-      "model": "deepseek-chat"
+      "model": "deepseek-chat",
+      "enable": false
     },
     {
       "providerType": "deepseek",
       "providerId": "deepseek",
       "id": "deepseek-reasoner",
-      "model": "deepseek-reasoner"
+      "model": "deepseek-reasoner",
+      "enable": false
     },
     {
       "providerType": "xai",
       "providerId": "xai",
       "id": "grok-4-1-fast",
-      "model": "grok-4-1-fast"
+      "model": "grok-4-1-fast",
+      "enable": false
     },
     {
       "providerType": "xai",
       "providerId": "xai",
       "id": "grok-4-1-fast-non-reasoning",
-      "model": "grok-4-1-fast-non-reasoning"
+      "model": "grok-4-1-fast-non-reasoning",
+      "enable": false
+    },
+    {
+      "providerId": "ollama",
+      "providerType": "ollama",
+      "id": "gemma3",
+      "model": "gemma3:4b",
+      "promptLevel": 1,
+      "enable": true
     }
   ],
   "embeddingModels": [
@@ -218,18 +244,32 @@
       "id": "ollama/bge-m3",
       "model": "bge-m3",
       "dimension": 1024
+    },
+    {
+      "providerId": "ollama",
+      "providerType": "ollama",
+      "id": "mxbai-embed-large:335m",
+      "model": "mxbai-embed-large:335m",
+      "dimension": 1024
     }
   ],
-  "chatModelId": "claude-sonnet-4.5",
-  "applyModelId": "gpt-4.1-mini",
-  "embeddingModelId": "openai/text-embedding-3-small",
+  "chatModelId": "gemma3",
+  "applyModelId": "gemma3",
+  "embeddingModelId": "mxbai-embed-large:335m",
   "systemPrompt": "",
   "ragOptions": {
     "chunkSize": 1000,
     "thresholdTokens": 8192,
     "minSimilarity": 0,
     "limit": 10,
-    "excludePatterns": [],
+    "excludePatterns": [
+      ".obsidian/**",
+      "z_Bases/**",
+      "z_Extra/**",
+      "z_Scripts/**",
+      "z_Templates/**",
+      "Excalidraw/**"
+    ],
     "includePatterns": []
   },
   "mcp": {

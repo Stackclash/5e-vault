@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Foldable Pet
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Foldable Pet
 *Wondrous item, minor, rare*  

@@ -11,6 +11,12 @@ tags:
 aliases:
   - Mageplate Ring
 armorClass: 16
+attunement: true
+rarity: rare
+tier: major
+type: wondrous
+subtype:
+  - ring
 ---
 # Mageplate Ring
 *Ring, major, rare (requires attunement)*  

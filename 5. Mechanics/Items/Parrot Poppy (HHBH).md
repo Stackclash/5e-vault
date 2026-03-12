@@ -9,6 +9,11 @@ tags:
 aliases:
   - Parrot Poppy
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Parrot Poppy
 *Herb, common*  

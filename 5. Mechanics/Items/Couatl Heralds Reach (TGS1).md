@@ -15,6 +15,14 @@ aliases:
   - Couatl Herald's Reach
   - Couatl Herald's Reach Longbow
   - Couatl Herald's Reach Shortbow
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
+  - simple
 ---
 # Couatl Herald's Reach
 *Major, rare (requires attunement)*  

@@ -10,9 +10,18 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of Maleficence
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+attunement-requirement:
+  - spellcaster
+rarity: legendary
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Staff of Maleficence
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

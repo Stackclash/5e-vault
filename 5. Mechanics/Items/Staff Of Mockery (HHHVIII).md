@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Staff of Mockery
+attunement: false
+rarity: common
 ---
 # Staff of Mockery
 *Wondrous item, common*  

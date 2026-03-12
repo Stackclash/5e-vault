@@ -9,9 +9,16 @@ tags:
   - item/weapon/simple
 aliases:
   - Staff of Cubic Cultivation
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: false
+rarity: uncommon
+tier: minor
+type: weapon
+subtype:
+  - simple
 ---
 # Staff of Cubic Cultivation
 *Staff, weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), minor, uncommon*  

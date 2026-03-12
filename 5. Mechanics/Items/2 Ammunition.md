@@ -21,6 +21,13 @@ aliases:
   - +2 Modern Bullet
   - +2 Renaissance Bullet
   - +2 Sling Bullet
+attunement: false
+rarity: rare
+tier: minor
+type: gear
+subtype:
+  - ammunition
+  - ammunition-firearm
 ---
 # +2 Ammunition
 *Ammunition, minor, rare*  

@@ -10,8 +10,16 @@ tags:
   - item/weapon/melee
 aliases:
   - Silver Star Cane
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
+attunement: false
+rarity: common
+tier: minor
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Silver Star Cane
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), minor, common*  

@@ -15,6 +15,13 @@ aliases:
   - Voltedge Double-Bladed Scimitar
   - Voltedge Rapier
   - Voltedge Shortsword
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Voltedge
 *Major, rare (requires attunement)*  

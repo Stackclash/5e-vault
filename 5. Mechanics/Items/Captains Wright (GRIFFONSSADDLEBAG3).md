@@ -11,9 +11,17 @@ tags:
   - item/weapon/simple
 aliases:
   - Captain's Wright
-one-hand-damage: 1d6 bludgeoning
-two-hand-damage: 1d8 bludgeoning
+one-hand-damage: 1d6
+two-hand-damage: 1d8
+damage-type: bludgeoning
 weight: 4
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - melee
+  - simple
 ---
 # Captain's Wright
 *Staff, weapon, major, rare (requires attunement)*  

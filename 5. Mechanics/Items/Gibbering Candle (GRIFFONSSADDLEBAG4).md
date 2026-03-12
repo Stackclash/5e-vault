@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Gibbering Candle
+attunement: false
+rarity: uncommon
 ---
 # Gibbering Candle
 *Wondrous item, uncommon*  

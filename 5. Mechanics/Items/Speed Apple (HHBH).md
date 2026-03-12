@@ -9,6 +9,11 @@ tags:
 aliases:
   - Speed Apple
 cost: 5000
+attunement: false
+rarity: rare
+type: gear
+subtype:
+  - herb
 ---
 # Speed Apple
 *Herb, rare*  

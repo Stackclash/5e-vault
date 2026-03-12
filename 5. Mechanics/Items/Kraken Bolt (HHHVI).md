@@ -9,6 +9,11 @@ tags:
 aliases:
   - Kraken Bolt
 range: 120\480
+attunement: false
+rarity: very-rare
+type: gear
+subtype:
+  - ammunition
 ---
 # Kraken Bolt
 *Ammunition, very rare*  

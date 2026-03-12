@@ -10,10 +10,10 @@ tags:
 condition: healthy
 images:
   - 4. World Almanac\NPCs\img\anastrasya-karelova.webp
-relationships: []
 aliases:
   - Anastrasya Karelova
 alignment: Neutral Evil
+relationships: []
 partyRelationships:
   Midnight Covenant: Enemy
 location: '[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]'
@@ -32,7 +32,6 @@ goals: 'To maintain her position of power, to serve Strahd''s interests'
 likes: 'Luxury, power, control over others'
 dislikes: 'Disloyalty, failure, threats to her status'
 ---
-
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  `INPUT[text:pronounced]`

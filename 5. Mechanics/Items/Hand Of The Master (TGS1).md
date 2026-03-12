@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Hand of the Master
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Hand of the Master
 *Wondrous item, major, uncommon (requires attunement)*  

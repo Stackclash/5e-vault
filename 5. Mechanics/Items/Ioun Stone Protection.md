@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - 'Ioun Stone, Protection'
+attunement: true
+rarity: rare
+tier: major
 ---
 # Ioun Stone, Protection
 *Wondrous item, major, rare (requires attunement)*  

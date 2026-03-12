@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Hat Trick
+attunement: false
+rarity: uncommon
+tier: major
 ---
 # Hat Trick
 *Wondrous item, major, uncommon*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Glove of the Aegis
+attunement: true
+rarity: rare
+tier: major
 ---
 # Glove of the Aegis
 *Wondrous item, major, rare (requires attunement)*  

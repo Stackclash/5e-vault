@@ -9,6 +9,11 @@ tags:
 aliases:
   - Shunflower
 cost: 100
+attunement: false
+rarity: common
+type: gear
+subtype:
+  - herb
 ---
 # Shunflower
 *Herb, common*  

@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Pegasus Quill
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Pegasus Quill
 *Wondrous item, minor, uncommon*  

@@ -10,6 +10,12 @@ tags:
   - item/weapon/melee
 aliases:
   - Hour and Minute
+attunement: true
+rarity: very-rare
+tier: major
+type: weapon
+subtype:
+  - melee
 ---
 # Hour and Minute
 *Melee weapon ([[/5. Mechanics/Items/Dagger.md\|dagger]]), major, very rare (requires attunement)*  

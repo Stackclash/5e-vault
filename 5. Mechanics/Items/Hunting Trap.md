@@ -10,6 +10,11 @@ aliases:
   - Hunting Trap
 cost: 500
 weight: 25
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Hunting Trap
 *Adventuring gear*  

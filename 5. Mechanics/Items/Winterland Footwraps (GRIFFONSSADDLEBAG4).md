@@ -8,6 +8,10 @@ tags:
   - item/rarity/rare
 aliases:
   - Winterland Footwraps
+attunement: true
+attunement-requirement:
+  - monk
+rarity: rare
 ---
 # Winterland Footwraps
 *Wondrous item, rare (requires attunement by a monk)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Fireweaver Gloves
+attunement: true
+rarity: uncommon
+tier: major
 ---
 # Fireweaver Gloves
 *Wondrous item, major, uncommon (requires attunement)*  

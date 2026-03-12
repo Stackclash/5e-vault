@@ -8,6 +8,9 @@ tags:
   - item/tier/major
 aliases:
   - Faeflame Torch
+attunement: false
+rarity: rare
+tier: major
 ---
 # Faeflame Torch
 *Wondrous item, major, rare*  

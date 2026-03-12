@@ -10,8 +10,15 @@ tags:
   - item/weapon/melee
 aliases:
   - Soothstriker
-one-hand-damage: 1d8 piercing
+one-hand-damage: 1d8
+damage-type: piercing
 weight: 2
+attunement: true
+rarity: very-rare
+type: weapon
+subtype:
+  - martial
+  - melee
 ---
 # Soothstriker
 *Weapon ([[/5. Mechanics/Items/Rapier.md\|rapier]]), very rare (requires attunement)*  

@@ -8,6 +8,8 @@ tags:
   - item/rarity/rare
 aliases:
   - Siphon Boon
+attunement: true
+rarity: rare
 ---
 # Siphon Boon
 *Wondrous item, rare (requires attunement)*  

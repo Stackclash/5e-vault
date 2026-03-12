@@ -11,6 +11,11 @@ aliases:
   - Bomb
 cost: 15000
 weight: 1
+attunement: false
+rarity: none
+type: weapon
+subtype:
+  - explosive
 ---
 # Bomb
 *Explosive*  

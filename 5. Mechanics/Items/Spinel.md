@@ -9,6 +9,11 @@ tags:
 aliases:
   - Spinel
 cost: 10000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - treasure-gemstone
 ---
 # Spinel
 *Treasure (gemstone)*  

@@ -9,6 +9,11 @@ tags:
 aliases:
   - Wyvern Poison
 cost: 120000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Wyvern Poison
 *Adventuring gear, poison (injury)*  

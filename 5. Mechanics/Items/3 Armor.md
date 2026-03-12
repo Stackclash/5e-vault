@@ -27,6 +27,14 @@ aliases:
   - +3 Splint Armor
   - +3 Studded Leather Armor
   - +3 Wooden Breastplate
+attunement: false
+rarity: legendary
+tier: major
+type: armor
+subtype:
+  - heavy
+  - light
+  - medium
 ---
 # +3 Armor
 *Major, legendary*  

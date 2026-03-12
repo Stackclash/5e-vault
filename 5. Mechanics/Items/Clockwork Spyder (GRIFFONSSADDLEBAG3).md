@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Clockwork Spyder
+attunement: true
+rarity: rare
+tier: major
 ---
 # Clockwork Spyder
 *Wondrous item, major, rare (requires attunement)*  

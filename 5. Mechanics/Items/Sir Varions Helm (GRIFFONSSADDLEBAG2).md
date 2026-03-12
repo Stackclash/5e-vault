@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Sir Varion's Helm
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Sir Varion's Helm
 *Wondrous item, minor, uncommon*  

@@ -8,6 +8,11 @@ tags:
   - item/wondrous/potion
 aliases:
   - The Six Elixirs
+attunement: false
+rarity: legendary
+type: wondrous
+subtype:
+  - potion
 ---
 # The Six Elixirs
 *Potion, legendary*  

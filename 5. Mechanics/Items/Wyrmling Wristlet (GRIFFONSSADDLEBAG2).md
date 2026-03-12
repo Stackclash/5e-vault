@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Wyrmling Wristlet
+attunement: true
+rarity: rare
+tier: minor
 ---
 # Wyrmling Wristlet
 *Wondrous item, minor, rare (requires attunement)*  

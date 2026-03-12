@@ -7,6 +7,8 @@ tags:
   - item/rarity/common
 aliases:
   - Mood Cap
+attunement: false
+rarity: common
 ---
 # Mood Cap
 *Wondrous item, common*  

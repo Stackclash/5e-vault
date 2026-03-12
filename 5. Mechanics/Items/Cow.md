@@ -9,6 +9,11 @@ tags:
 aliases:
   - Cow
 cost: 1000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - trade-good
 ---
 # Cow
 *Trade good*  

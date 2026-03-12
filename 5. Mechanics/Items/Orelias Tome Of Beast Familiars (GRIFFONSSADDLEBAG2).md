@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Orelia's Tome of Beast Familiars
+attunement: true
+attunement-requirement:
+  - wizard
+rarity: rare
+tier: major
 ---
 # Orelia's Tome of Beast Familiars
 *Wondrous item, major, rare (requires attunement by a wizard)*  

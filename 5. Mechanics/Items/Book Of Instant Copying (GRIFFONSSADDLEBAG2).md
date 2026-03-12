@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Book of Instant Copying
+attunement: false
+rarity: common
+tier: minor
 ---
 # Book of Instant Copying
 *Wondrous item, minor, common*  

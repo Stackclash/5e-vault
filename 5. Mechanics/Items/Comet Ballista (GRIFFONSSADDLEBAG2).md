@@ -11,9 +11,17 @@ tags:
   - item/weapon/ranged
 aliases:
   - Comet Ballista
-one-hand-damage: 1d10 bludgeoning
+one-hand-damage: 1d10
+damage-type: bludgeoning
 range: 100\400
 weight: 18
+attunement: true
+rarity: rare
+tier: major
+type: weapon
+subtype:
+  - martial
+  - ranged
 ---
 # Comet Ballista
 *Weapon ([[/5. Mechanics/Items/Heavy Crossbow.md\|heavy crossbow]]), major, rare (requires attunement)*  

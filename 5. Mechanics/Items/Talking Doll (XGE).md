@@ -9,6 +9,9 @@ tags:
   - item/tier/minor
 aliases:
   - Talking Doll
+attunement: true
+rarity: common
+tier: minor
 ---
 # Talking Doll
 *Wondrous item, minor, common (requires attunement)*  

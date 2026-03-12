@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Lightning-Catching Bottle
+attunement: false
+rarity: rare
+tier: minor
 ---
 # Lightning-Catching Bottle
 *Wondrous item, minor, rare*  

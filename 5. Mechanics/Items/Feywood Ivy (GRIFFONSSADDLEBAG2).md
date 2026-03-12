@@ -9,6 +9,13 @@ tags:
   - item/tier/major
 aliases:
   - Feywood Ivy
+attunement: true
+attunement-requirement:
+  - druid
+  - ranger
+  - fey creature
+rarity: uncommon
+tier: major
 ---
 # Feywood Ivy
 *Wondrous item, major, uncommon (requires attunement by a druid, ranger, or fey creature)*  

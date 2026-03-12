@@ -9,6 +9,11 @@ tags:
   - item/wondrous/tattoo
 aliases:
   - Eldritch Claw Tattoo
+attunement: true
+rarity: uncommon
+type: wondrous
+subtype:
+  - tattoo
 ---
 # Eldritch Claw Tattoo
 *Wondrous item (tattoo), uncommon (requires attunement)*  

@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Traitor's Gauntlet
+attunement: true
+rarity: rare
+tier: major
 ---
 # Traitor's Gauntlet
 *Wondrous item, cursed item, major, rare (requires attunement)*  

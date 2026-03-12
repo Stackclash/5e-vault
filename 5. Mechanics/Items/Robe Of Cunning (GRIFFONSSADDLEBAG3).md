@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Robe of Cunning
+attunement: true
+rarity: rare
+tier: major
 ---
 # Robe of Cunning
 *Wondrous item, major, rare (requires attunement)*  

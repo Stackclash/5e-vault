@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Skull of Revelation
+attunement: false
+rarity: uncommon
 ---
 # Skull of Revelation
 *Wondrous item, uncommon*  

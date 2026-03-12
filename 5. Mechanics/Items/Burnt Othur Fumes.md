@@ -9,6 +9,11 @@ tags:
 aliases:
   - Burnt Othur Fumes
 cost: 50000
+attunement: false
+rarity: none
+type: gear
+subtype:
+  - null
 ---
 # Burnt Othur Fumes
 *Adventuring gear, poison (inhaled)*  

@@ -12,6 +12,13 @@ aliases:
   - White Dragon Scale Mail
 armorClass: 14 + Dex modifier (max of +2)
 weight: 45
+stealth-penalty: true
+attunement: true
+rarity: very-rare
+tier: major
+type: armor
+subtype:
+  - medium
 ---
 # White Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

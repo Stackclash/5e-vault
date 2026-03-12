@@ -9,6 +9,11 @@ tags:
   - item/tier/major
 aliases:
   - Belt of Four Elements
+attunement: true
+attunement-requirement:
+  - monk
+rarity: very-rare
+tier: major
 ---
 # Belt of Four Elements
 *Wondrous item, major, very rare (requires attunement by a monk)*  

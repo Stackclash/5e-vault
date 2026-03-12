@@ -9,6 +9,9 @@ tags:
   - item/tier/major
 aliases:
   - Beads of Meditation
+attunement: true
+rarity: rare
+tier: major
 ---
 # Beads of Meditation
 *Wondrous item, major, rare (requires attunement)*  

@@ -7,6 +7,8 @@ tags:
   - item/rarity/uncommon
 aliases:
   - Mermaid Trousers
+attunement: false
+rarity: uncommon
 ---
 # Mermaid Trousers
 *Wondrous item, uncommon*  

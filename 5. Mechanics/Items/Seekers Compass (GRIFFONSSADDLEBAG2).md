@@ -8,6 +8,9 @@ tags:
   - item/tier/minor
 aliases:
   - Seeker's Compass
+attunement: false
+rarity: uncommon
+tier: minor
 ---
 # Seeker's Compass
 *Wondrous item, minor, uncommon*  
