@@ -7,12 +7,12 @@ if (images) {
   if (Array.isArray(images) && images.length > 0) {
     dv.paragraph(`${backticks}carousel
 height: 15rem
-images: ${images.map(i => path.resolve(i)).join(',')}
+images: ${images.map(i => i.replaceAll('\\', '/')).join(',')}
 ${backticks}`)
   } else if (typeof images === 'string' && images.trim().length > 0) {
     dv.paragraph(`${backticks}carousel
 height: 15rem
-images: ${path.resolve(images)}
+images: ${path.resolve(images).replaceAll('\\', '/')}
 ${backticks}`)
   }
 }
