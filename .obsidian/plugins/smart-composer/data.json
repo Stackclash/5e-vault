@@ -244,18 +244,32 @@
       "id": "ollama/bge-m3",
       "model": "bge-m3",
       "dimension": 1024
+    },
+    {
+      "providerId": "ollama",
+      "providerType": "ollama",
+      "id": "mxbai-embed-large:335m",
+      "model": "mxbai-embed-large:335m",
+      "dimension": 1024
     }
   ],
   "chatModelId": "gemma3",
   "applyModelId": "gemma3",
-  "embeddingModelId": "ollama/mxbai-embed-large",
+  "embeddingModelId": "mxbai-embed-large:335m",
   "systemPrompt": "",
   "ragOptions": {
     "chunkSize": 1000,
     "thresholdTokens": 8192,
     "minSimilarity": 0,
     "limit": 10,
-    "excludePatterns": [],
+    "excludePatterns": [
+      ".obsidian/**",
+      "z_Bases/**",
+      "z_Extra/**",
+      "z_Scripts/**",
+      "z_Templates/**",
+      "Excalidraw/**"
+    ],
     "includePatterns": []
   },
   "mcp": {
