@@ -24,7 +24,11 @@ one-hand-damage: {resource.damage}
 two-hand-damage: {resource.damage2h}
 {#else}
 one-hand-damage: {resource.damage}
-{/if}{/if}
+{/if}
+{#if resource.damage.contains(' ')}
+damage-type: {resource.damage.substring(resource.damage.indexOf(' ') + 1)}
+{/if}
+{/if}
 {#if resource.range }
 range: {resource.range}
 {/if}
