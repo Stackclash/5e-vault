@@ -17,21 +17,21 @@ aliases:
 alignment: Lawful Good
 partyRelationships:
   Midnight Covenant: Ally
-location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
-pronounced:
-race:
-gender:
-age:
+location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
+pronounced: null
+race: null
+gender: null
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -63,6 +63,8 @@ dislikes:
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 98*
+
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

@@ -16,21 +16,25 @@ aliases:
 alignment: Lawful Evil
 partyRelationships:
   Midnight Covenant: Enemy
-location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
-pronounced:
-race:
+location: '[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]'
+pronounced: null
+race: null
 gender: male
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
+personality: null
 ideal: Loyalty is everything.
-bond: I am a son of King Barov von Zarovich, and I will serve his son - my brother and lord - forever.
-flaw: I have slain thousands of men. I will slaughter thousands more to preserve the von Zarovich legacy.
-goals:
-likes:
-dislikes:
+bond: >-
+  I am a son of King Barov von Zarovich, and I will serve his son - my brother
+  and lord - forever.
+flaw: >-
+  I have slain thousands of men. I will slaughter thousands more to preserve the
+  von Zarovich legacy.
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]

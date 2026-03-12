@@ -62,6 +62,8 @@ image: null
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 150*
 
+TBD
+
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description
 >> `INPUT[textArea:description]`

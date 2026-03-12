@@ -1,4 +1,4 @@
 ---
 obsidianUIMode: preview
 ---
-![[Spells.base]]
+![[Players.base]]

@@ -65,6 +65,8 @@ dislikes: 'The forces of Strahd (publicly), betrayal, weakness'
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 121*
 
+TBD
+
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description
 >> `INPUT[textArea:description]`

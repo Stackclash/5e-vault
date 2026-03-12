@@ -16,22 +16,22 @@ aliases:
 alignment: Lawful Good
 partyRelationships:
   Midnight Covenant: Ally
-location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
 pronounced: IS-mark KOHL-yan-o-vich
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
 age: 25
 occupation:
   - Burgomaster
 groups: []
 religions: []
-personality: Protective, responsible, deeply concerned for his sister's safety
-ideal: Duty above all, especially to family and those under my care.
+personality: 'Protective, responsible, deeply concerned for his sister''s safety'
+ideal: 'Duty above all, especially to family and those under my care.'
 bond: His late father's legacy and his sister's safety
 flaw: Can be overly cautious and sometimes distrustful of strangers
-goals: To secure a safe place for Ireena, away from Strahd’s reach
-likes: Quiet moments of peace, strong leadership, loyalty
-dislikes: Threats to his family, Strahd's minions, chaos
+goals: 'To secure a safe place for Ireena, away from Strahd’s reach'
+likes: 'Quiet moments of peace, strong leadership, loyalty'
+dislikes: 'Threats to his family, Strahd''s minions, chaos'
 ---
 
 > [!infobox]
@@ -63,6 +63,8 @@ dislikes: Threats to his family, Strahd's minions, chaos
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 43*
+
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

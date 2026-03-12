@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3a11396001515b21",
+        "id": "b2cb2265e112a2ee",
         "type": "tabs",
         "children": [
           {
-            "id": "5563ce6e79d9f3ec",
+            "id": "b82a4b2293f43901",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "1. DM Toolkit/Configuration.md",
-                "mode": "preview",
-                "source": false
+                "file": "z_Bases/Items.base",
+                "viewName": "Overview"
               },
-              "icon": "lucide-file",
-              "title": "Configuration"
-            }
-          },
-          {
-            "id": "c23163142bcce182",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-table",
+              "title": "Items"
             }
           }
         ],
@@ -267,10 +254,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c23163142bcce182",
+  "active": "b82a4b2293f43901",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Strahd Von Zarovich (COS).md",
-    "5. Mechanics/Bestiary/Legendary Group/Strahd Von Zarovich (COS).md",
+    "5. Mechanics/Items/Items.md",
+    "5. Mechanics/Items/1 Amulet Of The Devout (TCE).md",
+    "z_Bases/Items.base",
+    "5. Mechanics/Bestiary/Bestiary.md",
+    "5. Mechanics/Bestiary/Aberration/Aberration.md",
+    "5. Mechanics/Spells/Spells.md",
+    "4. World Almanac/Shops/Shops.md",
+    "4. World Almanac/Settlements/Settlements.md",
+    "4. World Almanac/Regions/Regions.md",
+    "4. World Almanac/Places of Interest/Places of Interest.md",
+    "4. World Almanac/NPCs/NPCs.md",
+    "3. The Party/Players/Players.md",
     "Untitled.md",
     "4. World Almanac/NPCs/Ismark Kolyanovich (COS).md",
     "5. Mechanics/Classes/Classes.md",
@@ -279,7 +276,6 @@
     "5. Mechanics/Classes/Artificer Armorer (TCE).md",
     "5. Mechanics/Classes/Artificer Alchemist (TCE).md",
     "5. Mechanics/Classes/Artificer (TCE).md",
-    "5. Mechanics/Bestiary/Bestiary.md",
     "5. Mechanics/Bestiary/Undead/Undead.md",
     "5. Mechanics/Bestiary/Plant/Plant.md",
     "5. Mechanics/Bestiary/Ooze/Ooze.md",
@@ -287,14 +283,6 @@
     "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
     "5. Mechanics/Bestiary/Goblinoid/Goblinoid.md",
     "5. Mechanics/Bestiary/Giant/Giant.md",
-    "5. Mechanics/Bestiary/Fiend/Fiend.md",
-    "5. Mechanics/Bestiary/Fey/Fey.md",
-    "5. Mechanics/Bestiary/Elemental/Elemental.md",
-    "5. Mechanics/Bestiary/Dragon/Dragon.md",
-    "5. Mechanics/Bestiary/Construct/Construct.md",
-    "5. Mechanics/Bestiary/Celestial/Celestial.md",
-    "5. Mechanics/Bestiary/Beast/Beast.md",
-    "5. Mechanics/Bestiary/Aberration/Aberration.md",
     "z_Bases/Locations.base",
     "z_Bases/Spells.base",
     "z_Bases/Players.base",
@@ -304,7 +292,6 @@
     "z_Bases",
     "z_Templates/Text Generator/Backups/generations",
     "z_Templates/Text Generator/Backups",
-    "z_Templates/Text Generator",
     "5. Mechanics/Bestiary/Plant/img/shambling-mound-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/phase-spider-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/bulette-2.webp",

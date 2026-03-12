@@ -15,22 +15,22 @@ aliases:
 alignment: Any Evil alignment
 partyRelationships:
   Midnight Covenant: Acquaintance
-location:
-pronounced:
-race:
-gender:
-age:
+location: null
+pronounced: null
+race: null
+gender: null
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
-image:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
+image: null
 ---
 
 > [!infobox]
@@ -62,6 +62,8 @@ image:
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 189*
+
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

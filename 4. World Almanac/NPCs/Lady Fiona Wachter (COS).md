@@ -16,22 +16,22 @@ aliases:
 alignment: Lawful Evil
 partyRelationships:
   Midnight Covenant: Enemy
-location: "[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]"
-pronounced:
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+location: '[[4. World Almanac/Places of Interest/Wachterhaus.md|Wachterhaus]]'
+pronounced: null
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
-image:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
+image: null
 ---
 
 > [!infobox]
@@ -63,6 +63,8 @@ image:
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 110*
+
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

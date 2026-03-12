@@ -17,21 +17,21 @@ aliases:
 alignment: Chaotic Evil
 partyRelationships:
   Midnight Covenant: Friendly
-location:
-pronounced:
-race:
-gender:
-age:
+location: null
+pronounced: null
+race: null
+gender: null
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
-ideal:
-bond:
-flaw:
-goals:
-likes:
-dislikes:
+personality: null
+ideal: null
+bond: null
+flaw: null
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]
@@ -63,6 +63,8 @@ dislikes:
 
 # **`=this.file.name`**
 *Source: Curse of Strahd p. 81*
+
+TBD
 
 > [!column|no-t flex]
 >> [!metadata|text-Center] Description

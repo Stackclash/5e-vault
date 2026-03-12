@@ -16,21 +16,25 @@ aliases:
 alignment: Chaotic Good
 partyRelationships:
   Midnight Covenant: Ally
-location: "[[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's Tower]]"
+location: >-
+  [[4. World Almanac/Places of Interest/Van Richten's Tower.md|Van Richten's
+  Tower]]
 pronounced: ez-meh-REL-da dah-veh-NEER
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 33
 occupation: []
 groups: []
 religions: []
-personality: Determined, fiercely independent, pragmatic
-ideal: Evil that feeds on the innocent is the worst of all evils and must be destroyed.
-bond: My mentor and teacher, Dr. Rudolph van Richten, is like a father to me.
+personality: 'Determined, fiercely independent, pragmatic'
+ideal: >-
+  Evil that feeds on the innocent is the worst of all evils and must be
+  destroyed.
+bond: 'My mentor and teacher, Dr. Rudolph van Richten, is like a father to me.'
 flaw: I go where angels fear to tread.
-goals: To defeat Strahd, to become the greatest monster hunter in the land
-likes: Knowledge about monsters, vanquishing evil, proving her skill and courage
-dislikes: Cowardice, betrayal, the undead, those who underestimate her
+goals: 'To defeat Strahd, to become the greatest monster hunter in the land'
+likes: 'Knowledge about monsters, vanquishing evil, proving her skill and courage'
+dislikes: 'Cowardice, betrayal, the undead, those who underestimate her'
 ---
 
 > [!infobox]

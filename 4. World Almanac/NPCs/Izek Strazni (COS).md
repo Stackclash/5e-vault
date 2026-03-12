@@ -16,21 +16,23 @@ aliases:
 alignment: Neutral Evil
 partyRelationships:
   Midnight Covenant: Friendly
-location:
-pronounced:
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+location: null
+pronounced: null
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: male
-age:
+age: null
 occupation: []
 groups: []
 religions: []
-personality:
+personality: null
 ideal: Fear is a powerful weapon. I use it to get what I want.
-bond: I am loyal to my master, Baron Vallakovich, for he brought me into his home. I owe him my life, but he isn't family.
-flaw: I would do anything, kill anything, to find my sister.
-goals:
-likes:
-dislikes:
+bond: >-
+  I am loyal to my master, Baron Vallakovich, for he brought me into his home. I
+  owe him my life, but he isn't family.
+flaw: 'I would do anything, kill anything, to find my sister.'
+goals: null
+likes: null
+dislikes: null
 ---
 
 > [!infobox]

@@ -332,16 +332,17 @@ const config = {
         }
 
         const finalFrontMatter = {},
-          currentFileFrontMatter = matter.read(file.path).data
+          currentFileFrontMatter = matter.read(file.path).data,
+          allUniqueKeys = [...new Set([...Object.keys(currentFileFrontMatter), ...Object.keys(file.frontMatter)])]
 
-        for (let prop of Object.keys(currentFileFrontMatter)) {
+        for (let prop of allUniqueKeys) {
           if (file.frontMatter[prop]) {
             if (JSON.stringify(file.frontMatter[prop]) !== JSON.stringify(currentFileFrontMatter[prop])) {
-              // const update = askQuestion(`Update ${prop} from ${currentFileFrontMatter[prop]} to ${file.frontMatter[prop]}? (Y/N) `)
-              if (true) {
+              const update = askQuestion(`Update ${prop} from ${JSON.stringify(currentFileFrontMatter[prop])} to ${JSON.stringify(file.frontMatter[prop])}? (Y/N) `)
+              if (update) {
                 finalFrontMatter[prop] = file.frontMatter[prop]
               } else {
-                // finalFrontMatter[prop] = currentFileFrontMatter[prop]
+                finalFrontMatter[prop] = currentFileFrontMatter[prop]
               }
             }
           } else {
@@ -356,7 +357,9 @@ const config = {
       enabled: true,
       name: 'Move File',
       ignore: function(file) {
-        return file.fileName === 'back' || (/4. world almanac[\/\\]npc/i.test(file.path) && file.frontMatter.tags && !file.frontMatter.tags.some(tag => tag === 'compendium/src/5e/cos'))
+        return file.fileName === 'back' ||
+          (/4. world almanac[\/\\]npc/i.test(file.path) && file.frontMatter.tags && !file.frontMatter.tags.some(tag => tag === 'compendium/src/5e/cos')) ||
+          path.basename(path.dirname(file.path)) === file.fileName
       },
       process: function(file) {
         fs.mkdirSync(path.parse(file.path).dir, {

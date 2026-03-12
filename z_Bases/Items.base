@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.tags.contains("item")
+views:
+  - type: table
+    name: Overview
+    order:
+      - file.name
+      - weight
+      - cost
+      - armorClass
+      - range
+      - one-hand-damage
+      - two-hand-damage
+    columnSize:
+      note.weight: 112
+      note.cost: 116
+      note.armorClass: 134
+      note.range: 88

@@ -15,22 +15,24 @@ aliases:
 alignment: Chaotic Neutral
 partyRelationships:
   Midnight Covenant: Friendly
-location: "[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]"
+location: '[[4. World Almanac/Places of Interest/Tser Pool.md|Tser Pool]]'
 pronounced: MAD-ame EE-vah
-race: "[[5. Mechanics/Races/Human.md|Human]]"
+race: '[[5. Mechanics/Races/Human.md|Human]]'
 gender: female
 age: 67
 occupation:
   - Seer
 groups: []
 religions: []
-personality: Mysterious, wise, enigmatic
+personality: 'Mysterious, wise, enigmatic'
 ideal: I wish Strahd to be free of his curse.
 bond: The Vistani are my people now. The welfare and freedom of the Vistani people.
-flaw: The people whose fates I divine aren't important. They are but the means to an end. Her cryptic nature can sometimes alienate others.
+flaw: >-
+  The people whose fates I divine aren't important. They are but the means to an
+  end. Her cryptic nature can sometimes alienate others.
 goals: To guide the souls that come to her towards their destiny.
-likes: Reading fortunes, the respect of her people, the mystic arts.
-dislikes: Those who disrespect the Vistani, closed-mindedness.
+likes: 'Reading fortunes, the respect of her people, the mystic arts.'
+dislikes: 'Those who disrespect the Vistani, closed-mindedness.'
 ---
 
 > [!infobox]
