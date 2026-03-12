@@ -336,7 +336,6 @@ const config = {
           allUniqueKeys = [...new Set([...Object.keys(currentFileFrontMatter), ...Object.keys(file.frontMatter)])]
 
         for (let prop of allUniqueKeys) {
-          if (['partyRelationships', 'one-hand-damage', 'two-hand-damage'].includes(prop)) continue
           if (prop in file.frontMatter && prop in currentFileFrontMatter) {
             if (JSON.stringify(file.frontMatter[prop]) !== JSON.stringify(currentFileFrontMatter[prop])) {
               const update = askQuestion(`Update ${prop} from ${JSON.stringify(currentFileFrontMatter[prop])} to ${JSON.stringify(file.frontMatter[prop])}? (Y/N) `)

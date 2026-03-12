@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Items/3 Moon Sickle (TCE).md",
+                "file": "5. Mechanics/Items/Items.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 Moon Sickle (TCE)"
+              "title": "Items"
             }
           }
         ]
@@ -266,6 +266,8 @@
   "active": "b82a4b2293f43901",
   "lastOpenFiles": [
     "z_Bases/Items.base",
+    "5. Mechanics/Items/2 Amulet Of The Devout (TCE).md",
+    "5. Mechanics/Items/3 Moon Sickle (TCE).md",
     "5. Mechanics/Items/Flensing Claws (VGM).md",
     "5. Mechanics/Items/Items.md",
     "5. Mechanics/Items/1 Amulet Of The Devout (TCE).md",
@@ -289,8 +291,6 @@
     "5. Mechanics/Bestiary/Undead/Undead.md",
     "5. Mechanics/Bestiary/Plant/Plant.md",
     "5. Mechanics/Bestiary/Ooze/Ooze.md",
-    "5. Mechanics/Bestiary/Monstrosity/Monstrosity.md",
-    "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
     "z_Bases/Locations.base",
     "z_Bases/Spells.base",
     "z_Bases/Players.base",
