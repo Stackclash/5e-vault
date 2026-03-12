@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "65921e67f4dff8cd",
+        "id": "e34f6121ac98562c",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e956e7eb8b6e96",
+            "id": "dbb28f2c3ad2d9c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Stuff/Campaigns/Truth of Vecna.md",
+                "file": "1. DM Toolkit/Tools/Story Engine/Deck of Worlds/Regions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Truth of Vecna"
-            }
-          },
-          {
-            "id": "5fe5b35d5692d2dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mechanics/Bestiary/Humanoid/Humanoid.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Humanoid"
+              "title": "Regions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:place-of-interest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 345.5
   },
   "right": {
     "id": "24f65bc15fe356db",
@@ -227,27 +212,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "96a4f2188418a82a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a6475e4f649b0cd2",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_6b2b79a86a39",
-                "id": "ID_1bd94a588859",
-                "parent": "ID_aa9bf8981938"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -262,67 +227,63 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": true,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian42-brat:BRAT": true,
+      "obsidian-excalidraw-plugin:New drawing": true,
       "fantasy-content-generator:Fantasy Generators": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-git:Open Git source control": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "media-extended:Open external media": false,
-      "modalforms:Edit forms": false,
-      "remotely-save:Remotely Save": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": true,
+      "obsidian-git:Open Git source control": true,
+      "initiative-tracker:Initiative Tracker Encounter Builder": true,
+      "obsidian-kanban:Create new board": true,
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
+      "media-extended:Open external media": true,
+      "modalforms:Edit forms": true,
+      "remotely-save:Remotely Save": true,
+      "solo-rpg-toolkit:Solo RPG Toolkit": true,
+      "templater-obsidian:Templater": true,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5fe5b35d5692d2dc",
+  "active": "dbb28f2c3ad2d9c5",
   "lastOpenFiles": [
-    "5. Mechanics/Bestiary/Goblinoid/Goblinoid.md",
-    "5. Mechanics/Bestiary/Giant/Giant.md",
-    "5. Mechanics/Bestiary/Fiend/Fiend.md",
-    "5. Mechanics/Bestiary/Fey/Fey.md",
     "5. Mechanics/Bestiary/Elemental/Elemental.md",
-    "5. Mechanics/Bestiary/Dragon/Dragon.md",
-    "5. Mechanics/Bestiary/Construct/Construct.md",
     "5. Mechanics/Bestiary/Celestial/Celestial.md",
-    "5. Mechanics/Bestiary/Beast/Beast.md",
-    "5. Mechanics/Bestiary/Aberration/Aberration.md",
+    "1. DM Toolkit/Configuration.md",
+    "5. Mechanics/Items/Items.md",
+    "z_Bases/Monsters.base",
     "5. Mechanics/Bestiary/Bestiary.md",
-    "3. The Party/Players/Redgrave.md",
-    "1. DM Toolkit/Knowledge/Articles/Fixing Crafting in D&D.md",
-    "z_Bases/Locations.base",
+    "5. Mechanics/Decks/Decks.md",
+    "5. Mechanics/Classes/Classes.md",
+    "5. Mechanics/Backgrounds/Backgrounds.md",
     "4. World Almanac/Worlds/Worlds.md",
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Regions/Regions.md",
     "4. World Almanac/Places of Interest/Places of Interest.md",
-    "z_Bases/Spells.base",
-    "z_Bases/Players.base",
-    "z_Bases/NPCs.base",
-    "z_Bases/Monsters.base",
-    "z_Bases/Hazards.base",
-    "z_Bases",
-    "4. World Almanac/Shops/Golden Hammer.md",
     "4. World Almanac/NPCs/NPCs.md",
-    "2. Scratch Notes/House Rules.md",
-    "z_Templates/Text Generator/Backups/generations/Untitled-dkB.md",
-    "z_Templates/Text Generator/Backups/generations/Untitled-YnV.md",
-    "z_Templates/Text Generator/Backups/generations/Test-Zh8.md",
-    "z_Templates/Text Generator/Backups/generations/Test-d8K.md",
-    "z_Templates/Text Generator/Backups/generations/Test-Het.md",
+    "4. World Almanac/Shops/The Scarecrow.md",
+    "4. World Almanac/Shops/Golden Hammer.md",
+    "z_Bases/Locations.base",
+    "4. World Almanac/NPCs/Adrian Martikov.md",
+    "z_Bases/Hazards.base",
+    "z_Bases/Spells.base",
+    "z_Bases",
+    "Untitled.md",
+    "NPCs.base",
+    "4. World Almanac/NPCs/NPCs.base",
+    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
+    "4. World Almanac/NPCs/Vladimir Horngaard (COS).md",
+    "4. World Almanac/NPCs/Vasilka (COS).md",
+    "4. World Almanac/NPCs/Victor Vallakovich (COS).md",
+    "Untitled 1.md",
+    "4. World Almanac/NPCs/Sir Godfrey Gwilym (COS).md",
+    "4. World Almanac/NPCs/Rictavio (COS).md",
+    "4. World Almanac/NPCs/Rahadin (COS).md",
+    "Untitled.canvas",
+    "3. The Party/Campaigns",
     "z_Templates/Text Generator/Backups/generations",
     "z_Templates/Text Generator/Backups",
-    "z_Templates/Text Generator",
-    "5. Mechanics/Bestiary/Plant/img/shambling-mound-2.webp",
-    "5. Mechanics/Bestiary/Monstrosity/img/phase-spider-2.webp",
-    "5. Mechanics/Bestiary/Monstrosity/img/bulette-2.webp",
-    "5. Mechanics/Bestiary/Humanoid/img/troglodyte-2.webp",
-    "5. Mechanics/Bestiary/Fiend/img/bone-devil-2.webp",
-    "5. Mechanics/Bestiary/Dragon/img/green-dragon-wyrmling.webp",
-    "5. Mechanics/Bestiary/Celestial/img/couatl-2.webp",
     "z_Assets/Locations/bruokdon.png",
     "compendium/decks/img/back.webp",
     "4. World Almanac/NPCs/token/inda-malayuri-veor.webp"
