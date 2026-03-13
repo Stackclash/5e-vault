@@ -51,67 +51,78 @@
       "providerType": "anthropic",
       "providerId": "anthropic",
       "id": "claude-opus-4.1",
-      "model": "claude-opus-4-1"
+      "model": "claude-opus-4-1",
+      "enable": false
     },
     {
       "providerType": "anthropic",
       "providerId": "anthropic",
       "id": "claude-sonnet-4.5",
-      "model": "claude-sonnet-4-5"
+      "model": "claude-sonnet-4-5",
+      "enable": true
     },
     {
       "providerType": "anthropic",
       "providerId": "anthropic",
       "id": "claude-haiku-4.5",
-      "model": "claude-haiku-4-5"
+      "model": "claude-haiku-4-5",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-5",
-      "model": "gpt-5"
+      "model": "gpt-5",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-5-mini",
-      "model": "gpt-5-mini"
+      "model": "gpt-5-mini",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-5-nano",
-      "model": "gpt-5-nano"
+      "model": "gpt-5-nano",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-4.1",
-      "model": "gpt-4.1"
+      "model": "gpt-4.1",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-4.1-mini",
-      "model": "gpt-4.1-mini"
+      "model": "gpt-4.1-mini",
+      "enable": true
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-4.1-nano",
-      "model": "gpt-4.1-nano"
+      "model": "gpt-4.1-nano",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-4o",
-      "model": "gpt-4o"
+      "model": "gpt-4o",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-4o-mini",
-      "model": "gpt-4o-mini"
+      "model": "gpt-4o-mini",
+      "enable": false
     },
     {
       "providerType": "openai",
@@ -121,7 +132,8 @@
       "reasoning": {
         "enabled": true,
         "reasoning_effort": "medium"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "openai",
@@ -131,49 +143,57 @@
       "reasoning": {
         "enabled": true,
         "reasoning_effort": "medium"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini-2.5-pro",
-      "model": "gemini-2.5-pro"
+      "model": "gemini-2.5-pro",
+      "enable": false
     },
     {
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini-2.5-flash",
-      "model": "gemini-2.5-flash"
+      "model": "gemini-2.5-flash",
+      "enable": false
     },
     {
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini-2.5-flash-lite",
-      "model": "gemini-2.5-flash-lite"
+      "model": "gemini-2.5-flash-lite",
+      "enable": false
     },
     {
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini-2.0-flash",
-      "model": "gemini-2.0-flash"
+      "model": "gemini-2.0-flash",
+      "enable": false
     },
     {
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini-2.0-flash-lite",
-      "model": "gemini-2.0-flash-lite"
+      "model": "gemini-2.0-flash-lite",
+      "enable": false
     },
     {
       "providerType": "deepseek",
       "providerId": "deepseek",
       "id": "deepseek-chat",
-      "model": "deepseek-chat"
+      "model": "deepseek-chat",
+      "enable": false
     },
     {
       "providerType": "deepseek",
       "providerId": "deepseek",
       "id": "deepseek-reasoner",
-      "model": "deepseek-reasoner"
+      "model": "deepseek-reasoner",
+      "enable": false
     },
     {
       "providerType": "perplexity",
@@ -182,7 +202,8 @@
       "model": "sonar",
       "web_search_options": {
         "search_context_size": "low"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "perplexity",
@@ -191,7 +212,8 @@
       "model": "sonar",
       "web_search_options": {
         "search_context_size": "low"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "perplexity",
@@ -200,7 +222,8 @@
       "model": "sonar-deep-research",
       "web_search_options": {
         "search_context_size": "low"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "perplexity",
@@ -209,7 +232,8 @@
       "model": "sonar",
       "web_search_options": {
         "search_context_size": "low"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "perplexity",
@@ -218,13 +242,31 @@
       "model": "sonar",
       "web_search_options": {
         "search_context_size": "low"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "morph",
       "providerId": "morph",
       "id": "morph-v0",
-      "model": "morph-v0"
+      "model": "morph-v0",
+      "enable": false
+    },
+    {
+      "providerId": "ollama",
+      "providerType": "ollama",
+      "id": "gemma3(narrative)",
+      "model": "gemma3:4b",
+      "promptLevel": 1,
+      "enable": true
+    },
+    {
+      "providerId": "ollama",
+      "providerType": "ollama",
+      "id": "phi3(structural)",
+      "model": "phi3:mini",
+      "promptLevel": 1,
+      "enable": true
     }
   ],
   "embeddingModels": [
