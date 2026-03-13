@@ -7,8 +7,10 @@ npc_generator: |-
   Hello
 location_generator: This is crazy
 npc_generator_options:
-  location: false
+  location: true
   name: true
+name_option: Test
+location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 **Select Prompt**: `INPUT[inlineSelect(option(NPC Generator),option(Location Generator),option(Quest Generator),option(Faction Generator)):promptType]`
 
@@ -23,13 +25,12 @@ npc_generator_options:
 > ```
 
 ```dataviewjs
-const options = Object.keys(`${this.current().promptType.toLowerCase().replaceAll(' ','_')}_options`)
-console.log(options)
+const options = this.current()[`${this.current().promptType.toLowerCase().replaceAll(' ','_')}_options`]
 if (options.name) {
-  dv.span(`**Name**: \`INPUT[text:name_option]\``)
+  dv.paragraph(`**Name**: \`INPUT[text:name_option]\``)
 }
 if (options.location) {
-  dv.span(`**Location**: \`INPUT[suggester(optionQuery(#location)):location]\``)
+  dv.paragraph(`**Location**: \`INPUT[suggester(optionQuery(#location)):location]\``)
 }
 ```
 
