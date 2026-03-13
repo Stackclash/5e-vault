@@ -20,17 +20,14 @@ prompt_option_definitions:
 npc_generator: |-
   This is going well
 
-  Hello
   {{description}}
   {{location}}
+  {{blah}}
 location_generator: |-
   This is crazy
   {{location}}
 
   {{faction}}
-description_value:
-name_value:
-location_value: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -53,7 +50,7 @@ return function View() {
       fm.selected_prompt_type = selectedType
       const promptOptionValueKeys = Object.keys(fm).filter(k => k.endsWith('_value'))
       for (const key of promptOptionValueKeys) {
-        fm[key] = null
+        delete fm[key]
       }
     })
   }, [selectedType])
@@ -101,12 +98,12 @@ const uniqueTokens = [...new Set(tokens)]
 
 for (const token of uniqueTokens) {
 
-  const def = defs[token]
+  const def = defs[token] || {}
 
-  if (!def) {
-    dv.paragraph(`❌ Unknown option **${token}** used in template`)
-    continue
-  }
+  // if (!def) {
+  //   dv.paragraph(`❌ Unknown option **${token}** used in template`)
+  //   continue
+  // }
 
   const label = def.label || token
   const field = `${token}_value`
