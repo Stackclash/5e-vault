@@ -1,7 +1,6 @@
 ---
 obsidianUIMode: preview
 selected_prompt_type: Prompt Builder Templates/Test Prompt.md
-test_value: boo
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -52,63 +51,155 @@ return function View() {
 }
 ```
 
-```dataviewjs
-const page = dv.current()
-const selectedPrompt = page.selected_prompt_type
-let template = await dv.io.load(selectedPrompt)
+```datacorejsx
+return function PromptBuilder() {
 
-const errors = []
+  const currentPage = dc.useCurrentFile()
+  const templatePath = currentPage.value('selected_prompt_type')
 
-const defs = page.prompt_option_definitions || {}
-const tokens = [...template.matchAll(/{{(.*?)}}/g)]
-  .map(m => m[1].trim())
+  if (!templatePath) return <div>Select a prompt.</div>
 
-const uniqueTokens = [...new Set(tokens)]
+  const templatePage = dc.useQuery(`path("${templatePath}")`)
+  const defs = templatePage?.value('prompt_option_definitions') || {}
 
-for (const token of uniqueTokens) {
-  const standardToken = token.replaceAll(' ', '_')
-  const def = defs[standardToken] || {}
-  const label = def.label || token.replace(/\b\w/g,c=>c.toUpperCase())
-  const field = `${standardToken}_value`
-  let value = page[field]
-  if (value?.path) value = value.path.split('/').pop().replace('.md','')
+  const template = dc.useMemo(() => {
+    const file = app.vault.getAbstractFileByPath(templatePath)
+    return file ? app.vault.cachedRead(file) : ""
+  }, [templatePath])
 
-  if (!value) {
-    errors.push(`Option **${token}** requires a value.`)
-  } else {
-    template = template.replaceAll(`{{${token}}}`, value)
+  const [templateText, setTemplateText] = dc.useState("")
+
+  dc.useEffect(()=>{
+    template.then(t => {
+      const cleaned = t.replace(/^---[\s\S]*?---/, "").trim()
+      setTemplateText(cleaned)
+    })
+  }, [template])
+
+  const tokens = dc.useMemo(()=>{
+    return [...templateText.matchAll(/{{(.*?)}}/g)]
+      .map(m => m[1].trim())
+      .filter((v,i,a)=>a.indexOf(v)===i)
+  }, [templateText])
+
+  const [values,setValues] = dc.useState({})
+
+  const setValue = (field,val)=>{
+    setValues(v=>({...v,[field]:val}))
+
+    app.fileManager.processFrontMatter(
+      app.workspace.getActiveFile(),
+      fm => { fm[field] = val }
+    )
   }
 
-  let input = ""
+  const preview = dc.useMemo(()=>{
 
-  switch(def.type) {
-    case "textarea":
-      input = `INPUT[textArea:${field}]`
-      break
+    let output = templateText
+    const errors = []
 
-    case "suggester":
-      input = `INPUT[suggester(optionQuery(${def.query})):${field}]`
-      break
+    tokens.forEach(token=>{
+      const field = token.replaceAll(' ','_') + "_value"
+      let value = values[field] ?? currentPage.value(field)
 
-    case "select":
-      const opts = def.options.map(o => `option(${o})`).join(',')
-      input = `INPUT[inlineSelect(${opts}):${field}]`
-      break
+      if (value?.path) {
+        value = value.path.split('/').pop().replace('.md','')
+      }
 
-    case "toggle":
-      input = `INPUT[toggle:${field}]`
-      break
+      if (!value) {
+        errors.push(`Option "${token}" requires a value`)
+      } else {
+        output = output.replaceAll(`{{${token}}}`, value)
+      }
+    })
 
-    default:
-      input = `INPUT[text:${field}]`
-  }
+    return {output,errors}
 
-  dv.paragraph(`**${label}**: \`${input}\``)
-}
+  },[values,templateText])
 
-if (errors.length) {
-  dv.paragraph(`> [!error] Prompt Validation\n${errors.map(e => `> ${e}`).join('\n')}`)
-} else {
-  dv.paragraph(`\`\`\`\n${template}\n\`\`\``)
+  return (
+    <div style={{display:"grid",gridTemplateColumns:"1fr 1fr",gap:"1rem"}}>
+
+      {/* INPUT PANEL */}
+
+      <div>
+
+        <h3>Prompt Inputs</h3>
+
+        {tokens.map(token=>{
+
+          const key = token.replaceAll(' ','_')
+          const field = key+"_value"
+          const def = defs[key] || {}
+
+          const label = def.label || token.replace(/\b\w/g,c=>c.toUpperCase())
+
+          switch(def.type){
+
+            case "textarea":
+              return (
+                <div>
+                  <label>{label}</label>
+                  <textarea
+                    value={values[field] || ""}
+                    onChange={e=>setValue(field,e.target.value)}
+                  />
+                </div>
+              )
+
+            case "select":
+              return (
+                <div>
+                  <label>{label}</label>
+                  <select
+                    value={values[field] || ""}
+                    onChange={e=>setValue(field,e.target.value)}
+                  >
+                    <option></option>
+                    {def.options?.map(o=>
+                      <option key={o}>{o}</option>
+                    )}
+                  </select>
+                </div>
+              )
+
+            default:
+              return (
+                <div>
+                  <label>{label}</label>
+                  <input
+                    type="text"
+                    value={values[field] || ""}
+                    onChange={e=>setValue(field,e.target.value)}
+                  />
+                </div>
+              )
+          }
+
+        })}
+
+      </div>
+
+
+      {/* LIVE PREVIEW */}
+
+      <div>
+
+        <h3>Prompt Preview</h3>
+
+        {preview.errors.length > 0 &&
+          <div class="callout callout-error">
+            {preview.errors.map(e=><div>{e}</div>)}
+          </div>
+        }
+
+        <pre>
+          {preview.output}
+        </pre>
+
+      </div>
+
+    </div>
+  )
 }
 ```
