@@ -14,6 +14,9 @@ npc_generator: |-
   This is going well
 
   Hello
+
+  {{description}}
+  {{location}}
 location_generator: This is crazy
 npc_generator_options:
   location: false
