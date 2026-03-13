@@ -1,17 +1,16 @@
 ---
 obsidianUIMode: preview
-selected_prompt_name: Prompt Builder Templates/Test Prompt.md
-test_value: hello
+selected_prompt_path: Prompt Builder Templates/Test Prompt.md
 ---
 ```datacorejsx
 return function View() {
   const currentPage = dc.useCurrentFile()
   const promptTemplates = dc.useQuery(`@page and path("Prompt Builder Templates")`)
-  const [selectedPromptPath, setSelectedPromptPath] = dc.useState(currentPage.value('selected_prompt_name'))
+  const [selectedPromptPath, setSelectedPromptPath] = dc.useState(currentPage.value('selected_prompt_path'))
 
   dc.useEffect(()=> {
     app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-      fm.selected_prompt_name = selectedPromptPath
+      fm.selected_prompt_path = selectedPromptPath
       const promptOptionValueKeys = Object.keys(fm).filter(k => k.endsWith('_value'))
       for (const key of promptOptionValueKeys) {
         delete fm[key]
@@ -46,26 +45,29 @@ return function View() {
 return function PromptBuilder() {
 
   const currentPage = dc.useCurrentFile()
-  const templatePath = currentPage.value('selected_prompt_name')
+  const templatePath = currentPage.value('selected_prompt_path')
 
   if (!templatePath) return <div>Select a prompt.</div>
 
   const templatePage = dc.useQuery(`@page and path("Prompt Builder Templates")`).filter(p => p.$name = templatePath)[0]
-  const defs = templatePage?.value('prompt_option_definitions') || {}
-
-  const template = dc.useMemo(() => {
-    const file = app.vault.getAbstractFileByPath(templatePath)
-    return file ? app.vault.cachedRead(file) : Promise.resolve("")
-  }, [templatePath])
-
-  const [templateText, setTemplateText] = dc.useState("")
+  const defs = Object.assign({}, (currentPage.value('template_definitions') || {}), (templatePage?.value('template_definitions') || {}))
 
   dc.useEffect(()=>{
-    template.then(t => {
+    const file = app.vault.getAbstractFileByPath(templatePath)
+
+    if (!file) {
+      setTemplateText("")
+      return
+    }
+
+    app.vault.cachedRead(file).then(t=>{
       const cleaned = t.replace(/^---[\s\S]*?---/, "").trim()
       setTemplateText(cleaned)
     })
-  }, [template])
+
+  }, [templatePath])
+
+  const [templateText, setTemplateText] = dc.useState("")
 
   const tokens = dc.useMemo(()=>{
     return [...templateText.matchAll(/{{(.*?)}}/g)]
@@ -106,7 +108,7 @@ return function PromptBuilder() {
 
     return {output,errors}
 
-  },[values,templateText])
+  },[values,templateText,tokens])
 
   return (
     <div style={{display:"grid",gridTemplateColumns:"1fr 1fr",gap:"1rem"}}>
@@ -129,7 +131,7 @@ return function PromptBuilder() {
 
             case "textarea":
               return (
-                <div>
+                <div key={token}>
                   <label>{label}</label>
                   <textarea
                     value={values[field] || ""}
