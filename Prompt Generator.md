@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-selected_prompt_type: npc_generator
+selected_prompt_type: location_generator
 prompt_types:
   - NPC Generator
   - Location Generator
@@ -33,9 +33,9 @@ location_generator_options:
   location: true
 quest_generator_options:
   name: true
-description_value: Whoop
+description_value:
 name_value:
-location_value: "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
+location_value:
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -92,9 +92,10 @@ return function View() {
 > [!info]- Options
 > ```dataviewjs
 > const templateOptionsKey = `${this.current().selected_prompt_type}_options`
-> const options = Object.keys(dv.current().prompt_option_definitions)
-> for (const opt of options) {
->   dv.paragraph(`**${opt.charAt(0).toUpperCase() + opt.slice(1)}**:\t\`INPUT[toggle(defaultValue(false)):${templateOptionsKey}.${opt}]\``)
+> const defs = Object.keys(dv.current().prompt_option_definitions)
+> for (const [opt, def] of Object.entries(defs)) {
+>   console.log(opt, def)
+>   dv.paragraph(`**${def.label || opt.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase())}**:\t\`INPUT[toggle(defaultValue(false)):${templateOptionsKey}.${opt}]\``)
 > }
 > ```
 
@@ -111,7 +112,7 @@ for (const [opt, def] of Object.entries(defs)) {
 
   if (!enabled) continue
 
-  const label = def.label || opt
+  const label = def.label || opt.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase())
   const field = `${opt}_value`
 
   let input = ""
