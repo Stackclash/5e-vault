@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Generator.md",
+                "file": "1. DM Toolkit/DM Quick Reference.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Generator"
+              "title": "DM Quick Reference"
             }
           }
         ],
@@ -262,13 +262,8 @@
   },
   "active": "ff51a18aee7dff95",
   "lastOpenFiles": [
-    "z_Templates/Templater/World Building/Shop.md",
     "Prompt Generator.md",
-    "z_Templates/Templater/World Building/Event.md",
-    "z_Bases/Spells.base",
-    "z_Bases/NPCs.base",
-    "4. World Almanac/NPCs/Vladimir Horngaard (COS).md",
-    "1. DM Toolkit/DM Quick Reference.md",
+    "Prompt Selector.md",
     "1. DM Toolkit/Knowledge/Sources/Sync.md",
     "z_Bases/Spells.base",
     "1. DM Toolkit/Websites.md",
@@ -294,6 +289,7 @@
     "5. Mechanics/Items/3 Moon Sickle (TCE).md",
     "5. Mechanics/Items/Flensing Claws (VGM).md",
     "5. Mechanics/Items/1 Amulet Of The Devout (TCE).md",
+    "5. Mechanics/Bestiary/Bestiary.md",
     "z_Bases/Locations.base",
     "z_Bases/Players.base",
     "z_Bases/NPCs.base",
