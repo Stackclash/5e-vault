@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-selected_prompt_type: Location Generator
+selected_prompt_type: npc_generator
 prompt_types:
   - NPC Generator
   - Location Generator
@@ -17,43 +17,51 @@ location_generator: This is crazy
 npc_generator_options:
   location: true
   name: true
-name_option: Test
-location_option: "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
+name_option:
+location_option:
 location_generator_options:
   name: false
   location: true
 ---
-**Select Prompt**: `INPUT[inlineSelect(option(NPC Generator),option(Location Generator),option(Quest Generator),option(Faction Generator)):selected_prompt_type]` `BUTTON[refresh]`
 ```datacorejsx
 return function View() {
   const currentPage = dc.useCurrentFile()
   const promptTypes = currentPage.value('prompt_types')
-  const [setSelectedType, selectedType] = dc.useState(currentPage.value('selected_prompt_type'))
+  const [selectedType, setSelectedType] = dc.useState(currentPage.value('selected_prompt_type'))
 
   dc.useEffect(()=> {
     app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+      fm.selected_prompt_type = selectedType
       const promptOptionValueKeys = Object.keys(fm).filter(k => k.endsWith('_option'))
-      console.log(promptOptionValueKeys)
+      for (const key of promptOptionValueKeys) {
+        fm[key] = null
+      }
     })
   }, [selectedType])
 
   return (
-    <label><strong>Select Prompt</strong>:</label>
-    <select
-      value={selectType}
-    >
-      {promptTypes.map(pt => {
-        const typeKey = pt.toLowerCase().replaceAll(' ','_')
-        return (
-          <option key={typeKey} value={typeKey}>
-            {pt}
-          </option>
-        )
-      })}
-    </select>
+    <>
+      <label><strong>Select Prompt</strong>: </label>
+      <select
+        value={selectedType}
+        onChange={(e) => {
+          setSelectedType(e.target.value)
+        }}
+      >
+        {promptTypes.map(pt => {
+          const typeKey = pt.toLowerCase().replaceAll(' ','_')
+          return (
+            <option key={typeKey} value={typeKey}>
+              {pt}
+            </option>
+          )
+        })}
+      </select>
+    </>
   )
 }
 ```
+`BUTTON[refresh]`
 ```meta-bind-button
 style: primary
 label: Refresh
