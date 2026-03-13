@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DM Toolkit/DM Quick Reference.md",
+                "file": "4. World Almanac/NPCs/Vladimir Horngaard (COS).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DM Quick Reference"
+              "title": "Vladimir Horngaard (COS)"
             }
           }
         ],
@@ -241,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 390.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,6 +270,7 @@
   },
   "active": "c42e6ee23b67bbf5",
   "lastOpenFiles": [
+    "1. DM Toolkit/DM Quick Reference.md",
     "1. DM Toolkit/Knowledge/Sources/Sync.md",
     "z_Bases/Spells.base",
     "1. DM Toolkit/Websites.md",
@@ -297,7 +298,6 @@
     "5. Mechanics/Items/1 Amulet Of The Devout (TCE).md",
     "5. Mechanics/Bestiary/Bestiary.md",
     "5. Mechanics/Bestiary/Aberration/Aberration.md",
-    "5. Mechanics/Spells/Spells.md",
     "z_Bases/Locations.base",
     "z_Bases/Players.base",
     "z_Bases/NPCs.base",

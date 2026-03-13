@@ -320,7 +320,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "gemma3(narrative)",
+  "chatModelId": "phi3(structural)",
   "applyModelId": "phi3(structural)",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",
