@@ -3,6 +3,8 @@ obsidianUIMode: preview
 promptType: NPC Generator
 npc_generator: This is going well
 location_generator: This is crazy
+npc_generator_options:
+  location: false
 ---
 **Select Prompt**: `INPUT[inlineSelect(option(NPC Generator),option(Location Generator),option(Quest Generator),option(Faction Generator)):promptType]`
 
@@ -11,7 +13,8 @@ location_generator: This is crazy
 
 > [!info]- Options
 > ```dataviewjs
-> dv.current()[`${this.current().promptType.toLowerCase().replaceAll(' ','_')}_options`] = {}
+> const templateOptionsKey = `${this.current().promptType.toLowerCase().replaceAll(' ','_')}_options`
+> dv.span(`**Location**:\t\`INPUT[toggle(defaultValue(false)):${templateOptionsKey}.location]\``)
 > ```
 
 ```dataviewjs
