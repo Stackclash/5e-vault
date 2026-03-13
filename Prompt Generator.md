@@ -33,9 +33,9 @@ location_generator_options:
   location: true
 quest_generator_options:
   name: true
-description_value:
+description_value: Whoop
 name_value:
-location_value:
+location_value: "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -100,19 +100,18 @@ return function View() {
 
 ```dataviewjs
 const page = dv.current()
+
 const typeKey = page.selected_prompt_type
-const options = page[`${typeKey}_options`] || {}
+const enabledOptions = page[`${typeKey}_options`] || {}
 const defs = page.prompt_option_definitions || {}
 
-for (const defKey of Object.keys(defs)) {
+for (const [opt, def] of Object.entries(defs)) {
 
-  const opt = options[defKey]
+  const enabled = enabledOptions?.[opt] ?? false
 
-  if (!opt.enabled) continue
+  if (!enabled) continue
 
-  const def = defs[defKey] || {type:"text", label:opt}
-
-  const label = def.label || defKey
+  const label = def.label || opt
   const field = `${opt}_value`
 
   let input = ""
@@ -132,9 +131,12 @@ for (const defKey of Object.keys(defs)) {
       input = `INPUT[inlineSelect(${opts}):${field}]`
       break
 
+    case "toggle":
+      input = `INPUT[toggle:${field}]`
+      break
+
     default:
       input = `INPUT[text:${field}]`
-
   }
 
   dv.paragraph(`**${label}**: \`${input}\``)
@@ -171,7 +173,7 @@ for (const token of tokens) {
 
   const value = page[`${token}_value`]
   if (!value || value === "") {
-    errors.push(`Option **${token}** is enabled but has no value.`)
+    errors.push(`Option **${token}** is enabled and referenced in the template but has no value.`)
   }
 }
 
