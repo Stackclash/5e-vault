@@ -5,7 +5,6 @@ template_definitions:
   name:
     label: Name
     type: text
-test_value: hello
 ---
 ```datacorejsx
 return function PromptBuilder() {
@@ -108,6 +107,9 @@ return function PromptBuilder() {
 
       if (value?.path) {
         value = value.path.split('/').pop().replace('.md', '')
+      }
+      if (typeof value === "string" && value.endsWith(".md")) {
+        value = value.split('/').pop().replace('.md','')
       }
 
       if (!value) {
