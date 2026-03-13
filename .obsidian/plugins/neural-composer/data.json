@@ -342,7 +342,7 @@
   },
   "enableAutoStartServer": true,
   "lightRagCommand": "lightrag-server",
-  "lightRagWorkDir": "/Users/rcox/Projects/Personal/5e-vault/.neural_memory",
+  "lightRagWorkDir": "C:\\Users\\coxri\\Projects\\Personal\\5e-vault\\.neural_memory",
   "lightRagSummaryLanguage": "English",
   "lightRagShowCitations": true,
   "lightRagQueryMode": "mix",
@@ -359,5 +359,6 @@
   "lightRagMaxAsync": 4,
   "lightRagMaxParallelInsert": 1,
   "lightRagChunkSize": 1200,
-  "lightRagChunkOverlap": 100
+  "lightRagChunkOverlap": 100,
+  "lightRagModelId": "phi3(structural)"
 }
