@@ -60,6 +60,7 @@ return function PromptBuilder() {
   if (!templatePath) return <div>Select a prompt.</div>
 
   const templatePage = dc.useQuery(`path("${templatePath}")`)
+  console.log(templatePath)
   const defs = templatePage?.value('prompt_option_definitions') || {}
 
   const template = dc.useMemo(() => {
