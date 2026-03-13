@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-promptType: Quest Generator
+promptType: Location Generator
 options:
   - name
   - location
@@ -15,10 +15,19 @@ npc_generator_options:
 name_option: Test
 location_option: "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
 location_generator_options:
-  name: true
+  name: false
   location: true
 ---
-**Select Prompt**: `INPUT[inlineSelect(option(NPC Generator),option(Location Generator),option(Quest Generator),option(Faction Generator)):promptType]`
+**Select Prompt**: `INPUT[inlineSelect(option(NPC Generator),option(Location Generator),option(Quest Generator),option(Faction Generator)):promptType]` `BUTTON[refresh]`
+```meta-bind-button
+style: primary
+label: Refresh
+id: refresh
+hidden: true
+actions:
+  - type: command
+    command: dataview:dataview-force-refresh-views
+```
 
 > [!info]- Template
 > `$= await dv.view('utils/metaBindInput', {type: 'textArea', field: this.current().promptType.toLowerCase().replaceAll(' ','_')})`
@@ -47,6 +56,5 @@ dv.paragraph(`\`\`\`\n${this.current()[this.current().promptType.toLowerCase().r
 ```
 
 ```dataviewjs
-const test = app.plugins.getPlugin("dataview")
-console.log(test)
+console.log(app)
 ```
