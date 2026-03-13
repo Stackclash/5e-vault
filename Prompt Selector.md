@@ -16,11 +16,9 @@ npc_generator: |-
   Hello
 location_generator: This is crazy
 npc_generator_options:
-  location: true
+  location: false
   name: true
   description: true
-name_option:
-location_option:
 location_generator_options:
   name: false
   location: true
@@ -46,7 +44,7 @@ return function View() {
   dc.useEffect(()=> {
     app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
       fm.selected_prompt_type = selectedType
-      const promptOptionValueKeys = Object.keys(fm).filter(k => k.endsWith('_option'))
+      const promptOptionValueKeys = Object.keys(fm).filter(k => k.endsWith('_value'))
       for (const key of promptOptionValueKeys) {
         fm[key] = null
       }
@@ -91,13 +89,13 @@ return function View() {
 ```dataviewjs
 const options = this.current()[`${this.current().selected_prompt_type}_options`]
 if (options && 'name' in options && options.name) {
-  dv.paragraph(`**Name**: \`INPUT[text:name_option]\``)
+  dv.paragraph(`**Name**: \`INPUT[text:name_value]\``)
 }
 if (options && 'location' in options && options.location) {
-  dv.paragraph(`**Location**: \`INPUT[suggester(optionQuery(#location)):location_option]\``)
+  dv.paragraph(`**Location**: \`INPUT[suggester(optionQuery(#location)):location_value]\``)
 }
-if (options && 'description' in options && options.location) {
-  dv.paragraph(`**Description**: \`INPUT[textArea:description_option]\``)
+if (options && 'description' in options && options.description) {
+  dv.paragraph(`**Description**: \`INPUT[textArea:description_value]\``)
 }
 ```
 
