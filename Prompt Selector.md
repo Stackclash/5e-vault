@@ -1,1 +1,4 @@
-`INPUT[select(optionNPC Generator,Location Generator,Quest Generator,Faction Generator):promptType]`
+---
+promptType: NPC Generator
+---
+`INPUT[inlineSelect(option(NPC Generator),option(Location Generator),option(Quest Generator),option(Faction Generator)):promptType]`
