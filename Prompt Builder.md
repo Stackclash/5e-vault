@@ -8,6 +8,8 @@ template_definitions:
 gender_value: Male
 alignment_value: Lawful Good
 race_value: Human
+include_secret_value: false
+location_value: 4. World Almanac/Settlements/Vallaki.md
 ---
 ```datacorejsx
 return function PromptBuilderV2() {

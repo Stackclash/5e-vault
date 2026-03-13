@@ -18,6 +18,7 @@ template_definitions:
 
   occupation:
     type: text
+    required: false
 
   location:
     type: suggester
@@ -35,7 +36,7 @@ context_definitions:
 
   nearby_npcs:
     type: datacore_query
-    query: '@page and path("3. People")'
+    query: '@page and path("4. World Almanac/NPCs")'
     format: list_names
 
 output:
