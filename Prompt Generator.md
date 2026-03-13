@@ -14,7 +14,6 @@ npc_generator: |-
   This is going well
 
   Hello
-
   {{description}}
   {{location}}
 location_generator: This is crazy
@@ -123,6 +122,11 @@ const tokens = tokenMatches.map(t => t[1].trim())
 for (const token of tokens) {
   const enabled = options[token]
 
+  if (!(token in options)) {
+    errors.push(`Template references unknown option **${token}**.`)
+    continue
+  }
+
   if (!enabled) {
     errors.push(`Option **${token}** is referenced in the template but is disabled.`)
     continue
@@ -134,16 +138,6 @@ for (const token of tokens) {
   }
 }
 
-// Also check enabled options missing from template (optional safety)
-for (const [opt, enabled] of Object.entries(options)) {
-  if (enabled && tokens.includes(opt)) {
-    const value = page[`${opt}_value`]
-    if (!value || value === "") {
-      errors.push(`Option **${opt}** is enabled but has no value.`)
-    }
-  }
-}
-
 // Show errors if any
 if (errors.length > 0) {
   // dv.el("div", "", { cls: "prompt-errors" })
@@ -152,7 +146,8 @@ if (errors.length > 0) {
 } else {
   // Replace tokens
   for (const token of tokens) {
-    const value = page[`${token}_value`] ?? ""
+    let value = page[`${token}_value`] ?? ""
+    if (value?.path) value = value.path.split('/').pop().replace('.md','')
     template = template.replaceAll(`{{${token}}}`, value)
   }
 
