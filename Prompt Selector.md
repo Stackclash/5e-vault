@@ -1,0 +1,1 @@
+`INPUT[select(optionNPC Generator,Location Generator,Quest Generator,Faction Generator):promptType]`
