@@ -1,46 +1,37 @@
 ---
 obsidianUIMode: preview
-selected_prompt_name: Test Prompt
+selected_prompt_name: Prompt Builder Templates/Test Prompt.md
+test_value: hello
 ---
-`BUTTON[refresh]`
-```meta-bind-button
-style: primary
-label: Refresh
-id: refresh
-hidden: true
-actions:
-  - type: command
-    command: dataview:dataview-force-refresh-views
-```
 ```datacorejsx
 return function View() {
   const currentPage = dc.useCurrentFile()
   const promptTemplates = dc.useQuery(`@page and path("Prompt Builder Templates")`)
-  const [selectedPromptName, setSelectedPromptName] = dc.useState(currentPage.value('selected_prompt_name'))
+  const [selectedPromptPath, setSelectedPromptPath] = dc.useState(currentPage.value('selected_prompt_name'))
 
   dc.useEffect(()=> {
     app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-      fm.selected_prompt_name = selectedPromptName
+      fm.selected_prompt_name = selectedPromptPath
       const promptOptionValueKeys = Object.keys(fm).filter(k => k.endsWith('_value'))
       for (const key of promptOptionValueKeys) {
         delete fm[key]
       }
     })
-  }, [selectedPromptName])
+  }, [selectedPromptPath])
 
   return (
     <>
       <label><strong>Select Prompt</strong>: </label>
       <select
-        value={selectedPromptName}
+        value={selectedPromptPath}
         onChange={(e) => {
-          setSelectedPromptName(e.target.value)
+          setSelectedPromptPath(e.target.value)
         }}
       >
         {promptTemplates.map(pt => {
           const typeKey = pt.$name.toLowerCase().replaceAll(' ','_')
           return (
-            <option key={typeKey} value={pt.$name}>
+            <option key={typeKey} value={pt.$path}>
               {pt.$name}
             </option>
           )
@@ -55,18 +46,17 @@ return function View() {
 return function PromptBuilder() {
 
   const currentPage = dc.useCurrentFile()
-  const templateName = currentPage.value('selected_prompt_name')
+  const templatePath = currentPage.value('selected_prompt_name')
 
-  if (!templateName) return <div>Select a prompt.</div>
+  if (!templatePath) return <div>Select a prompt.</div>
 
-  const templatePage = dc.useQuery(`@page and path("Prompt Builder Templates")`).filter(p => p.$name = templateName)[0]
-  console.log(templatePage)
+  const templatePage = dc.useQuery(`@page and path("Prompt Builder Templates")`).filter(p => p.$name = templatePath)[0]
   const defs = templatePage?.value('prompt_option_definitions') || {}
 
   const template = dc.useMemo(() => {
-    const file = app.vault.getAbstractFileByPath(templateName)
+    const file = app.vault.getAbstractFileByPath(templatePath)
     return file ? app.vault.cachedRead(file) : Promise.resolve("")
-  }, [templateName])
+  }, [templatePath])
 
   const [templateText, setTemplateText] = dc.useState("")
 
