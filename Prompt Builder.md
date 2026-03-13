@@ -16,7 +16,6 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const promptTemplates = dc.useQuery(`@page and path("Prompt Builder Templates")`)
-  console.log(promptTemplates)
   const [selectedType, setSelectedType] = dc.useState(currentPage.value('selected_prompt_type'))
 
   dc.useEffect(()=> {
@@ -39,7 +38,6 @@ return function View() {
         }}
       >
         {promptTemplates.map(pt => {
-          console.log(pt, pt.$name)
           const typeKey = pt.$name.toLowerCase().replaceAll(' ','_')
           return (
             <option key={typeKey} value={pt.$name}>
@@ -56,8 +54,9 @@ return function View() {
 ```dataviewjs
 const page = dv.current()
 
-const typeKey = page.selected_prompt_type
-const template = page[typeKey] || ""
+const selectedPrompt = page.selected_prompt_type
+const template = await dv.query(`"Prompt Builder Templates" and file.name = '${selectedPrompt}'`)
+console.log(template)
 
 const defs = page.prompt_option_definitions || {}
 
