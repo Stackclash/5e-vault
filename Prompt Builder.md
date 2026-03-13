@@ -1,7 +1,6 @@
 ---
 obsidianUIMode: preview
 selected_prompt_type: Prompt Builder Templates/Test Prompt.md
-test_value: hello
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -54,25 +53,33 @@ return function View() {
 
 ```dataviewjs
 const page = dv.current()
-
 const selectedPrompt = page.selected_prompt_type
-const template = await dv.io.load(selectedPrompt)
+let template = await dv.io.load(selectedPrompt)
+
+const errors = []
 
 const defs = page.prompt_option_definitions || {}
-
-// find template variables
 const tokens = [...template.matchAll(/{{(.*?)}}/g)]
   .map(m => m[1].trim())
 
-// remove duplicates
 const uniqueTokens = [...new Set(tokens)]
 
 for (const token of uniqueTokens) {
+  const standardToken = token.replaceAll(' ', '_')
+  const def = defs[standardToken] || {}
+  const label = def.label || token.replace(/\b\w/g,c=>c.toUpperCase())
+  const field = `${standardToken}_value`
+  let value = page[field]
+  if (value?.path) value = value.path.split('/').pop().replace('.md','')
 
-  const def = defs[token] || {}
+  console.log(JSON.stringify({token, standardToken, def, label, field, value}))
 
-  const label = def.label || token.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase())
-  const field = `${token.replaceAll(' ', '_')}_value`
+  if (!value) {
+    errors.push(`Option **${token}** requires a value.`)
+    continue
+  }
+
+  template = template.replaceAll(`{{${token}}}`, value)
 
   let input = ""
 
@@ -99,33 +106,8 @@ for (const token of uniqueTokens) {
       input = `INPUT[text:${field}]`
   }
 
+  console.log('HERE')
   dv.paragraph(`**${label}**: \`${input}\``)
-}
-```
-
-```dataviewjs
-const page = dv.current()
-const selectedPrompt = page.selected_prompt_type
-let template = await dv.io.load(selectedPrompt)
-
-const errors = []
-
-const tokens = [...template.matchAll(/{{(.*?)}}/g)]
-  .map(m => m[1].trim())
-
-const uniqueTokens = [...new Set(tokens)]
-
-for (const token of uniqueTokens) {
-  const field = token.replaceAll(' ', '_')
-  let value = page[`${field}_value`]
-  if (value?.path) value = value.path.split('/').pop().replace('.md','')
-
-  if (!value) {
-    errors.push(`Option **${token}** requires a value.`)
-    continue
-  }
-
-  template = template.replaceAll(`{{${token}}}`, value)
 }
 
 if (errors.length) {

@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Builder.md",
+                "file": "z_Templates/Templater/World Building/Shop.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Builder"
+              "title": "Shop"
             }
           }
         ],
@@ -282,10 +282,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1c21017c65590805",
+  "active": "830f75e4aa18d718",
   "lastOpenFiles": [
-    "z_Templates/Templater/World Building/Shop.md",
     "Prompt Builder.md",
+    "z_Templates/Templater/World Building/Shop.md",
     "Prompt Builder Templates/Test Prompt.md",
     "Prompt Builder Templates",
     "Prompt Generator.md",
