@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Selector.md",
+                "file": "Prompt Generator.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Selector"
+              "title": "Prompt Generator"
             }
           }
         ],
@@ -285,7 +285,7 @@
   "active": "1c21017c65590805",
   "lastOpenFiles": [
     "z_Templates/Templater/World Building/Shop.md",
-    "Prompt Selector.md",
+    "Prompt Generator.md",
     "z_Templates/Templater/World Building/Event.md",
     "z_Bases/Spells.base",
     "z_Bases/NPCs.base",

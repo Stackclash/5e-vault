@@ -24,6 +24,7 @@ location_generator_options:
   location: true
 quest_generator_options:
   name: true
+description_value: This is a cool character.
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -100,5 +101,24 @@ if (options && 'description' in options && options.description) {
 ```
 
 ```dataviewjs
-dv.paragraph(`\`\`\`\n${this.current()[this.current().selected_prompt_type] || ''}\n\`\`\``)
+const page = dv.current()
+
+const typeKey = page.selected_prompt_type
+let template = page[typeKey] || ""
+
+const options = page[`${typeKey}_options`] || {}
+
+for (const [opt, enabled] of Object.entries(options)) {
+
+  if (!enabled) continue
+
+  const valueKey = `${opt}_value`
+  const value = page[valueKey] ?? ""
+
+  const token = `{{${opt}}}`
+
+  template = template.replaceAll(token, value)
+}
+
+dv.paragraph(`\`\`\`\n${template}\n\`\`\``)
 ```
