@@ -225,14 +225,23 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "c42e6ee23b67bbf5",
+            "type": "leaf",
+            "state": {
+              "type": "neuralcmp-chat-view",
+              "state": {},
+              "icon": "brain-circuit",
+              "title": "Neural Composer chat"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,7 +268,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ff51a18aee7dff95",
+  "active": "c42e6ee23b67bbf5",
   "lastOpenFiles": [
     "1. DM Toolkit/Knowledge/Sources/Sync.md",
     "z_Bases/Spells.base",

@@ -59,7 +59,7 @@
       "providerId": "anthropic",
       "id": "claude-sonnet-4.5",
       "model": "claude-sonnet-4-5",
-      "enable": true
+      "enable": false
     },
     {
       "providerType": "anthropic",
@@ -101,7 +101,7 @@
       "providerId": "openai",
       "id": "gpt-4.1-mini",
       "model": "gpt-4.1-mini",
-      "enable": true
+      "enable": false
     },
     {
       "providerType": "openai",
@@ -129,22 +129,22 @@
       "providerId": "openai",
       "id": "o4-mini",
       "model": "o4-mini",
+      "enable": false,
       "reasoning": {
         "enabled": true,
         "reasoning_effort": "medium"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "o3",
       "model": "o3",
+      "enable": false,
       "reasoning": {
         "enabled": true,
         "reasoning_effort": "medium"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "gemini",
@@ -200,50 +200,50 @@
       "providerId": "perplexity",
       "id": "sonar",
       "model": "sonar",
+      "enable": false,
       "web_search_options": {
         "search_context_size": "low"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "perplexity",
       "providerId": "perplexity",
       "id": "sonar-pro",
       "model": "sonar",
+      "enable": false,
       "web_search_options": {
         "search_context_size": "low"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "perplexity",
       "providerId": "perplexity",
       "id": "sonar-deep-research",
       "model": "sonar-deep-research",
+      "enable": false,
       "web_search_options": {
         "search_context_size": "low"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "perplexity",
       "providerId": "perplexity",
       "id": "sonar-reasoning",
       "model": "sonar",
+      "enable": false,
       "web_search_options": {
         "search_context_size": "low"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "perplexity",
       "providerId": "perplexity",
       "id": "sonar-reasoning-pro",
       "model": "sonar",
+      "enable": false,
       "web_search_options": {
         "search_context_size": "low"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "morph",
@@ -253,16 +253,16 @@
       "enable": false
     },
     {
-      "providerId": "ollama",
       "providerType": "ollama",
+      "providerId": "ollama",
       "id": "gemma3(narrative)",
       "model": "gemma3:4b",
       "promptLevel": 1,
       "enable": true
     },
     {
-      "providerId": "ollama",
       "providerType": "ollama",
+      "providerId": "ollama",
       "id": "phi3(structural)",
       "model": "phi3:mini",
       "promptLevel": 1,
@@ -320,8 +320,8 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "claude-sonnet-4.5",
-  "applyModelId": "gpt-4.1-mini",
+  "chatModelId": "gemma3(narrative)",
+  "applyModelId": "phi3(structural)",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",
   "ragOptions": {
