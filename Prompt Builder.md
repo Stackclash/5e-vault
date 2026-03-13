@@ -5,6 +5,8 @@ template_definitions:
   name:
     label: Name
     type: text
+gender_value: male
+alignment_value: Lawful Good
 ---
 ```datacorejsx
 return function PromptBuilder() {

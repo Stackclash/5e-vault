@@ -1,8 +1,22 @@
 ---
 template_definitions:
-  npc:
-    type: suggester
-    query: '@page and #npc'
+  gender:
+    type: select
+    options:
+      - male
+      - female
+  alignment:
+    type: select
+    options:
+      - Lawful Good
+      - Neutral Good
+      - Chaotic Good
+      - Lawful Neutral
+      - Neutral
+      - Chaotic Neutral
+      - Lawful Evil
+      - Neutral Evil
+      - Chaotic Evil
 ---
 You are generating a Dungeons & Dragons non-player character.
 
