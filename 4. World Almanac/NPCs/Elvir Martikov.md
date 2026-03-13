@@ -6,7 +6,7 @@ condition: healthy
 images:
   - z_Assets/PlaceholderImage.png
 relationships:
-  - Davian Martikov|father
+  - Davian Martikov (COS)|father
 tags:
   - npc
 aliases: []

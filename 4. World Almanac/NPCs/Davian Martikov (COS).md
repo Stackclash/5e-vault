@@ -14,7 +14,9 @@ images:
 aliases:
   - Davian Martikov
 alignment: Lawful Good
-relationships: []
+relationships:
+  - Adrian Martikov|son
+  - Elvir Martikov|son
 partyRelationships:
   Midnight Covenant: Ally
 location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"

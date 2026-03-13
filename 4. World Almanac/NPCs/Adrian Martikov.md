@@ -4,11 +4,11 @@ statblock: inline
 location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
 condition: healthy
 relationships:
-  - Davian Martikov|father
+  - Davian Martikov (COS)|father
 tags:
   - npc
   - compendium/src/5e/cos
-aliases: 
+aliases:
 pronounced: AY-dree-an MAR-ti-kov
 race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
@@ -18,7 +18,7 @@ occupation:
   - Vintner
 groups:
   - Keepers of the Feather
-religions: 
+religions:
 personality: Hardworking, practical, deeply loyal to his family and cause
 ideal: We must protect our own and fight against the darkness that encroaches.
 bond: His family's legacy and the secret mission of the Keepers of the Feather.
