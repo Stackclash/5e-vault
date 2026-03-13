@@ -298,7 +298,7 @@
     "enableTools": true,
     "maxAutoIterations": 1
   },
-  "enableAutoStartServer": false,
+  "enableAutoStartServer": true,
   "lightRagCommand": "lightrag-server",
   "lightRagWorkDir": "/Users/rcox/Projects/Personal/5e-vault/.neural_memory",
   "lightRagSummaryLanguage": "English",
