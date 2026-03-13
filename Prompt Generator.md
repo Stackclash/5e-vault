@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-selected_prompt_type: location_generator
+selected_prompt_type: faction_generator
 prompt_types:
   - NPC Generator
   - Location Generator
@@ -17,17 +17,8 @@ prompt_option_definitions:
   description:
     type: textarea
     label: Description
-npc_generator: |-
-  This is going well
-
-  {{description}}
-  {{location}}
-  {{blah}}
-location_generator: |-
-  This is crazy
-  {{location}}
-
-  {{faction}}
+npc_generator: ""
+location_generator: ""
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -105,8 +96,8 @@ for (const token of uniqueTokens) {
   //   continue
   // }
 
-  const label = def.label || token
-  const field = `${token}_value`
+  const label = def.label || token.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase())
+  const field = `${token.replaceAll(' ', '_')}_value`
 
   let input = ""
 
@@ -151,7 +142,8 @@ const tokens = [...template.matchAll(/{{(.*?)}}/g)]
 const uniqueTokens = [...new Set(tokens)]
 
 for (const token of uniqueTokens) {
-  let value = page[`${token}_value`]
+  const field = token.replaceAll(' ', '_')
+  let value = page[`${field}_value`]
   if (value?.path) value = value.path.split('/').pop().replace('.md','')
 
   if (!value) {
