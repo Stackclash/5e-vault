@@ -17,6 +17,8 @@ alignment: Lawful Good
 relationships:
   - Adrian Martikov|son
   - Elvir Martikov|son
+  - Urwin Martikov (COS)|son
+  - Stefania Martikov|daughter
 partyRelationships:
   Midnight Covenant: Ally
 location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"

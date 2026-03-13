@@ -1,29 +1,29 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: 
+location:
 condition: healthy
 relationships:
-  - Davian Martikov|father
   - Dag Tomescu|husband
+  - Davian Martikov (COS)|father
 tags:
   - npc
 aliases: []
-pronounced: 
-race: 
-gender: 
-age: 
-alignment: 
+pronounced:
+race:
+gender:
+age:
+alignment:
 occupation: []
 groups: []
 religions: []
-personality: 
-ideal: 
-bond: 
-flaw: 
-goals: 
-likes: 
-dislikes: 
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 partyRelationships: {}
 ---
 

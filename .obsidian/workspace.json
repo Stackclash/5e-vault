@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Davian Martikov (COS).md",
+                "file": "4. World Almanac/NPCs/Elvir Martikov.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Davian Martikov (COS)"
+              "title": "Elvir Martikov"
             }
           }
         ]
@@ -256,13 +256,14 @@
   },
   "active": "c8ca3500174a07fa",
   "lastOpenFiles": [
-    "4. World Almanac/NPCs/Elvir Martikov.md",
     "4. World Almanac/NPCs/Davian Martikov (COS).md",
+    "4. World Almanac/NPCs/Stefania Martikov.md",
+    "4. World Almanac/NPCs/Danika Dorakova (COS).md",
+    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
+    "4. World Almanac/NPCs/Elvir Martikov.md",
     "4. World Almanac/NPCs/Adrian Martikov.md",
     "Davian Martikov.md",
     "4. World Almanac/NPCs/NPCs.md",
-    "4. World Almanac/NPCs/Urwin Martikov (COS).md",
-    "4. World Almanac/NPCs/Danika Dorakova (COS).md",
     "4. World Almanac/NPCs/Rahadin (COS).md",
     "4. World Almanac/NPCs/Strahd Von Zarovich (COS).md",
     "5. Mechanics/Bestiary/Undead/Lich.md",
@@ -282,7 +283,6 @@
     "4. World Almanac/Shops/Shops.md",
     "4. World Almanac/Settlements/Settlements.md",
     "4. World Almanac/Regions/Regions.md",
-    "4. World Almanac/Places of Interest/Places of Interest.md",
     "z_Bases/Locations.base",
     "z_Bases/Spells.base",
     "z_Bases/Players.base",

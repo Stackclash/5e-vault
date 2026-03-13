@@ -16,6 +16,8 @@ aliases:
 alignment: Lawful Good
 relationships:
   - Urwin Martikov (COS)|husband
+  - Bray Martikov (COS)|son
+  - Brom Martikov (COS)|son
 partyRelationships:
   Midnight Covenant: Ally
 location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
