@@ -5,6 +5,9 @@ template_definitions:
   name:
     label: Name
     type: text
+npc_value: 4. World Almanac/NPCs/Baba Lysaga (COS).md
+name_value: Test
+test_value: Hello
 ---
 ```datacorejsx
 return function PromptBuilder() {
@@ -184,16 +187,55 @@ return function PromptBuilder() {
                     </div>
                   )
 
+                case "suggester":
+                  const results = def.query ? dc.useQuery(def.query) : []
+
+                  const suggesterOptions = results.map(p => ({
+                    label: p.$name,
+                    value: p.$path
+                  }))
+
+                  const currentLabel =
+                    suggesterOptions.find(o => o.value === values[field])?.label || ""
+
+                  return (
+                    <div key={token}>
+                      <label>{label}</label>
+
+                      <input
+                        list={`${field}_list`}
+                        value={currentLabel}
+                        onChange={(e) => {
+                          const match = suggesterOptions.find(
+                            o => o.label.toLowerCase() === e.target.value.toLowerCase()
+                          )
+
+                          if (match) {
+                            setValue(field, match.value)
+                          } else {
+                            setValue(field, e.target.value)
+                          }
+                        }}
+                      />
+
+                      <datalist id={`${field}_list`}>
+                        {suggesterOptions.map(o => (
+                          <option key={o.value} value={o.label} />
+                        ))}
+                      </datalist>
+                    </div>
+                  )
+
                 case "select":
-                  let options = []
+                  let selectOptions = []
 
                   if (def.options) {
-                    options = def.options
+                    selectOptions = def.options
                   }
                   else if (def.query) {
                     const queryResults = dc.useQuery(def.query)
 
-                    options = queryResults.map(p => ({
+                    selectOptions = queryResults.map(p => ({
                       label: p.$name,
                       value: p.$path
                     }))
@@ -207,7 +249,7 @@ return function PromptBuilder() {
                         onChange={e => setValue(field, e.target.value)}
                       >
                         <option value=""></option>
-                        {options.map(o => {
+                        {selectOptions.map(o => {
                           if (typeof o === "string") {
                             return <option key={o}>{o}</option>
                           }
