@@ -1,42 +1,59 @@
 ---
 template_definitions:
+  race:
+    type: select
+    options:
+      - Human
+      - Elf
+      - Dwarf
+      - Halfling
+      - Tiefling
+
   gender:
     type: select
     options:
-      - male
-      - female
-  alignment:
-    type: select
-    options:
-      - Lawful Good
-      - Neutral Good
-      - Chaotic Good
-      - Lawful Neutral
-      - Neutral
-      - Chaotic Neutral
-      - Lawful Evil
-      - Neutral Evil
-      - Chaotic Evil
+      - Male
+      - Female
+      - Nonbinary
+
+  occupation:
+    type: text
+
+  location:
+    type: suggester
+    query: '@page and path("4. World Almanac/Settlements")'
+
+  include_secret:
+    type: toggle
+    label: Include Secret
+
+context_definitions:
+  location_summary:
+    type: note_field
+    source_token: location
+    field: summary
+
+  nearby_npcs:
+    type: datacore_query
+    query: '@page and path("3. People")'
+    format: list_names
+
+output:
+  mode: yaml
 ---
-You are generating a Dungeons & Dragons non-player character.
 
-Create a believable NPC that fits naturally into a fantasy world. The NPC should feel like a real person with motivations, flaws, and secrets.
+You are generating a Dungeons & Dragons NPC.
 
-Return ONLY valid YAML frontmatter with the exact fields listed below.
+Use the following inputs and context.
 
-Guidelines:
-- Keep descriptions vivid but concise.
-- Personality traits should be expressed as a short paragraph.
-- History should explain how the NPC became who they are.
-- Secrets should be something the NPC actively hides.
-- Goals should be something they are currently pursuing.
+Location: {{location}}
+Location Summary: {{location_summary}}
+Nearby NPCs: {{nearby_npcs}}
 
-The YAML keys must match exactly.
+Generate frontmatter for this NPC.
 
 race: {{race}}
 gender: {{gender}}
-age: {{age}}
-alignment: {{alignment}}
 occupation: {{occupation}}
 physical description:
 history:
@@ -47,4 +64,4 @@ flaw:
 likes:
 dislikes:
 goals:
-secrets:
+{{#if include_secret}}secrets:{{/if}}
