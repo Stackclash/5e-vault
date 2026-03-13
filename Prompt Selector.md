@@ -1,6 +1,9 @@
 ---
 obsidianUIMode: preview
 promptType: NPC Generator
+options:
+  - name
+  - location
 npc_generator: |-
   This is going well
 
@@ -20,8 +23,12 @@ location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 > [!info]- Options
 > ```dataviewjs
 > const templateOptionsKey = `${this.current().promptType.toLowerCase().replaceAll(' ','_')}_options`
-> dv.paragraph(`**Name**:\t\`INPUT[toggle(defaultValue(false)):${templateOptionsKey}.name]\``)
-> dv.paragraph(`**Location**:\t\`INPUT[toggle(defaultValue(false)):${templateOptionsKey}.location]\``)
+> const options = dv.current().options
+> console.log(options)
+> for (const opt in options) {
+>   console.log(opt)
+>   dv.paragraph(`**${opt.capitalize()}**:\t\`INPUT[toggle(defaultValue(false)):${templateOptionsKey}.${opt}]\``)
+> }
 > ```
 
 ```dataviewjs
