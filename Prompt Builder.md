@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
 selected_prompt_type: Prompt Builder Templates/Test Prompt.md
+test_value: boo
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -72,19 +73,15 @@ for (const token of uniqueTokens) {
   let value = page[field]
   if (value?.path) value = value.path.split('/').pop().replace('.md','')
 
-  console.log(JSON.stringify({token, standardToken, def, label, field, value}))
-
   if (!value) {
     errors.push(`Option **${token}** requires a value.`)
-    continue
+  } else {
+    template = template.replaceAll(`{{${token}}}`, value)
   }
-
-  template = template.replaceAll(`{{${token}}}`, value)
 
   let input = ""
 
   switch(def.type) {
-
     case "textarea":
       input = `INPUT[textArea:${field}]`
       break
@@ -106,7 +103,6 @@ for (const token of uniqueTokens) {
       input = `INPUT[text:${field}]`
   }
 
-  console.log('HERE')
   dv.paragraph(`**${label}**: \`${input}\``)
 }
 
