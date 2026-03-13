@@ -1,7 +1,12 @@
 ---
 obsidianUIMode: preview
-promptType: Location Generator
-options:
+selected_prompt_type: Location Generator
+prompt_types:
+  - NPC Generator
+  - Location Generator
+  - Quest Generator
+  - Faction Generator
+prompt_options:
   - name
   - location
 npc_generator: |-
@@ -18,7 +23,17 @@ location_generator_options:
   name: false
   location: true
 ---
-**Select Prompt**: `INPUT[inlineSelect(option(NPC Generator),option(Location Generator),option(Quest Generator),option(Faction Generator)):promptType]` `BUTTON[refresh]`
+**Select Prompt**: `INPUT[inlineSelect(option(NPC Generator),option(Location Generator),option(Quest Generator),option(Faction Generator)):selected_prompt_type]` `BUTTON[refresh]`
+```datacorejsx
+return function View() {
+  const current = dc.useCurrentFile()
+  console.log(current)
+
+  return (
+    <label><strong>Select Prompt</strong>:</label>
+  )
+}
+```
 ```meta-bind-button
 style: primary
 label: Refresh
@@ -30,19 +45,19 @@ actions:
 ```
 
 > [!info]- Template
-> `$= await dv.view('utils/metaBindInput', {type: 'textArea', field: this.current().promptType.toLowerCase().replaceAll(' ','_')})`
+> `$= await dv.view('utils/metaBindInput', {type: 'textArea', field: this.current().selected_prompt_type.toLowerCase().replaceAll(' ','_')})`
 
 > [!info]- Options
 > ```dataviewjs
-> const templateOptionsKey = `${this.current().promptType.toLowerCase().replaceAll(' ','_')}_options`
-> const options = dv.current().options
+> const templateOptionsKey = `${this.current().selected_prompt_type.toLowerCase().replaceAll(' ','_')}_options`
+> const options = dv.current().prompt_options
 > for (const opt of options) {
 >   dv.paragraph(`**${opt.charAt(0).toUpperCase() + opt.slice(1)}**:\t\`INPUT[toggle(defaultValue(false)):${templateOptionsKey}.${opt}]\``)
 > }
 > ```
 
 ```dataviewjs
-const options = this.current()[`${this.current().promptType.toLowerCase().replaceAll(' ','_')}_options`]
+const options = this.current()[`${this.current().selected_prompt_type.toLowerCase().replaceAll(' ','_')}_options`]
 if (options && 'name' in options && options.name) {
   dv.paragraph(`**Name**: \`INPUT[text:name_option]\``)
 }
@@ -52,9 +67,5 @@ if (options && 'location' in options && options.location) {
 ```
 
 ```dataviewjs
-dv.paragraph(`\`\`\`\n${this.current()[this.current().promptType.toLowerCase().replaceAll(' ','_')] || ''}\n\`\`\``)
-```
-
-```dataviewjs
-console.log(app)
+dv.paragraph(`\`\`\`\n${this.current()[this.current().selected_prompt_type.toLowerCase().replaceAll(' ','_')] || ''}\n\`\`\``)
 ```
