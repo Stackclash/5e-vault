@@ -1,24 +1,6 @@
 ---
 obsidianUIMode: preview
 selected_prompt_type: faction_generator
-prompt_types:
-  - NPC Generator
-  - Location Generator
-  - Quest Generator
-  - Faction Generator
-prompt_option_definitions:
-  name:
-    type: text
-    label: Name
-  location:
-    type: suggester
-    label: Location
-    query: "#location"
-  description:
-    type: textarea
-    label: Description
-npc_generator: ""
-location_generator: ""
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -33,7 +15,8 @@ actions:
 ```datacorejsx
 return function View() {
   const currentPage = dc.useCurrentFile()
-  const promptTypes = currentPage.value('prompt_types')
+  const promptTemplates = dc.useQuery('@page and path("Prompt Builder Templates")')
+  console.log(promptTemplates)
   const [selectedType, setSelectedType] = dc.useState(currentPage.value('selected_prompt_type'))
 
   dc.useEffect(()=> {
@@ -55,7 +38,7 @@ return function View() {
           setSelectedType(e.target.value)
         }}
       >
-        {promptTypes.map(pt => {
+        {promptTemplates.map(pt => {
           const typeKey = pt.toLowerCase().replaceAll(' ','_')
           return (
             <option key={typeKey} value={typeKey}>
@@ -68,9 +51,6 @@ return function View() {
   )
 }
 ```
-
-> [!info]- Template
-> `$= await dv.view('utils/metaBindInput', {type: 'textArea', field: this.current().selected_prompt_type})`
 
 ```dataviewjs
 const page = dv.current()
@@ -90,11 +70,6 @@ const uniqueTokens = [...new Set(tokens)]
 for (const token of uniqueTokens) {
 
   const def = defs[token] || {}
-
-  // if (!def) {
-  //   dv.paragraph(`❌ Unknown option **${token}** used in template`)
-  //   continue
-  // }
 
   const label = def.label || token.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase())
   const field = `${token.replaceAll(' ', '_')}_value`
