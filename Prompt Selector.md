@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-selected_prompt_type: npc_generator
+selected_prompt_type: quest_generator
 prompt_types:
   - NPC Generator
   - Location Generator
@@ -22,7 +22,19 @@ location_option:
 location_generator_options:
   name: false
   location: true
+quest_generator_options:
+  name: true
 ---
+`BUTTON[refresh]`
+```meta-bind-button
+style: primary
+label: Refresh
+id: refresh
+hidden: true
+actions:
+  - type: command
+    command: dataview:dataview-force-refresh-views
+```
 ```datacorejsx
 return function View() {
   const currentPage = dc.useCurrentFile()
@@ -61,23 +73,13 @@ return function View() {
   )
 }
 ```
-`BUTTON[refresh]`
-```meta-bind-button
-style: primary
-label: Refresh
-id: refresh
-hidden: true
-actions:
-  - type: command
-    command: dataview:dataview-force-refresh-views
-```
 
 > [!info]- Template
-> `$= await dv.view('utils/metaBindInput', {type: 'textArea', field: this.current().selected_prompt_type.toLowerCase().replaceAll(' ','_')})`
+> `$= await dv.view('utils/metaBindInput', {type: 'textArea', field: this.current().selected_prompt_type})`
 
 > [!info]- Options
 > ```dataviewjs
-> const templateOptionsKey = `${this.current().selected_prompt_type.toLowerCase().replaceAll(' ','_')}_options`
+> const templateOptionsKey = `${this.current().selected_prompt_type}_options`
 > const options = dv.current().prompt_options
 > for (const opt of options) {
 >   dv.paragraph(`**${opt.charAt(0).toUpperCase() + opt.slice(1)}**:\t\`INPUT[toggle(defaultValue(false)):${templateOptionsKey}.${opt}]\``)
@@ -85,7 +87,7 @@ actions:
 > ```
 
 ```dataviewjs
-const options = this.current()[`${this.current().selected_prompt_type.toLowerCase().replaceAll(' ','_')}_options`]
+const options = this.current()[`${this.current().selected_prompt_type}_options`]
 if (options && 'name' in options && options.name) {
   dv.paragraph(`**Name**: \`INPUT[text:name_option]\``)
 }
@@ -95,5 +97,5 @@ if (options && 'location' in options && options.location) {
 ```
 
 ```dataviewjs
-dv.paragraph(`\`\`\`\n${this.current()[this.current().selected_prompt_type.toLowerCase().replaceAll(' ','_')] || ''}\n\`\`\``)
+dv.paragraph(`\`\`\`\n${this.current()[this.current().selected_prompt_type] || ''}\n\`\`\``)
 ```
