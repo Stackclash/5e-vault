@@ -1,12 +1,10 @@
 ---
 obsidianUIMode: preview
-selected_prompt_path: Prompt Builder Templates/Test Prompt.md
+selected_prompt_path: ""
 template_definitions:
   name:
     label: Name
     type: text
-test_value: peace
-name_value: hello
 ---
 ```datacorejsx
 return function PromptBuilder() {
