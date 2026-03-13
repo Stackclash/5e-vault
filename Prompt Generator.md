@@ -26,18 +26,11 @@ npc_generator: |-
 location_generator: |-
   This is crazy
   {{location}}
-npc_generator_options:
-  location: true
-  name: true
-  description: true
-location_generator_options:
-  name: false
-  location: true
-quest_generator_options:
-  name: true
+
+  {{faction}}
 description_value:
 name_value:
-location_value:
+location_value: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -161,7 +154,8 @@ const tokens = [...template.matchAll(/{{(.*?)}}/g)]
 const uniqueTokens = [...new Set(tokens)]
 
 for (const token of uniqueTokens) {
-  const value = page[`${token}_value`]
+  let value = page[`${token}_value`]
+  if (value?.path) value = value.path.split('/').pop().replace('.md','')
 
   if (!value) {
     errors.push(`Option **${token}** requires a value.`)
