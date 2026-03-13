@@ -104,13 +104,15 @@ const typeKey = page.selected_prompt_type
 const options = page[`${typeKey}_options`] || {}
 const defs = page.prompt_option_definitions || {}
 
-for (const [opt, enabled] of Object.entries(options)) {
+for (const defKey of Object.keys(defs)) {
 
-  if (!enabled) continue
+  const opt = options[defKey]
 
-  const def = defs[opt] || {type:"text", label:opt}
+  if (!opt.enabled) continue
 
-  const label = def.label || opt
+  const def = defs[defKey] || {type:"text", label:opt}
+
+  const label = def.label || defKey
   const field = `${opt}_value`
 
   let input = ""
