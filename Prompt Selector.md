@@ -30,13 +30,17 @@ return function View() {
   const promptTypes = currentPage.value('prompt_types')
   const [setSelectedType, selectedType] = dc.useState(currentPage.value('selected_prompt_type'))
 
+  dc.useEffect(()=> {
+    app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
+      const promptOptionValueKeys = Object.keys(fm).filter(k => k.endsWith('_option'))
+      console.log(promptOptionValueKeys)
+    })
+  }, [selectedType])
+
   return (
     <label><strong>Select Prompt</strong>:</label>
     <select
       value={selectType}
-      onChange={(e) => {
-        setSelectedType(e.target.value)
-      }}
     >
       {promptTypes.map(pt => {
         const typeKey = pt.toLowerCase().replaceAll(' ','_')
