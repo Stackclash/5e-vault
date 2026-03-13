@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-selected_prompt_path: ""
+selected_prompt_path: Prompt Builder Templates/NPC Generator.md
 template_definitions:
   name:
     label: Name
@@ -293,7 +293,9 @@ return function PromptBuilder() {
           {/* PREVIEW PANEL */}
           <div>
             <h3>Prompt Preview</h3>
-
+            <button onClick={()=>navigator.clipboard.writeText(preview.output)}>
+              Copy Prompt
+            </button>
             {preview.errors.length > 0 &&
               <div class="callout callout-error">
                 {preview.errors.map((e, i) =>
