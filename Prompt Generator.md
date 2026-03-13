@@ -6,10 +6,17 @@ prompt_types:
   - Location Generator
   - Quest Generator
   - Faction Generator
-prompt_options:
-  - name
-  - location
-  - description
+prompt_option_definitions:
+  name:
+    type: text
+    label: Name
+  location:
+    type: suggester
+    label: Location
+    query: "#location"
+  description:
+    type: textarea
+    label: Description
 npc_generator: |-
   This is going well
 
@@ -26,8 +33,8 @@ location_generator_options:
   location: true
 quest_generator_options:
   name: true
-description_value: This is a cool character.
-name_value: ""
+description_value: hello
+name_value:
 location_value: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 `BUTTON[refresh]`
