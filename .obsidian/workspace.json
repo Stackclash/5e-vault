@@ -241,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 390.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,7 +269,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c42e6ee23b67bbf5",
+  "active": "ff51a18aee7dff95",
   "lastOpenFiles": [
     "1. DM Toolkit/DM Quick Reference.md",
     "1. DM Toolkit/Knowledge/Sources/Sync.md",
