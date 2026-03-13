@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-promptType: Location Generator
+promptType: Quest Generator
 options:
   - name
   - location
@@ -13,7 +13,7 @@ npc_generator_options:
   location: true
   name: true
 name_option: Test
-location: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+location_option: "[[4. World Almanac/Settlements/Thornmere.md|Thornmere]]"
 location_generator_options:
   name: true
   location: true
@@ -38,10 +38,15 @@ if (options && 'name' in options && options.name) {
   dv.paragraph(`**Name**: \`INPUT[text:name_option]\``)
 }
 if (options && 'location' in options && options.location) {
-  dv.paragraph(`**Location**: \`INPUT[suggester(optionQuery(#location)):location]\``)
+  dv.paragraph(`**Location**: \`INPUT[suggester(optionQuery(#location)):location_option]\``)
 }
 ```
 
 ```dataviewjs
-dv.paragraph(`\`\`\`\n${this.current()[this.current().promptType.toLowerCase().replaceAll(' ','_')]}\n\`\`\``)
+dv.paragraph(`\`\`\`\n${this.current()[this.current().promptType.toLowerCase().replaceAll(' ','_')] || ''}\n\`\`\``)
+```
+
+```dataviewjs
+const test = app.plugins.getPlugin("dataview")
+console.log(test)
 ```
