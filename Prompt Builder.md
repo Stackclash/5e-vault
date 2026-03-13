@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-selected_prompt_type: Prompt Builder Templates/Test Prompt.md
+selected_prompt_name: Test Prompt
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -16,31 +16,31 @@ actions:
 return function View() {
   const currentPage = dc.useCurrentFile()
   const promptTemplates = dc.useQuery(`@page and path("Prompt Builder Templates")`)
-  const [selectedType, setSelectedType] = dc.useState(currentPage.value('selected_prompt_type'))
+  const [selectedPromptName, setSelectedPromptName] = dc.useState(currentPage.value('selected_prompt_name'))
 
   dc.useEffect(()=> {
     app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
-      fm.selected_prompt_type = selectedType
+      fm.selected_prompt_name = selectedPromptName
       const promptOptionValueKeys = Object.keys(fm).filter(k => k.endsWith('_value'))
       for (const key of promptOptionValueKeys) {
         delete fm[key]
       }
     })
-  }, [selectedType])
+  }, [selectedPromptName])
 
   return (
     <>
       <label><strong>Select Prompt</strong>: </label>
       <select
-        value={selectedType}
+        value={selectedPromptName}
         onChange={(e) => {
-          setSelectedType(e.target.value)
+          setSelectedPromptName(e.target.value)
         }}
       >
         {promptTemplates.map(pt => {
           const typeKey = pt.$name.toLowerCase().replaceAll(' ','_')
           return (
-            <option key={typeKey} value={pt.$path}>
+            <option key={typeKey} value={pt.$name}>
               {pt.$name}
             </option>
           )
@@ -55,18 +55,18 @@ return function View() {
 return function PromptBuilder() {
 
   const currentPage = dc.useCurrentFile()
-  const templatePath = currentPage.value('selected_prompt_type')
+  const templateName = currentPage.value('selected_prompt_name')
 
-  if (!templatePath) return <div>Select a prompt.</div>
+  if (!templateName) return <div>Select a prompt.</div>
 
-  const templatePage = dc.useQuery(`@page and path("${templatePath}")`)
+  const templatePage = dc.useQuery(`@page and path("Prompt Builder Templates")`).filter(p => p.$name = templateName)[0]
   console.log(templatePage)
   const defs = templatePage?.value('prompt_option_definitions') || {}
 
   const template = dc.useMemo(() => {
-    const file = app.vault.getAbstractFileByPath(templatePath)
-    return file ? app.vault.cachedRead(file) : ""
-  }, [templatePath])
+    const file = app.vault.getAbstractFileByPath(templateName)
+    return file ? app.vault.cachedRead(file) : Promise.resolve("")
+  }, [templateName])
 
   const [templateText, setTemplateText] = dc.useState("")
 
