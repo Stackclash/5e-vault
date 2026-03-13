@@ -35,3 +35,30 @@ views:
     columnSize:
       note.age: 146
       formula.relationships: 247
+  - type: table
+    name: Party Relationships
+    filters:
+      and:
+        - "!partyRelationships.isEmpty()"
+    order:
+      - file.name
+      - pronounced
+      - condition
+      - race
+      - gender
+      - age
+      - alignment
+      - occupation
+      - location
+      - formula.relationships
+      - groups
+      - religions
+      - description
+      - history
+      - personality
+      - ideal
+      - bond
+      - flaw
+      - likes
+      - dislikes
+      - goals
