@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-selected_prompt_type: quest_generator
+selected_prompt_type: npc_generator
 prompt_types:
   - NPC Generator
   - Location Generator
