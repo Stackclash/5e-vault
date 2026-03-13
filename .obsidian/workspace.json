@@ -25,31 +25,18 @@
             "id": "ff51a18aee7dff95",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "z_Bases/NPCs.base",
-                "viewName": "Party Relationships"
-              },
-              "icon": "lucide-table",
-              "title": "NPCs"
-            }
-          },
-          {
-            "id": "1c21017c65590805",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Selector.md",
+                "file": "1. DM Toolkit/DM Quick Reference.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Selector"
+              "title": "DM Quick Reference"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,23 +225,13 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "c42e6ee23b67bbf5",
-            "type": "leaf",
-            "state": {
-              "type": "neuralcmp-chat-view",
-              "state": {},
-              "icon": "brain-circuit",
-              "title": "Neural Composer chat"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
+    "width": 319.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -278,18 +255,16 @@
       "remotely-save:Remotely Save": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "templater-obsidian:Templater": false,
-      "neural-composer:Open Neural Composer": false,
-      "calendarium:Open Calendarium": false
+      "smart-composer:Open smart composer": false,
+      "calendarium:Open Calendarium": false,
+      "neural-composer:Open Neural Composer": false
     }
   },
-  "active": "1c21017c65590805",
+  "active": "ff51a18aee7dff95",
   "lastOpenFiles": [
-    "z_Bases/Spells.base",
     "Prompt Selector.md",
-    "z_Bases/NPCs.base",
-    "4. World Almanac/NPCs/Vladimir Horngaard (COS).md",
-    "1. DM Toolkit/DM Quick Reference.md",
     "1. DM Toolkit/Knowledge/Sources/Sync.md",
+    "z_Bases/Spells.base",
     "1. DM Toolkit/Websites.md",
     "1. DM Toolkit/Spells.md",
     "1. DM Toolkit/Configuration.md",
@@ -304,7 +279,9 @@
     "4. World Almanac/NPCs/Rahadin (COS).md",
     "4. World Almanac/NPCs/Strahd Von Zarovich (COS).md",
     "5. Mechanics/Bestiary/Undead/Lich.md",
+    "4. World Almanac/NPCs/Vladimir Horngaard (COS).md",
     "4. World Almanac/NPCs/Emil Toranescu (COS).md",
+    "Untitled.md",
     "5. Mechanics/Items/Items.md",
     "z_Bases/Items.base",
     "5. Mechanics/Items/2 Amulet Of The Devout (TCE).md",
@@ -312,8 +289,10 @@
     "5. Mechanics/Items/Flensing Claws (VGM).md",
     "5. Mechanics/Items/1 Amulet Of The Devout (TCE).md",
     "5. Mechanics/Bestiary/Bestiary.md",
+    "5. Mechanics/Bestiary/Aberration/Aberration.md",
     "z_Bases/Locations.base",
     "z_Bases/Players.base",
+    "z_Bases/NPCs.base",
     "z_Bases/Monsters.base",
     "z_Bases/Hazards.base",
     "z_Bases",
