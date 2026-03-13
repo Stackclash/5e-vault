@@ -8,7 +8,7 @@ npc_generator: |-
 location_generator: This is crazy
 npc_generator_options:
   location: false
-  name: false
+  name: true
 ---
 **Select Prompt**: `INPUT[inlineSelect(option(NPC Generator),option(Location Generator),option(Quest Generator),option(Faction Generator)):promptType]`
 
@@ -21,6 +21,17 @@ npc_generator_options:
 > dv.paragraph(`**Name**:\t\`INPUT[toggle(defaultValue(false)):${templateOptionsKey}.name]\``)
 > dv.paragraph(`**Location**:\t\`INPUT[toggle(defaultValue(false)):${templateOptionsKey}.location]\``)
 > ```
+
+```dataviewjs
+const options = Object.keys(`${this.current().promptType.toLowerCase().replaceAll(' ','_')}_options`)
+console.log(options)
+if (options.name) {
+  dv.span(`**Name**: \`INPUT[text:name_option]\``)
+}
+if (options.location) {
+  dv.span(`**Location**: \`INPUT[suggester(optionQuery(#location)):location]\``)
+}
+```
 
 ```dataviewjs
 dv.paragraph(`\`\`\`\n${this.current()[this.current().promptType.toLowerCase().replaceAll(' ','_')]}\n\`\`\``)
