@@ -253,19 +253,19 @@
       "enable": false
     },
     {
-      "providerType": "ollama",
       "providerId": "ollama",
+      "providerType": "ollama",
       "id": "gemma3(narrative)",
       "model": "gemma3:4b",
-      "promptLevel": 1,
+      "promptLevel": 0,
       "enable": true
     },
     {
-      "providerType": "ollama",
       "providerId": "ollama",
+      "providerType": "ollama",
       "id": "phi3(structural)",
       "model": "phi3:mini",
-      "promptLevel": 1,
+      "promptLevel": 0,
       "enable": true
     }
   ],
@@ -320,7 +320,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "phi3(structural)",
+  "chatModelId": "gemma3(narrative)",
   "applyModelId": "phi3(structural)",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",
