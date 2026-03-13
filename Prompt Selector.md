@@ -26,7 +26,7 @@ location_generator_options:
 **Select Prompt**: `INPUT[inlineSelect(option(NPC Generator),option(Location Generator),option(Quest Generator),option(Faction Generator)):selected_prompt_type]` `BUTTON[refresh]`
 ```datacorejsx
 return function View() {
-  const current = dc.useCurrentFile()
+  const current = dc.useCurrentFile().value('prompt_types')
   console.log(current)
 
   return (
