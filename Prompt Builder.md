@@ -1,17 +1,19 @@
 ---
 obsidianUIMode: preview
 selected_prompt_path: Prompt Builder Templates/Test Prompt.md
-test_value: hello
+template_definitions:
+  name:
+    label: Name
+    type: text
+test_value: boo
 ---
 ```datacorejsx
 return function PromptBuilder() {
-
   const currentPage = dc.useCurrentFile()
 
   /* ---------------------------- */
   /* Prompt Template Selection    */
   /* ---------------------------- */
-
   const promptTemplates = dc.useQuery(`@page and path("Prompt Builder Templates")`)
 
   const [selectedPromptPath, setSelectedPromptPath] = dc.useState(
@@ -21,31 +23,24 @@ return function PromptBuilder() {
   /* ---------------------------- */
   /* Update frontmatter on change */
   /* ---------------------------- */
-
   dc.useEffect(() => {
-
     app.fileManager.processFrontMatter(
       app.workspace.getActiveFile(),
       (fm) => {
-
         fm.selected_prompt_path = selectedPromptPath
-
         const keys = Object.keys(fm).filter(k => k.endsWith('_value'))
 
         for (const key of keys) {
           delete fm[key]
         }
-
       }
     )
-
   }, [selectedPromptPath])
 
 
   /* ---------------------------- */
   /* Template lookup              */
   /* ---------------------------- */
-
   const templatePage =
     promptTemplates.find(p => p.$path === selectedPromptPath)
 
@@ -55,17 +50,13 @@ return function PromptBuilder() {
     templatePage?.value('template_definitions') || {}
   )
 
-
   /* ---------------------------- */
   /* Load template text           */
   /* ---------------------------- */
-
   const [templateText, setTemplateText] = dc.useState("")
 
   dc.useEffect(() => {
-
     if (!selectedPromptPath) return
-
     const file = app.vault.getAbstractFileByPath(selectedPromptPath)
 
     if (!file) {
@@ -74,58 +65,43 @@ return function PromptBuilder() {
     }
 
     app.vault.cachedRead(file).then(t => {
-
       const cleaned = t.replace(/^---[\s\S]*?---/, "").trim()
-
       setTemplateText(cleaned)
-
     })
-
   }, [selectedPromptPath])
 
 
   /* ---------------------------- */
   /* Extract {{tokens}}           */
   /* ---------------------------- */
-
   const tokens = dc.useMemo(() => {
-
     return [...templateText.matchAll(/{{(.*?)}}/g)]
       .map(m => m[1].trim())
       .filter((v, i, a) => a.indexOf(v) === i)
-
   }, [templateText])
 
 
   /* ---------------------------- */
   /* Input state                  */
   /* ---------------------------- */
-
   const [values, setValues] = dc.useState({})
-
   const setValue = (field, val) => {
-
     setValues(v => ({ ...v, [field]: val }))
 
     app.fileManager.processFrontMatter(
       app.workspace.getActiveFile(),
       fm => { fm[field] = val }
     )
-
   }
-
 
   /* ---------------------------- */
   /* Build preview                */
   /* ---------------------------- */
-
   const preview = dc.useMemo(() => {
-
     let output = templateText
     const errors = []
 
     tokens.forEach(token => {
-
       const field = token.replaceAll(' ', '_') + "_value"
 
       let value = values[field] ?? currentPage.value(field)
@@ -140,45 +116,31 @@ return function PromptBuilder() {
       else {
         output = output.replaceAll(`{{${token}}}`, value)
       }
-
     })
 
     return { output, errors }
-
   }, [values, templateText, tokens])
-
 
   /* ---------------------------- */
   /* Render                       */
   /* ---------------------------- */
-
   return (
-
     <div>
-
       {/* Prompt selector */}
-
       <div style={{ marginBottom: "1rem" }}>
-
         <label><strong>Select Prompt:</strong></label>
-
         <select
           value={selectedPromptPath}
           onChange={(e) => setSelectedPromptPath(e.target.value)}
         >
-
           <option value="">Select...</option>
-
           {promptTemplates.map(pt => (
             <option key={pt.$path} value={pt.$path}>
               {pt.$name}
             </option>
           ))}
-
         </select>
-
       </div>
-
 
       {!selectedPromptPath &&
         <div>Select a prompt template.</div>
@@ -188,24 +150,18 @@ return function PromptBuilder() {
         <div>Template not found.</div>
       }
 
-
       {selectedPromptPath && templateText &&
-
         <div style={{
           display: "grid",
           gridTemplateColumns: "1fr 1fr",
           gap: "1rem"
         }}>
 
-
           {/* INPUT PANEL */}
-
           <div>
-
             <h3>Prompt Inputs</h3>
 
             {tokens.map(token => {
-
               const key = token.replaceAll(' ', '_')
               const field = key + "_value"
               const def = defs[key] || {}
@@ -215,12 +171,10 @@ return function PromptBuilder() {
                 token.replace(/\b\w/g, c => c.toUpperCase())
 
               switch (def.type) {
-
                 case "textarea":
-
                   return (
                     <div key={token}>
-                      <label>{label}</label>
+                      <label>{label}: </label>
                       <textarea
                         value={values[field] || ""}
                         onChange={e => setValue(field, e.target.value)}
@@ -228,12 +182,10 @@ return function PromptBuilder() {
                     </div>
                   )
 
-
                 case "select":
-
                   return (
                     <div key={token}>
-                      <label>{label}</label>
+                      <label>{label}: </label>
                       <select
                         value={values[field] || ""}
                         onChange={e => setValue(field, e.target.value)}
@@ -248,12 +200,10 @@ return function PromptBuilder() {
                     </div>
                   )
 
-
                 default:
-
                   return (
                     <div key={token}>
-                      <label>{label}</label>
+                      <label>{label}: </label>
                       <input
                         type="text"
                         value={values[field] || ""}
@@ -261,18 +211,12 @@ return function PromptBuilder() {
                       />
                     </div>
                   )
-
               }
-
             })}
-
           </div>
 
-
           {/* PREVIEW PANEL */}
-
           <div>
-
             <h3>Prompt Preview</h3>
 
             {preview.errors.length > 0 &&
@@ -282,18 +226,11 @@ return function PromptBuilder() {
                 )}
               </div>
             }
-
             <pre>{preview.output}</pre>
-
           </div>
-
         </div>
-
       }
-
     </div>
-
   )
-
 }
 ```
