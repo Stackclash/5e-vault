@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-selected_prompt_type: faction_generator
+selected_prompt_type: Test Prompt
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -15,7 +15,7 @@ actions:
 ```datacorejsx
 return function View() {
   const currentPage = dc.useCurrentFile()
-  const promptTemplates = dc.useQuery('@page and path("Prompt Builder Templates")')
+  const promptTemplates = dc.useQuery(`@page and path("Prompt Builder Templates")`)
   console.log(promptTemplates)
   const [selectedType, setSelectedType] = dc.useState(currentPage.value('selected_prompt_type'))
 
@@ -39,10 +39,11 @@ return function View() {
         }}
       >
         {promptTemplates.map(pt => {
-          const typeKey = pt.toLowerCase().replaceAll(' ','_')
+          console.log(pt, pt.$name)
+          const typeKey = pt.$name.toLowerCase().replaceAll(' ','_')
           return (
-            <option key={typeKey} value={typeKey}>
-              {pt}
+            <option key={typeKey} value={pt.$name}>
+              {pt.$name}
             </option>
           )
         })}
