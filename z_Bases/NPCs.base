@@ -39,7 +39,7 @@ views:
     name: Party Relationships
     filters:
       and:
-        - "!partyRelationships.isEmpty()"
+        - partyRelationships.keys().contains('Midnight Covenant')
     order:
       - file.name
       - pronounced

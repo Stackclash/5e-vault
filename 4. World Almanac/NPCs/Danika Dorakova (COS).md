@@ -17,21 +17,21 @@ alignment: Lawful Good
 relationships: []
 partyRelationships:
   Midnight Covenant: Ally
-location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
-pronounced: null
-race: null
-gender: null
-age: null
+location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+pronounced:
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: female
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 ---
 > [!infobox]
 > # `=this.file.name`

@@ -11,8 +11,8 @@ tags:
   - npc
 aliases: []
 pronounced:
-race:
-gender:
+race: "[[Werewolf|Werewolf]]"
+gender: male
 age:
 alignment:
 occupation: []

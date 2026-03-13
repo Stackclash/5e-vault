@@ -17,23 +17,21 @@ alignment: Lawful Good
 relationships: []
 partyRelationships:
   Midnight Covenant: Ally
-location: >-
-  [[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of
-  Wines]]
-pronounced: null
-race: null
-gender: null
-age: null
+location: "[[4. World Almanac/Places of Interest/The Wizard of Wines.md|The Wizard of Wines]]"
+pronounced:
+race: "[[5. Mechanics/Races/Human.md|Human]]"
+gender: male
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 ---
 > [!infobox]
 > # `=this.file.name`

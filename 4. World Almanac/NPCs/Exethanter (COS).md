@@ -15,21 +15,21 @@ alignment: Any Evil alignment
 relationships: []
 partyRelationships:
   Midnight Covenant: Acquaintance
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+location:
+pronounced:
+race: "[[5. Mechanics/Bestiary/Undead/Lich|Lich]]"
+gender: male
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 ---
 > [!infobox]
 > # `=this.file.name`

@@ -16,21 +16,21 @@ alignment: Neutral Evil
 relationships: []
 partyRelationships:
   Midnight Covenant: Ally
-location: '[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]'
-pronounced: null
-race: null
-gender: null
-age: null
+location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
+pronounced:
+race:
+gender: male
+age:
 occupation: []
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
 ---
 > [!infobox]
 > # `=this.file.name`
