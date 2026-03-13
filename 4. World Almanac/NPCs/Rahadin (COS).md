@@ -16,7 +16,7 @@ alignment: Lawful Evil
 relationships: []
 partyRelationships:
   Midnight Covenant: Enemy
-location: "[[4. World Almanac/Places of Interest/Castle Ravenloft.md|Castle Ravenloft]]"
+location:
 pronounced:
 race: Dusk Elf
 gender: male

@@ -13,26 +13,27 @@ images: []
 aliases:
   - Urwin Martikov
 alignment: Lawful Good
-relationships: []
+relationships:
+  - Danika Dorakova (COS)|wife
 partyRelationships:
   Midnight Covenant: Ally
-location: '[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]'
-pronounced: null
-race: '[[5. Mechanics/Races/Human.md|Human]]'
+location: "[[4. World Almanac/Shops/Blue Water Inn.md|Blue Water Inn]]"
+pronounced:
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
-age: null
-occupation: null
+age:
+occupation:
 groups: []
 religions: []
-personality: null
-ideal: null
-bond: null
-flaw: null
-goals: null
-likes: null
-dislikes: null
-description: blah
-history: blah
+personality:
+ideal:
+bond:
+flaw:
+goals:
+likes:
+dislikes:
+description:
+history:
 ---
 > [!infobox]
 > # `=this.file.name`

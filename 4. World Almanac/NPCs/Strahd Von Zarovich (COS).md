@@ -14,12 +14,13 @@ aliases:
   - Strahd von Zarovich
 alignment: Lawful Evil
 relationships: []
-partyRelationships: {}
-location: null
-pronounced: null
-race: null
-gender: null
-age: null
+partyRelationships:
+  Midnight Covenant: Enemy
+location:
+pronounced:
+race: "[[5. Mechanics/Bestiary/Undead/Vampire|Vampire]]"
+gender: male
+age:
 occupation: []
 groups: []
 religions: []
