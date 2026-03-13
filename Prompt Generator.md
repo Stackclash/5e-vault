@@ -33,9 +33,9 @@ location_generator_options:
   location: true
 quest_generator_options:
   name: true
-description_value: hello
+description_value:
 name_value:
-location_value: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
+location_value:
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -92,22 +92,50 @@ return function View() {
 > [!info]- Options
 > ```dataviewjs
 > const templateOptionsKey = `${this.current().selected_prompt_type}_options`
-> const options = dv.current().prompt_options
+> const options = Object.keys(dv.current().prompt_option_definitions)
 > for (const opt of options) {
 >   dv.paragraph(`**${opt.charAt(0).toUpperCase() + opt.slice(1)}**:\t\`INPUT[toggle(defaultValue(false)):${templateOptionsKey}.${opt}]\``)
 > }
 > ```
 
 ```dataviewjs
-const options = this.current()[`${this.current().selected_prompt_type}_options`]
-if (options && 'name' in options && options.name) {
-  dv.paragraph(`**Name**: \`INPUT[text:name_value]\``)
-}
-if (options && 'location' in options && options.location) {
-  dv.paragraph(`**Location**: \`INPUT[suggester(optionQuery(#location)):location_value]\``)
-}
-if (options && 'description' in options && options.description) {
-  dv.paragraph(`**Description**: \`INPUT[textArea:description_value]\``)
+const page = dv.current()
+const typeKey = page.selected_prompt_type
+const options = page[`${typeKey}_options`] || {}
+const defs = page.prompt_option_definitions || {}
+
+for (const [opt, enabled] of Object.entries(options)) {
+
+  if (!enabled) continue
+
+  const def = defs[opt] || {type:"text", label:opt}
+
+  const label = def.label || opt
+  const field = `${opt}_value`
+
+  let input = ""
+
+  switch(def.type) {
+
+    case "textarea":
+      input = `INPUT[textArea:${field}]`
+      break
+
+    case "suggester":
+      input = `INPUT[suggester(optionQuery(${def.query})):${field}]`
+      break
+
+    case "select":
+      const opts = def.options.map(o => `option(${o})`).join(',')
+      input = `INPUT[inlineSelect(${opts}):${field}]`
+      break
+
+    default:
+      input = `INPUT[text:${field}]`
+
+  }
+
+  dv.paragraph(`**${label}**: \`${input}\``)
 }
 ```
 
