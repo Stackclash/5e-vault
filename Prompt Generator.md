@@ -19,7 +19,7 @@ npc_generator: |-
   {{location}}
 location_generator: This is crazy
 npc_generator_options:
-  location: false
+  location: true
   name: true
   description: true
 location_generator_options:
@@ -28,6 +28,8 @@ location_generator_options:
 quest_generator_options:
   name: true
 description_value: This is a cool character.
+name_value: ""
+location_value: "[[4. World Almanac/Settlements/Vallaki.md|Vallaki]]"
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -111,17 +113,49 @@ let template = page[typeKey] || ""
 
 const options = page[`${typeKey}_options`] || {}
 
-for (const [opt, enabled] of Object.entries(options)) {
+const errors = []
 
-  if (!enabled) continue
+// Find all template tokens like {{name}}
+const tokenMatches = [...template.matchAll(/{{(.*?)}}/g)]
+const tokens = tokenMatches.map(t => t[1].trim())
 
-  const valueKey = `${opt}_value`
-  const value = page[valueKey] ?? ""
+// Validate tokens
+for (const token of tokens) {
+  const enabled = options[token]
 
-  const token = `{{${opt}}}`
+  if (!enabled) {
+    errors.push(`Option **${token}** is referenced in the template but is disabled.`)
+    continue
+  }
 
-  template = template.replaceAll(token, value)
+  const value = page[`${token}_value`]
+  if (!value || value === "") {
+    errors.push(`Option **${token}** is enabled but has no value.`)
+  }
 }
 
-dv.paragraph(`\`\`\`\n${template}\n\`\`\``)
+// Also check enabled options missing from template (optional safety)
+for (const [opt, enabled] of Object.entries(options)) {
+  if (enabled && tokens.includes(opt)) {
+    const value = page[`${opt}_value`]
+    if (!value || value === "") {
+      errors.push(`Option **${opt}** is enabled but has no value.`)
+    }
+  }
+}
+
+// Show errors if any
+if (errors.length > 0) {
+  // dv.el("div", "", { cls: "prompt-errors" })
+
+  dv.paragraph(`> [!error] Prompt Validation\n${errors.map(e => `> ${e}`).join('\n')}`)
+} else {
+  // Replace tokens
+  for (const token of tokens) {
+    const value = page[`${token}_value`] ?? ""
+    template = template.replaceAll(`{{${token}}}`, value)
+  }
+
+  dv.paragraph(`\`\`\`\n${template}\n\`\`\``)
+}
 ```
