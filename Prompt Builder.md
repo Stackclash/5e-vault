@@ -5,9 +5,7 @@ template_definitions:
   name:
     label: Name
     type: text
-npc_value: 4. World Almanac/NPCs/Baba Lysaga (COS).md
-name_value: Test
-test_value: Hello
+npc_value: 4. World Almanac/NPCs/Brom Martikov (COS).md
 ---
 ```datacorejsx
 return function PromptBuilder() {
@@ -189,37 +187,36 @@ return function PromptBuilder() {
 
                 case "suggester":
                   const results = def.query ? dc.useQuery(def.query) : []
-
-                  const suggesterOptions = results.map(p => ({
+                  const options = results.map(p => ({
                     label: p.$name,
                     value: p.$path
                   }))
-
-                  const currentLabel =
-                    suggesterOptions.find(o => o.value === values[field])?.label || ""
+                  const [inputValue, setInputValue] = dc.useState(
+                    options.find(o => o.value === values[field])?.label || ""
+                  )
 
                   return (
                     <div key={token}>
-                      <label>{label}</label>
-
+                      <label>{label}: </label>
                       <input
                         list={`${field}_list`}
-                        value={currentLabel}
+                        value={inputValue}
                         onChange={(e) => {
-                          const match = suggesterOptions.find(
-                            o => o.label.toLowerCase() === e.target.value.toLowerCase()
+                          const text = e.target.value
+                          setInputValue(text)
+
+                          const match = options.find(
+                            o => o.label.toLowerCase() === text.toLowerCase()
                           )
 
                           if (match) {
                             setValue(field, match.value)
-                          } else {
-                            setValue(field, e.target.value)
                           }
                         }}
                       />
 
                       <datalist id={`${field}_list`}>
-                        {suggesterOptions.map(o => (
+                        {options.map(o => (
                           <option key={o.value} value={o.label} />
                         ))}
                       </datalist>
