@@ -49,6 +49,10 @@ return function PromptBuilder() {
 
   if (!templatePath) return <div>Select a prompt.</div>
 
+  if (!app.vault.getAbstractFileByPath(templatePath)) {
+    return <div>Template not found.</div>
+  }
+
   const templatePage = dc.useQuery(`@page and path("Prompt Builder Templates")`).filter(p => p.$name = templatePath)[0]
   const defs = Object.assign({}, (currentPage.value('template_definitions') || {}), (templatePage?.value('template_definitions') || {}))
 
