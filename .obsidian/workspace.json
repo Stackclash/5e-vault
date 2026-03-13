@@ -35,7 +35,8 @@
               "title": "NPC Generator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,10 +269,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1c21017c65590805",
+  "active": "556297ca9bf71d38",
   "lastOpenFiles": [
-    "z_Templates/Templater/World Building/Shop.md",
     "Prompt Builder.md",
+    "z_Templates/Templater/World Building/Shop.md",
     "Prompt Builder Templates/NPC Generator.md",
     "Prompt Builder Templates/Test Prompt.md",
     "Prompt Builder Templates",

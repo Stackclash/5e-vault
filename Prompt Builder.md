@@ -5,11 +5,10 @@ template_definitions:
   name:
     label: Name
     type: text
-gender_value: Male
-alignment_value: Lawful Good
-race_value: Human
 include_secret_value: false
-location_value: 4. World Almanac/Settlements/Vallaki.md
+location_value: 4. World Almanac/Settlements/Village of Barovia.md
+gender_value: Male
+race_value: Human
 ---
 ```datacorejsx
 return function PromptBuilderV2() {

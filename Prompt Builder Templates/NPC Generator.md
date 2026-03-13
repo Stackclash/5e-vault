@@ -18,7 +18,6 @@ template_definitions:
 
   occupation:
     type: text
-    required: false
 
   location:
     type: suggester
