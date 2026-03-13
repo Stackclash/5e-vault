@@ -23,7 +23,9 @@ npc_generator: |-
   Hello
   {{description}}
   {{location}}
-location_generator: This is crazy
+location_generator: |-
+  This is crazy
+  {{location}}
 npc_generator_options:
   location: true
   name: true
@@ -89,31 +91,32 @@ return function View() {
 > [!info]- Template
 > `$= await dv.view('utils/metaBindInput', {type: 'textArea', field: this.current().selected_prompt_type})`
 
-> [!info]- Options
-> ```dataviewjs
-> const templateOptionsKey = `${this.current().selected_prompt_type}_options`
-> const defs = Object.keys(dv.current().prompt_option_definitions)
-> for (const [opt, def] of Object.entries(defs)) {
->   console.log(opt, def)
->   dv.paragraph(`**${def.label || opt.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase())}**:\t\`INPUT[toggle(defaultValue(false)):${templateOptionsKey}.${opt}]\``)
-> }
-> ```
-
 ```dataviewjs
 const page = dv.current()
 
 const typeKey = page.selected_prompt_type
-const enabledOptions = page[`${typeKey}_options`] || {}
+const template = page[typeKey] || ""
+
 const defs = page.prompt_option_definitions || {}
 
-for (const [opt, def] of Object.entries(defs)) {
+// find template variables
+const tokens = [...template.matchAll(/{{(.*?)}}/g)]
+  .map(m => m[1].trim())
 
-  const enabled = enabledOptions?.[opt] ?? false
+// remove duplicates
+const uniqueTokens = [...new Set(tokens)]
 
-  if (!enabled) continue
+for (const token of uniqueTokens) {
 
-  const label = def.label || opt.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase())
-  const field = `${opt}_value`
+  const def = defs[token]
+
+  if (!def) {
+    dv.paragraph(`❌ Unknown option **${token}** used in template`)
+    continue
+  }
+
+  const label = def.label || token
+  const field = `${token}_value`
 
   let input = ""
 
@@ -146,51 +149,31 @@ for (const [opt, def] of Object.entries(defs)) {
 
 ```dataviewjs
 const page = dv.current()
-
 const typeKey = page.selected_prompt_type
-let template = page[typeKey] || ""
 
-const options = page[`${typeKey}_options`] || {}
+let template = page[typeKey] || ""
 
 const errors = []
 
-// Find all template tokens like {{name}}
-const tokenMatches = [...template.matchAll(/{{(.*?)}}/g)]
-const tokens = tokenMatches.map(t => t[1].trim())
+const tokens = [...template.matchAll(/{{(.*?)}}/g)]
+  .map(m => m[1].trim())
 
-// Validate tokens
-for (const token of tokens) {
-  const enabled = options[token]
+const uniqueTokens = [...new Set(tokens)]
 
-  if (!(token in options)) {
-    errors.push(`Template references unknown option **${token}**.`)
-    continue
-  }
-
-  if (!enabled) {
-    errors.push(`Option **${token}** is referenced in the template but is disabled.`)
-    continue
-  }
-
+for (const token of uniqueTokens) {
   const value = page[`${token}_value`]
-  if (!value || value === "") {
-    errors.push(`Option **${token}** is enabled and referenced in the template but has no value.`)
+
+  if (!value) {
+    errors.push(`Option **${token}** requires a value.`)
+    continue
   }
+
+  template = template.replaceAll(`{{${token}}}`, value)
 }
 
-// Show errors if any
-if (errors.length > 0) {
-  // dv.el("div", "", { cls: "prompt-errors" })
-
+if (errors.length) {
   dv.paragraph(`> [!error] Prompt Validation\n${errors.map(e => `> ${e}`).join('\n')}`)
 } else {
-  // Replace tokens
-  for (const token of tokens) {
-    let value = page[`${token}_value`] ?? ""
-    if (value?.path) value = value.path.split('/').pop().replace('.md','')
-    template = template.replaceAll(`{{${token}}}`, value)
-  }
-
   dv.paragraph(`\`\`\`\n${template}\n\`\`\``)
 }
 ```
