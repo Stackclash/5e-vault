@@ -14,7 +14,7 @@ pronounced:
 race: "[[Werewolf|Werewolf]]"
 gender: male
 age:
-alignment:
+alignment: Chaotic Neutral
 occupation: []
 groups: []
 religions: []

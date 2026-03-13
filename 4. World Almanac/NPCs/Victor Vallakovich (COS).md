@@ -18,7 +18,7 @@ partyRelationships:
   Midnight Covenant: Ally
 location: "[[4. World Almanac/Settlements/Village of Barovia.md|Village of Barovia]]"
 pronounced:
-race:
+race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: male
 age:
 occupation: []

@@ -62,3 +62,9 @@ views:
       - likes
       - dislikes
       - goals
+    sort: []
+    columnSize:
+      note.pronounced: 245
+      note.race: 128
+      note.age: 146
+      formula.relationships: 247

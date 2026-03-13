@@ -18,7 +18,7 @@ partyRelationships:
   Midnight Covenant: Ally
 location:
 pronounced:
-race:
+race: "[[Revenant|Revenant]]"
 gender: male
 age:
 occupation: []

@@ -11,11 +11,11 @@ condition: healthy
 images: []
 aliases:
   - Exethanter
-alignment: Any Evil alignment
+alignment: Chaotic Neutral
 relationships: []
 partyRelationships:
   Midnight Covenant: Acquaintance
-location:
+location: "[[The Amber Temple]]"
 pronounced:
 race: "[[5. Mechanics/Bestiary/Undead/Lich|Lich]]"
 gender: male
