@@ -210,19 +210,9 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "a548a50abeb85334",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-chat-view",
-              "state": {},
-              "icon": "wand-sparkles",
-              "title": "Smart composer chat"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -251,7 +241,8 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "templater-obsidian:Templater": false,
       "smart-composer:Open smart composer": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "neural-composer:Open Neural Composer": false
     }
   },
   "active": "c8ca3500174a07fa",
