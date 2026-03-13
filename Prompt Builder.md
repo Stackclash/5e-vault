@@ -5,7 +5,8 @@ template_definitions:
   name:
     label: Name
     type: text
-npc_value: 4. World Almanac/NPCs/Brom Martikov (COS).md
+test_value: peace
+name_value: hello
 ---
 ```datacorejsx
 return function PromptBuilder() {
@@ -23,18 +24,29 @@ return function PromptBuilder() {
   /* ---------------------------- */
   /* Update frontmatter on change */
   /* ---------------------------- */
+  const previousPromptRef = dc.useRef(selectedPromptPath)
   dc.useEffect(() => {
-    app.fileManager.processFrontMatter(
-      app.workspace.getActiveFile(),
-      (fm) => {
-        fm.selected_prompt_path = selectedPromptPath
-        const keys = Object.keys(fm).filter(k => k.endsWith('_value'))
+    const previousPrompt = previousPromptRef.current
+    if (!previousPrompt) {
+      previousPromptRef.current = selectedPromptPath
+      return
+    }
 
-        for (const key of keys) {
-          delete fm[key]
+    if (previousPrompt !== selectedPromptPath) {
+      app.fileManager.processFrontMatter(
+        app.workspace.getActiveFile(),
+        (fm) => {
+          fm.selected_prompt_path = selectedPromptPath
+          const keys = Object.keys(fm).filter(k => k.endsWith('_value'))
+
+          for (const key of keys) {
+            delete fm[key]
+          }
         }
-      }
-    )
+      )
+    }
+
+    previousPromptRef.current = selectedPromptPath
   }, [selectedPromptPath])
 
 
@@ -42,7 +54,7 @@ return function PromptBuilder() {
   /* Template lookup              */
   /* ---------------------------- */
   const templatePage =
-    promptTemplates.find(p => p.$path === selectedPromptPath)
+    dc.useQuery(`@page and $path = "${selectedPromptPath}"`)[0]
 
   const defs = Object.assign(
     {},
@@ -56,8 +68,12 @@ return function PromptBuilder() {
   const [templateText, setTemplateText] = dc.useState("")
 
   dc.useEffect(() => {
-    if (!selectedPromptPath) return
-    const file = app.vault.getAbstractFileByPath(selectedPromptPath)
+    if (!templatePage) {
+      setTemplateText("")
+      return
+    }
+
+    const file = app.vault.getAbstractFileByPath(templatePage.$path)
 
     if (!file) {
       setTemplateText("")
@@ -68,7 +84,7 @@ return function PromptBuilder() {
       const cleaned = t.replace(/^---[\s\S]*?---/, "").trim()
       setTemplateText(cleaned)
     })
-  }, [selectedPromptPath])
+  }, [templatePage?.$mtime])
 
 
   /* ---------------------------- */
