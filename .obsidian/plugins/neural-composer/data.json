@@ -341,7 +341,7 @@
     "maxAutoIterations": 1
   },
   "enableAutoStartServer": false,
-  "lightRagCommand": "C:\\Users\\coxri\\AppData\\Local\\mise\\installs\\python\\3.14.0\\Lib\\site-packages\\lightrag\\lightrag.py",
+  "lightRagCommand": "",
   "lightRagWorkDir": "C:\\Users\\coxri\\Projects\\Personal\\5e-vault\\.neural_memory",
   "lightRagSummaryLanguage": "English",
   "lightRagShowCitations": true,
