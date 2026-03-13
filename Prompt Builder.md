@@ -5,7 +5,7 @@ template_definitions:
   name:
     label: Name
     type: text
-test_value: boo
+test_value: hello
 ---
 ```datacorejsx
 return function PromptBuilder() {
@@ -183,19 +183,39 @@ return function PromptBuilder() {
                   )
 
                 case "select":
+                  let options = []
+
+                  if (def.options) {
+                    options = def.options
+                  }
+                  else if (def.query) {
+                    const queryResults = dc.useQuery(def.query)
+
+                    options = queryResults.map(p => ({
+                      label: p.$name,
+                      value: p.$path
+                    }))
+                  }
+
                   return (
                     <div key={token}>
-                      <label>{label}: </label>
+                      <label>{label}</label>
                       <select
                         value={values[field] || ""}
                         onChange={e => setValue(field, e.target.value)}
                       >
-                        <option></option>
+                        <option value=""></option>
+                        {options.map(o => {
+                          if (typeof o === "string") {
+                            return <option key={o}>{o}</option>
+                          }
 
-                        {def.options?.map(o => (
-                          <option key={o}>{o}</option>
-                        ))}
-
+                          return (
+                            <option key={o.value} value={o.value}>
+                              {o.label}
+                            </option>
+                          )
+                        })}
                       </select>
                     </div>
                   )
