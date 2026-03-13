@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-selected_prompt_type: Test Prompt
+selected_prompt_type: Prompt Builder Templates/Test Prompt.md
+test_value: hello
 ---
 `BUTTON[refresh]`
 ```meta-bind-button
@@ -40,7 +41,7 @@ return function View() {
         {promptTemplates.map(pt => {
           const typeKey = pt.$name.toLowerCase().replaceAll(' ','_')
           return (
-            <option key={typeKey} value={pt.$name}>
+            <option key={typeKey} value={pt.$path}>
               {pt.$name}
             </option>
           )
@@ -55,8 +56,7 @@ return function View() {
 const page = dv.current()
 
 const selectedPrompt = page.selected_prompt_type
-const template = await dv.query(`"Prompt Builder Templates" and file.name = '${selectedPrompt}'`)
-console.log(template)
+const template = await dv.io.load(selectedPrompt)
 
 const defs = page.prompt_option_definitions || {}
 
@@ -105,9 +105,8 @@ for (const token of uniqueTokens) {
 
 ```dataviewjs
 const page = dv.current()
-const typeKey = page.selected_prompt_type
-
-let template = page[typeKey] || ""
+const selectedPrompt = page.selected_prompt_type
+let template = await dv.io.load(selectedPrompt)
 
 const errors = []
 
