@@ -9,6 +9,7 @@ prompt_types:
 prompt_options:
   - name
   - location
+  - description
 npc_generator: |-
   This is going well
 
@@ -17,6 +18,7 @@ location_generator: This is crazy
 npc_generator_options:
   location: true
   name: true
+  description: true
 name_option:
 location_option:
 location_generator_options:
@@ -93,6 +95,9 @@ if (options && 'name' in options && options.name) {
 }
 if (options && 'location' in options && options.location) {
   dv.paragraph(`**Location**: \`INPUT[suggester(optionQuery(#location)):location_option]\``)
+}
+if (options && 'description' in options && options.location) {
+  dv.paragraph(`**Description**: \`INPUT[textArea:description_option]\``)
 }
 ```
 
