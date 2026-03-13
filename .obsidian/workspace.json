@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Generator.md",
+                "file": "Prompt Builder.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Generator"
+              "title": "Prompt Builder"
             }
           }
         ],
@@ -286,6 +286,7 @@
   "lastOpenFiles": [
     "z_Templates/Templater/World Building/Shop.md",
     "Prompt Generator.md",
+    "Prompt Builder.md",
     "z_Templates/Templater/World Building/Event.md",
     "z_Bases/Spells.base",
     "z_Bases/NPCs.base",
@@ -312,7 +313,6 @@
     "5. Mechanics/Items/2 Amulet Of The Devout (TCE).md",
     "5. Mechanics/Items/3 Moon Sickle (TCE).md",
     "5. Mechanics/Items/Flensing Claws (VGM).md",
-    "5. Mechanics/Items/1 Amulet Of The Devout (TCE).md",
     "z_Bases/Locations.base",
     "z_Bases/Players.base",
     "z_Bases/Monsters.base",
