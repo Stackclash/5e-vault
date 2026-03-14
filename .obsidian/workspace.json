@@ -297,30 +297,13 @@
             }
           },
           {
-            "id": "26bc5a9b260d3e50",
+            "id": "c42e6ee23b67bbf5",
             "type": "leaf",
             "state": {
-              "type": "modal-form-edit-form-view",
-              "state": {
-                "title": "Example form",
-                "name": "example-form",
-                "fields": [
-                  {
-                    "name": "test",
-                    "label": "",
-                    "description": "",
-                    "isRequired": false,
-                    "input": {
-                      "type": "tag",
-                      "source": "fixed",
-                      "options": []
-                    }
-                  }
-                ],
-                "version": "1"
-              },
-              "icon": "note-glyph",
-              "title": "Edit form"
+              "type": "neuralcmp-chat-view",
+              "state": {},
+              "icon": "brain-circuit",
+              "title": "Neural Composer chat"
             }
           }
         ],
