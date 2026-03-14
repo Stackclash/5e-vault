@@ -17,7 +17,8 @@ age: 74
 alignment: Chaotic Neutral
 occupation:
   - Councilor of Illusion
-groups: []
+groups:
+  - Umbral Athenaeum Council
 religions: []
 description: |-
   Lyssandra Veil is a tiefling with violet skin and curved obsidian horns that frame her face elegantly. Her robes shimmer constantly with shifting illusion magic, causing the colors and patterns to subtly change every few moments.

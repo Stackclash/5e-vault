@@ -17,7 +17,8 @@ age: 310
 alignment: Neutral
 occupation:
   - Councilor of Necromancy
-groups: []
+groups:
+  - Umbral Athenaeum Council
 religions: []
 description: |-
   Valeris Thorne is a gaunt elf with pale skin and long black robes trimmed in silver bone motifs. His expression is calm to the point of unsettling, and his eyes hold the quiet patience of someone who has spent centuries contemplating mortality.

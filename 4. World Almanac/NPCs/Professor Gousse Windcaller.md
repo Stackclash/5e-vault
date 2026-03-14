@@ -18,7 +18,8 @@ alignment: Neutral Good
 occupation:
   - Councilor of Conjuration
   - Professor of Planar Studies
-groups: []
+groups:
+  - Umbral Athenaeum Council
 religions: []
 description: |-
   Professor Gousse is a tall aarakocra with sleek ash-gray feathers tipped in white along his wings and crest. His sharp golden eyes rarely blink, giving the impression that he is constantly studying everything in the room at once. His robes are specially tailored to allow his wings to fold comfortably through slits in the back, and the fabric is embroidered with silver glyphs representing planar gateways and summoning circles.
