@@ -9,20 +9,27 @@ relationships: []
 tags:
   - npc
 aliases:
-  - Orellian Voss
-pronounced: oh-REL-ee-an VAHSS
-race: "[[5. Mechanics/Races/Elf High.md|Elf High]]"
+  - Professor Gousse Windcaller
+pronounced: GOOSS (rhymes with “goose”)
+race: "[[5. Mechanics/Races/Aarakocra (MPMM).md|Aarakocra (MPMM)]]"
 gender: male
-age: 187
-alignment: Chaotic Neutral
+age: 35
+alignment: Neutral Good
 occupation:
   - Councilor of Conjuration
+  - Professor of Planar Studies
 groups: []
 religions: []
 description: |-
-  Orellian Voss is an elegant high elf with flowing platinum hair and brightly colored robes embroidered with tiny planar symbols. His clothing smells faintly of incense, exotic spices, and ozone.
-  Small extraplanar creatures often accompany him — glowing motes, tiny elemental wisps, or miniature winged familiars that perch on his shoulders or drift lazily around him.
-  His eyes sparkle constantly with excitement, as though every conversation might lead to the discovery of a new world.
+  Professor Gousse is a tall aarakocra with sleek ash-gray feathers tipped in white along his wings and crest. His sharp golden eyes rarely blink, giving the impression that he is constantly studying everything in the room at once. His robes are specially tailored to allow his wings to fold comfortably through slits in the back, and the fabric is embroidered with silver glyphs representing planar gateways and summoning circles.
+
+  When he walks, his talons click softly on the stone floors of the Institute. His wings occasionally shift or rustle slightly when he grows excited or irritated.
+
+  Despite his avian features, Gousse carries himself with the quiet patience of a long-tenured academic. His speech is careful and deliberate, though when discussing planar travel or magical theory he becomes animated, often pacing the room with wings partially spread as if preparing to take flight.
+
+  His office is filled with strange artifacts from distant planes — crystalline feathers from elemental air creatures, jars of shimmering dust from the Astral Sea, and delicate diagrams of portal geometries etched into thin metal plates.
+
+  A faint breeze always seems to follow him, a lingering side effect of his constant experimentation with planar magic.
 history: Orellian gained fame after successfully opening the first stable portal to the Feywild in over a century. Unfortunately, he also gained notoriety after accidentally summoning a celestial whale into the harbor district of Bruokdon during a demonstration spell.
 personality: Charismatic and eccentric.
 ideal: Discovery through exploration.
