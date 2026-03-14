@@ -154,6 +154,9 @@ views:
       - ac
       - type
       - environments
+    sort:
+      - property: cr
+        direction: DESC
   - type: table
     name: Monstrosities
     filters:
