@@ -18,7 +18,7 @@ alignment: Chaotic Good
 occupation: ""
 groups: []
 religions: []
-personality:
+personality: Quick-witted, paranoid, and deeply curious. Merrin rarely answers a question directly if a riddle would do instead.˜
 ideal: Truth must never become rigid. The world needs uncertainty, trickery, and mystery to remain free.
 bond: Devoted to Roark’s father and believes protecting Roark is part of a divine task given to him years ago.
 flaw: His paranoia makes him distrustful of institutions and slow to trust allies.
@@ -34,6 +34,21 @@ description: |-
   Despite his age, his eyes move quickly, always scanning shelves, shadows, and doorways as if expecting someone to arrive at any moment.
 
   Several small scars on his hands suggest past encounters with magical traps or wards.
+history: |-
+  Merrin was once a respected historian of divine conflicts who lectured at several magical academies across the continent. His career collapsed when he began publicly claiming that references to Vecna across ancient texts were inconsistent and being altered.
+
+  Most scholars dismissed him as obsessive or unstable.
+
+  Years ago, however, Merrin received a dream from the Trickster God — Roark’s father. In the dream, a voice told him that if the Whispered One ever escaped his prison, the first sign would not be destruction or undead armies.
+
+  It would be the corruption of knowledge itself.
+
+  From that day forward, Merrin quietly cataloged every reference to Vecna he could find across the world’s archives.
+
+  After the magical surge in Barovia, he began noticing the changes he feared most: books that once described Vecna as history were now describing him as myth.
+
+  Fearing the truth might vanish entirely, Merrin infiltrated the Umbral Athenaeum to research before the knowledge disappeared forever.
+secrets: ""
 ---
  
 > [!infobox]

@@ -11,7 +11,7 @@ try {
     name: "npc-setup",
     fields: [
       fields.name("NPC Name", "Name of NPC"),
-      fields.text("Pronunciation", "pronounced", "Pronunciation of NPC Name")
+      fields.text("Pronunciation", "pronounced", "Pronunciation of NPC Name"),
       fields.age(),
       fields.gender(),
       fields.tagSelect(dataview, "race", "Race", '#race', "Race of NPC"),
