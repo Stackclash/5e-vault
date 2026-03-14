@@ -1,74 +1,36 @@
-<%*
-let templateError = false
-let data = {}
-try {
-  const init = tp.user.templateInit()
-  const fields = tp.user.formFields()
-  const { dataview, modalForm, config } = init.getPlugins(tp, ['npcs'])
-
-  data = await init.openForm(modalForm, {
-    title: "NPC Setup",
-    name: "npc-setup",
-    fields: [
-      fields.name("NPC Name", "Name of NPC"),
-      fields.text("pronounced", "Pronunciation", "Pronunciation of NPC Name"),
-      fields.age(),
-      fields.gender(),
-      fields.tagSelect(dataview, "race", "Race", '#race', "Race of NPC"),
-      fields.alignment(),
-      fields.tagSelect(dataview, "location", "Location", '#location', "Where this NPC is located"),
-      fields.textArea("description", "Description", "Description of NPC"),
-      fields.textArea("history", "History", "History of NPC"),
-      fields.textArea("personality", "Personality", "Personality of NPC"),
-      fields.textArea("ideal", "Ideal", "Ideal of NPC"),
-      fields.textArea("bond", "Bond", "Bond of NPC"),
-      fields.textArea("flaw", "Flaw", "Flaw of NPC"),
-      fields.textArea("goals", "Goals", "Goals of NPC"),
-      fields.textArea("likes", "Likes", "Likes of NPC"),
-      fields.textArea("dislikes", "Dislikes", "Dislikes of NPC"),
-    ],
-    version: "1"
-  })
-
-  await init.moveFile(tp, config.locations.npcs, data.name)
-} catch (e) {
-  templateError = e.message
-  console.error(e)
-  new tp.obsidian.Notice(e.message, 5000)
-}
--%>
-<%* if (!templateError) { -%>
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "<% data.location %>"
+location: "[[4. World Almanac/Places of Interest/The Umbral Athenaeum.md|The Umbral Athenaeum]]"
 condition: healthy
 images:
-- z_Assets/PlaceholderImage.png
+  - z_Assets/PlaceholderImage.png
 relationships: []
 tags:
-- npc
-aliases: 
-- "<% data.name %>"
-pronounced: "<% data.pronounced %>"
-race: "<% data.race %>"
-gender: "<% data.gender %>"
-age: <% data.age %>
-alignment: "<% data.alignment %>"
-occupation: []
+  - npc
+aliases:
+  - Orellian Voss
+pronounced: oh-REL-ee-an VAHSS
+race: "[[5. Mechanics/Races/Elf High.md|Elf High]]"
+gender: male
+age: 187
+alignment: Chaotic Neutral
+occupation:
+  - Councilor of Conjuration
 groups: []
 religions: []
-description: >-
-  <% data.description ? data.description : '' %>
-history: >-
-  <% data.history ? data.history : '' %>
-personality: <% data.personality ? data.personality : '""' %>
-ideal: <% data.ideal ? data.ideal : '""' %>
-bond: <% data.bond ? data.bond : '""' %>
-flaw: <% data.flaw ? data.flaw : '""' %>
-goals: <% data.goals ? data.goals : '""' %>
-likes: <% data.likes ? data.likes : '""' %>
-dislikes: <% data.dislikes ? data.dislikes : '""' %>
+description: |-
+  Orellian Voss is an elegant high elf with flowing platinum hair and brightly colored robes embroidered with tiny planar symbols. His clothing smells faintly of incense, exotic spices, and ozone.
+  Small extraplanar creatures often accompany him — glowing motes, tiny elemental wisps, or miniature winged familiars that perch on his shoulders or drift lazily around him.
+  His eyes sparkle constantly with excitement, as though every conversation might lead to the discovery of a new world.
+history: Orellian gained fame after successfully opening the first stable portal to the Feywild in over a century. Unfortunately, he also gained notoriety after accidentally summoning a celestial whale into the harbor district of Bruokdon during a demonstration spell.
+personality: Charismatic and eccentric.
+ideal: Discovery through exploration.
+bond: Believes the Institute should expand its magical horizons beyond the material plane.
+flaw: Careless with dangerous magic.
+goals: Open stable portals to new realms.
+likes: extraplanar creatures, rare ingredients
+dislikes: bureaucratic restrictions
 partyRelationships: {}
 ---
 
@@ -192,11 +154,3 @@ return function View() {
 
 
 ### General Notes
-<%* } else { -%>
-
-
-> [!Error] Error Executing Template
-> <% templateError %>
-
-
-<%* } -%>
