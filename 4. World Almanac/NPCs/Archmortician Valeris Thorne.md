@@ -9,28 +9,28 @@ relationships: []
 tags:
   - npc
 aliases:
-  - Mistress Lyssandra Veil
-pronounced: liss-AN-drah VAYL
-race: "[[5. Mechanics/Races/Tiefling.md|Tiefling]]"
-gender: female
-age: 74
-alignment: Chaotic Neutral
+  - Valeris Thorne
+pronounced: vuh-LAIR-iss THORN
+race: "[[5. Mechanics/Races/Elf.md|Elf]]"
+gender: male
+age: 310
+alignment: Neutral
 occupation:
-  - Councilor of Illusion
+  - Councilor of Necromancy
 groups: []
 religions: []
 description: |-
-  Lyssandra Veil is a tiefling with violet skin and curved obsidian horns that frame her face elegantly. Her robes shimmer constantly with shifting illusion magic, causing the colors and patterns to subtly change every few moments.
-  Her eyes gleam with mischievous amusement, and her smile always suggests she knows something others do not.
-  Illusory butterflies or drifting motes of light often follow her when she walks through the Institute.
-history: Lyssandra once replaced an entire noble banquet with illusions purely to prove that perception shapes reality.
-personality: Playful and mysterious.
-ideal: Reality is subjective.
-bond: Protects illusion magic from those who see it as frivolous.
-flaw: Enjoys secrets too much.
-goals: Push illusion magic into new philosophical territory.
-likes: theater, practical jokes
-dislikes: rigid thinking
+  Valeris Thorne is a gaunt elf with pale skin and long black robes trimmed in silver bone motifs. His expression is calm to the point of unsettling, and his eyes hold the quiet patience of someone who has spent centuries contemplating mortality.
+  His voice is low and clinical, rarely showing emotion.
+  Despite his necromantic studies, he carries himself with quiet dignity rather than menace.
+history: Valeris has studied the transition between life and death for centuries and has written some of the most respected academic works on necromantic theory.
+personality: Clinical and unemotional.
+ideal: Death is simply another state of existence.
+bond: Dedicated to studying the boundary between life and death.
+flaw: Emotionally detached.
+goals: Unlock the secrets of immortality without corruption.
+likes: anatomy, quiet laboratories
+dislikes: superstition
 partyRelationships: {}
 ---
 
