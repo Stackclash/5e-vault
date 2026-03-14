@@ -17,7 +17,8 @@ age: 80
 alignment: Chaotic Good
 occupation:
   - Councilor of Transmutation
-groups: []
+groups:
+  - Umbral Athenaeum Council
 religions: []
 description: |-
   Alindra Quicksilver is a small gnome with wild copper hair that sticks out in every direction. Large goggles rest permanently on her forehead, and her robes are covered with scorch marks, chemical stains, and tiny tool pockets.

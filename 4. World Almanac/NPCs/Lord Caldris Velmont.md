@@ -17,7 +17,8 @@ age: 48
 alignment: Neutral Evil
 occupation:
   - Councilor of Enchantment
-groups: []
+groups:
+  - Umbral Athenaeum Council
 religions: []
 description: |-
   Lord Caldris Velmont is a strikingly handsome human dressed in elegant aristocratic robes adorned with gold-thread embroidery. His dark hair is always perfectly styled, and several rings bearing subtle enchantment runes adorn his fingers.

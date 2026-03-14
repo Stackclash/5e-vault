@@ -17,7 +17,9 @@ age: 132
 alignment: Chaotic Good
 occupation:
   - Councilor of Evocation
-groups: []
+  - Battle Magic Instructor
+groups:
+  - Umbral Athenaeum Council
 religions: []
 description: |-
   Kaelor Stormbrand is a broad-shouldered dwarf with a thick braided beard streaked with ash and burn scars across his arms. His heavy robes are reinforced with leather plating to withstand the explosive nature of evocation magic.

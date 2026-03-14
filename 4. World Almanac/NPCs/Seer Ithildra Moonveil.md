@@ -17,7 +17,8 @@ age: 230
 alignment: Neutral Good
 occupation:
   - Councilor of Divination
-groups: []
+groups:
+  - Umbral Athenaeum Council
 religions: []
 description: |-
   Ithildra Moonveil is a pale elf with long silver hair and eyes that seem perpetually unfocused, as though she is seeing events unfolding moments before they happen. Her robes are decorated with delicate constellations stitched in moonlight thread.
