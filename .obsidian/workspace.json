@@ -32,10 +32,67 @@
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPC Generator"
+              "title": "2026-03-14"
+            }
+          },
+          {
+            "id": "ad5b9e6278d63a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DM Toolkit/Session Journals/Midnight Covenant/S36 The Big City.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S36 The Big City"
+            }
+          },
+          {
+            "id": "071b6acc4ded1d29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Mechanics/Bestiary/Humanoid/Abjurer Wizard (MPMM).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abjurer Wizard (MPMM)"
+            }
+          },
+          {
+            "id": "8b2afbe27b2814f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. The Party/Parties/Midnight Covenant.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Midnight Covenant"
+            }
+          },
+          {
+            "id": "67f6784223e33a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,13 +283,30 @@
             }
           },
           {
-            "id": "c42e6ee23b67bbf5",
+            "id": "26bc5a9b260d3e50",
             "type": "leaf",
             "state": {
-              "type": "neuralcmp-chat-view",
-              "state": {},
-              "icon": "brain-circuit",
-              "title": "Neural Composer chat"
+              "type": "modal-form-edit-form-view",
+              "state": {
+                "title": "Example form",
+                "name": "example-form",
+                "fields": [
+                  {
+                    "name": "test",
+                    "label": "",
+                    "description": "",
+                    "isRequired": false,
+                    "input": {
+                      "type": "tag",
+                      "source": "fixed",
+                      "options": []
+                    }
+                  }
+                ],
+                "version": "1"
+              },
+              "icon": "note-glyph",
+              "title": "Edit form"
             }
           }
         ],
@@ -271,12 +345,28 @@
   "active": "1c21017c65590805",
   "lastOpenFiles": [
     "4. World Almanac/NPCs/Professor Gousse Windcaller.md",
-    "4. World Almanac/NPCs/Seer Ithildra Moonveil.md",
     "Untitled.md",
-    "4. World Almanac/NPCs/Orellian Voss.md",
+    "4. World Almanac/NPCs/Seer Ithildra Moonveil.md",
+    "4. World Almanac/NPCs/NPCs.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-14.md",
     "4. World Almanac/NPCs/Archwarden Selvara Kain.md",
     "4. World Almanac/NPCs/Merrin Thricefold.md",
-    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-14.md",
+    "1. DM Toolkit/Configuration.md",
+    "3. The Party/Parties/Midnight Covenant.md",
+    "5. Mechanics/Bestiary/Humanoid/Abjurer Wizard (MPMM).md",
+    "z_Bases/Monsters.base",
+    "3. The Party/Players/Redgrave.md",
+    "3. The Party/Players/Marin.md",
+    "3. The Party/Players/Faerah Duskrane.md",
+    "3. The Party/Players/Players.md",
+    "3. The Party/Players/Yevelda Ovak.md",
+    "3. The Party/Players/Wisp.md",
+    "3. The Party/Players/Redgrave.md",
+    "3. The Party/Players/Roark Battleborn.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-02-28.md",
+    "1. DM Toolkit/Session Journals/Midnight Covenant/S36 The Big City.md",
+    "Prompt Builder.md",
+    "1. DM Toolkit/DM Quick Reference.md",
     "Prompt Builder Templates/NPC Generator.md",
     "Prompt Builder.md",
     "z_Templates/Templater/World Building/Shop.md",

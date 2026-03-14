@@ -30,14 +30,23 @@ description: |-
   His office is filled with strange artifacts from distant planes — crystalline feathers from elemental air creatures, jars of shimmering dust from the Astral Sea, and delicate diagrams of portal geometries etched into thin metal plates.
 
   A faint breeze always seems to follow him, a lingering side effect of his constant experimentation with planar magic.
-history: Orellian gained fame after successfully opening the first stable portal to the Feywild in over a century. Unfortunately, he also gained notoriety after accidentally summoning a celestial whale into the harbor district of Bruokdon during a demonstration spell.
-personality: Charismatic and eccentric.
-ideal: Discovery through exploration.
-bond: Believes the Institute should expand its magical horizons beyond the material plane.
-flaw: Careless with dangerous magic.
-goals: Open stable portals to new realms.
-likes: extraplanar creatures, rare ingredients
-dislikes: bureaucratic restrictions
+history: |-
+  Gousse was born in a mountain aerie far to the north, where his people rarely interacted with surface civilizations. Fascinated by stories brought by traveling traders, he developed an early interest in the wider world beyond the peaks.
+
+  As a young adult he left his homeland and traveled across several kingdoms, eventually arriving in Bruokdon where the Umbral Athenaeum quickly recognized his natural aptitude for arcane theory.
+
+  His ability to visualize spatial relationships in three dimensions made him an exceptional conjuration scholar. Over the years he developed several improvements to planar binding rituals that reduced the risk of summoning hostile entities.
+
+  Eventually he rose to become the Institute’s Councilor of Conjuration, where he now oversees research related to planar travel, teleportation, and summoning magic.
+
+  Despite his position on the council, Gousse remains approachable and often spends time teaching junior scholars.
+personality: Curious, thoughtful, and patient. Gousse prefers observation and analysis before action and often pauses before speaking as though carefully assembling his thoughts.
+ideal: Discovery expands the world. Knowledge of other planes should be pursued carefully but without fear.
+bond: Deeply devoted to the Umbral Athenaeum and its mission to expand magical understanding.
+flaw: His curiosity can lead him to pursue dangerous magical phenomena longer than is wise.
+goals: Study the magical surge reported in Barovia, Improve the Institute’s planar research capabilities, Develop safer conjuration techniques for summoning and portal magic
+likes: rare planar phenomena, complex magical theory, quiet observation, aerial views of the city from the Institute towers
+dislikes: careless spellcasting, summoners who treat extraplanar beings as disposable tools, magical experiments conducted without proper preparation
 partyRelationships: {}
 ---
 
