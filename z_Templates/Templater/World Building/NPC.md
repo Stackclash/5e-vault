@@ -50,7 +50,7 @@ tags:
 - npc
 aliases: 
 - "<% data.name %>"
-pronounced: 
+pronounced: "<% data.pronounced %>"
 race: "<% data.race %>"
 gender: "<% data.gender %>"
 age: <% data.age %>
@@ -58,7 +58,11 @@ alignment: "<% data.alignment %>"
 occupation: ""
 groups: []
 religions: []
-personality: <%* data.personality ? data.personality : '""' %>
+description: >-
+  <% data.description ? data.description : '' %>
+history: >-
+  <% data.history ? data.history : '' %>
+personality: <% data.personality ? data.personality : '""' %>
 ideal: <% data.ideal ? data.ideal : '""' %>
 bond: <% data.bond ? data.bond : '""' %>
 flaw: <% data.flaw ? data.flaw : '""' %>
