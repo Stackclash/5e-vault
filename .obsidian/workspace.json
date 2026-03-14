@@ -295,9 +295,36 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "26bc5a9b260d3e50",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-edit-form-view",
+              "state": {
+                "title": "Example form",
+                "name": "example-form",
+                "fields": [
+                  {
+                    "name": "test",
+                    "label": "",
+                    "description": "",
+                    "isRequired": false,
+                    "input": {
+                      "type": "tag",
+                      "source": "fixed",
+                      "options": []
+                    }
+                  }
+                ],
+                "version": "1"
+              },
+              "icon": "note-glyph",
+              "title": "Edit form"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",

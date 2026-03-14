@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 statblock: inline
-location: "[[4. World Almanac/Places of Interest/Abbey of Saint Markovia.md|Abbey of Saint Markovia]]"
+location: "[[4. World Almanac/Places of Interest/The Umbral Athenaeum.md|The Umbral Athenaeum]]"
 condition: healthy
 images:
   - z_Assets/PlaceholderImage.png
@@ -10,15 +10,18 @@ tags:
   - npc
 aliases:
   - Archwarden Selvara Kain
-pronounced:
+pronounced: sel-VAHR-uh KAYN
 race: "[[5. Mechanics/Races/Human.md|Human]]"
 gender: female
 age: 54
 alignment: Lawful Neutral
-occupation: ""
-groups: []
+occupation:
+  - Councilor of Abjuration
+  - Defensive Magic Master
+groups:
+  - Umbral Athenaeum Council
 religions: []
-personality:
+personality: Disciplined, calm, and authoritative.
 ideal: Protection above all. Knowledge must be guarded.
 bond: Dedicated to protecting the Institute and its secrets.
 flaw: Overly cautious and distrustful of outsiders.
