@@ -9,7 +9,7 @@ relationships: []
 tags:
   - npc
 aliases:
-  - Seer Ithildra Moonveil
+  - Ithildra Moonveil
 pronounced: ih-THILL-drah MOON-vayl
 race: "[[5. Mechanics/Races/Elf.md|Elf]]"
 gender: female
