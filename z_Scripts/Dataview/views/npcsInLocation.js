@@ -26,7 +26,7 @@ const pages = dv.pages('"4. World Almanac/NPCs"').where(p => {
 
 if (pages.length > 0) {
     dv.header(2, "Notable NPCs")
-    dv.table(["Name", "Location"],
-        pages.map(p => [p.file.link, p.location])
+    dv.table(["Name", "Occupation", "Location"],
+        pages.map(p => [p.file.link, p.occupation, p.location])
     )
 }

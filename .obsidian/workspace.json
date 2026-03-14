@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c21017c65590805",
+            "id": "ff51a18aee7dff95",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "556297ca9bf71d38",
+            "id": "6cbf787b47dded06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Builder Templates/NPC Generator.md",
-                "mode": "source",
+                "file": "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-14.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. World Almanac/NPCs/Archmortician Valeris Thorne.md",
+                "file": "4. World Almanac/Places of Interest/The Umbral Athenaeum.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Archmortician Valeris Thorne"
+              "title": "The Umbral Athenaeum"
             }
           }
         ],
@@ -314,7 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
+    "width": 319.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -344,16 +344,16 @@
   },
   "active": "67f6784223e33a15",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "4. World Almanac/NPCs/Mistress Lyssandra Veil.md",
+    "4. World Almanac/NPCs/Professor Alindra Quicksilver.md",
     "4. World Almanac/NPCs/Archmortician Valeris Thorne.md",
+    "4. World Almanac/NPCs/Mistress Lyssandra Veil.md",
     "4. World Almanac/NPCs/Magister Kaelor Stormbrand.md",
     "4. World Almanac/NPCs/Lord Caldris Velmont.md",
     "4. World Almanac/NPCs/Seer Ithildra Moonveil.md",
     "Untitled.md",
     "4. World Almanac/NPCs/Professor Gousse Windcaller.md",
-    "4. World Almanac/NPCs/Seer Ithildra Moonveil.md",
-    "4. World Almanac/NPCs/Orellian Voss.md",
+    "4. World Almanac/NPCs/NPCs.md",
+    "1. DM Toolkit/Session Prep/Midnight Covenant/2026-03-14.md",
     "4. World Almanac/NPCs/Archwarden Selvara Kain.md",
     "4. World Almanac/NPCs/Merrin Thricefold.md",
     "1. DM Toolkit/Configuration.md",
@@ -372,13 +372,11 @@
     "1. DM Toolkit/Session Journals/Midnight Covenant/S36 The Big City.md",
     "Prompt Builder.md",
     "Prompt Builder Templates",
-    "Prompt Generator.md",
-    "z_Templates/Templater/World Building/Event.md",
     "z_Bases/Spells.base",
     "z_Bases/Items.base",
     "z_Bases/Locations.base",
     "z_Bases/Players.base",
-    "z_Bases/Monsters.base",
+    "z_Bases/NPCs.base",
     "z_Bases/Hazards.base",
     "z_Bases",
     "z_Templates/Text Generator/Backups/generations",
