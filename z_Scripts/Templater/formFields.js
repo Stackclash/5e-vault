@@ -67,6 +67,17 @@ function age() {
     }
 }
 
+/** Text input */
+function text(fieldName, label, description, required = false) {
+    return {
+        name: fieldName,
+        label,
+        description: description || label,
+        isRequired: required,
+        input: { type: "text" }
+    }
+}
+
 /** Textarea input */
 function textArea(fieldName, label, description, required = false) {
     return {
@@ -161,7 +172,7 @@ function folderSelect(dv, fieldName, label, folderPath, description) {
 
 module.exports = function() {
     return {
-        name, alignment, gender, age, textArea, date,
+        name, alignment, gender, age, text, textArea, date,
         tagSelect, tagMultiSelect, folderSelect
     }
 }

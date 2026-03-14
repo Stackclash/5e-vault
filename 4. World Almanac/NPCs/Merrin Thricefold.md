@@ -4,21 +4,21 @@ statblock: inline
 location: "[[4. World Almanac/Settlements/Bruokdon.md|Bruokdon]]"
 condition: healthy
 images:
-- z_Assets/PlaceholderImage.png
+  - z_Assets/PlaceholderImage.png
 relationships: []
 tags:
-- npc
-aliases: 
-- "Merrin Thricefold"
-pronounced: 
+  - npc
+aliases:
+  - Merrin Thricefold
+pronounced:
 race: "[[5. Mechanics/Races/Aarakocra (DMG).md|Aarakocra (DMG)]]"
-gender: "male"
+gender: male
 age: 62
-alignment: "Chaotic Good"
+alignment: Chaotic Good
 occupation: ""
 groups: []
 religions: []
-personality: 
+personality:
 ideal: Truth must never become rigid. The world needs uncertainty, trickery, and mystery to remain free.
 bond: Devoted to Roark’s father and believes protecting Roark is part of a divine task given to him years ago.
 flaw: His paranoia makes him distrustful of institutions and slow to trust allies.
@@ -26,6 +26,14 @@ goals: Discover why knowledge about Vecna is changing, Protect Roark until the t
 likes: riddles and wordplay, hidden doors, forgotten libraries, clever lies
 dislikes: authoritarian institutions, rigid rules, divination magic used for surveillance
 partyRelationships: {}
+description: |-
+  A thin, sharp-eyed half-elf with prematurely silver hair and deep lines around his eyes from years of sleepless study. His cloak is worn and patched in many places but carefully maintained, suggesting someone who has lived on the road or in hiding for a long time. Ink stains mark his fingertips and the cuffs of his sleeves, and small scraps of parchment poke from nearly every pocket of his cloak.
+
+  Around his neck hangs a simple bronze coin engraved with the laughing mask of Roark’s father — a face split in two: one smiling, one grimacing. Merrin constantly flips the coin across his knuckles when thinking.
+
+  Despite his age, his eyes move quickly, always scanning shelves, shadows, and doorways as if expecting someone to arrive at any moment.
+
+  Several small scars on his hands suggest past encounters with magical traps or wards.
 ---
  
 > [!infobox]

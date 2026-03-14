@@ -11,11 +11,14 @@ try {
     name: "npc-setup",
     fields: [
       fields.name("NPC Name", "Name of NPC"),
+      fields.text("Pronunciation", "pronounced", "Pronunciation of NPC Name")
       fields.age(),
       fields.gender(),
       fields.tagSelect(dataview, "race", "Race", '#race', "Race of NPC"),
       fields.alignment(),
       fields.tagSelect(dataview, "location", "Location", '#location', "Where this NPC is located"),
+      fields.textArea("description", "Description", "Description of NPC"),
+      fields.textArea("history", "History", "History of NPC"),
       fields.textArea("personality", "Personality", "Personality of NPC"),
       fields.textArea("ideal", "Ideal", "Ideal of NPC"),
       fields.textArea("bond", "Bond", "Bond of NPC"),
