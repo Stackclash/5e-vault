@@ -1,15 +1,6 @@
-let currentPage = input.current,
-breadcrumbs = [currentPage]
+const { getLocationBreadcrumbs } = await self.require.import("z_Scripts/Dataview/data/locations.js")
 
-while (currentPage) {
-    if (currentPage.location) {
-        currentPage = dv.page(currentPage.location.path)
-        breadcrumbs.unshift(currentPage)
-    } else {
-        currentPage = false
-    }
-}
+const breadcrumbs = getLocationBreadcrumbs(input.current.file.path)
+const breadcrumbText = breadcrumbs.map(b => `[[${b.path}|${b.name}]]`).join(" > ")
 
-breadcrumbs = breadcrumbs.map(b => `[[${b.file.path}|${b.file.name}]]`).join(' > ')
-
-dv.span(breadcrumbs)
+dv.span(breadcrumbText)
