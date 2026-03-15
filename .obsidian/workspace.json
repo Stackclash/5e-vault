@@ -264,8 +264,7 @@
       "remotely-save:Remotely Save": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "templater-obsidian:Templater": false,
-      "neural-composer:Open Neural Composer": false,
-      "calendarium:Open Calendarium": false
+      "neural-composer:Open Neural Composer": false
     }
   },
   "active": "1c21017c65590805",
