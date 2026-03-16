@@ -6,7 +6,7 @@ template_definitions:
     label: Name
     type: text
 include_secret_value: false
-location_value: 4. World Almanac/Settlements/Village of Barovia.md
+location_value: 4. World Almanac/Settlements/Thornmere.md
 gender_value: Male
 race_value: Human
 ---
