@@ -1,17 +1,23 @@
-let currentPath = input.current.file.path
+const { getLocations } = await self.require.import("z_Scripts/Dataview/data/locations.js")
+const { renderHeader, renderTable } = await self.require.import("z_Scripts/Dataview/render/tables.js")
 
-const pages = dv.pages('#location').where(p => {
-    return p.location && p.location.path ? p.location.path == currentPath : false
-}).sort(p => p.file.name).groupBy(p => {
-    const items = p.file.folder.split('/')
-    return items[items.length - 1]
-})
+const currentPath = input.current.file.path
+const locations = getLocations({ parentPath: currentPath })
 
-if (pages.length > 0) dv.header(2, "Notable Locations")
+if (locations.length === 0) return
 
-for (let group of pages) {
-    dv.header(3, group.key)
-    dv.table(["Name", "Pronounced"],
-        group.rows.map(p => [p.file.link, p.pronounced])
-    )
+renderHeader(dv.container, "Notable Locations", 2)
+
+// Group by the immediate containing folder name
+const groups = {}
+for (const loc of locations) {
+    const parts = loc.folder.split("/")
+    const key = parts[parts.length - 1]
+    if (!groups[key]) groups[key] = []
+    groups[key].push(loc)
+}
+
+for (const [key, locs] of Object.entries(groups)) {
+    renderHeader(dv.container, key, 3)
+    renderTable(dv.container, ["Name", "Pronounced"], locs.map(l => [l.link, l.pronounced]))
 }
