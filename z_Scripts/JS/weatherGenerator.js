@@ -356,7 +356,7 @@ console.log('Base Temp Based on Percent Through Season: ', getTempBaseOnPercentT
 // yearWeather.forEach(weather => {
 //     if (weather.precipitation) totalRainDays++
 // })
-// fs.writeFileSync(path.join(__dirname, 'weather.json'), JSON.stringify(yearWeather, null, 2))
+fs.writeFileSync(path.join(__dirname, 'weather.json'), JSON.stringify(yearWeather, null, 2))
 
 // console.log(`Total Days in Year: ${totalDaysInYear}`)
 // console.log(`Total Rain Days in Year: ${totalRainDays}`)
