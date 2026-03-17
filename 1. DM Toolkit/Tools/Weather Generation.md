@@ -405,11 +405,11 @@ actions:
 >   - `random` — a random number between `0` and `100`, re-rolled each time states are evaluated; use this to split mutually exclusive states (e.g., `random < 70` for light rain vs. `random >= 70` for heavy rain)
 >   - `season` — the current season name (e.g., `"Winter"`)
 >
->   Supported operators: `<` `>` `<=` `>=` `==` `!=`. A condition with no operator (e.g., just `precipitation`) is treated as a boolean check.
+>   Supported operators: ``<`` ``>`` ``<=`` ``>=`` ``==`` ``!=``. A condition with no operator (e.g., just `precipitation`) is treated as a boolean check.
 > - **Rules** — The in-game mechanical effects that apply when this state is active. These are displayed to the DM and can reference the D&D 5e rules (e.g., disadvantage on checks, exhaustion saves).
 ```dataviewjs
 const errorMessages = []
-dv.current().states.forEach((precipitation, i) => {})
+dv.current().states.forEach((states, i) => {})
 if (errorMessages.length > 0) {
   const errorLines = errorMessages.map(line => `> - ${line}`).join('\n')
   dv.paragraph(`> [!fail] Condition Errors\n${errorLines}`)
@@ -422,7 +422,7 @@ dv.table([
   'Conditions',
   'Rules',
   'Delete'
-], dv.current().states.map((climate, i) => {
+], dv.current().states.map((states, i) => {
   return [
     `\`INPUT[text:states[${i}].name]\``,
     `\`INPUT[inlineSelect(defaultValue(general),option(general,General),option(precipitation,Precipitation),option(wind,Wind),option(temperature,Temperature)):states[${i}].category]\``,
