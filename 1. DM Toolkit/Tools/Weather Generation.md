@@ -182,6 +182,11 @@ actions:
 **Use Calendarium:** `INPUT[toggle:useCalendarium]`
 **Daily Temp Flux:** `INPUT[number:tempFlux]`
 
+> [!info]- Global Settings
+> **Use Calendarium** — When enabled, the Months list below is automatically imported from your active world's [Calendarium](https://github.com/javalent/calendarium) plugin calendar. Month names and lengths become read-only here and are kept in sync with the calendar. Disable this if you want to define months manually.
+>
+> **Daily Temp Flux** — The maximum number of degrees (°F) the day's temperature can vary above or below the seasonal baseline. A flux of `10` means the daily high/low can swing up to 10°F in either direction. Increase this for more dramatic day-to-day swings; decrease it for a more stable climate.
+
 # Months
 `BUTTON[add-month]`
 ```meta-bind-button
@@ -201,7 +206,12 @@ actions:
       })
 ```
 > [!info]- Months Configuration
-> This is info
+> Months define the structure of your fantasy calendar year. They are used to calculate season boundaries, day counts, and date arithmetic throughout the weather generator.
+>
+> - **Month** — The display name of the month (e.g., "Winterwane", "Highsun").
+> - **Length** — The number of days in this month. Must be a positive whole number. All months do not need to be the same length.
+>
+> Months are listed in calendar order. The total year length is the sum of all month lengths. If **Use Calendarium** is enabled above, this table is read-only and synced automatically from your Calendarium plugin.
 ```dataviewjs
 const errorMessages = []
 dv.current().months.forEach((month, i) => {
@@ -257,7 +267,13 @@ actions:
       })
 ```
 > [!info]- Seasons Configuration
-> This is info
+> Seasons define the time spans of the year and control how climate modifiers are applied within each period. The weather generator interpolates temperature smoothly between adjacent seasons, so transitions feel gradual rather than sudden.
+>
+> - **Season** — The display name of the season (e.g., "Spring", "Winter").
+> - **Precipitation Modifier** (`precipMod`) — A multiplier applied to each climate's base precipitation probability for this season. `1.0` = no change; `0.2` = only 20% of the usual rain chance. Use lower values for dry seasons (Fall) and higher values for wet seasons (Spring).
+> - **Wind Modifier** (`windMod`) — A multiplier applied to the climate's wind speed range for this season. `1.0` = neutral; `1.3` = 30% stronger winds; `0.8` = calmer winds. Use values above `1.0` for stormy seasons and below `1.0` for calm ones.
+> - **Temperature Modifier** (`tempMod`) — A value from `0.0` to `1.0` indicating where this season's temperature baseline sits within the climate's full temperature range. `0.0` = the climate's coldest possible temperature; `1.0` = the hottest. For example, Summer at `0.75` sits near the warm end; Winter at `0.2` stays close to the cold end.
+> - **Beginning / Ending** — The first and last day of the season in `M-DD` or `MM-DD` format (month number, then day within that month), e.g., `1-36` = month 1, day 36. Season boundaries must collectively cover every day of the year with no gaps.
 ```dataviewjs
 const errorMessages = []
 dv.current().seasons.forEach((season, i) => {})
@@ -322,7 +338,12 @@ actions:
       })
 ```
 > [!info]- Climate Configuration
-> This is info
+> Climates represent geographic biomes or terrain types that determine a location's baseline weather characteristics. Each location in your world uses one of these climates when generating weather.
+>
+> - **Climate** — The display name of this biome (e.g., "Coast", "Desert", "Mountain").
+> - **Precipitation Probability** (`precipProb`) — The base chance of precipitation on any given day, expressed as a decimal from `0` (never rains) to `1` (rains every day). This value is multiplied by the current season's **Precipitation Modifier**, so a coast with `0.7` during a Spring with `precipMod: 0.4` yields an effective daily chance of 28%.
+> - **Wind High / Wind Low** (`windHigh` / `windLow`) — The absolute maximum and minimum wind speeds (mph) for this climate. Each day a random speed is chosen between these bounds, then scaled by the season's **Wind Modifier**. Set both to `0` to disable wind for a climate.
+> - **Temperature High / Temperature Low** (`tempHigh` / `tempLow`) — The absolute upper and lower temperature bounds (°F) across the entire year. The season's **Temperature Modifier** determines where within this range the daily baseline falls. A coast with `tempLow: 50` and `tempHigh: 105` will never go below 50°F or above 105°F in its seasonal baseline.
 ```dataviewjs
 const errorMessages = []
 dv.current().climates.forEach((climate, i) => {})
@@ -372,7 +393,20 @@ actions:
       })
 ```
 > [!info]- State Configuration
-> This is info
+> States are the named weather conditions (e.g., "Heavy Rain", "High Wind") that can be active on any given day. Each state defines the conditions that must all be true for it to apply, and the D&D rules that take effect when it does.
+>
+> - **State** — The display name shown to the DM (e.g., "Light Snow", "Extreme Heat").
+> - **Category** — Groups the state for display purposes. Options: `general`, `precipitation`, `wind`, `temperature`. Only one state per category is shown as the primary result; additional states in the same category are appended.
+> - **Conditions** — A list of boolean expressions that must **all** be true for the state to activate. Supported variables:
+>   - `precipitation` — `true` if today is a precipitation day
+>   - `tempLow` — the day's low temperature (°F)
+>   - `tempHigh` — the day's high temperature (°F)
+>   - `windSpeed` — the day's wind speed (mph)
+>   - `random` — a random number between `0` and `100`, re-rolled each time states are evaluated; use this to split mutually exclusive states (e.g., `random < 70` for light rain vs. `random >= 70` for heavy rain)
+>   - `season` — the current season name (e.g., `"Winter"`)
+>
+>   Supported operators: `<` `>` `<=` `>=` `==` `!=`. A condition with no operator (e.g., just `precipitation`) is treated as a boolean check.
+> - **Rules** — The in-game mechanical effects that apply when this state is active. These are displayed to the DM and can reference the D&D 5e rules (e.g., disadvantage on checks, exhaustion saves).
 ```dataviewjs
 const errorMessages = []
 dv.current().states.forEach((precipitation, i) => {})
