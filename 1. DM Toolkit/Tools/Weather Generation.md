@@ -49,46 +49,46 @@ months:
 climates:
   - name: Coast
     precipProb: 0.7
-    windHigh: 80
-    windLow: 3
-    tempHigh: 105
-    tempLow: 50
+    windHigh: 35
+    windLow: 5
+    tempHigh: 95
+    tempLow: 55
   - name: Desert
-    precipProb: 0.1
-    windHigh: 0
+    precipProb: 0.08
+    windHigh: 25
     windLow: 0
-    tempHigh: 0
-    tempLow: 0
+    tempHigh: 115
+    tempLow: 40
   - name: Forest
-    precipProb: 0
-    windHigh: 0
+    precipProb: 0.55
+    windHigh: 20
     windLow: 0
-    tempHigh: 0
-    tempLow: 0
+    tempHigh: 85
+    tempLow: 30
   - name: Grassland
-    precipProb: 0
-    windHigh: 0
-    windLow: 0
-    tempHigh: 0
-    tempLow: 0
+    precipProb: 0.3
+    windHigh: 30
+    windLow: 5
+    tempHigh: 100
+    tempLow: 25
   - name: Hill
-    precipProb: 0
-    windHigh: 0
-    windLow: 0
-    tempHigh: 0
-    tempLow: 0
+    precipProb: 0.35
+    windHigh: 35
+    windLow: 5
+    tempHigh: 85
+    tempLow: 20
   - name: Mountain
-    precipProb: 0
-    windHigh: 0
-    windLow: 0
-    tempHigh: 0
-    tempLow: 0
+    precipProb: 0.4
+    windHigh: 50
+    windLow: 10
+    tempHigh: 65
+    tempLow: -10
   - name: Open Water
     precipProb: 0.5
-    windHigh: 0
-    windLow: 0
-    tempHigh: 0
-    tempLow: 0
+    windHigh: 40
+    windLow: 10
+    tempHigh: 85
+    tempLow: 45
 states:
   - name: Light Rain
     category: precipitation
@@ -199,7 +199,7 @@ actions:
     code: |-
       app.fileManager.processFrontMatter(app.workspace.getActiveFile(), (fm) => {
         if (!Array.isArray(fm.months)) {
-          fm.months = [{name: '', length}]
+          fm.months = [{name: '', length: 0}]
         } else {
           fm.months = [...fm.months, {name: '', length: 0}]
         }
@@ -388,7 +388,7 @@ actions:
         if (!Array.isArray(fm.states)) {
           fm.states = [{name: '', category: '', conditions: [], rules: []}]
         } else {
-          fm.conditions = [...fm.states, {name: '', category: '',  conditions: [], rules: []}]
+          fm.states = [...fm.states, {name: '', category: '',  conditions: [], rules: []}]
         }
       })
 ```
