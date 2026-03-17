@@ -405,7 +405,7 @@ actions:
 >   - `random` — a random number between `0` and `100`, re-rolled each time states are evaluated; use this to split mutually exclusive states (e.g., `random < 70` for light rain vs. `random >= 70` for heavy rain)
 >   - `season` — the current season name (e.g., `"Winter"`)
 >
->   Supported operators: ``<`` ``>`` ``<=`` ``>=`` ``==`` ``!=``. A condition with no operator (e.g., just `precipitation`) is treated as a boolean check.
+>   Supported operators: `<` `>` `<=` `>=` `\==` `!=`. A condition with no operator (e.g., just `precipitation`) is treated as a boolean check.
 > - **Rules** — The in-game mechanical effects that apply when this state is active. These are displayed to the DM and can reference the D&D 5e rules (e.g., disadvantage on checks, exhaustion saves).
 ```dataviewjs
 const errorMessages = []
