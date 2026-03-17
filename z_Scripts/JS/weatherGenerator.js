@@ -342,7 +342,7 @@ const date = '3-20-213'
 // console.log(`Wind: ${getWind('Coast')}`)
 
 // console.log(getWeatherForDate('Coast', date))
-const yearWeather = getWeatherForYearByClimate('Coast', '213')
+const yearWeather = getWeatherForYearByClimate('Grassland', '213')
 console.log('Final Data: ', JSON.stringify(yearWeather.find(weather => weather.date === date), null, 2))
 console.log('Rain Days in Year: ', getRainDaysInYear('Coast').length)
 console.log('Wind: ', getWind('Coast', date))

@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 useCalendarium: true
-tempFlux: 10
+tempFlux: 15
 seasons:
   - name: Spring
     tempMod: 0.5
@@ -22,7 +22,7 @@ seasons:
     end: 8-25
     precipMod: 0.1
   - name: Winter
-    tempMod: 0.2
+    tempMod: 0.1
     windMod: 1.3
     start: 8-26
     end: 1-35
@@ -52,43 +52,43 @@ climates:
     windHigh: 35
     windLow: 5
     tempHigh: 95
-    tempLow: 55
+    tempLow: 45
   - name: Desert
     precipProb: 0.08
     windHigh: 25
     windLow: 0
     tempHigh: 115
-    tempLow: 40
+    tempLow: 30
   - name: Forest
     precipProb: 0.55
     windHigh: 20
     windLow: 0
     tempHigh: 85
-    tempLow: 30
+    tempLow: 20
   - name: Grassland
     precipProb: 0.3
     windHigh: 30
     windLow: 5
-    tempHigh: 100
-    tempLow: 25
+    tempHigh: 95
+    tempLow: 15
   - name: Hill
     precipProb: 0.35
     windHigh: 35
     windLow: 5
-    tempHigh: 85
-    tempLow: 20
+    tempHigh: 80
+    tempLow: 10
   - name: Mountain
     precipProb: 0.4
     windHigh: 50
     windLow: 10
-    tempHigh: 65
-    tempLow: -10
+    tempHigh: 60
+    tempLow: -15
   - name: Open Water
     precipProb: 0.5
     windHigh: 40
     windLow: 10
-    tempHigh: 85
-    tempLow: 45
+    tempHigh: 80
+    tempLow: 40
 states:
   - name: Light Rain
     category: precipitation
