@@ -5,6 +5,16 @@ const path = require('path')
 const vaultRoot = path.resolve(__dirname, '../../')
 const { tempFlux, seasons, months, climates, states } = matter(fs.readFileSync(path.join(vaultRoot, '1. DM Toolkit/Tools/Weather Generation.md'), 'utf8')).data
 
+// Fraction (0–1) by which the running temperature moves toward the seasonal target each day.
+// A value of 0.3 means each day closes 30% of the gap, producing a multi-day transition
+// across season boundaries rather than an immediate overnight jump.
+const TEMP_CONTINUITY_BLEND_RATE = 0.3
+
+// Minimum and maximum number of consecutive days in a single precipitation weather event.
+// Values of 1–3 mirror common real-world frontal systems and short-duration storm cells.
+const MIN_PRECIP_EVENT_DAYS = 1
+const MAX_PRECIP_EVENT_DAYS = 3
+
 /**
  * Returns the day of the year based on the date
  * @param {string} date - Date in the format 'MM-DD-YYYY'
@@ -140,10 +150,15 @@ const getTempBaseOnPercentThroughSeason = (climate, date) => {
  * Returns the temperature range for the date
  * @param {string} climate - The climate name
  * @param {string} date - Date in the format 'MM-DD-YYYY'
+ * @param {number|null} prevTempMid - The midpoint temperature of the previous day for continuity, or null to use the seasonal base
  * @returns {object} - The temperature range for the date
  */
-const getTempRange = (climate, date) => {
-    const currentTempBase = getTempBaseOnPercentThroughSeason(climate, date)
+const getTempRange = (climate, date, prevTempMid = null) => {
+    const seasonalTempBase = getTempBaseOnPercentThroughSeason(climate, date)
+    // Blend previous day's temperature toward the seasonal target (30% drift per day) for realistic continuity
+    const currentTempBase = prevTempMid !== null
+        ? prevTempMid + (seasonalTempBase - prevTempMid) * TEMP_CONTINUITY_BLEND_RATE
+        : seasonalTempBase
     const randomTempFlux = parseFloat((Math.random() * tempFlux).toFixed(2))
     return { 
         low: (currentTempBase - randomTempFlux).toFixed(1),
@@ -152,7 +167,9 @@ const getTempRange = (climate, date) => {
 }
 
 /**
- * Returns the days that have precipitation for the climate and season
+ * Returns the days that have precipitation for the climate and season.
+ * Rain days are distributed in multi-day weather events (1–3 consecutive days)
+ * for more realistic clustering rather than random isolated days.
  * @param {string} climate - The climate name
  * @param {string} season - The season name
  * @returns {string[]} - An array of precipitation dates for the climate and season
@@ -161,26 +178,45 @@ const getRainDaysInSeason = (climate, season) => {
     const { precipProb } = climates.find(climateData => climateData.name === climate)
     const { precipMod, start, end } = seasons.find(seasonData => seasonData.name === season)
     const seasonDays = getDatesInRange(start, end)
-    const totalRainDaysInSeason = Math.floor(precipProb * seasonDays.length) * precipMod
+    const totalRainDaysInSeason = Math.floor(precipProb * precipMod * seasonDays.length)
     const precipitationDays = new Set()
 
     while (precipitationDays.size < totalRainDaysInSeason) {
-        const randomDay = Math.floor(Math.random() * seasonDays.length)
-        precipitationDays.add(seasonDays[randomDay])
+        const randomStart = Math.floor(Math.random() * seasonDays.length)
+        const eventLength = Math.floor(Math.random() * MAX_PRECIP_EVENT_DAYS) + MIN_PRECIP_EVENT_DAYS
+        for (let i = 0; i < eventLength && precipitationDays.size < totalRainDaysInSeason; i++) {
+            const dayIndex = randomStart + i
+            if (dayIndex >= seasonDays.length) break
+            precipitationDays.add(seasonDays[dayIndex])
+        }
     }
     return Array.from(precipitationDays)
 }
 
-// Not taking into account previous and next seasons
-const getPrecipitation = (climate) => {
+/**
+ * Returns whether it is precipitating for the climate and date, factoring in the season's precipitation modifier
+ * @param {string} climate - The climate name
+ * @param {string} date - Date in the format 'MM-DD-YYYY'
+ * @returns {boolean} - Whether it is precipitating
+ */
+const getPrecipitation = (climate, date) => {
     const { precipProb } = climates.find(climateData => climateData.name === climate)
-    return Math.random() < precipProb ? true : false
+    const { precipMod } = getSeason(date)
+    return Math.random() < precipProb * precipMod
 }
 
-// Not taking into account seasons
-const getWind = (climate) => {
+/**
+ * Returns the wind speed for the climate and date, factoring in the season's wind modifier
+ * @param {string} climate - The climate name
+ * @param {string} date - Date in the format 'MM-DD-YYYY'
+ * @returns {string} - The wind speed in mph
+ */
+const getWind = (climate, date) => {
     const { windLow, windHigh } = climates.find(climateData => climateData.name === climate)
-    return (Math.random() * (windHigh - windLow) + windLow).toFixed(0)
+    const { windMod } = getSeason(date)
+    const adjustedLow = windLow * windMod
+    const adjustedHigh = windHigh * windMod
+    return (Math.random() * (adjustedHigh - adjustedLow) + adjustedLow).toFixed(0)
 }
 
 /**
@@ -200,12 +236,13 @@ const getRainDaysInYear = (climate) => {
  * Returns the weather for the climate and date
  * @param {string} climate - The climate name
  * @param {string} date - Date in the format 'MM-DD-YYYY'
+ * @param {number|null} prevTempMid - The midpoint temperature of the previous day for continuity, or null to use the seasonal base
  * @returns {object} - The weather for the date
  */
-const getWeatherForDate = (climate, date) => {
-    const tempRange = getTempRange(climate, date)
+const getWeatherForDate = (climate, date, prevTempMid = null) => {
+    const tempRange = getTempRange(climate, date, prevTempMid)
     const precipitation = getPrecipitation(climate, date)
-    const wind = getWind(climate)
+    const wind = getWind(climate, date)
     const season = getSeason(date).name
     return {
         date,
@@ -225,11 +262,13 @@ const getWeatherForDate = (climate, date) => {
 const getWeatherForYearByClimate = (climate, year) => {
     const dateRange = getDatesInRange(`1-1-${year}`, `${months.length}-${months[months.length - 1].length}-${year}`)
     const rainDays = getRainDaysInYear(climate)
+    let prevTempMid = null
     return dateRange.map(date => {
-        const {precipitation, ...weather} = getWeatherForDate(climate, date)
+        const {precipitation, ...weather} = getWeatherForDate(climate, date, prevTempMid)
         const monthDay = date.split('-').slice(0, 2).join('-')
-        rainDays.includes(monthDay) ? weather.precipitation = true : weather.precipitation = false
+        weather.precipitation = rainDays.includes(monthDay)
         weather.states = getStates(weather)
+        prevTempMid = (parseFloat(weather.tempRange.low) + parseFloat(weather.tempRange.high)) / 2
         return weather
     })
 }
@@ -308,7 +347,7 @@ console.log('Seasons: ', seasons)
 console.log('Climates: ', climates)
 console.log('Final Data: ', yearWeather.find(weather => weather.date === date))
 console.log('Rain Days in Year: ', getRainDaysInYear('Coast').length)
-console.log('Wind: ', getWind('Coast'))
+console.log('Wind: ', getWind('Coast', date))
 console.log('Season: ', getSeason(date).name)
 console.log('Get Percent Through Season: ', getPercentThroughSeason(date))
 console.log('Base Temp: ', getTempBaseTemp('Coast', getSeason(date).name))
