@@ -1,11 +1,11 @@
 ---
 obsidianUIMode: preview
-useCalendarium: false
+useCalendarium: true
 tempFlux: 10
 seasons:
   - name: Spring
     tempMod: 0.5
-    windMod: 1.0
+    windMod: 1
     start: 1-36
     end: 4-5
     precipMod: 0.4

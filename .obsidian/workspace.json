@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mechanics/Tables/Academy Type (TCE).md",
+                "file": "1. DM Toolkit/Tools/Weather Generation.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Academy Type (TCE)"
+              "title": "Weather Generation"
             }
           }
         ],
@@ -342,8 +342,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "830f75e4aa18d718",
+  "active": "67f6784223e33a15",
   "lastOpenFiles": [
+    "5. Mechanics/Tables/Academy Type (TCE).md",
     "Random Content/Generators/forest-scene-generator.md",
     "Random Content/Generators/npc-backstory-generator.md",
     "Random Content/Indexes/story-elements.md",
@@ -379,7 +380,6 @@
     "4. World Almanac/NPCs/Professor Alindra Quicksilver.md",
     "4. World Almanac/NPCs/Magister Kaelor Stormbrand.md",
     "4. World Almanac/NPCs/Archmortician Valeris Thorne.md",
-    "4. World Almanac/NPCs/Mistress Lyssandra Veil.md",
     "5. Mechanics/Bestiary/Plant/img/shambling-mound-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/phase-spider-2.webp",
     "5. Mechanics/Bestiary/Monstrosity/img/bulette-2.webp",
