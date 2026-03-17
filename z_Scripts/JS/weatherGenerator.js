@@ -343,9 +343,7 @@ const date = '3-20-213'
 
 // console.log(getWeatherForDate('Coast', date))
 const yearWeather = getWeatherForYearByClimate('Coast', '213')
-console.log('Seasons: ', seasons)
-console.log('Climates: ', climates)
-console.log('Final Data: ', yearWeather.find(weather => weather.date === date))
+console.log('Final Data: ', JSON.stringify(yearWeather.find(weather => weather.date === date), null, 2))
 console.log('Rain Days in Year: ', getRainDaysInYear('Coast').length)
 console.log('Wind: ', getWind('Coast', date))
 console.log('Season: ', getSeason(date).name)
