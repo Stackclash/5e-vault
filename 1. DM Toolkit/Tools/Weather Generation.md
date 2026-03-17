@@ -5,21 +5,25 @@ tempFlux: 10
 seasons:
   - name: Spring
     tempMod: 0.5
+    windMod: 1.0
     start: 1-36
     end: 4-5
     precipMod: 0.4
   - name: Summer
     tempMod: 0.75
+    windMod: 0.8
     start: 4-6
     end: 6-15
     precipMod: 0.2
   - name: Fall
     tempMod: 0.3
+    windMod: 1.1
     start: 6-16
     end: 8-25
     precipMod: 0.1
   - name: Winter
     tempMod: 0.2
+    windMod: 1.3
     start: 8-26
     end: 1-35
     precipMod: 0.3
@@ -91,6 +95,7 @@ states:
     conditions:
       - precipitation
       - random < 70
+      - tempLow >= 32
     rules:
       - Disadvantage on ability checks to climb or scale objects and ability checks to maintain balance or keep one’s footing.
   - name: Heavy Rain
@@ -98,6 +103,7 @@ states:
     conditions:
       - precipitation
       - random >= 70
+      - tempLow >= 32
     rules:
       - Disadvantage on ability checks to climb or scale objects and ability checks to maintain balance or keep one’s footing.
       - The area becomes lightly obscured.
@@ -110,6 +116,7 @@ states:
     conditions:
       - precipitation
       - 32 > tempLow
+      - random < 60
     rules:
       - The area becomes lightly obscured.
       - Advantage on Wisdom (Survival) checks to track creatures.
@@ -118,6 +125,7 @@ states:
     conditions:
       - precipitation
       - 32 > tempLow
+      - random >= 60
     rules:
       - The area becomes lightly obscured.
       - Advantage on Wisdom (Survival) checks to track creatures.
