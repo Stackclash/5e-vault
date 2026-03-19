@@ -76,7 +76,7 @@ export function calculateItemPrice(item, pricing) {
     const rarity = item.rarity ?? 'none'
 
     // Non-magic items (rarity: none) use their hard-coded cost field
-    if (rarity === 'none') {
+    if (!rarity || rarity === 'none') {
         return item.cost ?? 0
     }
 
