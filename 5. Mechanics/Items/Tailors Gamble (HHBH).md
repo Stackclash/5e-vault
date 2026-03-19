@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -49,7 +52,3 @@ As part of preparing this herb, you must soak an article of clothing, a creature
 ^tailors-gamble-colour-table
 
 *Source: Hamund's Herbalism Handbook p. 34*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

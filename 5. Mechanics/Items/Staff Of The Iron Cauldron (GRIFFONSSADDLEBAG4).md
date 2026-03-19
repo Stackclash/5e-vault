@@ -35,6 +35,9 @@ item_recharge: none
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This iron staff has a thorny cauldron mounted at its head, which belches a noxious fume from its mouth. Grass and similarly Tiny mundane plants wither when its twisted end is planted on them. This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it, and it is always under the effects of the [[/5. Mechanics/Spells/Shillelagh.md\|shillelagh]] spell.
 
@@ -43,7 +46,3 @@ The staff has 10 charges. While holding it, you can use an action to expend 1 or
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dusk. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff explodes into smoke and all plant life within 500 feet flourishes.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -17,11 +17,10 @@ item_recharge: none
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 1-foot square rag is capable of filtering even the worst diseases and poisons from whatever passes through it. Any liquid that passes through it is purified of any diseases or poisons that may be in it.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 58*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

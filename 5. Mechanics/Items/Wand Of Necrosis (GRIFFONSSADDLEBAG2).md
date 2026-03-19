@@ -28,6 +28,9 @@ item_recharge: dawn
 *Wand, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wand-of-Necrosis.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gnarled, wooden branch has grown over one of the severed fingers of a powerful lich, creating a gruesome and deadly wand. The wand has 7 charges. If the wand has at least 1 charge remaining, you have resistance to necrotic damage while you hold it.
 
@@ -36,7 +39,3 @@ While holding this wand, you can use an action to expend 1 or more of its charge
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand explodes, destroying the wand in a flash of green light that duplicates the effect of the [[/5. Mechanics/Spells/Finger Of Death.md\|finger of death]] spell, targeting only you. If you become a [[/5. Mechanics/Bestiary/Undead/Zombie.md\|zombie]] as a result of this effect, you are under the command of the nearest [[/5. Mechanics/Bestiary/Undead/Lich.md\|MM]] within 100 miles of you, if any.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 182*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Heartless-Cage-Pendant.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This metal ribcage pendant has 12 pairs of ribs that contain a single, roughly hewn ruby that rattles around inside. The pendant has `dice:1d4+8|noform|noparens|avg` (`1d4 + 8`) charges when found. When a charge is expended, a pair of the pendant's ribs magically rust.
 
@@ -32,7 +35,3 @@ A [[/5. Mechanics/Bestiary/Undead/Skeleton.md\|skeleton]] disappears when it dro
 Once the ribcage shatters and the ruby summons the [[/5. Mechanics/Bestiary/Undead/Skeleton.md\|skeletons]], the pendant and gemstone crumble into ashes and are destroyed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 100*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

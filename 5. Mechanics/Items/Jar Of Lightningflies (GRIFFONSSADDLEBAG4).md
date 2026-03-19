@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Jar-of-Lightningflies.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This blue glass jar was made with sand that was struck by lightning, fusing it into a glass that was then remolded into the vessel. When found, there are `dice:2d4|noform|noparens|avg` (`2d4`) miniscule, fluttering sparks inside the jar, called lightningflies. While at least 1 lightningfly is within the jar, it sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
@@ -25,7 +28,3 @@ You can use an action to unstopper the jar and allow any number of lightningflie
 The jar ceases to be magical while there aren't any lightningflies in it. However, if the jar is struck by naturally occurring lightning, there is a 10 percent chance that another `dice:2d4|noform|noparens|avg` (`2d4`) lightningflies reappear inside it, making it magical once more.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Radiant-Quiver.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A radiant quiver produces special ammunition for your ranged weapon attacks. The ammunition is made of pure light, and appears in your hand when you reach into it without picking a different piece of ammunition. If the quiver is kept in direct sunlight for at least 1 hour, it magically produces up to 20 pieces of the special ammunition at the end of the hour.
 
@@ -32,7 +35,3 @@ Once fired, the ammunition sheds bright light in a 10-foot radius and dim light 
 While holding the quiver, you can use an action to point it at a target and speak its command word. When you do, it releases all the remaining special ammunition in a single blast, expending them. The blast creates a line of light that is 5 feet wide, and each creature 30ft line must make a DC 13 Constitution saving throw. The length of the line and the DC for the saving throw are based on the quiver's rarity. On a failed save, a creature takes radiant damage equal to the ammunition's bonus damage for each of the remaining pieces left in the quiver, which is doubled if the creature is a fiend or undead, up to a maximum of 50 radiant damage. On a successful save, a creature takes half as much radiant damage. If the quiver is a very rare version, a creature that fails the saving throw is also considered to be in sunlight until the end of your next turn. Once this property of the quiver has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

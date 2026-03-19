@@ -22,6 +22,9 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement by a creature missing an eye)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Game-Changers-Eye.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This rubbery prosthetic eye has a dark polyhedral die at its center, as if it were a pupil. When found, the die has 20 sides. The following properties of the eye can be used even if you aren't attuned to it:
 
@@ -52,7 +55,3 @@ The eye releases a burst of chaotic magic each time you use it to reroll a `dice
 ^effect
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

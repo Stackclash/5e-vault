@@ -28,13 +28,12 @@ item_recharge: none
 
 - **Armor Class**: 11 + Dex modifier
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark leather armor releases thin wisps of fog from its seams. While wearing this armor, you can use an action to cast the [[/5. Mechanics/Spells/Fog Cloud.md\|fog cloud]] spell (2nd-level version) from it. Once this property of the armor has been used, it can't be used again until the next dawn.
 
 In addition, fog doesn't obscure your vision, and while you're in opaque fog, you can use your movement to teleport to an unoccupied space that you can see in the fog. Doing so costs an amount of movement equal to the distance you teleport.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 123*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

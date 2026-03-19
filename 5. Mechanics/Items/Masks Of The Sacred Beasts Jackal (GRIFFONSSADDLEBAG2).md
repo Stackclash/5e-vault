@@ -20,6 +20,9 @@ item_recharge: short-rest
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Masks-of-the-Sacred-Beasts.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These dark ceramic and gold masks are fashioned after animals that are sacred in certain cultures. Each mask's appearance and properties are based on the sacred beast it represents. While attuned to a mask, you can end your attunement to it and attune to a different one over the course of 1 minute, instead of over the course of one or more short rests.
 
@@ -32,7 +35,3 @@ A humanoid killed by this necrotic damage rises at the start of your next turn a
 The [[/5. Mechanics/Bestiary/Undead/Mummy.md\|mummy]] remains until you dismiss it as a bonus action, until it's reduced to 0 hit points, or until you are no longer attuned to any mask of the sacred beast, causing it to turn to dust. You can only create and control one mummy at a time in this way
 
 *Source: The Griffon's Saddlebag, Book 2 p. 120*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

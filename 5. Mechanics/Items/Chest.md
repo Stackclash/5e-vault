@@ -24,11 +24,10 @@ item_recharge: none
 
 - **Cost**: 5 gp
 - **Weight**: 25.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A chest holds 12 cubic feet or 300 pounds of gear.
 
 *Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

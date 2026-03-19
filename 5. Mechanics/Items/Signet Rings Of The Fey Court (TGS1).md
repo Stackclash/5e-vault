@@ -28,6 +28,9 @@ item_recharge: long-rest
 *Ring, major, very rare (requires attunement by an elf, half-elf, or other fey creature)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Signet-Rings-of-the-Fey-Court.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of wooden rings once belonged to a powerful fey creature who ruled over a domain on their native plane of existence. You must be wearing all four rings in order to attune to and use their magic. While wearing the rings, you know the [[/5. Mechanics/Spells/Druidcraft.md\|druidcraft]] cantrip. In addition, you gain the elf's Trance racial trait if you don't already have it.
 
@@ -42,7 +45,3 @@ Alternatively, you can expend any 2 charges from the rings as a reaction when yo
 Once a ring has no remaining charges, the small landscape adorning the top of it withers until it regains its charges.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 116*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

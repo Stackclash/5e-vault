@@ -35,6 +35,9 @@ item_recharge: long-rest
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. This weapon can be attuned to by two friendly creatures together over the course of a long rest. If the weapon is attuned to by two creatures in this way, the weapon's attack and damage bonus becomes +2 instead.
 
@@ -47,7 +50,3 @@ Each scimitar also has its own elemental effect—either fire or cold—that inf
 Each attuned creature can cast the [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] spell once at 4th level without expending a spell slot. You do not need material or somatic components when casting it in this way. Once you cast this spell, you cannot cast it again until the following dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 85*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

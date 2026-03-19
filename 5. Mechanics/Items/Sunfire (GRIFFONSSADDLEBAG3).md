@@ -37,6 +37,9 @@ item_recharge: none
 - **Range**: 100/400
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gilded device has an orb at its base with a pair of sunburst pendants. Each pendant is affixed to either side of the orb, which generates a carefully managed and concentrated source of magical sunlight within the orb. From there, the sunlight is channeled through a prismatic barrel into a narrow beam using a series of crystal lenses.
 
@@ -47,7 +50,3 @@ The weapon has the light property, and it has a normal range of 100 feet and a l
 If you're not attuned to the weapon and roll a 1 on the attack roll using the weapon, one of the attached sunburst pendants crumbles to dust and is destroyed. For each missing pendant, the weapon's radiant damage is reduced by one damage die. You can use an action to replace a pendant with a new one, which must be worth at least 100 gp.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

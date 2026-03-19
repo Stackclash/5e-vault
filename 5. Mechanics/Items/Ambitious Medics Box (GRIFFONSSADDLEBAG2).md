@@ -22,6 +22,9 @@ item_recharge: dawn
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Ambitous-Medics-Box_All.webp#right)  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden box has two halves which are magically locked by ornamental clasps that can only be opened during certain times of the day. The box is 1 foot wide, 2 feet long, and weighs 3 pounds. You can open and use the box as normal, as described below, even if you aren't attuned to it.
 
@@ -32,7 +35,3 @@ The right side is locked by a metal clasp decorated with a moon smoking a pipe. 
 While attuned to the box, you are proficient in the [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]] skill and can open either side of the box at any time. If you're already proficient in the [[/5. Mechanics/Rules/Skills.md#Medicine\|Medicine]] skill, your proficiency bonus is doubled for any ability check you make that uses that skill.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 33*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

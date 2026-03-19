@@ -19,11 +19,10 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Bug-Smashers.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This grotesque pair of gloves are made using the barbed exoskeleton and harvested remains of a giant centipede. When you roll a 20 on an unarmed attack roll using these knuckles, the target takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) poison damage and must succeed on a DC 13 Constitution saving throw or be [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the start of your next turn. Unarmed attacks with these gloves deal either bludgeoning or piercing damage (your choice).
 
 *Source: The Griffon's Saddlebag, Book 1 p. 40*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

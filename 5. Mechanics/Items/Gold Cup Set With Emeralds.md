@@ -22,9 +22,9 @@ item_recharge: none
 *Treasure (art object)*  
 
 - **Cost**: 7,500 gp
-
-*Source: Dungeon Master's Guide p. 135*
-
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})
 ```
+
+
+*Source: Dungeon Master's Guide p. 135*

@@ -19,6 +19,9 @@ item_recharge: long-rest
 *Wondrous item, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Edible-Book-of-Recipes.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tome of cooking recipes is enchanted to turn sheets of fine paper into delectable meals. You can write a simple recipe on 1 of the book's pages over the course of 1 minute. As you do, the paper becomes aromatic, smelling like the cuisine you're writing. You can eat the sheet of paper as an action and find that it has the taste, texture, and smell of the food described on its page. The sheet of paper takes the place of a meal.
 
@@ -31,7 +34,3 @@ The book can hold up to 50 pages. A book found as treasure usually has `dice:3d1
 When all the pages are removed from the book or you attempt to rebind it early, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the tome bursts into flame and leaves the air in a 60-foot radius smelling like wine and fine cooking. The smell remains for 30 days. After 1 minute, the book's tattered remains transform into a bountiful meal, conjuring a [[/5. Mechanics/Spells/Heroes Feast.md\|heroes' feast]] as if cast by the spell. The book is then destroyed. On any roll other than a 1, the book can be rebound using fine paper costing no less than 5 gp per page.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 58*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

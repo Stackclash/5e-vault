@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Periapt-of-Reflection.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This perfectly reflective charm magically helps you meditate and focus your mind. While wearing the necklace, you can use your reaction to reroll any Intelligence, Wisdom, or Charisma saving throw that you fail. You must use the new result.
 
@@ -31,7 +34,3 @@ This curse is only revealed and extended to you when you roll a 1 on a saving th
 While you're cursed, your reflection in any mirrored surface within 10 feet of you turns into an ugly, horrifying visage of your deepest insecurities. In addition, when you fail an Intelligence, Wisdom, or Charisma saving throw (including the roll that reveals this curse), you take `dice:1d8|noform|noparens|avg` (`1d8`) psychic damage.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 95*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -19,6 +19,9 @@ item_recharge: none
 # Ioun Stone, Absorption
 *Wondrous item, major, very rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An *Ioun stone* is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun stone* exist, each type a distinct combination of shape and color.
 
@@ -31,7 +34,3 @@ While this pale lavender ellipsoid orbits your head, you can use your reaction t
 Once the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.
 
 *Source: Dungeon Master's Guide p. 176. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -31,11 +31,10 @@ item_recharge: none
 - **Damage**: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This whip-like chain flail's head is a sonorous bell from the Temple of Twin Fates, a holy site known for its grim foretellings. This weapon has the reach property and deals an extra `dice:1d4|noform|noparens|avg` (`1d4`) thunder damage to any target it hits. When it hits a target, the bell releases a deep sound that's audible out to 100 feet.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 98*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

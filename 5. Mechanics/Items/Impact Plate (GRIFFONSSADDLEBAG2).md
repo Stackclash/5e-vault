@@ -32,11 +32,10 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This resilient plate mail was made by dwarves but magically resizes to fit the wearer's stature. While wearing it, you have resistance to bludgeoning damage, and you don't take any falling damage when you fall no farther than 100 feet.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 108*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

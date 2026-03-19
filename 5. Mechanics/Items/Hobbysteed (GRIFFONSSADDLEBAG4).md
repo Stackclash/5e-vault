@@ -19,6 +19,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hobbysteed.webp#right)  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -26,7 +29,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Hobbysteed Rare (GRIFFONSSADDLEBAG4).md\|Hobbysteed (Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

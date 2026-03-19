@@ -34,6 +34,9 @@ item_recharge: none
 - **Range**: 40/80
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wicked dagger can absorb the shadows cast by your enemies. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -48,7 +51,3 @@ You can only have 1 shadow absorbed in this way at a time. Once you steal a crea
 You have vulnerability to radiant damage while you're attuned to this weapon.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 112*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

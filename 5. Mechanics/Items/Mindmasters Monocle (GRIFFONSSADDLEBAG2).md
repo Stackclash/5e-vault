@@ -22,6 +22,9 @@ item_recharge: dawn
 *Wondrous item, major, very rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Mindmasters-Monocle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ancient golden monocle's lens is a roughly hewn ruby. While you wear this monocle, it magically floats in front of your eye, instead of resting on your face, and you can see clearly through its ruby lens. While peering through the lens, you always know if a creature you can see is concentrating on a spell. You perceive a concentrating creature's head as being shrouded in an indigo mist.
 
@@ -36,7 +39,3 @@ While wearing the monocle, you can use an action to expend some of its charges t
 While wearing the monocle, you can use a bonus action to expend 3 of its charges to attempt to break a creature's concentration on a spell. The target must be within 60 feet of you, and you must be able to see it. When you do, make an Intelligence check contested by the target's spellcasting ability check. If you win the contest, the target's concentration on the spell ends.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 123*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

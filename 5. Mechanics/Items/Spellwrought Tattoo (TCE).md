@@ -20,6 +20,9 @@ item_recharge: none
 # Spellwrought Tattoo
 *Wondrous item (tattoo)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -31,7 +34,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Spellwrought Tattoo 5th Level (TCE).md\|Spellwrought Tattoo (5th Level)]]
 
 *Source: Tasha's Cauldron of Everything p. 135*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,6 +20,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/book-of-vile-darkness.webp#right]]  
 
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The contents of this foul manuscript of ineffable wickedness are the meat and drink of those in evil's thrall. No mortal was meant to know the secrets it contains, knowledge so horrid that to even glimpse the scrawled pages invites madness.
 
@@ -75,7 +78,3 @@ A creature attuned to the book for one hundred years can unearth a phrase hidden
 If all evil in the multiverse is wiped out, the book turns to dust and is forever destroyed.
 
 *Source: Dungeon Master's Guide p. 222*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

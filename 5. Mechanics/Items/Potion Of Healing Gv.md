@@ -20,6 +20,9 @@ item_recharge: none
 # Potion of Healing (*)
 *Potion*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 > [!note]
 > * This item group has the same name and source as the item [[/5. Mechanics/Items/Potion Of Healing.md\|potion of healing]].
@@ -32,7 +35,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Potion Of Supreme Healing.md\|Potion of Supreme Healing]]
 
 *Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -21,6 +21,9 @@ item_recharge: none
 *Wand, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this wand, you may spend an action to shoot a magical ray of energy at a target creature within 60 feet of you. The type of ray depends on the type of gazer eye stalk that the wand was crafted from. Consult the list below to find out what your wand does.
 
@@ -32,7 +35,3 @@ While holding this wand, you may spend an action to shoot a magical ray of energ
 Once this item has been used once, it crumbles into dust and is destroyed.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 62*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

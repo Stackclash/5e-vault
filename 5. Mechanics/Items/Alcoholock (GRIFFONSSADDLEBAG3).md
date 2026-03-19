@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Alcoholock.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This lock looks like a small metal tankard, using its handle as the shackle. While it has a keyhole, it doesn't open with a key and can't be picked using [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]]. Instead, the lock only opens when at least 1 ounce of a particular kind of alcohol is poured into the keyhole.
 
@@ -27,7 +30,3 @@ You can bind an alcoholock to an alcohol by submerging it in the drink for 1 hou
 The poured drink needn't match the exact age, ingredients, or maker of the bound one. For example, if the lock is bound to mead, any mead of the same or similar flavor that's poured into the lock will open it. If the bound drink is a mixture of two or more ingredients, a close approximation of the mixture will open the lock (at the GM's discretion).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

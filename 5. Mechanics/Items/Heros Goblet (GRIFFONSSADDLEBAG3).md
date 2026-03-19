@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Heros-Goblet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Whenever common wine is drunk from this gilded goblet, it tastes as if it were fine wine instead. While holding the goblet, you can use an action to speak its command word. The goblet then fills with a magical wine; drinking the full goblet of wine, using another action, grants you the following benefits for 1 hour:
 
@@ -29,7 +32,3 @@ Whenever common wine is drunk from this gilded goblet, it tastes as if it were f
 This property of the goblet can't be used again until the next dawn, at which point any of its remaining wine becomes nonmagical.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

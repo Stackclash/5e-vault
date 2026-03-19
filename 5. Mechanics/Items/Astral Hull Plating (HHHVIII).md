@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 > [!note]
 > This item is also available as a Astral Hull Plating.
@@ -28,7 +31,3 @@ A ship that has been appropriately outfitted by this plating gains a +1 bonus to
 For a ship to be considered appropriately outfitted, two scales are required for every 10 feet of ship length: one on each side.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 82*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

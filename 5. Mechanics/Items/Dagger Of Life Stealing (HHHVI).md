@@ -31,11 +31,10 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 5 necrotic damage if it isn't a construct or an undead. You also gain 5 temporary hit points.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 123*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

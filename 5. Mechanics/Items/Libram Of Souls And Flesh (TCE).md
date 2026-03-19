@@ -25,6 +25,9 @@ item_recharge: dawn
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 With covers made of skin and fittings of bone, this tome is cold to the touch, and it whispers faintly. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [[/5. Mechanics/Spells/Animate Dead.md\|animate dead]], [[/5. Mechanics/Spells/Circle Of Death.md\|circle of death]], [[/5. Mechanics/Spells/False Life.md\|false life]], [[/5. Mechanics/Spells/Finger Of Death.md\|finger of death]], [[/5. Mechanics/Spells/Speak With Dead.md\|speak with dead]], [[/5. Mechanics/Spells/Summon Undead (TCE).md\|summon undead]], and [[/5. Mechanics/Spells/Vampiric Touch.md\|vampiric touch]]. It functions as a spellbook for you.
 
@@ -36,7 +39,3 @@ The book has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) ex
 - As an action, you can expend 1 charge to take on a semblance of undeath for 10 minutes. For the duration, you take on a deathly appearance, and undead creatures are indifferent to you, unless you have damaged them. You also appear undead to all outward inspection and to spells used to determine the target's status. The effect ends if you deal damage or force a creature to make a saving throw.  
 
 *Source: Tasha's Cauldron of Everything p. 129*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

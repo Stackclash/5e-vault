@@ -19,6 +19,9 @@ item_recharge: none
 # Ioun Stone, Reserve
 *Wondrous item, major, rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An *Ioun stone* is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun stone* exist, each type a distinct combination of shape and color.
 
@@ -33,7 +36,3 @@ Any creature can cast a spell of 1st through 3rd level into the stone by touchin
 While this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space.
 
 *Source: Dungeon Master's Guide p. 176. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ An extremely hardy shrub covered in tiny, blue, hair-like leaves. Each of these 
 As part of using this herb, you must rub it on your exposed skin while preparing it. For the next 4 hours, your skin turns a pale blue and becomes icy to the touch. This has no impact on your actual body temperature.
 
 *Source: Hamund's Herbalism Handbook p. 9*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -19,11 +19,10 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Ear-Cuff-of-the-Climber.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass ear cuff hangs off the side of your ear and dangles several polished spheres of jet from fine chains. While wearing the cuff, whenever you make an ability check to climb, you can treat a `dice:d20|noform|noparens|avg` (`d20`) roll of 7 or lower as an 8.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 76*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

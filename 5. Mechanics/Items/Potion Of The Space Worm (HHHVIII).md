@@ -21,6 +21,9 @@ item_recharge: none
 *Potion, very rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you temporarily gain an other-dimensional awareness of reality, as if the secrets of the universe have been laid bare before you. For the next hour, you have the following benefits:
 
@@ -33,7 +36,3 @@ When you drink this potion, you temporarily gain an other-dimensional awareness 
 This potion has a chunky consistency and is pitch black. It has a lingering flavor of spice that is vaguely reminiscent of cinnamon.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 94*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

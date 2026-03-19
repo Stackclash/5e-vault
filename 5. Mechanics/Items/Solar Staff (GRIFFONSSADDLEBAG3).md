@@ -40,6 +40,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff ends in an open semi-circle at its head. While holding it, you can use a bonus action to cause a floating orb of pure radiance to spring into existence at the center of the half-circle, or to make the orb disappear. The orb sheds bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight.
 
@@ -58,7 +61,3 @@ While holding the staff, you can use an action to expend 1 of its charges to cau
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge from the staff, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff glows brilliant white before it turns to dust and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

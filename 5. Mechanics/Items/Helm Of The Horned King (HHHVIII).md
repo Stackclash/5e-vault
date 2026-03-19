@@ -18,6 +18,9 @@ item_recharge: long-rest
 *Wondrous item, artifact (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The Helm of the Horned King is an item often seen in the deranged paintings made by demonic cultists. Formed from the head of the Horned King, [[/4. World Almanac/NPCs/Baphomet (MPMM).md\|Baphomet]], this helm is said to be worn during the end of all things; an apocalyptic badge of office awarded to the being who will unite the disparate factions of the Abyss, defeat the armies of the Nine Hells, and tear down the heavens themselves to allow chaos to reign.
 
@@ -70,7 +73,3 @@ When you become attuned to the helm, you become cursed. Whenever you finish a lo
 This helm can only be destroyed if the creature wearing and attuned to it is killed by the weapon The [[/5. Mechanics/Items/Butcher (HHHVIII).md\|Butcher]]. At this point, the helm will crumble to dust and become useless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 102*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -35,6 +35,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This greenish blade was forged under the command of a powerful aboleth as a reward for one of its strongest mortal thralls. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
@@ -43,7 +46,3 @@ While attuned to this sword, your Intelligence score is 19. It has no effect on 
 In addition, when you roll a 20 on an attack roll made with this sword, the target must succeed on a DC 17 Intelligence saving throw or be [[/5. Mechanics/Rules/Conditions.md#Stunned\|stunned]] until the start of your next turn, as it's bombarded by a deluge of unintelligible images and thoughts from a realm beyond comprehension.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

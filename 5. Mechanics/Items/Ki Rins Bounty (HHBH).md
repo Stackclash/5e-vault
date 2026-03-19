@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 500 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -38,7 +41,3 @@ For 4 hours after using this herb, anytime a dice would be rolled to restore hit
 
 
 *Source: Hamund's Herbalism Handbook p. 21*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

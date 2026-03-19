@@ -23,6 +23,9 @@ item_recharge: none
 *Ring, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Starmetal-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This roughly crafted metal ring seems to have an otherworldly pull on other metallic items.
 
@@ -31,7 +34,3 @@ While wearing the ring, you can spend 1 hour holding onto an object weighing no 
 While the bound item is within 40 feet from you and unobstructed, you can use a bonus action on your turn to magically pull it up to 20 feet toward you. The returning item bounces harmlessly against creatures and objects as it passes by.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 125*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

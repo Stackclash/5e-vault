@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bag-of-Magic-Blocks.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leather bag is filled with magic wooden blocks, which are painted with vibrant colors. There are six types of blocks that can be found in the bag. The GM decides the number of each type of block in the bag or determines it randomly. When found, the bag has `dice:2d6+10|noform|noparens|avg` (`2d6 + 10`) blocks inside it.
 
@@ -43,7 +46,3 @@ A block remains animated or transformed in this way for up to 4 hours, at which 
 If a block is left outside the bag and more than 100 feet away from it for 24 hours, it permanently loses its magic and becomes a normal wooden block.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

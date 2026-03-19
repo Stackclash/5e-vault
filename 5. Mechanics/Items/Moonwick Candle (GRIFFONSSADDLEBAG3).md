@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Moonwick-Candle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This candle is made from a gritty wax that, when burnt, creates a cool blue flame. Its hollow silver base is shaped in a crescent with star-shaped holes punched in its sides. While the candle burns, the holes in its base softly glow, and small twinkles of starlight burst from the flickering flame.
 
@@ -27,7 +30,3 @@ The candle's magic is activated when the candle is lit, which requires an action
 After burning for 1 hour, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle's total burn time.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

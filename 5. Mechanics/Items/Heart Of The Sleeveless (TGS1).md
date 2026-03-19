@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Heart-of-the-Sleeveless.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This vest is made from a luxurious, silky material that seems to always make the wearer appear more fit. The clothing gently hugs the wearer, redistributing weight and muscle to flatter and accentuate their physique. It seems to deflate sadly once taken off.
 
@@ -41,7 +44,3 @@ While worn, the fabric's color changes with the wearer's mood or flash of emotio
 ^heart-of-the-sleeveless-colors
 
 *Source: The Griffon's Saddlebag, Book 1 p. 76*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

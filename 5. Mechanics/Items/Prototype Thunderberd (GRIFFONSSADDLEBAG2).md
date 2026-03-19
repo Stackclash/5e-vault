@@ -32,6 +32,9 @@ item_recharge: dawn
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This halberd is a long-lost prototype from a nowdissolved military research facility. Electricity magically courses through the weapon along specially channeled grooves in its hollow haft. When you hit with an attack using this halberd, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) lightning damage.
 
@@ -40,7 +43,3 @@ This halberd has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 +
 If you expend the halberd's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the weapon becomes overcharged and splinters into an explosion of shrapnel, destroying the halberd. Each creature within 10 feet of the weapon must make a DC 15 Dexterity saving throw. On a failed save, a creature takes `dice:10d6|noform|noparens|avg` (`10d6`) piercing damage, or half as much damage on a successful one.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 140*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

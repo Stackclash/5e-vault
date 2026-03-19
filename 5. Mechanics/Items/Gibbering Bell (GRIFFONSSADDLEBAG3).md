@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Gibbering-Bell.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A piece of gibbering mouther has been latched onto this rusted handbell. When swung through the air, the bell produces a grotesque, fleshy sound instead of a bell's typical metallic clamor. The mouth of the bell also serves as the mouth of the attached monster, biting down on anything that comes too close. As a result, you can use this bell as a makeshift club that deals `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage, instead of its normal damage die, as the mouther bites down on the target as opposed to bludgeoning it.
 
@@ -27,7 +30,3 @@ While holding the bell, you can use an action to speak its command word and vigo
 If you fail the saving throw against the bell's gibbering effect, you treat a roll of 5 or 6 on the `dice:d8|noform|noparens|avg` (`d8`) as if it were a 1 to 4, and if you roll a 7 or 8, you ignore the effect and can immediately make a single weapon attack with the bell against a creature of your choice within your reach.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

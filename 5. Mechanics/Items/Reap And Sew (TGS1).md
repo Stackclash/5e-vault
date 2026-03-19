@@ -34,6 +34,9 @@ item_recharge: dawn
 - **Range**: 80/320
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. While attuned to the weapon, you can cast the [[/5. Mechanics/Spells/Mending.md\|mending]] cantrip at will. A special, needle-like bolt is magically bound to the crossbow. When fired, the bolt leaves a faint thread of arcane energy behind it and deals force damage instead of piercing. The bolt returns to the crossbow and loads itself after each attack, ignoring the crossbow's normal loading property.
 
@@ -46,7 +49,3 @@ If the special bolt is somehow destroyed or lost, the bolt reappears loaded in t
 Once attuned to this weapon, you must make a DC 12 Wisdom saving throw whenever you attempt to take a short or long rest. On a failure, you are overcome with the urge to craft and are forced to sew, knit, crochet, or crossstitch feverishly for at least 1 hour before being able to rest. The curse remains even if the attunement ends, but can be undone by any effect that removes a curse such as a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] or [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 103*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

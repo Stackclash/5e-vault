@@ -22,6 +22,9 @@ item_recharge: dawn
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Mourningsteel-War-Banner.webp#right)  
 
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This war standard is adorned with a tattered, bloodied banner of an army long lost to time. The standard is 6 feet tall and weighs 7 pounds, but can be collapsed down to 3 feet tall or extended up to its full length by using a bonus action. While the banner is on your person, you have advantage on saving throws against being [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]].
 
@@ -32,7 +35,3 @@ As part of the action to plant the standard, you can expend any number of its ch
 The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. The GM has the [[/5. Mechanics/Bestiary/Construct/Animated Armor.md\|animated armors]]' statistics.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 127*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

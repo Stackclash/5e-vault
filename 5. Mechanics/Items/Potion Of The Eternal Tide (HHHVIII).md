@@ -21,6 +21,9 @@ item_recharge: none
 *Potion, legendary*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you imbibe the power of an elder elemental, gaining all the strength of the ocean and the waves. You gain the following benefits for the next hour:
 
@@ -32,7 +35,3 @@ When you drink this potion, you imbibe the power of an elder elemental, gaining 
 24 hours after this potion was drunk, the vial it was in magically refills itself to be used again. This effect does not occur if the bottle was emptied through any other means such as being poured out into another container. This potion is constantly swirling without any outside force, and its cerulean blue color is punctuated by two dark spots resembling eyes peering out into the world.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 94*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

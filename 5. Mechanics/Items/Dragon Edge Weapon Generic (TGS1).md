@@ -23,6 +23,9 @@ item_recharge: none
 *Major*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Dragon-Edge-Weapon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -31,7 +34,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Dragon Edge Weapon 2 (TGS1).md\|Dragon Edge Weapon +2]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 55*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

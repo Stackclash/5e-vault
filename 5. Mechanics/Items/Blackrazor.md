@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Hidden in the dungeon of White Plume Mountain, Blackrazor shines like a piece of night sky filled with stars. Its black scabbard is decorated with pieces of cut obsidian.
 
@@ -68,7 +71,3 @@ Despite its nihilism, Blackrazor feels a strange kinship to [[/5. Mechanics/Item
 Blackrazor's hunger for souls must be regularly fed. If the sword goes three days or more without consuming a soul, a conflict between it and its wielder occurs at the next sunset.
 
 *Source: Dungeon Master's Guide p. 216*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

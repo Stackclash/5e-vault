@@ -32,6 +32,9 @@ item_recharge: dawn
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Forged by elven smiths to thwart the rising tide of evil among them, Cymrith has played a pivotal role in numerous fey confrontations. Thanks to its powerful magic, relentless bloodshed could be turned to peaceful negotiation. If you are fey or have the Fey Ancestry trait, you are proficient with Cymrith and can use your Charisma modifier for attack and damage rolls with it, instead of Strength or Dexterity.
 
@@ -48,7 +51,3 @@ Cymrith is a sentient chaotic good rapier with an Intelligence of 10, a Wisdom o
 Cymrith yearns for the destruction of evil fey creatures and urges you to seek out these creatures and either kill them or turn them toward the path of good.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

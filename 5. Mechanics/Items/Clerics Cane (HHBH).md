@@ -23,6 +23,9 @@ item_recharge: short-rest
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 20 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A variety of citrullus, cleric's staff is a dull, green-brown in colour with a w
 As part of using this herb, you may roll any number of hit die you have available to regain hit points as you would normally during a short rest. If you roll a 1 or 2 on any of those die, you may reroll the result and must take the new number, even if it is a 1 or a 2.
 
 *Source: Hamund's Herbalism Handbook p. 9*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

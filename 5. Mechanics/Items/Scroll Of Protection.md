@@ -22,6 +22,9 @@ item_recharge: none
 # Scroll of Protection
 *Scroll, minor, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -35,7 +38,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Scroll Of Protection From Undead.md\|Scroll of Protection from Undead]]
 
 *Source: Dungeon Master's Guide p. 199*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

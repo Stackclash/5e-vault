@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 5 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Tufted white grass, yeti brush is incredibly easy to miss among the sheets of sn
 You may spend 1 minute wrapping your hands and feet in this grass. If you do so, you suffer no penalty to your movement speed when moving through snowy or icy terrain, and you have advantage on climbing surfaces covered in ice or snow.
 
 *Source: Hamund's Herbalism Handbook p. 38*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

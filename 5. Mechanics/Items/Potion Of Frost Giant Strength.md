@@ -22,13 +22,12 @@ item_recharge: none
 # Potion of Frost Giant Strength
 *Potion, minor, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, your Strength score changes to 23 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.
 
 This potion's transparent liquid has floating in it a sliver of fingernail from a [[/5. Mechanics/Bestiary/Giant/Frost Giant.md\|frost giant]].
 
 *Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

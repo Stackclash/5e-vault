@@ -26,11 +26,10 @@ item_recharge: none
 - **Armor Class**: 11 + Dex modifier
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this jerkin you become particularly sensitive to the vibrations and electrical currents around you. So long as you are [[/5. Mechanics/Rules/Conditions.md#Blinded\|blinded]] (including if you just have your eyes closed), you have [[/5. Mechanics/Rules/Senses.md#Blindsight\|blindsight]] with a range of 60 feet.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 129*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

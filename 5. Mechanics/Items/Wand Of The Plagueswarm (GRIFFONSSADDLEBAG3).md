@@ -25,6 +25,9 @@ item_recharge: dawn
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wand-of-the-Plagueswarm.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has 7 charges for the following properties. It regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand dissolves into a fetid slime that sizzles and evaporates, destroying the wand and leaving behind a stain that can never be cleaned.
 
@@ -41,7 +44,3 @@ Whenever your [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]]
 This curse is only revealed if the wand is destroyed as a result of expending its last charge, extending the curse to you when that happens. You can end your attunement to this wand as normal, even though it's cursed. While you're cursed, you are also diseased. Only a [[/5. Mechanics/Spells/Wish.md\|wish]] spell can end this curse and disease. While cursed, you have disadvantage on Constitution saving throws, and you must succeed on a DC 16 Intelligence check whenever you attempt to use a magic item property. On a failed save, your action to use the item is wasted. For example, casting a spell from a wand would be considered as using one of its properties, but attacking with a +1 longsword wouldn't.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

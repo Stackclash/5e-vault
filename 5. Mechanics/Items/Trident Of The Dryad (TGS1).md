@@ -37,6 +37,9 @@ item_recharge: dawn
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical wooden trident has 4 charges and regains `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) expended charges daily at dawn. Once on each of your turns while holding the trident, you can expend 1 of its charges (no action required) and use 10 feet of your movement to step magically into one living tree within your reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
@@ -47,7 +50,3 @@ You can use an action to plant the bottom of this trident in fertile ground and 
 The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by detect magic. While touching the tree, you can use an action to speak its command word again to return the trident to its normal form. Any creature in the tree falls when it reverts to a trident. Once this property of the trident has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 137*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

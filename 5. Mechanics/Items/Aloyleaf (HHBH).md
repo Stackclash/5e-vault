@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ An absolutely wondrous leaf found on bushes and hedges that have grown on top of
 This herb provides enough leaves to cover `dice:1d6|noform|noparens|avg` (`1d6`) square feet. These leaves are as hard as steel, but are as lightweight as normal leaves and never decompose unless buried under soil.
 
 *Source: Hamund's Herbalism Handbook p. 5*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

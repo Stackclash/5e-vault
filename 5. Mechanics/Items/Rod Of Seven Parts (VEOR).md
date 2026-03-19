@@ -32,6 +32,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Eons ago, a war between the primordials and the gods scarred the planes of existence. A demon lord named [[/4. World Almanac/NPCs/Miska The Wolf Spider (VEOR).md\|Miska the Wolf-Spider]] eventually pushed the primordials' enemies to the brink of annihilation.
 
@@ -82,7 +85,3 @@ A piece of the rod may be temporarily destroyed in this way, but each piece re-f
  
 
 *Source: Vecna: Eve of Ruin p. 8*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

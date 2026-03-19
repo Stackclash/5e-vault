@@ -21,6 +21,9 @@ item_recharge: none
 *Potion*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The rarity and strength of this potion differs depending on the age category of the dragon it was harvested from. When you drink this potion, you recover hit points corresponding to the rarity of the potion. In addition, you gain resistance to the damage type of the dragon it was crafted from for 1 hour.
 
@@ -43,7 +46,3 @@ The rarity and strength of this potion differs depending on the age category of 
 - [[/5. Mechanics/Items/Potion Of Ancient Dragonstrength (HHHVI).md\|Potion of Ancient Dragonstrength]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

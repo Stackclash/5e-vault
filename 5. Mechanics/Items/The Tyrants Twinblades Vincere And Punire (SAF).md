@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you are a neutral character, these black iron shortswords function as normal weapons with no bonus or special properties. If you are good, touching either weapon deals `dice:2d8|noform|noparens|avg` (`2d8`) necrotic damage to you. If you are an evil character, you can use Vincere and Punire as magic weapons with the following properties.
 
@@ -42,7 +45,3 @@ When you score a critical hit with either blade, roll a `dice:d6|noform|noparens
 If this weapon strikes a demon, it shackles it and pulls it down to Hell, removing it from the battle.
 
 *Source: Strongholds and Followers p. 264*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

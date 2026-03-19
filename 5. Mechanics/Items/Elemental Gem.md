@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![[/5. Mechanics/Items/img/elemental-gem.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -28,7 +31,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Elemental Gem Yellow Diamond.md\|Elemental Gem, Yellow Diamond]]
 
 *Source: Dungeon Master's Guide p. 167*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

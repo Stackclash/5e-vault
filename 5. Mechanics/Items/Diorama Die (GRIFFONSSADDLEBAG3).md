@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Diorama-Die.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This six-sided die is an inch across and unfolds to reveal miniature scenes inside it. You can speak its command word using an action and choose to either roll the die or place it with a number of your choice facing up. If you roll the die, record whether you cast, drop, shake, or spin it when doing so. If the die is rolled in multiple ways, record each one.
 
@@ -37,7 +40,3 @@ When the die lands on a number, it opens up to expose a miniature, illusory dior
 ^scene-cast-dropped-shaken-spun-placed
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

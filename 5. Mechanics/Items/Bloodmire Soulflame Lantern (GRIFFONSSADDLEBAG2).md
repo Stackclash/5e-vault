@@ -21,6 +21,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bloodmire-Soulflame-Lantern.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This iron lantern is surrounded by six glass panels and has a sharp spike in its center where a wick would normally be. When you attune to the lantern, it suddenly springs to life with a crimson flame at the top of the spike, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. The flame is magical and can't be extinguished by any means while it burns within the lantern. While the lantern is on your person, you can use a bonus action to mentally expand or reduce the lantern's light, to a maximum of 30 feet each or a minimum of 10 feet each. As part of this bonus action, you can also cause the lantern's glass panels to magically turn black or clear, allowing you to choose whether the lantern's light is shed in a radius, a cone, or entirely hidden by the darkened glass.
 
@@ -40,7 +43,3 @@ This lantern is cursed, and attuning to it extends that curse to you. You remain
 As long as you remain cursed, you are unwilling to part with the lantern, keeping it within reach at all times. In addition, you must continuously feed the lantern's flame using your own vitality. Whenever you gain or spend any number of Hit Dice, you must also sacrifice one Hit Die to the lantern (if you have any). Alternatively, you can use an action to open the lantern's door and hold your hand over the flame, sacrificing one of your Hit Dice when you do. If the lantern isn't given any Hit Dice for 24 hours, you die, and the flame goes out until the lantern is attuned to by another creature or you return to life while still attuned to it.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 47*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -33,11 +33,10 @@ item_recharge: none
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This thin, hollow quarterstaff has the finesse property and reverberates when it strikes a target. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a target with this weapon and roll the maximum amount of bludgeoning damage on the weapon's damage die, the hollow staff shudders and emits a deep, thunderous sound. When that happens, roll the weapon's damage die again and add it to the total damage of the attack. This extra damage is thunder damage.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 52*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

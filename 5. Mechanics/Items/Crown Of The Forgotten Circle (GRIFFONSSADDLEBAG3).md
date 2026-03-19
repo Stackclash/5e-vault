@@ -23,6 +23,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Crown-of-the-Forgotten-Circle.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This flower crown is forever dried and wilted, and is filled with nettles and briars. While wearing it, you have resistance to necrotic and poison damage, and you always have the [[/5. Mechanics/Spells/Blight.md\|blight]] and [[/5. Mechanics/Spells/Spike Growth.md\|spike growth]] spells prepared. These spells don't count against the total number of spells you can prepare each day.
 
@@ -33,7 +36,3 @@ As an action while wearing the crown, you can choose a point on the ground that 
 This crown is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling and unable to remove the crown. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the number of hit points is reduced by 5 + the spell's level, as the crown's flowers try and fail to rejuvenate themselves with your magic.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: dawn
 *Wand, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Dramus-Wand-of-Noises.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has a flared tip that leads down into the center of it. The wand has 3 charges and regains all expended charges daily at dawn. While holding the wand, you can use an action to expend 1 of its charges to use one of the following properties:
 
@@ -35,7 +38,3 @@ You point the wand at a non-living object that you can see within 30 feet of you
 You cast the [[/5. Mechanics/Spells/Thunderwave.md\|thunderwave]] spell from the wand (save DC 13).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

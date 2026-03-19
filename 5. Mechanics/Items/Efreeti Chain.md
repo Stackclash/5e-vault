@@ -32,11 +32,10 @@ item_recharge: none
 - **Strength**: Requires 13 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 55.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this armor, you gain a +3 bonus to AC, you are immune to fire damage, and you can understand and speak Primordial. In addition, you can stand on and walk across molten rock as if it were solid ground.
 
 *Source: Dungeon Master's Guide p. 167*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

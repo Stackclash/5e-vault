@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, minor, common (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Companions-Band.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This woven band can be worn as a necklace or bracelet by resizing its strap. While wearing the band, you can use an action to summon a spectral companion that appears in a space within 5 feet of you. The companion can be a dog, cat, bird, or similar Small or smaller beast. The form is translucent and immaterial, but feels warm to the touch. It emits dim light in a 5-foot radius. The companion remains until dismissed (no action required) or until you remove the band. It is not considered to be a creature, does not occupy space, and does not require food, water, or air to exist. It is friendly toward you and other creatures you choose. It stays within 30 feet of you at all times and moves through objects as necessary in order to do so. If it's unable to reach you, it disappears until summoned again. The companion wears a spectral copy of the band on its neck or limb when you summon it (your choice).
 
@@ -30,7 +33,3 @@ Once the same spectral companion has remained or has been summoned at least once
 If you die, the band can be attuned to by a different creature. The linked companion follows you to whatever afterlife awaits you or reappears if you're resurrected and summon it once again.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 46*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

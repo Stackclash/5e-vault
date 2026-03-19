@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 100 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ These massive colonies of coral grow on top of floating platforms of seaweed, cr
 After using this herb, you conjure a [[/5. Mechanics/Bestiary/Elemental/Water Element(AL).md\|water elemental]] and an [[/5. Mechanics/Bestiary/Elemental/Earth Element(AL).md\|earth elemental]] in unoccupied spaces within 10 feet of you. The elementals disappear when they drop to 0 hit points or after 4 hours, whichever comes first. The elementals are friendly to you and your companions and act on their own initiative orders. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to an elemental, they defend themselves from hostile creatures but otherwise take no actions.
 
 *Source: Hamund's Herbalism Handbook p. 27*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 100 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ An icy-blue fruit that well deserves its name. This curious fruit has an incredi
 You may use your action to eat this fruit. If you do so, for the next 10 minutes your body becomes coated in a thin layer of ice that raises your AC to 15 if it was lower than that before, but your movement speed is halved.
 
 *Source: Hamund's Herbalism Handbook p. 11*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

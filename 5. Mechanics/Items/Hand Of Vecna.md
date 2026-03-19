@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, artifact (requires attunement)*  
 ![[/5. Mechanics/Items/img/eye-and-hand-of-vecna.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Seldom is the name of Vecna spoken except in a hushed voice. Vecna was, in his time, one of the mightiest of all wizards. Through dark magic and conquest, he forged a terrible empire. For all his power, Vecna couldn't escape his own mortality. He began to fear death and take steps to prevent his end from ever coming about.
 
@@ -63,7 +66,3 @@ If you are attuned to both the hand and eye, you gain the following additional b
 If the [[/5. Mechanics/Items/Eye Of Vecna.md\|Eye of Vecna]] and the Hand of Vecna are both attached to the same creature, and that creature is slain by the [[/5. Mechanics/Items/Sword Of Kas.md\|Sword of Kas]], both the eye and the hand burst into flame, turn to ash, and are destroyed forever. Any other attempt to destroy the eye or hand seems to work, but the artifact reappears in one of Vecna's many hidden vaults, where it waits to be rediscovered.
 
 *Source: Dungeon Master's Guide p. 224*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

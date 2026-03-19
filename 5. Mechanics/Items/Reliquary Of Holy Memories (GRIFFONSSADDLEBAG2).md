@@ -31,6 +31,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Reliquary-of-Holy-Memories.webp#right)  
 
 - **Damage**: 1d6 bludgeoning
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -40,7 +43,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Reliquary Of Holy Memories Legendary (GRIFFONSSADDLEBAG2).md\|Reliquary of Holy Memories (Legendary)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

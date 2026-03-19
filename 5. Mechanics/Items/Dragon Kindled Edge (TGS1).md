@@ -35,6 +35,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magnificent blade is crafted from the remains of an ancient dragon. You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a dragon with this weapon, the dragon takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage of the weapon's type. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns. In addition, while you're attuned to this weapon, you can read and understand draconic.
 
@@ -49,7 +52,3 @@ When you use this feature to split a breath attack in this way, the sword gives 
 If you fail a saving throw by 4 or less, you can choose to succeed on it instead. Once this feature of the sword's been used, it can't be used again until the following dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 56*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

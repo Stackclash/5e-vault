@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wrinkled, pale-pink amulet resembles the shriveled brain of a monstrous entity. This amulet has 20 charges which you may expend to use any of the following abilities:
 
@@ -36,7 +39,3 @@ Using your action and expending 3 charges, you target a willing creature within 
 The amulet regains `dice:2d8+4|noform|noparens|avg` (`2d8 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, this amulet dissolves into a foul ichor and becomes worthless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 81*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

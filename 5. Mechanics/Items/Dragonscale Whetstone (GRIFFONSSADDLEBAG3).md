@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Dragonscale-Whetstone.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Certain preserved dragon scales can take on magical properties, either naturally on their own or with the help of a skilled artificer or enchanter. These whetstones are made of such a scale and appear almost gem-like in appearance.
 
@@ -49,7 +52,3 @@ A whetstone has 5 uses. When you use the last use, it loses its gem-like shine a
 ^dragon-bonus-damage-type
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

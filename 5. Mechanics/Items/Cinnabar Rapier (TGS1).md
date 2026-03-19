@@ -31,11 +31,10 @@ item_recharge: dawn
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic rapier's blade is alchemically coated in a thin but toxic layer of cinnabar. The weapon has 10 charges and regains `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) expended charges each day at dawn. When you hit a creature with this weapon, you can expend 1 or more of its charges. The blade's poison leeches into the blood of the creature you struck to deal an extra `dice:1d4|noform|noparens|avg` (`1d4`) poison damage for each charge expended in this way.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 44*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

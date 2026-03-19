@@ -20,6 +20,9 @@ item_recharge: none
 # Potion of Giant Strength
 *Potion*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -31,7 +34,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Potion Of Storm Giant Strength.md\|Potion of Storm Giant Strength]]
 
 *Source: Dungeon Master's Guide p. 187*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

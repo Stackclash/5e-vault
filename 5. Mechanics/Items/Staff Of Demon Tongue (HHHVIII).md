@@ -34,6 +34,9 @@ item_recharge: long-rest
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff has 10 charges. While holding this staff, you may use your action to expend 1 or more charges to do one of the following:
 
@@ -50,7 +53,3 @@ You expend 4 charges and target a humanoid or a demon that you can see within 60
 You expend 3 charges and target a creature within 60 feet of you that is not undead or a construct. That creature must succeed on a Constitution saving throw or suffer `dice:4d6|noform|noparens|avg` (`4d6`) necrotic damage and have their hit point maximum reduced by the same amount. This reduction lasts until the target finishes a long rest. The target dies if their hit point maximum is reduced to 0.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 96. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

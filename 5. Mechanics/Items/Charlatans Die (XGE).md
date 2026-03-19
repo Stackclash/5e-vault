@@ -19,11 +19,10 @@ item_recharge: none
 # Charlatan's Die
 *Wondrous item, minor, common (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Whenever you roll this six-sided die, you can control which number it rolls.
 
 *Source: Xanathar's Guide to Everything p. 136*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -18,11 +18,10 @@ item_recharge: none
 # Clothes of Mending
 *Wondrous item, minor, common*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This elegant outfit of traveler's clothes magically mends itself to counteract daily wear and tear. Pieces of the outfit that are destroyed can't be repaired in this way.
 
 *Source: Xanathar's Guide to Everything p. 137*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,6 +20,9 @@ item_recharge: none
 # Iron Elixir
 *Potion, legendary*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark, grainy liquid tastes positively awful. Anyone imbibing the elixir gains permanent resistance to bludgeoning, piercing, and slashing damage and gains a damage threshold of 5, but their speed is reduced by 10 feet and they always make Dexterity saving throws and Dexterity ability checks with disadvantage that can't be overcome or canceled out by any means.
 
@@ -28,7 +31,3 @@ This dark, grainy liquid tastes positively awful. Anyone imbibing the elixir gai
 The core of an iron golem, a shard of purest adamantine, and the powdered teeth of a mountain giant.
 
 *Source: Deep Magic p. 169*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

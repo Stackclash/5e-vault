@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Hagstone-Amulets.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A hagstone is a naturally occurring stone that's pockmarked with holes and crystalline veins. To be transformed into a magical hagstone amulet, it must be made by a hag. If a hag decides to give away one of these amulets, it always comes at a price.
 
@@ -27,7 +30,3 @@ On its own, a hagstone amulet does nothing. However, you can perform a 1-hour ri
 Once a spell has been cast from an amulet, that spell can't be cast again from it or any other hagstone amulet bound to it until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

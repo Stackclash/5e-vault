@@ -22,11 +22,10 @@ item_recharge: none
 *Treasure (gemstone)*  
 
 - **Cost**: 10 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A translucent pink or yellow-white with mossy gray or green markings gemstone.
 
 *Source: Dungeon Master's Guide p. 134*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

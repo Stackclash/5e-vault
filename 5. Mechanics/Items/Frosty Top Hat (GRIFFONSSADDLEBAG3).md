@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Frosty-Top-Hat.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A light dusting of snow covers the brim of this bent and beaten top hat. While wearing it, you can tolerate temperatures as low as -50 degrees Fahrenheit without any additional protection.
 
@@ -33,7 +36,3 @@ While the snowman remains motionless, it is indistinguishable from an ordinary s
 The snowman obeys your verbal commands (no action required by you) and takes its turn immediately after yours. If you don't issue any commands, it defends itself from hostile creatures, but otherwise takes no actions. The snowman remains for 1 hour, until it dies, or until you use an action to speak its command word again, at which point it crumbles to powdery snow. Once this property of the hat has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

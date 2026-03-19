@@ -23,6 +23,9 @@ item_recharge: none
 *Wondrous item, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Snugglebeasts.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -32,7 +35,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Snugglebeast Tarrasque (TGS1).md\|Snugglebeast (Tarrasque)]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 118*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

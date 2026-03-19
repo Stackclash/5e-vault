@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Couriers-Cap.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tan bag cap bears a wax seal on its side and is stamped with a variety of messengers' markings. While wearing the hat, your walking speed is increased by 5 feet.
 
@@ -28,7 +31,3 @@ The hat has 3 charges and regains all expended charges daily at dawn. While wear
 If you expend 1 charge to cast the [[/5. Mechanics/Spells/Message.md\|message]] spell from the hat, the message you send as part of the spell materializes in front of you as a folded letter, complete with the message inside of it. The message is written in your handwriting. The letter then flies through the air towards the target, which can be up to 1,000 feet away from you. You don't need to be able to see the target in order to send the message in this way, but you must either know its name or provide a general description for the flying letter. The letter flies through the air with a speed of 50 feet; it has AC 10 and 1 hit point. When the letter arrives, it lands at the target's feet or in one of its open hands, provided it has one.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

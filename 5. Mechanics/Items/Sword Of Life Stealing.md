@@ -33,6 +33,9 @@ item_recharge: none
 *Major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/sword-of-life-stealing.webp#right\|Sword of Life Stealing (Longsword)]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.
 
@@ -40,7 +43,3 @@ When you attack a creature with this magic weapon and roll a 20 on the attack ro
 > Note: According to the SRD, it is an extra `dice:3d6|noform|noparens|avg` (`3d6`) necrotic damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
 
 *Source: Dungeon Master's Guide p. 206. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

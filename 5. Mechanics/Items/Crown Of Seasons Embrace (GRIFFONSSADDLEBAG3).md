@@ -24,6 +24,9 @@ item_recharge: dawn
 *Wondrous item, major, very rare (requires attunement by an elf, half-elf, or fey)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Crown-of-Seasons-Embrace.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver crown of tangled branches is dotted with tiny jewels, with a larger diamond resting at its center. While wearing the crown, you can change the shape of your ears using a bonus action. You also gain the elf's Trance racial trait if you don't already have it.
 
@@ -46,7 +49,3 @@ When you first attune to the crown, and then again daily at dawn, you can choose
 ^season-color-damage-type
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

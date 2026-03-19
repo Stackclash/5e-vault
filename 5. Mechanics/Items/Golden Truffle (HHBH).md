@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 200 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A delicacy sought by nobles and wealthy merchants from across the world, the gol
 This herb contains `dice:1d6|noform|noparens|avg` (`1d6`) charges. You may expend one charge to use this herb, after which, your hit point maximum increases by an amount equal to double your character level, and you gain the same amount of hit points. This increase lasts for 4 hours, after which, your maximum hit points return to normal.
 
 *Source: Hamund's Herbalism Handbook p. 17*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

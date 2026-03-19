@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Bard-in-a-Box.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small music box can play songs at the request of the holder. As a bonus action, you can command the box to play a song for which it has music, causing the contraption to emit a slightly tinny rendition of the musical number. The box can know up to 5 songs at a time but can't recreate lyrics or other creature sounds. The box has a knob on its side to adjust its volume: able to be as quiet as a whisper or as loud as a scream.
 
@@ -27,7 +30,3 @@ Sheet music can be fed into the box through a narrow slot along the bottom of th
 If a new piece of music causes the box to forget an older one, it quickly plays several bars of the now-forgotten number before it slows to a stop.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 31*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

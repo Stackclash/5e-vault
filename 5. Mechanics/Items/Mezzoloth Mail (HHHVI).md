@@ -30,11 +30,10 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing and attuned to this armor, you gain the ability to speak Abyssal and Infernal if you did not know them already. You also gain resistance to poison and acid damage.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 134*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 20 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ In areas suffused with magic, plantlife often mimics the properties of the eleme
 As part of preparing this herb you must apply it to a melee weapon or up to 10 pieces of ammunition. If you do so, for the next hour that weapon or ammunition is considered both magical and made of silver for the purposes of overcoming resistance and immunity to non-magical and non-silver weapon attacks.
 
 *Source: Hamund's Herbalism Handbook p. 32*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

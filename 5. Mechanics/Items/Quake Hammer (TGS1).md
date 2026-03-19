@@ -34,6 +34,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
@@ -42,7 +45,3 @@ As an action, you can smash this hammer into the ground to send out intense trem
 The save DC for this effect is equal to 8 + your proficiency bonus + your Strength modifier. Once this property has been used, it can't be used again until the following dawn.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 102*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

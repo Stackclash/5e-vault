@@ -23,6 +23,9 @@ item_recharge: none
 *Ring, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Quick-Change-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring grows and shrinks to fit its wearer, but always seems slightly large for the finger it's on. The ring has an extradimensional space inside it dedicated to carrying armor. You can magically bind one set of unworn light, medium, or heavy armor to this extradimensional space over the course of 1 hour by resting the ring on top of the armor. Only one suit of armor can be bound to the ring's extradimensional space. Binding a second suit breaks the bond with the first one, causing it to be forced from the extradimensional space and appear in an unoccupied space within 5 feet of the ring. While wearing the ring, you're considered to be within 100 feet of any armor stored inside its extradimensional space.
 
@@ -51,7 +54,3 @@ When found, the ring has a 50 percent chance to have a set of bound armor in its
 ^armor
 
 *Source: The Griffon's Saddlebag, Book 2 p. 140*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

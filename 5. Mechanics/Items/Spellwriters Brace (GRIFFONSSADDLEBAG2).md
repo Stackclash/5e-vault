@@ -22,6 +22,9 @@ item_recharge: long-rest
 *Wondrous item, major, rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Spellwriters-Brace.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This writer's hand brace allows you to prepare four extra spells from your spellbook whenever you finish a long rest. The spells can be no higher than 5th level and must be of a level for which you have spell slots. When you do, the prepared spells appear on the skin of your arm as abstract spell tattoos that represent them. You can prepare the same spell multiple times in this way, taking the necessary time in order to do so, to create multiple copies of the same spell tattoo.
 
@@ -32,7 +35,3 @@ A spellcaster with a spell tattoo can expend a spell slot of the tattooed spell'
 Any spell tattoos created by the brace disappear when you finish a long rest or remove the brace.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 167*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

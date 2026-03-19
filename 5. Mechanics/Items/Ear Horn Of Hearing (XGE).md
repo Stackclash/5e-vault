@@ -18,11 +18,10 @@ item_recharge: none
 # Ear Horn of Hearing
 *Wondrous item, minor, common*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While held up to your ear, this horn suppresses the effects of the [[/5. Mechanics/Rules/Conditions.md#Deafened\|deafened]] condition on you, allowing you to hear normally.
 
 *Source: Xanathar's Guide to Everything p. 137*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

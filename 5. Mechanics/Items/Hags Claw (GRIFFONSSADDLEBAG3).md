@@ -34,6 +34,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The metal of this wicked knife is said to be folded with the hair of a hag, giving it a dark, wave-like pattern that sizzles with corrupting magic. Its handle, curved like the blade, is made from long finger bones that ever-so-slightly curl to hold your hand.
 
@@ -48,7 +51,3 @@ Whenever you reduce a creature to 0 hit points using the dagger, there's a 10 pe
 A single [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell (or similar magic) fails to end the dagger's curse if your appearance has begun to change as a result of it. For each time your appearance has changed in this way, an additional use of remove curse or similar spell must be cast within a 24-hour period in order to end the curse. Ending the curse returns your appearance to normal.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -19,11 +19,10 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bonfire-Candle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The flame of this candle gives off light like a normal candle, but keeps every creature within its light at a comfortably warm temperature.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -25,6 +25,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Quicksilver-Sword.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon, which has the finesse property. As the blade moves, its reflective surface shimmers like water on a mirror.
 
@@ -41,7 +44,3 @@ You can use a bonus action to allow yourself to be [[/5. Mechanics/Rules/Conditi
 When a creature is no longer [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] by one of these properties, the weapon's metal is expelled from the creature and returns to the blade, transforming it back into its longsword form.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

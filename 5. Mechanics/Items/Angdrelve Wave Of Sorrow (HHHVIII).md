@@ -32,6 +32,9 @@ item_recharge: none
   - Two-handed: 3d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The greatsword Angdrelve is also known as the Wave of Sorrow and is one of the deadliest weapons in the multiverse. Like its dark master, Angdrelve is beautiful but cruel, its many dark curves drawing the eye away in a maddening dance as it twirls and spins through the battlefield. In fact, a popular legend states that the sword was once a regular sword with a straight edge, but as Graz'zt fought and slaughtered his way through the Abyss to claim his title as Demon Lord, the sword became as twisted and crooked as his soul.
 
@@ -66,7 +69,3 @@ As the weapon of a Demon Lord, Angdrelve bares a lingering curse for any mortal 
 The only way to destroy Angdrelve is for it to be placed within a pitch-black box and be untouched and unseen by any creature for 200 years, after which it dissolves into a foul ichor.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 26*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

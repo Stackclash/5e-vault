@@ -250,6 +250,8 @@ INPUT[select(option(1, 'File Location Configuration'), option(2, 'Relationship M
 >> >> ## Modifiers
 >> >> |||
 >> >> |:---:|:---:|
+>> >> | Minor Tier | `INPUT[number:item_pricing.minor_tier_modifier]` |
+>> >> | Major Tier | `INPUT[number:item_pricing.major_tier_modifier]` |
 >> >> | Consumable | `INPUT[number:item_pricing.consumable_modifier]` |
 >> >> | Attunement | `INPUT[number:item_pricing.attunement_modifier]` |
 >> >> | Recharge: Dawn | `INPUT[number:item_pricing.recharge_modifiers.dawn]` |

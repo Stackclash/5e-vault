@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Null-Chalk.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This drab pouch contains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) sticks of dull gray chalk. The chalk feels slightly tingly to the touch.
 
@@ -31,7 +34,3 @@ The first time a celestial, elemental, fey, fiend, or undead creature attempts t
 This effect lasts for 8 hours or until a break of at least one foot is made in the line, which causes it to instantly lose all magical properties. A creature can spend 1 minute to smudge, smear, erase, or otherwise remove the line enough to disable its effects. When targeted by the [[/5. Mechanics/Spells/Dispel Magic.md\|dispel magic]] spell, the line is treated as if it were a 6th-level spell. If the line is dispelled in this way, its effects are disabled for 1 minute.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 91*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -30,6 +30,9 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This full set of plate armor was crafted from the insectoid carapace of a remorhaz. While wearing this armor, you have resistance to both fire and cold damage.
 
@@ -41,7 +44,3 @@ If this was crafted from an Adult Remorhaz Carapace, you also gain a +1 bonus to
 - [[/5. Mechanics/Items/Adult Remorhaz Plate (HHHVI).md\|Adult Remorhaz Plate]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 139*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

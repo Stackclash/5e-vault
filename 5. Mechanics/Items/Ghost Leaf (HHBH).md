@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 500 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Due to its gossamer thinness and extremely pale colouring, ghost leaf can only g
 For the next hour, whenever you are moving, you become incorporeal, allowing you to move through other creatures and solid objects as if they were difficult terrain, taking `dice:1d10|noform|noparens|avg` (`1d10`) force damage if you end your movement inside a solid object. In addition, creatures with the *Incorporeal Movement* trait can not pass through you.
 
 *Source: Hamund's Herbalism Handbook p. 15*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

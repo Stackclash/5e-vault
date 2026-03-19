@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, very rare (requires attunement by a tiefling)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Cloak-of-Hellish-Legacies.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark leather cloak is inscribed with Infernal script along its hems. Its hood has a pair of holes for your horns to fit through. While wearing the cloak, the range of your [[/5. Mechanics/Rules/Senses.md#Darkvision\|darkvision]] increases by 30 feet, and you can see normally in magical darkness (as if it were nonmagical) out to a range of 30 feet. If the cloak's hood is up, your face becomes hidden in pitch-dark shadow. Pulling the hood up or down requires an action.
 
@@ -41,7 +44,3 @@ The cloak has 3 charges and regains all expended charges daily at dawn. You can 
 Whenever you change the cloak's color, you can also choose to change the color of your skin to match the chosen layer. This change lasts until you change the cloak's color again, until you're no longer wearing the cloak, or until you end it early (no action required), at which point you return to your normal color.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

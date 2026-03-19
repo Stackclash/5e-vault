@@ -34,6 +34,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This twisted staff has 10 charges. While holding it, you can expend 1 or more of its charges to use any of the following abilities:
 
@@ -56,7 +59,3 @@ When a creature you can see within 30 feet of you dies, you may use your reactio
 This staff regains all expended charges at dawn. Whenever you use the last charge, there is a 10 percent chance that this staff disintegrates into feather-like ashes and becomes useless.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 97. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

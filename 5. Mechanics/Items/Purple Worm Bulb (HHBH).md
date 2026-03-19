@@ -23,6 +23,9 @@ item_recharge: long-rest
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1,000 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -38,7 +41,3 @@ After using this herb, your body undergoes a transformation and takes upon sever
 - You gain a [[/5. Mechanics/Rules/Senses.md#Tremorsense\|tremorsense]] out to a range of 60 feet.  
 
 *Source: Hamund's Herbalism Handbook p. 28*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

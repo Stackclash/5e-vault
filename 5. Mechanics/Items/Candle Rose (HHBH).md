@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A wonderfully droll flower thought to have been invented in the courts of the Fe
 This foot-long herb may be used in the same manner as an ordinary [[/5. Mechanics/Items/Candle.md\|candle]]: for 1 hour when lit, it sheds bright light in a 5-foot radius and dim light for an additional 5 feet. The fragrance and colour of this rose is determined by your DM, but they are usually both quite pleasant.
 
 *Source: Hamund's Herbalism Handbook p. 9*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

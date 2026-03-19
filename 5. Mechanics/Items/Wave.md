@@ -37,6 +37,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Held in the dungeon of White Plume Mountain, this trident is an exquisite weapon engraved with images of waves, shells, and sea creatures. Although you must worship a god of the sea to attune to this weapon, Wave happily accepts new converts.
 
@@ -59,7 +62,3 @@ Wave zealously desires to convert mortals to the worship of one or more sea gods
 Wave harbors a secret doubt about its own nature and purpose. For all its devotion to the sea gods, Wave fears that it was intended to bring about a particular sea god's demise. This destiny is something Wave might not be able to avert.
 
 *Source: Dungeon Master's Guide p. 218*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

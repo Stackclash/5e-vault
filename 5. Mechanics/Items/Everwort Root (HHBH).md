@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 20 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A golden-hued root that grows twisted into the sideways-eight shape commonly ass
 As an action, you may pour the liquid inside this root into a potion. Any duration associated with that potion's effect is doubled permanently.
 
 *Source: Hamund's Herbalism Handbook p. 12*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

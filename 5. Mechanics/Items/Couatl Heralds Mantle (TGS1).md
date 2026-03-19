@@ -22,6 +22,9 @@ item_recharge: none
 *Wondrous item, major, uncommon (requires attunement by a creature of good alignment)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Couatl-Heralds-Mantle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic cloak is given to those deemed kind-hearted and responsible by a celestial. While wearing the mantle, you have advantage on saving throws to resist becoming [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] or diseased. In addition, you are immune to any effect that would sense your emotions.
 
@@ -30,7 +33,3 @@ This magic cloak is given to those deemed kind-hearted and responsible by a cele
 While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 48*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

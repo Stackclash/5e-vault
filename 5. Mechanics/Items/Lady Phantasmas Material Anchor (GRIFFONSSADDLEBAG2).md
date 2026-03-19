@@ -19,6 +19,9 @@ item_recharge: dawn
 *Wondrous item, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Lady-Phantasmas-Material-Anchor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small and rusted anchor charm is bound to a famous, lost ship: the *Lady Phantasma*. This ship and its crew was lost to the Ethereal Plane centuries ago, cursed to remain there for all eternity as punishment for stealing a powerful sea hag's treasured relic. However, this small charm can act as the ship's sole remaining tether to the Material Plane.
 
@@ -29,7 +32,3 @@ At dawn, the ship's crew is shunted back to the Ethereal Plane, leaving the ship
 If the charm is removed from the *Lady Phantasma* for 24 hours, the ship and its crew vanish and return to the Ethereal Plane until they're summoned again. You can speak the charm's command phrase "Until the tides call once more," to cause the ship and crew to return to the Ethereal Plane early. Any objects on the ship other than what was there when it came from the Ethereal Plane are dropped into the water below the ship when it disappears. If the ship is destroyed while on the Material Plane, the charm is destroyed and turns to flecks of nonmagical rust.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 113*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

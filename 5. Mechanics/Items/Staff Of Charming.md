@@ -40,6 +40,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this staff, you can use an action to expend 1 of its 10 charges to cast [[/5. Mechanics/Spells/Charm Person.md\|charm person]], [[/5. Mechanics/Spells/Command.md\|command]], or [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]] from it using your spell save DC. The staff can also be used as a magic quarterstaff.
 
@@ -48,7 +51,3 @@ If you are holding the staff and fail a saving throw against an enchantment spel
 The staff regains `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff becomes a nonmagical quarterstaff.
 
 *Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

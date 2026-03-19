@@ -32,13 +32,12 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gilded armor is made of purified mourningsteel and repels undead aggression. While wearing this armor, you gain a +1 bonus to AC, and you have advantage on any saving throw against a hostile effect from an undead creature. In addition, you can use a bonus action to touch a creature with 0 hit points. When you do, the creature is stabilized.
 
 If you're a cleric or paladin and are wearing this armor, immediately after an undead creature deals damage to you with a melee attack, it is automatically destroyed if its challenge rating is 1 or lower.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

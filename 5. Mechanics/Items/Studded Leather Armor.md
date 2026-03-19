@@ -26,11 +26,10 @@ item_recharge: none
 - **Armor Class**: 12 + Dex modifier
 - **Cost**: 45 gp
 - **Weight**: 13.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
 
 *Source: Player's Handbook p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -37,6 +37,9 @@ item_recharge: none
 - **Damage**: 1d6 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A long white ribbon trails behind this shimmering sword, whose blade is forged with swirls of gold. You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, you gain the following benefits.
 
@@ -57,7 +60,3 @@ If you have 5 or more levels in the monk class, you can use this weapon in place
 If you have 5 or more levels in the fighter class, you can take the [[/5. Mechanics/Rules/Actions.md#Use%20an%20Object\|Use an Object]] action or shove a target within your reach once per turn immediately after making an attack with this sword as part of the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action, as you master versatile tactics to shift the flow of battle. You can only push a target up to 5 feet away from you when you shove it in this way, but can choose to make the contested check using Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) instead of a Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) when you do.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

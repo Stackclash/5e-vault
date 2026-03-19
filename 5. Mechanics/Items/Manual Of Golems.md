@@ -21,6 +21,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/manual-of-golems.webp#right]]  
 
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -30,7 +33,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Manual Of Stone Golems.md\|Manual of Stone Golems]]
 
 *Source: Dungeon Master's Guide p. 180*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

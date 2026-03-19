@@ -35,6 +35,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A sharp and coiled rose blossom rests at the top of this gilded spear. A pair of silver, winglike leaves stretch outward from either side of it. You gain a +3 bonus to attack and damage rolls made with this magic weapon, which has the finesse property. When a creature is slain with this weapon, a red rose grows from the corpse after 7 days.
 
@@ -51,7 +54,3 @@ You can use an action to spin the spear above you, sending a cascade of magical 
 When you make a ranged attack with this spear, it returns to your open hand immediately after the attack.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

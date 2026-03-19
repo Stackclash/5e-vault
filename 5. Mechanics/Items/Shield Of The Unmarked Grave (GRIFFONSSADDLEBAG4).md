@@ -24,6 +24,9 @@ item_recharge: long-rest
 - **Armor Class**: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An ancient tombstone has been transformed into this shield. Despite being made of stone, it only weighs as much as a normal shield. The top of the shield features a carved ribbon, intended for a name, which remains blank. Creatures that strike the shield hear the psychic whispers of the dead ringing in their ears. While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 
@@ -59,7 +62,3 @@ As long as you remain cursed, the spirits within the shield can reach you throug
 ^effect
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

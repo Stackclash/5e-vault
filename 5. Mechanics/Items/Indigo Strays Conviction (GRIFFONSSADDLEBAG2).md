@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Indigo-Strays-Conviction.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of midnight-colored gloves effervesce with slow wisps of smoke, and were famously worn by a royal assassin who had been freed of their bindings. At the hems are old, well-worn manacles that have been fastened to the gloves and magically clasp onto your forearms when worn. If you're missing any arms, hands, or fingers when you attune to the gloves, dark, smoky copies of the missing appendages magically rematerialize. The limbs are fully capable parts of your body and remain as long as you're attuned to the gloves.
 
@@ -44,7 +47,3 @@ When a creature that you can see within 30 feet of you takes damage, you can use
 The Indigo Stray's conviction compels its wearer to take swift, decisive action to prove themselves. While attuned to the gloves, you gain the following flaw: "I will do what I must to demonstrate my ability, and I won't stop until a job is done." In addition, if you are attuned to the bracers for 24 consecutive hours, your commitment to prove yourself drives you to obsession, and even minor acts of kindness compel you to feel heavily indebted. You can't attune to the [[/5. Mechanics/Items/Red Queens Burden (GRIFFONSSADDLEBAG2).md\|Red Queen's burden]] or the [[/5. Mechanics/Items/Violet Kings Promise (GRIFFONSSADDLEBAG2).md\|Violet King's promise]]. If you are already attuned to either of them, your attunement to it immediately ends once this effect is extended to you. The first creature you meet who is attuned to the [[/5. Mechanics/Items/Violet Kings Promise (GRIFFONSSADDLEBAG2).md\|Violet King's promise]] becomes your sovereign leader, regardless of who you previously considered it to be. You become charmed by them and obey their commands to the best of your ability. If you find the [[/5. Mechanics/Items/Red Queens Burden (GRIFFONSSADDLEBAG2).md\|Red Queen's burden]] or the [[/5. Mechanics/Items/Violet Kings Promise (GRIFFONSSADDLEBAG2).md\|Violet King's promise]] without an owner, you are compelled to protect it with your life until a rightful owner is found. These effects can be removed with a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell, but not while you are attuned to the gloves.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 108*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

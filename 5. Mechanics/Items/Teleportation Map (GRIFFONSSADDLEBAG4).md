@@ -21,6 +21,9 @@ item_recharge: none
 *Scroll, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Teleportation-Map.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This map is delicately inked on a magic scroll and kept in an elaborate travel case. Almost every teleportation map is different: some show maps of entire continents, whereas others are of local city streets or their immediate surroundings. When found, the GM decides the area and scale of the map on the scroll.
 
@@ -31,7 +34,3 @@ Maps on a smaller scale can teleport you more accurately than those on a larger 
 Each time you use this scroll, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the scroll bursts into flames (after teleporting you) and is destroyed. This number increases by 1 each time the map's been used, after the first. When found, the map has been used `dice:1d6-3|noform|noparens|avg` (`1d6 - 3`) times (minimum 0).
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

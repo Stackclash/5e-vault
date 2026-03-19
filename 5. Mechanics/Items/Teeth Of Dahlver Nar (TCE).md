@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, artifact (requires attunement)*  
 ![[/5. Mechanics/Items/img/teeth-of-dahlver-nar.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The Teeth of Dahlver-Nar are stories given form. They are a collection of teeth, each suggestive of wildly different origins and made from various materials. The collection rests within a leather pouch, stitched with images of heroes and whimsical creatures. Where the teeth fall, they bring legends to life.
 
@@ -74,7 +77,3 @@ Once all the teeth have vanished, their pouch also vanishes. The pouch with all 
 Each tooth must be destroyed individually by sowing it in the area where the tooth's story originated, with the intention to destroy it. When planted in this way, creatures summoned are not friendly to you and do not vanish. Some of the creatures summoned merely head off in search of home, while others act as their tales dictate. In either case, the tooth is gone forever.
 
 *Source: Tasha's Cauldron of Everything p. 135*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

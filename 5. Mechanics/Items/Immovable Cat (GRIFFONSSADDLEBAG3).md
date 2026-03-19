@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Immovable-Cat.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This life-sized marble statue of a cat normally weighs only 1 pound. You can use an action to speak one of its two command words while holding it, causing the statue to spring to life.
 
@@ -31,7 +34,3 @@ The cat returns to its normal weight, sits up, and ceases to be animated when yo
 While animated, the cat has AC 15, 20 hit points, and resistance to all damage. If the [[/5. Mechanics/Spells/Mending.md\|mending]] spell is cast on the cat while it has at least 1 hit point, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. If the cat drops to 0 hit points, it reverts to its normal weight and can't be used again for 24 hours, at which point it regains all its hit points.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

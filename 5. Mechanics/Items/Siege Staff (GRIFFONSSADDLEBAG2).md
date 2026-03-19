@@ -40,6 +40,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This stony staff has been carved into the shape of a castle tower. The staff has 10 charges for the following properties, which use your spell save DC and spell attack bonus, and regains `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, a the staff crumbles into rubble and is destroyed.
 
@@ -56,7 +59,3 @@ While holding the staff, you can use an action and expend 1 or more charges to c
 While holding the staff, you can use an action and expend 3 charges to magically create and fling a boulder at a point you can see within 60 feet of you. Any target within 5 feet of the point must make a Dexterity saving throw. On a failed save, a target takes `dice:4d8|noform|noparens|avg` (`4d8`) bludgeoning damage, and if it's Medium or smaller, it is also pushed 10 feet away from the point. On a successful save, a target takes half as much bludgeoning damage and isn't pushed. Maximize the bludgeoning damage dice against any object or structure hit by the boulder. After it lands, the boulder disappears.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 161*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

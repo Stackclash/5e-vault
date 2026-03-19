@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Eldritch-Scarf.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark scarf moves slowly on its own and is always wrinkled. The scarf hides an extradimensional space within its folds that can only be reached while you wear it. The space holds 60 pounds of material, not exceeding a volume of 6 cubic feet. The scarf always weighs 1 pound, regardless of its contents. When you place an object in this space (no action required), your hand vanishes into the scarf's loose folds.
 
@@ -31,7 +34,3 @@ In addition, while wearing the scarf, you can use an action to mentally control 
 Placing the scarf inside an extradimensional space created by a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], [[/5. Mechanics/Items/Portable Hole.md\|portable hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 58*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

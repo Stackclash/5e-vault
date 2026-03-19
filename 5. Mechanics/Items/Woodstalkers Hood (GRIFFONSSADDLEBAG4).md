@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Woodstalkers-Hood.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leafy green hood is adorned with a pair of branch-like antlers that grow from either side of it. You gain a +2 bonus to any Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) or Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks you make while wearing the hood. If you're wearing the hood in a wooded area, your face becomes heavily obscured in shadow.
 
@@ -36,7 +39,3 @@ You can shift your awareness to a plant that you can see within 300 feet of you.
 You can force up to 4 creatures that you can see within 30 feet of you to make a DC 15 Wisdom saving throw. On a failed save, a creature is [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]] of you for 1 minute. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

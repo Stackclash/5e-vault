@@ -34,6 +34,9 @@ item_recharge: none
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slender whip's grip is feathered and comfortable to wield. Its weight has been magically reduced and it gently sways on its own. This weapon has the light property. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -46,7 +49,3 @@ Until this grapple or restraint ends, you can't use the whip against a different
 While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 48*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

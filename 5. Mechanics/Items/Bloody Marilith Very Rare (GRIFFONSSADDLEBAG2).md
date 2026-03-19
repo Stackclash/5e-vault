@@ -23,6 +23,9 @@ item_recharge: long-rest
 *Potion, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bloody-Marilith.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The following [[/5. Mechanics/Items/Bloody Marilith (GRIFFONSSADDLEBAG2).md\|bloody marilith]] is a very rare variant with more powerful properties. It uses blood from a fiendish marilith, instead of a magical substitute, and pleasantly burns your tongue when drinking it. It also tastes better.
 
@@ -31,7 +34,3 @@ When you drink this potion, you can take one reaction on every turn in a combat 
 Drinking additional [[/5. Mechanics/Items/Bloody Marilith (GRIFFONSSADDLEBAG2).md\|bloody mariliths]] before you finish a long rest leaves your body feeling worn. When the potion's effect ends, you can't move or take actions until after your next turn, as a wave of lethargy sweeps over you.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 48*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

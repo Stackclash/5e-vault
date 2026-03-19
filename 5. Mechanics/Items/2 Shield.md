@@ -23,11 +23,10 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 
 *Source: Dungeon Master's Guide p. 200. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, very rare (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Cryomancers-Lexicon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This thick book is bound with white leather and is freezing cold to the touch. This book can be used as a spellbook and contains the following spells, which are wizard spells for you while you're attuned to the book: [[/5. Mechanics/Spells/Cone Of Cold.md\|cone of cold]], [[/5. Mechanics/Spells/Otilukes Freezing Sphere.md\|freezing sphere]], [[/5. Mechanics/Spells/Ice Storm.md\|ice storm]], [[/5. Mechanics/Spells/Protection From Energy.md\|protection from energy]] (cold damage only), [[/5. Mechanics/Spells/Sleet Storm.md\|sleet storm]], and [[/5. Mechanics/Spells/Wall Of Ice.md\|wall of ice]].
 
@@ -38,7 +41,3 @@ When a creature that you can see (including yourself) takes damage, you can use 
 You can use an action to expend up to 3 of the book's charges to coat yourself in a magical frozen barrier. You gain 10 temporary hit points for each expended charge, and when a creature hits you with a melee attack while you have these hit points, that creature takes 10 cold damage for each spent charge.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

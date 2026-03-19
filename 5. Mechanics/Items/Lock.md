@@ -24,11 +24,10 @@ item_recharge: none
 
 - **Cost**: 10 gp
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A key is provided with the lock. Without the key, a creature proficient with [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.
 
 *Source: Player's Handbook p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

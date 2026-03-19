@@ -33,6 +33,9 @@ item_recharge: none
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Loading\|Loading]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crossbow once belonged to a savage gambler. Scoring a critical hit with this magic weapon doesn't double the weapon's damage dice, and when you roll a 1 on an attack roll made with it, the weapon jams and can't be used again until the end of your next turn.
 
@@ -47,7 +50,3 @@ A target hit with a ranged attack from this crossbow takes `dice:3d4|noform|nopa
 ^matching-number-effect
 
 *Source: The Griffon's Saddlebag, Book 2 p. 122*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

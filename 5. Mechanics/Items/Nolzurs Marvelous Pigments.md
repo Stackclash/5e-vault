@@ -21,6 +21,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/nolzurs-marvelous-pigments.webp#right]]  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Typically found in `dice:1d4|noform|noparens|avg` (`1d4`) pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
 
@@ -33,7 +36,3 @@ Nothing created by the pigments can have a value greater than 25 gp. If you pain
 If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm to anything.
 
 *Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Marvelous Pigments")*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

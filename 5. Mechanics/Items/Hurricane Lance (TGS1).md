@@ -32,6 +32,9 @@ item_recharge: dawn
 - **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
@@ -44,7 +47,3 @@ In addition, you can use the lance to cast the [[/5. Mechanics/Spells/Thunderwav
 You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 78*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

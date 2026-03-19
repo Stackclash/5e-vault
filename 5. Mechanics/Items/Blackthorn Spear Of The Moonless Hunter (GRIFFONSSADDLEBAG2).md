@@ -37,6 +37,9 @@ item_recharge: long-rest
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This spiny, black bone spear is a favorite among nocturnal hunting tribes. While attuned to the spear, you can always see the faint outline of it, even in total darkness. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
@@ -52,7 +55,3 @@ This spear contains a fragment of the moonless hunter, an ancient spirit that ca
 You can assume the spirit in this way for up to 8 hours. The effect ends early if you release the spirit as a bonus action or if you're farther than 60 feet away from the spear for more than 1 minute. The spirit returns to the spear when you are no longer assuming it, at which point you gain 1 level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] for every 2 hours you assumed the spirit (minimum 1 level). [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|Exhaustion]] gained in this way can only be reduced by finishing a long rest.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 45*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

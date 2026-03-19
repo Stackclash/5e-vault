@@ -24,6 +24,9 @@ item_recharge: dawn
 *Rod, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Scepter-of-the-Tyrants-Gaze.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gilded rod features a sculpted eye bound within a mass of entangled tentacles. At the center of the eye is a dark gemstone. While holding the rod, you have advantage on saving throws against spells.
 
@@ -48,7 +51,3 @@ The scepter has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 
 Alternatively, you can expend 3 or more charges from the scepter to cast [[/5. Mechanics/Spells/Counterspell.md\|counterspell]] from it, using your reaction. The spell's level increases by 1 for each charge you spend after the third.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

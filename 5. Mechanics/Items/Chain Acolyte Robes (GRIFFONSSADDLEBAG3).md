@@ -32,6 +32,9 @@ item_recharge: dawn
 - **Armor Class**: 16
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 55.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These acolyte robes are draped in heavy chain mail. You are proficient with this armor and ignore its Strength requirement if you have a spellcasting ability score of at least 13.
 
@@ -44,7 +47,3 @@ While wearing the armor, you can use an action to cast either the hold monster o
 If you are also attuned to a [[/5. Mechanics/Items/Wand Of Binding.md\|wand of binding]], it regains all expended charges daily at dawn. In addition, whenever you use the wand to cast [[/5. Mechanics/Spells/Hold Monster.md\|hold monster]] or [[/5. Mechanics/Spells/Hold Person.md\|hold person]], you can choose to have it cast the armor's version of the spell instead. You still use the wand's save DC when casting the spell in this way.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -32,6 +32,9 @@ item_recharge: dawn
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The icy blade of this glaive has been formed atop a ruined spear haft. A tattered emblem hangs at its side.
 
@@ -50,7 +53,3 @@ While holding the glaive, you can use a bonus action to cast the [[/5. Mechanics
 This property of the weapon can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

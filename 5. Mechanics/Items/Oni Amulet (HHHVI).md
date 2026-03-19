@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The heart of an oni, transfigured into a dark crystal. It seems to pulse with the corrupted radiance of the night, and those that gaze at it long enough swear they can see two pinpricks of white gazing back at them. While attuned to this amulet, you become more oni-like as your eyes become black with large white pupils, and two small, white, ivory nubs grow out of your forehead. If you are both wearing and attuned to this amulet, you gain the following benefits:
 
@@ -28,7 +31,3 @@ The heart of an oni, transfigured into a dark crystal. It seems to pulse with th
 - You may cast the [[/5. Mechanics/Spells/Charm Person.md\|charm person]] spell once per day. Your spell DC for the casting of this spell is 8 + your Charisma modifier + your proficiency bonus.  
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 136*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

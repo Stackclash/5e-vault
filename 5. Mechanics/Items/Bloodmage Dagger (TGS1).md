@@ -36,6 +36,9 @@ item_recharge: none
 - **Range**: 40/80
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This roughly hewn obsidian dagger is razor sharp and can be used as a spellcasting focus. Its handle is covered in small holes that drink in whatever blood runs down the blade. There's a small reservoir for blood at the dagger's pommel that seems to never completely fill. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -44,7 +47,3 @@ The dagger has 5 charges and regains `dice:1d3+2|noform|noparens|avg` (`1d3 + 2`
 Alternatively, while holding the dagger, you can expend 1 or more of its charges when you cast a spell using a 1st, 2nd, or 3rd-level spell slot. The spell must target either a single creature or yourself. The spell slot you use to cast this spell counts as one level higher for each charge you expend in this way. You can't increase a spell slot level beyond 5th level in this way. When you use this property of the dagger, you also expend 1 Hit Die for each charge you expend in this way. Roll a number of Hit Dice equal to the number of expended charges and take necrotic damage equal to the total you roll. This damage ignores resistance and immunity. If expending charges in this way causes you to fall to 0 hit points, the spell fails and you fall [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]].
 
 *Source: The Griffon's Saddlebag, Book 1 p. 36*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

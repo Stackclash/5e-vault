@@ -37,6 +37,9 @@ item_recharge: long-rest
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff is made of both raw and polished obsidian. Your Intelligence and Wisdom scores each increase by 2, up to a maximum of 22, while you're attuned to it. In addition, you can use your Arcane Recovery twice between long rests, instead of once.
 
@@ -59,7 +62,3 @@ The staff of the arcanum is a sentient chaotic good staff with an Intelligence o
 The staff of the arcanum is bookish and, at times, stuck up. It enjoys unraveling puzzles. It refuses to lend its strength to liches, however, preventing them and similar necromancers from using the staff's properties. At the GM's discretion, the staff may choose to cast a stored spell on its own (no action required by you).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

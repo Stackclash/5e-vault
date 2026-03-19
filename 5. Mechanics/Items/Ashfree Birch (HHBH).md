@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 20 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ While most birch trees are actually renowned for how long and hot they burn, the
 You may spend 10 minutes placing sheets of this bark to wear underneath your armour and clothes, insulating you against heat and fire. If you do so, whenever you take fire damage, this herb absorbs that damage instead of you. This herb can absorb up to 30 points of fire damage before completely burning away and becoming useless; with any excess damage transferred to you instead. You may remove this herb by spending 1 minute peeling it out of your clothes.
 
 *Source: Hamund's Herbalism Handbook p. 6*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

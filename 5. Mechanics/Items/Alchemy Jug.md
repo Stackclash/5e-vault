@@ -21,6 +21,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/alchemy-jug.webp#right]]  
 
 - **Weight**: 12.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. Sloshing sounds can be heard from within the jug when it is shaken, even if the jug is empty.
 
@@ -43,7 +46,3 @@ Once the jug starts producing a liquid, it can't produce a different one, or mor
 ^liquid-max-amount
 
 *Source: Dungeon Master's Guide p. 150*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

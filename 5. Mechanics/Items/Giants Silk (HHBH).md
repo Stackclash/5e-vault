@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 5 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Although they appear to be massive vines, these tendril-like herbs are actually 
 This herb may be used in place of 60 feet of rope. You make any Strength ability checks at advantage when using this rope to perform any pushing, pulling, lifting, or climbing.
 
 *Source: Hamund's Herbalism Handbook p. 15*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

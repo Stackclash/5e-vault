@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Bird-of-a-Feather.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small stuffed roc toy is filled with enchanted down. While holding onto the toy and concentrating, you magically gain a flying speed of 20 feet for up to 1 minute. The stuffed toy's weak magic can carry up to 200 pounds.
 
@@ -27,7 +30,3 @@ If you take any damage while flying in this way, you lose concentration on the t
 This item cannot be used again for `dice:1d4|noform|noparens|avg` (`1d4`) hours. It gives a happy little chirp when its magic can be used again.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 35*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

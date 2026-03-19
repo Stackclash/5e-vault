@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, legendary (requires attunement)*  
 ![[/5. Mechanics/Items/img/scarab-of-protection.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:
 
@@ -27,7 +30,3 @@ If you hold this beetle-shaped medallion in your hand for 1 round, an inscriptio
 - The scarab has 12 charges. If you fail a saving throw against a necromancy spell or a harmful effect originating from an undead creature, you can use your reaction to expend 1 charge and turn the failed save into a successful one. The scarab crumbles into powder and is destroyed when its last charge is expended.  
 
 *Source: Dungeon Master's Guide p. 199. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

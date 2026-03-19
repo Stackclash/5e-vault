@@ -20,6 +20,9 @@ item_recharge: none
 # The Six Elixirs
 *Potion, legendary*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Alkemancers are responsible for the creation of many astonishing alchemical items, but the pinnacle of their craftsmanship is known collectively as the Six Elixirs, magical liquids of such incredible power and rarity that they feature in many tales and legends. Vast resources and even many lives have been expended in the pursuit of these fabled elixirs. A single elixir could be the focus of an entire campaign arc for an alkemancer character or group of adventurers.
 
@@ -35,7 +38,3 @@ Brewing any one of the Six Elixirs takes one year of work with rare, mysterious,
 - [[/5. Mechanics/Items/Ruby Elixir (KPDM).md\|Ruby Elixir]]
 
 *Source: Deep Magic p. 169*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -31,6 +31,9 @@ item_recharge: none
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slingshot requires two hands to attack and is adorned with coin-like designs. You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, when you make a ranged attack with this weapon and use a coin as its ammunition, it deals extra damage on a hit based on the value of the coin you use:
 
@@ -46,7 +49,3 @@ This slingshot requires two hands to attack and is adorned with coin-like design
 Recovering coins fired in this way follows the normal rules for recovering ammunition. Depending on the nature of the battlefield, you may recover more or fewer coins than normal as determined by the GM.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 134*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

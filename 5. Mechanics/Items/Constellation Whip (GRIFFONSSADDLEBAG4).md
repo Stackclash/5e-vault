@@ -30,6 +30,9 @@ item_recharge: none
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The handle of this whip is a magic spyglass. When you peer into the night sky through the spyglass, the stars are magically connected by an illusory series of lines that illustrate the namesakes of any constellation you know.
 
@@ -42,7 +45,3 @@ While the lash persists, the spyglass can be used as a whip, which deals radiant
 Once on each of your turns when you hit a creature with the whip, you can choose for it to leave behind a mote of starlight. The next attack roll against that creature before the end of your next turn is made with advantage. On a hit, the mote explodes immediately after the attack and deals `dice:4d6|noform|noparens|avg` (`4d6`) radiant damage to the target. On a miss or at the end of the effect's duration, the mote winks out harmlessly instead.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

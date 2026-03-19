@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Metallurgists-Grip.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This plated metal gauntlet extends up your arm. The armored plates are extensively corroded. If you're missing a hand or arm, the item can function as a prosthesis for it. While you're attuned to the gauntlet, it can't be removed from you against your will, and you have resistance to acid damage.
 
@@ -32,7 +35,3 @@ You can use your reaction whenever you take acid damage to reduce the acid damag
 You can use a bonus action to cast the [[/5. Mechanics/Spells/Haste.md\|haste]] spell from the gauntlet. When you do, the spell doesn't require [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]], and you must roll a `dice:d6|noform|noparens|avg` (`d6`) at the end of each of your turns. You take acid damage equal to the result of the `dice:d6|noform|noparens|avg` (`d6`), which can't be prevented or reduced in any way. On a 1, the spell ends. Once this property has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

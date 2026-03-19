@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 20 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A horrible variety of sargassum in which each leaf resembles the pale, twisted f
 While you have this herb wrapped around a free hand, you have advantage on any [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]] checks made with that hand. Wrapping and unwrapping this herb around a free hand takes an action. Once this herb has been used in 5 successful [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]] checks, it deteriorates and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 11*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

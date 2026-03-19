@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-umbra.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Kālidāsa Dhar, writing in the codex umbra in the second century of Wonder, gives us our only glimpse into scholarly thought regarding the essence of shadow magic before the Ganarajyan Empire. It is surprisingly similar to our own modern notions.
 
@@ -58,7 +61,3 @@ Completing this 1-hour ritual replaces the sun with a negative counterpart. The 
 This is a supernatural darkness, and all intelligent creatures who live on the surface of the Mundane World can sense it. All diurnal ^[[/5. Mechanics/Rules/Skills.md#Perception\|Those who sleep at night and are awake during the day.] creatures with an Intelligence score greater than 5 gain darkness sensitivity, giving them disadvantage on attack rolls and Wisdom ([Perception]]) checks that rely on sight. As the owner of the codex umbra, you do not suffer this sensitivity. However, while the Black Star blazes, you must sacrifice 1 Hit Die at the end of each hour.
 
 *Source: Strongholds and Followers p. 249*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

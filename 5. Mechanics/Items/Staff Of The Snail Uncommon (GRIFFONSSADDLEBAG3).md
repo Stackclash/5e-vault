@@ -37,6 +37,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden crook has a large snail shell at its top. While holding it, the wood by the shell softens and turns into the body of a large snail, which aimlessly looks around as if to take in its surroundings. The staff can be used as a magical quarterstaff. When found, this staff is an uncommon magic item with the following properties.
 
@@ -67,7 +70,3 @@ The first creature you hit with an attack with this staff on each of your turns 
 While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC: [[/5. Mechanics/Spells/Antilife Shell.md\|antilife shell]] (5 charges), [[/5. Mechanics/Spells/Polymorph.md\|polymorph]] (4 charges; the form of a Tiny snail), resilient sphere (4 charges), or [[/5. Mechanics/Spells/Slow.md\|slow]] (3 charges).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

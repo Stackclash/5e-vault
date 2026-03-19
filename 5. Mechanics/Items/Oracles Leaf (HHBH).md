@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 100 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ If one reaches the peaks of the highest mountains, you may find oracles dwelling
 For 4 hours after using this herb, you gain a minor clairvoyance that aids you in avoiding danger. Whenever you are targeted by an attack, you may use your reaction to force that attack to be made at disadvantage.
 
 *Source: Hamund's Herbalism Handbook p. 26*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: dawn
 *Ring, major, rare*  
 ![[/5. Mechanics/Items/img/ring-of-animal-influence.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 of its charges to cast one of the following spells:
 
@@ -31,7 +34,3 @@ This ring has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) e
 - [[/5. Mechanics/Spells/Speak With Animals.md\|Speak with animals]]  
 
 *Source: Dungeon Master's Guide p. 189. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

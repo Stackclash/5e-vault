@@ -26,6 +26,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/feywild-shard.webp#right]]  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This warm crystal glints with the sunset colors of the Feywild sky and evokes whispers of emotional memory. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.
 
@@ -34,7 +37,3 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 If you don't have the Wild Magic Sorcerous Origin, once this property is used to roll on the [[/5. Mechanics/Tables/Wild Magic Surge (PHB).md\|Wild Magic Surge]] table, it can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 127*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

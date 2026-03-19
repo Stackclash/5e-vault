@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, legendary (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Helm-of-the-Dawn-Guardian.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden helmet radiates a gentle warmth, like the light of the sun. While wearing the helmet, your eyes glow with a soft radiance, and you gain a +1 bonus to AC. If you're in sunlight, the bonus increases to +2.
 
@@ -26,7 +29,3 @@ The helmet's warmth extends out from you in a 10-foot radius while you wear it. 
 While wearing the helmet, you can use an action to cast the [[/5. Mechanics/Spells/Sunburst.md\|sunburst]] spell (save DC 17). This version of the spell affects a 60-foot cone that originates from you, instead of its normal area of effect. Once this spell has been cast from the helmet, it can't do so again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

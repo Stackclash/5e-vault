@@ -23,11 +23,10 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Poison\|Poison]]
 - **Cost**: 150 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for 1 hour. The [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] creature can't knowingly speak a lie, as if under the effect of a [[/5. Mechanics/Spells/Zone Of Truth.md\|zone of truth]] spell.
 
 *Source: Dungeon Master's Guide p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

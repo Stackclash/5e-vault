@@ -23,11 +23,10 @@ item_recharge: none
 *Scroll, minor, legendary*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Scroll-of-the-Eclipse.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you use an action to read this scroll, any sun or moonlight within a 3-mile radius of you (whether natural or created by a magical effect) is magically suppressed. For the duration, everything in the area is in darkness unless illuminated by another source, such as a torch or the [[/5. Mechanics/Spells/Light.md\|light]] spell. The effect lasts for 8 hours and can only be ended early by a [[/5. Mechanics/Spells/Wish.md\|wish]] spell. You must be outdoors when you use the scroll, or nothing happens and the scroll is wasted. Looking at the sky during this time shows no sign of the sun or moon, and if you can normally see the stars, they're nowhere to be seen for the duration.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

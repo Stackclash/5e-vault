@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Being one of the most invasive species in the world, it is no wonder that mint h
 For 8 hours after using this herb, your breath is always visible, smells like a refreshing mint, and is cold enough to cause frost to build up on objects you exhale upon.
 
 *Source: Hamund's Herbalism Handbook p. 18*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

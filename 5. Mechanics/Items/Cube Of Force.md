@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/cube-of-force.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains `dice:1d20|noform|noparens|avg` (`1d20`) expended charges daily at dawn.
 
@@ -49,7 +52,3 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 ^spell-or-item-charges-lost
 
 *Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

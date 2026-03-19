@@ -37,6 +37,9 @@ item_recharge: none
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You can use a bonus action to speak this staff's command word and make the head of the staff become that of an animate poisonous snake for 1 minute. By using another bonus action to speak the command word again, you return the staff to its normal inanimate form.
 
@@ -45,7 +48,3 @@ You can make a melee attack using the snake head, which has a reach of 5 feet. Y
 The snake head can be attacked while it is animate. It has an Armor Class of 15 and 20 hit points. If the head drops to 0 hit points, the staff is destroyed. As long as it's not destroyed, the staff regains all lost hit points when it reverts to its inanimate form.
 
 *Source: Dungeon Master's Guide p. 203*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

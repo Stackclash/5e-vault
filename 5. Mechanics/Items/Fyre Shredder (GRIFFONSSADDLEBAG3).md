@@ -37,6 +37,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You are proficient with this weapon while you're attuned to it. The sharpened head of this battleaxe doubles as a metal [[/5. Mechanics/Items/Lyre.md\|lyre]], which can be used as a spellcasting focus for you. When played, its notes resound with an electric, tinny sound. Small licks of harmless fire spark from the weapon while it's played.
 
@@ -51,7 +54,3 @@ While holding the axe, you can use a bonus action to cast the [[/5. Mechanics/Sp
 You can use an action to play this [[/5. Mechanics/Items/Lyre.md\|lyre]] and expend a use of your Bardic Inspiration. When you do, you release an energizing wave of harmless fire from the axe. The fire clings to the weapons of any friendly creature within 15 feet of you until the end of your next turn. The first target that each affected creature hits with a weapon attack before the end of your next turn takes extra fire damage equal to your Bardic Inspiration die.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

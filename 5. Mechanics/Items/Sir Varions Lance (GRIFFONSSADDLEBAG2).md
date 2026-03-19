@@ -32,13 +32,12 @@ item_recharge: none
 - **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weighty lance was originally designed for Sir Varion, a brave knight with a famous disregard for horses. You gain a +1 bonus to attack and damage rolls made with this magic weapon. This weapon has the heavy property, but is uniquely balanced to function well in close-quarters combat. Attacking a target within 5 feet of you with this weapon doesn't impose disadvantage on the attack roll.
 
 If you are attuned to [[/5. Mechanics/Items/Sir Varions Shield (GRIFFONSSADDLEBAG2).md\|Sir Varion's shield]], you can wield this weapon with one hand, instead of two, while also holding the shield.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 162*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

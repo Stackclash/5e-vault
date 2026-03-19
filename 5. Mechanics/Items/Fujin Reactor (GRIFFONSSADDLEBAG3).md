@@ -26,6 +26,9 @@ item_recharge: none
 *Rod, major, legendary (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/F%C5%ABjin-Reactor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A glass orb rests at the top of this mechanical scepter, which can be used as a spellcasting focus. At its center is the essence of a powerful wind spirit that's been known by a myriad of names over the course of centuries. Fans hum within the rod, releasing a constant breeze from either of its ends. While holding the rod, you have a flying speed of 30 feet and can hover.
 
@@ -52,7 +55,3 @@ Gale of Anemoi (7th level or higher). You can immediately choose any number of d
 Awoken Wind (9th level). The spirit within the rod immediately manifests in a space of your choice within 30 feet of you, using the statistics of a djinni. It remains as long as you concentrate (as if [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentrating]] on a spell), to a maximum of 1 minute, or until it drops to 0 hit points. It then returns to the rod. Roll initiative for the spirit, which has its own turns. When you summon it and then again on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn. If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

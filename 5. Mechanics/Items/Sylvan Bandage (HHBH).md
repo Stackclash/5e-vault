@@ -23,6 +23,9 @@ item_recharge: short-rest
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 5 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ An ubiquitous, blood-red moss that is found growing on the shaded sides of trees
 When you use this herb during a short rest, you regain any number of hit die you spent to recover hit points during that rest.
 
 *Source: Hamund's Herbalism Handbook p. 34*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

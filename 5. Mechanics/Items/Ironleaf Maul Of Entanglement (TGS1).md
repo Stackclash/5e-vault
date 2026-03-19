@@ -32,11 +32,10 @@ item_recharge: dawn
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Despite the head of this maul being made from vines, it seems impossibly solid and carries with it a formidable heft. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The maul has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges each day at dawn. When you hit a Medium or smaller target with the maul, you can expend a charge to force it to make a Strength saving throw. On a failure, it takes `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage and is restrained by thorny vines until the end of its next turn. The DC for this property is equal to 8 + your proficiency bonus + your Strength modifier.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 80*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

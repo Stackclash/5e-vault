@@ -31,6 +31,9 @@ item_recharge: none
 - **Damage**: 1d12 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Special%20Weapons\|special]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This mechanical lance has bladed edges and has the heavy property. You can use a bonus action on your turn to extend or retract the weapon by twisting its handle. The weapon is a normal lance while it's extended. If the lance is retracted, the end of the weapon rests inside the wider, bladed base and is considered to be a [[/5. Mechanics/Items/Greatsword.md\|greatsword]] instead. This greatsword deals `dice:1d12|noform|noparens|avg` (`1d12`) slashing damage instead of 2d6.
 
@@ -41,7 +44,3 @@ While the weapon is retracted, you can choose to extend it as a bonus action imm
 You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 131*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

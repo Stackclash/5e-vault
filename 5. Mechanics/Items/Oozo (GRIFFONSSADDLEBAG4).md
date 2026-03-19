@@ -21,6 +21,9 @@ item_recharge: none
 *Potion*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Oozo.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -28,7 +31,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Oozo Very Rare (GRIFFONSSADDLEBAG4).md\|Oozo (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A magical variety of pear identified by its extremely pale yellow colour that bo
 After using this herb, you receive a brief vision of the future. The details of this vision, including its length, its distance from the present, and even whether it's true or not is at the discretion of your DM. Regardless, you fully believe this vision to be a true and accurate portent of things to come.
 
 *Source: Hamund's Herbalism Handbook p. 27*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

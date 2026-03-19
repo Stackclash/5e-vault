@@ -24,6 +24,9 @@ item_recharge: none
 *Melee weapon ([[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]]), major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rift-Sheath.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark, wooden staff is actually a two-sided sheath for a pair of equally dark [[/5. Mechanics/Items/Shortsword.md\|shortswords]]. While holding the staff with two hands, you can use a bonus action to twist the staff to sheath or unsheath the two swords from it. When unsheathing the swords, the wooden sheath is shunted into a special extradimensional space until you decide to sheath the swords again, at which point it magically reappears between the swords.
 
@@ -38,7 +41,3 @@ While wielded as a [[/5. Mechanics/Items/Quarterstaff.md\|quarterstaff]], you ga
 These magic [[/5. Mechanics/Items/Shortsword.md\|shortswords]] have the thrown property with a normal range of 15 feet and a long range of 30 feet. Hit or miss, the shortsword vanishes in a mirage-like distortion and immediately reappears in your hand after the attack. When you hit with a ranged attack using one of the swords, you can use your reaction to teleport to an unoccupied space that you can see within 5 feet of the target. When you do, you have advantage on the next attack roll you make against that target before the end of your next turn. Once this property has been used, it can't be used again until 1 hour has passed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

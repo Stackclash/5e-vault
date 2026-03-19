@@ -30,6 +30,9 @@ item_recharge: none
 - **Armor Class**: 15 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark armor has been made from mourningsteel, a metal refined from ore found beneath the battlefields of particularly vicious wars. Steeped in the blood from relentless battles, this metal carries with it a magical aversion to all things holy. While wearing this armor, you gain a +1 bonus to AC and have resistance to radiant damage. While you wear it, you gain the following benefits:
 
@@ -50,7 +53,3 @@ You can use an action to touch a weapon, piece of armor, or similar object that'
 As a bonus action, you can speak the armor's command word to surround yourself with an aura of grim blasphemy. The aura remains for 1 minute or until you are [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]] or die. For the duration, celestials have disadvantage on attack rolls against you, and the first time that a celestial moves within 5 feet of you on its turn or starts its turn there, that creature takes `dice:1d10|noform|noparens|avg` (`1d10`) necrotic damage. This damage ignores resistance and immunity. In addition, once before the aura ends, if you fail a saving throw against an effect from a celestial (such as a [[/5. Mechanics/Bestiary/Celestial/Solar.md\|solar]]'s Slaying Longbow), you can choose to succeed instead. Once the aura ends, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 127*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

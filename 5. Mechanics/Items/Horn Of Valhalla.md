@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item*  
 ![[/5. Mechanics/Items/img/horn-of-valhalla.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -26,7 +29,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Horn Of Valhalla Silver.md\|Horn of Valhalla, Silver]]
 
 *Source: Dungeon Master's Guide p. 175*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

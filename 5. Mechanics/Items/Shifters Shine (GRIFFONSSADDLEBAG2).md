@@ -23,6 +23,9 @@ item_recharge: none
 *Potion, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Shifters-Shine.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -30,7 +33,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Shifters Shine Uncommon (GRIFFONSSADDLEBAG2).md\|Shifter's Shine (Uncommon)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 160*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

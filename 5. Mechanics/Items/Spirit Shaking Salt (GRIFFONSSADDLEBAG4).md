@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Spirit-Shaking-Salt.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glass salt shaker has a silver skull top and is filled with `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) uses of spirit-shaking salt. While holding the shaker, you can use an action to shake it: you can either cast the salt away from you or sprinkle it on a creature within 5 feet of you.
 
@@ -29,7 +32,3 @@ When you cast the salt away from you, any undead with the Incorporeal Movement t
 When you sprinkle the salt on a possessed creature, the possession immediately ends.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

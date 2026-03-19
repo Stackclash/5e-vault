@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Greenthumb-Whittler.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small whittling knife has a green blade and can be used in place of a set of [[/5. Mechanics/Items/Woodcarvers Tools.md\|woodcarver's tools]]. Its wooden handle is decorated with carvings of soft leaves and fitted with a verdant, opal-like gemstone ring.
 
@@ -29,7 +32,3 @@ The statue can do minor feats of animation, which you decide upon completing it.
 Up to three statues can be animated at a time in this way. When a fourth statue is completed, the first one ceases to move and loses its magic. Destroying a statue ends the effect.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -26,6 +26,9 @@ item_recharge: dawn
 *Wand, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wand-of-Termites.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand is made of a partially rotted tree branch with a polished, bug-bitten handle. A gem is fixed at the bottom of the handle clenched between two termite-like wooden pincers. The wand has 7 charges for the following properties.
 
@@ -42,7 +45,3 @@ Alternatively, you can expend 1 of the wand's charges to target a nonmagical woo
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand crumbles into soil and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

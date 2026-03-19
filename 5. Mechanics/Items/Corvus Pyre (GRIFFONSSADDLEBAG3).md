@@ -35,6 +35,9 @@ item_recharge: none
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This black cane is made of gnarled wood and has a silvered raven's skull at its top. You gain a +1 bonus to attack and damage rolls made with this magic weapon, which has the finesse property, regardless of which form it's in.
 
@@ -53,7 +56,3 @@ While holding the weapon, you can use a bonus action to curse a creature that yo
 If the curse lasts for its full duration, it rebounds; you take `dice:4d10|noform|noparens|avg` (`4d10`) fire damage, which can't be reduced or prevented in any way. If you're reduced to 0 hit points when this happens, your body is incinerated and turned to ash.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -26,6 +26,9 @@ item_recharge: short-rest
 - **Armor Class**: 12 + Dex modifier (max of +2)
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 12.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a bonus +1 AC while wearing this armor. While wearing and attuned to this armor, you gain the following benefits:
 
@@ -35,7 +38,3 @@ You gain a bonus +1 AC while wearing this armor. While wearing and attuned to th
 - You gain a resistance to either acid, cold, fire, lightning, or thunder damage (choose one upon attuning to this item). You may change which damage type you have resistance to at the end of a short rest.  
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 141*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

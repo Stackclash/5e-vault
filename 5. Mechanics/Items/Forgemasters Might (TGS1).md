@@ -32,6 +32,9 @@ item_recharge: none
 *Major, legendary (requires attunement by a creature with a Strength score of 17 or higher)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Forgemasters-Might.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This monumental weapon requires a Strength of 17 or higher to wield. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
@@ -48,7 +51,3 @@ In addition, you know the [[/5. Mechanics/Spells/Mending.md\|mending]] cantrip i
 The hammer deals an additional `dice:2d8|noform|noparens|avg` (`2d8`) bludgeoning damage to constructs and structures hit by it.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 66*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

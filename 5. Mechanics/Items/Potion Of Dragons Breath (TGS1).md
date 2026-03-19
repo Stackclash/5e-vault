@@ -23,6 +23,9 @@ item_recharge: none
 *Potion, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Potion-of-Dragons-Breath.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -31,7 +34,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Potion Of Dragons Breath Very Rare (TGS1).md\|Potion of Dragon's Breath (very rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 98*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

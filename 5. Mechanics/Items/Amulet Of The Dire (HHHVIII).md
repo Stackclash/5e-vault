@@ -18,6 +18,9 @@ item_recharge: long-rest
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this amulet, you may use your action to speak its command word and grow one size larger, doubling your size in all dimensions and multiplying your weight by eight. Everything you are carrying and wearing also increases relative to you; it returns to its original size immediately if it is dropped. If there isn't enough available free space for you to grow, you attain the maximum possible size in the space available.
 
@@ -38,7 +41,3 @@ While enlarged in this way, you have advantage on Strength checks and Strength s
 This enlarging lasts for 1 hour, after which you return to your original size. You may also end the effect early by speaking the command word again (no action required). Once this ability has been used once, you cannot use it again until you finish a short or long rest.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 80*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

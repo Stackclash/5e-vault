@@ -20,6 +20,9 @@ item_recharge: none
 # Jade Elixir
 *Potion, legendary*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bright green, effervescent elixir grants its consumer incredible Charisma when dealing with celestials, elementals, fey, and fiends. The drinker always has advantage on Charisma checks when dealing with extraplanar creatures, and when calling or conjuring one of the selected creatures, it arrives with maximum hit points.
 
@@ -28,7 +31,3 @@ This bright green, effervescent elixir grants its consumer incredible Charisma w
 The tears of an invisible stalker, the claw of a pit fiend, and the tongue of a bard of at least 10th level.
 
 *Source: Deep Magic p. 169*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

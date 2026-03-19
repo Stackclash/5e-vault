@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-ignis.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Hu Tai was the last Magister of Fire, and like her contemporaries, the other four elemental magisters, she swore to bind her knowledge into a tome and thereby seal it away, ending the Century of Five Emperors and the wars that ensued as each emperor's elemental magister used their lore to warp and twist reality for their regent.
 
@@ -54,7 +57,3 @@ The duplicate is insubstantial and has no hit points. It lasts for a number of r
 While deploying this form, you must sacrifice 1 Hit Die at the end of each round.
 
 *Source: Strongholds and Followers p. 255*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Encyclopedia-Creature-Obscura.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 There are fourteen unique entries in this classic, hard-to-find series of encyclopedic tomes, which were originally written by renowned hunters and archdruids. When found, roll a `dice:d20|noform|noparens|avg` (`d20`) or choose from the table below to determine which encyclopedic volume it is.
 
@@ -47,7 +50,3 @@ If you have at least 5 levels in the ranger class and spend 48 hours over a peri
 Once you gain the book's benefits, the book loses its magic, but regains it in 10 years.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

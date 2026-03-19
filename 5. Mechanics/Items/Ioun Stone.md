@@ -17,6 +17,9 @@ item_recharge: none
 # Ioun Stone
 *Wondrous item (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -36,7 +39,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Ioun Stone Sustenance.md\|Ioun Stone, Sustenance]]
 
 *Source: Dungeon Master's Guide p. 176*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

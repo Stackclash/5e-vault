@@ -20,11 +20,10 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/mantle-of-spell-resistance.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have advantage on saving throws against spells while you wear this cloak.
 
 *Source: Dungeon Master's Guide p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

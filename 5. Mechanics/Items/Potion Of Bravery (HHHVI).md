@@ -21,11 +21,10 @@ item_recharge: none
 *Potion, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you become immune to the [[/5. Mechanics/Rules/Conditions.md#Frightened\|fear]] condition for 1 hour. This potion is a pale gold colour with a thick consistency.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 137*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

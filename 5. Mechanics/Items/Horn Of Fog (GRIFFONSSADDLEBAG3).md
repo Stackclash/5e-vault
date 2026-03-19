@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Horn-of-Fog.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You can use an action to blow this horn, which is audible out to 300 feet. When you do, you can choose one of the following effects:
 
@@ -33,7 +36,3 @@ Any fog, mist, or similar atmospheric effect within 300 feet of you is dispersed
 Once either of the properties of the horn have been used, the horn can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -31,11 +31,10 @@ item_recharge: none
 *Major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Battlement-Bow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic bow is enchanted with passive abjuration protections. When you hit a creature with a ranged attack using this bow, the bow creates a thin barrier of protective magic that stays between you and that creature until the start of your next turn. If you hit a different creature while protected by this barrier, the barrier moves to defend you against the new target instead. While the barrier is protecting you against a creature in this way, you're considered to have half cover against that creature's ranged attacks and spell effects.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 34*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

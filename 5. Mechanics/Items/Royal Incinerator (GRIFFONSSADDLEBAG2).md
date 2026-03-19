@@ -40,6 +40,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This crimson and gold staff exudes authority and is always warm to the touch. While held, a mote of harmless fire sparks into life and floats above its crownlike head.
 
@@ -56,7 +59,3 @@ When a creature that you can see hits you with an attack while you're holding th
 While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [[/5. Mechanics/Spells/Fire Shield.md\|fire shield]] (4 charges, warm shield only), [[/5. Mechanics/Spells/Fireball.md\|fireball]] (3 or more charges), or [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] (2 or more charges). When you cast [[/5. Mechanics/Spells/Fireball.md\|fireball]] or [[/5. Mechanics/Spells/Scorching Ray.md\|scorching ray]] from the staff in this way, you can increase the spell slot level by one for each additional charge you expend.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 152*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

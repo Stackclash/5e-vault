@@ -19,11 +19,10 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![[/5. Mechanics/Items/img/helm-of-comprehending-languages.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this helm, you can use an action to cast the [[/5. Mechanics/Spells/Comprehend Languages.md\|comprehend languages]] spell from it at will.
 
 *Source: Dungeon Master's Guide p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

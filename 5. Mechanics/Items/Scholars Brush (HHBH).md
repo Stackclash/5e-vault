@@ -23,6 +23,9 @@ item_recharge: long-rest
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 100 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -38,7 +41,3 @@ As part of preparing a list of spells during a long rest, you may crush this her
 
 
 *Source: Hamund's Herbalism Handbook p. 30*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

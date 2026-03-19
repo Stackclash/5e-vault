@@ -20,6 +20,9 @@ item_recharge: long-rest
 *Wondrous item, minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Night-Owls-Half-Moon-Spectacles.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While attuned to these darkened, horned spectacles, you gain the following benefits:
 
@@ -27,7 +30,3 @@ While attuned to these darkened, horned spectacles, you gain the following benef
 - At the start of a long rest, you can place the glasses next to a book or stack of parchment, such as on a desk, to create a spectral copy of yourself. The copy appears after 10 minutes, sheds dim light in a 5-foot radius, and remains for the duration of the rest or until the glasses are moved or you move more than 30 feet away from them. It can perform light activity within the glasses' space, such as reading, writing, or copying spells into your spellbook, provided it has all the materials necessary to do so. You decide what the copy does at the start of the long rest. The copy can't speak, hear, or see anything outside of its space. When you finish the long rest, you learn any information the copy read or wrote about over the course of the rest.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 128*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

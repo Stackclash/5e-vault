@@ -36,6 +36,9 @@ item_recharge: dawn
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden gavel is from Polaris, a floating city suspended by astral magic. You gain a +2 bonus to attack and damage rolls made with this magic weapon, which you are proficient with while you're attuned to it.
 
@@ -44,7 +47,3 @@ The gavel has 3 charges and regains all expended charges daily at dawn. As an ac
 Creatures you hit with this weapon have disadvantage on saving throws against spells you cast from the gavel until the end of your next turn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

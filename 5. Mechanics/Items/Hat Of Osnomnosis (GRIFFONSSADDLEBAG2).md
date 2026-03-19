@@ -22,6 +22,9 @@ item_recharge: none
 *Wondrous item, minor, common (requires attunement by a wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hat-of-Osnomnosis.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This colorful, frumpy hat contains the animated and sentient spirit of a wizard's old pet. While unworn and immobile, it is indistinguishable from a normal hat. When the hat is worn and spoken to or otherwise interacted with, it springs to life and pulls its seams apart to form a stitch-ridden mouth and toothless smile.
 
@@ -36,7 +39,3 @@ The hat of osnomnosis is a sentient chaotic good item with an Intelligence of 4,
 The hat loves nothing more than being worn and eating bits of paper and is easily befriended by creatures who pet it. The hat's button eyes can't move, but it uses its cloth folds to change its expression at will.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 98*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

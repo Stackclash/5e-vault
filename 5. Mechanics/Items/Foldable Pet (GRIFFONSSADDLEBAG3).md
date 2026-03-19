@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Foldable-Pet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical piece of paper is folded into an animated origami creature. When found, it is either in the folded form of a bird, a cat, or a fish. While holding the pet, you can use an action to speak its command word to magically refold the paper into one of its other forms.
 
@@ -37,7 +40,3 @@ The foldable pet is a sentient neutral item with an Intelligence of 2, a Wisdom 
 The foldable pet is incredibly curious and loves to explore, finding joy in taking notes of everything it sees. It avoids combat as best as it can, preferring to instead examine every nook and cranny of wherever it happens to be.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

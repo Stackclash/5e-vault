@@ -30,6 +30,9 @@ item_recharge: none
 *Major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Skirmishers-Bow.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark bow has a series of smooth red gemstones running down its length. A magic bowstring of pure energy forms between the top and bottom-most gems while held, allowing the otherwise unstrung weapon to be used as a magic bow. Even while unstrung, the weapon remains slightly curved.
 
@@ -38,7 +41,3 @@ Before or after making an attack with the weapon, you can speak its command word
 A target hit by this weapon, regardless of its form, takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) radiant damage from the attack.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

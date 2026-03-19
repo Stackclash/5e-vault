@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Lucky-Golden-Tooth.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden tooth fits snuggly in your mouth, making space for itself as if it had grown there naturally. If you're missing a tooth, it takes its place and changes shape to match the original one's. Even if you're not attuned to the tooth, you can use its following properties.
 
@@ -32,7 +35,3 @@ If you're attuned to the tooth, you gain a +1 bonus to Wisdom saving throws, and
 If the tooth isn't in your mouth, placing the tooth inside an extradimensional space created by a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]], handy haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

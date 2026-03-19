@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 5 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A palm with fronds which secrete a silica-phobic film that repels sand in order 
 You may spend 1 minute wrapping or unwrapping your hands and feet in this herb. While your hands and feet are wrapped in this herb, you suffer no penalty to your movement speed when moving through sandy terrain, and you have advantage on climbing surfaces covered in sand.
 
 *Source: Hamund's Herbalism Handbook p. 30*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

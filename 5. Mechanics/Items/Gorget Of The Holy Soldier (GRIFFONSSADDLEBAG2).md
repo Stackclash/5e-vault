@@ -22,6 +22,9 @@ item_recharge: long-rest
 *Wondrous item, major, legendary (requires attunement by a creature of good alignment)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Gorget-of-the-Holy-Soldier.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical gorget is imbued with the divine power of a planetar and has been passed down through multiple generations, manifesting a different power for each wearer. While wearing the gorget, you have resistance to radiant damage and gain the following benefits. If you have a feature that allows you to ignore class, race, or level requirements when you use a magic item, you can choose to gain the benefits of one of these properties. You make this choice the first time you attune to the item.
 
@@ -74,7 +77,3 @@ If you have 10 or more levels in the warlock class, you know if you hear a lie. 
 If you have 10 or more levels in the wizard class, your AC becomes 13 + your Dexterity or Intelligence modifier (your choice). In addition, you have advantage on saving throws against spells and other magical effects.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 92*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

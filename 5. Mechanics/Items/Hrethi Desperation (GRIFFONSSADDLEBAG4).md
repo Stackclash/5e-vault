@@ -30,6 +30,9 @@ item_recharge: none
 - **Damage**: 2d6 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The handle of this blade is all that remains of this old weapon. Its shattered metal blade is overgrown and replaced by sharpened desert glass, which magically radiates with a sweltering heat. You gain a +1 bonus to attack and damage rolls made with this magic weapon, which deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) fire damage to any target it hits. If you have one or more levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]], the fire damage becomes `dice:1d10|noform|noparens|avg` (`1d10`), instead.
 
@@ -42,7 +45,3 @@ When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action using
 Any levels of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] you gain as a result of this weapon's properties are lost after 1 minute.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -24,6 +24,9 @@ item_recharge: none
 *Wondrous item, major (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Scholars-Cap.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -32,7 +35,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Scholars Cap 3 (TGS1).md\|Scholar's Cap +3]]  
 
 *Source: The Griffon's Saddlebag, Book 1 p. 109*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -30,11 +30,10 @@ item_recharge: none
 
 - **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The head of this magic flail floats softly on its own, as if by a gentle current, and is covered in blunt metal prongs. The weapon's head releases a controlled explosion when it impacts a target. The first target you hit with this flail on each of your turns takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) fire damage. If you roll a 4 on the fire damage die in this way, any creature within 5 feet of the target (other than you) also takes 4 fire damage.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

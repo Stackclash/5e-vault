@@ -33,11 +33,10 @@ item_recharge: none
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Cost**: 25 gp
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This curved blade was carved from a large viper's fang. When you hit with an attack using this magic sword, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) poison damage. In addition, when you roll a 20 on an attack roll made with this weapon against a Large or smaller creature, that creature must make a DC 15 Constitution saving throw. On a failed save, a creature takes `dice:2d6|noform|noparens|avg` (`2d6`) poison damage and is [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] until the start of your next turn. The [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] creature is [[/5. Mechanics/Rules/Conditions.md#Incapacitated\|incapacitated]]. On a successful save, a creature takes half as much poison damage and isn't [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]].
 
 *Source: The Griffon's Saddlebag, Book 2 p. 181*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

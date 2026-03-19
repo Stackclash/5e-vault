@@ -23,11 +23,10 @@ item_recharge: none
 *Potion, minor, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Rejuvenating-Draft.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you regain `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) spent Hit Dice.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 144*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

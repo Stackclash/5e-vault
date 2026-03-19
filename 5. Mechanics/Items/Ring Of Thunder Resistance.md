@@ -23,9 +23,9 @@ item_recharge: none
 # Ring of Thunder Resistance
 *Ring, major, rare (requires attunement)*  
 
-
-*Source: Dungeon Master's Guide p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})
 ```
+
+
+*Source: Dungeon Master's Guide p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

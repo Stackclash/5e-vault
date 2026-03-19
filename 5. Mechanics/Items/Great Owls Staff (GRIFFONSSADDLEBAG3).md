@@ -37,6 +37,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this staff, you understand the literal meaning of any spoken language that you hear.
 
@@ -45,7 +48,3 @@ The staff has 5 charges. While holding the staff, you can use an action to expen
 The staff regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn. If you expend the staff's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff vanishes in a puff of downy feathers and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

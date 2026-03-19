@@ -35,6 +35,9 @@ item_recharge: dawn
 *Major, uncommon (requires attunement by a creature of good alignment)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Weapon-of-Verdict.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These polished wooden weapons are traditionally used by the clerics and paladins of a righteous order to punish evildoers and aid the needy. Each of these magic weapons is blessed by a powerful priest or celestial. A weapon of verdict has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) charges daily at dawn. You can use these charges to create the following effects:
 
@@ -47,7 +50,3 @@ When you hit a creature with this weapon, you can expend 1 charge to deal an ext
 As an action, you can expend 1 charge to touch a creature other than yourself with this weapon to restore `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) hit points to that creature.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 187*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

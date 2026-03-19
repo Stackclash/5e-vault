@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Locklinks.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pair of brass cufflinks look like miniature locks. While wearing them, you can use a bonus action to use one of the following properties:
 
@@ -31,7 +34,3 @@ You cast the [[/5. Mechanics/Spells/Knock.md\|knock]] spell from the cufflinks w
 You flick your wrist to cause a matching set of [[/5. Mechanics/Items/Thieves Tools.md\|thieves' tools]] to appear in that hand. The tools disappear again if you are no longer holding them.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

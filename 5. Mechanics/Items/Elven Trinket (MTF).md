@@ -20,6 +20,9 @@ item_recharge: none
 # Elven Trinket
 *Adventuring gear*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 `dice: [[Elven Trinket (MTF).md#^trinket]]`
 
@@ -36,7 +39,3 @@ item_recharge: none
 ^trinket
 
 *Source: Mordenkainen's Tome of Foes p. 64*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

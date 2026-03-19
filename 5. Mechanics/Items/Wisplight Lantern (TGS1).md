@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Wisplight-Lantern.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark hooded lantern glows with a [[/5. Mechanics/Bestiary/Undead/Will O Wisp.md\|will-o'-wisp]]'s flame that can reveal the final moments of a creature's life. The lantern sheds bright blue light in a 20-foot radius and dim light for an additional 20 feet. You can use an action to reduce the light's reach or cover it completely.
 
@@ -27,7 +30,3 @@ The lantern has 4 charges and regains `dice:1d3+1|noform|noparens|avg` (`1d3 + 1
 Alternatively, while holding the lantern, you can use an action to expend 1 of its charges to speak its command word. If there are any undead creatures within 60 feet of you that aren't behind total cover, the lantern's light flashes red before returning to its normal blue glow.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 144*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

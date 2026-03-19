@@ -22,6 +22,9 @@ item_recharge: none
 *Wondrous item, major, very rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Collar-of-the-Crystal-Veil.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This platinum collar surrounds a chained web of ornate diamonds with a series of armor-like plates. While wearing the necklace, a translucent, glittering veil surrounds you: your AC is equal to 12 + your spellcasting ability modifier if you are wearing no armor and using no shield. In addition, you gain a +1 bonus to saving throws.
 
@@ -32,7 +35,3 @@ As a bonus action while wearing the necklace, you can project its magic outward 
 The barrier remains for as long as you concentrate (as if [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentrating]] on a spell), to a maximum of 1 minute, or until it drops to 0 hit points. You can designate up to 4 creatures that can pass through the barrier when it appears. The sphere moves with you and remains centered on you. It ends early if you remove the necklace or if you move in such a way that a creature you didn't designate would be forced to enter its area. Once this property of the necklace has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -21,6 +21,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/mirror-of-life-trapping.webp#right]]  
 
 - **Weight**: 50.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.
 
@@ -37,7 +40,3 @@ While within 5 feet of the mirror, you can use an action to speak the name of on
 In a similar way, you can use an action to speak a second command word and free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 
 *Source: Dungeon Master's Guide p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

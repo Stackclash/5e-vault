@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 20 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A pale white lichen resembling bone dust, found growing in dark areas of extreme
 After using this herb, any creatures with the undead creature type have disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks made to detect you.
 
 *Source: Hamund's Herbalism Handbook p. 21*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

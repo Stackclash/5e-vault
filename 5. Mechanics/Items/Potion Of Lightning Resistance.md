@@ -22,9 +22,9 @@ item_recharge: none
 # Potion of Lightning Resistance
 *Potion, minor, uncommon*  
 
-
-*Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
 ```dataviewjs
 await dv.view("views/itemPrice", {current: dv.current()})
 ```
+
+
+*Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

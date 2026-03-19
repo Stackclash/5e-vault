@@ -23,6 +23,9 @@ item_recharge: none
 *Scroll, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Scroll-of-Momentary-Omniscience.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you use an action to read this scroll, everything becomes perfectly clear in a moment of fascinating realization. Despite the arcane phrase's manageable length, the scroll itself is outrageously long and filled with nonsensical grids, lists, smudged diagrams, and other strange musings. The scroll magically unrolls and tears itself in half once it's used, destroying the scroll. Choose one of the following benefits:
 
@@ -39,7 +42,3 @@ You immediately learn the most direct physical route to a creature, location, or
 You immediately learn the solution to a cypher, puzzle, riddle, or similar quandary. If you decode a cypher in this way, such as a secret message or series of ancient glyphs, you also know how to speak, read, and write it for the next 7 days, after which time the knowledge is lost.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

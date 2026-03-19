@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -47,7 +50,3 @@ As an action you may rub this herb on your skin. If you do so, you undergo a ran
 ^sillypad-effect-table
 
 *Source: Hamund's Herbalism Handbook p. 31*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

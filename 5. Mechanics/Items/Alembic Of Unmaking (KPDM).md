@@ -16,6 +16,9 @@ item_recharge: none
 # Alembic of Unmaking
 *Wondrous item, very rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large alembic is a glass retort supported by a bronze tripod and connected to a smaller glass container by a bronze spout. The bronze fittings are etched with arcane symbols, and the glass parts of the alembic sometimes emit bright, amethyst sparks.
 
@@ -26,7 +29,3 @@ If an item spends a full hour dissolving in the alembic, its magical energy coal
 An alembic of unmaking can distill or disenchant one item per 24 hours.
 
 *Source: Deep Magic p. 170*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

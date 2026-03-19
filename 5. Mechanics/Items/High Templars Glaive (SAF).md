@@ -28,6 +28,9 @@ item_recharge: none
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. Each time you attack, you choose whether it deals fire, cold, lightning, or slashing damage.
 
@@ -36,7 +39,3 @@ Whenever you score a critical hit, roll a `dice:d6|noform|noparens|avg` (`d6`) o
 The glaive has a large brass blade on the end of a teak shaft with elemental runes carved into it. The runes glow faintly in the presence of an extraplanar being.
 
 *Source: Strongholds and Followers p. 261*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

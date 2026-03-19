@@ -36,6 +36,9 @@ item_recharge: none
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.
 
@@ -44,7 +47,3 @@ This staff is enchanted with powerful holy magic that manifests as radiant motes
 Each mote lasts for 1 minute or until it's expended. When you roll initiative against a hostile creature, the staff creates 2 motes.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 50*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

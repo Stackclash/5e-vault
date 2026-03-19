@@ -24,6 +24,9 @@ item_recharge: none
 *Ring, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wailing-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tarnished ring is thick and has the texture of over-taut skin. Whenever you charm a creature while wearing this ring, that creature's face appears on the surface, seemingly pulled upward from within. The face is always locked in a panicked, wailing expression. The face remains for the duration of the charm, during which time you can speak into the ring. If you're on the same plane of existence as the [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] creature, it then hears your voice telepathically, allowing you to communicate with it from afar.
 
@@ -32,7 +35,3 @@ If you charm multiple creatures while wearing the ring, you choose which face ap
 Alternatively, you can use an action to pinch the face on the ring, causing it to disappear. When you do, that creature takes `dice:1d10|noform|noparens|avg` (`1d10`) psychic damage and is no longer [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]].
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -35,6 +35,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a +1 bonus to attack and damage rolls made with this magic weapon. If it hits an object, the hit is automatically a critical hit, and it can deal bludgeoning or slashing damage to the object (your choice). Further, damage from nonmagical sources can't harm the weapon.
 
@@ -43,7 +46,3 @@ You gain a +1 bonus to attack and damage rolls made with this magic weapon. When
 When you score a critical hit, roll a `dice:d6|noform|noparens|avg` (`d6`) on the Inexorables row of the [[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart (page 31). A glowing white door opens in front of you, the rolled servitor steps through, and the door vanishes. This servitor fights for you and obeys your commands. They return to Axiom after 1 minute or if they drop to 0 hit points. If this weapon strikes a member of the Court of All Flesh, they are immediately returned to Primordius.
 
 *Source: Strongholds and Followers p. 262*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

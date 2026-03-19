@@ -24,13 +24,12 @@ item_recharge: none
 
 - **Cost**: 50 gp
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
 
 Additionally, the "Crafting and Harvesting Poison" rules require the use of a poisoner's kit.
 
 *Source: Player's Handbook p. 154, Xanathar's Guide to Everything p. 83. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

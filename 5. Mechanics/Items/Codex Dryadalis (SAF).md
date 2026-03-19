@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-dryadalis.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A human adopted as an infant by elves, Irllyn Ffwllyg en Orrell ce Yth went on to become the Ganarajyan Empire's greatest authority on the fae, their magic, and their casual association with cause and effect.
 
@@ -46,7 +49,3 @@ You cease aging and no longer need to sleep. You cannot be [[/5. Mechanics/Rules
 Once per month as an action, you can transform a copse of trees into a unit of [[/5. Mechanics/Optional Features/Treants (SAF).md\|treants]]. The treants serve you for 1 hour or two battles, whichever happens first, after which they root back into the ground and become normal trees again.
 
 *Source: Strongholds and Followers p. 253*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

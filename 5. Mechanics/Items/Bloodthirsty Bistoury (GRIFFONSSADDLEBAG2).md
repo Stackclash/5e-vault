@@ -33,13 +33,12 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This elegant, dark dagger is never bloodstained and effortlessly pierces flesh. You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
 When this dagger is used by an evil-aligned creature, any creature hit by it doesn't bleed from the attack or the wound it leaves behind for 10 minutes.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 48*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

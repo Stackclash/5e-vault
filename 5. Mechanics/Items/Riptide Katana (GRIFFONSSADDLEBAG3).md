@@ -35,13 +35,12 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of silently churning water to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. Despite the nature of this watery blade, it cuts through material like any other sword. A fire elemental or similar creature made of fire that's hit with the weapon takes an extra 5 cold damage from the attack.
 
 While the weapon is on your person, you have a swimming speed of 30 feet. If you make an attack with the weapon while underwater, you're considered to have a reach of 15 feet with the attack. In addition, the first time on each of your turns when you hit an underwater creature with this weapon, you can choose to move it 5 feet in any direction.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -33,6 +33,9 @@ item_recharge: dawn
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This mighty blade belongs to the Astral Griffon Criir, a patron deity of artisans and craftsmen. Only a creature chosen by Criir can attune to this weapon, which is shared by those deemed worthy across the multiverse. Heroes selected to wield the blade are often set on great adventures across the planes of existence, and typically share at least some of the astral griffon's passion for creation.
 
@@ -63,7 +66,3 @@ While holding the sword, you can expend 1 of its charges as part of making an at
 Only Criir can destroy the weapon, which requires it to be unmade while within the extradimensional space of a Griffon's Saddlebag.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 10 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -38,7 +41,3 @@ For the next 8 hours after using this herb, you glow with a pale light reminisce
 
 
 *Source: Hamund's Herbalism Handbook p. 9*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

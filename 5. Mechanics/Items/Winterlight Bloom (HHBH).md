@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 200 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Adventurers say that while deserts have oases, snowfields have winterlight bloom
 You gain resistance to cold damage for 4 hours after using this herb.
 
 *Source: Hamund's Herbalism Handbook p. 38*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

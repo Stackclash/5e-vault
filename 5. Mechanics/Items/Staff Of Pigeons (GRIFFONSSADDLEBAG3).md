@@ -35,6 +35,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This roughly hewn wooden staff cradles a wooden birdhouse at its top. A soft cooing noise can be heard from within the birdhouse. The staff has 10 charges for the following properties.
 
@@ -57,7 +60,3 @@ Regardless of the manifested pigeon's size, its statistics remain the same, and 
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge from the staff, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the birdhouse cracks apart and the staff's magic is lost.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

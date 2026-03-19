@@ -24,11 +24,10 @@ item_recharge: none
 *Ring, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/ring-of-protection.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to AC and saving throws while wearing this ring.
 
 *Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

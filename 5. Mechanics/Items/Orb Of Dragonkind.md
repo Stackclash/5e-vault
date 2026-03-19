@@ -20,6 +20,9 @@ item_recharge: dawn
 ![[/5. Mechanics/Items/img/orb-of-dragonkind.webp#right]]  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Ages past, on the world of Krynn, elves and humans waged a terrible war against evil dragons. When the world seemed doomed, the wizards of the Towers of High Sorcery came together and worked their greatest magic, forging five Orbs of Dragonkind (or Dragon Orbs) to help them defeat the dragons. One orb was taken to each of the five towers, and there they were used to speed the war toward a victorious end. The wizards used the orbs to lure dragons to them, then destroyed the dragons with powerful magic.
 
@@ -54,7 +57,3 @@ While you control the orb, you can use an action to cause the artifact to issue 
 An Orb of Dragonkind appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A [[/5. Mechanics/Spells/Disintegrate.md\|disintegrate]] spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
 
 *Source: Dungeon Master's Guide p. 225. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

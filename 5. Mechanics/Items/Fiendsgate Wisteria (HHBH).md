@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 10 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A particularly stunning variety of wisteria with a distinctive yellow streak on 
 As part of your movement, you may scatter wisteria petals at your feet as you walk. A bag of these petals can make a line of up to 30 feet in length. If a creature with the fiend creature type attempts to crossover a line of petals, they must make a DC 15 Wisdom saving throw. On a failure, their speed is reduced to 0 for the rest of their turn.
 
 *Source: Hamund's Herbalism Handbook p. 13*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

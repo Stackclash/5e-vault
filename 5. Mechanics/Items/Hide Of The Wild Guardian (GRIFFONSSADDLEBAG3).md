@@ -22,6 +22,9 @@ item_recharge: none
 *Wondrous item, major, legendary (requires attunement by a druid)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Hide-of-the-Wild-Guardian.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This well-worn gray bearskin cloak has been passed down from druid to druid for generations. While wearing it, you gain the following benefits:
 
@@ -34,7 +37,3 @@ The maximum challenge rating beast you can transform into with your Wild Shape i
 While transformed into a beast, you gain a +3 bonus to AC, as well as to attack and damage rolls with natural weapons, even if the cloak merges into your new form.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

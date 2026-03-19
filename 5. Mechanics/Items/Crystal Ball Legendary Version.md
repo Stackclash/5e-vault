@@ -21,6 +21,9 @@ item_recharge: none
 *Wondrous item, major, legendary (requires attunement)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -29,7 +32,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Crystal Ball Of True Seeing.md\|Crystal Ball of True Seeing]]
 
 *Source: Dungeon Master's Guide p. 159*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

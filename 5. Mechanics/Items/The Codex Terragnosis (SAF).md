@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-terragnosis.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Written by Hierophant Prithviraña in the 738th year of the Age of Wonders, this book is a comprehensive treatise on the nature of the Mundane World and the material and philosophical principles that set it apart from Arcadia, Quintessence, and the World Below.
 
@@ -42,7 +45,3 @@ As an action once per day, you can cast cataclysm. Cataclysm (battle magic): Tar
 Once, a druid who holds the codex terragnosis may assume the form of [[/5. Mechanics/Bestiary/Celestial/The Phoenix (SAF).md\|the phoenix]]. This form lasts until sunrise or sunset, whichever comes first, at which point the phoenix dies in a flare of brilliant light. The druid must make a Constitution save against DC 18 to survive the conflagration. The codex terragnosis itself survives the conflagration and, regardless of whether the druid lives, relocates itself somewhere safer, and the Defender of all the Earth ability recharges.
 
 *Source: Strongholds and Followers p. 247*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

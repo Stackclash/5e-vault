@@ -28,11 +28,10 @@ item_recharge: none
 
 - **Armor Class**: 11 + Dex modifier
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This set of leather armor was made from the remains of a hardy and ferocious owlbear. While wearing this armor, if you fail a Constitution saving throw against an effect from a hostile source, you can choose to succeed instead. Once this property of the armor has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 134*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

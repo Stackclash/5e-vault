@@ -27,11 +27,10 @@ item_recharge: none
 
 - **Armor Class**: 13 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +1 bonus to AC while you wear this armor. You are considered proficient with this armor even if you lack proficiency with medium armor.
 
 *Source: Dungeon Master's Guide p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

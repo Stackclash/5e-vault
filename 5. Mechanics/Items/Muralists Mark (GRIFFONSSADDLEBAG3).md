@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Muralists-Mark.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This painter's apron is covered with smears of paint, which never entirely dry. While wearing the apron, you can use it and the paints on it as if it were a painter's palette, mixing and manipulating the colors on it indefinitely. The apron magically produces paints in whatever colors you need.
 
@@ -40,7 +43,3 @@ Minor physical damage to the surface doesn't harm you, but its partial destructi
 You can remain in this form for up to 1 hour, all at once or in several shorter bursts, each one using a minimum of 5 minutes from the duration. You can end the effect early using a bonus action. When the effect ends, you reappear in the nearest unoccupied space to your location on the surface. The apron regains 5 minutes of melding capability for every 1 hour it's not in use.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

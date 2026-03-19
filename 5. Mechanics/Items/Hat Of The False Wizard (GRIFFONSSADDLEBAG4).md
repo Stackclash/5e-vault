@@ -19,6 +19,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Hat-of-the-False-Wizard.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this hat, you can use an action to cast either the [[/5. Mechanics/Spells/Druidcraft.md\|druidcraft]], [[/5. Mechanics/Spells/Thaumaturgy.md\|thaumaturgy]], or [[/5. Mechanics/Spells/Prestidigitation.md\|prestidigitation]] spell from it.
 
@@ -29,7 +32,3 @@ This curse is only revealed and extended to you when you cast a spell that isn't
 Alternatively, once you have succeeded on at least 10 cumulative Intelligence checks or saving throws while wearing the hat, you can choose to forcibly end the curse on yourself after succeeding on an Intelligence check or save. The hat is then reduced to tatters and destroyed.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

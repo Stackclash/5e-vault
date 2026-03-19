@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item, rare*  
 ![[/5. Mechanics/Items/img/quaals-feather-token.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The DM chooses the kind of token or determines it randomly.
 
@@ -42,7 +45,3 @@ This tiny object looks like a feather. Different types of feather tokens exist, 
 - [[/5. Mechanics/Items/Quaals Feather Token Whip.md\|Quaal's Feather Token, Whip]]
 
 *Source: Dungeon Master's Guide p. 188*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

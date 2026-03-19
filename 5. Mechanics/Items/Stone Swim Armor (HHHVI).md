@@ -30,6 +30,9 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing and attuned to this armor, you gain the following abilities:
 
@@ -39,7 +42,3 @@ While wearing and attuned to this armor, you gain the following abilities:
 - You have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks made to hide in rocky terrain.  
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 142, Hamund's Harvesting Handbook: Volume II p. 65*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Homeward-Boots.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These well-worn boots have an ever-changing arcane circle ingrained into their heels. While wearing the boots, you can use an action to speak their first command word to create an arcane circle, as per the [[/5. Mechanics/Spells/Teleportation Circle.md\|teleportation circle]] spell, on the ground below you. The circle appears as a trail of dirt or similar muck from the bottom of the shoe, and is treated as a permanent one for the purposes of this spell. Speaking the first command word again destroys the first circle, magically cleaning the surface it was placed on, before creating a new one at your location.
 
@@ -28,7 +31,3 @@ You can speak the boots' second command word as an action while wearing them to 
 Once you use the boots to teleport in this way, they can't do so again until `dice:1d3|noform|noparens|avg` (`1d3`) days have passed. In the meantime, you can still speak the boots' first command word.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 106*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

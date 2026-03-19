@@ -26,6 +26,9 @@ item_recharge: dawn
 ![[/5. Mechanics/Items/img/crystalline-chronicle.webp#right]]  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An etched crystal sphere the size of a grapefruit hums faintly and pulses with irregular flares of inner light. While you are touching the crystal, you can retrieve and store information and spells within the crystal at the same rate as reading and writing. When found, the crystal contains the following spells: [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]], [[/5. Mechanics/Spells/Intellect Fortress (TCE).md\|intellect fortress]], [[/5. Mechanics/Spells/Rarys Telepathic Bond.md\|Rary's telepathic bond]], [[/5. Mechanics/Spells/Sending.md\|sending]], [[/5. Mechanics/Spells/Telekinesis.md\|telekinesis]], [[/5. Mechanics/Spells/Tashas Mind Whip (TCE).md\|Tasha's mind whip]], and [[/5. Mechanics/Spells/Tensers Floating Disk.md\|Tenser's floating disk]]. It functions as a spellbook for you, with its spells and other writing psychically encoded within it.
 
@@ -37,7 +40,3 @@ The crystal has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`)
 - When you cast a wizard spell, you can expend 1 charge to cast the spell without verbal, somatic, or material components of up to 100 gp value.  
 
 *Source: Tasha's Cauldron of Everything p. 124*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

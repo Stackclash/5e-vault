@@ -22,11 +22,10 @@ item_recharge: none
 *Adventuring gear*  
 
 - **Weight**: 0.002 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Most commonly found inside a [[/5. Mechanics/Items/Ball Bearings Bag Of 1000.md\|bag of ball bearings]].
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

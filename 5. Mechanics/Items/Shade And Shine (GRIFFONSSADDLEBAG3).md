@@ -34,6 +34,9 @@ item_recharge: dawn
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These two axes are magically bound and count as a single magic item with regard to the number of magic items you can attune to. You gain a +2 bonus to attack and damage rolls made with these magic weapons, which return to your open hand after you make a ranged attack with them. If the two axes are separated and you are holding one of them, you can use a bonus action to cause the other one to teleport and reappear in your open hand or at your feet (your choice each time).
 
@@ -52,7 +55,3 @@ The second axe, named Shine, is made from a pale silver metal. Thin rays of ligh
 While holding at least one of the axes, you can use a special reaction when a creature that you can see within 30 feet of you is hit with a melee attack. When you do, you immediately teleport to an unoccupied space that you can see within 5 feet of the target, and the attacking creature takes a -10 penalty to the triggering attack roll, potentially causing it to miss. If you're surrounded by the aura from Shade, the attacker also takes `dice:2d6|noform|noparens|avg` (`2d6`) necrotic damage, or `dice:2d6|noform|noparens|avg` (`2d6`) radiant damage if you're surrounded by the aura from Shine. This special reaction doesn't count towards the normal number of reactions you can take. This property can be used twice, and Shade and Shine regain all expended uses of it daily at dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

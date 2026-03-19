@@ -37,6 +37,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This two-pronged weapon has a sickly connection to another plane of existence. While holding the bident, you can use an action to release 2 simultaneous beams of eldritch force from it, with each beam originating from one of the weapon's prongs. Make a ranged spell attack for each beam, using a spell attack bonus of +7, against either one or two targets that you can see within 60 feet of you. On a hit, a target takes `dice:1d8|noform|noparens|avg` (`1d8`) force damage.
 
@@ -49,7 +52,3 @@ If you're a warlock, you are proficient with this weapon while you're attuned to
 Additionally, if you're a warlock, you can use an action to cast the [[/5. Mechanics/Spells/Plane Shift.md\|plane shift]] spell from the bident while holding it to transport yourself only to the plane of existence and location of your warlock patron. You remain there for up to 24 hours or until you use an action to return to your previous location on your original plane of existence. Once this property of the bident has been used, it can't be used again for one year.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 77*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

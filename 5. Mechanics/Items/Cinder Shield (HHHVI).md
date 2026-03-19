@@ -23,11 +23,10 @@ item_recharge: none
 - **Armor Class**: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a +1 bonus to AC while wearing this shield. While wearing this shield, if you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage and if that damage type is fire, you may use your reaction to instead take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 122*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

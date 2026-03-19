@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Clockwork-Mend-A-Pillar.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This segmented mechanical caterpillar is 5 inches long, weighs 1 pound, and is made of copper. It has several tiny copper legs that give it a 5-foot walking speed. Within it are multiple containers filled with silk filaments, spools of thread, dyes, and an incredibly strong adhesive. Each of these materials is expelled through a tube in its mouth, and it is equipped with a transmutation lens in its head that allows it to change the adhesive to various kinds of wood, metal, stone, or crystal.
 
@@ -27,7 +30,3 @@ As an action, you can speak the caterpillar's command phrase to cause it to repa
 The caterpillar is considered a magical object and is not a creature. It has AC 10, 15 hit points, and has resistance to all damage types. If the [[/5. Mechanics/Spells/Mending.md\|mending]] spell is cast on the caterpillar while it has at least 1 hit point, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. If the caterpillar drops to 0 hit points, it can't be used again for 24 hours, at which point it regains all its hit points.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 62*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

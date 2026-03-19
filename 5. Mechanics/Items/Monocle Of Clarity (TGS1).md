@@ -19,6 +19,9 @@ item_recharge: dawn
 *Wondrous item, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Monocle-of-Clarity.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You can change the monocle's filter by rotating its outer ring. A small arrow along the edge of the frame indicates the monocle's selected filter. The monocle has 4 charges and regains 1d3 + 1 expended charges daily at dawn. While wearing the monocle, you can expend 1 of its charges as an action to activate one of the following filters and gain various benefits. The effects last for 1 hour while you continue to wear the monocle or until you change its filter.
 
@@ -35,7 +38,3 @@ While looking through this filter, you have darkvision out to a range of 60 feet
 When gazing through this filter, you see invisible creatures and objects as if they were visible.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 89*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

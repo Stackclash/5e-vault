@@ -28,11 +28,10 @@ item_recharge: none
 *Rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mirrorlight-Stinger.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bow is decorated with mirrorlight crystals, allowing it to recreate illusions of the arrows fired from it. When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action using the bow, you can use a bonus action to make a special ranged weapon attack with it. This attack fires an illusory arrow from the bow, and on a hit, it deals force damage instead of piercing damage. You don't add your ability modifier to the damage of this special attack, unless that modifier is negative. The illusory arrow vanishes immediately after the attack.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

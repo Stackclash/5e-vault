@@ -29,6 +29,9 @@ item_recharge: none
 *Major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Armor-of-the-Reef-Warden.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor is formed from living coral. While you're attuned to it, the armor magically opens and closes around you whenever you don or doff it, as if you were a welcome part of its ecosystem. As a result, doing so takes only an action, instead of multiple minutes. You also gain a swimming speed equal to your walking speed while wearing the armor, and you can walk normally on any surface while underwater (such as on a wall or ceiling).
 
@@ -51,7 +54,3 @@ When you're hit by a melee attack or are [[/5. Mechanics/Rules/Conditions.md#Gra
 You can use a bonus action on your turn to create a swirling school of spectral fish around you. The fish remain until the start of your next turn and grant any creatures of your choice within 10 feet of you half cover for the duration. If you're underwater, the fish grant three-quarters cover instead.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -35,6 +35,9 @@ item_recharge: long-rest
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20Artifact\|Crafted Artifact]], [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 It is the belief in several demonic sects that [[/4. World Almanac/NPCs/Demogorgon (MPMM).md\|Demogorgon]] is fated to die upon the end of the Blood War and the resulting desolation of both devil and demon society. From the ashes of these realms will rise two twins, both of them immensely powerful warlords who shall raise armies against one another and start the war anew. They shall war over a magical Y-shaped staff crafted from the Prince of Demons themselves, with whoever holds it claiming dominion over the other and ushering in a new age of madness.
 
@@ -82,7 +85,3 @@ When you become attuned to the staff, you become cursed. Whenever you finish a l
 This staff can only be destroyed if the creature attuned to it is slain by a creature attuned to an item made from a material harvested from another Demon Lord. If this occurs, the staff splits down its length into two parts and loses its power. However, if these two parts are thrown together into the waters of the Gaping Maw, the pieces will disappear and then reappear `dice:1d100|noform|noparens|avg` (`1d100`) years later in a random place in the multiverse, fixed and restored to full power.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 106. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

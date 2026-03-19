@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 100 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A rather striking flower in the shape of a star, covered in tiny, reflective hai
 Once prepared, this herb may be used by up to 6 creatures simultaneously. All creatures that used this herb gain [[/5. Mechanics/Rules/Variant Rules/Inspiration (PHB).md\|inspiration]] that lasts for the next 8 hours.
 
 *Source: Hamund's Herbalism Handbook p. 27*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

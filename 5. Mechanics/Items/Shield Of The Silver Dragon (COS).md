@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
 
@@ -31,7 +34,3 @@ The shield is emblazoned with a stylized silver dragon that is the emblem of the
 A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
 *Source: Curse of Strahd p. 68*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

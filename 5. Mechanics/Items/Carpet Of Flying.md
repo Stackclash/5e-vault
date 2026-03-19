@@ -18,6 +18,9 @@ item_recharge: none
 # Carpet of Flying
 *Wondrous item, major, very rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -27,7 +30,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Carpet Of Flying 6 Ft 9 Ft.md\|Carpet of Flying, 6 ft. × 9 ft.]]
 
 *Source: Dungeon Master's Guide p. 157*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

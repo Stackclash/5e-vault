@@ -20,6 +20,9 @@ item_recharge: long-rest
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Unstoppable-Heart.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This smooth, copper device looks a bit like a mechanical heart. Glowing red solution moves through its internal chambers and valves in perfect sequence. As part of attuning to the heart, you must hold it against your chest for the duration. Once you're attuned to it, it magically vanishes within your chest and begins to beat alongside your normal heart.
 
@@ -35,7 +38,3 @@ While inside your body, the heart grants you the following benefits:
 If your attunement to the heart ends, it magically appears in your open hand or in the nearest unoccupied space.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

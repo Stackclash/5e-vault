@@ -19,11 +19,10 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![[/5. Mechanics/Items/img/boots-of-elvenkind.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks that rely on moving silently.
 
 *Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

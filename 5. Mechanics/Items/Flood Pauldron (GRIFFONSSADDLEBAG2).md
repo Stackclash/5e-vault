@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Flood-Pauldron.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This jewel-encrusted pauldron has the distinct appearance of a large conch shell. While wearing this pauldron, you can breathe underwater, and you have a swimming speed of 30 feet.
 
@@ -30,7 +33,3 @@ Any creature other than you in the cylinder when it appears must make a DC 13 St
 Once this property of the pauldron has been used, it can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 82*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

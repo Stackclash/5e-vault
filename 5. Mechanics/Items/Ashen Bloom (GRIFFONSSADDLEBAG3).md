@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ashen-Bloom.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An ashen bloom is a rare flower that grows in earth that's been charred by a phoenix's fire. Once it blooms, it continues to live indefinitely until all of its petals are removed, even if it's plucked from the soil. When found, an ashen bloom has `dice:2d4+2|noform|noparens|avg` (`2d4 + 2`) petals remaining. The flower crumbles to ash once its last petal is removed.
 
@@ -41,7 +44,3 @@ You can smoke one petal in a pipe or similar object over the course of 1 minute,
 You can steep one petal in 8 ounces of cold water over the course of 10 minutes, by which point the water is boiling and crimson. Drinking all of this tea, which takes at least 1 minute, reduces your [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] level by one.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -30,11 +30,10 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this armor, you gain a +2 bonus to AC, and you may not be teleported or sent to another plane of existence against your will; any attempt to do so automatically fails.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 93*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

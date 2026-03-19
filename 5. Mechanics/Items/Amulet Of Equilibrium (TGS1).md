@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Amulet-of-Equilibrium.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This spiraling pendant is made of three magic-sensitive panes of colorful crystal. Each piece of crystal is attuned to a different arcane element. If you can cast spells, you can use the amulet as a spellcasting focus while you're attuned to it.
 
@@ -28,7 +31,3 @@ The amulet has 4 charges and regains 2 expended charges daily at dawn. When you 
 Whenever you take cold, fire, or lightning damage from a hostile creature, the amulet regains 1 charge.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 27*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

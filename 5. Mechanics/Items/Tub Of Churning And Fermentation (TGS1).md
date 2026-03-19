@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Tub-of-Churning-and-Fermentation.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This squat wooden and ceramic tub has a screw-on lid that fits snuggly around its base. The tub can hold up to 2 gallons of liquid or 1 cubic foot of material within it. You can leave a liquid or other perishable in the tub and secure the lid before saying the name of the end result you'd like the contents to turn into. If you say the name of a possible result, the tub clicks lightly before locking its lid shut for 10 minutes.
 
@@ -38,7 +41,3 @@ Once the tub has been used in this way, it can't be used again until the followi
 ^tub-of-churning-and-fermentation-results
 
 *Source: The Griffon's Saddlebag, Book 1 p. 137*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

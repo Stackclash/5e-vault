@@ -31,13 +31,12 @@ item_recharge: none
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic whip releases a thunderous burst of sound from it when snapped that can damage faraway targets with its ferocity.
 
 When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action while holding this whip, you can use it to attack a target that's up to 5 feet outside your normal reach with the weapon. On a hit, the weapon's damage die changes to a `dice:d6|noform|noparens|avg` (`d6`) and deals thunder damage instead of slashing damage. Hit or miss, it emits the sound of a roaring lion audible out to 100 feet.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 149*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

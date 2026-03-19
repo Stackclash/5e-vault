@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Tome-of-Advanced-Fighting-Styles.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This book's magically charged pages are filled with detailed descriptions and illustrations that teach unique styles of combat. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, you gain one of the following Advanced Fighting Styles:
 
@@ -49,7 +52,3 @@ When you hit with an attack using a weapon that has the versatile property, you 
 You can't take an Advanced Fighting Style option more than once, even if you later get to choose again. Once the book has been used to grant an Advanced Fighting Style, it loses its magic, but regains it in a century.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 176*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

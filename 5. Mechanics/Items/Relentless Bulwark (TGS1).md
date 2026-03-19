@@ -28,11 +28,10 @@ item_recharge: dawn
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This hefty metal shield is virtually impenetrable. The shield has 6 charges and regains `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) expended charges daily at dawn. While holding the shield, you can use an action to expend 1 of its charges to cast the [[/5. Mechanics/Spells/Shield Of Faith.md\|shield of faith]] spell from it. Whenever you would fail a Constitution saving throw to maintain concentration on this spell, you can use your reaction to expend another charge from the shield to succeed on the saving throw instead. You can only use your reaction in this way if you're holding the shield.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 105*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

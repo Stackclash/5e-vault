@@ -17,11 +17,10 @@ item_recharge: none
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While you have this shell next to your ear, you gain advantage on any Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks that rely on hearing.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 140*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

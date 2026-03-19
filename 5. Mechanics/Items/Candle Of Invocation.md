@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, very rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/candle-of-invocation.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the [[/5. Mechanics/Spells/Detect Evil And Good.md\|detect evil and good]] spell. The DM chooses the god and associated alignment or determines the alignment randomly.
 
@@ -45,7 +48,3 @@ While lit, the candle sheds dim light in a 30-foot radius. Any creature within t
 Alternatively, when you light the candle for the first time, you can cast the [[/5. Mechanics/Spells/Gate.md\|gate]] spell with it. Doing so destroys the candle.
 
 *Source: Dungeon Master's Guide p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

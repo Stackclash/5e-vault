@@ -21,6 +21,9 @@ item_recharge: dawn
 *Wand, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Wond-of-Fireballs.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand functions as a [[/5. Mechanics/Items/Wand Of Fireballs.md\|wand of fireballs]]. However, during the wand's creation, the spell's transcription was riddled with arcane mistakes. As a result, using an action to cast [[/5. Mechanics/Spells/Fireball.md\|fireball]] from the wand can lead to unpredictable outcomes.
 
@@ -40,7 +43,3 @@ Whenever you cast the [[/5. Mechanics/Spells/Fireball.md\|fireball]] spell from 
 The wand has 7 charges. It regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand casts [[/5. Mechanics/Spells/Fireball.md\|fireball]], centered on you, and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

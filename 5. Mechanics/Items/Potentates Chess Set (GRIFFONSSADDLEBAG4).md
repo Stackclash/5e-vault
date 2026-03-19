@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Potentates-Chess-Set.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When found, this chess set is missing half its pieces. The set is contained within a case, which often doubles as the board when opened up. The case itself isn't magical, but the pieces within it are. While the set is on your person and within its case, you can use an action to invoke one of its magical pieces. When you do, a spectral, Medium replica of that piece appears at your location before beginning to move.
 
@@ -52,7 +55,3 @@ When you invoke the king, you cast [[/5. Mechanics/Spells/Antilife Shell.md\|ant
 A spectral piece disappears immediately after it's used. A piece's movement is blocked by total cover. A complete set has 16 pawns, 4 bishops, 4 knights, 4 rooks, 2 queens, and 2 kings. You add your proficiency bonus to any check you make to play a game with the chess set.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

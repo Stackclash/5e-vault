@@ -32,6 +32,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff is encircled with dangling strips of paper. At its top is a special reservoir of water; the reservoir holds 10 gallons of water. It regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended gallons of water daily at dawn, and it can't be refilled by any other mundane or magical means. Regardless of the amount of water inside, the staff always weighs 4 pounds.
 
@@ -58,7 +61,3 @@ Alternatively, you can use a reaction when a creature that you can see takes fir
 When the bubble pops, any other creature within 5 feet of the surrounded target takes `dice:2d6|noform|noparens|avg` (`2d6`) cold damage, or fire damage if the bubble turns into steam.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

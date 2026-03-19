@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Clockwork-Inkbeetle.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This minuscule, mechanical beetle is 1 inch long and quietly whirs with a mix of magical and mechanical forces. Placing the beetle on a piece of parchment you hold or carry causes it to spring to life and begin tracking your travels. As you move, so does the beetle: leaving behind a small line of ink. The ink immediately dries and doesn't dissolve in water. In addition, the beetle's small frame allows it to move even while enclosed in a book or similar enclosure without losing its sense of movement or direction.
 
@@ -29,7 +32,3 @@ The beetle always knows which direction is north. When placed on a piece of parc
 Attaching one [[/5. Mechanics/Items/Bands Of The Found And Lost (TGS1).md\|Band of the Found and Lost]] to the beetle while you wear the other allows the beetle to move and trace your movements in this way from afar so long as you are both on the same plane of existence.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 45*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

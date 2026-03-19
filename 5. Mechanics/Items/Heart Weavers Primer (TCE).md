@@ -25,6 +25,9 @@ item_recharge: dawn
 *Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pristine book smells faintly of a random scent you find pleasing. When found, the book contains the following spells: [[/5. Mechanics/Spells/Antipathy Sympathy.md\|antipathy/sympathy]], [[/5. Mechanics/Spells/Charm Person.md\|charm person]], [[/5. Mechanics/Spells/Dominate Person.md\|dominate person]], [[/5. Mechanics/Spells/Enthrall.md\|enthrall]], [[/5. Mechanics/Spells/Hypnotic Pattern.md\|hypnotic pattern]], [[/5. Mechanics/Spells/Modify Memory.md\|modify memory]], and [[/5. Mechanics/Spells/Suggestion.md\|suggestion]]. It functions as a spellbook for you.
 
@@ -36,7 +39,3 @@ The book has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) ex
 - When you cast an enchantment spell, you can expend 1 charge to impose disadvantage on the first saving throw one target makes against the spell.  
 
 *Source: Tasha's Cauldron of Everything p. 128*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

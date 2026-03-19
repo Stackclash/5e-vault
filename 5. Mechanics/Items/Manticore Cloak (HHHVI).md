@@ -17,11 +17,10 @@ item_recharge: none
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this cloak, you have advantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Survival\|Survival]]) checks made to track the location of chimeras, griffons, perytons, wyverns, and dragons (true dragons only).
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 134*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

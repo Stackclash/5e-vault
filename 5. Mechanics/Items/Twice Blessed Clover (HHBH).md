@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 500 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ An auspicious variety of clover, identifiable by its seven leaves and faint glow
 As a bonus action, you may crush this clover in your hand. If you do so, any attack rolls, ability checks, and saving throws you make until the start of your next turn are made with advantage. When used once, this herb becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 37*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

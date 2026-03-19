@@ -30,11 +30,10 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this armor, you gain a +3 bonus to AC, you are immune to necrotic damage, and if you are struck by a critical hit, you may use your reaction to turn it into a normal hit instead, cancelling any effects that would normally be triggered by that critical hit.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 81*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -27,6 +27,9 @@ item_recharge: none
 - **Armor Class**: 12 + Dex modifier
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 13.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this armor, you gain a +3 bonus to your AC. In addition, you gain the following benefits:
 
@@ -34,7 +37,3 @@ While wearing this armor, you gain a +3 bonus to your AC. In addition, you gain 
 - You ignore difficult terrain, and magical effects can't reduce your speed or cause you to be [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]]. You can spend 5 feet of movement to escape from nonmagical restraints or from being [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]].  
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 132*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

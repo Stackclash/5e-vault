@@ -19,6 +19,9 @@ item_recharge: none
 # Ioun Stone, Protection
 *Wondrous item, major, rare (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 An *Ioun stone* is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun stone* exist, each type a distinct combination of shape and color.
 
@@ -29,7 +32,3 @@ A stone has AC 24, 10 hit points, and resistance to all damage. It is considered
 You gain a +1 bonus to AC while this dusty rose prism orbits your head.
 
 *Source: Dungeon Master's Guide p. 176. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

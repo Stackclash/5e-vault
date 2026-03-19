@@ -29,6 +29,9 @@ item_recharge: none
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 > [!note]
 > This item is in improved version of the [[/5. Mechanics/Items/Mind Whip (HHHVI).md\|Mind Whip]].
@@ -38,7 +41,3 @@ When you make a [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]] check, you m
 You also have a +1 bonus to attack and damage rolls made with this weapon.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 61*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -42,11 +42,10 @@ item_recharge: none
 # Cast-Off Armor
 *Minor, common*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You can doff this armor as an action.
 
 *Source: Xanathar's Guide to Everything p. 136*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

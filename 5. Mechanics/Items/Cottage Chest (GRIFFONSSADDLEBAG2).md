@@ -19,6 +19,9 @@ item_recharge: dawn
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Cottage-Chest.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This 1-foot-long chest looks like a replica of a woodland cottage and is magically locked. You can use an action to place this chest on the ground and speak its command word. The chest immediately unlocks and grows into a cottage that remains until you use an action to speak the command word that dismisses it, which works only if the cottage is empty. When dismissed, the cottage returns to its normal chest form. If there isn't enough space for the cottage or there are creatures in its area when you speak the command word, the chest remains locked and the action is wasted.
 
@@ -31,7 +34,3 @@ Further, fey and fiends can't enter the cottage unless you choose to let them, a
 The cottage is made of wood and plaster, and its magic prevents it from being tipped over or moved. The roof, the door, and the walls (including the windows) each have 60 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a [[/5. Mechanics/Spells/Wish.md\|wish]] spell can repair the cottage (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of wish causes the roof, the door, or one wall to regain all its hit points.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 65*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -28,13 +28,12 @@ item_recharge: none
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This whip has 6 wicked tails made from a roper tendril that still had its hair-like growths intact. The wielder of this whip may choose to make a [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]] check using the whip instead of their free hand.
 
 A creature [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] by this whip is considered [[/5. Mechanics/Rules/Conditions.md#Restrained\|restrained]] on top of being [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] and has disadvantage on all Strength checks and Strength saving throws.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 123*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

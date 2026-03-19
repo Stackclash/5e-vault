@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 20 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ An ubiquitous bush long sought by creatures of all kinds due to its anaesthetic 
 As an action, you may use this herb by rubbing it on your body and wounds. For the next hour, you gain 8 temporary hit points at the start of each of your turns, but have disadvantage on Dexterity saving throws and Dexterity ability checks.
 
 *Source: Hamund's Herbalism Handbook p. 26*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

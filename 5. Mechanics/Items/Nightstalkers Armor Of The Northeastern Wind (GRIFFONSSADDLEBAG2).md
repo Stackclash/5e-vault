@@ -32,6 +32,9 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This unusual armor is composed of blue metal plates with a horned helm, and was tempered by the frigid breath of an oni.
 
@@ -51,7 +54,3 @@ While wearing this armor, you can use a bonus action to speak its command word t
 Once this property has been used, it can't be used again until the next dusk.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 129*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

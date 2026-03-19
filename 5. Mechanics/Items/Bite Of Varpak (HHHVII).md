@@ -69,6 +69,9 @@ item_recharge: none
 *Cursed item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 As a bonus action, you may activate this weapon. It remains active for 1 minute or until you deactivate it as another bonus action or drop it. While activated, any successful attacks made with this weapon deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) acid damage. In addition, whenever you make a successful attack against a creature made of flesh, you heal an amount of hit points equal to the amount of acid damage dealt by this weapon.
 
@@ -77,7 +80,3 @@ As a bonus action, you may activate this weapon. It remains active for 1 minute 
 While attuned to this weapon you are cursed. While cursed in this way, you cannot voluntarily end your attunement to this weapon and the amount of food you require to eat per day is doubled. If you spend a day without eating this amount of food, you automatically gain one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] and have a 25 percent chance of gaining a troll-like mutation such as: discolored skin, warty scars, or vestigial body parts. Casting the [[/5. Mechanics/Spells/Remove Curse.md\|remove curse]] spell on you or this weapon ends the curse and breaks your attunement to this weapon. However, it does not end any of the mutations you may have gained, which may only be removed if you are targeted by the [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 54*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

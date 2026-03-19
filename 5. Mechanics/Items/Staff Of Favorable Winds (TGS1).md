@@ -38,6 +38,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While you hold this staff, areas affected by strong winds do not count as difficult terrain for you.
 
@@ -48,7 +51,3 @@ In addition, while holding the staff, you can create a harmless sensory effect u
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff turns to dust and is blown away by a sudden flurry of wind.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 122*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -21,6 +21,9 @@ item_recharge: none
 *Wondrous item, rare (requires attunement by a warlock or wizard)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Necromancers-Lantern.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this grisly lantern, you can use a bonus action to speak its first command word. The lantern then springs alight, shedding bright light in a 30-foot radius and dim light for an additional 30 feet; the light is a sickly green. Speaking the command word again using a bonus action extinguishes the lantern.
 
@@ -29,7 +32,3 @@ Whenever a Small or larger living creature dies within the lantern's light, it g
 The lantern can control up to four skeletons at a time in this way. It can summon up to a total of eight skeletons each day between dusks.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

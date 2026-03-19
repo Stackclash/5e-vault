@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pipe has 10 charges. If you are proficient in a wind instrument, you may expend charges and use your action to play this pipe and use one of the following abilities of your choice:
 
@@ -36,7 +39,3 @@ You expend 3 charges and target one creature you can see within 60 feet of you. 
 This pipe regains all expended charges at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 93*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

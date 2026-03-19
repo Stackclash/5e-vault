@@ -35,6 +35,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This sword seems to absorb any light that touches it, making it appear darker than the deepest midnight. You gain a +3 bonus to attack and damage rolls made with this magic weapon. While you hold this sword, you treat any magical light, darkness, or atmospheric effect within 30 feet of you as if it were nonmagical and breathable.
 
@@ -45,7 +48,3 @@ You can use an action while holding the sword to release an absorbed spell. When
 The interrupted spell remains absorbed by the sword for up to 8 hours or until released. Absorbing a new spell replaces the one stored within the sword.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 130*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

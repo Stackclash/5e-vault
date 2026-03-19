@@ -29,11 +29,10 @@ item_recharge: none
 # Stone Cleaver Weapon
 *Rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weapon deals double damage against nonmagical objects made of stone or metal. Additionally, you ignore the damage threshold when attacking any nonmagical object made of stone or metal with this weapon.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 142*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

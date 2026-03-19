@@ -23,11 +23,10 @@ item_recharge: none
 *Adventuring gear*  
 
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.
 
 *Source: Dungeon Master's Guide p. 268*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -20,11 +20,10 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Adventurers-Overcoat.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This well-traveled and now faded overcoat has been worn by countless other mountaineering adventurers. A thin layer of frost hangs along the coat's hem. While wearing the coat, you and friendly creatures within 5 feet of you have resistance to cold damage.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 32*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

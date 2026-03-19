@@ -23,6 +23,9 @@ item_recharge: none
 *Ring, major, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ring-of-Honor.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden ring is shaped like a crown. It can hold up to 5 charges and gains 1 charge each time you slay a Small or larger hostile creature while wearing it. The ring loses all charges if you're reduced to 0 hit points or remove it.
 
@@ -39,7 +42,3 @@ You're immune to the [[/5. Mechanics/Rules/Conditions.md#Frightened\|frightened]
 The effect ends early if you're reduced to 0 hit points. If you don't use this property within 24 hours of the ring gaining its 5th charge, the ring loses all charges.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

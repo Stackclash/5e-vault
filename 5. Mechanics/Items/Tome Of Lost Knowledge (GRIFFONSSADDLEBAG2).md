@@ -20,6 +20,9 @@ item_recharge: short-rest
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Tome-of-Lost-Knowledge.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gold-trimmed book's cover is embossed with a portrait of Ogden Fellweaver (see appendix L), a legendary wizard infamous for his ill-gotten knowledge. If you can attune to this item, you can use it as a spellbook and an arcane focus. If your attunement to the book ends, anything written in the book disappears.
 
@@ -40,7 +43,3 @@ While holding the book, you can use an action to channel its hidden knowledge. W
 This book is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the book, keeping it within reach at all times. In addition, you are compelled to use this book as your spellbook. Each time you prepare a spell from another spellbook, you take psychic damage equal to the spell's level.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 176*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

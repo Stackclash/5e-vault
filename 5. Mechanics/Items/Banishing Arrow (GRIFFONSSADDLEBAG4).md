@@ -23,6 +23,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Banishing-Arrow.webp#right)  
 
 - **Weight**: 0.05 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The body of this arrow is twisted in a warping spiral. Small gateways are imprinted on the arrow's head. When you hit a creature with this arrow, that creature must succeed on a DC 17 Charisma saving throw or be affected by the [[/5. Mechanics/Spells/Banishment.md\|banishment]] spell (no [[/5. Mechanics/Rules/Conditions.md#Concentration\|concentration]] required); the creature can repeat the saving throw at the end of each of its turns for the duration, ending the effect on itself on a success.
 
@@ -33,7 +36,3 @@ The arrow loses its magic once it banishes a creature in this way.
 Other types of magic ammunition of this kind exist, such as banishing bolts meant for a crossbow, though arrows are most common.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

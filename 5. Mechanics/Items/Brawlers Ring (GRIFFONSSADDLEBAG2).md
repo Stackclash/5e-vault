@@ -23,11 +23,10 @@ item_recharge: none
 *Ring, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Brawlers-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass ring has several splits in its metal that are filled with seams of jade. While wearing this ring, your unarmed strikes deal bludgeoning damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Strength modifier on a hit.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 52*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

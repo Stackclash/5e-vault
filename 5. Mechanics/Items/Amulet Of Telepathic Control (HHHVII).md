@@ -19,6 +19,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVII/AmuletofTelepathicControl.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this amulet, you gain the following abilities:
 
@@ -27,7 +30,3 @@ While wearing this amulet, you gain the following abilities:
 - You may cast the [[/5. Mechanics/Spells/Dominate Monster.md\|dominate monster]] spell without requiring any components or using any spell slots. Once this ability has been used once, it cannot be used again until the next dawn.  
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 53*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

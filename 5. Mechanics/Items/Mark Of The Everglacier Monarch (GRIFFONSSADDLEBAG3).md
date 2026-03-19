@@ -23,6 +23,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mark-of-the-Everglacier-Monarch.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wide necklace is adorned with forever-cold icicles that hang from it. While wearing the necklace, your skin develops a resilient layer of frost, granting you immunity to cold damage and resistance to slashing damage.
 
@@ -33,7 +36,3 @@ When you cast a spell that deals either acid, fire, lightning, poison, or thunde
 This necklace is cursed, and attuning to it extends that curse to you until you're targeted by a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic. Removing the necklace fails to end the curse. While cursed, your icy skin can splinter painfully when hit in certain ways: you are vulnerable to bludgeoning damage. If you die while cursed in this way, your body shatters into icy shrapnel. Each creature within 30 feet of you must make a DC 15 Dexterity saving throw. A creature takes `dice:8d6|noform|noparens|avg` (`8d6`) cold damage on a failed save, or half as much damage on a successful one. Your body leaves behind only a shimmering pile of snow-like dust, and you can only be brought back to life with a resurrection, true resurrection, or [[/5. Mechanics/Spells/Wish.md\|wish]] spell.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

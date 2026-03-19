@@ -29,6 +29,9 @@ item_recharge: none
 - **Damage**: 1d4 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this weapon, you may use this weapon to make [[/5. Mechanics/Rules/Actions.md#Grapple\|grapple]] checks instead of using a free hand. While you have a creature [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] this way, you can't [[/5. Mechanics/Rules/Actions.md#Attack\|attack]] with this weapon.
 
@@ -37,7 +40,3 @@ If you have a creature [[/5. Mechanics/Rules/Conditions.md#Grappled\|grappled]] 
 You may only have one creature [[/5. Mechanics/Rules/Conditions.md#Charmed\|charmed]] at a time. If you charm another, the effect on the previous creature ends.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 121*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

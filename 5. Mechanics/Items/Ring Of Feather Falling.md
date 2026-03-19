@@ -24,11 +24,10 @@ item_recharge: none
 *Ring, major, rare (requires attunement)*  
 ![[/5. Mechanics/Items/img/ring-of-feather-falling.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.
 
 *Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

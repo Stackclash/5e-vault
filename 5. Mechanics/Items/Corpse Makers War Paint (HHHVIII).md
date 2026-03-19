@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This jar of magical paint is a swirl of red and yellow, like the skin of a bloated cadaver. You may spend 1 minute smearing this paint over your body, after which you enter a trance for 1 hour in which you are driven by a lust for death and violence. During this hour, you gain the following benefits:
 
@@ -29,7 +32,3 @@ While in this trance, whenever a creature you can see hits you with a weapon att
 You remain in this frenzied state until either the creature that hit you is dead, you are no longer aware of the location of the creature that hit you, you fall [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]], or the effects of this paint wear off. If a different creature hits you while in this frenzied state, you must make the saving throw as normal, switching your focus to that different creature upon a failed save.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 85*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

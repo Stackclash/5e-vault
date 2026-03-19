@@ -22,6 +22,9 @@ item_recharge: dawn
 *Wondrous item, major, rare (requires attunement by a human)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Mantle-of-Adaptivity.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cloak brings out the tenacity and adaptivity of any human who wears it. Choose one of the following options daily at dawn. You gain the benefits of that property while wearing the mantle.
 
@@ -52,7 +55,3 @@ You gain resistance to cold damage and ignore difficult terrain created by ice o
 When found, the mantle's property and appearance are from a random property.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

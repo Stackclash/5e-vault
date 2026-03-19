@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Patch-of-the-Open-Eye.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This canvas patch can be magically attached to a piece of clothing by pressing it against the clothing for 1 minute. The patch remains on the clothing until it falls off or you use an action to remove it. While it's attached to a piece of clothing, the eye's pupil will occasionally dart off to the side before returning back to the center.
 
@@ -27,7 +30,3 @@ While the patch is attached to a piece of clothing you're wearing, you can't be 
 Once the patch has been removed from a piece of clothing it's attached to, the patch loses its magic and becomes a mundane patch. If the magic patch is removed from a [[/5. Mechanics/Items/Robe Of Useful Items.md\|robe of useful items]], the patch has a 50 percent chance to keep its magical properties and can be reattached to a piece of clothing again.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

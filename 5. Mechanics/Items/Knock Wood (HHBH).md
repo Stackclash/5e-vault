@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ When a fey creature makes their home inside a tree, occasionally they may pass a
 While holding this herb in your hand, if you are forced to make a roll at disadvantage, you may use your reaction to knock this herb against something hard. If you do so, you make your roll as normal instead of at disadvantage. Once this herb has been used once, it loses all power and becomes useless.
 
 *Source: Hamund's Herbalism Handbook p. 21*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

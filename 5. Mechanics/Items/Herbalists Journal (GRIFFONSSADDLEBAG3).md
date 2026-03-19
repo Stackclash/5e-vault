@@ -19,6 +19,9 @@ item_recharge: short-rest
 *Wondrous item, major, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Herbalists-Journal.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This old, leather-bound book is caked in dirt. Inside is an almost unreadable scrawl of words, written in Common, that go into remarkable depth about herbology.
 
@@ -31,7 +34,3 @@ You can spend 25 gp of materials a collection of rare herbs and roots to enhance
 This feature can also be used to enhance a [[/5. Mechanics/Items/Potion Of Greater Healing.md\|potion of greater healing]] (50 gp of materials), a [[/5. Mechanics/Items/Potion Of Superior Healing.md\|potion of superior healing]] (75 gp), or a [[/5. Mechanics/Items/Potion Of Supreme Healing.md\|potion of supreme healing]] (100 gp).
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/SaF/codex-multiversalis.jpg#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Certainly the first Wizard to enter history as an owner of the Book of All Worlds was Padmavati, the Alienist. But there's no actual record of her writing it, though scholarly consensus is that only she could have done so. Instead, the accepted wisdom is that she did write it, just not in this manifold. She is from a different world, sages presume. The truth may never be known. The deeds she performed are well-documented, including enacting The Forbidding which permanently exiled the Demon Lord of Death to the Seven City of Hells. If the nature of this ritual is detailed in the codex multiversalis no Wizard since has deciphered it.
 
@@ -40,7 +43,3 @@ As an action you can banish any creature not native to the plane you are on, sen
 As an action once per day, you can summon any creature from any row of the [[/5. Mechanics/Tables/Servitors (SAF).md\|Servitors]] chart. They are free agents, not bound to serve you, and they return to their point of origin after 1 hour.
 
 *Source: Strongholds and Followers p. 259*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

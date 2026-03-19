@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 500 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A strain of mistletoe that grows in areas of high magical concentration; it was 
 As part of preparing this herb, you must cover one melee weapon or up to 10 pieces of ammunition with the juice from this plant. For the next 4 hours, any creature successfully hit by this weapon or ammunition must succeed on a DC 18 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for the next minute. While [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] in this way, a creature loses any damage resistances they may have.
 
 *Source: Hamund's Herbalism Handbook p. 22*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

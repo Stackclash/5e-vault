@@ -34,11 +34,10 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This narrow, finely serrated blade is made of mourningsteel, a metal that's been tinged with the blood of countless fallen warriors. The first creature you hit with this weapon on each of your turns takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) necrotic damage from the attack, and it takes a penalty to the first saving throw that it makes before the start of your next turn. The penalty is equal to the necrotic damage dealt in this way. A creature is immune to this effect if it is a construct, undead, or has legendary actions.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

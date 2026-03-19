@@ -22,6 +22,9 @@ item_recharge: none
 *Wondrous item, major, uncommon (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Candlecoven-Hat.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pointed mage hat is weighed down and stiffened by the solidified wax of 7 candles set atop it. The candles are harmless, require no oxygen, and emit dim light in a 10-foot radius while lit. While wearing the hat, you can use a bonus action to mentally light or extinguish the candles, up to the maximum amount. The candles can only be lit in this way. The maximum number of candles that can be lit depends on the number of times you've used the following property of the hat.
 
@@ -30,7 +33,3 @@ If a creature that you can see is cursed by you, such as by the [[/5. Mechanics/
 Alternatively, you can use an action to cast the [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] spell from the hat while wearing it. The maximum number of lights you can create with this version of the spell is equal to the number of lit candles atop the hat, up to seven. By combining all seven of these lights, you can create a vaguely humanoid form of Large size, or one of Medium size with six or fewer.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

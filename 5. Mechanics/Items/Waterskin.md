@@ -24,11 +24,10 @@ item_recharge: none
 
 - **Cost**: 2 sp
 - **Weight**: 5.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A waterskin can hold up to 4 pints of liquid.
 
 *Source: Player's Handbook p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

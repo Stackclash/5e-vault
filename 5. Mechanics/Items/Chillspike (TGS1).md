@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d10 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 18.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This cold steel weapon from the Everglacier is topped with a menacing ice spike that never melts. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The pike deals an extra `dice:1d10|noform|noparens|avg` (`1d10`) cold damage to any target it hits. In addition, attacks with this weapon and its properties ignore resistance to cold damage.
 
@@ -42,7 +45,3 @@ When you reduce a Large or smaller creature to 0 hit points using this weapon, y
 As an action, you can plunge the pike into the ground at your feet. When you do, the blade of the pike magically vanishes into the earth and summons up to three icy spikes from the ground nearby. Choose up to 3 different targets on the ground you can see within 20 feet of you. An affected target must succeed on a DC 16 Dexterity saving throw or take `dice:2d8|noform|noparens|avg` (`2d8`) cold damage as a frozen spike erupts from the ground beneath it. The spikes immediately recede into the ground after the effect, and the icy blade of the pike reappears.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 42*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

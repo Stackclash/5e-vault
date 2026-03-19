@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1,000 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -38,7 +41,3 @@ This herb may be dragged behind you on the ground as you move, creating a magica
 
 
 *Source: Hamund's Herbalism Handbook p. 6*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

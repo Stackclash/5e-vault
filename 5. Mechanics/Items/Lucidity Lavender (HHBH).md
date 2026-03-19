@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 50 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -38,7 +41,3 @@ After using this herb, you gain a heightened sense of clarity for the next 4 hou
 
 
 *Source: Hamund's Herbalism Handbook p. 22*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

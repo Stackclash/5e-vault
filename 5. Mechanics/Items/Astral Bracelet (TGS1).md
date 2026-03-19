@@ -23,6 +23,9 @@ item_recharge: none
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Astral-Bracelet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -36,7 +39,3 @@ Multiple variations of this item exist, as listed below:
 An astral bracelet is a powerful magical bangle that allows its wearer to see, commune, or otherwise manifest things using powers beyond the Material Plane. The metal and glyphs of each bracelet are related to the kind of power that it holds. You can pull the bracelet off and hold it in the palm of your hand as an action. When you do, the bracelet unfurls to reveal the four inner rings collapsed within it, transforming the bracelet into an astronomical sphere. While the bracelet is transformed into the astronomical sphere, its inner rings slowly spin on their own.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 28*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

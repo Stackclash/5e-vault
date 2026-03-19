@@ -20,6 +20,9 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Deck-of-Dragons-.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This deck of cards can be used as a standard [[/5. Mechanics/Items/Playing Card Set.md\|playing card set]]. Each card bears one of four types of dragons: black, red, bronze, or silver. The deck is made of 52 cards and comes in a wooden carrying case, which depicts each of the four dragons battling for control over their respective corners. While attuned to the deck, you gain a +3 bonus to any check you make using it as a [[/5. Mechanics/Items/Playing Card Set.md\|playing card set]]. You can use a bonus action to magically shuffle the cards of the deck, tapping either the top of the cards or its box when you do.
 
@@ -38,7 +41,3 @@ You can use each card from the shuffled deck as if it were a magic dart. On a hi
 A thrown card magically reappears on the bottom of the card case immediately after the attack. When you score a critical hit using one of the cards, you can roll the bonus acid, cold, fire, or lightning damage dice two additional times and add them to the extra damage of the critical hit.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

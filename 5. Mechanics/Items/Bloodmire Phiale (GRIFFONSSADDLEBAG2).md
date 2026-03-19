@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bloodmire-Phiale.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shallow, ceramic drinking bowl is enchanted to repurpose spilled blood into new life. The bowl holds up to 8 ounces of blood. Once filled, the blood begins to slowly swirl on its own. If left to sit for 1 hour without spilling, the blood in the bowl becomes a gruesome tonic that pulses with a faint, internal glow.
 
@@ -27,7 +30,3 @@ Drinking the entire bowl of still blood causes one of two effects. Roll a `dice:
 The blood's magic fades if it's poured from the bowl without being drunk. Once the bowl has been used in this way, it can't be used again until `dice:1d4|noform|noparens|avg` (`1d4`) days have passed.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 47*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

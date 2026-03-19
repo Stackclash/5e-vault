@@ -19,6 +19,9 @@ item_recharge: long-rest
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Nightmare-Flask.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This glass orb has a special funnel at its top that traps bad dreams. When you finish a long rest in which you sleep while the orb is on your person, there is a 25 percent chance that the orb is filled with a small amount of dark, swirling smoke: a visual representation of a collected nightmare. The orb can collect 1 nightmare every 24 hours and can hold up to 10 nightmares in this way.
 
@@ -27,7 +30,3 @@ You can use an action to throw the flask at a point you can see within 30 feet o
 Alternatively, the orb can be used as a preventative measure against the [[/5. Mechanics/Spells/Dream.md\|dream]] spell. When you're targeted by the [[/5. Mechanics/Spells/Dream.md\|dream]] spell, the caster of the spell must make a DC 17 Wisdom saving throw. On a failed save, the caster takes `dice:1d10|noform|noparens|avg` (`1d10`) psychic damage for each collected nightmare in the flask. The flask then cracks and is destroyed, and the spell fails. On a successful 
 
 *Source: The Griffon's Saddlebag, Book 2 p. 128*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

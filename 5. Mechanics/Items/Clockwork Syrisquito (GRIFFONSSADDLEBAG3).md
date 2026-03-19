@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Clockwork-Syrisquito.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This mechanical insect is three inches long and has the resemblance of a mosquito. It has a pair of tiny wings that silently keep it aloft. It hovers up to 5 feet above the ground and does its best to stay at your side within your space. The syrisquito can enter and pass through another creature's space and doesn't provoke opportunity attacks.
 
@@ -42,7 +45,3 @@ Any resistance or immunity to poison or disease it has
 The syrisquito is considered a magical object and is not a creature. It has AC 15, 20 hit points, and resistance to all damage. If the [[/5. Mechanics/Spells/Mending.md\|mending]] spell is cast on the syrisquito while it has at least 1 hit point, it regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points. If the syrisquito drops to 0 hit points, it can't be used again for 24 hours, at which point it regains all its hit points.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

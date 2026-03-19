@@ -34,6 +34,9 @@ item_recharge: none
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This smooth, magic glaive bears holy sigils and oaths down the length of its haft and is always impeccably clean. While holding it, your reach increases by 5 feet when using your Lay on Hands feature.
 
@@ -46,7 +49,3 @@ Once on each of your turns when you expend a spell slot to use your Divine Smite
 - The target can't regain hit points.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 32*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

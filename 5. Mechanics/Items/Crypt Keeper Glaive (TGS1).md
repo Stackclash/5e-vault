@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Reach\|Reach]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 
@@ -48,7 +51,3 @@ Undead creatures killed by this weapon cannot be raised from the dead again.
 The first time on your turn that you land a successful melee attack with this weapon against a creature that is [[/5. Mechanics/Rules/Conditions.md#Prone\|prone]], the weapon's damage die is maximized.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 50*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -22,11 +22,10 @@ item_recharge: none
 # Potion of Mind Reading
 *Potion, minor, rare*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you gain the effect of the [[/5. Mechanics/Spells/Detect Thoughts.md\|detect thoughts]] spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it.
 
 *Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

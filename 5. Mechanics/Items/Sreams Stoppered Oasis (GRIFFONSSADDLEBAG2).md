@@ -23,6 +23,9 @@ item_recharge: long-rest
 *Potion, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Sreams-Stoppered-Oasis.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This tall decanter is filled with water from a miraculous oasis in the H'rethi Desert and is stoppered with a small, overgrown planter. You can pour the water out of the bottle on top of the planter as an action to create a magical oasis that fills up to a 100-foot-square space over the course of 10 minutes.
 
@@ -33,7 +36,3 @@ The oasis remains for 24 hours or until dispelled by a [[/5. Mechanics/Spells/Di
 Drinking the water in the bottle has no effect, but tastes refreshing.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 168*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

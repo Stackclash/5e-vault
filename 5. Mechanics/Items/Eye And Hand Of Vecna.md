@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, artifact (requires attunement)*  
 ![[/5. Mechanics/Items/img/eye-and-hand-of-vecna.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Seldom is the name of Vecna spoken except in a hushed voice. Vecna was, in his time, one of the mightiest of all wizards. Through dark magic and conquest, he forged a terrible empire. For all his power, Vecna couldn't escape his own mortality. He began to fear death and take steps to prevent his end from ever coming about.
 
@@ -76,7 +79,3 @@ If the [[/5. Mechanics/Items/Eye Of Vecna.md\|Eye of Vecna]] and the [[/5. Mecha
 - [[/5. Mechanics/Items/Hand Of Vecna.md\|Hand of Vecna]]
 
 *Source: Dungeon Master's Guide p. 224*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

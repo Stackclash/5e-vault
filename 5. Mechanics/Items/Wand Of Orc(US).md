@@ -30,6 +30,9 @@ item_recharge: dawn
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The ghastly Wand of Orcus rarely leaves [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus's]] side. The device, as evil as its creator, shares the demon lord's aims to snuff out the lives of all living things and bind the Material Plane in the stasis of undeath. [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus]] allows the wand to slip from his grasp from time to time. When it does, it magically appears wherever its master senses an opportunity to achieve some fell goal.
 
@@ -83,7 +86,3 @@ Destroying the Wand of Orcus requires that it be taken to the Positive Energy Pl
 Bathing the wand in positive energy causes it to crack and explode, but unless the above conditions are met, the wand instantly reforms on [[/4. World Almanac/NPCs/Orcus (MPMM).md\|Orcus's]] layer of the Abyss.
 
 *Source: Dungeon Master's Guide p. 227*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

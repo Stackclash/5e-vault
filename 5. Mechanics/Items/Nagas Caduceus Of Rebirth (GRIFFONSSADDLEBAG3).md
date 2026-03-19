@@ -23,6 +23,9 @@ item_recharge: none
 *Rod, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Nagas-Caduceus-of-Rebirth.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This scepter has a skull at its top with a diamond fitted into each of its two eye sockets. When found, the rod has `dice:1d2|noform|noparens|avg` (`1d2`) diamonds remaining. While holding the scepter, you can use an action to cast the [[/5. Mechanics/Spells/Revivify.md\|revivify]] spell from it, without consuming any costly components. When you do, one of the diamonds in the scepter's skull shatters. Once the second diamond shatters, it can't be used to cast the spell again. The scepter can also be used as a magic mace, which has a +1 bonus to attack and damage rolls made with it.
 
@@ -35,7 +38,3 @@ A spirit naga is held captive within this rod. 24 hours after the second diamond
 The only way to prevent the naga from returning to life after `dice:1d6|noform|noparens|avg` (`1d6`) days (short of a [[/5. Mechanics/Spells/Wish.md\|wish]] spell), is to slay it with the rod. When you do, both the rod and naga are destroyed.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

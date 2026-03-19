@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hourglass-of-Slumber.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ebony and gold hourglass is filled with nebulous clouds of dreamy smoke instead of sand. The hourglass can act as a 1-minute timer, allowing the smoke to filter from one chamber to the next for the duration.
 
@@ -28,7 +31,3 @@ The hourglass has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) e
 - Each time a sleeping creature takes damage, it must make a Constitution saving throw, waking up on a success. The DC is equal to 20 minus half the damage dealt (minimum DC 10). After 3 failed saves, a creature automatically wakes up.  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 107*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

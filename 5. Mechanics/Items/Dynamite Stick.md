@@ -23,6 +23,9 @@ item_recharge: none
 *Explosive*  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 As an action, a creature can light a stick of dynamite and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must make a DC 12 Dexterity saving throw, taking `dice:3d6|noform|noparens|avg` (`3d6`) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
@@ -31,7 +34,3 @@ A character can bind sticks of dynamite together so they explode at the same tim
 Dynamite can be rigged with a longer fuse to explode after a set amount of time, usually 1 to 6 rounds. Roll initiative for the dynamite. After the set number of rounds goes by, the dynamite explodes on that initiative.
 
 *Source: Dungeon Master's Guide p. 268*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

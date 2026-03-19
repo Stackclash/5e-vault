@@ -32,6 +32,9 @@ item_recharge: none
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark silver rapier is detailed with rat illustrations along its handle. Bands of metal forged in the likeness of rat tails form its twisted guard. While the rapier is on your person, ordinary rats, giant rats, and swarms of rats are indifferent toward you and will not attack you unless you threaten or harm them.
 
@@ -44,7 +47,3 @@ While you're attuned to one or more other items with "rat king" in its name, the
 When you roll a 1 or 2 on the bonus piercing damage die, you can reroll the die. You must use the new roll, even if it is a 1 or a 2.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

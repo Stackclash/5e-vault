@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, artifact (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Galea-of-the-Soulfire-Phoenix.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magical helmet once belonged to the Soulfire Phoenix Fara, a paragon to the citizens of the Elemental Plane of Fire who led her people to victory during the Savrayan Wars. While some believe that her ferocity and heroism were a result of [[/5. Mechanics/Bestiary/Elemental/Phoenix (MPMM).md\|phoenix]] blood running through her veins, others claim that a hero will always rise from the ashes when the time is right.
 
@@ -54,7 +57,3 @@ The Galea of the Soulfire Phoenix has the following random properties:
 The only way to destroy the helmet is to feed it to an ancient phoenix. The phoenix dies and is immediately reborn as a result of the intense magic stored within the artifact. When it's reborn, the phoenix has a pronounced crown of golden feathers upon its head. Regardless of how many times it's reborn, the phoenix retains this crown of feathers.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 147*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

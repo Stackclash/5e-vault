@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1,000 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A jasmine flower with a pearlescent lustre that changes colour with the light. W
 While preparing this herb, you must mentally picture a humanoid form. This form does not need to share the same race, sex, dimensions, or age as your current one, but must be within the realistic bounds for a humanoid of that race (e.g. you cannot picture a 12 foot tall dwarf or an elf with four arms). After using the herb, your body permanently changes to match the form you pictured. Your stats do not change, and you keep all racial abilities you had originally.
 
 *Source: Hamund's Herbalism Handbook p. 31*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

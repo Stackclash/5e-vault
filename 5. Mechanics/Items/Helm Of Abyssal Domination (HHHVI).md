@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, legendary (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This helmet has 11 charges. While wearing this helm, you spend an action to expend 1 or more charges to do one of the following:
 
@@ -31,7 +34,3 @@ This helmet has 11 charges. While wearing this helm, you spend an action to expe
 This helmet regains `dice:1d10|noform|noparens|avg` (`1d10`) charges at dawn.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 130, Hamund's Harvesting Handbook: Volume III p. 90*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

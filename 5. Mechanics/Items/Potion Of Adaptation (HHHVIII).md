@@ -21,6 +21,9 @@ item_recharge: none
 *Potion, rare*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, your form becomes particularly malleable and you quickly adapt to hazardous environments. For the next 6 hours, you gain the following benefits:
 
@@ -32,7 +35,3 @@ When you drink this potion, your form becomes particularly malleable and you qui
 Due to the dubious origins of this potion's ingredients, when this potion's effects end, you must succeed on a DC 15 Constitution saving throw or become [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] for the next hour. This potion's contents constantly change in hue and colour, ranging from a vibrant red, to a dull blue.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 93*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

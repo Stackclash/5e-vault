@@ -22,6 +22,9 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement by a lawful creature)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Polaris-Magistrate-Codex.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gilded book of law is a rare magic item that's filled with detailed ordinances regarding Polaris, a city held aloft by astral magic. Through the city's dedicated magistrate, this book has been given the following magical properties.
 
@@ -44,7 +47,3 @@ You can use an action while holding the book to cast the [[/5. Mechanics/Spells/
 While holding the book, you can use your reaction to cast [[/5. Mechanics/Spells/Counterspell.md\|counterspell]] (5th-level version) from it. If the triggering spell was cast at 6th level or higher, the counterspell automatically fails. Once the book has been used to cast this spell, it can't do so again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

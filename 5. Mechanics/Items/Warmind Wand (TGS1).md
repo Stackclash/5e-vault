@@ -29,6 +29,9 @@ item_recharge: dawn
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Warmind-Wand.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand is made from the shattered hilt and jawbone of a defeated warband leader. It has 7 charges for the following properties and regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand releases a small gasp of breath as its magic escapes it, leaving the wand a nonmagical and mundane sword hilt.
 
@@ -51,7 +54,3 @@ When a friendly creature other than you within 30 feet that can see or hear you 
 When a friendly creature other than you within 30 feet that can see or hear you scores a critical hit, you can use your reaction and expend 1 charge to amplify the brutality of the attack and add an extra `dice:2d4|noform|noparens|avg` (`2d4`) damage to the total of the attack's damage roll.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 142*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

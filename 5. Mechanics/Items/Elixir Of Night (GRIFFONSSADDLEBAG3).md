@@ -22,6 +22,9 @@ item_recharge: none
 # Elixir of Night
 *Potion, minor, uncommon*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 FOR [HEDGE MAGE](/compendium/classes/wizard-hedge-mage-griffonssaddlebag3.md#Hedge%20Mage%20(Level%202)) USE ONLY
 
@@ -32,7 +35,3 @@ Command: "Of cats grace, through darkness embrace."
 When a creature drinks this potion, it gains darkvision out to a range of 60 feet for 8 hours and adds 1d4 to any Dexterity (Stealth) check it makes for the duration. If the creature already has darkvision, its range increases by 30 feet. While the potion is agitated, such as by being shaken or stirred, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 51*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

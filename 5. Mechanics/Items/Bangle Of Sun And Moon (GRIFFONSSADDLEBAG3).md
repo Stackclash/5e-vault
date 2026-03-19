@@ -20,6 +20,9 @@ item_recharge: dawn
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Bangle-of-Sun-and-Moon.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bangle features a personified sun and moon, transitioning from gold to silver midway through the band. Three small diamonds mark their eyes. While wearing the bangle, you always know how long it is until sunrise, sunset, midday, and midnight.
 
@@ -28,7 +31,3 @@ The bangle has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expe
 If you have 11 or more levels in the druid class and are wearing this bangle, you can expend 3 charges from the bangle to cast the [[/5. Mechanics/Spells/Sunbeam.md\|sunbeam]] spell from it (save DC 13). When you do, there is a permanent and cumulative 25 percent chance that the bangle is destroyed when the spell ends.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

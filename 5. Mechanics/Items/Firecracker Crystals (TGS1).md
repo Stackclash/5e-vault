@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Firecracker-Crystals.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These multicolored crystals are usually purchased in small bags at festivals and holiday events. As an action, you can throw 1 of these 1-inch crystals against a solid surface within 20 feet of you to crack it apart. When a crystal breaks, it releases the magic inside. The magic ends at the end of your turn and is entirely sensory.
 
@@ -41,7 +44,3 @@ A bag of the small crystals comes with `dice:1d4+8|noform|noparens|avg|text(10)`
 ^firecracker-crystal-colors
 
 *Source: The Griffon's Saddlebag, Book 1 p. 65*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

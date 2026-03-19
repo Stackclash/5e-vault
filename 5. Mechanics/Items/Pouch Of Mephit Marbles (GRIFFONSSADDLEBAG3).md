@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Pouch-of-Mephit-Marbles.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This square pouch contains `dice:2d4+2|noform|noparens|avg` (`2d4 + 2`) marbles inside it. There are four types of marbles. Roll on the table below for each marble within the pouch to determine how many of each type you have.
 
@@ -37,7 +40,3 @@ You can use an action to throw a marble into an unoccupied space that you can se
 The mephit remains for 10 minutes or until it's reduced to 0 hit points. If you throw another marble while a summoned mephit remains, there is a 50 percent chance that the new mephit is hostile to you and doesn't obey your commands.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

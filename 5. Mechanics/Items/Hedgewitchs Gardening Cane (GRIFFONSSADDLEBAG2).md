@@ -33,11 +33,10 @@ item_recharge: none
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wooden walking stick has a silver flower at either end. The flower is blooming on the handle, but merely a bud towards the bottom. While holding the cane, you can use an action to tap it against the ground and mentally command the bottom portion to magically transform into a broom, a hoe, a rake, a shovel, or back into a normal cane.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 101*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

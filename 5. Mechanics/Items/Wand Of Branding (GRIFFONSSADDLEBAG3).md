@@ -24,6 +24,9 @@ item_recharge: dawn
 *Wand, major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Wand-of-Branding.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This wand has 7 charges for the following properties. While holding the wand, you can use an action to change the shape of the metal brand at its end. The brand can be no larger than 4 inches in any dimension.
 
@@ -38,7 +41,3 @@ You can use an action to expend 1 of the wand's charges to make a melee spell at
 The wand regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. If you expend the wand's last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand becomes a nonmagical branding iron.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

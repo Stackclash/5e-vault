@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Mage-Catcher-Explosives.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 These eight-sided explosives come in a red linen bag. When found, there are `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) explosives in the bag.
 
@@ -29,7 +32,3 @@ A creature with the Antimagic Susceptibility trait that's in the field when it a
 Each bomb that explodes is destroyed, unless you roll an 8 on its `dice:d8|noform|noparens|avg` (`d8`). If you do, the bomb explodes but isn't destroyed, allowing it to be used again at another time.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

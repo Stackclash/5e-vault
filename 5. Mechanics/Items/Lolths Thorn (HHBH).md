@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 50 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Shining black like a spider's leg, these foot-long thorns grow on vines tangled 
 This herb may be wielded like a [[/5. Mechanics/Items/Dagger.md\|dagger]]. If this thorn successfully hits a creature suffering from the [[/5. Mechanics/Rules/Conditions.md#Poisoned\|poisoned]] condition, that condition ends immediately, and this thorn is filled with whichever poison that creature was afflicted by. Upon the next successful hit with this thorn, the hit creature suffers any of the effects imposed by the original poison; if that poison required a saving throw, the DC is set to 15. This thorn may only carry one poison at a time, and any poison inside is rendered useless 24 hours after it is first absorbed.
 
 *Source: Hamund's Herbalism Handbook p. 22*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

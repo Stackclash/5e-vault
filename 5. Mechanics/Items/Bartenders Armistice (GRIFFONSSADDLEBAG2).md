@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Bartenders-Armistice.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A *bartender's armistice* is a magical coaster typically kept by wary tavernkeepers for cases of extreme danger. When found, a bartender's armistice comes in a set of `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) coasters. Each coaster is 4 inches across, and its weight is negligible.
 
@@ -31,7 +34,3 @@ Each creature within the field has advantage on any Charisma ([[/5. Mechanics/Ru
 The coaster has AC 15 and 25 hit points. The field remains for 10 minutes or until the coaster drops to 0 hit points, at which point the coaster is destroyed and the field ends. If the field ends after the full duration, there is a 10 percent chance that the coaster remains magical and can be used again. Otherwise, the coaster becomes nonmagical.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 42*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

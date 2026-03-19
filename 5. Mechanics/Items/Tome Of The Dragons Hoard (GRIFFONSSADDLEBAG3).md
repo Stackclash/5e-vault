@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Tome-of-the-Dragons-Hoard.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gilded tome is bound with a dragon wing's leather. When found, the book has `dice:10d10|noform|noparens|avg` (`10d10`) pages in it.
 
@@ -29,7 +32,3 @@ You can use an action to tear out a sheet from the book with one or more illustr
 Adding an object to the book causes it to grumble satisfyingly, whereas removing a page from it results in a threatening growl. Once all the book's pages have been torn from the tome, it loses its magic. Attempting to store a tome of the dragon's hoard on the page of another tome of the dragon's hoard causes both books' pages to tear themselves out of the books, destroying them, and sending any stored items contained by them toppling out of the pages around you. Similarly, storing a [[/5. Mechanics/Items/Bag Of Holding.md\|bag of holding]] or similar extradimensional item in the book causes the page it's placed in to immediately tear itself out of the book and spew the item onto the floor beside you again, wasting the page.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

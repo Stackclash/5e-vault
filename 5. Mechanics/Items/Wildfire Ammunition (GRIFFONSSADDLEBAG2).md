@@ -25,6 +25,9 @@ item_recharge: none
 *Minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Wildfire-Ammunition.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ammunition smolders while you hold it, sparking softly with simmering embers. When you use this arrow or bolt to make a ranged weapon attack, it vanishes in a scattering of sparks immediately after it's fired: disappearing into a special extradimensional space without hitting a target. The ammunition's flames burn hotter the longer it remains in this space and can stay there for up to 3 rounds.
 
@@ -35,7 +38,3 @@ If the ammunition remains in its extradimensional space for the full duration wi
 An arrow or bolt is destroyed when it explodes in this way.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 189*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 0.05 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 You have a +1 bonus to your attack and damage rolls made with this arrow corresponding to its rarity. When you make a successful hit with this arrow, you also deal an additional `dice:1d8|noform|noparens|avg` (`1d8`) damage of the type corresponding to the damage type this arrow was crafted from. You also have advantage on attacks made with this ammunition against any targets with the dragon creature type.
 
@@ -32,7 +35,3 @@ When used in a successful attack, there is a 30 percent chance that this arrow l
 > ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

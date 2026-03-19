@@ -31,6 +31,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This leather-wrapped spike has been hammered into a sharpened edge. Eldritch runes run along the back of its blade, and a crude, eye-like rune has been gouged into its side. A creature hit with this weapon takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) force damage from the attack. An aberration always takes the maximum amount of force damage from the dagger.
 
@@ -41,7 +44,3 @@ For the next 7 days, you have advantage on Charisma checks you make to interact 
 The dagger remains in the creature's chest until the effect is dispelled, the creature dies, or until you use an action to speak the command word again (provided that you're both on the same plane of existence). If the dagger is removed, the creature is immediately slain. The dagger then falls from its chest, and this property can't be used again until 7 days have passed.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

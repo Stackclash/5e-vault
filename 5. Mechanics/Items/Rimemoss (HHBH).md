@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 10 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A pure white variety of moss unique in that it only grows in frigid temperatures
 You may spend 10 minutes lining your clothes with rimemoss. If you do so, you automatically succeed on any Constitution saving throw to resist the negative effects of cold environments and weather.
 
 *Source: Hamund's Herbalism Handbook p. 28*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

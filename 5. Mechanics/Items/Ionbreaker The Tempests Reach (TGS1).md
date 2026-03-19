@@ -34,6 +34,9 @@ item_recharge: none
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This bow was crafted by a powerful [[/5. Mechanics/Bestiary/Elemental/Djinni.md\|djinni]] in the Stormheart: a perpetual maelstrom of wind and electricity in the Elemental Plane of Air. Lost to time, it has remained in the storm for untold centuries absorbing the volatile magic that runs rampant there. You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 
@@ -95,7 +98,3 @@ Ionbreaker, the Tempest's Reach has the following random properties:
 The bow can be destroyed if it's struck by lightning in the Stormheart at the same time as it's hit by a hammer of pure adamantine against a similarly adamantine anvil by a creature attuned to the bow. Once destroyed, all creatures within 60 feet of the bow take `dice:10d10|noform|noparens|avg` (`10d10`) lightning damage and `dice:10d10|noform|noparens|avg` (`10d10`) force damage. If a creature is reduced to 0 hit points by this damage, it's immediately turned to ash and can only be revived by a [[/5. Mechanics/Spells/Wish.md\|wish]] spell.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 148*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

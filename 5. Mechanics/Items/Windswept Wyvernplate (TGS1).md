@@ -30,13 +30,12 @@ item_recharge: none
 - **Armor Class**: 15 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 40.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This half plate armor seems to grow lighter when you inhale. You can hold your breath at any point to both lighten the armor and quiet its clattering, negating the normal disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks imposed by half plate armor.
 
 In addition, if you fall while wearing this armor, you can hold your breath as a reaction to cast the [[/5. Mechanics/Spells/Feather Fall.md\|feather fall]] spell, targeting only yourself, at will.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 144*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

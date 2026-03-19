@@ -34,6 +34,9 @@ item_recharge: long-rest
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This black iron axe was forged in the scorching fires of the Magmarath Caldera and has been the decisive end for countless mortal souls. Used as the mark of a Tribunal in the caldera's city, the weapon is an embodiment of anger and spite, and has been enchanted with blood magic that bubbles to the surface each time it's used to end a life. Glimmering veins of lava flicker from its dark metal surface, and roiling, volcanic sparks trail behind it in its wake when swung.
 
@@ -75,7 +78,3 @@ The weapon enjoys the sensation of anger. It sees all conflict eventually reachi
 The only way to destroy the axe is to dispel the malevolent spirit within it over time from the Upper Planes. Casting [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] on the weapon every day for 5 years while on an Upper Plane causes the wrathful spirit within it to eventually succumb and perish. When the spirit leaves the axe, it loses all of its properties except for its bonus to attack and damage rolls, but becomes no harder to destroy than a normal magic weapon.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 197*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

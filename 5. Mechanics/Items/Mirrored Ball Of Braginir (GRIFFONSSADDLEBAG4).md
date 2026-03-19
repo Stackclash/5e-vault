@@ -19,6 +19,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Mirrored-Ball-of-Braginir.webp#right)  
 
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This mirrored ball is 3 inches in diameter and weighs 1 pound. Its reflective shards seem held together by a disembodied force of will. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 60 feet of you. As the sphere moves through the air, its mirrored shards drift apart to open the ball.
 
@@ -27,7 +30,3 @@ Make a ranged attack roll with an attack bonus equal to your Dexterity modifier 
 This version of the [[/5. Mechanics/Spells/Maze.md\|maze]] spell creates a labyrinth of mirrored walls. When the spell ends, the target reappears in the ball's space or, if there isn't room for it, in the nearest unoccupied space. The ball then vanishes, but reappears in a random location on a different plane of existence. When the target reappears, it takes `dice:10d10|noform|noparens|avg` (`10d10`) psychic damage from the ordeal, or half as much damage if the target escaped the labyrinth and ended the spell early. If the target escapes the labyrinth, it suffers a random short-term madness effect, which lasts for 1 minute. If the target spends the full duration in the labyrinth, it instead suffers a random long-term madness effect that lasts for 7 days.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

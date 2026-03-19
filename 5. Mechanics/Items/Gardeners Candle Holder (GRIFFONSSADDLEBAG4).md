@@ -17,11 +17,10 @@ item_recharge: none
 *Wondrous item, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Gardeners-Candle-Holder.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This candle holder magically changes the light of burning candles into light that's ideal for plants. While a mundane candle is burning within the holder, the radius of its bright and dim light is doubled, and it loses only 1 minute of burn time for every 8 minutes it's lit. Plants grow twice as quickly as those in normal sunlight while they're within the light of a candle burning in the holder.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

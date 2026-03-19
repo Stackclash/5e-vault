@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This pot contains enough paint to cover up to 10 square feet of surface area. Any object completely covered by this paint becomes covered in a unique enchantment that makes it elusive and difficult to recognise for the next hour.
 
@@ -25,7 +28,3 @@ Although the object remains the same visually, it becomes psychologically blocke
 Any attempt to find an item covered in this paint by someone actively searching for it is rolled at disadvantage. However, a creature that touches an item covered in this paint, or who is verbally informed of its presence, ceases to be influenced by this paint's ability.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 136*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

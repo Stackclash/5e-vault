@@ -31,6 +31,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Arkanotars are weapons from a far-flung age and can sometimes be found in the lairs of sphinxes that have traveled through time. They always come in pairs, and can only be used when worn together. It takes an action to don or doff the arkanotars.
 
@@ -45,7 +48,3 @@ The weapon runs on a power source that's fueled by magic. The weapons' blades ca
 You can use an action to rub the two weapons together and use them to punch forwards, duplicating the effects of the lightning bolt spell when you do (save DC 16). Doing so deducts 10 minutes from the weapons' remaining time, and this property can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

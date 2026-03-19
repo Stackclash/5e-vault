@@ -17,6 +17,9 @@ item_recharge: none
 # Book of Eibon
 *Wondrous item, legendary (requires attunement)*  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fragmentary black book is reputed to descend from forgotten realms of Hyperborea. It contains puzzling guidelines for frightful necromantic rituals and maddening interdimensional travel.
 
@@ -25,7 +28,3 @@ The book contains the following spells: [[/5. Mechanics/Spells/Semblance Of Drea
 If attuned to it, the book's owner can use it as a spellbook and as an arcane focus. In addition, while holding the book, an attuned owner can use a bonus action to cast a necromancy spell that is written in this tome without expending a spell slot or using any verbal or somatic components. Once used, this property of the book can't be used again until the next dawn.
 
 *Source: Deep Magic p. 343*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

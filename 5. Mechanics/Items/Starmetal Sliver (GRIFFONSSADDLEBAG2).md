@@ -34,6 +34,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 1.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This slim blade was forged using strange, unearthly metals from a meteorite. When you use an action to toss this magic dagger into the air, it orbits your body at a distance of `dice:1d3|noform|noparens|avg` (`1d3`) feet. Another creature can use an action to grasp the dagger to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) check. You can use an action to seize and either wield or stow the dagger.
 
@@ -42,7 +45,3 @@ When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action while
 In addition, the dagger creates a small gravitational field that wards off harm. While the dagger orbits you, when you are hit by a ranged weapon attack, the damage you take from the attack is reduced by `dice:1d10+4|noform|noparens|avg` (`1d10 + 4`). If the damage is reduced to 0, the missile slows to a stop without hitting you and falls to the ground at your feet.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 171*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

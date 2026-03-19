@@ -22,11 +22,10 @@ item_recharge: none
 *Treasure (gemstone)*  
 
 - **Cost**: 5,000 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A transparent fiery orange gemstone.
 
 *Source: Dungeon Master's Guide p. 134*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

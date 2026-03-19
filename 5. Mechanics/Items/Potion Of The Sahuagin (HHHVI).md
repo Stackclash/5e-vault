@@ -21,6 +21,9 @@ item_recharge: none
 *Potion, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This potion uses a sahuagin's blood as a base along with various seaweeds, seashells, and fish scales to produce a mutagenic effect in those who drink it. For the next 10 minutes after drinking this potion, you gain the following benefits:
 
@@ -31,7 +34,3 @@ This potion uses a sahuagin's blood as a base along with various seaweeds, seash
 When you drink this potion, you must also succeed on a DC 10 Constitution saving throw or undergo a permanent mutation into a sahuagin. As a sahuagin, you lose all of your previous racial traits and instead gain a swim speed of 40 ft., the blood frenzy, limited amphibiousness, and shark telepathy traits from the sahuagin's statblock, and your alignment changes to lawful evil. This mutation can only be cured by a [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 138*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

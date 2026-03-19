@@ -23,6 +23,9 @@ item_recharge: long-rest
 - **Armor Class**: 2
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This shield is plated with scales taken from a yuan-ti abomination and pulses with the residual divine magic of the serpent gods. While wearing this shield, you may spend a bonus action to transform the shield and the arm holding it into a single serpent attached to your shoulder for the next 10 minutes.
 
@@ -31,7 +34,3 @@ This shield does not provide any bonus to AC while it is in serpent form. You ma
 Once this ability has been used, you may not use it again until the end of your next long rest.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 140*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

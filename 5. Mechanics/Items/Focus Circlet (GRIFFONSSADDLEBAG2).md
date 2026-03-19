@@ -22,11 +22,10 @@ item_recharge: none
 *Wondrous item, major, uncommon (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Focus-Circlet.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this silver circlet, you gain a bonus to Constitution saving throws that you make to maintain your concentration on a spell you cast equal to the spell's level, up to a maximum of +3.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 82*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

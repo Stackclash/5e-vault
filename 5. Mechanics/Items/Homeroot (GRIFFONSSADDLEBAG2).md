@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Homeroot.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This piece of gnarled root has several bulbous openings along its twisted length. Enchanted by powerful druids, this root has a tiny door and a small, chimney-like protrusion from its larger end. While holding it, a tiny plume of illusory smoke emanates from the chimney.
 
@@ -33,7 +36,3 @@ A creature that casts the [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]]
 The entrance stump has 100 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a [[/5. Mechanics/Spells/Plant Growth.md\|plant growth]] spell cast on the stump can repair it, with each casting restoring 10 hit points to it, or all its hit points if cast over the course of 8 hours. If the stump is destroyed, the dwelling collapses and magically shunts anything inside it (other than the furniture) to the nearest unoccupied space next to where the root was buried. When this happens, the earth magically returns to the way it was before the root was buried.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 105*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

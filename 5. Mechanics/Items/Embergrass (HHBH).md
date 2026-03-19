@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 200 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A short, saffron coloured grass that resembles smouldering embers when viewed fr
 For 1 hour after you apply this herb, you have resistance to fire damage and you automatically succeed any skill check or saving throw made to resist the effects of hot weather.
 
 *Source: Hamund's Herbalism Handbook p. 12*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

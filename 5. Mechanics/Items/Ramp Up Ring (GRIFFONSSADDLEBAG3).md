@@ -23,6 +23,9 @@ item_recharge: none
 *Ring, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Ramp-Up-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The swirls that cover this golden ring seem to slowly writhe. The ring can hold up to 3 charges, and it gains 1 charge at the start of each of your turns in combat. If you score a critical hit while in combat, it immediately gains 3 charges, up to its maximum.
 
@@ -31,7 +34,3 @@ While the ring has 3 charges, you gain a +3 bonus to damage rolls from weapon at
 The ring loses all charges when combat ends or when you remove the ring. If you're wearing the ring when it loses these charges, you then gain 4 temporary hit points for each charge lost. These temporary hit points end early if you remove the ring.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

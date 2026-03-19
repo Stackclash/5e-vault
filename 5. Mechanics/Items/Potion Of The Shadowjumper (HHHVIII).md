@@ -21,11 +21,10 @@ item_recharge: none
 *Potion, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 When you drink this potion, you gain the ability to merge with the shadows for the next hour. During this time, you may use your action to teleport yourself and anything you are wearing and carrying up to 500 feet to an area in line of sight, so long as both your starting and ending locations are in dim light or darkness.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 94*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

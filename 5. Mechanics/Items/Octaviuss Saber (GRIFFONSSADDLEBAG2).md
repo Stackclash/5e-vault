@@ -34,11 +34,10 @@ item_recharge: none
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The swirling guard of this powerful blade is a mesh of floral and serpentine sculpture. You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you deal Sneak Attack damage with an attack using this weapon, you treat any 1 on a Sneak Attack damage die as an 8.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 131*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

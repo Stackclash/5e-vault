@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 10 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Easily identified by their striking red exterior, these thumb-sized beans are fi
 As an action, you may crack open this herb and inhale the gases within. If you do so, your jump distance is tripled for the next hour.
 
 *Source: Hamund's Herbalism Handbook p. 18*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

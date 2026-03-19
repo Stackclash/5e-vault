@@ -24,6 +24,9 @@ item_recharge: none
 
 - **Cost**: 33 gp
 - **Weight**: 48.5 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Includes:
 
@@ -40,7 +43,3 @@ Includes:
 - 3 [[/5. Mechanics/Items/Torch.md\|torches]]  
 
 *Source: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

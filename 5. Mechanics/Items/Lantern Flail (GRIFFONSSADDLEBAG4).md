@@ -29,13 +29,12 @@ item_recharge: none
 
 - **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 A fiery lantern hangs at the end of the chain of this flail. You gain a +1 bonus to attack and damage rolls made with this magic weapon. While holding it, you can use an action to magically light or extinguish the lantern's flame. While it's alight, any target hit with the weapon takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) fire damage from the attack. If the fire damage die rolls a 4, the target continues to burn; it takes another `dice:1d4|noform|noparens|avg` (`1d4`) fire damage at the start of your next turn unless it or another creature within reach uses an action to put out the fire. It continues to burn in this way if the fire damage die rolls another 4.
 
 While the lantern is alight, it sheds bright light in a 30-foot radius and dim light for an additional 30 feet.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

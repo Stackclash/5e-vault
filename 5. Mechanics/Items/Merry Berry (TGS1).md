@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Merry-Berry.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small fruit is highly sought after by cooks and sweet-lovers everywhere, both for its flavor as well as its unique sensory-enhancing properties. Eating a berry raw yields a taste and texture like that of a rich shortbread: the perfect way to end a day of adventure or travel.
 
@@ -27,7 +30,3 @@ Cooking the berry, whether it be in a cuisine or simply roasted over a campfire,
 Overcooking the fruit not only cooks out the berry's benefits, but also results in a soggy and overall bland dish.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 88*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

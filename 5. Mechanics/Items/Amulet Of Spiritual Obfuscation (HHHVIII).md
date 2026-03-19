@@ -18,6 +18,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVIII/AmuletofSpiritualObfuscation.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gold framed amulet has a large red stone in its center, inside of which, is a swirling vortex that resemble souls chasing each other for eternity. The spiritual chaos inside this amulet is capable of masking its wearer's spiritual presence, among other protections. While wearing this amulet, you gain the following benefits:
 
@@ -27,7 +30,3 @@ This gold framed amulet has a large red stone in its center, inside of which, is
 - Undead, celestials, and fiends have disadvantage on Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks to find you, as your chaotic spiritual energy partially masks you from their senses.  
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 80*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -18,11 +18,10 @@ item_recharge: none
 *Wondrous item, uncommon (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This boon is crafted from the skin of a xvart warlock, stretched over a frame made of twigs and vermin bones. While wearing this boon, you regain 4 temporary hit points whenever you reduce an enemy to 0 hit points.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 64*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

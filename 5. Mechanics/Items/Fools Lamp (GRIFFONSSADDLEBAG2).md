@@ -19,6 +19,9 @@ item_recharge: long-rest
 *Wondrous item, major, very rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Fools-Lamp.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This brass lamp is decorated with flowing patterns around a blue, glass chamber at its center. Swirling, magenta clouds drift within the lamp and billow eagerly whenever it's held. Created as a grim sculpture by a spiteful djinni, this lamp offers no benefit to those foolish enough to encounter it.
 
@@ -45,7 +48,3 @@ When a creature holding the lamp speaks such a phrase using an action, the GM us
 If a creature affected by the lamp is targeted by the [[/5. Mechanics/Spells/Greater Restoration.md\|greater restoration]] spell or similar magic, one of the lamp's effects on the creature ends.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 82*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

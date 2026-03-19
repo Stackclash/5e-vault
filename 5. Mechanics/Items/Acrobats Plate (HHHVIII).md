@@ -25,11 +25,10 @@ item_recharge: none
 - **Armor Class**: 18
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this armor, you have advantage on Dexterity saving throws and Dexterity ([[/5. Mechanics/Rules/Skills.md#Acrobatics\|Acrobatics]]) checks. In addition, due to its unique materials and design, this armor has no Strength requirement and does not impose disadvantage on Dexterity ([[/5. Mechanics/Rules/Skills.md#Stealth\|Stealth]]) checks.
 
 *Source: Hamund's Harvesting Handbook: Volume III p. 80*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

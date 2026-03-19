@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ Quite difficult to find due to its stony-grey complexion, the gargoyle's lichen 
 For 8 hours after using this herb, your skin takes on a hard, grey appearance that resembles stone.
 
 *Source: Hamund's Herbalism Handbook p. 15*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

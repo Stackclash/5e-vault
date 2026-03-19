@@ -28,6 +28,9 @@ item_recharge: short-rest
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This iron skillet is magically light and wieldy in your grasp, allowing you to swing it as a weapon. You gain a +1 bonus to attack and damage rolls made with this magic weapon. If you're proficient with [[/5. Mechanics/Items/Cooks Utensils.md\|cook's utensils]], you're proficient with the battlechef's heated skillet.
 
@@ -36,7 +39,3 @@ The skillet has 3 charges and regains all expended charges whenever you spend at
 When you make an attack with the weapon, you can speak one of its three command words to expend 1 or more of its charges: "hot" (1 charge), "hotter" (2 charges), or "hottest" (3 charges). If the attack hits, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) fire damage for each expended charge.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

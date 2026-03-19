@@ -30,6 +30,9 @@ item_recharge: none
 - **Damage**: 1d8 piercing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]], [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This twisted silver flamberge pulses faintly in your hand. It always feels warm to the touch, especially the blade.
 
@@ -44,7 +47,3 @@ While holding the rapier, you can use an action to speak its command word and st
 This rapier is cursed, and attuning to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the rapier, keeping it within reach at all times. In addition, if you die, you are immediately reduced to ashes, and you can't be revived by any means other than a true resurrection or wish spell.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

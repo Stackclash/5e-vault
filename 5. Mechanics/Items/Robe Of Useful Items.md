@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![[/5. Mechanics/Items/img/robe-of-useful-items.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
 
@@ -53,7 +56,3 @@ In addition, the robe has `dice:4d4|noform|noparens|avg` (`4d4`) other patches. 
 ^patch
 
 *Source: Dungeon Master's Guide p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

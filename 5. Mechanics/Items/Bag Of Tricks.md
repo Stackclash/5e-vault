@@ -21,6 +21,9 @@ item_recharge: none
 ![[/5. Mechanics/Items/img/bag-of-tricks.webp#right]]  
 
 - **Weight**: 0.5 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -29,7 +32,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/Bag Of Tricks Tan.md\|Bag of Tricks, Tan]]
 
 *Source: Dungeon Master's Guide p. 154*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

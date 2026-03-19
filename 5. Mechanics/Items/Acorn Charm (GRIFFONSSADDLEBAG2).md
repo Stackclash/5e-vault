@@ -19,11 +19,10 @@ item_recharge: none
 *Wondrous item, minor, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Acorn-Charm.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This small, polished acorn has been made into a magical bell that rings softly when moved. While wearing this charm, you have advantage on Charisma checks made to interact with plants, and you can communicate with plant creatures as if you shared a common language.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 32*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

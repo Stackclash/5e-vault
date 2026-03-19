@@ -34,6 +34,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Finesse\|Finesse]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Arkanotanas are blades from a far-flung age and can sometimes be found in the lairs of sphinxes that have traveled through time.
 
@@ -44,7 +47,3 @@ You gain a +2 bonus to attack and damage rolls made with this magic weapon, whic
 The weapon runs on a power source that's fueled by magic. The blade can persist for up to 1 hour before the power source is empty. Deduct the time it persists in increments of 1 minute from the power source's total time. You know how much remaining time the source has while holding the weapon. Any creature can use an action to expend a spell slot level of 1st level or higher into the power source, adding to its total remaining time, by touching the sword as the spell slot is expended. The power source regains a number of minutes of power equal to the spell slot level that was expended into it. When found, an arkanotana has `dice:3d20|noform|noparens|avg` (`3d20`) minutes of power remaining, and can't have more than 60 minutes of power at a time.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

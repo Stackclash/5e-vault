@@ -34,6 +34,9 @@ item_recharge: none
 - **Range**: 60/150
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This dark crystal javelin has a prismatic head that can refract light into beautiful displays of color. Immediately after you throw this javelin and it hits a target within 120 feet of you, the javelin disappears in a small burst of light before reappearing in your open hand.
 
@@ -54,7 +57,3 @@ As an action, you can throw the javelin at a point you can see within 120 feet o
 ^prismatic-javelin-beams
 
 *Source: The Griffon's Saddlebag, Book 1 p. 98*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

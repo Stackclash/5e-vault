@@ -33,13 +33,12 @@ item_recharge: none
 - **Range**: 150/600
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Ammunition\|Ammunition]], [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This large bow is wrought from the boughs of an old, resilient tree. Its wooden frame is exceptionally sturdy but difficult to draw. You must have a Strength score of 13 or higher to wield this bow. This bow's damage die is a `dice:d10|noform|noparens|avg` (`d10`), and when you make a ranged attack with this bow, you score a critical hit on a roll of 19 or 20.
 
 Once on each of your turns when you make a ranged attack with this weapon, you can use the bow to fire a [[/5. Mechanics/Items/Javelin.md\|javelin]] or [[/5. Mechanics/Items/Spear.md\|spear]], instead of an arrow, without affecting the bow's damage die. When you do, the bow's normal and long ranges are halved for the attack. If the attack hits, the target takes extra piercing damage equal to your Strength modifier.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 58*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

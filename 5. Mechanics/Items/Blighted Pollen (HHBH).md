@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 500 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -45,7 +48,3 @@ This herb has `dice:1d4|noform|noparens|avg` (`1d4`) charges. As an action, you 
 ^effect
 
 *Source: Hamund's Herbalism Handbook p. 7*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

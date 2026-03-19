@@ -27,6 +27,9 @@ item_recharge: none
 *Rod, major (requires attunement by a warlock)*  
 
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -35,7 +38,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/3 Rod Of The Pact Keeper.md\|+3 Rod of the Pact Keeper]]
 
 *Source: Dungeon Master's Guide p. 197*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

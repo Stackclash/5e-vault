@@ -33,11 +33,10 @@ item_recharge: none
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 If you hold this staff while casting a spell that would allow a creature to roll dice to recover hit points, any time that creature rolls the maximum value on one of those die rolls, they may roll an additional dice and add that to the amount of healing received. The amount of final dice rolled while under this effect may not exceed double the initial amount.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 141. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

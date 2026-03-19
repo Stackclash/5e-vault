@@ -20,6 +20,9 @@ item_recharge: long-rest
 *Wondrous item, major, very rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Hydra-Charm.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This golden talisman is made of five twisting hydra heads and hung from a simple gold chain. While wearing this talisman, you gain the following benefits:
 
@@ -32,7 +35,3 @@ This golden talisman is made of five twisting hydra heads and hung from a simple
 Once a benefit of the talisman has been used, that benefit can't be used again until you finish a long rest.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 108*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

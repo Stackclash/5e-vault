@@ -37,6 +37,9 @@ item_recharge: none
   - Two-handed: 1d10 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 3.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ancient sword was forged in a kingdom ruled by a tyrannical dragon that has long since sunken to the bottom of the ocean. While attuned to *Ao Hai's fang*, you are proficient with it. You gain a +3 bonus to attack and damage rolls made with this magic weapon, which is a monk weapon for you.
 
@@ -52,7 +55,3 @@ As a bonus action, you can spend 4 ki points to channel the fury of a powerful d
 This rage lasts for 1 minute and ends early if you are knocked [[/5. Mechanics/Rules/Conditions.md#Unconscious\|unconscious]]. You can also end your rage on your turn as a bonus action. This property can't be used again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 36*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

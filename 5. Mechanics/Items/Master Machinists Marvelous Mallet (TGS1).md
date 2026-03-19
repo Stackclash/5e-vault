@@ -34,11 +34,10 @@ item_recharge: dawn
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Light\|Light]], [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]]
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This immaculate silver hammer is polished to a mirror finish. You gain a +1 bonus to attack and damage rolls made with this magic weapon. The weapon has 7 charges and regains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) expended charges daily at dawn. As an action, you can touch an object with the hammer and expend 1 of its charges to cast the [[/5. Mechanics/Spells/Mending.md\|mending]] cantrip from the hammer on the object. Casting *mending* in this way affects an area up to 5 feet on a side, instead of 1 foot. Alternatively, you can expend 3 of its charges as a bonus action while touching a creature's armor with the hammer to temporarily enchant it. The enchantment lasts for 1 minute and grants the armor's wearer a +1 bonus to its AC in addition to the armor's normal bonus to AC, if any. A creature can only be affected by one of these enchantments at any time.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 87*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

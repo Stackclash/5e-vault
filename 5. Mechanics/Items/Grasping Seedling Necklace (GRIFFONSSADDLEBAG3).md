@@ -19,6 +19,9 @@ item_recharge: dawn
 *Wondrous item, minor, common*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Grasping-Seedling-Necklace.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This necklace features a tiny teardrop glass bauble connected to a metal stopper. It hangs from a plain string or bit of leather cording. Inside the bauble is a single seed, which grows a little bit each day and into a small seedling. The seedling gains 1 charge daily at dawn, up to a maximum of 7 charges. The seedling has 1 leaf for each charge it has. When found, it has `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) charges.
 
@@ -27,7 +30,3 @@ If the seedling has 7 charges, you can use an action to detach the necklace's ba
 The vines wither away and are destroyed after 1 minute. When they do, there is a 50 percent chance that they leave behind a new seed. You can place the seed in the necklace's empty glass bauble to begin growing it into a seedling once again.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

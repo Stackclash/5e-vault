@@ -22,6 +22,9 @@ item_recharge: none
 *Wondrous item, major, rare (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Candlecoven-Censer.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This incense burner is roughly 6 inches tall and resembles a tiny witch. A stick of incense can be placed inside the burner and lit using an action. The smoke drifts upward and disperses through the hat-like cap at its top. Creatures within 30 feet of the censer can smell its burning incense. Incense in the censer can burn for up to 10 minutes.
 
@@ -32,7 +35,3 @@ Each time a creature fails the saving throw against the curse, deduct 1 minute f
 If you are attuned to the candlecoven hat, you don't need to be attuned to this item in order to use it. Any creature cursed by the censer is considered to be cursed by you for the purposes of using the hat's properties.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

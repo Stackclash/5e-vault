@@ -23,11 +23,10 @@ item_recharge: none
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this shield, you have advantage on initiative rolls and Wisdom ([[/5. Mechanics/Rules/Skills.md#Perception\|Perception]]) checks. The shield is emblazoned with a symbol of an eye.
 
 *Source: Dungeon Master's Guide p. 199*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

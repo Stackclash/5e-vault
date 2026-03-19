@@ -24,6 +24,9 @@ item_recharge: none
 
 - **Cost**: 39 gp
 - **Weight**: 36.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Includes:
 
@@ -40,7 +43,3 @@ Includes:
 - [[/5. Mechanics/Items/Soap.md\|soap]]  
 
 *Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

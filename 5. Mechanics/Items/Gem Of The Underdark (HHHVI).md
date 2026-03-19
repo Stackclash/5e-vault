@@ -19,6 +19,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/HHH/HHHVI/GemoftheUnderdark.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This gem has 7 charges. While holding this item, you may spend your action in order to expend 1 or more charges to do any of the following:
 
@@ -30,7 +33,3 @@ This gem has 7 charges. While holding this item, you may spend your action in or
 This gem regains 1 charge for every 24 hours it spends in the Underdark, up to a maximum of 7 charges.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 129*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

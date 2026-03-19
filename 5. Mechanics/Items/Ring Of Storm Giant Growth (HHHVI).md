@@ -18,6 +18,9 @@ item_recharge: none
 *Wondrous item, very rare (requires attunement)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this ring, you may speak the command word to grow to the size of a [[/5. Mechanics/Bestiary/Giant/Storm Giant.md\|storm giant]] for 10 minutes. If there isn't enough space, this ability fails. Your weapons and carried equipment grow with you while you are under this effect. While under this effect, you are considered a Huge creature and gain the following benefits:
 
@@ -29,7 +32,3 @@ While wearing this ring, you may speak the command word to grow to the size of a
 Once used, this ring cannot be used again for the next 7 days.
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 139*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

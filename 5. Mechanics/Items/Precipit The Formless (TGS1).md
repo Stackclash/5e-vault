@@ -33,6 +33,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic coral staff was first found within the Great Reef of the Elemental Plane of Water. Its origins beyond that are entirely unknown, with some suggesting it was made by the plane itself rather than forged or crafted by a mere creature's hands. Attuning to the staff bestows some of its planar powers to you, allowing you to breathe underwater and ignore any of the drawbacks caused by a deep, underwater environment. In addition, while holding the staff, you have resistance to cold damage.
 
@@ -108,7 +111,3 @@ Precipit, the Formless has the following random properties:
 The only way to destroy the staff is to keep it untouched by water for one hundred years while on the Elemental Plane of Water, at which point it crumbles to dust. Any amount, such as a puff of misty air, a drip of water, or the touch of ice during that time reinvigorates the staff's bounty of water.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 149*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

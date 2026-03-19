@@ -26,6 +26,9 @@ item_recharge: dawn
 *Wand, major, artifact (requires attunement by a spellcaster)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Arista-Wand-of-the-Spire.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This elegant silver and gold wand was crafted by the archmages that first arrived in Orostead centuries ago, well before the magical fallout of the Upheaval. It has been carefully used by only the extremely powerful or clever for generations. The wand has 7 charges for some of the following properties. It regains all expended charges daily at dawn. If you expend the wand's last charge and are not a wizard, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the wand vanishes and returns to a secret vault within The Spire of Aristaeus, the legendary wizarding tower in Orostead.
 
@@ -50,7 +53,3 @@ Some properties of this artifact are locked behind layers of dormant magic. As y
 The only way to destroy *Arista, Wand of the Spire* is to leave it in an [[/5. Mechanics/Spells/Antimagic Field.md\|antimagic field]] on the Ethereal Plane for 100 years, at which point it finally succumbs and becomes nonmagical, allowing it to be easily snapped in two.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 196*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

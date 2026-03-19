@@ -17,11 +17,10 @@ item_recharge: none
 *Wondrous item, uncommon*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While your feet are wearing these boots, they become extremely dexterous and flexible similar to that of a gorilla's. You are able to hold things comfortably in your feet, and you have a climb speed equal to your walking speed.
 
 *Source: Hamund's Harvesting Handbook: Volume II p. 64*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

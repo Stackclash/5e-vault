@@ -30,6 +30,9 @@ item_recharge: dawn
 - **Damage**: 1d12 slashing
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 7.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This adamantine axe is covered in narrow cracks, which periodically erupt with harmless, magical flame. Along its haft are four strings: plucking a string creates a deep, bone-rattling resonance from the axe. If you're proficient with lutes, you are proficient with the deathmetal axe, and you can play it as if it were a [[/5. Mechanics/Items/Lute.md\|lute]].
 
@@ -48,7 +51,3 @@ While holding the axe, you can use an action to expend 2 of its charges to cast 
 When you take the [[/5. Mechanics/Rules/Actions.md#Attack\|Attack]] action with this weapon, you can expend 1 of its charges to replace one of your attacks with a special performance. When you do, make a DC 16 Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check. On a success, you create an instantaneous wave of sound, which affects creatures within 10 feet of you; friendly creatures within the wave immediately gain `dice:2d6+2|noform|noparens|avg` (`2d6 + 2`) temporary hit points, and hostile creatures must succeed on a DC 16 Constitution saving throw or take `dice:2d6+2|noform|noparens|avg` (`2d6 + 2`) thunder damage. When you roll a 20 on the Charisma ([[/5. Mechanics/Rules/Skills.md#Performance\|Performance]]) check, the radius of your wave increases to 30 feet, and the number of temporary hit points gained and thunder damage dealt is doubled. A creature is immune to these effects if it can't hear the performance. The wave then fades.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

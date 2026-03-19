@@ -33,6 +33,9 @@ item_recharge: dawn
 *Major, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Monster-Tamers-Sword.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic weapon exerts dominance over certain creatures and was crafted by a culture known for its hunting and battling of monsters.
 
@@ -43,7 +46,3 @@ As an action while holding the sword, you can speak its command phrase to releas
 While you're holding the sword and the creature is stored within it or within 30 feet of you, you can use a bonus action to speak the weapon's command word and expend 1 or more of its charges to restore 10 hit points to that creature for each charge spent. A captured creature can only regain hit points in this way.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 124*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

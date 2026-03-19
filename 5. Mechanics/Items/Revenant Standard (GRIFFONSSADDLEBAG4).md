@@ -35,6 +35,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff looks like a war standard that's topped with a metal brazier. While holding it, an ethereal flag tumbles down from the staff's cross, as if it's hung there. You choose the flag's design, which is obviously illusory. You can mentally change the design using an action while holding the staff. This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it.
 
@@ -47,7 +50,3 @@ While holding the staff, you can expend 1 or more of its charges to cast one of 
 Alternatively, when you hit a creature with the staff, you can expend 1 of its charges to deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) necrotic damage to that creature.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -21,6 +21,9 @@ item_recharge: none
 *Ring, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Trumpeting-Ring.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This ring looks like a miniature trumpet that's wrapped around your finger. While wearing it, you can use an action to hold your hand in one of three ways, as if pantomiming holding a larger trumpet, to magically create a unique effect.
 
@@ -37,7 +40,3 @@ While holding your hand to your ear, as if holding an ear trumpet, you have adva
 While holding your closed hand to your mouth, as if holding a trumpet, you can recreate the sounds of a normal trumpet or similar instrument. If you are proficient with wind instruments, you are proficient with this trumpet, and if you're a bard, you can use it as a spellcasting focus for your bard spells.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

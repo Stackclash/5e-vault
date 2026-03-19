@@ -34,6 +34,9 @@ item_recharge: none
 
 - **Damage**: 1d8 piercing
 - **Weight**: 2.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver and golden weapon is wrapped in fragments of holy vestments and glimmers spectacularly in sun and moonlight. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit with an attack using this war pick, the target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage. If the target is a shapechanger or undead, this radiant damage is maximized.
 
@@ -42,7 +45,3 @@ In addition, while holding the war pick, you can use an action to expend a use o
 You can use an action to speak the war pick's command word to cause it to shed bright light in a 20-foot radius and dim light for an additional 20 feet. Speaking the command word again puts out the light.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 142*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

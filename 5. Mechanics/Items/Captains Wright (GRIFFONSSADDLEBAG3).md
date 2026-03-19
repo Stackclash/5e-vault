@@ -35,6 +35,9 @@ item_recharge: dawn
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff is slung together and carved from the mast of a sunken ship. While on a vehicle, you can use the staff to perform a ritual over the course of 1 minute. At the end of the ritual, you and the staff are magically linked to that vehicle. While holding the staff, you gain the following benefits:
 
@@ -51,7 +54,3 @@ Your link to a vehicle ends when the vehicle is destroyed. It ends early if you 
 The staff has 10 charges. While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it: [[/5. Mechanics/Spells/Animal Messenger.md\|animal messenger]] (1 charge), floating disk (1 charge), [[/5. Mechanics/Spells/Levitate.md\|levitate]] (2 charges; save DC 15), [[/5. Mechanics/Spells/Mending.md\|mending]] (no charges), [[/5. Mechanics/Spells/Rope Trick.md\|rope trick]] (2 charges), [[/5. Mechanics/Spells/Teleport.md\|teleport]] (7 charges), or [[/5. Mechanics/Spells/Water Wa(LK).md\|water walk]] (3 charges). This version of the [[/5. Mechanics/Spells/Teleport.md\|teleport]] spell targets only yourself, and the destination must be a location on the linked vehicle. The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff loses this property.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

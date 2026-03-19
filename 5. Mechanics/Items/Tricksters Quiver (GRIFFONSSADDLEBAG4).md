@@ -18,6 +18,9 @@ item_recharge: dawn
 *Wondrous item, rare (requires attunement)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Tricksters-Quiver.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This quiver is a favorite among thieves and tricksters. When you're hidden from a creature and miss it with a ranged attack using an arrow pulled from this quiver, making the attack doesn't reveal your position.
 
@@ -44,7 +47,3 @@ You can use this property of the quiver once per turn. A transformed arrow is de
 Other types of ammunition containers of this kind exist, such as a trickster's bolt case meant for crossbow bolts, though quivers are most common.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 1*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

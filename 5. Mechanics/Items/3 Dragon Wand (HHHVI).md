@@ -24,6 +24,9 @@ item_recharge: none
 *Wand, legendary (requires attunement by a spellcaster)*  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Crafted%20by\|Crafted by]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While holding this wand, you gain a (+3) bonus to spell attack rolls determined by the wand rarity. In addition, you have advantage on any spell attack roll you make that deals the same damage type as the dragon this wand was crafted from.
 
@@ -33,7 +36,3 @@ If that spell attack hits, you also deal (3) extra damage dice of that damage ty
 > ![[/5. Mechanics/Tables/Dragon Types (HHHVI).md\|Dragon Types]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 125*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

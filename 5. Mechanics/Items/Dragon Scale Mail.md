@@ -30,6 +30,9 @@ item_recharge: none
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 45.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 **Items in this group:**
 
@@ -45,7 +48,3 @@ item_recharge: none
 - [[/5. Mechanics/Items/White Dragon Scale Mail.md\|White Dragon Scale Mail]]
 
 *Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

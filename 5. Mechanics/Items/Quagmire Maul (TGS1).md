@@ -32,6 +32,9 @@ item_recharge: dawn
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Heavy\|Heavy]], [[/5. Mechanics/Rules/Item Properties.md#Two-Handed\|Two-Handed]]
 - **Weight**: 10.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This old, withered hammer seemingly belongs in a swamp. Regardless of the conditions the hammer is kept in, it is always damp and smells of bog water. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
@@ -40,7 +43,3 @@ This hammer has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 
 If you expend the last charge from the hammer, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the hammer turns into viscous muck in your hands and is destroyed.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 101*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 50 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A particularly fierce looking cactus that grows in a hook shape resembling that 
 For 4 hours after preparing this herb, you gain a +1 bonus to your AC as your skin becomes exceptionally hard and scale-like.
 
 *Source: Hamund's Herbalism Handbook p. 35*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

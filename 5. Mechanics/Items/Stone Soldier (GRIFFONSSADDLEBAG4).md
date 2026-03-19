@@ -17,6 +17,9 @@ item_recharge: none
 *Wondrous item, uncommon*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag4/Items/Stone-Soldier.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This fist-sized toy is carved from gray stone into the shape of a rugged foot soldier. You can use an action to toss the toy into an unoccupied space that you can see within 10 feet of you and speak its command word. The toy then springs to life and animates, magically growing to the size of a Medium humanoid when it does. The animated toy uses the statistics for a guard, with the following changes:
 
@@ -31,7 +34,3 @@ The construct is friendly to you and your companions. It understands your langua
 If the construct is reduced to 0 hit points, it dies and reverts to its toy form. The toy then shatters and is destroyed. If the construct reverts to its toy form before losing all its hit points, it regains all of them, but can't be animated again for 24 hours.
 
 *Source: The Griffon's Saddlebag, Book 4 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

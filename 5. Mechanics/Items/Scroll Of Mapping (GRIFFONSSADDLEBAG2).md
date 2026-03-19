@@ -23,6 +23,9 @@ item_recharge: none
 *Scroll, minor*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Scroll-of-Mapping.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Multiple variations of this item exist, as listed below:
 
@@ -30,7 +33,3 @@ Multiple variations of this item exist, as listed below:
 - [[/5. Mechanics/Items/Scroll Of Mapping Very Rare (GRIFFONSSADDLEBAG2).md\|Scroll of Mapping (Very Rare)]]  
 
 *Source: The Griffon's Saddlebag, Book 2 p. 156*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

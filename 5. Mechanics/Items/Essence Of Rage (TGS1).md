@@ -23,6 +23,9 @@ item_recharge: none
 *Potion, minor, rare*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/_img/TGS1/Essence-of-Rage.webp#right)  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This swirling potion tastes like iron and bitter raisins. When you drink this potion, you enter a [rage](/compendium/classes/barbarian.md#Rage%20(Level%201)) that lasts for 1 minute or until you're knocked unconscious. This rage grants you the same effects as the barbarian's class feature at 1st level with the following additional properties:
 
@@ -32,7 +35,3 @@ This swirling potion tastes like iron and bitter raisins. When you drink this po
 In addition, when you use your action to drink this potion, you can make one weapon attack as a bonus action.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 59*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

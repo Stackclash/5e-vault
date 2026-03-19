@@ -30,11 +30,10 @@ item_recharge: none
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 45.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic armor was hand-made by a clan of proud fishers. The armor is made of countless hardened scales lining a reinforced leather jacket, making it a sturdy and weather proof option for sailors. While wearing this armor, you gain a swimming speed of 30 feet, and the normal and long ranges of nets are doubled for you. In addition, when you fish while wearing this armor, you catch twice as many fish as you normally would.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 36*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

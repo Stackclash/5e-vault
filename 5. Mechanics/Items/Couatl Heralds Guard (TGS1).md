@@ -27,6 +27,9 @@ item_recharge: long-rest
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This magic shield is made from yew and covered in durable couatl feathers. When a creature you can see within 10 feet of you takes damage, you can use your reaction to magically take that damage instead of the creature taking it. When you do so, the damage type changes to force. Once this property has been used, it can't be used again until you finish a short or long rest.
 
@@ -35,7 +38,3 @@ This magic shield is made from yew and covered in durable couatl feathers. When 
 While you're attuned to 3 items with this property, you gain a flying speed of 30 feet. If you already have a flying speed, your flying speed increases by 30 feet instead.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 48*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

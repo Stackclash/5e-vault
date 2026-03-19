@@ -30,6 +30,9 @@ item_recharge: none
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 45.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Enchanted by powerful drow, this dark and shadowy dragon scale armor protects you from both damage and light. While wearing this armor, you have a +2 bonus to AC and resistance to necrotic damage, and if you have the Sunlight Sensitivity trait, you are unaffected by it.
 
@@ -42,7 +45,3 @@ While in an area of dim light or darkness, you can use an action to turn [[/5. M
 Once this property of the armor has been used, it shouldn't be used again until the next dusk. Each time it is used again before then, you must expend either 6 Hit Dice, rolling each one and taking force damage equal to the total rolled, or suffer one level of [[/5. Mechanics/Rules/Conditions.md#Exhaustion\|exhaustion]] (your choice). Force damage taken in this way ignores resistance and immunity.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 158*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

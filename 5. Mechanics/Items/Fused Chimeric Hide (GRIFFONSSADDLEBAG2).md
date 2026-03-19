@@ -31,6 +31,9 @@ item_recharge: none
 
 - **Armor Class**: 12 + Dex modifier (max of +2)
 - **Weight**: 12.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This armor is made from the three unique hides of a fearsome chimera, creating an armor that's both imposing and practical. You have a +1 bonus to AC while wearing this armor.
 
@@ -51,7 +54,3 @@ You grow a shimmering mane that wreathes your head and neck, and your teeth beco
 Each aspect lasts for 1 minute. At the end of the duration, you revert to your normal form or beast shape. Once you take on the aspect of a creature in this way, you can't take on that aspect again until the next dawn.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 86*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

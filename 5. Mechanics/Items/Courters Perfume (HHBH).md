@@ -23,6 +23,9 @@ item_recharge: none
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Herb\|Herb]]
 - **Cost**: 1 gp
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 ## Description:
 
@@ -33,7 +36,3 @@ A cream coloured rose able to attract insects of all kinds by magically adapting
 For 4 hours after using this herb, any creature that smells you, perceives you to smell like their favourite scent.
 
 *Source: Hamund's Herbalism Handbook p. 10*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

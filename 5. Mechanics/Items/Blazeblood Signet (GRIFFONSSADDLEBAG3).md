@@ -25,6 +25,9 @@ item_recharge: short-rest
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag3/Blazeblood-Signet.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 The gem at the center of this dark silver ring is always warm to the touch. While wearing the ring, your blood feels unnaturally hot, and it feels as though the ring itself pulses to match your heartbeat. You gain the following benefits while wearing this ring:
 
@@ -41,7 +44,3 @@ While wearing this ring, you can choose to spend 1 or more Hit Dice whenever you
 This ring is cursed, and attuning to it extends the curse to you. For as long as you remain cursed, you regain half as many hit points whenever a spell or magical effect restores them.
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

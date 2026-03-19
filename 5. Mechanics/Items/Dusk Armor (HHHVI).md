@@ -30,6 +30,9 @@ item_recharge: none
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this armor, you have a bonus to AC determined by the armor's rarity. In addition, while wearing this armor in dim light or darkness, you may take the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action as a bonus action. If you take the [[/5. Mechanics/Rules/Actions.md#Hide\|Hide]] action in this way, you do not suffer the usual penalty that normally applies to Stealth (Dexterity) checks made in plate armor.
 
@@ -40,7 +43,3 @@ While wearing this armor, you have a bonus to AC determined by the armor's rarit
 - [[/5. Mechanics/Items/3 Dusk Armor (HHHVI).md\|+3 Dusk Armor]]
 
 *Source: Hamund's Harvesting Handbook: Volume I p. 126*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

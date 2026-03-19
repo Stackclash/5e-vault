@@ -19,6 +19,9 @@ item_recharge: none
 *Wondrous item, major, legendary*  
 ![[/5. Mechanics/Items/img/deck-of-many-things.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
 
@@ -151,7 +154,3 @@ You lose 10,000 XP, discard this card, and draw from the deck again, counting bo
 You gain 10,000 XP, or you can draw two additional cards beyond your declared draws.
 
 *Source: Dungeon Master's Guide p. 162. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

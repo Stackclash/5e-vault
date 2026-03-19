@@ -37,6 +37,9 @@ item_recharge: none
   - Two-handed: 1d8 bludgeoning
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This staff is made from the reclaimed horn of a huge undead creature. While you're attuned to the staff, you have advantage on saving throws to retain your sanity against the influence of environment effects. The staff can also be used as a magic quarterstaff.
 
@@ -51,7 +54,3 @@ When you hit with a melee attack using the staff, you can expend 1 charge to dea
 While holding the staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: [[/5. Mechanics/Spells/Calm Emotions.md\|calm emotions]] (1 charge), [[/5. Mechanics/Spells/Darkness.md\|darkness]] (2 charges), [[/5. Mechanics/Spells/Dispel Evil And Good.md\|dispel evil and good]] (5 charges), [[/5. Mechanics/Spells/Inflict Wounds.md\|inflict wounds]] (3rd-level version, 3 charges), or [[/5. Mechanics/Spells/Circle Of Death.md\|circle of death]] (6 charges).
 
 *Source: The Griffon's Saddlebag, Book 1 p. 113*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

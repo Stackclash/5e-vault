@@ -37,6 +37,9 @@ item_recharge: none
 - **Range**: 20/60
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Thrown\|Thrown]], [[/5. Mechanics/Rules/Item Properties.md#Versatile\|Versatile]]
 - **Weight**: 4.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This weapon has a +3 bonus to attack and damage rolls made with this magical weapon.
 
@@ -49,7 +52,3 @@ In addition, this trident acts as a conduit for the sky's ferocious power. Immed
 You can use your action to try to impale and pull a creature toward you. If your target is a creature that is no more than one size larger than you, you can make a ranged weapon attack against it using the trident. If you hit, you can attempt to pull the impaled creature toward you by making a Strength ([[/5. Mechanics/Rules/Skills.md#Athletics\|Athletics]]) check contested by the target's Strength (Athletics) check. If you succeed, you can pull the creature up to 20 feet toward you.
 
 *Source: The Griffon's Saddlebag, Book 1 p. 128*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

@@ -26,6 +26,9 @@ item_recharge: none
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This silver and brass breastplate is adorned with subtle clock designs. While wearing this armor, you are immune to the [[/5. Mechanics/Spells/Slow.md\|slow]] spell and don't suffer the negative effects of haste when it ends on you.
 
@@ -41,7 +44,3 @@ When you roll initiative while wearing this armor, use the number rolled on the 
 ^effect
 
 *Source: The Griffon's Saddlebag, Book 3 p. 0*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

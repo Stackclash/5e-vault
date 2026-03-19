@@ -23,6 +23,9 @@ item_recharge: none
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/GriffonsSaddlebag2/Items/Lightseers-Gaze.webp#right)  
 
 - **Properties**: [[/5. Mechanics/Rules/Item Properties.md#Cursed%20Items\|Cursed]]
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 This flourished mask obscures your eyes and magically stays in place while worn. It once belonged to a wise spiritual leader whose name has been lost to time, but was said to have eschewed personal belongings. While wearing the mask and attuned to it, you gain the following benefits:
 
@@ -37,7 +40,3 @@ This flourished mask obscures your eyes and magically stays in place while worn.
 This item is cursed, and attuning to it extends that curse to you. You can't remove the mask while cursed in this way. You remain cursed until it's ended by a [[/5. Mechanics/Spells/Wish.md\|wish]] spell or similar magic. When you become cursed, your name remains known to only you but becomes lost to the rest of the universe, at the GM's discretion. You must choose a new name. This new name replaces every instance of your lost name throughout history, and becomes the only known name for you among all creatures who once knew your lost name. While cursed, you take `dice:5d10|noform|noparens|avg` (`5d10`) psychic damage whenever you attempt to speak, write, or otherwise share or communicate your lost name. Regardless of how you attempt to share the lost name, it always comes across as your new one.
 
 *Source: The Griffon's Saddlebag, Book 2 p. 116*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```

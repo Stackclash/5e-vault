@@ -24,6 +24,9 @@ item_recharge: dawn
 *Ring, major, very rare (requires attunement outdoors at night)*  
 ![[/5. Mechanics/Items/img/ring-of-shooting-stars.webp#right]]  
 
+```dataviewjs
+await dv.view("views/itemPrice", {current: dv.current()})
+```
 
 While wearing this ring in dim light or darkness, you can cast [[/5. Mechanics/Spells/Dancing Lights.md\|dancing lights]] and [[/5. Mechanics/Spells/Light.md\|light]] from the ring at will. Casting either spell from the ring requires an action.
 
@@ -46,7 +49,3 @@ As a bonus action, you can move each sphere up to 30 feet, but no farther than 1
 You can expend 1 to 3 charges as an action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of you. Each creature within a 15-foot cube originating from that point is showered in sparks and must make a DC 15 Dexterity saving throw, taking `dice:5d4|noform|noparens|avg` (`5d4`) fire damage on a failed save, or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
-
-```dataviewjs
-await dv.view("views/itemPrice", {current: dv.current()})
-```
